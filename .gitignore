@@ -1,0 +1,8 @@
+# ignore python cache
+*.pyc
+
+# ignore data file
+*.mdb
+
+# ignore output
+*.html
