@@ -1,0 +1,56 @@
+nohup: ignoring input
+Resuming: 2500 records already scraped
+=== Phase 1: Collecting event URLs from list pages ===
+Traceback (most recent call last):
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<HTTPSConnection(host='bea.aero', port=443) at 0x77fb62f543a0>, 'Connection to bea.aero timed out. (connect timeout=30)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/adapters.py", line 645, in send
+    resp = conn.urlopen(
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/util/retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='bea.aero', port=443): Max retries exceeded with url: /en/investigation-reports/notified-events/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='bea.aero', port=443) at 0x77fb62f543a0>, 'Connection to bea.aero timed out. (connect timeout=30)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/scrape_bea.py", line 243, in <module>
+    scrape_all(delay=args.delay)
+  File "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/scrape_bea.py", line 175, in scrape_all
+    resp = session.get(BASE_URL, timeout=30)
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/sessions.py", line 605, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/adapters.py", line 666, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='bea.aero', port=443): Max retries exceeded with url: /en/investigation-reports/notified-events/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='bea.aero', port=443) at 0x77fb62f543a0>, 'Connection to bea.aero timed out. (connect timeout=30)'))

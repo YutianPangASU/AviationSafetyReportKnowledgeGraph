@@ -3,7 +3,32 @@
     "allow": [
       "Bash(pip show:*)",
       "Bash(pip index:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "WebFetch(domain:bea.aero)",
+      "Bash(curl -sk 'https://bea.aero/en/investigation-reports/notified-events/')",
+      "Bash(sort -t= -k2 -n)",
+      "Bash(python3 -c \":*)",
+      "Bash(conda run:*)",
+      "Read(//dev/**)",
+      "Bash(kill 1056301 1689912)",
+      "Read(//home/yp6443/research/AviationSafetyReportKnowledgeGraph/**)",
+      "Bash(xargs kill:*)",
+      "Bash(pkill -f scrape_bea)",
+      "Bash(curl -sk 'https://bea.aero/en/investigation-reports/notified-events/detail/serious-incident-to-the-dassault-falcon-20-registered-f-gpad-on-24-03-2026-near-kecskemet/')",
+      "Bash(/home/yp6443/miniconda3/envs/ntsb/bin/python -u /home/yp6443/research/AviationSafetyReportKnowledgeGraph/scrape_bea.py)",
+      "Bash(ps -p 524683 -o pid,etime,stat)",
+      "Bash(ps -p 524683 -o etime=)",
+      "Bash(ps -p 524683 -o pid,etime,stat=)",
+      "Bash(curl -sk 'https://www.asias.faa.gov/apex/f?p=100:189:::NO:::')",
+      "Bash(ls *.zip)",
+      "Bash(ps -p 524683 -o pid,etime=)",
+      "Bash(curl -sk --connect-timeout 5 'https://bea.aero/en/investigation-reports/notified-events/' -o /dev/null -w \"HTTP %{http_code}\")",
+      "Bash(kill 524683)",
+      "Bash(ps -p 1557479 -o pid,etime,stat=)",
+      "Bash(curl -sk --connect-timeout 10 'https://bea.aero/en/investigation-reports/notified-events/' -o /dev/null -w \"HTTP %{http_code}, time: %{time_total}s\\\\n\")"
+    ],
+    "additionalDirectories": [
+      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/FAA_AIDS"
     ]
   }
 }

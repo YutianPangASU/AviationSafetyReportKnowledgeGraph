@@ -6,3 +6,9 @@
 
 # ignore output
 *.html
+
+# *.csv
+
+/data/NTSB_ASRS
+/data/TSB_CANADA
+/data/FAA_AIDS
