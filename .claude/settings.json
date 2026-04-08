@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show:*)",
+      "Bash(pip index:*)",
+      "Bash(pip install:*)"
+    ]
+  }
+}

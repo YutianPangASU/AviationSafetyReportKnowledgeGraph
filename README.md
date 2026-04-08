@@ -3,9 +3,9 @@
 ## Environment
 Assume you have conda installed,
 ```
-conda create -n ntsb python=3.9
+conda create -n ntsb python=3.10
 conda activate ntsb
-conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
+conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia pandas
 conda install -c conda-forge transformers
 pip install wikipedia newspaper3k GoogleNews pyvis
 ```
@@ -28,4 +28,3 @@ pip install pandas_access
 
 
 ## Build the NTSB Safety Knowledge Graph
-e
