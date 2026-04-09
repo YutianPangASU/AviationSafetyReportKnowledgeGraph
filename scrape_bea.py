@@ -3,16 +3,14 @@ Scrape all notified events from the BEA (Bureau d'Enquetes et d'Analyses)
 https://bea.aero/en/investigation-reports/notified-events/
 
 Two-phase scrape:
-  Phase 1: Crawl all list pages to get event URLs (~653 pages, ~5 min)
-  Phase 2: Fetch each detail page for full info (~6500 pages)
-
-Supports resuming: reads existing CSV and skips already-fetched URLs.
+  Phase 1: Crawl all list pages to get event URLs (cached to urls.txt)
+  Phase 2: Fetch each detail page for full info (resumes from existing CSV)
 
 Output: data/BEA/bea_notified_events.csv
 
 Usage:
-  python scrape_bea.py            # full scrape (or resume if CSV exists)
-  python scrape_bea.py --delay 2  # custom delay between requests (default 1.0s)
+  python scrape_bea.py            # full scrape or resume
+  python scrape_bea.py --delay 2  # custom delay (default 1.5s)
 """
 
 import requests
@@ -20,7 +18,6 @@ import re
 import csv
 import time
 import os
-import sys
 import argparse
 from html import unescape
 
@@ -28,6 +25,7 @@ BASE_URL = "https://bea.aero/en/investigation-reports/notified-events/"
 ITEMS_PER_PAGE = 10
 OUTPUT_DIR = "data/BEA"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "bea_notified_events.csv")
+URLS_FILE = os.path.join(OUTPUT_DIR, "urls.txt")
 
 requests.packages.urllib3.disable_warnings()
 
@@ -56,7 +54,6 @@ def get_total_events(html):
 
 
 def parse_list_page(html):
-    """Extract detail URLs from a list page."""
     urls = []
     parts = html.split('<article class="search-entry">')
     for part in parts[1:]:
@@ -71,26 +68,21 @@ def parse_list_page(html):
 
 
 def parse_detail_page(html):
-    """Extract all fields from a detail page."""
     record = {f: "" for f in FIELDS}
 
-    # Title
     m = re.search(r'inv__intro">\s*.*?<h1>(.*?)</h1>', html, re.DOTALL)
     if m:
         record['title'] = clean_text(m.group(1))
 
-    # Short description (used as fallback)
     m = re.search(r'inv__bea-disclaimer-small">(.*?)</span>', html, re.DOTALL)
     short_desc = clean_text(m.group(1)) if m else ""
 
-    # Full summary narrative from the detail section
     m = re.search(r'<section class="inv__section" id="resume">\s*(.*?)\s*</section>', html, re.DOTALL)
     if m:
         record['summary'] = clean_text(m.group(1))
     else:
         record['summary'] = short_desc
 
-    # Extract label-value pairs from General information & Flight Information
     start = html.find('General information')
     if start < 0:
         start = 0
@@ -137,7 +129,6 @@ def parse_detail_page(html):
 
 
 def load_existing_records():
-    """Load already-scraped records from CSV, return list of records and set of fetched URLs."""
     records = []
     fetched_urls = set()
     if os.path.exists(OUTPUT_FILE):
@@ -150,27 +141,21 @@ def load_existing_records():
     return records, fetched_urls
 
 
-def _save_csv(records):
+def save_csv(records):
     with open(OUTPUT_FILE, 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=FIELDS, extrasaction='ignore')
         writer.writeheader()
         writer.writerows(records)
 
 
-def scrape_all(delay=1.0):
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    session = requests.Session()
-    session.verify = False
-    session.headers.update({
-        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    })
+def collect_urls(session, delay):
+    """Phase 1: collect all detail URLs. Caches to urls.txt."""
+    if os.path.exists(URLS_FILE):
+        with open(URLS_FILE, 'r') as f:
+            urls = [line.strip() for line in f if line.strip()]
+        print(f"Loaded {len(urls)} URLs from cache ({URLS_FILE})", flush=True)
+        return urls
 
-    # Load existing progress
-    all_records, fetched_urls = load_existing_records()
-    if fetched_urls:
-        print(f"Resuming: {len(fetched_urls)} records already scraped", flush=True)
-
-    # --- Phase 1: collect all detail URLs ---
     print("=== Phase 1: Collecting event URLs from list pages ===", flush=True)
     resp = session.get(BASE_URL, timeout=30)
     resp.raise_for_status()
@@ -195,13 +180,40 @@ def scrape_all(delay=1.0):
             print(f"  ERROR on page {page}: {e}", flush=True)
         time.sleep(delay)
 
-    print(f"\nCollected {len(all_urls)} detail URLs", flush=True)
+    # Cache to disk
+    with open(URLS_FILE, 'w') as f:
+        for u in all_urls:
+            f.write(u + '\n')
+    print(f"Saved {len(all_urls)} URLs to {URLS_FILE}", flush=True)
+    return all_urls
 
-    # Filter out already-fetched URLs
+
+def scrape_all(delay=1.5):
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    session = requests.Session()
+    session.verify = False
+    session.headers.update({
+        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
+                       '(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    })
+
+    # Load existing progress
+    all_records, fetched_urls = load_existing_records()
+    if fetched_urls:
+        print(f"Resuming: {len(fetched_urls)} records already scraped", flush=True)
+
+    # Phase 1: get URLs (from cache or by scraping)
+    all_urls = collect_urls(session, delay)
+
+    # Filter out already-fetched
     remaining_urls = [u for u in all_urls if u not in fetched_urls]
     print(f"Remaining to fetch: {len(remaining_urls)}", flush=True)
 
-    # --- Phase 2: fetch each detail page ---
+    if not remaining_urls:
+        print("All done! Nothing to fetch.", flush=True)
+        return
+
+    # Phase 2: fetch detail pages
     print(f"\n=== Phase 2: Fetching detail pages (delay={delay}s) ===", flush=True)
     consecutive_errors = 0
     for i, detail_url in enumerate(remaining_urls):
@@ -216,28 +228,25 @@ def scrape_all(delay=1.0):
             print(f"  ERROR on {detail_url}: {e}", flush=True)
             all_records.append({'detail_url': detail_url})
             consecutive_errors += 1
-            # If we get 5 consecutive errors, back off for 30s
             if consecutive_errors >= 5:
-                print(f"  Too many errors, backing off 30s...", flush=True)
-                _save_csv(all_records)
-                time.sleep(30)
-                consecutive_errors = 0
+                print("  Too many consecutive errors, saving and exiting.", flush=True)
+                save_csv(all_records)
+                print(f"  Saved {len(all_records)} records. Re-run to resume.", flush=True)
+                return
 
         if (i + 1) % 100 == 0 or (i + 1) == len(remaining_urls):
-            print(f"  {i+1}/{len(remaining_urls)} new detail pages fetched ({len(all_records)} total)", flush=True)
-            # Incremental save every 100 records
-            if (i + 1) % 100 == 0:
-                _save_csv(all_records)
+            print(f"  {i+1}/{len(remaining_urls)} new pages ({len(all_records)} total)", flush=True)
+            save_csv(all_records)
 
         time.sleep(delay)
 
-    # Final save
-    _save_csv(all_records)
+    save_csv(all_records)
     print(f"\nDone! Saved {len(all_records)} events to {OUTPUT_FILE}", flush=True)
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--delay', type=float, default=1.0, help='Delay between requests in seconds (default: 1.0)')
+    parser.add_argument('--delay', type=float, default=1.5,
+                        help='Delay between requests in seconds (default: 1.5)')
     args = parser.parse_args()
     scrape_all(delay=args.delay)

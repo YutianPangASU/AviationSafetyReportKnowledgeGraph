@@ -1,56 +1,42 @@
 nohup: ignoring input
-Resuming: 2500 records already scraped
+Resuming: 2800 records already scraped
 === Phase 1: Collecting event URLs from list pages ===
-Traceback (most recent call last):
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connection.py", line 204, in _new_conn
-    sock = connection.create_connection(
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
-    raise err
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/util/connection.py", line 73, in create_connection
-    sock.connect(sa)
-TimeoutError: timed out
+Total notified events: 6526
+Total pages: 653
+  Page 1: 10 URLs
+  Page 50/653: 500 URLs collected
+  ERROR on page 61: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  ERROR on page 99: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  ERROR on page 100: HTTPSConnectionPool(host='bea.aero', port=443): Max retries exceeded with url: /en/investigation-reports/notified-events/?tx_news_pi1%5Bpage%5D=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='bea.aero', port=443) at 0x70b7d41b5c60>, 'Connection to bea.aero timed out. (connect timeout=30)'))
+  Page 150/653: 1470 URLs collected
+  Page 200/653: 1970 URLs collected
+  Page 250/653: 2470 URLs collected
+  Page 300/653: 2970 URLs collected
+  Page 350/653: 3470 URLs collected
+  ERROR on page 375: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  ERROR on page 379: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  Page 400/653: 3950 URLs collected
+  Page 450/653: 4450 URLs collected
+  ERROR on page 451: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  ERROR on page 457: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  ERROR on page 458: HTTPSConnectionPool(host='bea.aero', port=443): Max retries exceeded with url: /en/investigation-reports/notified-events/?tx_news_pi1%5Bpage%5D=458 (Caused by ConnectTimeoutError(<HTTPSConnection(host='bea.aero', port=443) at 0x70b7d41b6950>, 'Connection to bea.aero timed out. (connect timeout=30)'))
+  ERROR on page 464: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  ERROR on page 477: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  Page 500/653: 4900 URLs collected
+  Page 550/653: 5400 URLs collected
+  Page 600/653: 5900 URLs collected
+  ERROR on page 645: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  Page 650/653: 6390 URLs collected
+  Page 653/653: 6416 URLs collected
+Saved 6416 URLs to data/BEA/urls.txt
+Remaining to fetch: 3640
 
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
-    response = self._make_request(
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 488, in _make_request
-    raise new_e
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 464, in _make_request
-    self._validate_conn(conn)
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
-    conn.connect()
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connection.py", line 759, in connect
-    self.sock = sock = self._new_conn()
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connection.py", line 213, in _new_conn
-    raise ConnectTimeoutError(
-urllib3.exceptions.ConnectTimeoutError: (<HTTPSConnection(host='bea.aero', port=443) at 0x77fb62f543a0>, 'Connection to bea.aero timed out. (connect timeout=30)')
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/adapters.py", line 645, in send
-    resp = conn.urlopen(
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
-    retries = retries.increment(
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/urllib3/util/retry.py", line 535, in increment
-    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
-urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='bea.aero', port=443): Max retries exceeded with url: /en/investigation-reports/notified-events/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='bea.aero', port=443) at 0x77fb62f543a0>, 'Connection to bea.aero timed out. (connect timeout=30)'))
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/scrape_bea.py", line 243, in <module>
-    scrape_all(delay=args.delay)
-  File "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/scrape_bea.py", line 175, in scrape_all
-    resp = session.get(BASE_URL, timeout=30)
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/sessions.py", line 605, in get
-    return self.request("GET", url, **kwargs)
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/sessions.py", line 592, in request
-    resp = self.send(prep, **send_kwargs)
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/sessions.py", line 706, in send
-    r = adapter.send(request, **kwargs)
-  File "/home/yp6443/miniconda3/envs/ntsb/lib/python3.10/site-packages/requests/adapters.py", line 666, in send
-    raise ConnectTimeout(e, request=request)
-requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='bea.aero', port=443): Max retries exceeded with url: /en/investigation-reports/notified-events/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='bea.aero', port=443) at 0x77fb62f543a0>, 'Connection to bea.aero timed out. (connect timeout=30)'))
+=== Phase 2: Fetching detail pages (delay=2.0s) ===
+  ERROR on https://bea.aero/en/investigation-reports/notified-events/detail/accident-to-the-glider-rolladen-schneider-ls6-registered-f-chsm-on-07-07-2016-at-buno-bonnevaux-91/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  100/3640 new pages (2900 total)
+  200/3640 new pages (3000 total)
+  ERROR on https://bea.aero/en/investigation-reports/notified-events/detail/incident-to-the-airbus-a321-registered-b-8167-operated-by-china-eastern-airlines-on-31-01-2016-en-route-investigation-led-by-aib---china/: 500 Server Error: Internal Server Error for url: https://bea.aero/en/investigation-reports/notified-events/detail/incident-to-the-airbus-a321-registered-b-8167-operated-by-china-eastern-airlines-on-31-01-2016-en-route-investigation-led-by-aib---china/
+  ERROR on https://bea.aero/en/investigation-reports/notified-events/detail/serious-incident-to-the-airbus-a320-registered-vt-edd-operated-by-air-india-on-30-01-2016-at-delhi-investigation-led-by-aaib---india/: HTTPSConnectionPool(host='bea.aero', port=443): Max retries exceeded with url: /en/investigation-reports/notified-events/detail/serious-incident-to-the-airbus-a320-registered-vt-edd-operated-by-air-india-on-30-01-2016-at-delhi-investigation-led-by-aaib---india/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='bea.aero', port=443) at 0x70b7d41b7250>, 'Connection to bea.aero timed out. (connect timeout=30)'))
+  ERROR on https://bea.aero/en/investigation-reports/notified-events/detail/perte-dune-roue-du-train-datterrissage-principal-gauche-lors-du-decollage/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  300/3640 new pages (3100 total)
+  400/3640 new pages (3200 total)
