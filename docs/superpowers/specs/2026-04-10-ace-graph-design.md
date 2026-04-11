@@ -1,92 +1,11 @@
-# Aviation Safety Report Knowledge Base
-
-## Environment
-Assume you have conda installed,
-```
-conda create -n ntsb python=3.10
-conda activate ntsb
-conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia pandas
-conda install -c conda-forge transformers
-pip install wikipedia newspaper3k GoogleNews pyvis requests
-```
-
-## Data Accessibility
-
-All datasets are stored under the `data/` directory:
-
-```
-data/
-├── NTSB_ASRS/       # US NTSB Aviation Safety Reporting System
-│   └── avall.mdb    # MS Access database with narratives, events, aircraft, etc.
-├── TSB_CANADA/       # Transport Safety Board of Canada
-│   └── *.csv         # Public occurrence, aircraft, injuries, events data
-├── BEA/              # French Bureau d'Enquetes et d'Analyses
-│   └── bea_notified_events.csv   # All notified events scraped from bea.aero
-└── FAA_AIDS/         # FAA Accident/Incident Data System (ASIAS)
-    ├── a*.txt        # Accident/incident records by time period (TAB-delimited)
-    ├── e*.txt        # Edited remarks/narratives by time period (TAB-delimited)
-    ├── AcrftSer.txt  # Aircraft make/model/series lookup table
-    ├── Airport.txt   # Airport and location lookup table
-    ├── aidcodes.doc  # Code definitions and data dictionary
-    └── Afilelayout.txt / Efilelayout.txt  # File layout descriptions
-```
-
-### NTSB data (US)
-Source: https://app.ntsb.gov/avdata
-```
-wget https://app.ntsb.gov/avdata/Access/avall.zip
-unzip DownloadFile\?fileID\=C\:\\avdata\\avall.zip -d data/NTSB_ASRS/
-rm -rf DownloadFile\?fileID\=C\:\\avdata\\avall.zip
-```
-
-The `avall.mdb` Microsoft Access database format requires `mdbtools` on Linux:
-```
-sudo apt install mdbtools
-```
-
-### TSB data （Canada）
-Source: https://www.tsb.gc.ca/eng/stats/aviation/data-5.html
-
-CSV files covering occurrences, aircraft, injuries, events/phases, and survivability.
-
-### BEA data (France)
-Source: https://bea.aero/en/investigation-reports/notified-events/
-
-~6500 notified aviation safety events scraped from the BEA search engine. To re-scrape:
-```
-conda activate ntsb
-python scrape_bea.py
-```
-
-Fields: file_number, title, summary, date, location, state_of_occurrence, occurrence_class, human_consequences, aircraft_category, manufacturer_model, registration, state_of_registry, operator, operation_type, flight_phase, departure, destination, responsible_entity, detail_url.
-
-### FAA AIDS data (US)
-Source: https://www.asias.faa.gov/apex/f?p=100:189:::NO:::
-
-FAA Accident/Incident Data System from the Aviation Safety Information Analysis and Sharing (ASIAS) system. Contains accident and incident records from pre-1975 to present, provided as TAB-delimited text files in zip archives. To re-download:
-```
-conda activate ntsb
-python download_faa_aids.py
-```
-
-Data files:
-- **A files** (`Apre1975.txt`, `a1975_79.txt`, ..., `a2020_26.txt`): Accident/incident records by time period. Layout described in `Afilelayout.txt`.
-- **E files** (`e1975_79.txt`, ..., `e2020_26.txt`): Edited remarks/narratives (redacted per Privacy Act). Layout described in `Efilelayout.txt`.
-- **AcrftSer.txt**: Aircraft make, model, and series lookup. Layout in `aircraftseries.doc`.
-- **Airport.txt**: Airport and location lookup. Layout in `airport.doc`.
-- **aidcodes.doc**: Associated table codes and definitions.
-- **10-14-2010-Attention.doc**: Important changes to AIDS data format.
-
-
----
-
-# ACE-Graph: Aviation Causal Event Graph — Design
+# ACE-Graph: Aviation Causal Event Graph — Design Document
 
 **Status:** Draft — Sections 1-2 approved in brainstorming; Sections 3-6 pending.
+**Created:** 2026-04-10
 **Working title:** Aviation Causal Event Graph (ACE-Graph)
 **One-line summary:** A unified cross-jurisdiction aviation safety corpus, hierarchical event extraction pipeline, per-category causal graphs, and counterfactual reasoning layer evaluated via leave-one-out probable-cause on NTSB accidents.
 
-The full versioned design document lives at [docs/superpowers/specs/2026-04-10-ace-graph-design.md](docs/superpowers/specs/2026-04-10-ace-graph-design.md). The sections below are kept in sync with that file.
+---
 
 ## 1. Motivation and Scope
 
@@ -134,6 +53,8 @@ Cross-jurisdiction harmonization is a first-class problem, not a side task.
 - Runway/airspace simulation
 - Fleet-level risk dashboards
 - Any intervention with safety-of-life implications
+
+---
 
 ## 2. High-Level Architecture
 
@@ -189,6 +110,8 @@ Loss of Control In-flight is:
 - Sample size is large enough to support the LLM-prior-assisted discovery
 
 Success on LOC-I gives an early failure signal. If the pipeline fails on LOC-I, it will fail on rarer categories too.
+
+---
 
 ## 3. Stage 0 — Corpus Harmonization and Richness Filtering
 
@@ -306,6 +229,8 @@ Strategy: blocking + pairwise match.
 | BEA full-report scraping is fragile | Treat as optional sub-project; if it fails, BEA drops to `partial` tier with explicit limitation note |
 | Fine Subject code projection on non-NTSB records introduces noise | `harmonization_flags` records every inference; Stage 3 uses coarse (Occurrence) labels as primary bucketing, fine Subject only where origin-NTSB |
 
+---
+
 ## 4. Stage 1 — Hybrid Event Extraction
 
 **Status:** TBD — to be brainstormed in next session.
@@ -318,6 +243,8 @@ Planned topics to resolve:
 - Output event table schema
 - Per-record confidence scoring
 
+---
+
 ## 5. Stage 2 — Per-Accident Temporal Graph
 
 **Status:** TBD — to be brainstormed in next session.
@@ -328,6 +255,8 @@ Planned topics to resolve:
 - Time-marker normalization ("2 minutes later" vs. timestamps)
 - Merging structured `seq_of_events` with narrative-derived ordering
 - Per-accident DAG representation and storage
+
+---
 
 ## 6. Stage 3 — Per-Category Causal Graph
 
@@ -341,6 +270,8 @@ Planned topics to resolve:
 - Edge-weight interpretation and stability analysis
 - Per-category validation against published HFACS / ICAO chains
 
+---
+
 ## 7. Stage 4 — Counterfactual Reasoning and Evaluation
 
 **Status:** TBD — to be brainstormed in next session.
@@ -353,6 +284,8 @@ Planned topics to resolve:
 - Benchmark release: dataset card, splits, metrics, versioning
 - Metrics: accuracy per rung, cross-jurisdiction generalization, stratification by category
 
+---
+
 ## 8. Evaluation Plan (outline)
 
 - **Primary metric:** leave-one-out probable-cause counterfactual accuracy on NTSB
@@ -360,6 +293,8 @@ Planned topics to resolve:
 - **Cross-jurisdiction generalization:** held-out test splits from BEA / TSB Canada / FAA AIDS `partial`-tier records
 - **Ablations:** (a) remove LLM causal-order prior, (b) remove Laplacian similarity prior, (c) remove free-form fine extraction, (d) global graph vs. per-category
 - **Qualitative:** per-category DAG visualizations + case studies on high-profile accidents
+
+---
 
 ## 9. References
 
@@ -369,7 +304,11 @@ Planned topics to resolve:
 4. Zhao, X. et al. *Hierarchical Multilabel Classification for Fine-Level Event Extraction from Aviation Accident Reports.* INFORMS Journal on Data Science, 2025.
 5. Zhao, X. *Hierarchical Sequential Event Prediction and Translation from Aviation Accident Report Data.* ASU Dissertation, 2022.
 
+---
+
 ## Appendix A — Open Questions from Brainstorming
+
+These are questions from the brainstorming session that were left open for the next round:
 
 1. Should the richness filter gates (150 token floor, 50 token cause floor) be tuned empirically on NTSB distributions before being fixed?
 2. Is BEA full-report scraping worth the extra sub-project, or drop BEA to summaries-only?

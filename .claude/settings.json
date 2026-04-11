@@ -26,10 +26,12 @@
       "Bash(kill 524683)",
       "Bash(ps -p 1557479 -o pid,etime,stat=)",
       "Bash(curl -sk --connect-timeout 10 'https://bea.aero/en/investigation-reports/notified-events/' -o /dev/null -w \"HTTP %{http_code}, time: %{time_total}s\\\\n\")",
-      "Bash(kill 3360367)"
+      "Bash(kill 3360367)",
+      "Bash(ls -la /home/yp6443/research/AviationSafetyReportKnowledgeGraph/*.ipynb)"
     ],
     "additionalDirectories": [
-      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/FAA_AIDS"
+      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/FAA_AIDS",
+      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/docs/superpowers"
     ]
   }
 }
