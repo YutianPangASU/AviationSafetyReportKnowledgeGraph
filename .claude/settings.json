@@ -27,11 +27,34 @@
       "Bash(ps -p 1557479 -o pid,etime,stat=)",
       "Bash(curl -sk --connect-timeout 10 'https://bea.aero/en/investigation-reports/notified-events/' -o /dev/null -w \"HTTP %{http_code}, time: %{time_total}s\\\\n\")",
       "Bash(kill 3360367)",
-      "Bash(ls -la /home/yp6443/research/AviationSafetyReportKnowledgeGraph/*.ipynb)"
+      "Bash(ls -la /home/yp6443/research/AviationSafetyReportKnowledgeGraph/*.ipynb)",
+      "WebFetch(domain:www.ntsb.gov)",
+      "Bash(conda activate:*)",
+      "Bash(source ~/miniconda3/etc/profile.d/conda.sh)",
+      "Bash(source ~/anaconda3/etc/profile.d/conda.sh)",
+      "Bash(source /opt/conda/etc/profile.d/conda.sh)",
+      "Bash(conda env:*)",
+      "Bash(/home/yp6443/miniconda3/envs/ntsb/bin/python --version)",
+      "Bash(/home/yp6443/miniconda3/envs/ntsb/bin/python -c \"import sys; print\\(sys.executable\\)\")",
+      "Bash(NTSB_PY=/home/yp6443/miniconda3/envs/ntsb/bin/python)",
+      "Bash($NTSB_PY -m pip install playwright pdfplumber pytest)",
+      "Bash(PLAYWRIGHT_BROWSERS_PATH=/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_REPORTS/.playwright /home/yp6443/miniconda3/envs/ntsb/bin/python -m playwright install chromium)",
+      "Bash(/home/yp6443/miniconda3/envs/ntsb/bin/python data/scrape_ntsb_reports.py)",
+      "Bash(/home/yp6443/miniconda3/envs/ntsb/bin/python -m pytest data/test_ntsb_reports_extract.py -v)",
+      "Bash(PLAYWRIGHT_BROWSERS_PATH=$PWD/data/NTSB_REPORTS/.playwright /home/yp6443/miniconda3/envs/ntsb/bin/python -c \":*)",
+      "Bash(/home/yp6443/miniconda3/envs/ntsb/bin/python data/scrape_ntsb_reports.py --help)",
+      "Bash(/home/yp6443/miniconda3/envs/ntsb/bin/python -c \":*)",
+      "Bash(PLAYWRIGHT_BROWSERS_PATH=$PWD/data/NTSB_REPORTS/.playwright /home/yp6443/miniconda3/envs/ntsb/bin/python data/scrape_ntsb_reports.py)",
+      "Bash(ps -o pid,ppid,pgid,sid,tty,cmd -p 3765763)",
+      "Read(//proc/3765763/**)",
+      "Bash(python3:*)",
+      "Bash(git fetch:*)",
+      "Bash(git merge:*)"
     ],
     "additionalDirectories": [
       "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/FAA_AIDS",
-      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/docs/superpowers"
+      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/docs/superpowers",
+      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_REPORTS"
     ]
   }
 }
