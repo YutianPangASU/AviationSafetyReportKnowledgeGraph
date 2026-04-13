@@ -109,11 +109,11 @@ Data files:
 
 # ACE-Graph: Aviation Causal Event Graph — Design
 
-**Status:** Draft v2 — Stage 0 (Corpus Harmonization) fully specified; Stages 1-4 are TBD stubs with expanded planned topics; new sections for evaluation, related work, limitations, reproducibility, and ethics.
+**Status:** Draft v3 — Model-data hybrid framework with quantitative risk. LOC-I demo scope.
 **Working title:** Aviation Causal Event Graph (ACE-Graph)
-**One-line summary:** A unified cross-jurisdiction aviation safety corpus, hierarchical event extraction pipeline, per-category causal graphs, and LLM-assisted counterfactual question answering evaluated via leave-one-out agreement with NTSB investigator judgments.
+**One-line summary:** A causal knowledge graph extracted from aviation safety reports where each node embeds hierarchical failure models (fault trees, HRA, bow-tie) with tiered quantitative risk values, enabling counterfactual intervention analysis with measurable risk reduction.
 
-The full versioned design document lives at [docs/superpowers/specs/2026-04-11-ace-graph-design-v2.md](docs/superpowers/specs/2026-04-11-ace-graph-design-v2.md). The sections below are kept in sync with that file. Prior versions: [v1](docs/superpowers/specs/2026-04-10-ace-graph-design.md) | [v1→v2 changelog](docs/superpowers/specs/2026-04-11-ace-graph-changelog.md) | [expert review](docs/review/2026-04-11-design-critique.md).
+The full versioned design document lives at [docs/superpowers/specs/2026-04-13-ace-graph-v3-design.md](docs/superpowers/specs/2026-04-13-ace-graph-v3-design.md). Prior versions: [v2](docs/superpowers/specs/2026-04-11-ace-graph-design-v2.md) | [v1](docs/superpowers/specs/2026-04-10-ace-graph-design.md) | [v1→v2 changelog](docs/superpowers/specs/2026-04-11-ace-graph-changelog.md) | [expert review](docs/review/2026-04-11-design-critique.md).
 
 ## 1. Motivation and Scope
 
