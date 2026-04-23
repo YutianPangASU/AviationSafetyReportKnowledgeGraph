@@ -49,12 +49,22 @@
       "Read(//proc/3765763/**)",
       "Bash(python3:*)",
       "Bash(git fetch:*)",
-      "Bash(git merge:*)"
+      "Bash(git merge:*)",
+      "Bash(awk -F- '{print $1}')",
+      "Bash(mdb-tables /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_ASRS/avall.mdb)",
+      "Bash(mdb-export /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_ASRS/avall.mdb narratives)",
+      "Bash(mdb-tables /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_ASRS/Pre2008.mdb)",
+      "Bash(mdb-tables /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_ASRS/PRE1982.MDB)",
+      "Bash(mdb-export /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_ASRS/Pre2008.mdb narratives)",
+      "Bash(awk '{print NR\": \"$0}')",
+      "Bash(awk -F, 'NR<=3' /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_REPORTS/manifest.csv)",
+      "Bash(mdb-export /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_ASRS/PRE1982.MDB tblOccurrences)"
     ],
     "additionalDirectories": [
       "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/FAA_AIDS",
       "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/docs/superpowers",
-      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_REPORTS"
+      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_REPORTS",
+      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph"
     ]
   }
 }
