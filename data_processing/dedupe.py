@@ -4,11 +4,17 @@ Two records describing the same event (often syndicated across BEA / NTSB /
 TSB / FAA) end up with very similar narratives. We shingle each normalized
 narrative into k-word grams, feed the shingles into a MinHash, and bucket
 via LSH. Within each connected component the longest narrative wins.
+
+A second pass (``cross_source_clusters``) blocks on ``(normalized_date,
+normalized_tail)`` to catch same-event reports whose wording differs enough
+to evade MinHash — e.g. an NTSB factual report versus the BEA's machine-
+translated summary of the same crash.
 """
 from __future__ import annotations
 
-from typing import Iterable, List, Sequence
+from typing import Iterable, List, Sequence, Tuple
 
+import pandas as pd
 from datasketch import MinHash, MinHashLSH
 
 
@@ -74,3 +80,26 @@ def deduplicate_minhash(
     for i in range(n):
         groups.setdefault(find(i), []).append(i)
     return list(groups.values())
+
+
+def cross_source_clusters(
+    dates: Sequence[str],
+    tails: Sequence[str],
+) -> List[List[int]]:
+    """Group rows that share the same (date, tail) blocking key.
+
+    ``dates`` must already be normalized to YYYYMMDD and ``tails`` uppercased /
+    canonicalized. Rows with an empty date OR an empty tail form singleton
+    clusters (we only merge when both keys are populated; a missing key is
+    too weak to justify a cross-source merge).
+    """
+    buckets: dict[Tuple[str, str], List[int]] = {}
+    singletons: List[List[int]] = []
+    for i, (d, t) in enumerate(zip(dates, tails)):
+        if not d or not t:
+            singletons.append([i])
+            continue
+        buckets.setdefault((d, t), []).append(i)
+    clusters: List[List[int]] = list(buckets.values())
+    clusters.extend(singletons)
+    return clusters

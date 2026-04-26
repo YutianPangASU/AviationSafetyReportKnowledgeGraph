@@ -12,21 +12,28 @@ Outputs:
     data/corpus/corpus.jsonl        one record per line (kept after filtering)
     data/corpus/dropped.jsonl       records dropped, with reason field
     data/corpus/stats.json          per-source counts and filter breakdown
-    data/corpus/clusters.jsonl      near-duplicate cluster memberships
+    data/corpus/clusters.jsonl      near-duplicate cluster memberships (MinHash)
+    data/corpus/xsrc_clusters.jsonl cross-source cluster memberships (date+tail)
 """
 from __future__ import annotations
 
 import argparse
 import json
-import sys
 import time
 from pathlib import Path
 from typing import Dict, List
 
 import pandas as pd
 
-from .clean import has_causal_link, normalize_text, word_count
-from .dedupe import deduplicate_minhash
+from .clean import (
+    extract_tails,
+    has_causal_link,
+    normalize_date,
+    normalize_tail,
+    normalize_text,
+    word_count,
+)
+from .dedupe import cross_source_clusters, deduplicate_minhash
 from .loaders import (
     load_bea,
     load_faa_aids,
@@ -36,11 +43,34 @@ from .loaders import (
 )
 
 
-COMMON_COLS = ["record_id", "source", "date", "location", "title", "text", "url"]
+COMMON_COLS = [
+    "record_id",
+    "source",
+    "date",
+    "location",
+    "title",
+    "text",
+    "url",
+    "tail",
+]
 
 
 def _log(msg: str) -> None:
     print(f"[{time.strftime('%H:%M:%S')}] {msg}", flush=True)
+
+
+# --------------------------------------------------------------------------- #
+# Source priority: rank used to pick a cluster representative when several
+# records are collapsed. Lower is better. Full NTSB reports beat BEA summaries,
+# which beat TSB, which beat ASRS, which beat FAA AIDS previews.
+# --------------------------------------------------------------------------- #
+def _src_rank(src: str) -> int:
+    priority = {"NTSB_REPORT": 0, "BEA": 1, "TSB_CANADA": 2}
+    if src.startswith("NTSB_ASRS"):
+        return 3
+    if src.startswith("FAA_AIDS"):
+        return 4
+    return priority.get(src, 5)
 
 
 def load_all(data_root: Path) -> pd.DataFrame:
@@ -118,13 +148,11 @@ def clean_and_filter(
         stats[src]["no_causal_marker"] = int(
             (sub.index.isin(df.index[causal_mask])).sum()
         )
-        stats[src]["kept_pre_dedup"] = int(
-            (sub.index.isin(kept.index)).sum()
-        )
+        stats[src]["kept_pre_filter"] = int((sub.index.isin(kept.index)).sum())
     return kept, dropped, stats
 
 
-def dedupe(
+def minhash_dedupe(
     df: pd.DataFrame,
     threshold: float,
     num_perm: int,
@@ -140,35 +168,101 @@ def dedupe(
         num_perm=num_perm,
         shingle_k=shingle_k,
     )
-    # Pick a representative per cluster: longest narrative, break ties by
-    # source priority (full NTSB reports > BEA summaries > TSB/ASRS > FAA AIDS).
-    priority = {
-        "NTSB_REPORT": 0,
-        "BEA": 1,
-        "TSB_CANADA": 2,
-    }
-
-    def src_rank(src: str) -> int:
-        if src.startswith("NTSB_ASRS"):
-            return 3
-        if src.startswith("FAA_AIDS"):
-            return 4
-        return priority.get(src, 5)
-
-    keep_idx: List[int] = []
     wcs = df["text"].map(word_count).tolist()
     srcs = df["source"].tolist()
+    keep_idx: List[int] = []
     for cluster in clusters:
         if len(cluster) == 1:
             keep_idx.append(cluster[0])
             continue
-        best = max(
-            cluster,
-            key=lambda i: (wcs[i], -src_rank(srcs[i])),
-        )
+        best = max(cluster, key=lambda i: (wcs[i], -_src_rank(srcs[i])))
         keep_idx.append(best)
     deduped = df.iloc[sorted(keep_idx)].reset_index(drop=True)
     return deduped, clusters
+
+
+def cross_source_dedupe(
+    df: pd.DataFrame,
+) -> tuple[pd.DataFrame, List[List[int]]]:
+    """Block on (YYYYMMDD, canonical tail) and collapse matching rows.
+
+    ``tail`` comes from the loader's structured column when present, otherwise
+    from a regex pass over ``title`` + ``text``. A row with no usable (date,
+    tail) pair forms a singleton cluster.
+    """
+    _log(f"cross-source dedup: n={len(df):,} (date+tail blocking)")
+    df = df.copy()
+    df["norm_date"] = df["date"].map(normalize_date)
+
+    # Tail priority: structured column first, then title (shorter & cleaner
+    # for BEA/NTSB_REPORT), then body text. We pick the first tail detected
+    # in that priority order.
+    structured = df["tail"].map(normalize_tail)
+    needs_fallback = structured == ""
+    if needs_fallback.any():
+        title_tails = df.loc[needs_fallback, "title"].map(extract_tails)
+        text_tails = df.loc[needs_fallback, "text"].map(extract_tails)
+        fallback = [
+            (tt[0] if tt else (xt[0] if xt else ""))
+            for tt, xt in zip(title_tails, text_tails)
+        ]
+        structured.loc[needs_fallback] = pd.Series(fallback, index=title_tails.index)
+    df["norm_tail"] = structured.map(normalize_tail)
+
+    clusters = cross_source_clusters(
+        df["norm_date"].tolist(),
+        df["norm_tail"].tolist(),
+    )
+
+    wcs = df["text"].map(word_count).tolist()
+    srcs = df["source"].tolist()
+    keep_idx: List[int] = []
+    for cluster in clusters:
+        if len(cluster) == 1:
+            keep_idx.append(cluster[0])
+            continue
+        best = max(cluster, key=lambda i: (wcs[i], -_src_rank(srcs[i])))
+        keep_idx.append(best)
+    deduped = (
+        df.iloc[sorted(keep_idx)]
+        .drop(columns=["norm_date", "norm_tail"])
+        .reset_index(drop=True)
+    )
+    return deduped, clusters
+
+
+def _write_clusters(
+    path: Path,
+    kept: pd.DataFrame,
+    clusters: List[List[int]],
+) -> None:
+    src = kept["source"].tolist()
+    rid = kept["record_id"].tolist()
+    with open(path, "w", encoding="utf-8") as f:
+        for cluster in clusters:
+            if len(cluster) <= 1:
+                continue
+            f.write(
+                json.dumps(
+                    {
+                        "size": len(cluster),
+                        "members": [
+                            {"source": src[i], "record_id": rid[i]} for i in cluster
+                        ],
+                    },
+                    ensure_ascii=False,
+                )
+                + "\n"
+            )
+
+
+def _update_per_source_counts(
+    stats: Dict[str, Dict[str, int]],
+    frame: pd.DataFrame,
+    key: str,
+) -> None:
+    for src, grp in frame.groupby("source"):
+        stats.setdefault(src, {})[key] = int(len(grp))
 
 
 def main(argv: List[str] | None = None) -> int:
@@ -185,6 +279,11 @@ def main(argv: List[str] | None = None) -> int:
     ap.add_argument("--dedup-threshold", default=0.8, type=float)
     ap.add_argument("--num-perm", default=128, type=int)
     ap.add_argument("--shingle-k", default=5, type=int)
+    ap.add_argument(
+        "--no-xsrc-dedup",
+        action="store_true",
+        help="skip the (date, tail) cross-source collapse stage.",
+    )
     args = ap.parse_args(argv)
 
     out_dir: Path = args.out_dir
@@ -198,63 +297,53 @@ def main(argv: List[str] | None = None) -> int:
     )
     _log(f"after length+causal filter: {len(kept):,} kept, {len(dropped):,} dropped")
 
-    deduped, clusters = dedupe(
+    mh_deduped, mh_clusters = minhash_dedupe(
         kept,
         threshold=args.dedup_threshold,
         num_perm=args.num_perm,
         shingle_k=args.shingle_k,
     )
+    _log(f"after minhash dedup: {len(mh_deduped):,} unique narratives")
+    _update_per_source_counts(stats, mh_deduped, "kept_post_minhash")
 
-    for src, grp in kept.groupby("source"):
-        kept_ids = set(deduped.index.tolist())
-        # `deduped` was reset_index, so compare by (source, record_id) instead.
-    kept_pairs = set(zip(deduped["source"], deduped["record_id"]))
+    if args.no_xsrc_dedup:
+        final = mh_deduped
+        xsrc_clusters: List[List[int]] = []
+    else:
+        final, xsrc_clusters = cross_source_dedupe(mh_deduped)
+        _log(f"after cross-source dedup: {len(final):,} unique events")
+    _update_per_source_counts(stats, final, "kept_final")
+
+    # Compute duplicates_removed for each source relative to the filter pass.
     for src in stats:
-        sub = kept[kept["source"] == src]
-        kept_after = sum(
-            1 for sr, rid in zip(sub["source"], sub["record_id"]) if (sr, rid) in kept_pairs
-        )
-        stats[src]["kept_final"] = int(kept_after)
-        stats[src]["duplicates_removed"] = int(
-            stats[src]["kept_pre_dedup"] - kept_after
-        )
-
-    _log(f"after dedup: {len(deduped):,} unique narratives")
+        pre = stats[src].get("kept_pre_filter", 0)
+        post = stats[src].get("kept_final", 0)
+        stats[src]["duplicates_removed"] = int(pre - post)
 
     corpus_path = out_dir / "corpus.jsonl"
     dropped_path = out_dir / "dropped.jsonl"
     stats_path = out_dir / "stats.json"
-    clusters_path = out_dir / "clusters.jsonl"
+    mh_clusters_path = out_dir / "clusters.jsonl"
+    xsrc_clusters_path = out_dir / "xsrc_clusters.jsonl"
 
-    deduped_out = deduped.drop(columns=["wc"], errors="ignore")
-    deduped_out.to_json(corpus_path, orient="records", lines=True, force_ascii=False)
+    final_out = final.drop(columns=["wc"], errors="ignore")
+    final_out.to_json(corpus_path, orient="records", lines=True, force_ascii=False)
     dropped.drop(columns=["wc"], errors="ignore").to_json(
         dropped_path, orient="records", lines=True, force_ascii=False
     )
-    with open(clusters_path, "w", encoding="utf-8") as f:
-        src = kept["source"].tolist()
-        rid = kept["record_id"].tolist()
-        for cluster in clusters:
-            if len(cluster) <= 1:
-                continue
-            f.write(
-                json.dumps(
-                    {
-                        "size": len(cluster),
-                        "members": [{"source": src[i], "record_id": rid[i]} for i in cluster],
-                    },
-                    ensure_ascii=False,
-                )
-                + "\n"
-            )
+    _write_clusters(mh_clusters_path, kept, mh_clusters)
+    _write_clusters(xsrc_clusters_path, mh_deduped, xsrc_clusters)
+
     with open(stats_path, "w", encoding="utf-8") as f:
         summary = {
             "totals": {
                 "merged": int(len(merged)),
-                "kept_pre_dedup": int(len(kept)),
-                "kept_final": int(len(deduped)),
+                "kept_pre_filter": int(len(kept)),
+                "kept_post_minhash": int(len(mh_deduped)),
+                "kept_final": int(len(final)),
                 "dropped": int(len(dropped)),
-                "dup_clusters": sum(1 for c in clusters if len(c) > 1),
+                "minhash_clusters": sum(1 for c in mh_clusters if len(c) > 1),
+                "xsrc_clusters": sum(1 for c in xsrc_clusters if len(c) > 1),
             },
             "by_source": stats,
             "params": {
@@ -263,10 +352,14 @@ def main(argv: List[str] | None = None) -> int:
                 "dedup_threshold": args.dedup_threshold,
                 "num_perm": args.num_perm,
                 "shingle_k": args.shingle_k,
+                "xsrc_dedup": not args.no_xsrc_dedup,
             },
         }
         json.dump(summary, f, indent=2)
-    _log(f"wrote {corpus_path}, {dropped_path}, {clusters_path}, {stats_path}")
+    _log(
+        f"wrote {corpus_path}, {dropped_path}, {mh_clusters_path}, "
+        f"{xsrc_clusters_path}, {stats_path}"
+    )
     return 0
 
 

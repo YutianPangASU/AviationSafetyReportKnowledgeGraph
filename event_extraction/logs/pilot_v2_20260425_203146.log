@@ -1,0 +1,4 @@
+loaded 404 records to extract
+[10/404] ok=10 last_latency=27.9s source=BEA
+[20/404] ok=20 last_latency=56.5s source=BEA
+[30/404] ok=30 last_latency=47.2s source=FAA_AIDS:a1985_89

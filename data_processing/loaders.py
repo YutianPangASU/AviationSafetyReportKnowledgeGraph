@@ -2,7 +2,12 @@
 
 Each loader returns a ``pandas.DataFrame`` with a common schema:
 
-    record_id, source, date, location, title, text, url
+    record_id, source, date, location, title, text, url, tail
+
+``tail`` is an aircraft registration (e.g. ``N47BA``, ``C-GUDO``, ``F-GPAD``)
+from the source's structured field when available; loaders that have no
+structured tail column leave it blank and let the cross-source dedup stage
+recover it via regex over the narrative.
 
 ``text`` is the raw narrative before cleaning or filtering. Callers should
 then concatenate frames and run them through ``clean`` and ``dedupe``.
@@ -36,6 +41,7 @@ def load_bea(csv_path: str | os.PathLike) -> pd.DataFrame:
             "title": df.get("title", ""),
             "text": df.get("summary", ""),
             "url": df.get("detail_url", ""),
+            "tail": df.get("registration", "").astype(str),
         }
     )
     return out
@@ -87,6 +93,7 @@ def _load_ntsb_asrs_modern(mdb_path: str) -> pd.DataFrame:
             "title": "",
             "text": text,
             "url": "",
+            "tail": "",
         }
     )
 
@@ -120,6 +127,7 @@ def _load_ntsb_asrs_pre1982(mdb_path: str) -> pd.DataFrame:
             "title": "",
             "text": text,
             "url": "",
+            "tail": merged.get("REGIST_NO", pd.Series([""] * len(merged))).astype(str),
         }
     )
 
@@ -172,6 +180,7 @@ def load_ntsb_reports(
             "title": manifest.get("title", ""),
             "text": pd.Series(texts),
             "url": manifest.get("pdf_url", ""),
+            "tail": "",
         }
     )
     return out
@@ -208,6 +217,8 @@ def _load_faa_aids_a_file(path: Path) -> pd.DataFrame:
     state = df.get("c13", pd.Series([""] * len(df)))
     out["location"] = (city.astype(str) + ", " + state.astype(str)).str.strip(", ")
     out["c119"] = df.get("c119", pd.Series([""] * len(df))).astype(str)
+    # c22 = aircraft "N" number / registration (AIDS codebook).
+    out["tail"] = df.get("c22", pd.Series([""] * len(df))).astype(str)
     return out
 
 
@@ -299,6 +310,7 @@ def load_faa_aids(aids_dir: str | os.PathLike) -> pd.DataFrame:
             "title": "",
             "text": merged["text"].astype(str),
             "url": "",
+            "tail": merged.get("tail", pd.Series([""] * len(merged))).astype(str),
         }
     )
     return out
@@ -332,6 +344,7 @@ def load_tsb_canada(occurrence_csv: str | os.PathLike) -> pd.DataFrame:
             "title": df.get("CommonName", ""),
             "text": df.get("Summary", "").astype(str),
             "url": "",
+            "tail": "",  # no structured column; extracted from narrative downstream
         }
     )
     return out
