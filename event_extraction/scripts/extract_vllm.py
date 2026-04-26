@@ -31,20 +31,10 @@ import httpx
 PROMPTS_DIR = Path(__file__).resolve().parent.parent / "prompts"
 
 
-def _load_prompts(version: str) -> tuple[str, list[dict[str, Any]]]:
-    """Load the system prompt and few-shot examples for a given schema version.
-
-    ``version`` selects the file suffix: ``"v1"`` reads ``system.txt``;
-    ``"v2"`` reads ``system_v2.txt`` + ``few_shot_v2.json``.
-    """
-    if version == "v1":
-        sys_path = PROMPTS_DIR / "system.txt"
-        few_path = PROMPTS_DIR / "few_shot.json"
-    else:
-        sys_path = PROMPTS_DIR / f"system_{version}.txt"
-        few_path = PROMPTS_DIR / f"few_shot_{version}.json"
-    system = sys_path.read_text(encoding="utf-8").strip()
-    fewshot = json.loads(few_path.read_text(encoding="utf-8"))
+def _load_prompts() -> tuple[str, list[dict[str, Any]]]:
+    """Load the canonical system prompt and few-shot examples."""
+    system = (PROMPTS_DIR / "system.txt").read_text(encoding="utf-8").strip()
+    fewshot = json.loads((PROMPTS_DIR / "few_shot.json").read_text(encoding="utf-8"))
     return system, fewshot
 
 
@@ -72,15 +62,11 @@ class ExtractionResult:
 
 
 def _parse_model_output(raw: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
-    """Parse the model's JSON output.
+    """Parse the model's JSON output: ``{"nodes": [...], "edges": [...]}``.
 
-    Supports both schema versions:
-      v1 — ``{"events": [...], "relations": [...]}``
-      v2 — ``{"nodes": [...], "edges": [...]}`` where nodes have ``kind`` ∈
-            {event, entity, condition} and edges may reference any node id.
-
-    Returns ``(nodes, edges)`` where v1 inputs are normalized so each event is
-    treated as a node with ``kind="event"`` for downstream compatibility.
+    Nodes carry ``kind`` ∈ {event, entity, condition}; edges may reference any
+    node id. The model occasionally wraps JSON in ```json fences or prefixes
+    with prose — strip the outer fence and locate the outermost object.
     """
     text = raw.strip()
     if text.startswith("```"):
@@ -93,14 +79,8 @@ def _parse_model_output(raw: str) -> tuple[list[dict[str, Any]], list[dict[str, 
         raise ValueError("no JSON object found in response")
     obj = json.loads(text[start : end + 1])
 
-    if "nodes" in obj or "edges" in obj:
-        nodes = obj.get("nodes") or []
-        edges = obj.get("edges") or []
-    else:
-        # v1 → normalize to v2-style.
-        nodes = [{**e, "kind": "event"} for e in (obj.get("events") or [])]
-        edges = obj.get("relations") or []
-
+    nodes = obj.get("nodes") or []
+    edges = obj.get("edges") or []
     if not isinstance(nodes, list) or not isinstance(edges, list):
         raise ValueError("nodes / edges must be arrays")
 
@@ -231,14 +211,48 @@ def stratified_sample(
     return picked[:pilot_size]
 
 
+def _load_full_corpus(
+    corpus_path: Path, min_words: int, max_words: int
+) -> list[dict[str, Any]]:
+    out: list[dict[str, Any]] = []
+    with open(corpus_path, "r", encoding="utf-8") as f:
+        for line in f:
+            r = json.loads(line)
+            wc = len(r.get("text", "").split())
+            if wc < min_words or wc > max_words:
+                continue
+            out.append(r)
+    return out
+
+
+def _load_done_keys(out_path: Path) -> set[tuple[str, str]]:
+    """Read existing output JSONL and return the set of (source, record_id)
+    pairs already extracted. Used to skip records on resume."""
+    if not out_path.exists():
+        return set()
+    done: set[tuple[str, str]] = set()
+    with open(out_path, "r", encoding="utf-8") as f:
+        for line in f:
+            try:
+                r = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            done.add((r.get("source", ""), r.get("record_id", "")))
+    return done
+
+
 async def run(args: argparse.Namespace) -> int:
-    system, fewshot = _load_prompts(args.prompt_version)
+    system, fewshot = _load_prompts()
     corpus = Path(args.corpus)
     out_path = Path(args.out)
     out_path.parent.mkdir(parents=True, exist_ok=True)
 
     if args.input_records:
         records = [json.loads(l) for l in Path(args.input_records).open()]
+    elif args.full_corpus:
+        records = _load_full_corpus(
+            corpus, min_words=args.min_words, max_words=args.max_words
+        )
     else:
         records = stratified_sample(
             corpus,
@@ -247,7 +261,27 @@ async def run(args: argparse.Namespace) -> int:
             min_words=args.min_words,
             max_words=args.max_words,
         )
+
+    # Resume: drop records whose (source, record_id) is already in out_path.
+    if args.resume:
+        done = _load_done_keys(out_path)
+        if done:
+            before = len(records)
+            records = [
+                r for r in records if (r["source"], r["record_id"]) not in done
+            ]
+            print(f"resume: skipping {before - len(records)} already-done records")
+    else:
+        # Truncate output if not resuming, so we don't append to a stale file.
+        if out_path.exists():
+            out_path.unlink()
+
     print(f"loaded {len(records)} records to extract")
+    if not records:
+        # Nothing to do; create an empty file if missing, then exit.
+        if not out_path.exists():
+            out_path.touch()
+        return 0
 
     # Split records across workers; each worker owns a slice so the output
     # order is determinate given a seed + concurrency level.
@@ -259,7 +293,8 @@ async def run(args: argparse.Namespace) -> int:
     sem = asyncio.Semaphore(args.concurrency)
     pbar_state = {"done": 0, "ok": 0, "total": len(records)}
     out_lock = asyncio.Lock()
-    with open(out_path, "w", encoding="utf-8") as fp:
+    # Append mode: truncation is handled in run() when not resuming.
+    with open(out_path, "a", encoding="utf-8") as fp:
         t0 = time.time()
         await asyncio.gather(
             *[
@@ -307,14 +342,20 @@ def main(argv: list[str] | None = None) -> int:
         help="vLLM server base URL, repeat for replicas",
     )
     ap.add_argument("--model", default="qwen3.6-35b-a3b")
-    ap.add_argument("--max-tokens", default=3072, type=int)
+    ap.add_argument("--max-tokens", default=6144, type=int)
     ap.add_argument("--temperature", default=0.2, type=float)
-    ap.add_argument("--concurrency", default=8, type=int)
+    ap.add_argument("--concurrency", default=16, type=int)
     ap.add_argument(
-        "--prompt-version",
-        default="v1",
-        choices=["v1", "v2"],
-        help="schema version: v1 = events/relations, v2 = nodes/edges with HAEM+HFACS+STAMP+AcciMap",
+        "--full-corpus",
+        action="store_true",
+        help="extract every record in the corpus that meets [min,max] words "
+        "instead of running a stratified pilot sample.",
+    )
+    ap.add_argument(
+        "--resume",
+        action="store_true",
+        help="append to --out and skip records whose (source, record_id) is "
+        "already present. Without this flag the output file is truncated.",
     )
     args = ap.parse_args(argv)
     if not args.endpoints:

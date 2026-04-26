@@ -75,7 +75,15 @@
       "Bash(GPUS=2,3 PORT=8000 bash event_extraction/scripts/serve_qwen.sh)",
       "Bash(nvidia-smi --query-gpu=index,memory.used,utilization.gpu --format=csv,noheader)",
       "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python -)",
-      "Bash(curl -s http://localhost:8000/v1/models)"
+      "Bash(curl -s http://localhost:8000/v1/models)",
+      "Bash(nvidia-smi --query-gpu=index,memory.used,memory.free,utilization.gpu --format=csv,noheader)",
+      "Bash(rm -v prompts/system.txt prompts/few_shot.json prompts/schema.md prompts/system_v2.txt prompts/few_shot_v2.json prompts/schema_v2.md prompts/taxonomies_v2.json out/pilot.jsonl out/pilot_v1.jsonl out/pilot_v2.jsonl logs/pilot_20260425_195630.log logs/pilot_v2_20260425_203146.log)",
+      "Bash(mv -v prompts/system_v2_1.txt prompts/system.txt)",
+      "Bash(mv -v prompts/few_shot_v2_1.json prompts/few_shot.json)",
+      "Bash(mv -v prompts/schema_v2_1.md prompts/schema.md)",
+      "Bash(mv -v prompts/taxonomies_v2_1.json prompts/taxonomies.json)",
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python -c ' *)",
+      "Bash(ps -p 2801961 -o pid,etime,cmd)"
     ],
     "additionalDirectories": [
       "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/FAA_AIDS",

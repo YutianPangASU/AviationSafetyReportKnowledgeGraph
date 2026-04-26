@@ -1,0 +1,11 @@
+resume: skipping 404 already-done records
+loaded 172631 records to extract
+[10/172631] ok=10 last_latency=8.7s source=BEA
+[20/172631] ok=20 last_latency=36.9s source=BEA
+[30/172631] ok=30 last_latency=14.0s source=BEA
+[40/172631] ok=40 last_latency=10.9s source=BEA
+[50/172631] ok=50 last_latency=16.6s source=BEA
+[60/172631] ok=60 last_latency=23.3s source=BEA
+[70/172631] ok=70 last_latency=31.4s source=BEA
+[80/172631] ok=80 last_latency=13.7s source=BEA
+[90/172631] ok=90 last_latency=23.0s source=BEA
