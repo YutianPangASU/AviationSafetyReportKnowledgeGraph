@@ -83,7 +83,12 @@
       "Bash(mv -v prompts/schema_v2_1.md prompts/schema.md)",
       "Bash(mv -v prompts/taxonomies_v2_1.json prompts/taxonomies.json)",
       "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python -c ' *)",
-      "Bash(ps -p 2801961 -o pid,etime,cmd)"
+      "Bash(ps -p 2801961 -o pid,etime,cmd)",
+      "Bash(ps -o etimes= -p 2801961)",
+      "Bash(curl -s -m 3 http://localhost:8000/v1/models)",
+      "Bash(ps -p 3101313 -o pid,etime,cmd)",
+      "Bash(dmesg)",
+      "Bash(journalctl --user --since \"8 hours ago\" -p err)"
     ],
     "additionalDirectories": [
       "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/FAA_AIDS",

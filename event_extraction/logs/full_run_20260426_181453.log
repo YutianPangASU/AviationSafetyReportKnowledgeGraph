@@ -1,0 +1,26 @@
+resume: skipping 7029 already-done records
+loaded 166006 records to extract
+[10/166006] ok=10 last_latency=46.5s source=NTSB_ASRS:Pre2008
+[20/166006] ok=18 last_latency=22.1s source=NTSB_ASRS:Pre2008
+[30/166006] ok=27 last_latency=39.6s source=NTSB_ASRS:Pre2008
+[40/166006] ok=37 last_latency=20.0s source=NTSB_ASRS:Pre2008
+[50/166006] ok=47 last_latency=33.0s source=NTSB_ASRS:Pre2008
+[60/166006] ok=57 last_latency=27.3s source=NTSB_ASRS:Pre2008
+[70/166006] ok=67 last_latency=27.4s source=NTSB_ASRS:Pre2008
+[80/166006] ok=77 last_latency=47.2s source=NTSB_ASRS:Pre2008
+[90/166006] ok=87 last_latency=19.1s source=NTSB_ASRS:Pre2008
+[100/166006] ok=97 last_latency=19.8s source=NTSB_ASRS:Pre2008
+[110/166006] ok=107 last_latency=41.7s source=NTSB_ASRS:Pre2008
+[120/166006] ok=117 last_latency=37.5s source=NTSB_ASRS:Pre2008
+[130/166006] ok=127 last_latency=31.3s source=NTSB_ASRS:Pre2008
+[140/166006] ok=137 last_latency=31.5s source=NTSB_ASRS:Pre2008
+[150/166006] ok=147 last_latency=18.8s source=NTSB_ASRS:Pre2008
+[160/166006] ok=157 last_latency=20.8s source=NTSB_ASRS:Pre2008
+[170/166006] ok=167 last_latency=27.3s source=NTSB_ASRS:Pre2008
+[180/166006] ok=177 last_latency=36.9s source=NTSB_ASRS:Pre2008
+[190/166006] ok=187 last_latency=35.9s source=NTSB_ASRS:Pre2008
+[200/166006] ok=197 last_latency=19.0s source=NTSB_ASRS:Pre2008
+[210/166006] ok=207 last_latency=56.5s source=NTSB_ASRS:Pre2008
+[220/166006] ok=217 last_latency=36.3s source=NTSB_ASRS:Pre2008
+[230/166006] ok=227 last_latency=34.1s source=NTSB_ASRS:Pre2008
+[240/166006] ok=237 last_latency=30.8s source=NTSB_ASRS:Pre2008

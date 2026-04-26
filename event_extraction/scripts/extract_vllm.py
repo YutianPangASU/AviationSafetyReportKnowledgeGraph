@@ -227,7 +227,9 @@ def _load_full_corpus(
 
 def _load_done_keys(out_path: Path) -> set[tuple[str, str]]:
     """Read existing output JSONL and return the set of (source, record_id)
-    pairs already extracted. Used to skip records on resume."""
+    pairs that were SUCCESSFULLY extracted (ok=true). Failed records (ok=false
+    — typically connection errors when the server died) are NOT considered
+    done, so resume will retry them."""
     if not out_path.exists():
         return set()
     done: set[tuple[str, str]] = set()
@@ -236,6 +238,8 @@ def _load_done_keys(out_path: Path) -> set[tuple[str, str]]:
             try:
                 r = json.loads(line)
             except json.JSONDecodeError:
+                continue
+            if not r.get("ok"):
                 continue
             done.add((r.get("source", ""), r.get("record_id", "")))
     return done
