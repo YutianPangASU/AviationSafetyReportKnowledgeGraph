@@ -88,13 +88,33 @@
       "Bash(curl -s -m 3 http://localhost:8000/v1/models)",
       "Bash(ps -p 3101313 -o pid,etime,cmd)",
       "Bash(dmesg)",
-      "Bash(journalctl --user --since \"8 hours ago\" -p err)"
+      "Bash(journalctl --user --since \"8 hours ago\" -p err)",
+      "Bash(ps -p 3110875,3103315 -o pid,etime,%mem,cmd)",
+      "Bash(find /home/yp6443/research/AviationSafetyReportKnowledgeGraph/event_extraction/out/ -name \"*.jsonl\" -exec wc -l {} \\\\;)",
+      "Bash(tee /tmp/event_stats_out.txt)",
+      "Bash(echo \"exit=$?\")",
+      "Bash(kill -TERM 3110921)",
+      "Bash(mdb-tables -1 /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_ASRS/Pre2008.mdb)",
+      "Bash(mdb-tables -1 /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_ASRS/avall.mdb)",
+      "Bash(chmod +x /home/yp6443/research/AviationSafetyReportKnowledgeGraph/data_processing/dump_ntsb_mdb.sh)",
+      "Bash(/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data_processing/dump_ntsb_mdb.sh)",
+      "Bash(awk -F'\\\\t' '{print NF}')",
+      "Bash(awk -F'\\\\t' '{print \"row1 c5\\(col1\\)=\"$1, \"c1\\(col2\\)=\"$2}')",
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python event_extraction/scripts/extract_vllm.py --input-records event_extraction/out/loci_input_records.jsonl --out event_extraction/out/loci_v3.jsonl --system-file system_v3.txt --fewshot-file few_shot_v3.json --guided-json schema_v3.json --concurrency 4 --max-tokens 4096)",
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python event_extraction/scripts/extract_vllm.py --input-records event_extraction/out/calibration_2k_input.jsonl --out event_extraction/out/calibration_2k_v3.jsonl --system-file system_v3.txt --fewshot-file few_shot_v3.json --guided-json schema_v3.json --concurrency 16 --max-tokens 4096)",
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python event_extraction/scripts/semantic_eval.py --extraction event_extraction/out/calibration_2k_v1.jsonl --tag v1 --out event_extraction/out/semantic_eval_v1.jsonl --concurrency 4)",
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python event_extraction/scripts/semantic_eval.py --extraction event_extraction/out/calibration_2k_v3.jsonl --tag v3 --out event_extraction/out/semantic_eval_v3.jsonl --concurrency 16)",
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python -c \"import networkx, pandas; print\\(networkx.__version__, pandas.__version__\\)\")",
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python -c \"import networkx; print\\('nx', networkx.__version__\\)\")",
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python -c \"import pyvis; print\\(pyvis.__version__\\)\")",
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python event_extraction/scripts/viz_kg.py)"
     ],
     "additionalDirectories": [
       "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/FAA_AIDS",
       "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/docs/superpowers",
       "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/NTSB_REPORTS",
-      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph"
+      "/home/yp6443/research/AviationSafetyReportKnowledgeGraph",
+      "/tmp"
     ]
   }
 }

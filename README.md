@@ -372,6 +372,8 @@ Strategy: blocking + pairwise match.
 6. **Data card** — provenance, licenses, known limitations
 7. **Richness score analysis report** — sensitivity analysis results, final weight selection rationale, tier threshold justification
 
+**Implemented (2026-04-27):** [`data/corpus/corpus.jsonl`](data/corpus/corpus.jsonl) carries narrative + minimal metadata for 178k records. [`data/corpus/corpus_enriched.jsonl`](data/corpus/corpus_enriched.jsonl) supplements it with structured supervision fields rejoined from `Pre2008.mdb`, `avall.mdb`, and FAA AIDS A-files — 145k records (82%) carry NTSB `Findings` / `seq_of_events` / `Occurrences` or FAA AIDS cause+phase. See [data_processing/README.md](data_processing/README.md). The full UASC parquet build per the design above is still pending; the JSONL form is what Stage 1 currently consumes.
+
 ### 3.8 Risks and mitigations
 
 | Risk | Mitigation |
@@ -384,16 +386,39 @@ Strategy: blocking + pairwise match.
 
 ## 4. Stage 1 — Hybrid Event Extraction
 
-**Status:** TBD — to be brainstormed in next session.
+**Status:** v3 schema locked; full re-extraction in progress on 56,202 records (NTSB Pre2008/avall/REPORT + FAA AIDS with structured supervision and 200–2000-word narratives). See [docs/2026-04-27-v3-schema-redesign.md](docs/2026-04-27-v3-schema-redesign.md) for the design, the 42-event vocabulary, and the v1-vs-v3 calibration delta.
 
-Planned topics to resolve:
-- HABERT model reuse vs. retraining on UASC-Rich
-- LLM choice and prompt design for free-form subevent role extraction. **Constraint: must use a different model family from Stages 3-4 (Section 2.4).**
-- Reconciliation rules between HABERT coarse labels and LLM free-form spans. **Conflict resolution: when both disagree with NTSB `Findings`, `Findings` are primary.**
-- How to use NTSB `Findings` / `seq_of_events` as supervision signal
-- Output event table schema
-- Per-record confidence scoring
-- **Per-stage evaluation: extraction P/R/F1 against NTSB `Findings` and `seq_of_events` on a held-out set.**
+**Implementation:**
+
+- LLM: Qwen3.6-35B-A3B served via vLLM, OpenAI-compatible endpoint.
+- Schema: [`event_extraction/prompts/schema_v3.json`](event_extraction/prompts/schema_v3.json) enforced via vLLM `guided_json` constrained generation. Closed vocabularies (HAEM, `event_type`, `cause_role`, phase, severity, edge types, entity / condition types) are mechanically validated.
+- Prompt: [`event_extraction/prompts/system_v3.txt`](event_extraction/prompts/system_v3.txt) + one worked example in [`few_shot_v3.json`](event_extraction/prompts/few_shot_v3.json).
+- Runner: [`event_extraction/scripts/extract_vllm.py`](event_extraction/scripts/extract_vllm.py) with `--guided-json`, `--system-file`, `--fewshot-file` flags.
+- Supervision rejoin (Stage 0 supplement): [`data_processing/build_corpus_enriched.py`](data_processing/build_corpus_enriched.py) joins NTSB `Findings` / `seq_of_events` / `Occurrences` and FAA AIDS cause/phase columns onto every corpus record. 145k of 178k records (82%) now carry structured supervision. See [data_processing/README.md](data_processing/README.md).
+
+**Calibration on 2k NTSB records (LLM-as-judge against `Findings.Cause_Factor`):**
+
+| Metric | v1 | v3 |
+|---|---:|---:|
+| Recall | 73.86% | **80.52%** |
+| Precision | 21.31% | **29.87%** |
+| Events / record | 7.45 | 4.84 (leaner) |
+| Schema violations (HAEM `OPERATIONAL` catch-all) | 53% | **0%** |
+
+**Resolved from the original "topics to resolve" list:**
+
+- ~~HABERT model reuse vs. retraining~~ — superseded by single-model LLM extraction with constrained generation. HABERT remains a candidate for Stage-2 temporal-edge classification.
+- ~~LLM choice and prompt design~~ — Qwen3.6-35B-A3B locally; v3 prompt + JSON Schema. Cross-model ablation (different family) is still planned for Stage-3 prior generation per the [design critique](docs/review/2026-04-11-design-critique.md) §2.
+- ~~Reconciliation rules with `Findings`~~ — `cause_role: primary` is the supervised target; `Findings.Cause_Factor='C'` items are the gold standard.
+- ~~How to use `Findings` / `seq_of_events` as supervision signal~~ — joined via [`build_corpus_enriched.py`](data_processing/build_corpus_enriched.py); evaluated semantically by [`semantic_eval.py`](event_extraction/scripts/semantic_eval.py).
+- ~~Output event table schema~~ — [`schema_v3.json`](event_extraction/prompts/schema_v3.json), 42-value `event_type` vocabulary aligned to HFACS Tier-3 + CICTT.
+- ~~Per-stage evaluation~~ — recall/precision against NTSB cause-flagged factors via LLM-as-judge; tracked in `out/semantic_eval_*.summary.json`.
+
+**Still open:**
+
+- Cross-model ablation for circularity mitigation.
+- Per-record confidence scoring (currently `cause_role` carries the model's commitment level).
+- Adversarial prompt iteration on the residual ~20% recall miss.
 
 ## 5. Stage 2 — Per-Accident Temporal Graph
 

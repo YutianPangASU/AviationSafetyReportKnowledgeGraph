@@ -1,0 +1,64 @@
+Loading enriched corpus index…
+  145,263 records with supervision
+Loading event_extraction/out/calibration_2k_v1.jsonl…
+  2,000 ok extractions
+  2,000 records to evaluate (factors x events)
+  2,000 pending after cache (cached: 0)
+  judged 50/2000 (3.7/s)
+  judged 100/2000 (3.6/s)
+  judged 150/2000 (3.6/s)
+  judged 200/2000 (3.6/s)
+  judged 250/2000 (3.6/s)
+  judged 300/2000 (3.7/s)
+  judged 350/2000 (3.6/s)
+  judged 400/2000 (3.6/s)
+  judged 450/2000 (3.6/s)
+  judged 500/2000 (3.7/s)
+  judged 550/2000 (3.7/s)
+  judged 600/2000 (3.7/s)
+  judged 650/2000 (3.6/s)
+  judged 700/2000 (3.6/s)
+  judged 750/2000 (3.6/s)
+  judged 800/2000 (3.6/s)
+  judged 850/2000 (3.5/s)
+  judged 900/2000 (3.5/s)
+  judged 950/2000 (3.5/s)
+  judged 1000/2000 (3.5/s)
+  judged 1050/2000 (3.6/s)
+  judged 1100/2000 (3.5/s)
+  judged 1150/2000 (3.6/s)
+  judged 1200/2000 (3.6/s)
+  judged 1250/2000 (3.6/s)
+  judged 1300/2000 (3.6/s)
+  judged 1350/2000 (3.6/s)
+  judged 1400/2000 (3.6/s)
+  judged 1450/2000 (3.6/s)
+  judged 1500/2000 (3.6/s)
+  judged 1550/2000 (3.6/s)
+  judged 1600/2000 (3.6/s)
+  judged 1650/2000 (3.6/s)
+  judged 1700/2000 (3.6/s)
+  judged 1750/2000 (3.6/s)
+  judged 1800/2000 (3.6/s)
+  judged 1850/2000 (3.6/s)
+  judged 1900/2000 (3.6/s)
+  judged 1950/2000 (3.6/s)
+  judged 2000/2000 (3.6/s)
+Traceback (most recent call last):
+  File "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/event_extraction/scripts/semantic_eval.py", line 275, in <module>
+    main()
+  File "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/event_extraction/scripts/semantic_eval.py", line 272, in main
+    asyncio.run(run(args))
+  File "/home/yp6443/miniconda3/envs/qwen-vllm/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/yp6443/miniconda3/envs/qwen-vllm/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yp6443/miniconda3/envs/qwen-vllm/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/event_extraction/scripts/semantic_eval.py", line 230, in run
+    if 0 <= e < ne:
+       ^^^^^^^^^^^
+TypeError: '<=' not supported between instances of 'int' and 'str'

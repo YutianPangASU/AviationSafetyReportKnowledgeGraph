@@ -31,11 +31,21 @@ import httpx
 PROMPTS_DIR = Path(__file__).resolve().parent.parent / "prompts"
 
 
-def _load_prompts() -> tuple[str, list[dict[str, Any]]]:
+def _load_prompts(
+    system_file: str = "system.txt",
+    fewshot_file: str = "few_shot.json",
+) -> tuple[str, list[dict[str, Any]]]:
     """Load the canonical system prompt and few-shot examples."""
-    system = (PROMPTS_DIR / "system.txt").read_text(encoding="utf-8").strip()
-    fewshot = json.loads((PROMPTS_DIR / "few_shot.json").read_text(encoding="utf-8"))
+    system = (PROMPTS_DIR / system_file).read_text(encoding="utf-8").strip()
+    fewshot = json.loads((PROMPTS_DIR / fewshot_file).read_text(encoding="utf-8"))
     return system, fewshot
+
+
+def _load_guided_schema(schema_file: str | None) -> dict[str, Any] | None:
+    """Load a JSON Schema for vLLM `guided_json` constrained generation."""
+    if not schema_file:
+        return None
+    return json.loads((PROMPTS_DIR / schema_file).read_text(encoding="utf-8"))
 
 
 def build_messages(system: str, fewshot: list[dict[str, Any]], narrative: str) -> list[dict[str, Any]]:
@@ -101,8 +111,9 @@ async def _one_call(
     messages: list[dict[str, Any]],
     max_tokens: int,
     temperature: float,
+    guided_schema: dict[str, Any] | None = None,
 ) -> tuple[str, dict[str, Any]]:
-    body = {
+    body: dict[str, Any] = {
         "model": model,
         "messages": messages,
         "max_tokens": max_tokens,
@@ -111,6 +122,11 @@ async def _one_call(
         # Disable via the chat-template extra kwargs that vLLM forwards.
         "chat_template_kwargs": {"enable_thinking": False},
     }
+    if guided_schema is not None:
+        # vLLM's OpenAI-compatible endpoint accepts `guided_json` in the request
+        # body. The model output is forced to validate against this schema, so
+        # closed-vocab fields cannot drift to invented strings.
+        body["guided_json"] = guided_schema
     resp = await client.post(f"{endpoint}/chat/completions", json=body, timeout=600)
     resp.raise_for_status()
     payload = resp.json()
@@ -132,6 +148,7 @@ async def _worker(
     temperature: float,
     sem: asyncio.Semaphore,
     pbar_state: dict[str, int],
+    guided_schema: dict[str, Any] | None = None,
 ) -> None:
     ep = endpoints[idx % len(endpoints)]
     async with httpx.AsyncClient() as client:
@@ -141,7 +158,8 @@ async def _worker(
                 messages = build_messages(system, fewshot, rec["text"])
                 try:
                     raw, usage = await _one_call(
-                        client, ep, model, messages, max_tokens, temperature
+                        client, ep, model, messages, max_tokens, temperature,
+                        guided_schema=guided_schema,
                     )
                     nodes, edges = _parse_model_output(raw)
                     result = ExtractionResult(
@@ -246,7 +264,10 @@ def _load_done_keys(out_path: Path) -> set[tuple[str, str]]:
 
 
 async def run(args: argparse.Namespace) -> int:
-    system, fewshot = _load_prompts()
+    system, fewshot = _load_prompts(args.system_file, args.fewshot_file)
+    guided_schema = _load_guided_schema(args.guided_json)
+    if guided_schema is not None:
+        print(f"guided_json: enforcing schema {args.guided_json}")
     corpus = Path(args.corpus)
     out_path = Path(args.out)
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -315,6 +336,7 @@ async def run(args: argparse.Namespace) -> int:
                     args.temperature,
                     sem,
                     pbar_state,
+                    guided_schema=guided_schema,
                 )
                 for i in range(n_workers)
             ]
@@ -360,6 +382,25 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="append to --out and skip records whose (source, record_id) is "
         "already present. Without this flag the output file is truncated.",
+    )
+    ap.add_argument(
+        "--system-file",
+        default="system.txt",
+        help="filename in event_extraction/prompts/ to use as the system prompt "
+        "(e.g. system.txt for v1, system_v3.txt for v3 with constrained generation).",
+    )
+    ap.add_argument(
+        "--fewshot-file",
+        default="few_shot.json",
+        help="filename in event_extraction/prompts/ for few-shot examples. "
+        "Use few_shot_v3.json with v3 prompts.",
+    )
+    ap.add_argument(
+        "--guided-json",
+        default=None,
+        help="filename in event_extraction/prompts/ of a JSON Schema for "
+        "vLLM constrained generation. When set, model output is forced to "
+        "validate against the schema (closed vocabularies enforced).",
     )
     args = ap.parse_args(argv)
     if not args.endpoints:
