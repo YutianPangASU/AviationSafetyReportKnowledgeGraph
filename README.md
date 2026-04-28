@@ -436,7 +436,7 @@ Planned topics to resolve:
 
 ## 6. Stage 3 — Per-Category Causal Graph
 
-**Status:** TBD — to be brainstormed in next session.
+**Status:** plan locked, execution starts 2026-04-28. See [docs/2026-04-27-stage3-plan.md](docs/2026-04-27-stage3-plan.md) for the seven-piece workplan with effort estimates, deliverables, validation tests, and concrete first-step commands. First milestone: validated LOC-I DAG by 2026-05-01; all-category DAGs by 2026-05-02.
 
 Planned topics to resolve:
 - CICTT category list and sub-graph granularity

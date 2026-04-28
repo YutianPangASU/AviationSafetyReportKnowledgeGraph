@@ -1,0 +1,81 @@
+PC over 10 categories
+
+=== USOS ===
+  building presence matrix…
+  X shape: 3973 accidents × 42 event types
+  active event types (var-filtered): 38 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 32 kept, 22 dropped by support, 0 by laplacian
+  -> USOS.gpickle + USOS.csv
+
+=== WSTRW ===
+  building presence matrix…
+  X shape: 2036 accidents × 42 event types
+  active event types (var-filtered): 39 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 37 kept, 14 dropped by support, 0 by laplacian
+  -> WSTRW.gpickle + WSTRW.csv
+
+=== SCF-PP ===
+  building presence matrix…
+  X shape: 1797 accidents × 42 event types
+  active event types (var-filtered): 39 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 44 kept, 14 dropped by support, 0 by laplacian
+  -> SCF-PP.gpickle + SCF-PP.csv
+
+=== WX ===
+  building presence matrix…
+  X shape: 1229 accidents × 42 event types
+  active event types (var-filtered): 36 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 32 kept, 21 dropped by support, 0 by laplacian
+  -> WX.gpickle + WX.csv
+
+=== RE ===
+  building presence matrix…
+  X shape: 696 accidents × 42 event types
+  active event types (var-filtered): 28 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 8 kept, 12 dropped by support, 0 by laplacian
+  -> RE.gpickle + RE.csv
+
+=== RI ===
+  building presence matrix…
+  X shape: 446 accidents × 42 event types
+  active event types (var-filtered): 34 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 6 kept, 18 dropped by support, 0 by laplacian
+  -> RI.gpickle + RI.csv
+
+=== CFIT ===
+  building presence matrix…
+  X shape: 1454 accidents × 42 event types
+  active event types (var-filtered): 38 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 27 kept, 22 dropped by support, 0 by laplacian
+  -> CFIT.gpickle + CFIT.csv
+
+=== MAC ===
+  building presence matrix…
+  X shape: 1120 accidents × 42 event types
+  active event types (var-filtered): 34 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 17 kept, 28 dropped by support, 0 by laplacian
+  -> MAC.gpickle + MAC.csv
+
+=== ICE ===
+  building presence matrix…
+  X shape: 1461 accidents × 42 event types
+  active event types (var-filtered): 35 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 22 kept, 21 dropped by support, 0 by laplacian
+  -> ICE.gpickle + ICE.csv
+
+=== LOC-G ===
+  building presence matrix…
+  X shape: 3045 accidents × 42 event types
+  active event types (var-filtered): 37 / 42
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 29 kept, 25 dropped by support, 0 by laplacian
+  -> LOC-G.gpickle + LOC-G.csv

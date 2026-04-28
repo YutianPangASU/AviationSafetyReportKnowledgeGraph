@@ -1,0 +1,9 @@
+Targets: ['LOC-I']
+  [LOC-I] candidate pairs: 260 (cooccur >= 10, top 300)
+  [LOC-I] 260 new pairs to query, 0 cached
+    [LOC-I] 50/260 (4.8/s)
+    [LOC-I] 100/260 (4.7/s)
+    [LOC-I] 150/260 (4.7/s)
+    [LOC-I] 200/260 (4.6/s)
+    [LOC-I] 250/260 (4.6/s)
+  [LOC-I] -> event_extraction/out/aggregate_kg/per_category_llm_order/LOC-I.json  (260 pair results)
