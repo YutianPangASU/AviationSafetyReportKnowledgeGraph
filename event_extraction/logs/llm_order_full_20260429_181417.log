@@ -1,0 +1,65 @@
+Targets: ['LOC-I', 'USOS', 'WSTRW', 'SCF-PP', 'WX', 'LOC-G', 'CFIT', 'ARC', 'MAC', 'ICE', 'RE', 'RI']
+  [LOC-I] candidate pairs: 260 (cooccur >= 10, top 400)
+  [LOC-I] 0 new pairs to query, 260 cached
+  [LOC-I] -> event_extraction/out/aggregate_kg/per_category_llm_order/LOC-I.json  (260 pair results)
+  [USOS] candidate pairs: 185 (cooccur >= 10, top 400)
+  [USOS] 185 new pairs to query, 0 cached
+    [USOS] 50/185 (6.1/s)
+    [USOS] 100/185 (6.3/s)
+    [USOS] 150/185 (6.3/s)
+  [USOS] -> event_extraction/out/aggregate_kg/per_category_llm_order/USOS.json  (185 pair results)
+  [WSTRW] candidate pairs: 211 (cooccur >= 10, top 400)
+  [WSTRW] 211 new pairs to query, 0 cached
+    [WSTRW] 50/211 (6.1/s)
+    [WSTRW] 100/211 (6.2/s)
+    [WSTRW] 150/211 (6.1/s)
+    [WSTRW] 200/211 (6.0/s)
+  [WSTRW] -> event_extraction/out/aggregate_kg/per_category_llm_order/WSTRW.json  (211 pair results)
+  [SCF-PP] candidate pairs: 212 (cooccur >= 10, top 400)
+  [SCF-PP] 212 new pairs to query, 0 cached
+    [SCF-PP] 50/212 (5.7/s)
+    [SCF-PP] 100/212 (5.7/s)
+    [SCF-PP] 150/212 (5.6/s)
+    [SCF-PP] 200/212 (5.6/s)
+  [SCF-PP] -> event_extraction/out/aggregate_kg/per_category_llm_order/SCF-PP.json  (212 pair results)
+  [WX] candidate pairs: 163 (cooccur >= 10, top 400)
+  [WX] 163 new pairs to query, 0 cached
+    [WX] 50/163 (6.5/s)
+    [WX] 100/163 (6.7/s)
+    [WX] 150/163 (6.7/s)
+  [WX] -> event_extraction/out/aggregate_kg/per_category_llm_order/WX.json  (163 pair results)
+  [LOC-G] candidate pairs: 142 (cooccur >= 10, top 400)
+  [LOC-G] 142 new pairs to query, 0 cached
+    [LOC-G] 50/142 (6.7/s)
+    [LOC-G] 100/142 (6.4/s)
+  [LOC-G] -> event_extraction/out/aggregate_kg/per_category_llm_order/LOC-G.json  (142 pair results)
+  [CFIT] candidate pairs: 163 (cooccur >= 10, top 400)
+  [CFIT] 163 new pairs to query, 0 cached
+    [CFIT] 50/163 (6.0/s)
+    [CFIT] 100/163 (5.9/s)
+    [CFIT] 150/163 (5.9/s)
+  [CFIT] -> event_extraction/out/aggregate_kg/per_category_llm_order/CFIT.json  (163 pair results)
+  [ARC] candidate pairs: 162 (cooccur >= 10, top 400)
+  [ARC] 162 new pairs to query, 0 cached
+    [ARC] 50/162 (6.0/s)
+    [ARC] 100/162 (6.0/s)
+    [ARC] 150/162 (5.9/s)
+  [ARC] -> event_extraction/out/aggregate_kg/per_category_llm_order/ARC.json  (162 pair results)
+  [MAC] candidate pairs: 110 (cooccur >= 10, top 400)
+  [MAC] 110 new pairs to query, 0 cached
+    [MAC] 50/110 (5.3/s)
+    [MAC] 100/110 (5.6/s)
+  [MAC] -> event_extraction/out/aggregate_kg/per_category_llm_order/MAC.json  (110 pair results)
+  [ICE] candidate pairs: 137 (cooccur >= 10, top 400)
+  [ICE] 137 new pairs to query, 0 cached
+    [ICE] 50/137 (6.2/s)
+    [ICE] 100/137 (6.3/s)
+  [ICE] -> event_extraction/out/aggregate_kg/per_category_llm_order/ICE.json  (137 pair results)
+  [RE] candidate pairs: 81 (cooccur >= 10, top 400)
+  [RE] 81 new pairs to query, 0 cached
+    [RE] 50/81 (5.9/s)
+  [RE] -> event_extraction/out/aggregate_kg/per_category_llm_order/RE.json  (81 pair results)
+  [RI] candidate pairs: 97 (cooccur >= 10, top 400)
+  [RI] 97 new pairs to query, 0 cached
+    [RI] 50/97 (5.6/s)
+  [RI] -> event_extraction/out/aggregate_kg/per_category_llm_order/RI.json  (97 pair results)
