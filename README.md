@@ -386,7 +386,7 @@ Strategy: blocking + pairwise match.
 
 ## 4. Stage 1 — Hybrid Event Extraction
 
-**Status:** v3 schema locked; full re-extraction in progress on 56,202 records (NTSB Pre2008/avall/REPORT + FAA AIDS with structured supervision and 200–2000-word narratives). See [docs/2026-04-27-v3-schema-redesign.md](docs/2026-04-27-v3-schema-redesign.md) for the design, the 42-event vocabulary, and the v1-vs-v3 calibration delta.
+**Status:** v3 schema locked; full re-extraction complete on **55,837 records** (272 k events, 335 k edges). See [docs/2026-04-29-extraction-summary.md](docs/2026-04-29-extraction-summary.md) for full statistics + schema reference; [docs/2026-04-27-v3-schema-redesign.md](docs/2026-04-27-v3-schema-redesign.md) for the design history, the 42-event vocabulary, and the v1-vs-v3 calibration delta.
 
 **Implementation:**
 

@@ -1,0 +1,121 @@
+Bootstrapping 10 categories × 30 samples each
+
+=== LOC-I ===
+  building presence matrix…
+  X: 3850 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 21
+  -> LOC-I.gpickle + LOC-I.csv
+
+=== USOS ===
+  building presence matrix…
+  X: 4018 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 14
+  -> USOS.gpickle + USOS.csv
+
+=== WSTRW ===
+  building presence matrix…
+  X: 2037 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 12
+  -> WSTRW.gpickle + WSTRW.csv
+
+=== SCF-PP ===
+  building presence matrix…
+  X: 1819 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 24
+  -> SCF-PP.gpickle + SCF-PP.csv
+
+=== WX ===
+  building presence matrix…
+  X: 1230 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 7
+  -> WX.gpickle + WX.csv
+
+=== LOC-G ===
+  building presence matrix…
+  X: 3046 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 13
+  -> LOC-G.gpickle + LOC-G.csv
+
+=== CFIT ===
+  building presence matrix…
+  X: 1455 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 11
+  -> CFIT.gpickle + CFIT.csv
+
+=== ARC ===
+  building presence matrix…
+  X: 2753 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 14
+  -> ARC.gpickle + ARC.csv
+
+=== MAC ===
+  building presence matrix…
+  X: 1123 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 7
+  -> MAC.gpickle + MAC.csv
+
+=== ICE ===
+  building presence matrix…
+  X: 1463 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 11
+  -> ICE.gpickle + ICE.csv

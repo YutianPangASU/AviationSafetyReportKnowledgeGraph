@@ -111,7 +111,10 @@
       "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python -c \"from causallearn.search.ConstraintBased.PC import pc; from causallearn.utils.cit import chisq; print\\('ok'\\)\")",
       "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python event_extraction/scripts/stage3/build_precedence_matrices.py)",
       "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python event_extraction/scripts/stage3/llm_causal_order.py --categories LOC-I --concurrency 4 --top-k 300)",
-      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python event_extraction/scripts/stage3/viz_dag.py)"
+      "Bash(/home/yp6443/miniconda3/envs/qwen-vllm/bin/python event_extraction/scripts/stage3/viz_dag.py)",
+      "Bash(nvidia-smi --query-gpu=index,memory.used,memory.total --format=csv)",
+      "Bash(nvidia-smi --query-compute-apps=gpu_uuid,pid,process_name,used_memory --format=csv)",
+      "Bash(kill -TERM 3103315)"
     ],
     "additionalDirectories": [
       "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/data/FAA_AIDS",
