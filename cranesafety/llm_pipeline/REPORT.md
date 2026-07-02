@@ -42,17 +42,42 @@ the meaningful comparison.
 
 ## 2. Agreement (binary: IN+MAYBE vs OUT)
 
-### Document level — full dataset (n = 1,193)
+The full metric tables (with a κ/agreement glossary) live in
+[`out/RESULTS_TABLE.md`](out/RESULTS_TABLE.md), split into two blocks that must not
+be mixed — they use different populations:
+
+- **Block 1 — model vs. human gold**, on all items. This is the model's real
+  performance. There is *no* human-vs-human row here: 1,078 of the 1,193 groups had
+  a single annotator, so that baseline is undefined off the doubly-labeled subset.
+- **Block 2 — "as good as a second human?"**, on the 115 doubly-labeled groups
+  only, where the second human, Qwen, Opus, and Fable are all scored on the same
+  `n`.
+
+### Block 1 — Model vs. gold, document level, full dataset (n = 1,193)
 
 | Labeler | Agreement | Cohen κ | IN prec | IN recall | IN F1 |
 |---|--:|--:|--:|--:|--:|
-| **Human IAA (ceiling)** | 0.991 | 0.796 | – | – | – |
 | Qwen3.6-35B | 0.959 | 0.747 | 0.796 | 0.745 | 0.770 |
 | Opus-4.8 | 0.946 | 0.695 | 0.689 | 0.764 | 0.724 |
 | Fable-5 | 0.956 | 0.748 | 0.732 | 0.818 | 0.773 |
 
-All three land at **95–96% agreement, κ ≈ 0.70–0.75**, approaching the
-human-to-human ceiling (κ = 0.80). Qwen (local) is on par with the frontier models.
+All three land at **95–96% agreement, κ ≈ 0.70–0.75**. Qwen (local) is on par with
+the frontier models.
+
+### Block 2 — same population as the human baseline (n = 115)
+
+| Labeler | Agreement | Cohen κ |
+|---|--:|--:|
+| Human (2nd annotator) | 0.991 | 0.796 |
+| Qwen3.6-35B | 0.991 | 0.796 |
+| Opus-4.8 | 0.991 | 0.796 |
+| Fable-5 | 0.991 | 0.796 |
+
+On the only reports where a second human exists to compare against, the two humans
+agreed on **114 of 115** (the one split is OUT vs MAYBE on rec1361), and **each LLM
+matches that second-human baseline exactly**. So the models behave like a third
+annotator; κ = 0.80 here reflects one hedged report plus kappa's fragility on ~15
+positives, not real human conflict.
 
 ### Document level, per cohort (agreement / κ)
 
