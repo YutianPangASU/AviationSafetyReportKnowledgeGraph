@@ -76,7 +76,11 @@ async def query_pair(client, endpoint, model, cat, a, b, sem):
         "max_tokens": 200,
         "temperature": 0.0,
         "chat_template_kwargs": {"enable_thinking": False},
-        "guided_json": PAIR_SCHEMA,
+        # legacy `guided_json` is silently ignored by vLLM 0.19.x — use the
+        # enforced response_format variant (see extract_vllm.py).
+        "response_format": {"type": "json_schema",
+                            "json_schema": {"name": "pair", "schema": PAIR_SCHEMA,
+                                            "strict": True}},
     }
     async with sem:
         resp = await client.post(f"{endpoint}/chat/completions", json=body, timeout=180)

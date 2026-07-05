@@ -71,6 +71,19 @@ def cause_strings(structured: dict) -> list[str]:
 
 def event_payload(rec: dict) -> list[str]:
     out = []
+    if "chain" in rec:
+        # v4 chain format: every chain node (events AND first-class conditions)
+        # is a candidate match for an NTSB factor; outcomes rarely match but
+        # are kept for comparability with v1/v3 (which also included
+        # outcome-role events in the pool).
+        for n in (rec.get("chain") or []):
+            if not isinstance(n, dict):
+                continue
+            ft = n.get("factor_type") or "factor"
+            cr = n.get("cause_role")
+            tag = f"[{ft}{f' role={cr}' if cr else ''}]"
+            out.append(f"{tag} {n.get('trigger') or ''}".strip())
+        return out
     for n in (rec.get("nodes") or []):
         if not isinstance(n, dict) or n.get("kind") != "event":
             continue
@@ -110,7 +123,11 @@ async def judge_one(
         "max_tokens": 1024,
         "temperature": 0.0,
         "chat_template_kwargs": {"enable_thinking": False},
-        "guided_json": JUDGE_SCHEMA,
+        # NB: legacy `guided_json` is silently ignored by vLLM 0.19.x —
+        # response_format is the enforced variant (see extract_vllm.py).
+        "response_format": {"type": "json_schema",
+                            "json_schema": {"name": "judge", "schema": JUDGE_SCHEMA,
+                                            "strict": True}},
     }
     async with sem:
         resp = await client.post(f"{endpoint}/chat/completions", json=body, timeout=300)

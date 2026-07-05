@@ -30,10 +30,97 @@ import httpx
 
 PROMPTS_DIR = Path(__file__).resolve().parent.parent / "prompts"
 
+# validate_extraction.py lives in the same directory; scripts/ is not a package.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from validate_extraction import load_def_enums, Report, validate_v4  # noqa: E402
+
+
+# --------------------------------------------------------------------------
+# v4 grounded mode — supervision block rendering
+# --------------------------------------------------------------------------
+MAX_SEQ_ENTRIES = 30
+MAX_FINDINGS = 15
+
+
+def render_supervision_block(structured: dict | None) -> str | None:
+    """Render NTSB / FAA AIDS structured supervision into the STRUCTURED
+    FINDINGS prompt block. Returns None when there is nothing usable.
+
+    The format here is a contract with few_shot_v4.json (built via
+    build_fewshot_v4.py using this same function) and system_v4.txt — change
+    all three together."""
+    if not structured:
+        return None
+    lines: list[str] = []
+
+    pct = (structured.get("primary_cause_text") or "").strip()
+    if pct:
+        lines.append(f"Primary cause: {pct}")
+    sct = (structured.get("secondary_cause_text") or "").strip() if structured.get("secondary_cause_text") else ""
+    if sct:
+        lines.append(f"Secondary cause: {sct}")
+
+    occs = structured.get("occurrences") or []
+    if occs:
+        lines.append("Occurrences:")
+        for i, o in enumerate(occs, 1):
+            phase = (o.get("phase_text") or "").strip()
+            lines.append(f"  {i}. {(o.get('code_text') or '?').strip()}"
+                         + (f" (phase: {phase})" if phase else ""))
+
+    seq = structured.get("seq_of_events") or []
+    if seq:
+        lines.append("Sequence of events:")
+        for e in seq[:MAX_SEQ_ENTRIES]:
+            subj = (e.get("subj_text") or "").strip()
+            if not subj or subj == "None":
+                continue
+            cf = (e.get("cause_factor") or "").strip() or "-"
+            mod = (e.get("modifier_text") or "").strip()
+            lines.append(f"  [occ {e.get('occurrence_no', '?')}] [{cf}] {subj}"
+                         + (f" - {mod}" if mod else ""))
+        if len(seq) > MAX_SEQ_ENTRIES:
+            lines.append(f"  ... ({len(seq) - MAX_SEQ_ENTRIES} more entries omitted)")
+
+    findings = structured.get("findings") or []
+    if findings:
+        lines.append("Findings:")
+        for fi in findings[:MAX_FINDINGS]:
+            cf = (fi.get("cause_factor") or "").strip() or "-"
+            lines.append(f"  [{cf}] {(fi.get('description') or '?').strip()}")
+        if len(findings) > MAX_FINDINGS:
+            lines.append(f"  ... ({len(findings) - MAX_FINDINGS} more findings omitted)")
+
+    inj = structured.get("injury") or {}
+    ac = structured.get("aircraft") or {}
+    tail_bits = []
+    if inj:
+        tail_bits.append("Injury: " + ", ".join(
+            f"{inj.get(k, 0) or 0} {k}" for k in ("fatal", "serious", "minor", "none")))
+    dmg = (ac.get("damage") or "").strip()
+    if dmg:
+        tail_bits.append(f"Aircraft damage: {dmg}")
+    if tail_bits:
+        lines.append(". ".join(tail_bits) + ".")
+
+    # Occurrence/injury metadata alone (no causes, no sequence) isn't worth a block.
+    if not pct and not seq and not findings:
+        return None
+    return "STRUCTURED FINDINGS (official investigation):\n" + "\n".join(lines)
+
+
+def build_user_content(narrative: str, structured: dict | None, supervision: str) -> str:
+    content = f"NARRATIVE:\n{narrative}"
+    if supervision == "grounded":
+        block = render_supervision_block(structured)
+        if block:
+            content += f"\n\n{block}"
+    return content
+
 
 def _load_prompts(
-    system_file: str = "system.txt",
-    fewshot_file: str = "few_shot.json",
+    system_file: str = "system_v4.txt",
+    fewshot_file: str = "few_shot_v4.json",
 ) -> tuple[str, list[dict[str, Any]]]:
     """Load the canonical system prompt and few-shot examples."""
     system = (PROMPTS_DIR / system_file).read_text(encoding="utf-8").strip()
@@ -48,12 +135,15 @@ def _load_guided_schema(schema_file: str | None) -> dict[str, Any] | None:
     return json.loads((PROMPTS_DIR / schema_file).read_text(encoding="utf-8"))
 
 
-def build_messages(system: str, fewshot: list[dict[str, Any]], narrative: str) -> list[dict[str, Any]]:
+def build_messages(system: str, fewshot: list[dict[str, Any]], user_content: str) -> list[dict[str, Any]]:
+    """v4 few-shot examples carry a prebuilt 'user' field (narrative +
+    optional STRUCTURED FINDINGS block); v1/v3 examples carry 'narrative'."""
     msgs: list[dict[str, Any]] = [{"role": "system", "content": system}]
     for ex in fewshot:
-        msgs.append({"role": "user", "content": f"NARRATIVE:\n{ex['narrative']}"})
+        content = ex.get("user") or f"NARRATIVE:\n{ex['narrative']}"
+        msgs.append({"role": "user", "content": content})
         msgs.append({"role": "assistant", "content": json.dumps(ex["extraction"])})
-    msgs.append({"role": "user", "content": f"NARRATIVE:\n{narrative}"})
+    msgs.append({"role": "user", "content": user_content})
     return msgs
 
 
@@ -69,6 +159,31 @@ class ExtractionResult:
     latency_s: float
     input_tokens: Optional[int]
     output_tokens: Optional[int]
+
+
+def _parse_chain_output(raw: str) -> dict[str, Any]:
+    """Parse the v4 chain-mode JSON: {"chain": [...], "outcome_severity": "..."}."""
+    text = raw.strip()
+    if text.startswith("```"):
+        text = "\n".join(text.splitlines()[1:])
+        if text.endswith("```"):
+            text = text[:-3]
+    start = text.find("{")
+    end = text.rfind("}")
+    if start < 0 or end <= start:
+        raise ValueError("no JSON object found in response")
+    obj = json.loads(text[start : end + 1])
+    if not isinstance(obj.get("chain"), list):
+        raise ValueError("chain must be an array")
+    return obj
+
+
+def _validate_chain(obj: dict[str, Any], enums: dict[str, dict[str, set]]) -> list[str]:
+    """Run the structural checks guided_json cannot express (index
+    monotonicity, back-reference range, outcome-as-cause) plus enum
+    membership. Returns the problem list (empty = valid)."""
+    rep = Report()
+    return validate_v4(obj, enums, rep)
 
 
 def _parse_model_output(raw: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
@@ -123,10 +238,17 @@ async def _one_call(
         "chat_template_kwargs": {"enable_thinking": False},
     }
     if guided_schema is not None:
-        # vLLM's OpenAI-compatible endpoint accepts `guided_json` in the request
-        # body. The model output is forced to validate against this schema, so
-        # closed-vocab fields cannot drift to invented strings.
-        body["guided_json"] = guided_schema
+        # IMPORTANT: this vLLM version (0.19.x) silently IGNORES the legacy
+        # `guided_json` body field — verified 2026-07-05 by sending an
+        # out-of-enum value, which came back unconstrained. That is the root
+        # cause of the v3 corpus drift (82% of records carried enum
+        # violations). The OpenAI-standard `response_format json_schema` IS
+        # enforced, so use that.
+        body["response_format"] = {
+            "type": "json_schema",
+            "json_schema": {"name": "extraction", "schema": guided_schema,
+                            "strict": True},
+        }
     resp = await client.post(f"{endpoint}/chat/completions", json=body, timeout=600)
     resp.raise_for_status()
     payload = resp.json()
@@ -149,55 +271,128 @@ async def _worker(
     sem: asyncio.Semaphore,
     pbar_state: dict[str, int],
     guided_schema: dict[str, Any] | None = None,
+    supervision: str = "none",
 ) -> None:
     ep = endpoints[idx % len(endpoints)]
+    chain_mode = bool((guided_schema or {}).get("properties", {}).get("chain"))
+    chain_enums = load_def_enums(PROMPTS_DIR / "schema_v4.json") if chain_mode else None
     async with httpx.AsyncClient() as client:
         for rec in records:
             async with sem:
                 t0 = time.time()
-                messages = build_messages(system, fewshot, rec["text"])
+                user_content = build_user_content(
+                    rec["text"], rec.get("_structured"), supervision)
+                messages = build_messages(system, fewshot, user_content)
                 try:
                     raw, usage = await _one_call(
                         client, ep, model, messages, max_tokens, temperature,
                         guided_schema=guided_schema,
                     )
-                    nodes, edges = _parse_model_output(raw)
-                    result = ExtractionResult(
-                        record_id=rec["record_id"],
-                        source=rec["source"],
-                        ok=True,
-                        nodes=nodes,
-                        edges=edges,
-                        raw=raw,
-                        error=None,
-                        latency_s=time.time() - t0,
-                        input_tokens=usage.get("prompt_tokens"),
-                        output_tokens=usage.get("completion_tokens"),
-                    )
+                    in_tok = usage.get("prompt_tokens")
+                    out_tok = usage.get("completion_tokens")
+                    if chain_mode:
+                        obj = _parse_chain_output(raw)
+                        problems = _validate_chain(obj, chain_enums)
+                        retried = False
+                        if problems:
+                            # One repair round-trip: show the model its own
+                            # output and the specific violations.
+                            repair = (
+                                "Your extraction violated these structural rules:\n- "
+                                + "\n- ".join(problems[:12])
+                                + "\nRe-emit the FULL corrected JSON object. Remember: "
+                                "every caused_by src must be STRICTLY LESS than the "
+                                "node's own idx (reorder the chain if needed), idx must "
+                                "equal array position, and outcome nodes may only be "
+                                "cited as src by other outcome nodes."
+                            )
+                            messages = messages + [
+                                {"role": "assistant", "content": raw},
+                                {"role": "user", "content": repair},
+                            ]
+                            raw, usage2 = await _one_call(
+                                client, ep, model, messages, max_tokens, temperature,
+                                guided_schema=guided_schema,
+                            )
+                            in_tok = (in_tok or 0) + (usage2.get("prompt_tokens") or 0)
+                            out_tok = (out_tok or 0) + (usage2.get("completion_tokens") or 0)
+                            obj = _parse_chain_output(raw)
+                            problems = _validate_chain(obj, chain_enums)
+                            retried = True
+                        sanitized = False
+                        if problems:
+                            # Same-type caused_by links are legitimate at
+                            # instance level (two successive CONTROL_INPUT_
+                            # IMPROPER events) and only collapse to self-loops
+                            # after type aggregation — the KG builder drops
+                            # them anyway. If they are the ONLY residual
+                            # problem, strip the links instead of discarding
+                            # the record.
+                            fatal = [p for p in problems
+                                     if not p.startswith("type_level_self_loop")]
+                            if fatal:
+                                raise ValueError(
+                                    "validation failed after retry: " + "; ".join(fatal[:8]))
+                            by_idx = {n.get("idx"): n for n in obj["chain"]
+                                      if isinstance(n, dict)}
+                            for n in obj["chain"]:
+                                n["caused_by"] = [
+                                    l for l in (n.get("caused_by") or [])
+                                    if (by_idx.get(l.get("src")) or {}).get("factor_type")
+                                    != n.get("factor_type")]
+                            sanitized = True
+                        row = {
+                            "record_id": rec["record_id"],
+                            "source": rec["source"],
+                            "ok": True,
+                            "chain": obj["chain"],
+                            "outcome_severity": obj.get("outcome_severity", "unknown"),
+                            "retried": retried,
+                            "sanitized": sanitized,
+                            "error": None,
+                            "latency_s": time.time() - t0,
+                            "input_tokens": in_tok,
+                            "output_tokens": out_tok,
+                        }
+                    else:
+                        nodes, edges = _parse_model_output(raw)
+                        row = ExtractionResult(
+                            record_id=rec["record_id"],
+                            source=rec["source"],
+                            ok=True,
+                            nodes=nodes,
+                            edges=edges,
+                            raw=raw,
+                            error=None,
+                            latency_s=time.time() - t0,
+                            input_tokens=in_tok,
+                            output_tokens=out_tok,
+                        ).__dict__
                 except Exception as e:
-                    result = ExtractionResult(
-                        record_id=rec["record_id"],
-                        source=rec["source"],
-                        ok=False,
-                        nodes=[],
-                        edges=[],
-                        raw=None,
-                        error=f"{type(e).__name__}: {e}",
-                        latency_s=time.time() - t0,
-                        input_tokens=None,
-                        output_tokens=None,
-                    )
+                    row = {
+                        "record_id": rec["record_id"],
+                        "source": rec["source"],
+                        "ok": False,
+                        "error": f"{type(e).__name__}: {e}",
+                        "latency_s": time.time() - t0,
+                    }
+                    if not chain_mode:
+                        row.update({"nodes": [], "edges": [], "raw": None,
+                                    "input_tokens": None, "output_tokens": None})
                 async with out_lock:
-                    out_fp.write(json.dumps(result.__dict__, ensure_ascii=False) + "\n")
+                    out_fp.write(json.dumps(row, ensure_ascii=False) + "\n")
                     out_fp.flush()
                     pbar_state["done"] += 1
-                    if result.ok:
+                    if row["ok"]:
                         pbar_state["ok"] += 1
+                    if row.get("retried"):
+                        pbar_state["retried"] = pbar_state.get("retried", 0) + 1
                     if pbar_state["done"] % 10 == 0 or pbar_state["done"] == pbar_state["total"]:
                         print(
                             f"[{pbar_state['done']}/{pbar_state['total']}] "
                             f"ok={pbar_state['ok']} "
-                            f"last_latency={result.latency_s:.1f}s "
+                            f"retried={pbar_state.get('retried', 0)} "
+                            f"last_latency={row['latency_s']:.1f}s "
                             f"source={rec['source']}",
                             flush=True,
                         )
@@ -308,6 +503,25 @@ async def run(args: argparse.Namespace) -> int:
             out_path.touch()
         return 0
 
+    # Grounded mode: join structured supervision onto the selected records.
+    # Only the needed records' blobs are kept in memory.
+    if args.supervision == "grounded":
+        wanted = {r["record_id"] for r in records}
+        structured_by_id: dict[str, dict] = {}
+        with open(args.enriched, "r", encoding="utf-8") as f:
+            for line in f:
+                r = json.loads(line)
+                if r.get("record_id") in wanted and r.get("structured"):
+                    structured_by_id[r["record_id"]] = r["structured"]
+        n_hit = 0
+        for r in records:
+            s = structured_by_id.get(r["record_id"])
+            if s is not None:
+                r["_structured"] = s
+                n_hit += 1
+        print(f"supervision=grounded: structured data joined for "
+              f"{n_hit}/{len(records)} records (others run narrative-only)")
+
     # Split records across workers; each worker owns a slice so the output
     # order is determinate given a seed + concurrency level.
     n_workers = max(1, args.concurrency)
@@ -337,6 +551,7 @@ async def run(args: argparse.Namespace) -> int:
                     sem,
                     pbar_state,
                     guided_schema=guided_schema,
+                    supervision=args.supervision,
                 )
                 for i in range(n_workers)
             ]
@@ -385,22 +600,41 @@ def main(argv: list[str] | None = None) -> int:
     )
     ap.add_argument(
         "--system-file",
-        default="system.txt",
-        help="filename in event_extraction/prompts/ to use as the system prompt "
-        "(e.g. system.txt for v1, system_v3.txt for v3 with constrained generation).",
+        default="system_v4.txt",
+        help="filename in event_extraction/prompts/ to use as the system prompt. "
+        "Default is the current v4 chain prompt; pass system_v3.txt to "
+        "reproduce the v3 baseline.",
     )
     ap.add_argument(
         "--fewshot-file",
-        default="few_shot.json",
-        help="filename in event_extraction/prompts/ for few-shot examples. "
-        "Use few_shot_v3.json with v3 prompts.",
+        default="few_shot_v4.json",
+        help="filename in event_extraction/prompts/ for few-shot examples "
+        "(few_shot_v3.json for the v3 baseline).",
     )
     ap.add_argument(
         "--guided-json",
-        default=None,
+        default="schema_v4.json",
         help="filename in event_extraction/prompts/ of a JSON Schema for "
-        "vLLM constrained generation. When set, model output is forced to "
-        "validate against the schema (closed vocabularies enforced).",
+        "vLLM constrained generation (sent as response_format json_schema; "
+        "the legacy guided_json body field is ignored by vLLM 0.19.x). "
+        "Schemas with a top-level 'chain' property switch the runner to "
+        "v4 chain mode (structural validation + one repair retry). "
+        "Pass an empty string to disable constrained generation.",
+    )
+    ap.add_argument(
+        "--supervision",
+        choices=["none", "grounded"],
+        default="none",
+        help="grounded: append the STRUCTURED FINDINGS block (NTSB Findings / "
+        "seq_of_events / occurrences from --enriched) to each record's prompt. "
+        "Records without structured data fall back to narrative-only.",
+    )
+    ap.add_argument(
+        "--enriched",
+        default=Path("data/corpus/corpus_enriched.jsonl"),
+        type=Path,
+        help="enriched corpus JSONL carrying the 'structured' supervision "
+        "field, used by --supervision grounded.",
     )
     args = ap.parse_args(argv)
     if not args.endpoints:

@@ -129,7 +129,7 @@ def run_one(cat: str, args):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--extraction", default="event_extraction/out/full_corpus_v3.jsonl", type=Path)
+    ap.add_argument("--extraction", default="event_extraction/out/full_corpus_v4.jsonl", type=Path)
     ap.add_argument("--enriched", default="data/corpus/corpus_enriched.jsonl", type=Path)
     ap.add_argument("--dag-dir", default="event_extraction/out/aggregate_kg/per_category_dag", type=Path)
     ap.add_argument("--categories", nargs="*", default=None)

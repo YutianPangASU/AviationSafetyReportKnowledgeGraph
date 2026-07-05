@@ -5,8 +5,8 @@ For each CICTT category C, build:
   * cooccur   C_C ∈ R^{42×42}: accidents where both event-types i, j appear
   * precede   M_C ∈ R^{42×42}: accidents where event-type i temporally / causally
               preceded event-type j, derived from extracted edges of types
-              {CAUSES, CONTRIBUTES_TO, TRIGGERS, ENABLES, DETECTS, RESPONDS_TO,
-               PRECEDES} interpreted as i->j ordering
+              {CAUSES, CONTRIBUTES_TO, TRIGGERS, ENABLES, PRECEDES}
+              interpreted as i->j ordering
 
 Output files (per category) under
   event_extraction/out/aggregate_kg/per_category_precedence/
@@ -15,7 +15,7 @@ Output files (per category) under
 
 Run:
     python event_extraction/scripts/stage3/build_precedence_matrices.py \\
-        --extraction event_extraction/out/full_corpus_v3.jsonl \\
+        --extraction event_extraction/out/full_corpus_v4.jsonl \\
         --enriched data/corpus/corpus_enriched.jsonl \\
         --out-dir event_extraction/out/aggregate_kg/per_category_precedence
 """
@@ -30,16 +30,12 @@ import numpy as np
 # allow running as a script from repo root
 import sys
 sys.path.insert(0, str(Path(__file__).parent))
-from _common import EVENT_VOCAB, VOCAB_INDEX, stream_records_by_category, event_indices_in_record
-
-PRECEDENCE_EDGE_TYPES = {
-    "CAUSES", "CONTRIBUTES_TO", "TRIGGERS", "ENABLES",
-    "DETECTS", "RESPONDS_TO", "PRECEDES",
-}
+from _common import (EVENT_VOCAB, VOCAB_INDEX, stream_records_by_category,
+                     event_indices_in_record, precedence_pairs_in_record)
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--extraction", default="event_extraction/out/full_corpus_v3.jsonl", type=Path)
+    ap.add_argument("--extraction", default="event_extraction/out/full_corpus_v4.jsonl", type=Path)
     ap.add_argument("--enriched", default="data/corpus/corpus_enriched.jsonl", type=Path)
     ap.add_argument("--out-dir", default="event_extraction/out/aggregate_kg/per_category_precedence", type=Path)
     args = ap.parse_args()
@@ -64,21 +60,8 @@ def main():
             for j in present_indices:
                 if i != j:
                     cooccur[cat][i, j] += 1
-        # precede (only from extracted edges)
-        seen_pairs: set[tuple[int, int]] = set()
-        for e in (rec.get("edges") or []):
-            if not isinstance(e, dict):
-                continue
-            if e.get("type") not in PRECEDENCE_EDGE_TYPES:
-                continue
-            si = local_to_idx.get(e.get("src"))
-            di = local_to_idx.get(e.get("dst"))
-            if si is None or di is None or si == di:
-                continue
-            pair = (si, di)
-            if pair in seen_pairs:
-                continue
-            seen_pairs.add(pair)
+        # precede (v4: chain caused_by back-references; v3 legacy: typed edges)
+        for si, di in precedence_pairs_in_record(rec, local_to_idx):
             precede[cat][si, di] += 1
 
     print(f"\nWriting per-category matrices -> {args.out_dir}")
@@ -91,7 +74,7 @@ def main():
             "category": cat,
             "n_accidents": n_accidents[cat],
             "vocab": EVENT_VOCAB,
-            "edge_types_for_precedence": sorted(PRECEDENCE_EDGE_TYPES),
+            "precedence_source": "v4 chain caused_by back-references",
         }, indent=2))
         # quick sanity row
         top_present = sorted(enumerate(presence[cat]), key=lambda kv: -kv[1])[:3]

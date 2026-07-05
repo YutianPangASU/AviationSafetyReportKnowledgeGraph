@@ -15,7 +15,7 @@ Output (per category):
 
 Run baseline (no priors):
     python event_extraction/scripts/stage3/run_pc_per_category.py \\
-        --extraction event_extraction/out/full_corpus_v3.jsonl \\
+        --extraction event_extraction/out/full_corpus_v4.jsonl \\
         --enriched data/corpus/corpus_enriched.jsonl \\
         --precedence-dir event_extraction/out/aggregate_kg/per_category_precedence \\
         --out-dir event_extraction/out/aggregate_kg/per_category_dag \\
@@ -225,7 +225,7 @@ def write_outputs(G: nx.DiGraph, cat: str, out_dir: Path):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--extraction", default="event_extraction/out/full_corpus_v3.jsonl", type=Path)
+    ap.add_argument("--extraction", default="event_extraction/out/full_corpus_v4.jsonl", type=Path)
     ap.add_argument("--enriched", default="data/corpus/corpus_enriched.jsonl", type=Path)
     ap.add_argument("--precedence-dir", default="event_extraction/out/aggregate_kg/per_category_precedence", type=Path)
     ap.add_argument("--llm-order-dir", default="event_extraction/out/aggregate_kg/per_category_llm_order", type=Path)

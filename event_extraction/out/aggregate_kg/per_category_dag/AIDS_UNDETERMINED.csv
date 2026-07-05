@@ -1,0 +1,5 @@
+src,dst,direction_score,support_count,llm_prior,laplacian_prior,bootstrap_stability,pc_directed,pc_oriented_by_llm,from_cpdag_undirected
+PROCEDURE_NOT_FOLLOWED,CONTROL_INPUT_IMPROPER,0.75,11,,,0.4666666666666667,1,0,0
+LOSS_OF_CONTROL_INFLIGHT,INJURY_OR_FATALITY,0.5,19,,,0.2,0,0,1
+INJURY_OR_FATALITY,LOSS_OF_CONTROL_INFLIGHT,0.5,19,,,0.2,0,0,1
+INJURY_OR_FATALITY,ENGINE_FAILURE,0.5,12,,,0.6333333333333333,1,0,0

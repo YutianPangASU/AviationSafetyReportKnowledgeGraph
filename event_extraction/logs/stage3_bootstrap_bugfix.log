@@ -1,0 +1,334 @@
+Bootstrapping 33 categories × 30 samples each
+
+=== AIDS_UNDETERMINED ===
+  building presence matrix…
+  X: 165 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 1
+  -> AIDS_UNDETERMINED.gpickle + AIDS_UNDETERMINED.csv
+
+=== OTHER_NTSB-191 ===
+  building presence matrix…
+  X: 0 accidents
+  skip: too few accidents
+
+=== OTHER_NTSB-351 ===
+  building presence matrix…
+  X: 0 accidents
+  skip: too few accidents
+
+=== OTHER_NTSB-190 ===
+  building presence matrix…
+  X: 0 accidents
+  skip: too few accidents
+
+=== OTHER_NTSB-171 ===
+  building presence matrix…
+  X: 0 accidents
+  skip: too few accidents
+
+=== ICE ===
+  building presence matrix…
+  X: 1463 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 11
+  -> ICE.gpickle + ICE.csv
+
+=== UNCATEGORIZED_FAA_AIDS ===
+  building presence matrix…
+  X: 0 accidents
+  skip: too few accidents
+
+=== AIDS_MISCELLANEOUS ===
+  building presence matrix…
+  X: 340 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 5
+  -> AIDS_MISCELLANEOUS.gpickle + AIDS_MISCELLANEOUS.csv
+
+=== BIRD ===
+  building presence matrix…
+  X: 304 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 7
+  -> BIRD.gpickle + BIRD.csv
+
+=== OTHER_NTSB-192 ===
+  building presence matrix…
+  X: 0 accidents
+  skip: too few accidents
+
+=== AIDS_OPDEF ===
+  building presence matrix…
+  X: 881 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 9
+  -> AIDS_OPDEF.gpickle + AIDS_OPDEF.csv
+
+=== SCF-PP ===
+  building presence matrix…
+  X: 1819 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 20
+  -> SCF-PP.gpickle + SCF-PP.csv
+
+=== MAC ===
+  building presence matrix…
+  X: 1123 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 7
+  -> MAC.gpickle + MAC.csv
+
+=== HFACS_CAT_02 ===
+  building presence matrix…
+  X: 6237 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 44
+  -> HFACS_CAT_02.gpickle + HFACS_CAT_02.csv
+
+=== LOC-G ===
+  building presence matrix…
+  X: 3046 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 11
+  -> LOC-G.gpickle + LOC-G.csv
+
+=== LOC-I ===
+  building presence matrix…
+  X: 3850 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 20
+  -> LOC-I.gpickle + LOC-I.csv
+
+=== HFACS_CAT_03 ===
+  building presence matrix…
+  X: 1432 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 12
+  -> HFACS_CAT_03.gpickle + HFACS_CAT_03.csv
+
+=== ARC ===
+  building presence matrix…
+  X: 2753 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 13
+  -> ARC.gpickle + ARC.csv
+
+=== AIDS_IMPROPER ===
+  building presence matrix…
+  X: 160 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 0
+  -> AIDS_IMPROPER.gpickle + AIDS_IMPROPER.csv
+
+=== WX ===
+  building presence matrix…
+  X: 1230 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 7
+  -> WX.gpickle + WX.csv
+
+=== USOS ===
+  building presence matrix…
+  X: 4018 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 14
+  -> USOS.gpickle + USOS.csv
+
+=== AIDS_PILOT ===
+  building presence matrix…
+  X: 3742 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 28
+  -> AIDS_PILOT.gpickle + AIDS_PILOT.csv
+
+=== OTHER_NTSB-232 ===
+  building presence matrix…
+  X: 0 accidents
+  skip: too few accidents
+
+=== AIDS_\N ===
+  building presence matrix…
+  X: 2454 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 27
+  -> AIDS_\N.gpickle + AIDS_\N.csv
+
+=== CFIT ===
+  building presence matrix…
+  X: 1455 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 11
+  -> CFIT.gpickle + CFIT.csv
+
+=== OTHER_NTSB-271 ===
+  building presence matrix…
+  X: 0 accidents
+  skip: too few accidents
+
+=== WSTRW ===
+  building presence matrix…
+  X: 2037 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 11
+  -> WSTRW.gpickle + WSTRW.csv
+
+=== HFACS_CAT_01 ===
+  building presence matrix…
+  X: 7519 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 43
+  -> HFACS_CAT_01.gpickle + HFACS_CAT_01.csv
+
+=== HFACS_CAT_05 ===
+  building presence matrix…
+  X: 1263 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 12
+  -> HFACS_CAT_05.gpickle + HFACS_CAT_05.csv
+
+=== RI ===
+  building presence matrix…
+  X: 446 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 2
+  -> RI.gpickle + RI.csv
+
+=== RE ===
+  building presence matrix…
+  X: 697 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 3
+  -> RE.gpickle + RE.csv
+
+=== GCOL ===
+  building presence matrix…
+  X: 644 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 4
+  -> GCOL.gpickle + GCOL.csv
+
+=== UNCATEGORIZED_NTSB_ASRS ===
+  building presence matrix…
+  X: 0 accidents
+  skip: too few accidents

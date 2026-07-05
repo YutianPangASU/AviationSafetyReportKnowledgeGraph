@@ -1,0 +1,671 @@
+=== Sun Jul  5 04:44:07 PM CDT 2026 S3v4 piece 1: precedence matrices (47-factor vocab) ===
+Streaming full_corpus_v4.jsonl…
+
+Writing per-category matrices -> event_extraction/out/aggregate_kg/per_category_precedence
+  ADRM                           accidents=   20  top: LOSS_OF_CONTROL_INFLIGHT(6), LOW_VISIBILITY_OR_IMC(5), LATENT_MECHANICAL_DEFECT(4)
+  AIDS_DESIGN                    accidents=   11  top: PROCEDURE_NOT_FOLLOWED(8), DECISION_INAPPROPRIATE(7), LATENT_MECHANICAL_DEFECT(5)
+  AIDS_IMPROPER                  accidents=  167  top: MAINTENANCE_INADEQUATE(120), LATENT_MECHANICAL_DEFECT(87), ENGINE_FAILURE(82)
+  AIDS_INADEQUATE                accidents=   57  top: MAINTENANCE_INADEQUATE(42), ENGINE_FAILURE(32), LATENT_MECHANICAL_DEFECT(29)
+  AIDS_MANUFACTURER/BUILDER      accidents=   25  top: MAINTENANCE_INADEQUATE(14), LATENT_MECHANICAL_DEFECT(12), AIRFRAME_STRUCTURAL_FAILURE(11)
+  AIDS_MISCELLANEOUS             accidents=  343  top: CONTROL_INPUT_IMPROPER(138), PROCEDURE_NOT_FOLLOWED(102), GROUND_PERSONNEL_ERROR(82)
+  AIDS_OPDEF                     accidents=  907  top: ENGINE_FAILURE(456), DECISION_INAPPROPRIATE(401), PROCEDURE_NOT_FOLLOWED(329)
+  AIDS_PILOT                     accidents= 3755  top: CONTROL_INPUT_IMPROPER(2256), DECISION_INAPPROPRIATE(1479), PROCEDURE_NOT_FOLLOWED(1204)
+  AIDS_UNDETERMINED              accidents=  167  top: ENGINE_FAILURE(77), DECISION_INAPPROPRIATE(66), CONTROL_INPUT_IMPROPER(50)
+  AIDS_\N                        accidents= 2462  top: CONTROL_INPUT_IMPROPER(1262), DECISION_INAPPROPRIATE(820), PROCEDURE_NOT_FOLLOWED(802)
+  ARC                            accidents= 2774  top: ENGINE_FAILURE(2488), DECISION_INAPPROPRIATE(1450), PROCEDURE_NOT_FOLLOWED(1170)
+  ATM                            accidents=   41  top: DECISION_INAPPROPRIATE(18), LOW_VISIBILITY_OR_IMC(11), PERCEPTION_FAILURE(7)
+  BIRD                           accidents=  304  top: CONTROL_INPUT_IMPROPER(271), PERCEPTION_FAILURE(160), DECISION_INAPPROPRIATE(81)
+  CFIT                           accidents= 1454  top: DECISION_INAPPROPRIATE(752), CONTROL_INPUT_IMPROPER(742), MOUNTAINOUS_OR_RISING_TERRAIN(436)
+  CTOL                           accidents=  168  top: PERCEPTION_FAILURE(159), PROCEDURE_NOT_FOLLOWED(57), ADVERSE_WIND_CONDITION(32)
+  EVAC                           accidents=   48  top: TURBULENCE_ENCOUNTER(43), LOSS_OF_CONTROL_INFLIGHT(31), DECISION_INAPPROPRIATE(20)
+  F-NI                           accidents=    3  top: DECISION_INAPPROPRIATE(2), PROCEDURE_NOT_FOLLOWED(2), INFLIGHT_FIRE_OR_SMOKE(2)
+  FUEL                           accidents=  139  top: CONTROL_INPUT_IMPROPER(124), ADVERSE_WIND_CONDITION(59), LOSS_OF_CONTROL_GROUND(51)
+  GCOL                           accidents=  642  top: CONTROL_INPUT_IMPROPER(378), DECISION_INAPPROPRIATE(345), RUNWAY_CONDITION_HAZARD(328)
+  HFACS_CAT_01                   accidents= 7627  top: CONTROL_INPUT_IMPROPER(3864), DECISION_INAPPROPRIATE(2930), ENGINE_FAILURE(2754)
+  HFACS_CAT_02                   accidents= 6247  top: CONTROL_INPUT_IMPROPER(3866), DECISION_INAPPROPRIATE(2558), PROCEDURE_NOT_FOLLOWED(1655)
+  HFACS_CAT_03                   accidents= 1434  top: CONTROL_INPUT_IMPROPER(639), DECISION_INAPPROPRIATE(513), PROCEDURE_NOT_FOLLOWED(380)
+  HFACS_CAT_04                   accidents=   29  top: ORG_OR_REGULATORY_INADEQUATE(14), LATENT_MECHANICAL_DEFECT(12), PROCEDURE_NOT_FOLLOWED(9)
+  HFACS_CAT_05                   accidents= 1270  top: ENGINE_FAILURE(851), DECISION_INAPPROPRIATE(497), PROCEDURE_NOT_FOLLOWED(459)
+  ICE                            accidents= 1465  top: CONTROL_INPUT_IMPROPER(1400), ADVERSE_WIND_CONDITION(354), PROCEDURE_NOT_FOLLOWED(338)
+  LOC-G                          accidents= 3048  top: LOSS_OF_CONTROL_GROUND(2723), CONTROL_INPUT_IMPROPER(2555), ADVERSE_WIND_CONDITION(1392)
+  LOC-I                          accidents= 3852  top: LOSS_OF_CONTROL_INFLIGHT(2937), CONTROL_INPUT_IMPROPER(2601), STALL(1911)
+  MAC                            accidents= 1128  top: CONTROL_INPUT_IMPROPER(688), DECISION_INAPPROPRIATE(365), PERCEPTION_FAILURE(354)
+  OTHER:NTSB-132                 accidents=    2  top: LOSS_OF_CONTROL_INFLIGHT(2), DECISION_INAPPROPRIATE(1), PERCEPTION_FAILURE(1)
+  OTHER:NTSB-150                 accidents=    7  top: DECISION_INAPPROPRIATE(6), PROCEDURE_NOT_FOLLOWED(3), PERCEPTION_FAILURE(3)
+  OTHER:NTSB-170                 accidents=   10  top: INFLIGHT_FIRE_OR_SMOKE(9), PROCEDURE_NOT_FOLLOWED(5), GROUND_PERSONNEL_ERROR(3)
+  OTHER:NTSB-171                 accidents=  102  top: INFLIGHT_FIRE_OR_SMOKE(100), PROCEDURE_NOT_FOLLOWED(42), MAINTENANCE_INADEQUATE(38)
+  OTHER:NTSB-172                 accidents=    7  top: INFLIGHT_FIRE_OR_SMOKE(7), MAINTENANCE_INADEQUATE(5), LATENT_MECHANICAL_DEFECT(5)
+  OTHER:NTSB-190                 accidents=  124  top: LANDING_GEAR_ANOMALY(110), LATENT_MECHANICAL_DEFECT(61), CONTROL_INPUT_IMPROPER(34)
+  OTHER:NTSB-191                 accidents=   85  top: LANDING_GEAR_ANOMALY(76), LATENT_MECHANICAL_DEFECT(41), CONTROL_INPUT_IMPROPER(21)
+  OTHER:NTSB-192                 accidents=   54  top: LANDING_GEAR_ANOMALY(45), CONTROL_INPUT_IMPROPER(22), LATENT_MECHANICAL_DEFECT(20)
+  OTHER:NTSB-194                 accidents=    7  top: LANDING_GEAR_ANOMALY(7), CONTROL_INPUT_IMPROPER(5), LATENT_MECHANICAL_DEFECT(3)
+  OTHER:NTSB-195                 accidents=    1  top: LANDING_GEAR_ANOMALY(1), MAINTENANCE_INADEQUATE(1), DECISION_INAPPROPRIATE(0)
+  OTHER:NTSB-196                 accidents=   16  top: PROCEDURE_NOT_FOLLOWED(14), LANDING_GEAR_ANOMALY(10), PERCEPTION_FAILURE(7)
+  OTHER:NTSB-198                 accidents=   24  top: LANDING_GEAR_ANOMALY(23), CONTROL_INPUT_IMPROPER(19), PROCEDURE_NOT_FOLLOWED(6)
+  OTHER:NTSB-231                 accidents=    4  top: PROCEDURE_NOT_FOLLOWED(4), PERCEPTION_FAILURE(3), LANDING_GEAR_ANOMALY(2)
+  OTHER:NTSB-232                 accidents=  154  top: PROCEDURE_NOT_FOLLOWED(137), PERCEPTION_FAILURE(93), LANDING_GEAR_ANOMALY(61)
+  OTHER:NTSB-271                 accidents=  132  top: PERCEPTION_FAILURE(108), CONTROL_INPUT_IMPROPER(66), PROCEDURE_NOT_FOLLOWED(37)
+  OTHER:NTSB-351                 accidents=   52  top: ENGINE_FAILURE(52), LATENT_MECHANICAL_DEFECT(25), PROCEDURE_NOT_FOLLOWED(18)
+  OTHER:NTSB-352                 accidents=   24  top: ENGINE_FAILURE(22), MAINTENANCE_INADEQUATE(13), LATENT_MECHANICAL_DEFECT(11)
+  OTHER:NTSB-353                 accidents=   29  top: ENGINE_FAILURE(28), DECISION_INAPPROPRIATE(23), FUEL_EXHAUSTION_OR_STARVATION(19)
+  OTHER:NTSB-354                 accidents=    7  top: ENGINE_FAILURE(7), PROCEDURE_NOT_FOLLOWED(6), DECISION_INAPPROPRIATE(3)
+  OTHER:NTSB-360                 accidents=   11  top: GROUND_PERSONNEL_ERROR(7), TURBULENCE_ENCOUNTER(6), DECISION_INAPPROPRIATE(4)
+  OTHM                           accidents=   11  top: PROCEDURE_NOT_FOLLOWED(9), CONTROL_INPUT_IMPROPER(5), CREW_COORDINATION_FAILURE(5)
+  RE                             accidents=  697  top: CONTROL_INPUT_IMPROPER(535), DECISION_INAPPROPRIATE(457), PROCEDURE_NOT_FOLLOWED(288)
+  RI                             accidents=  448  top: PROCEDURE_NOT_FOLLOWED(220), DECISION_INAPPROPRIATE(185), CONTROL_INPUT_IMPROPER(168)
+  SCF-PP                         accidents= 1842  top: LATENT_MECHANICAL_DEFECT(846), MAINTENANCE_INADEQUATE(721), OTHER_SYSTEM_FAILURE(573)
+  UNCATEGORIZED:FAA_AIDS         accidents= 4668  top: CONTROL_INPUT_IMPROPER(2232), DECISION_INAPPROPRIATE(1449), PROCEDURE_NOT_FOLLOWED(1349)
+  UNCATEGORIZED:NTSB_ASRS        accidents=  690  top: ENGINE_FAILURE(250), LOSS_OF_CONTROL_INFLIGHT(238), CONTROL_INPUT_IMPROPER(225)
+  UNCATEGORIZED:NTSB_REPORT      accidents=    4  top: DECISION_INAPPROPRIATE(2), PROCEDURE_NOT_FOLLOWED(2), ATC_OR_DISPATCH_INADEQUATE(1)
+  USOS                           accidents= 4092  top: ENGINE_FAILURE(3958), DECISION_INAPPROPRIATE(2622), PROCEDURE_NOT_FOLLOWED(2017)
+  WSTRW                          accidents= 2033  top: CONTROL_INPUT_IMPROPER(1213), DECISION_INAPPROPRIATE(882), PERCEPTION_FAILURE(800)
+  WX                             accidents= 1230  top: DECISION_INAPPROPRIATE(884), LOW_VISIBILITY_OR_IMC(571), LOSS_OF_CONTROL_INFLIGHT(414)
+
+Done. 58 categories written.
+=== Sun Jul  5 04:44:10 PM CDT 2026 S3v4 piece 2: LLM causal order (new condition-factor pairs) ===
+Targets: ['EVAC', 'OTHER:NTSB-360', 'HFACS_CAT_01', 'ICE', 'HFACS_CAT_03', 'OTHER:NTSB-172', 'UNCATEGORIZED:NTSB_ASRS', 'OTHER:NTSB-271', 'OTHER:NTSB-171', 'F-NI', 'FUEL', 'AIDS_MANUFACTURER/BUILDER', 'AIDS_MISCELLANEOUS', 'OTHER:NTSB-231', 'OTHER:NTSB-194', 'OTHER:NTSB-132', 'MAC', 'RE', 'UNCATEGORIZED:FAA_AIDS', 'CTOL', 'SCF-PP', 'AIDS_OPDEF', 'BIRD', 'RI', 'USOS', 'OTHER:NTSB-191', 'CFIT', 'ADRM', 'LOC-I', 'OTHER:NTSB-198', 'AIDS_PILOT', 'GCOL', 'OTHER:NTSB-192', 'OTHER:NTSB-150', 'OTHER:NTSB-195', 'AIDS_INADEQUATE', 'OTHER:NTSB-232', 'AIDS_IMPROPER', 'OTHER:NTSB-190', 'ARC', 'AIDS_\\N', 'HFACS_CAT_05', 'OTHER:NTSB-353', 'OTHM', 'OTHER:NTSB-351', 'OTHER:NTSB-352', 'WX', 'HFACS_CAT_02', 'HFACS_CAT_04', 'OTHER:NTSB-196', 'UNCATEGORIZED:NTSB_REPORT', 'ATM', 'OTHER:NTSB-170', 'WSTRW', 'OTHER:NTSB-354', 'AIDS_DESIGN', 'LOC-G', 'AIDS_UNDETERMINED']
+  [EVAC] candidate pairs: 4 (cooccur >= 10, top 300)
+  [EVAC] 4 new pairs to query, 0 cached
+  [EVAC] -> event_extraction/out/aggregate_kg/per_category_llm_order/EVAC.json  (4 pair results)
+  [OTHER:NTSB-360] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-360] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-360] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-360.json  (0 pair results)
+  [HFACS_CAT_01] candidate pairs: 300 (cooccur >= 10, top 300)
+  [HFACS_CAT_01] 300 new pairs to query, 0 cached
+    [HFACS_CAT_01] 50/300 (7.4/s)
+    [HFACS_CAT_01] 100/300 (7.8/s)
+    [HFACS_CAT_01] 150/300 (8.0/s)
+    [HFACS_CAT_01] 200/300 (8.1/s)
+    [HFACS_CAT_01] 250/300 (8.1/s)
+    [HFACS_CAT_01] 300/300 (8.2/s)
+  [HFACS_CAT_01] -> event_extraction/out/aggregate_kg/per_category_llm_order/HFACS_CAT_01.json  (300 pair results)
+  [ICE] candidate pairs: 108 (cooccur >= 10, top 300)
+  [ICE] 47 new pairs to query, 137 cached
+  [ICE] -> event_extraction/out/aggregate_kg/per_category_llm_order/ICE.json  (184 pair results)
+  [HFACS_CAT_03] candidate pairs: 160 (cooccur >= 10, top 300)
+  [HFACS_CAT_03] 160 new pairs to query, 0 cached
+    [HFACS_CAT_03] 50/160 (7.5/s)
+    [HFACS_CAT_03] 100/160 (8.0/s)
+    [HFACS_CAT_03] 150/160 (8.2/s)
+  [HFACS_CAT_03] -> event_extraction/out/aggregate_kg/per_category_llm_order/HFACS_CAT_03.json  (160 pair results)
+  [OTHER:NTSB-172] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-172] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-172] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-172.json  (0 pair results)
+  [UNCATEGORIZED:NTSB_ASRS] candidate pairs: 68 (cooccur >= 10, top 300)
+  [UNCATEGORIZED:NTSB_ASRS] 68 new pairs to query, 0 cached
+    [UNCATEGORIZED:NTSB_ASRS] 50/68 (8.3/s)
+  [UNCATEGORIZED:NTSB_ASRS] -> event_extraction/out/aggregate_kg/per_category_llm_order/UNCATEGORIZED_NTSB_ASRS.json  (68 pair results)
+  [OTHER:NTSB-271] candidate pairs: 8 (cooccur >= 10, top 300)
+  [OTHER:NTSB-271] 8 new pairs to query, 0 cached
+  [OTHER:NTSB-271] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-271.json  (8 pair results)
+  [OTHER:NTSB-171] candidate pairs: 12 (cooccur >= 10, top 300)
+  [OTHER:NTSB-171] 12 new pairs to query, 0 cached
+  [OTHER:NTSB-171] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-171.json  (12 pair results)
+  [F-NI] candidate pairs: 0 (cooccur >= 10, top 300)
+  [F-NI] 0 new pairs to query, 0 cached
+  [F-NI] -> event_extraction/out/aggregate_kg/per_category_llm_order/F-NI.json  (0 pair results)
+  [FUEL] candidate pairs: 13 (cooccur >= 10, top 300)
+  [FUEL] 13 new pairs to query, 0 cached
+  [FUEL] -> event_extraction/out/aggregate_kg/per_category_llm_order/FUEL.json  (13 pair results)
+  [AIDS_MANUFACTURER/BUILDER] candidate pairs: 0 (cooccur >= 10, top 300)
+  [AIDS_MANUFACTURER/BUILDER] 0 new pairs to query, 0 cached
+  [AIDS_MANUFACTURER/BUILDER] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_MANUFACTURER_BUILDER.json  (0 pair results)
+  [AIDS_MISCELLANEOUS] candidate pairs: 28 (cooccur >= 10, top 300)
+  [AIDS_MISCELLANEOUS] 28 new pairs to query, 0 cached
+  [AIDS_MISCELLANEOUS] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_MISCELLANEOUS.json  (28 pair results)
+  [OTHER:NTSB-231] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-231] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-231] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-231.json  (0 pair results)
+  [OTHER:NTSB-194] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-194] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-194] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-194.json  (0 pair results)
+  [OTHER:NTSB-132] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-132] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-132] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-132.json  (0 pair results)
+  [MAC] candidate pairs: 97 (cooccur >= 10, top 300)
+  [MAC] 58 new pairs to query, 110 cached
+    [MAC] 50/58 (7.4/s)
+  [MAC] -> event_extraction/out/aggregate_kg/per_category_llm_order/MAC.json  (168 pair results)
+  [RE] candidate pairs: 68 (cooccur >= 10, top 300)
+  [RE] 42 new pairs to query, 81 cached
+  [RE] -> event_extraction/out/aggregate_kg/per_category_llm_order/RE.json  (123 pair results)
+  [UNCATEGORIZED:FAA_AIDS] candidate pairs: 300 (cooccur >= 10, top 300)
+  [UNCATEGORIZED:FAA_AIDS] 300 new pairs to query, 0 cached
+    [UNCATEGORIZED:FAA_AIDS] 50/300 (7.5/s)
+    [UNCATEGORIZED:FAA_AIDS] 100/300 (8.2/s)
+    [UNCATEGORIZED:FAA_AIDS] 150/300 (8.4/s)
+    [UNCATEGORIZED:FAA_AIDS] 200/300 (8.4/s)
+    [UNCATEGORIZED:FAA_AIDS] 250/300 (8.4/s)
+    [UNCATEGORIZED:FAA_AIDS] 300/300 (8.5/s)
+  [UNCATEGORIZED:FAA_AIDS] -> event_extraction/out/aggregate_kg/per_category_llm_order/UNCATEGORIZED_FAA_AIDS.json  (300 pair results)
+  [CTOL] candidate pairs: 9 (cooccur >= 10, top 300)
+  [CTOL] 9 new pairs to query, 0 cached
+  [CTOL] -> event_extraction/out/aggregate_kg/per_category_llm_order/CTOL.json  (9 pair results)
+  [SCF-PP] candidate pairs: 217 (cooccur >= 10, top 300)
+  [SCF-PP] 115 new pairs to query, 212 cached
+    [SCF-PP] 50/115 (6.8/s)
+    [SCF-PP] 100/115 (7.2/s)
+  [SCF-PP] -> event_extraction/out/aggregate_kg/per_category_llm_order/SCF-PP.json  (327 pair results)
+  [AIDS_OPDEF] candidate pairs: 90 (cooccur >= 10, top 300)
+  [AIDS_OPDEF] 90 new pairs to query, 0 cached
+    [AIDS_OPDEF] 50/90 (7.7/s)
+  [AIDS_OPDEF] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_OPDEF.json  (90 pair results)
+  [BIRD] candidate pairs: 33 (cooccur >= 10, top 300)
+  [BIRD] 33 new pairs to query, 0 cached
+  [BIRD] -> event_extraction/out/aggregate_kg/per_category_llm_order/BIRD.json  (33 pair results)
+  [RI] candidate pairs: 74 (cooccur >= 10, top 300)
+  [RI] 35 new pairs to query, 97 cached
+  [RI] -> event_extraction/out/aggregate_kg/per_category_llm_order/RI.json  (132 pair results)
+  [USOS] candidate pairs: 264 (cooccur >= 10, top 300)
+  [USOS] 181 new pairs to query, 185 cached
+    [USOS] 50/181 (7.3/s)
+    [USOS] 100/181 (7.6/s)
+    [USOS] 150/181 (7.8/s)
+  [USOS] -> event_extraction/out/aggregate_kg/per_category_llm_order/USOS.json  (366 pair results)
+  [OTHER:NTSB-191] candidate pairs: 5 (cooccur >= 10, top 300)
+  [OTHER:NTSB-191] 5 new pairs to query, 0 cached
+  [OTHER:NTSB-191] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-191.json  (5 pair results)
+  [CFIT] candidate pairs: 195 (cooccur >= 10, top 300)
+  [CFIT] 124 new pairs to query, 163 cached
+    [CFIT] 50/124 (7.3/s)
+    [CFIT] 100/124 (7.7/s)
+  [CFIT] -> event_extraction/out/aggregate_kg/per_category_llm_order/CFIT.json  (287 pair results)
+  [ADRM] candidate pairs: 0 (cooccur >= 10, top 300)
+  [ADRM] 0 new pairs to query, 0 cached
+  [ADRM] -> event_extraction/out/aggregate_kg/per_category_llm_order/ADRM.json  (0 pair results)
+  [LOC-I] candidate pairs: 288 (cooccur >= 10, top 300)
+  [LOC-I] 163 new pairs to query, 260 cached
+    [LOC-I] 50/163 (8.1/s)
+    [LOC-I] 100/163 (8.5/s)
+    [LOC-I] 150/163 (8.5/s)
+  [LOC-I] -> event_extraction/out/aggregate_kg/per_category_llm_order/LOC-I.json  (423 pair results)
+  [OTHER:NTSB-198] candidate pairs: 1 (cooccur >= 10, top 300)
+  [OTHER:NTSB-198] 1 new pairs to query, 0 cached=== Sun Jul  5 04:48:38 PM CDT 2026 waiting for vLLM replica on :8000 (piece 2 needs it) ===
+replica :8000 ready (~10s)
+=== Sun Jul  5 04:48:38 PM CDT 2026 S3v4 piece 1: precedence matrices (47-factor vocab) ===
+Streaming full_corpus_v4.jsonl…
+
+Writing per-category matrices -> event_extraction/out/aggregate_kg/per_category_precedence
+  ADRM                           accidents=   20  top: LOSS_OF_CONTROL_INFLIGHT(6), LOW_VISIBILITY_OR_IMC(5), LATENT_MECHANICAL_DEFECT(4)
+  AIDS_DESIGN                    accidents=   11  top: PROCEDURE_NOT_FOLLOWED(8), DECISION_INAPPROPRIATE(7), LATENT_MECHANICAL_DEFECT(5)
+  AIDS_IMPROPER                  accidents=  167  top: MAINTENANCE_INADEQUATE(120), LATENT_MECHANICAL_DEFECT(87), ENGINE_FAILURE(82)
+  AIDS_INADEQUATE                accidents=   57  top: MAINTENANCE_INADEQUATE(42), ENGINE_FAILURE(32), LATENT_MECHANICAL_DEFECT(29)
+  AIDS_MANUFACTURER/BUILDER      accidents=   25  top: MAINTENANCE_INADEQUATE(14), LATENT_MECHANICAL_DEFECT(12), AIRFRAME_STRUCTURAL_FAILURE(11)
+  AIDS_MISCELLANEOUS             accidents=  343  top: CONTROL_INPUT_IMPROPER(138), PROCEDURE_NOT_FOLLOWED(102), GROUND_PERSONNEL_ERROR(82)
+  AIDS_OPDEF                     accidents=  907  top: ENGINE_FAILURE(456), DECISION_INAPPROPRIATE(401), PROCEDURE_NOT_FOLLOWED(329)
+  AIDS_PILOT                     accidents= 3755  top: CONTROL_INPUT_IMPROPER(2256), DECISION_INAPPROPRIATE(1479), PROCEDURE_NOT_FOLLOWED(1204)
+  AIDS_UNDETERMINED              accidents=  167  top: ENGINE_FAILURE(77), DECISION_INAPPROPRIATE(66), CONTROL_INPUT_IMPROPER(50)
+  AIDS_\N                        accidents= 2462  top: CONTROL_INPUT_IMPROPER(1262), DECISION_INAPPROPRIATE(820), PROCEDURE_NOT_FOLLOWED(802)
+  ARC                            accidents= 2774  top: ENGINE_FAILURE(2488), DECISION_INAPPROPRIATE(1450), PROCEDURE_NOT_FOLLOWED(1170)
+  ATM                            accidents=   41  top: DECISION_INAPPROPRIATE(18), LOW_VISIBILITY_OR_IMC(11), PERCEPTION_FAILURE(7)
+  BIRD                           accidents=  304  top: CONTROL_INPUT_IMPROPER(271), PERCEPTION_FAILURE(160), DECISION_INAPPROPRIATE(81)
+  CFIT                           accidents= 1454  top: DECISION_INAPPROPRIATE(752), CONTROL_INPUT_IMPROPER(742), MOUNTAINOUS_OR_RISING_TERRAIN(436)
+  CTOL                           accidents=  168  top: PERCEPTION_FAILURE(159), PROCEDURE_NOT_FOLLOWED(57), ADVERSE_WIND_CONDITION(32)
+  EVAC                           accidents=   48  top: TURBULENCE_ENCOUNTER(43), LOSS_OF_CONTROL_INFLIGHT(31), DECISION_INAPPROPRIATE(20)
+  F-NI                           accidents=    3  top: DECISION_INAPPROPRIATE(2), PROCEDURE_NOT_FOLLOWED(2), INFLIGHT_FIRE_OR_SMOKE(2)
+  FUEL                           accidents=  139  top: CONTROL_INPUT_IMPROPER(124), ADVERSE_WIND_CONDITION(59), LOSS_OF_CONTROL_GROUND(51)
+  GCOL                           accidents=  642  top: CONTROL_INPUT_IMPROPER(378), DECISION_INAPPROPRIATE(345), RUNWAY_CONDITION_HAZARD(328)
+  HFACS_CAT_01                   accidents= 7627  top: CONTROL_INPUT_IMPROPER(3864), DECISION_INAPPROPRIATE(2930), ENGINE_FAILURE(2754)
+  HFACS_CAT_02                   accidents= 6247  top: CONTROL_INPUT_IMPROPER(3866), DECISION_INAPPROPRIATE(2558), PROCEDURE_NOT_FOLLOWED(1655)
+  HFACS_CAT_03                   accidents= 1434  top: CONTROL_INPUT_IMPROPER(639), DECISION_INAPPROPRIATE(513), PROCEDURE_NOT_FOLLOWED(380)
+  HFACS_CAT_04                   accidents=   29  top: ORG_OR_REGULATORY_INADEQUATE(14), LATENT_MECHANICAL_DEFECT(12), PROCEDURE_NOT_FOLLOWED(9)
+  HFACS_CAT_05                   accidents= 1270  top: ENGINE_FAILURE(851), DECISION_INAPPROPRIATE(497), PROCEDURE_NOT_FOLLOWED(459)
+  ICE                            accidents= 1465  top: CONTROL_INPUT_IMPROPER(1400), ADVERSE_WIND_CONDITION(354), PROCEDURE_NOT_FOLLOWED(338)
+  LOC-G                          accidents= 3048  top: LOSS_OF_CONTROL_GROUND(2723), CONTROL_INPUT_IMPROPER(2555), ADVERSE_WIND_CONDITION(1392)
+  LOC-I                          accidents= 3852  top: LOSS_OF_CONTROL_INFLIGHT(2937), CONTROL_INPUT_IMPROPER(2601), STALL(1911)
+  MAC                            accidents= 1128  top: CONTROL_INPUT_IMPROPER(688), DECISION_INAPPROPRIATE(365), PERCEPTION_FAILURE(354)
+  OTHER:NTSB-132                 accidents=    2  top: LOSS_OF_CONTROL_INFLIGHT(2), DECISION_INAPPROPRIATE(1), PERCEPTION_FAILURE(1)
+  OTHER:NTSB-150                 accidents=    7  top: DECISION_INAPPROPRIATE(6), PROCEDURE_NOT_FOLLOWED(3), PERCEPTION_FAILURE(3)
+  OTHER:NTSB-170                 accidents=   10  top: INFLIGHT_FIRE_OR_SMOKE(9), PROCEDURE_NOT_FOLLOWED(5), GROUND_PERSONNEL_ERROR(3)
+  OTHER:NTSB-171                 accidents=  102  top: INFLIGHT_FIRE_OR_SMOKE(100), PROCEDURE_NOT_FOLLOWED(42), MAINTENANCE_INADEQUATE(38)
+  OTHER:NTSB-172                 accidents=    7  top: INFLIGHT_FIRE_OR_SMOKE(7), MAINTENANCE_INADEQUATE(5), LATENT_MECHANICAL_DEFECT(5)
+  OTHER:NTSB-190                 accidents=  124  top: LANDING_GEAR_ANOMALY(110), LATENT_MECHANICAL_DEFECT(61), CONTROL_INPUT_IMPROPER(34)
+  OTHER:NTSB-191                 accidents=   85  top: LANDING_GEAR_ANOMALY(76), LATENT_MECHANICAL_DEFECT(41), CONTROL_INPUT_IMPROPER(21)
+  OTHER:NTSB-192                 accidents=   54  top: LANDING_GEAR_ANOMALY(45), CONTROL_INPUT_IMPROPER(22), LATENT_MECHANICAL_DEFECT(20)
+  OTHER:NTSB-194                 accidents=    7  top: LANDING_GEAR_ANOMALY(7), CONTROL_INPUT_IMPROPER(5), LATENT_MECHANICAL_DEFECT(3)
+  OTHER:NTSB-195                 accidents=    1  top: LANDING_GEAR_ANOMALY(1), MAINTENANCE_INADEQUATE(1), DECISION_INAPPROPRIATE(0)
+  OTHER:NTSB-196                 accidents=   16  top: PROCEDURE_NOT_FOLLOWED(14), LANDING_GEAR_ANOMALY(10), PERCEPTION_FAILURE(7)
+  OTHER:NTSB-198                 accidents=   24  top: LANDING_GEAR_ANOMALY(23), CONTROL_INPUT_IMPROPER(19), PROCEDURE_NOT_FOLLOWED(6)
+  OTHER:NTSB-231                 accidents=    4  top: PROCEDURE_NOT_FOLLOWED(4), PERCEPTION_FAILURE(3), LANDING_GEAR_ANOMALY(2)
+  OTHER:NTSB-232                 accidents=  154  top: PROCEDURE_NOT_FOLLOWED(137), PERCEPTION_FAILURE(93), LANDING_GEAR_ANOMALY(61)
+  OTHER:NTSB-271                 accidents=  132  top: PERCEPTION_FAILURE(108), CONTROL_INPUT_IMPROPER(66), PROCEDURE_NOT_FOLLOWED(37)
+  OTHER:NTSB-351                 accidents=   52  top: ENGINE_FAILURE(52), LATENT_MECHANICAL_DEFECT(25), PROCEDURE_NOT_FOLLOWED(18)
+  OTHER:NTSB-352                 accidents=   24  top: ENGINE_FAILURE(22), MAINTENANCE_INADEQUATE(13), LATENT_MECHANICAL_DEFECT(11)
+  OTHER:NTSB-353                 accidents=   29  top: ENGINE_FAILURE(28), DECISION_INAPPROPRIATE(23), FUEL_EXHAUSTION_OR_STARVATION(19)
+  OTHER:NTSB-354                 accidents=    7  top: ENGINE_FAILURE(7), PROCEDURE_NOT_FOLLOWED(6), DECISION_INAPPROPRIATE(3)
+  OTHER:NTSB-360                 accidents=   11  top: GROUND_PERSONNEL_ERROR(7), TURBULENCE_ENCOUNTER(6), DECISION_INAPPROPRIATE(4)
+  OTHM                           accidents=   11  top: PROCEDURE_NOT_FOLLOWED(9), CONTROL_INPUT_IMPROPER(5), CREW_COORDINATION_FAILURE(5)
+  RE                             accidents=  697  top: CONTROL_INPUT_IMPROPER(535), DECISION_INAPPROPRIATE(457), PROCEDURE_NOT_FOLLOWED(288)
+  RI                             accidents=  448  top: PROCEDURE_NOT_FOLLOWED(220), DECISION_INAPPROPRIATE(185), CONTROL_INPUT_IMPROPER(168)
+  SCF-PP                         accidents= 1842  top: LATENT_MECHANICAL_DEFECT(846), MAINTENANCE_INADEQUATE(721), OTHER_SYSTEM_FAILURE(573)
+  UNCATEGORIZED:FAA_AIDS         accidents= 4668  top: CONTROL_INPUT_IMPROPER(2232), DECISION_INAPPROPRIATE(1449), PROCEDURE_NOT_FOLLOWED(1349)
+  UNCATEGORIZED:NTSB_ASRS        accidents=  690  top: ENGINE_FAILURE(250), LOSS_OF_CONTROL_INFLIGHT(238), CONTROL_INPUT_IMPROPER(225)
+  UNCATEGORIZED:NTSB_REPORT      accidents=    4  top: DECISION_INAPPROPRIATE(2), PROCEDURE_NOT_FOLLOWED(2), ATC_OR_DISPATCH_INADEQUATE(1)
+  USOS                           accidents= 4092  top: ENGINE_FAILURE(3958), DECISION_INAPPROPRIATE(2622), PROCEDURE_NOT_FOLLOWED(2017)
+  WSTRW                          accidents= 2033  top: CONTROL_INPUT_IMPROPER(1213), DECISION_INAPPROPRIATE(882), PERCEPTION_FAILURE(800)
+  WX                             accidents= 1230  top: DECISION_INAPPROPRIATE(884), LOW_VISIBILITY_OR_IMC(571), LOSS_OF_CONTROL_INFLIGHT(414)
+
+Done. 58 categories written.
+=== Sun Jul  5 04:48:41 PM CDT 2026 S3v4 piece 2: LLM causal order ===
+Targets: ['EVAC', 'OTHER:NTSB-360', 'HFACS_CAT_01', 'ICE', 'HFACS_CAT_03', 'OTHER:NTSB-172', 'UNCATEGORIZED:NTSB_ASRS', 'OTHER:NTSB-271', 'OTHER:NTSB-171', 'F-NI', 'FUEL', 'AIDS_MANUFACTURER/BUILDER', 'AIDS_MISCELLANEOUS', 'OTHER:NTSB-231', 'OTHER:NTSB-194', 'OTHER:NTSB-132', 'MAC', 'RE', 'UNCATEGORIZED:FAA_AIDS', 'CTOL', 'SCF-PP', 'AIDS_OPDEF', 'BIRD', 'RI', 'USOS', 'OTHER:NTSB-191', 'CFIT', 'ADRM', 'LOC-I', 'OTHER:NTSB-198', 'AIDS_PILOT', 'GCOL', 'OTHER:NTSB-192', 'OTHER:NTSB-150', 'OTHER:NTSB-195', 'AIDS_INADEQUATE', 'OTHER:NTSB-232', 'AIDS_IMPROPER', 'OTHER:NTSB-190', 'ARC', 'AIDS_\\N', 'HFACS_CAT_05', 'OTHER:NTSB-353', 'OTHM', 'OTHER:NTSB-351', 'OTHER:NTSB-352', 'WX', 'HFACS_CAT_02', 'HFACS_CAT_04', 'OTHER:NTSB-196', 'UNCATEGORIZED:NTSB_REPORT', 'ATM', 'OTHER:NTSB-170', 'WSTRW', 'OTHER:NTSB-354', 'AIDS_DESIGN', 'LOC-G', 'AIDS_UNDETERMINED']
+  [EVAC] candidate pairs: 4 (cooccur >= 10, top 300)
+  [EVAC] 0 new pairs to query, 4 cached
+  [EVAC] -> event_extraction/out/aggregate_kg/per_category_llm_order/EVAC.json  (4 pair results)
+  [OTHER:NTSB-360] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-360] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-360] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-360.json  (0 pair results)
+  [HFACS_CAT_01] candidate pairs: 300 (cooccur >= 10, top 300)
+  [HFACS_CAT_01] 0 new pairs to query, 300 cached
+  [HFACS_CAT_01] -> event_extraction/out/aggregate_kg/per_category_llm_order/HFACS_CAT_01.json  (300 pair results)
+  [ICE] candidate pairs: 108 (cooccur >= 10, top 300)
+  [ICE] 0 new pairs to query, 184 cached
+  [ICE] -> event_extraction/out/aggregate_kg/per_category_llm_order/ICE.json  (184 pair results)
+  [HFACS_CAT_03] candidate pairs: 160 (cooccur >= 10, top 300)
+  [HFACS_CAT_03] 0 new pairs to query, 160 cached
+  [HFACS_CAT_03] -> event_extraction/out/aggregate_kg/per_category_llm_order/HFACS_CAT_03.json  (160 pair results)
+  [OTHER:NTSB-172] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-172] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-172] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-172.json  (0 pair results)
+  [UNCATEGORIZED:NTSB_ASRS] candidate pairs: 68 (cooccur >= 10, top 300)
+  [UNCATEGORIZED:NTSB_ASRS] 0 new pairs to query, 68 cached
+  [UNCATEGORIZED:NTSB_ASRS] -> event_extraction/out/aggregate_kg/per_category_llm_order/UNCATEGORIZED_NTSB_ASRS.json  (68 pair results)
+  [OTHER:NTSB-271] candidate pairs: 8 (cooccur >= 10, top 300)
+  [OTHER:NTSB-271] 0 new pairs to query, 8 cached
+  [OTHER:NTSB-271] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-271.json  (8 pair results)
+  [OTHER:NTSB-171] candidate pairs: 12 (cooccur >= 10, top 300)
+  [OTHER:NTSB-171] 0 new pairs to query, 12 cached
+  [OTHER:NTSB-171] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-171.json  (12 pair results)
+  [F-NI] candidate pairs: 0 (cooccur >= 10, top 300)
+  [F-NI] 0 new pairs to query, 0 cached
+  [F-NI] -> event_extraction/out/aggregate_kg/per_category_llm_order/F-NI.json  (0 pair results)
+  [FUEL] candidate pairs: 13 (cooccur >= 10, top 300)
+  [FUEL] 0 new pairs to query, 13 cached
+  [FUEL] -> event_extraction/out/aggregate_kg/per_category_llm_order/FUEL.json  (13 pair results)
+  [AIDS_MANUFACTURER/BUILDER] candidate pairs: 0 (cooccur >= 10, top 300)
+  [AIDS_MANUFACTURER/BUILDER] 0 new pairs to query, 0 cached
+  [AIDS_MANUFACTURER/BUILDER] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_MANUFACTURER_BUILDER.json  (0 pair results)
+  [AIDS_MISCELLANEOUS] candidate pairs: 28 (cooccur >= 10, top 300)
+  [AIDS_MISCELLANEOUS] 0 new pairs to query, 28 cached
+  [AIDS_MISCELLANEOUS] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_MISCELLANEOUS.json  (28 pair results)
+  [OTHER:NTSB-231] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-231] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-231] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-231.json  (0 pair results)
+  [OTHER:NTSB-194] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-194] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-194] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-194.json  (0 pair results)
+  [OTHER:NTSB-132] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-132] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-132] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-132.json  (0 pair results)
+  [MAC] candidate pairs: 97 (cooccur >= 10, top 300)
+  [MAC] 0 new pairs to query, 168 cached
+  [MAC] -> event_extraction/out/aggregate_kg/per_category_llm_order/MAC.json  (168 pair results)
+  [RE] candidate pairs: 68 (cooccur >= 10, top 300)
+  [RE] 0 new pairs to query, 123 cached
+  [RE] -> event_extraction/out/aggregate_kg/per_category_llm_order/RE.json  (123 pair results)
+  [UNCATEGORIZED:FAA_AIDS] candidate pairs: 300 (cooccur >= 10, top 300)
+  [UNCATEGORIZED:FAA_AIDS] 0 new pairs to query, 300 cached
+  [UNCATEGORIZED:FAA_AIDS] -> event_extraction/out/aggregate_kg/per_category_llm_order/UNCATEGORIZED_FAA_AIDS.json  (300 pair results)
+  [CTOL] candidate pairs: 9 (cooccur >= 10, top 300)
+  [CTOL] 0 new pairs to query, 9 cached
+  [CTOL] -> event_extraction/out/aggregate_kg/per_category_llm_order/CTOL.json  (9 pair results)
+  [SCF-PP] candidate pairs: 217 (cooccur >= 10, top 300)
+  [SCF-PP] 0 new pairs to query, 327 cached
+  [SCF-PP] -> event_extraction/out/aggregate_kg/per_category_llm_order/SCF-PP.json  (327 pair results)
+  [AIDS_OPDEF] candidate pairs: 90 (cooccur >= 10, top 300)
+  [AIDS_OPDEF] 0 new pairs to query, 90 cached
+  [AIDS_OPDEF] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_OPDEF.json  (90 pair results)
+  [BIRD] candidate pairs: 33 (cooccur >= 10, top 300)
+  [BIRD] 0 new pairs to query, 33 cached
+  [BIRD] -> event_extraction/out/aggregate_kg/per_category_llm_order/BIRD.json  (33 pair results)
+  [RI] candidate pairs: 74 (cooccur >= 10, top 300)
+  [RI] 0 new pairs to query, 132 cached
+  [RI] -> event_extraction/out/aggregate_kg/per_category_llm_order/RI.json  (132 pair results)
+  [USOS] candidate pairs: 264 (cooccur >= 10, top 300)
+  [USOS] 0 new pairs to query, 366 cached
+  [USOS] -> event_extraction/out/aggregate_kg/per_category_llm_order/USOS.json  (366 pair results)
+  [OTHER:NTSB-191] candidate pairs: 5 (cooccur >= 10, top 300)
+  [OTHER:NTSB-191] 0 new pairs to query, 5 cached
+  [OTHER:NTSB-191] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-191.json  (5 pair results)
+  [CFIT] candidate pairs: 195 (cooccur >= 10, top 300)
+  [CFIT] 0 new pairs to query, 287 cached
+  [CFIT] -> event_extraction/out/aggregate_kg/per_category_llm_order/CFIT.json  (287 pair results)
+  [ADRM] candidate pairs: 0 (cooccur >= 10, top 300)
+  [ADRM] 0 new pairs to query, 0 cached
+  [ADRM] -> event_extraction/out/aggregate_kg/per_category_llm_order/ADRM.json  (0 pair results)
+  [LOC-I] candidate pairs: 288 (cooccur >= 10, top 300)
+  [LOC-I] 0 new pairs to query, 423 cached
+  [LOC-I] -> event_extraction/out/aggregate_kg/per_category_llm_order/LOC-I.json  (423 pair results)
+  [OTHER:NTSB-198] candidate pairs: 1 (cooccur >= 10, top 300)
+  [OTHER:NTSB-198] 0 new pairs to query, 1 cached
+  [OTHER:NTSB-198] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-198.json  (1 pair results)
+  [AIDS_PILOT] candidate pairs: 300 (cooccur >= 10, top 300)
+  [AIDS_PILOT] 300 new pairs to query, 0 cached
+    [AIDS_PILOT] 50/300 (7.7/s)
+    [AIDS_PILOT] 100/300 (8.3/s)
+    [AIDS_PILOT] 150/300 (8.2/s)
+    [AIDS_PILOT] 200/300 (8.4/s)
+    [AIDS_PILOT] 250/300 (8.3/s)
+    [AIDS_PILOT] 300/300 (8.5/s)
+  [AIDS_PILOT] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_PILOT.json  (300 pair results)
+  [GCOL] candidate pairs: 67 (cooccur >= 10, top 300)
+  [GCOL] 67 new pairs to query, 0 cached
+    [GCOL] 50/67 (7.7/s)
+  [GCOL] -> event_extraction/out/aggregate_kg/per_category_llm_order/GCOL.json  (67 pair results)
+  [OTHER:NTSB-192] candidate pairs: 4 (cooccur >= 10, top 300)
+  [OTHER:NTSB-192] 4 new pairs to query, 0 cached
+  [OTHER:NTSB-192] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-192.json  (4 pair results)=== Sun Jul  5 04:50:48 PM CDT 2026 waiting for vLLM replica on :8000 (piece 2 needs it) ===
+replica :8000 ready (~70s)
+=== Sun Jul  5 04:51:57 PM CDT 2026 S3v4 piece 1: precedence matrices (47-factor vocab) ===
+Streaming full_corpus_v4.jsonl…
+
+Writing per-category matrices -> event_extraction/out/aggregate_kg/per_category_precedence
+  ADRM                           accidents=   20  top: LOSS_OF_CONTROL_INFLIGHT(6), LOW_VISIBILITY_OR_IMC(5), LATENT_MECHANICAL_DEFECT(4)
+  AIDS_DESIGN                    accidents=   11  top: PROCEDURE_NOT_FOLLOWED(8), DECISION_INAPPROPRIATE(7), LATENT_MECHANICAL_DEFECT(5)
+  AIDS_IMPROPER                  accidents=  167  top: MAINTENANCE_INADEQUATE(120), LATENT_MECHANICAL_DEFECT(87), ENGINE_FAILURE(82)
+  AIDS_INADEQUATE                accidents=   57  top: MAINTENANCE_INADEQUATE(42), ENGINE_FAILURE(32), LATENT_MECHANICAL_DEFECT(29)
+  AIDS_MANUFACTURER/BUILDER      accidents=   25  top: MAINTENANCE_INADEQUATE(14), LATENT_MECHANICAL_DEFECT(12), AIRFRAME_STRUCTURAL_FAILURE(11)
+  AIDS_MISCELLANEOUS             accidents=  343  top: CONTROL_INPUT_IMPROPER(138), PROCEDURE_NOT_FOLLOWED(102), GROUND_PERSONNEL_ERROR(82)
+  AIDS_OPDEF                     accidents=  907  top: ENGINE_FAILURE(456), DECISION_INAPPROPRIATE(401), PROCEDURE_NOT_FOLLOWED(329)
+  AIDS_PILOT                     accidents= 3755  top: CONTROL_INPUT_IMPROPER(2256), DECISION_INAPPROPRIATE(1479), PROCEDURE_NOT_FOLLOWED(1204)
+  AIDS_UNDETERMINED              accidents=  167  top: ENGINE_FAILURE(77), DECISION_INAPPROPRIATE(66), CONTROL_INPUT_IMPROPER(50)
+  AIDS_\N                        accidents= 2462  top: CONTROL_INPUT_IMPROPER(1262), DECISION_INAPPROPRIATE(820), PROCEDURE_NOT_FOLLOWED(802)
+  ARC                            accidents= 2774  top: ENGINE_FAILURE(2488), DECISION_INAPPROPRIATE(1450), PROCEDURE_NOT_FOLLOWED(1170)
+  ATM                            accidents=   41  top: DECISION_INAPPROPRIATE(18), LOW_VISIBILITY_OR_IMC(11), PERCEPTION_FAILURE(7)
+  BIRD                           accidents=  304  top: CONTROL_INPUT_IMPROPER(271), PERCEPTION_FAILURE(160), DECISION_INAPPROPRIATE(81)
+  CFIT                           accidents= 1454  top: DECISION_INAPPROPRIATE(752), CONTROL_INPUT_IMPROPER(742), MOUNTAINOUS_OR_RISING_TERRAIN(436)
+  CTOL                           accidents=  168  top: PERCEPTION_FAILURE(159), PROCEDURE_NOT_FOLLOWED(57), ADVERSE_WIND_CONDITION(32)
+  EVAC                           accidents=   48  top: TURBULENCE_ENCOUNTER(43), LOSS_OF_CONTROL_INFLIGHT(31), DECISION_INAPPROPRIATE(20)
+  F-NI                           accidents=    3  top: DECISION_INAPPROPRIATE(2), PROCEDURE_NOT_FOLLOWED(2), INFLIGHT_FIRE_OR_SMOKE(2)
+  FUEL                           accidents=  139  top: CONTROL_INPUT_IMPROPER(124), ADVERSE_WIND_CONDITION(59), LOSS_OF_CONTROL_GROUND(51)
+  GCOL                           accidents=  642  top: CONTROL_INPUT_IMPROPER(378), DECISION_INAPPROPRIATE(345), RUNWAY_CONDITION_HAZARD(328)
+  HFACS_CAT_01                   accidents= 7627  top: CONTROL_INPUT_IMPROPER(3864), DECISION_INAPPROPRIATE(2930), ENGINE_FAILURE(2754)
+  HFACS_CAT_02                   accidents= 6247  top: CONTROL_INPUT_IMPROPER(3866), DECISION_INAPPROPRIATE(2558), PROCEDURE_NOT_FOLLOWED(1655)
+  HFACS_CAT_03                   accidents= 1434  top: CONTROL_INPUT_IMPROPER(639), DECISION_INAPPROPRIATE(513), PROCEDURE_NOT_FOLLOWED(380)
+  HFACS_CAT_04                   accidents=   29  top: ORG_OR_REGULATORY_INADEQUATE(14), LATENT_MECHANICAL_DEFECT(12), PROCEDURE_NOT_FOLLOWED(9)
+  HFACS_CAT_05                   accidents= 1270  top: ENGINE_FAILURE(851), DECISION_INAPPROPRIATE(497), PROCEDURE_NOT_FOLLOWED(459)
+  ICE                            accidents= 1465  top: CONTROL_INPUT_IMPROPER(1400), ADVERSE_WIND_CONDITION(354), PROCEDURE_NOT_FOLLOWED(338)
+  LOC-G                          accidents= 3048  top: LOSS_OF_CONTROL_GROUND(2723), CONTROL_INPUT_IMPROPER(2555), ADVERSE_WIND_CONDITION(1392)
+  LOC-I                          accidents= 3852  top: LOSS_OF_CONTROL_INFLIGHT(2937), CONTROL_INPUT_IMPROPER(2601), STALL(1911)
+  MAC                            accidents= 1128  top: CONTROL_INPUT_IMPROPER(688), DECISION_INAPPROPRIATE(365), PERCEPTION_FAILURE(354)
+  OTHER:NTSB-132                 accidents=    2  top: LOSS_OF_CONTROL_INFLIGHT(2), DECISION_INAPPROPRIATE(1), PERCEPTION_FAILURE(1)
+  OTHER:NTSB-150                 accidents=    7  top: DECISION_INAPPROPRIATE(6), PROCEDURE_NOT_FOLLOWED(3), PERCEPTION_FAILURE(3)
+  OTHER:NTSB-170                 accidents=   10  top: INFLIGHT_FIRE_OR_SMOKE(9), PROCEDURE_NOT_FOLLOWED(5), GROUND_PERSONNEL_ERROR(3)
+  OTHER:NTSB-171                 accidents=  102  top: INFLIGHT_FIRE_OR_SMOKE(100), PROCEDURE_NOT_FOLLOWED(42), MAINTENANCE_INADEQUATE(38)
+  OTHER:NTSB-172                 accidents=    7  top: INFLIGHT_FIRE_OR_SMOKE(7), MAINTENANCE_INADEQUATE(5), LATENT_MECHANICAL_DEFECT(5)
+  OTHER:NTSB-190                 accidents=  124  top: LANDING_GEAR_ANOMALY(110), LATENT_MECHANICAL_DEFECT(61), CONTROL_INPUT_IMPROPER(34)
+  OTHER:NTSB-191                 accidents=   85  top: LANDING_GEAR_ANOMALY(76), LATENT_MECHANICAL_DEFECT(41), CONTROL_INPUT_IMPROPER(21)
+  OTHER:NTSB-192                 accidents=   54  top: LANDING_GEAR_ANOMALY(45), CONTROL_INPUT_IMPROPER(22), LATENT_MECHANICAL_DEFECT(20)
+  OTHER:NTSB-194                 accidents=    7  top: LANDING_GEAR_ANOMALY(7), CONTROL_INPUT_IMPROPER(5), LATENT_MECHANICAL_DEFECT(3)
+  OTHER:NTSB-195                 accidents=    1  top: LANDING_GEAR_ANOMALY(1), MAINTENANCE_INADEQUATE(1), DECISION_INAPPROPRIATE(0)
+  OTHER:NTSB-196                 accidents=   16  top: PROCEDURE_NOT_FOLLOWED(14), LANDING_GEAR_ANOMALY(10), PERCEPTION_FAILURE(7)
+  OTHER:NTSB-198                 accidents=   24  top: LANDING_GEAR_ANOMALY(23), CONTROL_INPUT_IMPROPER(19), PROCEDURE_NOT_FOLLOWED(6)
+  OTHER:NTSB-231                 accidents=    4  top: PROCEDURE_NOT_FOLLOWED(4), PERCEPTION_FAILURE(3), LANDING_GEAR_ANOMALY(2)
+  OTHER:NTSB-232                 accidents=  154  top: PROCEDURE_NOT_FOLLOWED(137), PERCEPTION_FAILURE(93), LANDING_GEAR_ANOMALY(61)
+  OTHER:NTSB-271                 accidents=  132  top: PERCEPTION_FAILURE(108), CONTROL_INPUT_IMPROPER(66), PROCEDURE_NOT_FOLLOWED(37)
+  OTHER:NTSB-351                 accidents=   52  top: ENGINE_FAILURE(52), LATENT_MECHANICAL_DEFECT(25), PROCEDURE_NOT_FOLLOWED(18)
+  OTHER:NTSB-352                 accidents=   24  top: ENGINE_FAILURE(22), MAINTENANCE_INADEQUATE(13), LATENT_MECHANICAL_DEFECT(11)
+  OTHER:NTSB-353                 accidents=   29  top: ENGINE_FAILURE(28), DECISION_INAPPROPRIATE(23), FUEL_EXHAUSTION_OR_STARVATION(19)
+  OTHER:NTSB-354                 accidents=    7  top: ENGINE_FAILURE(7), PROCEDURE_NOT_FOLLOWED(6), DECISION_INAPPROPRIATE(3)
+  OTHER:NTSB-360                 accidents=   11  top: GROUND_PERSONNEL_ERROR(7), TURBULENCE_ENCOUNTER(6), DECISION_INAPPROPRIATE(4)
+  OTHM                           accidents=   11  top: PROCEDURE_NOT_FOLLOWED(9), CONTROL_INPUT_IMPROPER(5), CREW_COORDINATION_FAILURE(5)
+  RE                             accidents=  697  top: CONTROL_INPUT_IMPROPER(535), DECISION_INAPPROPRIATE(457), PROCEDURE_NOT_FOLLOWED(288)
+  RI                             accidents=  448  top: PROCEDURE_NOT_FOLLOWED(220), DECISION_INAPPROPRIATE(185), CONTROL_INPUT_IMPROPER(168)
+  SCF-PP                         accidents= 1842  top: LATENT_MECHANICAL_DEFECT(846), MAINTENANCE_INADEQUATE(721), OTHER_SYSTEM_FAILURE(573)
+  UNCATEGORIZED:FAA_AIDS         accidents= 4668  top: CONTROL_INPUT_IMPROPER(2232), DECISION_INAPPROPRIATE(1449), PROCEDURE_NOT_FOLLOWED(1349)
+  UNCATEGORIZED:NTSB_ASRS        accidents=  690  top: ENGINE_FAILURE(250), LOSS_OF_CONTROL_INFLIGHT(238), CONTROL_INPUT_IMPROPER(225)
+  UNCATEGORIZED:NTSB_REPORT      accidents=    4  top: DECISION_INAPPROPRIATE(2), PROCEDURE_NOT_FOLLOWED(2), ATC_OR_DISPATCH_INADEQUATE(1)
+  USOS                           accidents= 4092  top: ENGINE_FAILURE(3958), DECISION_INAPPROPRIATE(2622), PROCEDURE_NOT_FOLLOWED(2017)
+  WSTRW                          accidents= 2033  top: CONTROL_INPUT_IMPROPER(1213), DECISION_INAPPROPRIATE(882), PERCEPTION_FAILURE(800)
+  WX                             accidents= 1230  top: DECISION_INAPPROPRIATE(884), LOW_VISIBILITY_OR_IMC(571), LOSS_OF_CONTROL_INFLIGHT(414)
+
+Done. 58 categories written.
+=== Sun Jul  5 04:52:00 PM CDT 2026 S3v4 piece 2: LLM causal order ===
+Targets: ['EVAC', 'OTHER:NTSB-360', 'HFACS_CAT_01', 'ICE', 'HFACS_CAT_03', 'OTHER:NTSB-172', 'UNCATEGORIZED:NTSB_ASRS', 'OTHER:NTSB-271', 'OTHER:NTSB-171', 'F-NI', 'FUEL', 'AIDS_MANUFACTURER/BUILDER', 'AIDS_MISCELLANEOUS', 'OTHER:NTSB-231', 'OTHER:NTSB-194', 'OTHER:NTSB-132', 'MAC', 'RE', 'UNCATEGORIZED:FAA_AIDS', 'CTOL', 'SCF-PP', 'AIDS_OPDEF', 'BIRD', 'RI', 'USOS', 'OTHER:NTSB-191', 'CFIT', 'ADRM', 'LOC-I', 'OTHER:NTSB-198', 'AIDS_PILOT', 'GCOL', 'OTHER:NTSB-192', 'OTHER:NTSB-150', 'OTHER:NTSB-195', 'AIDS_INADEQUATE', 'OTHER:NTSB-232', 'AIDS_IMPROPER', 'OTHER:NTSB-190', 'ARC', 'AIDS_\\N', 'HFACS_CAT_05', 'OTHER:NTSB-353', 'OTHM', 'OTHER:NTSB-351', 'OTHER:NTSB-352', 'WX', 'HFACS_CAT_02', 'HFACS_CAT_04', 'OTHER:NTSB-196', 'UNCATEGORIZED:NTSB_REPORT', 'ATM', 'OTHER:NTSB-170', 'WSTRW', 'OTHER:NTSB-354', 'AIDS_DESIGN', 'LOC-G', 'AIDS_UNDETERMINED']
+  [EVAC] candidate pairs: 4 (cooccur >= 10, top 300)
+  [EVAC] 0 new pairs to query, 4 cached
+  [EVAC] -> event_extraction/out/aggregate_kg/per_category_llm_order/EVAC.json  (4 pair results)
+  [OTHER:NTSB-360] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-360] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-360] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-360.json  (0 pair results)
+  [HFACS_CAT_01] candidate pairs: 300 (cooccur >= 10, top 300)
+  [HFACS_CAT_01] 0 new pairs to query, 300 cached
+  [HFACS_CAT_01] -> event_extraction/out/aggregate_kg/per_category_llm_order/HFACS_CAT_01.json  (300 pair results)
+  [ICE] candidate pairs: 108 (cooccur >= 10, top 300)
+  [ICE] 0 new pairs to query, 184 cached
+  [ICE] -> event_extraction/out/aggregate_kg/per_category_llm_order/ICE.json  (184 pair results)
+  [HFACS_CAT_03] candidate pairs: 160 (cooccur >= 10, top 300)
+  [HFACS_CAT_03] 0 new pairs to query, 160 cached
+  [HFACS_CAT_03] -> event_extraction/out/aggregate_kg/per_category_llm_order/HFACS_CAT_03.json  (160 pair results)
+  [OTHER:NTSB-172] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-172] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-172] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-172.json  (0 pair results)
+  [UNCATEGORIZED:NTSB_ASRS] candidate pairs: 68 (cooccur >= 10, top 300)
+  [UNCATEGORIZED:NTSB_ASRS] 0 new pairs to query, 68 cached
+  [UNCATEGORIZED:NTSB_ASRS] -> event_extraction/out/aggregate_kg/per_category_llm_order/UNCATEGORIZED_NTSB_ASRS.json  (68 pair results)
+  [OTHER:NTSB-271] candidate pairs: 8 (cooccur >= 10, top 300)
+  [OTHER:NTSB-271] 0 new pairs to query, 8 cached
+  [OTHER:NTSB-271] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-271.json  (8 pair results)
+  [OTHER:NTSB-171] candidate pairs: 12 (cooccur >= 10, top 300)
+  [OTHER:NTSB-171] 0 new pairs to query, 12 cached
+  [OTHER:NTSB-171] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-171.json  (12 pair results)
+  [F-NI] candidate pairs: 0 (cooccur >= 10, top 300)
+  [F-NI] 0 new pairs to query, 0 cached
+  [F-NI] -> event_extraction/out/aggregate_kg/per_category_llm_order/F-NI.json  (0 pair results)
+  [FUEL] candidate pairs: 13 (cooccur >= 10, top 300)
+  [FUEL] 0 new pairs to query, 13 cached
+  [FUEL] -> event_extraction/out/aggregate_kg/per_category_llm_order/FUEL.json  (13 pair results)
+  [AIDS_MANUFACTURER/BUILDER] candidate pairs: 0 (cooccur >= 10, top 300)
+  [AIDS_MANUFACTURER/BUILDER] 0 new pairs to query, 0 cached
+  [AIDS_MANUFACTURER/BUILDER] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_MANUFACTURER_BUILDER.json  (0 pair results)
+  [AIDS_MISCELLANEOUS] candidate pairs: 28 (cooccur >= 10, top 300)
+  [AIDS_MISCELLANEOUS] 0 new pairs to query, 28 cached
+  [AIDS_MISCELLANEOUS] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_MISCELLANEOUS.json  (28 pair results)
+  [OTHER:NTSB-231] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-231] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-231] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-231.json  (0 pair results)
+  [OTHER:NTSB-194] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-194] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-194] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-194.json  (0 pair results)
+  [OTHER:NTSB-132] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-132] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-132] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-132.json  (0 pair results)
+  [MAC] candidate pairs: 97 (cooccur >= 10, top 300)
+  [MAC] 0 new pairs to query, 168 cached
+  [MAC] -> event_extraction/out/aggregate_kg/per_category_llm_order/MAC.json  (168 pair results)
+  [RE] candidate pairs: 68 (cooccur >= 10, top 300)
+  [RE] 0 new pairs to query, 123 cached
+  [RE] -> event_extraction/out/aggregate_kg/per_category_llm_order/RE.json  (123 pair results)
+  [UNCATEGORIZED:FAA_AIDS] candidate pairs: 300 (cooccur >= 10, top 300)
+  [UNCATEGORIZED:FAA_AIDS] 0 new pairs to query, 300 cached
+  [UNCATEGORIZED:FAA_AIDS] -> event_extraction/out/aggregate_kg/per_category_llm_order/UNCATEGORIZED_FAA_AIDS.json  (300 pair results)
+  [CTOL] candidate pairs: 9 (cooccur >= 10, top 300)
+  [CTOL] 0 new pairs to query, 9 cached
+  [CTOL] -> event_extraction/out/aggregate_kg/per_category_llm_order/CTOL.json  (9 pair results)
+  [SCF-PP] candidate pairs: 217 (cooccur >= 10, top 300)
+  [SCF-PP] 0 new pairs to query, 327 cached
+  [SCF-PP] -> event_extraction/out/aggregate_kg/per_category_llm_order/SCF-PP.json  (327 pair results)
+  [AIDS_OPDEF] candidate pairs: 90 (cooccur >= 10, top 300)
+  [AIDS_OPDEF] 0 new pairs to query, 90 cached
+  [AIDS_OPDEF] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_OPDEF.json  (90 pair results)
+  [BIRD] candidate pairs: 33 (cooccur >= 10, top 300)
+  [BIRD] 0 new pairs to query, 33 cached
+  [BIRD] -> event_extraction/out/aggregate_kg/per_category_llm_order/BIRD.json  (33 pair results)
+  [RI] candidate pairs: 74 (cooccur >= 10, top 300)
+  [RI] 0 new pairs to query, 132 cached
+  [RI] -> event_extraction/out/aggregate_kg/per_category_llm_order/RI.json  (132 pair results)
+  [USOS] candidate pairs: 264 (cooccur >= 10, top 300)
+  [USOS] 0 new pairs to query, 366 cached
+  [USOS] -> event_extraction/out/aggregate_kg/per_category_llm_order/USOS.json  (366 pair results)
+  [OTHER:NTSB-191] candidate pairs: 5 (cooccur >= 10, top 300)
+  [OTHER:NTSB-191] 0 new pairs to query, 5 cached
+  [OTHER:NTSB-191] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-191.json  (5 pair results)
+  [CFIT] candidate pairs: 195 (cooccur >= 10, top 300)
+  [CFIT] 0 new pairs to query, 287 cached
+  [CFIT] -> event_extraction/out/aggregate_kg/per_category_llm_order/CFIT.json  (287 pair results)
+  [ADRM] candidate pairs: 0 (cooccur >= 10, top 300)
+  [ADRM] 0 new pairs to query, 0 cached
+  [ADRM] -> event_extraction/out/aggregate_kg/per_category_llm_order/ADRM.json  (0 pair results)
+  [LOC-I] candidate pairs: 288 (cooccur >= 10, top 300)
+  [LOC-I] 0 new pairs to query, 423 cached
+  [LOC-I] -> event_extraction/out/aggregate_kg/per_category_llm_order/LOC-I.json  (423 pair results)
+  [OTHER:NTSB-198] candidate pairs: 1 (cooccur >= 10, top 300)
+  [OTHER:NTSB-198] 0 new pairs to query, 1 cached
+  [OTHER:NTSB-198] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-198.json  (1 pair results)
+  [AIDS_PILOT] candidate pairs: 300 (cooccur >= 10, top 300)
+  [AIDS_PILOT] 0 new pairs to query, 300 cached
+  [AIDS_PILOT] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_PILOT.json  (300 pair results)
+  [GCOL] candidate pairs: 67 (cooccur >= 10, top 300)
+  [GCOL] 0 new pairs to query, 67 cached
+  [GCOL] -> event_extraction/out/aggregate_kg/per_category_llm_order/GCOL.json  (67 pair results)
+  [OTHER:NTSB-192] candidate pairs: 4 (cooccur >= 10, top 300)
+  [OTHER:NTSB-192] 0 new pairs to query, 4 cached
+  [OTHER:NTSB-192] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-192.json  (4 pair results)
+  [OTHER:NTSB-150] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-150] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-150] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-150.json  (0 pair results)
+  [OTHER:NTSB-195] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-195] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-195] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-195.json  (0 pair results)
+  [AIDS_INADEQUATE] candidate pairs: 6 (cooccur >= 10, top 300)
+  [AIDS_INADEQUATE] 0 new pairs to query, 6 cached
+  [AIDS_INADEQUATE] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_INADEQUATE.json  (6 pair results)
+  [OTHER:NTSB-232] candidate pairs: 14 (cooccur >= 10, top 300)
+  [OTHER:NTSB-232] 0 new pairs to query, 14 cached
+  [OTHER:NTSB-232] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-232.json  (14 pair results)
+  [AIDS_IMPROPER] candidate pairs: 28 (cooccur >= 10, top 300)
+  [AIDS_IMPROPER] 0 new pairs to query, 28 cached
+  [AIDS_IMPROPER] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_IMPROPER.json  (28 pair results)
+  [OTHER:NTSB-190] candidate pairs: 10 (cooccur >= 10, top 300)
+  [OTHER:NTSB-190] 0 new pairs to query, 10 cached
+  [OTHER:NTSB-190] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-190.json  (10 pair results)
+  [ARC] candidate pairs: 195 (cooccur >= 10, top 300)
+  [ARC] 0 new pairs to query, 292 cached
+  [ARC] -> event_extraction/out/aggregate_kg/per_category_llm_order/ARC.json  (292 pair results)
+  [AIDS_\N] candidate pairs: 219 (cooccur >= 10, top 300)
+  [AIDS_\N] 0 new pairs to query, 219 cached
+  [AIDS_\N] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_\N.json  (219 pair results)
+  [HFACS_CAT_05] candidate pairs: 86 (cooccur >= 10, top 300)
+  [HFACS_CAT_05] 86 new pairs to query, 0 cached
+    [HFACS_CAT_05] 50/86 (6.7/s)
+  [HFACS_CAT_05] -> event_extraction/out/aggregate_kg/per_category_llm_order/HFACS_CAT_05.json  (86 pair results)
+  [OTHER:NTSB-353] candidate pairs: 6 (cooccur >= 10, top 300)
+  [OTHER:NTSB-353] 6 new pairs to query, 0 cached
+  [OTHER:NTSB-353] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-353.json  (6 pair results)
+  [OTHM] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHM] 0 new pairs to query, 0 cached
+  [OTHM] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHM.json  (0 pair results)
+  [OTHER:NTSB-351] candidate pairs: 8 (cooccur >= 10, top 300)
+  [OTHER:NTSB-351] 8 new pairs to query, 0 cached
+  [OTHER:NTSB-351] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-351.json  (8 pair results)
+  [OTHER:NTSB-352] candidate pairs: 2 (cooccur >= 10, top 300)
+  [OTHER:NTSB-352] 2 new pairs to query, 0 cached
+  [OTHER:NTSB-352] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-352.json  (2 pair results)
+  [WX] candidate pairs: 178 (cooccur >= 10, top 300)
+  [WX] 102 new pairs to query, 163 cached
+    [WX] 50/102 (7.9/s)
+    [WX] 100/102 (8.5/s)
+  [WX] -> event_extraction/out/aggregate_kg/per_category_llm_order/WX.json  (265 pair results)
+  [HFACS_CAT_02] candidate pairs: 300 (cooccur >= 10, top 300)
+  [HFACS_CAT_02] 300 new pairs to query, 0 cached
+    [HFACS_CAT_02] 50/300 (7.9/s)
+    [HFACS_CAT_02] 100/300 (8.1/s)
+    [HFACS_CAT_02] 150/300 (8.2/s)
+    [HFACS_CAT_02] 200/300 (8.1/s)
+    [HFACS_CAT_02] 250/300 (8.1/s)
+    [HFACS_CAT_02] 300/300 (8.2/s)
+  [HFACS_CAT_02] -> event_extraction/out/aggregate_kg/per_category_llm_order/HFACS_CAT_02.json  (300 pair results)
+  [HFACS_CAT_04] candidate pairs: 0 (cooccur >= 10, top 300)
+  [HFACS_CAT_04] 0 new pairs to query, 0 cached
+  [HFACS_CAT_04] -> event_extraction/out/aggregate_kg/per_category_llm_order/HFACS_CAT_04.json  (0 pair results)
+  [OTHER:NTSB-196] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-196] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-196] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-196.json  (0 pair results)
+  [UNCATEGORIZED:NTSB_REPORT] candidate pairs: 0 (cooccur >= 10, top 300)
+  [UNCATEGORIZED:NTSB_REPORT] 0 new pairs to query, 0 cached
+  [UNCATEGORIZED:NTSB_REPORT] -> event_extraction/out/aggregate_kg/per_category_llm_order/UNCATEGORIZED_NTSB_REPORT.json  (0 pair results)
+  [ATM] candidate pairs: 0 (cooccur >= 10, top 300)
+  [ATM] 0 new pairs to query, 0 cached
+  [ATM] -> event_extraction/out/aggregate_kg/per_category_llm_order/ATM.json  (0 pair results)
+  [OTHER:NTSB-170] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-170] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-170] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-170.json  (0 pair results)
+  [WSTRW] candidate pairs: 208 (cooccur >= 10, top 300)
+  [WSTRW] 115 new pairs to query, 211 cached
+    [WSTRW] 50/115 (7.1/s)
+    [WSTRW] 100/115 (7.7/s)
+  [WSTRW] -> event_extraction/out/aggregate_kg/per_category_llm_order/WSTRW.json  (326 pair results)
+  [OTHER:NTSB-354] candidate pairs: 0 (cooccur >= 10, top 300)
+  [OTHER:NTSB-354] 0 new pairs to query, 0 cached
+  [OTHER:NTSB-354] -> event_extraction/out/aggregate_kg/per_category_llm_order/OTHER_NTSB-354.json  (0 pair results)
+  [AIDS_DESIGN] candidate pairs: 0 (cooccur >= 10, top 300)
+  [AIDS_DESIGN] 0 new pairs to query, 0 cached
+  [AIDS_DESIGN] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_DESIGN.json  (0 pair results)
+  [LOC-G] candidate pairs: 128 (cooccur >= 10, top 300)
+  [LOC-G] 64 new pairs to query, 142 cached
+    [LOC-G] 50/64 (7.6/s)
+  [LOC-G] -> event_extraction/out/aggregate_kg/per_category_llm_order/LOC-G.json  (206 pair results)
+  [AIDS_UNDETERMINED] candidate pairs: 8 (cooccur >= 10, top 300)
+  [AIDS_UNDETERMINED] 8 new pairs to query, 0 cached
+  [AIDS_UNDETERMINED] -> event_extraction/out/aggregate_kg/per_category_llm_order/AIDS_UNDETERMINED.json  (8 pair results)
+=== Sun Jul  5 04:53:26 PM CDT 2026 piece 2 done — shutting down vLLM servers to free GPUs ===
+=== Sun Jul  5 04:53:26 PM CDT 2026 S3v4 piece 3: laplacian prior ===
+Targets: ['EVAC', 'OTHER:NTSB-360', 'HFACS_CAT_01', 'ICE', 'HFACS_CAT_03', 'OTHER:NTSB-172', 'UNCATEGORIZED:NTSB_ASRS', 'OTHER:NTSB-271', 'OTHER:NTSB-171', 'F-NI', 'FUEL', 'AIDS_MANUFACTURER/BUILDER', 'AIDS_MISCELLANEOUS', 'OTHER:NTSB-231', 'OTHER:NTSB-194', 'OTHER:NTSB-132', 'MAC', 'RE', 'UNCATEGORIZED:FAA_AIDS', 'CTOL', 'SCF-PP', 'AIDS_OPDEF', 'BIRD', 'RI', 'USOS', 'OTHER:NTSB-191', 'CFIT', 'ADRM', 'LOC-I', 'OTHER:NTSB-198', 'AIDS_PILOT', 'GCOL', 'OTHER:NTSB-192', 'OTHER:NTSB-150', 'OTHER:NTSB-195', 'AIDS_INADEQUATE', 'OTHER:NTSB-232', 'AIDS_IMPROPER', 'OTHER:NTSB-190', 'ARC', 'AIDS_\\N', 'HFACS_CAT_05', 'OTHER:NTSB-353', 'OTHM', 'OTHER:NTSB-351', 'OTHER:NTSB-352', 'WX', 'HFACS_CAT_02', 'HFACS_CAT_04', 'OTHER:NTSB-196', 'UNCATEGORIZED:NTSB_REPORT', 'ATM', 'OTHER:NTSB-170', 'WSTRW', 'OTHER:NTSB-354', 'AIDS_DESIGN', 'LOC-G', 'AIDS_UNDETERMINED']
+  [EVAC] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), PILOT_INCAPACITATION_OR_IMPAIRMENT(1.00), CREW_COORDINATION_FAILURE(1.00)
+  [OTHER:NTSB-360] LOC-I-similar (Laplacian prior): STRUCTURAL_OVERLOAD(0.94), ALTITUDE_DEVIATION_UNCONTROLLED(0.94), FUEL_EXHAUSTION_OR_STARVATION(0.94), FUEL_CONTAMINATION(0.94), CARBURETOR_OR_INDUCTION_ICING(0.94), HIGH_DENSITY_ALTITUDE(0.94)
+  [HFACS_CAT_01] LOC-I-similar (Laplacian prior): PROCEDURE_NOT_FOLLOWED(0.99), PERCEPTION_FAILURE(0.99), STALL(0.99), RUNWAY_CONDITION_HAZARD(0.98), LOSS_OF_CONTROL_GROUND(0.98), CONTROL_INPUT_IMPROPER(0.98)
+  [ICE] LOC-I-similar (Laplacian prior): AIRFRAME_STRUCTURAL_FAILURE(1.00), STALL(1.00), RUNWAY_CONDITION_HAZARD(1.00), ALTITUDE_DEVIATION_UNCONTROLLED(1.00), CREW_COORDINATION_FAILURE(1.00), LOSS_OF_CONTROL_GROUND(1.00)
+  [HFACS_CAT_03] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), PERCEPTION_FAILURE(1.00), TERRAIN_OR_OBSTACLE_PROXIMITY(1.00), ADVERSE_WIND_CONDITION(1.00), CONTROL_INPUT_IMPROPER(0.99), LOW_ALTITUDE_OPERATION(0.99)
+  [OTHER:NTSB-172] LOC-I-similar (Laplacian prior): DESIGN_DEFECT_LATENT(0.02), ORG_OR_REGULATORY_INADEQUATE(0.02), RUNWAY_CONDITION_HAZARD(0.02), STRUCTURAL_OVERLOAD(0.02), ALTITUDE_DEVIATION_UNCONTROLLED(0.02), FUEL_EXHAUSTION_OR_STARVATION(0.02)
+  [UNCATEGORIZED:NTSB_ASRS] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), PROCEDURE_NOT_FOLLOWED(0.99), FUEL_EXHAUSTION_OR_STARVATION(0.99), CONTROL_INPUT_IMPROPER(0.99), ADVERSE_WIND_CONDITION(0.99), ENGINE_FAILURE(0.99)
+  [OTHER:NTSB-271] LOC-I-similar (Laplacian prior): STALL(0.67), ALTITUDE_DEVIATION_UNCONTROLLED(0.13), STRUCTURAL_OVERLOAD(0.13), FUEL_EXHAUSTION_OR_STARVATION(0.13), FUEL_CONTAMINATION(0.13), CARBURETOR_OR_INDUCTION_ICING(0.13)
+  [OTHER:NTSB-171] LOC-I-similar (Laplacian prior): HIGH_DENSITY_ALTITUDE(0.37), DARK_NIGHT_OR_LOW_LIGHT(0.37), MOUNTAINOUS_OR_RISING_TERRAIN(0.37), UNSUITABLE_TERRAIN_FOR_FORCED_LANDING(0.37), AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS(0.37), LOW_ALTITUDE_OPERATION(0.37)
+  [F-NI] LOC-I-similar (Laplacian prior): STRUCTURAL_OVERLOAD(0.03), ALTITUDE_DEVIATION_UNCONTROLLED(0.03), FUEL_EXHAUSTION_OR_STARVATION(0.03), FUEL_CONTAMINATION(0.03), CARBURETOR_OR_INDUCTION_ICING(0.03), ADVERSE_WIND_CONDITION(0.03)
+  [FUEL] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), TRAINING_OR_CURRENCY_GAP(1.00), CREW_COORDINATION_FAILURE(1.00)
+  [AIDS_MANUFACTURER/BUILDER] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), ENGINE_FAILURE(1.00), AIRFRAME_STRUCTURAL_FAILURE(1.00)
+  [AIDS_MISCELLANEOUS] LOC-I-similar (Laplacian prior): RUNWAY_CONDITION_HAZARD(0.97), CONTROL_INPUT_IMPROPER(0.97), LOW_VISIBILITY_OR_IMC(0.96), PERCEPTION_FAILURE(0.96), LOSS_OF_CONTROL_GROUND(0.96), ALTITUDE_DEVIATION_UNCONTROLLED(0.96)
+  [OTHER:NTSB-231] LOC-I-similar (Laplacian prior): STALL(0.83), LOSS_OF_CONTROL_GROUND(0.25), DESIGN_DEFECT_LATENT(0.16), DECISION_INAPPROPRIATE(0.11), STRUCTURAL_OVERLOAD(0.11), ALTITUDE_DEVIATION_UNCONTROLLED(0.11)
+  [OTHER:NTSB-194] LOC-I-similar (Laplacian prior): LOSS_OF_CONTROL_GROUND(0.75), DESIGN_DEFECT_LATENT(0.30), STALL(0.27), STRUCTURAL_OVERLOAD(0.07), ALTITUDE_DEVIATION_UNCONTROLLED(0.07), FUEL_EXHAUSTION_OR_STARVATION(0.07)
+  [OTHER:NTSB-132] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), PERCEPTION_FAILURE(1.00), GROUND_PERSONNEL_ERROR(1.00), AIRFRAME_STRUCTURAL_FAILURE(1.00), CONTROL_SURFACE_ANOMALY(1.00), ORG_OR_REGULATORY_INADEQUATE(1.00)
+  [MAC] LOC-I-similar (Laplacian prior): OTHER_SYSTEM_FAILURE(0.99), AIRFRAME_STRUCTURAL_FAILURE(0.98), BIRD_OR_WILDLIFE_STRIKE(0.97), PROCEDURE_NOT_FOLLOWED(0.97), DARK_NIGHT_OR_LOW_LIGHT(0.96), CONTROL_INPUT_IMPROPER(0.96)
+  [RE] LOC-I-similar (Laplacian prior): LOSS_OF_CONTROL_GROUND(1.00), TERRAIN_OR_OBSTACLE_PROXIMITY(1.00), CONTROL_INPUT_IMPROPER(0.99), DECISION_INAPPROPRIATE(0.99), ALTITUDE_DEVIATION_UNCONTROLLED(0.99), LOW_VISIBILITY_OR_IMC(0.99)
+  [UNCATEGORIZED:FAA_AIDS] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(0.98), STRUCTURAL_OVERLOAD(0.97), STALL(0.85), CONTROL_INPUT_IMPROPER(0.85), PROCEDURE_NOT_FOLLOWED(0.84), CREW_COORDINATION_FAILURE(0.84)
+  [CTOL] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), PILOT_INCAPACITATION_OR_IMPAIRMENT(1.00), TRAINING_OR_CURRENCY_GAP(1.00)
+  [SCF-PP] LOC-I-similar (Laplacian prior): MAINTENANCE_INADEQUATE(1.00), UNSUITABLE_TERRAIN_FOR_FORCED_LANDING(1.00), ENGINE_FAILURE(1.00), CONTROL_SURFACE_ANOMALY(1.00), OTHER_SYSTEM_FAILURE(1.00), PROCEDURE_NOT_FOLLOWED(1.00)
+  [AIDS_OPDEF] LOC-I-similar (Laplacian prior): LATENT_MECHANICAL_DEFECT(1.00), CONTROL_SURFACE_ANOMALY(1.00), DECISION_INAPPROPRIATE(1.00), CARBURETOR_OR_INDUCTION_ICING(1.00), PROCEDURE_NOT_FOLLOWED(1.00), STALL(1.00)
+  [BIRD] LOC-I-similar (Laplacian prior): LOW_VISIBILITY_OR_IMC(1.00), TURBULENCE_ENCOUNTER(1.00), ICING_ENCOUNTER(1.00), ATC_OR_DISPATCH_INADEQUATE(1.00), OTHER_SYSTEM_FAILURE(1.00), ENGINE_FAILURE(0.99)
+  [RI] LOC-I-similar (Laplacian prior): STALL(1.00), PROCEDURE_NOT_FOLLOWED(1.00), CONTROL_SURFACE_ANOMALY(1.00), DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), AIRFRAME_STRUCTURAL_FAILURE(1.00)
+  [USOS] LOC-I-similar (Laplacian prior): AIRFRAME_STRUCTURAL_FAILURE(0.99), UNSUITABLE_TERRAIN_FOR_FORCED_LANDING(0.99), OTHER_SYSTEM_FAILURE(0.99), INFLIGHT_FIRE_OR_SMOKE(0.98), STALL(0.97), LATENT_MECHANICAL_DEFECT(0.97)
+  [OTHER:NTSB-191] LOC-I-similar (Laplacian prior): CONTROL_SURFACE_ANOMALY(0.06), ATC_OR_DISPATCH_INADEQUATE(0.05), GROUND_PERSONNEL_ERROR(0.05), CONTROL_INPUT_IMPROPER(0.05), INSTRUMENT_OR_AVIONICS_FAILURE(0.05), OTHER_SYSTEM_FAILURE(0.05)
+  [CFIT] LOC-I-similar (Laplacian prior): LOSS_OF_CONTROL_GROUND(1.00), DECISION_INAPPROPRIATE(0.99), CONTROL_INPUT_IMPROPER(0.99), TERRAIN_OR_OBSTACLE_PROXIMITY(0.99), DARK_NIGHT_OR_LOW_LIGHT(0.99), STRUCTURAL_OVERLOAD(0.99)
+  [ADRM] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PERCEPTION_FAILURE(1.00), SPATIAL_DISORIENTATION(1.00), PILOT_INCAPACITATION_OR_IMPAIRMENT(1.00), TRAINING_OR_CURRENCY_GAP(1.00)
+  [LOC-I] LOC-I-similar (Laplacian prior): ALTITUDE_DEVIATION_UNCONTROLLED(0.85), STALL(0.83), STRUCTURAL_OVERLOAD(0.82), TURBULENCE_ENCOUNTER(0.82), DESIGN_DEFECT_LATENT(0.82), AIRFRAME_STRUCTURAL_FAILURE(0.80)
+  [OTHER:NTSB-198] LOC-I-similar (Laplacian prior): STRUCTURAL_OVERLOAD(1.00), ALTITUDE_DEVIATION_UNCONTROLLED(1.00), FUEL_EXHAUSTION_OR_STARVATION(1.00), FUEL_CONTAMINATION(1.00), CARBURETOR_OR_INDUCTION_ICING(1.00), ADVERSE_WIND_CONDITION(1.00)
+  [AIDS_PILOT] LOC-I-similar (Laplacian prior): TRAINING_OR_CURRENCY_GAP(0.87), ICING_ENCOUNTER(0.87), DECISION_INAPPROPRIATE(0.87), ADVERSE_WIND_CONDITION(0.87), WIND_SHEAR_OR_GUST(0.86), DARK_NIGHT_OR_LOW_LIGHT(0.86)
+  [GCOL] LOC-I-similar (Laplacian prior): MOUNTAINOUS_OR_RISING_TERRAIN(1.00), WIND_SHEAR_OR_GUST(1.00), AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS(1.00), ADVERSE_WIND_CONDITION(0.99), STALL(0.99), DECISION_INAPPROPRIATE(0.99)
+  [OTHER:NTSB-192] LOC-I-similar (Laplacian prior): ATC_OR_DISPATCH_INADEQUATE(0.07), TERRAIN_OR_OBSTACLE_PROXIMITY(0.03), CARBURETOR_OR_INDUCTION_ICING(0.03), HIGH_DENSITY_ALTITUDE(0.03), DARK_NIGHT_OR_LOW_LIGHT(0.03), MOUNTAINOUS_OR_RISING_TERRAIN(0.03)
+  [OTHER:NTSB-150] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), PILOT_INCAPACITATION_OR_IMPAIRMENT(1.00), ENGINE_FAILURE(1.00)
+  [OTHER:NTSB-195] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), GROUND_PERSONNEL_ERROR(1.00), ENGINE_FAILURE(1.00), FUEL_SYSTEM_ANOMALY(1.00), AIRFRAME_STRUCTURAL_FAILURE(1.00), CONTROL_SURFACE_ANOMALY(1.00)
+  [AIDS_INADEQUATE] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), CREW_COORDINATION_FAILURE(1.00), GROUND_PERSONNEL_ERROR(1.00)
+  [OTHER:NTSB-232] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), TRAINING_OR_CURRENCY_GAP(1.00), CREW_COORDINATION_FAILURE(1.00)
+  [AIDS_IMPROPER] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), PILOT_INCAPACITATION_OR_IMPAIRMENT(1.00), CREW_COORDINATION_FAILURE(1.00)
+  [OTHER:NTSB-190] LOC-I-similar (Laplacian prior): AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS(0.42), LOW_ALTITUDE_OPERATION(0.42), ALTITUDE_DEVIATION_UNCONTROLLED(0.42), CARBURETOR_OR_INDUCTION_ICING(0.39), AIRFRAME_STRUCTURAL_FAILURE(0.37), STRUCTURAL_OVERLOAD(0.37)
+  [ARC] LOC-I-similar (Laplacian prior): UNSUITABLE_TERRAIN_FOR_FORCED_LANDING(0.99), INFLIGHT_FIRE_OR_SMOKE(0.98), MAINTENANCE_INADEQUATE(0.98), LATENT_MECHANICAL_DEFECT(0.98), STALL(0.98), CARBURETOR_OR_INDUCTION_ICING(0.98)
+  [AIDS_\N] LOC-I-similar (Laplacian prior): CONTROL_INPUT_IMPROPER(0.98), PERCEPTION_FAILURE(0.98), DECISION_INAPPROPRIATE(0.97), ADVERSE_WIND_CONDITION(0.97), STALL(0.96), PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE(0.96)
+  [HFACS_CAT_05] LOC-I-similar (Laplacian prior): PERCEPTION_FAILURE(0.99), STALL(0.98), PROCEDURE_NOT_FOLLOWED(0.98), MAINTENANCE_INADEQUATE(0.98), DECISION_INAPPROPRIATE(0.98), LATENT_MECHANICAL_DEFECT(0.98)
+  [OTHER:NTSB-353] LOC-I-similar (Laplacian prior): TRAINING_OR_CURRENCY_GAP(0.00), PILOT_INCAPACITATION_OR_IMPAIRMENT(0.00), STRUCTURAL_OVERLOAD(0.00), DARK_NIGHT_OR_LOW_LIGHT(0.00), MOUNTAINOUS_OR_RISING_TERRAIN(0.00), AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS(0.00)
+  [OTHM] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), CREW_COORDINATION_FAILURE(1.00), GROUND_PERSONNEL_ERROR(1.00)
+  [OTHER:NTSB-351] LOC-I-similar (Laplacian prior): ORG_OR_REGULATORY_INADEQUATE(0.37), BIRD_OR_WILDLIFE_STRIKE(0.37), FUEL_EXHAUSTION_OR_STARVATION(0.37), FUEL_SYSTEM_ANOMALY(0.37), AIRFRAME_STRUCTURAL_FAILURE(0.37), LATENT_MECHANICAL_DEFECT(0.37)
+  [OTHER:NTSB-352] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), ENGINE_FAILURE(1.00), FUEL_SYSTEM_ANOMALY(1.00), AIRFRAME_STRUCTURAL_FAILURE(1.00)
+  [WX] LOC-I-similar (Laplacian prior): SPATIAL_DISORIENTATION(1.00), DARK_NIGHT_OR_LOW_LIGHT(1.00), ALTITUDE_DEVIATION_UNCONTROLLED(1.00), PERCEPTION_FAILURE(0.99), ADVERSE_WIND_CONDITION(0.99), MOUNTAINOUS_OR_RISING_TERRAIN(0.99)
+  [HFACS_CAT_02] LOC-I-similar (Laplacian prior): STALL(0.99), LOSS_OF_CONTROL_GROUND(0.97), TERRAIN_OR_OBSTACLE_PROXIMITY(0.97), TRAINING_OR_CURRENCY_GAP(0.97), PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE(0.97), PROCEDURE_NOT_FOLLOWED(0.96)
+  [HFACS_CAT_04] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), PILOT_INCAPACITATION_OR_IMPAIRMENT(1.00), CREW_COORDINATION_FAILURE(1.00)
+  [OTHER:NTSB-196] LOC-I-similar (Laplacian prior): STRUCTURAL_OVERLOAD(0.90), ALTITUDE_DEVIATION_UNCONTROLLED(0.90), FUEL_EXHAUSTION_OR_STARVATION(0.90), FUEL_CONTAMINATION(0.90), CARBURETOR_OR_INDUCTION_ICING(0.90), HIGH_DENSITY_ALTITUDE(0.90)
+  [UNCATEGORIZED:NTSB_REPORT] LOC-I-similar (Laplacian prior): STRUCTURAL_OVERLOAD(1.00), ALTITUDE_DEVIATION_UNCONTROLLED(1.00), FUEL_EXHAUSTION_OR_STARVATION(1.00), FUEL_CONTAMINATION(1.00), CARBURETOR_OR_INDUCTION_ICING(1.00), ADVERSE_WIND_CONDITION(1.00)
+  [ATM] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), SPATIAL_DISORIENTATION(1.00), TRAINING_OR_CURRENCY_GAP(1.00), ENGINE_FAILURE(1.00)
+  [OTHER:NTSB-170] LOC-I-similar (Laplacian prior): LOSS_OF_CONTROL_GROUND(0.05), STRUCTURAL_OVERLOAD(0.02), ALTITUDE_DEVIATION_UNCONTROLLED(0.02), FUEL_EXHAUSTION_OR_STARVATION(0.02), CARBURETOR_OR_INDUCTION_ICING(0.02), ADVERSE_WIND_CONDITION(0.02)
+  [WSTRW] LOC-I-similar (Laplacian prior): TERRAIN_OR_OBSTACLE_PROXIMITY(0.99), CONTROL_INPUT_IMPROPER(0.99), DECISION_INAPPROPRIATE(0.99), STALL(0.99), ADVERSE_WIND_CONDITION(0.98), DARK_NIGHT_OR_LOW_LIGHT(0.98)
+  [OTHER:NTSB-354] LOC-I-similar (Laplacian prior): RUNWAY_CONDITION_HAZARD(0.97), ORG_OR_REGULATORY_INADEQUATE(0.88), LOSS_OF_CONTROL_GROUND(0.73), TURBULENCE_ENCOUNTER(0.69), ALTITUDE_DEVIATION_UNCONTROLLED(0.68), STRUCTURAL_OVERLOAD(0.68)
+  [AIDS_DESIGN] LOC-I-similar (Laplacian prior): DECISION_INAPPROPRIATE(1.00), CONTROL_INPUT_IMPROPER(1.00), PROCEDURE_NOT_FOLLOWED(1.00), PERCEPTION_FAILURE(1.00), ENGINE_FAILURE(1.00), FUEL_SYSTEM_ANOMALY(1.00)
+  [LOC-G] LOC-I-similar (Laplacian prior): STALL(1.00), TERRAIN_OR_OBSTACLE_PROXIMITY(1.00), TRAINING_OR_CURRENCY_GAP(1.00), ALTITUDE_DEVIATION_UNCONTROLLED(1.00), PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE(1.00), CONTROL_SURFACE_ANOMALY(1.00)
+  [AIDS_UNDETERMINED] LOC-I-similar (Laplacian prior): ADVERSE_WIND_CONDITION(0.98), CONTROL_INPUT_IMPROPER(0.96), LOSS_OF_CONTROL_GROUND(0.91), STRUCTURAL_OVERLOAD(0.91), TRAINING_OR_CURRENCY_GAP(0.90), PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE(0.90)
+=== Sun Jul  5 04:53:27 PM CDT 2026 S3v4 piece 4: PC per category ===

@@ -1,0 +1,3 @@
+src,dst,direction_score,support_count,llm_prior,laplacian_prior,pc_directed,pc_oriented_by_llm,from_cpdag_undirected
+AIRFRAME_STRUCTURAL_FAILURE,ENGINE_FAILURE,0.6363636363636364,12,,,1,0,0
+INFLIGHT_FIRE_OR_SMOKE,ENGINE_FAILURE,0.25,10,,,1,0,0

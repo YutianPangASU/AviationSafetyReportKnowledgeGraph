@@ -1,0 +1,2755 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="direct_share" attr.type="double" />
+  <key id="d3" for="edge" attr.name="lift" attr.type="double" />
+  <key id="d2" for="edge" attr.name="p_dst_given_src" attr.type="double" />
+  <key id="d1" for="edge" attr.name="support" attr.type="long" />
+  <key id="d0" for="node" attr.name="count" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="DECISION_INAPPROPRIATE">
+      <data key="d0">21932</data>
+    </node>
+    <node id="CONTROL_INPUT_IMPROPER">
+      <data key="d0">28006</data>
+    </node>
+    <node id="PROCEDURE_NOT_FOLLOWED">
+      <data key="d0">16385</data>
+    </node>
+    <node id="PERCEPTION_FAILURE">
+      <data key="d0">9301</data>
+    </node>
+    <node id="SPATIAL_DISORIENTATION">
+      <data key="d0">934</data>
+    </node>
+    <node id="PILOT_INCAPACITATION_OR_IMPAIRMENT">
+      <data key="d0">1322</data>
+    </node>
+    <node id="TRAINING_OR_CURRENCY_GAP">
+      <data key="d0">1083</data>
+    </node>
+    <node id="CREW_COORDINATION_FAILURE">
+      <data key="d0">1922</data>
+    </node>
+    <node id="ATC_OR_DISPATCH_INADEQUATE">
+      <data key="d0">356</data>
+    </node>
+    <node id="GROUND_PERSONNEL_ERROR">
+      <data key="d0">1204</data>
+    </node>
+    <node id="ENGINE_FAILURE">
+      <data key="d0">16406</data>
+    </node>
+    <node id="FUEL_SYSTEM_ANOMALY">
+      <data key="d0">1674</data>
+    </node>
+    <node id="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d0">2728</data>
+    </node>
+    <node id="CONTROL_SURFACE_ANOMALY">
+      <data key="d0">1808</data>
+    </node>
+    <node id="INSTRUMENT_OR_AVIONICS_FAILURE">
+      <data key="d0">786</data>
+    </node>
+    <node id="LANDING_GEAR_ANOMALY">
+      <data key="d0">4321</data>
+    </node>
+    <node id="AUTOMATION_ANOMALY">
+      <data key="d0">416</data>
+    </node>
+    <node id="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d0">1681</data>
+    </node>
+    <node id="OTHER_SYSTEM_FAILURE">
+      <data key="d0">3652</data>
+    </node>
+    <node id="ICING_ENCOUNTER">
+      <data key="d0">449</data>
+    </node>
+    <node id="TURBULENCE_ENCOUNTER">
+      <data key="d0">1472</data>
+    </node>
+    <node id="THUNDERSTORM_OR_CONVECTIVE">
+      <data key="d0">318</data>
+    </node>
+    <node id="LOW_VISIBILITY_OR_IMC">
+      <data key="d0">2605</data>
+    </node>
+    <node id="WIND_SHEAR_OR_GUST">
+      <data key="d0">2195</data>
+    </node>
+    <node id="BIRD_OR_WILDLIFE_STRIKE">
+      <data key="d0">686</data>
+    </node>
+    <node id="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d0">3028</data>
+    </node>
+    <node id="RUNWAY_CONDITION_HAZARD">
+      <data key="d0">4378</data>
+    </node>
+    <node id="MAINTENANCE_INADEQUATE">
+      <data key="d0">5641</data>
+    </node>
+    <node id="ORG_OR_REGULATORY_INADEQUATE">
+      <data key="d0">825</data>
+    </node>
+    <node id="DESIGN_DEFECT_LATENT">
+      <data key="d0">774</data>
+    </node>
+    <node id="STALL">
+      <data key="d0">6641</data>
+    </node>
+    <node id="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d0">9813</data>
+    </node>
+    <node id="LOSS_OF_CONTROL_GROUND">
+      <data key="d0">8635</data>
+    </node>
+    <node id="STRUCTURAL_OVERLOAD">
+      <data key="d0">1341</data>
+    </node>
+    <node id="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d0">1128</data>
+    </node>
+    <node id="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d0">5414</data>
+    </node>
+    <node id="FUEL_CONTAMINATION">
+      <data key="d0">1097</data>
+    </node>
+    <node id="CARBURETOR_OR_INDUCTION_ICING">
+      <data key="d0">1456</data>
+    </node>
+    <node id="ADVERSE_WIND_CONDITION">
+      <data key="d0">8768</data>
+    </node>
+    <node id="HIGH_DENSITY_ALTITUDE">
+      <data key="d0">1372</data>
+    </node>
+    <node id="DARK_NIGHT_OR_LOW_LIGHT">
+      <data key="d0">2349</data>
+    </node>
+    <node id="MOUNTAINOUS_OR_RISING_TERRAIN">
+      <data key="d0">2625</data>
+    </node>
+    <node id="UNSUITABLE_TERRAIN_FOR_FORCED_LANDING">
+      <data key="d0">1929</data>
+    </node>
+    <node id="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS">
+      <data key="d0">1033</data>
+    </node>
+    <node id="LATENT_MECHANICAL_DEFECT">
+      <data key="d0">8356</data>
+    </node>
+    <node id="LOW_ALTITUDE_OPERATION">
+      <data key="d0">1366</data>
+    </node>
+    <node id="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE">
+      <data key="d0">1877</data>
+    </node>
+    <edge source="DECISION_INAPPROPRIATE" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">1850</data>
+      <data key="d2">0.0844</data>
+      <data key="d3">0.872</data>
+      <data key="d4">0.945</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">4343</data>
+      <data key="d2">0.198</data>
+      <data key="d3">0.396</data>
+      <data key="d4">0.6</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="PERCEPTION_FAILURE">
+      <data key="d1">1044</data>
+      <data key="d2">0.0476</data>
+      <data key="d3">0.286</data>
+      <data key="d4">0.476</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">1306</data>
+      <data key="d2">0.0595</data>
+      <data key="d3">0.203</data>
+      <data key="d4">0.591</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="SPATIAL_DISORIENTATION">
+      <data key="d1">431</data>
+      <data key="d2">0.0197</data>
+      <data key="d3">1.177</data>
+      <data key="d4">0.838</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">547</data>
+      <data key="d2">0.0249</data>
+      <data key="d3">0.162</data>
+      <data key="d4">0.693</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">126</data>
+      <data key="d2">0.0057</data>
+      <data key="d3">0.074</data>
+      <data key="d4">0.468</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="ENGINE_FAILURE">
+      <data key="d1">230</data>
+      <data key="d2">0.0105</data>
+      <data key="d3">0.036</data>
+      <data key="d4">0.53</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="UNSUITABLE_TERRAIN_FOR_FORCED_LANDING">
+      <data key="d1">85</data>
+      <data key="d2">0.0039</data>
+      <data key="d3">0.112</data>
+      <data key="d4">0.682</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="TURBULENCE_ENCOUNTER">
+      <data key="d1">136</data>
+      <data key="d2">0.0062</data>
+      <data key="d3">0.236</data>
+      <data key="d4">0.632</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="STALL">
+      <data key="d1">802</data>
+      <data key="d2">0.0366</data>
+      <data key="d3">0.308</data>
+      <data key="d4">0.718</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">697</data>
+      <data key="d2">0.0318</data>
+      <data key="d3">0.181</data>
+      <data key="d4">0.68</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="LOW_ALTITUDE_OPERATION">
+      <data key="d1">214</data>
+      <data key="d2">0.0098</data>
+      <data key="d3">0.4</data>
+      <data key="d4">0.86</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="RUNWAY_CONDITION_HAZARD">
+      <data key="d1">112</data>
+      <data key="d2">0.0051</data>
+      <data key="d3">0.065</data>
+      <data key="d4">0.58</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">242</data>
+      <data key="d2">0.011</data>
+      <data key="d3">0.204</data>
+      <data key="d4">0.727</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS">
+      <data key="d1">136</data>
+      <data key="d2">0.0062</data>
+      <data key="d3">0.336</data>
+      <data key="d4">0.926</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="ICING_ENCOUNTER">
+      <data key="d1">83</data>
+      <data key="d2">0.0038</data>
+      <data key="d3">0.471</data>
+      <data key="d4">0.771</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">270</data>
+      <data key="d2">0.0123</data>
+      <data key="d3">0.611</data>
+      <data key="d4">0.852</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="CREW_COORDINATION_FAILURE">
+      <data key="d1">54</data>
+      <data key="d2">0.0025</data>
+      <data key="d3">0.072</data>
+      <data key="d4">0.259</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">38</data>
+      <data key="d2">0.0017</data>
+      <data key="d3">0.036</data>
+      <data key="d4">0.526</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="WIND_SHEAR_OR_GUST">
+      <data key="d1">45</data>
+      <data key="d2">0.0021</data>
+      <data key="d3">0.052</data>
+      <data key="d4">0.378</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="STRUCTURAL_OVERLOAD">
+      <data key="d1">67</data>
+      <data key="d2">0.0031</data>
+      <data key="d3">0.127</data>
+      <data key="d4">0.716</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="LOW_VISIBILITY_OR_IMC">
+      <data key="d1">86</data>
+      <data key="d2">0.0039</data>
+      <data key="d3">0.084</data>
+      <data key="d4">0.64</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="THUNDERSTORM_OR_CONVECTIVE">
+      <data key="d1">46</data>
+      <data key="d2">0.0021</data>
+      <data key="d3">0.369</data>
+      <data key="d4">0.543</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="LATENT_MECHANICAL_DEFECT">
+      <data key="d1">33</data>
+      <data key="d2">0.0015</data>
+      <data key="d3">0.01</data>
+      <data key="d4">0.818</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">36</data>
+      <data key="d2">0.0016</data>
+      <data key="d3">0.025</data>
+      <data key="d4">0.611</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="ADVERSE_WIND_CONDITION">
+      <data key="d1">33</data>
+      <data key="d2">0.0015</data>
+      <data key="d3">0.01</data>
+      <data key="d4">0.485</data>
+    </edge>
+    <edge source="DECISION_INAPPROPRIATE" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">36</data>
+      <data key="d2">0.0016</data>
+      <data key="d3">0.055</data>
+      <data key="d4">0.639</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="STALL">
+      <data key="d1">4357</data>
+      <data key="d2">0.1556</data>
+      <data key="d3">1.31</data>
+      <data key="d4">0.96</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">638</data>
+      <data key="d2">0.0228</data>
+      <data key="d3">0.295</data>
+      <data key="d4">0.887</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="DECISION_INAPPROPRIATE">
+      <data key="d1">1019</data>
+      <data key="d2">0.0364</data>
+      <data key="d3">0.093</data>
+      <data key="d4">0.745</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">1430</data>
+      <data key="d2">0.0511</data>
+      <data key="d3">0.291</data>
+      <data key="d4">0.922</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">5557</data>
+      <data key="d2">0.1984</data>
+      <data key="d3">1.285</data>
+      <data key="d4">0.95</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="PERCEPTION_FAILURE">
+      <data key="d1">308</data>
+      <data key="d2">0.011</data>
+      <data key="d3">0.066</data>
+      <data key="d4">0.471</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">517</data>
+      <data key="d2">0.0185</data>
+      <data key="d3">0.341</data>
+      <data key="d4">0.934</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="STRUCTURAL_OVERLOAD">
+      <data key="d1">518</data>
+      <data key="d2">0.0185</data>
+      <data key="d3">0.772</data>
+      <data key="d4">0.954</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">414</data>
+      <data key="d2">0.0148</data>
+      <data key="d3">0.303</data>
+      <data key="d4">0.908</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">126</data>
+      <data key="d2">0.0045</data>
+      <data key="d3">0.139</data>
+      <data key="d4">0.921</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">1207</data>
+      <data key="d2">0.0431</data>
+      <data key="d3">0.147</data>
+      <data key="d4">0.727</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="ENGINE_FAILURE">
+      <data key="d1">323</data>
+      <data key="d2">0.0115</data>
+      <data key="d3">0.039</data>
+      <data key="d4">0.864</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">158</data>
+      <data key="d2">0.0056</data>
+      <data key="d3">0.28</data>
+      <data key="d4">0.911</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">36</data>
+      <data key="d2">0.0013</data>
+      <data key="d3">0.043</data>
+      <data key="d4">0.917</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">65</data>
+      <data key="d2">0.0023</data>
+      <data key="d3">0.024</data>
+      <data key="d4">0.969</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">104</data>
+      <data key="d2">0.0037</data>
+      <data key="d3">0.057</data>
+      <data key="d4">0.875</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="CREW_COORDINATION_FAILURE">
+      <data key="d1">229</data>
+      <data key="d2">0.0082</data>
+      <data key="d3">0.238</data>
+      <data key="d4">0.271</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="RUNWAY_CONDITION_HAZARD">
+      <data key="d1">73</data>
+      <data key="d2">0.0026</data>
+      <data key="d3">0.033</data>
+      <data key="d4">0.836</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">30</data>
+      <data key="d2">0.0011</data>
+      <data key="d3">0.036</data>
+      <data key="d4">0.867</data>
+    </edge>
+    <edge source="CONTROL_INPUT_IMPROPER" target="BIRD_OR_WILDLIFE_STRIKE">
+      <data key="d1">44</data>
+      <data key="d2">0.0016</data>
+      <data key="d3">0.128</data>
+      <data key="d4">0.955</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="STALL">
+      <data key="d1">567</data>
+      <data key="d2">0.0346</data>
+      <data key="d3">0.291</data>
+      <data key="d4">0.769</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="SPATIAL_DISORIENTATION">
+      <data key="d1">47</data>
+      <data key="d2">0.0029</data>
+      <data key="d3">0.172</data>
+      <data key="d4">0.66</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="FUEL_CONTAMINATION">
+      <data key="d1">193</data>
+      <data key="d2">0.0118</data>
+      <data key="d3">0.601</data>
+      <data key="d4">0.891</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">408</data>
+      <data key="d2">0.0249</data>
+      <data key="d3">0.322</data>
+      <data key="d4">0.826</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">1442</data>
+      <data key="d2">0.088</data>
+      <data key="d3">0.909</data>
+      <data key="d4">0.931</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">500</data>
+      <data key="d2">0.0305</data>
+      <data key="d3">0.198</data>
+      <data key="d4">0.746</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">1368</data>
+      <data key="d2">0.0835</data>
+      <data key="d3">0.167</data>
+      <data key="d4">0.577</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="ENGINE_FAILURE">
+      <data key="d1">1137</data>
+      <data key="d2">0.0694</data>
+      <data key="d3">0.237</data>
+      <data key="d4">0.836</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="LATENT_MECHANICAL_DEFECT">
+      <data key="d1">311</data>
+      <data key="d2">0.019</data>
+      <data key="d3">0.127</data>
+      <data key="d4">0.942</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="CARBURETOR_OR_INDUCTION_ICING">
+      <data key="d1">44</data>
+      <data key="d2">0.0027</data>
+      <data key="d3">0.103</data>
+      <data key="d4">0.977</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="DECISION_INAPPROPRIATE">
+      <data key="d1">543</data>
+      <data key="d2">0.0331</data>
+      <data key="d3">0.085</data>
+      <data key="d4">0.503</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">193</data>
+      <data key="d2">0.0118</data>
+      <data key="d3">0.394</data>
+      <data key="d4">0.886</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">140</data>
+      <data key="d2">0.0085</data>
+      <data key="d3">0.424</data>
+      <data key="d4">0.864</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">90</data>
+      <data key="d2">0.0055</data>
+      <data key="d3">0.101</data>
+      <data key="d4">0.833</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">226</data>
+      <data key="d2">0.0138</data>
+      <data key="d3">0.427</data>
+      <data key="d4">0.934</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="PERCEPTION_FAILURE">
+      <data key="d1">619</data>
+      <data key="d2">0.0378</data>
+      <data key="d3">0.227</data>
+      <data key="d4">0.414</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">387</data>
+      <data key="d2">0.0236</data>
+      <data key="d3">0.135</data>
+      <data key="d4">0.726</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS">
+      <data key="d1">60</data>
+      <data key="d2">0.0037</data>
+      <data key="d3">0.198</data>
+      <data key="d4">0.933</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="STRUCTURAL_OVERLOAD">
+      <data key="d1">50</data>
+      <data key="d2">0.0031</data>
+      <data key="d3">0.127</data>
+      <data key="d4">0.66</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">105</data>
+      <data key="d2">0.0064</data>
+      <data key="d3">0.213</data>
+      <data key="d4">0.848</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="CREW_COORDINATION_FAILURE">
+      <data key="d1">80</data>
+      <data key="d2">0.0049</data>
+      <data key="d3">0.142</data>
+      <data key="d4">0.212</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">183</data>
+      <data key="d2">0.0112</data>
+      <data key="d3">0.171</data>
+      <data key="d4">0.836</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">57</data>
+      <data key="d2">0.0035</data>
+      <data key="d3">0.071</data>
+      <data key="d4">0.86</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="AUTOMATION_ANOMALY">
+      <data key="d1">39</data>
+      <data key="d2">0.0024</data>
+      <data key="d3">0.32</data>
+      <data key="d4">0.846</data>
+    </edge>
+    <edge source="PROCEDURE_NOT_FOLLOWED" target="INSTRUMENT_OR_AVIONICS_FAILURE">
+      <data key="d1">36</data>
+      <data key="d2">0.0022</data>
+      <data key="d3">0.156</data>
+      <data key="d4">0.917</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">182</data>
+      <data key="d2">0.0196</data>
+      <data key="d3">0.362</data>
+      <data key="d4">0.885</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">3480</data>
+      <data key="d2">0.3742</data>
+      <data key="d3">0.747</data>
+      <data key="d4">0.802</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">890</data>
+      <data key="d2">0.0957</data>
+      <data key="d3">0.327</data>
+      <data key="d4">0.728</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">818</data>
+      <data key="d2">0.0879</data>
+      <data key="d3">0.224</data>
+      <data key="d4">0.752</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">105</data>
+      <data key="d2">0.0113</data>
+      <data key="d3">0.146</data>
+      <data key="d4">0.743</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">93</data>
+      <data key="d2">0.01</data>
+      <data key="d3">0.065</data>
+      <data key="d4">0.602</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">318</data>
+      <data key="d2">0.0342</data>
+      <data key="d3">0.195</data>
+      <data key="d4">0.83</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">234</data>
+      <data key="d2">0.0252</data>
+      <data key="d3">1.248</data>
+      <data key="d4">0.919</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="STALL">
+      <data key="d1">151</data>
+      <data key="d2">0.0162</data>
+      <data key="d3">0.137</data>
+      <data key="d4">0.702</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="CREW_COORDINATION_FAILURE">
+      <data key="d1">50</data>
+      <data key="d2">0.0054</data>
+      <data key="d3">0.156</data>
+      <data key="d4">0.34</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">182</data>
+      <data key="d2">0.0196</data>
+      <data key="d3">0.202</data>
+      <data key="d4">0.797</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="SPATIAL_DISORIENTATION">
+      <data key="d1">60</data>
+      <data key="d2">0.0065</data>
+      <data key="d3">0.386</data>
+      <data key="d4">0.933</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="ENGINE_FAILURE">
+      <data key="d1">43</data>
+      <data key="d2">0.0046</data>
+      <data key="d3">0.016</data>
+      <data key="d4">0.442</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="BIRD_OR_WILDLIFE_STRIKE">
+      <data key="d1">41</data>
+      <data key="d2">0.0044</data>
+      <data key="d3">0.359</data>
+      <data key="d4">0.927</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">45</data>
+      <data key="d2">0.0048</data>
+      <data key="d3">0.15</data>
+      <data key="d4">0.778</data>
+    </edge>
+    <edge source="PERCEPTION_FAILURE" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">44</data>
+      <data key="d2">0.0047</data>
+      <data key="d3">0.097</data>
+      <data key="d4">0.864</data>
+    </edge>
+    <edge source="SPATIAL_DISORIENTATION" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">448</data>
+      <data key="d2">0.4797</data>
+      <data key="d3">2.734</data>
+      <data key="d4">0.998</data>
+    </edge>
+    <edge source="SPATIAL_DISORIENTATION" target="DECISION_INAPPROPRIATE">
+      <data key="d1">48</data>
+      <data key="d2">0.0514</data>
+      <data key="d3">0.131</data>
+      <data key="d4">0.875</data>
+    </edge>
+    <edge source="SPATIAL_DISORIENTATION" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">74</data>
+      <data key="d2">0.0792</data>
+      <data key="d3">3.929</data>
+      <data key="d4">0.959</data>
+    </edge>
+    <edge source="SPATIAL_DISORIENTATION" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">108</data>
+      <data key="d2">0.1156</data>
+      <data key="d3">0.231</data>
+      <data key="d4">0.88</data>
+    </edge>
+    <edge source="PILOT_INCAPACITATION_OR_IMPAIRMENT" target="PERCEPTION_FAILURE">
+      <data key="d1">118</data>
+      <data key="d2">0.0893</data>
+      <data key="d3">0.537</data>
+      <data key="d4">0.602</data>
+    </edge>
+    <edge source="PILOT_INCAPACITATION_OR_IMPAIRMENT" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">82</data>
+      <data key="d2">0.062</data>
+      <data key="d3">0.212</data>
+      <data key="d4">0.39</data>
+    </edge>
+    <edge source="PILOT_INCAPACITATION_OR_IMPAIRMENT" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">303</data>
+      <data key="d2">0.2292</data>
+      <data key="d3">0.458</data>
+      <data key="d4">0.455</data>
+    </edge>
+    <edge source="PILOT_INCAPACITATION_OR_IMPAIRMENT" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">360</data>
+      <data key="d2">0.2723</data>
+      <data key="d3">1.552</data>
+      <data key="d4">0.797</data>
+    </edge>
+    <edge source="PILOT_INCAPACITATION_OR_IMPAIRMENT" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">33</data>
+      <data key="d2">0.025</data>
+      <data key="d3">1.238</data>
+      <data key="d4">0.667</data>
+    </edge>
+    <edge source="PILOT_INCAPACITATION_OR_IMPAIRMENT" target="DECISION_INAPPROPRIATE">
+      <data key="d1">233</data>
+      <data key="d2">0.1762</data>
+      <data key="d3">0.45</data>
+      <data key="d4">0.455</data>
+    </edge>
+    <edge source="TRAINING_OR_CURRENCY_GAP" target="SPATIAL_DISORIENTATION">
+      <data key="d1">67</data>
+      <data key="d2">0.0619</data>
+      <data key="d3">3.705</data>
+      <data key="d4">0.06</data>
+    </edge>
+    <edge source="TRAINING_OR_CURRENCY_GAP" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">555</data>
+      <data key="d2">0.5125</data>
+      <data key="d3">1.024</data>
+      <data key="d4">0.083</data>
+    </edge>
+    <edge source="TRAINING_OR_CURRENCY_GAP" target="DECISION_INAPPROPRIATE">
+      <data key="d1">218</data>
+      <data key="d2">0.2013</data>
+      <data key="d3">0.513</data>
+      <data key="d4">0.138</data>
+    </edge>
+    <edge source="TRAINING_OR_CURRENCY_GAP" target="PERCEPTION_FAILURE">
+      <data key="d1">103</data>
+      <data key="d2">0.0951</data>
+      <data key="d3">0.572</data>
+      <data key="d4">0.155</data>
+    </edge>
+    <edge source="TRAINING_OR_CURRENCY_GAP" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">93</data>
+      <data key="d2">0.0859</data>
+      <data key="d3">0.49</data>
+      <data key="d4">0.151</data>
+    </edge>
+    <edge source="TRAINING_OR_CURRENCY_GAP" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">81</data>
+      <data key="d2">0.0748</data>
+      <data key="d3">0.255</data>
+      <data key="d4">0.148</data>
+    </edge>
+    <edge source="TRAINING_OR_CURRENCY_GAP" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">40</data>
+      <data key="d2">0.0369</data>
+      <data key="d3">0.239</data>
+      <data key="d4">0.0</data>
+    </edge>
+    <edge source="CREW_COORDINATION_FAILURE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">502</data>
+      <data key="d2">0.2612</data>
+      <data key="d3">0.522</data>
+      <data key="d4">0.245</data>
+    </edge>
+    <edge source="CREW_COORDINATION_FAILURE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">177</data>
+      <data key="d2">0.0921</data>
+      <data key="d3">0.314</data>
+      <data key="d4">0.328</data>
+    </edge>
+    <edge source="CREW_COORDINATION_FAILURE" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">128</data>
+      <data key="d2">0.0666</data>
+      <data key="d3">0.431</data>
+      <data key="d4">0.383</data>
+    </edge>
+    <edge source="CREW_COORDINATION_FAILURE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">59</data>
+      <data key="d2">0.0307</data>
+      <data key="d3">0.175</data>
+      <data key="d4">0.407</data>
+    </edge>
+    <edge source="CREW_COORDINATION_FAILURE" target="PERCEPTION_FAILURE">
+      <data key="d1">116</data>
+      <data key="d2">0.0604</data>
+      <data key="d3">0.363</data>
+      <data key="d4">0.328</data>
+    </edge>
+    <edge source="CREW_COORDINATION_FAILURE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">55</data>
+      <data key="d2">0.0286</data>
+      <data key="d3">0.073</data>
+      <data key="d4">0.345</data>
+    </edge>
+    <edge source="ATC_OR_DISPATCH_INADEQUATE" target="PERCEPTION_FAILURE">
+      <data key="d1">104</data>
+      <data key="d2">0.2921</data>
+      <data key="d3">1.757</data>
+      <data key="d4">0.288</data>
+    </edge>
+    <edge source="ATC_OR_DISPATCH_INADEQUATE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">31</data>
+      <data key="d2">0.0871</data>
+      <data key="d3">0.297</data>
+      <data key="d4">0.323</data>
+    </edge>
+    <edge source="ATC_OR_DISPATCH_INADEQUATE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">33</data>
+      <data key="d2">0.0927</data>
+      <data key="d3">0.236</data>
+      <data key="d4">0.212</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">65</data>
+      <data key="d2">0.054</data>
+      <data key="d3">0.184</data>
+      <data key="d4">0.338</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="FUEL_CONTAMINATION">
+      <data key="d1">51</data>
+      <data key="d2">0.0424</data>
+      <data key="d3">2.16</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="RUNWAY_CONDITION_HAZARD">
+      <data key="d1">42</data>
+      <data key="d2">0.0349</data>
+      <data key="d3">0.446</data>
+      <data key="d4">0.976</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">78</data>
+      <data key="d2">0.0648</data>
+      <data key="d3">0.129</data>
+      <data key="d4">0.487</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="PERCEPTION_FAILURE">
+      <data key="d1">175</data>
+      <data key="d2">0.1453</data>
+      <data key="d3">0.874</data>
+      <data key="d4">0.24</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">31</data>
+      <data key="d2">0.0257</data>
+      <data key="d3">0.266</data>
+      <data key="d4">0.806</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="DECISION_INAPPROPRIATE">
+      <data key="d1">45</data>
+      <data key="d2">0.0374</data>
+      <data key="d3">0.095</data>
+      <data key="d4">0.267</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">52</data>
+      <data key="d2">0.0432</data>
+      <data key="d3">1.336</data>
+      <data key="d4">0.981</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="LATENT_MECHANICAL_DEFECT">
+      <data key="d1">105</data>
+      <data key="d2">0.0872</data>
+      <data key="d3">0.584</data>
+      <data key="d4">0.933</data>
+    </edge>
+    <edge source="GROUND_PERSONNEL_ERROR" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">50</data>
+      <data key="d2">0.0415</data>
+      <data key="d3">0.636</data>
+      <data key="d4">0.9</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">3824</data>
+      <data key="d2">0.2331</data>
+      <data key="d3">0.796</data>
+      <data key="d4">0.688</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">6544</data>
+      <data key="d2">0.3989</data>
+      <data key="d3">1.017</data>
+      <data key="d4">0.843</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">186</data>
+      <data key="d2">0.0113</data>
+      <data key="d3">0.073</data>
+      <data key="d4">0.903</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">1835</data>
+      <data key="d2">0.1118</data>
+      <data key="d3">0.223</data>
+      <data key="d4">0.675</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="STALL">
+      <data key="d1">517</data>
+      <data key="d2">0.0315</data>
+      <data key="d3">0.265</data>
+      <data key="d4">0.619</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">1016</data>
+      <data key="d2">0.0619</data>
+      <data key="d3">0.353</data>
+      <data key="d4">0.944</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="PERCEPTION_FAILURE">
+      <data key="d1">296</data>
+      <data key="d2">0.018</data>
+      <data key="d3">0.109</data>
+      <data key="d4">0.236</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">182</data>
+      <data key="d2">0.0111</data>
+      <data key="d3">0.369</data>
+      <data key="d4">0.885</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">32</data>
+      <data key="d2">0.002</data>
+      <data key="d3">0.04</data>
+      <data key="d4">0.938</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">43</data>
+      <data key="d2">0.0026</data>
+      <data key="d3">0.04</data>
+      <data key="d4">0.837</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="LOW_ALTITUDE_OPERATION">
+      <data key="d1">31</data>
+      <data key="d2">0.0019</data>
+      <data key="d3">0.077</data>
+      <data key="d4">0.677</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">42</data>
+      <data key="d2">0.0026</data>
+      <data key="d3">0.127</data>
+      <data key="d4">0.881</data>
+    </edge>
+    <edge source="ENGINE_FAILURE" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">33</data>
+      <data key="d2">0.002</data>
+      <data key="d3">0.037</data>
+      <data key="d4">0.939</data>
+    </edge>
+    <edge source="FUEL_SYSTEM_ANOMALY" target="ENGINE_FAILURE">
+      <data key="d1">954</data>
+      <data key="d2">0.5699</data>
+      <data key="d3">1.943</data>
+      <data key="d4">0.965</data>
+    </edge>
+    <edge source="FUEL_SYSTEM_ANOMALY" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">379</data>
+      <data key="d2">0.2264</data>
+      <data key="d3">2.339</data>
+      <data key="d4">0.95</data>
+    </edge>
+    <edge source="FUEL_SYSTEM_ANOMALY" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">94</data>
+      <data key="d2">0.0562</data>
+      <data key="d3">1.869</data>
+      <data key="d4">0.968</data>
+    </edge>
+    <edge source="FUEL_SYSTEM_ANOMALY" target="DECISION_INAPPROPRIATE">
+      <data key="d1">107</data>
+      <data key="d2">0.0639</data>
+      <data key="d3">0.163</data>
+      <data key="d4">0.561</data>
+    </edge>
+    <edge source="FUEL_SYSTEM_ANOMALY" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">66</data>
+      <data key="d2">0.0394</data>
+      <data key="d3">0.135</data>
+      <data key="d4">0.621</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">560</data>
+      <data key="d2">0.2053</data>
+      <data key="d3">1.17</data>
+      <data key="d4">0.98</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">89</data>
+      <data key="d2">0.0326</data>
+      <data key="d3">1.086</data>
+      <data key="d4">0.944</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="ENGINE_FAILURE">
+      <data key="d1">333</data>
+      <data key="d2">0.1221</data>
+      <data key="d3">0.416</data>
+      <data key="d4">0.973</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">124</data>
+      <data key="d2">0.0455</data>
+      <data key="d3">1.406</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">98</data>
+      <data key="d2">0.0359</data>
+      <data key="d3">0.233</data>
+      <data key="d4">0.929</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">51</data>
+      <data key="d2">0.0187</data>
+      <data key="d3">0.242</data>
+      <data key="d4">0.961</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">115</data>
+      <data key="d2">0.0422</data>
+      <data key="d3">0.646</data>
+      <data key="d4">0.965</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">51</data>
+      <data key="d2">0.0187</data>
+      <data key="d3">0.064</data>
+      <data key="d4">0.549</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">103</data>
+      <data key="d2">0.0378</data>
+      <data key="d3">0.096</data>
+      <data key="d4">0.534</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">46</data>
+      <data key="d2">0.0169</data>
+      <data key="d3">0.034</data>
+      <data key="d4">0.761</data>
+    </edge>
+    <edge source="AIRFRAME_STRUCTURAL_FAILURE" target="PERCEPTION_FAILURE">
+      <data key="d1">45</data>
+      <data key="d2">0.0165</data>
+      <data key="d3">0.099</data>
+      <data key="d4">0.578</data>
+    </edge>
+    <edge source="CONTROL_SURFACE_ANOMALY" target="STALL">
+      <data key="d1">36</data>
+      <data key="d2">0.0199</data>
+      <data key="d3">0.168</data>
+      <data key="d4">0.722</data>
+    </edge>
+    <edge source="CONTROL_SURFACE_ANOMALY" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">208</data>
+      <data key="d2">0.115</data>
+      <data key="d3">0.745</data>
+      <data key="d4">0.966</data>
+    </edge>
+    <edge source="CONTROL_SURFACE_ANOMALY" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">105</data>
+      <data key="d2">0.0581</data>
+      <data key="d3">0.198</data>
+      <data key="d4">0.705</data>
+    </edge>
+    <edge source="CONTROL_SURFACE_ANOMALY" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">129</data>
+      <data key="d2">0.0713</data>
+      <data key="d3">0.143</data>
+      <data key="d4">0.845</data>
+    </edge>
+    <edge source="CONTROL_SURFACE_ANOMALY" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">624</data>
+      <data key="d2">0.3451</data>
+      <data key="d3">1.967</data>
+      <data key="d4">0.974</data>
+    </edge>
+    <edge source="CONTROL_SURFACE_ANOMALY" target="DECISION_INAPPROPRIATE">
+      <data key="d1">199</data>
+      <data key="d2">0.1101</data>
+      <data key="d3">0.281</data>
+      <data key="d4">0.724</data>
+    </edge>
+    <edge source="CONTROL_SURFACE_ANOMALY" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">61</data>
+      <data key="d2">0.0337</data>
+      <data key="d3">0.692</data>
+      <data key="d4">0.984</data>
+    </edge>
+    <edge source="CONTROL_SURFACE_ANOMALY" target="ENGINE_FAILURE">
+      <data key="d1">107</data>
+      <data key="d2">0.0592</data>
+      <data key="d3">0.202</data>
+      <data key="d4">0.981</data>
+    </edge>
+    <edge source="CONTROL_SURFACE_ANOMALY" target="PERCEPTION_FAILURE">
+      <data key="d1">81</data>
+      <data key="d2">0.0448</data>
+      <data key="d3">0.269</data>
+      <data key="d4">0.728</data>
+    </edge>
+    <edge source="INSTRUMENT_OR_AVIONICS_FAILURE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">142</data>
+      <data key="d2">0.1807</data>
+      <data key="d3">0.461</data>
+      <data key="d4">0.43</data>
+    </edge>
+    <edge source="INSTRUMENT_OR_AVIONICS_FAILURE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">36</data>
+      <data key="d2">0.0458</data>
+      <data key="d3">0.091</data>
+      <data key="d4">0.472</data>
+    </edge>
+    <edge source="INSTRUMENT_OR_AVIONICS_FAILURE" target="PERCEPTION_FAILURE">
+      <data key="d1">296</data>
+      <data key="d2">0.3766</data>
+      <data key="d3">2.265</data>
+      <data key="d4">0.666</data>
+    </edge>
+    <edge source="INSTRUMENT_OR_AVIONICS_FAILURE" target="ENGINE_FAILURE">
+      <data key="d1">49</data>
+      <data key="d2">0.0623</data>
+      <data key="d3">0.213</data>
+      <data key="d4">0.898</data>
+    </edge>
+    <edge source="INSTRUMENT_OR_AVIONICS_FAILURE" target="SPATIAL_DISORIENTATION">
+      <data key="d1">35</data>
+      <data key="d2">0.0445</data>
+      <data key="d3">2.667</data>
+      <data key="d4">0.771</data>
+    </edge>
+    <edge source="INSTRUMENT_OR_AVIONICS_FAILURE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">108</data>
+      <data key="d2">0.1374</data>
+      <data key="d3">0.469</data>
+      <data key="d4">0.37</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">588</data>
+      <data key="d2">0.1361</data>
+      <data key="d3">0.465</data>
+      <data key="d4">0.536</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">592</data>
+      <data key="d2">0.137</data>
+      <data key="d3">0.888</data>
+      <data key="d4">0.981</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">406</data>
+      <data key="d2">0.094</data>
+      <data key="d3">0.188</data>
+      <data key="d4">0.709</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">32</data>
+      <data key="d2">0.0074</data>
+      <data key="d3">0.113</data>
+      <data key="d4">0.875</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="DECISION_INAPPROPRIATE">
+      <data key="d1">405</data>
+      <data key="d2">0.0937</data>
+      <data key="d3">0.239</data>
+      <data key="d4">0.669</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="STRUCTURAL_OVERLOAD">
+      <data key="d1">34</data>
+      <data key="d2">0.0079</data>
+      <data key="d3">0.328</data>
+      <data key="d4">0.853</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">62</data>
+      <data key="d2">0.0143</data>
+      <data key="d3">0.294</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">33</data>
+      <data key="d2">0.0076</data>
+      <data key="d3">0.254</data>
+      <data key="d4">0.818</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="PERCEPTION_FAILURE">
+      <data key="d1">173</data>
+      <data key="d2">0.04</data>
+      <data key="d3">0.241</data>
+      <data key="d4">0.272</data>
+    </edge>
+    <edge source="LANDING_GEAR_ANOMALY" target="INSTRUMENT_OR_AVIONICS_FAILURE">
+      <data key="d1">30</data>
+      <data key="d2">0.0069</data>
+      <data key="d3">0.494</data>
+      <data key="d4">0.8</data>
+    </edge>
+    <edge source="AUTOMATION_ANOMALY" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">77</data>
+      <data key="d2">0.1851</data>
+      <data key="d3">0.37</data>
+      <data key="d4">0.766</data>
+    </edge>
+    <edge source="AUTOMATION_ANOMALY" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">51</data>
+      <data key="d2">0.1226</data>
+      <data key="d3">0.419</data>
+      <data key="d4">0.549</data>
+    </edge>
+    <edge source="AUTOMATION_ANOMALY" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">61</data>
+      <data key="d2">0.1466</data>
+      <data key="d3">0.836</data>
+      <data key="d4">0.852</data>
+    </edge>
+    <edge source="AUTOMATION_ANOMALY" target="PERCEPTION_FAILURE">
+      <data key="d1">40</data>
+      <data key="d2">0.0962</data>
+      <data key="d3">0.578</data>
+      <data key="d4">0.3</data>
+    </edge>
+    <edge source="AUTOMATION_ANOMALY" target="DECISION_INAPPROPRIATE">
+      <data key="d1">31</data>
+      <data key="d2">0.0745</data>
+      <data key="d3">0.19</data>
+      <data key="d4">0.645</data>
+    </edge>
+    <edge source="INFLIGHT_FIRE_OR_SMOKE" target="ENGINE_FAILURE">
+      <data key="d1">132</data>
+      <data key="d2">0.0785</data>
+      <data key="d3">0.268</data>
+      <data key="d4">0.841</data>
+    </edge>
+    <edge source="INFLIGHT_FIRE_OR_SMOKE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">283</data>
+      <data key="d2">0.1684</data>
+      <data key="d3">0.575</data>
+      <data key="d4">0.678</data>
+    </edge>
+    <edge source="INFLIGHT_FIRE_OR_SMOKE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">235</data>
+      <data key="d2">0.1398</data>
+      <data key="d3">0.357</data>
+      <data key="d4">0.715</data>
+    </edge>
+    <edge source="INFLIGHT_FIRE_OR_SMOKE" target="PERCEPTION_FAILURE">
+      <data key="d1">61</data>
+      <data key="d2">0.0363</data>
+      <data key="d3">0.218</data>
+      <data key="d4">0.803</data>
+    </edge>
+    <edge source="INFLIGHT_FIRE_OR_SMOKE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">42</data>
+      <data key="d2">0.025</data>
+      <data key="d3">0.142</data>
+      <data key="d4">0.786</data>
+    </edge>
+    <edge source="INFLIGHT_FIRE_OR_SMOKE" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">34</data>
+      <data key="d2">0.0202</data>
+      <data key="d3">0.31</data>
+      <data key="d4">0.882</data>
+    </edge>
+    <edge source="INFLIGHT_FIRE_OR_SMOKE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">41</data>
+      <data key="d2">0.0244</data>
+      <data key="d3">0.049</data>
+      <data key="d4">0.634</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">292</data>
+      <data key="d2">0.08</data>
+      <data key="d3">0.456</data>
+      <data key="d4">0.962</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="ENGINE_FAILURE">
+      <data key="d1">1035</data>
+      <data key="d2">0.2834</data>
+      <data key="d3">0.966</data>
+      <data key="d4">0.96</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">108</data>
+      <data key="d2">0.0296</data>
+      <data key="d3">0.306</data>
+      <data key="d4">0.981</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">215</data>
+      <data key="d2">0.0589</data>
+      <data key="d3">0.118</data>
+      <data key="d4">0.74</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">128</data>
+      <data key="d2">0.035</data>
+      <data key="d3">0.227</data>
+      <data key="d4">0.93</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">359</data>
+      <data key="d2">0.0983</data>
+      <data key="d3">0.336</data>
+      <data key="d4">0.624</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="PERCEPTION_FAILURE">
+      <data key="d1">172</data>
+      <data key="d2">0.0471</data>
+      <data key="d3">0.283</data>
+      <data key="d4">0.517</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">234</data>
+      <data key="d2">0.0641</data>
+      <data key="d3">2.132</data>
+      <data key="d4">0.957</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">522</data>
+      <data key="d2">0.1429</data>
+      <data key="d3">0.365</data>
+      <data key="d4">0.718</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">171</data>
+      <data key="d2">0.0468</data>
+      <data key="d3">0.606</data>
+      <data key="d4">0.895</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">58</data>
+      <data key="d2">0.0159</data>
+      <data key="d3">0.531</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">47</data>
+      <data key="d2">0.0129</data>
+      <data key="d3">0.264</data>
+      <data key="d4">0.957</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="AUTOMATION_ANOMALY">
+      <data key="d1">34</data>
+      <data key="d2">0.0093</data>
+      <data key="d3">1.252</data>
+      <data key="d4">0.824</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="INSTRUMENT_OR_AVIONICS_FAILURE">
+      <data key="d1">62</data>
+      <data key="d2">0.017</data>
+      <data key="d3">1.208</data>
+      <data key="d4">0.935</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">56</data>
+      <data key="d2">0.0153</data>
+      <data key="d3">0.474</data>
+      <data key="d4">0.964</data>
+    </edge>
+    <edge source="OTHER_SYSTEM_FAILURE" target="LATENT_MECHANICAL_DEFECT">
+      <data key="d1">37</data>
+      <data key="d2">0.0101</data>
+      <data key="d3">0.068</data>
+      <data key="d4">0.973</data>
+    </edge>
+    <edge source="ICING_ENCOUNTER" target="DECISION_INAPPROPRIATE">
+      <data key="d1">121</data>
+      <data key="d2">0.2695</data>
+      <data key="d3">0.687</data>
+      <data key="d4">0.248</data>
+    </edge>
+    <edge source="ICING_ENCOUNTER" target="STALL">
+      <data key="d1">79</data>
+      <data key="d2">0.1759</data>
+      <data key="d3">1.482</data>
+      <data key="d4">0.532</data>
+    </edge>
+    <edge source="ICING_ENCOUNTER" target="ENGINE_FAILURE">
+      <data key="d1">33</data>
+      <data key="d2">0.0735</data>
+      <data key="d3">0.251</data>
+      <data key="d4">0.727</data>
+    </edge>
+    <edge source="ICING_ENCOUNTER" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">70</data>
+      <data key="d2">0.1559</data>
+      <data key="d3">0.889</data>
+      <data key="d4">0.743</data>
+    </edge>
+    <edge source="ICING_ENCOUNTER" target="PERCEPTION_FAILURE">
+      <data key="d1">41</data>
+      <data key="d2">0.0913</data>
+      <data key="d3">0.549</data>
+      <data key="d4">0.683</data>
+    </edge>
+    <edge source="ICING_ENCOUNTER" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">61</data>
+      <data key="d2">0.1359</data>
+      <data key="d3">0.464</data>
+      <data key="d4">0.328</data>
+    </edge>
+    <edge source="TURBULENCE_ENCOUNTER" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">192</data>
+      <data key="d2">0.1304</data>
+      <data key="d3">0.261</data>
+      <data key="d4">0.474</data>
+    </edge>
+    <edge source="TURBULENCE_ENCOUNTER" target="STALL">
+      <data key="d1">82</data>
+      <data key="d2">0.0557</data>
+      <data key="d3">0.469</data>
+      <data key="d4">0.439</data>
+    </edge>
+    <edge source="TURBULENCE_ENCOUNTER" target="DECISION_INAPPROPRIATE">
+      <data key="d1">111</data>
+      <data key="d2">0.0754</data>
+      <data key="d3">0.192</data>
+      <data key="d4">0.387</data>
+    </edge>
+    <edge source="TURBULENCE_ENCOUNTER" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">334</data>
+      <data key="d2">0.2269</data>
+      <data key="d3">1.293</data>
+      <data key="d4">0.799</data>
+    </edge>
+    <edge source="TURBULENCE_ENCOUNTER" target="STRUCTURAL_OVERLOAD">
+      <data key="d1">63</data>
+      <data key="d2">0.0428</data>
+      <data key="d3">1.785</data>
+      <data key="d4">0.794</data>
+    </edge>
+    <edge source="TURBULENCE_ENCOUNTER" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">90</data>
+      <data key="d2">0.0611</data>
+      <data key="d3">0.209</data>
+      <data key="d4">0.189</data>
+    </edge>
+    <edge source="TURBULENCE_ENCOUNTER" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">64</data>
+      <data key="d2">0.0435</data>
+      <data key="d3">2.156</data>
+      <data key="d4">0.859</data>
+    </edge>
+    <edge source="TURBULENCE_ENCOUNTER" target="PERCEPTION_FAILURE">
+      <data key="d1">36</data>
+      <data key="d2">0.0245</data>
+      <data key="d3">0.147</data>
+      <data key="d4">0.444</data>
+    </edge>
+    <edge source="TURBULENCE_ENCOUNTER" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">39</data>
+      <data key="d2">0.0265</data>
+      <data key="d3">0.172</data>
+      <data key="d4">0.821</data>
+    </edge>
+    <edge source="THUNDERSTORM_OR_CONVECTIVE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">33</data>
+      <data key="d2">0.1038</data>
+      <data key="d3">0.592</data>
+      <data key="d4">0.667</data>
+    </edge>
+    <edge source="THUNDERSTORM_OR_CONVECTIVE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">131</data>
+      <data key="d2">0.4119</data>
+      <data key="d3">1.051</data>
+      <data key="d4">0.282</data>
+    </edge>
+    <edge source="THUNDERSTORM_OR_CONVECTIVE" target="TURBULENCE_ENCOUNTER">
+      <data key="d1">96</data>
+      <data key="d2">0.3019</data>
+      <data key="d3">11.473</data>
+      <data key="d4">0.99</data>
+    </edge>
+    <edge source="THUNDERSTORM_OR_CONVECTIVE" target="LOW_VISIBILITY_OR_IMC">
+      <data key="d1">32</data>
+      <data key="d2">0.1006</data>
+      <data key="d3">2.161</data>
+      <data key="d4">0.969</data>
+    </edge>
+    <edge source="THUNDERSTORM_OR_CONVECTIVE" target="WIND_SHEAR_OR_GUST">
+      <data key="d1">63</data>
+      <data key="d2">0.1981</data>
+      <data key="d3">5.049</data>
+      <data key="d4">0.984</data>
+    </edge>
+    <edge source="LOW_VISIBILITY_OR_IMC" target="DECISION_INAPPROPRIATE">
+      <data key="d1">1131</data>
+      <data key="d2">0.4342</data>
+      <data key="d3">1.107</data>
+      <data key="d4">0.144</data>
+    </edge>
+    <edge source="LOW_VISIBILITY_OR_IMC" target="PERCEPTION_FAILURE">
+      <data key="d1">662</data>
+      <data key="d2">0.2541</data>
+      <data key="d3">1.528</data>
+      <data key="d4">0.532</data>
+    </edge>
+    <edge source="LOW_VISIBILITY_OR_IMC" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">232</data>
+      <data key="d2">0.0891</data>
+      <data key="d3">0.304</data>
+      <data key="d4">0.159</data>
+    </edge>
+    <edge source="LOW_VISIBILITY_OR_IMC" target="SPATIAL_DISORIENTATION">
+      <data key="d1">459</data>
+      <data key="d2">0.1762</data>
+      <data key="d3">10.553</data>
+      <data key="d4">0.691</data>
+    </edge>
+    <edge source="LOW_VISIBILITY_OR_IMC" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">75</data>
+      <data key="d2">0.0288</data>
+      <data key="d3">0.058</data>
+      <data key="d4">0.093</data>
+    </edge>
+    <edge source="LOW_VISIBILITY_OR_IMC" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">63</data>
+      <data key="d2">0.0242</data>
+      <data key="d3">1.199</data>
+      <data key="d4">0.079</data>
+    </edge>
+    <edge source="LOW_VISIBILITY_OR_IMC" target="ICING_ENCOUNTER">
+      <data key="d1">77</data>
+      <data key="d2">0.0296</data>
+      <data key="d3">3.683</data>
+      <data key="d4">0.987</data>
+    </edge>
+    <edge source="LOW_VISIBILITY_OR_IMC" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">142</data>
+      <data key="d2">0.0545</data>
+      <data key="d3">0.311</data>
+      <data key="d4">0.211</data>
+    </edge>
+    <edge source="WIND_SHEAR_OR_GUST" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">1037</data>
+      <data key="d2">0.4724</data>
+      <data key="d3">0.944</data>
+      <data key="d4">0.503</data>
+    </edge>
+    <edge source="WIND_SHEAR_OR_GUST" target="DECISION_INAPPROPRIATE">
+      <data key="d1">130</data>
+      <data key="d2">0.0592</data>
+      <data key="d3">0.151</data>
+      <data key="d4">0.546</data>
+    </edge>
+    <edge source="WIND_SHEAR_OR_GUST" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">235</data>
+      <data key="d2">0.1071</data>
+      <data key="d3">0.61</data>
+      <data key="d4">0.864</data>
+    </edge>
+    <edge source="WIND_SHEAR_OR_GUST" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">344</data>
+      <data key="d2">0.1567</data>
+      <data key="d3">1.015</data>
+      <data key="d4">0.773</data>
+    </edge>
+    <edge source="WIND_SHEAR_OR_GUST" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">34</data>
+      <data key="d2">0.0155</data>
+      <data key="d3">0.053</data>
+      <data key="d4">0.559</data>
+    </edge>
+    <edge source="WIND_SHEAR_OR_GUST" target="PERCEPTION_FAILURE">
+      <data key="d1">38</data>
+      <data key="d2">0.0173</data>
+      <data key="d3">0.104</data>
+      <data key="d4">0.289</data>
+    </edge>
+    <edge source="WIND_SHEAR_OR_GUST" target="STALL">
+      <data key="d1">141</data>
+      <data key="d2">0.0642</data>
+      <data key="d3">0.541</data>
+      <data key="d4">0.638</data>
+    </edge>
+    <edge source="WIND_SHEAR_OR_GUST" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">35</data>
+      <data key="d2">0.0159</data>
+      <data key="d3">0.791</data>
+      <data key="d4">0.943</data>
+    </edge>
+    <edge source="BIRD_OR_WILDLIFE_STRIKE" target="ENGINE_FAILURE">
+      <data key="d1">55</data>
+      <data key="d2">0.0802</data>
+      <data key="d3">0.273</data>
+      <data key="d4">0.982</data>
+    </edge>
+    <edge source="BIRD_OR_WILDLIFE_STRIKE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">111</data>
+      <data key="d2">0.1618</data>
+      <data key="d3">0.323</data>
+      <data key="d4">0.946</data>
+    </edge>
+    <edge source="BIRD_OR_WILDLIFE_STRIKE" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">37</data>
+      <data key="d2">0.0539</data>
+      <data key="d3">1.669</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="BIRD_OR_WILDLIFE_STRIKE" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">31</data>
+      <data key="d2">0.0452</data>
+      <data key="d3">0.585</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="BIRD_OR_WILDLIFE_STRIKE" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">185</data>
+      <data key="d2">0.2697</data>
+      <data key="d3">5.53</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="BIRD_OR_WILDLIFE_STRIKE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">32</data>
+      <data key="d2">0.0466</data>
+      <data key="d3">0.266</data>
+      <data key="d4">0.969</data>
+    </edge>
+    <edge source="TERRAIN_OR_OBSTACLE_PROXIMITY" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">130</data>
+      <data key="d2">0.0429</data>
+      <data key="d3">0.88</data>
+      <data key="d4">0.931</data>
+    </edge>
+    <edge source="TERRAIN_OR_OBSTACLE_PROXIMITY" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">216</data>
+      <data key="d2">0.0713</data>
+      <data key="d3">0.142</data>
+      <data key="d4">0.505</data>
+    </edge>
+    <edge source="TERRAIN_OR_OBSTACLE_PROXIMITY" target="DECISION_INAPPROPRIATE">
+      <data key="d1">128</data>
+      <data key="d2">0.0423</data>
+      <data key="d3">0.108</data>
+      <data key="d4">0.258</data>
+    </edge>
+    <edge source="TERRAIN_OR_OBSTACLE_PROXIMITY" target="PERCEPTION_FAILURE">
+      <data key="d1">413</data>
+      <data key="d2">0.1364</data>
+      <data key="d3">0.82</data>
+      <data key="d4">0.044</data>
+    </edge>
+    <edge source="TERRAIN_OR_OBSTACLE_PROXIMITY" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">33</data>
+      <data key="d2">0.0109</data>
+      <data key="d3">0.037</data>
+      <data key="d4">0.394</data>
+    </edge>
+    <edge source="TERRAIN_OR_OBSTACLE_PROXIMITY" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">37</data>
+      <data key="d2">0.0122</data>
+      <data key="d3">0.158</data>
+      <data key="d4">0.892</data>
+    </edge>
+    <edge source="TERRAIN_OR_OBSTACLE_PROXIMITY" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">101</data>
+      <data key="d2">0.0334</data>
+      <data key="d3">0.19</data>
+      <data key="d4">0.812</data>
+    </edge>
+    <edge source="TERRAIN_OR_OBSTACLE_PROXIMITY" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">66</data>
+      <data key="d2">0.0218</data>
+      <data key="d3">0.141</data>
+      <data key="d4">0.727</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">762</data>
+      <data key="d2">0.1741</data>
+      <data key="d3">1.128</data>
+      <data key="d4">0.366</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="DECISION_INAPPROPRIATE">
+      <data key="d1">565</data>
+      <data key="d2">0.1291</data>
+      <data key="d3">0.329</data>
+      <data key="d4">0.018</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="PERCEPTION_FAILURE">
+      <data key="d1">290</data>
+      <data key="d2">0.0662</data>
+      <data key="d3">0.398</data>
+      <data key="d4">0.207</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">210</data>
+      <data key="d2">0.048</data>
+      <data key="d3">0.621</data>
+      <data key="d4">0.681</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">823</data>
+      <data key="d2">0.188</data>
+      <data key="d3">0.375</data>
+      <data key="d4">0.211</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="STALL">
+      <data key="d1">52</data>
+      <data key="d2">0.0119</data>
+      <data key="d3">0.1</data>
+      <data key="d4">0.115</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">34</data>
+      <data key="d2">0.0078</data>
+      <data key="d3">0.143</data>
+      <data key="d4">0.382</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">67</data>
+      <data key="d2">0.0153</data>
+      <data key="d3">0.052</data>
+      <data key="d4">0.194</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">50</data>
+      <data key="d2">0.0114</data>
+      <data key="d3">0.234</data>
+      <data key="d4">0.6</data>
+    </edge>
+    <edge source="RUNWAY_CONDITION_HAZARD" target="STRUCTURAL_OVERLOAD">
+      <data key="d1">33</data>
+      <data key="d2">0.0075</data>
+      <data key="d3">0.314</data>
+      <data key="d4">0.576</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">475</data>
+      <data key="d2">0.0842</data>
+      <data key="d3">1.29</data>
+      <data key="d4">0.909</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="LATENT_MECHANICAL_DEFECT">
+      <data key="d1">2569</data>
+      <data key="d2">0.4554</data>
+      <data key="d3">3.049</data>
+      <data key="d4">0.931</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">360</data>
+      <data key="d2">0.0638</data>
+      <data key="d3">2.133</data>
+      <data key="d4">0.928</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">286</data>
+      <data key="d2">0.0507</data>
+      <data key="d3">0.656</data>
+      <data key="d4">0.867</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="ENGINE_FAILURE">
+      <data key="d1">649</data>
+      <data key="d2">0.1151</data>
+      <data key="d3">0.392</data>
+      <data key="d4">0.743</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">106</data>
+      <data key="d2">0.0188</data>
+      <data key="d3">0.064</data>
+      <data key="d4">0.208</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="FUEL_CONTAMINATION">
+      <data key="d1">178</data>
+      <data key="d2">0.0316</data>
+      <data key="d3">1.609</data>
+      <data key="d4">0.899</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">132</data>
+      <data key="d2">0.0234</data>
+      <data key="d3">0.06</data>
+      <data key="d4">0.227</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">153</data>
+      <data key="d2">0.0271</data>
+      <data key="d3">0.556</data>
+      <data key="d4">0.712</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">131</data>
+      <data key="d2">0.0232</data>
+      <data key="d3">0.24</data>
+      <data key="d4">0.771</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">236</data>
+      <data key="d2">0.0418</data>
+      <data key="d3">1.294</data>
+      <data key="d4">0.873</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">101</data>
+      <data key="d2">0.0179</data>
+      <data key="d3">0.596</data>
+      <data key="d4">0.861</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="ORG_OR_REGULATORY_INADEQUATE">
+      <data key="d1">31</data>
+      <data key="d2">0.0055</data>
+      <data key="d3">0.373</data>
+      <data key="d4">0.355</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="INSTRUMENT_OR_AVIONICS_FAILURE">
+      <data key="d1">64</data>
+      <data key="d2">0.0113</data>
+      <data key="d3">0.807</data>
+      <data key="d4">0.922</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">43</data>
+      <data key="d2">0.0076</data>
+      <data key="d3">0.015</data>
+      <data key="d4">0.465</data>
+    </edge>
+    <edge source="MAINTENANCE_INADEQUATE" target="PERCEPTION_FAILURE">
+      <data key="d1">57</data>
+      <data key="d2">0.0101</data>
+      <data key="d3">0.061</data>
+      <data key="d4">0.123</data>
+    </edge>
+    <edge source="ORG_OR_REGULATORY_INADEQUATE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">113</data>
+      <data key="d2">0.137</data>
+      <data key="d3">0.349</data>
+      <data key="d4">0.088</data>
+    </edge>
+    <edge source="ORG_OR_REGULATORY_INADEQUATE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">82</data>
+      <data key="d2">0.0994</data>
+      <data key="d3">0.339</data>
+      <data key="d4">0.171</data>
+    </edge>
+    <edge source="ORG_OR_REGULATORY_INADEQUATE" target="LATENT_MECHANICAL_DEFECT">
+      <data key="d1">81</data>
+      <data key="d2">0.0982</data>
+      <data key="d3">0.657</data>
+      <data key="d4">0.173</data>
+    </edge>
+    <edge source="ORG_OR_REGULATORY_INADEQUATE" target="PERCEPTION_FAILURE">
+      <data key="d1">72</data>
+      <data key="d2">0.0873</data>
+      <data key="d3">0.525</data>
+      <data key="d4">0.083</data>
+    </edge>
+    <edge source="ORG_OR_REGULATORY_INADEQUATE" target="MAINTENANCE_INADEQUATE">
+      <data key="d1">30</data>
+      <data key="d2">0.0364</data>
+      <data key="d3">0.361</data>
+      <data key="d4">0.267</data>
+    </edge>
+    <edge source="ORG_OR_REGULATORY_INADEQUATE" target="GROUND_PERSONNEL_ERROR">
+      <data key="d1">43</data>
+      <data key="d2">0.0521</data>
+      <data key="d3">2.422</data>
+      <data key="d4">0.163</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="ENGINE_FAILURE">
+      <data key="d1">76</data>
+      <data key="d2">0.0982</data>
+      <data key="d3">0.335</data>
+      <data key="d4">0.684</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="LATENT_MECHANICAL_DEFECT">
+      <data key="d1">118</data>
+      <data key="d2">0.1525</data>
+      <data key="d3">1.021</data>
+      <data key="d4">0.915</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">62</data>
+      <data key="d2">0.0801</data>
+      <data key="d3">1.227</data>
+      <data key="d4">0.919</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">47</data>
+      <data key="d2">0.0607</data>
+      <data key="d3">1.879</data>
+      <data key="d4">0.809</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">35</data>
+      <data key="d2">0.0452</data>
+      <data key="d3">0.585</data>
+      <data key="d4">0.8</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="MAINTENANCE_INADEQUATE">
+      <data key="d1">54</data>
+      <data key="d2">0.0698</data>
+      <data key="d3">0.692</data>
+      <data key="d4">0.296</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">39</data>
+      <data key="d2">0.0504</data>
+      <data key="d3">0.172</data>
+      <data key="d4">0.179</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="PERCEPTION_FAILURE">
+      <data key="d1">34</data>
+      <data key="d2">0.0439</data>
+      <data key="d3">0.264</data>
+      <data key="d4">0.176</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">72</data>
+      <data key="d2">0.093</data>
+      <data key="d3">1.908</data>
+      <data key="d4">0.861</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">42</data>
+      <data key="d2">0.0543</data>
+      <data key="d3">1.813</data>
+      <data key="d4">0.857</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">32</data>
+      <data key="d2">0.0413</data>
+      <data key="d3">1.376</data>
+      <data key="d4">0.719</data>
+    </edge>
+    <edge source="DESIGN_DEFECT_LATENT" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">34</data>
+      <data key="d2">0.0439</data>
+      <data key="d3">0.088</data>
+      <data key="d4">0.147</data>
+    </edge>
+    <edge source="STALL" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">2428</data>
+      <data key="d2">0.3656</data>
+      <data key="d3">2.084</data>
+      <data key="d4">0.995</data>
+    </edge>
+    <edge source="STALL" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">173</data>
+      <data key="d2">0.0261</data>
+      <data key="d3">0.089</data>
+      <data key="d4">0.636</data>
+    </edge>
+    <edge source="STALL" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">117</data>
+      <data key="d2">0.0176</data>
+      <data key="d3">0.114</data>
+      <data key="d4">0.88</data>
+    </edge>
+    <edge source="STALL" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">426</data>
+      <data key="d2">0.0641</data>
+      <data key="d3">0.128</data>
+      <data key="d4">0.826</data>
+    </edge>
+    <edge source="STALL" target="DECISION_INAPPROPRIATE">
+      <data key="d1">136</data>
+      <data key="d2">0.0205</data>
+      <data key="d3">0.052</data>
+      <data key="d4">0.794</data>
+    </edge>
+    <edge source="STALL" target="PERCEPTION_FAILURE">
+      <data key="d1">30</data>
+      <data key="d2">0.0045</data>
+      <data key="d3">0.027</data>
+      <data key="d4">0.2</data>
+    </edge>
+    <edge source="STALL" target="CREW_COORDINATION_FAILURE">
+      <data key="d1">51</data>
+      <data key="d2">0.0077</data>
+      <data key="d3">0.224</data>
+      <data key="d4">0.176</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="DECISION_INAPPROPRIATE">
+      <data key="d1">418</data>
+      <data key="d2">0.0426</data>
+      <data key="d3">0.109</data>
+      <data key="d4">0.722</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="STRUCTURAL_OVERLOAD">
+      <data key="d1">151</data>
+      <data key="d2">0.0154</data>
+      <data key="d3">0.642</data>
+      <data key="d4">0.993</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">504</data>
+      <data key="d2">0.0514</data>
+      <data key="d3">0.175</data>
+      <data key="d4">0.688</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">580</data>
+      <data key="d2">0.0591</data>
+      <data key="d3">0.118</data>
+      <data key="d4">0.807</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="STALL">
+      <data key="d1">129</data>
+      <data key="d2">0.0131</data>
+      <data key="d3">0.111</data>
+      <data key="d4">0.822</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">105</data>
+      <data key="d2">0.0107</data>
+      <data key="d3">0.198</data>
+      <data key="d4">0.914</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">51</data>
+      <data key="d2">0.0052</data>
+      <data key="d3">0.258</data>
+      <data key="d4">1.0</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="CREW_COORDINATION_FAILURE">
+      <data key="d1">67</data>
+      <data key="d2">0.0068</data>
+      <data key="d3">0.199</data>
+      <data key="d4">0.254</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="PERCEPTION_FAILURE">
+      <data key="d1">36</data>
+      <data key="d2">0.0037</data>
+      <data key="d3">0.022</data>
+      <data key="d4">0.417</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_INFLIGHT" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">44</data>
+      <data key="d2">0.0045</data>
+      <data key="d3">0.092</data>
+      <data key="d4">0.955</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_GROUND" target="STRUCTURAL_OVERLOAD">
+      <data key="d1">129</data>
+      <data key="d2">0.0149</data>
+      <data key="d3">0.623</data>
+      <data key="d4">0.984</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_GROUND" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">871</data>
+      <data key="d2">0.1009</data>
+      <data key="d3">0.201</data>
+      <data key="d4">0.838</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_GROUND" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">288</data>
+      <data key="d2">0.0334</data>
+      <data key="d3">0.432</data>
+      <data key="d4">0.976</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_GROUND" target="DECISION_INAPPROPRIATE">
+      <data key="d1">352</data>
+      <data key="d2">0.0408</data>
+      <data key="d3">0.104</data>
+      <data key="d4">0.753</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_GROUND" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">276</data>
+      <data key="d2">0.032</data>
+      <data key="d3">0.109</data>
+      <data key="d4">0.594</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_GROUND" target="CREW_COORDINATION_FAILURE">
+      <data key="d1">86</data>
+      <data key="d2">0.01</data>
+      <data key="d3">0.29</data>
+      <data key="d4">0.209</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_GROUND" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">172</data>
+      <data key="d2">0.0199</data>
+      <data key="d3">0.408</data>
+      <data key="d4">0.988</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_GROUND" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">111</data>
+      <data key="d2">0.0129</data>
+      <data key="d3">0.237</data>
+      <data key="d4">0.946</data>
+    </edge>
+    <edge source="LOSS_OF_CONTROL_GROUND" target="RUNWAY_CONDITION_HAZARD">
+      <data key="d1">43</data>
+      <data key="d2">0.005</data>
+      <data key="d3">0.064</data>
+      <data key="d4">0.907</data>
+    </edge>
+    <edge source="STRUCTURAL_OVERLOAD" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">46</data>
+      <data key="d2">0.0343</data>
+      <data key="d3">0.196</data>
+      <data key="d4">0.913</data>
+    </edge>
+    <edge source="STRUCTURAL_OVERLOAD" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">117</data>
+      <data key="d2">0.0872</data>
+      <data key="d3">1.13</data>
+      <data key="d4">0.991</data>
+    </edge>
+    <edge source="STRUCTURAL_OVERLOAD" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">195</data>
+      <data key="d2">0.1454</data>
+      <data key="d3">2.982</data>
+      <data key="d4">0.964</data>
+    </edge>
+    <edge source="ALTITUDE_DEVIATION_UNCONTROLLED" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">60</data>
+      <data key="d2">0.0532</data>
+      <data key="d3">0.983</data>
+      <data key="d4">0.983</data>
+    </edge>
+    <edge source="ALTITUDE_DEVIATION_UNCONTROLLED" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">56</data>
+      <data key="d2">0.0496</data>
+      <data key="d3">0.099</data>
+      <data key="d4">0.839</data>
+    </edge>
+    <edge source="ALTITUDE_DEVIATION_UNCONTROLLED" target="DECISION_INAPPROPRIATE">
+      <data key="d1">50</data>
+      <data key="d2">0.0443</data>
+      <data key="d3">0.113</data>
+      <data key="d4">0.8</data>
+    </edge>
+    <edge source="FUEL_EXHAUSTION_OR_STARVATION" target="ENGINE_FAILURE">
+      <data key="d1">5051</data>
+      <data key="d2">0.933</data>
+      <data key="d3">3.181</data>
+      <data key="d4">0.991</data>
+    </edge>
+    <edge source="FUEL_EXHAUSTION_OR_STARVATION" target="DECISION_INAPPROPRIATE">
+      <data key="d1">351</data>
+      <data key="d2">0.0648</data>
+      <data key="d3">0.165</data>
+      <data key="d4">0.293</data>
+    </edge>
+    <edge source="FUEL_EXHAUSTION_OR_STARVATION" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">74</data>
+      <data key="d2">0.0137</data>
+      <data key="d3">0.457</data>
+      <data key="d4">0.635</data>
+    </edge>
+    <edge source="FUEL_EXHAUSTION_OR_STARVATION" target="PERCEPTION_FAILURE">
+      <data key="d1">79</data>
+      <data key="d2">0.0146</data>
+      <data key="d3">0.088</data>
+      <data key="d4">0.0</data>
+    </edge>
+    <edge source="FUEL_EXHAUSTION_OR_STARVATION" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">180</data>
+      <data key="d2">0.0332</data>
+      <data key="d3">0.114</data>
+      <data key="d4">0.183</data>
+    </edge>
+    <edge source="FUEL_CONTAMINATION" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">134</data>
+      <data key="d2">0.1222</data>
+      <data key="d3">4.082</data>
+      <data key="d4">0.91</data>
+    </edge>
+    <edge source="FUEL_CONTAMINATION" target="ENGINE_FAILURE">
+      <data key="d1">826</data>
+      <data key="d2">0.753</data>
+      <data key="d3">2.567</data>
+      <data key="d4">0.885</data>
+    </edge>
+    <edge source="FUEL_CONTAMINATION" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">37</data>
+      <data key="d2">0.0337</data>
+      <data key="d3">0.348</data>
+      <data key="d4">0.703</data>
+    </edge>
+    <edge source="FUEL_CONTAMINATION" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">85</data>
+      <data key="d2">0.0775</data>
+      <data key="d3">0.265</data>
+      <data key="d4">0.047</data>
+    </edge>
+    <edge source="FUEL_CONTAMINATION" target="DECISION_INAPPROPRIATE">
+      <data key="d1">34</data>
+      <data key="d2">0.031</data>
+      <data key="d3">0.079</data>
+      <data key="d4">0.147</data>
+    </edge>
+    <edge source="FUEL_CONTAMINATION" target="PERCEPTION_FAILURE">
+      <data key="d1">44</data>
+      <data key="d2">0.0401</data>
+      <data key="d3">0.241</data>
+      <data key="d4">0.068</data>
+    </edge>
+    <edge source="CARBURETOR_OR_INDUCTION_ICING" target="DECISION_INAPPROPRIATE">
+      <data key="d1">57</data>
+      <data key="d2">0.0391</data>
+      <data key="d3">0.1</data>
+      <data key="d4">0.07</data>
+    </edge>
+    <edge source="CARBURETOR_OR_INDUCTION_ICING" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">549</data>
+      <data key="d2">0.3771</data>
+      <data key="d3">1.287</data>
+      <data key="d4">0.049</data>
+    </edge>
+    <edge source="CARBURETOR_OR_INDUCTION_ICING" target="ENGINE_FAILURE">
+      <data key="d1">971</data>
+      <data key="d2">0.6669</data>
+      <data key="d3">2.274</data>
+      <data key="d4">0.735</data>
+    </edge>
+    <edge source="CARBURETOR_OR_INDUCTION_ICING" target="PERCEPTION_FAILURE">
+      <data key="d1">37</data>
+      <data key="d2">0.0254</data>
+      <data key="d3">0.153</data>
+      <data key="d4">0.189</data>
+    </edge>
+    <edge source="CARBURETOR_OR_INDUCTION_ICING" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">30</data>
+      <data key="d2">0.0206</data>
+      <data key="d3">0.689</data>
+      <data key="d4">0.7</data>
+    </edge>
+    <edge source="CARBURETOR_OR_INDUCTION_ICING" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">31</data>
+      <data key="d2">0.0213</data>
+      <data key="d3">0.043</data>
+      <data key="d4">0.387</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">175</data>
+      <data key="d2">0.02</data>
+      <data key="d3">0.068</data>
+      <data key="d4">0.103</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="DECISION_INAPPROPRIATE">
+      <data key="d1">1312</data>
+      <data key="d2">0.1496</data>
+      <data key="d3">0.382</data>
+      <data key="d4">0.046</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">4198</data>
+      <data key="d2">0.4788</data>
+      <data key="d3">0.956</data>
+      <data key="d4">0.088</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="PERCEPTION_FAILURE">
+      <data key="d1">636</data>
+      <data key="d2">0.0725</data>
+      <data key="d3">0.436</data>
+      <data key="d4">0.222</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="TURBULENCE_ENCOUNTER">
+      <data key="d1">214</data>
+      <data key="d2">0.0244</data>
+      <data key="d3">0.928</data>
+      <data key="d4">0.799</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">774</data>
+      <data key="d2">0.0883</data>
+      <data key="d3">0.572</data>
+      <data key="d4">0.183</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="WIND_SHEAR_OR_GUST">
+      <data key="d1">940</data>
+      <data key="d2">0.1072</data>
+      <data key="d3">2.732</data>
+      <data key="d4">0.926</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="ENGINE_FAILURE">
+      <data key="d1">37</data>
+      <data key="d2">0.0042</data>
+      <data key="d3">0.014</data>
+      <data key="d4">0.108</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">307</data>
+      <data key="d2">0.035</data>
+      <data key="d3">0.2</data>
+      <data key="d4">0.283</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="STALL">
+      <data key="d1">256</data>
+      <data key="d2">0.0292</data>
+      <data key="d3">0.246</data>
+      <data key="d4">0.066</data>
+    </edge>
+    <edge source="ADVERSE_WIND_CONDITION" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">30</data>
+      <data key="d2">0.0034</data>
+      <data key="d3">0.17</data>
+      <data key="d4">0.467</data>
+    </edge>
+    <edge source="HIGH_DENSITY_ALTITUDE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">376</data>
+      <data key="d2">0.2741</data>
+      <data key="d3">0.699</data>
+      <data key="d4">0.011</data>
+    </edge>
+    <edge source="HIGH_DENSITY_ALTITUDE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">142</data>
+      <data key="d2">0.1035</data>
+      <data key="d3">0.59</data>
+      <data key="d4">0.077</data>
+    </edge>
+    <edge source="HIGH_DENSITY_ALTITUDE" target="STALL">
+      <data key="d1">343</data>
+      <data key="d2">0.25</data>
+      <data key="d3">2.106</data>
+      <data key="d4">0.017</data>
+    </edge>
+    <edge source="HIGH_DENSITY_ALTITUDE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">266</data>
+      <data key="d2">0.1939</data>
+      <data key="d3">0.387</data>
+      <data key="d4">0.034</data>
+    </edge>
+    <edge source="HIGH_DENSITY_ALTITUDE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">54</data>
+      <data key="d2">0.0394</data>
+      <data key="d3">0.134</data>
+      <data key="d4">0.074</data>
+    </edge>
+    <edge source="HIGH_DENSITY_ALTITUDE" target="ENGINE_FAILURE">
+      <data key="d1">80</data>
+      <data key="d2">0.0583</data>
+      <data key="d3">0.199</data>
+      <data key="d4">0.1</data>
+    </edge>
+    <edge source="HIGH_DENSITY_ALTITUDE" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">44</data>
+      <data key="d2">0.0321</data>
+      <data key="d3">0.208</data>
+      <data key="d4">0.045</data>
+    </edge>
+    <edge source="DARK_NIGHT_OR_LOW_LIGHT" target="PERCEPTION_FAILURE">
+      <data key="d1">950</data>
+      <data key="d2">0.4044</data>
+      <data key="d3">2.432</data>
+      <data key="d4">0.256</data>
+    </edge>
+    <edge source="DARK_NIGHT_OR_LOW_LIGHT" target="SPATIAL_DISORIENTATION">
+      <data key="d1">296</data>
+      <data key="d2">0.126</data>
+      <data key="d3">7.547</data>
+      <data key="d4">0.253</data>
+    </edge>
+    <edge source="DARK_NIGHT_OR_LOW_LIGHT" target="DECISION_INAPPROPRIATE">
+      <data key="d1">389</data>
+      <data key="d2">0.1656</data>
+      <data key="d3">0.422</data>
+      <data key="d4">0.008</data>
+    </edge>
+    <edge source="DARK_NIGHT_OR_LOW_LIGHT" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">170</data>
+      <data key="d2">0.0724</data>
+      <data key="d3">0.145</data>
+      <data key="d4">0.0</data>
+    </edge>
+    <edge source="DARK_NIGHT_OR_LOW_LIGHT" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">47</data>
+      <data key="d2">0.02</data>
+      <data key="d3">0.992</data>
+      <data key="d4">0.0</data>
+    </edge>
+    <edge source="DARK_NIGHT_OR_LOW_LIGHT" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">88</data>
+      <data key="d2">0.0375</data>
+      <data key="d3">0.128</data>
+      <data key="d4">0.0</data>
+    </edge>
+    <edge source="DARK_NIGHT_OR_LOW_LIGHT" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">55</data>
+      <data key="d2">0.0234</data>
+      <data key="d3">0.133</data>
+      <data key="d4">0.0</data>
+    </edge>
+    <edge source="DARK_NIGHT_OR_LOW_LIGHT" target="BIRD_OR_WILDLIFE_STRIKE">
+      <data key="d1">45</data>
+      <data key="d2">0.0192</data>
+      <data key="d3">1.562</data>
+      <data key="d4">0.0</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">93</data>
+      <data key="d2">0.0354</data>
+      <data key="d3">0.071</data>
+      <data key="d4">0.129</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="DECISION_INAPPROPRIATE">
+      <data key="d1">434</data>
+      <data key="d2">0.1653</data>
+      <data key="d3">0.422</data>
+      <data key="d4">0.018</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="SPATIAL_DISORIENTATION">
+      <data key="d1">33</data>
+      <data key="d2">0.0126</data>
+      <data key="d3">0.753</data>
+      <data key="d4">0.03</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="PERCEPTION_FAILURE">
+      <data key="d1">165</data>
+      <data key="d2">0.0629</data>
+      <data key="d3">0.378</data>
+      <data key="d4">0.109</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">36</data>
+      <data key="d2">0.0137</data>
+      <data key="d3">0.089</data>
+      <data key="d4">0.139</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">65</data>
+      <data key="d2">0.0248</data>
+      <data key="d3">0.457</data>
+      <data key="d4">0.046</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">49</data>
+      <data key="d2">0.0187</data>
+      <data key="d3">0.064</data>
+      <data key="d4">0.02</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="TURBULENCE_ENCOUNTER">
+      <data key="d1">115</data>
+      <data key="d2">0.0438</data>
+      <data key="d3">1.665</data>
+      <data key="d4">0.826</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">102</data>
+      <data key="d2">0.0389</data>
+      <data key="d3">0.222</data>
+      <data key="d4">0.049</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="STALL">
+      <data key="d1">37</data>
+      <data key="d2">0.0141</data>
+      <data key="d3">0.119</data>
+      <data key="d4">0.108</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="ALTITUDE_DEVIATION_UNCONTROLLED">
+      <data key="d1">104</data>
+      <data key="d2">0.0396</data>
+      <data key="d3">1.965</data>
+      <data key="d4">0.029</data>
+    </edge>
+    <edge source="MOUNTAINOUS_OR_RISING_TERRAIN" target="WIND_SHEAR_OR_GUST">
+      <data key="d1">56</data>
+      <data key="d2">0.0213</data>
+      <data key="d3">0.544</data>
+      <data key="d4">0.786</data>
+    </edge>
+    <edge source="UNSUITABLE_TERRAIN_FOR_FORCED_LANDING" target="DECISION_INAPPROPRIATE">
+      <data key="d1">142</data>
+      <data key="d2">0.0736</data>
+      <data key="d3">0.188</data>
+      <data key="d4">0.12</data>
+    </edge>
+    <edge source="UNSUITABLE_TERRAIN_FOR_FORCED_LANDING" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">114</data>
+      <data key="d2">0.0591</data>
+      <data key="d3">0.118</data>
+      <data key="d4">0.175</data>
+    </edge>
+    <edge source="UNSUITABLE_TERRAIN_FOR_FORCED_LANDING" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">45</data>
+      <data key="d2">0.0233</data>
+      <data key="d3">0.151</data>
+      <data key="d4">0.4</data>
+    </edge>
+    <edge source="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" target="STALL">
+      <data key="d1">296</data>
+      <data key="d2">0.2865</data>
+      <data key="d3">2.414</data>
+      <data key="d4">0.193</data>
+    </edge>
+    <edge source="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" target="DECISION_INAPPROPRIATE">
+      <data key="d1">235</data>
+      <data key="d2">0.2275</data>
+      <data key="d3">0.58</data>
+      <data key="d4">0.217</data>
+    </edge>
+    <edge source="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">160</data>
+      <data key="d2">0.1549</data>
+      <data key="d3">0.883</data>
+      <data key="d4">0.425</data>
+    </edge>
+    <edge source="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">223</data>
+      <data key="d2">0.2159</data>
+      <data key="d3">0.431</data>
+      <data key="d4">0.161</data>
+    </edge>
+    <edge source="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" target="ENGINE_FAILURE">
+      <data key="d1">38</data>
+      <data key="d2">0.0368</data>
+      <data key="d3">0.125</data>
+      <data key="d4">0.158</data>
+    </edge>
+    <edge source="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">57</data>
+      <data key="d2">0.0552</data>
+      <data key="d3">0.357</data>
+      <data key="d4">0.368</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">192</data>
+      <data key="d2">0.023</data>
+      <data key="d3">0.131</data>
+      <data key="d4">0.641</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="LANDING_GEAR_ANOMALY">
+      <data key="d1">1007</data>
+      <data key="d2">0.1205</data>
+      <data key="d3">1.56</data>
+      <data key="d4">0.93</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="INFLIGHT_FIRE_OR_SMOKE">
+      <data key="d1">176</data>
+      <data key="d2">0.0211</data>
+      <data key="d3">0.701</data>
+      <data key="d4">0.92</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="ENGINE_FAILURE">
+      <data key="d1">2331</data>
+      <data key="d2">0.279</data>
+      <data key="d3">0.951</data>
+      <data key="d4">0.899</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="FUEL_SYSTEM_ANOMALY">
+      <data key="d1">460</data>
+      <data key="d2">0.0551</data>
+      <data key="d3">1.84</data>
+      <data key="d4">0.933</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="OTHER_SYSTEM_FAILURE">
+      <data key="d1">403</data>
+      <data key="d2">0.0482</data>
+      <data key="d3">0.739</data>
+      <data key="d4">0.926</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="PERCEPTION_FAILURE">
+      <data key="d1">489</data>
+      <data key="d2">0.0585</data>
+      <data key="d3">0.352</data>
+      <data key="d4">0.272</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="CONTROL_SURFACE_ANOMALY">
+      <data key="d1">607</data>
+      <data key="d2">0.0726</data>
+      <data key="d3">2.248</data>
+      <data key="d4">0.969</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="STRUCTURAL_OVERLOAD">
+      <data key="d1">121</data>
+      <data key="d2">0.0145</data>
+      <data key="d3">0.604</data>
+      <data key="d4">0.545</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">616</data>
+      <data key="d2">0.0737</data>
+      <data key="d3">0.147</data>
+      <data key="d4">0.349</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="AIRFRAME_STRUCTURAL_FAILURE">
+      <data key="d1">576</data>
+      <data key="d2">0.0689</data>
+      <data key="d3">1.414</data>
+      <data key="d4">0.931</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="STALL">
+      <data key="d1">125</data>
+      <data key="d2">0.015</data>
+      <data key="d3">0.126</data>
+      <data key="d4">0.464</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="AUTOMATION_ANOMALY">
+      <data key="d1">53</data>
+      <data key="d2">0.0063</data>
+      <data key="d3">0.853</data>
+      <data key="d4">0.906</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">265</data>
+      <data key="d2">0.0317</data>
+      <data key="d3">0.108</data>
+      <data key="d4">0.128</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="DECISION_INAPPROPRIATE">
+      <data key="d1">517</data>
+      <data key="d2">0.0619</data>
+      <data key="d3">0.158</data>
+      <data key="d4">0.195</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="FUEL_EXHAUSTION_OR_STARVATION">
+      <data key="d1">226</data>
+      <data key="d2">0.027</data>
+      <data key="d3">0.279</data>
+      <data key="d4">0.814</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">314</data>
+      <data key="d2">0.0376</data>
+      <data key="d3">0.243</data>
+      <data key="d4">0.576</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="INSTRUMENT_OR_AVIONICS_FAILURE">
+      <data key="d1">118</data>
+      <data key="d2">0.0141</data>
+      <data key="d3">1.005</data>
+      <data key="d4">0.847</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="MAINTENANCE_INADEQUATE">
+      <data key="d1">164</data>
+      <data key="d2">0.0196</data>
+      <data key="d3">0.195</data>
+      <data key="d4">0.098</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="PILOT_INCAPACITATION_OR_IMPAIRMENT">
+      <data key="d1">40</data>
+      <data key="d2">0.0048</data>
+      <data key="d3">0.203</data>
+      <data key="d4">0.65</data>
+    </edge>
+    <edge source="LATENT_MECHANICAL_DEFECT" target="FUEL_CONTAMINATION">
+      <data key="d1">45</data>
+      <data key="d2">0.0054</data>
+      <data key="d3">0.275</data>
+      <data key="d4">0.756</data>
+    </edge>
+    <edge source="LOW_ALTITUDE_OPERATION" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">31</data>
+      <data key="d2">0.0227</data>
+      <data key="d3">0.077</data>
+      <data key="d4">0.355</data>
+    </edge>
+    <edge source="LOW_ALTITUDE_OPERATION" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">216</data>
+      <data key="d2">0.1581</data>
+      <data key="d3">0.316</data>
+      <data key="d4">0.093</data>
+    </edge>
+    <edge source="LOW_ALTITUDE_OPERATION" target="DECISION_INAPPROPRIATE">
+      <data key="d1">111</data>
+      <data key="d2">0.0813</data>
+      <data key="d3">0.207</data>
+      <data key="d4">0.207</data>
+    </edge>
+    <edge source="LOW_ALTITUDE_OPERATION" target="STALL">
+      <data key="d1">77</data>
+      <data key="d2">0.0564</data>
+      <data key="d3">0.475</data>
+      <data key="d4">0.195</data>
+    </edge>
+    <edge source="LOW_ALTITUDE_OPERATION" target="PERCEPTION_FAILURE">
+      <data key="d1">209</data>
+      <data key="d2">0.153</data>
+      <data key="d3">0.92</data>
+      <data key="d4">0.077</data>
+    </edge>
+    <edge source="LOW_ALTITUDE_OPERATION" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">109</data>
+      <data key="d2">0.0798</data>
+      <data key="d3">0.455</data>
+      <data key="d4">0.128</data>
+    </edge>
+    <edge source="LOW_ALTITUDE_OPERATION" target="TERRAIN_OR_OBSTACLE_PROXIMITY">
+      <data key="d1">34</data>
+      <data key="d2">0.0249</data>
+      <data key="d3">0.46</data>
+      <data key="d4">0.471</data>
+    </edge>
+    <edge source="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" target="CONTROL_INPUT_IMPROPER">
+      <data key="d1">666</data>
+      <data key="d2">0.3548</data>
+      <data key="d3">0.709</data>
+      <data key="d4">0.044</data>
+    </edge>
+    <edge source="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" target="DECISION_INAPPROPRIATE">
+      <data key="d1">387</data>
+      <data key="d2">0.2062</data>
+      <data key="d3">0.526</data>
+      <data key="d4">0.137</data>
+    </edge>
+    <edge source="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" target="PERCEPTION_FAILURE">
+      <data key="d1">321</data>
+      <data key="d2">0.171</data>
+      <data key="d3">1.029</data>
+      <data key="d4">0.153</data>
+    </edge>
+    <edge source="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" target="LOSS_OF_CONTROL_GROUND">
+      <data key="d1">33</data>
+      <data key="d2">0.0176</data>
+      <data key="d3">0.114</data>
+      <data key="d4">0.0</data>
+    </edge>
+    <edge source="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" target="SPATIAL_DISORIENTATION">
+      <data key="d1">104</data>
+      <data key="d2">0.0554</data>
+      <data key="d3">3.319</data>
+      <data key="d4">0.135</data>
+    </edge>
+    <edge source="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" target="LOSS_OF_CONTROL_INFLIGHT">
+      <data key="d1">154</data>
+      <data key="d2">0.082</data>
+      <data key="d3">0.468</data>
+      <data key="d4">0.117</data>
+    </edge>
+    <edge source="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" target="STALL">
+      <data key="d1">36</data>
+      <data key="d2">0.0192</data>
+      <data key="d3">0.162</data>
+      <data key="d4">0.028</data>
+    </edge>
+    <edge source="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" target="PROCEDURE_NOT_FOLLOWED">
+      <data key="d1">112</data>
+      <data key="d2">0.0597</data>
+      <data key="d3">0.204</data>
+      <data key="d4">0.045</data>
+    </edge>
+    <edge source="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" target="PILOT_INCAPACITATION_OR_IMPAIRMENT">
+      <data key="d1">115</data>
+      <data key="d2">0.0613</data>
+      <data key="d3">2.593</data>
+      <data key="d4">0.643</data>
+    </edge>
+  </graph>
+</graphml>
