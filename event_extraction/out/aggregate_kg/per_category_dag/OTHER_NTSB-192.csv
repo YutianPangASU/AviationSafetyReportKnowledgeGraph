@@ -1,3 +1,3 @@
 src,dst,direction_score,support_count,llm_prior,laplacian_prior,bootstrap_stability,pc_directed,pc_oriented_by_llm,from_cpdag_undirected,reoriented,llm_evidence
-GROUND_IMPACT,RUNWAY_EXCURSION_OR_OVERRUN,0.5,10,,,,0,0,1,0,
-RUNWAY_EXCURSION_OR_OVERRUN,GROUND_IMPACT,0.5,10,,,,0,0,1,0,
+CONTROL_INPUT_IMPROPER,LANDING_GEAR_ANOMALY,0.5,14,,1.0,,0,0,1,0,unrelated
+LANDING_GEAR_ANOMALY,CONTROL_INPUT_IMPROPER,0.5,14,,1.0,,0,0,1,0,unrelated

@@ -1,0 +1,57 @@
+digraph G {
+  rankdir=TB; splines=spline; nodesep=0.28; ranksep=0.85;
+  bgcolor="white";
+  labelloc="t"; label=<<font face="Times-Roman" point-size="15">Causal structure — MAC (PC + LLM priors, reoriented; solid: stability &#8805; 0.7, dashed: &#8805; 0.5; line weight &#8733; record support)</font>>;
+  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7", color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10, margin="0.10,0.05"];
+  edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#4d4d4d"];
+  tier0 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Organizational"];
+  { rank=same; tier0; "MAINTENANCE_INADEQUATE" "ORG_OR_REGULATORY_INADEQUATE" }
+  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Latent / ambient conditions"];
+  { rank=same; tier1; "FUEL_EXHAUSTION_OR_STARVATION" "ADVERSE_WIND_CONDITION" "DARK_NIGHT_OR_LOW_LIGHT" "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING" }
+  tier0 -> tier1 [style=invis];
+  tier2 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Environmental encounters"];
+  { rank=same; tier2; "WIND_SHEAR_OR_GUST" "BIRD_OR_WILDLIFE_STRIKE" "RUNWAY_CONDITION_HAZARD" }
+  tier1 -> tier2 [style=invis];
+  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Crew & external actions"];
+  { rank=same; tier3; "DECISION_INAPPROPRIATE" "CONTROL_INPUT_IMPROPER" "PROCEDURE_NOT_FOLLOWED" "PERCEPTION_FAILURE" "GROUND_PERSONNEL_ERROR" }
+  tier2 -> tier3 [style=invis];
+  tier4 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Aircraft system failures"];
+  { rank=same; tier4; "ENGINE_FAILURE" }
+  tier3 -> tier4 [style=invis];
+  tier5 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Aerodynamic states"];
+  { rank=same; tier5; "LOSS_OF_CONTROL_GROUND" }
+  tier4 -> tier5 [style=invis];
+  "ADVERSE_WIND_CONDITION" [label=<Adverse wind<br/>condition<br/><font point-size="8" color="#808080">n = 220</font>>];
+  "BIRD_OR_WILDLIFE_STRIKE" [label=<Bird / wildlife strike<br/><font point-size="8" color="#808080">n = 86</font>>];
+  "CONTROL_INPUT_IMPROPER" [label=<Control input<br/>improper<br/><font point-size="8" color="#808080">n = 688</font>>];
+  "DARK_NIGHT_OR_LOW_LIGHT" [label=<Dark night /<br/>low light<br/><font point-size="8" color="#808080">n = 114</font>>];
+  "DECISION_INAPPROPRIATE" [label=<Decision<br/>inappropriate<br/><font point-size="8" color="#808080">n = 365</font>>];
+  "ENGINE_FAILURE" [label=<Engine failure<br/><font point-size="8" color="#808080">n = 84</font>>];
+  "FUEL_EXHAUSTION_OR_STARVATION" [label=<Fuel exhaustion<br/>/ starvation<br/><font point-size="8" color="#808080">n = 31</font>>];
+  "GROUND_PERSONNEL_ERROR" [label=<Ground personnel<br/>error<br/><font point-size="8" color="#808080">n = 159</font>>];
+  "LOSS_OF_CONTROL_GROUND" [label=<Loss of control<br/>on ground<br/><font point-size="8" color="#808080">n = 170</font>>];
+  "MAINTENANCE_INADEQUATE" [label=<Maintenance<br/>inadequate<br/><font point-size="8" color="#808080">n = 32</font>>];
+  "ORG_OR_REGULATORY_INADEQUATE" [label=<Organizational /<br/>regulatory inadequate<br/><font point-size="8" color="#808080">n = 39</font>>];
+  "PERCEPTION_FAILURE" [label=<Perception<br/>failure<br/><font point-size="8" color="#808080">n = 354</font>>];
+  "PROCEDURE_NOT_FOLLOWED" [label=<Procedure not<br/>followed<br/><font point-size="8" color="#808080">n = 218</font>>];
+  "RUNWAY_CONDITION_HAZARD" [label=<Runway condition<br/>hazard<br/><font point-size="8" color="#808080">n = 229</font>>];
+  "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING" [label=<Unsuitable terrain for<br/>forced landing<br/><font point-size="8" color="#808080">n = 25</font>>];
+  "WIND_SHEAR_OR_GUST" [label=<Wind shear or<br/>gust<br/><font point-size="8" color="#808080">n = 28</font>>];
+  "GROUND_PERSONNEL_ERROR" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.44, style=solid, tooltip="GROUND_PERSONNEL_ERROR -> CONTROL_INPUT_IMPROPER: support 46, stability 1.00"];
+  "ENGINE_FAILURE" -> "DECISION_INAPPROPRIATE" [penwidth=1.47, style=solid, tooltip="ENGINE_FAILURE -> DECISION_INAPPROPRIATE: support 49, stability 0.73"];
+  "ENGINE_FAILURE" -> "PROCEDURE_NOT_FOLLOWED" [penwidth=1.41, style=solid, tooltip="ENGINE_FAILURE -> PROCEDURE_NOT_FOLLOWED: support 43, stability 0.87"];
+  "WIND_SHEAR_OR_GUST" -> "ADVERSE_WIND_CONDITION" [penwidth=1.12, style=solid, tooltip="WIND_SHEAR_OR_GUST -> ADVERSE_WIND_CONDITION: support 20, stability 0.77"];
+  "BIRD_OR_WILDLIFE_STRIKE" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.24, style=dashed, tooltip="BIRD_OR_WILDLIFE_STRIKE -> CONTROL_INPUT_IMPROPER: support 29, stability 0.67"];
+  "RUNWAY_CONDITION_HAZARD" -> "DECISION_INAPPROPRIATE" [penwidth=2.03, style=solid, tooltip="RUNWAY_CONDITION_HAZARD -> DECISION_INAPPROPRIATE: support 123, stability 1.00"];
+  "RUNWAY_CONDITION_HAZARD" -> "CONTROL_INPUT_IMPROPER" [penwidth=2.30, style=dashed, tooltip="RUNWAY_CONDITION_HAZARD -> CONTROL_INPUT_IMPROPER: support 170, stability 0.60"];
+  "MAINTENANCE_INADEQUATE" -> "ENGINE_FAILURE" [penwidth=1.03, style=solid, tooltip="MAINTENANCE_INADEQUATE -> ENGINE_FAILURE: support 15, stability 0.77"];
+  "ORG_OR_REGULATORY_INADEQUATE" -> "GROUND_PERSONNEL_ERROR" [penwidth=1.15, style=dashed, tooltip="ORG_OR_REGULATORY_INADEQUATE -> GROUND_PERSONNEL_ERROR: support 22, stability 0.53"];
+  "LOSS_OF_CONTROL_GROUND" -> "PERCEPTION_FAILURE" [penwidth=1.03, style=solid, tooltip="LOSS_OF_CONTROL_GROUND -> PERCEPTION_FAILURE: support 15, stability 0.97"];
+  "FUEL_EXHAUSTION_OR_STARVATION" -> "DECISION_INAPPROPRIATE" [penwidth=1.18, style=solid, tooltip="FUEL_EXHAUSTION_OR_STARVATION -> DECISION_INAPPROPRIATE: support 24, stability 0.70"];
+  "FUEL_EXHAUSTION_OR_STARVATION" -> "PROCEDURE_NOT_FOLLOWED" [penwidth=1.10, style=dashed, tooltip="FUEL_EXHAUSTION_OR_STARVATION -> PROCEDURE_NOT_FOLLOWED: support 19, stability 0.60"];
+  "FUEL_EXHAUSTION_OR_STARVATION" -> "ENGINE_FAILURE" [penwidth=1.12, style=solid, tooltip="FUEL_EXHAUSTION_OR_STARVATION -> ENGINE_FAILURE: support 20, stability 0.93"];
+  "ADVERSE_WIND_CONDITION" -> "WIND_SHEAR_OR_GUST" [penwidth=1.12, style=solid, tooltip="ADVERSE_WIND_CONDITION -> WIND_SHEAR_OR_GUST: support 20, stability 0.80"];
+  "DARK_NIGHT_OR_LOW_LIGHT" -> "PERCEPTION_FAILURE" [penwidth=1.53, style=dashed, tooltip="DARK_NIGHT_OR_LOW_LIGHT -> PERCEPTION_FAILURE: support 56, stability 0.50"];
+  "DARK_NIGHT_OR_LOW_LIGHT" -> "BIRD_OR_WILDLIFE_STRIKE" [penwidth=1.34, style=dashed, tooltip="DARK_NIGHT_OR_LOW_LIGHT -> BIRD_OR_WILDLIFE_STRIKE: support 37, stability 0.67"];
+  "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING" -> "DECISION_INAPPROPRIATE" [penwidth=1.16, style=solid, tooltip="UNSUITABLE_TERRAIN_FOR_FORCED_LANDING -> DECISION_INAPPROPRIATE: support 23, stability 1.00"];
+}

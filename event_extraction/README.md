@@ -141,6 +141,37 @@ Outputs under `out/causation_kg/`:
 Outcome severity is resolved structured-first (NTSB injury/damage overrides the
 model's record-level guess).
 
+### Visualize
+
+```bash
+python3 event_extraction/scripts/viz_causation_kg.py
+# -> out/causation_kg/html/causation_kg.html   (open in a browser)
+```
+
+Interactive Cytoscape view of the aggregate causation KG: nodes colored by
+factor family and sized by record support, edge width by co-support, hover for
+support / P(dst|src) / lift / direct share, click a node for its risk ratio and
+top in/out edges, min-support + lift filters, plus a sortable edge table and
+the per-category do() intervention rankings inline. The per-category Stage-3
+causal DAGs have their own viewers under `out/aggregate_kg/html_dag/*.html`,
+and `out/causation_kg/causation_kg.graphml` loads in Cytoscape desktop / Gephi.
+
+**Publication-style figures** (layered causal diagrams, Graphviz, serif +
+grayscale; tiers follow the AcciMap-motivated ordering organizational →
+conditions → environment → crew actions → system failures → aerodynamic
+states; solid edges = bootstrap stability ≥ 0.7, dashed ≥ 0.5; line weight ∝
+record support; per-category node counts are within-category):
+
+```bash
+python3 event_extraction/scripts/viz_causation_academic.py \
+    --category LOC-I CFIT SCF-PP ... --aggregate
+# -> out/causation_kg/figures/dag_<CAT>.{svg,png,gv}
+# -> out/causation_kg/figures/causation_kg_aggregate.{svg,png,gv}
+```
+
+SVGs drop straight into a paper; the `.gv` sources are committed so figure
+styling is reproducible. Requires graphviz (`conda env ntsb`).
+
 ## Stage 3 / Phase 5
 
 The per-category causal-DAG pipeline lives in `scripts/stage3/` (see its

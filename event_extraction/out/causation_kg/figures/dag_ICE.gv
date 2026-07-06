@@ -1,0 +1,43 @@
+digraph G {
+  rankdir=TB; splines=spline; nodesep=0.28; ranksep=0.85;
+  bgcolor="white";
+  labelloc="t"; label=<<font face="Times-Roman" point-size="15">Causal structure — ICE (PC + LLM priors, reoriented; solid: stability &#8805; 0.7, dashed: &#8805; 0.5; line weight &#8733; record support)</font>>;
+  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7", color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10, margin="0.10,0.05"];
+  edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#4d4d4d"];
+  tier0 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Organizational"];
+  { rank=same; tier0; "MAINTENANCE_INADEQUATE" }
+  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Latent / ambient conditions"];
+  { rank=same; tier1; "ADVERSE_WIND_CONDITION" "DARK_NIGHT_OR_LOW_LIGHT" }
+  tier0 -> tier1 [style=invis];
+  tier2 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Environmental encounters"];
+  { rank=same; tier2; "WIND_SHEAR_OR_GUST" "RUNWAY_CONDITION_HAZARD" }
+  tier1 -> tier2 [style=invis];
+  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Crew & external actions"];
+  { rank=same; tier3; "CONTROL_INPUT_IMPROPER" "PROCEDURE_NOT_FOLLOWED" "PERCEPTION_FAILURE" }
+  tier2 -> tier3 [style=invis];
+  tier4 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Aircraft system failures"];
+  { rank=same; tier4; "ENGINE_FAILURE" "LANDING_GEAR_ANOMALY" }
+  tier3 -> tier4 [style=invis];
+  tier5 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Aerodynamic states"];
+  { rank=same; tier5; "LOSS_OF_CONTROL_GROUND" }
+  tier4 -> tier5 [style=invis];
+  "ADVERSE_WIND_CONDITION" [label=<Adverse wind<br/>condition<br/><font point-size="8" color="#808080">n = 354</font>>];
+  "CONTROL_INPUT_IMPROPER" [label=<Control input<br/>improper<br/><font point-size="8" color="#808080">n = 1,400</font>>];
+  "DARK_NIGHT_OR_LOW_LIGHT" [label=<Dark night /<br/>low light<br/><font point-size="8" color="#808080">n = 40</font>>];
+  "ENGINE_FAILURE" [label=<Engine failure<br/><font point-size="8" color="#808080">n = 52</font>>];
+  "LANDING_GEAR_ANOMALY" [label=<Landing gear<br/>anomaly<br/><font point-size="8" color="#808080">n = 197</font>>];
+  "LOSS_OF_CONTROL_GROUND" [label=<Loss of control<br/>on ground<br/><font point-size="8" color="#808080">n = 285</font>>];
+  "MAINTENANCE_INADEQUATE" [label=<Maintenance<br/>inadequate<br/><font point-size="8" color="#808080">n = 24</font>>];
+  "PERCEPTION_FAILURE" [label=<Perception<br/>failure<br/><font point-size="8" color="#808080">n = 145</font>>];
+  "PROCEDURE_NOT_FOLLOWED" [label=<Procedure not<br/>followed<br/><font point-size="8" color="#808080">n = 338</font>>];
+  "RUNWAY_CONDITION_HAZARD" [label=<Runway condition<br/>hazard<br/><font point-size="8" color="#808080">n = 69</font>>];
+  "WIND_SHEAR_OR_GUST" [label=<Wind shear or<br/>gust<br/><font point-size="8" color="#808080">n = 76</font>>];
+  "PROCEDURE_NOT_FOLLOWED" -> "CONTROL_INPUT_IMPROPER" [penwidth=2.30, style=dashed, tooltip="PROCEDURE_NOT_FOLLOWED -> CONTROL_INPUT_IMPROPER: support 307, stability 0.63"];
+  "ENGINE_FAILURE" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.11, style=solid, tooltip="ENGINE_FAILURE -> CONTROL_INPUT_IMPROPER: support 35, stability 0.90"];
+  "LANDING_GEAR_ANOMALY" -> "PROCEDURE_NOT_FOLLOWED" [penwidth=1.02, style=dashed, tooltip="LANDING_GEAR_ANOMALY -> PROCEDURE_NOT_FOLLOWED: support 26, stability 0.60"];
+  "WIND_SHEAR_OR_GUST" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.33, style=dashed, tooltip="WIND_SHEAR_OR_GUST -> CONTROL_INPUT_IMPROPER: support 66, stability 0.50"];
+  "RUNWAY_CONDITION_HAZARD" -> "LOSS_OF_CONTROL_GROUND" [penwidth=1.03, style=dashed, tooltip="RUNWAY_CONDITION_HAZARD -> LOSS_OF_CONTROL_GROUND: support 27, stability 0.63"];
+  "MAINTENANCE_INADEQUATE" -> "ENGINE_FAILURE" [penwidth=0.84, style=solid, tooltip="MAINTENANCE_INADEQUATE -> ENGINE_FAILURE: support 11, stability 0.77"];
+  "ADVERSE_WIND_CONDITION" -> "PROCEDURE_NOT_FOLLOWED" [penwidth=1.28, style=dashed, tooltip="ADVERSE_WIND_CONDITION -> PROCEDURE_NOT_FOLLOWED: support 58, stability 0.57"];
+  "DARK_NIGHT_OR_LOW_LIGHT" -> "PERCEPTION_FAILURE" [penwidth=0.92, style=solid, tooltip="DARK_NIGHT_OR_LOW_LIGHT -> PERCEPTION_FAILURE: support 17, stability 0.97"];
+}

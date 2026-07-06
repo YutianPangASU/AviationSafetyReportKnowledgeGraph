@@ -386,7 +386,11 @@ Strategy: blocking + pairwise match.
 
 ## 4. Stage 1 — Hybrid Event Extraction
 
-**Status:** v3 schema locked; full re-extraction complete on **55,837 records** (272 k events, 335 k edges). See [docs/2026-04-29-extraction-summary.md](docs/2026-04-29-extraction-summary.md) for full statistics + schema reference; [docs/2026-04-27-v3-schema-redesign.md](docs/2026-04-27-v3-schema-redesign.md) for the design history, the 42-event vocabulary, and the v1-vs-v3 calibration delta.
+**Status: superseded by v4 (2026-07-05).** Extraction now uses the **v4 ordered-causal-chain schema**: per-narrative chains with `caused_by` back-references (acyclic by construction), a 57-value factor vocabulary (35 events + 12 first-class conditions + 9 outcomes), grounded prompting with NTSB `Findings`/`seq_of_events` in-context, and truly enforced constrained decoding (`response_format json_schema` — the legacy `guided_json` field is silently ignored by vLLM 0.19.x and was the root cause of all v3 enum drift). Full corpus: **56,154 records, zero schema violations** (`event_extraction/out/full_corpus_v4.jsonl`).
+
+Calibration (2k records, LLM-as-judge): recall **90.8 %** narrative-only / **93.1 %** grounded (v3: 80.5 %), chain ordering Kendall τ **0.82/0.87** vs investigator occurrence order. See [docs/2026-07-05-v4-chain-schema-plan.md](docs/2026-07-05-v4-chain-schema-plan.md), [docs/2026-07-05-v4-phase2-calibration-results.md](docs/2026-07-05-v4-phase2-calibration-results.md), [docs/2026-07-05-v4-condition-vocab.md](docs/2026-07-05-v4-condition-vocab.md), and [event_extraction/README.md](event_extraction/README.md) for the current workflow. The causation KG + factor vectors + per-category `do()` intervention rankings live under `event_extraction/out/causation_kg/`.
+
+Historical v3 notes (42-event vocabulary, v1-vs-v3 delta): [docs/2026-04-29-extraction-summary.md](docs/2026-04-29-extraction-summary.md), [docs/2026-04-27-v3-schema-redesign.md](docs/2026-04-27-v3-schema-redesign.md).
 
 **Implementation:**
 

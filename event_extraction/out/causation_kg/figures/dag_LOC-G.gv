@@ -1,0 +1,49 @@
+digraph G {
+  rankdir=TB; splines=spline; nodesep=0.28; ranksep=0.85;
+  bgcolor="white";
+  labelloc="t"; label=<<font face="Times-Roman" point-size="15">Causal structure — LOC-G (PC + LLM priors, reoriented; solid: stability &#8805; 0.7, dashed: &#8805; 0.5; line weight &#8733; record support)</font>>;
+  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7", color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10, margin="0.10,0.05"];
+  edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#4d4d4d"];
+  tier0 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Organizational"];
+  { rank=same; tier0; "MAINTENANCE_INADEQUATE" }
+  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Latent / ambient conditions"];
+  { rank=same; tier1; "LATENT_MECHANICAL_DEFECT" "ADVERSE_WIND_CONDITION" "DARK_NIGHT_OR_LOW_LIGHT" "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" }
+  tier0 -> tier1 [style=invis];
+  tier2 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Environmental encounters"];
+  { rank=same; tier2; "RUNWAY_CONDITION_HAZARD" }
+  tier1 -> tier2 [style=invis];
+  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Crew & external actions"];
+  { rank=same; tier3; "DECISION_INAPPROPRIATE" "CONTROL_INPUT_IMPROPER" "PROCEDURE_NOT_FOLLOWED" "PERCEPTION_FAILURE" "PILOT_INCAPACITATION_OR_IMPAIRMENT" "CREW_COORDINATION_FAILURE" }
+  tier2 -> tier3 [style=invis];
+  tier4 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Aircraft system failures"];
+  { rank=same; tier4; "ENGINE_FAILURE" "LANDING_GEAR_ANOMALY" }
+  tier3 -> tier4 [style=invis];
+  "ADVERSE_WIND_CONDITION" [label=<Adverse wind<br/>condition<br/><font point-size="8" color="#808080">n = 1,392</font>>];
+  "CONTROL_INPUT_IMPROPER" [label=<Control input<br/>improper<br/><font point-size="8" color="#808080">n = 2,555</font>>];
+  "CREW_COORDINATION_FAILURE" [label=<Crew<br/>coordination<br/>failure<br/><font point-size="8" color="#808080">n = 176</font>>];
+  "DARK_NIGHT_OR_LOW_LIGHT" [label=<Dark night /<br/>low light<br/><font point-size="8" color="#808080">n = 36</font>>];
+  "DECISION_INAPPROPRIATE" [label=<Decision<br/>inappropriate<br/><font point-size="8" color="#808080">n = 504</font>>];
+  "ENGINE_FAILURE" [label=<Engine failure<br/><font point-size="8" color="#808080">n = 33</font>>];
+  "LANDING_GEAR_ANOMALY" [label=<Landing gear<br/>anomaly<br/><font point-size="8" color="#808080">n = 377</font>>];
+  "LATENT_MECHANICAL_DEFECT" [label=<Latent<br/>mechanical<br/>defect<br/><font point-size="8" color="#808080">n = 271</font>>];
+  "MAINTENANCE_INADEQUATE" [label=<Maintenance<br/>inadequate<br/><font point-size="8" color="#808080">n = 110</font>>];
+  "PERCEPTION_FAILURE" [label=<Perception<br/>failure<br/><font point-size="8" color="#808080">n = 168</font>>];
+  "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" [label=<Pilot fatigue /<br/>physiological state<br/><font point-size="8" color="#808080">n = 151</font>>];
+  "PILOT_INCAPACITATION_OR_IMPAIRMENT" [label=<Pilot incapacitation<br/>/ impairment<br/><font point-size="8" color="#808080">n = 23</font>>];
+  "PROCEDURE_NOT_FOLLOWED" [label=<Procedure not<br/>followed<br/><font point-size="8" color="#808080">n = 309</font>>];
+  "RUNWAY_CONDITION_HAZARD" [label=<Runway condition<br/>hazard<br/><font point-size="8" color="#808080">n = 650</font>>];
+  "PROCEDURE_NOT_FOLLOWED" -> "CONTROL_INPUT_IMPROPER" [penwidth=2.30, style=solid, tooltip="PROCEDURE_NOT_FOLLOWED -> CONTROL_INPUT_IMPROPER: support 220, stability 0.70"];
+  "PILOT_INCAPACITATION_OR_IMPAIRMENT" -> "CONTROL_INPUT_IMPROPER" [penwidth=0.88, style=solid, tooltip="PILOT_INCAPACITATION_OR_IMPAIRMENT -> CONTROL_INPUT_IMPROPER: support 10, stability 0.93"];
+  "ENGINE_FAILURE" -> "DECISION_INAPPROPRIATE" [penwidth=0.99, style=dashed, tooltip="ENGINE_FAILURE -> DECISION_INAPPROPRIATE: support 16, stability 0.63"];
+  "LANDING_GEAR_ANOMALY" -> "DECISION_INAPPROPRIATE" [penwidth=1.22, style=solid, tooltip="LANDING_GEAR_ANOMALY -> DECISION_INAPPROPRIATE: support 35, stability 0.77"];
+  "MAINTENANCE_INADEQUATE" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.20, style=solid, tooltip="MAINTENANCE_INADEQUATE -> CONTROL_INPUT_IMPROPER: support 33, stability 0.97"];
+  "MAINTENANCE_INADEQUATE" -> "LANDING_GEAR_ANOMALY" [penwidth=1.31, style=dashed, tooltip="MAINTENANCE_INADEQUATE -> LANDING_GEAR_ANOMALY: support 45, stability 0.57"];
+  "MAINTENANCE_INADEQUATE" -> "ADVERSE_WIND_CONDITION" [penwidth=0.88, style=dashed, tooltip="MAINTENANCE_INADEQUATE -> ADVERSE_WIND_CONDITION: support 10, stability 0.63"];
+  "ADVERSE_WIND_CONDITION" -> "PROCEDURE_NOT_FOLLOWED" [penwidth=1.57, style=solid, tooltip="ADVERSE_WIND_CONDITION -> PROCEDURE_NOT_FOLLOWED: support 78, stability 0.80"];
+  "ADVERSE_WIND_CONDITION" -> "CREW_COORDINATION_FAILURE" [penwidth=1.33, style=solid, tooltip="ADVERSE_WIND_CONDITION -> CREW_COORDINATION_FAILURE: support 47, stability 0.73"];
+  "DARK_NIGHT_OR_LOW_LIGHT" -> "PERCEPTION_FAILURE" [penwidth=0.99, style=solid, tooltip="DARK_NIGHT_OR_LOW_LIGHT -> PERCEPTION_FAILURE: support 16, stability 0.90"];
+  "LATENT_MECHANICAL_DEFECT" -> "RUNWAY_CONDITION_HAZARD" [penwidth=1.18, style=dashed, tooltip="LATENT_MECHANICAL_DEFECT -> RUNWAY_CONDITION_HAZARD: support 31, stability 0.57"];
+  "LATENT_MECHANICAL_DEFECT" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.92, style=solid, tooltip="LATENT_MECHANICAL_DEFECT -> CONTROL_INPUT_IMPROPER: support 137, stability 1.00"];
+  "LATENT_MECHANICAL_DEFECT" -> "ADVERSE_WIND_CONDITION" [penwidth=1.33, style=solid, tooltip="LATENT_MECHANICAL_DEFECT -> ADVERSE_WIND_CONDITION: support 47, stability 0.97"];
+  "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" -> "ADVERSE_WIND_CONDITION" [penwidth=1.28, style=solid, tooltip="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE -> ADVERSE_WIND_CONDITION: support 41, stability 0.83"];
+}

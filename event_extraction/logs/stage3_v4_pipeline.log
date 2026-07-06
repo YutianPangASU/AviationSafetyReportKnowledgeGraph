@@ -669,3 +669,1156 @@ Targets: ['EVAC', 'OTHER:NTSB-360', 'HFACS_CAT_01', 'ICE', 'HFACS_CAT_03', 'OTHE
   [LOC-G] LOC-I-similar (Laplacian prior): STALL(1.00), TERRAIN_OR_OBSTACLE_PROXIMITY(1.00), TRAINING_OR_CURRENCY_GAP(1.00), ALTITUDE_DEVIATION_UNCONTROLLED(1.00), PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE(1.00), CONTROL_SURFACE_ANOMALY(1.00)
   [AIDS_UNDETERMINED] LOC-I-similar (Laplacian prior): ADVERSE_WIND_CONDITION(0.98), CONTROL_INPUT_IMPROPER(0.96), LOSS_OF_CONTROL_GROUND(0.91), STRUCTURAL_OVERLOAD(0.91), TRAINING_OR_CURRENCY_GAP(0.90), PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE(0.90)
 === Sun Jul  5 04:53:27 PM CDT 2026 S3v4 piece 4: PC per category ===
+PC over 58 categories
+
+=== EVAC ===
+  laplacian prior loaded
+  llm order entries: 8
+  building presence matrix…
+  X shape: 48 accidents × 47 event types
+  skip: only 48 accidents (< min 50)
+
+=== OTHER:NTSB-360 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 11 accidents × 47 event types
+  skip: only 11 accidents (< min 50)
+
+=== HFACS_CAT_01 ===
+  laplacian prior loaded
+  llm order entries: 600
+  building presence matrix…
+  X shape: 7627 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 90 kept, 25 dropped by support, 15 by laplacian
+  -> HFACS_CAT_01.gpickle + HFACS_CAT_01.csv
+
+=== ICE ===
+  laplacian prior loaded
+  llm order entries: 368
+  building presence matrix…
+  X shape: 1465 accidents × 47 event types
+  active event types (var-filtered): 38 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 17 kept, 30 dropped by support, 2 by laplacian
+  -> ICE.gpickle + ICE.csv
+
+=== HFACS_CAT_03 ===
+  laplacian prior loaded
+  llm order entries: 320
+  building presence matrix…
+  X shape: 1434 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 38 kept, 33 dropped by support, 1 by laplacian
+  -> HFACS_CAT_03.gpickle + HFACS_CAT_03.csv
+
+=== OTHER:NTSB-172 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 7 accidents × 47 event types
+  skip: only 7 accidents (< min 50)
+
+=== UNCATEGORIZED:NTSB_ASRS ===
+  laplacian prior loaded
+  llm order entries: 136
+  building presence matrix…
+  X shape: 663 accidents × 47 event types
+  active event types (var-filtered): 43 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 12 kept, 34 dropped by support, 0 by laplacian
+  -> UNCATEGORIZED_NTSB_ASRS.gpickle + UNCATEGORIZED_NTSB_ASRS.csv
+
+=== OTHER:NTSB-271 ===
+  laplacian prior loaded
+  llm order entries: 16
+  building presence matrix…
+  X shape: 132 accidents × 47 event types
+  active event types (var-filtered): 12 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 0 kept, 3 dropped by support, 0 by laplacian
+
+=== OTHER:NTSB-171 ===
+  laplacian prior loaded
+  llm order entries: 24
+  building presence matrix…
+  X shape: 102 accidents × 47 event types
+  active event types (var-filtered): 10 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 1 kept, 2 dropped by support, 0 by laplacian
+  -> OTHER_NTSB-171.gpickle + OTHER_NTSB-171.csv
+
+=== F-NI ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 3 accidents × 47 event types
+  skip: only 3 accidents (< min 50)
+
+=== FUEL ===
+  laplacian prior loaded
+  llm order entries: 26
+  building presence matrix…
+  X shape: 139 accidents × 47 event types
+  active event types (var-filtered): 17 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 3 kept, 2 dropped by support, 0 by laplacian
+  -> FUEL.gpickle + FUEL.csv
+
+=== AIDS_MANUFACTURER/BUILDER ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 25 accidents × 47 event types
+  skip: only 25 accidents (< min 50)
+
+=== AIDS_MISCELLANEOUS ===
+  laplacian prior loaded
+  llm order entries: 56
+  building presence matrix…
+  X shape: 339 accidents × 47 event types
+  active event types (var-filtered): 34 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 10 kept, 20 dropped by support, 0 by laplacian
+  -> AIDS_MISCELLANEOUS.gpickle + AIDS_MISCELLANEOUS.csv
+
+=== OTHER:NTSB-231 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 4 accidents × 47 event types
+  skip: only 4 accidents (< min 50)
+
+=== OTHER:NTSB-194 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 7 accidents × 47 event types
+  skip: only 7 accidents (< min 50)
+
+=== OTHER:NTSB-132 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 2 accidents × 47 event types
+  skip: only 2 accidents (< min 50)
+
+=== MAC ===
+  laplacian prior loaded
+  llm order entries: 336
+  building presence matrix…
+  X shape: 1127 accidents × 47 event types
+  active event types (var-filtered): 40 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 22 kept, 23 dropped by support, 0 by laplacian
+  -> MAC.gpickle + MAC.csv
+
+=== RE ===
+  laplacian prior loaded
+  llm order entries: 246
+  building presence matrix…
+  X shape: 696 accidents × 47 event types
+  active event types (var-filtered): 30 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 11 kept, 19 dropped by support, 0 by laplacian
+  -> RE.gpickle + RE.csv
+
+=== UNCATEGORIZED:FAA_AIDS ===
+  laplacian prior loaded
+  llm order entries: 600
+  building presence matrix…
+  X shape: 4566 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 59 kept, 19 dropped by support, 11 by laplacian
+  -> UNCATEGORIZED_FAA_AIDS.gpickle + UNCATEGORIZED_FAA_AIDS.csv
+
+=== CTOL ===
+  laplacian prior loaded
+  llm order entries: 18
+  building presence matrix…
+  X shape: 168 accidents × 47 event types
+  active event types (var-filtered): 15 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 1 kept, 4 dropped by support, 0 by laplacian
+  -> CTOL.gpickle + CTOL.csv
+
+=== SCF-PP ===
+  laplacian prior loaded
+  llm order entries: 654
+  building presence matrix…
+  X shape: 1842 accidents × 47 event types
+  active event types (var-filtered): 44 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 42 kept, 30 dropped by support, 0 by laplacian
+  -> SCF-PP.gpickle + SCF-PP.csv
+
+=== AIDS_OPDEF ===
+  laplacian prior loaded
+  llm order entries: 180
+  building presence matrix…
+  X shape: 900 accidents × 47 event types
+  active event types (var-filtered): 34 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 15 kept, 16 dropped by support, 0 by laplacian
+  -> AIDS_OPDEF.gpickle + AIDS_OPDEF.csv
+
+=== BIRD ===
+  laplacian prior loaded
+  llm order entries: 66
+  building presence matrix…
+  X shape: 304 accidents × 47 event types
+  active event types (var-filtered): 23 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 10 dropped by support, 0 by laplacian
+  -> BIRD.gpickle + BIRD.csv
+
+=== RI ===
+  laplacian prior loaded
+  llm order entries: 264
+  building presence matrix…
+  X shape: 445 accidents × 47 event types
+  active event types (var-filtered): 38 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 11 kept, 17 dropped by support, 0 by laplacian
+  -> RI.gpickle + RI.csv
+
+=== USOS ===
+  laplacian prior loaded
+  llm order entries: 732
+  building presence matrix…
+  X shape: 4092 accidents × 47 event types
+  active event types (var-filtered): 45 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 44 kept, 37 dropped by support, 3 by laplacian
+  -> USOS.gpickle + USOS.csv
+
+=== OTHER:NTSB-191 ===
+  laplacian prior loaded
+  llm order entries: 10
+  building presence matrix…
+  X shape: 85 accidents × 47 event types
+  active event types (var-filtered): 12 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 3 kept, 4 dropped by support, 0 by laplacian
+  -> OTHER_NTSB-191.gpickle + OTHER_NTSB-191.csv
+
+=== CFIT ===
+  laplacian prior loaded
+  llm order entries: 574
+  building presence matrix…
+  X shape: 1446 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 40 kept, 23 dropped by support, 3 by laplacian
+  -> CFIT.gpickle + CFIT.csv
+
+=== ADRM ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 14 accidents × 47 event types
+  skip: only 14 accidents (< min 50)
+
+=== LOC-I ===
+  laplacian prior loaded
+  llm order entries: 846
+  building presence matrix…
+  X shape: 3852 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 60 kept, 19 dropped by support, 10 by laplacian
+  -> LOC-I.gpickle + LOC-I.csv
+
+=== OTHER:NTSB-198 ===
+  laplacian prior loaded
+  llm order entries: 2
+  building presence matrix…
+  X shape: 24 accidents × 47 event types
+  skip: only 24 accidents (< min 50)
+
+=== AIDS_PILOT ===
+  laplacian prior loaded
+  llm order entries: 600
+  building presence matrix…
+  X shape: 3747 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 58 kept, 20 dropped by support, 19 by laplacian
+  -> AIDS_PILOT.gpickle + AIDS_PILOT.csv
+
+=== GCOL ===
+  laplacian prior loaded
+  llm order entries: 134
+  building presence matrix…
+  X shape: 642 accidents × 47 event types
+  active event types (var-filtered): 39 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 17 kept, 25 dropped by support, 0 by laplacian
+  -> GCOL.gpickle + GCOL.csv
+
+=== OTHER:NTSB-192 ===
+  laplacian prior loaded
+  llm order entries: 8
+  building presence matrix…
+  X shape: 54 accidents × 47 event types
+  active event types (var-filtered): 9 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 0 dropped by support, 0 by laplacian
+  -> OTHER_NTSB-192.gpickle + OTHER_NTSB-192.csv
+
+=== OTHER:NTSB-150 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 7 accidents × 47 event types
+  skip: only 7 accidents (< min 50)
+
+=== OTHER:NTSB-195 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 1 accidents × 47 event types
+  skip: only 1 accidents (< min 50)
+
+=== AIDS_INADEQUATE ===
+  laplacian prior loaded
+  llm order entries: 12
+  building presence matrix…
+  X shape: 57 accidents × 47 event types
+  active event types (var-filtered): 14 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 1 kept, 4 dropped by support, 0 by laplacian
+  -> AIDS_INADEQUATE.gpickle + AIDS_INADEQUATE.csv
+
+=== OTHER:NTSB-232 ===
+  laplacian prior loaded
+  llm order entries: 28
+  building presence matrix…
+  X shape: 154 accidents × 47 event types
+  active event types (var-filtered): 13 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 0 kept, 4 dropped by support, 0 by laplacian
+
+=== AIDS_IMPROPER ===
+  laplacian prior loaded
+  llm order entries: 56
+  building presence matrix…
+  X shape: 166 accidents × 47 event types
+  active event types (var-filtered): 17 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 4 dropped by support, 0 by laplacian
+  -> AIDS_IMPROPER.gpickle + AIDS_IMPROPER.csv
+
+=== OTHER:NTSB-190 ===
+  laplacian prior loaded
+  llm order entries: 20
+  building presence matrix…
+  X shape: 124 accidents × 47 event types
+  active event types (var-filtered): 13 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 1 kept, 8 dropped by support, 0 by laplacian
+  -> OTHER_NTSB-190.gpickle + OTHER_NTSB-190.csv
+
+=== ARC ===
+  laplacian prior loaded
+  llm order entries: 584
+  building presence matrix…
+  X shape: 2774 accidents × 47 event types
+  active event types (var-filtered): 44 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 43 kept, 31 dropped by support, 2 by laplacian
+  -> ARC.gpickle + ARC.csv
+
+=== AIDS_\N ===
+  laplacian prior loaded
+  llm order entries: 438
+  building presence matrix…
+  X shape: 2437 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 40 kept, 30 dropped by support, 4 by laplacian
+  -> AIDS_\N.gpickle + AIDS_\N.csv
+
+=== HFACS_CAT_05 ===
+  laplacian prior loaded
+  llm order entries: 172
+  building presence matrix…
+  X shape: 1249 accidents × 47 event types
+  active event types (var-filtered): 40 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 20 kept, 30 dropped by support, 0 by laplacian
+  -> HFACS_CAT_05.gpickle + HFACS_CAT_05.csv
+
+=== OTHER:NTSB-353 ===
+  laplacian prior loaded
+  llm order entries: 12
+  building presence matrix…
+  X shape: 29 accidents × 47 event types
+  skip: only 29 accidents (< min 50)
+
+=== OTHM ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 11 accidents × 47 event types
+  skip: only 11 accidents (< min 50)
+
+=== OTHER:NTSB-351 ===
+  laplacian prior loaded
+  llm order entries: 16
+  building presence matrix…
+  X shape: 52 accidents × 47 event types
+  active event types (var-filtered): 9 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 0 kept, 0 dropped by support, 0 by laplacian
+
+=== OTHER:NTSB-352 ===
+  laplacian prior loaded
+  llm order entries: 4
+  building presence matrix…
+  X shape: 24 accidents × 47 event types
+  skip: only 24 accidents (< min 50)
+
+=== WX ===
+  laplacian prior loaded
+  llm order entries: 530
+  building presence matrix…
+  X shape: 1230 accidents × 47 event types
+  active event types (var-filtered): 42 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 36 kept, 23 dropped by support, 1 by laplacian
+  -> WX.gpickle + WX.csv
+
+=== HFACS_CAT_02 ===
+  laplacian prior loaded
+  llm order entries: 600
+  building presence matrix…
+  X shape: 6247 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 77 kept, 15 dropped by support, 22 by laplacian
+  -> HFACS_CAT_02.gpickle + HFACS_CAT_02.csv
+
+=== HFACS_CAT_04 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 29 accidents × 47 event types
+  skip: only 29 accidents (< min 50)
+
+=== OTHER:NTSB-196 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 16 accidents × 47 event types
+  skip: only 16 accidents (< min 50)
+
+=== UNCATEGORIZED:NTSB_REPORT ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 2 accidents × 47 event types
+  skip: only 2 accidents (< min 50)
+
+=== ATM ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 26 accidents × 47 event types
+  skip: only 26 accidents (< min 50)
+
+=== OTHER:NTSB-170 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 10 accidents × 47 event types
+  skip: only 10 accidents (< min 50)
+
+=== WSTRW ===
+  laplacian prior loaded
+  llm order entries: 652
+  building presence matrix…
+  X shape: 2033 accidents × 47 event types
+  active event types (var-filtered): 45 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 45 kept, 21 dropped by support, 3 by laplacian
+  -> WSTRW.gpickle + WSTRW.csv
+
+=== OTHER:NTSB-354 ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 7 accidents × 47 event types
+  skip: only 7 accidents (< min 50)
+
+=== AIDS_DESIGN ===
+  laplacian prior loaded
+  llm order entries: 0
+  building presence matrix…
+  X shape: 11 accidents × 47 event types
+  skip: only 11 accidents (< min 50)
+
+=== LOC-G ===
+  laplacian prior loaded
+  llm order entries: 412
+  building presence matrix…
+  X shape: 3048 accidents × 47 event types
+  active event types (var-filtered): 38 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 27 kept, 31 dropped by support, 0 by laplacian
+  -> LOC-G.gpickle + LOC-G.csv
+
+=== AIDS_UNDETERMINED ===
+  laplacian prior loaded
+  llm order entries: 16
+  building presence matrix…
+  X shape: 163 accidents × 47 event types
+  active event types (var-filtered): 26 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 8 dropped by support, 0 by laplacian
+  -> AIDS_UNDETERMINED.gpickle + AIDS_UNDETERMINED.csv
+=== Sun Jul  5 05:02:52 PM CDT 2026 S3v4 piece 4-ablation: PC no-prior ===
+PC over 58 categories
+
+=== EVAC ===
+  building presence matrix…
+  X shape: 48 accidents × 47 event types
+  skip: only 48 accidents (< min 50)
+
+=== OTHER:NTSB-360 ===
+  building presence matrix…
+  X shape: 11 accidents × 47 event types
+  skip: only 11 accidents (< min 50)
+
+=== HFACS_CAT_01 ===
+  building presence matrix…
+  X shape: 7627 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 106 kept, 25 dropped by support, 0 by laplacian
+  -> HFACS_CAT_01.gpickle + HFACS_CAT_01.csv
+
+=== ICE ===
+  building presence matrix…
+  X shape: 1465 accidents × 47 event types
+  active event types (var-filtered): 38 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 19 kept, 30 dropped by support, 0 by laplacian
+  -> ICE.gpickle + ICE.csv
+
+=== HFACS_CAT_03 ===
+  building presence matrix…
+  X shape: 1434 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 41 kept, 33 dropped by support, 0 by laplacian
+  -> HFACS_CAT_03.gpickle + HFACS_CAT_03.csv
+
+=== OTHER:NTSB-172 ===
+  building presence matrix…
+  X shape: 7 accidents × 47 event types
+  skip: only 7 accidents (< min 50)
+
+=== UNCATEGORIZED:NTSB_ASRS ===
+  building presence matrix…
+  X shape: 663 accidents × 47 event types
+  active event types (var-filtered): 43 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 13 kept, 34 dropped by support, 0 by laplacian
+  -> UNCATEGORIZED_NTSB_ASRS.gpickle + UNCATEGORIZED_NTSB_ASRS.csv
+
+=== OTHER:NTSB-271 ===
+  building presence matrix…
+  X shape: 132 accidents × 47 event types
+  active event types (var-filtered): 12 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 0 kept, 3 dropped by support, 0 by laplacian
+
+=== OTHER:NTSB-171 ===
+  building presence matrix…
+  X shape: 102 accidents × 47 event types
+  active event types (var-filtered): 10 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 2 dropped by support, 0 by laplacian
+  -> OTHER_NTSB-171.gpickle + OTHER_NTSB-171.csv
+
+=== F-NI ===
+  building presence matrix…
+  X shape: 3 accidents × 47 event types
+  skip: only 3 accidents (< min 50)
+
+=== FUEL ===
+  building presence matrix…
+  X shape: 139 accidents × 47 event types
+  active event types (var-filtered): 17 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 3 kept, 2 dropped by support, 0 by laplacian
+  -> FUEL.gpickle + FUEL.csv
+
+=== AIDS_MANUFACTURER/BUILDER ===
+  building presence matrix…
+  X shape: 25 accidents × 47 event types
+  skip: only 25 accidents (< min 50)
+
+=== AIDS_MISCELLANEOUS ===
+  building presence matrix…
+  X shape: 339 accidents × 47 event types
+  active event types (var-filtered): 34 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 11 kept, 20 dropped by support, 0 by laplacian
+  -> AIDS_MISCELLANEOUS.gpickle + AIDS_MISCELLANEOUS.csv
+
+=== OTHER:NTSB-231 ===
+  building presence matrix…
+  X shape: 4 accidents × 47 event types
+  skip: only 4 accidents (< min 50)
+
+=== OTHER:NTSB-194 ===
+  building presence matrix…
+  X shape: 7 accidents × 47 event types
+  skip: only 7 accidents (< min 50)
+
+=== OTHER:NTSB-132 ===
+  building presence matrix…
+  X shape: 2 accidents × 47 event types
+  skip: only 2 accidents (< min 50)
+
+=== MAC ===
+  building presence matrix…
+  X shape: 1127 accidents × 47 event types
+  active event types (var-filtered): 40 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 23 kept, 23 dropped by support, 0 by laplacian
+  -> MAC.gpickle + MAC.csv
+
+=== RE ===
+  building presence matrix…
+  X shape: 696 accidents × 47 event types
+  active event types (var-filtered): 30 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 11 kept, 19 dropped by support, 0 by laplacian
+  -> RE.gpickle + RE.csv
+
+=== UNCATEGORIZED:FAA_AIDS ===
+  building presence matrix…
+  X shape: 4566 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 71 kept, 19 dropped by support, 0 by laplacian
+  -> UNCATEGORIZED_FAA_AIDS.gpickle + UNCATEGORIZED_FAA_AIDS.csv
+
+=== CTOL ===
+  building presence matrix…
+  X shape: 168 accidents × 47 event types
+  active event types (var-filtered): 15 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 1 kept, 4 dropped by support, 0 by laplacian
+  -> CTOL.gpickle + CTOL.csv
+
+=== SCF-PP ===
+  building presence matrix…
+  X shape: 1842 accidents × 47 event types
+  active event types (var-filtered): 44 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 43 kept, 30 dropped by support, 0 by laplacian
+  -> SCF-PP.gpickle + SCF-PP.csv
+
+=== AIDS_OPDEF ===
+  building presence matrix…
+  X shape: 900 accidents × 47 event types
+  active event types (var-filtered): 34 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 17 kept, 16 dropped by support, 0 by laplacian
+  -> AIDS_OPDEF.gpickle + AIDS_OPDEF.csv
+
+=== BIRD ===
+  building presence matrix…
+  X shape: 304 accidents × 47 event types
+  active event types (var-filtered): 23 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 10 dropped by support, 0 by laplacian
+  -> BIRD.gpickle + BIRD.csv
+
+=== RI ===
+  building presence matrix…
+  X shape: 445 accidents × 47 event types
+  active event types (var-filtered): 38 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 12 kept, 17 dropped by support, 0 by laplacian
+  -> RI.gpickle + RI.csv
+
+=== USOS ===
+  building presence matrix…
+  X shape: 4092 accidents × 47 event types
+  active event types (var-filtered): 45 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 50 kept, 37 dropped by support, 0 by laplacian
+  -> USOS.gpickle + USOS.csv
+
+=== OTHER:NTSB-191 ===
+  building presence matrix…
+  X shape: 85 accidents × 47 event types
+  active event types (var-filtered): 12 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 3 kept, 4 dropped by support, 0 by laplacian
+  -> OTHER_NTSB-191.gpickle + OTHER_NTSB-191.csv
+
+=== CFIT ===
+  building presence matrix…
+  X shape: 1446 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 43 kept, 23 dropped by support, 0 by laplacian
+  -> CFIT.gpickle + CFIT.csv
+
+=== ADRM ===
+  building presence matrix…
+  X shape: 14 accidents × 47 event types
+  skip: only 14 accidents (< min 50)
+
+=== LOC-I ===
+  building presence matrix…
+  X shape: 3852 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 73 kept, 19 dropped by support, 0 by laplacian
+  -> LOC-I.gpickle + LOC-I.csv
+
+=== OTHER:NTSB-198 ===
+  building presence matrix…
+  X shape: 24 accidents × 47 event types
+  skip: only 24 accidents (< min 50)
+
+=== AIDS_PILOT ===
+  building presence matrix…
+  X shape: 3747 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 83 kept, 20 dropped by support, 0 by laplacian
+  -> AIDS_PILOT.gpickle + AIDS_PILOT.csv
+
+=== GCOL ===
+  building presence matrix…
+  X shape: 642 accidents × 47 event types
+  active event types (var-filtered): 39 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 18 kept, 25 dropped by support, 0 by laplacian
+  -> GCOL.gpickle + GCOL.csv
+
+=== OTHER:NTSB-192 ===
+  building presence matrix…
+  X shape: 54 accidents × 47 event types
+  active event types (var-filtered): 9 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 0 dropped by support, 0 by laplacian
+  -> OTHER_NTSB-192.gpickle + OTHER_NTSB-192.csv
+
+=== OTHER:NTSB-150 ===
+  building presence matrix…
+  X shape: 7 accidents × 47 event types
+  skip: only 7 accidents (< min 50)
+
+=== OTHER:NTSB-195 ===
+  building presence matrix…
+  X shape: 1 accidents × 47 event types
+  skip: only 1 accidents (< min 50)
+
+=== AIDS_INADEQUATE ===
+  building presence matrix…
+  X shape: 57 accidents × 47 event types
+  active event types (var-filtered): 14 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 1 kept, 4 dropped by support, 0 by laplacian
+  -> AIDS_INADEQUATE.gpickle + AIDS_INADEQUATE.csv
+
+=== OTHER:NTSB-232 ===
+  building presence matrix…
+  X shape: 154 accidents × 47 event types
+  active event types (var-filtered): 13 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 0 kept, 4 dropped by support, 0 by laplacian
+
+=== AIDS_IMPROPER ===
+  building presence matrix…
+  X shape: 166 accidents × 47 event types
+  active event types (var-filtered): 17 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 4 dropped by support, 0 by laplacian
+  -> AIDS_IMPROPER.gpickle + AIDS_IMPROPER.csv
+
+=== OTHER:NTSB-190 ===
+  building presence matrix…
+  X shape: 124 accidents × 47 event types
+  active event types (var-filtered): 13 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 8 dropped by support, 0 by laplacian
+  -> OTHER_NTSB-190.gpickle + OTHER_NTSB-190.csv
+
+=== ARC ===
+  building presence matrix…
+  X shape: 2774 accidents × 47 event types
+  active event types (var-filtered): 44 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 46 kept, 31 dropped by support, 0 by laplacian
+  -> ARC.gpickle + ARC.csv
+
+=== AIDS_\N ===
+  building presence matrix…
+  X shape: 2437 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 45 kept, 30 dropped by support, 0 by laplacian
+  -> AIDS_\N.gpickle + AIDS_\N.csv
+
+=== HFACS_CAT_05 ===
+  building presence matrix…
+  X shape: 1249 accidents × 47 event types
+  active event types (var-filtered): 40 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 22 kept, 30 dropped by support, 0 by laplacian
+  -> HFACS_CAT_05.gpickle + HFACS_CAT_05.csv
+
+=== OTHER:NTSB-353 ===
+  building presence matrix…
+  X shape: 29 accidents × 47 event types
+  skip: only 29 accidents (< min 50)
+
+=== OTHM ===
+  building presence matrix…
+  X shape: 11 accidents × 47 event types
+  skip: only 11 accidents (< min 50)
+
+=== OTHER:NTSB-351 ===
+  building presence matrix…
+  X shape: 52 accidents × 47 event types
+  active event types (var-filtered): 9 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 0 kept, 0 dropped by support, 0 by laplacian
+
+=== OTHER:NTSB-352 ===
+  building presence matrix…
+  X shape: 24 accidents × 47 event types
+  skip: only 24 accidents (< min 50)
+
+=== WX ===
+  building presence matrix…
+  X shape: 1230 accidents × 47 event types
+  active event types (var-filtered): 42 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 39 kept, 23 dropped by support, 0 by laplacian
+  -> WX.gpickle + WX.csv
+
+=== HFACS_CAT_02 ===
+  building presence matrix…
+  X shape: 6247 accidents × 47 event types
+  active event types (var-filtered): 47 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 106 kept, 15 dropped by support, 0 by laplacian
+  -> HFACS_CAT_02.gpickle + HFACS_CAT_02.csv
+
+=== HFACS_CAT_04 ===
+  building presence matrix…
+  X shape: 29 accidents × 47 event types
+  skip: only 29 accidents (< min 50)
+
+=== OTHER:NTSB-196 ===
+  building presence matrix…
+  X shape: 16 accidents × 47 event types
+  skip: only 16 accidents (< min 50)
+
+=== UNCATEGORIZED:NTSB_REPORT ===
+  building presence matrix…
+  X shape: 2 accidents × 47 event types
+  skip: only 2 accidents (< min 50)
+
+=== ATM ===
+  building presence matrix…
+  X shape: 26 accidents × 47 event types
+  skip: only 26 accidents (< min 50)
+
+=== OTHER:NTSB-170 ===
+  building presence matrix…
+  X shape: 10 accidents × 47 event types
+  skip: only 10 accidents (< min 50)
+
+=== WSTRW ===
+  building presence matrix…
+  X shape: 2033 accidents × 47 event types
+  active event types (var-filtered): 45 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 49 kept, 21 dropped by support, 0 by laplacian
+  -> WSTRW.gpickle + WSTRW.csv
+
+=== OTHER:NTSB-354 ===
+  building presence matrix…
+  X shape: 7 accidents × 47 event types
+  skip: only 7 accidents (< min 50)
+
+=== AIDS_DESIGN ===
+  building presence matrix…
+  X shape: 11 accidents × 47 event types
+  skip: only 11 accidents (< min 50)
+
+=== LOC-G ===
+  building presence matrix…
+  X shape: 3048 accidents × 47 event types
+  active event types (var-filtered): 38 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 27 kept, 31 dropped by support, 0 by laplacian
+  -> LOC-G.gpickle + LOC-G.csv
+
+=== AIDS_UNDETERMINED ===
+  building presence matrix…
+  X shape: 163 accidents × 47 event types
+  active event types (var-filtered): 26 / 47
+  running PC (alpha=0.05, indep_test=chisq) …
+  edges: 2 kept, 8 dropped by support, 0 by laplacian
+  -> AIDS_UNDETERMINED.gpickle + AIDS_UNDETERMINED.csv
+=== Sun Jul  5 05:12:12 PM CDT 2026 S3v4 piece 4.5: reorient ===
+Reorienting 36 categories
+  AIDS_UNDETERMINED     flipped   0  kept   2
+  OTHER_NTSB-191        flipped   1  kept   2
+  OTHER_NTSB-351        flipped   0  kept   2
+  OTHER_NTSB-190        flipped   0  kept   1
+  OTHER_NTSB-171        flipped   0  kept   1
+  ICE                   flipped   1  kept  16
+  UNCATEGORIZED_FAA_AIDS  flipped  21  kept  38
+  AIDS_MISCELLANEOUS    flipped   1  kept   9
+  BIRD                  flipped   0  kept   2
+  OTHER_NTSB-192        flipped   0  kept   2
+  AIDS_OPDEF            flipped   4  kept  11
+  SCF-PP                flipped  13  kept  29
+  MAC                   flipped   5  kept  17
+  HFACS_CAT_02          flipped  15  kept  62
+  LOC-G                 flipped   9  kept  18
+  AIDS_INADEQUATE       flipped   0  kept   1
+  LOC-I                 flipped  11  kept  49
+  HFACS_CAT_03          flipped  10  kept  28
+  ARC                   flipped  10  kept  33
+  AIDS_IMPROPER         flipped   1  kept   1
+  WX                    flipped   9  kept  27
+  USOS                  flipped  13  kept  31
+  CTOL                  flipped   0  kept   1
+  AIDS_PILOT            flipped  14  kept  44
+  OTHER_NTSB-232        flipped   0  kept   5
+  FUEL                  flipped   0  kept   3
+  AIDS_\N               flipped  10  kept  30
+  CFIT                  flipped  10  kept  30
+  OTHER_NTSB-271        flipped   0  kept   1
+  WSTRW                 flipped  11  kept  34
+  HFACS_CAT_01          flipped  19  kept  71
+  HFACS_CAT_05          flipped   6  kept  14
+  RI                    flipped   2  kept   9
+  RE                    flipped   2  kept   9
+  GCOL                  flipped   4  kept  13
+  UNCATEGORIZED_NTSB_ASRS  flipped   4  kept   8
+
+Total flips: 206
+=== Sun Jul  5 05:12:12 PM CDT 2026 S3v4 piece 6: viz ===
+  AIDS_IMPROPER          47 nodes     2 edges  -> AIDS_IMPROPER.html
+  AIDS_INADEQUATE        47 nodes     1 edges  -> AIDS_INADEQUATE.html
+  AIDS_MISCELLANEOUS     47 nodes    10 edges  -> AIDS_MISCELLANEOUS.html
+  AIDS_OPDEF             47 nodes    15 edges  -> AIDS_OPDEF.html
+  AIDS_PILOT             47 nodes    58 edges  -> AIDS_PILOT.html
+  AIDS_UNDETERMINED      47 nodes     2 edges  -> AIDS_UNDETERMINED.html
+  AIDS_\N                47 nodes    40 edges  -> AIDS_\N.html
+  ARC                    47 nodes    43 edges  -> ARC.html
+  BIRD                   47 nodes     2 edges  -> BIRD.html
+  CFIT                   47 nodes    40 edges  -> CFIT.html
+  CTOL                   47 nodes     1 edges  -> CTOL.html
+  FUEL                   47 nodes     3 edges  -> FUEL.html
+  GCOL                   47 nodes    17 edges  -> GCOL.html
+  HFACS_CAT_01           47 nodes    90 edges  -> HFACS_CAT_01.html
+  HFACS_CAT_02           47 nodes    77 edges  -> HFACS_CAT_02.html
+  HFACS_CAT_03           47 nodes    38 edges  -> HFACS_CAT_03.html
+  HFACS_CAT_05           47 nodes    20 edges  -> HFACS_CAT_05.html
+  ICE                    47 nodes    17 edges  -> ICE.html
+  LOC-G                  47 nodes    27 edges  -> LOC-G.html
+  LOC-I                  47 nodes    60 edges  -> LOC-I.html
+  MAC                    47 nodes    22 edges  -> MAC.html
+  OTHER_NTSB-171         47 nodes     1 edges  -> OTHER_NTSB-171.html
+  OTHER_NTSB-190         47 nodes     1 edges  -> OTHER_NTSB-190.html
+  OTHER_NTSB-191         47 nodes     3 edges  -> OTHER_NTSB-191.html
+  OTHER_NTSB-192         47 nodes     2 edges  -> OTHER_NTSB-192.html
+  OTHER_NTSB-232         42 nodes     5 edges  -> OTHER_NTSB-232.html
+  OTHER_NTSB-271         42 nodes     1 edges  -> OTHER_NTSB-271.html
+  OTHER_NTSB-351         42 nodes     2 edges  -> OTHER_NTSB-351.html
+  RE                     47 nodes    11 edges  -> RE.html
+  RI                     47 nodes    11 edges  -> RI.html
+  SCF-PP                 47 nodes    42 edges  -> SCF-PP.html
+  UNCATEGORIZED_FAA_AIDS   47 nodes    59 edges  -> UNCATEGORIZED_FAA_AIDS.html
+  UNCATEGORIZED_NTSB_ASRS   47 nodes    12 edges  -> UNCATEGORIZED_NTSB_ASRS.html
+  USOS                   47 nodes    44 edges  -> USOS.html
+  WSTRW                  47 nodes    45 edges  -> WSTRW.html
+  WX                     47 nodes    36 edges  -> WX.html
+
+Index: event_extraction/out/aggregate_kg/html_dag/index.html
+=== Sun Jul  5 05:12:12 PM CDT 2026 S3v4 bootstrap (key categories, 30 resamples) ===
+Bootstrapping 12 categories × 30 samples each
+
+=== LOC-I ===
+  building presence matrix…
+  X: 3852 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 38
+  -> LOC-I.gpickle + LOC-I.csv
+
+=== CFIT ===
+  building presence matrix…
+  X: 1446 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 22
+  -> CFIT.gpickle + CFIT.csv
+
+=== SCF-PP ===
+  building presence matrix…
+  X: 1842 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 21
+  -> SCF-PP.gpickle + SCF-PP.csv
+
+=== LOC-G ===
+  building presence matrix…
+  X: 3048 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 14
+  -> LOC-G.gpickle + LOC-G.csv
+
+=== ICE ===
+  building presence matrix…
+  X: 1465 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 8
+  -> ICE.gpickle + ICE.csv
+
+=== ARC ===
+  building presence matrix…
+  X: 2774 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 23
+  -> ARC.gpickle + ARC.csv
+
+=== WSTRW ===
+  building presence matrix…
+  X: 2033 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 28
+  -> WSTRW.gpickle + WSTRW.csv
+
+=== USOS ===
+  building presence matrix…
+  X: 4092 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 25
+  -> USOS.gpickle + USOS.csv
+
+=== MAC ===
+  building presence matrix…
+  X: 1127 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 17
+  -> MAC.gpickle + MAC.csv
+
+=== RE ===
+  building presence matrix…
+  X: 696 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 6
+  -> RE.gpickle + RE.csv
+
+=== WX ===
+  building presence matrix…
+  X: 1230 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 19
+  -> WX.gpickle + WX.csv
+
+=== RI ===
+  building presence matrix…
+  X: 445 accidents
+    bootstrap 5/30
+    bootstrap 10/30
+    bootstrap 15/30
+    bootstrap 20/30
+    bootstrap 25/30
+    bootstrap 30/30
+  edges with stability >= 0.5: 4
+  -> RI.gpickle + RI.csv
+=== Sun Jul  5 05:31:42 PM CDT 2026 S3v4 BN do() smoke test on LOC-I ===
+/home/yp6443/miniconda3/envs/qwen-vllm/lib/python3.11/site-packages/pgmpy/estimators/__init__.py:4: FutureWarning: `pgmpy.estimators.StructureScore` is deprecated and will be removed in v1.3.0. Use `pgmpy.structure_score` instead.
+  from .StructureScore import (
+Traceback (most recent call last):
+  File "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/event_extraction/scripts/stage3/bn_do_smoke_test.py", line 135, in <module>
+    main()
+  File "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/event_extraction/scripts/stage3/bn_do_smoke_test.py", line 68, in main
+    df = pd.read_parquet(args.factor_vectors)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yp6443/miniconda3/envs/qwen-vllm/lib/python3.11/site-packages/pandas/io/parquet.py", line 668, in read_parquet
+    impl = get_engine(engine)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/yp6443/miniconda3/envs/qwen-vllm/lib/python3.11/site-packages/pandas/io/parquet.py", line 68, in get_engine
+    raise ImportError(
+ImportError: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - `Import pyarrow` failed. pyarrow is required for parquet support. Use pip or conda to install the pyarrow package.
+ - `Import fastparquet` failed. fastparquet is required for parquet support. Use pip or conda to install the fastparquet package.

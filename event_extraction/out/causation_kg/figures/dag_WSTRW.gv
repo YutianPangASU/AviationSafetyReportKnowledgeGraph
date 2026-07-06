@@ -1,0 +1,75 @@
+digraph G {
+  rankdir=TB; splines=spline; nodesep=0.28; ranksep=0.85;
+  bgcolor="white";
+  labelloc="t"; label=<<font face="Times-Roman" point-size="15">Causal structure — WSTRW (PC + LLM priors, reoriented; solid: stability &#8805; 0.7, dashed: &#8805; 0.5; line weight &#8733; record support)</font>>;
+  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7", color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10, margin="0.10,0.05"];
+  edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#4d4d4d"];
+  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Latent / ambient conditions"];
+  { rank=same; tier1; "FUEL_EXHAUSTION_OR_STARVATION" "CARBURETOR_OR_INDUCTION_ICING" "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" "HIGH_DENSITY_ALTITUDE" "ADVERSE_WIND_CONDITION" "DARK_NIGHT_OR_LOW_LIGHT" "MOUNTAINOUS_OR_RISING_TERRAIN" "LOW_ALTITUDE_OPERATION" "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" }
+  tier2 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Environmental encounters"];
+  { rank=same; tier2; "LOW_VISIBILITY_OR_IMC" "WIND_SHEAR_OR_GUST" "BIRD_OR_WILDLIFE_STRIKE" "TERRAIN_OR_OBSTACLE_PROXIMITY" "RUNWAY_CONDITION_HAZARD" }
+  tier1 -> tier2 [style=invis];
+  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Crew & external actions"];
+  { rank=same; tier3; "DECISION_INAPPROPRIATE" "CONTROL_INPUT_IMPROPER" "PROCEDURE_NOT_FOLLOWED" "PERCEPTION_FAILURE" "SPATIAL_DISORIENTATION" "PILOT_INCAPACITATION_OR_IMPAIRMENT" }
+  tier2 -> tier3 [style=invis];
+  tier4 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Aircraft system failures"];
+  { rank=same; tier4; "ENGINE_FAILURE" "AIRFRAME_STRUCTURAL_FAILURE" "CONTROL_SURFACE_ANOMALY" "OTHER_SYSTEM_FAILURE" }
+  tier3 -> tier4 [style=invis];
+  tier5 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Aerodynamic states"];
+  { rank=same; tier5; "STALL" "ALTITUDE_DEVIATION_UNCONTROLLED" }
+  tier4 -> tier5 [style=invis];
+  "ADVERSE_WIND_CONDITION" [label=<Adverse wind<br/>condition<br/><font point-size="8" color="#808080">n = 349</font>>];
+  "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" [label=<Weight / balance<br/>out of limits<br/><font point-size="8" color="#808080">n = 57</font>>];
+  "AIRFRAME_STRUCTURAL_FAILURE" [label=<Airframe<br/>structural<br/>failure<br/><font point-size="8" color="#808080">n = 146</font>>];
+  "ALTITUDE_DEVIATION_UNCONTROLLED" [label=<Uncontrolled<br/>altitude deviation<br/><font point-size="8" color="#808080">n = 138</font>>];
+  "BIRD_OR_WILDLIFE_STRIKE" [label=<Bird / wildlife strike<br/><font point-size="8" color="#808080">n = 124</font>>];
+  "CARBURETOR_OR_INDUCTION_ICING" [label=<Carburetor /<br/>induction icing<br/><font point-size="8" color="#808080">n = 15</font>>];
+  "CONTROL_INPUT_IMPROPER" [label=<Control input<br/>improper<br/><font point-size="8" color="#808080">n = 1,213</font>>];
+  "CONTROL_SURFACE_ANOMALY" [label=<Control surface<br/>anomaly<br/><font point-size="8" color="#808080">n = 48</font>>];
+  "DARK_NIGHT_OR_LOW_LIGHT" [label=<Dark night /<br/>low light<br/><font point-size="8" color="#808080">n = 257</font>>];
+  "DECISION_INAPPROPRIATE" [label=<Decision<br/>inappropriate<br/><font point-size="8" color="#808080">n = 882</font>>];
+  "ENGINE_FAILURE" [label=<Engine failure<br/><font point-size="8" color="#808080">n = 156</font>>];
+  "FUEL_EXHAUSTION_OR_STARVATION" [label=<Fuel exhaustion<br/>/ starvation<br/><font point-size="8" color="#808080">n = 43</font>>];
+  "HIGH_DENSITY_ALTITUDE" [label=<High density<br/>altitude<br/><font point-size="8" color="#808080">n = 103</font>>];
+  "LOW_ALTITUDE_OPERATION" [label=<Low altitude<br/>operation<br/><font point-size="8" color="#808080">n = 100</font>>];
+  "LOW_VISIBILITY_OR_IMC" [label=<Low visibility / IMC<br/><font point-size="8" color="#808080">n = 191</font>>];
+  "MOUNTAINOUS_OR_RISING_TERRAIN" [label=<Mountainous /<br/>rising terrain<br/><font point-size="8" color="#808080">n = 240</font>>];
+  "OTHER_SYSTEM_FAILURE" [label=<Other system<br/>failure<br/><font point-size="8" color="#808080">n = 41</font>>];
+  "PERCEPTION_FAILURE" [label=<Perception<br/>failure<br/><font point-size="8" color="#808080">n = 800</font>>];
+  "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" [label=<Pilot fatigue /<br/>physiological state<br/><font point-size="8" color="#808080">n = 84</font>>];
+  "PILOT_INCAPACITATION_OR_IMPAIRMENT" [label=<Pilot incapacitation<br/>/ impairment<br/><font point-size="8" color="#808080">n = 85</font>>];
+  "PROCEDURE_NOT_FOLLOWED" [label=<Procedure not<br/>followed<br/><font point-size="8" color="#808080">n = 480</font>>];
+  "RUNWAY_CONDITION_HAZARD" [label=<Runway condition<br/>hazard<br/><font point-size="8" color="#808080">n = 133</font>>];
+  "SPATIAL_DISORIENTATION" [label=<Spatial<br/>disorientation<br/><font point-size="8" color="#808080">n = 31</font>>];
+  "STALL" [label=<Stall<br/><font point-size="8" color="#808080">n = 190</font>>];
+  "TERRAIN_OR_OBSTACLE_PROXIMITY" [label=<Terrain / obstacle<br/>proximity<br/><font point-size="8" color="#808080">n = 616</font>>];
+  "WIND_SHEAR_OR_GUST" [label=<Wind shear or<br/>gust<br/><font point-size="8" color="#808080">n = 68</font>>];
+  "PROCEDURE_NOT_FOLLOWED" -> "CONTROL_INPUT_IMPROPER" [penwidth=2.10, style=solid, tooltip="PROCEDURE_NOT_FOLLOWED -> CONTROL_INPUT_IMPROPER: support 219, stability 0.97"];
+  "PERCEPTION_FAILURE" -> "DECISION_INAPPROPRIATE" [penwidth=2.28, style=solid, tooltip="PERCEPTION_FAILURE -> DECISION_INAPPROPRIATE: support 273, stability 1.00"];
+  "PERCEPTION_FAILURE" -> "PROCEDURE_NOT_FOLLOWED" [penwidth=1.54, style=solid, tooltip="PERCEPTION_FAILURE -> PROCEDURE_NOT_FOLLOWED: support 93, stability 1.00"];
+  "ENGINE_FAILURE" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.17, style=solid, tooltip="ENGINE_FAILURE -> CONTROL_INPUT_IMPROPER: support 38, stability 0.83"];
+  "OTHER_SYSTEM_FAILURE" -> "ENGINE_FAILURE" [penwidth=0.95, style=solid, tooltip="OTHER_SYSTEM_FAILURE -> ENGINE_FAILURE: support 17, stability 0.87"];
+  "LOW_VISIBILITY_OR_IMC" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.25, style=solid, tooltip="LOW_VISIBILITY_OR_IMC -> CONTROL_INPUT_IMPROPER: support 48, stability 1.00"];
+  "LOW_VISIBILITY_OR_IMC" -> "PROCEDURE_NOT_FOLLOWED" [penwidth=1.56, style=solid, tooltip="LOW_VISIBILITY_OR_IMC -> PROCEDURE_NOT_FOLLOWED: support 97, stability 1.00"];
+  "LOW_VISIBILITY_OR_IMC" -> "SPATIAL_DISORIENTATION" [penwidth=0.93, style=dashed, tooltip="LOW_VISIBILITY_OR_IMC -> SPATIAL_DISORIENTATION: support 16, stability 0.50"];
+  "BIRD_OR_WILDLIFE_STRIKE" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.06, style=solid, tooltip="BIRD_OR_WILDLIFE_STRIKE -> CONTROL_INPUT_IMPROPER: support 27, stability 1.00"];
+  "BIRD_OR_WILDLIFE_STRIKE" -> "PERCEPTION_FAILURE" [penwidth=0.96, style=solid, tooltip="BIRD_OR_WILDLIFE_STRIKE -> PERCEPTION_FAILURE: support 18, stability 0.97"];
+  "BIRD_OR_WILDLIFE_STRIKE" -> "AIRFRAME_STRUCTURAL_FAILURE" [penwidth=1.17, style=solid, tooltip="BIRD_OR_WILDLIFE_STRIKE -> AIRFRAME_STRUCTURAL_FAILURE: support 39, stability 0.97"];
+  "BIRD_OR_WILDLIFE_STRIKE" -> "CONTROL_SURFACE_ANOMALY" [penwidth=0.95, style=solid, tooltip="BIRD_OR_WILDLIFE_STRIKE -> CONTROL_SURFACE_ANOMALY: support 17, stability 0.87"];
+  "RUNWAY_CONDITION_HAZARD" -> "DECISION_INAPPROPRIATE" [penwidth=1.56, style=solid, tooltip="RUNWAY_CONDITION_HAZARD -> DECISION_INAPPROPRIATE: support 96, stability 0.97"];
+  "RUNWAY_CONDITION_HAZARD" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.62, style=solid, tooltip="RUNWAY_CONDITION_HAZARD -> CONTROL_INPUT_IMPROPER: support 108, stability 0.83"];
+  "FUEL_EXHAUSTION_OR_STARVATION" -> "ENGINE_FAILURE" [penwidth=1.16, style=solid, tooltip="FUEL_EXHAUSTION_OR_STARVATION -> ENGINE_FAILURE: support 37, stability 1.00"];
+  "CARBURETOR_OR_INDUCTION_ICING" -> "ENGINE_FAILURE" [penwidth=0.87, style=solid, tooltip="CARBURETOR_OR_INDUCTION_ICING -> ENGINE_FAILURE: support 12, stability 1.00"];
+  "ADVERSE_WIND_CONDITION" -> "CONTROL_INPUT_IMPROPER" [penwidth=2.30, style=solid, tooltip="ADVERSE_WIND_CONDITION -> CONTROL_INPUT_IMPROPER: support 278, stability 0.87"];
+  "ADVERSE_WIND_CONDITION" -> "WIND_SHEAR_OR_GUST" [penwidth=1.10, style=solid, tooltip="ADVERSE_WIND_CONDITION -> WIND_SHEAR_OR_GUST: support 31, stability 0.80"];
+  "DARK_NIGHT_OR_LOW_LIGHT" -> "PERCEPTION_FAILURE" [penwidth=1.78, style=solid, tooltip="DARK_NIGHT_OR_LOW_LIGHT -> PERCEPTION_FAILURE: support 141, stability 0.77"];
+  "DARK_NIGHT_OR_LOW_LIGHT" -> "SPATIAL_DISORIENTATION" [penwidth=0.97, style=dashed, tooltip="DARK_NIGHT_OR_LOW_LIGHT -> SPATIAL_DISORIENTATION: support 19, stability 0.50"];
+  "MOUNTAINOUS_OR_RISING_TERRAIN" -> "DECISION_INAPPROPRIATE" [penwidth=1.80, style=solid, tooltip="MOUNTAINOUS_OR_RISING_TERRAIN -> DECISION_INAPPROPRIATE: support 145, stability 0.87"];
+  "MOUNTAINOUS_OR_RISING_TERRAIN" -> "LOW_VISIBILITY_OR_IMC" [penwidth=1.34, style=solid, tooltip="MOUNTAINOUS_OR_RISING_TERRAIN -> LOW_VISIBILITY_OR_IMC: support 61, stability 0.87"];
+  "MOUNTAINOUS_OR_RISING_TERRAIN" -> "TERRAIN_OR_OBSTACLE_PROXIMITY" [penwidth=0.99, style=solid, tooltip="MOUNTAINOUS_OR_RISING_TERRAIN -> TERRAIN_OR_OBSTACLE_PROXIMITY: support 21, stability 0.90"];
+  "MOUNTAINOUS_OR_RISING_TERRAIN" -> "ALTITUDE_DEVIATION_UNCONTROLLED" [penwidth=1.26, style=dashed, tooltip="MOUNTAINOUS_OR_RISING_TERRAIN -> ALTITUDE_DEVIATION_UNCONTROLLED: support 49, stability 0.53"];
+  "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" -> "STALL" [penwidth=1.05, style=solid, tooltip="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS -> STALL: support 26, stability 0.87"];
+  "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" -> "HIGH_DENSITY_ALTITUDE" [penwidth=0.98, style=solid, tooltip="AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS -> HIGH_DENSITY_ALTITUDE: support 20, stability 0.83"];
+  "LOW_ALTITUDE_OPERATION" -> "PERCEPTION_FAILURE" [penwidth=1.37, style=dashed, tooltip="LOW_ALTITUDE_OPERATION -> PERCEPTION_FAILURE: support 65, stability 0.60"];
+  "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE" -> "PILOT_INCAPACITATION_OR_IMPAIRMENT" [penwidth=0.84, style=dashed, tooltip="PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE -> PILOT_INCAPACITATION_OR_IMPAIRMENT: support 10, stability 0.50"];
+}

@@ -1,0 +1,35 @@
+digraph G {
+  rankdir=TB; splines=spline; nodesep=0.28; ranksep=0.85;
+  bgcolor="white";
+  labelloc="t"; label=<<font face="Times-Roman" point-size="15">Causal structure — RE (PC + LLM priors, reoriented; solid: stability &#8805; 0.7, dashed: &#8805; 0.5; line weight &#8733; record support)</font>>;
+  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7", color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10, margin="0.10,0.05"];
+  edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#4d4d4d"];
+  tier0 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Organizational"];
+  { rank=same; tier0; "MAINTENANCE_INADEQUATE" }
+  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Latent / ambient conditions"];
+  { rank=same; tier1; "LATENT_MECHANICAL_DEFECT" }
+  tier0 -> tier1 [style=invis];
+  tier2 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Environmental encounters"];
+  { rank=same; tier2; "RUNWAY_CONDITION_HAZARD" }
+  tier1 -> tier2 [style=invis];
+  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Crew & external actions"];
+  { rank=same; tier3; "DECISION_INAPPROPRIATE" "CONTROL_INPUT_IMPROPER" "PERCEPTION_FAILURE" }
+  tier2 -> tier3 [style=invis];
+  tier4 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Aircraft system failures"];
+  { rank=same; tier4; "ENGINE_FAILURE" "LANDING_GEAR_ANOMALY" }
+  tier3 -> tier4 [style=invis];
+  "CONTROL_INPUT_IMPROPER" [label=<Control input<br/>improper<br/><font point-size="8" color="#808080">n = 535</font>>];
+  "DECISION_INAPPROPRIATE" [label=<Decision<br/>inappropriate<br/><font point-size="8" color="#808080">n = 457</font>>];
+  "ENGINE_FAILURE" [label=<Engine failure<br/><font point-size="8" color="#808080">n = 32</font>>];
+  "LANDING_GEAR_ANOMALY" [label=<Landing gear<br/>anomaly<br/><font point-size="8" color="#808080">n = 42</font>>];
+  "LATENT_MECHANICAL_DEFECT" [label=<Latent<br/>mechanical<br/>defect<br/><font point-size="8" color="#808080">n = 39</font>>];
+  "MAINTENANCE_INADEQUATE" [label=<Maintenance<br/>inadequate<br/><font point-size="8" color="#808080">n = 30</font>>];
+  "PERCEPTION_FAILURE" [label=<Perception<br/>failure<br/><font point-size="8" color="#808080">n = 177</font>>];
+  "RUNWAY_CONDITION_HAZARD" [label=<Runway condition<br/>hazard<br/><font point-size="8" color="#808080">n = 287</font>>];
+  "PERCEPTION_FAILURE" -> "DECISION_INAPPROPRIATE" [penwidth=1.70, style=solid, tooltip="PERCEPTION_FAILURE -> DECISION_INAPPROPRIATE: support 90, stability 0.87"];
+  "LANDING_GEAR_ANOMALY" -> "DECISION_INAPPROPRIATE" [penwidth=1.02, style=dashed, tooltip="LANDING_GEAR_ANOMALY -> DECISION_INAPPROPRIATE: support 17, stability 0.60"];
+  "RUNWAY_CONDITION_HAZARD" -> "CONTROL_INPUT_IMPROPER" [penwidth=2.30, style=dashed, tooltip="RUNWAY_CONDITION_HAZARD -> CONTROL_INPUT_IMPROPER: support 201, stability 0.63"];
+  "MAINTENANCE_INADEQUATE" -> "CONTROL_INPUT_IMPROPER" [penwidth=0.90, style=dashed, tooltip="MAINTENANCE_INADEQUATE -> CONTROL_INPUT_IMPROPER: support 10, stability 0.53"];
+  "MAINTENANCE_INADEQUATE" -> "ENGINE_FAILURE" [penwidth=0.90, style=solid, tooltip="MAINTENANCE_INADEQUATE -> ENGINE_FAILURE: support 10, stability 0.80"];
+  "LATENT_MECHANICAL_DEFECT" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.02, style=dashed, tooltip="LATENT_MECHANICAL_DEFECT -> CONTROL_INPUT_IMPROPER: support 17, stability 0.50"];
+}
