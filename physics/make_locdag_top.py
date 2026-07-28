@@ -40,11 +40,10 @@ meta = json.loads((PREC_DIR / f"{CAT}.json").read_text())
 presence = np.load(PREC_DIR / f"{CAT}.npz")["presence"]
 support_of = {f: int(presence[i]) for i, f in enumerate(meta["vocab"])}
 
-title = (f"Causal structure &#8212; {CAT} "
-         f"(top {TOP_N} edges by record support; PC + LLM ordering priors, "
-         f"reoriented; line weight &#8733; support)")
+# No on-canvas title: the figure caption in the manuscript carries the
+# description (publication plotting rule).
 # min_stability=None -> all edges solid; direction is the learned orientation.
-viz.render(f"dag_{CAT}_top", title, edges, support_of, None, OUT_DIR)
+viz.render(f"dag_{CAT}_top", "", edges, support_of, None, OUT_DIR)
 
 gv = OUT_DIR / f"dag_{CAT}_top.gv"
 subprocess.run([viz.DOT, "-Tpdf", "-o", str(PAPER_PDF), str(gv)], check=True)

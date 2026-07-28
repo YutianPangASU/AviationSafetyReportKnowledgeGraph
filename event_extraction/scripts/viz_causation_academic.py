@@ -108,14 +108,18 @@ def render(name: str, title: str, edges: list[dict], support_of: dict,
     max_sup = max((e["support"] for e in edges), default=1)
 
     g = ['digraph G {',
-         '  rankdir=TB; splines=spline; nodesep=0.28; ranksep=0.85;',
-         '  bgcolor="white";',
-         f'  labelloc="t"; label=<<font face="Times-Roman" point-size="15">{title}</font>>;',
-         '  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7",'
-         ' color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10,'
-         ' margin="0.10,0.05"];',
-         '  edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman",'
-         ' fontsize=8, fontcolor="#4d4d4d"];']
+         '  rankdir=TB; splines=spline; nodesep=0.32; ranksep=0.9;',
+         '  bgcolor="white";']
+    # Publication rule: no on-canvas titles — the caption belongs to the
+    # manuscript. Pass an empty title to omit the label entirely.
+    if title:
+        g.append(f'  labelloc="t"; label=<<font face="Times-Roman"'
+                 f' point-size="15">{title}</font>>;')
+    g += ['  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7",'
+          ' color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10,'
+          ' margin="0.11,0.06"];',
+          '  edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman",'
+          ' fontsize=8, fontcolor="#4d4d4d"];']
 
     # tier rank groups + left-margin tier captions
     prev_anchor = None

@@ -1,8 +1,7 @@
 digraph G {
-  rankdir=TB; splines=spline; nodesep=0.28; ranksep=0.85;
+  rankdir=TB; splines=spline; nodesep=0.32; ranksep=0.9;
   bgcolor="white";
-  labelloc="t"; label=<<font face="Times-Roman" point-size="15">Causal structure &#8212; SCF-PP (top 12 edges by record support; PC + LLM ordering priors, reoriented; line weight &#8733; support)</font>>;
-  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7", color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10, margin="0.10,0.05"];
+  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7", color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10, margin="0.11,0.06"];
   edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#4d4d4d"];
   tier0 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Organizational"];
   { rank=same; tier0; "MAINTENANCE_INADEQUATE" }
