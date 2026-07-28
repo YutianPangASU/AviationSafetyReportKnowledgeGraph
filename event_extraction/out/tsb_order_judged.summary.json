@@ -1,0 +1,10 @@
+{
+  "tag": "tsb-order",
+  "extraction_file": "event_extraction/out/tsb_order_extraction.jsonl",
+  "n_records_scored": 1219,
+  "n_pairs": 4086,
+  "gold_entry_match_rate": 0.8202,
+  "pooled_kendall_tau": 0.6564,
+  "mean_per_record_tau": 0.7324,
+  "frac_records_tau_ge_0.75": 0.7777
+}
