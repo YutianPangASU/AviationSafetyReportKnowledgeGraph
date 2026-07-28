@@ -26,15 +26,18 @@ TARGET = "LOSS_OF_CONTROL_INFLIGHT"
 
 # Contributing factors (direct causal parents of LOC), tagged by model tier.
 # 'physics' = has a first-principles occurrence model; 'data' = corpus only.
+# Tier tags match Table "Contributing factors of loss of control in flight" in
+# the manuscript: 'physics' has a first-principles occurrence model, 'surrogate'
+# a reliability or hazard-rate stand-in, 'data' the corpus base rate only.
 FACTORS = [
     ("STALL", "physics"),
     ("SPATIAL_DISORIENTATION", "data"),
-    ("CONTROL_SURFACE_ANOMALY", "physics"),
+    ("CONTROL_SURFACE_ANOMALY", "surrogate"),
     ("AIRFRAME_STRUCTURAL_FAILURE", "physics"),
     ("PILOT_INCAPACITATION_OR_IMPAIRMENT", "data"),
     ("TURBULENCE_ENCOUNTER", "physics"),
     ("CONTROL_INPUT_IMPROPER", "data"),
-    ("ENGINE_FAILURE", "data"),
+    ("ENGINE_FAILURE", "surrogate"),
     ("WIND_SHEAR_OR_GUST", "physics"),
     ("DECISION_INAPPROPRIATE", "data"),
 ]
