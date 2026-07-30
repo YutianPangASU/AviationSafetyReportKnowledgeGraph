@@ -28,15 +28,18 @@ plt.rcParams.update({
     "pdf.fonttype": 42,
 })
 
-# --- Wong palette slots ----------------------------------------------------
-WONG_ORANGE = "#E69F00"
-ORANGE_FILL = "#FAF0DC"      # light tint of the orange for box fills
-GREY_EDGE = "#8C8C8C"
-GREY_FILL = "#F2F2F2"
-HUB_FILL = "#D9D9D9"
-INK = "#1A1A1A"
-INK_SUB = "#595959"
-EDGE_COL = "#4D4D4D"
+# --- Okabe-Ito palette, matching the framework figure (fig_framework) ------
+PHYS_EDGE = "#C48700"        # cPhys!85!black
+PHYS_FILL = "#F8E4B8"        # cPhys!28
+DATA_EDGE = "#0072B2"        # cData
+DATA_FILL = "#CCE3F0"        # cData!20
+HUB_EDGE = "#008662"         # cFuse!85!black
+HUB_FILL = "#C2E8DD"         # cFuse!24
+GREY_EDGE = "#78909C"
+GREY_FILL = "#E7EBED"
+INK = "#263238"
+INK_SUB = "#546E7A"
+EDGE_COL = "#546E7A"
 
 WIDTH_IN = 7.087             # 180 mm double column
 
@@ -51,11 +54,11 @@ def factor_box(ax, x, y, w, h, label, model_tag, n, q, tier):
     """One contributing-factor node: label, optional model tag, and the edge
     statistics (n, q) as an in-box line instead of an arrow label."""
     if tier == "phys":
-        fc, ec, lw, ls = ORANGE_FILL, WONG_ORANGE, 1.2, "-"
+        fc, ec, lw, ls = PHYS_FILL, PHYS_EDGE, 1.2, "-"
     elif tier == "surr":
-        fc, ec, lw, ls = "white", WONG_ORANGE, 1.0, (0, (4, 2))
+        fc, ec, lw, ls = "white", PHYS_EDGE, 1.0, (0, (4, 2))
     else:
-        fc, ec, lw, ls = GREY_FILL, GREY_EDGE, 0.7, "-"
+        fc, ec, lw, ls = DATA_FILL, DATA_EDGE, 0.9, "-"
     rbox(ax, x, y, w, h, fc, ec, lw, ls)
     stats = f"$n$ = {n:,}   $q$ = {q:.2f}"
     if model_tag:
@@ -73,7 +76,7 @@ def factor_box(ax, x, y, w, h, label, model_tag, n, q, tier):
 
 
 def hub_box(ax, x, y, w, h, title, substats):
-    rbox(ax, x, y, w, h, HUB_FILL, "black", 1.3)
+    rbox(ax, x, y, w, h, HUB_FILL, HUB_EDGE, 1.3)
     ax.text(x, y + h * 0.16, title, ha="center", va="center",
             fontsize=FS_MAIN, fontweight="bold", color=INK, zorder=4)
     ax.text(x, y - h * 0.26, substats, ha="center", va="center",
@@ -81,7 +84,7 @@ def hub_box(ax, x, y, w, h, title, substats):
 
 
 def outcome_box(ax, x, y, w, h, label, n):
-    rbox(ax, x, y, w, h, GREY_FILL, GREY_EDGE, 0.7)
+    rbox(ax, x, y, w, h, GREY_FILL, GREY_EDGE, 0.8)
     ax.text(x, y + h * 0.18, label, ha="center", va="center",
             fontsize=FS_MAIN, color=INK, zorder=4)
     ax.text(x, y - h * 0.24, f"$n$ = {n:,}", ha="center", va="center",
@@ -103,11 +106,11 @@ def header(ax, x, y, text):
 
 def tier_legend(ax, loc="lower right"):
     ax.legend(handles=[
-        Patch(fc=ORANGE_FILL, ec=WONG_ORANGE, lw=1.2,
+        Patch(fc=PHYS_FILL, ec=PHYS_EDGE, lw=1.2,
               label="physics occurrence model"),
-        Patch(fc="white", ec=WONG_ORANGE, lw=1.0, ls=(0, (4, 2)),
+        Patch(fc="white", ec=PHYS_EDGE, lw=1.0, ls=(0, (4, 2)),
               label="surrogate model"),
-        Patch(fc=GREY_FILL, ec=GREY_EDGE, lw=0.7,
+        Patch(fc=DATA_FILL, ec=DATA_EDGE, lw=0.9,
               label="data only (corpus rate)")],
         loc=loc, fontsize=FS_SUB, frameon=False,
         handlelength=1.6, labelspacing=0.45, borderaxespad=0.2)

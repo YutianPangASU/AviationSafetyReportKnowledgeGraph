@@ -115,11 +115,13 @@ def render(name: str, title: str, edges: list[dict], support_of: dict,
     if title:
         g.append(f'  labelloc="t"; label=<<font face="Times-Roman"'
                  f' point-size="15">{title}</font>>;')
-    g += ['  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7",'
-          ' color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10,'
-          ' margin="0.11,0.06"];',
-          '  edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman",'
-          ' fontsize=8, fontcolor="#4d4d4d"];']
+    # Okabe-Ito data-layer styling, matching the framework figure: blue
+    # fills for the data-learned nodes, blue-grey ink for edges and notes.
+    g += ['  node [shape=box, style="rounded,filled", fillcolor="#CCE3F0",'
+          ' color="#0072B2", penwidth=0.9, fontname="Times-Roman", fontsize=10,'
+          ' fontcolor="#263238", margin="0.11,0.06"];',
+          '  edge [color="#546E7A", arrowsize=0.55, fontname="Times-Roman",'
+          ' fontsize=8, fontcolor="#546E7A"];']
 
     # tier rank groups + left-margin tier captions
     prev_anchor = None
@@ -129,7 +131,7 @@ def render(name: str, title: str, edges: list[dict], support_of: dict,
             continue
         anchor = f"tier{i}"
         g.append(f'  {anchor} [shape=plaintext, style="", fillcolor=none,'
-                 f' fontname="Times-Italic", fontsize=10, fontcolor="#808080",'
+                 f' fontname="Times-Italic", fontsize=10, fontcolor="#78909C",'
                  f' label="{tier_name}"];')
         row = " ".join(f'"{f}"' for f in members)
         g.append(f'  {{ rank=same; {anchor}; {row} }}')
@@ -139,7 +141,7 @@ def render(name: str, title: str, edges: list[dict], support_of: dict,
 
     for f in sorted(used):
         n = support_of.get(f)
-        sub = f'<br/><font point-size="8" color="#808080">n = {n:,}</font>' if n else ""
+        sub = f'<br/><font point-size="8" color="#546E7A">n = {n:,}</font>' if n else ""
         lbl = pretty(f).replace("\n", "<br/>")
         g.append(f'  "{f}" [label=<{lbl}{sub}>];')
 
