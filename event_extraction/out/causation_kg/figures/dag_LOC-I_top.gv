@@ -1,26 +1,26 @@
 digraph G {
   rankdir=TB; splines=spline; nodesep=0.32; ranksep=0.9;
   bgcolor="white";
-  node [shape=box, style="rounded,filled", fillcolor="#f7f7f7", color="#333333", penwidth=0.8, fontname="Times-Roman", fontsize=10, margin="0.11,0.06"];
-  edge [color="#4d4d4d", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#4d4d4d"];
-  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Latent / ambient conditions"];
+  node [shape=box, style="rounded,filled", fillcolor="#CCE3F0", color="#0072B2", penwidth=0.9, fontname="Times-Roman", fontsize=10, fontcolor="#263238", margin="0.11,0.06"];
+  edge [color="#546E7A", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#546E7A"];
+  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Latent / ambient conditions"];
   { rank=same; tier1; "LATENT_MECHANICAL_DEFECT" "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" "HIGH_DENSITY_ALTITUDE" }
-  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Crew & external actions"];
+  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Crew & external actions"];
   { rank=same; tier3; "DECISION_INAPPROPRIATE" "CONTROL_INPUT_IMPROPER" "PROCEDURE_NOT_FOLLOWED" "PERCEPTION_FAILURE" "CREW_COORDINATION_FAILURE" }
   tier1 -> tier3 [style=invis];
-  tier5 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#808080", label="Aerodynamic states"];
+  tier5 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Aerodynamic states"];
   { rank=same; tier5; "STALL" "LOSS_OF_CONTROL_INFLIGHT" }
   tier3 -> tier5 [style=invis];
-  "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" [label=<Weight / balance<br/>out of limits<br/><font point-size="8" color="#808080">n = 224</font>>];
-  "CONTROL_INPUT_IMPROPER" [label=<Control input<br/>improper<br/><font point-size="8" color="#808080">n = 2,601</font>>];
-  "CREW_COORDINATION_FAILURE" [label=<Crew<br/>coordination<br/>failure<br/><font point-size="8" color="#808080">n = 221</font>>];
-  "DECISION_INAPPROPRIATE" [label=<Decision<br/>inappropriate<br/><font point-size="8" color="#808080">n = 1,205</font>>];
-  "HIGH_DENSITY_ALTITUDE" [label=<High density<br/>altitude<br/><font point-size="8" color="#808080">n = 245</font>>];
-  "LATENT_MECHANICAL_DEFECT" [label=<Latent<br/>mechanical<br/>defect<br/><font point-size="8" color="#808080">n = 361</font>>];
-  "LOSS_OF_CONTROL_INFLIGHT" [label=<Loss of control<br/>in flight<br/><font point-size="8" color="#808080">n = 2,937</font>>];
-  "PERCEPTION_FAILURE" [label=<Perception<br/>failure<br/><font point-size="8" color="#808080">n = 311</font>>];
-  "PROCEDURE_NOT_FOLLOWED" [label=<Procedure not<br/>followed<br/><font point-size="8" color="#808080">n = 751</font>>];
-  "STALL" [label=<Stall<br/><font point-size="8" color="#808080">n = 1,911</font>>];
+  "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" [label=<Weight / balance<br/>out of limits<br/><font point-size="8" color="#546E7A">n = 224</font>>];
+  "CONTROL_INPUT_IMPROPER" [label=<Control input<br/>improper<br/><font point-size="8" color="#546E7A">n = 2,601</font>>];
+  "CREW_COORDINATION_FAILURE" [label=<Crew<br/>coordination<br/>failure<br/><font point-size="8" color="#546E7A">n = 221</font>>];
+  "DECISION_INAPPROPRIATE" [label=<Decision<br/>inappropriate<br/><font point-size="8" color="#546E7A">n = 1,205</font>>];
+  "HIGH_DENSITY_ALTITUDE" [label=<High density<br/>altitude<br/><font point-size="8" color="#546E7A">n = 245</font>>];
+  "LATENT_MECHANICAL_DEFECT" [label=<Latent<br/>mechanical<br/>defect<br/><font point-size="8" color="#546E7A">n = 361</font>>];
+  "LOSS_OF_CONTROL_INFLIGHT" [label=<Loss of control<br/>in flight<br/><font point-size="8" color="#546E7A">n = 2,937</font>>];
+  "PERCEPTION_FAILURE" [label=<Perception<br/>failure<br/><font point-size="8" color="#546E7A">n = 311</font>>];
+  "PROCEDURE_NOT_FOLLOWED" [label=<Procedure not<br/>followed<br/><font point-size="8" color="#546E7A">n = 751</font>>];
+  "STALL" [label=<Stall<br/><font point-size="8" color="#546E7A">n = 1,911</font>>];
   "CONTROL_INPUT_IMPROPER" -> "LOSS_OF_CONTROL_INFLIGHT" [penwidth=2.30, style=solid, tooltip="CONTROL_INPUT_IMPROPER -> LOSS_OF_CONTROL_INFLIGHT: support 1,830, stability 0.00"];
   "CONTROL_INPUT_IMPROPER" -> "STALL" [penwidth=2.16, style=solid, tooltip="CONTROL_INPUT_IMPROPER -> STALL: support 1,560, stability 0.00"];
   "STALL" -> "LOSS_OF_CONTROL_INFLIGHT" [penwidth=2.08, style=solid, tooltip="STALL -> LOSS_OF_CONTROL_INFLIGHT: support 1,407, stability 0.00"];

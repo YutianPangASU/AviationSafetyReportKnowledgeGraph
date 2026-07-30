@@ -12,207 +12,207 @@
 <!-- tier0 -->
 <g id="node1" class="node">
 <title>tier0</title>
-<text xml:space="preserve" text-anchor="middle" x="77.67" y="-441.75" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#808080">Organizational</text>
+<text xml:space="preserve" text-anchor="middle" x="77.67" y="-441.75" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#78909c">Organizational</text>
 </g>
 <!-- tier1 -->
 <g id="node3" class="node">
 <title>tier1</title>
-<text xml:space="preserve" text-anchor="middle" x="77.67" y="-335.12" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#808080">Latent / ambient conditions</text>
+<text xml:space="preserve" text-anchor="middle" x="77.67" y="-335.12" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#78909c">Latent / ambient conditions</text>
 </g>
 <!-- tier0&#45;&gt;tier1 -->
 <!-- MAINTENANCE_INADEQUATE -->
 <g id="node2" class="node">
 <title>MAINTENANCE_INADEQUATE</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M461.97,-463.2C461.97,-463.2 403.38,-463.2 403.38,-463.2 397.38,-463.2 391.38,-457.2 391.38,-451.2 391.38,-451.2 391.38,-438.56 391.38,-438.56 391.38,-432.56 397.38,-426.56 403.38,-426.56 403.38,-426.56 461.97,-426.56 461.97,-426.56 467.97,-426.56 473.97,-432.56 473.97,-438.56 473.97,-438.56 473.97,-451.2 473.97,-451.2 473.97,-457.2 467.97,-463.2 461.97,-463.2"/>
-<text xml:space="preserve" text-anchor="start" x="399.3" y="-450.38" font-family="Times,serif" font-size="10.00">Maintenance</text>
-<text xml:space="preserve" text-anchor="start" x="403.8" y="-440.38" font-family="Times,serif" font-size="10.00">inadequate</text>
-<text xml:space="preserve" text-anchor="start" x="416.55" y="-432.28" font-family="Times,serif" font-size="8.00" fill="#808080">n = 721</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M461.97,-463.2C461.97,-463.2 403.38,-463.2 403.38,-463.2 397.38,-463.2 391.38,-457.2 391.38,-451.2 391.38,-451.2 391.38,-438.56 391.38,-438.56 391.38,-432.56 397.38,-426.56 403.38,-426.56 403.38,-426.56 461.97,-426.56 461.97,-426.56 467.97,-426.56 473.97,-432.56 473.97,-438.56 473.97,-438.56 473.97,-451.2 473.97,-451.2 473.97,-457.2 467.97,-463.2 461.97,-463.2"/>
+<text xml:space="preserve" text-anchor="start" x="399.3" y="-450.38" font-family="Times,serif" font-size="10.00" fill="#263238">Maintenance</text>
+<text xml:space="preserve" text-anchor="start" x="403.8" y="-440.38" font-family="Times,serif" font-size="10.00" fill="#263238">inadequate</text>
+<text xml:space="preserve" text-anchor="start" x="416.55" y="-432.28" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 721</text>
 </g>
 <!-- LATENT_MECHANICAL_DEFECT -->
 <g id="node4" class="node">
 <title>LATENT_MECHANICAL_DEFECT</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M392.47,-361.56C392.47,-361.56 342.88,-361.56 342.88,-361.56 336.88,-361.56 330.88,-355.56 330.88,-349.56 330.88,-349.56 330.88,-326.92 330.88,-326.92 330.88,-320.92 336.88,-314.92 342.88,-314.92 342.88,-314.92 392.47,-314.92 392.47,-314.92 398.47,-314.92 404.47,-320.92 404.47,-326.92 404.47,-326.92 404.47,-349.56 404.47,-349.56 404.47,-355.56 398.47,-361.56 392.47,-361.56"/>
-<text xml:space="preserve" text-anchor="start" x="351.17" y="-348.74" font-family="Times,serif" font-size="10.00">Latent</text>
-<text xml:space="preserve" text-anchor="start" x="338.8" y="-338.74" font-family="Times,serif" font-size="10.00">mechanical</text>
-<text xml:space="preserve" text-anchor="start" x="351.92" y="-328.74" font-family="Times,serif" font-size="10.00">defect</text>
-<text xml:space="preserve" text-anchor="start" x="351.55" y="-320.64" font-family="Times,serif" font-size="8.00" fill="#808080">n = 846</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M392.47,-361.56C392.47,-361.56 342.88,-361.56 342.88,-361.56 336.88,-361.56 330.88,-355.56 330.88,-349.56 330.88,-349.56 330.88,-326.92 330.88,-326.92 330.88,-320.92 336.88,-314.92 342.88,-314.92 342.88,-314.92 392.47,-314.92 392.47,-314.92 398.47,-314.92 404.47,-320.92 404.47,-326.92 404.47,-326.92 404.47,-349.56 404.47,-349.56 404.47,-355.56 398.47,-361.56 392.47,-361.56"/>
+<text xml:space="preserve" text-anchor="start" x="351.17" y="-348.74" font-family="Times,serif" font-size="10.00" fill="#263238">Latent</text>
+<text xml:space="preserve" text-anchor="start" x="338.8" y="-338.74" font-family="Times,serif" font-size="10.00" fill="#263238">mechanical</text>
+<text xml:space="preserve" text-anchor="start" x="351.92" y="-328.74" font-family="Times,serif" font-size="10.00" fill="#263238">defect</text>
+<text xml:space="preserve" text-anchor="start" x="351.55" y="-320.64" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 846</text>
 </g>
 <!-- MAINTENANCE_INADEQUATE&#45;&gt;LATENT_MECHANICAL_DEFECT -->
 <g id="edge5" class="edge">
 <title>MAINTENANCE_INADEQUATE&#45;&gt;LATENT_MECHANICAL_DEFECT</title>
 <g id="a_edge5"><a xlink:title="MAINTENANCE_INADEQUATE &#45;&gt; LATENT_MECHANICAL_DEFECT: support 428, stability 0.37">
-<path fill="none" stroke="#4d4d4d" stroke-width="2.3" d="M421.94,-426.6C412.2,-410.92 397.63,-387.47 386.04,-368.81"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="2.3" points="387.97,-368.27 383.43,-364.62 384.7,-370.3 387.97,-368.27"/>
+<path fill="none" stroke="#546e7a" stroke-width="2.3" d="M421.64,-426.13C412.01,-410.62 397.82,-387.77 386.4,-369.4"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="2.3" points="388.08,-368.45 383.54,-364.79 384.81,-370.48 388.08,-368.45"/>
 </a>
 </g>
 </g>
 <!-- CONTROL_INPUT_IMPROPER -->
 <g id="node7" class="node">
 <title>CONTROL_INPUT_IMPROPER</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M585.34,-249.92C585.34,-249.92 526,-249.92 526,-249.92 520,-249.92 514,-243.92 514,-237.92 514,-237.92 514,-225.28 514,-225.28 514,-219.28 520,-213.28 526,-213.28 526,-213.28 585.34,-213.28 585.34,-213.28 591.34,-213.28 597.34,-219.28 597.34,-225.28 597.34,-225.28 597.34,-237.92 597.34,-237.92 597.34,-243.92 591.34,-249.92 585.34,-249.92"/>
-<text xml:space="preserve" text-anchor="start" x="521.92" y="-237.1" font-family="Times,serif" font-size="10.00">Control input</text>
-<text xml:space="preserve" text-anchor="start" x="532.05" y="-227.1" font-family="Times,serif" font-size="10.00">improper</text>
-<text xml:space="preserve" text-anchor="start" x="539.55" y="-219" font-family="Times,serif" font-size="8.00" fill="#808080">n = 400</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M585.34,-249.92C585.34,-249.92 526,-249.92 526,-249.92 520,-249.92 514,-243.92 514,-237.92 514,-237.92 514,-225.28 514,-225.28 514,-219.28 520,-213.28 526,-213.28 526,-213.28 585.34,-213.28 585.34,-213.28 591.34,-213.28 597.34,-219.28 597.34,-225.28 597.34,-225.28 597.34,-237.92 597.34,-237.92 597.34,-243.92 591.34,-249.92 585.34,-249.92"/>
+<text xml:space="preserve" text-anchor="start" x="521.92" y="-237.1" font-family="Times,serif" font-size="10.00" fill="#263238">Control input</text>
+<text xml:space="preserve" text-anchor="start" x="532.05" y="-227.1" font-family="Times,serif" font-size="10.00" fill="#263238">improper</text>
+<text xml:space="preserve" text-anchor="start" x="539.55" y="-219" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 400</text>
 </g>
 <!-- MAINTENANCE_INADEQUATE&#45;&gt;CONTROL_INPUT_IMPROPER -->
 <g id="edge12" class="edge">
 <title>MAINTENANCE_INADEQUATE&#45;&gt;CONTROL_INPUT_IMPROPER</title>
 <g id="a_edge12"><a xlink:title="MAINTENANCE_INADEQUATE &#45;&gt; CONTROL_INPUT_IMPROPER: support 123, stability 0.40">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.46" d="M442.95,-426.23C464.98,-388.38 516.78,-299.4 541.74,-256.52"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.46" points="543.3,-257.68 544.4,-251.96 539.97,-255.75 543.3,-257.68"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.46" d="M442.95,-426.23C464.92,-388.48 516.52,-299.84 541.56,-256.84"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.46" points="543.12,-257.98 544.23,-252.26 539.79,-256.04 543.12,-257.98"/>
 </a>
 </g>
 </g>
 <!-- tier3 -->
 <g id="node5" class="node">
 <title>tier3</title>
-<text xml:space="preserve" text-anchor="middle" x="77.67" y="-228.48" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#808080">Crew &amp; external actions</text>
+<text xml:space="preserve" text-anchor="middle" x="77.67" y="-228.48" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#78909c">Crew &amp; external actions</text>
 </g>
 <!-- tier1&#45;&gt;tier3 -->
 <!-- DECISION_INAPPROPRIATE -->
 <g id="node6" class="node">
 <title>DECISION_INAPPROPRIATE</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M320.47,-249.92C320.47,-249.92 258.88,-249.92 258.88,-249.92 252.88,-249.92 246.88,-243.92 246.88,-237.92 246.88,-237.92 246.88,-225.28 246.88,-225.28 246.88,-219.28 252.88,-213.28 258.88,-213.28 258.88,-213.28 320.47,-213.28 320.47,-213.28 326.47,-213.28 332.47,-219.28 332.47,-225.28 332.47,-225.28 332.47,-237.92 332.47,-237.92 332.47,-243.92 326.47,-249.92 320.47,-249.92"/>
-<text xml:space="preserve" text-anchor="start" x="267.92" y="-237.1" font-family="Times,serif" font-size="10.00">Decision</text>
-<text xml:space="preserve" text-anchor="start" x="254.8" y="-227.1" font-family="Times,serif" font-size="10.00">inappropriate</text>
-<text xml:space="preserve" text-anchor="start" x="273.55" y="-219" font-family="Times,serif" font-size="8.00" fill="#808080">n = 562</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M320.47,-249.92C320.47,-249.92 258.88,-249.92 258.88,-249.92 252.88,-249.92 246.88,-243.92 246.88,-237.92 246.88,-237.92 246.88,-225.28 246.88,-225.28 246.88,-219.28 252.88,-213.28 258.88,-213.28 258.88,-213.28 320.47,-213.28 320.47,-213.28 326.47,-213.28 332.47,-219.28 332.47,-225.28 332.47,-225.28 332.47,-237.92 332.47,-237.92 332.47,-243.92 326.47,-249.92 320.47,-249.92"/>
+<text xml:space="preserve" text-anchor="start" x="267.92" y="-237.1" font-family="Times,serif" font-size="10.00" fill="#263238">Decision</text>
+<text xml:space="preserve" text-anchor="start" x="254.8" y="-227.1" font-family="Times,serif" font-size="10.00" fill="#263238">inappropriate</text>
+<text xml:space="preserve" text-anchor="start" x="273.55" y="-219" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 562</text>
 </g>
 <!-- LATENT_MECHANICAL_DEFECT&#45;&gt;DECISION_INAPPROPRIATE -->
 <g id="edge7" class="edge">
 <title>LATENT_MECHANICAL_DEFECT&#45;&gt;DECISION_INAPPROPRIATE</title>
 <g id="a_edge7"><a xlink:title="LATENT_MECHANICAL_DEFECT &#45;&gt; DECISION_INAPPROPRIATE: support 204, stability 0.67">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.74" d="M350.75,-314.53C337.9,-297.3 320.28,-273.66 307.27,-256.21"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.74" points="309.1,-255.45 304.27,-252.19 306.02,-257.75 309.1,-255.45"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.74" d="M350.75,-314.53C337.9,-297.3 320.28,-273.66 307.27,-256.21"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.74" points="309.1,-255.45 304.27,-252.19 306.02,-257.75 309.1,-255.45"/>
 </a>
 </g>
 </g>
 <!-- OTHER_SYSTEM_FAILURE -->
 <g id="node14" class="node">
 <title>OTHER_SYSTEM_FAILURE</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M397.72,-143.28C397.72,-143.28 337.62,-143.28 337.62,-143.28 331.62,-143.28 325.62,-137.28 325.62,-131.28 325.62,-131.28 325.62,-118.64 325.62,-118.64 325.62,-112.64 331.62,-106.64 337.62,-106.64 337.62,-106.64 397.72,-106.64 397.72,-106.64 403.72,-106.64 409.72,-112.64 409.72,-118.64 409.72,-118.64 409.72,-131.28 409.72,-131.28 409.72,-137.28 403.72,-143.28 397.72,-143.28"/>
-<text xml:space="preserve" text-anchor="start" x="333.55" y="-130.46" font-family="Times,serif" font-size="10.00">Other system</text>
-<text xml:space="preserve" text-anchor="start" x="351.17" y="-120.46" font-family="Times,serif" font-size="10.00">failure</text>
-<text xml:space="preserve" text-anchor="start" x="351.55" y="-112.36" font-family="Times,serif" font-size="8.00" fill="#808080">n = 573</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M397.72,-143.28C397.72,-143.28 337.62,-143.28 337.62,-143.28 331.62,-143.28 325.62,-137.28 325.62,-131.28 325.62,-131.28 325.62,-118.64 325.62,-118.64 325.62,-112.64 331.62,-106.64 337.62,-106.64 337.62,-106.64 397.72,-106.64 397.72,-106.64 403.72,-106.64 409.72,-112.64 409.72,-118.64 409.72,-118.64 409.72,-131.28 409.72,-131.28 409.72,-137.28 403.72,-143.28 397.72,-143.28"/>
+<text xml:space="preserve" text-anchor="start" x="333.55" y="-130.46" font-family="Times,serif" font-size="10.00" fill="#263238">Other system</text>
+<text xml:space="preserve" text-anchor="start" x="351.17" y="-120.46" font-family="Times,serif" font-size="10.00" fill="#263238">failure</text>
+<text xml:space="preserve" text-anchor="start" x="351.55" y="-112.36" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 573</text>
 </g>
 <!-- LATENT_MECHANICAL_DEFECT&#45;&gt;OTHER_SYSTEM_FAILURE -->
 <g id="edge10" class="edge">
 <title>LATENT_MECHANICAL_DEFECT&#45;&gt;OTHER_SYSTEM_FAILURE</title>
 <g id="a_edge10"><a xlink:title="LATENT_MECHANICAL_DEFECT &#45;&gt; OTHER_SYSTEM_FAILURE: support 161, stability 0.97">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.6" d="M367.67,-314.63C367.67,-274.91 367.67,-192.88 367.67,-151.31"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.6" points="369.6,-151.48 367.67,-145.98 365.75,-151.48 369.6,-151.48"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.6" d="M367.67,-314.63C367.67,-274.91 367.67,-192.88 367.67,-151.31"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.6" points="369.6,-151.48 367.67,-145.98 365.75,-151.48 369.6,-151.48"/>
 </a>
 </g>
 </g>
 <!-- tier4 -->
 <g id="node9" class="node">
 <title>tier4</title>
-<text xml:space="preserve" text-anchor="middle" x="77.67" y="-121.84" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#808080">Aircraft system failures</text>
+<text xml:space="preserve" text-anchor="middle" x="77.67" y="-121.84" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#78909c">Aircraft system failures</text>
 </g>
 <!-- tier3&#45;&gt;tier4 -->
 <!-- PROCEDURE_NOT_FOLLOWED -->
 <g id="node8" class="node">
 <title>PROCEDURE_NOT_FOLLOWED</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M478.59,-249.92C478.59,-249.92 414.75,-249.92 414.75,-249.92 408.75,-249.92 402.75,-243.92 402.75,-237.92 402.75,-237.92 402.75,-225.28 402.75,-225.28 402.75,-219.28 408.75,-213.28 414.75,-213.28 414.75,-213.28 478.59,-213.28 478.59,-213.28 484.59,-213.28 490.59,-219.28 490.59,-225.28 490.59,-225.28 490.59,-237.92 490.59,-237.92 490.59,-243.92 484.59,-249.92 478.59,-249.92"/>
-<text xml:space="preserve" text-anchor="start" x="410.67" y="-237.1" font-family="Times,serif" font-size="10.00">Procedure not</text>
-<text xml:space="preserve" text-anchor="start" x="425.3" y="-227.1" font-family="Times,serif" font-size="10.00">followed</text>
-<text xml:space="preserve" text-anchor="start" x="430.55" y="-219" font-family="Times,serif" font-size="8.00" fill="#808080">n = 534</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M478.59,-249.92C478.59,-249.92 414.75,-249.92 414.75,-249.92 408.75,-249.92 402.75,-243.92 402.75,-237.92 402.75,-237.92 402.75,-225.28 402.75,-225.28 402.75,-219.28 408.75,-213.28 414.75,-213.28 414.75,-213.28 478.59,-213.28 478.59,-213.28 484.59,-213.28 490.59,-219.28 490.59,-225.28 490.59,-225.28 490.59,-237.92 490.59,-237.92 490.59,-243.92 484.59,-249.92 478.59,-249.92"/>
+<text xml:space="preserve" text-anchor="start" x="410.67" y="-237.1" font-family="Times,serif" font-size="10.00" fill="#263238">Procedure not</text>
+<text xml:space="preserve" text-anchor="start" x="425.3" y="-227.1" font-family="Times,serif" font-size="10.00" fill="#263238">followed</text>
+<text xml:space="preserve" text-anchor="start" x="430.55" y="-219" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 534</text>
 </g>
 <!-- PROCEDURE_NOT_FOLLOWED&#45;&gt;CONTROL_INPUT_IMPROPER -->
 <g id="edge15" class="edge">
 <title>PROCEDURE_NOT_FOLLOWED&#45;&gt;CONTROL_INPUT_IMPROPER</title>
 <g id="a_edge15"><a xlink:title="PROCEDURE_NOT_FOLLOWED &#45;&gt; CONTROL_INPUT_IMPROPER: support 82, stability 0.80">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.29" d="M490.95,-231.6C496.17,-231.6 501.38,-231.6 506.59,-231.6"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.29" points="506.25,-233.53 511.75,-231.6 506.25,-229.68 506.25,-233.53"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.29" d="M490.95,-231.6C496.17,-231.6 501.38,-231.6 506.59,-231.6"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.29" points="506.25,-233.53 511.75,-231.6 506.25,-229.68 506.25,-233.53"/>
 </a>
 </g>
 </g>
 <!-- AIRFRAME_STRUCTURAL_FAILURE -->
 <g id="node11" class="node">
 <title>AIRFRAME_STRUCTURAL_FAILURE</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M710.34,-148.28C710.34,-148.28 669,-148.28 669,-148.28 663,-148.28 657,-142.28 657,-136.28 657,-136.28 657,-113.64 657,-113.64 657,-107.64 663,-101.64 669,-101.64 669,-101.64 710.34,-101.64 710.34,-101.64 716.34,-101.64 722.34,-107.64 722.34,-113.64 722.34,-113.64 722.34,-136.28 722.34,-136.28 722.34,-142.28 716.34,-148.28 710.34,-148.28"/>
-<text xml:space="preserve" text-anchor="start" x="667.17" y="-135.46" font-family="Times,serif" font-size="10.00">Airframe</text>
-<text xml:space="preserve" text-anchor="start" x="664.92" y="-125.46" font-family="Times,serif" font-size="10.00">structural</text>
-<text xml:space="preserve" text-anchor="start" x="673.17" y="-115.46" font-family="Times,serif" font-size="10.00">failure</text>
-<text xml:space="preserve" text-anchor="start" x="673.55" y="-107.36" font-family="Times,serif" font-size="8.00" fill="#808080">n = 454</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M710.34,-148.28C710.34,-148.28 669,-148.28 669,-148.28 663,-148.28 657,-142.28 657,-136.28 657,-136.28 657,-113.64 657,-113.64 657,-107.64 663,-101.64 669,-101.64 669,-101.64 710.34,-101.64 710.34,-101.64 716.34,-101.64 722.34,-107.64 722.34,-113.64 722.34,-113.64 722.34,-136.28 722.34,-136.28 722.34,-142.28 716.34,-148.28 710.34,-148.28"/>
+<text xml:space="preserve" text-anchor="start" x="667.17" y="-135.46" font-family="Times,serif" font-size="10.00" fill="#263238">Airframe</text>
+<text xml:space="preserve" text-anchor="start" x="664.92" y="-125.46" font-family="Times,serif" font-size="10.00" fill="#263238">structural</text>
+<text xml:space="preserve" text-anchor="start" x="673.17" y="-115.46" font-family="Times,serif" font-size="10.00" fill="#263238">failure</text>
+<text xml:space="preserve" text-anchor="start" x="673.55" y="-107.36" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 454</text>
 </g>
 <!-- PROCEDURE_NOT_FOLLOWED&#45;&gt;AIRFRAME_STRUCTURAL_FAILURE -->
 <g id="edge16" class="edge">
 <title>PROCEDURE_NOT_FOLLOWED&#45;&gt;AIRFRAME_STRUCTURAL_FAILURE</title>
 <g id="a_edge16"><a xlink:title="PROCEDURE_NOT_FOLLOWED &#45;&gt; AIRFRAME_STRUCTURAL_FAILURE: support 72, stability 0.07">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.24" d="M490.96,-213.42C531.57,-197.39 593.18,-172.4 645.67,-148.28 647.12,-147.61 648.6,-146.92 650.09,-146.22"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.24" points="650.84,-147.99 654.96,-143.87 649.17,-144.52 650.84,-147.99"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.24" d="M490.96,-213.42C531.57,-197.39 593.18,-172.4 645.67,-148.28 647.12,-147.61 648.6,-146.92 650.09,-146.22"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.24" points="650.84,-147.99 654.96,-143.87 649.17,-144.52 650.84,-147.99"/>
 </a>
 </g>
 </g>
 <!-- tier5 -->
 <g id="node15" class="node">
 <title>tier5</title>
-<text xml:space="preserve" text-anchor="middle" x="77.67" y="-15.2" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#808080">Aerodynamic states</text>
+<text xml:space="preserve" text-anchor="middle" x="77.67" y="-15.2" font-family="Times,serif" font-style="italic" font-size="10.00" fill="#78909c">Aerodynamic states</text>
 </g>
 <!-- tier4&#45;&gt;tier5 -->
 <!-- ENGINE_FAILURE -->
 <g id="node10" class="node">
 <title>ENGINE_FAILURE</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M243.97,-142.96C243.97,-142.96 179.38,-142.96 179.38,-142.96 173.38,-142.96 167.38,-136.96 167.38,-130.96 167.38,-130.96 167.38,-118.96 167.38,-118.96 167.38,-112.96 173.38,-106.96 179.38,-106.96 179.38,-106.96 243.97,-106.96 243.97,-106.96 249.97,-106.96 255.97,-112.96 255.97,-118.96 255.97,-118.96 255.97,-130.96 255.97,-130.96 255.97,-136.96 249.97,-142.96 243.97,-142.96"/>
-<text xml:space="preserve" text-anchor="start" x="175.3" y="-125.46" font-family="Times,serif" font-size="10.00">Engine failure</text>
-<text xml:space="preserve" text-anchor="start" x="195.55" y="-117.36" font-family="Times,serif" font-size="8.00" fill="#808080">n = 252</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M243.97,-142.96C243.97,-142.96 179.38,-142.96 179.38,-142.96 173.38,-142.96 167.38,-136.96 167.38,-130.96 167.38,-130.96 167.38,-118.96 167.38,-118.96 167.38,-112.96 173.38,-106.96 179.38,-106.96 179.38,-106.96 243.97,-106.96 243.97,-106.96 249.97,-106.96 255.97,-112.96 255.97,-118.96 255.97,-118.96 255.97,-130.96 255.97,-130.96 255.97,-136.96 249.97,-142.96 243.97,-142.96"/>
+<text xml:space="preserve" text-anchor="start" x="175.3" y="-125.46" font-family="Times,serif" font-size="10.00" fill="#263238">Engine failure</text>
+<text xml:space="preserve" text-anchor="start" x="195.55" y="-117.36" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 252</text>
 </g>
 <!-- ENGINE_FAILURE&#45;&gt;DECISION_INAPPROPRIATE -->
 <g id="edge11" class="edge">
 <title>ENGINE_FAILURE&#45;&gt;DECISION_INAPPROPRIATE</title>
 <g id="a_edge11"><a xlink:title="ENGINE_FAILURE &#45;&gt; DECISION_INAPPROPRIATE: support 133, stability 0.83">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.5" d="M224.57,-143.26C237.62,-160.77 257.87,-187.94 272.32,-207.32"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.5" points="270.6,-208.24 275.43,-211.5 273.69,-205.94 270.6,-208.24"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.5" d="M224.45,-143.1C237.38,-160.45 257.49,-187.42 271.95,-206.83"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.5" points="270.25,-207.77 275.08,-211.03 273.34,-205.47 270.25,-207.77"/>
 </a>
 </g>
 </g>
 <!-- CONTROL_SURFACE_ANOMALY -->
 <g id="node12" class="node">
 <title>CONTROL_SURFACE_ANOMALY</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M514.59,-143.28C514.59,-143.28 444.75,-143.28 444.75,-143.28 438.75,-143.28 432.75,-137.28 432.75,-131.28 432.75,-131.28 432.75,-118.64 432.75,-118.64 432.75,-112.64 438.75,-106.64 444.75,-106.64 444.75,-106.64 514.59,-106.64 514.59,-106.64 520.59,-106.64 526.59,-112.64 526.59,-118.64 526.59,-118.64 526.59,-131.28 526.59,-131.28 526.59,-137.28 520.59,-143.28 514.59,-143.28"/>
-<text xml:space="preserve" text-anchor="start" x="440.67" y="-130.46" font-family="Times,serif" font-size="10.00">Control surface</text>
-<text xml:space="preserve" text-anchor="start" x="457.92" y="-120.46" font-family="Times,serif" font-size="10.00">anomaly</text>
-<text xml:space="preserve" text-anchor="start" x="463.55" y="-112.36" font-family="Times,serif" font-size="8.00" fill="#808080">n = 387</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M514.59,-143.28C514.59,-143.28 444.75,-143.28 444.75,-143.28 438.75,-143.28 432.75,-137.28 432.75,-131.28 432.75,-131.28 432.75,-118.64 432.75,-118.64 432.75,-112.64 438.75,-106.64 444.75,-106.64 444.75,-106.64 514.59,-106.64 514.59,-106.64 520.59,-106.64 526.59,-112.64 526.59,-118.64 526.59,-118.64 526.59,-131.28 526.59,-131.28 526.59,-137.28 520.59,-143.28 514.59,-143.28"/>
+<text xml:space="preserve" text-anchor="start" x="440.67" y="-130.46" font-family="Times,serif" font-size="10.00" fill="#263238">Control surface</text>
+<text xml:space="preserve" text-anchor="start" x="457.92" y="-120.46" font-family="Times,serif" font-size="10.00" fill="#263238">anomaly</text>
+<text xml:space="preserve" text-anchor="start" x="463.55" y="-112.36" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 387</text>
 </g>
 <!-- LOSS_OF_CONTROL_INFLIGHT -->
 <g id="node16" class="node">
 <title>LOSS_OF_CONTROL_INFLIGHT</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M417.72,-36.64C417.72,-36.64 351.62,-36.64 351.62,-36.64 345.62,-36.64 339.62,-30.64 339.62,-24.64 339.62,-24.64 339.62,-12 339.62,-12 339.62,-6 345.62,0 351.62,0 351.62,0 417.72,0 417.72,0 423.72,0 429.72,-6 429.72,-12 429.72,-12 429.72,-24.64 429.72,-24.64 429.72,-30.64 423.72,-36.64 417.72,-36.64"/>
-<text xml:space="preserve" text-anchor="start" x="347.55" y="-23.82" font-family="Times,serif" font-size="10.00">Loss of control</text>
-<text xml:space="preserve" text-anchor="start" x="364.8" y="-13.82" font-family="Times,serif" font-size="10.00">in flight</text>
-<text xml:space="preserve" text-anchor="start" x="368.55" y="-5.72" font-family="Times,serif" font-size="8.00" fill="#808080">n = 514</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M417.72,-36.64C417.72,-36.64 351.62,-36.64 351.62,-36.64 345.62,-36.64 339.62,-30.64 339.62,-24.64 339.62,-24.64 339.62,-12 339.62,-12 339.62,-6 345.62,0 351.62,0 351.62,0 417.72,0 417.72,0 423.72,0 429.72,-6 429.72,-12 429.72,-12 429.72,-24.64 429.72,-24.64 429.72,-30.64 423.72,-36.64 417.72,-36.64"/>
+<text xml:space="preserve" text-anchor="start" x="347.55" y="-23.82" font-family="Times,serif" font-size="10.00" fill="#263238">Loss of control</text>
+<text xml:space="preserve" text-anchor="start" x="364.8" y="-13.82" font-family="Times,serif" font-size="10.00" fill="#263238">in flight</text>
+<text xml:space="preserve" text-anchor="start" x="368.55" y="-5.72" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 514</text>
 </g>
 <!-- CONTROL_SURFACE_ANOMALY&#45;&gt;LOSS_OF_CONTROL_INFLIGHT -->
 <g id="edge8" class="edge">
 <title>CONTROL_SURFACE_ANOMALY&#45;&gt;LOSS_OF_CONTROL_INFLIGHT</title>
 <g id="a_edge8"><a xlink:title="CONTROL_SURFACE_ANOMALY &#45;&gt; LOSS_OF_CONTROL_INFLIGHT: support 172, stability 0.10">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.64" d="M463.98,-106.68C448.13,-89.22 423.52,-62.11 405.92,-42.72"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.64" points="407.49,-41.59 402.37,-38.81 404.64,-44.18 407.49,-41.59"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.64" d="M463.55,-106.21C447.63,-88.67 423.18,-61.74 405.72,-42.51"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.64" points="407.34,-41.42 402.22,-38.65 404.49,-44.01 407.34,-41.42"/>
 </a>
 </g>
 </g>
 <!-- LANDING_GEAR_ANOMALY -->
 <g id="node13" class="node">
 <title>LANDING_GEAR_ANOMALY</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M622.09,-143.28C622.09,-143.28 561.25,-143.28 561.25,-143.28 555.25,-143.28 549.25,-137.28 549.25,-131.28 549.25,-131.28 549.25,-118.64 549.25,-118.64 549.25,-112.64 555.25,-106.64 561.25,-106.64 561.25,-106.64 622.09,-106.64 622.09,-106.64 628.09,-106.64 634.09,-112.64 634.09,-118.64 634.09,-118.64 634.09,-131.28 634.09,-131.28 634.09,-137.28 628.09,-143.28 622.09,-143.28"/>
-<text xml:space="preserve" text-anchor="start" x="557.17" y="-130.46" font-family="Times,serif" font-size="10.00">Landing gear</text>
-<text xml:space="preserve" text-anchor="start" x="569.92" y="-120.46" font-family="Times,serif" font-size="10.00">anomaly</text>
-<text xml:space="preserve" text-anchor="start" x="575.55" y="-112.36" font-family="Times,serif" font-size="8.00" fill="#808080">n = 504</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M622.09,-143.28C622.09,-143.28 561.25,-143.28 561.25,-143.28 555.25,-143.28 549.25,-137.28 549.25,-131.28 549.25,-131.28 549.25,-118.64 549.25,-118.64 549.25,-112.64 555.25,-106.64 561.25,-106.64 561.25,-106.64 622.09,-106.64 622.09,-106.64 628.09,-106.64 634.09,-112.64 634.09,-118.64 634.09,-118.64 634.09,-131.28 634.09,-131.28 634.09,-137.28 628.09,-143.28 622.09,-143.28"/>
+<text xml:space="preserve" text-anchor="start" x="557.17" y="-130.46" font-family="Times,serif" font-size="10.00" fill="#263238">Landing gear</text>
+<text xml:space="preserve" text-anchor="start" x="569.92" y="-120.46" font-family="Times,serif" font-size="10.00" fill="#263238">anomaly</text>
+<text xml:space="preserve" text-anchor="start" x="575.55" y="-112.36" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 504</text>
 </g>
 <!-- LOSS_OF_CONTROL_GROUND -->
 <g id="node17" class="node">
 <title>LOSS_OF_CONTROL_GROUND</title>
-<path fill="#f7f7f7" stroke="#333333" stroke-width="0.8" d="M624.72,-36.64C624.72,-36.64 558.63,-36.64 558.63,-36.64 552.63,-36.64 546.63,-30.64 546.63,-24.64 546.63,-24.64 546.63,-12 546.63,-12 546.63,-6 552.63,0 558.63,0 558.63,0 624.72,0 624.72,0 630.72,0 636.72,-6 636.72,-12 636.72,-12 636.72,-24.64 636.72,-24.64 636.72,-30.64 630.72,-36.64 624.72,-36.64"/>
-<text xml:space="preserve" text-anchor="start" x="554.55" y="-23.82" font-family="Times,serif" font-size="10.00">Loss of control</text>
-<text xml:space="preserve" text-anchor="start" x="565.05" y="-13.82" font-family="Times,serif" font-size="10.00">on ground</text>
-<text xml:space="preserve" text-anchor="start" x="575.55" y="-5.72" font-family="Times,serif" font-size="8.00" fill="#808080">n = 257</text>
+<path fill="#cce3f0" stroke="#0072b2" stroke-width="0.9" d="M624.72,-36.64C624.72,-36.64 558.63,-36.64 558.63,-36.64 552.63,-36.64 546.63,-30.64 546.63,-24.64 546.63,-24.64 546.63,-12 546.63,-12 546.63,-6 552.63,0 558.63,0 558.63,0 624.72,0 624.72,0 630.72,0 636.72,-6 636.72,-12 636.72,-12 636.72,-24.64 636.72,-24.64 636.72,-30.64 630.72,-36.64 624.72,-36.64"/>
+<text xml:space="preserve" text-anchor="start" x="554.55" y="-23.82" font-family="Times,serif" font-size="10.00" fill="#263238">Loss of control</text>
+<text xml:space="preserve" text-anchor="start" x="565.05" y="-13.82" font-family="Times,serif" font-size="10.00" fill="#263238">on ground</text>
+<text xml:space="preserve" text-anchor="start" x="575.55" y="-5.72" font-family="Times,serif" font-size="8.00" fill="#546e7a">n = 257</text>
 </g>
 <!-- LANDING_GEAR_ANOMALY&#45;&gt;LOSS_OF_CONTROL_GROUND -->
 <g id="edge9" class="edge">
 <title>LANDING_GEAR_ANOMALY&#45;&gt;LOSS_OF_CONTROL_GROUND</title>
 <g id="a_edge9"><a xlink:title="LANDING_GEAR_ANOMALY &#45;&gt; LOSS_OF_CONTROL_GROUND: support 163, stability 0.57">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.61" d="M591.67,-106.68C591.67,-89.82 591.67,-63.97 591.67,-44.76"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.61" points="593.6,-44.91 591.67,-39.41 589.75,-44.91 593.6,-44.91"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.61" d="M591.67,-106.21C591.67,-89.27 591.67,-63.58 591.67,-44.52"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.61" points="593.6,-44.75 591.67,-39.25 589.75,-44.75 593.6,-44.75"/>
 </a>
 </g>
 </g>
@@ -220,8 +220,8 @@
 <g id="edge6" class="edge">
 <title>OTHER_SYSTEM_FAILURE&#45;&gt;PROCEDURE_NOT_FOLLOWED</title>
 <g id="a_edge6"><a xlink:title="OTHER_SYSTEM_FAILURE &#45;&gt; PROCEDURE_NOT_FOLLOWED: support 220, stability 0.53">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.79" d="M381,-143.61C394.12,-160.99 414.23,-187.64 428.75,-206.86"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.79" points="427.14,-207.93 431.99,-211.16 430.21,-205.61 427.14,-207.93"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.79" d="M380.87,-143.45C393.88,-160.67 413.85,-187.12 428.38,-206.37"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.79" points="426.79,-207.46 431.64,-210.69 429.86,-205.14 426.79,-207.46"/>
 </a>
 </g>
 </g>
@@ -229,8 +229,8 @@
 <g id="edge14" class="edge">
 <title>OTHER_SYSTEM_FAILURE&#45;&gt;LANDING_GEAR_ANOMALY</title>
 <g id="a_edge14"><a xlink:title="OTHER_SYSTEM_FAILURE &#45;&gt; LANDING_GEAR_ANOMALY: support 96, stability 1.00">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.35" d="M382.97,-143.67C395.03,-156.84 413.12,-173.4 433.17,-180.78 471.96,-195.07 487.38,-195.07 526.17,-180.78 543.56,-174.38 559.47,-161.08 571.25,-149.07"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.35" points="572.58,-150.47 574.96,-145.15 569.78,-147.82 572.58,-150.47"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.35" d="M382.97,-143.67C395.03,-156.84 413.12,-173.4 433.17,-180.78 471.96,-195.07 487.38,-195.07 526.17,-180.78 543.56,-174.38 559.47,-161.08 571.25,-149.07"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.35" points="572.58,-150.47 574.96,-145.15 569.78,-147.82 572.58,-150.47"/>
 </a>
 </g>
 </g>
@@ -238,8 +238,8 @@
 <g id="edge13" class="edge">
 <title>LOSS_OF_CONTROL_INFLIGHT&#45;&gt;DECISION_INAPPROPRIATE</title>
 <g id="a_edge13"><a xlink:title="LOSS_OF_CONTROL_INFLIGHT &#45;&gt; DECISION_INAPPROPRIATE: support 99, stability 0.83">
-<path fill="none" stroke="#4d4d4d" stroke-width="1.37" d="M364.54,-36.85C348.2,-52.25 325.93,-76.12 313.67,-101.64 297.51,-135.27 292.21,-178.67 290.48,-205.56"/>
-<polygon fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.37" points="288.56,-205.35 290.18,-210.95 292.41,-205.57 288.56,-205.35"/>
+<path fill="none" stroke="#546e7a" stroke-width="1.37" d="M364.54,-36.85C348.2,-52.25 325.93,-76.12 313.67,-101.64 297.51,-135.27 292.21,-178.67 290.48,-205.56"/>
+<polygon fill="#546e7a" stroke="#546e7a" stroke-width="1.37" points="288.56,-205.35 290.18,-210.95 292.41,-205.57 288.56,-205.35"/>
 </a>
 </g>
 </g>
