@@ -1,0 +1,879 @@
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+I T Washington, D.C. 20594
+A T IO
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: IAD05FA023
+Aircraft and Registration: CASA C-212-CC, N960BW
+Location: Bamiyan, Afghanistan
+Date: November 27, 2004
+Adopted On: November 8, 2006
+HISTORY OF FLIGHT
+On November 27, 2004, about 0820 Afghanistan time,1 a Construcciones Aeronauticas
+Sociedad Anonima C-212-CC (CASA 212) twin-engine, turboprop airplane, N960BW,
+registered to Aviation Worldwide Services, LLC, and operated by Presidential Airways, Inc., of
+Melbourne, Florida, collided with mountainous terrain in the vicinity of the Bamiyan Valley,
+near Bamiyan, Afghanistan.2 The Department of Defense (DoD) contract flight was operated
+under the provisions of 14 Code of Federal Regulations (CFR) Part 135, with a company flight
+plan filed. Daylight visual meteorological conditions (VMC) prevailed. The captain, the first
+officer, and the mechanic-certificated passenger, who were U.S. civilians employed by the
+operator, and the three military passengers, who were active-duty U.S. Army soldiers, received
+fatal injuries. The airplane was destroyed. The flight departed Bagram Air Base (OAIX),
+Bagram, Afghanistan, about 0738.
+Presidential Airways provided transport services for U.S. military personnel and cargo
+within Afghanistan, Uzbekistan, and Pakistan under an Air Mobility Command (AMC) contract
+with the DoD.3 According to Presidential Airways’ program site manager, he briefed the captain on
+the mission itinerary about 0700. The purpose of the mission was to transport military cargo4 to
+Farah, Afghanistan (OAFR), and the three military passengers were traveling in a “space available”
+status.5 The flight was to depart OAIX and fly to OAFR, and then fly to Shindand, Afghanistan
+1
+Afghanistan time is coordinated universal time plus 4 hours 30 minutes. All times are reported in Afghanistan
+time, unless otherwise indicated.
+2
+At the request of the Transitional Islamic Government of Afghanistan, Ministry of Civil Aviation & Tourism,
+the National Transportation Safety Board accepted delegation of the accident investigation in accordance with
+paragraph 5.1 of Annex 13 to the Convention on International Civil Aviation.
+3
+The AMC contract was FA4428-04-D-0036, dated September 20, 2004.
+4
+The cargo was 400 pounds of 81-mm mortar illumination rounds.
+5
+According to the operator, the cargo mission flights would attempt to accommodate passengers as requested
+by the military when airplane space was available and loading allowed. Military logistics personnel were responsible
+for manifesting the passengers and cargo loads.
+
+2
+(OASD), for fuel before returning to OAIX. The briefing included the expected cargo and passenger
+loads, as well as military intelligence information that there were no significant threats for the
+mission. The program site manager and the captain discussed the area weather forecast, which
+primarily consisted of VMC with the possibility of blowing dust at OASD, and they agreed that
+Kandahar, Afghanistan (OAKN), would be an appropriate alternate destination if the flight were
+unable to land at OASD.
+According to the program site manager, he was not aware if route planning was performed
+for the mission. The accepted visual flight rules (VFR) flight plan contained destination
+information but did not indicate the specific route of the flight. The program site manager stated
+he assumed the crews followed certain typical routes between destinations; the pilots were to fly the
+routes “GPS [global positioning system] direct” while maintaining flight in VMC and clearance
+from terrain.
+According to OAIX air traffic control transcripts, during initial radio contact with the
+ground controller, the crew announced an intended flight altitude of 10,000 feet mean sea level
+(msl) and a departure heading to the south; this departure heading was consistent with the operator’s
+typical route from OAIX to OAFR, which involved a departure and flight to the south for
+approximately 32 nautical miles (nm) to avoid the mountains west of OAIX, then a turn to the west
+direct to OAFR.
+The crew taxied the airplane for takeoff but then stopped it briefly on the taxiway and
+boarded an additional passenger.6 The controller then cleared the flight for takeoff from runway 3,
+and the flight departed. At 0738, the OAIX controller instructed the crew to contact the departure
+controller, and the crew acknowledged. There was no record of radio communication between the
+flight crew and the departure controller, and no further known radio communication was received
+from the flight.
+A review of ground-based radar data revealed the airplane did not depart on the southerly
+heading but, instead, departed to the northwest. Radar contact was lost approximately 9.5 nm
+northwest of OAIX, consistent with the normal expected limit of radar coverage for the area. The
+last recorded radar position showed the flight on a westerly heading at an approximate altitude of
+10,000 feet msl; the position and heading were consistent with the flight entering the Bamiyan
+Valley (see figure 1).
+6
+According to the operator, there was no time limit restriction for loading passengers. As the accident airplane
+was taxied for takeoff, military personnel arrived and requested to board an additional passenger. The program site
+manager was able to flag down the flight crewmembers, and they stopped the airplane, so that the passenger could
+board.
+NTSB/AAB-06/07
+
+3
+Figure 1. Map of the expected route, the last known radar position of the flight, and the
+accident site.
+The cockpit voice recorder (CVR) recording began about 0748:37.7 The flight was
+airborne, and the first officer stated, “cruise check is complete.” Initial conversation indicated
+that the crew had never flown the selected route to OAFR and the mechanic8 noted that the
+valley they had chosen to fly through was not the direct route to OAFR. At 0753:28, the captain
+stated, “we’ll just have to see where this leads.” The CVR then recorded the captain, the first
+officer, and the mechanic discussing a topographical map, outside visual references, their current
+position coordinates (obtained from a GPS as they navigated), and their route over the mountains
+to OAFR. At 0756:12, the captain stated, “well normally we’d have time to on a short day like
+this we’d have time to play a little bit do some explorin’ but with those winds comin’ up I want
+to [expletive] get there as fast as we can.” At 0800:12, the captain stated, “with this good
+visibility … it’s as easy as pie. you run into somethin’ big you just parallel it until you find a way
+thru [sic]. … this is the first good visibility day I’ve had in the Casa. It’s not just good it’s
+outstanding.”
+An unidentified passenger asked about the route of flight at 0802:25, and the mechanic
+stated, “I don’t know what we’re gunna see, we don’t normally go this route.”9 The captain
+7
+The times reported in the CVR transcript were measured using an elapsed time reference that associated the
+estimated accident time of 0820:00 with the end of the recording.
+8
+According to the operating specifications for the CASA 212 airplane, a mechanic is not a required
+crewmember. During the accident flight, the mechanic-certificated passenger was seated in the cockpit jumpseat.
+9
+According to the program site manager, the mechanic had flown 13 times between November 9 and 24, 2004.
+NTSB/AAB-06/07
+
+4
+stated, “all we want is to avoid seeing rock at twelve o’clock.” At 0803:21, the first officer
+stated, “yeah you’re an x-wing fighter star wars man,” and the captain replied, “you’re
+[expletive] right. this is fun.”
+At 0803:34, the captain stated, “okay it’s about time we’re gunna start climbin’ … we’re
+comin’ up to a box up here. … yeah I think this valley might peter out right up here.” The first
+officer and the captain then discussed some of their previous mountain flying experiences. At
+0812:45, the captain stated, “I swear to god they wouldn’t pay me if they knew how much fun
+this was,” and the first officer replied, “yeah, yeah, this is what we do flyin’ jumpers … we
+always do this. as low as we can get,” and the captain stated, “yeah that’s the way I use to do it.”
+At 0813:06, the captain added, “it takes an extraordinary day that you can actually get down in
+… and do some [expletive] like this.”
+At 0815:47, the first officer stated that the ridgeline off to their left had a minimum
+elevation of approximately 14,000 feet msl. The captain replied that he wanted to look for a
+notch to fly through. At 0818:26, the first officer stated, “boy it’s a good thing we’re not too
+heavy today I guess,” and the captain replied, “yeah oh I wouldn’t have done this if we were at
+gross. we can always turn around up in here.” At 0819:04, the mechanic asked, “okay you guys
+are gunna make this right?” The captain replied, “yeah h h [sic] I’m hopin’.”
+About 10 seconds later, the cockpit area microphone (CAM) recorded a sound similar to
+a stall warning tone single beep, and the mechanic immediately asked if there was a way out. At
+0819:16, the captain stated they could execute a 180º turnaround, and he instructed the first
+officer to “drop a quarter flaps.” At 0819:25, the first officer stated, “yeah, let’s turn around,”
+and the captain again requested, “drop a quarter flaps.” The mechanic then stated, “You need to
+ah make a decision.” At 0819:44, the CAM recorded a sound similar to a stall warning that
+continued to the end of the recording. The mechanic stated, “call off his airspeed for him,” and
+the first officer stated, “you got ninety five.” Eight seconds after the first officer’s statement, the
+recording ended.
+The accident site was approximately 80 nm west of OAIX and approximately 25 nm north
+of the operator’s typical route between OAIX and OAFR. The operator was notified by military
+personnel, about 1415, that the airplane had never arrived at OAFR. Search and rescue operations
+were initiated by the military about 1540, and the wreckage was located on November 28, 2004,
+about 0815. First responders who arrived at the accident site on November 30, 2004, reported
+evidence that one passenger had exited and re-entered the wreckage before he died (see Survival
+Aspects section).
+PERSONNEL INFORMATION
+The Captain
+The captain, age 37, held an airline transport pilot certificate with a rating for airplane
+multi-engine land and type ratings for “CA-212,” “CE-500,” “EMB-110,” and “SA-227”
+NTSB/AAB-06/07
+
+5
+airplanes.10 He also held commercial privileges for airplane single-engine land and airplane
+single-engine sea. His most recent Federal Aviation Administration (FAA) first-class airman
+medical certificate was dated October 1, 2004, with the limitation, “must wear corrective lenses.”
+The captain was hired by Presidential Airways on October 1, 2004. According to his
+résumé, the captain reported 5,720 total flight hours, which included 4,930 hours pilot-in-
+command (PIC) with 685 hours PIC in CASA 212 airplanes. According to an insurance
+application dated September 23, 2004, the captain reported 865 hours in CASA 212 airplanes. The
+director of operations of Presidential Airways reported that, during the captain’s employment
+interview, he stated he had “harsh environment” operating experience and had flown extensively
+throughout the northwestern United States and Alaska. The director of operations stated he
+verified this information with the two previous employers listed on the captain’s résumé.
+The captain began company indoctrination training with six other pilots, including the
+first officer, on October 1, 2004. He completed the indoctrination training on October 5, 2004,
+and began aircraft-specific training in CASA 212 airplanes, which he completed on
+October 9, 2004. On November 2, 2004, the captain passed an Airman Competency/Proficiency
+Check in a CASA 212 airplane in accordance with 14 CFR 135.293, “Initial and recurrent pilot
+testing requirements,” paragraphs (a) and (b); 14 CFR 135.297, “Pilot in command: Instrument
+proficiency check requirements”; and 14 CFR 135.299, “Pilot in command: Line check: Routes
+and airports.”
+The captain arrived in Afghanistan on November 14, 2004, and the next day he flew a
+6.3-hour theater-indoctrination flight with a company pilot who had experience with flying in
+Afghanistan. The flight included stops at OAIX; OAKN; Herat, Afghanistan (OAHR); and
+OASD. Records provided by the operator indicated the captain flew six subsequent missions in
+Afghanistan with, at least, one flight into OAFR. The captain accumulated a total of 32.3 hours
+in Afghanistan, which included 23.5 hours in CASA 212 airplanes. According to the operator, in
+the 90 and 30 days prior to the accident, the captain had accumulated 87.8 and 65.9 total flight
+hours, respectively.
+According to Presidential Airways’ program site manager, the captain’s last flight prior
+to the accident flight ended at 1130 on November 24, 2004. Four company pilots who lived in
+the same quarters with the captain reported that, in the 72 hours before the accident, the captain
+appeared well rested, had a good attitude, and ate regular meals. The program site manager
+estimated the captain smoked about two cigarettes per day. Two company pilots stated that, on
+the morning of the accident, the captain told them he had a sore or scratchy throat, and he
+thought he might be coming down with a cold. Both pilots stated they offered to fly for the
+captain, but the captain declined.
+10
+These type-rating designators refer to certain CASA 212, Cessna Citation, Embraer 110, and
+Swearingen/Fairchild Metro series airplanes.
+NTSB/AAB-06/07
+
+6
+A review of FAA airman records revealed that, on February 10, 1997, the captain was
+issued a notice of disapproval of application for an airline transport pilot certificate. He
+subsequently completed the requirements and was issued an airline transport pilot certificate on
+March 7, 1997.
+A review of Presidential Airways’ records revealed the captain reported he had never
+been convicted of reckless driving or of driving a motor vehicle under the influence, and his
+driver’s license had never been suspended or revoked.
+The First Officer
+The first officer, age 35, held an airline transport pilot certificate with a rating for airplane
+multi-engine land and commercial privileges for airplane single-engine land. His most recent FAA
+first-class airman medical certificate was dated January 28, 2004, with no waivers or limitations.
+The first officer was hired by Presidential Airways on October 1, 2004. According to his
+résumé, the first officer reported 2,228 total flight hours, which included 1,248 hours in multi-
+engine airplanes. According to an insurance application, dated September 23, 2004, the first officer
+reported 917 hours PIC and 420 hours in CASA 212 airplanes.
+The first officer began company indoctrination training with six other pilots on
+October 1, 2004. He completed the indoctrination training on October 5, 2004, and began aircraft-
+specific training in CASA 212 airplanes, which he completed on October 9, 2004. On
+October 10, 2004, the first officer and another captain ferried a CASA 212 airplane from Alaska to
+Florida. On October 13, 2004, the first officer passed an Airman Competency/Proficiency Check
+in a CASA 212 airplane, in accordance with 14 CFR 135.293, “Initial and recurrent pilot testing
+requirements,” paragraphs (a) and (b), and 14 CFR 135.299, “Pilot in command: Line checks:
+Routes and airports.”
+The first officer arrived in Afghanistan on November 14, 2004, and, the next day, he flew
+a 4.8-hour theater-indoctrination flight with a captain who was experienced flying in
+Afghanistan. The flight included stops at OAIX; Salam, Afghanistan; and Jalalabad,
+Afghanistan. Records provided by the operator indicated the first officer flew five subsequent
+missions in Afghanistan with, at least, one flight into OAFR. The first officer accumulated a total
+of 29.6 hours in Afghanistan, which included 23.4 hours in CASA 212 airplanes. According to
+the operator, in the 90 and 30 days prior to the accident, the first officer had accumulated a total
+of 67 and 65.2 flight hours, respectively.
+According to the operator’s program site manager, the first officer’s last flight prior to the
+accident flight ended at 1130 on November 24, 2004. Four company pilots who lived in the same
+quarters with the first officer reported that, in the 72 hours before the accident, the first officer
+appeared well rested, had a good attitude, and ate regular meals.
+NTSB/AAB-06/07
+
+7
+A company captain stated he had flown with the first officer during the previous three
+summers on firefighting support flights to drop smokejumpers and para-cargo11 to fight
+wildfires. He described the first officer as a knowledgeable and skilled pilot who was
+experienced with mountain flying and low-altitude missions.
+A review of FAA airman records revealed on July 9, 1991, the first officer was issued a
+notice of disapproval of application for a private pilot certificate. He subsequently completed the
+requirements and was issued a private pilot certificate on July 18, 1991. He was issued a notice of
+disapproval of application for a commercial pilot certificate on September 12, 1995. He
+subsequently completed the requirements and was issued a commercial pilot certificate on
+September 13, 1995. On October 16, 2002, he was issued a notice of disapproval of application for
+an airline transport pilot certificate. He was issued a second disapproval on October 21, 2002. He
+subsequently completed the requirements and was issued an airline transport pilot certificate on
+October 22, 2002.
+A review of Presidential Airways’ records revealed the first officer reported he had never
+been convicted of reckless driving or of driving a motor vehicle under the influence, and his
+driver’s license had never been suspended or revoked.
+AIRCRAFT INFORMATION
+The CASA 212 was an unpressurized, high-wing airplane with fixed landing gear, a rear
+ramp-type cargo door, and a maximum gross weight of 16,976 pounds (lbs). It was configured
+with nine seats. The airplane was powered by two Garrett TPE331-10R-511C, 900-shaft-
+horsepower engines, each equipped with a Hartzell constant-speed, four-blade propeller with full-
+feathering and reverse-pitch capabilities. The instrument panel was equipped with an Apollo
+GX-50 GPS.
+The cockpit was equipped with quick-donning oxygen masks for the captain and the first
+officer. The passenger oxygen masks and equipment were carried in a case and could be plugged
+into a console in the passenger area when their use was required.
+The airplane’s emergency locator transmitter (ELT) was an Artex model 110-4, which
+was designed to transmit a 121.5-megahertz (MHz) signal automatically when subjected to
+certain forces, such as those sustained during an impact.
+According to weight and balance calculations, the airplane weighed approximately
+15,664 lbs at takeoff and had a predicted landing weight of 13,714 lbs. The center of gravity (CG) at
+takeoff was calculated as 19.1 percent of mean aerodynamic chord (MAC), and the predicted
+11
+Smokejumpers are airborne firefighters who parachute from airplanes to access wildfires in remote areas, and
+they are often supported by para-cargo drops of personal gear, food, water, and equipment.
+NTSB/AAB-06/07
+
+8
+landing CG was 17.5 percent of MAC. According to the airplane flight manual (AFM), the
+airplane’s maximum permitted takeoff weight was 16,976 lbs, the forward CG limit for the
+calculated takeoff weight was about 16 percent of MAC, and the aft limit was about 30 percent of
+MAC. On the basis of these data, the airplane would have remained within operational limits during
+the entire accident flight.
+The stall speed of the airplane is affected by flap configuration and wing bank angle. As the
+airplane’s flap angle increases (that is, as flaps are lowered), stall speed decreases. As the airplane’s
+wing bank angle increases (to turn in level flight), stall speed increases. Based on AFM performance
+charts, the approximate stall speeds for the airplane, in knots (kts) of calibrated airspeed in various
+bank angle and flap configurations, are shown in figure 2.
+Figure 2. Approximate stall speeds for various bank angles and flap settings.
+According to the AFM’s “Balked Landing Rate of Climb - Two Engine Operation” chart, at
+14,000-feet pressure altitude, -8º Celsius, and an aircraft weight of 15,000 lbs, the climb rate would
+be about 690 feet per minute (fpm) with full flaps, takeoff power, and an airspeed of 83 kts.
+A review of maintenance records indicated that, at the time the airplane departed on the
+accident flight, it had accumulated 21,489.6 total hours. The No. 1 engine had accumulated
+11,087.3 hours since new and 363.6 hours since overhaul, and the No. 2 engine had accumulated
+NTSB/AAB-06/07
+
+9
+7,327.1 hours since new and 908.3 hours since overhaul. The airplane received its 1A and 2A
+inspections12, in accordance with the manufacturer’s guidelines, on November 25, 2004, and had
+accumulated 4.2 hours since the inspections.
+METEOROLOGICAL INFORMATION
+A weather observation taken about 0725 at OAIX, elevation 4,895 feet, recorded wind
+variable at 4 kts, unrestricted visibility, few clouds at 8,000 feet and 20,000 feet, temperature 39º
+Fahrenheit, dew point 28º Fahrenheit, and altimeter setting 30.35 inches of mercury.
+A weather forecast briefing prepared by the military at 0600 for an area that included the
+flight route predicted winds aloft from 240º at 20 kts, at 9,000 feet and 10,000 feet. The forecast
+predicted no visibility restrictions, thunderstorms, turbulence, icing, or precipitation aloft. Surface
+conditions at OASD, elevation 3,773 feet, from 1100 to 1200, were predicted to include winds from
+180º at 15 kts gusting to 25 kts and 3 statute miles visibility in blowing dust.
+Another Presidential Airways crew departed OAIX in a CASA 212 airplane about the same
+time as the accident flight, but their flight was en route to a different destination, OAHR. The
+typical route to that crew’s destination did include flight along the Bamiyan Valley, and the captain
+of that flight stated he flew within about 5 nm of the accident site. He stated that he flew at
+12,500 feet msl and observed the wind was from the southwest at 5 to 10 kts. He stated that he
+observed a scattered to broken cloud layer at 13,000 feet msl and that the cloud layer had a
+maximum thickness of 500 feet but was predominantly about 200 feet thick with cloud caps just
+above the individual mountain peaks. He estimated that there was a minimum of 10 miles of
+visibility in haze.
+FLIGHT RECORDERS
+The airplane’s Fairchild model 100A CVR was examined at the National Transportation
+Safety Board, Vehicle Recorders Division, Washington, D.C. The exterior of the CVR was
+damaged, but the tape inside sustained little damage. The CVR recording consisted of four
+channels of good quality13 audio information. One channel captured the audio from the captain’s
+panel, another captured the audio from the first officer’s panel, and a third captured the audio
+from the CAM; the fourth CVR channel was unused. The CVR captured the last 32 minutes of
+the flight, and the recording captured no radio communications between the flight crew and any
+12
+The 1A and 2A inspections are specified by the manufacturer and are performed at 100-hour and 200-hour
+intervals, respectively.
+13
+The Safety Board uses the following categories to classify the levels of the CVR recording quality: excellent,
+good, fair, poor, and unusable. A good quality recording is one in which most of the crew conversations could be
+accurately and easily understood. The transcript that was developed may indicate one to two words that were not
+intelligible. Any loss in the transcript can be attributed to simultaneous cockpit/radio transmissions that obscure each
+other.
+NTSB/AAB-06/07
+
+10
+air traffic control facilities. The review of voice recordings from the captain, the first officer, and
+the mechanic revealed no evidence of sounds consistent with oxygen mask use.
+The airplane was not equipped, and was not required to be equipped, with a flight data
+recorder.14
+WRECKAGE AND IMPACT INFORMATION
+The wreckage was at an elevation of approximately 14,650 msl in a box canyon that was
+bounded on the east and west by 15,000-foot ridgelines and terminated at a 16,580-foot peak to
+the south. The northern end of the box canyon opened to the Bamiyan Valley, where the floor of
+the canyon was approximately 11,000 feet msl; the floor of the box canyon rose from north to
+south to its terminus. The terrain was rocky, snow-covered, and void of trees and vegetation.
+The Safety Board’s accident investigation team did not travel to the accident site. The first
+military recovery team to access the site arrived on board a Boeing CH-47 helicopter, and the
+recovery team estimated that about 20 inches of snow had fallen since the accident 3 days earlier.
+The CH-47 was hovered over the site for about 10 minutes in order to use its rotor wash to blow
+away the snow. Review of photographs and information provided by the military showed the
+wreckage was located on the northern face of an area of rising terrain. According to military first
+responders, the airplane was on its left side at the northeast end of a wreckage and cargo debris path
+that extended approximately 450 feet. The responders reported that the rear cargo ramp was
+separated and on the ground adjacent to the empennage, the right wing and right engine were
+separated, and the left wing was crushed under the fuselage. Wing flap configuration was not
+determined. The CVR was the only wreckage component recovered for examination.
+The first responders reported that they observed no evidence that the captain or the first
+officer had used their oxygen masks and that the oxygen equipment for the passengers was found in
+an unopened case.
+MEDICAL AND PATHOLOGICAL INFORMATION
+Toxicological examinations of specimens from the captain and the first officer were
+performed by the Armed Forces Institute of Pathology, Washington, D.C. No evidence of
+alcohol or performance-impairing drugs was found.
+The Office of the Armed Forces Medical Examiner, Dover Air Force Base Port
+Mortuary, Dover, Delaware, performed autopsies on all six occupants of the airplane on
+14
+According to 14 CFR 135.152, an approved flight recorder is required for a multiengine, turbine-powered
+airplane or rotorcraft that has a passenger seating configuration (excluding any required crewmember seat) of 10 to
+19 seats and that was brought onto the U.S. register (or was registered outside the United States and added to the
+operator’s U.S. operations specifications) after October 11, 1991.
+NTSB/AAB-06/07
+
+11
+December 3, 2004. The autopsy reports stated the cause of death for the captain, the first officer,
+the mechanic-certificated passenger, and two of the active-duty military passengers was “blunt
+force injuries.”
+The autopsy report for the third active-duty military passenger stated the cause of death
+was “blunt force injuries of the torso complicated by hypoxia and hypothermia.” The Safety
+Board reviewed the autopsy findings regarding the passenger’s internal injuries and examined a
+photograph of a specific internal injury.15
+SURVIVAL ASPECTS
+Passenger with Survivable Injuries
+Military first responders who arrived at the accident site observed a body, later identified
+as the active-duty military passenger who died of injuries complicated by hypoxia and
+hypothermia, lying prone inside the rear cargo area of the wreckage. The body was oriented with
+the head toward the front of fuselage, and the clothing consisted of pants and shoes. In close
+proximity to the body were an unrolled sleeping bag, a cigarette butt, and a half-empty water
+bladder from a Camelbak hydration system. An open box of Meals Ready-to-Eat was also inside
+the fuselage, but responders could not determine if it had been opened before or after the
+accident.
+Outside the wreckage, an empty cigarette package was observed on the ground near the
+fuselage, and two frozen urine stains were observed in the snow, one near the front of the
+fuselage and one near the rear cargo ramp. A metal ladder was leaning against the fuselage in
+such a way that, according to first responders, it appeared to have been deliberately positioned to
+enable a person to climb on top of the wreckage. First responders also reported that a wooden
+pallet on top of the rear cargo ramp appeared to have been placed there. An opened Swiss Army
+daypack was found on the ground near the fuselage, and underneath it were maps and a pilot’s
+checklist.
+Notification of the Overdue Airplane
+According to the operator’s program site manager at OAIX, the airplane’s estimated time of
+arrival at OAFR was 0955, and it was due back at OAIX about 1345. Military personnel notified the
+program site manager about 1415 that the airplane had never arrived at OAFR, which was about
+30 minutes after its expected return time at OAIX.
+15
+The autopsy report stated, “Hemoperitoneum, 1100 mL of blood; right side retro-peritoneum hemorrhage
+extending from the level of the 12th thoracic vertebrae to the pelvis (12 x 6 x 3 inches); laceration of the mesentery
+of the transverse colon and portion of the small bowel with associated ischemic bowel (10 inches in greatest
+length).” The Safety Board examined a photograph of the ischemic bowel. According to the Armed Forces medical
+examiner, 140 milliliters (mL) of urine was found in the passenger’s bladder.
+NTSB/AAB-06/07
+
+12
+According to the DoD contract, the flight crews were required to report their arrivals at
+remote locations to the military Air Mobility Division (AMD),16 which required the arrival
+information for its own purposes; AMD was not involved in tracking flights for the operator.
+According to Presidential Airways pilots interviewed after the accident, the operator provided
+each flight crew an Iridium satellite telephone17 to report their flight’s arrival to AMD upon
+landing. One pilot stated he tried to use the satellite telephone the first month he was in
+Afghanistan but stated, “less than half the time, it would work properly. Sometimes I would fly
+my entire route and then call AMD when I landed back at [OAIX].” Another pilot stated he
+sometimes had to make five or six attempts with the satellite telephone before getting through to
+AMD, and, because of the short on-ground times, he did not have time to make repeated calls.
+Communications capability was limited at the remote locations in Afghanistan.
+The military air movement personnel at OAFR stated it was not unusual for inbound
+flights to be delayed, diverted, or canceled. Although military personnel at some remote
+locations had some communications capabilities, they stated they were not tasked to report
+aircraft arrival or departure information to the operator for the purpose of flight tracking and that
+they were unaware of any overdue aircraft notification procedures for Presidential Airways
+flights. The director of operations stated that the military would relay arrival information to the
+operations center when flight crews were unable to communicate directly.
+A member of the military quality assurance personnel (QAP) who oversaw the Presidential
+Airways contract stated he was notified, at 1330, that passengers at OAFR had been waiting for the
+airplane. He stated he went to the military command post at OAIX and began calling other airfields
+to look for the airplane. When military personnel notified the program site manager, at 1415, that
+the airplane had never arrived at OAFR, the program site manager also went to the military
+command post to initiate calls to try to find the flight.
+After calls to several possible landing sites failed to locate the airplane, military officials
+reported the missing airplane to their higher commands, about 1430, and, about 1515, the Joint
+Search and Rescue Center (JSRC) was notified. According to the operator and a JSRC timeline
+provided by the military, search and rescue aircraft were placed on alert by 1540 and were airborne
+within about 30 minutes.
+Search and Rescue
+The operator informed military search and rescue personnel that a typical flight between
+OAIX and OAFR would depart to the south for approximately 32 nm, and then proceed west
+directly to OAFR, and that the flight crew had planned to divert to OAKN if they were unable to
+land at OASD. Military search and rescue personnel were initially dispatched to search the area
+16
+AMD was located at Al Udeid Air Base, Qatar, which was about 730 nm southwest of OAFR.
+17
+According to a military Joint Search and Rescue Center timeline, the operator did not have the phone number
+to the accident airplane’s satellite telephone readily available after the accident.
+NTSB/AAB-06/07
+
+13
+along the flight’s alternate destination and then the area south of OAIX, based on the operator’s
+assumption that the flight had followed the typical route. Initial 121.5-MHz signals were detected18,
+about 1730, but a search revealed the signals were not associated with the airplane’s ELT. Other
+false alerts were detected, investigated, and ruled out throughout the evening.
+According to the OAIX military radar chief controller, the military’s air traffic manager site
+leader was the only person who requested radar data for the last known position of the flight from
+the OAIX Radar Approach Control (RAPCON); the air traffic manager site leader stated he made
+this request “sometime after sunset.”19 A command post controller at OAIX stated that he had twice
+requested the radar data for the accident flight from OAIX RAPCON and that he was informed that
+OAIX RAPCON could not pull the tapes and that the information was hard to get to. According to
+the OAIX command post controller, he subsequently contacted the OAIX tower20 and requested the
+radar data for the airplane’s departure, and a Presidential Airways representative and military
+personnel went to the tower to review the data.
+According to the JSRC timeline provided by the military, the radar information was
+provided to search and rescue personnel about 2100, and search aircraft subsequently began
+searching the areas north and west of OAIX, based on the flight’s last known position.
+A 121.5-MHz signal was detected in the search area northwest of OAIX about 0500 on
+November 28, 2004, and search aircraft located the wreckage about 0815. According to the military,
+weather did not significantly affect search and rescue efforts on the day of the accident. However,
+by the time the wreckage was identified, adverse weather had moved into the area. Varying degrees
+of turbulence, clouds, icing, poor visibility, and winds of 40 to 60 kts prevented rescue personnel
+from reaching the site until 0630 on November 30, 2004.
+18
+The signals were likely detected by military resources. According to the International Civil Aviation
+Organization, Afghanistan was not a participant in the international civilian search and rescue system known by the
+acronym COSPAS-SARSAT (Cosmicheskaya Sistyema Poiska Avariynich Sudov [translation: Space System for the
+Search of Vessels in Distress] – Search and Rescue Satellite-Aided Tracking). The COSPAS-SARSAT system
+utilizes satellite and ground equipment to detect and locate the signals from 121.5-MHz and 406-MHz ELTs, and it
+forwards the information to the search and rescue authorities of participating countries and organizations to expedite
+identification of crash locations. COSPAS-SARSAT participants include the four parties to the COSPAS-SARSAT
+International Programme Agreement (Canada, France, Russia, and the United States), 24 ground segment providers,
+nine user states and two organizations, as follows: Algeria, Argentina, Australia, Brazil, Chile, People’s Republic of
+China, Denmark, Germany, Greece, India, Indonesia, Italy, Japan, Republic of Korea, Madagascar, The
+Netherlands, New Zealand, Nigeria, Norway, Pakistan, Peru, Poland, Saudi Arabia, Singapore, South Africa, Spain,
+Sweden, Switzerland, Thailand, Tunisia, Turkey, United Kingdom, Vietnam, the International Telecommunication
+Development Corporation, and the Marine Department of Hong Kong, China.
+19
+The OAIX military radar chief controller stated that he contacted each of the personnel assigned to OAIX
+RAPCON duties to determine who requested the radar information from them and that they reported only the air traffic
+manager site leader contacted them.
+20
+During this call, the OAIX command post controller reached the air traffic manager site leader, whom OAIX
+RAPCON personnel confirmed contacted them to request the radar information.
+NTSB/AAB-06/07
+
+14
+ORGANIZATION AND MANAGEMENT INFORMATION
+Presidential Airways held a Part 135 operating certificate, under which it operated seven
+CASA 212 airplanes, one Fairchild Metroliner SA-227 airplane, and three McDonnell Douglas
+MD-530 helicopters. According to the director of operations, once Presidential Airways was
+awarded the AMC contract to provide services within Afghanistan, Uzbekistan, and Pakistan,21
+company personnel immediately visited the military’s requested service sites and began briefings
+with the local military command on how the operations would be conducted. Due to safety
+concerns and aircraft performance limitations, the operator declined to service some of the
+military’s requested sites.
+According to an FAA air safety inspector, during the year before the accident, the FAA’s
+oversight of Presidential Airways included more than 100 visits to the operator’s facility in
+Florida. During those visits, the FAA identified minor discrepancies, which the operator
+subsequently corrected, and no violations were issued. The FAA inspector stated that he was not
+aware of any FAA oversight of Presidential Airways’ operations in Afghanistan.
+In addition to the FAA requirements, Presidential Airways, under contract to AMC, was
+required to adhere to the provisions of 32 CFR Part 861 regarding flight crew training,
+qualifications, and proficiency. Title 32 CFR Part 861 also requires that the DoD approve and
+monitor contract operators for compliance with contract provisions, including safety provisions.
+Such monitoring should entail initial and recurring on-site safety surveys and evaluation. These
+evaluations of Presidential Airways would be performed by the DoD QAP personnel in
+Afghanistan who were tasked to ensure that the operator complied with the contract.22 According
+to the regulation, the DoD oversight requirements are intended to “complement rather than
+replace the [FAA] criteria applicable to the carrier” and pertain to the “enhanced level of service
+required” for DoD operations.23 According to 32 CFR 861.4(c)(3), a consideration in the
+evaluation process included that an “air taxi operator is expected to demonstrate some type of
+effective flight following capability.”
+Flight Dispatch and Locating
+Presidential Airways dispatched the flights requested by the military from its operations
+center at OAIX. According to the program site manager, all flights were flown VFR, and the
+flight crews would file a company flight plan with the operator that contained the mission’s
+intended destinations. The director of operations stated that the “normal procedure” for flight
+21
+The contract was awarded on September 20, 2004, and Presidential Airways’ first airplane arrived in
+Afghanistan 5 days later. Two CASA 212 airplanes, including the accident airplane, and one SA-227 airplane were
+used for the AMC contract.
+22
+The QAP personnel stated that they coordinated with the operator in scheduling and rescheduling missions,
+manifested passengers and cargo, and met with every departure to ensure the airplanes were loaded with the correct
+cargo and mail.
+23
+The requirements are outlined in 32 CFR 861.4(a) and (e).
+NTSB/AAB-06/07
+
+15
+crews was to contact the operations center upon landing at remote locations, if able. The director
+of operations stated that, if the flight crews were unable to establish contact because of
+communications problems, the flight crews could log their remote site arrival times upon their
+return to OAIX at the completion of the entire mission. According to one pilot, an airplane was
+not considered overdue until it exceeded its estimated return time at OAIX.
+Presidential Airways pilots stated their routes were flown using GPS-direct navigation.
+They stated that, although the flights did not use standard routes between destinations, they
+usually flew within 5 to 10 nm of the centerline of typically flown routes, and they would not
+have expected the accident flight to have been flying as far north as the accident location. The
+program site manager stated that terrain, weather, and a desire to avoid establishing a flight
+pattern in an environment with hostile ground forces were some reasons the flight crews varied
+the specific ground track of each flight. He also stated that, due to military helicopter operations,
+the flight altitude of the company’s airplanes was required to be no lower than 1,500 feet above
+the level of the average lowest terrain.
+Flight Crew Training Program
+According to the director of operations, from October 1, 2004, to November 14, 2004, the
+captain and the first officer had each received approximately 130 hours of ground instruction,
+including 60 hours of systems training, 50 hours of indoctrination training, 2.5 hours of flight
+training in CASA 212 airplanes, and crew resource management (CRM) training. The CRM
+training consisted of a 30-minute instructional video and a 1.5-hour discussion.24
+According to the director of operations, the captain and the first officer were not provided
+training in mountain flying because the training was not a requirement under Part 135, and each had
+“extensive” mountain-flying backgrounds. The training program did include emphasis on pilot and
+passenger regulations specific to Part 135 operations, which included guidelines on pilot and
+passenger oxygen use. According to other Presidential Airways pilots interviewed about their own
+use of oxygen, one pilot stated he would use oxygen only occasionally during flights above
+13,500 feet msl, and another pilot incorrectly stated the altitude requirements for oxygen use.25
+24
+FAA Advisory Circular (AC) 120-51E defines CRM as the “effective use of all available resources: human
+resources, hardware, and information.” According to AC 120-51E, among the goals of CRM training is to address the
+challenges of optimizing crew problem-solving and decision-making skills, and the crew’s ability to maintain situational
+awareness. Since 1980, the Safety Board has issued numerous recommendations to the FAA regarding improved CRM
+training requirements for Part 135 operators. The Board’s most recent recommendation on this subject, Safety
+Recommendation A-03-52, was issued on December 2, 2003, and asked the FAA to “require that … Part 135 on-demand
+charter operators that conduct dual-pilot operations establish and implement a Federal Aviation Administration-approved
+crew resource management training program for their flight crews in accordance with 14 CFR Part 121, subparts N and
+O.” Following the November 28, 2004, Canadair, Ltd., CL-600-2A12 accident in Montrose, Colorado, the Board noted
+that the FAA’s action on this issue is overdue, and, on August 4, 2006, the Board reclassified Safety
+Recommendation A-03-52 “Open—Unacceptable Response” and reiterated the recommendation. The recommendation
+letter is available on the Safety Board’s Web site at <http://www.ntsb.gov>.
+25
+The pilot stated that it was his understanding that, if the airplane was above 12,500 feet for more than
+30 minutes or if it was above 14,000 feet, he had to use oxygen. According to Federal regulations, pilots of
+NTSB/AAB-06/07
+
+16
+According to the program site manager, there was no formal Afghanistan theater-orientation
+program for the pilots. The company’s standard practice was to pair new captains with another
+captain or a theater-experienced first officer for one or two missions; new first officers were paired
+with theater-experienced captains. The program site manager stated the accident captain and first
+officer were paired for mission-planning reasons because they were the only CASA 212 crew on
+site who could also fly Presidential Airways’ SA-227 airplane.
+ADDITIONAL INFORMATION
+Flight-locating Requirements
+According to 14 CFR 135.79, “Flight locating requirements”:
+(a) Each certificate holder must have procedures established for locating each
+flight, for which an FAA flight plan is not filed, that—
+(1) Provide the certificate holder with at least the information required to
+be included in a VFR flight plan;
+(2) Provide for timely notification of an FAA facility or search and rescue
+facility, if an aircraft is overdue or missing; and
+(3) Provide the certificate holder with the location, date, and estimated
+time for reestablishing radio or telephone communications, if the flight
+will operate in an area where communications cannot be maintained.
+(b) Flight locating information shall be retained at the certificate holder’s
+principal place of business, or at other places designated by the certificate holder
+in the flight locating procedures, until the completion of the flight.
+(c) Each certificate holder shall furnish the representative of the Administrator
+assigned to it with a copy of its flight locating procedures and any changes or
+additions, unless those procedures are included in a manual required under this
+part.
+unpressurized airplanes are required to use oxygen if the airplane is above 10,000 feet msl through 12,000 msl feet
+for more than 30 minutes duration and at all times above 12,000 feet msl (see Additional Information section,
+Regulations and Guidelines).
+NTSB/AAB-06/07
+
+17
+Oxygen-use Requirements
+According to 14 CFR 135.89, “Pilot requirements: Use of oxygen,” “Each pilot of an
+unpressurized aircraft shall use oxygen continuously when flying, (1) At altitudes above
+10,000 feet through 12,000 feet msl for that part of the flight at those altitudes that is of more
+than 30 minutes duration; and (2) Above 12,000 feet msl.”
+According to an aviation medicine textbook,26 from 10,000 to 15,000 feet, an individual
+without supplemental oxygen “exhibits few or no signs and has virtually no symptoms [of
+hypoxia].27 The ability to perform skilled tasks is impaired, … an effect of which the subject is
+frequently unaware.” The textbook also notes that “an individual breathing air at 8,000 feet may
+take significantly longer to achieve optimum performance at novel tasks than is the case at sea
+level. For example, this degree of hypoxia has been found to double the reaction times of initial
+responses to a complex choice-reaction task as compared with the responses at sea level. The
+intensity of this effect increases with altitude and complexity of the task, markedly so, about
+12,000 feet.”28 Studies also noted research subjects exhibited mental performance impairment
+during task tests that were begun after only 5 minutes29 and 10 minutes30 of exposure to a
+simulated altitude of 8,000 feet.
+Emergency Locator Transmitter Equipment
+The airplane’s Artex ELT 110-4 was approved in accordance with Technical Standard
+Order (TSO)-C91a, and it satisfied the FAA’s equipment requirement specified in 14 CFR
+91.207, “Emergency locator transmitters.”31 Units approved under TSO-C91a operate on the
+frequency of 121.5 MHz at a power output of 0.1 Watt. According to data from the National
+Oceanic and Atmospheric Administration (NOAA),32 only about one in five 121.5-MHz alerts
+originate from actual ELT units, and actual alert signals are not discernible from many non-ELT
+sources that produce interference. Fewer than 2 in 1,000 121.5-MHz alerts are from actual
+26
+Harding, R.M.; Gradwell, D.P. 1999. Hypoxia and Hyperventilation. In: Aviation Medicine, Third Edition.
+Butterworth Heinemann, Oxford, U.K. p. 55.
+27
+According to the FAA Aeronautical Information Manual, paragraph 8-1-2, “Effects of Altitude,” hypoxia is
+“a state of oxygen deficiency in the body sufficient to impair functions of the brain and other organs.”
+28
+Harding and Gradwell. 1999. p. 53.
+29
+Kelman, G.R.; Crow, T.J. 1969. Impairment of mental performance at a simulated altitude of 8,000 feet. In:
+Aerospace Medicine 40 (9). pp. 981-982.
+30
+Denison, D.M.; Ledwith, F.; Poulton, E.C. 1966. Complex reaction times at simulated cabin altitudes of
+5,000 feet and 8,000 feet. In: Aerospace Medicine. pp. 1010-1013. October 1966.
+31
+According to 14 CFR 91.207, “Emergency locator transmitters,” a U.S.-registered civil airplane must be
+equipped with an approved automatic-type ELT. According to 14 CFR 135.25, “Aircraft requirements,” no
+certificate holder may operate an aircraft under this part, unless that aircraft “ … meets the applicable airworthiness
+requirements of this chapter.” The chapter includes the requirements outlined in Part 91.
+32
+Information obtained November 22, 2005, from the home page of NOAA National Environmental Satellite,
+Data, and Information Service (NESDIS), Comparison of the 406 MHz and 121.5 MHz Distress Beacons,
+<http://www.sarsat.noaa.gov>.
+NTSB/AAB-06/07
+
+18
+distress situations. Since 121.5-MHz units transmit signals anonymously, the only way to
+ascertain whether or not an alert is an actual distress situation is to dispatch resources to
+investigate the location. The position accuracy of 121.5-MHz units is approximately 12 to
+15 nm.
+In contrast, ELT units approved in accordance with TSO-C126 operate at a frequency of
+406 MHz at a power output of 5 Watts. According to NOAA data, all alerts originate from actual
+ELT units as digital, coded signals that are detected near-instantaneously by satellites; about 1 in
+12 alerts are from actual distress situations. The coded signals provide searchers with aircraft
+registration and point of contact information. The position accuracy of 406-MHz units is
+approximately 1 to 3 nm, and some units are enhanced with an integral GPS feature that enables
+position accuracy of less than 100 yards.
+According to 59 Federal Register (FR) 32050, published on June 21, 1994, the FAA
+stated, “Voluntary use of the 406-MHz ELTs would provide a definite enhancement over the
+minimum requirements of the Federal Aviation Regulation.33 There may be even more life-
+saving benefits … for those operations conducted over water and in remote areas.” Further,
+according to 66 FR 34913, published on July 2, 2001, the COSPAS-SARSAT program decided
+to cease the satellite processing of 121.5-MHz signals by February 2009 because those signals
+“inundate search and rescue authorities with poor accuracy and numerous false alerts, adversely
+impacting the effectiveness of lifesaving services.” COSPAS-SARSAT reported this decision
+was made, in part, in response to guidance from the International Civil Aviation Organization
+and further stated that, “although the 406-MHz beacons currently cost more, they provide search
+and rescue agencies with more reliable and complete information to do their job more efficiently
+and effectively.”
+33
+According to 14 CFR Part 91.207, only an “approved automatic-type ELT” is required, which includes
+approved 121.5-MHz units.
+NTSB/AAB-06/07
+
+19
+ANALYSIS
+The unpressurized airplane collided with mountainous terrain at an elevation of
+14,650 feet msl in a box canyon about 80 nm west of the departure airport in daylight visual
+meteorological conditions. The wreckage was located approximately 25 nm northwest of the
+operator’s typical route between the departure airport, OAIX, and the destination airport, OAFR.
+Prior to takeoff, the crew had announced to the air traffic control tower a departure heading to
+the south, which was consistent with the typical route, but the airplane instead turned to the
+northwest immediately after departure.
+The CVR recording, which began when the airplane was already in cruise flight, yielded
+no discussions among the crew regarding their decision to deviate from the typical route.
+However, given that the pretakeoff briefing included intelligence that there were no military
+threats expected for the route and that the airplane deviated from that route immediately after
+takeoff, the crew’s decision to deviate likely was not made on the basis of perceived ground
+threats. Further, the mechanic-certificated passenger, who, according to the CVR was assisting
+with navigation duties, was familiar with the route structures and commented, “we don’t
+normally go this route.” It is not clear when the crew decided to fly the northerly route, but it is
+clear that the crew intentionally did not follow the direct route to OAFR and continued the flight
+through the Bamiyan Valley. The captain even commented that this was the first clear day since
+he’d been in Afghanistan and that at times he was open to “play” and “do some explorin’.”
+The captain and the first officer were both experienced in mountain flying, and the CVR
+transcript of discussions between the captain and the first officer indicated they were behaving
+unprofessionally and were deliberately flying the nonstandard route low through the valley for
+“fun.” The captain commented that the visibility was outstanding and that it takes such
+extraordinary conditions to enable him to “get down in … and do some [expletive] like this.”
+This comment, combined with his comments about having fun and that he “wouldn’t have done
+this if we were at gross,” indicates that the captain made a conscious decision to fly the airplane
+in the manner in which he was flying and that he wouldn’t have chosen to fly the airplane in such
+a manner if the airplane had been at maximum gross weight.
+The discussions among the flight crew also indicated they were aware the airplane was
+approaching the terminus of a box canyon more than 15 minutes before the airplane struck
+terrain. Prior to collision with terrain, the captain made statements that indicated he was
+uncertain the airplane could clear the terrain and that he hesitated in making a decision on
+whether to continue to climb the airplane or to turn it around. According to the airplane’s
+performance charts, at the atmospheric conditions present at the time and the altitude of the accident
+site, the accident airplane would have been able to establish a climb. However, the pilots would
+have to ensure that the climb was initiated in sufficient time to enable the airplane to clear the
+mountain ridge. In the final seconds of the flight, it was the mechanic seated in the cockpit
+jumpseat who prompted the captain to make a decision whether or not to execute an 180º
+turnaround and who prompted the first officer to call off the airspeeds for the captain to assist
+with preventing a stall. The airplane collided with the rising terrain in a direction consistent with
+NTSB/AAB-06/07
+
+20
+an attempted 180º turnaround. The terrain was rocky, snow-covered, and void of trees and
+vegetation.
+Because of radar coverage limitations, the flight’s cruise altitude is not known, however,
+the floor of the box canyon rose from a minimum elevation of about 11,000 feet msl, and the
+airplane collided with terrain at 14,650 feet msl. The airplane was not pressurized, and neither
+the captain nor the first officer was using the airplane’s oxygen system as required by Federal
+regulations. According to studies, from 10,000 to 15,000 feet msl, a person without supplemental
+oxygen can be expected to be impaired by hypoxia, yet the person will exhibit few or no signs,
+have virtually no symptoms, and will likely be unaware of the effect. Studies also noted mental
+performance impairment in research subjects on tests beginning after only 5 minutes34 and
+10 minutes35 of exposure to a simulated altitude of 8,000 feet. In this accident, the flight crew
+was vulnerable to the effects of hypoxia because they were not using supplemental oxygen as
+required; however, there was insufficient evidence to determine the extent to which hypoxia
+affected the crew’s performance.
+The DoD contract flights were flown “GPS direct” at the pilots’ discretion. The company
+flight plans filed by each crew contained only destination information and did not define specific
+routes of flight. According to 14 CFR 135.79, “Flight locating requirements,” an operator must
+have procedures established that provide for timely notification of a search and rescue facility if
+an aircraft is overdue or missing; Presidential Airways had no such procedures for its DoD
+contract operations. According to 32 CFR 861.4(c)(3), the DoD was required to evaluate its
+contract operators; as part of the evaluation, an “air taxi operator is expected to demonstrate
+some type of effective flight following capability.”
+The Presidential Airways director of operations stated that crews were required to report
+their remote site arrival times to the operations center at OAIX. However, the operator’s
+communications capabilities were limited at some remote sites, so crews were allowed simply to
+log their remote site arrival times upon their return to OAIX, at the completion of the entire
+mission. Because of this practice, it was not unusual for the operations center not to hear from a
+flight at every arrival site. Therefore, although the accident flight never arrived at OAFR (its first
+destination) as expected at 0955, the operator was unaware the airplane was missing until about
+1415, which was when military personnel at OAFR reported that the airplane had never arrived.
+When telephone and radio searches failed to locate the airplane, air search and rescue
+operations were initiated by the military about 1540. By the time the air searches were initiated, the
+injured survivor had been stranded at the downed airplane for about 7 hours. His rescue was further
+delayed when the subsequent 5 hours of aerial searches were focused in areas where the airplane
+had not flown; military search and rescue personnel were initially dispatched to search the area
+34
+Kelman and Crow. 1969. pp. 981-982.
+35
+Denison, Ledwith, and Poulton. 1966. pp. 1010-1013.
+NTSB/AAB-06/07
+
+21
+along the flight’s alternate destination route and then the area south of OAIX, based on the
+operator’s assumption that the flight had followed the typical route.
+Military radar data of the airplane’s last known position, which showed the airplane
+actually departed to the northwest, were provided to searchers about 2100; subsequent searches
+were then focused northwest of OAIX, based on the radar-derived position. A 121.5-MHz signal
+was detected in the northwest search area about 0500 on November 28, 2004, and search aircraft
+located the wreckage about 0815. According to the military, weather did not significantly affect
+search and rescue efforts on the day of the accident. By the time the wreckage was identified,
+however, adverse weather had moved in that prevented rescue personnel from reaching the site until
+0630 on November 30, 2004.
+A review of the autopsy report for the active-duty military passenger, who initially
+survived at the accident site but died before help arrived, indicated that none of his injuries were
+immediately life threatening. One injury diagnosis, in particular, was consistent with at least 8 to
+9 hours of survival.36 Moreover, urine evidence from the accident scene and from the passenger’s
+autopsy,37 as well as medical research data regarding urine output rates38 and bladder
+capacities,39 indicate that a minimum of nearly 10 hours would have passed from the time of the
+accident to the time of his death.40 Thus, the information available to the Safety Board is
+consistent with an absolute minimum survival time of approximately 8 hours following the
+accident. If the passenger had received medical assistance within that time frame, followed by
+appropriate surgical intervention, he most likely would have survived.
+Presidential Airways was a civilian operator under contract to the DoD to provide
+transport services under Part 135 and Part 861 for U.S. military personnel and cargo. The
+operator had been providing services in Afghanistan for about 2 months, and it dispatched flights
+from its operations center at OAIX. During the year before the accident, the FAA visited
+Presidential Airways’ facility in Florida more than 100 times. During those visits, the FAA
+identified minor discrepancies, which the operator subsequently corrected, and no violations
+36
+The autopsy report noted, “laceration of the mesentery of the transverse colon and a portion of the small
+bowel with associated ischemic bowel (10 inches in greatest length).” A photograph of that section of injured bowel
+showed that it had darkened to an almost-black color due to the loss of blood supply to the injured area. Such
+discoloration was noted in animal studies to begin after approximately 8 to 9 hours following loss of blood supply to the
+section of bowel. (Source: Marston, A. 1971. Experimental aspects of superior mesenteric artery occlusion. In:
+Vascular Disorders of the Intestine. Appleton-Century-Crofts, New York, NY. pp. 345-357.)
+37
+The passenger’s bladder contained 140 mL of urine at autopsy.
+38
+Based on the passenger’s extensive internal bleeding, his urine output would likely not have been much
+higher than 30 mL per hour. (Source: American College of Surgeons Committee on Trauma, Advanced Trauma Life
+Support for Doctors Student Course Manual, Chicago, 1997 p. 98.)
+39
+The first urge to urinate is generally felt when the bladder contains about 150 to 250 mL of urine. (Source:
+Tanagho, E.A.; Lue, T. F. 2004. Neuropathic Bladder Disorders. In: Smith’s General Urology, Sixteenth Edition.
+Lange Medical Books, New York, NY. pp. 435-452.)
+40
+This assumes that the passenger emptied his bladder immediately following the accident and voided again
+upon initially feeling the urge to do so.
+NTSB/AAB-06/07
+
+22
+were issued. Although the FAA approved that the operator could conduct Part 135 operations in
+Afghanistan, the operator did not provide, and was not required to provide, personnel who could
+directly oversee the operations there.
+Although the DoD contract stated that the company must operate in accordance with
+Part 135 specifications, evidence indicates that Presidential Airways’ operations in Afghanistan
+were not in accordance with Part 135 in areas, such as the use of flight plans, supplemental
+oxygen, and flight locating, and no FAA personnel were present in Afghanistan to ensure
+adherence to the specifications. Further, according to Federal regulations, the DoD had the
+responsibility to oversee Presidential Airways to ensure an enhanced level of service was
+provided to coincide with the DoD mission. However, no evidence was found to suggest that
+DoD personnel ensured that the operator demonstrated some type of effective flight-following
+capability or ensured any oversight. The Safety Board is concerned that the unique risks and
+oversight challenges presented by operations in remote overseas locations have not been
+adequately addressed for civilian contractors that provide air transportation services to the U.S.
+military.
+In summary, the Safety Board concludes:
+• The flight crew flew a nonstandard route into a box canyon and did not take
+remedial action in a timely manner.
+• The flight crew did not use supplemental oxygen as required by Federal
+regulations for the altitudes at which the flight was operating.
+• The operator did not provide sufficient oversight of and guidance to it its flight
+crews.
+• The operator did not ensure that operations in Afghanistan were conducted in
+compliance with Part 135 regulations.
+• The operator’s dispatch procedures were inadequate in that they did not ensure
+that specific routes of flight were defined and flown.
+• The operator did not adequately mitigate the limited communications
+capability at some remote sites.
+• The operator’s flight-locating procedures were inadequate in that they did not
+consistently track flight arrivals at each remote location in a timely manner.
+• Once the airplane was identified as missing, the coordination of the search and
+rescue effort was flawed, and radar data of the airplane’s last known position
+were not provided to searchers in a timely manner.
+NTSB/AAB-06/07
+
+23
+• The FAA did not provide adequate oversight of the Part 135 operations in
+Afghanistan.
+• The DoD did not provide adequate oversight of the contract carrier’s
+operations in Afghanistan that was consistent with the safety provisions of the
+DoD’s contract with Presidential Airways and the regulations in 32 CFR
+Part 861.
+• If the passenger had received timely medical assistance, followed by
+appropriate surgical intervention, he most likely would have survived.

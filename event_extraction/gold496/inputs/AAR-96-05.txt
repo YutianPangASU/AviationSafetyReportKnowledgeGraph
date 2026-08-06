@@ -1,0 +1,2804 @@
+PB96-910405 >
+NTSB/AAR-96/05
+DCA96MA008
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+COLLISION WITH TREES ON FINAL APPROACH
+AMERICAN AIRLINES FLIGHT 1572
+McDONNELL DOUGLAS MD-83, N566AA
+EAST GRANBY, CONNECTICUT
+NOVEMBER 12, 1995
+. ..
+6638B
+m *%L’bww*&*+ ‘. ‘. - .,, -.--3
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety
+Board makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L'Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)314-6551
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSB/AAR-96/05 PB96-910405
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+COLLISION WITH TREES ON FINAL APPROACH
+AMERICAN AIRLINES FLIGHT 1572
+McDONNELL DOUGLAS MD-83, N566AA
+EAST GRANBY, CONNECTICUT
+NOVEMBER 12, 1995
+Adopted: November 13, 1996
+Notation 6638B
+Abstract: This report explains the accident involving American Airlines flight 1572, an
+MD-83 airplane, which was substantially damaged when it impacted trees in East
+Granby, Connecticut, while on approach to runway 15 at Bradley International Airport,
+Windsor Locks, Connecticut, on November 12, 1995. Safety issues in the report include
+tower shutdown procedures, non-precision approach flight procedures, precipitous terrain
+and obstruction identification during approach design, the issuance of altimeter settings
+by air traffic control, low level windshear system maintenance and recertification, and
+emergency evacuation issues. Recommendations concerning these issues were made
+to the Federal Aviation Administration.
+
+
+
+CONTENTS
+EXECUTIVE SUMMARY.................................................................. vi
+1. FACTUAL INFORMATION
+1.1 History of Flight..................................................................................... 1
+1.2 Injuries to Persons .................................................................................. 11
+1.3 Damage to Aircraft................................................................................. 11
+1.4 Other Damage......................................................................................... 11
+1.5 Personnel Information............................................................................ 11
+1.5.1 The Captain............................................................................................. 11
+1.5.2 The First Officer..................................................................................... 12
+1.5.3 The Approach Controller Controlling Flight 1572................................ 12
+1.6 Airplane Information.............................................................................. 13
+1.7 Meteorological Information ................................................................... 13
+1.7.1 Surface Weather Observations............................................................... 13
+1.7.2 ATIS (Automatic Terminal Information Service) “Victor” Broadcast . 14
+1.7.3 Turbulence Definitions........................................................................... 16
+1.7.4 WSR-88D Doppler Weather Radar Data............................................... 16
+1.7.5 Low Level Windshear Alert System (LLWAS)..................................... 17
+1.7.6 NCAR Atmospheric Simulation............................................................. 18
+1.7.7 SIGMETs and AIRMETs....................................................................... 19
+1.7.8 Weather Information Provided Under AAL Procedures........................ 21
+1.7.9 Weather Information Received Via ACARS......................................... 24
+1.8 Aids to Navigation.................................................................................. 24
+1.9 Communications..................................................................................... 24
+1.10 Airport Information................................................................................ 25
+1.11 Flight Recorders ..................................................................................... 25
+1.12 Wreckage and Impact Information......................................................... 26
+1.12.1 Altimeter Setting Documentation........................................................... 26
+1.12.2 Wreckage Distribution............................................................................ 26
+1.12.2.1 Impact with Trees................................................................................... 26
+1.12.2.2 Ground Impact Information.................................................................... 29
+1.12.3 Structural Damage.................................................................................. 29
+1.12.3.1 Fuselage.................................................................................................. 29
+1.12.3.2 Wings...................................................................................................... 30
+1.12.3.2.1 Left Wing............................................................................................. 30
+1.12.3.2.2 Right Wing........................................................................................... 30
+1.12.3.3 Landing Gear.......................................................................................... 31
+1.12.3.4 Empennage ............................................................................................. 31
+iii
+
+1.12.3.5 Hydraulic System ................................................................................... 32
+1.12.3.6 Powerplants............................................................................................. 32
+1.13 Medical and Pathological Information................................................... 33
+1.14 Fire.......................................................................................................... 33
+1.15 Survival Aspects..................................................................................... 33
+1.16 Tests and Research................................................................................. 34
+1.16.1 Systems Tests.......................................................................................... 34
+1.16.1.1 Pitot-Static System................................................................................. 34
+1.16.1.2 Autopilot Systems .................................................................................. 35
+1.16.1.3 Windshear Warning System................................................................... 36
+1.16.1.4 Ground Proximity Warning System....................................................... 37
+1.16.1.5 Other Systems......................................................................................... 38
+1.17 Organizational and Management Information....................................... 38
+1.17.1 American Airlines - General .................................................................. 38
+1.17.1.1 Pilot Training.......................................................................................... 38
+1.17.1.2 American Airlines Single Visit Training............................................... 39
+1.17.1.3 Company Altimeter Procedures............................................................. 40
+1.17.1.4 Actions of American Airlines Since the Accident................................. 42
+1.17.2 FAA Surveillance of AAL Flight Operations........................................ 45
+1.17.3 FAA Instrument Approach Design Procedures...................................... 46
+1.17.3.1 Terminal Instrument Procedures (TERPS) and the VOR Approach to
+Runway 15............................................................................................ 47
+1.17.3.2 Visual Descent Point Clearances............................................................ 49
+1.17.3.3 Required Obstacle Clearance for VOR Runway 15............................... 50
+1.17.3.4 Precipitous Terrain Approach Adjustments........................................... 50
+1.17.3.5 VASI Obstacle Clearances..................................................................... 51
+1.18 Additional Information........................................................................... 51
+1.18.1 Air Traffic Control Aspects.................................................................... 51
+1.18.1.1 The TRACON Supervisor in the Tower Cab......................................... 52
+1.18.1.2 TRACON Altimeter Setting Transmissions........................................... 53
+1.18.1.3 Minimum Safe Altitude Warning (MSAW)........................................... 54
+1.18.2 Industry Actions to Improve the Safety of Non-precision Approaches 55
+1.18.2.1 Approach Plate Terrain Depictions........................................................ 55
+1.18.2.2 Non-precision Approach Flight Procedures........................................... 55
+1.18.2.3 Controlled Flight into Terrain (CFIT) Training Aids............................ 56
+1.18.2.4 Previous Recommendations on CFIT .................................................... 57
+iv
+
+2. ANALYSIS
+2.1 General.................................................................................................... 61
+2.2 Adequacy of Weather Information......................................................... 61
+2.2.1 NWS SIGMETs...................................................................................... 61
+2.2.2 Weather Conditions at BDL................................................................... 62
+2.3 Altimeter Settings................................................................................... 63
+2.3.1 Other Altimeter Errors............................................................................ 65
+2.4 The Descent Below MDA...................................................................... 66
+2.5 Actions After Tree Strike ....................................................................... 68
+2.6 Terminal Instrument Procedures (TERPS) ............................................ 68
+2.6.1 Precipitous Terrain ................................................................................. 70
+2.6.2 Approach Plate Terrain Depictions........................................................ 71
+2.7 Air Traffic Control Factors..................................................................... 73
+2.7.1 ATC Altimeter Setting Distribution Procedures.................................... 73
+2.7.2 Tower Closure and Assistance Provided by the TRACON Supervisor 74
+2.7.3 MSAW (Minimum Safe Altitude Warning)........................................... 75
+2.7.4 The Outdated ATIS Broadcast............................................................... 76
+2.8 Weather Conditions at the Time of the Accident................................... 77
+2.8.1 LLWAS Equipment................................................................................ 79
+2.9 Survival Factors...................................................................................... 80
+2.9.1 The Malfunctioning Escape Slide.......................................................... 80
+2.9.2 Evacuation Route Difficulties................................................................ 81
+3. CONCLUSIONS
+3.1 Findings.................................................................................................. 85
+3.2 Probable Cause....................................................................................... 90
+4. RECOMMENDATIONS ..................................................................... 91
+5. APPENDIXES
+Appendix A--Investigation and Hearing................................................ 95
+Appendix B--Cockpit Voice Recorder Transcript................................. 96
+Appendix C--Excerpt from AAL Flight Manual on Altimeter
+Setting Procedure.................................................................................. 128
+v
+
+EXECUTIVE SUMMARY
+On November 12, 1995, at 0055 eastern standard time a
+McDonnell Douglas MD-83, N566AA, owned by American Airlines and
+operated as flight 1572, was substantially damaged when it impacted trees
+in East Granby, Connecticut, while on approach to runway 15 at Bradley
+International Airport (BDL), Windsor Locks, Connecticut. The airplane
+also impacted an instrument landing system antenna as it landed short of the
+runway on grassy, even terrain. Flight 1572 was being conducted under
+Title 14 Code of Federal Regulations, Part 121, as a scheduled passenger
+flight from Chicago, Illinois, to Bradley International Airport.
+The National Transportation Safety Board determines that the
+probable cause of this accident was the flightcrew’s failure to maintain the
+required minimum descent altitude until the required visual references
+identifiable with the runway were in sight. Contributing factors were the
+failure of the BDL approach controller to furnish the flightcrew with a
+current altimeter setting, and the flightcrew’s failure to ask for a more
+current setting.
+The safety issues in the report focused on tower shutdown
+procedures, non-precision approach flight procedures, precipitous terrain
+and obstruction identification during approach design, the issuance of
+altimeter settings by air traffic control, low level windshear alert system
+maintenance and recertification, and emergency evacuation issues.
+Recommendations concerning these issues were made to the Federal
+Aviation Administration.
+vi
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+COLLISION WITH TREES ON FINAL APPROACH
+AMERICAN AIRLINES FLIGHT 1572
+McDONNELL DOUGLAS MD-83, N566AA
+EAST GRANBY, CONNECTICUT
+NOVEMBER 12, 1995
+1. FACTUAL INFORMATION
+1.1 History of Flight
+On November 12, 1995, at 0055 eastern standard time (EST)1, a
+McDonnell Douglas MD-83, N566AA, owned by American Airlines (AAL)
+and operated as flight 1572, was substantially damaged when it impacted trees
+in East Granby, Connecticut, while on approach to runway 15 at Bradley
+International Airport (BDL), Windsor Locks, Connecticut. The airplane also
+impacted an instrument landing system (ILS) antenna as it landed short of the
+runway on grassy, even terrain. Flight 1572 was being conducted under Title
+14 Code of Federal Regulations (CFR), Part 121, as a scheduled passenger
+flight from Chicago, Illinois, to Bradley International Airport.
+On November 10, 1995, at around 1700, the captain, first officer
+and three flight attendants reported to Washington’s National Airport (DCA)
+to begin a 3-day flight sequence together. The scheduled departure time was
+at 1800 and consisted of three flight segments the first day from DCA to
+Nashville, Tennessee, (BNA) continuing to Chicago’s O’Hare International
+Airport (ORD) and to Denver, Colorado (DEN). The airplane departed DCA
+at 1758, according to company records, flew the three segments, and arrived
+at DEN at 0310. The crew was on duty for 10 hours and 25 minutes, and had
+accumulated 5 hours and 53 minutes actual flight time. Due to the crew’s late
+arrival in DEN, the regularly scheduled layover of 15 hours and 18 minutes
+was reduced to 13 hours and 35 minutes.
+1All times in this report are eastern standard time unless otherwise noted.
+
+2
+At 1615, on November 11, the flightcrew departed the hotel in
+DEN for a scheduled check-in time of 1700. The airplane they were to fly
+arrived late from ORD; the inbound flightcrew reported that N566AA was a
+“good airplane.” Flight 1572 originated in DEN and departed there at 1809,
+with the first officer as the flying pilot, arriving at ORD at 2047. The flight
+was 23 minutes late, based on the scheduled arrival time of 2024. The
+flightcrew stated that the airplane performed normally and that the flight was
+uneventful.
+Originally, flight 1572 was scheduled to depart ORD for BDL at
+2125. However, due to the late arrival of connecting passengers and weather,
+the flight was delayed about 2 hours. The airplane departed ORD for BDL at
+2305, with the captain as the flying pilot. After takeoff, the American
+Airlines dispatcher, via the Automatic Communications and Recording
+System (ACARS), provided the flightcrew with updated weather and wind
+conditions at BDL as part of the flight plan review message. The remark,
+“PRESFR” (pressure falling rapidly)2 was included on the weather sequence
+in the message. The flightcrew reported that the flight was uneventful during
+cruise, although the captain stated that he changed from a cruise altitude of
+FL3330 (about 33,000 feet) to FL350 (about 35,000 feet) to avoid an area of
+turbulence. According to the captain, the flight was cleared direct to BDL
+about 300 miles from the airport.
+During the descent, the flightcrew received two messages over
+the ACARS relating to the BDL weather. The first message was sent by
+American’s dispatcher at 0030 and provided the flightcrew with the altimeter
+setting of 29.23 inches Hg. that would cause the flightcrew’s altimeters to
+indicate feet above field elevation (QFE), and the altimeter setting of 29.42
+inches Hg. that would cause the standby altimeter to indicate feet mean sea
+level (msl) (QNH) at BDL.4 At 0031, another message was sent to the
+2Pressure Falling Rapidly (PRESFR): A fall in pressure at the rate of 0.06
+inch [Hg.] per hour which totals 0.02 inch or more.
+3Flight Level - Level of surface of constant atmospheric pressure assuming a
+datum of 29.92 inches Hg., expressed in hundreds of feet; thus, if the actual atmospheric
+pressure is 29.92 inches Hg., FL220 indicates exactly 22,000 feet. If the actual atmospheric
+pressure is greater (or less) than 29.92 inches Hg., FL220 will be at an altitude
+correspondingly higher (or lower).
+4It is AAL’s policy to set the flightcrew’s altimeters to QFE and the standby
+altimeter to QNH when below 10,000 feet. Following the accident, neither crewmember
+
+3
+flightcrew by the dispatcher advising them that airplanes had been making
+landings at BDL, and that those airplanes had been experiencing turbulence
+and windshear on final approach.
+At 0032, the airplane was instructed to descend to FL190 (about
+19,000 feet) by the air route traffic control center (ARTCC) controller. Also
+at that time, the cockpit voice recorder (CVR) recorded the last part of the
+automatic terminal information service (ATIS) information "Victor" for BDL.
+This part of information Victor gave an altimeter setting of 29.50 inches Hg.
+and stated that the significant meteorological information (SIGMET) “X-ray
+three” was in effect, which reported severe turbulence below 10,000 feet. At
+0033, the flightcrew received further instructions from the ARTCC controller
+to descend and maintain 11,000 feet and the controller announced the Bradley
+altimeter setting to be 29.40 inches Hg. The flightcrew acknowledged the
+altimeter setting and the clearance. As recorded on the CVR, the first officer
+then listened to the entire ATIS information “Victor” message at 0034. He
+then noted to the captain that the ATIS information was about 1 ½ hour old.
+During the descent, at 0032:23, the captain advised the flight
+attendants to secure the cabin due to turbulent conditions. At 0038:45, as part
+of the before-landing checklist, the first officer asked, “altimeters?” The
+captain said, “twenty nine fifty.” The first officer stated, “they called twenty
+nine forty seven5 when we started down...what ever you want.” The captain
+replied, “OK.” The flightcrew briefed for the VOR6 approach to runway 15.
+The CVR recorded the captain stating at 0042:48, “One seventy four’s the
+elevation so, twenty nine, twenty three. Set and cross checked.” The first
+officer responded, “minus uh,” to which the captain replied,
+remembered the 0030 ACARS message or the associated altimeter settings provided them
+by the company. However, papers retrieved from the accident airplane included the
+ACARS message annotated with the handwritten ATIS information “Victor” that was
+copied onto the ACARS message 1 minute after that message was received.
+5It is not known why the first officer announced an altimeter setting of 29.47
+inches Hg. The ACARS message at 0030 gave a setting of 29.42 inches Hg., and the
+ARTCC controller gave a setting of 29.40 inches Hg. at 0033.
+6Very high frequency omnidirectional radio range.
+
+4
+JEPPESEN WINDSOR LOCKS, CONN
+z
+ATIS BRADLEY lNTL
+118.15
+RADLEY Approach (R) 125.8 3500’ 1 2700’ VOR Rwy 15
+RADLEY Tower 120.3 t (GPS) VOR 109.OBDL
+Ground 121.9 ,0 2 -. BD M L S V A OR KBDL Apt. Elev 174’
+; MOIOS
+Maximum holding airspeed
+at Mistr Int 265 Kts.
+I 2.QO D;~foN :)1-.0..9 .. 0. . .8 .0 .L
+.1391’ 819’0
+Y
+DO. 2
+----- --------- ;
+~ MISSED
+, APCH FIX
+,
+l , DODA Y
+700’
+1
+I
+1 $g~
+7s.m 71.s0 ! 1 J
+Maxi mum holding airspeed at Mistr Int 265 kts. VOR -
+A4;4,:R
+D::LON
+1680- +328” I
+i Min DO.2
+3 5 0 0 ’ p~48”- 2000’ ~
+(JJ28’)
+I - (182~’J ~~i<
+I
+5.0 I 4.a ~TDZE 172’
+APT. 174’
+MISSED APPROACH: Climb to 3000’ outbound via BDL VOR R-149 to DODAY [NT/
+D1l. O BDL VOR and hold.
+STRAIGHT. IN LANDING RWY 15 I CIRCLE. TO-LAND
+.wo~(H 1080’( 900’) M.,
+Kfs MOA(HI
+1 Y, I 9 0 ]080’{906’:-1 YA
+10
+2 Y4 140 lo81)’906,;-7~4
+3 165 1080’ 906; -3
+;.@ ,o**a .x,’ :.- vo ;cJ I )20 {40 160 I
+Figure 1.--BDL VOR runway 15 instrument approach plate.
+
+5
+“showing seventy...check seventy7 feet difference.” The flightcrew contacted
+approach control at 0043:41 and the flight was told to “expect [the] VOR
+runway [15] approach.”8 At 0045:54, approach control instructed the flight to
+descend to 4,000 feet. Approach control stated the winds were “one seven
+zero at two nine gusts three nine.” A vector for the runway 15 final approach
+course was then issued. (See Figure 1.) At 0049:41, the approach controller
+cleared the flightcrew for the runway 15 approach. At 0049:57, he advised
+the flightcrew that the tower was temporarily closed because of a problem
+with one of the windows, and to report the “down time” on approach control
+frequency.
+According to the first officer, the flightcrew intercepted the
+approach course at around 3,500 feet about 15 miles from the airport, and the
+captain began configuring the airplane for landing. The captain stated that he
+had the radar on the 20-mile range, observed no convective activity between
+their position and the airport, and then turned the radar off. The descent and
+approach were flown using the autopilot, and the CVR indicated that the
+flightcrew had selected 11 degrees of flaps prior to crossing the 10 nautical
+mile DME (distance measuring equipment) fix named MISTR. The captain
+stated that he selected the VOR/LOC (localizer) mode for the autopilot during
+the approach; however, due to the strong winds, the autopilot attempted to
+apply about a 30-degree course correction and the “autopilot couldn't hold it.”
+Approach control then advised the flightcrew that the airplane was left of
+course. (See Figures 2a, 2b and 2c.) The captain stated that he changed the
+mode of the autopilot to HDG SEL (heading select) to manually recapture the
+inbound course. After crossing MISTR, the airplane was configured for
+landing with 40 degrees flaps and the landing gear down. At 0051:44, the
+captain began the descent to 2,000 feet using the VERT SPD (vertical speed)
+mode for pitch control on the autopilot mode control panel. Two thousand
+feet was the final approach fix crossing altitude. The captain stated that the
+airplane encountered moderate turbulence and very heavy rain during this part
+of the descent.
+7The CVR group reported the word “seventy” to be unintelligible. The
+accident flightcrew offered the word as being “seventy” after they reviewed the CVR.
+8The runway 15 approach to BDL is used primarily when the winds are such
+that the speed and direction preclude the safe use of the airport’s primary runway (06/24).
+
+6
+The autopilot captured the airplane’s altitude at 2,000 feet, prior
+to their arrival at the final approach fix, named DILLN, which was 5 DME
+from the VOR. After passing DILLN, the captain told the first officer to set
+the missed approach altitude of 3,000 feet in the flight guidance control panel
+(FGCP). He began the descent to the minimum descent altitude (MDA)9 of
+908 feet above the field elevation, using the VERT SPD mode of the
+autopilot. At 0054:22, the captain asked the first officer to “give me a
+thousand down.”
+Although the tower was temporarily closed at this time, a
+TRACON supervisor was in the tower cab and communicated with the
+flightcrew. (See Section 1.18.1.1 for details.) At 0054:51, the TRACON
+supervisor in the tower issued a windshear alert giving winds for the
+centerfield, northeast boundary, and southeast boundary of the airport. At
+0055:06, the first officer stated, “there’s a thousand feet...cleared to land.” At
+0055:11, he further stated, “...now nine hundred and eight is your uh...” The
+captain replied, “right.”
+The first officer later told investigators that he had ground
+contact “straight down” and, as the airplane was “at the base of the clouds,”
+he began looking for the field visually. He then looked back at his altimeter
+and saw that the airplane was descending below the MDA. Following a short
+period of flying through turbulence, at 0055:26.3, the first officer stated
+“you’re going below your….”10 According to the captain's interview and the
+flight data recorder, at this point the captain pushed the altitude hold button
+for the autopilot.
+According to the CVR, the “sink rate” warning was heard
+approximately four seconds prior to the first impact with trees. At 0055:30.4,
+the CVR recorded a sound of impact.11 The captain later stated that he then
+heard a “loud report,” followed by severe turbulence.
+9The lowest altitude, expressed in feet above mean sea level, to which
+descent is authorized on final approach or during circle-to-land maneuvering in execution of
+a standard instrument approach procedure where no electronic glideslope is provided.
+10During a postaccident interview, the captain stated that the first officer
+said, "100 below" at that time, rather than "you're going below your.…"
+11Investigators determined that the first impact point was with trees on the
+top of a ridge line approximately 2.54 nautical miles northwest of the approach end of
+runway 15.
+
+
+
+
+
+
+
+10
+According to the first officer, the captain called for a go-around and
+“firewalled the throttles.” Flaps were selected to 15 degrees, and the landing
+gear handle was placed in the “up” position. Both flight crewmembers
+reported that the on-board windshear warning system and the ground
+proximity warning system (GPWS) activated after the impact, which was
+confirmed by the CVR recording. The captain stated that in a “second or
+two,” the turbulence stopped, and, at 0055, according to the CVR recording,
+he said to the first officer “Left motor's failed.”
+The airspeed started to decrease, and the airplane began a slow
+descent. The rain stopped, and the first officer saw the runway. According to
+the captain, the right engine was not sustaining full thrust, and, at 0056, he
+said, “Tell 'em we're goin down.” The first officer complied. The first officer
+then stated to the captain, “you're going to make it,” and queried whether the
+captain wanted the landing gear lowered. The first officer then selected the
+landing gear to the “down” position.
+The captain stated that he then called for flaps to be lowered to
+40 degrees to achieve a “balloon effect” to reach the runway. The airplane
+clipped the top of a tree near the end of the runway, impacted and destroyed
+most of the ILS antenna array located at the end of the safety overrun area for
+runway 33, and landed on the edge of the stopway. The airplane rolled down
+the stopway and continued down runway 15, stopping on the runway beyond
+the intersection of runway 6/24 near the tower.
+An evacuation was initiated and the passengers and
+crewmembers exited the airplane. The initial tree strike occurred at
+approximately 41 degrees, 58.22 minutes north latitude and 072 degrees,
+44.38 minutes west longitude during the hours of darkness. The ground
+elevation of the first impacted tree was 728 feet above msl, and the height of
+the tree where it was determined to be struck was about 770 feet msl.
+
+11
+1.2 Injuries to Persons
+Injuries Flightcrew Cabincrew Passengers Other Total
+Fatal 0 0 0 0 0
+Serious 0 0 0 0 0
+Minor 0 0 1 0 1
+None 2 3 72 0 77
+Total 2 3 73 0 78
+1.3 Damage to Airplane
+According to American Airlines officials, damage to the airplane
+amounted to approximately $9,000,000.
+1.4 Other Damage
+According to FAA and Bradley International Airport officials,
+damage to the ILS antenna array and other airport equipment amounted to
+approximately $74,620.00
+1.5 Personnel Information
+1.5.1 The Captain
+Date of birth: 07-01-56
+Ratings and Certificates:
+Airline Transport Pilot Certificate Number 92480401, issued 08-05-91.
+Type Rating: DC-9/Airline Transport Pilot
+Flight Engineer Certificate Number 92480401, issued 05-24-85
+Rating: Turbojet powered/FE
+Medical certificate: First Class issued 08-29-95, no restrictions
+Date of hire with AAL: 04-11-85
+Second in Command (SIC) time (MD80) since 09-08-86: 2,716 hours
+Pilot in Command (PIC) time, (DC-9/MD80) since 08-22-91: 1,514 hours
+Total flying time: 8,000 hours total, 5,000 hours civilian, 2,300 military
+Total flying time last 24 hours: 10 hours
+Total flying time last 7 days: 10 hours
+Total flying time last 30 days: 20 hours
+
+12
+Total flying time last 60 days: 55 hours
+Total flying time last 90 days: 55 hours
+Last recurrent training: 08-21-95
+Last proficiency check: 08-21-95
+Last line check: 07-17-95
+1.5.2 The First Officer
+Date of birth: 11-16-56
+Certificates and ratings:
+Airline Transport Pilot Certificate Number 527063950, issued 08-27-88
+Airplane Multiengine Land/Airline Transport Pilot
+Airplane Single Engine Land/Commercial Pilot
+Medical: First Class issued 03-13-95, no restrictions
+Date of hire with AAL: 05-24-89
+Second in Command (SIC) time, (MD-80) since 08-21-90: 2,281 hours
+Total flying time: 5,100 hours total, 2,500 hours military, 2,600 hours civilian
+Total flying time last 24 hours: 10 hours
+Total flying time last 7 days: 13 hours
+Total flying time last 30 days: 60 hours
+Total flying time last 60 days: 123 hours
+Total flying time last 90 days: 167 hours
+Last recurrent training: 08-19-95
+Last proficiency check: 08-19-95
+Last line check: 08-21-90
+1.5.3 The Approach Controller Controlling Flight 1572
+Date of hire by FAA: December, 1991
+Last Tape Talk: May 25, 1995 (no deficiencies noted)
+Medical Certification: November 6, 1995 (no restrictions or limitations)
+Facility records indicated that the approach controller was
+current in all refresher and supplementary training. These topics included
+Severe Weather, Traffic & Safety Advisories, Emergencies, Seldom Used
+Procedures, Unusual Situations, Low Level Windshear, Winter & Summer
+Operations, Revised MVA Video Map, various operational bulletins, and
+operational error prevention bulletins. No remedial training was noted. There
+was no evidence of an operational error or deviation in the past 2 years.
+
+13
+1.6 Airplane Information
+N566AA, serial number 49348, is a McDonnell Douglas MD-83
+twin engine transport category airplane. At the time of the accident, the total
+airframe time was 27,628 hours.
+Based on flight plan data, estimated fuel remaining on approach
+to BDL was 15,600 pounds, and estimated landing weight was 118,360
+pounds with an estimated center of gravity (CG) of 18.1 percent mean
+aerodynamic chord (MAC). The allowable CG range from the MD-80
+Approved Aircraft Flight Manual at 118,050 pounds is -0.8 percent to 33.4
+percent.
+The airplane was equipped with two Pratt & Whitney JT8D-219
+turbofan engines with a normal takeoff thrust rating of 21,000 pounds and a
+maximum takeoff thrust rating of 21,700 pounds. Engine times and cycles:
+LEFT RIGHT
+Serial Number 725677 708519
+Total time (hrs) 13,014 34,681
+Total cycles 7,409 19,992
+1.7 Meteorological Information
+The National Weather Service (NWS) Surface Analysis for
+November 12 at 0100 showed a deep low (986 millibars) over Quebec with an
+occluded front extending south across Eastern New York State. A secondary
+low pressure center was located over New York City. There were strong
+southerly winds ahead of the front and strong westerly winds behind it. A
+large area of rain existed over New England.
+1.7.1 Surface Weather Observations
+Surface Weather Observations at BDL are made by the NWS
+during the day, and a private contractor, Midwest Weather Inc., during the
+
+14
+evening hours. The following weather observations for BDL were made by
+Midwest Weather:
+November 11 at 2352: Record 2,200 feet scattered; measured
+ceiling 2,800 feet overcast; visibility 5 miles; light rain;
+temperature 61 degrees F; dew point 57 degrees F; winds 160
+degrees at 28 knots gusts to 40 knots; altimeter setting 29.42
+inches Hg; peak wind 160 degrees at 42 knots at 2318;
+pressure falling rapidly.
+The observation was transmitted to the BDL Air Traffic Control
+Tower, at 2353.
+November 12 at 0051: Record 1,700 feet scattered; measured
+ceiling 2,800 feet overcast; visibility 3 miles; moderate rain;
+temperature 61 degrees F; dew point 58 degrees F; winds 170
+degrees at 25 knots gusts to 40 knots; altimeter setting 29.35;
+pressure falling rapidly. Peak wind 170 degrees at 43 knots at
+0018.
+The observation was transmitted to the BDL control tower at
+0057.
+1.7.2 ATIS (Automatic Terminal Information Service) “Victor”
+Broadcast
+BDL ATIS recordings are created by BDL Federal Aviation
+Administration (FAA) personnel and use weather information from the NWS
+or Midwest Weather, depending upon the time the weather information is
+formulated. ATIS broadcast "Victor," recorded at 2251, included the
+information below. The next ATIS broadcast was not created until after the
+accident.
+Bradley Airport Information Victor zero three five one Zulu
+[2251 EST]: Weather two thousand two hundred scattered,
+measured ceiling two thousand seven hundred overcast,
+visibility one zero, light rain, temperature six two, dew point
+five seven, wind one six zero at two eight gust three niner,
+altimeter two niner five zero, approach in use ILS runway two
+
+15
+four or VOR runway one five. Notice to Airmen: runway two
+four and runway one five open and wet, low level windshear
+advisories are in effect. Taxiway tango restricted to aircraft
+with a wingspan of less than one hundred seventy one feet.
+SIGMET X-ray Three is valid for severe turbulence below
+one zero thousand [SIGMET X-ray Three actually noted
+severe turbulence below one three thousand]. Predeparture
+clearances are available, advise on initial contact you have
+Victor.
+ATIS Victor broadcast continually through the time of the
+accident. The Air Traffic Control Handbook, FAA Order 7110.65, states that
+a new ATIS recording should be made “Upon receipt of any new official
+weather regardless of whether there is or is not a change in values.” The
+controller responsible for updating the ATIS hourly said that he had been
+planning to make a new recording but was waiting for the new weather to be
+displayed on the SAIDS (Systems Atlanta Information Display System). He
+said that he left the tower about midnight, and, at that time, the most current
+weather conditions had not appeared on the SAIDS equipment. He did not
+advise the on-coming controller that the weather had not yet appeared, and
+that a new ATIS should be made. When he gave the briefing to the relieving
+controller, the new weather conditions were still not available, and the
+telephones to the NWS did not work. He said that in such situations,
+controllers usually call the airport police station, and an officer goes across
+the hall to the NWS office, which, in turn, calls the tower and relays the
+weather information. He also said that this situation has occurred many times.
+However, this procedure was not implemented on the night of the accident.
+The relieving tower controller said that he listened to the ATIS,
+but he did not notice the time on it. He did not notice if the SAIDS incoming
+information warning light was blinking, which would have indicated that new
+weather information was available. He said that the environment was very
+noisy (wind noise), and that he heard no SAIDS incoming information
+warning tones.
+
+16
+1.7.3 Turbulence Definitions
+The following definitions are given in the Forecasting Guide on
+Turbulence Intensity, National Weather Service Operations Manual, Chapter
+D-22:
+Light turbulence .. Absolute value of vertical acceleration (G)
+>.2 G to .5 G.
+Moderate turbulence .. Absolute value of vertical acceleration
+>.5 G to 1.0 G.
+Severe turbulence .. Absolute value of vertical acceleration
+>1.0 G to 2.0 G.
+Review of the FDR vertical acceleration trace for flight 1572
+from the time of the tree strike indicates an absolute value of the maximum
+change in vertical acceleration of about .5 G. The absolute value of the
+maximum change in indicated airspeed is about 10 knots.
+1.7.4 WSR-88D Doppler Weather Radar Data
+The Velocity Azimuth Display (VAD) Vertical Wind Profile
+from the Brookhaven, New York, WSR-88D radar (70 nautical miles south of
+BDL) showed the following estimated values at 0055:
+Height Wind Direction (degrees) Wind Speed (knots)
+1,000 160 60
+2,000 170 80
+3,000 170 80
+The VAD Vertical Wind Profile for 0051 from the WSR-88D
+Doppler Weather Radar at the National Weather Service Forecast Office,
+Taunton, Massachusetts (69 nautical miles east of BDL) showed:
+Height Wind Direction Wind Speed
+1,000 160 45
+2,000 160 60
+3,000 180 75
+
+17
+Estimated upper winds generated on the Safety Board's
+McIDAS12 workstation, based on November 11 at 1900 upper air data,
+showed the following for the BDL area:
+Height Wind Direction Wind Speed
+1,000 170 51
+2,000 170 54
+3,000 180 56
+4,000 180 60
+1.7.5 Low Level Windshear Alert System (LLWAS)
+A Phase II LLWAS was installed and operational at BDL at the
+time of the accident. The system consists of five wind sensors; one is located
+at the centerfield and the other four are situated around the periphery of the
+airport [northeast, northwest, southwest, southeast]. The system was
+recertified on November 12, 1995, the day of the accident, and was found to
+be within tolerances. According to FAA Airways Facilities personnel,
+recertification involves removing each sensor from its stationary base and
+then testing it to ensure it operates properly. The recertification process does
+not include checking for proper alignment of the sensors on their stationary
+bases.
+The approximate location of the first tree strike was about 289
+degrees at 1.5 nautical miles from the northwest LLWAS wind sensor, the
+closest sensor to the tree strike. The following wind information was
+recorded from this sensor:
+Time Direction/Speed Time Direction/Speed
+0055:17 220/12 0056:57 215/20
+0055:27 214/12 0057:07 215/18
+0055:37 208/10 0057:17 215/16
+12McIDAS - Man Computer Interactive Data Access System. McIDAS is an
+interactive meteorological analysis and data management computer system. McIDAS is
+administered by personnel at the Space Science and Engineering Center at the University of
+Wisconsin at Madison. Data are accessed and analyzed on an IBM PS/2 Model 77
+computer.
+
+18
+0055:47 210/09 0057:27 216/15
+0055:57 223/06 0057:37 210/14
+0056:07 227/08 0057:47 203/12
+0056:17 225/13 0057:57 201/10
+0056:27 215/18 0058:07 203/10
+0056:37 215/21 0056:47 214/22
+FAA personnel reviewed the BDL LLWAS data from October 31
+to November 12, via the FAA Site Performance Evaluation System (SPES).
+The analysis indicated that the northwest LLWAS sensor was misaligned by
+approximately 20 degrees.
+On February 5, 1996, the Safety Board requested that the FAA
+provide information on whether the alignment of the northwest sensor was
+checked and whether any corrections were made. Shortly thereafter, the FAA
+replied that the Weather Systems Engineering Branch, AOS-250, received the
+latest LLWAS meteorological data (the analysis period was from January 13,
+1996 to January 21, 1996) from BDL on February 14, 1996, and the northwest
+sensor still appeared to be misaligned. A copy of all pertinent SPES data was
+faxed to the airways facilities technicians at BDL on February 15, 1996, and
+an inspection of the northwest sensor's anemometer alignment was performed
+by certified LLWAS technicians at the airport. The anemometer was found to
+be out of alignment by 38 degrees and was corrected on February 16, 1996.
+The FAA indicated that the misaligned sensor did not appear to degrade the
+system during the analyzed period.
+According to FAA Airways Facilities personnel, the SPES
+information is analyzed monthly. Misaligned LLWAS wind sensors as well
+as failed components are identified and field personnel at the affected airports
+are notified. However, due to staffing limitations, it may be 3 to 6 months
+before the alignment of the wind sensors is physically checked by field
+personnel.
+1.7.6 NCAR Atmospheric Simulation
+A theoretical atmospheric simulation was accomplished to
+estimate the meteorological conditions that affected flight 1572 during the
+approach to BDL. The simulation was performed by scientists at the National
+
+19
+Center for Atmospheric Research (NCAR). The simulation was run on a Cray
+supercomputer using averaged information from horizontal increments of
+about 42 meters.
+The results of the simulation indicated that a pressure decrease of
+about 1 millibar (1 millibar = 0.03 inch of Hg.) and downdrafts of about 400
+feet per minute occurred near and to the northwest (lee side) of the ridge
+where the airplane contacted the trees. The pressure decrease and downdrafts
+extended to the lee side of the ridge for a horizontal distance of about 0.3
+nautical miles. According to an NCAR scientist, the decrease in pressure may
+have been underestimated by 2 to 3 times over distances smaller than the
+horizontal resolution of the simulation. The strength of the downdrafts was
+not underestimated.
+1.7.7 SIGMETs and AIRMETs
+The following SIGMETs13 and AIRMETs14 were applicable to
+the time and route of flight of the accident airplane. They were generated by
+the NWS Aviation Weather Center, Kansas City, Missouri.
+AIRMET Tango was issued on November 11 at 2145 and was
+valid until November 12 at 0400:
+Turbulence - Moderate turbulence below 15,000 feet due to
+strong winds and cold front moving across the area. Moderate
+turbulence between 15,000 and 40,000 feet due to strong
+winds and mid/upper level trough. Conditions mainly
+southwestern half of area spreading across remainder of area
+by 0400.
+13Significant meteorological information. An in-flight advisory forecast
+issued by the NWS Aviation Weather Center that advises of weather (other than convective
+activity) that is potentially hazardous to all aircraft. These reports cover large geographic
+areas of at least 3,000 square miles.
+14Airman’s meteorological information - An in-flight advisory forecast
+issued by the NWS Aviation Weather Center that advises of weather (other than convective
+activity) that may be hazardous to light aircraft, aircraft operating under visual flight rules
+(VFR), and inexperienced pilots. AIRMETs include moderate icing, moderate turbulence,
+and IFR conditions. These reports cover large geographic areas of at least 3,000 square
+miles.
+
+20
+Strong Surface Winds - Sustained surface winds greater than
+30 knots expected.
+Low Level Windshear Potential throughout the entire area.
+AIRMET Zulu was issued on November 11 at 2145 and was
+valid until November 12 at 0400:
+Icing - Occasional moderate rime icing in cloud between
+freezing level to 20,000 feet. At 2200 freezing level 7,000 to
+9,000 feet western portions of area, sloping 10,000 to 12,000
+feet eastern sections.
+AIRMET Sierra was issued on November 11 at 2215 and was
+valid until November 12 at 0400.
+IFR - Occasional ceilings below 1,000 feet and visibility
+below 3 miles in precipitation and fog.
+SIGMET November 2 was issued on November 11 at 1930 and
+was valid until November 11 at 2330:
+Moderate occasional severe rime/mixed icing in cloud and in
+precipitation between 12,000 and 18,000 feet.15
+SIGMET November 3 was issued on November 11 at 2235 and
+was valid until November 12 at 0235:
+Moderate occasional severe rime/mixed icing in cloud and in
+precipitation between 12,000 and 18,000 feet. Severe mixed
+reported by ATR-42 near Bridgeport at 2208 (November 11).
+SIGMET X-ray 3 was issued on November 11 at 1840 and was
+valid until 2240:
+15Canaan, New York, (approximate beginning of descent of flight 1572) is
+about 20 nautical miles east of the eastern extent of the area outlined by this SIGMET.
+
+21
+Moderate occasional severe turbulence below 13,000 feet due
+to strong low level winds. Low level windshear also
+expected.
+SIGMET X-ray 4 was issued on November 11 at 2240 and was
+valid until November 12 at 0240:
+Moderate occasional severe turbulence below 13,000 feet due
+to strong low level winds. Low level windshear also
+expected.
+The SIGMETs and AIRMETs were not given to the flightcrew of
+flight 1572 because AAL has its own meteorology department that prepares
+weather information for its flightcrews.
+1.7.8 Weather Information Provided Under AAL Procedures
+An American Airlines meteorologist who worked the 1600 to
+0000 shift on November 11 stated that a SIGMEC16 was issued for BDL
+during the day on November 11, 1995, to cover low level windshear,
+moderate turbulence below 8,000 feet and moderate icing in clouds and in
+precipitation between 10,000 to 18,000 feet. The SIGMEC was valid from
+November 11 at 1400 to November 12 at 0300 and stated:
+Occasional moderate turbulence is expected below 8,000 feet
+as strong winds develop during the afternoon and evening.
+Low level windshear also possible. Occasional moderate
+icing likely especially in the evening as widespread
+precipitation approaches/develops across the area. Affected
+altitudes 10,000 to 18,000 feet.
+16An FAA-approved weather product issued by AAL weather staff to support
+AAL flight operations. SIGMECs are issued when weather conditions exist for moderate or
+greater icing, low level turbulence, low level windshear, and/or thunderstorm activity in the
+vicinity of the terminal area. The terminal area is defined as about a 25 mile radius of the
+airport. En route SIGMECs are issued for significant weather conditions to include
+moderate or greater icing or turbulence and thunderstorms. SIGMECs cover geographic
+areas more specific to a particular AAL route of flight than do the more wide-ranging NWS
+SIGMETs.
+
+22
+The SIGMEC was based upon the following weather conditions:
+1. Observed surface winds 160 degrees at 28 knots with
+gusts to 40 knots.
+2. Observed winds aloft were between 60 to 80 knots from
+the surface to 5,000 feet.
+3. Surface barometric pressure was falling rapidly due to
+approaching low pressure system.
+4. Weather radar indicated heavy rain showers and
+isolated thunderstorms approaching BDL from Long Island
+Sound.
+5. Numerous reports of low level windshear and moderate
+turbulence were received throughout the day from heavy
+aircraft in the New England area due to strong and gusty
+winds.
+A meteorologist who worked the 0800 to 1600 shift stated that
+the SIGMEC was issued on the evening of November 11, 1995, for icing and
+turbulence because of icing reports from the area of the United States from
+which the weather was coming and because winds were forecast to be at an
+intensity/shear level that would justify possible low level windshear and
+moderate turbulence around BDL that evening. To the best of the
+meteorologist's recollection, reports from larger airplanes were indicating
+moderate turbulence "upstream" from the area of concern.
+A meteorologist who came on duty at midnight on November 12
+noted that the SIGMEC for BDL was in effect. He concluded that the
+SIGMEC continued to be valid based upon meteorological information and
+pilot reports available to the meteorologist. Therefore, the meteorologist
+believed that no further action was required to update this SIGMEC.
+The AAL meteorology staff stated that the NWS SIGMETs and
+AIRMETs were not provided to flight 1572 because the AAL Weather
+Services is the FAA EWINS (Enhanced Weather Information System)-
+approved source of weather information. They further stated that the
+
+23
+SIGMECs generated by AAL Weather Services are an approved part of the
+EWINS agreement with the FAA. SIGMECs are designed to cover adverse
+weather phenomena, such as turbulence, icing and volcanic ash activity, along
+a particular aircraft’s route of flight. According to the AAL meteorology
+staff, NWS SIGMETs are not usually provided to flightcrews by dispatchers
+because the dispatchers use the products of the AAL meteorologists rather
+than the NWS and because SIGMECs provide more specific information
+pertinent to the route of flight.
+The dispatcher of flight 1572 stated that per AAL’s dispatcher
+procedures, the flight release contained company-generated SIGMECs, but
+that NWS SIGMETs were available to dispatchers by computer at the dispatch
+position.
+The flight release information provided by the dispatcher to the
+flightcrew of flight 1572 included the terminal SIGMEC for BDL, and the
+terminal SIGMEC for Syracuse, New York (SYR) issued on November 11 at
+1205 valid until November 12 at 0100, stating:
+Occasional moderate icing in clouds and in precipitation is
+expected from 10,000 feet to flight level 18,000 feet, as
+widespread precipitation develops through the afternoon.
+Lower limit of icing is expected to approach surface from
+west to east this afternoon as a wintery mix of precipitation
+approaches the area.
+Occasional moderate turbulence is also expected below 8,000
+feet as strong low level southerly winds shift to strong
+northerly and northwesterly winds after frontal passage. Brief
+low level windshear is possible especially near the cold front.
+An American Airlines En Route Turbulence Index of "2" was
+indicated at flight plan altitude from top of climb to beginning of descent.
+According to American Airlines meteorologists, a "2" indicates a forecast of
+at most moderate chop.
+
+24
+1.7.9 Weather Information Received Via ACARS
+The following weather information was transmitted to the
+flightcrew during the flight via the American Airlines ACARS:
+Time 2320 - BDL 2250 surface weather observation - 2,200
+feet scattered, measured ceiling 2,700 feet overcast; visibility
+10 miles, light rain; temperature 62 degrees F; dew point 57
+degrees F; winds 160 degrees at 26 knots gusts to 35 knots;
+altimeter setting 29.51 inches Hg.; peak wind 160 degrees at
+35 knots; pressure falling rapidly.
+Time 0030 - Weather Data as of 12/0001:
+Altimeter setting 29.42 msl.
+Pressure Altitude 645 feet ABV.
+Conversion 29.23 Inches Hg.
+Temperature 61 degrees F.
+Time 0031 - Attention [captain's name] - Have information
+from BDL Tower that aircraft have been making landings but
+have advised of turbulence and low level windshear on final.
+Winds are more aligned with runway at BOS if that becomes
+necessary.
+1.8 Aids to Navigation
+The FAA Maintenance Management System Log Incident
+Summary Listing stated that the postaccident BDL VOR flight check was
+satisfactory. The Summary Listing also stated that an evaluation of technical
+performance of ground equipment was completed for the BDL VORTAC,
+BDL VASI, and BDL ATIS, and no problems were noted.
+1.9 Communications
+There were no known communications difficulties associated
+with flight 1572.
+
+25
+1.10 Airport Information
+Bradley International Airport is served by three paved runways.
+The field elevation is 174 feet msl. Runway 6/24 is 9,502 feet long and 200
+feet wide. There is an ILS CAT I and a VOR or global positioning system
+(GPS) approach to runway 24 and an ILS CAT II and III, VOR, a
+nondirectional beacon (NDB) or GPS to runway 6. Runway 1/19 is 5,145 feet
+long and 100 feet wide. There are no instrument approach procedures
+published for this runway.
+Runway 15/33 (the accident runway) is 6,846 feet long and 150
+feet wide, with a 998 foot unpaved safety overrun area for runway 33. There
+is an ILS CAT I approach to runway 33 and a VOR (GPS) approach to
+runway 15. The BDL runway 15 VOR approach is used most often when the
+speed and direction of the winds preclude the use of the primary runway
+06/24. The runway 15 threshold elevation is 170 feet msl and the touchdown
+zone elevation is 172 feet msl. Runway 15 is equipped with high intensity
+runway lights (HIRL), runway end identifier lights (REIL), and a visual
+approach slope indicator (VASI)-L (angle 3.5 degrees.). The runway is
+grooved.
+The BDL VOR is located just north of the intersection of
+runways 6/24 and 15/33. The control tower and airline terminal buildings are
+located south of the intersection of runway 6/24 and 15/33.
+The airport has an FAA-approved emergency plan, and it is
+certificated as Aircraft Rescue and Fire Fighting (ARFF) Index D, in
+accordance with 14 CFR 139.17
+1.11 Flight Recorders
+The airplane was equipped with a Sundstrand Model UFDR
+(S/N 7605) digital flight data recorder (DFDR). It recorded 78 parameters.
+17Index D is the FAA ARFF index for air carrier aircraft of at least 126 feet
+but less than 159 feet in length. 14 CFR 139 requires that a minimum of three ARFF
+vehicles be available that carry an amount of water and commensurate quantity of fire-
+fighting foam so that the total quantity of water for foam production carried by all three
+vehicles is at least 4,000 gallons.
+
+26
+The flight recorder tape was found undamaged with no evidence of excessive
+wear. The airplane was also equipped with a Fairchild model A-100A cockpit
+voice recorder (CVR) (S/N 53395). See Appendix B for a transcript of the
+CVR recording that lasts 31 minutes and 29 seconds. Figures 3a and 3b
+contain pertinent FDR parameters overlaid with pertinent flightcrew
+comments recorded on the CVR.
+1.12 Wreckage and Impact Information
+1.12.1 Altimeter Setting Documentation
+Following the accident, the barometric pressure settings in the
+altimeters were observed to be as follows:
+Captain's: 29.23 inches Hg.
+First officer's: 29.23 inches Hg.
+Standby: 29.47 inches Hg.
+1.12.2 Wreckage Distribution
+1.12.2.1 Impact with Trees
+The initial impact mark from the airplane was with a tree located
+on the top of Peak Mountain Ridge, approximately 2.54 nautical miles
+northwest of the approach end of runway 15. Numerous additional trees also
+had indications of being impacted. The ground elevation at the bottom of the
+first impacted tree was 728 feet msl; the tree was determined to have broken
+at 770.5 feet. The approximate location of this tree was identified by GPS
+equipment as 41o 58.22' N and 72o 44.38' W. A survey of tree heights on and
+around the ridge performed shortly after the accident indicated that the trees
+in the area of initial impact were approximately 60 feet tall.
+Debris from the airplane and small broken tree branches were
+found along the wreckage path in the wooded area on the ridge. The airplane
+pieces found were leading edge skin, trailing edge flap skin, belly and flap
+fairing fittings, and a clear wing tip lens cover. The right main landing gear
+outboard door was also located in the wreckage path. The total length of the
+wreckage path on the ridge was 290 feet. The bearing from the first to the last
+impacted tree on the ridge was approximately 137o magnetic.
+
+
+
+
+
+29
+About 1,100 feet prior to the initial ground impact mark, a tree,
+located in the flightpath of the airplane landing on runway 15, sustained a
+sharp metal strike mark 76 feet above the ground. This tree was at an
+elevation of about 170 feet msl.
+1.12.2.2 Ground Impact Information
+A total of 14 orange metal posts were fastened to 14 pairs of
+concrete pads to support the localizer antenna. Post No. 13 exhibited
+evidence of a black tire mark about 6 feet above the ground. Posts Nos. 3 to
+12 were destroyed and were broken into numerous pieces. Three localizer
+antenna posts (Nos. 1, 2 and 14) exhibited no impact damage.
+The first ground scar, consisting of a black tire mark, was located
+below post No. 10. This pad was approximately 18 feet to the right of
+stopway centerline. A ground scrape mark progressed from below post 10
+and extended toward the runway overrun area, in the direction of flight.
+The left and right main landing gear tire marks crossed the
+runway threshold mark on the left side. A runway threshold light (second
+from the left) sustained impact damage and was found on the left side of the
+runway. The left main landing gear tire marks departed the runway edge at
+the threshold mark and remained on the pavement. The right main landing
+gear tire mark remained inside the runway edge line. These tire marks curved
+back toward the runway centerline after crossing taxiway "J". The airplane
+came to rest on the runway approximately 3,137 feet from the runway
+threshold.
+1.12.3 Structural Damage
+1.12.3.1 Fuselage
+The airplane was damaged from its impact with the trees and
+localizer antenna posts. There was no fire damage to the fuselage and no
+impact damage to the fuselage above the floor line. No impact damage or
+
+30
+skin waviness18 was noted in the areas around the pitot tubes or static ports.
+The fuselage section forward of the wing front spar had no impact damage.
+The fuselage belly honeycomb fairing, aft of the wing front spar, sustained
+impact damage with numerous punctures and some scrape marks from
+forward to aft.
+The left main landing gear forward wheel well structure, which
+supports the honeycomb fairing, sustained impact damage and was bent aft.
+Orange paint transfer marks were found in the area of impact. The hydraulic
+lines in the wheel well just aft of the impact location were severed. The right
+main landing gear forward wheel well structure was damaged and bent
+slightly aft. Wood fibers were found embedded at the right main landing gear
+impact location, and there were no paint transfer marks.
+The lower section of the aft pressure bulkhead was crushed
+radially inward. About 12 inches of structure on either side of the bulkhead
+centerline were bent upwards. The main vertical beam remained intact and
+was undamaged. The right side stringers were deformed slightly upwards.
+1.12.3.2 Wings
+1.12.3.2.1 Left Wing
+The left wing remained attached to the fuselage with damage to
+the leading and trailing edge control surfaces. The damage consisted mainly
+of dents and tears, forming a semicircular shape, with wood fiber embedded
+at the impact locations. The leading edge of the three inboard slats exhibited
+impact damage at numerous locations. The trailing edge flaps remained
+attached to the wing and were found extended to 40 degrees. The inboard flap
+suffered damage at two locations.
+1.12.3.2.2 Right Wing
+The right wing remained attached to the fuselage with damage to
+the leading and trailing edge control surfaces. The leading edge slats
+18Skin waviness is mild wrinkling of the fuselage skin because a skin panel
+does not always conform to the exact outer mold line of an airplane. Skin waviness in the
+vicinity of static ports could alter the local static pressure sensed by the ports.
+
+31
+remained attached to the wing and sustained severe impact damage. The
+trailing edge flaps remained attached to the wing and were found extended to
+40 degrees. The inboard flap sustained one large area of impact damage at its
+inboard end, and two such areas on its outboard end.
+1.12.3.3 Landing Gear
+The nose landing gear was extended and remained attached to the
+airplane with minor impact damage. Both nose landing gear taxi lights were
+broken. Small pieces of nose landing gear taxi light glass and a retainer ring
+were found on the ridge. Small tree limbs, about 8 inches long and 1 inch in
+diameter were found wedged between the taxi light fixtures. Both tires
+remained inflated and there was no evidence of flat spots or lateral scrape
+marks on the tires.
+The right main landing gear was extended and remained attached
+to the airplane with impact damage to the strut scissors assembly. The
+landing gear tires remained inflated. The outboard gear door was missing and
+was located on the ridge. The inboard gear door remained attached and was
+found in the open position.
+The left main landing gear was extended and remained attached
+to the airplane with minor impact damage. The outboard tire of the left main
+landing gear had burst at some point in the accident sequence, and was
+replaced on the runway to facilitate towing the airplane to the hangar. Small
+twigs were found wedged between the tires.
+1.12.3.4 Empennage
+There was no evidence of any damage to the vertical stabilizer,
+rudder, and rudder trim tab. The right horizontal stabilizer leading edge
+contained a 3-inch-wide area of impact damage 5 feet inboard from the tip.
+The damage was about 3 inches wide, and the leading edge was crushed aft.
+Wood bark was found embedded in the impact location. There was no other
+damage to the right horizontal stabilizer.
+
+32
+1.12.3.5 Hydraulic System
+Hydraulic lines in both main landing gear wells were damaged in
+the vicinity of other wheel well structural damage. On the forward wall of the
+left main landing gear well, the left system ground service and power transfer
+suction lines were broken. In addition, a brake return line near the control
+module was bent and leaking. In the right wheel well, several lines were
+broken between the brake control module and the landing gear.
+1.12.3.6 Powerplants
+Both engines had tree branches and sticks in the inlets. The fan
+blades on both engines had soft body impact damage and wood fibers were
+found on the underside of the mid-span shrouds. The left engine cases and
+fan ducts did not have any holes or penetrations, and the fourth stage turbine
+blades were intact. The right engine fan duct and intermediate case were
+burned in the plane of the seventh and eighth stage compressor stages;
+however, the cowling was not burned. The forward side of the mixer lobes
+and struts had metal spatter build up. The right engine did not have any other
+apparent damage.
+Internal examination of the engines revealed that the left engine
+low pressure compressor (LPC) stages were damaged due to the impact of the
+rotors with the stators, particularly in the third stage area. The high pressure
+compressor (HPC), high pressure turbine (HPT), and low pressure turbine
+(LPT) were not damaged, but they had metal spatter on the airfoil surfaces.
+The right engine LPC stages were also damaged due to the impact of the rotor
+with stator airfoils. The HPC seventh, eighth, and ninth stage blades were
+burned, almost down to the airfoil platforms. Metal spatter was found on the
+HPT and LPT airfoils. The fuel controls and fuel pumps were bench tested
+and found to be working correctly.
+The flight data recorder engine pressure ratio parameters
+indicated that the engines were operating at engine pressure ratios of about
+1.5 at the time of the ridge line tree strike. No mention of engine problems
+prior to the ridge line tree strike were noted upon review of the cockpit voice
+recording.
+
+33
+1.13 Medical and Pathological Information
+Shortly after the accident, both flight crewmembers underwent
+standard drug testing. The results of these tests were negative.
+1.14 Fire
+See Section 1.12.3.6 for description of fire damage to the right
+engine.
+1.15 Survival Aspects
+According to interviews with the flight and cabin crewmembers,
+after the airplane stopped, the captain ordered an evacuation. A flight
+attendant opened the aft emergency exit/galley door, but the slide did not
+inflate automatically, as intended. He pulled the manual inflation handle, and
+the slide then inflated. An unknown number of passengers and two flight
+attendants evacuated through this exit.
+Because the evacuation slide failed to inflate automatically, it
+was examined by investigators from the Safety Board, American Airlines, and
+the FAA at the facilities of the manufacturer, Air Cruisers Company.
+Three tests were conducted on the airplane’s emergency
+evacuation slide assembly. The first two tests followed the Douglas
+maintenance manual instructions which did not call for the inflation cable to
+be routed through the grommet on the girt bar grommet tab. The instructions
+stated, “check that loop on firing lanyard is secured to girt tab with retaining
+ring on manual inflation handle; then secure lanyard cover flap over firing
+lanyard.” In those two tests, the slide dropped down but did not unfold or
+inflate. In the first test, the manual inflation handle remained within view
+when the door was opened, and within reaching distance of the cabin door. In
+the second test, the handle dropped over the side of the fuselage, and it could
+not be seen from the cabin by someone standing at the door. In the third test,
+the inflation cable was routed through the grommet on the girt bar grommet
+tab. When it was tested, the slide inflated properly.
+In July, 1996, McDonnell Douglas incorporated revised text and
+graphics on the installation of floor level emergency evacuation slides into the
+
+34
+FAA-approved MD-80 and DC-9 maintenance manuals. That revision
+instructs the installer to “[p]ass [the] inflation cable19 loop through [the]
+grommet tab,” and includes two diagrams illustrating the proper routing of the
+inflation cable through the grommet tab.
+According to the flight attendants and questionnaires that
+passengers provided to the Safety Board, during the evacuation, flight
+attendants shouted commands to passengers to remove their shoes (regardless
+of shoe style) and to leave carry-on luggage on the airplane. About a third of
+the passengers who completed questionnaires stated that shoe removal either
+slowed their evacuation or that shoes in the aisle obstructed their exit.
+Passengers (including a woman carrying a 10-month old baby) reported that
+they stumbled or tripped over piles of shoes in the aisle and galley areas.
+American Airlines is the only major air carrier that commands
+passengers to remove all shoes during an evacuation.
+1.16 Tests and Research
+1.16.1 Systems Tests
+1.16.1.1 Pitot-Static System
+The airplane was equipped with three pitot-static systems. The
+captain's system provides inputs to digital central air data computer (CADC)
+No. 1, which drives the captain's primary flight instruments (Mach/airspeed
+indicator, vertical speed indicator, and altimeter). The first officer's system
+provides inputs to CADC No. 2, which drives the first officer's primary flight
+displays. The third system, known as the auxiliary system, provides inputs
+directly to the standby altimeter and airspeed indicator. Each system has its
+own pitot probe and static ports.
+19In the revised text and graphics, the term “inflation cable” is sometimes
+used in place of the previously used term for the same part, “firing lanyard.” However, the
+term “firing lanyard” is still used to designate that part in several diagrams and unchanged
+portions of the maintenance instructions for removal and installation of evacuation slides.
+
+35
+Following the accident, an atmospheric leak check was
+performed on all three systems in accordance with the AAL Maintenance
+Manual. According to the test procedure, the maximum allowable changes in
+altitude and airspeed during the test are 100 feet and 5 knots in 1 minute (i.e.,
+leakage in the system may not result in more than 5 knots airspeed deviation
+or 100 feet difference in altitude). All three systems successfully passed this
+test.
+An additional test was performed to determine the relative
+accuracy of the pitot static systems. All three systems were tested at
+simulated approach flight conditions, and the cockpit airspeed and altitude
+readings were recorded. Indications from all three sets of flight instruments
+were within 25 feet and 3 knots of each other at all flight conditions tested.
+The CADCs have a self-test capability. Both computers
+successfully passed this test. In addition, it was noted that the magnetic fault
+indicators (fault balls) on the computers were not tripped.
+The heater elements in the pitot probes and static ports were
+tested and found to be functioning properly.
+1.16.1.2 Autopilot Systems
+The airplane was equipped with two autopilot systems, each
+controlled by a digital flight guidance computer. In the vertical axis, the
+autopilots can fly the airplane through various flight maneuvers such as
+maintaining an existing altitude and climbing or descending to a preselected
+altitude and holding that altitude. Selection of modes is done through the
+flight guidance control panel.
+Following the accident, the E-24 circuit breaker (DC Autopilot 1)
+was found tripped in the cockpit. It could not be determined when the circuit
+breaker tripped. During systems group testing, electrical power was applied
+to the airplane, and the E-24 circuit breaker was reset. It remained in for the
+duration of the testing without tripping.
+An autoland preflight test, normally initiated during the
+autoflight portion of the daily preflight, was performed after the accident, and
+both autopilot systems successfully passed this test. Further, a return-to-
+
+36
+service test, normally performed by maintenance personnel following
+replacement of an autoflight system component, was also accomplished, and
+both systems successfully passed this test.
+Several additional tests were performed to evaluate the effect of
+the E-24 (DC Autopilot 1) circuit breaker on Autopilot 1 system operation.
+With the system engaged, tripping the circuit breaker caused the blue AP 1
+engagement lights on the flight mode annunciators to go out and the red
+flashing AP DISCONNECT lights to illuminate. In another test, it was
+determined that if the circuit breaker was already tripped, Autopilot 1 would
+not engage.
+Following the accident, the flight guidance system of an
+American Airlines MD-80 simulator was used to capture a VOR course on a
+VOR instrument approach and to establish rates of descent using the vertical
+speed mode of the autopilot. Prior to the final approach fix (FAF) for the
+VOR instrument approach, altitude capture was accomplished using the
+altitude select window. After passing the FAF, altitude capture was
+accomplished using the altitude hold button on the flight guidance panel.
+With manual capture of altitude, using the altitude hold button, a
+vertical speed of 1,100 feet per minute, and the "rough air" feature of the
+simulator activated, the rate of descent was simulated. When the altitude hold
+button was engaged, the simulator continued to descend an additional 120 to
+130 feet. The simulator then recovered, or climbed back up to, the selected
+altitude. In simulated smooth air, the simulator recovered with less total loss
+of altitude. For example, with rate of descent of 700 feet per minute, when
+altitude hold was engaged, the loss and recovery took about 50 feet.
+Similarly, with a rate of descent of 1,100 feet per minute, a recovery from
+about 80 feet below the desired altitude occurred.
+1.16.1.3 Windshear Warning System
+The airplane was equipped with a Honeywell Standard
+Windshear System, which is designed to provide warnings to the flightcrew in
+the event of a potentially hazardous windshear condition. The computer
+activates yellow caution lights if it detects an increasing performance
+windshear, and it activates red warning lights and an aural "WINDSHEAR,
+WINDSHEAR, WINDSHEAR" warning if it detects a decreasing
+
+37
+performance windshear. A successful self-test of the windshear warning
+system was performed in accordance with the AAL Maintenance Manual.20
+1.16.1.4 Ground Proximity Warning System
+The airplane was equipped with an Allied-Signal Mark II Ground
+Proximity Warning System (GPWS) computer. This computer utilizes a radio
+altimeter21 and barometric altitude rate information to determine proximity
+with the ground. The GPWS is designed to activate electronically produced
+word warnings and visual light warnings to warn the flightcrew when a
+hazard is detected.
+The system operates in several modes to provide warnings for
+various unsafe flight conditions. These modes include: excessive descent
+rate, excessive terrain closure rate, descent after takeoff, descent in wrong
+configuration, and excessive deviation below the glideslope.
+During a non-precision approach, with the airplane configured
+for landing (gear and flaps down), the only mode available is excessive rate of
+descent warning. In this mode, the computer monitors barometric sink rate
+beginning with the airplane descending below 2,450 feet (agl). If the sink rate
+exceeds a threshold value, a "SINK RATE" aural warning is issued. At
+approximately 200 feet (agl), the threshold value is approximately 1,200 feet
+per minute. According to the CVR transcript, the "SINK RATE" warning is
+heard 4 seconds before the sound of the first impact with the trees.
+A ground proximity warning system (GPWS) ground test was
+performed according to the AAL Maintenance Manual. The test was
+successfully completed, and all annunciations and aural warnings operated
+normally.
+According to Allied-Signal, development is underway on an
+upgraded GPWS system known as Enhanced GPWS. This system
+20During the accident sequence, the windshear warning system did not
+activate until just after the ridge line tree strike occurred.
+21A radio altimeter, sometimes called a radar altimeter, does not require
+accurate barometric pressure settings, but rather gives readouts of height above the ground
+by time-varying frequency and by measuring differences in frequency of received waves,
+proportional to time and height.
+
+38
+incorporates aircraft position data (from the flight management system) with a
+self-contained terrain database to offer enhanced protection from descent into
+terrain. On a non-precision approach, the enhanced GPWS can anticipate the
+terrain features within a 25 mile radius of the airport and offer warnings to
+protect against premature descent into terrain, regardless of airplane
+configuration. This system is expected to be certified by the FAA for use in
+aircraft in 1996.
+1.16.1.5 Other Systems
+The follow-up rod that drives the left flap position sensor was
+bent and damaged. It was not possible to determine how this damage would
+have affected the flap position indication. During the initial on-scene
+investigation, the flap track indicators showed that the flaps were in the 40
+degree position. No anomalies were seen during flight control cable tension
+tests. All six fuel boost pumps were tested and found to operate normally. A
+DME functional/accuracy test was performed, and no problems were noted.
+1.17 Organizational and Management Information
+1.17.1 American Airlines - General
+1.17.1.1 Pilot Training
+The American Airlines McDonnell Douglas MD-80 fleet is in
+applicant status for the Advanced Qualification Program (AQP).22
+Accordingly, pending development/completion of the AQP, pilot
+qualification, including training and certification, is conducted under the
+terms of Exemption Number 5950, which grants relief from some of the
+traditional pilot qualification requirements of 14 CFR Part 121. For example,
+the FAA grants permission to perform a single visit training (SVT) session,
+which is once per year training, to any carrier that applies to develop an AQP,
+while the AQP development is in progress (see Section 1.17.1.2). The AQP
+22The Advanced Qualification Program is described in Special Federal
+Aviation Regulation (SFAR) 58. The purpose of the AQP is to “provide for approval of an
+alternate method for qualifying, training, certifying, and otherwise ensuring competency of
+crewmembers, aircraft dispatchers, other operations personnel, instructors, and evaluators
+who are required to be trained or qualified under Parts 121 and 135 of the FAR....”
+
+39
+development process may take 2 or more years to complete for each airplane
+type. American Airlines applied for approval of an AQP in April 1994 for
+SVT on all its airplanes, beginning with the Fokker F-100. Once the AQP has
+been approved by the FAA, pilot qualification will be conducted in
+accordance with the AQP requirements of SFAR Number 58. At that time,
+Exemption Number 5950 will no longer be applicable.
+1.17.1.2 American Airlines Single Visit Training
+Single Visit Training differs from traditional FAR Part 121
+training and checking requirements in that it is conducted annually for
+captains and first officers rather than bi-annually. A training session every 6
+months, as opposed to every 12 months under SVT, is conducted only for
+initial upgrade captains, captains who fail a SVT proficiency check, or
+captains who require additional training. Single visit training consists of on-
+site ground and flight training/checking for a 4- or 5-day period. Two days of
+the recurrent ground training cover security, crew resource management,
+aircraft systems, performance and emergency equipment review. Two 4-hour
+simulator sessions are scheduled with specified briefing and debriefing
+periods. The first simulator is a practice session overseen by a simulator pilot
+to review and practice required maneuvers. The second 4-hour simulator
+session, overseen by a check airman, includes a recurrent line operated
+simulation (LOS)23 period followed by an annual proficiency check for both
+flight crewmembers.
+The FAA approved Exemption 5950 for AAL based upon a SVT
+training plan with certain conditions and limitations. One of the limitations
+imposed upon AAL is that the airline must include a pretraining "first-look"
+evaluation that addresses at least a core set of Part 121, Appendix F,24
+material prior to the repeated execution of any such core set items in a
+simulator or training device. The maneuvers, tasks, or procedures are those
+most likely to be sensitive to loss of proficiency because of infrequency of
+23Line operational simulation (LOS) is the FAA’s revised terminology for
+training that was formerly known as line oriented flight training (LOFT), and includes
+special purpose orientation training and line operational evaluation. The revised definition
+(FAR Part 142.3) was adopted on May 23, 1996, and became effective on August 1, 1996.
+24Appendix F sets forth maneuvers and procedures required to be
+demonstrated in pilot proficiency checks.
+
+40
+practice. Data on the first look maneuvers is provided to the FAA on a de-
+identified basis.
+The MD-80 Worksheet, dated February 1995, included four
+items designated as "first-look" maneuvers. One of the first-look maneuvers
+is the non-precision approach. Further, AAL requires this non-precision
+approach to be included in the first-look evaluation in all the fleet training
+programs that AAL operates. The captain completed American Airlines 4-day
+SVT on August 21, 1995. The first officer completed SVT training on August
+19, 1995. Both flight crewmembers received satisfactory performance reports
+during their training.
+1.17.1.3 Company Altimeter Procedures
+AAL is the only United States airline that uses the QFE (height
+above field elevation) altimeter setting system during the takeoff, departure,
+approach, and landing phases of flight.25 American Airlines procedures
+require flightcrews to set their primary altimeters so that they read altitudes
+above the elevation of the airport they are departing from or at which they are
+arriving, while the standby altimeter continues to show altitude above sea
+level. Other U.S. airlines use the QNH (height above sea level) altimeter
+setting system during all flight phases. These airlines set all their altimeters to
+show altitudes above sea level at the departure and arrival airports. During
+the cruise phase of flight, all airlines use the QNH altimeter setting method.
+The details of American Airlines QFE altimeter setting methodology follow.
+During a descent, AAL procedures call for the flightcrew to set
+the proper QNH altimeter settings in both the primary altimeters (the
+captain’s and the first officer’s) and the standby altimeter located on the
+center instrument panel. This is to be accomplished when passing down
+through the flight level 180 (in the United States). After reaching the AAL
+"changeover altitude" (10,000 feet), the flightcrew is to set the captain's and
+first officer's altimeters to a QFE setting so that they read height above
+25The former Eastern Airlines also used the system in its operations.
+Currently, several foreign carriers use the system in international operations. There are
+certain airports within the AAL system with very high field elevations that require the pilot
+to use only QNH (height above sea level) altimeter settings during approaches. Mechanical
+limitations within the altimeters preclude the adjustment of the altimeters to satisfy QFE
+requirements.
+
+41
+destination field elevation. As a cross-check to ensure that the company-
+provided QFE setting is accurate, a comparison should then be made between
+the altitude shown on the flightcrew’s altimeters and that shown on the third
+standby altimeter containing the QNH (height above sea level) setting. The
+difference, in feet, between the flightcrew's altimeters and the standby
+altimeter should equal the published elevation of the airport of intended
+landing.
+During descent and prior to arrival at the final approach fix
+(FAF), AAL procedures require the flightcrew to use the standby altimeter
+with the QNH setting for intermediate air traffic control or approach plate
+directed level-offs. According to AAL procedures, upon arrival at the FAF,
+the flightcrew should begin using their primary altimeters which are set QFE.
+If a missed approach is commenced, the flightcrew should revert to the
+standby altimeter (QNH) for altimeter information.
+After landing, AAL flightcrews’ primary altimeters should read
+zero feet. Flightcrews of airlines that use the QNH system, on the other hand,
+should see altimeters that read the field elevation of the airport after landing.
+According to many AAL flightcrews, one advantage of the QFE
+system over the QNH system is the standardization of approaches with regard
+to altitudes seen by flightcrews from the FAF until landing. This is especially
+true, they said, during ILS approaches that usually have minimum altitudes of
+200 feet above the ground. Most approaches flown by AAL flightcrews are
+ILS approaches. Regardless of the field elevation above sea level, flightcrews
+become accustomed to using 200 feet above the ground as a minimum
+altitude. Each approach, no matter what the airport elevation, will appear the
+same to flightcrews, concerning minimum altitude.
+According to the AAL DC-9 Operating Manual, the following
+mandatory altitude callouts are to be made by the pilot not flying during an
+approach to land:
+1. 1,000 feet above field level
+2. 100 feet above minimum descent altitude (MDA)
+3. MDA
+
+42
+The first officer, who was the pilot not landing, called out:
+“There’s a thousand feet” at 0055:06 The flight recorders revealed that this
+one thousand foot callout was made when the primary altimeters indicated
+that the aircraft was about 1,140 feet above the field elevation, based upon the
+altimeter setting of 29.23 (QFE). The CVR does not reflect a callout at 100
+feet above MDA.
+1.17.1.4 Actions of American Airlines Since the Accident
+On December 20, 1995, 38 days after the accident involving
+AAL flight 1572, AAL flight 965, a regularly scheduled passenger flight from
+Miami, Florida, to Cali, Colombia, struck terrain near Buga, Columbia, 33
+miles northeast of the Cali (CLO) VOR navigation aid, in night visual
+meteorological conditions, during a descent for a landing at Cali. The
+airplane was destroyed, and 159 of 163 passengers and crewmembers aboard
+lost their lives. The Colombian civil aviation authority determined that the
+probable causes of that accident were:
+1. The flightcrew’s failure to adequately plan and execute
+the approach to runway 19 at [the airport] and their
+inadequate use of automation.
+2. Failure of the flightcrew to discontinue the approach into
+Cali, despite numerous cues alerting them of the
+inadvisability of continuing the approach.
+3. The lack of situational awareness of the flightcrew
+regarding vertical navigation, proximity to terrain, and the
+relative location of critical radio aids.
+4. Failure of the flightcrew to revert to basic radio
+navigation at the time when the FMS-assisted navigation
+became confusing and demanded an excessive workload
+in a critical phase of flight.
+Contributing to the cause of the accident were:
+1. The flightcrew’s ongoing efforts to expedite their
+approach and landing in order to avoid potential delays.
+
+43
+2. The flightcrew’s execution of the GPWS escape maneuver
+while the speedbrakes remained deployed.
+3. FMS logic that dropped all intermediate fixes from the
+display(s) in the event of execution of a direct routing.
+4. FMS-generated navigational information that used a
+different naming convention from that published in
+navigational charts.26
+Discussions between FAA and AAL officials in early January
+1996 led to AAL’s formation of a Safety Assessment Program to examine
+seven critical phases of American’s operations. AAL plans to have quarterly
+progress meetings and issue a final report in January 1997. AAL also
+implemented immediate actions after the accident that included raising the:
+1. minimum descent altitude and visibility requirements for
+all non-precision approaches by 100 feet and 1/2 mile,
+respectively,27
+2. visibility minima on all NDB approaches by 1 statute
+mile, and
+3. the ceiling of the “sterile cockpit” from above 10,000 feet
+to above 25,000 feet in Latin American airspace.
+On January 19, 1996, AAL distributed to all of its DC-9 captains
+and first officers DC-9 Operating Manual Bulletin No. DC-9-2 (in the form of
+additional checklist pages) entitled “Non-Precision Approach Crew
+Coordination Procedures.” The bulletin states, in part:
+Despite its name a non-precision approach must be executed
+with exacting precision.
+26Aircraft Accident Report, “Controlled Flight Into Terrain, American
+Airlines Flight 965, Boeing 757-223, N651AA, Near Cali, Colombia, December 20, 1995.”
+Aeronautica Civil of the Republic of Colombia.
+27These restrictions have since been eliminated following the completion of
+other phases of the Safety Assessment Program.
+
+44
+MDAs and step-down altitudes are limits. Any altitude level-
+off variation must be above the MDA or step-down altitude
+rather than below [italics in original bulletin].
+The primary attention of both pilots will be directed to the
+level-off at the step-down altitude or MDA.
+After level-off at the MDA, the pilot-not-flying will direct
+primary attention outside the airplane and call out visual
+references in the sequence required.
+AAL’s examination of its operations was to be carried out
+through seven assessment teams, each with representatives of the airline, the
+pilot’s union and the FAA. The seven areas addressed by these teams are:
+1. Human factors issues pertaining to the recent accidents,
+including approach charts, procedures, and training;
+2. Division-specific items, dealing with issues relevant to
+unique geographic features;
+3. Advanced technology relating to flight management
+system (FMS) and GPWS modifications;
+4. Operations structures and procedures, including corporate
+culture or organizational influences on flight operations;
+5. Flight Operations Quality Assurance (FOQA), and
+evaluation of its implementation in conjunction with AAL’s
+“Airline Safety Action Partnership” (ASAP) program to
+improve training in general for feedback into the Advanced
+Qualification Program (AQP);
+6. Confidential reporting system data analyses; specifically,
+examination of all available information, and assess any new
+and useful techniques from other operators for accident
+prevention; and
+
+45
+7. Pilot communications, including visits by the Senior Vice
+President, Flight Operations, and the President, APA, to meet
+all pilots and flight managers at all crew bases.
+In addition, AAL established a Controlled Flight Into Terrain
+(CFIT) Task Force and a Non-Precision Approach Working Group. It also
+inserted specific guidance on flightcrew response to CFIT scenarios in the
+Advanced Aircraft Maneuvering Program. All AAL simulators now have
+specific terrain profiles in which flightcrews will receive GPWS terrain
+warnings and are expected to extract maximum aircraft performance in
+recovery. The airline briefed the Safety Board at the 6 month or midpoint of
+its Safety Assessment Program and has reported that the assessment
+program’s report is expected to be completed on schedule in January 1997.
+1.17.2 FAA Surveillance of AAL Flight Operations
+The FAA conducted a National Aviation Safety Inspection
+Program (NASIP) inspection of AAL from August 21 through September 1,
+1995. Both airworthiness and operations were inspected. One area of
+potential deficiency noted involved operations training. Specifically, it was
+found that AAL broke up crew pairs in the SVT training program, contrary to
+the terms of Exemption 5950 and the AAL Approved Training Manual. A
+crew pair consists of a captain and a first officer. Both documents state that
+pairs of crewmembers should remain together as much as possible through all
+phases of training and checking. During the NASIP inspection, 35 cockpit en
+route inspections were performed. Those en route inspections resulted in no
+findings concerning flight operations.
+The captain had been observed by FAA flight inspectors during
+four en route inspections. FAA records indicated that the captain does not
+have an accident/incident or violation history.
+There is no record of FAA en route inspections for the first
+officer. FAA records indicated that the first officer does not have an
+accident/incident or violation history.
+
+46
+1.17.3 FAA Instrument Approach Design Procedures
+In the past, the FAA instrument procedures development
+personnel were collocated with Flight Inspection Area Office (FIAO)
+personnel, and, in fact, served as copilots on FIAO flight inspection missions.
+Following the loss of a Beech Super King Air 300/F flight inspection airplane
+near Front Royal, Virginia, on October 26, 1993, the Safety Board issued
+Safety Recommendation A-93-165 to the FAA on November 24, 1993.
+Subsequently, the procedures development program was separated from the
+flight operations inspection program. Safety Recommendation A-93-165
+asked the FAA to:
+Direct the Office of Aviation System Standards to evaluate
+the recommendations in the 1989 System Safety Survey
+relating to the second-in-command responsibilities and flying
+proficiency and to establish duties as appropriate.
+The Administrator responded to this recommendation by stating:
+On February 5, 1995, all procedures development duties were
+removed from the second-in-command (SIC) position
+description, and SIC duties are restricted to flying
+responsibilities.
+FAA Terminal Instrument Procedures (TERPS) Handbook, FAA
+Order 8260.3B, contains standardized methods for designing instrument flight
+procedures for non-precision approaches. The development and final
+approval of a non-precision instrument approach is accomplished in several
+steps. First, the basic procedure is developed by the National Flight
+Procedures Office in Washington, D.C. (AVN-100) in coordination with the
+nearest regional Flight Procedures Office (FPO) to the airport where the
+approach is to be used. Once developed, the procedure is sent to the
+Technical Support Branch, AVN-160, for a quality control review. After the
+review, the procedure is sent to the Flight Inspection Operations Division,
+AVN-200, through the FIAOs, to ensure that the descents and turns on the
+approach are within realistic flight inspection tolerances. AVN-200 is also
+responsible for ensuring that obstacles marked on the chart are actually where
+they are depicted, and that the obstacles are as high as the chart depicts.
+
+47
+According to the FAA, the FIAO is responsible for final approval
+of instrument flight procedures by ensuring that:
+(1) Data used to develop the instrument approach procedure
+was correct.
+(2) The instrument approach procedure was developed in
+accordance with FAA Order 8260.3B TERPS and Order
+8260.19 [C], Flight Procedures and Airspace, and other
+appropriate directives.…
+In reference to obstacle data accuracy, paragraph 270 of FAA
+Order 8260.19 states:
+The evaluations can provide accurate, consistent, and
+meaningful results and determinations only if FIAO and
+regional flight procedures specialists apply the same rules,
+criteria, and processes during development, review, and
+revision phases.
+The National Flight Procedures Office (AVN-100) uses maps,
+charts, surveys and mathematical data to develop the basic approach
+procedure. The FIAOs under AVN-200 use airplanes, theodolites (optical
+devices to measure angles and thus heights), and other direct measuring
+equipment for obstacle height verification.
+The Atlantic City, New Jersey, Flight Inspection Area Office
+(FIAO), initially verified the height of the obstacles on the BDL VOR runway
+15 approach as it was being developed. This office also rechecked the
+obstacles after this accident. On both occasions, the FIAO determined that
+the approach was “obstacle free.”
+1.17.3.1 Terminal Instrument Procedures (TERPS) and the VOR
+Approach to Runway 15
+The instrument approach to runway 15 was first published and
+became effective on February 9, 1989. The controlling obstacle in the final
+segment (the highest obstacle that could affect the approach) was 739 feet of
+
+48
+terrain and an additional 8028 feet tree height, for a total height of 819 feet
+msl. This is the ridge line and trees that the flight 1572 initially struck.
+Amendment 1 to the procedure was effective on the same date,
+February 9, 1989. The amendment revised the missed approach point (MAP)
+from a point defined by time and distance to one based upon the BDL VOR.
+Amendment 2, effective on July 20, 1995, included several
+changes to the procedure. One change included the addition of a visual
+descent point (VDP) to the approach. A VDP is defined as a point on the final
+approach from which normal descent from the MDA to the runway
+touchdown point may be commenced, provided that visual reference is
+established. The VDP was 3.1 nautical miles from the BDL VOR, which is
+2.86 nautical miles from the threshold of the runway.
+On April 8, 1994, the Air Line Pilots Association (ALPA) sent a
+letter to the Manager of the Flight Procedures Review Branch in the FAA’s
+New England Region. In part, the letter stated that several pilots had
+experienced GPWS warnings while descending from the 5 nautical mile FAF
+to the 3.1 nautical mile VDP. ALPA stated that the steep nose-down attitude
+might have been exacerbated by the close proximity in that segment of the
+ridge line struck by flight 1572.
+In the summer of 1994, as a result of ALPA’s concerns, an
+analysis of the VDP was undertaken by the FAA. The FAA procedures
+analyst indicated that a “no-VASI” standard (3 degree descent angle) had
+been used in the VDP placement, thereby placing the VDP at 3.1 nautical
+miles from the VOR. This is 0.6 nautical mile farther away than the VDP
+would have been located using a “with-VASI” standard (3.5 degree descent
+angle). Because a 3.5 degree VASI was already on runway 15 at BDL, it was
+determined that the VDP located according to a no-VASI 3 degree descent
+standard should not have been published, and it was removed by Amendment
+28Although FAA standards specify 60 feet as an acceptable tree allowance in
+the Connecticut area, the procedures specialist stated that he retained the original 80 foot
+value (used when the approach was first designed) to provide an added safety measure. It
+could not be determined why the 80 foot value was used when the approach was first
+designed. The exact height of the trees struck by the airplane could not be determined
+because the tops were torn into many small pieces.
+
+49
+2A. Amendment 2A was the latest amendment to the procedure, and it was
+the chart used by the accident flightcrew.
+1.17.3.2 Visual Descent Point Clearances
+According to the TERPS Handbook 8260.3B, paragraph 251a, 1)
+where a VASI is installed, the VDP shall be located at the point where the
+lowest VASI glideslope intersects the lowest MDA. The Handbook also
+states, “Do not establish a VDP if penetrations of the VDP surface exist....”
+Based on the downwind bar of the runway 15 VASI at 3.0 degrees, a VDP
+would be placed at around 2.5 DME. TERPS criteria also require a 2 degree
+obstacle clearance surface for the installation of the VDP.
+On June 26, 1996, as a result of this accident, the Safety Board
+made the following recommendations to the FAA:
+A-96-31
+Publish a visual descent point (VDP) for runway 15 in the
+appropriate location, and ensure that the VDP is present on all
+VOR runway 15 instrument approach charts used by pilots
+flying into Bradley International Airport (BDL).
+A-96-32
+If the inclusion of a VDP on approach charts to runway 15 is
+not possible due to obstacles, because charting methodology
+rather than empirical measurement was used to determine
+obstacle clearance, then ensure that a warning about the 3.5-
+degree glideslope and the high terrain along the approach path
+is placed on VOR runway 15 instrument approach charts for
+BDL, or make such a warning a permanent Notice to Airmen
+(NOTAM) for BDL, or use some other means to disseminate
+such a warning on a permanent basis.
+On September 4, 1996, the FAA responded favorably to Safety
+Recommendation A-96-31 by stating that:
+The Federal Aviation Administration (FAA) agrees with this
+safety recommendation and on August 15, 1996, published a
+visual descent point (VDP) at 2.3 nautical miles (BDL 2.4
+
+50
+DME) on the VOR RWY 15 instrument approach procedure
+for Windsor Locks/Bradley International Airport,
+Connecticut.
+Because of this response, Safety Recommendation A-96-31 is
+being classified “Closed--Acceptable Action,” and A-96-32 is being classified
+“Closed--No Longer Applicable.”
+1.17.3.3 Required Obstacle Clearance for VOR Runway 15
+According to TERPS Handbook, FAA Order 8260.3B, the
+required obstacle clearance (ROC) for VOR approaches with final approach
+fixes is 250 feet rounded to the next higher 20-foot increment. Using this
+criteria, the 819 foot msl ridge line results in 1,080 feet msl ROC (908 feet
+agl). Because no adjustments were deemed necessary by the FAA for the
+VOR runway 15 approach, this number is also used as the MDA.
+1.17.3.4 Precipitous Terrain Approach Adjustments
+The forward of TERPS Handbook, FAA Order 8260.3B, states:
+This publication prescribes standardized methods for use in
+designing instrument flight procedures….These criteria do not
+relieve procedures specialists and supervisory personnel from
+exercising initiative or taking appropriate action in
+recognizing both the capabilities and limitations of aircraft
+and navigational aid performance.
+Paragraph 323 of that handbook pertains to minimums’
+adjustments. Paragraph 323 (a) states that consideration should be given to
+induced altimeter errors and pilot control problems in precipitous terrain that
+may result when winds are 20 knots or more over such terrain. TERPS
+Handbook, FAA Order 8260.3B does not, however, define precipitous terrain.
+According to the FAA, the flight procedures specialists do not
+automatically add adjustments to ROCs for precipitous terrain. Rather, they
+rely on flight inspection reports and user inputs. According to the BDL air
+traffic control tower personnel, there have never been any complaints or
+comments regarding the effect of the ridge line on altimeters or its effect upon
+
+51
+airplane control on the approach course to runway 15. The FAA did not
+adjust the BDL VOR runway 15 approach MDA for precipitous terrain.
+1.17.3.5 VASI Obstacle Clearances
+BDL has a VASI-4 system for runway 15. The upwind bar is
+aimed at 3.5 degrees and the downwind bar is aimed at 3.0 degrees. FAA
+Order 6850.2A, paragraph 301b, states that the VASI should have a clear 2
+degree obstacle clearance surface originating at the VASI downwind bar and
+extending to 4 nautical miles.
+In 1987, the FAA’s New England Region, Airways Facilities
+Branch, had the obstacle clearance surface checked by survey and it was
+validated “clear” of obstacles. On November 13, 1995, the day after the
+accident, a flight inspection of the approach was conducted by the Atlantic
+City Flight Inspection Area Office. The flight inspection form reports that the
+VASI was checked satisfactory for obstacle clearances.
+During the initial development of the BDL VOR runway 15
+approach, the procedures specialist that designed the approach determined,
+based upon charts, that a 55-foot obstruction existed within the required
+obstacle clearance plane of the VASI. In June, 1996, the FAA responded to
+Safety Board requests about obstacle clearance relative to the VASI,
+indicating that the 819-foot obstruction on the ridge line penetrated the
+required 2 degree clearance surface by 55 feet.
+1.18 Additional Information
+1.18.1 Air Traffic Control Aspects
+The BDL TRACON provides separation and sequencing to
+arriving and departing airplanes at Bradley International Airport. The BDL
+tower controls takeoffs and landings at BDL. The accident occurred during a
+late evening shift. The normal staffing at that time (and the actual staffing at
+the time of the accident) for BDL TRACON is one area supervisor and one
+full performance level (FPL) radar controller. The control tower cab is
+normally staffed with one FPL controller on late evening shifts.
+
+52
+1.18.1.1 The TRACON Supervisor in the Tower Cab
+Because of high winds on the night of the accident, one of the
+windows in the BDL air traffic control tower began to flex and water began to
+leak inside the tower cab. A decision was made to temporarily close the tower
+and the TRACON Area Supervisor in Charge made notifications of tower
+closure to the New England Communications Center and airport management.
+He then asked the Bridgeport automated flight service station (AFSS) to issue
+a NOTAM [Notice to Airmen] concerning tower closure. He then ensured
+that local and ground control frequencies, normally handled by local and
+ground controllers in the tower, were being monitored in the TRACON.
+The TRACON supervisor then escorted the airport carpenters to
+the tower cab to inspect the windows, and he saw that the window closest to
+the local control position appeared to be bowing more than the others. He
+noted water at the bottom seal. The carpenters determined that the window
+could be fixed and then departed the tower. The TRACON supervisor
+remained in the tower cab, and then told the approach controller, located in
+the radar room beneath the tower cab, that if he wanted to put flight 1572 on
+the tower frequency it would be fine because "I'm up here and this way if I
+need to tell him anything, I can."
+The TRACON controller and the TRACON supervisor in the
+tower were not providing air traffic control services to other airplanes at the
+time. The approach controller then told American Airlines flight 1572 that
+there was “someone in the tower,” that while it was “not really officially
+open,” the flight could change to tower frequency. Flight 1572 proceeded to
+do so.
+At 0053:27, flight 1572 transmitted, "Hey, tower American
+Airlines flight 1572 we're on a six-mile final for runway one five." The
+TRACON supervisor in the tower cab transmitted to flight 1572, "landing is
+at your discretion, sir. The winds 170 at 25, peak gusts 40, and ah the runway
+does appear clear, you can land and taxi to the gate at your discretion." At
+0054:51, the TRACON supervisor transmitted:
+
+53
+Windshear alert. Uh, centerfield one seven zero at two five.
+The uh, northeast boundary, one seven zero at two four, one
+niner zero at twelve at the southeast boundary.
+Flight 1572 responded with, “Copy.” About 1 minute later, at
+0056:02, flight 1572 transmitted, “Tower, call for emergency equipment...,
+we’re going down on the runway.” At 0056:25, the TRACON supervisor
+issued the wind as 170 degrees at 22 knots. Flight 1572 then transmitted
+again to call for emergency equipment, and the supervisor stated that the
+equipment was inbound. About 10 seconds later the airplane touched down.
+The TRACON supervisor had been a full performance level
+tower controller 3 years previously, and he also possessed a current
+multiengine commercial pilot's license with an instrument rating, and a flight
+instructor's certificate. His total flying time was about 670 hours.
+1.18.1.2 TRACON Altimeter Setting Transmissions
+The controllers in the tower and the TRACON obtain current
+altimeter information from the DASI (Digital Altimeter Setting Indicator).
+The DASI system is a self-contained instrument located in the tower’s
+equipment room, and it transmits the current altimeter to readouts located in
+both the tower and TRACON. In turn, the reading on the DASI is used to
+update the automated radar terminal system (ARTS) so that the altitude
+readouts on the controllers’ radar displays are correct. The ARTS system
+always reads in msl. According to air traffic control procedures in the ATC
+Handbook, FAA Order 7110.65, the altimeter setting should be transmitted to
+the flight upon initial radio contact.
+The ARTS record of keyboard entries shows that at 0021:14, the
+approach controller entered 29.38 inches Hg. in the ARTS systems area of the
+computer. The record of entries further shows that at 0044:34 he entered
+29.34 inches Hg., and at 0048:07, he entered 29.36 inches Hg. The
+atmospheric pressure continued to drop and was calculated to be 29.24 inches
+Hg. at the time of the accident.
+Boston ARTCC issued flight 1572 an altimeter setting of 29.40
+inches Hg. at 0033:30, about 21 minutes prior to the tree strike, and
+approximately 11 minutes before handing the flight off to the BDL TRACON.
+
+54
+This was the last altimeter setting issued to the flight from an air traffic
+controller. The TRACON approach controller did not issue a current
+altimeter setting to flight 1572 upon initial radio contact with the flight at
+0043:49. At that time, the DASI readout indicated a setting of 29.38 inches
+Hg.
+A review of the BDL Facility Status Logs from October 1, 1995,
+through November 11, 1995, revealed no reports of outages or complaints
+concerning the tower’s DASI.
+1.18.1.3 Minimum Safe Altitude Warning (MSAW)
+MSAW is a computer program to warn a controller when an
+airplane descends or will descend below a predetermined altitude. The
+MSAW at BDL was programmed to provide an alarm if the aircraft’s Mode C
+transponder transmitted two signals when the airplane was at or below 1,050
+feet msl. However, if the radar does not pick up the aircraft’s mode C
+transponder signal, the program cannot function. The BDL approach control
+radar system produced an MSAW alarm for flight 1572 at 0055:39. The radar
+tracking data showed that when this alarm was produced, the aircraft was at
+800 feet msl and the aircraft had already struck the trees. FAA personnel
+stated that under normal circumstances, the MSAW should have produced an
+audible alarm at that time in the tower cab, and a visual alarm should have
+occurred on the radar display and on the DBRITE [bright radar indicator
+tower equipment] in the radar room and tower cab.
+Radar tracking data showed no radar "hits" from flight 1572’s
+mode C transponder between 0055:23 and 0055:32, and also none between
+0055:05 and 0055:23. The radar antenna produces returns about every 4.5
+seconds. FAA personnel reported that the reason for the absence of these hits
+was the shielding of the airplane from the radar by the ridge line. FAA
+technicians later explained that if the radar could not "paint" the airplane, the
+MSAW computer program could not warn the controller that the airplane was
+at an unsafe altitude.
+According to FAA equipment design personnel, if a steady
+stream of Mode C information had been available to the computer, the
+MSAW alarm would have sounded as soon as the aircraft descended past
+1,100 feet msl. They indicated that on final approach, a standardized set of
+
+55
+MSAW parameters is used, not taking into account obstacles such as the
+ridge. BDL FAA personnel said that in an attempt to improve radar coverage
+prior to the accident, they had changed or optimized the tilt on the radar
+antenna, but that the ridge still obstructed radar coverage.
+1.18.2 Industry Actions to Improve the Safety of Non-precision
+Approaches
+1.18.2.1 Approach Plate Terrain Depictions
+The Safety Board reviewed several other airlines’ BDL VOR
+runway 15 approach plate terrain depictions. This review revealed that the
+information provided to the flightcrews varied among the carriers. The
+British Airways approach chart for the BDL VOR to runway 15 (published by
+Aerad) had terrain contours depicted in color. The ridge line and the
+associated 819 foot obstruction was depicted on the approach chart.
+The Delta Air Lines approach plate for runway 15 included an
+additional information sheet depicting terrain along the approach from
+MISTR to DILLN and the airport. The 819 foot obstruction and the ridge line
+were depicted on the supplement.
+The other approach charts reviewed by the Safety Board were
+similar to the one used by AAL in that they contained only a notation of the
+819 foot obstacle, but they did not depict the ridge line.
+1.18.2.2 Non-precision Approach Flight Procedures
+To reduce the glidepath variability that may occur in non-
+precision approaches (as opposed to precision approaches with constant
+glidepaths) some airlines are devising methods to fly non-precision
+approaches in ways that more closely resemble precision approaches.
+In airplanes that have modern flight management system suites,
+some airlines are recommending that their flightcrews fly a stabilized
+approach with a constant glidepath to a point near the MDA. In other words,
+flightcrews are to overfly intermediate level-off points at higher altitudes,
+while maintaining a stable rate of descent, rather than fly down to
+intermediate level-off points, level off, then descend again to reach the next
+
+56
+lowest altitude authorized by the approach procedure. To ensure that
+flightcrews do not descend below the MDA using the new stabilized approach
+technique, one airline adds an additional 50 foot safety buffer to the MDA to
+allow the airplane to "round out" its descent above the actual MDA before a
+missed approach climb is established.
+1.18.2.3 Controlled Flight Into Terrain (CFIT) Training Aids
+The Boeing Commercial Airplane Group, as part of a larger
+aviation industry effort to prevent CFIT accidents, has produced a five-part
+CFIT Education and Training Aid for use by all operators. Section One of the
+aid gives top managers of airlines a broad overview of the CFIT problem and
+possible solutions. Section Two, a Decision Maker’s Guide, describes areas
+of line airline operations, whereby those who regulate and lead the aviation
+industry can aim their efforts toward CFIT elimination. Section Three is an
+Operator’s Guide describing specific causal factors of CFIT accidents, traps in
+which flightcrews can find themselves, and specific in-flight escape
+maneuvers. Section Four describes a model CFIT education program for an
+airline, and Section Five provides further background information on the
+CFIT problem via selected readings and topical accident and incident
+information.
+The Flight Safety Foundation (FSF)-sponsored CFIT Task Force
+has developed a CFIT checklist to aid in the avoidance of CFIT accidents.
+This checklist was created to identify the degree of potential for a CFIT
+accident prior to each flight. The checklist user evaluates risk factors
+associated with a particular flight by assessing the relative danger of each risk
+factor and the safety-enhancing aspects of the proposed flight in a numerical
+fashion. The checklist is divided into two diagnostic parts:
+CFIT Risk Assessment (includes negative destination CFIT
+risk factors such as VOR/DME approaches, airports near
+mountainous terrain, and radar coverage limited by terrain
+masking, and risk multipliers such as IMC [instrument
+meteorological conditions] weather and long crew duty days).
+CFIT Risk Reduction Factors (includes positive company
+management traits and the availability of CFIT training
+programs).
+
+57
+Within the highest set of CFIT risk factors, according to the FSF,
+are flying at night in IMC conditions, and using the autopilot in the vertical
+speed mode close to the ground.
+1.18.2.4 Previous Recommendations on CFIT
+The Safety Board has made many safety recommendations to the
+FAA concerning CFIT accidents and GPWS during the last 25 years. The
+first recommendation, A-71-053, concerned a Southern Airways DC-9 that
+struck power lines on approach to the Gulfport, Mississippi Municipal
+Airport. The FAA responded that existing instrumentation and procedures
+were safe and adequate to prevent these accidents provided cockpit disciplines
+were maintained. However, CFIT accidents continued to occur, and in 1975
+the FAA made GPWS mandatory on Part 121 airplanes. In 1986 the Safety
+Board asked FAA to extend GPWS coverage to Part 135 operations. FAA
+studied the issue, and made GPWS mandatory on Part 135 turbine-powered
+airplanes with 10 or more passenger seats in 1994. The Board has also issued
+numerous recommendations on improving GPWS equipment and flightcrew
+training over the years.
+The catastrophic losses of life and property from CFIT accidents
+have not been restricted to Parts 121 and 135. In 1995, the Board
+recommended that coverage be extended to all turbojet aircraft with 6 or more
+passenger seats, including Part 91 operations. The Department of
+Transportation (DOT) recently released a study29 for the FAA on Part 91
+turbine-powered aircraft that shows a “significant potential for CFIT accident
+prevention in the aircraft fleet studied.” FAA staff have informed Safety
+Board staff that the FAA is preparing a notice of proposed rulemaking
+(NPRM) that would require enhanced GPWS on all Part 91, 121, and 135
+aircraft that are turbine powered with 6 or more passenger seats.
+29DOT report, “Investigation of Controlled Flight Into Terrain, Aircraft
+Accidents Involving Turbine-Powered Aircraft with Six or More Passenger Seats Flying
+Under FAR Part 91 Flight Rules and the Potential for Their Prevention by Ground
+Proximity Warning Systems,” Project Memorandum #DOT-TSC-FA6D1-91-01, by Robert
+O. Phillips, March, 1996.
+
+58
+After the investigation of the AAL Cali, Columbia, accident, the
+Aeronautica Civil of the Republic of Colombia made the following
+recommendations to the FAA:
+Require that all approach and navigation charts used in
+aviation graphically portray the presence of terrain that is
+located near airports or flightpaths.
+Encourage manufacturers to develop and validate methods to
+present accurate terrain information on flight displays as part
+of a system of early ground proximity warning. (Enhanced
+GPWS)
+Develop a mandatory CFIT training program that includes
+realistic simulator exercises that are comparable to the
+successful windshear and rejected takeoff training programs.
+Evaluate the CFIT escape procedures of air carriers operating
+transport category aircraft to ensure that the procedures
+provide for the extraction of maximum escape performance,
+and ensure that those procedures are placed in operating
+sections of the approved operations manuals.
+The Aeronautica Civil of the Republic of Colombia made the
+following CFIT recommendation to the International Civil Aviation
+Organization:
+Evaluate and consider the adoption of the recommendations
+produced by the CFIT Task Force that have been created
+under the initiative of the Flight Safety Foundation.
+Following the investigation of the AAL Cali, Columbia, accident,
+the Safety Board made the following recommendations to the FAA on
+October 16, 1996:
+
+59
+A-96-93
+Evaluate the terrain avoidance procedures of air carriers
+operating transport-category aircraft to ensure that the
+procedures provide for the extraction of maximum escape
+performance and ensure that those procedures are placed in
+procedural sections of the approved operations manuals.
+A-96-94
+Require that all transport-category aircraft present pilots with
+angle-of-attack information in a visual format, and that all air
+carriers train their pilots to use the information to obtain
+maximum possible airplane climb performance.
+A-96-95
+Develop a controlled flight into terrain training program that
+includes realistic simulator exercises comparable to the
+successful windshear and rejected takeoff training programs
+and make training in such a program mandatory for all pilots
+operating under 14 CFR Part 121.
+A-96-98
+Develop and implement standards to portray instrument
+approach criteria, including terminal environment information
+and navigational aids on FMS-generated displays, that match,
+as closely as possible, the corresponding information on
+instrument approach charts.
+A-96-101
+Examine the effectiveness of the enhanced ground proximity
+warning equipment and, if found effective, require all
+transport-category aircraft to be equipped with enhanced
+ground proximity warning equipment that provides pilots with
+an early warning of terrain.
+A-96-102
+Require that all approach and navigation charts graphically
+present terrain information.
+
+60
+A-96-106
+Revise Advisory Circular 120-51B to include specific
+guidance on methods to effectively train pilots to recognize
+cues that indicate that they have not obtained situational
+awareness, and provide effective measures to obtain that
+awareness.
+
+61
+2. ANALYSIS
+2.1 General
+The flightcrew had the proper FAA airmen certifications and
+were qualified in accordance with applicable regulations and company
+requirements. They received the proper amount of crew rest before the
+accident flight and did not appear to be under unusual psychological pressure.
+The airplane was properly fueled; passengers and cargo were loaded in
+accordance with AAL weight and balance requirements. The flight was
+released in accordance with AAL dispatch procedures.
+The weather at BDL was at or above the required minimums for
+landing, and included overcast clouds, visibility restricted by moderate rain,
+and strong, gusty wind conditions. All components of the VOR runway 15
+instrument approach were operating normally. No malfunctions of the visual
+approach slope indicator (VASI) for runway 15 were reported by the airport.
+There was no evidence of a malfunction of the pitot-static
+system, the autopilot system, the ground proximity warning system, the
+windshear warning system, or any flight control system, that could have
+contributed to this accident. In addition, no structural failures occurred prior
+to the airplane striking trees. According to the FDR and postaccident
+examination, the left engine rolled back to a low power level shortly after the
+ridge line tree impact due to low pressure compressor damage. The right
+engine continued to operate at a high power setting until a fire burned away
+the high pressure compressor airfoils. Both engines were operating normally
+prior to the tree strike.
+2.2. Adequacy of Weather Information
+2.2.1 NWS SIGMETs
+There were a number of NWS SIGMETs in effect pertinent to
+the route of flight 1572. These SIGMETs were not included in the flight
+release or provided to the flightcrew while en route to BDL by American
+Airlines dispatch. However, the flight release of flight 1572 included an
+American Airlines Terminal SIGMEC for moderate turbulence, moderate
+icing, and low level windshear for the BDL area. Severe icing or turbulence
+
+62
+was not forecast by American Airlines' meteorological staff, although the
+NWS meteorologists were forecasting occasional severe turbulence and icing
+in a larger area that included the route of flight for flight 1572.
+The Safety Board concludes that, regarding the operation of
+flight 1572, AAL weather forecasts, as documented in the SIGMECs, were
+substantially correct. NWS SIGMETs covered broader geographic areas than
+the more focused AAL SIGMEC reports, and contained, in this case,
+information on occasional severe icing and turbulence that did not apply to
+flight 1572. The Safety Board also concludes that AAL’s FAA-approved
+system of providing flightcrews with more focused forecasts, in the form of
+SIGMECs, is a valid method of weather dissemination. Should a flightcrew
+be forced to divert to an area not covered by a SIGMEC forecast, ample
+opportunity exists, via ACARS or air-to-ground radio, to obtain current
+weather in the divert area. In addition, providing flightcrews with both
+SIGMECs and SIGMETs might prove confusing to flightcrews when the
+reports are inconsistent, as they were in this case.
+2.2.2 Weather Conditions at BDL
+The National Center for Atmospheric Research (NCAR) study
+conducted for this investigation stated that the predicted pressure decrease of
+1 millibar could be underestimated by a factor of 2 or 3. The Safety Board
+concludes that such an underestimation did not occur at the time of the
+accident because the FDR altitude trace did not contain an altitude spike that
+would have resulted from a significant atmospheric pressure change.
+The flightcrew was given the BDL weather conditions prior to
+departure that forecast strong winds, moderate turbulence and possible low
+level windshear during their time of expected arrival. After takeoff, the first
+officer stated that they received a normal ACARS message that included a
+2300 BDL weather observation. The message also stated that the pressure
+was falling rapidly (PRESFR).
+During the descent, the flightcrew received two messages over
+the ACARS relating to the BDL weather. The first message was sent at 0030
+and provided the flightcrew with the altimeter setting for conversion to an
+above field elevation (QFE) setting and the altimeter setting for mean sea
+
+63
+level (QNH) at BDL. At 0031, another message was sent to the flightcrew
+advising them of turbulence and windshear on final approach.
+At 0034, the first officer received the ATIS information for BDL,
+and he recognized that it was “over an hour and a half old.” However, the
+flightcrew did not request more current information about the conditions at
+BDL. Interviews revealed that both flight crewmembers were aware of the
+turbulence and windshear advisories at the field. They were also aware of the
+possibility of a low but legal ceiling and visibility. The CVR revealed that
+they made appropriate preparations with the lead flight attendant regarding
+the passengers and cabin service in preparation for approach and landing in
+turbulent conditions. They were also aware that the tower was closed due to
+wind damage.
+Although it would have been prudent to request a weather update
+from the BDL final approach controller, the Safety Board concludes that with
+the exception of a current altimeter setting (discussed below), the flightcrew
+had adequate information concerning the weather at BDL as they began their
+descent to the airport.
+2.3 Altimeter Settings
+The altimeter settings (29.42 inches Hg. (QNH) and 29.23 inches
+Hg. (QFE)) received by the flightcrew in the 0030 ACARS message were
+based upon a 2352 weather report. Thus, these altimeter settings were 29
+minutes old when the flightcrew received them and 54 minutes old when the
+airplane struck the trees on the ridge line. The altimeter setting they received
+from Boston Center at 0033:27 (29.40 inches Hg.) was 22 minutes old when
+they struck the trees. The altimeter setting they received in the ATIS message
+at 0034 (29.50 inches Hg.) was based on a 2251 recording of the weather, and
+was 1 hour and 46 minutes old when the tree strike occurred.
+About the time of the accident the correct QFE altimeter setting
+for the airport was about 29.15 inches Hg. Using this value, the Safety Board
+concludes that the indicated altitude (height above airport elevation) that the
+airplane’s QFE altimeter was indicating was about 76 feet too high (based on
+the altimeter setting received at 0030), resulting in the airplane being 76 feet
+lower than indicated on the primary altimeters.
+
+64
+The Safety Board concludes that because they knew that the
+atmospheric pressure was falling rapidly, the flightcrew should have
+requested a current altimeter setting from the BDL approach controller when
+one was not given by the controller, as required, upon initial radio contact. If
+they had done so, they would have received a current altimeter setting of
+29.38 inches Hg. (QNH) which would most likely have resulted in the aircraft
+being 40 feet higher30 than it was when it struck the trees, or approximately 71
+feet above the terrain. The survey of tree heights that was performed shortly
+after the accident indicated that trees in the area of initial impact were
+approximately 60 feet tall. Therefore, an additional 40 feet might have given
+the aircraft enough clearance to miss the trees on the downslope of the ridge.
+Accordingly, the Safety Board concludes that the flightcrew’s failure to
+request a current altimeter setting from the approach controller was a
+contributing factor in this accident.
+AAL procedures require that the flightcrew change the primary
+altimeters from QNH (height above sea level) to QFE (height above the
+ground) during the descent at 10,000 feet. To accomplish this, flightcrews use
+either the QNH and QFE settings obtained from AAL ground station
+personnel at the airport of intended landing or they use both settings from
+company meteorologists obtained over ACARS. In this case, the flightcrew
+received an ACARS message at 0030 that contained a QFE setting of 29.23
+inches Hg. and a QNH setting of 29.42 inches Hg. According to AAL
+procedures, the flightcrew should have then set their individual altimeters to
+QFE and compared them to the third (standby) altimeter that would still be set
+to QNH. The difference between the two settings should be equal to the
+published field elevation of the airport of intended landing.
+After the accident, the primary altimeters were found set at 29.23
+inches Hg., which is consistent with the setting given in the ACARS message.
+However, the standby altimeter was set at 29.47 inches Hg., which does not
+match the setting found in the ACARS message, or with any of the other
+altimeter settings given to the flightcrew. During the descent, the first officer
+stated to the captain that 29.47 inches Hg. (QNH) was what had been given to
+them when they started to descend. In fact, the Boston ARTCC had given,
+and the first officer acknowledged, a setting of 29.40 inches Hg. (QNH).
+309.25 feet for each 0.01 inch of Hg. between 29.38 and 29.42.
+
+65
+If the flightcrew had set the altimeters to 29.23 (QFE) and 29.42
+(QNH) the settings would have produced the proper difference in indicated
+altitudes, which would have been equal to the field elevation (174 feet msl).
+Although the flightcrew used an incorrect standby altimeter setting during the
+initial descent below 18,000 feet, the mistake could have been detected if the
+proper procedures31 had been used at the changeover altitude of 10,000 feet.
+First, when the pilots switched from using the standby altimeter to determine
+their altitude, set in error at 29.47 (QNH), to their primary altimeters, set at
+29.23 (QFE), their altimeters displayed an indicated altitude that was about
+240 feet lower than the standby altimeter. Second, using the QFE setting of
+29.23 inches Hg. given the flightcrew by the 0030 ACARS message, the field
+elevation would have been inconsistent with any altimeter setting on the third
+altimeter, except the setting of 29.42 inches Hg. (QNH).
+Following the accident, neither crewmember stated that they
+remembered the ACARS message or the associated altimeter settings that the
+company provided to them. However, documents retrieved from the accident
+airplane revealed that the ATIS information was handwritten on the ACARS
+message received from the company. The Safety Board could not determine
+who wrote this information on the message. However, the Safety Board
+concludes that, although the flightcrew did not use the most current QNH
+setting they had available in the standby altimeter (29.40 inches Hg.), this
+error did not affect the accident sequence of events because the flightcrew had
+the correct, but outdated, QFE setting (29.23 inches Hg.) in the altimeters they
+were using when the accident occurred.
+2.3.1 Other Altimeter Errors
+Safety Board investigators determined that there were two
+potential sources of altimeter errors in addition to the incorrect altimeter
+setting already discussed. They are (1) the error resulting from differences
+between the true mean temperature of the column of air below the airplane
+and the mean temperature assumed for the air column in the standard
+atmosphere; and (2) the error associated with departure of the distribution of
+31AAL procedures require flightcrews to compare the differences between
+the primary and standby settings to the field elevation. If there is a discrepancy, they would
+be expected to read the ACARS message again for the correct settings, or, most effectively,
+to ask the approach controller for a current setting.
+
+66
+pressure from hydrostatic equilibrium.32 The effect of errors resulting from
+these two sources was found to be insignificant in this case.
+2.4 The Descent Below MDA
+According to the AAL DC-9 Operating Manual the pilot not
+landing is responsible for calling out 1,000 feet above field level, 100 feet
+above minimum descent altitude (MDA), and MDA.
+The first officer, who was the pilot not landing, called out:
+“There’s a thousand feet” at 0055:06. A correlation of the CVR with the FDR
+revealed that this 1,000-foot callout was made at around 1,140 feet agl, based
+upon the flightcrew’s altimeter setting of 29.23 inches Hg. (QFE). Although
+this mandatory callout was made, the first officer did not follow additional
+company procedures by also calling out 100 feet above MDA (1,008 feet
+above the field elevation). However, 5 seconds later, at 0055:11, the first
+officer stated to the captain, “now nine hundred and eight is your uh...,”
+which indicated that he was aware of the close proximity of the MDA (908
+feet agl) to the 1,000 above field level callout. At that time, the airplane was
+about 1,050 feet agl. The captain replied, “right.”
+The first officer stated that he then looked out the airplane
+windshield to locate the airport. When he looked back at the instrument
+panel, he saw that the airplane had descended below MDA. At 0055:25, the
+first officer said, “You’re going below your.…” At that time the airplane was
+about 350 feet above the ground and 5 seconds away from contact with the
+trees. Information from the DFDR indicates that a constant rate of descent of
+1,100 feet per minute was maintained until the first officer uttered his “you’re
+going below your….” statement. The Safety Board concludes that if the first
+officer had monitored the approach on instruments until reaching MDA and
+delayed his search for the airport until after reaching MDA, he would have
+been better able to notice and immediately call the captain’s attention to the
+altitude deviation below the MDA.
+32Hydrostatic equilibrium is a balance between gravity and pressure gradient
+force. Strong winds flowing over high terrain can result in nonhydrostatic equilibrium.
+
+67
+Further, if the flightcrew had computed a visual descent point
+(VDP) for their approach to runway 15, as described in the AAL flight
+manual, the DME associated with a VDP would have provided the flightcrew
+with a specific point in space to leave the MDA for landing. There would be
+no reason for the first officer or the captain to be looking away from the
+instruments and out the windscreen for the airport until just before or at the
+VDP. Both of them could have been concentrating upon the level off at the
+MDA. However, in this case, no VDP was calculated, the first officer began
+looking for the airport prior to reaching the MDA in the critical stages of the
+descent to MDA, and he was not adequately monitoring the flight instruments
+to serve as an additional backup to the captain.
+If the captain had planned for a VDP, he could have set up a
+more shallow rate of descent commensurate with reaching the target altitude
+at or just prior to the VDP. The reduced rate of descent would have allowed
+the captain to better monitor his descent progress toward the MDA. Also, a
+reduced rate of descent would have enabled the airplane to capture the MDA
+with less of a roundout (altitude loss) when the autopilot altitude hold button
+was depressed. A reduced rate of descent would also have given the captain a
+greater opportunity to arrest the descent at the MDA if he had manually taken
+control of the airplane.
+The captain stated that he attempted to “level off” the airplane at
+MDA, using the altitude hold button of the autopilot. However, that feature
+of the autopilot was not engaged until after the first officer uttered his “you’re
+going below your....” statement. The captain never took manual control of the
+airplane to either arrest his descent at the MDA or to initiate a more positive
+and immediate recovery to the MDA once he flew below this altitude.
+In summary, regardless of the outdated altimeter setting that
+affected the indicated altitude that the flightcrew observed, they allowed the
+airplane to descend about 309 feet below the indicated MDA for the
+instrument approach. The captain initially did not recognize the descent
+below MDA, and he failed to react immediately when he was alerted to the
+altitude deviation by the first officer. The Safety Board concludes that the
+flightcrew’s failure to maintain the required MDA until the required visual
+references identified with the runway were in sight directly caused this
+accident.
+
+68
+2.5 Actions After Tree Strike
+Regardless of the fact that the flightcrew descended below the
+MDA, their actions after the initial tree strike were noteworthy. The leading
+edge and trailing edge flaps of the airplane were severely damaged, power
+from one engine failed almost immediately after the tree strike, and power
+from the other engine failed shortly thereafter. Any mistakes in glidepath
+management, ground track management, or airplane configuration timing by
+the captain and first officer would probably have caused the airplane to land
+in unsuitable terrain prior to the clear area at the end of the runway and
+undoubtedly would have resulted in more severe injuries to crew and
+passengers. The Safety Board concludes that the excellent crew resource
+management and flight skills that the flightcrew used, as reflected on the CVR
+recording following their encounter with the trees, were directly responsible
+for limiting the number of injured passengers to one individual.
+2.6 Terminal Instrument Procedures (TERPS)
+As discussed below, the manner in which AVN-100 procedures
+specialists evaluated the obstacles on the instrument approach in question is
+markedly different from that of the flight procedures inspectors in the FIAO,
+making it possible to come to a different conclusion concerning the height of
+obstacles along the flightpath. In spite of the procedures that required the
+FAA FIAO to coordinate with the flight procedures specialists in the event of
+data or charting errors, such coordination apparently was never effectively
+accomplished.
+The instrument procedures development program was separated
+from the flight operations inspection program in 1994. The procedures
+specialists, who design the instrument approaches, are now part of the FAA’s
+Office of Aviation System Standards (AVN) and design an approach based
+upon charting methodology, rather than actual physical surveys to determine
+obstacle clearance surfaces. The specialists never directly measure obstacle
+heights, glidepath angles, and other variables, when they design an approach,
+but rather they rely upon graphs, charts, maps, and tables of information to do
+so. During the initial development of the BDL VOR runway 15 approach, the
+procedures specialist that designed the approach determined, based upon
+charts, that a 55 foot obstruction existed within the required obstacle
+clearance plane of the VASI. Further, if a VDP were to be established at the
+
+69
+intersection of the VASI with the MDA, the same obstruction would penetrate
+the required obstacle clearance plane by 55 feet. This was inconsistent with
+the FIAO determination, both during the approach development and after the
+accident by means of flight inspection, that the obstacle clearance plane was
+not penetrated by the ridge line and trees.
+Order 8260.19C, paragraph 430, states, in part:
+Establish a VDP on a non-precision approach, providing the
+[standard instrument approach procedure] SIAP meets the
+requirements of TERPS....
+But, paragraph 432, further states, in part:
+If a VDP is not established, give the reason; e. g., obstacles....
+An examination of FAA records revealed no reason for the
+absence of a VDP for the approach to runway 15 at BDL.
+If the VASI geometry designed by the procedures specialist
+indicated an encroachment by obstacles of 55 feet, then FAA procedures
+should have required re-examination of the approach to determine the
+adequacy of clearance, and the VASI should have been moved or
+decommissioned until the required obstacles were removed. If, on the other
+hand, the VASI obstruction clearance plane was “clear,” then in the Safety
+Board’s opinion, an appropriately located VDP should have been placed on
+the approach plate to provide flightcrews with an appropriate DME fix from
+which a visual descent for landing could be made more safely. Based upon
+TERPS criteria for VDP location, the DME fix for the VDP should have been
+located on the flightpath past the ridge line and trees. This would provide
+flightcrews with adequate required obstacle clearance and a defined point
+from which a visual descent could be made, past the ridge line. It would also
+tend to keep approaching airplanes at a safer altitude until after passing the
+ridge line where they would begin their descents to the MDA.
+The flight procedures unit used maps, charts, surveys and
+mathematical data to support their conclusions, whereas the flight inspection
+unit used airplanes and a theodolite (an optical device to measure angles and
+heights) for obstacle height verification. In this case their results were
+
+70
+different with regard to the height of the trees on the ridge line and whether
+they constituted an obstruction within the VASI-required obstacle clearance
+plane. The different methods of verification can be a good check and balance
+to ensure accuracy of measurements; however, when the two branches
+differed in conclusions, there should have been, but was not, a mechanism in
+place to resolve the differences. The Safety Board concludes that quality
+control was inadequate within the FAA for accurately resolving the height of
+the trees on the ridge line. Therefore, the Safety Board believes that the FAA
+should examine and make more effective the coordinating efforts of the flight
+inspection program and the procedures development program, with emphasis
+placed on ensuring quality control during the development, amendment, and
+flight inspection process for instrument approaches.
+The Safety Board also concludes that there is great value in
+flying non-precision approaches with a constant rate or angle of descent until
+the airport environment can be visually acquired, if the avionics aboard the
+airplane can safely support such a procedure. Therefore, the Safety Board
+believes that the FAA should evaluate TERPS design criteria for non-
+precision approaches to consider the incorporation of a constant rate or
+constant angle of descent to MDA in lieu of step-down criteria.
+2.6.1 Precipitous Terrain
+The TERPS Handbook states that consideration should be given
+to induced altimeter errors and pilot control problems in precipitous terrain
+that may result when winds are 20 knots or more over such terrain. No
+changes to the instrument approach procedure for runway 15 at BDL were
+made to account for precipitous terrain. Precipitous terrain is not defined in
+the TERPS Handbook. However, the BDL runway 15 approach is used
+primarily when the winds are such that their speed and direction preclude the
+use of the primary runway 06/24. Such conditions are likely to result in wind
+velocities in excess of 20 knots over the ridge line, which occurred the night
+of the accident. Such winds adversely affect airplane altimetry, and although
+it does not appear to have been a factor in this accident, the Safety Board
+concludes that the FAA should have, but did not, consider the issue of
+precipitous terrain when developing and modifying the approach to runway
+15.
+
+71
+The Safety Board believes that the FAA should incorporate
+precipitous terrain adjustments in the runway 15 approach. In addition, the
+Safety Board believes the FAA should include a more comprehensive set of
+guidelines concerning precipitous terrain adjustments in the TERPS (FAA
+Order 8260.3B) Handbook, clarifying the definition of precipitous terrain, and
+establishing defined criteria for addressing the potential effects of such
+terrain.
+FAA flight inspections of instrument approaches are not
+normally flown during adverse wind and turbulence conditions, such as those
+on the night of the accident, because the flight inspection pilots must fly under
+visual flight rules (VFR) to observe man-made obstacles and high terrain.
+Therefore, the flight inspectors may not be fully aware of how such adverse
+conditions affect the safety of a particular instrument approach. Because the
+Safety Board is concerned that non-precision approaches at airports other than
+BDL may be adversely affected by wind and turbulence associated with
+precipitous terrain, the Safety Board believes that the FAA should review and
+evaluate the appropriateness of the let-down altitudes for all non-precision
+approaches that have significant terrain features along the approach course
+between the initial approach fix and the runway. Airline safety departments
+and pilot labor organizations, such as the Allied Pilots Association and the Air
+Line Pilots Association, should be consulted as part of this review. In
+addition, the Safety Board believes that the FAA should solicit and record
+user comments about difficulties encountered in flying a particular approach
+to evaluate approach design more accurately.
+2.6.2 Approach Plate Terrain Depictions
+The single 819-foot obstacle depicted on the final approach
+course of most BDL runway 15 VOR approach plates could lead flightcrews
+to believe that there was one discrete obstacle, and that it was the only
+dangerous point on the final approach (see Figure 1). However, the Safety
+Board concludes that the entire ridge line is an obstacle, and that it and similar
+terrain close to other airports should be fully depicted on the appropriate
+approach charts. As an example, see Figure 4, the BDL approach plate used
+by British Airways. The Safety Board continues to believe, as reflected in
+Safety Recommendation A-96-102, following the accident near Buga,
+Colombia, that the FAA should require that all approach and navigation charts
+graphically present terrain information.
+
+
+
+73
+2.7 Air Traffic Control Factors
+2.7.1 ATC Altimeter Setting Distribution Procedures
+The approach controller is required to issue the QNH (above sea
+level) altimeter setting on initial contact with an arriving flight, in accordance
+with the Air Traffic Control Handbook, FAA Order 7110.65. AAL flight
+1572 first contacted the approach controller at 0043:41. The controller should
+have issued the current altimeter setting of 29.38 inches Hg. at that time. The
+controller said that the omission was inadvertent. If the controller had issued
+the current altimeter setting on initial contact, the aircraft would most likely
+have been 40 feet higher than it actually was when it struck the trees.33 The
+survey of tree heights that was performed shortly after the accident indicated
+that the trees in the area of initial impact were approximately 60 feet tall.
+Therefore, an additional 40 feet might have given the aircraft enough
+clearance to miss the trees on the downslope of the ridge. Accordingly, the
+Safety Board concludes that this omission by the controller was a contributing
+factor in this accident.
+There is no requirement for an approach controller to issue an
+altimeter change to an aircraft after the initial contact. However, considering
+the fact that the pressure changes were described by the weather observer as
+"pressure falling rapidly," and especially in light of the controller’s failure to
+issue the current altimeter setting (29.38 inches Hg.) upon initial radio contact
+and his 0044:34 entry of 29.34 inches Hg. in the ARTS system while the
+accident aircraft was on his frequency,34 the Safety Board concludes that it
+would have been prudent for the approach controller to have issued the
+altimeter setting changes as the airplane neared the airport. The latest
+altimeter setting available to the approach controller while the accident flight
+was on his frequency was 29.36 inches of Hg. If the flightcrew had received
+and correctly entered this setting, it would have resulted in the aircraft being
+33The altimeter setting of 29.42 inches Hg. (the QNH equivalent of the 29.23
+inches Hg. QFE setting the flightcrew was using on final approach) minus 29.38 inches Hg.
+equals .04, or 40 feet of indicated altitude.
+34When he entered 29.34 inches Hg., the controller should have recognized
+that this was a substantially lower barometer reading than existed when the accident
+airplane initially reported on the frequency (29.38), and it should have reminded him that he
+had not provided the flightcrew with a current altimeter setting.
+
+74
+approximately 60 feet higher, thus likely enabling it to clear the trees on the
+ridge line.
+This accident illustrates the safety hazards that may result when
+flightcrews of landing aircraft are not informed of current altimeter settings in
+circumstances of rapidly falling atmospheric pressure. Therefore, the Safety
+Board believes that for arriving aircraft executing instrument approaches at all
+airports, during periods in which the weather observer has included in the
+weather report the remark, "pressure falling rapidly," controllers should be
+required to issue, as frequently as practical, altimeter setting changes to
+flightcrews in addition to the altimeter setting issued on initial contact.
+2.7.2. Tower Closure and Assistance Provided by the TRACON
+Supervisor
+The winds on the evening of the accident were strong enough to
+bow tower windows and allow water to enter the tower cab, posing an
+electrical hazard to the tower controller. The Safety Board therefore
+concludes that the closure of the tower was a good managerial decision
+because the safety of people in the tower was compromised by the adverse
+wind and rain. The TRACON supervisor's presence in the tower to monitor
+repairs, and his provision of wind and runway information to the aircraft was
+beneficial to the flight. He informed the flight that the runway was clear,
+provided landing winds, and he also provided a windshear alert. This
+information would not otherwise have been provided to the flightcrew.
+Although additional information regarding the current altimeter
+setting would have been even more helpful to the flightcrew, the TRACON
+supervisor was not required to provide that, or any, information. He was
+voluntarily assisting the flight by providing advisory information, and he was
+not officially serving as an air traffic controller. Further, the flightcrew had
+been told by the approach controller that the tower was not “officially” open,
+and therefore, the flightcrew could reasonably assume that there was no
+“official” ATC service in the tower. The Safety Board notes that the
+supervisor was very careful in his wording and did not give flight 1572
+clearance to land. His exact words were, “Bradley tower, uh, landing is at
+your discretion, sir....runway does appear clear, you can land and taxi to the
+gate at your discretion.”
+
+75
+The first officer on two occasions (0054:04 and 0055:06) used
+the words “cleared to land,” in conversation with the captain. However,
+because the tower was closed, the captain of flight 1572 could land the
+airplane only on his own authority. The Safety Board concludes that the
+TRACON supervisor’s communications with the flight were appropriate and
+aided the flightcrew. He acted in a professional manner, and should be
+commended for his willingness to assist the flight under the circumstances.
+As further discussed in Section 2.7.4, the ATIS report broadcast
+at the time of the accident was based on weather observations almost 2 hours
+old, information that would be of little use to flightcrews in the area.
+Therefore, the Safety Board concludes that as part of the tower closure
+procedure, the ATIS broadcast should have been updated to reflect the
+temporary tower closure, and it should have advised flightcrews to obtain
+local weather and airport information from another source.
+2.7.3 MSAW (Minimum Safe Altitude Warning)
+MSAW is a computer program to warn a controller when an
+airplane descends or will descend below a predetermined altitude. If the radar
+does not receive a signal from a target, the program cannot function. The
+MSAW at BDL was set to alarm if the aircraft transmitted two mode C returns
+at or below 1,050 feet msl (30 feet below the MDA for the runway 15 VOR
+approach). There was no alarm as flight 1572 descended below the MDA
+because the aircraft was not in radar contact at that point because of shielding
+by the ridge line. There was a radar return recorded at 1,300 feet (above the
+MSAW envelope) but because of shielding from the ridge, the aircraft was out
+of radar contact for three radar sweeps and was therefore not visible to the
+controllers. Then, a single radar return was recorded at 900 feet, followed by
+another radar sweep with no recording of the flight, and then two radar returns
+were recorded at 800 feet. The MSAW then sounded an alarm, as it should
+have under those conditions.35 However, this alarm sounded about 4 seconds
+after the airplane had struck the trees.
+35Two consecutive sweeps with radar contact with an airplane are required to
+set off the MSAW alarm. This is the reason that the MSAW did not alarm following the
+single radar contact at 900 feet.
+
+76
+According to the FAA, because of the lack of radar coverage
+close to the ridge, the minimums for the VOR 15 approach would have to be
+raised to give MSAW protection for this approach. It is not desirable for an
+MSAW alarm to occur above the MDA. This would result in an MSAW
+false alarm sounding on every approach, making the occasional valid alarm
+likely to be ineffective. Because the last radar return before the airplane
+struck the trees was recorded at 1,300 feet, the lowest altitude at which the
+MSAW could be programmed to activate and be effective is 1,300 feet.
+Therefore, to have full MSAW coverage, the approach minimums for this
+approach would have to be raised from 1,080 feet msl to somewhat above
+1,300 feet msl, to keep the MDA above the alarm point for the MSAW.
+However, an MDA this high would defeat the purpose of the instrument
+approach. The descent from a 1,350-foot MDA to the runway would have
+to start far back along the final approach course, and the ceiling and
+visibility minimums would be unrealistically high. The Safety Board
+therefore concludes that despite the lack of full MSAW coverage along the
+approach, the MSAW operated properly, and that because of topographical
+limitations of the BDL local area, it is not practical to provide full MSAW
+coverage.
+2.7.4 The Outdated ATIS Broadcast
+The ATIS report information Victor, based on 2251 EST
+weather (from a weather observation taken almost 2 hours before the
+accident) was broadcast continually through the time of the accident.
+Because of the age of the observation, ATIS Victor was of little use to
+flights in the area of BDL. The relieving tower controller, who “entered the
+tower a couple of minutes before midnight” said that he listened to the ATIS
+but did not notice the time on it, nor did he notice if the SAIDS incoming
+information warning light was blinking. This would have indicated that
+new weather information was available. He said that the environment was
+very noisy (because of wind noise) and that he did not hear SAIDS
+incoming information warning tones. The weather sequence, taken at 2252,
+was time stamped at 2249:21. However, the clock making the time stamp
+was about 4.5 minutes slow. Therefore, the Safety Board believes that it
+was actually received at around 2253. The 2351 weather sequence would
+have actually been received at around 2358. The Safety Board believes that
+the weather information would have been on the display prior to the closing
+of the tower. However, the time stamps and readout of the SAIDS indicated
+
+77
+that the information was sent at 2358 and would probably have been
+displayed when he began his shift. The information would also have been on
+the display at the time the tower closed.
+If the ATIS had been updated, the altimeter setting would have
+been 29.42 inches Hg., (based on the 2352 local observation) a less current
+altimeter setting than the one that the flightcrew received from Boston
+ARTCC (29.40 inches Hg., based on the 2333 observation). The flightcrew
+had actually received an earlier ACARS setting of 29.42 inches Hg.
+(erroneously entered in the standby altimeter as 29.47 inches Hg.), the same
+setting that would have been provided on the unbroadcast ATIS.36 The Safety
+Board concludes that the tower controller being relieved should have advised
+the relieving controller that the ATIS needed to be updated, even if it meant
+that they had to use the airport police to tell the weather observer to call the
+tower with more current weather. Although the failure to update the ATIS
+was not a factor in this accident, this failure raises concerns because of the
+potential hazards of not having current weather information available for
+flights inbound to BDL. Therefore, the Safety Board believes that the FAA
+should revise Facility Operation and Administration handbook 7210.3, or
+other appropriate orders, to require that when a tower shuts down for any
+reason, and if the tower controllers have time to record a new ATIS indicating
+that the tower is closed, they should do so.
+2.8 Weather Conditions at the Time of the Accident
+Possible downdrafts of about 400 feet per minute may have
+existed near the lee (northwest) side of the ridge where the tree strike
+occurred, according to the NCAR simulation. Douglas estimated a
+maximum updraft of about 600 feet per minute in this same geographical
+area. However, updrafts are not common on the lee side of ridge lines
+(downdrafts usually occur on the lee side of an obstacle). On the other
+hand, the NCAR simulation is dependent on an initial steady wind direction of
+160 degrees, which probably does not accurately represent the accident
+conditions, as the winds were variable, not steady. Variation of the wind
+direction would result in a change in the location of updrafts and downdrafts
+in relation to the ridge. In addition, the presence of a horizontal axis vortex
+36The unbroadcast ATIS wind direction, velocity and gust factor would have
+been similar to that of the earlier ATIS broadcast.
+
+78
+on the lee side of the ridge could have produced a localized updraft along the
+flightpath of the airplane. The Safety Board concludes that, although the
+variable wind conditions at the time of the accident may have caused localized
+updrafts and downdrafts in the area, the DFDR data indicates that there were
+no large-scale updrafts or downdrafts that would have affected the accident
+aircraft.
+During the approach to runway 15, to the point at which flight
+1572 struck the trees, the airplane would have encountered moderate
+turbulence and localized updrafts and downdrafts due to the interaction
+between strong low altitude winds and rough terrain along the flightpath.
+Windshear due to strong gusty low altitude winds also occurred following the
+tree strike, as the airplane was on approach to the runway. An estimated mean
+wind profile indicated a decreasing headwind as the airplane descended to the
+runway.
+Although windshear was occurring as the airplane approached
+and passed over the ridge line, it was the gustiness of the low altitude winds,
+rather than a small-scale weather feature, that significantly affected airplane
+performance. Airspeed excursions amounted to only about 10 knots. Further,
+a descent rate of about 1,100 feet per minute was initiated by the flightcrew
+from about 1,840 feet msl and was maintained until tree contact. The linear
+nature of the pressure altitude trace indicates that the airplane’s flightpath was
+probably not significantly affected by updrafts, downdrafts, or windshear.
+Such an effect would be seen as a deviation from the near linear pressure
+altitude trace. Therefore, the Safety Board concludes that the decreasing
+headwind shear seen in the estimated mean wind profile data was not severe
+enough to cause the flightcrew to deviate below the MDA.
+Along the approach to runway 15, cloud bases were near 2,000
+feet with multiple cloud layers above, and the tops of the clouds were above
+15,000 feet. Flight visibility was near 0 miles in the clouds and 2 to 3 statute
+miles below the lowest cloud base. The first officer reported "there's the
+runway straight ahead " at 0055:57. The airplane was about 2.1 miles from
+the end of the runway at this time. Moderate rain probably occurred along the
+approach to the runway with more intense rain near the runway.
+Given the above described conditions, the Safety Board
+concludes that the weather at the time of the accident was not severe enough
+
+79
+to cause the aircraft to deviate below the MDA, and did not contribute to the
+accident.
+2.8.1 LLWAS Equipment
+The northwest LLWAS sensor was physically out of alignment
+by 38 degrees and was corrected subsequent to the accident. Analysis of the
+LLWAS data, according to the FAA, indicated that this sensor did not
+appear to degrade the entire LLWAS system to any significant degree during
+the analyzed period.
+The Safety Board could not determine whether the LLWAS
+system would have provided another windshear alert if the sensor had not
+been misaligned. Nevertheless, the Safety Board considered the possibility
+that if the northwest sensor had been correctly aligned, it might have alerted
+due to erratic wind conditions; and an LLWAS alert from this sensor in the
+area of flight 1572 might have prompted the flightcrew to perform a missed
+approach. The Safety Board could not rule out this possibility. However, the
+Safety Board believes that it is more likely that if the flightcrew had received
+a northwest LLWAS alert from the tower controller, they would have
+continued the approach because under the known turbulence and erratic wind
+conditions, LLWAS alerts are to be expected. Thus, under these conditions, it
+would not be unreasonable for a flightcrew to react to such a warning by more
+closely monitoring their airspeed, rather than immediately initiating a missed
+approach. Therefore, the Safety Board concludes that the misaligned LLWAS
+sensor did not contribute to this accident.
+According to the FAA, procedures are in place to check and
+correct the alignment of sensors based on the SPES analysis, which is run on a
+regular basis. However, the FAA also indicated that because of manpower
+shortages, it can take 3 to 6 months after discrepancies are noted for the
+alignment of the sensors to be examined and adjusted by airport personnel.
+The Safety Board concludes that 3 to 6 months after discrepancies are noted is
+an unacceptable period of time to verify the accuracy of sensor alignment,
+since wind direction can have a direct bearing on the windshear detection
+capability of the system. Therefore, the Safety Board believes that the FAA
+should develop a plan to physically check and correct wind sensor alignment
+in a more timely manner.
+
+80
+The Safety Board is also concerned that the FAA’s process of
+“recertifying” the LLWAS--despite the implication that “recertification”
+signifies that the system has been found to comply with all original
+certification requirements--does not include checking that the sensors are
+properly aligned. Although the FAA indicated that the misalignment did not
+appear to degrade the system during the analyzed period (October 31, 1995 to
+November 12, 1995), this result is relevant only to the wind conditions
+experienced during that period. A misalignment of 38 degrees could clearly
+compromise the effectiveness of the system under some wind conditions.
+Accordingly, the Safety Board believes that the FAA should evaluate its
+LLWAS recertification process, and ensure that the process addresses the total
+functional capability of the system.
+2.9 Survival Factors
+2.9.1 The Malfunctioning Escape Slide
+Instructions for rigging the inflation cable, contained in the
+Douglas DC-9/MD-80 Maintenance Manual 25-62-00-2-2, page 204,
+paragraph 11, were ambiguous. At the time of the accident, they stated:
+“Check that loop on firing lanyard is secured to girt tab with retaining ring on
+manual inflation handle; then, secure lanyard cover flap over firing lanyard.”
+The instructions did not specifically call for the inflation cable to pass through
+a grommet on a tab near the girt bar before the cable is connected to the
+retaining ring on the manual inflation handle. In addition, the diagram in the
+rigging instructions did not display the grommet or the tab, or the inflation
+cable passing through the grommet on the tab near the girt bar before the
+cable is connected to the manual inflation handle (see Figure 5). This is
+required for the slide to inflate properly. The Safety Board concludes that
+because of the ambiguous instructions that appeared in the Douglas
+Maintenance Manual, operators of MD-80 and DC-9 series airplanes could be
+misrigging emergency evacuation slides. Therefore, the Safety Board
+believes that the FAA should require all operators to inspect immediately all
+MD-80 and DC-9 floor level exits to ensure that evacuation slides have been
+properly rigged.
+As a result of this accident, American Airlines took immediate
+action to clarify instructions in its maintenance manual and is conducting a
+fleet-wide inspection of all emergency evacuation slides on its MD-80
+
+81
+airplanes. Douglas also took action and revised its maintenance manual
+instructions for installation of evacuation slides to include improved diagrams
+showing proper routing of the inflation cable through the grommet tab, and to
+include instructions to “[p]ass [the] inflation cable loop through [the]grommet
+tab.” (See Figure 6.) (The “inflation cable” had previously been referred to in
+the manual as the “firing lanyard.”) Although these revisions clearly and
+accurately depict the proper routing of the inflation cable, the Safety Board is
+concerned that the change in terminology from “firing lanyard” to “inflation
+cable” was not reflected in all the maintenance manual diagrams and
+instructions dealing with the installation and removal of evacuation slides. In
+several places, the cable is still referred to as a “firing lanyard.” The Safety
+Board concludes that because Douglas uses two different terms (“firing
+lanyard” and “inflation cable”) for the same part in its MD-80 and DC-9
+maintenance manuals, the manual remains potentially confusing. Therefore,
+the Safety Board believes that the FAA should require Douglas Aircraft
+Company to review and amend its MD-80 and DC-9 maintenance manuals so
+that terminology used in graphics and instructions pertaining to the
+installation and removal of evacuation slides are clear and consistent.
+2.9.2 Evacuation Route Difficulties
+The aisle and areas in front of the escape doors that constituted
+the escape routes were partially blocked by passenger shoes during the
+evacuation. This could have caused injuries or loss of life in the case of an
+interior fire or other critical situation. The practice of commanding all
+passengers to remove shoes during evacuations was originally targeted
+primarily at high heeled shoes, and was intended to prevent slide punctures.
+But modern slide design and strengthened fabric material now used in slide
+manufacturing make the policy outdated. In addition, (with the exception of
+high heeled shoes) safety is served by passengers wearing shoes because they
+can exit an airplane and move away from an evacuated airplane more readily.
+It may still be appropriate for crewmembers to instruct female
+passengers to remove high-heeled shoes that could cause injuries during an
+evacuation. Experience has shown that ankle and leg injuries are more likely
+to result from passengers wearing high heels. In addition, other injuries could
+also occur to rescue personnel and passengers, as the passenger wearing high
+heels slides down to waiting individuals at the bottom of the slide.
+
+82
+GIRT BAR HOOKS
+IRING
+ANYARD
+YARD COVER
+P (CLOSED)
+HANDLE
+(ARMED POSITION)
+Figure 5.--Instruction diagram for rigging the firing lanyard (inflation cable).
+
+83
+MANUAL INFLATION
+INFLATION
+CABLE
+, fHANDLE \ /p VELCRO
+.
+&
+\
+KEY RING
+GRo-TT.~G’”=
+GIRT ~
+UNARMED
+Figure 6.--Revised instruction diagram for rigging the inflation cable,
+
+84
+However, the Safety Board concludes that directing all
+passengers to remove shoes during evacuations may not be in the best
+interests of safety. There is no FAA policy regarding issuing commands for
+shoe removal during an evacuation. Although American Airlines is the only
+major carrier the Safety Board is aware of that instructs passengers to remove
+shoes during an evacuation, the Safety Board is concerned that there is no
+uniform policy or standard to which all operators (large and small) must
+adhere. The Safety Board therefore believes that the FAA should develop a
+uniform policy on shoe removal during evacuations, and require that all
+operators train their flight attendants to issue commands during an emergency
+evacuation consistent with that policy.
+
+85

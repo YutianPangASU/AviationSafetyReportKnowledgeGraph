@@ -1,0 +1,863 @@
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+A
+TI T
+OI
+Washington, D.C. 20594
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: DCA00MA030
+Operator/Flight Number: Southwest Airlines flight 1455
+Aircraft and Registration: Boeing 737-300, N668SW
+Location: Burbank, California
+Date: March 5, 2000
+Adopted On: June 26, 2002
+HISTORY OF FLIGHT
+On March 5, 2000, about 1811 Pacific standard time (PST),1 Southwest Airlines, Inc.,
+flight 1455, a Boeing 737-300 (737), N668SW, overran the departure end of runway 8 after
+landing at Burbank-Glendale-Pasadena Airport (BUR), Burbank, California. The airplane
+touched down at approximately 182 knots, and about 20 seconds later, at approximately 32 knots,
+collided with a metal blast fence and an airport perimeter wall. The airplane came to rest on a
+city street near a gas station off of the airport property. Of the 142 persons on board,
+2 passengers sustained serious injuries; 41 passengers and the captain sustained minor injuries;
+and 94 passengers, 3 flight attendants, and the first officer sustained no injuries. The airplane
+sustained extensive exterior damage and some internal damage to the passenger cabin. During
+the accident sequence, the forward service door (1R) escape slide inflated inside the airplane; the
+nose gear collapsed; and the forward dual flight attendant jumpseat, which was occupied by two
+flight attendants, partially collapsed. The flight, which was operating on an instrument flight
+rules flight plan, was conducted under 14 Code of Federal Regulations (CFR) Part 121. Visual
+meteorological conditions (VMC) prevailed at the time of the accident, which occurred in
+twilight lighting conditions.
+According to Southwest Airlines records, the accident flight was the flight crew’s first
+flight of what was scheduled to be a 3-day flight sequence that consisted of five flights. The
+accident flight originated at McCarran International Airport (LAS), Las Vegas, Nevada, and was
+scheduled to depart about 1445 for BUR. The first officer of the accident flight stated to National
+Transportation Safety Board investigators that he arrived at LAS about 1245, and the captain
+indicated that he arrived about 1400. The first officer reported in a postaccident interview that he
+met the captain on the way to the gate. Southwest Airlines records indicate that the accident
+1 Unless otherwise indicated, all times in this report are PST, based on a 24-hour clock, and are taken from the
+cockpit voice recorder (CVR) transcript. In some instances, the air traffic control (ATC) transcript indicates times
+that are different from those in the CVR transcript.
+NTSB/AAB-02/04
+
+2
+airplane arrived at LAS from Los Angeles International Airport, Los Angeles, California,
+about 1630, almost 2 hours behind schedule, because of rain and gusting winds in the LAS area.
+The accident flight crew indicated that the preflight inspection was normal and that no
+maintenance discrepancies were noted.
+Flight 1455 departed the gate about 1650, more than 2 hours behind schedule. During
+postaccident interviews, the flight crew indicated to Safety Board investigators that the takeoff
+and en route portions of the flight to BUR were normal and uneventful. The first officer stated
+that after the flight crossed the PMD very high frequency omni-directional radio range (VOR)2
+navigation transmitter at 8,000 feet, he obtained information Oscar from the BUR airport
+terminal information service (ATIS), which indicated that winds were from 260° at 18 knots,
+gusting to 26 knots, and that aircraft were landing on runways 33 and 26. At 1754:21, the captain
+stated, “plan on [runway] three three at the moment. [A]pproach descent checklist when you get
+the chance.”
+At 1802:52, the flight crew was advised by the Southern California terminal radar
+approach control (SCT) Woodland controller that the current ATIS was information Papa and
+that they should expect an instrument landing system (ILS) landing on runway 8. At 1803:29,
+when the airplane was about 20 nautical miles (nm) north of the BUDDE outer marker3 at an
+altitude of about 8,000 feet mean sea level (msl), the Woodland controller instructed flight 1455
+to turn left to a heading of 190° and to descend to and maintain 6,000 feet msl. The first officer
+acknowledged the instructions.
+At 1804:02, when the airplane was about 19 nm north of the BUDDE outer marker at an
+altitude of about 7,800 feet msl, the SCT Woodland controller stated, “Southwest fourteen fifty
+five, maintain two thirty or greater ‘til advised please.” The captain acknowledged the airspeed
+adjustment assignment.4 The Woodland controller indicated in a postaccident interview that he
+imposed the speed restriction as part of sequencing Southwest flight 1455 between Southwest
+flight 1713 and Executive Jet flight 278.
+After the first officer obtained information Papa, he switched back to the approach
+control frequency. At 1804:42, he informed the captain that the target airspeed for the approach
+would be 138 knots and, at 1804:49, that winds were “down to six knots.” A few seconds later,
+he confirmed that aircraft were landing at BUR on runway 8. At 1805:08, when the airplane was
+about 16 nm north of the BUDDE outer marker at an altitude of about 6,000 feet msl, the SCT
+Woodland controller instructed flight 1455 to “turn left heading one six zero.” At 1805:13, the
+captain indicated to the first officer that ATC “wants two hundred thirty knots or greater, for a
+while.”
+2 The PMD VOR, which is located in Palmdale, California, is 30 miles northeast of BUR.
+3 The BUDDE outer marker is located 6 miles west of BUR’s runway 8 threshold.
+4 The first officer indicated in postaccident interviews that while he was obtaining the new ATIS information,
+the captain communicated with ATC.
+NTSB/AAB-02/04
+
+3
+At 1805:54, the SCT Woodland controller cleared flight 1455 to descend to and maintain
+5,000 feet and advised the pilots that they were following company traffic (Southwest Airlines
+flight 1713) that was at their “one o’clock and twelve miles [ahead of them] turning onto the
+final out of forty six hundred.” The first officer acknowledged the clearance. At 1807:43, the
+Woodland controller cleared flight 1455 to descend to and maintain 3,000 feet. The first officer
+acknowledged the clearance. At 1808:18, the first officer notified ATC that he had the Southwest
+traffic in sight. At 1808:19, the Woodland controller issued an altitude restriction by stating,
+“cross Van Nuys at or above three thousand,[5] cleared visual approach runway eight.”6 The first
+officer acknowledged the clearance. At 1808:36, as the airplane was descending through about
+3,800 feet msl, the captain began turning to the left for the final approach.
+In postaccident interviews, the flight crew told investigators that, during the approach, the
+captain’s navigation radio was tuned to the ILS frequency for runway 8, and the first officer’s
+radio was tuned to the Van Nuys VOR. They indicated that the autopilot was engaged in the
+VOR/LOC mode7 and that the airplane captured the localizer course but then overshot the
+centerline before correcting back.8 The captain stated to investigators that as the flight passed
+about 2 miles west of Van Nuys at 3,000 feet at approximately 220 to 230 knots, he deployed the
+speed brakes.
+According to the CVR, at 1809:28, when the airplane was at an indicated airspeed of
+about 220 knots, the captain called for “flaps five.” At 1809:32, the flaps began to extend.
+At 1809:43, the captain called for “gear down.” The captain indicated in a postaccident
+interview that at this point in the flight, he noted a 20-knot tailwind indication on the flight
+management system (FMS) screen.9 At 1809:53, the BUR tower controller stated, “Southwest
+fourteen fifty five, wind uh…two one zero at six [knots], runway eight, cleared to land.”
+Simultaneously, the captain called for “flaps fifteen.”10 At 1810:01, the captain again called for
+“flaps…fifteen” and “[flaps] twenty five.”
+From 1810:24 until 1810:59, the ground proximity warning system (GPWS) alerts were
+being continuously broadcast in the cockpit, first as “sink rate” and then, at 1810:44, switching to
+“whoop, whoop, pull up.” At 1810:29, the captain stated, “flaps thirty, just put it down.”
+At 1810:33, the captain stated, “put it to [flaps] forty. [I]t won’t go, I know that. [I]t’s all right.
+5 According to the Pilot/Controller Glossary, restrictions are defined as “[a]n altitude or altitudes, stated in the
+order flown, which are to be maintained until reaching a specific point or time. Altitude restrictions may be issued
+by ATC due to traffic, terrain, or other airspace considerations.”
+6 Flight 1455’s 230-knot airspeed adjustment assignment was no longer applicable after the SCT Woodland
+controller issued the visual approach clearance. (For more information about speed adjustment assignments, see the
+section titled, “Company Procedures.”) In a postaccident interview with Safety Board investigators, the controller
+stated that he did not know why he did not cancel the restriction sooner.
+7 The VOR/LOC mode is used to command the autopilot to intercept the selected localizer radio course.
+8 FAA radar data show that the airplane crossed the BUDDE outer marker at about 3,200 feet msl at an indicated
+airspeed of about 225 knots.
+9 No evidence exists on the CVR transcript of a discussion between the pilots about the tailwind.
+10 At 1809:54, the flaps extended to 5°; at 1810:01, the flaps extended to 10°; at 1810:08, the flaps extended to
+25°; at 1810:29, the flaps extended to 30°; and at 1811:05, the flaps extended to between 30° and 40°.
+NTSB/AAB-02/04
+
+4
+[F]inal descent checklist.” After the GPWS “whoop, whoop, pull up” alert sounded at 1810:47,
+the captain stated, “that’s all right,” at 1810:53. A final “sink rate” warning was recorded
+at 1810:55. The first officer stated in a postaccident interview that instead of reading the final
+descent checklist,11 he visually confirmed the checklist items and remembered seeing the captain
+arm the ground spoilers. The first officer also stated that when the captain called for flaps 40°,
+the airspeed was about 180 knots and went as high as 190 knots during the approach.12 The first
+officer indicated that he pointed to his airspeed indicator to alert the captain of the flap limit
+speed of 158 knots at flaps 40°.
+The captain told Safety Board investigators that he remembered hearing the “sink rate”
+warning from the GPWS but that he did not react to the warning because he did not feel that he
+had to take action. He stated that he did not remember any other GPWS warnings during the
+approach. The first officer indicated in a postaccident interview that he heard both the “sink rate”
+and the “pull up” GPWS warnings but that he believed that the captain was correcting.
+The first officer also indicated to investigators that he selected the “Progress” page13 on
+the FMS cockpit display unit but that he could not recall what the wind values were during the
+approach. He stated to investigators that he was concerned that the ground speed was faster than
+normal but added that he did not verbalize his concern to the captain. The first officer further
+indicated to investigators that he felt that the approach was stabilized and that they were in a
+position to land.
+The captain stated in a postaccident interview that he was aware that Southwest Airlines’
+standard procedure14 was for the captain and first officer to call “1,000 [feet above ground level
+(agl)], airspeed, and sink rate” when descending through 1,000 feet. However, no such callouts
+were recorded by the CVR. The captain also stated in a postaccident interview that he visually
+perceived that the airplane was “fast” as it crossed the approach end of runway 8. CVR and FDR
+data indicate that the airplane touched down at 1810:58 with flaps extended to 30° at about
+182 knots; flaps then extended to 40° during the ground roll at about 145 knots.
+The captain stated to Safety Board investigators that after touchdown, the end of the
+runway appeared to be closer than it should have been and that he thought they might hit the blast
+fence wall. The captain indicated that he braked “pretty good” while attempting to stop the
+airplane. FDR data indicate that the captain unlocked the thrust reversers 3.86 seconds after
+touchdown and that the thrust reversers deployed 4.91 seconds after touchdown. The first officer
+stated to investigators that the captain applied the wheel brakes before the airplane had
+11 The final descent checklist includes notifying the flight attendants, checking the flight and navigational
+instruments, placing the landing gear down, arming the speed brake, positioning the wing flaps, and disengaging the
+autopilot.
+12 Flight data recorder (FDR) and radar data indicate that at 1810:33, the airspeed was about 190 knots.
+13 The “Progress” page indicates dynamic flight and navigation data, including track, path, temperature, speed,
+and headwind or tailwind information.
+14 For more information about Southwest Airlines’ procedures, see the section titled, “Company Information.”
+NTSB/AAB-02/04
+
+5
+decelerated to 80 knots15 and that, as the airplane passed the Southwest Airlines passenger
+boarding gates,16 he joined the captain in braking the airplane and applied the brakes as hard as
+he could. The captain indicated that as the airplane neared the end of the runway, he initiated a
+right turn using only the nosewheel steering tiller (not the rudder pedals).
+At 1811:20, the cockpit area microphone (CAM) recorded impact sounds. The airplane
+departed the right side of the runway about 30° from the runway heading, penetrated a metal blast
+fence and an airport perimeter wall, and came to a stop on a city street off of the airport property.
+An emergency evacuation ensued, and all crewmembers and passengers successfully exited the
+airplane.17
+PERSONNEL INFORMATION
+Both flight crewmembers were certificated pursuant to Southwest Airlines and Federal
+Aviation Administration (FAA) certification requirements. A review of FAA records indicated
+that the flight crewmembers had no history of airplane accidents or enforcement actions. In
+addition, both flight crewmembers held valid driver’s licenses for the states in which they lived.
+Records at the National Driver Register found no indication of driver’s license revocation or
+suspension for either pilot. Further, both flight crewmembers provided urine specimens and
+breath samples for postaccident drug and alcohol testing, the results of which were negative.
+The Captain
+At the time of the accident, the captain, age 52, held an airline transport pilot (ATP)
+certificate, issued October 25, 1979, with the ratings and limitations of airplane multiengine land;
+commercial privileges for airplane single engine land; and type ratings for 737,
+Gulfstream G-159, and Convair CV-240, -340, and -440 airplanes. His most recent FAA
+first-class medical certificate was issued on October 19, 1999, with the limitation that he must
+possess corrective glasses while flying.18
+According to the captain, he served as a pilot in the U.S. Air Force (USAF) from 1970 to
+1975 at Mather Air Force Base, Sacramento, California. In 1976, he acquired his 737 type rating
+through United Airlines and, from 1977 to 1979, flew as a 737 first officer for Wien Air Alaska.
+From 1979 to 1980, he flew Gulfstream G-159s and King Airs as a captain for Coleman Air
+Transport. From 1980 to 1988, he was employed by the EG&G Corporation and flew 737s as
+captain and first officer.
+15 For more information about Southwest Airlines’ braking procedures, see the section titled, “Company
+Information.” Pilots are advised to initiate braking after 80 knots under normal landing conditions or before
+80 knots if conditions require earlier use.
+16 The Southwest Airlines passenger boarding gates are parallel to runway 8 and are located about 1,000 feet
+before the end of the runway.
+17 For more information about the emergency evacuation, see the section titled, “Survival Aspects.”
+18 The captain indicated to Safety Board investigators that he normally wore glasses while flying at night.
+NTSB/AAB-02/04
+
+6
+The captain began his employment at Southwest Airlines on July 7, 1988. According to
+the captain, at the time of the accident, he had accumulated a total of approximately 11,000 hours
+of flight time. He had flown 737s for Southwest Airlines for a total of 9,870 hours, 5,302 of
+which were as pilot-in-command. The captain had flown for Southwest Airlines 123.3, 88.8,
+52.1, and 15 hours in the 90, 60, 30, and 7 days, and 1.4 hours in the 24 hours, before the
+accident, respectively. The captain’s most recent systems training took place on October 10,
+1999, and his most recent proficiency check and training took place on October 11, 1999. His
+most recent 737 line check was on October 29, 1999.
+During postaccident interviews, a first officer at Southwest Airlines with whom the
+accident captain had flown described the accident captain as easy to get along with and rated him
+as an average captain. He indicated that he never felt uncomfortable flying with the captain and
+that the captain operated according to company procedures. Another Southwest Airlines captain
+described the accident captain as congenial, mild-mannered, and someone who got along well
+with everyone.
+At the time of the accident, the captain lived in the Las Vegas, Nevada, area. He
+indicated that, during the 3 days before the accident, he exercised moderately by jogging and
+playing golf. He stated that he normally went to bed about 2300 and awoke between about 0730
+and 0830. The captain stated that on March 4th, he went to bed about midnight and felt well
+rested when he awoke on March 5th about 0830. He indicated that he called crew scheduling
+about 0900, jogged 4 miles, lifted weights, and ate breakfast. He reported that he left his home
+about 1330 and arrived at LAS about 1400.
+The First Officer
+At the time of the accident, the first officer, age 43, held an ATP certificate, issued
+December 18, 1995, with the ratings and limitations of airplane multiengine land, commercial
+privileges for airplane single engine land, and type rating for the 737. His most recent FAA
+first-class medical certificate was issued on October 18, 1999, with no limitations.
+The first officer reported to investigators that he had completed 12 years of active duty in
+the USAF during which he flew F-15 fighter airplanes. He stated that, after completing his active
+service, he flew F-16s in the USAF reserve. His total military flight time at the time of the
+accident was approximately 2,500 hours.
+The first officer was hired by Southwest Airlines on November 14, 1996. According to
+the first officer, at the time of the accident, he had accumulated a total of approximately
+5,022 hours of flight time. He had flown 737s for Southwest Airlines for a total of 2,522 hours.
+The first officer had flown for Southwest Airlines 212.1, 123.8, 60.7, and 22.5 hours in the 90,
+60, 30, and 7 days, and 1.4 hours in the 24 hours, before the accident, respectively. The first
+officer received his initial 737 type rating on December 18, 1995, and completed his 737 initial
+operating experience on December 26, 1996. His most recent systems training took place on
+October 25, 1999, and his most recent proficiency check and training took place on October 31,
+1998. His most recent 737 line check was on October 29, 1999.
+NTSB/AAB-02/04
+
+7
+During postaccident interviews, a captain who had flown with the first officer stated that
+the first officer was very well qualified and was an above-average copilot with good aviation
+skills who was likable and pleasant. Another captain who had flown with the first officer
+indicated that, on their flights together, the first officer did a great job and displayed good
+judgment throughout the trip.
+At the time of the accident, the first officer lived in the Salt Lake City, Utah, area. He
+indicated that, during the 3 days before the accident, he performed light household chores and
+worked at the USAF reserve unit, performing paperwork duties on March 2nd and flying an F-16
+fighter airplane for one flight on March 3rd. He stated that he normally went to bed about or
+before 2300 and awoke between about 0700 and 0730. The first officer stated that he awoke on
+March 5th about 0800. He indicated that he called crew scheduling and notified them that he
+would report directly to LAS for the flight to BUR. He stated that he left his home about 1000;
+boarded the Southwest Airlines flight from Salt Lake City, Utah, to LAS about 1120; and arrived
+at LAS about 1245.
+The Air Traffic Controller
+The SCT Woodland controller on duty at the time of the accident, who was also a private
+pilot with about 145 hours of flight time, was hired by the FAA in May 1989. He received his
+initial ATC training in Oklahoma City, Oklahoma, and began work at Gillespie Field Airport,
+San Diego, California, as a full performance level controller. In April 1992, he went to Lindbergh
+Airport, San Diego, California, and, in September 1998, he was transferred to SCT. The day of
+the accident was the second day of a 5-day work week for the Woodland controller, who
+was assigned the 1300-to-2100 shift.
+AIRPLANE INFORMATION
+N668SW, a 737-300, serial number (S/N) 23060, was registered to Southwest Airlines on
+January 25, 1996, and was equipped with two CFM International CFM56-3 engines. The
+maximum landing weight of the airplane is 114,000 pounds (lbs).19
+The 737 is configured with a flap load limiter system that prevents the flap panels from
+extending to the 40° position until the airspeed is below 158 knots, even if the flap handle is
+placed in the 40° position above that speed.
+The 737 has 10 spoiler panels (5 on each wing), 4 of which are flight spoilers that are
+used for maintaining lateral control, reducing airspeed in flight, and aiding braking after
+touchdown, and 6 of which are ground spoilers that are used to aid braking after touchdown.
+19 The landing weight of the accident airplane was estimated to be 113,425 lbs.
+NTSB/AAB-02/04
+
+8
+According to Southwest Airlines, its 737 autobrake systems are deactivated so that all
+Southwest cockpit configurations will be as similar as possible. Therefore, Southwest pilots
+must use manual braking during landing.
+METEOROLOGICAL INFORMATION
+The transcription of ATIS information Papa follows:
+burbank airport information papa zero one five three zulu wind two four zero at
+six visibility one zero few clouds at six thousand five hundred ceiling niner
+thousand overcast temperature niner dew point one altimeter two niner six five
+i l s runway eight approach in use arriving and departing runway eight and runway
+one five.
+Weather observations at BUR were made by an automated surface observation system
+and augmented by ATC under the limited aviation weather reporting station. Weather conditions
+reported about 1653, about 1 hour and 17 minutes before the accident, were the following:
+wind from 270 degrees at 18 knots gusting to 26 knots, visibility 10 miles, a few
+clouds at 3,900 feet, ceiling overcast at 5,500 feet, temperature 11.1 degrees C
+[Celsius] (52 degrees F [Fahrenheit]), dew point 2.2 degrees C (36 degrees F),
+altimeter 29.60 inches of hg [mercury].
+Weather conditions reported about 1820, about 10 minutes after the accident, were the
+following:
+wind from 250 degrees true at 6 knots, visibility 10 statute miles, ceiling overcast
+at 9,500 feet, temperature 9 degrees…[C] (48 degrees F), dew point temperature
+0 degrees C (32 degrees F), altimeter 29.66 inches of…hg.
+The BUR airport reported that 0.77 inch of rain had fallen in the 8 hours before the
+accident and that a wind shift associated with a cold frontal passage had occurred. Runway 8 was
+wet at the time of the accident.
+AIRPORT INFORMATION
+BUR is located about 3 miles northwest of Burbank, California, at an elevation of
+775 feet. The airport is in the east-southeastern end of the San Fernando Valley, between the San
+Gabriel Mountains and the Pacific coastline. BUR is owned by the Burbank-Glendale-Pasadena
+Airport Authority and is operated under contract by a private company, Airport Group
+International. BUR has an FAA-approved airport emergency plan and is certified by the FAA as
+NTSB/AAB-02/04
+
+9
+an aircraft rescue and firefighting (ARFF) index C20 facility under 14 CFR Part 139. The last
+FAA annual airport certification inspection took place from December 8 through 10, 1999.
+BUR has two grooved asphalt runways, 8/26 and 15/33. During postaccident interviews,
+BUR ATC tower personnel indicated to investigators that runway 8, which is used “most of the
+time” for landings, is the only arrival runway that avoids high terrain and that runway 26 is used
+infrequently by air carriers for landing because of terrain to the south and east of the airport.
+They stated to investigators that runway 33 is used for landings when the tailwind component for
+runway 8 exceeds 10 knots and wind is from the northwest. They also indicated that no
+instrument approach is available for runway 33, and rising terrain is located under the left base
+segment of the traffic pattern to this runway. BUR ATC tower personnel stated that, for
+runway 15, aircraft must be established on final approach for landing before descending out of
+3,000 feet. They indicated that the San Gabriel Mountains are located north of runway 15 and
+that hang glider activity sometimes exists in the area of the final approach to runway 15.
+Runway 8
+Runway 8, which is 6,032 feet long and 150 feet wide, is configured for precision
+instrument landings and equipped with high-intensity runway edge lights, distance-to-go
+markers, and a medium-intensity approach lighting system with runway alignment indicator
+lights. A precision approach path indicator (PAPI) is located 1,520 feet from the approach end of
+runway 8 on the left side of the runway.
+Runway Safety Areas
+Title 14 CFR 139.309 defines the requirements for the provision and maintenance of
+runway safety areas (RSA). The design and construction standards of RSAs are further defined
+in Advisory Circular (AC) 150/5300-13, “Airport Design,” dated September 29, 1989. The AC
+indicates that the longitudinal dimensions of an RSA should extend for the full length of the
+runway and 1,000 feet beyond the physical threshold of each runway end. The AC further
+indicates that the lateral dimensions of an RSA should extend 250 feet both left and right of the
+runway centerline and for the full length of the longitudinal RSA.
+The lateral dimensions of the runway 8 RSA measure 250 feet on each side of the runway
+centerline, except for the southern edge of runway 8 east of the runway 15/33 intersection, which
+measures 125 feet and is marked with a movement/nonmovement area delineator line. The
+passenger terminal is located south of runway 8 in this area. The longitudinal dimensions of the
+RSA at the arrival end of runway 8 measure 200 feet, and no significant longitudinal RSA exists
+on the departure end of runway 8. A metal blast fence is located 32 feet from the departure end
+of runway 8.
+20 According to 14 CFR 139.315 and 139.317, an ARFF index C facility should have two or three firefighting
+vehicles with a total of at least 3,000 gallons of water and aqueous film-forming foam.
+NTSB/AAB-02/04
+
+10
+On March 16, 2000, the Burbank-Glendale-Pasadena Airport Authority Executive
+Director sent a letter to the Safety Board’s Airport/Emergency Response Group Chairman to
+clarify the status of RSAs at BUR. In his letter, he stated the following:
+The Authority determined that the greatest safety concern and risk to life and
+property was the close proximity of the passenger terminal and the close
+proximity of parked and taxiing aircraft adjacent to both runways. The Authority
+made the decision to pursue replacement of the passenger terminal as its highest
+priority….Concurrently with the process of replacing the terminal, the Authority
+has pursued the acquisition of clear zone properties and has considered the
+possibility of lowering Hollywood Way for the purpose of creating a[n] overrun
+area. The Authority did successfully acquire some existing parking lots in the
+RPZ (runway protection zone).
+On August 14, 2000, the airport authority submitted an application to the city of Burbank
+to construct a replacement passenger terminal that would be located 1/2 mile north of the current
+terminal. However, in an April 10, 2002, letter, the Burbank-Glendale-Pasadena Airport
+Authority Executive Director informed the Safety Board that “58% of the voters of Burbank
+approved an initiative that deprives the Burbank City Council of its power to approve any
+terminal project agreement with the Airport Authority unless and until a lengthy series of
+conditions[22] is met.” As a result, on December 4, 2001, the City of Burbank “imposed a
+moratorium on the issuance of building permits for any and all activities at the airport that would
+require permits…[which] has effectively halted all development activity at the airport.”
+Engineered Materials Arresting System
+On August 17, 2001, the FAA’s Airport Improvement Program awarded $1.9 million to
+BUR to install an engineered materials arresting system (EMAS) at the departure end of
+runway 8.23 The investigation revealed that installation of an EMAS was completed in
+January 2002 and that the system was fully operational. The system is about 170 feet long and
+170 feet wide. No other EMASs are projected to be installed at BUR.
+FLIGHT RECORDERS
+Cockpit Voice Recorder
+The airplane was equipped with a Fairchild A-100A CVR, S/N 52619. The CVR’s
+exterior showed no evidence of structural damage, and the interior sustained no heat or impact
+damage. The recording consisted of good quality audio information, including the captain’s and
+first officer’s CAMs. The recording started at 1743:16, before the approach to BUR, and
+21 The Part 161 study began in December 2001.
+22 These conditions primarily involve the resolution of noise and environmental issues.
+23 EMAS is a system that slows an aircraft when its wheels roll through frangible cellular cement.
+NTSB/AAB-02/04
+
+11
+continued uninterrupted until 1814:49, shortly after the airplane departed the end of runway 8
+and came to a stop. A transcript was prepared of the 31-minute recording and is available in the
+public docket for this accident.
+Flight Data Recorder
+The airplane was equipped with an Allied Signal Aerospace solid-state
+FDR model 980-4700-001, S/N 792. A readout of the FDR data was prepared and is available in
+the public docket for this accident.
+WRECKAGE INFORMATION
+After penetrating a metal blast fence and an airport perimeter wall, the airplane came to
+rest on a four-lane city street east of the airport. Tire marks in a gradual arcing right turn
+originated on the runway about 1,500 feet before the fence. The structure of the airplane was
+intact, and the entire airframe was accounted for at the accident site. Major damage was confined
+to the nose section (mainly on the left side and the nosewheel well area) and fuselage station
+BS 515, which collapsed circumferentially. The nose gear was severed from the drag brace and
+driven aft into the electronics bay after rotating the nose gear assembly 90°. A portion of the nose
+cone and left wing tip were severed from the airframe. The major damage to the left and right
+wings was confined to the leading edge devices.
+No preimpact failures were noted in the aileron, elevator, or rudder systems or the leading
+and trailing edge flaps and slats. Several spoilers on each wing were damaged during the accident
+sequence. There were no preimpact failures noted to any spoiler system hydraulic line or valve
+in the wheel well area.
+SURVIVAL ASPECTS
+An emergency evacuation was initiated after the airplane came to a complete stop.
+During the accident sequence, the 1R escape slide inflated inside the airplane. Flight attendants
+reported that the slide began inflating while the airplane was still moving. The inflated slide
+extended nearly across the entire width of the airplane, blocking the aisle from the passenger
+cabin to both forward doors (1R and 1L) and preventing the two flight attendants seated on the
+forward jumpseat from assisting in the evacuation. The 1R escape slide was not deflated until
+after the evacuation (through the overwing exits and the 2L door) was complete. In addition, the
+forward flight attendant jumpseat partially collapsed and impeded the inboard flight attendant’s
+exit from the seat.
+As a result of this accident investigation, on April 26, 2001, the Safety Board issued
+Safety Recommendations A-01-12 and -13 to the FAA. Safety Recommendation A-01-12 asked
+the FAA to “issue an airworthiness directive to require all operators of Boeing 737-300 through
+-500 series airplanes to replace the slide cover latch brackets on forward slide compartments with
+the type of slide cover latch brackets installed on the forward slide compartments of
+Boeing 737-600 through -900 series airplanes.” Safety Recommendation A-01-13 asked the FAA
+NTSB/AAB-02/04
+
+12
+to “issue an airworthiness directive to require initial and periodic inspections (at appropriate
+intervals) of the pivot bracket assemblies on all Trans Aero Industries Model 90835 jumpseats
+installed on Boeing 737-300 through -500 series airplanes.”24
+Emergency Response
+About 1811, the BUR ATC tower notified the BUR ARFF station of the accident via the
+direct “crash phone.” BUR ARFF personnel responded with three ARFF fire trucks, one rescue
+truck, and six firefighters. One of the ARFF trucks radioed that the trucks should use Gate 30025
+to access the accident site. After 30 seconds, during which multiple unsuccessful attempts were
+made to open the gate with the Gate 300 access key card, the gate opened,26 and the trucks
+proceeded to the accident site. Firefighters estimated that their response time was between 1 1/2
+and 1 3/4 minutes. Firefighters aided passengers and crewmembers in evacuating the airplane.
+TESTS AND OTHER RESEARCH
+Airplane Performance
+The Safety Board conducted an airplane performance study in conjunction with this
+accident investigation. FDR and radar data indicate that the airplane began its final descent to
+BUR about 3 nm from the runway 8 threshold. Taking into account the airplane’s altitude of
+3,000 feet msl at the beginning of the descent and the 725-foot msl elevation of the touchdown
+zone (TDZ)27 on runway 8, geometry calculations indicate that the airplane would have had to
+have descended at an average flightpath angle of about 7° to touch down in the runway 8 TDZ.28
+Radar and FDR data show that the airplane descended at an average flightpath angle of about 7°
+until flare, at an average vertical speed of 2,200 feet per minute (fpm), and at indicated airspeeds
+of between 182 and 200 knots. The airplane began to flare about 170 feet agl and flared for about
+9 seconds before touching down at 182 knots indicated airspeed on runway 8. Average ground
+speed during the flare was 195 knots, indicating that the airplane traveled about 3,000 feet during
+the flare.
+24 In a June 14, 2001, letter to the Safety Board, the FAA indicated that it would issue a notice of proposed
+rulemaking (NPRM) proposing to adopt an airworthiness directive to address Safety Recommendation A-01-12. The
+FAA further indicated that it was reviewing the design of the jumpseat to determine what actions were needed. On
+August 9, 2001, the Board classified Safety Recommendations A-01-12 and -13 “Open—Acceptable Response.” In
+a December 19, 2001, letter to the Board, the FAA indicated that it was still planning on issuing an NPRM to
+address Safety Recommendation A-01-12. The FAA further indicated that it did not believe that action was
+warranted in response to Safety Recommendation A-01-13. On May 17, 2002, the Board classified Safety
+Recommendation A-01-12 “Open—Acceptable Response” and Safety Recommendation A-01-13 “Open—
+Unacceptable Response.”
+25 A gate access key card was required to open Gate 300.
+26 The BUR airport fire chief at the time of the accident indicated to investigators that after the accident, the key
+card for Gate 300 was tested and revealed no anomalies. He further stated that the magnetic key card opening
+system was replaced after the accident with remote openers that can be activated from each ARFF vehicle.
+27 The TDZ is the first 3,000 feet of usable runway for landing beginning at the runway threshold, unless
+otherwise specified by the FAA or other applicable authority.
+28 Typical flightpath angles for visual and instrument approaches are about 3°.
+NTSB/AAB-02/04
+
+13
+At the request of the Safety Board’s Airplane Performance Group, Boeing ran stopping
+distance simulations for this accident wherein maximum, medium, and minimum 737 autobrake
+applications, as well as maximum manual brake applications, were simulated for wet runway
+conditions after the 182-knot touchdown. These data indicate that the accident airplane would
+have required about 5,000 feet of runway length after touchdown to stop using maximum
+autobrakes and about 4,700 feet of runway length after touchdown to stop using maximum
+manual brakes. Boeing stopping distance calculations based on FDR acceleration data show that
+the accident airplane traveled about 4,150 feet from touchdown to impact with the blast fence,
+indicating that the airplane touched down about 2,150 feet beyond the runway 8 threshold in the
+TDZ.29
+COMPANY INFORMATION
+Southwest Airlines is certified to operate as an air carrier and conduct common carrier
+operations under the provisions of 14 CFR Part 121. Southwest Airlines began service on
+June 18, 1971.
+Company Procedures
+Approach Briefing
+The Southwest Airlines FOM,30 “Performance,” “General,” “OPC [Onboard Performance
+Computer]31 Normal Landing Overview” (Chapter 10, Section 1), states, in part, the following:
+The [OPC] Landing Module provides advisory landing distance information,
+go-around climb performance, maximum quick turn limitations, and low RVR
+[runway visual range] restrictions…the Landing Module should be used anytime
+landing performance capabilities are in question (approach climb and/or
+maximum quick turnaround limitations) and include (but are not limited to) the
+following landing conditions:…Tailwind…High gross weight…Short runway.
+29 The Southwest Airlines Flight Operations Manual (FOM) indicates that “[t]ouchdown should occur between
+1000 and 1500 feet from the landing threshold with the runway centerline between the main landing gear.” For more
+information, see the section titled, “Company Procedures.”
+30 According to the Flight Reference Manual (FRM) (Chapter 2, Section 1), “the Flight Operations and
+Reference Manuals contain comprehensive explanations of Southwest Airlines operating procedures, aircraft
+systems, and related operational considerations. Pilots are required to have a ‘working knowledge’ of information in
+the Flight Operations and Reference Manual[s].” The FOM is required to be carried on all Southwest Airlines flight
+operations, whereas the FRM, which contains information that is not normally referred to in daily operations, is not
+required to be carried on Southwest Airlines flight operations.
+31 According to the FOM, the OPC is an approved modified presentation of the performance data contained in
+the aircraft flight manual. The landing module provides operational landing data, including landing distances,
+approach and landing speeds, and go-around power settings.
+NTSB/AAB-02/04
+
+14
+During postaccident interviews, the first officer indicated to Safety Board investigators that he
+did not use the OPC landing module before the accident airplane landed on runway 8. The CVR
+transcript indicates that the captain did not call for the use of the OPC landing module during the
+approach.
+Approach Procedures
+The Southwest Airlines FOM, “Normal Operations,” “Introduction,” “Checklist Use”
+(Chapter 3, Section 1), states, in part, the following:
+The success attained by flightcrews in the execution of normal and emergency
+procedures is attributable largely to the dual reliability of the challenge and
+response checklist system….The checklist will be removed from its holder and
+read out loud in a clear voice. Responses should be equally loud and clear and
+answered as listed….The checklist reader should continue challenging an item
+until a proper response is obtained. The checklist reader is responsible for
+visually confirming that the proper action has been taken. When a checklist is
+completed, the reader will announce: ‘_________ Checklist complete.’…The
+Approach Descent Checklist will be completed silently by the pilot not flying.
+As indicated previously in the section titled, “History of Flight,” the first officer stated in a
+postaccident interview that he visually confirmed the items on the final descent checklist, which
+includes notifying the flight attendants, checking the flight and navigational instruments, placing
+the landing gear down, arming the speed brake, positioning the wing flaps, and disengaging the
+autopilot.
+The Southwest Airlines FOM, “Normal Operations,” “Approach,” “Approach Target
+Speeds” (Chapter 3, Section 6), states, in part, “Fly V [32]+ 5 knots for tailwind landings.” The
+ref
+CVR transcript indicates that, at 1804:42, the first officer informed the captain that the target
+airspeed would be 138 knots.
+The Southwest Airlines FOM, “Normal Operations,” “Approach,” “Visual Crew
+Coordination and Callouts” (Chapter 3, Section 6), states, in part, the following:
+Captain First Officer
+1000 feet above Call out, “1000 feet.” Call out, “1000 feet.”
+TDZE [TDZ elevation] Airspeed__________
+Sink rate__________
+On Final Approach Radio altimeter callouts below Altitudes above TDZE:
+200 feet are at the Captain’s “500” feet
+discretion when the First “400” feet
+Officer is flying. “300” feet
+“200” feet
+32 V is the target airspeed for the approach.
+ref
+NTSB/AAB-02/04
+
+15
+If Captain lands the aircraft continue callouts
+on radio altimeter.
+“100” feet
+“50” feet
+“30” feet
+“10” feet
+The Southwest Airlines FOM, “Normal Operations,” “Approach,” “Deviation Callouts
+for All Approaches” (Chapter 3, Section 6), states, in part, the following:
+If any of the following parameters are exceeded, the pilot not flying will make the
+corresponding callout and verify that the pilot flying takes appropriate corrective
+action. The pilot flying will acknowledge the callout verbally or with immediate
+corrective action.
+Parameter Limit Callouts
+Airspeed Target speed minus 5 knots Airspeed
+Target speed plus 10 knots
+Anytime below V
+REF
+Localizer ±1 DOT displacement Localizer
+Glideslope ±1 DOT displacement Glideslope
+Sink Rate 2000 fpm (when below 2000’) Sink Rate
+1000 fpm (when below 1000’)
+Significant change (when below 50’)
+During postaccident interviews, the first officer indicated that his attention was focused primarily
+outside the airplane and acknowledged that he did not call out airspeed or sink rate deviations to
+the captain. The CVR did not record the first officer or captain making any callouts during the
+final approach.
+The Southwest Airlines FOM, “Normal Operations, “Approach,” “Approach Envelope
+for All Approaches” (Chapter 3, Section 6), states, in part, the following:
+Go-around must begin whenever adverse factors have piled up against you and the
+aircraft is not in the “slot.”...Entry Slot 1000’ AGL Landing Gear Down Final
+Flaps
+Final “Slot” Conditions
+Proper sink rate and on glidepath Proper speed (for existing conditions) Proper
+runway alignment—no further turning required…Trimmed for zero stick forces;
+Steady-state thrust setting In final landing configuration IF NOT IN THE
+“SLOT,” YOU ARE NOT PREPARED FOR A NORMAL LANDING.
+The Southwest Airlines FOM, “Normal Operations,” “Approach,” “Go-around and
+Missed Approach” (Chapter 3, Section 6), states, in part, the following:
+NTSB/AAB-02/04
+
+16
+Go-around/missed approach procedures have been designed to make execution of
+the procedure as simple as possible. The procedure is nearly the same for every
+profile….A missed approach must be executed if…the pilot determines that a
+landing cannot be safely accomplished in the touchdown zone.
+In an interview with Safety Board investigators, the Southwest Airlines Vice President of
+Operations indicated that, for VMC approaches, “a pilot had to be in the slot, on glidepath, on
+airspeed, and in a position to make a landing.” He stated that these conditions should exist at the
+time of the 1,000-feet agl callout when the airplane should be fully configured and meet airport
+and operational restrictions. He also stated that, to be fully configured at 1,000 feet, the flaps
+should be at 5° and the airspeed between about 170 to 180 knots with the airplane on glideslope.
+He indicated that the airplane approach criteria at 500 feet included an airspeed within ±5 knots
+and a rate of descent less than 1,000 fpm.
+When Safety Board investigators asked the captain in a postaccident interview whether he
+was within company operating guidelines at 1,000 and 500 feet, the captain responded, “No.” He
+stated that the airport looked normal at 500 feet but that he was not “in the slot” because his
+airspeed was too high. When Board investigators questioned the captain about whether
+Southwest Airlines had guidance concerning the abandonment of an approach, the captain stated
+that if the airplane was not set up at 1,000 feet, with flaps at 5°, gear extended, and on
+glideslope, a go-around maneuver should be performed. He indicated that he became “fixated on
+the runway,” and he could not explain why he did not perform a go-around maneuver.
+The Southwest Airlines FOM, “Non-normal Operations,” “QRH 737-300/-500,” “Ground
+Proximity Alert” (Chapter 11, Section 2), states, in part, the following:
+If an [GPWS] alert occurs when flying under Day and VMC conditions, and
+positive visual verification is made that no hazard exists, the alert may be
+regarded as cautionary and the approach may be continued. If the verification
+cannot be made, immediately check/correct the aircraft flightpath, or go-around if
+necessary.
+The Southwest Airlines FRM, “Pilot Techniques,” “First Officer Operating Technique,”
+“Close In Descent Calculations” (Chapter 4, Section 2), states, in part, the following:
+If you are really behind—the best choice: Level off, configure all the way to
+flaps 40—then start down. Remember the flaps blow up to 30 just above
+150 knots flaps 40, Landing Gear down and 140 knots will give about 1000 feet
+per nautical mile (almost 1 for 1).
+In any case, have the engines spooled up by 500 feet AGL. You must lead with
+power—a good technique is to begin advancing power as the glideslope comes off
+the bottom of the case or the upper VASI [visual approach slope indicator] turns
+pink.
+NTSB/AAB-02/04
+
+17
+According to the accident flight crew and other Southwest Airlines pilots interviewed after the
+accident, Southwest did not teach special procedures for a “high and hot approach” to expedite
+traffic. The captain indicated that having to keep his speed up (to 230 knots) and the tailwind
+contributed to the fast approach.
+The Aeronautical Information Manual, Section 4-4-11, “Speed Adjustments,” states, in
+part, the following:
+If ATC determines (before an approach clearance is issued) that it is no longer
+necessary to apply speed adjustment procedures, they will inform the pilot to
+resume normal speed. Approach clearances supersede any prior speed adjustment
+assignments, and pilots are expected to make their own speed adjustments, as
+necessary, to complete the approach.
+Investigators who reviewed Southwest Airlines manuals could not find any written guidelines
+describing procedures for pilots to make their own speed adjustments, as necessary, after ATC
+has issued an approach clearance. Southwest Airlines management personnel stated that
+Southwest uses speed adjustment guidance contained in Jeppesen Airway Manuals.
+Landing Procedures
+The Southwest Airlines FOM, “Normal Operations,” “Landing and Postflight,” “Normal
+Landing Dry Runway” (Chapter 3, Section 7), states, in part, the following:
+Once the landing runway has been visually acquired whether from a visual or
+instrument approach, remain on centerline and on the proper glideslope (ILS,
+VASI, PAPI, etc.) until the middle marker or further descent is necessary for a
+safe landing. Maintain briefed target speed and do not descend below the
+glideslope or “duck under” to solely facilitate an early turn off from the runway.
+Touchdown should occur between 1000 and 1500 feet from the landing threshold
+with the runway centerline between the main landing gear.
+At touchdown, verify that the automatic speedbrakes have deployed or deploy
+them manually while lowering the nose to the runway. Initiate reverse thrust as the
+nosewheel touches down by rapidly raising the reverse thrust levers aft to the
+reverse idle interlock. After the interlock is released, modulate reverse thrust as
+required and avoid exceeding engine limits. A minimum of 65 [percent]…should
+be attained. When required, maximum allowable go-around thrust may be used.
+At 80 knots, the pilot not flying will call, “80 knots.” Normally, the pilot flying
+will begin braking at 80 knots and gradually reduce the reverse thrust levers so as
+to be out of reverse thrust when reaching taxi speed. On short runways or with
+adverse landing conditions, do not hesitate to initiate braking prior to 80 knots if
+required.
+NTSB/AAB-02/04
+
+18
+As indicated in the section titled, “Airplane Performance,” the accident airplane touched down
+2,150 feet beyond the runway 8 threshold. Further, the CVR indicates that the 80-knot callout
+was not made. As noted in the section titled, “History of Flight,” the first officer stated to Safety
+Board investigators that the captain applied the brakes before 80 knots. FDR data show that the
+brakes were likely applied shortly after touchdown.
+ADDITIONAL INFORMATION
+A comparison of the recorded radar data of the accident airplane to 70 other airplanes that
+had landed at BUR on runway 8 between 1000 and 2200 on June 13 and 14, 2000,33 showed that
+of the 16 airplanes vectored from the north side of BUR to land on runway 8, 12 were vectored to
+intercept the final approach course between 9 and 15 nm west of the runway threshold.
+Flight 1455 was given vectors that resulted in interception of the final approach course about
+8 nm west of the runway threshold. The comparison also showed that the glidepaths of most
+airplanes approaching runway 8 were between 3° and 4°. The accident airplane’s glidepath
+was 7°.
+33 Ninety-one airplanes landed at BUR during this time period; however, the data for 21 small general aviation
+aircraft were removed from the comparison because these airplanes have different operating characteristics than the
+accident airplane.
+NTSB/AAB-02/04
+
+19
+ANALYSIS
+General
+The captain and first officer were properly certificated and qualified in accordance with
+applicable Federal regulations and company requirements.
+Visual meteorological conditions prevailed at the time of the accident. Runway 8 was
+wet, and a 6-knot tailwind existed at the time of the accident.
+The airplane was properly certificated and equipped in accordance with Federal
+regulations and approved procedures. No evidence indicated preexisting engine, system, or
+structural failures.
+Flight Crew Actions
+The first officer did not use, and the captain did not call for the use of, the Onboard
+Performance Computer (OPC) landing module during the approach. Southwest Airlines
+procedures indicate that the OPC landing module should be used when landing performance
+capabilities are in question and when tailwind conditions exist, the airplane has a high gross
+weight, or the airplane is landing on a short runway. At 1804:42, after the first officer had
+obtained information Papa, he indicated to the captain that a 6-knot tailwind existed. Further, the
+landing weight of the airplane was estimated to be 113,425 pounds (lbs), which is near the
+maximum landing weight for the Boeing 737 of 114,000 lbs, and runway 8 was 6,032 feet long
+and did not have a 1,000-foot runway safety area, as defined in Advisory Circular 150/5300-13,
+“Airport Design.” The OPC landing module would have provided the flight crew with useful
+landing information about the configuration and condition data for computation of landing
+distance, speeds, and power settings for the airplane’s actual landing weight.
+The accident airplane’s airspeed was not reduced to the target airspeed for the approach.
+The Southwest Airlines Flight Operations Manual (FOM), “Normal Operations,” “Approach,”
+“Approach Target Speeds” (Chapter 3, Section 6), states, in part, “Fly V + 5 knots for tailwind
+ref
+landings.” The cockpit voice recorder (CVR) transcript indicates that at 1804:42, the first officer
+informed the captain that the target airspeed would be 138 knots. This statement indicates that
+the flight crew was aware of the target airspeed for the approach. In addition, the first officer did
+not call out airspeed or sink rate deviations to the captain. Southwest Airlines procedures indicate
+that if certain parameters are exceeded during the approach, including the target airspeed plus 10
+knots and the sink rate, the pilot not flying should make a callout regarding the deviation and
+verify that the pilot flying takes corrective action. The first officer acknowledged during an
+interview that after the captain called for flaps 40°34 at 1810:33, he saw the airspeed go as high as
+190 knots during the approach. He indicated that he pointed to the airspeed indicator to alert the
+captain but noted that his attention was focused primarily outside the airplane. Further, the
+34 The flap limit speed for flaps 40° is 158 knots.
+NTSB/AAB-02/04
+
+20
+ground proximity warning system’s (GPWS) “sink rate” alert sounded several times during the
+approach.
+Further, the CVR transcript indicates that the first officer did not make, and the captain
+did not question the absence of, the required altitude callouts. Southwest Airlines procedures
+indicate that the first officer should make altitude callouts at 1,000; 500; 400; 300; 200; 100; 50;
+30; and 10 feet. The Safety Board notes that if the first officer had made the airspeed and sink
+rate deviation callouts or altitude callouts, both the captain and the first officer might have been
+further alerted to the fact that the airplane’s airspeed and sink rate were excessive. Flight data
+recorder (FDR) data show that the airplane touched down at about 182 knots, which is 44 knots
+over the reference speed for this flight. The Safety Board concludes that the flight crew landed
+the airplane at an excessive airspeed.
+Radar and FDR data indicate that the accident airplane’s flightpath angle of 7° during
+descent to the Burbank-Glendale-Pasadena Airport (BUR) was steeper than the typical
+3° flightpath angle used for visual and instrument approaches. During the accident airplane’s
+descent, the GPWS “sink rate” and “whoop, whoop, pull up” alerts sounded several times. The
+GPWS warnings should have given the flight crew a strong indication that the approach was
+unstabilized. Although visual flight rules conditions existed (and, therefore, according to the
+FOM, the approach could be continued after visual verification that no hazard existed), prudent
+pilots should check the cockpit instruments to note the airspeed and sink rate of the airplane.
+This information should have alerted the flight crew that the approach was unstabilized. In a
+postaccident interview, the captain acknowledged that he was not within company operating
+guidelines at 500 feet. He stated that the airport looked normal at 500 feet but that he was not “in
+the slot” because his airspeed was too high.
+According to Southwest Airlines procedures, a go-around maneuver should be performed
+when the aircraft is not “in the slot.” Southwest Airlines’ listing of “slot conditions” included
+“proper sink rate and on glidepath” and “proper speed (for existing conditions).” The first officer
+indicated in postaccident interviews that the approach appeared to be “out of the slot” and that he
+did not mention this to the captain because it appeared that the captain was correcting back to the
+slot. However, no evidence exists from CVR, FDR, or radar data that the airplane was going to
+be able to reduce its airspeed, vertical speed, or flightpath angle during final descent such that it
+would be “in the slot.” Therefore, the Safety Board concludes that the accident airplane’s
+approach was unstabilized and not in compliance with Southwest Airlines operating procedures.
+The Safety Board further concludes that because the airplane was not in the proper position to
+land, a go-around maneuver should have been performed. The Southwest Airlines FOM indicates
+that touchdown should occur “between 1000 and 1500 feet from the landing threshold.” The
+accident airplane landed about 2,150 feet from the runway 8 threshold, further indicating that the
+airplane was not in the proper position to land.
+After the airplane landed, the flight crew applied manual brakes to stop the airplane. The
+first officer indicated (and FDR data confirm) that the captain applied the wheel brakes before
+80 knots. Stopping distance calculations show that the airplane traveled about 4,150 feet from
+touchdown to impact with the blast fence. Stopping distance simulations for wet runway
+NTSB/AAB-02/04
+
+21
+conditions further indicate that the accident airplane would have required about 4,700 feet of
+runway length after touchdown to stop using maximum manual brakes. The Safety Board
+concludes that even if the accident flight crew had applied maximum manual brakes immediately
+upon touchdown, the airplane would not likely have stopped before impacting the blast fence.
+Air Traffic Control
+At 1804:02, the Southern California terminal radar approach control (SCT) Woodland
+controller stated, “Southwest fourteen fifty five, maintain two thirty or greater ‘til advised
+please.” The captain acknowledged the airspeed adjustment assignment. At 1808:19, the
+Woodland controller stated, “Southwest fourteen fifty five, cross Van Nuys at or above three
+thousand, cleared visual approach runway eight.” According to the Aeronautical Information
+Manual, Section 4-4-11, the issuance of an approach clearance cancels an earlier speed
+assignment. Therefore, the 230-knot speed adjustment assignment for flight 1455 was
+automatically cancelled when the controller issued the approach clearance.
+The Safety Board recognizes that the flight crew could have asked the controller to
+remove the speed adjustment assignment before the approach clearance was issued, but the CVR
+transcript indicates that no such request was made. After the SCT Woodland controller instructed
+the flight to descend to 3,000 feet at 1807:43, traffic conditions no longer warranted the speed
+adjustment for flight 1455. Canceling the speed adjustment would have permitted the accident
+captain to begin to reduce his speed about 37 seconds sooner, thereby giving him more time to
+properly execute his approach to land. In a postaccident interview, the Woodland controller
+stated that he did not know why he did not cancel the speed restriction before issuing the
+approach clearance. Flight crew interviews and CVR, FDR, and radar data indicate that the flight
+crew did not extend the speed brakes or flaps until about 1809, more than 1 minute after the
+approach clearance was issued. The captain’s delay in reducing airspeed and configuring the
+airplane caused the flight crew to initiate final descent at a higher altitude and a faster airspeed
+than normal, contributing to the unstabilized approach.
+At 1805:08, the SCT Woodland controller instructed flight 1455 to “turn left heading one
+six zero.” A comparison of the recorded radar data of the accident airplane to 70 other airplanes
+that had landed at BUR on runway 8 between 1000 and 2200 on June 13 and 14, 2000, showed
+that of the 16 airplanes vectored from the north side of BUR to land on runway 8, 12 were
+vectored to intercept the final approach course between 9 and 15 nm west of the runway
+threshold. Flight 1455 was given vectors that resulted in interception of the final approach course
+about 8 nm west of the runway threshold. This vector put the airplane in an unfavorable position
+for final approach, complicated the accident flight crew’s approach planning and execution, and
+contributed to the unstabilized approach.
+Further, the controller’s restriction to flight 1455 at 1808:19 to “cross Van Nuys at or
+above three thousand” was ambiguous. According to the Pilot/Controller Glossary, restrictions
+are defined as “[a]n altitude or altitudes, stated in the order flown, which are to be maintained
+until reaching a specific point or time. Altitude restrictions may be issued by ATC [air traffic
+control] due to traffic, terrain, or other airspace considerations.” The flight was on a
+NTSB/AAB-02/04
+
+22
+160° heading, and crossing over the specific point of Van Nuys was not part of the accident
+flight’s approach. The flight passed abeam of the Van Nuys very high frequency
+omni-directional range navigation transmitter by about 2 miles but was not supposed to cross
+over Van Nuys. This ambiguous clearance might have caused the flight crew to delay descent
+longer than necessary.
+In summary, the Safety Board concludes that the actions of the SCT Woodland controller
+positioned the airplane too fast, too high, and too close to the runway threshold to leave any safe
+options other than a go-around maneuver.
+Survival Factors
+The inflation of the forward service door (1R) escape slide inside of the accident airplane
+and the partial collapse of the forward flight attendant jumpseat did not preclude the safe exit of
+crewmembers and passengers from the airplane. However, the evacuation was slowed
+considerably because of the blocked forward exits. If the airplane had caught fire after the
+accident, the unavailability of the forward exits and the prolonged evacuation would have
+dramatically affected the survivability of the occupants. As a result, on April 26, 2001, the Safety
+Board issued Safety Recommendations A-01-12 and -13 to the Federal Aviation Administration
+(FAA). Safety Recommendation A-01-12 asked the FAA to “issue an airworthiness directive to
+require all operators of Boeing 737-300 through -500 series airplanes to replace the slide cover
+latch brackets on forward slide compartments with the type of slide cover latch brackets
+installed on the forward slide compartments of Boeing 737-600 through -900 series airplanes.”
+Safety Recommendation A-01-13 asked the FAA to “issue an airworthiness directive to require
+initial and periodic inspections (at appropriate intervals) of the pivot bracket assemblies on all
+Trans Aero Industries Model 90835 jumpseats installed on Boeing 737-300 through -500 series
+airplanes.”35

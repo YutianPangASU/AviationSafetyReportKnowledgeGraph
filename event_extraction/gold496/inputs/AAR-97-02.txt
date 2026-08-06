@@ -1,0 +1,1702 @@
+*~-4.. . . . . . -
+,
+PB97-910402 ‘
+NTSB/AAR-97/02
+SEA96FA079
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+IN-FLIGHT LOSS OF CONTROL AND
+SUBSEQUENT COLLISION WITH TERRAIN
+CESSNA 177B, N35207
+CHEYENNE, WYOMING
+APRIL 11, 1996
+6814
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety Board
+makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)314-6551
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Sprin~leld, Virginia 22161
+(703)487-4600
+
+NTSB/AAR-97/02 PB97-910402
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+IN-FLIGHT LOSS OF CONTROL AND
+SUBSEQUENT COLLISION WITH TERRAIN
+CESSNA 177B, N35207
+CHEYENNE, WYOMING
+APRIL 11, 1996
+Adopted: March 11, 1997
+Notation 6814
+
+This page intentionally left blank
+
+CONTENTS
+EXECUTIVE SUMMARY.................................................................. v
+1. FACTUAL INFORMATION
+1.1 History of Flight ..................................................................................... 1
+1.2 Injuries to Persons .................................................................................. 6
+1.3 Damage to Airplane................................................................................ 6
+1.4 Other Damage......................................................................................... 6
+1.5 Personnel Information............................................................................ 6
+1.5.1 Pilot in Command................................................................................... 7
+1.5.2 Pilot Trainee............................................................................................ 8
+1.5.3 Pilot Trainee’s Father............................................................................. 9
+1.5.4 Airplane Occupants’ Sleep and Activity History Prior to the Accident 9
+1.5.4.1 Pilot in Command’s Sleep and Activity History Prior to Starting Flight 9
+1.5.4.2 Pilot Trainee’s Sleep and Activity History Prior to Starting Flight....... 10
+1.5.4.3 Pilot Trainee Father’s Sleep and Activity History Prior to Starting
+Flight ..................................................................................................... 10
+1.5.4.4 All Occupants’ Sleep and Activity History After Starting Flight.......... 10
+1.6 Airplane Information.............................................................................. 12
+1.6.1 Airplane Fuel Information and Guidance............................................... 12
+1.6.2 Weight and Balance................................................................................ 13
+1.6.3 Stall Speeds............................................................................................. 14
+1.6.4 Wing Flap Settings................................................................................. 14
+1.6.5 Climb Speeds and Climb Rates.............................................................. 14
+1.7 Meteorological Information ................................................................... 15
+1.7.1 General Weather Information................................................................. 15
+1.7.1.1 Weather Observations............................................................................. 16
+1.7.1.2 Crosswinds.............................................................................................. 17
+1.7.1.3 Density Altitude...................................................................................... 19
+1.7.1.4 Precipitation............................................................................................ 19
+1.7.1.5 Lightning Data........................................................................................ 21
+1.7.2 Witness Descriptions of Weather Conditions Near the Airport ............ 21
+1.7.2.1 Other Pilots............................................................................................. 21
+1.7.2.2 Air Traffic Control.................................................................................. 22
+1.7.2.3 Other Eyewitness Statements................................................................. 23
+1.8 Aids to Navigation.................................................................................. 23
+1.9 Communications..................................................................................... 23
+1.10 Airport Information................................................................................ 23
+iii
+
+1.11 Flight Recorders ..................................................................................... 23
+1.12 Wreckage and Impact Information......................................................... 23
+1.13 Medical and Pathological Information................................................... 25
+1.14 Fire.......................................................................................................... 25
+1.15 Survival Aspects..................................................................................... 26
+1.16 Media Aspects ........................................................................................ 26
+1.16.1 Itinerary Planning................................................................................... 28
+1.17 Previous Record Attempt ....................................................................... 30
+1.18 Postaccident FAA Action and Legislative Changes.............................. 32
+2. ANALYSIS
+2.1 General.................................................................................................... 34
+2.2 Analysis of the Accident Sequence........................................................ 35
+2.2.1 Operation of the Airplane’s Controls..................................................... 35
+2.2.2 The Accident Scenario............................................................................ 35
+2.3 Human Performance Aspects................................................................. 41
+2.3.1 Fatigue .................................................................................................... 41
+2.3.2 Fatigue Awareness and Education ......................................................... 42
+2.3.3 Media Attention and Itinerary Pressure ................................................. 44
+2.3.4 Aeronautical Decision Making............................................................... 46
+2.4 Recent Legislative Changes................................................................... 49
+3. CONCLUSIONS
+3.1 Findings.................................................................................................. 50
+3.2 Probable Cause....................................................................................... 53
+4. RECOMMENDATIONS ..................................................................... 54
+5. APPENDIXES
+Appendix A--Investigation and Hearing................................................ 55
+Appendix B--Transcript of AFSS Weather Briefing ............................. 56
+iv
+
+EXECUTIVE SUMMARY
+On April 11, 1996, about 0824 mountain daylight time, a privately
+owned Cessna 177B, registration N35207, collided with terrain after a loss of
+control following takeoff from runway 30 at the Cheyenne Airport, Cheyenne,
+Wyoming. The pilot in command, pilot trainee, and rear seat passenger (the pilot
+trainee’s father) were fatally injured. Instrument meteorological conditions
+existed at the time, and a visual flight rules flight plan had been filed. The flight,
+which was a continuation of a transcontinental flight “record” attempt by the
+youngest “pilot” to date (the pilot trainee), was operated under the provisions of
+14 Code of Federal Regulations Part 91.
+The National Transportation Safety Board determines that the
+probable cause of this accident was the pilot in command’s improper decision to
+take off into deteriorating weather conditions (including turbulence, gusty winds,
+and an advancing thunderstorm and associated precipitation) when the airplane
+was overweight and when the density altitude was higher than he was accustomed
+to, resulting in a stall caused by failure to maintain airspeed. Contributing to the
+pilot in command’s decision to take off was a desire to adhere to an overly
+ambitious itinerary, in part, because of media commitments.
+The safety issues discussed in the report include fatigue, the effects of
+media attention and itinerary pressure, and aeronautical decision making. A
+recommendation concerning the circumstances of this accident and the importance
+of aeronautical decision making was made to the Aircraft Owners and Pilots
+Association, the Experimental Aircraft Association, and the National Association
+of Flight Instructors. Recommendations concerning aeronautical decision making
+and the hazards of fatigue and were made to the Federal Aviation Administration.
+v
+
+
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+IN-FLIGHT LOSS OF CONTROL AND
+SUBSEQUENT COLLISION WITH TERRAIN
+CESSNA 177B, N35207
+CHEYENNE, WYOMING
+APRIL 11, 1996
+1. FACTUAL INFORMATION
+1.1 History of Flight
+On April 11, 1996, about 0824 mountain daylight time (MDT),1 a
+privately owned Cessna 177B, registration N35207, collided with terrain after a
+loss of control following takeoff from runway 30 at the Cheyenne Airport,
+Cheyenne, Wyoming. The pilot in command, pilot trainee,2 and rear seat
+passenger (the pilot trainee’s father) were fatally injured. Instrument
+meteorological conditions existed at the time, and a VFR3 flight plan had been
+filed. The flight, which was a continuation of a transcontinental flight “record”4
+attempt by the youngest “pilot” to date (the pilot trainee), was operated under the
+provisions of 14 Code of Federal Regulations (CFR) Part 91. (See section 1.17 for
+the intended route of flight.)
+On the morning of April 11, the pilot in command, the pilot trainee,
+and the pilot trainee’s father arrived at the Sky Harbor FBO5 at the Cheyenne
+Airport between 0715 and 0730. A copy of a privately recorded videotape made
+1Unless otherwise indicated, all times are MDT, based on a 24-hour clock.
+2The pilot trainee, a 7-year-old girl, did not hold a pilot certificate. To be eligible
+for a student pilot certificate a person must be at least 16 years old, and to be eligible for a private
+pilot certificate a person must be at least 17 years old. (14 CFR 61.103 and 61.83.)
+3Visual flight rules
+4In July 1995, an 8-year-old boy flew back and forth across the United States,
+setting what was regarded as the “record” for the youngest “pilot,” although these flights were
+not officially recognized as records. The boy’s father reported to the Safety Board that he had
+contacted the Guinness Book of Records and learned that it kept no record for the youngest pilot.
+5Fixed-base operator
+
+2
+by a bystander, displaying a time hack beginning at 0739 (video-recorder clock
+time), showed the airplane being loaded with personal effects. The ramp appeared
+to be dry, and the airplane’s shadow could be clearly seen on the pavement. The
+video recording then showed the pilot in command and the pilot trainee
+conducting portions of a preflight briefing and a taped television interview.
+During the interview, rain could be seen streaming off the airplane’s wings, and
+water was forming puddles on the ramp.
+The program director for a local Cheyenne radio station conducted a
+telephone interview with the pilot trainee and her father at the airport about 0745.
+He invited her to stay in Cheyenne because of the weather, but the pilot trainee’s
+father indicated that they wanted “to beat the storm” that was approaching. The
+pilot trainee spoke with her mother by cellular telephone as she ran to the airplane
+to depart. She ended the call when she boarded the airplane.
+At 0801:21, the pilot in command contacted the Casper AFSS6 via
+telephone and requested a weather briefing for a VFR flight from Cheyenne to
+Lincoln, Nebraska, the first scheduled fuel stop of the day’s intended flights. The
+weather briefer reported:
+at this time we have an AIRMET [airman’s meteorological
+information] for icing moderate below...twenty four thousand in
+Wyoming[; an] AIRMET for turbulence...along the route[,]
+possibly severe below eighteen [thousand] otherwise moderate[;]
+[IFR (instrument flight rules)] flight precautions are in effect
+likewise along that route of flight[; and] there’s a cold front just to
+the north of your position[,] actually they depict it through there
+now.
+The pilot in command replied, “yea its startin to rain here.” The
+briefer continued:
+with regards to the rain showers...virtually a line of it on a north
+south line just west of your position an [they’re] movin from south
+to north at this time so we have thunderstorms icing and
+[IFR]...not looking for a lot of improvement[.] [C]heyenne[’]s
+6Automated Flight Service Station
+
+3
+currently twenty six hundred broken three thousand overcast ten
+miles with light rain[.]
+The briefer then described current weather conditions at several
+points east of Cheyenne, and the pilot in command said, “yea probably looks good
+out there from here...lookin east looks like the suns shining as a matter of fact.”
+The briefer also reported that the “forecast for [C]heyenne through
+[9:00 a.m. local time] calls for two thousand scattered to broken four thousand
+broken and light rain[;] thunderstorms [and] after [9:00 a.m. local time] lowering
+ceilings fifteen hundred feet along your route of flight,” and that rain, fog, and
+thunderstorms were forecast for several points along the intended route of flight.
+He stated, “so...if you can venture out of there and go get east it looks [...],” to
+which the pilot in command replied “yea it looks pretty good actually.” The
+briefer then made reference to the “adverse conditions” currently at Cheyenne, and
+the pilot in command said, “yea its raining here pretty good right now[, I] mean its
+you know steady but nothin[g]...bad[,] and to the east it looks real good.” The
+pilot in command then filed a VFR flight plan for the intended flight to Lincoln,
+Nebraska. The telephone conversation was terminated at 0807:44. (See Appendix
+B for a full transcript of the briefing.)
+Following the recording of the taped television interview, there was a
+break in the private video recording. At 0813:06, the pilot in command contacted
+the Cheyenne ATCT7 requesting clearance to taxi, and, at 0813:24, the local
+controller responded “taxi to runway three zero, verify you have ATIS8 echo?”
+The pilot responded “negative, what’s the ATIS,” after which he was then given
+the ATIS frequency of 134.425 MHz and was requested to “advise when you have
+echo.” The pilot responded, verifying the frequency as 134.25, and this was
+corrected by the local controller.
+The next private video footage did not have a time hack displayed. In
+that segment, the airplane’s engine was running, the airplane external lights were
+visible, and the nosewheel was still chocked. Rain was falling, and the ramp
+showed standing water. The recording stopped again, and when it resumed, the
+engine was no longer running, and the external lights were off. A lineman was
+observed removing the nosewheel chock, after which the airplane’s external lights
+7Air Traffic Control Tower
+8Automated Terminal Information Service
+
+4
+were turned back on and the engine was restarted. The airplane then taxied from
+its ramp location (see Figure 1) southeasterly along the parallel taxiway to the
+approach end of runway 30.
+At 0815:39, the pilot in command stated, “I don’t get four two five on
+this radio.” At 0815:43, the local controller transmitted “cardinal two zero seven
+roger, runway three zero, wind two eight zero at two zero occasional gusts three
+zero altimeter two niner seven zero.” At 0816:00, after no response was received,
+the controller asked for an acknowledgment, and the pilot responded “OK, two
+zero seven, are we going the right way for three zero?” The controller responded
+“you are heading the right way for runway 30, did you get the numbers?” and the
+pilot acknowledged “we got em.”
+At 0818:12, the local controller advised the pilot that a “twin Cessna
+just departed reported moderate low-level windshear plus or minus one five knots”
+and the pilot responded “we got that thank you.” At 0818:53, the local controller
+advised that “tower visibility [is] two and three quarters [of a mile], field is IFR9
+and say request,” to which the pilot responded “OK two zero seven would like a
+special IFR um ah right downwind departure.” The controller responded “I’m not
+familiar with special IFR” and the pilot corrected with “I’m sorry, special VFR.”
+The local controller then coordinated with the local radar controller
+and, at 0820:19, advised the pilot that he was “cleared out of [the immediate
+airport vicinity] to the east, maintain special VFR conditions,” which the pilot
+acknowledged.
+At 0820:51, the local controller inquired “let me know when you are
+ready,” and the pilot responded, at 0820:56, “two zero seven’s ready.” Two
+seconds later, at 0820:58, the airplane was cleared for takeoff. The controller told
+investigators that the airplane was rolling at the time of this transmission.
+The private videotape then showed the airplane beginning its takeoff
+roll on runway 30, lifting off, and then the view of the airplane becomes
+obstructed by a building.
+9Instrument flight rules
+
+WI
+Figure 1.--Map depicting airplane ground track and airport.
+
+6
+Ground witnesses observed the airplane depart the upwind end of
+runway 30 heading in a northwesterly direction, and then execute a gradual right
+turn to an easterly heading. The witnesses generally described the airplane as
+having a low altitude, low airspeed, a high pitch attitude and wobbly wings. As it
+was rolling out of the right turn, at several hundred feet agl,10 the airplane was
+observed to rapidly descend to the ground in a near-vertical flightpath. The
+impact occurred approximately 4,000 feet north of the departure (upwind) end of
+runway 30 in a residential neighborhood.
+1.2 Injuries to Persons
+Injuries Flightcrew Passengers11 Other Total
+Fatal 1 2 0 3
+Serious 0 0 0 0
+Minor 0 0 0 0
+None 0 0 0 0
+Total 1 2 0 3
+1.3 Damage to Airplane
+The airplane was destroyed by impact. The value of the airplane was
+$45,000.
+1.4 Other Damage
+The airplane damaged a section of a paved, residential street.
+1.5 Personnel Information
+There were three occupants aboard the airplane. The pilot in
+command, occupying the front right seat; the pilot trainee, occupying the front left
+seat; and the father of the pilot trainee, occupying the left rear seat.
+10Above ground level
+11The pilot trainee was considered a passenger because she held no pilot
+certificate.
+
+7
+1.5.1 Pilot in Command
+The pilot in command was 52 years old and was a stockbroker by
+profession. He held a commercial pilot certificate with airplane single-engine land
+and instrument ratings, issued on December 11, 1990; and a flight instructor
+airman certificate with airplane single-engine land rating, issued in April 1992.
+His flight records for the last 2 years indicated that he gave flight instruction to
+eight students, in addition to the pilot trainee, during that time.12 In March 1996,
+he completed a flight instructor refresher course.13 A search of FAA14 records
+showed no record of violations or enforcement actions against him. He instructed
+students through a flying club he helped to organize at the Half Moon Bay Airport,
+Half Moon Bay, California.
+According to another flight instructor at the Half Moon Bay Airport,
+the pilot in command had once attempted to taxi out with the tow bar still attached
+to the airplane while providing flight instruction. He also indicated that the pilot
+in command had developed his own instrument approach into the Half Moon Bay
+Airport that went down to 500 feet. Another pilot based at the Half Moon Bay
+Airport stated that on several occasions, he had witnessed the pilot in command
+execute approaches to the airport when the weather was below minimums.
+He possessed an FAA second class medical certificate issued on May
+24, 1995, with the limitation that “holder shall wear lenses that correct for distant
+vision and possess glasses that correct for near vision.” The private video,
+recorded the morning of the accident, showed the pilot in command wearing what
+appeared to be corrective lenses before he boarded the airplane.
+The pilot in command’s total pilot time, as reported in his latest flight
+log through April 8, 1996, was 1,484 hours. This log was opened on May 10,
+1990, with 597 flight hours brought forward. He had logged no instrument time
+during the 6 months preceding the accident flight, and 4.1 hours of actual and 4.0
+hours of simulated instrument time during the 12 months preceding the accident
+12FAA records were obtained for seven of those students. They indicated that, as
+of July, 1996, none had been issued a private pilot certificate. The eighth student could not be
+uniquely identified in the FAA records.
+13The curriculum, which was approved by the FAA, included a 1-hour section on
+weather and a 1-hour section on human factors in aeronautical decision making, as part of a 16-
+hour curriculum.
+14Federal Aviation Administration
+
+8
+flight. The flight log showed that he had conducted eight flights out of airports at
+elevations exceeding 4,500 feet mean sea level (msl). In addition, although not
+entered in the flight log, he conducted two such takeoffs as pilot in command the
+day before the accident. The details of these high-altitude takeoffs are
+summarized as follows:
+DATE: AIRPLANE: LOCATION: ELEVATION:
+07/18/91 C-177B REXBURG, ID 4,858
+07/20/91 C-177B JACKSON, WY 6,445
+07/21/91 C-177B REXBURG, ID 4,858
+08/02/93 C-177B BATTLE MT., 4,532
+NV
+08/02/93 C-177B RAWLINS, WY 6,813
+08/11/93 C-177B JACKSON, WY 6,445
+08/11/93 C-177B ELKO, NV 5,135
+08/06/95 C-177B S. LAKE TAHOE, 6,264
+CA
+04/10/96 C-177B ELKO, NV 5,135
+04/10/96 C-177B ROCK SPRINGS, 6,760
+WY
+According to the pilot in command’s wife, he flew whenever he
+could, and he liked to take long weekend trips. She said he had flown twice to
+Oshkosh, Wisconsin, and once to Sedona, Arizona. He wanted everyone to learn
+how to fly, and he liked to provide flying opportunities to children. According to
+his wife, he took his young nephews and his sons (when they were children)
+flying, and he was active in the Young Eagles program that provided flying
+experiences to children.
+1.5.2 Pilot Trainee
+The pilot trainee, born on May 5, 1988, was 7 years old. She
+possessed neither an FAA medical certificate, nor any pilot certificate. Her total
+instructional time, as reported in her personal flight log through April 6, 1996, was
+33.2 hours, of which 28.0 hours were conducted in a Cessna 172, 1.5 hours in a
+Cessna 152, and 3.7 hours in a Cessna 177B (the accident airplane). The logbook
+showed a total of 46 landings between November 3, 1995 and April 6, 1996. A
+total of 29 instructional flights were logged, all with the pilot in command of the
+accident flight as her instructor.
+
+9
+1.5.3 Pilot Trainee’s Father
+The pilot trainee’s father was 57 years old and was a systems analyst.
+He possessed neither a pilot certificate nor an FAA medical certificate.
+1.5.4 Airplane Occupants’ Sleep and Activity History
+Prior to the Accident
+1.5.4.1 Pilot in Command’s Sleep and Activity History
+Prior to Starting Flight
+On Sunday, April 7, the pilot in command awoke between 0630 and
+0700 Pacific daylight time (PDT) after going to bed the night before between 2230
+and 2300. He participated in a news conference at the airport, spent a routine day
+with his family, and went to bed about 2200. On Monday, April 8, the pilot in
+command awoke about 0430 PDT15 and arrived at the airport in Half Moon Bay,
+California, about 0500 PDT to participate in a live television interview on a
+national news program. He then worked at his job as a stockbroker until 1300
+PDT, participated in another media interview in the afternoon, and went to bed
+about 2200 PDT. In addition, his flight log showed that on April 8, he piloted a 4-
+hour flight conducted from Half Moon Bay to San Carlos, California, and return.
+On Tuesday, April 9, he awoke about 0445 PDT and worked from
+0600 to 1300. He attended a local water board meeting from 1900 to 1930, and he
+went to bed about 2200 PDT.
+On Wednesday, April 10, he awoke about 0330 PDT to arrive at the
+airport and participate in a television interview with the pilot trainee and her father
+at 0530 PDT on a national news program prior to the start of the transcontinental
+flight. At 0617 PDT, the pilot in command received a weather briefing, and, at
+0700, the flight departed Half Moon Bay.
+15According to the pilot’s wife, during the work week he normally went to sleep at
+2200 and got up at 0445.
+
+10
+1.5.4.2 Pilot Trainee’s Sleep and Activity History
+Prior to Starting Flight
+According to her mother, the pilot trainee’s normal sleeping pattern
+was irregular. She said that in the days before the start of the trip, the pilot trainee
+had received less sleep than normal. On Wednesday, April 10, she awoke at 0300
+PDT and, at 0530, participated in a television interview with her father and the
+pilot in command. No further information has been made available concerning her
+sleep or activities just prior to the trip.
+1.5.4.3 Pilot Trainee Father’s Sleep and Activity History
+Prior to Starting Flight
+The Safety Board was unable to obtain any information regarding the
+pilot trainee father’s sleep and activity history prior to the flight.16
+1.5.4.4 All Occupants’ Sleep and Activity History
+After Starting Flight
+On Wednesday April 10, the airplane departed Half Moon Bay at
+0700 PDT, and landed at Elko, Nevada, approximately 1020 PDT and was
+refueled. At Elko, the pilot in command closed the flight plan from Half Moon
+Bay, filed a new one to Rock Springs, Wyoming, and received a weather briefing
+for the Rock Springs flight.
+The airplane then departed Elko approximately 1115 PDT, arriving in
+Rock Springs, approximately 3 hours later. The pilot in command commented that
+he looked forward to resting at the hotel in Cheyenne. The airport manager said
+that the pilot was “noticeably exhausted.” The pilot in command then telephoned
+the Casper AFSS and closed the flight plan from Elko, filed a new one to
+Cheyenne, and received a weather briefing for the Cheyenne flight. The pilot
+trainee spoke with the airport manager and several other airport staff members.
+The airplane then departed Rock Springs approximately 1540.
+The airplane landed at Cheyenne Airport at 1726. The pilot in
+command telephoned his wife from the airport and said that he was elated at the
+16His current wife did not respond to the Safety Board’s requests for information.
+
+11
+receptions they had received. According to his wife, he sounded tired, and he
+stated that he was very tired.
+The program director for a local Cheyenne radio station provided
+transportation for all three occupants from the airport to the hotel. During the ride,
+according to the program director, they discussed a storm front that was predicted
+to arrive in Cheyenne the next morning. According to the program director, the
+pilot in command was “very adamant” that the flight should depart by 0615, and
+the pilot trainee’s father agreed. He stated that all three occupants looked tired,
+and discussed being very tired. Upon arrival at the hotel at approximately 1900,
+the pilot trainee and her father checked into one room and the pilot in command
+checked into a separate room.
+According to the hotel clerk, they all seemed happy and the pilot
+trainee’s father spoke of the need for an early departure. They dined in the hotel
+restaurant.17 Hotel records indicate that four long distance telephone calls were
+made from the father’s room the evening of April 10, the last one beginning at
+2114. The pilot trainee’s mother received a telephone call during this period.
+According to the mother, the pilot trainee’s father related to her that the pilot
+trainee had gone to sleep with her head resting against the window on one of the
+flight segments, and that she had received assistance from the pilot in command on
+one of the landings because of winds.
+On Thursday, April 11, the pilot in command checked out of his hotel
+room at 0622. The desk clerk said that he looked fairly rested and seemed happy.
+The pilot trainee’s father called the hotel front desk about 0625 to cancel a
+scheduled 0630 wake-up call. The pilot trainee’s father later indicated that the
+pilot trainee had been awake and ready to leave before 0600, but he asked her to
+sleep longer because he felt that it was important for her to receive 9 hours of
+sleep to make up for the lost sleep before the trip. He and the pilot trainee checked
+out of their hotel room at 0714 and, with the pilot in command, returned to the
+Cheyenne Airport by hotel shuttle.
+17The morning of the accident, the pilot trainee’s father indicated to the radio
+station program director that “they” had dined at the hotel restaurant the night before. It is
+unknown whether “they” referred to all three of the flight participants (himself, the pilot in
+command, and the pilot trainee) or to only two of those participants.
+
+12
+1.6 Airplane Information
+The airplane, a four-place Cessna 177B, serial No. 17702266, was
+manufactured in 1975 and was registered to the pilot in command on May 27,
+1987. The airplane was equipped with a Lycoming O-360-A1F6D engine, serial
+No. L-20022-36A. Prior to the accident flight, both the airframe and engine had
+accumulated 3,582.3 flight hours. The airplane received an annual inspection on
+July 8, 1995, at 3,508.4 flight hours.
+The airplane was equipped with dual 3-inch aluminum rudder pedal
+extensions on the left seat rudder pedal assembly, which were installed a few
+weeks before the record-attempting flight. Cushions on the front left seat (to raise
+up and extend the occupant forward) were visible on the video recording made
+immediately prior to the airplane’s departure from Cheyenne.
+1.6.1 Airplane Fuel Information and Guidance
+The airplane was equipped with two integral 25-gallon fuel tanks
+providing a total of 49 gallons of usable fuel. The airplane was topped off with
+26.3 gallons of 100 low lead aviation fuel by Sky Harbor Air Service, Inc., shortly
+after its arrival in Cheyenne on April 10.
+The 1975 Cessna 177B Owner’s Manual states in Section II that,
+“[p]rior to take-off from short fields above 3,000 feet elevation, the mixture should
+be leaned to give maximum power.” According to FAA Advisory Circular (AC)
+61-23B, Pilot’s Handbook of Aeronautical Knowledge:
+Carburetors are normally calibrated at sea level pressure to meter
+the correct amount of fuel with the mixture control in the “FULL
+RICH” position. As altitude increases, air density decreases....If
+the fuel/air mixture is too rich, i.e., too much fuel in terms of the
+weight of the air [high density altitude], excessive fuel
+consumption, rough engine operation, and appreciable loss of
+power will occur.
+
+13
+1.6.2 Weight and Balance
+The airplane’s maximum gross takeoff weight was 2,500 pounds.
+The takeoff weight of the airplane on the morning of the accident was calculated
+by Safety Board investigators to be 2,596 pounds, using the following data derived
+from available weight and balance records, known fuel load, occupant weight
+provided by the Wyoming State Crime Laboratory, and weighed miscellaneous
+items:
+ITEM: WEIGHT: ARM: MOMENT:
+(pounds) (inches) (pound-inches)
+Empty weight18 1,589 103.95 165,177
+Engine oil 17 47 799
+Fuel (49 gallons) 294 112 32,928
+Left-front pax19 60 90 5,400
+Right-front pilot20 170 93 15,810
+Left-rear pax21 205 134 27,470
+Equipment/baggage22 154 162 24,948
+Food, film, miscellaneous23 83 140 11,620
+Lost fluids24 14 100 1,400
+Lost food25 10 100 1,000
+Estimated total at takeoff: 2,596 110.4 286,552
+less 2 gallons fuel burned -12 112 -1,344
+Estimated total at site: 2,584 110.4 285,208
+Center of gravity limits for the Cessna 177B at the maximum 2,500
+pound gross weight limit are: 105.7 inches (forward) and 114.5 inches (aft).
+18Includes 1 gallon unusable fuel
+19Includes clothing worn
+20Includes clothing worn
+21Includes clothing worn
+22Includes packed suitcases, video camera, tapes, and cell phone
+23Includes food and intact fluids on board and promotional hats
+24Includes bottles of drinkables and airplane oil
+25Includes packaged and nonpackaged food
+
+14
+1.6.3 Stall Speeds
+The power off, aft center of gravity stall speeds, in miles per hour
+calibrated airspeed (CAS), published in the airplane owner’s manual as a function
+of flap setting and angle of bank (AoB) for 2,500 pounds gross weight, were:
+STALL SPEEDS - MPH CAS
+0o AoB 20o AoB 40o AoB 60o AoB
+FLAPS UP 63 65 72 89
+FLAPS 15o 58 60 67 83
+FLAPS 30o 53 55 60 75
+1.6.4 Wing Flap Settings
+The 1975 Cessna 177-B Owner’s Manual states that:
+Take-offs are accomplished with the wing flaps set in the 0o to 15o
+position. The preferred flap setting for normal take-off is 10o.
+This flap setting (in comparison to flaps up) produces a shorter
+ground run, easier lift-off, shorter total distance over the obstacle,
+and increased visibility over the nose in the initial climb-out.
+Examination of the airplane wreckage indicated a 10o flap extension
+at the time of impact. (See section 1.12)
+1.6.5 Climb Speeds and Climb Rates
+Interpolation of flight test data provided by Cessna for the weight,
+flap configuration, and approximate density altitude of the accident flight (6,670
+feet) showed the following climb speeds and climb rates:
+
+15
+Climb Speed, Climb Rate
+CAS, mph fpm
+Best rate of climb 81 387
+speed, V
+y
+Best Angle of climb 71 359
+speed, V
+x
+Slow Speed climb 61 232
+For comparison purposes, the following climb rates are for the
+accident aircraft’s weight and flap configuration at sea level:
+Climb Speed, Climb Rate
+CAS, mph fpm
+Best rate of climb 87 685
+speed, V
+y
+Best Angle of 72 634
+climb speed, V
+x
+1.7 Meteorological Information
+1.7.1 General Weather Information
+The NWS26 0900 surface analysis chart showed a weak, quasi-
+stationary front extending from western Montana southeastward through
+southeastern Wyoming becoming a moderate cold front over extreme northeastern
+Colorado. The chart indicated that the cold front curved northeastward through
+central Nebraska to a low pressure center located near Sioux Falls, South Dakota,
+and continued northeastward through northern Michigan.
+The NWS 0600 850 millibar (about 5,000 feet) analysis chart
+indicated a center of low pressure over the Nebraska panhandle. The chart
+indicated southwesterly winds of 25 knots and 45 knots over Nebraska east of the
+low.
+26National Weather Service
+
+16
+The NWS 0600 700 millibar (about 10,000 feet) analysis chart
+showed a center of low pressure over western South Dakota. Also, the chart
+showed a trough of low pressure extending south of the low over eastern
+Wyoming and Colorado. The chart indicated southwesterly winds of 25 knots and
+30 knots over Nebraska east of the trough.
+1.7.1.1 Weather Observations27
+Weather observations at Cheyenne were accomplished by an ASOS28
+located approximately 3,300 feet north/northeast of the arrival (threshold) end of
+runway 30. Pertinent official weather observations for Cheyenne, in part, follow:
+Cheyenne Airport, Wyoming
+Field elevation 6,156 feet msl, ASOS-augmented
+Time—0656; type—record; sky condition—measured ceiling
+6,500 feet overcast; visibility—10+ miles; temperature—49
+degrees F; dew point—32 degrees F; wind—320 degrees at 9
+knots; altimeter setting—29.65 inches Hg.
+Time—0739; type—special; sky condition—measured ceiling
+2,800 feet broken 4,200 feet overcast; visibility—10+ miles;
+weather—light rain; temperature—44 degrees F; dew point—31
+degrees F; wind—300 degrees at 11 knots; altimeter setting—
+29.67 inches Hg; remarks—rain began 0736 precipitation, trace
+precipitation fell since previous record observation.
+Time—0756; type—record; sky condition—measured ceiling
+2,600 feet broken 3,100 feet overcast; visibility—10+ miles;
+weather—light rain; temperature—44 degrees F; dew point—31
+degrees F; wind—310 degrees at 15 knots; altimeter setting—
+29.67 inches Hg; remarks—rain began 0736 precipitation, trace
+precipitation fell since previous record observation.
+27Heights in surface weather observations are above ground level. All directions
+are true north unless noted. All distances are statute miles unless noted.
+28Automated Surface Observation System
+
+17
+Time—0815; type—special; sky condition—2,400 feet scattered
+measured ceiling 3,100 feet overcast; visibility—5 miles;
+weather—moderate rain; temperature—43 degrees F; dew point—
+32 degrees F; wind—260 degrees at 15 knots; altimeter setting—
+29.69 inches Hg; remarks—0.03 inch rain fell since previous
+record observation, wind shift began 0800.
+Time—0823; type—special; sky condition—1,600 feet scattered
+measured ceiling 2,400 feet broken 3,100 feet overcast;
+visibility—5 miles; weather—thunderstorm light rain;
+temperature—40 degrees F; dew point—32 degrees F; wind—250
+degrees at 20 knots gusting 28 knots; altimeter setting—29.71
+inches Hg; remarks—broken variable scattered, thunderstorm
+began 0823, 0.04 inch rain fell since previous record observation,
+wind shift began 0800, peak wind 260 degrees at 28 knots/0817.
+Time—0830; type—special; sky condition—1,400 feet scattered
+measured ceiling 2,000 feet broken 3,100 feet overcast;
+visibility—2 ½ miles; weather—thunderstorm light rain;
+temperature—38 degrees F; dew point—32 degrees F; wind—260
+degrees at 25 knots gusting 30 knots; altimeter setting—29.71
+inches Hg; remarks—surface visibility 5 miles, thunderstorm
+began 0823, 0.06 inch rain fell since previous record observation,
+wind shift began 0800, peak wind 260 degrees at 30 knots/0830,
+pressure rising rapidly.
+Part B of the Cheyenne Surface Weather Observation form showed
+that light rain began at 0740 and moderate rain occurred from 0815 to 0820. Also,
+the form showed light rain from 0820 to 0835.
+1.7.1.2 Crosswinds
+The nearest Doppler Weather Surveillance Radar-1988 (WSR-88D)
+was located at the Cheyenne NWS office on the Southern boundary of the airport.
+Velocity data derived from the Doppler radar indicated that the wind direction in
+the airport area around the time of the accident was from about 260 degrees true
+near the surface and did not shift substantially through approximately 350 feet agl.
+The winds were 15 to 30 knots.
+
+18
+The Cheyenne ASOS calculated the 2-minute average wind and the
+maximum 5-second wind once each minute. The following are along track and
+cross track wind components along the runway heading (304 degrees magnetic)
+calculated from the two sets of wind data from 0815 to 0824, inclusive:
+2-Minute Average Wind
+Time Wind Dir Wind Spd Along Trk Cross Trk
+MDT Magnetic Knots Knots Knots
+0815 251 15 9 12
+0816 247 18 10 15
+0817 245 22 11 19
+0818 243 23 11 20
+0819 240 23 10 21
+0820 238 23 9 21
+0821 240 22 10 20
+0822 241 20 9 18
+0823 238 20 8 18
+0824 237 20 8 18
+Maximum 5-Second Average Wind
+Time Wind Dir Wind Spd Along Trk Cross Trk
+MDT Magnetic Knots Knots Knots
+0815 251 17 10 14
+0816 242 24 11 21
+0817 247 28 15 23
+0818 240 25 11 22
+0819 256 26 17 19
+0820 234 25 9 23
+0821 241 24 11 21
+0822 241 23 10 20
+0823 235 22 8 21
+0824 250 23 14 19
+
+19
+Investigators asked the tower controller why runway 30 was in use at
+the time. He reported that at his console the wind readings, which did not come
+from the ASOS anemometer,29 indicated that the wind direction was variable but
+did not seem to favor either runway (30 or 26). He also said that the accident
+airplane was parked near runway 30 and that the airplane would be able to depart
+faster using that runway.
+1.7.1.3 Density Altitude
+At the time of the accident, the Cheyenne Airport density altitude
+determined from the ASOS was approximately 6,670 feet.
+1.7.1.4 Precipitation
+The accident site was located approximately 1.5 nautical miles
+northwest of the radar antenna. (See Figure 1.) Data recorded at around 0820
+indicated reflectivity of about 35 dBZ30 (indicating moderate precipitation) at the
+departure end of runway 30 to about 45 dBZ (indicating very heavy precipitation)
+in the area where the airplane began its right turn. Based on these data, the rate of
+precipitation at the time of the right turn (assuming it was all liquid precipitation)31
+was calculated to be a maximum of 3.146 inches per hour. Test data for high lift
+configuration airfoils from the National Aeronautics and Space Administration
+(NASA) Langley Research Center, Aircraft Landing Dynamics Facility (ALDF),
+show a maximum loss in lift of 2 to 3 percent for this rate of rainfall.
+The PPI32 composite radar image from 0823 indicated reflectivities in
+the vicinity of Cheyenne from around 40 dBZ (indicating strong precipitation) to
+50 dBZ (indicating intense precipitation). (See Figure 2.)
+29The controller’s wind readings came from the original (pre-ASOS) NWS
+anemometer, which was located midfield, about 1,300 feet southwest of the ASOS, near the
+threshold of runway 30. No record of the direction of winds recorded by that anemometer is
+kept.
+30The measure of strength of weather echoes.
+31The melting of snow and ice as it falls through the freezing level just above the
+surface results in an increased reflectivity. Therefore, to the extent that the precipitation was
+frozen, the precipitation rate would be less.
+32plan-position indicator
+
+
+
+21
+1.7.1.5 Lightning Data
+Cloud-to-ground lightning strike information from the National
+Lightning Detection Network for the 20-mile radius centered on Cheyenne was
+obtained from Global Atmospherics, Inc., for the period from 0805 to 0830,
+inclusive. According to a company representative, the median accuracy of the data
+was ½ mile.
+The data indicate that prior to the accident airplane’s takeoff, there
+were lightning strikes at 08:15:53, and at 08:18:38, and two strikes at 08:20:02.
+The strikes ranged from 0.5 mile to 1.2 miles to the west of the airport. The
+strikes at 0820 were about 1 to 2 miles south of the accident site.
+1.7.2 Witness Descriptions of Weather Conditions Near the Airport
+1.7.2.1 Other Pilots
+A pilot with the State of Wyoming, who holds an airline transport
+pilot rating with more than 13,800 flight hours and has been based in Cheyenne
+since January 1987, departed from runway 30 in a Cessna 414 at 0816.
+He recalled that once on the runway, the tower gave him westerly
+winds of 25 knots gusting to 30 knots. He tilted his weather radar up to avoid
+ground clutter and set it to the lowest scale of 10 miles. He remembered his radar
+painting a steep gradient of green/yellow/red echoes beginning about 4 to 5 miles
+from his position on the runway. He requested a 60-degree turn to the right
+(heading of 360 degrees) immediately after takeoff. While on the runway he
+observed cloud to ground lightning to the west (2 or 3 strokes spaced 10 to 15
+seconds apart). The strongest part of the storm appeared to him to be 230 to 240
+degrees off the departure end of runway 26, but echoes extended to about 330
+degrees. The pilot recalled strong crosswinds during his takeoff, requiring
+significant aileron input. He said that he experienced control difficulties all the
+way down the runway, more so than he would normally expect under those wind
+conditions. After rotation the airplane did not initially accelerate very rapidly. He
+said that he experienced moderate turbulence, and his airspeed fluctuated +/- 15
+knots. He said that the airplane began to climb adequately after leaving the airport
+boundary. At 200 to 300 feet above the ground, the turbulence and airspeed
+fluctuations subsided. He said he started his turn to the north about ½ mile after
+takeoff because of the approaching leading edge of the heavier rain.
+
+22
+He further stated he was aware that a Cessna 177 (the accident
+airplane) was planning on taking off soon after his departure because he had heard
+the accident airplane’s pilot on the tower frequency. He said that he was
+concerned and immediately gave a pilot report to the tower, hoping that the Cessna
+177 would hear it. He remembered reporting light-to-moderate turbulence, low
+level windshear, and airspeed fluctuations of +/- 15 knots. He said that he never
+talked to anyone in the accident airplane.
+The pilot in command of United Express Flight 7502 (a Beech 1900)
+that landed at the Cheyenne Airport about 0820, just prior to the departure of the
+accident airplane, reported that as the airplane taxied to the gate, the rain showers
+became heavier. He remembered hearing on the radio the pilot of the Cessna 414
+who had just departed reporting to air traffic control a 30-knot windshear. Upon
+hearing the report, the captain said that he decided to delay his planned takeoff
+until the weather improved. He said that he observed lightning within 1 or 2 miles
+of the airport as his airplane arrived at the gate.
+He stated that the rain changed to what he believed to be small hail.
+The flight departed Cheyenne at 1020.
+1.7.2.2 Air Traffic Control
+The Cheyenne ATCT local controller, who was on duty at the time of
+the accident, reported that the weather began deteriorating after he took his
+position shortly before the accident. He recalled that the visibility was lowest
+from the southwest through the north and was better to the east and southeast. He
+said that the worst weather was in the northwest, and that the weather seemed
+stationary. At 0818:12, he advised the accident airplane that, “[a] twin Cessna
+[that] just departed reported moderate low level windshear plus or minus one five
+knots.”
+He said that the airplane did not come to a complete stop at the
+beginning of the runway, and that it was rolling when he gave the takeoff
+clearance. He stated that after becoming airborne the airplane appeared slower
+and lower than expected.
+
+23
+1.7.2.3 Other Eyewitness Statements
+Eyewitnesses who observed all or part of the accident sequence
+reported that the weather conditions at that time were windy, with moderate to
+heavy mixed precipitation (rain, snow, and sleet), thunder and lightning.
+(Locations of eyewitnesses are noted on Figure 1.)
+1.8 Aids to Navigation
+Navigational aids did not pertain to this investigation and were not
+examined.
+1.9 Communications
+There were no known communications equipment difficulties.
+1.10 Airport Information
+The Cheyenne Airport is owned and operated by the Cheyenne
+Airport Board and is located in Laramie County, 1 mile north of the city of
+Cheyenne. The airport has a field elevation of 6,156 feet above sea level.
+The airport has two 150-foot-wide runways, identified as 30-12,
+which is 6,691 feet long, and 26-08, which is 9,200 feet long. Runway 30 has a
+0.5 percent uphill slope, and the centerline of the runway has a heading of 304
+degrees magnetic.
+1.11 Flight Recorders
+The airplane was not equipped, nor was it required to be equipped,
+with either a cockpit voice recorder or a flight data recorder.
+1.12 Wreckage and Impact Information
+The airplane came to rest on the south edge of a level, residential
+street at the entrance to a private residential driveway. The initial ground impact
+point of the engine was coincident with its final resting place, and the engine was
+still attached to the airplane. The crash site was located bearing 321 degrees and
+9,600 feet from the threshold of runway 30 at the Cheyenne Airport. (See Figure
+
+24
+1.) The wreckage distribution was largely confined to the immediate ground
+impact site, but a distribution of small fragments extended from the ground impact
+site southeast into a residential yard.
+The airplane was found upright and was oriented along a
+southeasterly bearing. The nose section and forward cabin area were crushed and
+displaced rearward along the airplane’s longitudinal axis. Both cabin doors
+exhibited crush lines indicative of a 67-degree nose down pitch attitude of the
+airplane upon impact with the ground. The vertical and horizontal stabilizers were
+relatively free of damage, as were their associated control surfaces and the
+stabilator trim tab.
+The cockpit/cabin area was observed to be heavily compressed along
+its longitudinal axis. The right cabin door, which was separated from the airplane,
+was folded over. The axis of the fold line was measured relative to the lower edge
+of the door and was found to be approximately 113 degrees from the airplane’s
+longitudinal axis.
+The 2-bladed propeller was separated from the engine. One blade
+was beneath the left wing. The other blade was embedded in the ground impact
+crater. Both blades exhibited tip curl and blade twist, along with extensive
+chordwise scratching and small leading edge nicks.
+The entire wing structure remained essentially intact from tip to tip
+but had separated from the airframe. The wing had been rotated to an inverted
+attitude during recovery of the occupants. The leading edges displayed extensive
+compressive deformation oriented along the chord line of the wing with the
+deformation more pronounced toward the wing tips. The flap jackscrew extension
+was measured at 2.1 inches, corresponding to a 10-degree flap extension. Control
+cable continuity for both elevator and rudder, as well as the ailerons, was
+confirmed.
+The mixture control knob was found in the full rich position in the
+cockpit, and cable continuity was established between the mixture control knob
+and the carburetor.
+The carburetor air box was crushed with the carburetor heat valve
+observed in the “cold” (off) position.
+
+25
+A damaged video recorder and two blank video tapes were found at
+the wreckage site. No video tape was found within the recorder unit at the crash
+site.
+Approximately 15 pounds of navy-blue baseball caps were recovered
+at the site. The baseball caps displayed the pilot trainee’s name in gold lettering
+along with the caption “Sea to Shining Sea” and “April 1996.”
+1.13 Medical and Pathological Information
+Autopsies were performed on all three occupants by a forensic
+pathologist at the Wyoming State Crime Laboratory, Cheyenne, Wyoming, on the
+evening of April 11, 1996. The autopsy reports concluded that traumatic injuries
+were the cause of death for all three victims. For the pilot in command, autopsy
+evidence noted bilateral fractured wrists, bilateral fractured ankles, and bilateral
+fractured feet (multiple bones). The autopsy showed no wrist or ankle fractures
+for the pilot trainee but numerous fractures in the bones of the right foot. The
+autopsy report on the pilot trainee’s father noted that the left breast shirt pocket
+contained “numerous slips of paper with appointment times and dates of TV
+interviews,” including one scheduled for the evening of the accident in Ft. Wayne,
+Indiana, and another for the next evening in Massachusetts. The pocket also
+contained numerous business cards from various radio, TV stations, and networks.
+The stomach of the pilot in command contained approximately 150
+milliliters of partially digested food particles. Neither of the stomachs of the pilot
+trainee or the father contained partially digested food.
+Toxicological tests of specimens taken from the pilot in command
+and the pilot trainee were negative, with the exception of a finding of 2.3
+micrograms per milliliter of Acetaminophen33 detected in blood for the pilot in
+command. No specimens were analyzed for the pilot trainee’s father.
+1.14 Fire
+There was no fire.
+33A nonprescription pain killer (commonly sold under the trade name Tylenol).
+
+26
+1.15 Survival Aspects
+The impact was not survivable for the three occupants.
+1.16 Media Aspects
+According to the pilot in command’s wife, he mentioned the
+upcoming record-attempting flight to a reporter from the Half Moon Bay Review,
+and the newspaper printed a short article several weeks before the flight.
+According to the reporter, the newspaper received calls about the article from
+larger newspapers in the San Francisco area. These larger newspapers
+subsequently published stories about the record attempt, and, in that reporter’s
+opinion, these stories might have sparked the tremendous national media attention
+that the story subsequently received. According to the pilot in command’s wife,
+media interest started to be heavy about 1 week before the flight. The pilot in
+command participated in several airport interviews with the pilot trainee and her
+father, and media representatives often telephoned his house at late hours. On
+Saturday, April 6, the pilot in command participated in an afternoon news
+conference. On Sunday, April 7, he participated in another news conference at the
+Half Moon Bay Airport.
+During a television interview of the pilot trainee conducted at Half
+Moon Bay by ABC News shortly before the start of the flight, she stated that “I
+wanted to break the record and be the youngest pilot to go cross-country.” The
+previous record holder, an 8-year-old pilot trainee, established his record the
+previous year. (See section 1.17.)
+According to the pilot trainee’s mother, 1 week before the flight, the
+pilot in command and the pilot trainee took several reporters flying. She said that
+on that flight they forgot the runup, and that the pilot trainee noticed in flight that
+the airplane door was open.
+In another ABC News interview of both the pilot trainee and her
+father at Half Moon Bay, her father inquired, “who told you you wanted to fly
+across country?” and the pilot trainee responded, “you.” Her father responded
+“oh, I did,” at which time the ABC News correspondent conducting the video
+interview inquired “oh, did you come up with the idea dad, is that where it was?”
+The pilot trainee’s father responded “I did originally, and I asked [the pilot
+trainee’s] mom if it would be OK with her, if [the pilot trainee] flew across
+
+27
+country, and she said yes. And I asked [the pilot trainee] and said ‘hey, honey,
+you don’t have to answer me right away. You could think about this a little, but
+[the pilot trainee] said ‘No, that’s something I’d like to do’.”
+An entry made by the pilot in command in the pilot trainee’s flight
+log, dated April 2, indicated that they had made a “low pass for photos.” An entry
+dated April 4 included a reference to “photo & news interviews.”
+The pilot in command’s wife reported that by Monday, April 8, when
+he participated in an early morning television interview on a national news
+program, her husband was “flabbergasted” by the media coverage. The mother of
+the trainee said that no one expected the media attention to get so big.
+ABC News provided a leased video recorder to the pilot trainee’s
+father along with three 120-minute blank video cassettes that were to be used to
+record the first day’s flight activities. The dates of receipt and projected return of
+the video recorder, under the lease agreement, were April 8 and 15, respectively.
+The first three tapes were to be returned to ABC News upon arrival at Cheyenne
+and were to be replaced with blank tape cassettes for recording the following day’s
+trip. The contract did not provide any monetary compensation for recording the
+videotapes.
+Numerous media representatives were present at the airport on the
+morning of April 10, when the first flight of the trip departed Half Moon Bay, and
+a news helicopter flew overhead, according to several witnesses. The pilot trainee,
+her father, and the pilot in command were interviewed live on national television
+at 0530 that morning.
+The airplane was met by several spectators and one newspaper
+reporter at its first stop in Elko. No media were present during the next stopover
+at Rock Springs. However, the airport manager at Rock Springs reported that the
+pilot trainee’s father placed a telephone call from a pay telephone in the airport
+lobby and remained on the telephone at least 30 minutes, even after the pilot was
+ready to go. According to the assistant airport manager, the pilot trainee’s father
+talked with a national media organization. When he got off the telephone, he
+made a comment that the pilot in command would not get to bed as early as he had
+hoped because they would have to wait at Cheyenne for the delayed arrival of a
+media crew.
+
+28
+Upon arrival at Cheyenne, the first overnight stop of the trip, a large
+number of spectators, including media persons, were present. There was a
+welcome presentation by the mayor, and media interviews that, according to the
+program manager for a local radio station, lasted over an hour. The program
+director for a Cheyenne radio station provided a ride to the hotel for the pilot, the
+trainee, and the pilot trainee’s father following the media interviews.
+On the morning of the accident, the airplane occupants participated in
+at least three media interviews. The pilot trainee was interviewed during a brief
+telephone call with the program director, and she also spoke with a television
+reporter. In addition, the pilot in command participated in a 2-minute interview
+with a television reporter outside on the ramp shortly before taking off.
+1.16.1 Itinerary Planning
+The idea for the “record”-attempting, cross-country flight was
+proposed by the pilot trainee’s father in February, according to the pilot trainee’s
+mother. The original plan was for the pilot trainee and the pilot in command to fly
+from California to Massachusetts and to complete the trip before the pilot trainee
+reached her 8th birthday on May 5. It was agreed that the pilot in command would
+be paid at his normal hourly rate for flight instruction, with additional
+compensation for the non-flight time. According to his wife, when the trip was
+first conceived, the pilot in command did not expect publicity. She said that he
+considered the flight a “non-event for aviation” and simply “flying cross country
+with a 7 year old sitting next to you and the parents paying for it.” She said that at
+that time, he planned to return from the East Coast with a business partner after the
+trip was over.
+According to the pilot trainee’s mother, about 1 month before the trip,
+the pilot trainee asked her father to accompany her on the trip and he agreed. Two
+or three weeks before the trip, the itinerary was expanded to include a return from
+Massachusetts to Half Moon Bay via 13 intermediate stops. On Sunday, March
+31, the pilot in command met with the pilot trainee at her home, sat next to a large
+map of the United States, and planned the itinerary for the trip. It involved
+approximately 51 hours of flying over 8 days, with no days off, and included
+
+29
+planned visits to relatives34 and other specific destinations and events. (See Figure
+3.)
+Documentation recovered from the accident site revealed that the
+intended transcontinental trip was to commence on the morning of April 10 from
+Half Moon Bay, California. The flight was projected to make intermediate fuel
+stops at Elko, Nevada, and Rock Springs, Wyoming, before making its first
+overnight stopover at Cheyenne, Wyoming.
+The following chart displays the intended route of flight and
+projected daily flight times, as contained in an itinerary sheet found in the aircraft
+wreckage:
+ORIGINATION FINAL DESTINATION INTERMEDIATE DATE: FLT TIME
+FUEL STOPS
+Half Moon Bay, Cheyenne, WY Elko, NV; 04/10/96 08.00 hours
+CA Rock Springs, WY
+Cheyenne, WY Ft. Wayne, IN Lincoln, NB; 04/11/96 07.50 hours
+Peoria, IL
+Ft. Wayne, IN Falmouth, MA Cleveland, OH; 04/12/96 06.00 hours
+Williamsport, PA
+Falmouth, MA Clinton, MD Frederick, MD 04/13/96 03.00 hours
+Clinton, MD Lakeland, FL Raleigh, NC; 04/14/96 06.75 hours
+Charleston, SC;
+Jacksonville, FL
+Lakeland, FL Houston, TX Marianna, FL; 04/15/96 07.00 hours
+Mobile, AL
+Houston, TX Sedona, AZ San Angelo, TX; 04/16/96 08.00 hours
+Albuquerque, NM
+Sedona, AZ Half Moon Bay, CA Lancaster, CA 04/17/96 05.00 hours
+Documents recovered from the accident site also included a hand-
+written letter dated March 3, 1996, from the pilot trainee to the President of the
+United States, which stated, in part, “May I visit you at the White House and even
+more so will you fly with me for simply 15-20 minutes…? I am scheduled to
+arrive in D.C., on Saturday April 13, 1996.”35 Also recovered from the accident
+34According to the pilot trainee’s mother, the pilot trainee wanted to visit her
+grandfather in Falmouth, Massachusetts, and an uncle in Houston, Texas.
+35The itinerary indicated that on April 13, the airplane was scheduled to land at
+Clinton, Maryland, which is approximately 8 miles from Washington, D.C.
+
+30
+site was a letter dated March 21, 1996, from the U. S. Congresswoman from the
+14th District of California to the pilot trainee that stated, in part, “[u]nfortunately,
+I will not be in Washington, D.C., when you are here and therefore unable to meet
+you on your arrival. Please call…my office…prior to your departure to arrange a
+tour of our nation’s Capitol.” Also, the itinerary indicated that they planned to
+arrive at Lakeland, Florida, on the afternoon of April 14.36 This coincided with the
+opening of the annual “Sun ’n Fun” Experimental Aircraft Association’s fly-in at
+Linder Regional Airport.
+A local pilot, who encountered the pilot in command on Sunday,
+April 7, at the Half Moon Bay Airport, reported that he inquired as to why the
+flight was to be conducted via a northerly routing. The pilot in command replied
+that “it was planned around scheduled ‘events,’ visits of friends and relatives” and
+“the Sun ’n Fun fly-in.” According to the local pilot, when he expressed concern
+about the weather along the northern route at that time of year, the pilot in
+command assured him that he would stop and wait out any adverse weather.
+When the local pilot inquired as to why the flight was scheduled for this time of
+the year, the pilot in command responded that the pilot trainee “would turn 8 years
+old in early May.” According to the pilot in command’s wife and a friend (the co-
+owner of the accident airplane), the pilot in command indicated to them that the
+trip might take longer than planned.
+1.17 Previous Record Attempt
+In an attempt to understand the effects of the itinerary and media
+attention on similar flights, Safety Board staff interviewed the father of an 8 year
+old who flew with his father back and forth across the United States in July 1995
+and set the youngest “pilot”37 flight “record,”38 which the accident flight was
+attempting to beat.
+He reported that the local newspaper published a short article about
+the flight 1 day before it began. According to the father, within 1 hour, the family
+was contacted by two radio stations, and by the time of the trip’s first takeoff,
+36No arrivals were to be accepted at Lakeland, Florida, after 1300 local time on
+that day.
+37The 8-year-old boy did not hold a pilot certificate. (See footnote 2.)
+38In fact, no official record is kept for the youngest pilot. (See footnote 4.)
+
+
+
+32
+there was a media “frenzy” at the airport inspired by the newspaper article. He
+said one reporter explained that “we’re looking for a happy story on kids.”
+According to the father, the parents were besieged by media requests
+on the first day of the flight. He stated that the flight did not have a fixed itinerary
+and that their route was determined largely by weather, with many deviations. He
+said that there were several days on which they stopped flying early because of
+weather problems. He said that flight legs were limited to 2 hours or less because
+of his 8-year-old son’s bladder needs. He stated that the trip took 10 days, and
+involved 49.5 hours of flight time.
+The father said that media requests to the family for information
+about the intended route of flight were difficult to answer because of the lack of an
+itinerary, and they eventually advised the media to contact FAA Flight Service for
+updates on the airplane’s position. He said that they did not seek out media
+attention, but that there were media people waiting for the flight at nearly every
+stop. He said that they were distracting, irritating, asked the same questions all the
+time, and became a major distraction from flying duties.
+1.18 Postaccident FAA Action and Legislative Changes
+On April 24, 1996, the Administrator of the FAA issued a letter to all
+certified flight instructors (CFIs) reiterating their responsibilities, especially with
+regard to unusual training requests and student pilots. The letter stated, in part:
+One key concept which you must demonstrate to all your students
+is set forth in Title 14 of the Code of Federal Regulations, Section
+91.3, Responsibility and authority of the pilot in command. That
+regulation states, in part, that the pilot in command of an aircraft is
+directly responsible for, and is the final authority as to, the
+operation of that aircraft. It is one regulation that leaves little to
+interpretation; it means everything you do as pilot in command
+affects the safe conduct of the flight—your preparation, your
+judgements, your decision making affects not only your life but
+that of your student, your passengers, and, in many cases, the
+public. It is a responsibility and authority not to be taken
+lightly….
+
+33
+You know how to make the decision to take the controls from a
+student pilot so that the safety of the flight is not compromised.
+But a more subtle and difficult responsibility for you is to
+withstand the pressure exerted by parents, the media, or the child
+to initiate or complete something that you know is questionable.
+You must not let your enthusiasm for teaching people to fly cloud
+your judgement….
+In October 1996, the U. S. Congress enacted Title VI of the Federal
+Aviation Authorization Act of 1996, which amended Title 49 of the United States
+Code to include the Child Pilot Safety Act. This Act provides, in part, as follows:
+Sec. 44724. Manipulation of Flight Controls
+(a) PROHIBITION. - No pilot in command of an airplane may
+allow an individual who does not hold -
+(1) a valid private pilots certificate issued by the Administrator
+of the Federal Aviation Administration under Part 61 of
+title 14, Code of Federal Regulations; and
+(2) the appropriate medical certificate issued by the
+Administrator under part 67 of such title, to manipulate the
+controls of an airplane if the pilot knows or should have
+known that the individual is attempting to set a record or
+engage in an aeronautical competition or aeronautical feat,
+as defined by the Administrator.
+Another part of the Act requires that the Administrator of the FAA
+conduct a study of the impacts of children flying aircraft and issue a report within
+6 months of enactment. The Act also requires the Administrator to issue a report
+on the results of the study and to issue recommendations on whether the statutory
+restrictions should be modified.
+These statutory restrictions were developed, in part, in response to the
+present accident.
+
+34
+2. ANALYSIS
+2.1 General
+The pilot in command was properly certificated and qualified for the
+intended cross-country trip. Additionally, the evidence indicates that the pilot in
+command was wearing corrective lenses at the time of takeoff, as required by the
+limitation on his current medical certificate.
+There was no evidence that airplane maintenance was a factor in the
+accident.
+Postaccident examination of the wreckage revealed that the airplane’s
+engine was developing power at the time of the accident, and that the flaps had
+been set at the preferred takeoff setting of 10 degrees. Additionally, there was no
+evidence of any airframe or control malfunction during the takeoff and subsequent
+crash.
+Because the ground temperature was above freezing up to the time of
+the takeoff, and because of the short duration of the flight, airframe icing was not
+likely a factor in this accident.
+There were no air traffic control factors that contributed to the cause
+of the accident.
+Casper Automated Flight Service Station (AFSS) provided a weather
+briefing to the pilot in command. A review of the briefing transcript revealed that
+the briefer adhered to agency guidelines and provided a comprehensive weather
+briefing to the pilot in command. As a result, the Safety Board concludes that the
+pilot in command was provided with a satisfactory weather briefing prior to
+departing Cheyenne.
+Although the pilot in command stated that he was unable to access the
+most recent ATIS broadcast on his radio, this was not a factor in the accident
+because he received all significant weather information from the tower controller
+and the AFSS weather briefer.
+
+35
+2.2 Analysis of the Accident Sequence
+2.2.1 Operation of the Airplane’s Controls
+Autopsy findings of multiple wrist, ankle and feet fractures to the
+pilot in command indicate that he was handling the flight controls at the time of
+impact, and the absence of such injuries to the pilot trainee suggests that she was
+not handling the flight controls at the time of impact.
+It is unknown whether the pilot in command assumed control of the
+airplane just prior to the impact, or whether he was flying during the entire takeoff
+and accident sequence. The portrayal of the trip as an attempt to break the
+transcontinental trip record by the youngest “pilot” suggests that the pilot trainee
+would be doing the flying herself. Consistent with this portrayal, she was seated
+in the left seat in front of the flight and navigation instruments, which is the seat
+generally occupied by the person who is operating the controls. However, it is
+known that the pilot trainee had not, in fact, done all of the flying herself on the
+first day of the flight.39 Further, strong crosswinds, moderate turbulence, and
+gusty winds existed at the time of the takeoff. As indicated by the control
+difficulties experienced by the Cessna 414 pilot, who took off just before the
+accident flight, the weather conditions at the time the airplane took off were
+challenging even for experienced pilots, and it is unlikely that the pilot trainee
+could have handled them without some assistance.
+Therefore, the Safety Board concludes that the pilot in command was
+at least assisting the pilot trainee (if he was not the sole manipulator of the
+controls) during the takeoff and climb-out sequence, and, at the time of impact, the
+pilot in command was the sole manipulator of the airplane’s controls.
+2.2.2 The Accident Scenario
+The statements provided by witnesses indicated that the airplane’s
+climb rate and speed were slow and that after the airplane transitioned to an
+easterly heading, it rapidly rolled off on a wing and descended steeply to the
+ground in a near vertical flightpath, consistent with a stall. The Safety Board
+39The pilot trainee’s father told her mother at the end of the first day that the pilot
+trainee had slept for part of the trip, and that the pilot in command had assisted her in one of the
+landings because of strong winds.
+
+36
+analyzed the factors that may have increased the airplane’s stall speed and reduced
+its climb speed to the point at which it stalled. These factors include the weather,
+the airplane’s attitude and weight, and the high density altitude.
+Eyewitnesses described moderate to heavy rain and a mixture of ice
+and snow pellets occurring at the accident site. Doppler reflectivity returns
+indicate heavy to very heavy precipitation in the same area.
+Analysis of radar and ASOS data and eyewitness reports show that
+the accident airplane was most likely encountering light to moderate rain as it
+began its takeoff roll. As the plane proceeded down the runway, rotated, and
+exited the runway environment, the Doppler reflectivity patterns show that the
+airplane encountered increasing amounts of precipitation until the time of the
+accident. In addition, the reflectivity returns in the accident area shown at 0823
+indicate that the airplane was experiencing a maximum precipitation rate of 3.146
+inches per hour just prior to the accident. Based on airplane performance data
+provided by NASA, such rainfall could reduce the airplane’s lift by as much as 3
+percent.40 This would increase the airplane’s stall speed by about 1.5 percent.
+Lightning was observed west of the airport by pilots prior to the
+accident. In addition, witnesses saw occasional lightning west of the airport
+around the time of the accident. Archived information indicated cloud-to-ground
+lightning strikes at 0820, 1 to 2 miles south of the accident site. There is no
+evidence of lightning strikes affecting the airplane. However, from the evidence
+of lightning, along with the Doppler radar data indicating composite reflectivity in
+the area (see section 1.7.1.4), the Safety Board concludes that the accident
+sequence took place near the edge of a thunderstorm.
+The Cessna 414 pilot who departed just prior to the accident flight
+indicated that he turned about ½ mile after takeoff because of the approaching
+storm. The pilot in command of the accident flight also turned shortly after
+takeoff. The Safety Board concludes that the pilot in command decided to turn
+right immediately after takeoff to avoid the nearby thunderstorm and heavy
+precipitation that would have been encountered on a straight-out departure. The
+40As noted in section 1.7.1.4, the melting of frozen precipitation results in a
+greater reflectivity return than the same volume of liquid precipitation. It is known that the
+precipitation at the time of the accident was at least partly, if not totally, frozen. Therefore, to the
+extent that the precipitation at the time of the accident sequence was frozen, the precipitation
+rate, and therefore the loss of lift, would be less.
+
+37
+witness statements indicate that the turn to the east was gradual; this is consistent
+with a bank angle of about 20 degrees. With the flaps at 10 degrees, a 20-degree
+bank angle would increase the stall speed about 3 mph, from about 59 mph for
+steady level flight to about 62 mph.
+Using the total weights of the clothed occupants, a full load of fuel,
+personal baggage and miscellaneous items (food and fluids) plus the airplane’s
+basic empty weight, the Safety Board concludes that the airplane was 96 pounds
+over the maximum gross takeoff weight at takeoff, and 84 pounds over the
+maximum gross takeoff weight at the time of the impact. The additional weight
+would have increased the airplane’s stall speed about 2 percent.
+The combined effect of the rain, the excess weight and the bank angle
+of the airplane could have increased the airplane’s stall speed to about 64 mph.
+The airplane’s best rate of climb speed at sea level is 87 mph (with a climb rate of
+685 feet per minute). However, the high density altitude at the airport and the
+overweight condition of the airplane would have affected the airplane’s climb
+performance.
+The Cheyenne Airport has a field elevation of 6,156 feet msl. Taking
+into account the temperature, the density altitude at the time of the takeoff and
+accident was 6,670 feet msl. According to airplane performance data from
+Cessna, the high density altitude and the airplane’s overweight condition would
+have decreased the airplane’s best rate-of-climb speed to 81 mph; with a climb rate
+of 387 feet per minute.
+Thus, the combination of the effects of the rain, the overweight
+condition, and the gradual bank angle of the airplane would have increased the
+airplane’s stall speed from about 59 mph to about 64 mph, and, along with the
+high density altitude, decreased its best rate-of-climb speed from 84 mph to about
+81 mph. However, the airplane should have been able to climb and turn safely.
+Thus, the Safety Board analyzed the possible reasons why this did not occur.
+These include a possible reduction in engine power from carburetor icing or an
+over-rich fuel/air mixture, and the effects of fluctuating winds, poor visibility and
+the lack of sufficient experience in takeoffs from high density altitudes on the pilot
+in command’s ability to operate the airplane.
+As noted in section 1.6.1, it is necessary to lean the fuel mixture at
+higher altitudes to allow maximum engine performance; an over-rich mixture can
+
+38
+result in an appreciable loss of power and reduced climb performance capability.
+The mixture control knob was found in the full rich (forward) position at the
+accident site, thus suggesting that it was in that position prior to impact, although
+it is possible that the knob was out and impact forces moved the knob forward
+without bending the rod. The pilot’s failure to stop at the end of the runway
+before his takeoff roll, which would have been the most common and appropriate
+time to adjust the fuel/air mixture, further suggests that he did not properly lean
+the mixture.
+Further, carburetor icing conditions existed at the time of takeoff (the
+temperature was 40 degrees, the dew point was 32 degrees, and there was moisture
+in the air). Thus, without the application of carburetor heat during taxi and runup,
+ice may have formed in the carburetor and reduced the available power at takeoff.
+The carburetor heat valve was found in the “off” position at the accident site. The
+pilot’s failure to stop at the end of the runway before his takeoff roll suggests that
+he did not perform a pretakeoff checklist, which would have included a magneto
+and carburetor heat check (turning on the carburetor heat.) However the Safety
+Board could not conclusively determine its position during the takeoff sequence.
+Either or both of these conditions could have reduced the engine
+power sufficiently to cause a loss of climb capability. However, because the
+settings of the mixture control knob and the carburetor heat valve during the
+takeoff could not be determined positively, the Safety Board cannot conclusively
+determine whether a power reduction from an over-rich mixture and/or carburetor
+icing existed at the time of the accident.
+ASOS ceilometer data and eyewitness reports indicate that the cloud
+bases in the accident area were probably around 1,500 feet agl. Additionally,
+numerous eyewitnesses stated that the airplane was visible until the accident.
+Personnel in the tower, about 1.2 nautical miles from the accident location,
+observed the accident sequence.
+The Safety Board concludes that although horizontal in-flight
+visibility at the time of the stall was most likely substantially degraded due to
+precipitation, eliminating a visible horizon, the pilot in command could have
+maintained visual ground reference by looking out the side window. However,
+this could have been disorienting to the pilot because of the need to scan to his left
+to see flight instruments in front of the pilot trainee and to his right to see the
+ground, as he attempted to operate the airplane at low speed, with a lower-than-
+
+39
+normal climb rate, with the distraction of rain and ice impacting the airplane, and
+in instrument meteorological conditions.
+Analysis of weather data indicate that the winds were generally
+westerly at the surface and near-surface at speeds that varied between 15 and 30
+knots. In addition, there is evidence of significant crosswinds of 21 to 23 knots on
+runway 30 at the time of the accident flight’s takeoff. (See sections 1.7.1.2 and
+1.7.2.1.)
+Wind data from ASOS showed that wind speeds were most likely
+about 5 knots higher around the takeoff time of the accident flight than when the
+Cessna 414 departed, reporting to the tower controller moderate low level
+windshear and airspeed fluctuations of +/- 15 knots. This report was
+acknowledged by the pilot in command of the accident flight. The Safety Board
+concludes that the airplane experienced strong crosswinds, moderate turbulence
+and gusty winds during its takeoff and attempted climb, and that the pilot in
+command was aware of these adverse wind conditions prior to executing the
+takeoff.
+Although airplane control problems associated with crosswinds
+would exist during the initial takeoff roll, control problems associated with
+turbulence and gusty winds would have affected the airborne portion of the flight
+as well. Specifically, these wind conditions would make it more difficult to
+maintain a constant airspeed and rate of climb and could result in an unintended
+reduction in airspeed to below the airplane’s stall speed.
+The wind conditions may also have affected the pilot’s perception of
+his airspeed after the right turn. What was initially a crosswind during the takeoff
+roll and initial airborne phase became a tailwind after the airplane began its right
+turn. Because the pilot was most likely looking outside the airplane during the
+VFR departure, he may not have been adequately monitoring the airspeed
+indicator or he may have had difficulty monitoring it because of airspeed
+fluctuations, and he may have misperceived the increased ground speed as an
+increase in airspeed. Accordingly, the Safety Board concludes that the right turn
+into a tailwind may have caused the pilot in command to misjudge the margin of
+safety above the airplane’s stall speed. In addition, the pilot may have increased
+the airplane’s pitch angle to compensate for the perceived decreased climb rate,
+especially if the pilot misperceived the apparent ground speed for airspeed, or if
+the pilot became disoriented.
+
+40
+The pilot in command had only performed a total of ten known
+takeoffs out of airports at elevations exceeding 4,500 feet msl, and only five of
+those flights were performed from airports over 6,000 feet msl. Higher density
+altitudes result in a reduction of aerodynamic (wing and propeller) and powerplant
+performance during takeoff and initial climb, and in a longer takeoff run and
+slower rate of climb. This reduced rate of climb might well prompt a person who
+was inexperienced with high density altitude takeoffs to raise the nose of the
+airplane in an attempt to increase the rate of climb, thereby further decreasing the
+airspeed. Therefore, the Safety Board concludes that the high density altitude and
+possibly the pilot in command’s limited experience with this type of takeoff
+contributed to the loss of airspeed that led to the stall.
+The Safety Board has been unable to determine which of the above
+factors, or a combination of factors, resulted in the reduction in the climb speed to
+below the stall speed. However, the Safety Board concludes that the pilot in
+command failed to ensure that the airplane maintained sufficient airspeed during
+the initial climb and subsequent downwind turn to ensure an adequate margin
+above the airplane’s stall speed, resulting in a stall and collision with the terrain.
+The Safety Board notes that the pilot in command had limited
+experience operating out of high density altitude airports, such as Cheyenne, and
+that this should have prompted him to be cautious. He had expressed concern
+about the predicted storm that was to move in from the west, and he had wanted to
+leave early enough to avoid the storm. Further, just prior to departure, the pilot
+knew the wind conditions reported by a pilot who had just departed.
+Accordingly, the Safety Board concludes that the pilot in command
+inappropriately decided to take off under conditions that were too challenging for
+the pilot trainee and, apparently, even for him to handle safely. Therefore, the
+Safety Board attempted to analyze the human performance factors that might have
+caused the pilot in command to depart under those conditions. These factors
+include the possible effects of fatigue, the emphasis placed on media events, and
+the desire to adhere to the programmed itinerary.
+
+41
+2.3 Human Performance Aspects
+2.3.1 Fatigue
+The pilot in command’s sleeping schedule in the days before the
+accident flight may have led to fatigue. He received 6 ½, 6 ¾, and 5 ½ hours of
+sleep, respectively, in the 3 days prior to the start of the trip on April 10, compared
+to the 8 ½ to 9 hours of sleep that he typically received per night on weekends.41
+On April 10, he awoke at 0330, earlier than his normal wake-up time. By mid-
+afternoon on April 10, during the fueling stop at Rock Springs, he told a witness
+of being tired. After arriving at Cheyenne, he telephoned his wife and said that he
+“was really tired.”
+There is evidence that people tend to underestimate their level of
+tiredness,42 so that when the pilot reported being “really tired” it probably reflected
+a high level of fatigue. Accordingly, based on his early wake-up time (0330 PDT),
+his long and demanding flight regime the first day of the transcontinental flight,
+his comments about being tired, and his potential sleep loss in the days before the
+trip, the Safety Board concludes that the pilot in command suffered from fatigue
+on the day before the accident.
+The pilot in command had the opportunity to receive a full night’s
+sleep the night before the accident between the time he checked into his hotel
+room at about 1900 and the time he checked out the next morning at 0622.
+However, the quantity and quality of his sleep during that time is unknown.
+Immediately before the accident, the pilot in command committed several errors
+that are consistent with a lack of alertness.43 The number and variety of these
+41Extra sleep on weekends is often a sign that the individual is building a sleep
+deficit during the week. The pilot in command routinely received less than 7 hours of sleep per
+night during the work week and compensated by sleeping longer on weekends. Before the
+accident, his sleep was less than usual during the work week, and he had no opportunity to
+compensate.
+42See Aircraft Accident Report, “Uncontrolled Collision with Terrain, American
+International Airways Flight 808, Douglas DC-8-61, N814CK, U. S. Naval Air Station,
+Guantanamo Bay, Cuba, August 18, 1993” (NTSB/AAR-94/04)
+43Specifically, he started the airplane engine while the nosewheel was still
+chocked; requested a taxi clearance without having obtained the ATIS; read back a radio
+frequency incorrectly; accepted a radio frequency that he could not dial on his radio; failed to
+acknowledge, as requested, the weather information provided by the controller; asked “are we
+going the right way”; failed to stop at the end of the runway; and used incorrect phraseology
+when he requested a “special IFR” clearance.
+
+42
+errors are consistent with a general degradation in performance of the sort
+produced by fatigue. Fatigue can degrade all aspects of performance, especially
+decision making, and could have resulted in the pilot in command being less than
+fully alert as he made the final determination to take off. However, there are other
+possible explanations for these errors, such as the effects of rushing, distraction
+from tasks, or the influence of habitual bad flying practices.44 In addition, as noted
+above, the pilot in command had the opportunity to receive ample rest the night
+before. Therefore, there is insufficient evidence to conclude that fatigue was a
+factor in the accident.
+2.3.2 Fatigue Awareness and Education
+The Safety Board is concerned that the pilot in command continued
+flying the day before the accident even though he knew that he was fatigued.
+Recent literature45 indicates that fatigue is a pervasive factor, often difficult for an
+individual to recognize, that can degrade decision making and most other aspects
+of human performance.
+Educating operators in all modes of transportation on fatigue has been
+of special concern to the Safety Board. In 1989, the Safety Board recommended
+that the Department of Transportation (DOT) encourage education as part of an
+aggressive Federal program to address the problems of fatigue and sleep issues in
+transportation safety:
+I-89-3
+Develop and disseminate educational material for transportation
+industry personnel and management regarding shift work; work
+and rest schedules; and proper regimens of health, diet, and rest.
+On April 20, 1996, the DOT provided the Safety Board with copies of
+a publication, two video films, and brochures developed for DOT use in fatigue
+education. One video and brochure, entitled “Fatigue Busters - How to Survive
+44It was reported by pilots at Half Moon Bay that the pilot in command had
+executed unpublished approaches when the weather was below VFR minimums. It is also
+known that the pilot in command once attempted to taxi with a tow bar still attached to the
+airplane, and that a week before the accident flight, he forgot to do a runup and close the airplane
+door before making a flight with several reporters.
+45See Fatigue Symposium Proceedings, November 1-2, 1995, National
+Transportation Safety Board and NASA Ames Research Center. Washington, D.C.: National
+Transportation Safety Board.
+
+43
+Fatigue in the 90’s,” was prepared by the FAA and has been sent to its regional
+safety offices. The Safety Board was impressed at the level of detail in this
+material and encouraged the DOT to continue to develop and disseminate similar
+materials as research progressed and to develop similar information in modes other
+than aviation and highway. As a result of these actions, on July 19, 1996, the
+Safety Board classified Safety Recommendation I-89-3 “Open--Acceptable
+Response.”
+In 1994, following a study of major air carrier accidents in which
+flightcrew performance was a factor,46 the Safety Board recommended that the
+FAA:
+A-94-005
+Require U.S. air carriers operating under 14 CFR Part 121 to
+include, as part of pilot training, a program to educate pilots about
+the detrimental effects of fatigue, and strategies for avoiding
+fatigue and countering its effects.
+In 1994, as a result of its investigation of an accident involving a
+Continental Express Embraer-120 RT on April 29, 1993, at Pine Bluff, Arkansas,47
+the Safety Board recommended that the FAA:
+A-93-073
+Require that 14 CFR Part 135 air carriers provide aircrews, as part
+of their initial and recurrent training, information on fatigue
+countermeasures relevant to the duty/rest schedules being flown
+by the company.
+On September 8, 1995, the FAA issued Change 1 to AC 120-51B,
+Crew Resource Management (CRM) Training. Appendix 3, Paragraph 2H, of the
+revised AC recommends CRM training on a number of topics, including factual
+information about the detrimental effects of fatigue and strategies for avoiding and
+countering its effects. As a result of this action, on January 16, 1996, the Safety
+46See Safety Study, “A Review of Flightcrew-Involved, Major Accidents of U.S.
+Air Carriers, 1978 Through 1990” (NTSB/SS-94/01)
+47See Aircraft Accident/Incident Summary Report, “In-flight Loss of Control,
+Leading to Forced Landing and Runway Overrun, Continental Express, Inc., N24706, Embraer
+EMB-120 RT, Pine Bluff, Arkansas, April 29, 1993” (NTSB/AAR-94/02/SUM)
+
+44
+Board classified Safety Recommendations A-94-005 and A-93-073 “Closed--
+Acceptable Action.”
+The Safety Board is encouraged by these actions and continues to
+encourage the transportation community to expand understanding and education
+on fatigue and countermeasures to it. However, the pilot in command’s decision
+to continue flying the day before the accident when he knew that he was fatigued
+indicates that he did not adequately appreciate the potentially hazardous effects of
+fatigue on flight safety. The Safety Board concludes that information on fatigue
+and its effects, and methods to counteract it, might have assisted the pilot in
+command to recognize his own fatigue on the first day of the flight, and possibly
+enhanced the safety of the trip. Therefore, the Safety Board believes that the FAA
+should expand the development and increase the dissemination of educational
+materials on the hazards of fatigue to the general aviation piloting community.
+2.3.3 Media Attention and Itinerary Pressure
+When the trip was proposed, the pilot in command told his wife that
+the flight would be a “non-event for aviation” and simply “flying cross country
+with a 7 year old next to you and the parents paying for it.” The evidence indicates
+that he was surprised and awed by the media attention that developed. However,
+according to his wife, he was pleased by the media attention.
+The media interest apparently began from an article in a local paper.
+Media interviews began several days before the trip, and included numerous
+telephone calls at home and early morning live television interviews on national
+news programs. Media representatives were present at nearly every stop on the
+trip, and the time spent participating in media events interfered with other
+activities that could have affected flight safety.48 For example, the media events at
+Cheyenne the night before the accident resulted in a delayed arrival at the hotel,
+thus delaying the opportunity for the participants to obtain much needed rest.
+Also, on the morning of the accident, the pilot in command’s preflight inspection
+and preparation of the airplane was interrupted by a television reporter’s
+48In addition, the father videorecorded parts of the first day’s flight from the back
+seat of the airplane for use by a national news service, providing a regular reminder of the news
+value of the flight.
+
+45
+interview, possibly degrading the thoroughness of the preflight preparations.49
+The airplane occupants also participated in two other media interviews, further
+delaying the departure. Further, slips of paper found in the shirt pocket of the
+pilot trainee’s father indicated that they had media interviews scheduled for that
+evening in Ft. Wayne, Indiana, and the following evening in Massachusetts.
+On the morning of the accident, the weather was changing. There
+was a cold front approaching Cheyenne, but the weather to the east was good. If
+the airplane had departed ahead of the storm, it would have encountered good
+weather along its intended route. If the airplane had waited until after the storm
+passed, its intended route would have been blocked by the storm. The pilot had
+made it clear the night before that he wanted to depart ahead of the cold front, but
+their departure was delayed by a later-than-planned checkout from the hotel and
+by the media interviews. By the time the airplane was ready for takeoff, the only
+way to avoid being held up by the storm, and therefore to maintain the tightly
+scheduled itinerary, was to fly for several minutes in the deteriorating and
+potentially unsafe weather conditions associated with the storm.
+Self-induced pressures from media attention can degrade decision
+making, increasing the perceived importance of maintaining the schedule
+compared to other factors. It would have been a normal human response for the
+pilot in command to have been affected by the media attention.
+The Safety Board concludes that the airplane occupants’ participation
+in media events the night before and the morning of the accident flight resulted in
+a later-than-planned takeoff from Cheyenne under deteriorating weather
+conditions. The Safety Board further concludes that the presence of media at the
+Cheyenne Airport and media interviews scheduled for the next two overnight
+stops probably also added pressure to attempt the takeoff and maintain the
+itinerary.
+The planned itinerary for the trip involved approximately 51 hours of
+flying time (with 3 to 8 hours of flight time scheduled per day), more than 8 days,
+and no days off. In contrast, the father of the 8-year-old child, who had set the
+previous youngest “pilot” flight “record,” indicated that they followed no fixed
+49For example, if he had been fully attentive to the preflight preparations, he might
+have questioned whether the numerous bags and other items being loaded on the airplane would
+result in an overweight condition.
+
+46
+itinerary, and that their route was flexible. He said that their flight legs were
+limited to 2 hours or less to accommodate the child’s physiological needs.
+It is not clear why the pilot in command agreed to an itinerary that
+was so demanding and had so little flexibility. He had flown long trips before and
+must have known that weather can be difficult to predict. When another pilot
+expressed concern about the itinerary, especially about weather through the
+mountains at that time of the year,50 the pilot assured him that he would stop and
+wait out any adverse weather. The pilot also acknowledged to his wife and
+another friend that the trip might take longer than planned. But he did not build
+any reserve time into the itinerary that would allow for such delays.
+The Safety Board concludes that the itinerary was overly ambitious,
+and that a desire to adhere to it may have contributed to the pilot in command’s
+decision to take off under the questionable conditions at Cheyenne.
+2.3.4 Aeronautical Decision Making
+Since 1988, the Safety Board has made three recommendations urging
+the FAA to enhance pilot training in decision making for commercial operations.
+Following its Special Study of Emergency Medical Service Helicopter
+Operations,51 the Board recommended that the FAA:
+A-88-002
+Require that the material being developed for the Emergency
+Medical Service (EMS) pilot supplement to the aeronautical
+decision making manual for helicopter pilots be incorporated into
+EMS pilot initial and recurrent training.
+On October 20, 1988, the FAA issued AC 135-14, “Emergency
+Medical Services/Helicopter.” This AC provided information on overall training
+requirements that should be satisfied by Part 135 operators for FAA program
+approval, including guidance regarding aeronautical decision making for EMS
+helicopter pilots. On January 25, 1989, the Safety Board classified Safety
+Recommendation A-88-002 “Closed--Acceptable Alternate Action.”
+50The trip was planned for April because the pilot trainee would turn 8 years old
+in May, and she would break the previous “record” only if the flight were completed before then.
+51See Safety Study, “Commercial Emergency Medical Service Helicopter
+Operations” (NTSB/SS-88/01)
+
+47
+Following its investigation of a midair collision involving a Piper
+Aerostar PA-60 airplane and a Bell 412 helicopter that occurred on April 4, 1991 ,52
+the Safety Board further expressed its concern about aeronautical decision making.
+The Safety Board issued the following recommendation to the FAA on October
+11, 1991:
+A-91-93
+Disseminate more aggressively available information and
+materials pertaining to Aeronautical Decision Making training and
+actively promote its implementation among all categories of pilots
+in the civil aviation community.
+On December 1, 1989, the FAA published AC 120-51, “Cockpit
+Resource Management Training (CRM),” and on December 13, 1991, the FAA
+published AC 60-22, “Aeronautical Decision Making.” Both publications
+addressed the importance of including decision making in pilot training programs.
+Based on the latter action, the Safety Board classified A-91-93 “Closed--
+Acceptable Action.”
+In 1993, following its investigation of an accident involving a Scenic
+Air Tours Beech Model E18S near Maui, Hawaii, on April 22, 1992,53 the Safety
+Board again expressed its concern about the adequacy of aeronautical decision
+making training and issued the following recommendation to the FAA:
+A-93-013
+Issue an air carrier operations bulletin instructing all principal
+operations inspectors to aggressively encourage all commercial
+operators to incorporate comprehensive aeronautical decision
+making (ADM) training in their pilot training programs.
+On February 22, 1994, the Safety Board classified Safety
+Recommendation A-93-013 “Closed--Acceptable Action,” based on the FAA’s
+proposal to issue Change 1 to AC-120-51B to emphasize to field office inspectors
+52See Aircraft Accident/Incident Summary Report, “Midair Collision Involving
+Lycoming Air Services Piper Aerostar PA-60 and Sun Company Aviation Department Bell 412,
+Merion, Pennsylvania, April 4, 1991” (NTSB/AAR-91/01/SUM)
+53See Aircraft Accident Report, “Tomy International, Inc. d/b/a Scenic Air Tours,
+Flight 22, Beech Model E18S, N342E, In-Flight Collision with Terrain, Mount Kaleakala, Maui,
+Hawaii, April 22, 1992” (NTSB/AAR-93-01)
+
+48
+the importance of encouraging operators to incorporate decision making in their
+company training programs. The change was subsequently issued on September 8,
+1995.
+Although these actions with regard to AC-120-51 (CRM) have
+improved and enhanced decision making training for commercial pilots, general
+aviation pilots are not exposed to this training. AC 60-22 (Aeronautical Decision
+Making), issued by the FAA in 1991, was aimed at general aviation pilots and
+flight instructors. This AC provides a basis for explaining decision making to
+pilots and a framework for teaching judgment issues to pilots. The AC describes
+common dangerous tendencies, dangerous attitudes, fitness for duty, and decision
+making models.
+Recent developments in the area of aeronautical decision making54
+have focused on decision making involving real life situations, in which decisions
+must often be made rapidly in response to changing and ambiguous circumstances.
+This work has emphasized the importance of experience for rapidly assessing
+situations and choosing workable alternatives.
+The Safety Board is aware of several recent initiatives to upgrade the
+teaching of decision making to general aviation pilots. For example, the Air
+Safety Foundation of the Aircraft Owners and Pilots Association (AOPA) has
+recently developed a pilot training seminar entitled “Never Again” that is being
+presented to pilot groups and that focuses on actual weather-related incidents. By
+using videotape reconstruction and regular audience discussion, the seminar
+presents decision making issues in a manner that is compelling and closely related
+to actual pilot experiences. The Safety Board is also aware that the National
+Association of Flight Instructors (NAFI) is developing a new program in decision
+making skills aimed at flight instructor recertification training. It will emphasize
+judgment in concrete situations facing pilots. The Safety Board commends these
+efforts.
+This accident demonstrates the need for continued efforts in the area
+of aeronautical decision making for general aviation pilots. The circumstances of
+this accident could be instructive to other general aviation pilots in raising their
+54See Judith Orasanu and Terry Connolly, “The Reinvention of Decision Making”
+in Gary A. Klein, Judith Orasanu, Roberta Calderwood, and Caroline E. Zsambok (Eds.),
+Decision Making in Action: Models and Methods. Norwood, N. J.: Ablex Publishing
+Corporation.
+
+49
+awareness of potential decision making errors. Therefore, the Safety Board
+believes that AOPA, the Experimental Aircraft Association (EAA), and NAFI
+should disseminate information about the circumstances of this accident and
+continue to emphasize to their members the importance of aeronautical decision
+making.
+The Safety Board recognizes that the FAA’s letter of April 24, 1996,
+to flight instructors generally addressed CFI responsibilities and the importance of
+making appropriate decisions. However, it did not specifically refer to the
+circumstances of this accident. Therefore, the Safety Board believes that the FAA
+should incorporate the lessons learned from this accident into educational
+materials on aeronautical decision making.
+2.4 Recent Legislative Changes
+As noted in section 1.18, in October 1996, Congress passed the Child
+Pilot Safety Act, which limits “record”-attempting flights and has ordered the FAA
+to conduct a study of the impacts of children flying aircraft. As shown in this
+accident, the record-setting aspect and associated media and itinerary pressure of
+such flights can distort a pilot’s decision making and lead to an unsafe situation.
+
+50

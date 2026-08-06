@@ -1,0 +1,2738 @@
+Aviation Investigation Report
+AIR-24-07
+December 4, 2024 Aviation Investigation Report AIR-24-07
+In-Flight Collision During Air Show
+Commemorative Air Force
+Boeing B-17G, N7227C, and Bell P-63F, N6763
+Dallas, Texas
+November 12, 2022
+Abstract: This report discusses the November 12, 2022, accident involving two
+historic, former military airplanes operated by the Commemorative Air Force (CAF)
+that collided in flight during a performance in the CAF’s Wings Over Dallas air show.
+The pilot, copilot, flight engineer, and two scanners on board the Boeing B-17G and
+the pilot of the Bell P-63F were fatally injured, and both airplanes were destroyed. No
+injuries to persons on the ground were reported. Safety issues identified in this report
+included the limited ability of the Boeing B-17G pilot and the Bell P-63F pilot to see
+and avoid each other’s airplane due, in part, to the inherent limitations of the
+see-and-avoid concept for collision avoidance; the air boss’s ineffective aircraft
+deconfliction strategy for the accident performance; the lack of adequate air show
+safety oversight, risk assessments, and air boss oversight; air show safety culture
+issues; and the need for standardized terms for air show communications to ensure
+clarity and brevity. As a result of this investigation, the National Transportation Safety
+Board makes four safety recommendations to the Federal Aviation Administration,
+two safety recommendations to the International Council of Air Shows Inc., and one
+safety recommendation to the CAF.
+i
+
+Aviation Investigation Report
+AIR-24-07
+Contents
+Figures ..................................................................................................................iv
+Acronyms and Abbreviations ................................................................................ v
+Executive Summary ...............................................................................................vi
+What Happened............................................................................................................... vi
+What We Found ............................................................................................................... vi
+What We Recommended ............................................................................................. viii
+1. Factual Information .................................................................................. 1
+1.1 History of Flight ........................................................................................................ 1
+1.2 Personnel Information ........................................................................................... 13
+1.2.1 Boeing B-17G Crew ...................................................................................... 13
+1.2.2 Bell P-63F Pilot ............................................................................................... 15
+1.2.3 Air Boss ........................................................................................................... 15
+1.3 Aircraft Information ................................................................................................ 16
+1.3.1 Boeing B-17G ................................................................................................. 16
+1.3.2 Bell P-63F ........................................................................................................ 18
+1.4 Meteorological Information .................................................................................. 19
+1.5 Airport Information ................................................................................................ 19
+1.6 Wreckage and Impact Information ...................................................................... 19
+1.7 Medical and Pathological Information ................................................................ 20
+1.7.1 Boeing B-17G Crew ...................................................................................... 20
+1.7.2 Bell P-63F Pilot ............................................................................................... 22
+1.8 Tests and Research ................................................................................................ 23
+1.8.1 Video Study .................................................................................................... 23
+1.8.2 Aircraft Performance Study .......................................................................... 24
+1.8.3 Audio Recording Timing Correlation.......................................................... 32
+1.8.4 Electronic Recorder Devices ........................................................................ 33
+1.9 Organizational and Management Information ................................................... 33
+1.9.1 Commemorative Air Force ........................................................................... 33
+1.9.2 Air Boss ........................................................................................................... 39
+ii
+
+Aviation Investigation Report
+AIR-24-07
+1.9.3 Air Show Safety Oversight ............................................................................ 45
+1.10 Additional Information ...................................................................................... 49
+1.10.1 Other Air Show Event Organizers’ Aircraft Separation
+Strategies for Warbird Performances ..................................................... 49
+1.10.2 Postaccident Actions ................................................................................ 50
+2. Analysis................................................................................................... 53
+2.1 Introduction ............................................................................................................ 53
+2.2 Accident Sequence ................................................................................................ 55
+2.2.1 Pilots’ Limited Ability to See and Avoid ...................................................... 57
+2.2.2 Ineffective Aircraft Deconfliction Strategy .................................................. 59
+2.3 Air Show Safety Oversight .................................................................................... 60
+2.3.1 Participants Safety Briefing Requirements ................................................. 61
+2.3.2 Need for Administrative Controls and Risk Assessment .......................... 62
+2.3.3 Need for Air Boss Oversight ........................................................................ 65
+2.4 Air Show Safety Culture ......................................................................................... 68
+2.4.1 Commemorative Air Force ........................................................................... 68
+2.4.2 Role of International Council of Air Shows Inc. .......................................... 72
+3. Conclusions ............................................................................................ 74
+3.1 Findings ................................................................................................................... 74
+3.2 Probable Cause ...................................................................................................... 76
+4. Recommendations .................................................................................. 77
+4.1 New Recommendations ........................................................................................ 77
+Appendixes ......................................................................................................... 79
+Appendix A: Investigation ............................................................................................ 79
+Appendix B: Consolidated Recommendation Information ..................................... 80
+References........................................................................................................... 83
+iii
+
+Aviation Investigation Report
+AIR-24-07
+Figures
+Figure 1. Relative locations of the runway, show lines, crowd, and air boss. ................. 2
+Figure 2. Positions and altitudes (in agl) of seven of the eight airplanes in the
+performance and one revenue ride flight airplane at 1320:00. ....................................... 5
+Figure 3. Position and altitude of each airplane at 1320:22. ............................................ 7
+Figure 4. Position and altitude of each airplane at 1320:37. ............................................ 8
+Figure 5. Position and altitude of each airplane at 1321:08. ............................................ 9
+Figure 6. Position and altitude of each airplane at 1321:45. .......................................... 10
+Figure 7. Oblique view (looking southwest) showing the airplanes’ descending flight
+paths during the final turn up to 1321:53. ........................................................................ 11
+Figure 8. Photograph showing, from left to right, the accident Boeing B-17G, accident
+Bell P-63F, and position 2 bomber before the collision. (Source: Gary Daniels) ......... 12
+Figure 9. Accident Boeing B-17G. (Source: CAF) ............................................................ 17
+Figure 10. Accident Bell P-63F. (Source: CAF) ................................................................. 18
+Figure 11. Video frame recorded 0.63 seconds before the collision showing the Bell
+P-63F in a left turn behind and off the left side of the Boeing B-17G. The revenue ride
+flight Boeing PT-17 is on the runway. ................................................................................ 24
+Figure 12. Boeing B-17G flight path (blue) and fighter formation flight path (yellow)
+during the performance. ..................................................................................................... 25
+Figure 13. Bomber airplane altitudes and airspeeds from 1314 to 1322. .................... 26
+Figure 14. Fighter airplane altitudes and airspeeds from 1314 to 1322. ...................... 27
+Figure 15. Simulation view from the flight deck left side windows of the model Boeing
+B-17 at 1321:39, showing the respective locations of the three model fighters. ......... 29
+Figure 16. Pilot’s forward (top image) and left side (bottom image) simulation views
+from the model Boeing B-17 flight deck at 1321:53, showing the respective locations
+of the three model fighters. ................................................................................................. 30
+Figure 17. Simulation view from the flight deck of the model Bell P-63 at 1321:50,
+showing the locations of the model Boeing B-17 and the two other model fighters. . 31
+iv
+
+Aviation Investigation Report
+AIR-24-07
+Acronyms and Abbreviations
+AAIP Approved Airplane Inspection Program
+ABRP Air Boss Recognition Program
+CAF Commemorative Air Force
+CFR Code of Federal Regulations
+FAA Federal Aviation Administration
+ICARUS ICAS Confidential Reporting System
+ICAS International Council of Air Shows Inc.
+IIC inspector-in-charge
+KRBD Dallas Executive Airport
+LHFE living history flight experience
+LOA letter of authorization
+msl mean sea level
+NTSB National Transportation Safety Board
+PIC pilot-in-command
+SAFO safety alert for operators
+SMS safety management system
+SWIFS Southwestern Institute of Forensic Sciences
+v
+
+Aviation Investigation Report
+AIR-24-07
+Executive Summary
+What Happened
+On November 12, 2022, about 1322 central standard time, a Boeing B-17G,
+N7227C, and a Bell P-63F, N6763, collided in flight during a performance at the
+Commemorative Air Force’s (CAF) Wings Over Dallas air show at Dallas Executive
+Airport (KRBD) in Dallas, Texas. The pilot, copilot, flight engineer, and two scanners
+on board the Boeing B-17G and the pilot of the Bell P-63F were fatally injured, and
+both airplanes were destroyed. No injuries to persons on the ground were reported.
+Both accident airplanes (and six other historic, former military airplanes that were
+airborne as part of the same performance) were operated by the CAF under the
+provisions of Title 14 Code of Federal Regulations (CFR) Part 91 and a certificate of
+waiver for the air show.
+The Boeing B-17G was in the first position of five historic bomber airplanes
+flying as solo aircraft in trail, and the Bell P-63F was in the last position of three
+historic fighter airplanes flying in formation. The takeoffs, repositioning turns, and
+passes of the eight airplanes in the accident performance were directed in real time
+via radio by the air boss, who had primary responsibility for the control of air show
+operations.
+Just before the accident, the bomber group and the fighter formation
+completed a pass in front of the crowd of spectators from show right to left (that is,
+right to left from the crowd’s perspective). The airplanes were setting up for the next
+pass when the accident occurred. This pass was intended to be from show left to right
+in front of the crowd, and the air boss issued directives for the fighter formation to
+pass off the left side of the bomber group airplanes and then cross in front of them.
+The position data showed that the flight path for the fighter lead and position 2
+fighter airplanes passed the bomber airplanes off the bombers’ left side before
+crossing in front of the Boeing B-17G but that the Bell P-63F’s flight path converged
+with that of the Boeing B-17G. Video and photographic evidence captured by
+witnesses on the ground showed that the Bell P-63F was in a descending, left-banked
+turn when it struck the left side of the Boeing B-17G near the trailing edge of the left
+wing, then both airplanes broke apart in flight.
+What We Found
+The National Transportation Safety Board (NTSB) found that the accident pilots
+had limited ability to see and avoid each other’s airplane due to flight path geometry,
+out-the-window view obscuration by aircraft structures, the attention demands
+associated with the air show performance, and the limitations of human performance
+that can make it difficult to see another aircraft.
+vi
+
+Aviation Investigation Report
+AIR-24-07
+We also found that the air boss’s deconfliction strategy for the accident
+performance, which relied on the air boss’s real-time, predictive assessment of
+airplane locations and the ability of the CAF pilots to see and avoid other airplanes,
+was ineffective because the flight paths of the Boeing B-17G and the Bell P-63F
+converged as each pilot maneuvered to set up for the pass.
+We found evidence that the air show guidance provided by the Federal
+Aviation Administration (FAA) and the International Council of Air Shows Inc. (ICAS)
+did not adequately address the need to better mitigate the collision risks associated
+with air boss–directed performances involving multiple, dissimilar aircraft. We
+determined that a lack of administrative controls and a documented risk assessment
+process for ensuring air show aircraft separation directly contributed to the in-flight
+collision.
+We found that, unlike the FAA regulatory requirements for pilots and air traffic
+controllers, air bosses are not subject to any recurrent evaluations, and there are no
+standardized communications terms for air boss–provided directives to ensure the
+clarity and brevity of radio communications. Further, the lack of guidance and
+required surveillance tasks for FAA inspectors assigned to air shows related to the
+direct observation of an air boss’s performance represents a missed opportunity for
+inspectors to detect and provide debriefing feedback to address
+performance-related safety issues.
+We also found that the CAF’s lack of a strong, clearly defined safety risk
+assessment plan resulted in air show production decisions that were not
+systematically developed to determine acceptable levels of risk and were susceptible
+to influences unrelated to safety.
+We determined that the probable cause of this accident was the air boss’s and
+air show event organizer’s lack of an adequate, prebriefed aircraft separation plan for
+the air show performance, relying instead on the air boss’s real-time deconfliction
+directives and the see-and-avoid strategy for collision avoidance, which allowed for
+the loss of separation between the Boeing B-17G and the Bell P-63F airplanes. Also
+causal was the diminished ability of the accident pilots to see and avoid the other
+aircraft due to flight path geometry, out-the-window view obscuration by aircraft
+structures, attention demands associated with the air show performance, and the
+inherent limitations of human performance that can make it difficult to see another
+aircraft. Contributing to the accident were the lack of FAA guidance for air bosses
+and air show event organizers on developing plans and performing risk assessments
+that ensure the separation of aircraft that are not part of an approved maneuvers
+package and the lack of FAA requirements and guidance for recurrent evaluations of
+air bosses and direct surveillance of their performance.
+vii
+
+Aviation Investigation Report
+AIR-24-07
+What We Recommended
+As a result of this investigation, we made two new recommendations each to
+the FAA and to the ICAS. We recommended that they work together with other air
+show industry stakeholders to develop standardized terms to help ensure the clarity
+and brevity of air boss–provided directives to performers. We also recommended that
+they both work with the warbird community to establish standard operating
+procedures for air show event organizers and air bosses that include applying
+effective administrative controls to ensure air show aircraft separation, performing a
+safety risk assessment for each performance, and completing a daily debriefing with
+continuous feedback to the FAA and the ICAS to address any identified deficiencies.
+We also made two new recommendations to the FAA to require recurrent air
+boss evaluations as part of the letter of authorization renewal process and to revise
+FAA Order 8900.1 to provide guidance and a job aid for FAA inspectors who
+evaluate an air boss’s performance, including requirements for the FAA inspector-in-
+charge of an air show to observe an air boss’s performance visually and on the air
+boss radio frequency and provide appropriate feedback during the air show
+debriefing. We made one new recommendation to the CAF to establish a safety risk
+assessment process for identifying and mitigating risks, tracking safety hazards, and
+routinely assessing trend data to include policies and procedures that specifically
+address the unique aspects of air show operations.
+viii
+
+Aviation Investigation Report
+AIR-24-07
+1. Factual Information
+1.1 History of Flight
+On November 12, 2022, about 1322 central standard time, a Boeing B-17G
+airplane, N7227C, and a Bell P-63F airplane, N6763, collided in flight during a
+performance at the Commemorative Air Force’s (CAF) Wings Over Dallas air show at
+Dallas Executive Airport (KRBD) in Dallas, Texas.1 The pilot, copilot, flight engineer,
+and two scanners on board the Boeing B-17G and the pilot of the Bell P-63F were
+fatally injured, and both airplanes were destroyed. No injuries to persons on the
+ground were reported. Both accident airplanes (and six other historic, former military
+airplanes that were airborne as part of the same performance) were operated by the
+CAF under the provisions of Title 14 Code of Federal Regulations (CFR) Part 91 and a
+certificate of waiver for the air show. The Boeing B-17G and the Bell P-63F departed
+from KRBD about 1310 and 1315, respectively, for the local flights.
+The air show started at 1050, and the accident performance (listed on the
+schedule as “warbirds,” a common name for historic, former military airplanes) was
+the seventh performance on the schedule. As part of the performance, the Boeing
+B-17G was in the lead position of five historic bomber airplanes flying as solo aircraft
+in trail, and the Bell P-63F was in the last position of three historic fighter airplanes
+flying in formation.2 The takeoffs, repositioning turns, and passes of the eight
+airplanes in the accident performance were directed by the air boss, who had primary
+responsibility for the control of air show operations, via radio on the air show radio
+frequency.3
+1 (a.) Visit ntsb.gov to find additional information in the public docket for this NTSB accident
+investigation (case CEN23MA034). Use the CAROL Query to search safety recommendations and
+investigations. (b.) Different organizations may use different spellings for certain aviation event–specific
+terms (for example, “air show” versus “airshow”). The spellings used in this report are consistent with
+those used in Federal Aviation Administration (FAA) inspector guidance related to oversight of air
+shows and other aviation events (FAA 2020a).
+2 “Formation flight” (like the three-ship fighter formation) refers to two or more aircraft under
+the command of a flight lead that are flown solely with reference to another aircraft in the formation.
+Performers who fly in formation are subject to certain credentialing requirements (see section 1.2.2)
+and may fly within 500 ft of other aircraft in the formation (FAA 2020a, 11 and 12). “In trail” refers to
+aircraft that are flown behind and solely with reference to another aircraft. Performers who fly multiple
+solo aircraft in trail (like the bomber group) fly each airplane independently (that is, not part of a
+formation) and must maintain more than 500 ft lateral separation from the aircraft they are following.
+3 The air boss briefed general aspects of the performance with the participants before the
+show during the required Air Show Participants Safety Briefing. (See section 1.9.2.1 for more
+information.)
+1
+
+Aviation Investigation Report
+AIR-24-07
+Before the accident, the bomber group completed multiple passes in front of
+the crowd of spectators and was joined by the fighter formation, which completed a
+pass and other maneuvers, as directed by the air boss. Generally, the previously
+completed passes were flown along the 1,000-ft show line (that is, the further of two
+designated lines parallel to runway 13/31 spaced 1,000 ft and 500 ft laterally from the
+crowd), as directed by the air boss. (See section 1.8.2.1 and figure 12 for the bomber
+group’s and fighter formation’s previous passes.) The air boss stood atop a set of air
+stairs on the field that provided him with an unobstructed view of the flying display
+area and beyond (see figure 1).
+Figure 1. Relative locations of the runway, show lines, crowd, and air boss.
+The airplanes’ altitudes and airspeeds varied throughout the performance,
+which included descending passes from the bomber group (to demonstrate historic
+bombing mission profiles), fighter formation maneuvers (to demonstrate the historic
+role of fighter airplanes during such missions), the coordinated detonation of ground
+pyrotechnics (to simulate historic bomb detonations and strafing fire), and a real-time
+narration (from an air show announcer on the ground).
+The air boss directed all these activities and ground movements (taxi, takeoff,
+and landing clearances) using radio call signs to address individual airplanes, the
+bomber group, or the fighter formation, as applicable. According to a CAF pilot,
+typically, the flight leads (in this case, one for the bomber group and one for the
+2
+
+Aviation Investigation Report
+AIR-24-07
+fighter formation) communicate with the air boss and set the flight patterns (in this
+case, in response to air boss directives) that the other airplanes in the group will
+follow, and the trailing airplanes in the group “just need to listen to know what’s
+coming next, but they do not respond” on the radio (see table 1).
+Table 1. Performing airplanes, positions preceding the accident, and radio call signs.
+Bomber airplanes Group
+Radio call signs
+(Common name) position
+Boeing B-17G Bomber “B-17,” “Fortress,” “Texas Raiders,” or “Raiders”
+(Flying Fortress) lead (“bombers” when referring to bomber group)
+Consolidated B-24
+2 “B-24” or “Diamond Lil”
+(Liberator)
+Curtiss Wright SB2C
+3 “SB2C” or “Helldiver”
+(Helldiver)
+North American B-25J “Devil Dog”
+4
+(Mitchell) (“B-25s” when referring to both B-25Js)
+North American B-25J
+5 “Yellow Rose”
+(Mitchell)
+Fighter airplanes Formation
+Radio call signs
+(Common name) position
+“Gunfighter”
+North American P-51D Fighter
+(“American fighters” or “fighters”
+(Mustang) lead
+when referring to fighter formation)
+North American P-51C
+2 No noted preaccident radio communications
+(Mustang)
+Bell P-63F
+3 No noted preaccident radio communications
+(Kingcobra)
+In addition to the eight airborne airplanes in the performance, the air boss
+directed the ground and airborne movements of two other CAF-operated airplanes
+within 3 minutes before the accident. At 1319:32, the air boss cleared the crew of a
+CAF-operated Boeing B-29 (historic, former military bomber airplane, commonly
+called a Superfortress) to taxi to runway 31. The Boeing B-29 was scheduled to take
+off about 1320 and join the performance, but it had not yet departed when the
+accident occurred. At 1320:43, the air boss cleared the pilot of a CAF-operated
+Boeing PT-17 (historic, former military, two-seat, trainer airplane, commonly called a
+Stearman) to land on runway 31. The Boeing PT-17 flight was the second of two
+CAF-operated revenue passenger rides operated during, but not part of, the
+accident performance.4
+4 The first revenue ride airplane, a Beechcraft T-34B (historic, former military, two-seat, trainer
+airplane, commonly called a Mentor) departed about 1259:35 and returned for landing on runway 31,
+as cleared by the air boss, about 7 minutes before the accident (see section 1.9.1.4 for more
+information).
+3
+
+Aviation Investigation Report
+AIR-24-07
+Automatic dependent surveillance-broadcast (ADS-B) ground track data were
+available for seven of the eight airplanes in the performance (all but the bomber in
+position 5), as well as for the CAF-operated Boeing PT-17.5 A National Transportation
+Safety Board (NTSB) aircraft performance study used the available position data to
+plot the airplanes’ flight paths and determine their groundspeeds and altitudes in
+feet above ground level (agl) (see section 1.8.2.1 for more information).
+The performance study showed that, at 1320, the accident Boeing B-17G had
+begun a pass from show right to left (that is, right to left from the crowd’s
+perspective), heading southeast, parallel to runway 13, with the other bombers
+spaced variously in trail. The fighter formation with the accident Bell P-63F was
+inbound from the northwest (see figure 2).
+5 No data were available for the bomber in position 5, which was flown in trail of the bomber in
+position 4.
+4
+
+Aviation Investigation Report
+AIR-24-07
+Figure 2. Positions and altitudes (in agl) of seven of the eight airplanes in the performance
+and one revenue ride flight airplane at 1320:00.
+Note: Their future flight paths for the next 2 minutes before the collision are shown in gray.
+According to the recorded audio for the air show radio frequency, between
+about 1319:47 and 1320:10, the air boss provided instructions to the bomber group
+and the fighter formation about the pass, repositioning turns, and intended next
+5
+
+Aviation Investigation Report
+AIR-24-07
+pass.6 The air boss addressed the accident Boeing B-17G, stating, “B-17, after this
+pass, right 90 left 270,” and a crewmember replied, “Raiders, right dog bone.”7
+Beginning about 1319:57, the air boss issued three back-to-back directives to
+the fighter formation, stating, “Fighters, you can walk your way up to the B-17, I’m
+going to break y’all out after this, um—,” followed by, “you’re going to end up
+breaking left,” then, “so, you’re going to follow the bombers to the right 90 out, and
+then you’re going to roll back in left and be on the 500-ft line if y’all want to set up for
+an echelon for a break so y’all can get in trail.”8 At 1320:10, the fighter lead pilot (in
+the North American P-51D) replied, “Okay, uh, say again for the fighters, that was not
+clear.” The air boss stated, “Uh, fighters go echelon, uh, right, go to echelon right,”
+and, at 1320:18, the fighter lead pilot responded, “Okay, fighters, echelon right.”
+At 1320:22, the air boss addressed two of the bombers, stating, “Okay, B-24
+[the Consolidated B-24 in bomber position 2], if you could give me a couple of mi—,
+uh, inches and close the gap, I’d appreciate it. B-17, let’s keep the turn a little flat for
+me.” The audio recorded an unintelligible transmission, then the air boss stated, “Just
+a little bit. When you come back through, you’re coming through on the 1,000-ft line.”
+A crewmember from the Boeing B-17G replied, “Roger.” The performance study
+showed that, about this time, the Boeing B-17G was entering the right 90° portion of
+the repositioning turns, and the Bell P-63F continued inbound with the fighter
+formation (see figure 3).
+6 Communications quoted in this report are based on the NTSB’s transcript of the audio
+recording. Times are rounded to the nearest second. The time of some communications could not be
+determined from the recording but could be estimated based on their sequence between
+communications for which the time could be determined (see section 1.8.3 for more information).
+7 The air boss’s turn directives and the term “right dog bone” refer to a repositioning maneuver
+involving a right 90° turn followed by a left 270° turn. Other repositioning turns directed during the
+performance included racetrack turns, which involve making two 180° turns (separated by a period of
+straight flight) in the same direction (see section 1.8.2.1 for more information).
+8 Echelon right refers to a formation in which each airplane is positioned behind and to the
+right of the airplane in front of it (FAST 2016, 10).
+6
+
+Aviation Investigation Report
+AIR-24-07
+Figure 3. Position and altitude of each airplane at 1320:22.
+The performance study determined that, throughout much of the subsequent
+maneuvering turns, the Boeing B-17G climbed to and maintained an altitude
+between about 800 to 1,000 ft agl and an airspeed below about 130 kts.
+At 1320:37, the air boss stated, “American fighters should be in a right turn.
+You’re going to follow the bombers out on a right 90 turn, and then I’m going to roll
+you back in front of them.” The air boss then cleared the Boeing PT-17 revenue ride
+flight to land on runway 31, and the pilot of that airplane acknowledged. The
+performance study showed that, about this time, the accident Boeing B-17G had
+completed the right 90° turn, the fighter formation was passing the trailing bombers,
+and the Boeing PT-17 was approaching the airport from the southeast (see figure 4).
+7
+
+Aviation Investigation Report
+AIR-24-07
+Figure 4. Position and altitude of each airplane at 1320:37.
+The performance study determined that the fighter formation entered the right
+90° turn at 1320:45 at altitudes between 1,000 and 1,200 ft agl and climbing and
+airspeeds of about 160 kts and slowing as they climbed.
+At 1320:51, the air boss stated, “There ya go, B-17. Yup. Gentle flat roll it
+around 1,000-ft line,” and a Boeing B-17G crewmember acknowledged, “1,000-ft line
+for Raiders.” At 1320:58, the air boss stated, “Fighters, roll it back to the left. Lead
+fighter, roll it back to the left, and y’all get in trail,” and the fighter lead pilot replied,
+“Okay, fighters in trail.” The air boss continued, “Yeah, and Gunfighter, look out your
+left side and find the B-17,” and the fighter lead pilot replied, “We see the B-17.” The
+performance study showed that, at 1321:08, the fighter formation was entering the
+left 270° turn, having flown past and above the position 3 bomber, with the position 2
+8
+
+Aviation Investigation Report
+AIR-24-07
+bomber and the Boeing B-17G to the fighter pilots’ left, also at lower altitudes than
+the fighters (see figure 5).9
+Figure 5. Position and altitude of each airplane at 1321:08.
+At 1321:10, the air boss stated, “Yeah, there you go. Roll it back to the left. I
+want you to get in front of the bombers. I want you to come through on the outside
+edge of the runway,” and the fighter lead pilot replied, “Okay.” The air boss then
+provided wind information, stating that the wind was from 330° at 12 kts with gusts to
+18 kts.
+The performance study determined that the airplanes in the fighter formation
+climbed to about 1,600 ft agl while making a tighter left turn than the bomber group
+airplanes, which stayed below 1,000 ft agl. The fighter formation reached the apex of
+9 See section 1.8.2.1 for more information about each airplane’s respective altitude.
+9
+
+Aviation Investigation Report
+AIR-24-07
+their turn about 1321:20, and their airspeeds increased from about 150 kts to 230 kts
+as they subsequently descended in trail off the fighter lead.
+At 1321:31 (during the fighters’ descent), the air boss stated, “Nice job,
+fighters, you’re coming through first. That will work out. B-17 and all the bombers on
+the 1,000-ft line,” then asked, “B-17, you got the fighters in front of you off your left?”
+There was an unintelligible transmission before the air boss stated at 1321:45, “Nice
+job, fighters, come on through.” The performance study determined that, at the time,
+the fighter lead had passed off the Boeing B-17G’s left side and was ahead of it, the
+fighter in position 2 was passing off its left side, and the Bell P-63F was in trail (see
+figure 6).
+Figure 6. Position and altitude of each airplane at 1321:45.
+10
+
+Aviation Investigation Report
+AIR-24-07
+The performance study determined that the fighter lead and the fighter in
+position 2 were coming onto the 1,000-ft show line.10 The Bell P-63F’s flight path
+closely followed the fighter in position 2 until about 1321:47, when its flight path no
+longer curved toward the 1,000-ft show line but became somewhat straighter. The
+Bell P-63F was descending at a rate of 1,500 ft per minute, and its airspeed was about
+230 kts. The Boeing B-17G’s flight path was curving toward the 1,000-ft show line.
+Position data for the Boeing B-17G and the Bell P-63F ended at 1321:53, when
+the airplanes had a lateral separation of about 150 ft at nearly the same altitude. An
+oblique view plot from the performance study shows the airplanes’ relative positions
+throughout the final turn and descent that preceded the collision (see figure 7).
+Figure 7. Oblique view (looking southwest) showing the airplanes’ descending flight paths
+during the final turn up to 1321:53.
+10 According to postaccident interview summaries, the fighter lead pilot stated that he believed
+that the air boss told the fighters to fly down the 1,000-ft show line (see section 1.9.2.3 for more
+information).
+11
+
+Aviation Investigation Report
+AIR-24-07
+A witness in the crowd with a hand-held camera captured video that showed
+the collision. The video showed that each of the three fighters approached the show
+lines from a left turn, that is, in a left roll with flight deck canopies angled away from
+the Boeing B-17G (see section 1.8.2.2 for more information). A photograph taken by
+another witness in the crowd showed the relative positions of the Boeing B-17G, Bell
+P-63F, and the position 2 bomber before the collision (see figure 8).
+Figure 8. Photograph showing, from left to right, the accident Boeing B-17G, accident Bell
+P-63F, and position 2 bomber before the collision. (Source: Gary Daniels)
+Note: The Bell P-63F is in a left turn behind and off the left side of the Boeing B-17G and is ahead of
+the position 2 bomber.
+The video showed that the Bell P-63F airplane struck the Boeing B-17G near
+the trailing edge of the left wing, then both airplanes broke apart in flight. A fire
+erupted in the wing center section of the Boeing B-17G as it descended, and the
+airplane exploded upon ground impact. The Bell P-63F descended and collided with
+terrain. Both wreckages came to rest in a grassy area on the airport property, south of
+the approach end of runway 31. Within a few seconds after the collision, the air boss
+stated, “Knock it off, knock it off. Roll the trucks,” indicating that the other performers
+were to proceed to their prebriefed holding patterns and that emergency response
+was needed (see section 1.9.2.1). The video showed that the Boeing PT-17 landed at
+12
+
+Aviation Investigation Report
+AIR-24-07
+nearly the same time as the midair collision and that wreckage debris fell near its
+location.
+1.2 Personnel Information
+1.2.1 Boeing B-17G Crew
+1.2.1.1 Pilot
+The pilot (who occupied the left seat in the accident airplane), age 66, held an
+airline transport pilot certificate with a rating for multiengine land airplanes and
+commercial pilot privileges for gliders and single-engine land and sea airplanes. He
+also held a flight instructor certificate for single-engine, multiengine, and instrument
+airplanes and a flight engineer certificate for turbojet-powered airplanes. He held
+type ratings for 12 different airplanes, including the Boeing B-17, DC-3, and modern
+transport-category jets. He held an FAA first-class medical certificate dated
+September 2, 2022, with the limitation that he must have available glasses for near
+vision.
+Based on CAF and FAA records, the pilot accumulated about 28,000 hours of
+flight experience with about 24,000 hours of pilot-in-command (PIC) time. He had
+about 500 hours of flight experience in the Boeing B-17G with about 450 hours as
+PIC. In the 30 days before the accident, he had flown 7.1 hours in CAF airplanes,
+1.7 hours of which were in the Boeing B-17G.
+According to CAF records, the pilot’s most recent ground and flight training
+were completed in September 2022, his most recent crew resource management
+training was completed in January 2022, and his most recent flight review was
+completed in May 2021. According to the CAF director of operations, the pilot was
+an active member of the CAF’s standardization and safety committee.
+1.2.1.2 Copilot
+The copilot (who occupied the right seat in the accident airplane), age 67, held
+an airline transport pilot certificate with a rating for multiengine land airplanes and
+commercial pilot privileges for single-engine land airplanes, helicopters, and glider
+towing. He also held a flight instructor certificate for single-engine, multiengine, and
+instrument airplanes, a flight engineer certificate for turbojet-powered airplanes, and
+an airframe and powerplant mechanic certificate. He held type ratings for six different
+airplanes, including modern transport-category jets. He held an FAA first-class
+medical certificate dated October 21, 2022, with the limitations that he must wear
+corrective lenses and possess glasses for near and intermediate vision.
+13
+
+Aviation Investigation Report
+AIR-24-07
+Based on CAF and FAA records, the copilot accumulated about 25,300 hours
+of flight experience with about 20,000 hours of PIC time. He had about 90 hours of
+flight experience in Boeing B-17 airplanes. In the 30 days before the accident, he had
+flown 0.3 hours in the CAF Boeing B-17G (with no time logged in any other CAF
+airplanes during that period).
+According to CAF records, the copilot’s most recent flight training and flight
+review were completed in March 2022, and his most recent ground and crew
+resource management training were completed in January 2022.
+1.2.1.3 Flight Engineer
+The flight engineer’s most recent aviation medical examination was August 25,
+2022. He was issued a second-class medical certificate limited by a requirement to
+wear corrective lenses.
+1.2.1.4 Scanners
+The two scanners on board the Boeing B-17G were CAF members. Neither
+were pilots nor had medical certification files, and no such certifications were
+required. According to the CAF’s loadmaster operations manual, the in-flight
+responsibilities of a scanner on the Boeing B-17G primarily involved aircraft
+safety-related tasks, including visually monitoring the engines and tailwheel for
+operational anomalies and alerting the flight crew of “anything unusual.”11 According
+to the CAF’s chief aviation officer, typically, only one scanner would have been on
+board the accident airplane, but the PIC could choose to have more. He said that,
+with two scanners, one would be on each side of the airplane, looking out the side
+door (behind each wing).12 He said that “in a dynamic air show environment where
+planes are going left and right, it’s important to have people in the back looking out.”
+The CAF’s loadmaster manual and ground training agenda did not contain any
+specific procedures or training for scanners regarding looking for or alerting the
+flight crew about potential traffic conflicts.
+The CAF director of operations stated that he served in the role of scanner on
+board the accident airplane when it was flown in an earlier performance that day. He
+said that he did so to familiarize himself with how that performance was operated and
+11 Per the manual, each scanner on the Boeing B-17G would use a microphone-equipped
+headset to communicate with the flight crew via the airplane’s main intercom.
+12 The investigation did not determine where each scanner was seated during the accident
+flight.
+14
+
+Aviation Investigation Report
+AIR-24-07
+to “[look] for traffic in the aircraft.” He said that, for that flight, he was seated in the
+nose of the airplane.
+1.2.2 Bell P-63F Pilot
+The P-63F pilot, age 63, held an airline transport pilot certificate with a rating
+for multiengine land airplanes and commercial pilot privileges for single-engine land
+and sea airplanes and gliders. He held type ratings for five different airplanes,
+including modern midsize and transport-category jets, and was authorized for three
+experimental airplanes: the Bell P-63, Bell P-39, and Curtiss P-40 (visual flight rules
+operations only). He held an FAA first-class medical certificate dated November 1,
+2022, with no limitations.
+Based on CAF and FAA records, the pilot accumulated about 34,000 total
+hours, with about 20,000 hours as PIC and 108 hours in the Bell P-63F. In the 30 days
+before the accident, he had flown about 7.8 hours in CAF airplanes, 2.8 of which were
+in the Bell P-63F.
+According to CAF records, the pilot’s most recent flight review and annual
+check ride were completed in March 2022, and his most recent ground training was
+completed in February 2022.
+His most recent Statement of Aerobatic Competency card was issued
+September 19, 2022, with a proficiency expiration of December 31, 2023. Authorized
+aircraft included the Bell P-63F and the North American P-51 and T-6 (category C
+“piston warbirds”) to an altitude no lower than 250 ft agl (level 2) with an
+endorsement for solo aerobatics.13 He also held a CAF formation leader card with an
+expiration of December 31, 2022. According to the CAF director of operations, the
+pilot was also a CAF instructor and evaluator in the Bell P-63F and two other airplanes
+and was a CAF fighter evaluator pilot.
+1.2.3 Air Boss
+The air boss held a valid FAA-issued air boss letter of authorization (LOA) with
+a “recognized air boss, multiple venues” designation (the highest of four air boss
+13 The FAA requires a Statement of Aerobatic Competency card for all civil aircraft pilots who
+perform aerobatics or dynamic maneuvers at an air show, which are defined by certain pitch angle,
+bank angle, and other criteria (FAA 2020a, 22 and 53-54).
+15
+
+Aviation Investigation Report
+AIR-24-07
+levels), which authorized him to serve as an air boss of any complex, standard, or
+basic air show.14
+The air boss stated that he had 20 years of experience as an air boss, having
+done 16 air shows in the year before the accident and more than 300 during his
+career. He also held an air traffic control tower operator certificate and a private pilot
+certificate (neither of which were required for his LOA) with endorsements that
+included high performance, high altitude, tailwheel, and complex aircraft. He said
+that his control tower experience was in 2008 and 2009.
+According to the air boss, air boss qualification was a multi-year process that
+generally began with time observing other air bosses, discussing theory about
+different scenarios and building performance schedules, gaining experience on the
+radio while supervised by another air boss, and continuously building skills. He noted
+that, for some people, it can take 6 to 8 years, and others may do it in 4 years. He said
+that the LOA renewal process, which occurs every 3 years, did not require any
+evaluator observation but rather letters of recommendation and a minimum
+experience requirement (see section 1.9.3).
+1.3 Aircraft Information
+1.3.1 Boeing B-17G
+General Design
+The Boeing B-17G was a four-engine, high-altitude, heavy bomber originally
+developed in the 1930s for the US Army Air Corps. It was 74 ft long, 19 ft tall at the
+tail (when parked), and had a 104-ft wingspan and 43-ft horizontal stabilizer span.15
+The airplane’s primary and secondary wing, fuselage, and tail structures were of
+all-metal construction, and the ailerons, elevators, and rudder were fabric-covered
+aluminum structures. It was equipped with four Wright Cyclone R-1820 nine-cylinder,
+14 The FAA defines a complex air show as having any one of a variety of defined military
+demonstration elements (such as the participation of US, Canadian, or non-North American military
+demonstration teams or single-ship demonstrations); certain simulated military exercise
+demonstrations involving multiple aircraft with either contemporary military personnel or civilian
+reenactors; or aircraft operations on an additional active runway not dedicated to air show operations
+while the air show is being held (FAA 2019b, 3). The other three levels of air boss designation are
+“basic air boss,” “standard air boss,” and “recognized air boss, single venue,“ and the respective
+limitations for each are defined in the FAA inspector guidance (FAA 2019b, 6).
+15 Dimensions rounded to the nearest foot.
+16
+
+Aviation Investigation Report
+AIR-24-07
+reciprocating, radial engines and Hamilton Standard full-feathering, three-blade
+propellers. It had a gross weight of 54,000 lbs and a cruise airspeed of 158 kts.
+Accident Airplane
+The accident airplane was manufactured in 1944 under license from Boeing by
+the Douglas Aircraft Corporation in Long Beach, California, and delivered to the
+US Army Air Force on July 12, 1945. The airplane was transferred to the US Navy on
+July 20, 1945, and the CAF acquired it in 1967 (see figure 9).
+Figure 9. Accident Boeing B-17G. (Source: CAF)
+On the day of the accident, the airplane completed two revenue passenger
+flights and an earlier air show performance before the accident flight.
+The airplane was maintained under an Approved Airplane Inspection Program
+(AAIP) that was approved by the FAA on October 27, 2020, with a revision approved
+on February 25, 2021.16 The airplane had accrued 9,239 hours total time before the
+accident.
+A review of maintenance records revealed that the airplane’s most recent AAIP
+inspection (inspection No. 1 in a sequence of four) was completed on November 1,
+2022, at an airplane total time of 9,228 hours. Previous AAIP inspections were
+completed in September 2022 at a total time of 9,206.2 hours (inspection No. 4),
+August 2022 at a total time of 9,189.7 hours (inspection No. 3), and June 2022 at a
+16 The AAIP consisted of four sequenced inspections to be performed at 25-hour intervals. All
+four inspections were to be completed every 12 months and at least two were to be completed every
+6 months. The AAIP also listed six special inspections with varying compliance times.
+17
+
+Aviation Investigation Report
+AIR-24-07
+total time of 9,165.3 hours (inspection No. 2). Six specified special inspections were
+most recently completed in March 2022 at a total time of 9,116.7 hours.
+The maintenance records showed compliance with three FAA airworthiness
+directives that applied to wing structure inspections and two that applied to the
+propellers.
+1.3.2 Bell P-63F
+General Design
+The Bell P-63F was a single-engine, low-wing fighter airplane originally
+developed in the early 1940s for the US Army Air Forces. It was 33 ft long, 13 ft tall at
+the tail (when parked), and had a 38-ft wingspan. The airplane’s primary and
+secondary wing, fuselage, and tail structures were of all-metal construction, and the
+elevators and rudder were fabric-covered, aluminum-skeleton structures. It was
+equipped with an Allison V-1710-135 12-cylinder, reciprocating engine and an
+Aeroproducts constant-speed, four-blade propeller. It had a gross weight of 8,800 lbs
+and a maximum airspeed of 360 kts.
+Accident Airplane
+The accident airplane, designated a Bell P-63F-1-BE, was manufactured in
+1943 and was one of only two built. The CAF acquired it in 1981 (see figure 10).
+Figure 10. Accident Bell P-63F. (Source: CAF)
+The airplane arrived at KRBD on October 31 in preparation for the air show
+and was not flown again until the accident flight.
+18
+
+Aviation Investigation Report
+AIR-24-07
+The airplane was maintained as an experimental aircraft, and the operating
+limitations required a condition inspection every 12 months. The airplane had
+accrued 1,232 hours total time before the accident.17
+A review of maintenance records revealed the airplane’s most recent condition
+inspection was completed on March 23, 2022, at an airplane total time of
+1,211.6 hours, engine time of 217.3 hours, and propeller time of 171.7 hours. The
+records indicated that all applicable FAA airworthiness directives were checked for
+compliance through the date of the inspection.
+1.4 Meteorological Information
+Reported weather information for KRBD at 1253 included a temperature of
+48°F (9°C), dew point of 25°F (–4°C), wind from 350° at 14 kts gusting to 18 kts, sky
+condition clear below 12,000 ft, and visibility of 10 statute miles or more.
+1.5 Airport Information
+KRBD, elevation 661 ft, was located 6 miles southwest of Dallas. The airport
+was owned by the City of Dallas and was serviced by an FAA air traffic control tower.
+At the time of the accident, the air boss had control of the waivered air space for the
+air show, which included runway 13/31.
+At the time of the accident, KRBD had two paved landing surfaces for airplanes
+designated as runway 13/31 and 17/35. Runway 13/31 was 7,136 ft long and 100 ft
+wide, and runway 17/35 was 3,800 ft long and 150 ft wide. The air show used runway
+13/31 for takeoffs and landings.
+1.6 Wreckage and Impact Information
+Most of the wreckage from both airplanes was concentrated in three main
+locations (with smaller pieces scattered between them) in a grassy area south of the
+approach end of runway 31. Some smaller, lightweight debris was located on and
+adjacent to US Hwy 67, which ran along the southeast end of the airport property.
+The full debris field was about 1,880 ft long by about 410 ft wide, generally aligned
+on a magnetic heading of 320°. All major flight control components for both
+17 Maintenance records indicated that the airplane had accrued 1,211.6 hours total time, at
+212.3 hours Hobbs time, as of March 23, 2022. (A Hobbs meter is an instrument installed in an aircraft
+that tracks the elapsed time that the aircraft is being operated.) Flight logs showed that, for all flights
+since March 24, the duration of each flight was logged but the Hobbs time entered for each flight did
+not change. Adding the times for these flights to the March 23 totals resulted in 1,232 total hours.
+19
+
+Aviation Investigation Report
+AIR-24-07
+airplanes were located in the debris field. Photographic and video evidence showed
+that both airplanes were intact and operating as designed before the collision.
+The Boeing B-17G was found highly fragmented and with extensive fire
+damage to the forward half. Flight control continuity could not be established during
+examination due to the extent of the damage. The Bell P-63F was found in pieces with
+both wings, the propeller, gearbox, nose landing gear, and several parts of the
+fuselage separated from the airplane. Several pieces of the left wing’s leading edge
+had significant crushing and mechanical damage. All four propeller blades were
+bent, had leading edge damage, and showed chordwise scratches, gouges, and
+paint transfer marks. Examination of the recovered flight control components from
+the cockpit to their respective surfaces found no evidence of precollision anomaly or
+failure.
+An Avidyne IFD540 unit recovered from the Boeing B-17G and a Garmin
+GPSMAP 496 unit recovered from the Bell P-63F were sent to the NTSB’s Vehicle
+Recorders Laboratory for examination (see section 1.8.2).
+1.7 Medical and Pathological Information
+The NTSB reviewed the FAA medical case review pertaining to the flight
+crewmembers of both involved airplanes. The Southwestern Institute of Forensic
+Sciences (SWIFS) in Dallas performed autopsies for all six personnel on board both
+airplanes. Both the FAA Forensic Sciences laboratory and the SWIFS performed
+toxicological testing of postmortem specimens from all personnel.18
+According to the respective autopsy reports, the cause of death for each
+person was blunt force injuries. Evaluation for natural disease (such as of the brain,
+heart, and lungs) was limited in some cases due to injury severity.
+1.7.1 Boeing B-17G Crew
+1.7.1.1 Pilot
+The pilot’s most recent aviation medical examination (September 2, 2022)
+identified no significant issues, and he reported no medication use at that time.
+According to his autopsy report, his coronary arteries exhibited mild-to-moderate
+18 The FAA Forensic Sciences laboratory has the capability to test for around a thousand
+substances, including toxins, prescription and over-the-counter medications, and illicit drugs (FAA
+2019a).
+20
+
+Aviation Investigation Report
+AIR-24-07
+narrowing by plaque. The remainder of his limited autopsy, which included visual
+examination of the heart, did not identify any other significant natural disease.
+The FAA’s postmortem toxicological testing for the pilot detected meclizine in
+liver tissue and cavity blood; the SWIFS’s testing detected no tested-for substances in
+chest cavity blood. Meclizine is a sedating antihistamine medication available over
+the counter for prevention and treatment of dizziness, nausea, and vomiting
+associated with motion sickness or to treat vertigo symptoms caused by inner ear
+problems. It typically carries a label warning that it can cause drowsiness and may
+adversely affect a user’s ability to safely drive a motor vehicle or operate machinery.
+FAA guidance states that, for any drug with that warning (including any sedating
+antihistamine), a pilot who uses it should observe a waiting period for the drug to be
+cleared from circulation before flying (FAA 2023). According to the FAA medical case
+review for this accident, a pilot should not use meclizine within 36 hours before flying,
+and the FAA considers regular use by a pilot (as opposed to occasional use) to be
+unacceptable.
+1.7.1.2 Copilot
+At the copilot’s most recent aviation medical examination on October 21,
+2022, he reported using the prescription medication tamsulosin.19 He also reported a
+history of seasonal, environmental allergies and asthma, conditions for which he had
+received an FAA letter of eligibility for first-class medical certification in 1999. His
+autopsy, as limited, did not identify significant natural disease.
+The FAA’s postmortem toxicological testing for the copilot detected no
+ethanol in brain or liver tissue and detected tamsulosin and dextromethorphan in
+muscle and liver tissue. The SWIFS’s testing identified ethanol in a muscle tissue
+specimen at 0.027 g/hg.20 Ethanol, if consumed, can impair judgment, psychomotor
+performance, cognition, and vigilance (Cook 1997, 539-55).21 Consumption is not the
+only possible source of ethanol in postmortem specimens; ethanol can be produced
+by microbes in a person’s body after death.22 Tamsulosin is not generally considered
+impairing. Dextromethorphan, a cough suppressant medication that is available over
+19 Tamsulosin is a prescription medication used to treat the symptoms of an enlarged prostate
+or kidney stones.
+20 In tissue, concentrations in g/hg are approximately equivalent to concentrations in g/dL. Title
+14 CFR 91.17 prohibits pilots from flying with a blood ethanol level of 0.04 g/dL or greater.
+21 Ethanol is a type of alcohol and includes the intoxicating alcohol in beer, wine, and liquor.
+22 Such production is made more likely by extensive traumatic injury and can cause an affected
+toxicological specimen to test positive for ethanol while another specimen from the same person tests
+negative.
+21
+
+Aviation Investigation Report
+AIR-24-07
+the counter in a variety of cold and allergy products, is not typically impairing at levels
+associated with medicinal use. FAA guidance states that pilots who use it should
+observe a waiting period for the drug to be cleared from circulation before flying
+(FAA 2024b).
+1.7.1.3 Flight Engineer
+At the flight engineer’s most recent aviation medical examination on
+August 25, 2022, he reported a history of seasonal/environmental allergies and no
+medication use. His autopsy did not identify significant natural disease.
+The FAA’s postmortem toxicological testing detected ethanol at 0.023 g/hg in
+liver tissue, no ethanol in brain tissue or vitreous, and meclizine and naproxen in
+muscle and liver tissue. The SWIFS’s testing (which included testing for ethanol)
+detected no tested-for substances in blood and vitreous. Ethanol and meclizine are
+described in the previous section. Naproxen is not generally considered impairing.23
+1.7.1.4 Scanners
+As stated in section 1.2.1.4, no FAA medical certification was required for the
+individuals acting as scanners. Their respective autopsies, as limited, did not identify
+significant natural disease.
+The FAA and SWIFS performed postmortem toxicological testing of specimens
+from both scanners. For one scanner, rousouvastatin was detected.24 For the other
+scanner, diazepam (and its metabolite nordiazepam), diphenhydramine,
+chlorpheniramine, amlodipine, valsartan, metoprolol, and timolol were detected.25
+1.7.2 Bell P-63F Pilot
+The pilot’s most recent aviation medical examination (November 1, 2022)
+identified no significant issues, and he reported no medication use and no active
+23 Naproxen is an anti-inflammatory medication available over the counter and commonly used
+for control of pain and fever.
+24 Rosuvastatin is a prescription statin medication commonly used to control cholesterol and
+reduce cardiovascular risk. It is not generally considered impairing.
+25 Diazepam is a potentially impairing prescription benzodiazepine medication.
+Diphenhydramine and chlorpheniramine are potentially impairing sedating antihistamine medications
+available over the counter. Amlodipine, valsartan, and metoprolol are prescription medications that
+can be used to treat conditions including high blood pressure, and timolol is a prescription medication
+with uses including topical treatment of glaucoma. Amlodipine, valsartan, metoprolol, and timolol are
+not generally considered impairing.
+22
+
+Aviation Investigation Report
+AIR-24-07
+medical conditions at that time. According to his autopsy report, his coronary arteries
+exhibited mild-to-severe narrowing by plaque.26 The remainder of his limited
+autopsy, which included visual examination of heart muscle, did not identify any other
+significant natural disease.
+The FAA’s and the SWIFS’s postmortem toxicological testing for the pilot did
+not detect any tested-for substances in the urine (FAA) and muscle tissue (SWIFS).
+1.8 Tests and Research
+1.8.1 Video Study
+As stated in section 1.1, a witness in the crowd with a hand-held camera
+captured video that showed the collision. The NTSB performed a video study to
+estimate the aircraft orientation angles (roll, heading, and pitch) and altitudes (in agl)
+of the Boeing B-17G and Bell P-63F up to the time of the collision.
+The video began 4.5 seconds before the collision and captured imagery at a
+rate of 30 frames per second. The video analysis was performed from video time
+1.4 seconds to video time 4.5 seconds because the visibility of the Bell P-63F during
+the first 1.4 seconds of the video was poor. A still frame from the video at 0.63
+seconds before the collision showed the Bell P-63F in a left turn behind and off the
+left side of the Boeing B-17G (see figure 11).
+26 Specifically, 85–95% narrowing of the first diagonal branch artery, 50–75% narrowing of the
+right coronary artery, 25–60% narrowing of the left circumflex coronary artery, and 25–50% narrowing
+of the left anterior descending coronary artery.
+23
+
+Aviation Investigation Report
+AIR-24-07
+Figure 11. Video frame recorded 0.63 seconds before the collision showing the Bell P-63F in
+a left turn behind and off the left side of the Boeing B-17G. The revenue ride flight Boeing
+PT-17 is on the runway.
+The video analysis used a mathematical model of the optics of the camera that
+recorded the video. Accurate ADS-B ground track data for the two airplanes were
+used to verify the accuracy of the video-based ground-track locations and estimates
+of the airplanes’ altitudes (in agl) and roll angles. Airplane heading and pitch
+estimates were relatively less accurate because both airplanes were flying
+approximately toward the camera. The aircraft performance study used the aircraft
+orientation estimates to support the aircraft visibility simulation. (See section 1.8.2.2.)
+1.8.2 Aircraft Performance Study
+1.8.2.1 Flight Paths and Airspeeds
+As stated in section 1.1, ADS-B data were available for seven of the eight
+airplanes in the performance (all but the bomber in position 5), as well as the
+CAF-operated Boeing PT-17. Additional data were obtained from an Avidyne IFD540
+unit recovered from the Boeing B-17G. An NTSB aircraft performance study used the
+available data as the basis to plot the airplanes’ flight paths and determine their
+groundspeeds (which were used as a basis to calculate calibrated airspeeds using
+wind and meteorological conditions) and altitudes in feet agl. The airplane flight path
+information discussed in section 1.1 and shown in figures 2 through 7 came from the
+24
+
+Aviation Investigation Report
+AIR-24-07
+study. Figure 12 shows the flight paths of the Boeing B-17G and the fighter formation
+from takeoff to the time of the collision.
+Figure 12. Boeing B-17G flight path (blue) and fighter formation flight path (yellow) during
+the performance.
+Note: Repositioning maneuvers are labeled in sequence and with directional arrows.
+The study determined that, generally, during each pass, the pilots of the
+bombers (the four for which data were available) flew along the 1,000-ft show line,
+descending their airplanes to between 200 ft and 500 ft agl, then climbing during the
+repositioning turns, remaining below 1,000 ft agl. The Boeing B-17G was the slowest
+of the bombers, with airspeeds varying between 110 kts and 170 kts. The other
+bombers’ airspeeds varied between 130 kts and 190 kts. The crew of the
+Boeing B-17G made smaller, tighter repositioning turns than the other bombers to
+maintain its position as the group lead. Figure 13 shows the altitudes and airspeeds
+of the bombers from 1314 to 1322.
+25
+
+Aviation Investigation Report
+AIR-24-07
+Figure 13. Bomber airplane altitudes and airspeeds from 1314 to 1322.
+Note: The times that the bombers performed passes parallel to the runway are noted. (For
+comparison, the airspeeds and altitudes of the fighter airplanes are shown in gray.)
+The pilots in the fighter formation generally flew their airplanes between 800 ft
+and 1,300 ft agl. Each pilot kept their fighter airplane in close formation with their
+airspeeds evenly matched and maintained about 100 ft of altitude separation
+between each fighter airplane throughout most of the performance (with the pilot of
+the Bell P-63F flying the lowest of the three). While flying with the bomber group, the
+fighters’ airspeeds varied between 150 kts and 170 kts until the final turn for the next
+intended pass, for which the air boss directed the fighter formation pilots to “get in
+front of” the bombers (see figure 14).
+26
+
+Aviation Investigation Report
+AIR-24-07
+Figure 14. Fighter airplane altitudes and airspeeds from 1314 to 1322.
+Note: The times that the airplanes entered the show and performed passes parallel to the runway are
+noted. (For comparison, the airspeeds and altitudes of the bomber airplanes are shown in gray.)
+The study determined that the fighter lead passed left of the Boeing B-17G at
+1321:38, at a higher altitude and with about 1,600 ft lateral separation. At the time,
+the fighter lead was at 880 ft agl and 200 kts, and the Boeing B-17G was at 550 ft agl
+and 170 kts. The fighter in position 2 passed left of the Boeing B-17G at 1321:45, at a
+lower altitude and with about 1,000 ft lateral separation. At the time, the position 2
+fighter was at 320 ft agl at 220 kts, and the Boeing B-17G was at 425 ft agl and
+170 kts.
+The Bell P-63F was descending at a rate of 1,500 ft per minute, and its airspeed
+was just above 230 kts shortly before the collision. The Boeing B-17G was also
+descending, but at a slower rate, and its flight path was curving toward the 1,000-ft
+27
+
+Aviation Investigation Report
+AIR-24-07
+show line. As stated in section 1.1, the Bell P-63F’s flight path closely followed the
+fighter in position 2 until about 1321:47, when its flight path no longer curved toward
+the 1,000-ft show line but became somewhat straighter.
+1.8.2.2 Visibility Simulation
+As stated in section 1.8.1, the aircraft performance study used the video study’s
+estimates of the airplanes’ altitudes and roll angles to support a visibility simulation
+that evaluated what opportunity the pilots of the Boeing B-17G and Bell P-63F may
+have had to see the other airplane before the collision.27 The visibility study used
+flight simulation software to simulate the flights of the two accident airplanes and the
+other two fighter airplanes from 1321:20 until the collision.
+The visibility simulation determined that, at 1321:39 (which corresponds with
+the time that the air boss asked the Boeing B-17G crew if they could see the fighters
+in front and off to the left), the simulation showed that the model fighter lead and
+position 2 fighter were in view through the model Boeing B-17’s forward left side
+window, and the model Bell P-63 was visible through the aft left side window (which,
+in the Boeing B-17G, would be behind the pilot’s left shoulder) (see figure 15).
+27 What a pilot can see from the flight deck of an actual airplane depends on the pilot’s stature
+and positioning. For example, whether the pilot is taller or shorter or leaning forward versus sitting
+back affects how the airplane structure obscures the outside view.
+28
+
+Aviation Investigation Report
+AIR-24-07
+Figure 15. Simulation view from the flight deck left side windows of the model Boeing B-17
+at 1321:39, showing the respective locations of the three model fighters.
+From 1321:44 to 1321:52, the view of the model Bell P-63 was obscured by the
+structure between the model Boeing B-17’s forward and aft left side windows.28 The
+model Bell P-63 could not be seen again in any view from the model Boeing B-17’s
+flight deck until 1321:53, when it became rapidly visible from the left side windows
+(see figure 16).
+28 Examination of an exemplar Boeing B-17 flight deck showed that the pilot’s seat back was
+even with the structure between the forward and aft left side windows.
+29
+
+Aviation Investigation Report
+AIR-24-07
+Figure 16. Pilot’s forward (top image) and left side (bottom image) simulation views from the
+model Boeing B-17 flight deck at 1321:53, showing the respective locations of the three
+model fighters.
+30
+
+Aviation Investigation Report
+AIR-24-07
+The visibility simulation determined that the model Boeing B-17 was visible
+from the model Bell P-63’s flight deck from 1321:22 to 1321:24 (visible through the
+front window) and from 1321:34 to 1321:50 (visible through the right side window),
+but it was likely blocked from view from 1321:50 up to the collision at 1321:54 (see
+figure 17).29
+Figure 17. Simulation view from the flight deck of the model Bell P-63 at 1321:50, showing
+the locations of the model Boeing B-17 and the two other model fighters.
+The visibility simulation study also considered the accident airplanes’
+calculated closure rate and their respective azimuth angles to assess the relative
+motion of the Boeing B-17G at the times corresponding with when the model
+29 Examination of an exemplar Bell P-63 flight deck and a photograph of the accident airplane
+being taxied showed that the pilot’s seat back was about in line with the rear of the side window and
+the pilot’s eyes were level with the side window’s upper frame (in the front-to-back center of the side
+window). This indicates that much of the side window would be in the pilot’s peripheral vision such that
+looking out may require turning the head.
+31
+
+Aviation Investigation Report
+AIR-24-07
+Boeing B-17 was visible from the model Bell P-63’s flight deck.30 (Relative motion of
+an object in a person’s field of view affects whether the object is perceived. An object
+that moves with the observer such that it remains stationary in their view is less likely
+to be perceived compared to an object that is moving in the field of view.)
+From 1321:22 to 1321:24 (when the model Boeing B-17 was visible through
+the model Bell P-63’s front window), the Boeing B-17G’s azimuth angle (position in
+the observer’s field of view) was changing, but the closure rate (how quickly the two
+airplanes were moving toward each other) was near zero, indicating that it moved
+through the field of view but did not change size. From 1321:34 to 1321:50 (when the
+model Boeing B-17 was visible through the model Bell P-63’s right side window), the
+Boeing B-17G’s azimuth angle showed little change, indicating little relative motion,
+but the closure rate was increasing (consistent with the increasing size of the model
+Boeing B-17 in the simulation).
+Further, the simulation determined that the model Boeing B-17 (which was
+colored the same as the accident airplane’s paint scheme), when viewed from above,
+was difficult to discern against the simulated ground features at times due to the
+olive-drab color on most of the airplane’s upper fuselage and wings.31
+1.8.3 Audio Recording Timing Correlation
+The federal contract tower at KRBD provided a certified copy of the audio
+recording of the radio communications on the air show radio frequency from 1250 to
+1344. The recording consisted of one channel of audio information from the air show
+radio frequency and one channel of a spoken timecode (in universal coordinated
+time) every 20 seconds.
+An NTSB investigative group’s review of the certified recording identified
+inconsistencies in the time spacing of the recording’s timecode, which indicated that,
+during the production of the recording, long-duration silences had been removed (a
+30 Closure rate is how quickly the airplanes were moving toward each other, and azimuth angle
+refers to where the airplane is from the observer’s field of view. For example, an object directly ahead
+is at 0° of azimuth, an object to the right is at 90°, directly behind is at 180°, and to the left is at 270° of
+azimuth.
+31 A pilot’s visual acuity and focus greatly affect what is visible. On average, in ideal conditions,
+a person can see an object that spans at least 0.01° of their field of view when looking directly at the
+object (Velasco e Cruz 1990, 661). This is also influenced by the person’s age and focus, as well as the
+object’s color, contrast with the background, and illumination. At the time that the Boeing B-17G was
+used in military service, paint schemes that were olive drab above and neutral gray below were used to
+camouflage airplanes. The olive drab would visually blend with the ground when viewed from above,
+and the gray would visually blend with the sky when viewed from below.
+32
+
+Aviation Investigation Report
+AIR-24-07
+recording production feature used to condense audio recordings). The investigative
+group produced a transcript of the communications from the beginning of the
+recording to just after the accident. The transcript provided recording elapsed time
+for all communications in sequence and included local time for those
+communications that could be correlated with the spoken time code.
+1.8.4 Electronic Recorder Devices
+An impact- and fire-damaged Avidyne IFD540 (flight management system,
+GPS, and navigator) device was recovered from the Boeing B-17G and examined by
+the NTSB’s recorders laboratory. The laboratory extracted data from the device’s
+internal compact flash card, which included data for the accident flight. The data
+included groundspeed, ground track, altitude above mean sea level (msl), pressure
+altitude, and other parameters.
+An impact-damaged Garmin GPSMAP 496 (portable GPS with a built-in
+aviation navigation publications database) was recovered from the Bell P-63F and
+examined by the NTSB’s recorders laboratory. The laboratory extracted data from the
+device’s nonvolatile memory chip and determined that the device’s track log
+recording function had likely been inactive since 2014. No track log data for the
+accident flight were recorded on the device.
+1.9 Organizational and Management Information
+1.9.1 Commemorative Air Force
+The CAF, headquartered in Dallas, is a 501(c)(3) nonprofit “founded to acquire,
+restore, and preserve in flying condition a complete collection of combat aircraft
+which were flown by all military services of the United States, and selected aircraft of
+other nations, for the education and enjoyment of present and future generations of
+Americans.” The CAF’s mission is to “educate, inspire, and honor through flight and
+living history experiences” and its objectives included using its aircraft to “recreate,
+remind, and reinforce the lessons learned from the defining moments in American
+military aviation history” (CAF 2024).
+The FAA certificate of waiver for the Wings Over Dallas air show was issued to
+the CAF as the “event organizer,” which the FAA defines as “the person or agency
+responsible for the organization and conduct of the aviation event” (FAA 2020a, 11).
+The waiver listed the CAF’s air show chairman (see section 1.9.1.3.3) and the air boss
+(see section 1.9.2) as responsible persons.
+At the time of the accident, the CAF had a fleet of more than 175 aircraft across
+82 units within the United States, Canada, New Zealand, United Kingdom, France,
+33
+
+Aviation Investigation Report
+AIR-24-07
+and Switzerland. According to the CAF’s director of operations, CAF aircraft
+operations included air show performances, air tour rides, and positioning aircraft for
+static displays at various locations. The CAF’s chief aviation officer and the director of
+operations were among the CAF’s paid staff positions; all CAF pilots were volunteers
+and CAF members, which required payment of a membership fee.
+1.9.1.1 Pilot Standardization and Evaluation
+The CAF conducted US operations under 14 CFR Part 91. According to the
+director of operations, most CAF pilots were either current or retired airline or military
+pilots who had an understanding of and respect for professional aviation training. He
+said that most held either a commercial or airline transport pilot certificate.
+The director of operations maintained all CAF manuals, policies, and
+procedures online, and all CAF members (pilots, mechanics, and others) had access
+to them. These included a general operating manual with an appendix that contained
+CAF guidance on flying in air shows. The CAF’s standardization and safety committee
+monitored pilot performance and adherence to standards and performed recurrent
+reviews of the policies in their safety program.
+The CAF used a specialized software program to continuously track pilot
+qualifications such as flight times, check rides, and aircraft flown. The CAF’s
+standardization and safety committee used the program as a primary tool for tracking
+pilot performance and making suggestions for the director of operations to consider,
+such as recommending pilot upgrades to instructor pilot. The program also tracked
+aircraft maintenance status.
+The chief aviation officer said he attended the International Council of Air
+Shows Inc. (ICAS) and National Warbird Operators conferences each year to discuss
+safety topics with air show event organizers and other warbird operators.
+1.9.1.2 Safety Program
+The CAF’s safety program was structured as a voluntary safety management
+system (SMS) and applied to all CAF members and unit staff officers. The SMS
+guidance document, dated January 2017, was approved by the CAF president. It
+described the purpose of the program, how aspects of the program aligned with the
+four pillars of SMS, the CAF’s anonymous flight safety and ground hazard reporting
+program, and the areas of CAF operations identified as having an increased potential
+for risk. The chief aviation officer said that CAF pilots were introduced to the CAF’s
+SMS in ground school and that the CAF used periodic safety videos, safety bulletins,
+presentations, and webinars to communicate safety information.
+34
+
+Aviation Investigation Report
+AIR-24-07
+The chief aviation officer said that he and the director of operations had an
+open-door policy, and they both routinely fielded calls from CAF units. He said that
+he received calls at all times of the day and night about various issues, such as
+maintenance issues with specific aircraft or pilot concerns about policy or other
+personnel. He said he did not receive any anonymous safety reports in the year
+before the accident, but he was confident that CAF members were aware of the
+option to submit such a report.
+The chief aviation officer stated that, after the accident, he discovered that four
+CAF pilots who had flown in the Wings Over Houston air show 2 weeks before the
+accident (October 29-30, 2022) had safety concerns with directives issued by that air
+boss.32 He said he learned that the four pilots had met over dinner and complained to
+each other about the Wings Over Houston air boss, but they did not voice their
+concerns to him (the CAF chief aviation officer) until after the Wings Over Dallas
+accident (see section 1.10.2.1).
+According to the vice chairman of the Wings Over Houston air show, he and
+some other pilots were upset with the Wings Over Houston air boss after
+participating in that show and experiencing what they felt were “freeform” directives
+during both days of the air show.33 The Wings Over Houston vice chairman was also a
+commercial airline pilot, CAF instructor pilot, and CAF pilot standardization and
+evaluation committee member.
+The Wings Over Houston vice chairman stated that, during Wings Over
+Houston, he flew in the right seat of a CAF bomber (with the left-seat pilot flying)
+during a Sunday performance that included multiple bomber and fighter airplanes,
+some of which were from other museums or privately owned. He stated that, during
+that performance, the Wings Over Houston air boss instructed the pilot of a privately
+owned fighter airplane to do a maneuver that he found to be unusual and that the air
+boss had not discussed during the morning briefing. He stated that the air boss’s
+“freeform” directive resulted in the fighter airplane crossing in front of his crew’s
+airplane and the bomber they were following. He said that he saw the fighter coming
+from right to left at the same altitude, and he informed the pilot flying that the fighter
+would be passing in front of their airplane and told him to keep flying his line. He said
+32 He said that the Wings Over Houston air boss was the father, mentor, and air boss company
+partner of the Wings Over Dallas air boss. The Wings Over Dallas air boss had assisted his father with
+some aspects of the Wings Over Houston show but did not issue the directives about which the pilots
+were concerned. In this report, “Wings Over Houston” and “Wings Over Dallas” refer to the air shows
+conducted in 2022, unless otherwise noted.
+33 He said he did not know the specifics but became aware that some CAF pilots who had
+flown on Saturday during Wings Over Houston had “expressed extreme displeasure” directly to the
+Wings Over Houston air boss about “the freeform that took place on Saturday.”
+35
+
+Aviation Investigation Report
+AIR-24-07
+he knew that the fighter airplane was not going to collide with their airplane, but he
+“didn’t want [the pilot flying] to be surprised” by it and react by pulling up or doing
+some other maneuver.
+He said that he and other pilots who saw what happened “were not happy,”
+and they talked about it among themselves. When asked if he or any of the other
+pilots debriefed their concerns to anyone else, he stated that debriefs typically did
+not occur on the last day of an air show. He said that he did not inform the CAF
+director of operations or submit an anonymous feedback report and did not inform
+the CAF chief aviation officer until after the Wings Over Dallas accident. He said that,
+in retrospect, he wished he would have voiced his concerns to the CAF chief aviation
+officer sooner. He noted that the two air bosses ran their shows and conducted their
+preshow briefings similarly.
+1.9.1.3 Air Show Operations
+CAF pilots participated in various air shows each year, some of which were
+hosted by other event organizers, held at locations other than an aircraft’s base, or
+included performances that combined CAF-operated aircraft with warbirds operated
+by other museums or private owners. Numerous CAF pilots were qualified on more
+than one CAF airplane, and, during some air shows, the same airplanes would be
+featured in certain performances each day but would be flown by different pilots.
+Different types of CAF performances were featured at Wings Over Dallas, including
+air boss–directed performances (like the accident performance) and an approved
+maneuvers package, which was a defined routine that was flown with no input from
+the air boss. (Both types of performances are discussed below.)
+1.9.1.3.1 Performances Involving Multiple Airplanes Directed by Air Boss
+According to one CAF pilot experienced with flying warbirds in air shows, it
+was not unusual for warbird performances involving multiple airplanes to have a mix
+of bombers and fighters, and it was not unusual for the bombers to fly racetracks and
+90°/270° (dog bone) turns between passes. (This is the same pilot who was also the
+Wings Over Houston vice chairman, as discussed in section 1.9.1.2.) He said that,
+typically, the fighters would remain at higher altitudes than the bombers, and the
+altitudes would be discussed ahead of time with the air boss. He said that, for such
+performances, “the air boss will provide direction [during the performance], control
+the timing, [and] resolve conflicts…with other airplanes.”
+According to the pilot of the Consolidated B-24 bomber in position 2 during
+the accident performance (who had also flown in numerous air shows in various CAF
+aircraft), such performances were not particularly complicated to fly. He said that,
+before the Wings Over Dallas air show, the bomber group pilots for the accident
+performance discussed what order they should fly in trail, taking into consideration
+36
+
+Aviation Investigation Report
+AIR-24-07
+the mix of aircraft with different airspeeds and performance characteristics. He said it
+was not difficult to follow another airplane in trail, noting that the considerations
+involved engine power settings and turn strategies for maintaining spacing.
+He said that, generally, during a performance like the accident performance,
+the air boss did the choreography, and the pilots did what they were told. He said
+that, during the accident performance, he did not know the fighter formation was
+going to pass the bomber group until he heard the air boss call for it. He said that, as
+the position 2 bomber pilot, his focus was on following the Boeing B-17G. He stated
+that, generally, performers in one group (like the bombers) would maintain general
+awareness of the directives issued to another group (like the fighter formation) but
+would not necessarily keep track of the specifics unless the air boss called something
+to their attention.
+1.9.1.3.2 Approved Maneuvers Package
+The CAF had one approved maneuvers package, a performance called Tora!
+Tora! Tora!, which was flown earlier on the day of the accident. The performance
+involved bomber, fighter, and trainer airplanes performing a set of maneuvers that
+were flown in sequence with no communications from the air boss (other than to
+direct the performance to start), and it included coordinated pyrotechnics and a
+scripted narration for the crowd.
+According to the CAF director of operations, the approved maneuvers
+package was rehearsed and performed the same way each time. He said that the
+performance was very disciplined and that aircraft deconflictions were accomplished
+by performers flying their airplanes “at particular positions at particular times.” He
+noted that the accident Bell P-63F pilot, who had flown a trainer airplane during the
+Tora! performance earlier on the day of the accident, was a very experienced pilot
+who was very active with the Tora! performances (which were also performed at other
+air shows, including Wings Over Houston). He said that, during an approved
+maneuvers package performance, it’s very important for the performers to be where
+they’re supposed to be because that’s how aircraft separation is maintained.
+1.9.1.3.3 Air Show Chairman for Wings Over Dallas
+The CAF’s air show chairman for Wings Over Dallas had been working with air
+shows since 2000. Her role involved obtaining the waiver for the air show; hiring the
+air boss, the announcer, the sound system technicians, and any non-CAF performers;
+and handling all the logistics for the concessions and anything else needed on the
+grounds for the event. Her responsibilities also included working with local
+emergency response personnel (including participating in tabletop exercises),
+inviting visiting CAF performers who were not local to the area, and arranging for
+lodging, rental cars, and other needs. She was a CAF member who was compensated
+37
+
+Aviation Investigation Report
+AIR-24-07
+for her work on Wings Over Dallas, which she had chaired four times. She had been
+on committees or consulted for other air shows numerous times.
+The Wings Over Dallas air show chairman said she knew most of the
+performers, and they were all very experienced. She had known the air boss for a
+long time and had hired him for at least 10 shows. She said she knew his capabilities,
+was comfortable with his performance, and liked the way he handled things, noting
+that he was a “perfectionist.” She said that she hired air bosses based on her
+knowledge of them, their performance, and the feedback that performers provided
+about them.
+She said that, when working with an air boss, she provided him with the list of
+performers and a schedule of which ones she would like to see flying and when, and
+he adjusted it and made suggestions, as needed, mindful of keeping the action
+going for the crowd.
+1.9.1.4 Revenue Ride Programs
+According to CAF’s chief aviation officer, the CAF provided revenue rides
+under Part 91 through two programs: an LOA, which applied to standard-category
+airplanes, and an FAA-issued living history flight experience (LHFE) exemption, which
+applied to limited and experimental category airplanes.34 The North Texas FAA flight
+standards district office provided oversight of both programs. The CAF’s chief
+aviation officer stated that the CAF had about 88 airplanes listed on LOA 01147,
+which included trainer airplanes like the Boeing PT-17. The CAF’s LHFE exemption
+6802T listed 23 aircraft, including numerous bombers, several fighters, and a few
+trainer airplanes.
+The CAF’s chief aviation officer stated that ride flights were a way for different
+CAF units to generate revenue with their airplanes if they chose to participate, noting
+34 The FAA may grant an LHFE exemption to authorize an operator of certain historically
+significant, former military aircraft to provide passengers with short in-flight experiences for
+compensation. The safety of LHFE flight operations and related FAA oversight were the subject of two
+NTSB safety recommendations issued in 2021, which were supported, in part, by our investigation of a
+fatal accident in 2019 involving a Boeing B-17G operated as an LHFE flight (NTSB 2021a and case
+ERA20MA001). Safety Recommendation A-21-9 asked the FAA to develop national safety standards
+for LHFE and other revenue passenger-carrying operations conducted under Part 91. In response, the
+FAA stated that it was assessing the feasibility of the recommendation and considering whether
+rulemaking would meet the applicable cost-benefit guidelines. Safety Recommendation A-21-9 is
+classified Open—Acceptable Response. Safety Recommendation A-21-11 asked the FAA to develop
+guidance for inspectors who oversee LHFE operations. In response, the FAA updated its guidance,
+training, and surveillance activities for inspectors to help inspectors ensure that LHFE exemption
+holders comply with regulations, the conditions and limitations of the exemptions, and manual systems
+that apply to their operations. As a result of these responsive actions, the NTSB classified Safety
+Recommendation A-21-11 Closed—Acceptable Action on July 8, 2024.
+38
+
+Aviation Investigation Report
+AIR-24-07
+that fuel costs alone are high. He said that some units don’t have enough pilots or
+resources to offer revenue rides but that, for those that do, it “helps pay the bills.” He
+said that units are required to submit a percentage of their revenue to headquarters,
+which helps pay for such things as insurance and personnel costs.
+The CAF’s chief aviation officer said that he was not in favor of having any rides
+operating during the Wings Over Dallas air show (that is, during the time that the
+airspace waiver was active). He further stated that he “acquiesced” to allow them after
+having received a lot of “pushback” and “pressure from a lot of high-up people,”
+including the Wings Over Dallas air boss, to try to fit in some ride flights during the
+show.35 He said that he authorized rides to occur as long as they did not take off or
+land while another act was flying. The CAF’s air show chairman for Wings Over Dallas
+stated that she was aware that rides would be occurring and that the rides were
+coordinated through the air boss and briefed.
+The CAF’s chief aviation officer stated that, after the accident, he saw the video
+that showed the CAF-operated Boeing PT-17’s ride flight touching down at the same
+time as the collision.36 He also learned postaccident that another CAF-operated ride
+flight (the Beechcraft T-34B discussed in section 1.1) landed during the accident
+performance. He said that those rides were not supposed to be landing while
+performance acts were flying.
+1.9.2 Air Boss
+According to FAA guidance, the air boss’s responsibilities included the control
+of air show operations on the active taxiways, runways, and the air show
+demonstration area; coordination with the jurisdictional air traffic control facility and
+the FAA inspector-in-charge (IIC) for the air show; establishing the transition of
+airspace and control of participating and nonparticipating aircraft; and preparing and
+presenting a daily Air Show Participants Safety Briefing (FAA 2020a, 5 and
+35 He stated that, in years past, air shows were much longer and had long periods of time
+between acts, and he would allow rides to occur because they could depart, fly around, and return
+between acts while also giving the crowd something to see. He said that the current air show format
+(like that of Wings Over Dallas) is much more condensed, such that the air boss has control of the air
+space the entire time.
+36 He stated that, at first, he thought the ride was a senior pilot ride (part of the CAF
+endorsement process for a pilot to be approved to fly in an air show) but later found out that it was a
+revenue ride flight. Based on CAF pilot interviews, both the accident Boeing B-17G and the position 2
+bomber from the accident performance also flew revenue rides earlier in the day. It was not clear from
+the interviews whether those rides took off or landed while any other act was performing.
+39
+
+Aviation Investigation Report
+AIR-24-07
+2019b, 1).37 The air boss of the accident performance had provided his services for
+the Wings Over Dallas air show numerous times before. He said that, generally, he
+received air boss work primarily through referrals but has also met connections at the
+annual ICAS convention.
+1.9.2.1 Air Show Participants Safety Briefing
+The air boss began the required safety briefing about 0800, and members of
+the accident Boeing B-17G crew, the other bomber crews, and all three fighter pilots
+(including the accident Bell P-63F pilot) attended. (Attendance was mandatory for all
+single-pilot performers, but members of a crew could have a representative attend.38)
+The FAA IIC of the air show also attended, as required (see section 1.9.3.1).
+The air boss used a PowerPoint presentation to provide an overview of the air
+show that included discussions of the waiver, airfield and airspace, radio frequencies
+(main and secondary), the performance schedule, and other information. A
+postaccident review of the presentation revealed that the airspace slides included
+maps showing traffic flow patterns to the airport depending on wind direction,
+landmarks along the perimeter of the airspace boundary to use for reference and
+locations of holding patterns, and the locations of the show lines. One slide showed a
+satellite map view from one of the boundary markers to the airport and listed
+distance and times it would take an airplane traveling at various speeds to arrive at
+the center of the airport.
+According to the air boss’s Flight Demonstration Sequence sheet, the air show
+was to start at 1050, and six performances were scheduled to precede the accident
+performance. The accident performance (listed as “warbirds”) was scheduled to
+begin at 1305 and included “bombers launch,” “fighters launch,” and “passes per [air
+37 The guidance, FAA Order 8900.1, directs the activities of FAA aviation safety inspectors and
+other flight standards service personnel. Its primary audience consists of FAA inspectors, their
+managers, and supervisors, but the aviation industry may use it as a reference (FAA 2022, 1). Previous
+FAA guidance for “prospective aviation event sponsors and other interested parties” was contained in
+Advisory Circular (AC) 91-45C, “Waivers: Aviation Events,” which was issued in 1990 (FAA 1990). In
+2012, the NTSB issued Safety Recommendation A-12-8, which asked the FAA to, in part, revise
+AC 91-45C to correct inaccurate and incomplete information and reconcile all the differences and
+inconsistencies between it and FAA Order 8900.1. In 2020, the FAA informed us that it updated the
+order but canceled AC 91-45C because it was “significantly outdated” (FAA 2020b). We responded
+that, although the FAA did not revise AC 91-45C as recommended, we believed canceling the AC,
+along with updating FAA Order 8900.1, represented an acceptable alternate solution. We classified
+Safety Recommendation A-12-8 Closed—Acceptable Alternate Action on July 13, 2021.
+38 According to the air boss, the accident Boeing B-17G pilot did not attend the entirety of the
+briefing but the copilot attended. Also, the position 2 bomber flight engineer stated that he did not
+attend. The fighter lead pilot and position 2 fighter pilot attended the briefing, but their postaccident
+interview summaries contained no comments about its contents.
+40
+
+Aviation Investigation Report
+AIR-24-07
+boss].”39 Other performances were scheduled to follow, with the final demonstration
+planned for 1350.40
+According to the air boss, his briefing items that morning included broad
+expectations, such as avoiding the overlying airspace and having performers avoid
+overflying the area where ride flights were operating.41 He stated that, generally, for a
+performance like the accident performance, “the decision on how they’re going to fly
+and how they’re going to operate within the airspace once it starts is either decided
+in the briefing, if they are given rote altitudes and orbits, or they are decided by the
+air boss while those aircraft are flying in an effort to maximize the entertainment value
+because you are providing entertainment to people.”
+The air boss described that the briefing for the accident performance
+addressed generally that the bomber group and the fighter formation would
+separate and that the Boeing B-29 (which had not yet departed at the time of the
+accident) would join as a third element, but the specifics of how that would be
+executed were beyond the scope of the briefing.
+He stated that he discussed in the briefing which direction the Boeing B-29 was
+going to turn after takeoff, but the decision points for turning the other performers
+depended on other variables. He said that, for example, depending on how long the
+Boeing B-29 took to depart, he would have to determine when and where to turn the
+fighters back, or put them into a hold.
+The briefing also included a deconfliction plan for responding to the use of the
+“knock it off” phrase by the air boss or any participant, which is used to clear the flying
+display area, such as during an emergency. Per the briefing, in response to hearing
+that phrase on the radio, the participants were expected to immediately fly their
+aircraft to their respective prebriefed holding point and await further instruction.
+39 According to the radio communications transcript, the first bombers departed sometime
+between 1301 and 1310 (the North American B-25J airplanes that were in bomber positions 4 and 5 at
+the time of the accident), and the other three bombers (including the accident airplane) departed
+about 1310. The pilots of the two North American B-25J airplanes performed one pass together with
+coordinated ground pyrotechnics before joining the other bombers in trail about 1313:30, as directed
+by the air boss.
+40 The sequence sheet included the handwritten note “no tours” next to two of the
+performances, neither of which was the accident performance.
+41 He said that ride operations were not commonplace during air shows in general but that
+CAF requested them for Wings Over Dallas and had done them during air shows before. He noted
+that not all air bosses have the skillset to accommodate such a request. He said many of the pilots and
+airplanes used in the ride operations were also participating in the show, and he did not consider
+handling them complex or distracting.
+41
+
+Aviation Investigation Report
+AIR-24-07
+According to the pilot of the Consolidated B-24 bomber in position 2, the air
+boss discussed with the bomber group pilots what they had in mind for the
+performance, and the pilots discussed the order of the bombers flying in trail of the
+Boeing B-17G. He stated that the air boss’s briefing included such things as the
+weather, safety, and performance schedule. He said the air boss presented a map
+when discussing the locations of the show lines, entry points, exit points, and
+minimum altitudes. He stated that he had flown in many air shows, including about
+three with the Wings Over Dallas air boss. He said he considered the air boss’s
+briefing on the day of the accident consistent with what he would expect from any air
+boss, noting that “all of the air boss meetings I go to are essentially structured the
+same.”
+According to the copilot of the bomber in position 2, during the safety
+briefing, the air boss covered very general principles, including a discussion and
+display of the general flight patterns. He said that he took notes and that the air boss
+allowed time for any questions. He said that, after the main briefing, he and some
+other bomber group pilots (including the Boeing B-17G copilot) met with the air boss
+to discuss some clarification items related to the air boss’s intentions for concluding
+their performance by bringing all the bombers together for a photo pass to occur
+after the Boeing B-29’s departure. He said he felt the performance was scripted out,
+and he had no question about what was briefed.
+The CAF director of operations and the CAF chief aviation officer also attended
+the briefing. They voiced no concerns about the content of the briefing but noted
+that the directive to cross the fighter formation in front of the bomber group was not
+mentioned during the briefing. A CAF instructor pilot, who was also a commercial
+airline pilot and was on the CAF standardization and evaluation committee, also
+attended the briefing.42 He had flown as copilot of the accident Boeing B-17G on the
+day of the accident in an earlier performance (before the accident performance) at
+the Wings Over Dallas air show. He said he recalled nothing unusual about the
+briefing.
+1.9.2.2 Aircraft Separation Strategy for Multiple Aircraft
+As stated in section 1.1, during the air show, the air boss stood atop a set of air
+stairs on the field that provided him with an unobstructed view of the flying display
+area and beyond. He used a handheld radio and headset to communicate on the air
+show radio frequency, which included the ability to communicate with the KRBD
+tower controllers, as needed. In addition, he had a set of binoculars, clipboard,
+schedule, pen, and a cellular phone, which he used to send text messages to the
+42 This is the same pilot who was also the Wings Over Houston vice chairman, as discussed in
+sections 1.9.1.2 and 1.9.1.3.1.
+42
+
+Aviation Investigation Report
+AIR-24-07
+performers before their performances, if needed, such as to notify them if the show
+were running behind schedule. An observer air boss, whose role was to observe the
+air boss to gain exposure and familiarity with warbird operations at air shows, had
+attended the air boss’s morning briefing and was also on the air stairs.43
+According to the air boss, air show aircraft separation was typically
+accomplished through visual, lateral, timing, and altitude deconflictions. Examples
+included directing one performer to follow another performer’s aircraft (visual
+deconfliction), the use of show lines (lateral deconfliction), having a performer delay
+entering the flying display area until after another airplane had landed (timing
+deconfliction), and having aircraft fly at different altitudes. He described the
+processes as situation-dependent with many variables that required flexibility. He said
+that it was his belief that assigning altitudes would lead to a loss of needed flexibility,
+and “altitude isn’t always the best or first way to separate aircraft.”
+When asked about his preference, the air boss stated, “So visual is the rule of
+the road, right? I do a lot of assignment of responsibility…” He stated that, regarding
+the instructions he provided during performances, performer compliance was
+acknowledgement of his instructions. He stated that he trusted the performers
+because he had worked with them in this environment and with these airplanes
+before. He also stated that he did not think that the operation of ride flights during
+the accident performance added to the complexity of the event.
+When asked about his radio communications for the accident performance
+and his use of a phrase similar to “that should work” before the collision, the air boss
+stated, “That’s probably a thought-fulfilling phrase” and not a directive.44 He said that,
+to him, that communication meant, “Okay, we’re on tempo, that should work, here we
+go.”
+He stated that, as the air boss, he had to be a few steps ahead and move on to
+the next sequence because he had “all these things queued up.” He said that, had the
+43 The air boss listed the observer as the “miniboss” on a slide during the morning briefing. A
+miniboss is obligated to perform duties as assigned by the air boss. However, the air boss clarified
+during a postaccident interview that the observer air boss was not fulfilling the defined role of
+miniboss and had “no obligations that day” and that he had used the term as a courtesy only.
+44 The air boss had previously heard the audio recording, but the transcript was not available
+during the postaccident interview. The phrase discussed during the interview was part of a directive
+that the air boss provided while the fighters were descending to pass the bombers. Per the transcript
+(and as discussed in section 1.1), about 24 seconds before the collision, the air boss stated, “Nice job,
+fighters, you’re coming through first. That will work out. B-17 and all the bombers on the 1,000-ft line,”
+before asking, “B-17, you got the fighters in front of you off your left?” There was an unintelligible
+transmission before the air boss stated (about 10 seconds before the collision), “Nice job, fighters,
+come on through.”
+43
+
+Aviation Investigation Report
+AIR-24-07
+collision not occurred, the next performance sequence he intended (following the
+accident pass) was for the fighters to climb up, turn right, then perform directed
+repositioning turns, “and the bombers are going to left [90° turn] out, and they’re
+probably going to go into a racetrack because I’m going to take the [Boeing] B-29
+off” from runway 31. He said, “I know where the B-29’s going to go because we
+briefed that. We know how that’s going to work. But I don’t know how the bombers
+and fighters exactly are going to interact with that. So that’s what I mean by we’re
+ahead and that’s kind of what we’re building toward.”
+1.9.2.3 Performers’ Perceptions of Air Boss’s Directives
+The pilot of the Consolidated B-24 bomber in position 2 stated that there
+wasn’t anything fundamentally different between the way the Wings Over Dallas air
+boss conducted the air show compared to other shows in which he had flown, and he
+did not recall anything abnormal about the air boss’s radio communications. He
+recalled that, while he was focused on following the Boeing B-17G, he saw two
+fighters pass it, but never saw the Bell P-63F. He said that, in a “millisecond,” the
+Boeing B-17G erupted into pieces in front of him, and (at the time) he did not know
+why.
+According to the copilot of the bomber in position 2, during the performance,
+his crew flew as discussed during the morning briefing. When asked about the
+relative positions of the bombers and the fighter formation during the performance,
+he stated that his crew’s main attention was on the airplane they were following and
+maintaining the briefed distance.
+He said he saw the first two fighters pass his airplane on the left and that he
+remembered hearing “another transmission from the air boss of something in an
+uplifting, positive note, like ‘good pass’ or ‘that looks good,’ and [he] assumed what
+[the air boss] meant was people on the ground had a good perspective to take
+pictures.” He said he next saw the Bell P-63F in a banked turn come across and in
+front of his airplane and make contact with the Boeing B-17G.
+According to an interview summary for the position 2 bomber’s flight engineer,
+he felt there was confusion during the performance because there were lots of
+changes, including turns in both directions instead of just a racetrack pattern. He felt
+like there was just too much going on. According to an interview summary for the
+fighter lead pilot, during the performance and before the accident, he did not fully
+understand the string of instructions the air boss provided, and he asked him to
+clarify. He said that he believed that the air boss had directed the fighters to the
+1,000-ft show line. He said that he put his wingmen (the positions 2 and 3 fighters) in
+a right echelon until the air boss instructed him to put them in trail. He said that, as he
+descended and picked up the 1,000-ft line for a pass, everything looked good but, as
+44
+
+Aviation Investigation Report
+AIR-24-07
+he climbed his airplane after the pass, he heard the “knock it off” call from the air
+boss, knew something was wrong, and proceeded to the holding area.
+According to an interview summary for the pilot of the position 2 fighter, he
+recalled that the air boss had issued a long stream of instructions, but he wasn’t really
+paying attention and was focused on the fighter lead. He recalled that, when the air
+boss told the fighters to get in front of the bombers, he ensured his airplane had
+separation from the Boeing B-17G, then he shifted his focus back to the fighter lead.
+He himself had air boss experience and considered the Wings Over Dallas air boss
+the best in the business. He stated that he absolutely trusted the air boss and the
+fighter lead pilot.
+1.9.3 Air Show Safety Oversight
+1.9.3.1 Federal Aviation Administration
+The FAA IIC issued the certificate of waiver for the Wings Over Dallas air show
+to the event organizer and chairman on November 2, 2022, and performed
+surveillance activities during the event. The waiver authorized aerobatic
+performances and flybys within a 5 nautical mile radius of KRBD from the surface to
+6,000 ft msl and specified the provisions with which the air show had to comply. The
+Part 91 rules for maintaining aircraft separation were not listed among the regulations
+waived. Title 14 CFR 91.111(a) specifies that “no person may operate an aircraft so
+close to another aircraft as to create a collision hazard,” and 14 CFR 91.113(b)
+specifies that “vigilance shall be maintained by each person operating an aircraft so
+as to see and avoid other aircraft….Pilot[s]…may not pass over, under, or ahead of
+[another aircraft] unless well clear.”
+FAA Order 8900.1, Volume 3, Chapter 6, “Issue a Certificate of Waiver or
+Authorization for an Aviation Event,” contains guidelines for FAA IICs to use when
+ensuring that all applicable requirements are met for issuing an air show waiver.
+Among its provisions, the order:
+• Designates FAA guidance for oversight,
+• Addresses the airspace in which flying displays are authorized to perform,
+• Provides guidance for performers’ aerobatic flight and maneuvering,
+• Explains performer and essential personnel competencies and
+credentialing,
+• Lists requirements for emergency and incident planning, and
+• Provides a timeline indicating when each step in the process should be
+accomplished.
+45
+
+Aviation Investigation Report
+AIR-24-07
+This section of the order also addresses solo and formation pilot competencies
+and requirements for certain maneuvers, with a focus on minimum safety distances
+and altitudes from the spectator areas, pitch and bank angles, and airspeed. It also
+lists the minimum items that must be covered at the daily Participants Safety Briefing,
+such as the contact information for key event personnel, weather information,
+airspace details, a method of coordinating participating and nonparticipating air
+traffic, a depiction of the aviation event site (including the location of spectator areas,
+show lines, flying display area, and holding areas), the performance schedule, and
+other specified topics. The order also provides a sample briefing guide (FAA 2020a,
+103-5 and 147-8).
+Also, the sample surveillance job aids attached to the order address activities
+for inspecting aircraft, performers, and parachutists’ equipment. The items described
+in this section of the order that apply to observing an air boss at an air show include a
+checklist item to “attend participants safety briefing” and a reference to having radios
+available for the FAA “IIC and, as needed, for other aviation event officials to monitor
+communications” (FAA 2020a, 4, 18, 20, 96, 159).
+FAA Order 8900.1, Volume 5, Chapter 9, Section 6,
+“Issue/Renew/Reevaluate/Rescind an Air Boss Letter of Authorization,” contains
+guidance for FAA inspectors related to air boss LOAs. Per the order, the FAA has the
+final authority for the issuance of an air boss’s LOA and does so based on a
+recommendation from the recognized industry organization in accordance with its
+FAA-accepted Air Boss Recognition Program (ABRP) manual (FAA 2018); at the time
+of this report, the only recognized industry organization for air bosses was the ICAS.
+(See the next section.) The FAA has the authority to deny an LOA application or
+rescind an existing LOA in circumstances such as an applicant (or air boss) being
+under investigation or subject to a pending action by ICAS (FAA 2020a, 23 and
+2019b, 1).
+This section of the order states that FAA inspectors “should ensure [that] a
+person who wishes to provide air boss services at an air show possesses a valid air
+boss LOA.” It does not identify any specific direct surveillance activities for FAA
+inspectors to perform concerning an air boss at an air show but states that “any time
+an air boss’s actions or inactions give the FAA reason to doubt an air boss LOA
+holder’s ability to serve as air boss, his or her competency to hold an air boss LOA
+should be reevaluated” (FAA 2019b, 5 and 8).
+According to the FAA IIC for Wings Over Dallas, his role involved reviewing the
+air show event organizer’s application for the air show certificate of waiver to ensure
+all the requirements were met. He said that this section of the order was 166 pages
+long and that he kept the document open and crosschecked it item by item when
+going through the application.
+46
+
+Aviation Investigation Report
+AIR-24-07
+He said that, because of the number of aircraft participating in Wings Over
+Dallas, he requested (and received) two FAA maintenance inspectors to assist with
+ramp checking aircraft and checking performers’ documents. He said that other
+surveillance he performed included ensuring that all the performers and aircraft met
+all applicable requirements, attending the Air Show Participants Safety Briefing each
+day, ensuring that all the performers were on the sign-in sheet, and performing other
+tasks like walking the air show perimeter and checking the fencing to make sure no
+spectators or other personnel could enter prohibited areas.
+He said that the air boss’s Air Show Participants Safety Briefing on the morning
+of the accident was thorough and the participants were attentive. He did not recall
+any discussion of specific altitude separations during the general briefing except for
+the part of the accident performance that was to involve the flight of the Boeing B-29.
+He said that, during the air show, he stood directly below the air boss’s air
+stairs and monitored the show, observing no deviations from the waiver. He didn’t
+have a radio with him and could not hear the communications between the air boss
+and the performers. He did not see the collision but saw the aftermath. He said the
+emergency response vehicles and personnel were positioned on the taxiway and
+arrived on scene within about 30 seconds.
+An FAA inspector who was in training to provide air show oversight was
+observing the FAA IIC. This inspector had a radio and was listening on the air boss
+radio frequency during the accident performance. He recalled that the radio was
+“busy” because of the multiple airplanes flying, but he said he did not recall any
+“safety issue” with the communications.
+1.9.3.2 International Council of Air Shows Inc.
+ICAS is a nonprofit industry organization “dedicated to building and sustaining
+a vibrant air show industry;” fostering “the highest levels of safety, professionalism,
+and integrity” among its members; and serving a leadership role on a range of air
+show–related issues, including safety, industry standards, and best practices
+(ICAS 2024).
+Effective June 30, 2018, the FAA recognized and began accepting the ICAS
+ABRP manual as meeting the requirement for issuing an air boss LOA. The guidance
+in FAA Order 8900.1 states that the intent of the ABRP is to ensure that air bosses are
+properly trained and evaluated before providing air boss services at an air show. Both
+the order and the ICAS ABRP manual define the role of the Air Boss Evaluator, who is
+a recognized air boss designated by the ICAS to evaluate air boss applicants.
+The ICAS ABRP specifies that an air boss “must be able to prepare and present
+a quality daily Air Show Participants Safety Briefing; possess a strong working
+47
+
+Aviation Investigation Report
+AIR-24-07
+knowledge of applicable regulations, policy and forms; and have a command and
+control ’presence’” (ICAS 2018, 1).
+According to the ICAS ABRP evaluation form, an air boss must (among other
+criteria):
+• Ensure necessary coordination between pilots,
+• Communicate clearly and concisely,
+• Maintain situation awareness at all times,
+• Provide positive control of the air show,
+• Apply good judgment, and
+• Maintain effective air show flow (ICAS 2018, appendix B).45
+For each level of air boss designation, various ICAS ABRP education, testing,
+and experience criteria, as well as a ground evaluation conducted by an
+ICAS-recognized Air Boss Evaluator, apply. The “recognized air boss, multiple venue”
+designator (the highest level, which was held by the air boss of the accident
+performance) also requires a satisfactory practical evaluation by an Air Boss Evaluator
+who monitors and provides an objective assessment of the applicant’s performance
+during an air show. The ICAS ABRP manual describes the assessment process and
+contains a sample evaluation form, and the FAA Order 8900.1 references the general
+criteria.
+Per the ICAS ABRP manual, obtaining a recognized air boss, multiple venues
+designation required the successful completion of the ICAS ABRP basic experience
+air show education data sheet, a score of 75% or better on the multiple-choice air
+boss test, an evaluation conducted by an ICAS-recognized Air Boss Evaluator, and
+certain experience and recommendation requirements. According to the ICAS ABRP
+manual, the evaluation begins with the Air Show Participant Safety Briefing for the
+morning of the air show rehearsal and concludes when the last aircraft has landed on
+the final day of the show. The manual states that “during that entire time, the
+performance, knowledge, and demeanor of the applicant will be evaluated” (ICAS
+2018, 8).
+The air boss LOA renewal process, which occurs every 3 years, has different
+requirements for each level of air boss. For an air boss to renew a recognized air
+boss, multiple venue designation, the air boss must submit to the ICAS vice president
+of safety and operations a renewal application that includes documentation that they
+have worked as an air boss at that level for at least eight air shows during the previous
+45 The ICAS ABRP manual does not define “positive control” but otherwise discusses the air
+boss’s “primary responsibility for control of air show operations on active taxiways, runways, and the
+surrounding demonstration area” and providing “appropriate control of the event in his/her capacity
+as air boss” (ICAS 2018, 4 and 15).
+48
+
+Aviation Investigation Report
+AIR-24-07
+3 years; at least four recommendation letters from specified industry personnel
+(including other recognized air bosses or air show performers with specified
+credentials who have experience working with the applicant during the previous
+3 years); and documentation of having attended at least one ICAS Air Boss Academy
+Program, ICAS Air Boss 101 Workshop, or equivalent training program (ICAS 2018,
+31).
+According to the ICAS vice president of safety and operations, the air show
+industry had sought to standardize and certify air bosses for about 30 years before
+the ICAS ABRP obtained FAA acceptance in 2018. He said that the FAA personnel
+met with ICAS personnel about once a quarter and periodically audited the
+program’s paperwork. He estimated that ICAS had six or seven Air Boss Evaluators,
+each with decades of air boss experience. He estimated that there were about 60 or
+70 ICAS-approved air bosses.
+He stated that Air Boss Evaluators followed the guidelines in the ABRP manual
+when evaluating air bosses, but there was no specific set of training requirements. He
+said that ICAS had a strict code of ethics and a conflict-of-interest clause in the
+manual that prohibited evaluators from evaluating family members or close business
+associates.
+The ICAS vice president of safety and operations also said that the ICAS
+Confidential Reporting System (known as ICARUS) enabled members to anonymously
+report safety concerns via an online form. He said that ICAS used the submitted
+reports to perform safety analysis, monitor trends, or take action for any safety issue
+specific to a certain event. He said that air show pilots, performers, or others could
+also call to report a safety concern and, per policy, he would investigate and
+determine what needed to be done to correct the issue. He estimated that ICAS
+received about 10 ICARUS reports in the last 15 years but that, in the last 2 years, he
+had taken about 60 calls for various issues, some of which were minor.
+1.10 Additional Information
+1.10.1 Other Air Show Event Organizers’ Aircraft Separation
+Strategies for Warbird Performances
+The NTSB interviewed the event organizers of two other large-scale, complex
+air shows to better understand how they managed their processes. According to the
+summary of interviews of representatives for one event organizer, several months
+before the event, the lead air boss (of eight they employed for the week of the air
+show) would talk to the warbird community and the air show managers to determine
+what the plan would be and how they wanted to choreograph their performances.
+The final choreography would be shared with each performer in the morning briefing
+49
+
+Aviation Investigation Report
+AIR-24-07
+before the show. Air show acts were deconflicted laterally and with a minimum
+vertical separation of 200 ft. Different flights would operate at different altitudes and
+the goal was to not have varying speed aircraft flying together. The air boss would
+put faster aircraft at a higher altitude and on a predetermined flight path.
+According to the summary of interviews of representatives for a different event
+organizer, their expectation was for the air boss to execute the plan without deviation,
+except for maintenance issues. Acts were to be deconflicted by altitude, airspeed,
+and aircraft performance, and it was made very clear in the Participants Safety
+Briefing what was to happen during the show. Examples of styles that were
+considered inappropriate included changing performances from what was briefed,
+failing to run the show in accordance with the schedule, and not verifying paperwork
+pertinent to the safe operation of the air show.
+1.10.2 Postaccident Actions
+1.10.2.1 Commemorative Air Force Procedures Changes
+As discussed in section 1.9.1.2, the CAF’s chief aviation officer did not find out
+that some CAF pilots who had flown in the Wings Over Houston air show 2 weeks
+before the accident had safety concerns about some “freeform,” unbriefed directives
+but did not report them until after the Wings Over Dallas accident. He said that
+getting CAF members to use the CAF’s SMS feedback mechanism would take
+education.
+He said that, after the accident, he made it clear to the CAF members that,
+“from now on, if you see something, say something and speak up, and if you’re afraid,
+that’s OK. Tell me, and I’ll do it.” He considered it an improvement that the pilots
+involved in the Wings Over Houston event reached out to him after the Wings Over
+Dallas accident, stating that 5 or 6 years ago, people were more reluctant to talk
+because they perceived that they could lose their privileges of flying the airplanes in
+air shows. He said that the pilots now realized that safety transcends that right.
+Also, effective April 20, 2023, the CAF issued new revisions to the air show
+guidance appendix in its procedures manual that stated that all aircraft in a parade
+flight should be of like performance, maintain altitude separation from parades of
+multiple, dissimilar aircraft, and fly only racetrack patterns in one direction.46 The
+guidance also prohibited dog bone patterns and crossing maneuvers unless part of
+46 The guidance defined a parade flight as a group of aircraft at the same altitude flying a
+racetrack pattern with in-trail spacing (more than 500 ft). Dissimilar aircraft are those with differences in
+performance characteristics and may also differ in class and weight.
+50
+
+Aviation Investigation Report
+AIR-24-07
+an approved maneuvers package and stated that, when passing other aircraft in the
+demonstration area, pilots must ensure a minimum of 500 ft vertical separation.
+The CAF also implemented updates to its safety program, revising its SMS
+manual in November 2023 and again in January 2024.47 The most recent revision of
+the manual included a “History” section that described the CAF’s efforts to align its
+safety program with SMS models, stating that it compared its program with FAA
+materials, evaluated the available tools, and implemented those tools that worked
+best for its organization. The revised manual included a “Risk Management” section
+that listed the CAF’s anonymous flight safety and ground hazard reporting program
+and stated that the CAF’s chief aviation officer, staff, and safety committees “evaluate
+risk assessment of day-to-day operations and analysis of reported risk. Risk
+mitigations are explicitly implemented to reduce risk and are incorporated into CAF
+policies and procedures.”
+1.10.2.2 Safety Alert for Operators: Mass Aircraft Demonstrations
+On July 15, 2024, the FAA issued Safety Alert for Operators (SAFO) 24005,
+“Mass Aircraft Demonstrations at Aviation Events,” to recommend proactive risk
+mitigation strategies for the pilots, air bosses, and event organizers of civilian air
+shows that include mass aircraft demonstrations, particularly those involving multiple,
+dissimilar aircraft that are not part of an approved maneuvers package.
+The SAFO recommended distributing to the pilots a detailed written plan for
+the performance; conducting mandatory preflight briefings and postflight
+debriefings that review all aspects of normal and emergency procedures; using
+aircraft deconfliction strategies characterized by complete geographical, lateral, and
+time separation; and flying simple racetrack patterns to avoid complex maneuvering
+and loss of visual separation. It also stated that “following the briefed plan for
+operational execution is of critical importance. Deviations from the plan, [such as] ad
+hoc instructions or maneuvers can contribute to confusion and loss of separation.” It
+also stated that simultaneous flight operations involving nonparticipating aircraft
+should not be conducted.
+The SAFO provided a link to a new ICAS best practices document, effective
+July 20, 2024, that contained guidance for drafting and implementing a performance
+plan and conducting preflight briefings and postflight debriefings. It also contained
+an example of a “stack plan” strategy that can be used to standardize air show
+structure, execution, and terminology and provide altitude and lateral separation to
+simplify aircraft deconfliction. The guidance included a diagram of racetrack flight
+47 The November 2023 revisions included a note from the CAF president, a publications
+management and revisions guide, a definitions page, and appendixes for the CAF’s emergency action
+program, aircraft contingency plan, and hazard reporting.
+51
+
+Aviation Investigation Report
+AIR-24-07
+patterns with different 300-ft altitude blocks (separated from each other by a 500-ft
+buffer) and unique names, as well as an exemplar form that the air boss can fill out to
+assign different aircraft to different patterns and altitude blocks. It provided an
+example of how the plan was used by Warbirds of America at a recent large air show
+that featured multiple warbirds, the coordination and planning for which began
+months before the show.48
+48 Warbirds of America is a division of the Experimental Aircraft Association dedicated to
+promoting and encouraging “the preservation and operation of World War II and other such aircraft
+that are representative of military aviation operations” and educating its members and other interested
+persons “in methods and safe operation and maintenance” of these aircraft (EAA 2024).
+52
+
+Aviation Investigation Report
+AIR-24-07
+2. Analysis
+2.1 Introduction
+The accident occurred when two CAF-operated warbird airplanes, a
+Boeing B-17G bomber and a Bell P-63F fighter, collided in flight during an air boss–
+directed warbird performance that included multiple, dissimilar aircraft at the CAF’s
+Wings Over Dallas air show. The analysis discusses the accident sequence and
+evaluates the following safety issues:
+• The factors that limited the ability of the Boeing B-17G pilot and the
+Bell P-63F pilot to see and avoid each other’s aircraft, and the inherent
+limitations of the see-and-avoid concept for collision avoidance (section
+2.2.1).
+• The air boss’s ineffective aircraft deconfliction strategy for the accident
+performance (section 2.2.2).
+• The lack of adequate air show safety oversight, including the requirements
+for the contents of the air show Participants Safety Briefing (section 2.3.1),
+the need for administrative controls and documented safety risk
+assessments (section 2.3.2), and the need for air boss oversight, including
+recurrent evaluations, standardized communications, and FAA surveillance
+(section 2.3.3).
+• Air show safety culture issues, including evidence that CAF pilots did not
+report observed safety concerns, and the limited ability of the ICAS to
+influence culture in an industry composed of various operators, individual
+performers, and individual air bosses (section 2.4).
+Having completed a comprehensive review of the circumstances that led to the
+accident, the investigation determined that none of the following were factors:
+• Flight crew qualifications. The Boeing B-17G pilot, copilot, and flight
+engineer and the Bell P-63F pilot were certificated in accordance with
+federal regulations and were current and qualified in accordance with CAF
+requirements.
+• Airplane mechanical condition. Maintenance records for both airplanes
+indicated that each was maintained and inspected in accordance with its
+respective applicable maintenance requirements. Photographic and video
+evidence that captured imagery of both airplanes during the performance
+showed that both were intact and maneuvering in a manner consistent with
+controlled flight before the collision. Examination of the wreckage of both
+53
+
+Aviation Investigation Report
+AIR-24-07
+airplanes identified no evidence of any precollision anomaly or failure that
+would have precluded their normal operation.
+• Flight crew medical fitness. The Boeing B-17G pilot, copilot, and flight
+engineer and the Bell P-63F pilot possessed valid and current FAA medical
+certificates appropriate for the flight operations. The NTSB reviewed their
+FAA medical certification information and the autopsy and toxicology
+reports for all personnel on board both airplanes. Considering the
+autopsies’ limitations (due to the severity of some injuries) and the
+operational circumstances of the accident, our evaluation determined the
+following:
+o The Boeing B-17G pilot and the Bell P-63F pilot each had coronary
+artery disease. No autopsy evidence indicates that either pilot
+experienced a sudden cardiac event; however, such an event does not
+reliably leave autopsy evidence if it occurs just before death (Schoen
+2005, 555–618).49 The flight paths of both airplanes were consistent with
+controlled flight (see section 2.2.1), and neither pilot (nor any other crew
+on board the Boeing B-17G) made a distress call over the radio. Thus,
+the accident circumstances were not consistent with either pilot having
+experienced a sudden cardiac event.
+o Toxicological results for the Boeing B-17G pilot and flight engineer
+indicated that both had used the potentially impairing antihistamine
+medication meclizine. However, the precise timing of their antihistamine
+use and whether they were experiencing related impairment (such as
+mild sedation) cannot be determined from the available results.
+Regardless, as stated above, operational evidence indicates that the
+pilot maneuvered the airplane in accordance with the air boss’s
+directives. Further, the investigation determined (see section 2.2.1) that
+the Boeing B-17G crew had very limited opportunity to see (and react
+to) the Bell P-63F before the collision. Given these circumstances, it is
+unlikely that the effects of antihistamine use by the crewmembers
+contributed to the accident.
+o The Boeing B-17G copilot and flight engineer each had one
+postmortem tissue specimen that tested positive for ethanol and
+49 Coronary artery disease increases the risk of a sudden impairing or incapacitating cardiac
+event such as abnormal heartbeat or heart attack. Even severe coronary artery disease is often
+asymptomatic (Bild et al. 2005, 1313–20; Wong and Harvey 2002, 3–5).
+54
+
+Aviation Investigation Report
+AIR-24-07
+multiple other specimens that tested negative. This indicates that the
+detected ethanol was likely from sources other than consumption.50
+o Neither of the two individuals serving as scanners on board the Boeing
+B-17G had (and were not required to have) an FAA medical certificate.
+Although CAF’s chief aviation officer stated that the scanners’ role
+during the air show included looking for traffic, per the CAF’s
+loadmaster operations manual and training agenda, their primary
+in-flight responsibilities involved monitoring engine and tailwheel
+operations, and there were no procedures or training specified for
+assisting with collision avoidance. Although the toxicology results for
+one scanner indicated that he had used multiple medications that were
+potentially impairing or that might indicate potentially impairing
+underlying medical conditions, given his limited role on the accident
+flight, it is unlikely that any impairment, if present, could have affected
+the flight’s outcome.51
+Thus, the NTSB concludes that no pilot qualification deficiency or airplane
+malfunction or failure was identified, and there is no evidence that any flight
+crewmember’s medical condition or use of medications contributed to the accident.
+2.2 Accident Sequence
+As part of the performance, the Boeing B-17G was in the first position of five
+historic bomber airplanes flying as multiple solo aircraft in trail, and the Bell P-63F
+was in the last position of three historic fighter airplanes flying in formation. Generally,
+the pilots in each group (bombers and fighters) flew multiple passes parallel to
+runway 13/31 at KRBD and completed repositioning turns on the south side of the
+extended show lines to set up for each respective pass, as directed by the air boss.
+The air boss provided directives based on his continuous, real-time assessment
+of all the variables associated with the performance, including the respective
+positions of the airplanes. The airplanes’ altitudes and airspeeds varied throughout
+the performance, which included descending passes from the bomber group, fighter
+formation maneuvers, the coordinated detonation of ground pyrotechnics, and a
+50 For the flight engineer, this included a negative ethanol result in vitreous, which is typically
+least susceptible to postmortem microbial ethanol production (Kugelberg and Jones 2007, 10–29).
+51 Although the scanners’ respective seating locations on board the accident airplane (right or
+left door position) were not known, given the rapid approach of the Bell P-63F from behind and above
+the Boeing B-17G, there would likely have been insufficient time for either scanner to observe its
+approach, recognize it as a threat, and communicate that to the flight crew, and for the flight crew to
+react.
+55
+
+Aviation Investigation Report
+AIR-24-07
+real-time narration from an air show announcer on the ground. In addition, the air
+boss coordinated the flight of CAF-operated Boeing PT-17, which was providing a
+revenue passenger ride during the performance, and the taxiing of a CAF-operated
+Boeing B-29 that was positioning for takeoff to join the performance. The air boss,
+who stood atop a set of air stairs on the field, directed all these activities via radio on
+the air show radio frequency.
+Position data were available for seven of the eight airplanes in the performance
+(all but the bomber in position 5) and the Boeing PT-17 ride flight. The data showed
+that, in the 2 minutes before the accident, the bomber group and the fighter
+formation completed a pass in front of the crowd from show right to left (that is, from
+right to left from the crowd’s perspective), heading southeast, parallel to runway 13.
+The airplanes were setting up for the next pass when the accident occurred.
+Recorded radio communications and airplane position data showed that, as
+the fighter formation was entering the pass that preceded the accident, the air boss
+issued directives to the bomber group and the fighter formation about the pass, the
+subsequent repositioning turns, and the next pass. The air boss’s directives for the
+fighter formation included directing them to “walk” their way up to the Boeing B-17G,
+informing them that he was going to “break” them out “left” after they “follow the
+bombers to the right 90 out, and then…roll back in left and be on the 500-ft line…to
+set up for an echelon for a break…[and] get in trail.” Following those directives, the
+fighter lead pilot asked for clarification, and the only directive repeated (by the air
+boss) and confirmed (by the fighter lead pilot) related to the direction of the echelon
+break.
+After completing the pass that preceded the accident, the pilots of all eight
+airplanes performed repositioning turns (a 90° right turn followed by a 270° left turn)
+on the south side of the extended show lines to set up for the next pass, as directed
+by the air boss. Based on the radio communications, the next pass was intended to
+be from show left to right in front of the crowd (heading northwest, parallel to runway
+31); the air boss directed the fighter formation to pass the bomber group and fly the
+500-ft show line, and he directed the bombers to fly the 1,000-ft show line.
+Compliance with this directive required the fighter formation to pass off the left side
+of the bomber group, then cross laterally in front of the Boeing B-17G. (Figure 5
+shows the beginning of this maneuver.)
+The position data showed that the flight path for the fighter lead and position 2
+fighter airplanes passed the bomber group airplanes off the bombers’ left side then
+crossed in front of the Boeing B-17G, as directed, but subsequently aligned with the
+1,000-ft show line (instead of continuing farther across to the assigned 500-ft show
+line). The position data showed that the flight path of the Boeing B-17G (with the
+other bombers in trail) aligned with the 1,000-ft show line. (Figure 6 shows this
+alignment.)
+56
+
+Aviation Investigation Report
+AIR-24-07
+Based on an interview summary with the fighter lead pilot, he mistakenly
+believed that the air boss had directed the fighters to the 1,000-ft show line. The
+fighter lead pilot said that, as he descended and picked up the 1,000-ft line,
+everything looked good. According to an interview summary for the pilot of the
+position 2 fighter, he recalled that the air boss had issued a long stream of
+instructions, but he was primarily focused on his spacing with the fighter lead. He
+recalled that, when the air boss told the fighters to get in front of the bombers, he
+visually ensured his airplane had separation from the Boeing B-17G, then he shifted
+his focus back to the fighter lead.52 (Air boss communications are discussed further in
+section 2.3.3.2)
+Thus, the NTSB concludes that, although the fighter lead pilot was confused by
+the air boss’s unclear directives, the fighter lead pilot and the position 2 fighter pilot
+visually ensured separation from the bomber group airplanes when passing and
+crossing in front of the Boeing B-17G before mistakenly aligning with the incorrect
+show line. The position data showed that the Bell P-63F’s flight path closely followed
+the fighter in position 2 until about 7 seconds before the collision, when its flight path
+no longer curved toward the 1,000-ft show line but became somewhat straighter,
+possibly toward the 500-ft show line, which would be consistent with the air boss’s
+directive. Regardless of which show line the Bell P-63F pilot may have intended to fly,
+alignment with either show line required him (like the other pilots in the fighter
+formation) to pass the bomber group airplanes off the bombers’ left side then cross in
+front of the Boeing B-17G. Video and photographic evidence captured by witnesses
+on the ground showed that the Bell P-63F was in a descending, left-banked turn
+when it struck the left side of the Boeing B-17G near the trailing edge of the left wing,
+then both airplanes broke apart in flight.
+2.2.1 Pilots’ Limited Ability to See and Avoid
+Although the fighter lead and position 2 fighter pilot aligned their airplanes
+with the incorrect show line, both pilots were able to visually ensure separation
+between their airplanes and the bomber airplanes. For the accident airplanes, the
+NTSB performed a visibility simulation to evaluate the opportunities the pilots of the
+accident airplanes had to see and avoid each other.
+As the Bell P-63F descended toward the show line, it approached the Boeing
+B-17G from above, behind, and to the left. The simulation showed that, during that
+52 Basic formation flying guidance emphasized the need for the pilots of trailing aircraft to
+closely monitor the lead aircraft. It stated that precise, smooth formation flying included recognizing
+“slight motion” in relation to the lead aircraft and making “small, prompt corrections” as soon as they
+perceive they are out of position. The guidance stated that “the easiest way to detect motion is by
+closely monitoring fixed references on the lead aircraft” (FAST 2016, 14).
+57
+
+Aviation Investigation Report
+AIR-24-07
+time, the view of the model Bell P-63 from the flight deck of the model Boeing B-17
+bomber was likely obscured until just before the collision by a window structure.
+Further, based on the Bell P-63F’s flight path and bank angles, the simulation’s
+model Boeing B-17 was visible from the model Bell P-63’s flight deck from about
+32 seconds to 4 seconds before the collision, but it was likely blocked from view
+afterward. The simulation also determined that the model Boeing B-17 (which was
+colored the same as the accident airplane’s paint scheme), when viewed from above,
+was difficult to discern against the simulated ground features at times due to the
+olive-drab color on most of the airplane’s upper fuselage and wings. Thus, it is likely
+that, even when the Boeing B-17G was within the Bell P-63F pilot’s view, its olive-drab
+color may have blended with the ground features, making it more difficult to visually
+detect.
+The see-and-avoid concept as a means of collision avoidance relies on a pilot
+to look through the cockpit windows, visually acquire and identify other aircraft,
+determine if that aircraft poses a threat, and take the appropriate action to avert a
+collision, if necessary. Limitations to this concept include any obscuration that
+detracts from the field of view and the limitations of human attention, particularly
+when operating in a highly dynamic environment in which high workload is likely.
+Even in a relatively calm environment, a pilot is likely to spend only 30% to 35%
+of their time monitoring the outside environment (Wickens and McCarley 2008). This
+percentage decreases when the pilot is otherwise engaged in additional tasks, thus
+reducing how well a pilot can visually detect outside traffic. The higher the workload,
+the higher the demand for task accomplishment, thus reducing what cognitive ability
+is left to manage and sustain situation awareness (Vidulich and Tsang 2012, 243–73).
+In this accident, the NTSB visibility simulation showed that the opportunities for
+the pilots of the Bell P-63F and the Boeing B-17G to see and avoid each other were
+limited. Further, the Bell P-63F pilot’s ability to visually acquire the Boeing B-17G and
+implement evasive action would have been even further diminished because, as the
+pilot of the position 3 airplane in trail of two other fighters, his immediate focus would
+have been on maintaining appropriate distance and airspeed to stay with the
+formation and ensuring his flight path aligned with the assigned show line. Likewise,
+part of the Boeing B-17G flight crew’s focus would be on maintaining flight along the
+assigned show line.
+Thus, the NTSB concludes that the ability of the Bell P-63F and the Boeing
+B-17G pilots to see and avoid each other was limited due to flight path geometry,
+out-the-window view obscuration by aircraft structures, the limitations of human
+performance that can make it difficult to see another aircraft, and the attention
+demands associated with maintaining flight along the assigned show lines and, for
+the Bell P-63F pilot, as a trailing aircraft in a formation.
+58
+
+Aviation Investigation Report
+AIR-24-07
+The NTSB has repeatedly highlighted the inadequacy of see and avoid, most
+recently in our investigative report on an in-flight collision between a float-equipped
+de Havilland DHC-2 and a float-equipped de Havilland DHC-3 that took place about
+10 miles north of Ketchikan, Alaska, during clear day weather conditions in May 2019
+(NTSB 2021b). All 5 people on board the de Havilland DHC-2 and 1 of the 11 people
+on board the de Havilland DHC-3 were fatally injured. Both airplanes were operating
+as air tours in a geographic area known for its high concentration of air tour traffic,
+and our investigation cited the inherent limitations of the see-and-avoid concept as
+directly causal to the accident.53
+Thus, the NTSB concludes that the circumstances of this accident underscore
+the inherent limitations of the see-and-avoid concept for collision avoidance.
+2.2.2 Ineffective Aircraft Deconfliction Strategy
+By definition, an air boss has primary responsibility for the control of air show
+operations and is expected to maintain situation awareness, ensure necessary
+coordination between pilots, communicate clearly and concisely, and provide
+positive control of the air show operations.
+According to the Wings Over Dallas air boss, he typically accomplished aircraft
+separation through visual, lateral, timing, and altitude deconflictions. He described
+these processes as situation-dependent with many variables that required flexibility.
+For example, he could direct one performer to follow another performer’s aircraft
+(visual deconfliction), assign performers different show lines (lateral deconfliction),
+have a performer delay entering the flying display area until after another airplane
+lands (timing deconfliction), or assign aircraft to fly at different altitudes.
+Within the air show environment, there is mutual trust between the air boss
+and the performers. The air boss trusts that the performers will follow directives,
+maintain situation awareness, and ensure adequate separation between their aircraft
+and others, as required by 14 CFR 91.111(a) and 91.113(b), which specify,
+respectively, that “no person may operate an aircraft so close to another aircraft as to
+create a collision hazard” and that “vigilance shall be maintained by each person
+53 In the Ketchikan accident report, the NTSB determined that the de Havilland DHC-2 pilot
+had no opportunity to see and avoid the other airplane because it was obscured by aircraft structure.
+Further, the de Havilland DHC-3 pilot’s ability to see and avoid the de Havilland DHC-2 was limited, in
+part, due to the little apparent motion of the de Havilland DHC-2 as the two airplanes converged at a
+relatively constant angle for about 3 minutes before the collision. The report noted that the lack of
+apparent motion reduced the likelihood that the de Havilland DHC-3 pilot would see the other
+airplane in his periphery, citing a study stating that human ambient vision (a component of the human
+visual system that processes information in a peripheral field of view) is more sensitive to motion than
+to fine detail (NTSB 2021b, 33).
+59
+
+Aviation Investigation Report
+AIR-24-07
+operating an aircraft so as to see and avoid other aircraft….Pilot[s]…may not pass
+over, under, or ahead of [another aircraft] unless well clear.”
+Likewise, the performers trust that the air boss will ensure necessary
+coordination between pilots, communicate clearly and concisely, maintain situation
+awareness, provide positive control, and apply good judgment.54 This relationship is
+similar to that of an air traffic controller and a pilot conducting flight under visual
+flight rules. In the air traffic control environment, although it is incumbent upon pilots
+to remain vigilant about their surroundings as the rules of operational right-of-way
+dictate, the controller shares responsibility to ensure separation from other aircraft
+when issuing instructions to that pilot.55
+While under the direction of an air boss, a performer reasonably expects that
+the air boss would not issue directions that would put aircraft in conflict, or that the air
+boss would issue corrective instructions if a performer unintentionally maneuvers an
+aircraft into a position where a conflict might occur.
+According to the Wings Over Dallas air boss, his intent for the next pass was
+for the fighter formation (which was composed of faster airplanes than the bomber
+group) to pass the bomber group off the bombers’ left side, such that he expected
+the fighters to be past all of the bombers before transitioning to their assigned 500-ft
+show line and for all performers to maintain visual separation. However, the position
+data for the airplanes showed that the Bell P-63F was not yet past the lead bomber
+when the Bell P-63F began to move toward the assigned 500-ft show line, on a
+converging path with the Boeing B-17G. Thus, the NTSB concludes that the air boss’s
+deconfliction strategy for the accident performance, which relied on his real-time,
+predictive assessment of airplane locations and the ability of the pilots to see and
+avoid other airplanes, was ineffective because the flight paths of the Boeing B-17G
+and the Bell P-63F converged as each pilot maneuvered toward their respective
+assigned show lines.
+2.3 Air Show Safety Oversight
+CAF pilots participated in various air shows each year, some of which were
+hosted by other event organizers, held at locations other than an aircraft’s base, or
+included performances that combined CAF-operated aircraft with warbirds operated
+54 The ICAS ABRP evaluation form listed each of these as air boss responsibilities.
+55 FAA guidance related to pilot and controller roles and responsibilities stated that “to
+maintain a safe and efficient air traffic system, it is necessary that each party fulfill their responsibilities
+to the fullest. The responsibilities of the pilot and the controller intentionally overlap in many areas
+providing a degree of redundancy” (FAA 2024a, 5.5.1).
+60
+
+Aviation Investigation Report
+AIR-24-07
+by other museums or private owners. According to experienced CAF air show pilots,
+warbird performances commonly involved multiple solo airplanes, including a mix of
+bombers and fighters, and such performances were not particularly complicated to
+fly. However, one pilot said that, typically, the fighters would remain at higher
+altitudes than the bombers, and the altitudes would be discussed ahead of time with
+the air boss, during the participants safety briefing.
+2.3.1 Participants Safety Briefing Requirements
+The air boss briefed general aspects of the accident performance with the
+participants during the required Air Show Participants Safety briefing. According to
+the FAA IIC for Wings Over Dallas, the air boss’s briefing addressed all the required
+items listed in the FAA Order 8900.1 guidance for FAA inspector surveillance of air
+shows. Further, none of the briefing attendees interviewed postaccident, which
+included the FAA IIC, the FAA inspector trainee, the observer air boss, CAF
+management personnel, and CAF performers, voiced any concern about the air
+boss’s briefed plan for the accident performance.
+Further, the FAA certificate of waiver for the air show, FAA Order 8900.1
+guidance, and the ICAS ABRP manual did not specify any required procedures for
+maintaining separation between multiple, dissimilar aircraft operating within the
+same flying display area and not part of an approved maneuvers package, as was the
+case with the accident performance. Also, none of these materials specified a
+requirement for air show event organizers or air bosses to perform a documented risk
+assessment for each air show performance.
+The NTSB notes that such risk assessments could help determine what hazards
+are present and then determine a plan for applying effective mitigations to address
+them. In an air show environment, two of the most significant hazards to mitigate are
+the potential for aircraft contact with the spectators and aircraft contact with one
+another.
+Significant regulatory improvements for ensuring the safety of spectators at air
+shows and air races (including defined parameters for show line distances from the
+crowd) resulted from the NTSB’s investigation of a September 16, 2011, accident
+involving an airplane that crashed during an air race in Reno, Nevada (NTSB 2012).
+However, no specific requirements exist for performing documented risk assessments
+to mitigate risks for air show performances involving multiple, dissimilar aircraft, and
+neither the CAF nor the air boss had a documented safety risk assessment process for
+the accident performance.
+Thus, the NTSB concludes that FAA and ICAS guidance did not adequately
+address the need to better mitigate the collision risks associated with air boss–
+61
+
+Aviation Investigation Report
+AIR-24-07
+directed performances involving multiple, dissimilar aircraft. The following section
+discusses controls that can be put in place to alleviate some of the risks associated
+with air boss–directed performances.
+2.3.2 Need for Administrative Controls and Risk Assessment
+For an air boss–directed performance (like the accident performance) that
+lacks a definitive maneuvers plan before its execution, the participants involved may
+not have a clear, shared mental model of what is to occur. For example, the pilot of
+the position 2 bomber in the accident performance stated he did not know that the
+fighter formation was going to pass and cross in front of the bomber group until he
+heard the air boss call for it on the radio.
+A team functions best when the team members have a shared understanding
+of what a task encompasses and how it is to be performed (Jonker, van Riemsdijk,
+and Vermeulen 2010, 132–51). To facilitate an effective shared mental model, team
+members should discuss and agree upon the desired course of action, what goals
+should be achieved, and how they intend to achieve them, well before the execution
+phase.
+Air boss–directed performances (like the accident performance, which involved
+multiple solo, dissimilar aircraft) differ from an approved maneuvers package, which
+is a defined, coordinated sequence of maneuvers that the participants know and
+rehearse ahead of time and perform with no input from the air boss. An approved
+maneuvers package inherently includes controls for ensuring aircraft separation
+because it involves a set routine to which the performers train and from which they do
+not deviate, thus minimizing the risk of aircraft contact with each other.
+Thus, the NTSB concludes that, compared to an approved maneuvers
+package, an air boss–directed performance involving multiple, dissimilar aircraft
+represents an increased workload for both the air boss and the pilots, as the air boss
+bears the cognitive load of having to create the performance sequence in real time
+and then issue directives, and the pilots must anticipate, understand, and comply with
+the directives while maintaining visual separation from other aircraft.
+Administrative controls establish work practices that reduce the duration,
+frequency, or intensity of exposure to hazards. They maximize coordination and
+ensure reliability and predictability of behavior. They can take the form of training,
+procedure, policy, or design changes that lessen the threat of a hazard to an
+individual (CDC 2024). Because operating in an air show has an inherent level of
+associated risk, administrative controls are necessary for continued safe operations.
+The NTSB interviewed the event organizers of other large-scale complex air
+shows to better understand how they managed the process. One large event
+62
+
+Aviation Investigation Report
+AIR-24-07
+organizer said that, several months before the event, the lead air boss (of eight they
+employ) would talk to the warbird community and with the air show managers to
+establish respective plans and determine how they wanted to choreograph their
+performances. The final choreography would be shared with each performer during
+the morning briefing. When asked about safety measures that were built into the
+choreography, the team stated that they deconflicted acts laterally with a minimum
+vertical separation of 200 ft. Different flights would operate at different altitudes, and
+the goal was to not have varying speed aircraft flying together. The air boss would
+put faster aircraft at a higher altitude and on a predetermined flight path.
+The lateral, altitude, and airspeed separations the event organizers and air
+bosses agreed upon are an example of administrative controls at work. A different
+event organizer stated that they expected the air boss to execute the plan with no
+deviations except for maintenance issues. Acts were to be deconflicted by altitude,
+airspeed, and aircraft performance, and it was made very clear in the Participants
+Safety Briefing what was to happen during the show so that a shared mental model
+was assured.
+As described in section 2.2.2, the air boss stated that his deconfliction
+strategies included using lateral, altitude, timing, and visual options. However, at no
+time before or during the accident performance did he set designated altitudes or
+airspeeds for the pilots to fly, and the directive he issued for the fighter formation to
+cross laterally in front of the bomber group relied entirely on his real-time, predictive
+assessment that the fighter formation would arrive at the show line first and that the
+pilots would see and avoid each other. As discussed in the previous section, this
+strategy presents a higher workload in terms of communication and information
+processing and an increased demand for situation awareness for both the air boss
+and each pilot.
+Thus, the NTSB concludes that a lack of administrative controls, such as a
+prebriefed aircraft separation plan with defined lateral, altitude, and timing
+deconflictions directly contributed to the in-flight collision.
+The NTSB notes that after this accident, on July 15, 2024, the FAA issued SAFO
+24005, “Mass Aircraft Demonstrations at Aviation Events,” to recommend proactive
+risk mitigation strategies for the pilots, air bosses, and event organizers of civilian air
+shows that include mass aircraft demonstrations, particularly those involving multiple,
+dissimilar aircraft that are not part of an approved maneuvers package (FAA 2024c).
+The SAFO recommended distributing to the pilots a detailed written plan for the
+performance; conducting mandatory preflight briefings and postflight debriefings
+that review all aspects of normal and emergency procedures; using aircraft
+deconfliction strategies characterized by complete geographical, lateral, and time
+separation; and flying simple racetrack patterns to avoid complex maneuvering and
+loss of visual separation.
+63
+
+Aviation Investigation Report
+AIR-24-07
+The SAFO provided a link to an ICAS best practices document that contained
+guidance for drafting and implementing a performance plan, recommended preflight
+briefings and postflight debriefings, and included examples of a separation strategy
+that has proven effective for the event organizer of a recent large air show that
+featured multiple warbirds. However, it did not include guidance for developing
+effective risk assessment strategies, ensuring that debriefings are performed after
+every day of the air show, or establishing a mechanism by which any safety
+deficiencies identified during the debriefings are communicated to the FAA and the
+ICAS to help improve future guidance and policy. (One CAF volunteer stated that
+debriefings typically did not occur on the last day of an air show. See section 2.4.1 for
+more information.)
+The NTSB believes that, although the new guidance materials contain helpful
+information, as guidance materials—rather than standard operating procedures—they
+still allow for disparity in how different event organizers or air bosses may choose to
+manage aircraft separation, and they do not adequately address risk assessment or
+debriefing strategies to be applied to every performance.
+Thus, the NTSB concludes that a documented safety risk assessment for each
+performance would allow air show event organizers and air bosses to identify hazards
+and determine and apply effective mitigations, such as establishing administrative
+controls to ensure aircraft deconfliction for performances involving multiple,
+dissimilar aircraft.
+Therefore, the NTSB recommends that the FAA work with ICAS and the
+warbird community to establish standard operating procedures for air show event
+organizers and air bosses that include: 1) applying administrative controls to ensure
+that multiple, dissimilar aircraft not operated as part of an approved maneuvers
+package remain deconflicted; 2) performing a safety risk assessment for each
+performance to determine hazards and apply effective mitigations, including
+consideration for any revenue ride flights conducted during air show operations; and
+3) completing a daily debriefing that includes continuous feedback to the FAA and
+the ICAS to address any identified deficiencies.
+Further, the NTSB recommends that the ICAS work with the FAA and the
+warbird community to establish standard operating procedures for air show event
+organizers and air bosses that include: 1) applying administrative controls to ensure
+that multiple, dissimilar aircraft not operated as part of an approved maneuvers
+package remain deconflicted; 2) performing a safety risk assessment for each
+performance to determine hazards and apply effective mitigations, including
+consideration for any revenue ride flights conducted during air show operations; and
+3) completing a daily debriefing that includes continuous feedback to the FAA and
+the ICAS to address any identified deficiencies.
+64
+
+Aviation Investigation Report
+AIR-24-07
+2.3.3 Need for Air Boss Oversight
+2.3.3.1 Recurrent Evaluations
+Effective June 30, 2018 (less than 4 years before the accident), the FAA
+accepted and recognized the ICAS ABRP manual as meeting the requirement for
+issuing an air boss LOA. Per this arrangement, the FAA will issue an air boss LOA
+based on a recommendation from ICAS, relying on ICAS subject matter experts to
+provide objective feedback. Although ICAS administers the ARBP, the FAA is the only
+authority for the issuance of air show certificates of waiver and the final authority for
+the issuance of an air show air boss LOA.
+The air boss of the accident performance held a valid FAA-issued air boss LOA
+with a recognized air boss, multiple venue designation, which is the highest, most
+experienced level. The process for obtaining the LOA for this level designation
+required the air boss to successfully complete various testing and experience
+requirements, as well as an evaluation conducted by an ICAS-recognized Air Boss
+Evaluator, as specified in the ABRP manual. The LOA process for the basic and
+standard air boss designations do not require an evaluation, and, for the recognized
+air boss, single venue designation, the applicant may choose either an evaluation or a
+specified education, interview, and recommendation process.56
+The LOA renewal process, which occurs every 3 years, does not require an
+observation by an Air Boss Evaluator for any level of air boss LOA. Further, the
+guidance for FAA inspectors who provide oversight for air shows does not provide
+specific surveillance activities or criteria to reference when observing an air boss’s
+performance during air show operations beyond ensuring that the Air Show
+Participants Safety Briefing contains the required items. Thus, once an air boss attains
+the highest level recognized air boss designation, no further objective assessments of
+the air boss’s performance by ICAS or the FAA are required. Although a highest-level
+air boss must submit four recommendation letters as part of the LOA renewal
+process, these letters can be from other recognized air bosses or air show performers
+who have previously worked with the air boss (rather than an Air Boss Evaluator or
+FAA personnel).
+This lack of required recurrent evaluation of an air boss’s performance is in
+stark contrast to the requirements that apply to certificate holders like pilots and air
+traffic controllers. To maintain currency to exercise the privileges of their certificates,
+56 The ICAS ABRP manual states that an applicant for recognized air boss, single venue
+designation may choose to complete either an evaluation by an Air Boss Evaluator or meet other
+specified requirements, including participating in a written, in-house training program, an interview
+with an Air Boss Evaluator, and providing six recommendation letters from specified industry
+personnel (ICAS 2018, 20–24).
+65
+
+Aviation Investigation Report
+AIR-24-07
+pilots and controllers are subject to mandatory recurrent training requirements and
+periodic mandatory proficiency checks performed by the FAA or an FAA designee.
+Such requirements are necessary for pilots and air traffic controllers because they
+have others’ lives entrusted to them. Thus, the NTSB concludes that recurrent
+evaluations of air bosses as part of the LOA renewal process would provide objective
+and ongoing assessments of their performance to help ensure the safety of air show
+operations.
+Therefore, the NTSB recommends that the FAA require recurrent air boss
+evaluations as part of the LOA renewal process.
+2.3.3.2 Standardized Communications
+As discussed in section 2.2, the fighter lead pilot misunderstood the air boss’s
+directive related to which show line to fly. Although the fighter lead pilot asked the air
+boss to clarify the directives because he did not fully understand the string of
+instructions provided, the air boss clarified only the directive related to the direction
+of the echelon break. The position 2 fighter pilot also described the air boss’s
+directives as lengthy, and one of the bomber pilots stated that he felt there was
+confusion because there were so many changes in direction.
+Effective communication ensures that all parties involved convey and receive
+information clearly and decreases the likelihood of error due to misunderstanding. It
+also encourages trust between the parties. Although air shows typically include
+defined and prebriefed show lines and landmarks to designate specific spaces within
+the flying display area, there is no standardized naming convention for the lines or
+phraseology guidance for other directives. The NTSB notes that, throughout the
+performance, the air boss used terms such as “walk your way up,” “that will work out,”
+and “come on through,” which could be interpreted differently by different
+performers or not in the way the air boss intended.
+Basic FAA guidance for pilots emphasizes the importance of clarity and brevity
+for ensuring understanding in radio communications, providing a glossary that
+defines standard terms and noting that “good phraseology enhances safety” and that
+“jargon, chatter, and…slang” should not be used (FAA 2024d). Although this
+guidance addresses communications between pilots and air traffic controllers, the
+NTSB believes the same principles can be applied to enhance safety in the air show
+environment.
+Thus, the NTSB concludes that standardized phraseology for references to
+show lines and other safety considerations that avoids the use of ambiguous terms
+could help prevent confusion and ensure the clarity and brevity of air boss–provided
+directives while minimizing radio congestion.
+66
+
+Aviation Investigation Report
+AIR-24-07
+Therefore, the NTSB recommends that the FAA work with ICAS and other air
+show industry stakeholders to develop standardized, unambiguous terms to help
+ensure that the directives that air bosses provide performers, such as those related to
+show lines, are clear and brief.
+The NTSB also recommends that ICAS work with the FAA and other air show
+industry stakeholders to develop standardized, unambiguous terms to help ensure
+that the directives that air bosses provide performers, such as those related to show
+lines, are clear and brief.
+2.3.3.3 Federal Aviation Administration Surveillance
+The guidance in FAA Order 8900.1 for FAA inspectors is focused primarily on
+ensuring that the requirements for the certificate of waiver are met but does not
+include specific surveillance requirements or job aids. According to the FAA IIC for
+Wings Over Dallas, in accordance with the guidance specified in FAA Order 8900.1,
+his oversight and surveillance activities for the air show included ensuring that all the
+performers and aircraft met all applicable requirements, attending the briefings and
+ensuring that all the performers were on the sign-in sheet, and performing other tasks
+like walking the air show perimeter to ensure that spectators and other personnel
+were being kept out of prohibited areas.
+During the accident performance, the FAA IIC stood at the base of the air stairs
+beneath the air boss but did not listen in on the air boss radio frequency, which is not
+defined as a required surveillance activity in FAA Order 8900.1. A second FAA
+inspector, who was in training to provide air show oversight and surveillance, was
+also at the base of the air stairs and used a headset and radio to listen in on the air
+boss radio frequency. The second FAA inspector stated that he did not recall any
+“safety issue” with the air boss’s communications.
+The NTSB recognizes that, given the lack of guidance or surveillance tasks in
+FAA Order 8900.1 related to air bosses’ radio communications, it may be difficult for
+an inspector to identify whether a safety issue was evident in the communications.
+However, as discussed previously, during the accident performance, the air boss
+issued directives that, due to their length, wording, or variations, confused some
+performers, and the real-time directive he issued for the fighters to cross in front of
+the bombers (which, ultimately, placed the Bell P-63F and the Boeing B-17G on
+converging flight paths) had not been discussed during the morning briefing.
+Thus, the NTSB concludes that the lack of guidance and required surveillance
+tasks for FAA inspectors assigned to air shows related to the direct observation of an
+air boss’s performance represents a missed opportunity for inspectors to detect
+performance-related safety issues and provide debriefing feedback to address these
+67
+
+Aviation Investigation Report
+AIR-24-07
+issues, such as unclear directives, inadequate aircraft deconfliction strategies, or
+deviations from a previously briefed plan.
+Therefore, the NTSB recommends that the FAA revise FAA Order 8900.1 to
+provide guidance and a job aid for FAA inspectors who evaluate an air boss’s
+performance and require the FAA IIC of an air show to observe an air boss’s
+performance visually and on the air boss radio frequency and provide appropriate
+feedback during the air show debriefing.
+2.4 Air Show Safety Culture
+2.4.1 Commemorative Air Force
+The CAF’s chief aviation officer and the director of operations each had an
+open-door policy. Both routinely fielded calls from CAF units about various issues
+that came in “at all times of the night” and varied in subject from maintenance issues
+with specific aircraft to pilot concerns about policy or other personnel. Also, the CAF’s
+voluntary SMS included an anonymous flight safety and ground hazard reporting
+program that members and performers could use to log their concerns or feedback;
+however, the chief aviation officer said he received zero anonymous reports (through
+this system) in the year before the accident.
+Although the CAF senior leadership expressed confidence that CAF members
+were aware of the option to anonymously submit reports, the NTSB notes that having
+zero reports is not necessarily indicative of an environment that is without issue but
+rather may be indicative of a process that is not as robust as it should be.57 Managing
+feedback by “open door” or “open line” policy has its advantages, but its
+effectiveness requires diligence in documenting every interaction that occurs via
+open door or a phone call and tracking and assessing negative trends that could be
+precursors to a more serious event.
+For example, evidence indicates that some CAF volunteers observed safety
+concerns but failed to report them. One CAF volunteer, who was a commercial airline
+pilot, CAF instructor pilot, and the vice chairman of the Wings Over Houston air show
+that occurred 2 weeks before Wings Over Dallas, stated that he and other CAF pilots
+were upset after experiencing what they felt were “freeform” directives by the Wings
+Over Houston air boss. He stated that, during one performance involving multiple
+bomber and fighter airplanes, the Wings Over Houston air boss instructed the pilot of
+57 Research has shown that, for every serious accident, multiple minor accidents and even
+more near misses likely preceded it as precursors to the accident (Heinrich 1930, 83–92).
+68
+
+Aviation Investigation Report
+AIR-24-07
+a fighter airplane to do a maneuver that had not been briefed and that resulted in a
+fighter airplane crossing in front of his bomber at the same altitude.
+When asked whether he or any of the other pilots debriefed their concerns to
+anyone else, he stated that debriefs typically did not occur on the last day of an air
+show. He stated that he was aware of the available CAF options for providing
+feedback, but he did not debrief the CAF director of operations or submit an
+anonymous feedback report, and he did not inform the CAF chief aviation officer until
+after the Wings Over Dallas accident. The NTSB is concerned that this CAF volunteer,
+who, as an experienced commercial airline pilot, was likely trained on and familiar
+with the importance of communication and feedback in supporting safe flight
+operations, did not immediately voice his concerns via any of the ways afforded to
+him through the CAF safety program.
+Research has shown that a key feature of a healthy safety culture is continuous
+commitment from everyone within the organization to emphasize safety over
+competing goals. Underlying this commitment are shared interests and meaningful
+relationships among members of an organization. An organization’s culture can
+become unhealthy if motivational factors exert influence that turn it into something
+colloquially known as “don’t rock the boat” syndrome.
+In such environments, individuals may be unwilling to use the tools available to
+them for fear of retribution or reprisal. They may also avoid pointing out errors or
+issues that might draw negative attention in an attempt to avoid being perceived as a
+non-team player or a troublemaker (Paul and Townsend 1996, 149–61; McIntosh et al.
+2019, 171–210; and Probst, Babaranelli, and Pettita 2013, 383–402). Also, an appeal
+to tradition is a common form of bias and complacency that can negatively affect an
+organization. Such an appeal relies on the argument that an approach, policy, or idea
+is correct or superior largely because it has been applied for the longest amount of
+time (Michaud 2018, 121–4). In such cases, individuals may also be reluctant to point
+out their concerns or might even shrug them off as being “the way it has always been
+done.”
+Applying this lens to a largely volunteer organization with a membership fee
+like the CAF, where the primary incentive for lending one’s time and energy working
+for the organization is the ability to work in and around legacy military aircraft, a
+member’s reluctance to do anything that they perceive might jeopardize their access
+would be understandable. The CAF’s chief aviation officer stated that, after the
+accident, he made it clear to the CAF members that they needed to speak up with
+any safety concerns. He said that he considered it an improvement that the pilots
+involved in the Wings Over Houston event reached out to him after the Wings Over
+Dallas accident, stating that 5 or 6 years ago, people were more reluctant to talk
+because they perceived that they could lose their privileges of flying the airplanes in
+air shows. He said that the pilots now realized that safety transcends that right.
+69
+
+Aviation Investigation Report
+AIR-24-07
+However, the investigation found another example of an organizational goal
+that was allowed to compete with safety policy. Although the CAF’s chief aviation
+officer was not in favor of having any revenue passenger rides operating during an air
+show, he authorized rides to occur during Wings Over Dallas as long as they did not
+take off or land while a performance was in progress. He said he “acquiesced” after
+having received a lot of “pushback” and “pressure from high-up” people, which he
+said included the air boss.
+The NTSB is concerned that the CAF’s chief aviation officer was influenced by
+pressures to compromise his preferred safety procedure, effectively agreeing to
+allow paying passengers to be exposed to a higher risk than would be present if the
+rides were limited as he originally intended. Further, despite his subsequent
+limitation on when rides could occur, this limitation was not documented or enforced,
+and two CAF-operated revenue passenger rides landed on the runway in the flying
+display area during the accident performance. The second of the two ride airplanes, a
+Boeing PT-17, landed at nearly the same time as the midair collision and narrowly
+avoided being hit by falling debris.
+The NTSB is also concerned that the air boss advocated to include the
+operation of ride flights, which represented a nonessential extra element within the
+flying display area. Although the air boss stated that he did not think that his handling
+of ride flights added complexity to the event, the NTSB believes that an air boss’s
+attention should be solely focused on the air show performers.
+These issues raise questions about the efficacy of the CAF’s safety risk
+assessment process. As discussed in section 2.3, there is a regulatory and guidance
+vacuum for how air bosses accomplish preshow deconfliction plans and risk
+assessments for air boss–directed performances involving multiple solo, dissimilar
+aircraft. In the absence of such requirements, the CAF, as the event organizer and
+operator of the involved aircraft, should ensure that its safety standards are met or
+exceeded.
+Risk assessment is a key element to having continued safe operations. By
+identifying which hazards pose the most risk to safe operations and establishing
+trends to better inform the mitigation decision-making process, operators can
+decrease the likelihood of an accident happening. Although the CAF had a safety
+program in place that was structured to incorporate aspects of a voluntary SMS, it was
+an immature product that did not incorporate operational safety risk assessment as a
+component.
+For example, as discussed previously, the CAF did not have a documented
+safety risk assessment process for the accident performance or for the chief aviation
+officer’s limitations on when revenue ride flights could be operated. Further, the
+selection of the air boss for Wings Over Dallas was not informed by a documented
+70
+
+Aviation Investigation Report
+AIR-24-07
+safety risk assessment of his performances but rather the air show chairman’s history
+of working with him. Although the air show chairman said that she had hired the air
+boss for at least 10 previous air shows, was comfortable with his performance, and
+liked the way he handled things, the investigation found no evidence that CAF
+conducted any routine observation and assessment of the performance of air bosses
+to gather information to inform future decisions.
+Thus, the NTSB concludes that the CAF’s lack of a strong, clearly defined safety
+risk assessment plan resulted in air show production decisions that were not
+systematically developed to determine acceptable levels of risk and were susceptible
+to influences unrelated to safety, including pressures to deviate from the intended
+limitations on when revenue passenger rides could be conducted during air show
+operations.
+The NTSB notes that, since the accident, the CAF has continued to develop its
+safety program. The most recent revision of the CAF’s SMS manual (dated
+January 2024) described the CAF’s efforts to align its safety program with SMS
+models, stating that it reviewed FAA materials and implemented the tools that it
+believed worked best for its organization. Although the revised manual stated that
+the CAF’s chief aviation officer, staff, and safety committees “evaluate[d] risk
+assessment of day-to-day operations” and implemented risk mitigations into CAF
+policies and procedures, the manual did not identify how these processes would be
+applied to its air show operations or how safety hazards would be tracked and trend
+data routinely assessed.
+The NTSB notes that, on May 21, 2024, the FAA issued updated Advisory
+Circular) 120-92D, “Safety Management Systems for Aviation Service Providers,”
+which included new guidance and implementation strategies to assist aviation
+organizations of all types and sizes with developing and implementing SMS.58 The
+NTSB believes that this revised guidance can assist the CAF in continuing to improve
+its safety program. Therefore, the NTSB recommends that the CAF, using the
+guidance provided in AC 120-92D, establish a safety risk assessment process for
+identifying and mitigating risks, tracking safety hazards, and routinely assessing trend
+data to include policies and procedures that specifically address the unique aspects
+of air show operations, such as considerations for serving as event organizer;
+participating in air boss–directed performances involving multiple, dissimilar aircraft;
+and ensuring the safety of revenue passenger rides.
+58 The revisions the FAA published in AC 120-92D resulted from NTSB Safety
+Recommendation A-22-15, which asked the FAA to develop guidance for small operators for scaling
+an SMS that includes implementation methods and techniques. Safety Recommendation A-22-15 was
+classified Closed—Acceptable Action on July 24, 2024.
+71
+
+Aviation Investigation Report
+AIR-24-07
+2.4.2 Role of International Council of Air Shows Inc.
+As discussed in section 2.3.3, ICAS managed the ABRP and was responsible for
+delineating the requirements for a person to obtain an LOA to assume the role of air
+boss. The organization and its ABRP are accepted by the FAA, but the ICAS has no
+regulatory authority.
+Throughout multiple interviews, CAF pilots, other air show performers, and
+other event organizers described some facets of warbird operations and air boss
+styles that they considered unacceptable, such as changing performances from what
+was briefed, failing to run the show in accordance with the schedule, and not
+verifying paperwork pertinent to the safe operation of the air show. In such cases, the
+performance can become more about thrilling the crowd, sometimes to the
+detriment of aviation safety. While some air show event organizers have actively
+worked to apply administrative controls to preclude such performances, the
+circumstances of this accident suggest that, for some parts of the warbird community,
+it may persist.
+Although the ICAS does not have an SMS, it does have a Confidential
+Reporting System, called ICARUS, that, like CAF’s reporting system, does not seem to
+garner much use. The ICAS largely relies on its annual convention and the same open
+line policy that CAF uses to disseminate and collect information. If negative feedback
+should come in, ICAS has different committees organized by subject to manage the
+report. However, ICAS’s role does not involve actively monitoring air shows or air
+boss performance, and it is not staffed to do active monitoring.
+The challenge then becomes determining who should be responsible for
+assessing warbird safety culture and establishing guidance and effective mitigation to
+ensure the highest level of safety. Warbirds that are featured in different air shows
+may be owned by different organizations and individuals who may be performing
+together for the first time. Air show event organizers and air bosses may vary from
+one venue to another. Not all air shows incorporate warbirds, and not all air bosses
+work with warbirds. In short, there is a gap in regulation and observation of warbird
+air show performance and safety culture.
+The ICAS must rely on passive measures such as word of mouth and air boss
+observational periods (which are not required for air boss LOA renewals) to
+determine how successful an air boss is in the field or how successful an air show has
+been. The organization has no real means to proactively identify or assess risk in the
+air show environment, and its lack of authority over air shows and air bosses hampers
+its ability to determine or affect air show safety culture.
+Thus, the NTSB concludes that, although ICAS was responsible for
+administering the FAA-accepted program that specified the requirements for a
+72
+
+Aviation Investigation Report
+AIR-24-07
+person to obtain an air boss LOA, its role did not involve actively monitoring air
+shows or the performance of air bosses, underscoring the need for the FAA to
+address the regulatory void related to recurrent evaluations of air bosses and direct
+surveillance of their performance at air shows. Safety Recommendations A-24-31
+through -34 recommend that the FAA address these issues.
+73
+
+Aviation Investigation Report
+AIR-24-07

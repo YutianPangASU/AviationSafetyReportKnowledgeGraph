@@ -1,0 +1,696 @@
+National Transportation
+Safety Board
+PRSRT STD
+Washington, D.C. 20594
+Postage & Fees Paid
+OFFICIAL BUSINESS
+Penalty for Private Use, $300
+NTSB
+Permit No. G-200
+Controlled Flight Into Terrain
+Beech King Air 200, N501RH
+Stuart, Virginia
+October 24, 2004
+Aircraft Accident Brief
+NTSB/AAB-06/01
+PB2006-104812
+National National
+Transportation Transportation
+Safety Board Safety Board
+Washington, D.C. Washington, D.C.
+
+THE CORRECTION BELOW IS INCLUDED
+IN THIS VERSION OF THE PUBLISHED REPORT
+AIRCRAFT ACCIDENT BRIEF
+NTSB/AAB-06/01 (PB2006-104812)
+Controlled Flight Into Terrain
+Beech King Air 200, N501RH
+Stuart, Virginia
+October 24, 2004
+• The front cover, title page, abstract, and table of contents were added to this version of the accident brief.
+(March 16, 2006)
+The pages were originally missing from the brief.
+
+Aircraft Accident Brief
+Controlled Flight Into Terrain
+Beech King Air 200, N501RH
+Stuart, Virginia
+October 24, 2004
+NTSB/AAB-06/01
+PB2006-104812 National Transportation Safety Board
+Adopted February 7, 2006 490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+
+National Transportation Safety Board. 2006. Controlled Flight Into Terrain Beech King Air 200, N501RH
+Stuart, Virginia October 24, 2004. Aircraft Accident Brief NTSB/AAB-06/01. Washington, DC.
+The National Transportation Safety Board is an independent Federal agency dedicated to promoting aviation, railroad, highway,
+marine, pipeline, and hazardous materials safety. Established in 1967, the agency is mandated by Congress through the
+Independent Safety Board Act of 1974 to investigate transportation accidents, determine the probable causes of the accidents,
+issue safety recommendations, study transportation safety issues, and evaluate the safety effectiveness of government agencies
+involved in transportation. The Safety Board makes public its actions and decisions through accident reports, safety studies,
+special investigation reports, safety recommendations, and statistical reviews.
+Recent publications are available in their entirety on the Web at <http://www.ntsb.gov>. Other information about available
+publications also may be obtained from the Web site or by contacting:
+National Transportation Safety Board
+Records Management Division, CIO-40
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(800) 877-6799 or (202) 314-6551
+Safety Board publications may be purchased, by individual copy or by subscription, from the National Technical Information
+Service. To purchase this publication, order report number PB2006-104812 from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(800) 553-6847 or (703) 605-6000
+The Independent Safety Board Act, as codified at 49 U.S.C. Section 1154(b), precludes the admission into evidence or use of
+Board reports related to an incident or accident in a civil action for damages resulting from a matter mentioned in the report.
+
+iii
+Contents
+History of Flight........................................................................................................1
+Pilot Information.......................................................................................................6
+The.Captain...........................................................................................................6
+The First Officer....................................................................................................6
+Airplane Information...............................................................................................7
+Meterological Information.......................................................................................7
+Aids to Navigation.....................................................................................................8
+Airport Information..................................................................................................8
+Air Traffic Control................................................................................................8
+Flight Recorders........................................................................................................9
+Wreckage And Impact Information........................................................................9
+Medical And Pathological Information.................................................................10
+Tests And Research.................................................................................................11
+Propellers............................................................................................................11
+Engines................................................................................................................11
+Aircraft Performance Study................................................................................11
+Demonstration Flight..........................................................................................12
+Organizational And Management Information...................................................14
+Postaccident Actions...........................................................................................15
+Additional Information..........................................................................................15
+Analysis....................................................................................................................17
+Probable Cause........................................................................................................18
+
+
+
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+I T Washington, D.C. 20594
+A T IO
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: IAD05MA006
+Aircraft and Registration: Beech King Air 200, N501RH
+Location: Stuart, Virginia
+Date: October 24, 2004
+Adopted on: February 7, 2006
+HISTORY OF FLIGHT
+On October 24, 2004, about 1235 eastern daylight time,1 a Beech King Air 200,
+N501RH, operated by Hendrick Motorsports, Inc., crashed into mountainous terrain in
+Stuart, Virginia, during a missed approach to Martinsville/Blue Ridge Airport (MTV),
+Martinsville, Virginia. The flight was transporting Hendrick Motorsports employees and
+others to an automobile race in Martinsville, Virginia. The two flight crewmembers and
+eight passengers were killed, and the airplane was destroyed by impact forces and
+postcrash fire. The flight was operating under the provisions of 14 Code of Federal
+Regulations (CFR) Part 91 on an instrument flight rules (IFR) flight plan. Instrument
+meteorological conditions (IMC) prevailed at the time of the accident.
+The flight departed from Concord Regional Airport (JQF), Concord, North
+Carolina, about 1156. An examination of radar data and voice communications from the
+Federal Aviation Administration (FAA) revealed that, during the en route portion of the
+flight, a radar target identified as the accident airplane maintained all assigned altitudes
+and headings.
+As the airplane approached MTV, an air traffic controller advised the flight crew
+that the airplane was second in line for the localizer runway 30 approach. The controller
+instructed the pilots to hold “as published” on the localizer course at 4,000 feet mean sea
+level (msl)2 and to expect a 28-minute delay in the holding pattern. The flight crew
+requested 5-mile legs in the holding pattern, and the controller approved 5- or 10-mile
+legs at the crew’s discretion.
+The localizer runway 30 approach procedure (see figure 1) included an inbound
+course with a magnetic heading of 305º. The minimum descent altitude for the
+intermediate section of the approach and the holding pattern southeast of the BALES
+locator outer marker (LOM) was 2,600 feet. The BALES LOM is located at 6 distance
+1 All times in this brief are eastern daylight time based on a 24-hour clock.
+2 All altitudes and elevations in this brief are expressed as msl unless otherwise noted.
+
+2
+measuring equipment (DME)3 on the approach course. After crossing the BALES LOM
+on the inbound course, the minimum descent altitude on the final segment of the
+approach, for an airplane equipped with DME, was 1,340 feet. The missed approach point
+(MAP) was at 1 DME and near the approach end of the runway. The distance from the
+BALES LOM to the MAP was 5 nautical miles (nm). The published missed approach
+procedure instructed the pilot to make a “climbing right turn to 2,600 feet and proceed
+direct to BALES LOM and hold.”
+The accident airplane approached the BALES LOM from the south (see figure 2),
+crossed BALES at 4,000 feet, and turned right toward the outbound leg of the holding
+pattern. About that time, the flight crewmembers of the airplane that preceded the
+accident airplane on the approach announced that that they were canceling their IFR
+clearance after breaking out of the clouds during the approach and then proceeded to land
+at MTV.
+At 1224:19, while the accident airplane was still turning right to the outbound leg
+of the holding pattern, the controller asked the flight crew if the airplane was established
+in the holding pattern, and the crew confirmed, “we’re established.” At 1224:26, the
+controller cleared the airplane for the localizer runway 30 approach and requested that the
+flight crew advise him when the airplane was inbound on the approach. The airplane then
+completed a continuous right turn toward the inbound course and crossed the BALES
+LOM at an altitude of 3,900 feet.
+At 1226:53, the flight crew advised the controller that the airplane was
+“established inbound” on the approach. At 1227:04, the controller cleared the airplane for
+the approach and approved a radio frequency change from the approach control
+frequency to the common traffic advisory frequency (CTAF).4 At 4 DME, or 2 nm after
+crossing the BALES LOM on the inbound course, the airplane started to descend from
+4,000 feet (see figure 3). The airplane leveled off at 2,600 feet as it passed the MAP.
+About 1 nm past the MAP and over the runway, the airplane began a descent to 1,400 feet
+and continued on an approximate heading of 305º.
+The airplane leveled at 1,400 feet, about 4 nm beyond MTV and 5 nm beyond the
+MAP. The airplane maintained level flight between 1,400 and 1,500 feet for the next
+1 minute 13 seconds. At 1232:13, about 8 nm beyond MTV, the airplane initiated a
+straight-ahead climb.
+At 1233:08, the flight crew informed the controller, “we’re going missed at this
+time.” The controller asked the flight crew to repeat the radio transmission. The flight
+crew repeated the information, and the controller acknowledged the radio transmission.
+The controller received no further radio transmissions from the flight crew.
+3 One DME equals 1 nautical mile.
+4 According to FAA Order 7110.65, “Air Traffic Control,” paragraph 5-1-13, after a controller issues a
+frequency change to the CTAF, radar services are automatically terminated.
+NTSB/AAB-06/01
+
+3
+Figure 1. Localizer runway 30 approach.
+NTSB/AAB-06/01
+
+4
+Figure 2. Accident airplane’s flightpath.
+NTSB/AAB-06/01
+
+5
+Figure 3. Accident airplane’s altitude profile.
+At 1233:21, the controller advised the flight crew to climb and maintain
+4,400 feet. At 1233:24, the radar target was lost. The accident occurred on Bull Mountain
+in Stuart, Virginia, at an elevation of about 2,400 feet and near the extended centerline of
+the runway.
+Witnesses at MTV said that they heard the airplane pass overhead but did not see
+it because of the cloud cover. They stated that the engine sound was smooth and
+continuous with no interruption. One witness said that the engines sounded as though
+they were at idle. Two witnesses stated that they heard no increase in engine sound at the
+time they perceived the airplane to be at a position that coincided with the MAP.
+Two witnesses who were about 3 to 4 miles southeast of Bull Mountain saw an
+airplane fly past them at a low altitude. One of the witnesses said that the airplane was
+flying “flat and level” about 60 to 70 feet above ground level and was heading northwest.
+This witness also stated that, other than flying “very low,” the airplane did not appear to
+be in distress, and the landing gear appeared to be up. The witness further stated that the
+speed of the airplane “wasn’t extremely fast.” In addition, the witness noted that the fog
+level was low but could not tell how much lower the airplane was from the fog.
+A trooper with the Virginia State Police stated that, at the time of the accident and
+throughout the search and recovery efforts (which spanned throughout the day and
+NTSB/AAB-06/01
+
+6
+evening), Bull Mountain was completely obscured by clouds and fog. The trooper stated
+that the visibility was between 0 and 0.25 mile.
+PILOT INFORMATION
+The Captain
+The captain, age 51, held an airline transport pilot certificate with a rating for
+airplane multiengine land and a commercial pilot certificate with a rating for airplane
+single-engine land. The captain’s most recent FAA first-class medical certificate was
+issued on December 15, 2003, with the limitation that he “must have corrective lenses for
+near vision.” The captain was hired by Hendrick Motorsports on March 25, 2001.
+A review of company training records revealed that the captain had accumulated
+10,733 hours total flying time, including 8,600 hours in the Beech 1900. His total flying
+time in the Beech King Air 200 was 210 hours, with 152 hours as pilot-in-command
+(PIC). The captain had flown 67 hours in the last 90 days, 18 hours in the last 30 days,
+and about 30 minutes (the accident flight) in the last 24 hours.
+On May 20, 2001, the captain attended SimuFlite’s King Air 200 and King Air
+1900 recurrent differences training, which included ground and flight simulator training.
+He received a PIC proficiency check in accordance with 14 CFR 61.56 and an instrument
+competency check in accordance with 14 CFR 61.57. On May 16, 2002, the captain
+attended SimuFlite’s recurrent ground and flight simulator training for the King Air 300
+and 350. He received a PIC proficiency check in accordance with 14 CFR 61.58. On
+May 22, 2003, the captain attended FlightSafety’s Beech 1900 recurrent ground and flight
+simulator training. He received a PIC proficiency check in accordance with 14 CFR
+61.58.
+From January 19 to March 2, 2004, the captain attended FlightSafety’s Saab 2000
+initial second-in-command (SIC) training, which included ground and flight simulator
+training. He completed a SIC proficiency check in accordance with 14 CFR 61.55.
+The captain’s most recent flight review was on May 27, 2004. He completed
+Beech 1900 recurrent PIC ground and flight simulator training with FlightSafety and a
+PIC proficiency check in accordance with 14 CFR 61.58.
+The First Officer
+The first officer, age 31, held a commercial pilot certificate with ratings for
+airplane single-engine land, multiengine land, and instrument airplane. Her most recent
+FAA first-class medical certificate was issued on April 1, 2004, with no limitations. She
+was hired by Hendrick Motorsports on November 19, 2001.
+A review of company training records revealed that the first officer had
+accumulated 2,090 hours of total flying time, including 1,200 hours in single-engine
+airplanes and 860 hours in multiengine airplanes. Hendrick Motorsports reported that the
+NTSB/AAB-06/01
+
+7
+first officer had accumulated 640 hours of flying time since her date of hire, 121 hours of
+which were in the Beech King Air 200. The first officer had flown 67 hours in the last
+90 days, 27 hours in the last 30 days, and about 30 minutes (the accident flight) in the last
+24 hours.
+On April 8, 2001 (before she was hired by Hendrick Motorsports), the first officer
+attended SIMCOM’s initial training for the Beech 200. On May 16, 2002, the first officer
+attended SimuFlite’s ground and flight training for the King Air 300 and 350 and received
+a SIC proficiency check in accordance with 14 CFR 61.55. On June 26, 2003, the first
+officer attended FlightSafety’s Beech 1900 ground and flight recurrent training. She
+completed a proficiency check in accordance with 14 CFR 61.55.
+The first officer’s most recent flight review was on May 27, 2004. She completed
+FlightSafety’s Beech 1900 ground and flight recurrent SIC training, which satisfied the
+provisions of 14 CFR 61.55.
+AIRPLANE INFORMATION
+The accident airplane, a Beech King Air 200, was manufactured in 1981 and had
+accumulated 8,140 total flight hours. The airplane was equipped with Pratt & Whitney
+Canada turbopropeller engines and Hartzell four-bladed, hydraulically operated,
+constant-speed, feathering-type propellers.
+The airplane was being maintained in accordance with the manufacturer’s
+inspection program. The airplane’s most recent inspection was completed on June 25,
+2004, at 8,079 flight hours.
+The airplane was equipped with a Bendix/King KLN 90B global positioning
+system (GPS) receiver and a Mid-Continent Instruments MD-41 series GPS annunciation
+control unit. The GPS database was not current and therefore was not certified for IFR
+navigation. The airplane was not equipped with an enhanced ground proximity warning
+system (EGPWS).
+The airplane had been for sale, so a decision had been made to “park” the
+airplane; upgrade another King Air 200, N502RH, with an EGPWS; and certify that
+airplane’s GPS for IFR flight. The intended buyer for N501RH preferred N502RH and
+was allowed to purchase that airplane instead. As a result, the accident airplane was “put
+back out on the line” and was scheduled for a GPS upgrade and an EGPWS installation at
+the end of the 2004 racing season.
+METEROLOGICAL INFORMATION
+A National Transportation Safety Board meteorologist conducted a study of the
+weather conditions in southwestern Virginia and northern North Carolina on the day of
+the accident. The study depicted a warm front that produced overcast clouds, high relative
+humidity, patchy fog, and mist, which resulted in IMC across the region.
+NTSB/AAB-06/01
+
+8
+About 1140, the weather recorded at MTV included an overcast ceiling at 400 feet
+with 1 1/4 miles of visibility5 and wind from 200º at 3 knots. The temperature was 55º
+Fahrenheit (F), and the dew point was 55º F. The altimeter setting was 29.99 inches of
+mercury (Hg).
+About 1200, the weather recorded at MTV included an overcast ceiling at 600 feet
+with 5 miles of visibility and wind from 220º at 3 knots. The temperature was 57º F, and
+the dew point was 55º F. The altimeter setting was 29.98 inches of Hg.
+About 1220, the weather recorded at MTV included an overcast ceiling at 600 feet
+with 5 miles of visibility and calm winds. The temperature was 57º F, and the dew point
+was 55º F. The altimeter setting was 29.98 inches of Hg.
+The captain of the airplane that preceded the accident airplane on the approach
+stated that his airplane descended below the cloud layer about 150 feet above the
+published minimums. He also stated that the visibility below the clouds was “pretty
+clear” with about 2 miles visibility. The captain further stated that he did not recall the
+reported weather but did recall that the actual weather fluctuated as the airplane
+descended toward MTV and was “a little better” than reported.
+AIDS TO NAVIGATION
+After the accident, FAA and State of Virginia personnel conducted a ground
+inspection of all navigational equipment at MTV. The inspection revealed that the
+equipment functioned satisfactorily. Also, the FAA conducted a flight check inspection of
+the equipment at MTV, and no problems were noted.
+AIRPORT INFORMATION
+Air Traffic Control
+On October 25, 2004, a Safety Board air traffic control (ATC) specialist requested
+voice communication tapes, transcript information, and radar data from the FAA.
+Examination of voice communication tapes revealed that the air traffic controller issued
+the holding instructions, the approach clearance, and the frequency change in accordance
+with FAA Order 7110.65, “Air Traffic Control.” Radar data were derived from the
+Greensboro Airport Surveillance Radar-9 radar. Additional radar data were obtained from
+the U.S. Air Force 84th Radar Evaluation Squadron and the Roanoke Air Route
+Surveillance Radar.
+The Safety Board’s ATC specialist conducted a postaccident interview with the
+certified professional controller who provided ATC services to the flight crew before the
+accident. At the time of the accident, the controller was working the west radar and final
+5 In this section, cloud cover is expressed in feet above ground level, and visibility is expressed in
+statute miles.
+NTSB/AAB-06/01
+
+9
+radar positions at the Greensboro/Winston-Salem ATC tower. The controller was
+responsible for approach control services for the Greensboro/Winston-Salem airport and
+11 satellite airports, including MTV. This area of responsibility extended about 30 nm
+north, 25 nm east, and 25 nm west of the Greensboro/Winston-Salem airport from the
+ground to 12,000 feet. MTV was located in the northern portion of the controller’s area of
+responsibility. The controller stated that the MTV runway was shown on the ATC tower’s
+radar display map. He also explained that controllers could select an additional map that
+depicted the final approach courses for the satellite airports (including MTV). In addition,
+the controller stated that, when an aircraft executed a localizer runway 30 approach to
+MTV according to the published descent profile, radar contact would normally be lost
+when the aircraft reached 2,000 feet, which occurred about 2 nm before the airport.
+The controller stated that he observed the accident airplane’s radar track when the
+airplane was about 3 nm southeast of MTV and was descending from 3,600 feet. He
+thought that the airplane was high for the approach but could not question the pilots
+because they had already been cleared to change to the CTAF and, as a result, the
+controller no longer had responsibility for the flight.
+At 1230:07, when the airplane was 2.5 nm northwest of the airport and at an
+altitude of 1,800 feet, the controller’s computer system generated a minimum safe
+altitude warning (MSAW) alert that lasted for 15 seconds. MSAW provides visual and
+aural alerts to controllers if a mode C-equipped aircraft is, or is projected to be, below an
+appropriate terrain clearance altitude. A review of the radar data indicated that an MSAW
+alert had sounded and was visually displayed on the controller’s radar display as a
+flashing “LA” (low altitude) in the data block for the accident airplane. The controller
+stated that he did not observe or hear the MSAW alert.
+At 1230:12, the last radar return from the airplane was received. The MSAW
+predicted the projected path of the airplane for another 10 seconds, and the alert ended at
+1230:22. The airplane continued to fly beneath radar coverage for about 3 minutes before
+the flight crew declared the missed approach on the approach control radio frequency.
+FLIGHT RECORDERS
+The airplane was not equipped with a cockpit voice recorder (CVR) or flight data
+recorder (FDR) and was not required by Federal regulations to be so equipped.
+WRECKAGE AND IMPACT INFORMATION
+The airplane wreckage was found on October 25, 2004, and all major components
+were accounted for at the accident scene. The airplane came to rest on the southeast face
+of Bull Mountain at an elevation of about 2,450 feet. The initial impact point was in trees,
+and the treetops were cut off at an angle that was parallel to the horizon. The distance
+from the first tree strikes to the initial ground scar was about 105 feet. The tree strikes
+and the ground scar were both at an elevation of about 2,400 feet. The distance from the
+NTSB/AAB-06/01
+
+10
+initial ground scar to the main wreckage was about 95 feet. Several pieces of angularly
+cut wood were found along the debris path beneath the trees.
+The main wreckage was found in an upright position. The cockpit and cabin were
+destroyed by impact forces and postcrash fire. The empennage and tail sections were still
+attached to the fuselage but were twisted and in an inverted position. The vertical fin and
+rudder were damaged by impact forces and postcrash fire. The left horizontal stabilizer
+was mostly intact with the elevator attached. The right horizontal stabilizer was damaged
+by impact forces, with the inboard section of the elevator still attached and pieces of the
+outboard section of the elevator scattered along the wreckage path.
+Both wings were still attached to the fuselage at points just outside of the engine
+nacelle on each wing. The wings’ outboard sections and their associated parts were
+scattered along the wreckage path. The inboard sections were essentially intact but were
+damaged by impact forces and postcrash fire. The left and right wing flaps were retracted,
+and the left and right main landing gear were retracted and in their respective wheel
+wells.
+The left engine was in its nacelle and was still attached to the wing by cables and
+wires. The engine was damaged by impact forces and postcrash fire. The left propeller
+assembly had separated from the engine and was found beneath the fuselage and
+entangled with the wreckage. Each blade showed similar twisting and bending, leading
+edge gouging, and chordwise scratching. Two blades were bent over almost 180º at
+midspan. Another blade was fractured, and the outboard one-third had separated. Another
+blade had a blade tip that was wrinkled and torn. The propeller shaft was fractured with
+fracture surfaces that were consistent with impact forces and overload.
+The right engine had separated from its wing and was found uphill from the main
+wreckage. The engine was damaged by impact forces and postcrash fire. The propeller
+shaft was fractured and had fracture surfaces that were consistent with impact forces and
+overload. The right propeller assembly was located adjacent to the initial impact crater in
+an upright position and with all four propeller blades attached. Three of the four blades
+displayed similar twisting, bending, leading edge gouging, and chordwise scratching.
+Two of these blades had blade tips that were fractured. One blade was bent aft.
+Control cable continuity was established from the cockpit to the flight control
+surfaces, except for the ailerons. Aileron cable continuity was established from the
+cockpit to the point of left and right wing separation outside of the engine nacelles. The
+breaks in the aileron cables displayed evidence of overload.
+MEDICAL AND PATHOLOGICAL INFORMATION
+The Office of the Chief Medical Examiner, Roanoke, Virginia, performed
+autopsies on the flight crew and passengers. The Chief Medical Examiner determined that
+the cause of death for the airplane occupants was blunt force trauma.
+NTSB/AAB-06/01
+
+11
+The FAA’s Bioaeronautical Sciences Research Laboratory, Oklahoma City,
+Oklahoma, performed toxicological testing on the captain and the first officer. According
+to the toxicological testing report for the captain, metoprolol (a prescription blood
+pressure medication that is also used to reduce the risk of a heart attack) was detected in
+his blood and liver. The captain had indicated his use of ToprolTM (metoprolol) on his
+most recent application for an FAA airman medical certificate.
+According to the toxicological testing report for the first officer, diphenhydramine
+(a sedating, over-the-counter antihistamine that is often known as Benadryl™ and is
+typically used for allergy symptoms) was detected in her liver and kidney.
+TESTS AND RESEARCH
+Propellers
+On December 1, 2004, the propellers were examined at an aircraft recovery
+facility in Clayton, Delaware. The propellers’ hub and blades were made of aluminum,
+and the propellers rotated in a clockwise direction (when viewed from the back). Neither
+propeller was feathered, which was consistent with normal operation. All of the damage
+(significant twisting, bending, leading edge gouging, and tearing of the blades) was
+consistent with impact forces, and no evidence indicated a mechanical anomaly.
+Engines
+From January 26 to 28, 2005, the engines were examined at the Pratt & Whitney
+factory in Montreal, Canada, under the supervision of the Transportation Safety Board of
+Canada. No anomalies or mechanical deficiencies were found.
+Aircraft Performance Study
+An aircraft performance study was conducted by a Safety Board aircraft
+performance specialist. The study used data from three separate radar facilities to depict
+the flightpath of the accident airplane from the en route phase of flight to the BALES
+LOM, throughout the approach, and beyond the airport to the crash site.
+The published missed approach procedure called for a climbing right turn at the
+MAP, which is over the runway threshold. Radar data indicated that the flight crew
+initiated the missed approach 7.5 nm beyond the MAP. The airplane then entered a
+straight-ahead climb on the runway heading.
+The aircraft performance study also presented the flightpath that the airplane
+would have flown if it had entered a climbing right turn at the point where the climb was
+initiated. Interpolation of nominal climb rates and a standard turn rate depicted a
+flightpath that would have kept the airplane clear of terrain. Figure 4 compares the
+airplane’s flightpath (in blue) with the flightpath that would have resulted if the airplane
+had entered a standard-rate right turn during the climb (in red).
+NTSB/AAB-06/01
+
+12
+Figure 4. Depiction of the accident flightpath (blue) and the flightpath incorporating a
+climbing right turn (red) along with terrain elevations.
+Demonstration Flight
+On January 7, 2005, the Operations Group Chairman participated in a
+demonstration flight in a Hendrick Motorsports Beech 1900 (N503RH) with two
+company pilots aboard. One purpose of the flight was to demonstrate the operation and
+functions of the Bendix/King KLN 90B GPS, the Mid-Continent Instruments MD-41
+series GPS annunciation control unit, and other associated instrument displays. Another
+purpose of the flight was to observe the GPS runway 30 approach and the localizer
+runway 30 approach to MTV and other airplane navigation and system features that were
+available in the accident airplane.
+If the database were current, the GPS unit would display the expiration date. If the
+database were expired, the GPS unit would indicate so, and the pilot would have to
+acknowledge the database’s expiration. On powerup, the database displayed a date of
+September 3, 2003, with the message “non-current database.” The database also
+displayed a message indicating that “all data must be confirmed before use,” which was
+acknowledged by the pilot.
+The pilots stated that they always used the “track up” feature versus the “north
+up” feature on the GPS. The track up feature showed the airplane flying to the top of the
+GPS screen, which provided better situational awareness than showing the airplane’s
+relation to north at the top of the screen.
+NTSB/AAB-06/01
+
+13
+With the GPS selected on the GPS annunciation control unit, the horizontal
+situation indicators (HSI) displayed GPS information, including to/from indications,
+course needle steering, and distance to waypoint. However, when a localizer or
+instrument landing system frequency was tuned on the No. 1 NAV (navigation) radio,
+which is displayed on the captain’s (left) side, the autoselect frequency feature
+automatically replaced the GPS information from the captain’s HSI with information
+pertaining to the NAV mode. (According to the flight crew, the GPS features functioned
+identically in the accident airplane.)
+On the demonstration airplane, the GPS was installed in the front instrument
+panel. As a result, the flight crew could easily view the GPS screen.6
+After the demonstration airplane took off from Henderson Oxford Airport,
+Oxford, North Carolina, the pilots selected the Danville very high frequency
+omnidirectional range (VOR), BALES LOM, and MTV as waypoints. While the airplane
+was approaching the Danville VOR, a flashing waypoint light illuminated on the GPS
+annunciation control unit on the front instrument panel. The light flashed for about 1.5
+nm until the airplane passed the Danville VOR. The GPS autosequenced to the next
+waypoint, which was the BALES LOM, and drew a course line from the Danville VOR
+to BALES, which was depicted on the GPS screen. A message light then illuminated on
+the annunciation control unit, and the message on the GPS screen instructed the pilot to
+set the course deviation indicator (CDI) on the course to the BALES LOM. Once the CDI
+was set, the message light extinguished.
+The GPS autoscale feature automatically chose the smallest map scale that
+displayed the active waypoint and the waypoint after the active waypoint if one existed.
+At this point of the flight, the BALES LOM and MTV were depicted on the GPS screen.
+When the airplane was about 1.5 nm from the BALES LOM, the flashing
+waypoint light illuminated on the GPS annunciator panel, and the waypoint identifier
+(BALES) flashed on the GPS screen. When the airplane was over the BALES LOM, the
+automatic direction finder (ADF), which was tuned to BALES, indicated a needle swing
+on both the captain’s and the first officer’s radio magnetic indicators. The needle swing
+confirmed that the airplane was passing directly over the BALES LOM. After the
+airplane crossed the BALES LOM, the flashing waypoint light went out. The GPS
+autosequenced to the MTV waypoint, and the HSI showed that the distance to the
+waypoint was 5.2 nm.
+The message light on the annunciation control unit illuminated, and the message
+reminded the pilot to set the CDI on a course of 305º (the inbound course for the localizer
+runway 30 approach). The pilot set the CDI on a course of 305º.
+After the airplane crossed the BALES LOM, the pilot initiated a right turn and
+continued that turn to the inbound course. Once the airplane was established on the
+6 On the accident airplane, the GPS was installed between the cockpit seats below the level of the seat
+cushion. As a result, pilots in both seats were required to turn their heads 90º toward the center of the
+airplane and then downward to view the screen.
+NTSB/AAB-06/01
+
+14
+inbound course, the captain’s HSI showed a 5.1 nm distance readout to the MTV
+waypoint, and the first officer’s HSI showed a 5.6 DME distance readout to the
+localizer/DME station.
+After the airplane had overflown the airport, the distance readouts increased on
+the captain’s and the first officer’s HSIs. After the airplane had passed the departure end
+of the runway, the distance readouts showed a 0.5 nm difference (which was the same as
+the difference shown inbound). On the GPS screen, no course line was depicted beyond
+the airport; only the moving airplane symbol was displayed with a line drawn from the
+airplane symbol back to the airport. Because no additional waypoints had been entered
+into the GPS, no further waypoints were available for autosequencing.
+During two approaches, when the airplane had overflown the localizer antenna,
+some CDI needle movement occurred to the right and back to center. During all of the
+runway overflights, the NAV flags did not appear on the captain’s or the first officer’s
+HSIs when the airplane passed over the localizer antenna. The GPS steering on the
+captain’s side remained steady at all times.
+Interviews with pilots at Hendrick Motorsports, including the pilot of the
+company’s identically equipped King Air 200, N502RH, revealed that the Bendix/King
+KLN 90B GPS was used for backup only and strictly for position awareness. Further, the
+pilots who had flown the accident airplane and N502RH to MTV on the localizer
+runway 30 approach had all used the GPS and had set up the BALES LOM and MTV as
+waypoints.
+The KLN 90B GPS Pilot’s Guide stated the following: “as you become proficient
+with using the KLN 90B, don’t be tempted to rely on it as the sole means of navigation. A
+good pilot never relies on just one source of navigation for either VFR [visual flight
+rules] or IFR flying. Cross check your position using VOR, DME, ADF, or other
+navigational devices you may have in the cockpit – including your eyes!”
+ORGANIZATIONAL AND MANAGEMENT INFORMATION
+Hendrick Motorsports, Inc., has operated under different names as the company
+grew and evolved. On February 1, 1980, the company hired its first pilot, who, at the time
+of the accident, was still employed by the company as a captain. At the time of the
+accident, the company employed 18 pilots (including the accident pilots): 15 were
+designated as captains, and 3 were designated as first officers. Over the years, Hendrick
+Motorsports bought and sold several airplanes, including the Piper Cheyenne II,
+Cessna 340, Challenger, Westwind, Falcon 20, Hawker 800, and Learjet 25 and 55. At the
+time of the accident, the company owned two King Air 200s, two Gulfstream IIs, two
+Beech 1900s, a Bell 407 helicopter, and three Saab 2000s. These aircraft were based at
+JQF.
+During a postaccident interview, the captain who was hired as Hendrick
+Motorsports’ first pilot stated that, before the accident flight, the company’s flight
+department had never experienced any accidents, incidents, or violations. He also stated
+NTSB/AAB-06/01
+
+15
+that the company never pressured any pilots to fly in bad weather and that the pilots
+always made the final decision regarding whether to fly in such conditions. The captain
+further stated that the flight department’s maintenance costs were never questioned and
+that the department’s budget was not limited because senior company management
+“wanted it done right.”
+Postaccident Actions
+After the accident, Hendrick Motorsports made immediate, short-term, and
+long-term changes to the company’s organization, practices, and equipment. Some of
+these changes had already been planned or were in progress at the time of the accident
+and were further enhanced as a result of the company’s participation in the investigation.
+Hendrick Motorsports installed an EGPWS on each aircraft. The EGPWS
+provides pilots with a pictorial view of terrain (displayed on the radar screen, the
+multifunction display, or the GPS screen) in addition to aural warnings (as provided by
+the EGPWS). The company also installed a traffic alert collision avoidance system in
+each aircraft. Further, the company installed new Garmin GPS 400 units (with EGPWS)
+in Beech 1900 airplanes. In addition, the company moved the terrain depiction on the
+Gulfstream II from the global navigation system screen, which is mounted on the center
+console, to the radar screen on the front instrument panel, which is directly in the pilot’s
+view.
+Hendrick Motorsports created three new positions: aviation director, safety
+program manager, and full-time dispatcher. (The company previously had a part-time
+dispatcher.) The company’s chief pilot was selected as aviation director and was
+responsible for the oversight of the entire aviation department. (The most senior company
+pilot was then promoted to chief pilot.) The responsibilities of safety program manager
+were added to the duties of a newly hired pilot who had a background in safety for a
+major airline.
+Along with the staffing changes, Hendrick Motorsports established a safety
+committee that comprised staff members from the company’s operations, flight, and
+maintenance departments and hired an independent safety consulting firm to review the
+flight department’s operations. Also, Hendrick Motorsports consolidated the company’s
+standard operating procedures for all aircraft in its fleet and issued addendums to the
+procedures for each aircraft model. In addition, Hendrick Motorsports revised the
+company’s training plan to include two training sessions per year for each pilot. One
+session consisted of recurrent training, with 1 week of academic and flight simulator
+training. The other session consisted of 1 day of academic training for special
+circumstances (for example, cold weather considerations and mountain flying) and 1 day
+of emergency procedures training in a flight simulator.
+ADDITIONAL INFORMATION
+The FAA’s Aeronautical Information Manual (AIM) chapter 5, “Air Traffic
+Control Procedures,” section 5, “Pilot/Controller Roles and Responsibilities,”
+NTSB/AAB-06/01
+
+16
+paragraph 5-5-7, “Safety Alert,” states that pilots should initiate appropriate action if they
+receive a safety alert7 from ATC and that they should “be aware that this service is not
+always available, and that many factors affect the ability of the controller to be aware of a
+situation in which unsafe proximity to terrain, obstructions, or proximity to other aircraft
+may be developing.”
+AIM chapter 5, section 4, “Arrival Procedures,” paragraph 5-4-20, “Missed
+Approach,” states, in part, the following standard guidance for pilots:
+a. When a landing cannot be accomplished, advise ATC and, upon
+reaching the missed approach point defined on the approach procedure
+chart, the pilot must comply with the missed approach instructions for
+the procedure being used or with an alternate procedure specified by
+ATC.
+b. Protected obstacle clearance areas for missed approach are predicated
+on the assumption that the missed approach is initiated at…the missed
+approach point and not lower than the minimum descent altitude.
+f. Pilots must ensure that they have climbed to a safe altitude prior to
+proceeding off the published missed approach, especially in non-radar
+environments.
+7 According to the AIM, controllers are to issue a safety alert if they become aware that an aircraft
+under their control is at an altitude that, in their judgment, places the aircraft in unsafe proximity to terrain,
+obstructions, or other aircraft.
+NTSB/AAB-06/01
+
+17
+ANALYSIS
+The corporate Beech King Air 200 approached the nontowered destination airport
+on an IFR flight plan in IMC. The flight crew was instructed to hold at the BALES LOM
+on the localizer course at an altitude of 4,000 feet and was then cleared for the approach
+during the initial right turn over the LOM. The airplane continued the turn until it was
+established on the localizer course inside the LOM at an altitude of about 3,900 feet. The
+airplane would have been expected to initially cross the BALES LOM at 4,000 feet; turn
+outbound on an extended leg; then, after being cleared for the approach, turn to the
+inbound course with sufficient distance from the BALES LOM to descend to an altitude
+of 2,600 feet before crossing the BALES LOM. Once the airplane was established on the
+localizer course, ATC issued a radio frequency change to the CTAF, and ATC radar
+services were automatically terminated. Two nm after crossing the BALES LOM, the
+airplane descended from 4,000 to 2,600 feet near the MAP. During this flight segment,
+the airplane would have been expected to descend from 2,600 feet at the BALES LOM to
+1,340 feet at the MAP. However, an examination of the radar data showed that the
+airplane flew an approach that was displaced by about 5 nm compared with the published
+approach.
+The published missed approach procedure instructed pilots, at the MAP, to make a
+climbing right turn directly to the BALES LOM and hold at 2,600 feet. Radar data
+showed that the accident airplane did not make a climbing right turn, as required in the
+published missed approach procedure. Instead, after passing the MAP, the airplane
+continued to descend from 2,600 feet on a course of 305º and leveled off at 1,400 feet,
+which was again consistent with a 5-nm displacement. About 8 nm beyond the airport,
+the airplane initiated a straight-ahead climb and climbed about 700 feet over the next
+2 nm before the flight crew declared a missed approach on the approach control
+frequency. ATC acknowledged the call, and, about 3 seconds later, the airplane’s radar
+target was lost near the location of the crash site. The accident occurred in mountainous
+terrain at an elevation of about 2,400 feet. Examination of the airplane revealed no
+mechanical anomalies. The airplane was not equipped with an EGPWS.
+When the airplane was 2.5 nm northwest of the airport and at an altitude of
+1,800 feet, the controller’s computer system generated an MSAW alert, which lasted
+15 seconds. The controller stated that he did not observe or hear the MSAW alert.
+However, the MSAW alert was not a factor in this accident because, at the time of the
+alert, radar services had already been terminated, and the airplane was not under the
+control of ATC. In addition, the airplane continued to fly for about another 7 miles before
+the accident occurred. During this time, no further MSAW alerts were generated because
+the airplane was flying beneath radar coverage.
+Two distinct differences exist between the published approach procedure and the
+manner in which the accident pilots flew the approach. First, once the accident airplane
+was established on the inbound course, the descents to 2,600 and 1,400 feet appeared to
+be keyed to the MAP or MTV rather than to the BALES LOM. Second, the missed
+approach was initiated 7 to 8 nm past the MAP and was not properly executed.
+NTSB/AAB-06/01
+
+18
+An airplane performance study presented the flightpath that the airplane would
+have flown if it had entered a climbing right turn at the point that the straight-ahead climb
+was initiated. Interpolation of nominal climb rates and standard turn rates depicted a
+flightpath that was clear of terrain.
+The airplane was not equipped with a CVR or an FDR, which prevented the
+Safety Board from determining the events that occurred in the cockpit during the
+approach. However, the accident approach profile is consistent with the pilots using the
+GPS data to navigate to the BALES LOM and then failing to notice that the GPS had
+autosequenced to MTV after the airplane passed BALES. Once the airplane was inbound,
+the pilots might have mistakenly believed that the airplane was showing distance data to
+the BALES LOM when, in fact, the airplane was showing distance data to MTV.
+The airplane was equipped with an IFR-capable GPS receiver, but the database
+was not current, and the GPS was not certified for IFR navigation. GPS course guidance
+would be displayed on the pilots’ HSIs unless a localizer frequency was tuned on the
+No. 1 NAV radio. Postaccident interviews with company pilots revealed that the GPS was
+used for backup navigation and position awareness only. Pilots would typically program
+the LOM and the airport as waypoints, and the GPS would autosequence to the airport as
+the airplane passed the LOM and provide distance and navigation information to the
+airport. For approaches that required crossing the LOM twice, first to define the turn to
+the outbound leg and then to define the final approach fix on the inbound leg, the GPS
+would autosequence to the airport at the initial LOM crossing.

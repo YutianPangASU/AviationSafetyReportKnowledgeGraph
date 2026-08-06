@@ -1,0 +1,1801 @@
+Crash During Landing
+Executive Airlines (doing business as
+American Eagle) Flight 5401
+Avions de Transport Regional 72-212, N438AT
+San Juan, Puerto Rico
+May 9, 2004
+Aircraft Accident Report
+NTSB/AAR-05/02
+PB2005-910402
+Notation 7650A
+National
+Transportation
+Safety Board
+Washington, D.C.
+
+THE CORRECTION BELOW IS INCLUDED
+IN THIS VERSION OF THE PUBLISHED REPORT
+AIRCRAFT ACCIDENT REPORT
+NTSB/AAR-05/02 (PB2005-910402)
+Crash During Landing
+Executive Airlines (doing business as American Eagle) Flight 5401
+Avions de Transport Regional 72-212, N438AT
+San Juan, Puerto Rico
+May 9, 2004
+• Page number 100.1 between 100 and 101 in Appendix B has been added. (17 November 2005)
+The page was originally missing from the report.
+
+Aircraft Accident Report
+Crash During Landing
+Executive Airlines (doing business as
+American Eagle) Flight 5401
+Avions de Transport Regional 72-212, N438AT
+San Juan, Puerto Rico
+May 9, 2004
+A L T RAN SPOR
+N T
+ATI O E PLURIBUS UNUM A T IO
+N N
+NTSB/AAR-05/02
+S AFETYBO ARD
+PB2005-910402 National Transportation Safety Board
+Notation 7650A 490 L’Enfant Plaza, S.W.
+Adopted September 7, 2005 Washington, D.C. 20594
+
+National Transportation Safety Board. 2005. Executive Airlines (doing business as American Eagle)
+Flight 5401, Avions de Transport Regional 72-212, N438AT, San Juan, Puerto Rico, May 9, 2004.
+Aircraft Accident Report NTSB/AAR-05/02. Washington, DC.
+Abstract: This report explains the accident involving Executive Airlines (doing business as American
+Eagle) flight 5401, an Avions de Transport Regional 72-212, which skipped once, bounced hard twice, and
+then crashed at Luis Muñoz Marin International Airport, San Juan, Puerto Rico. Safety issues discussed in
+this report focus on flight crew performance, the lack of company bounced landing recovery guidance and
+training, and malfunctioning flight data recorder potentiometer sensors. Safety recommendations
+concerning these issues are addressed to the Federal Aviation Administration.
+The National Transportation Safety Board is an independent Federal agency dedicated to promoting aviation, railroad, highway, marine,
+pipeline, and hazardous materials safety. Established in 1967, the agency is mandated by Congress through the Independent Safety Board
+Act of 1974 to investigate transportation accidents, determine the probable causes of the accidents, issue safety recommendations, study
+transportation safety issues, and evaluate the safety effectiveness of government agencies involved in transportation. The Safety Board
+makes public its actions and decisions through accident reports, safety studies, special investigation reports, safety recommendations, and
+statistical reviews.
+Recent publications are available in their entirety on the Web at <http://www.ntsb.gov>. Other information about available publications also
+may be obtained from the Web site or by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(800) 877-6799 or (202) 314-6551
+Safety Board publications may be purchased, by individual copy or by subscription, from the National Technical Information Service. To
+purchase this publication, order report number PB2005-910402 from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(800) 553-6847 or (703) 605-6000
+The Independent Safety Board Act, as codified at 49 U.S.C. Section 1154(b), precludes the admission into evidence or use of Board reports
+related to an incident or accident in a civil action for damages resulting from a matter mentioned in the report.
+
+iii Aircraft Accident Report
+Contents
+Figures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+Abbreviations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vi
+Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . viii
+1.Factual Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.1 History of Flight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.2 Injuries to Persons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.3 Damage to Airplane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.4 Other Damage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.5 Personnel Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.5.1 The Captain . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.5.2 The First Officer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1.5.2.1 The First Officer’s Medical History and Prescription Drug Use . . . . . . . . . . . . . 7
+1.5.3 The Flight Attendants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+1.6 Airplane Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+1.6.1 Pitch Control System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1.6.2 Landing Gear System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+1.6.3 Cockpit Seats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.7 Meteorological Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.7.1 Airport Weather Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.7.2 Additional Wind Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.8 Aids to Navigation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+1.9 Communications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+1.10 Airport Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+1.11 Flight Recorders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.11.1 Cockpit Voice Recorder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.11.2 Flight Data Recorder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.11.2.1 Validation of Flight Data Recorder Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.11.2.2 Aileron Surface Position Sensors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+1.12 Wreckage and Impact Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+1.12.1 General Wreckage Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+1.12.2 Fuselage, Wings, and Engines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+1.12.3 Landing Gear System and Components . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+1.12.4 Elevator and Rudder Control Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+1.12.5 Cockpit Seats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+1.13 Medical and Pathological Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+1.14 Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+1.15 Survival Aspects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+1.15.1 General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+1.15.2 Evacuation of Passengers and Crewmembers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+1.15.3 Emergency Response . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+1.16 Tests and Research . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+Contents iv Aircraft Accident Report
+1.16.1 Airplane Performance Study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+1.16.2 Air Traffic Control Radar Data Study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+1.16.3 Cockpit Seat Assembly Metallurgical Examinations . . . . . . . . . . . . . . . . . . . . . . . 23
+1.16.3.1 Accident Airplane Cockpit Seat Assemblies . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+1.16.3.2 FAA Vertical Drop Test of ATR-42 Cockpit Seats . . . . . . . . . . . . . . . . . . . . . . 24
+1.17 Organizational and Management Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+1.17.1 Flight Crew Training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+1.17.1.1 Simulator Flight Training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+1.17.1.1.1 Observations of Simulator Sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+1.17.1.2 Crew Resource Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+1.17.1.3 Bounced Landing Recovery Training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+1.17.2 Operational Guidance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+1.17.2.1 Approach Airspeed Guidance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+1.17.2.2 Before Landing Checklist . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+1.17.2.3 Evacuation Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+1.18 Additional Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+1.18.1 Additional Information About Ipeco Cockpit Seats . . . . . . . . . . . . . . . . . . . . . . . . 31
+1.18.1.1 General Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+1.18.1.2 Ipeco Cockpit Seat Tensile Strength Testing . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+1.18.1.3 Ipeco’s Postaccident Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+1.18.2 Previous Bounced Landing Recovery Guidance and
+Training-Related Safety Recommendation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+1.18.3 Previous Flight Data Recorder Potentiometer
+Sensor-Related Safety Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+2. Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+2.1 General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+2.2 Accident Sequence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+2.3 Bounced Landing Recovery Guidance and Training . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+2.4 Quality of Data Provided by Flight Data
+Recorder Potentiometer Sensors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+2.5 The First Officer’s Medical Condition and Prescription
+Drug Use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+2.6 Uncoupling of the Pitch Control Uncoupling Mechanism . . . . . . . . . . . . . . . . . . . . . . 43
+2.7 Failure of the Left Main Landing Gear . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+3.Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+3.1 Findings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+3.2 Probable Cause . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+4.Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+5.Appendixes
+A: Investigation and Public Hearing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+B: Cockpit Voice Recorder Transcript . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+
+v AircraftAccidentReport
+Figures
+1. Ground track of the accident flight. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+12a.. Altitude profile of the accident flight. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+23.. Main landing gear assembly.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+34.. Ground scrape marks and the main wreckage.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+45.. Interior configuration of the airplane. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+56.. Schematic of the cockpit seat assembly.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+vi AircraftAccidentReport
+Abbreviations
+AFFF aqueous film forming foam
+ALAR approach and landing accident reduction
+AOM Airplane Operating Manual
+ARFF aircraft rescue and firefighting
+ASOS Automated Surface Observing System
+ATC air traffic control
+ATIS automatic terminal information service
+ATR Avions de Transport Regional
+BEA Bureau d’Enquêtes et d’Analyses pour la Sécurité de l’Aviation
+Civile
+c.g. center of gravity
+CAM cockpit area microphone
+CF center field
+CFR Code of Federal Regulations
+CLB climb
+CRM crew resource management
+CRZ cruise
+CVR cockpit voice recorder
+DFDAU digital flight data acquisition unit
+DFW Dallas/Fort Worth International Airport
+FAA Federal Aviation Administration
+FARs Federal Aviation Regulations
+FDR flight data recorder
+fps feet per second
+GPWS ground proximity warning system
+HBAW flight standards handbook bulletin for airworthiness
+IOE initial operating experience
+KIAS knots indicated airspeed
+LOFT line-oriented flight training
+MAZ Eugenio Mariá de Hostos Airport
+MDCRS Meteorological Data Collection and Reporting System
+
+Abbreviations vii AircraftAccidentReport
+mg milligram
+MLG main landing gear
+msl mean sea level
+NLG nose landing gear
+PA public address
+PIC pilot-in-command
+SB service bulletin
+SJU Luis Muñoz Marin International Airport
+SNPRM supplemental notice of proposed rulemaking
+STC supplemental type certificate
+STT Cyril E. King International Airport
+TO takeoff
+VASI visual approach slope indicator
+
+viii AircraftAccidentReport
+Executive Summary
+On May 9, 2004, about 1450 Atlantic standard time, Executive Airlines (doing
+business as American Eagle) flight 5401, an Avions de Transport Regional 72-212,
+N438AT, skipped once, bounced hard twice, and then crashed at Luis Muñoz Marin
+International Airport, San Juan, Puerto Rico. The airplane came to a complete stop on a
+grassy area about 217 feet left of the runway 8 centerline and about 4,317 feet beyond the
+runway threshold. The captain was seriously injured; the first officer, 2 flight attendants,
+and 16 of the 22 passengers received minor injuries; and the remaining 6 passengers
+received no injuries. The airplane was substantially damaged. The airplane was operating
+under the provisions of 14 Code of Federal Regulations Part 121 as a scheduled passenger
+flight. Visual meteorological conditions prevailed for the flight, which operated on an
+instrument flight rules flight plan.
+The National Transportation Safety Board determines that the probable cause of
+this accident was the captain’s failure to execute proper techniques to recover from the
+bounced landings and his subsequent failure to execute a go-around.
+The safety issues in this report include flight crew performance, the lack of
+company bounced landing recovery guidance and training, and malfunctioning flight data
+recorder potentiometer sensors. Safety recommendations concerning bounced landing
+recovery guidance and training and flight control surface position sensors are addressed to
+the Federal Aviation Administration.
+
+1 AircraftAccidentReport
+1. Factual Information
+1.1 History of Flight
+On May 9, 2004, about 1450 Atlantic standard time,1 Executive Airlines (doing
+business as American Eagle) flight 5401, an Avions de Transport Regional (ATR) 72-212,
+N438AT, skipped once, bounced hard twice,2 and then crashed at Luis Muñoz Marin
+International Airport (SJU), San Juan, Puerto Rico. The airplane came to a complete stop
+on a grassy area about 217 feet left of the runway 8 centerline and about 4,317 feet beyond
+the runway threshold. The captain was seriously injured; the first officer, 2 flight
+attendants, and 16 of the 22 passengers received minor injuries; and the remaining
+6passengers received no injuries. The airplane was substantially damaged. The airplane
+was operating under the provisions of 14 Code of Federal Regulations (CFR) Part 121 as a
+scheduled passenger flight. Visual meteorological conditions prevailed for the flight,
+which operated on an instrument flight rules flight plan.
+Flight 5401 departed Eugenio Mariá de Hostos Airport (MAZ), Mayagüez, Puerto
+Rico, for SJU about 1415. The captain was the nonflying pilot for the flight, and the first
+officer was the flying pilot. The flight crew stated that the takeoff, climb, and en route
+portions of the flight were uneventful.
+At 1437:05, as the flight approached the SJU traffic area, the cockpit voice
+recorder (CVR) recorded the first officer confirming with the captain that automatic
+terminal information service (ATIS) Juliet, which reported that winds were 060° magnetic
+at 17 knots and gusting at 23 knots, was current.3 Shortly thereafter, the captain briefed a
+Vref (the minimum approach airspeed in the landing configuration before the airplane
+reaches the runway threshold) of 95 knots and told the first officer to “stand by for
+winds.”4 The first officer asked the captain if he should set his airspeed bug5 to 95 knots,
+and the captain replied, “yeah.”
+At 1443:03, a controller from the SJU Terminal Radar Approach Control
+cautioned the pilots of possible wake turbulence from a preceding Boeing 727.6 The
+1 Unless otherwise indicated, all times in this report are Atlantic standard time.
+2 For the purposes of this report, the term “skip” refers to a landing airplane that momentarily becomes
+airborne after contact with the runway. A bounce is similar to a skip; however, the airplane reaches a higher
+altitude after contact with the runway. A skip or a bounce is typically caused by excessive airspeed or
+excessive back pressure being applied to the flight controls by the pilot.
+3ATIS information Juliet was based on a 1356 meteorological aerodrome report. For more information
+about the meteorological conditions that existed before and after the time of the accident, see section 1.7.
+4 For information about Executive Airlines’ wind additive to approach airspeed procedures, see
+section1.17.2.1.
+5 An airspeed bug is an orange reference marker on the inside of the airspeed indicator that is set to
+Vref by the pilot before the approach.
+
+Factual Information 2 AircraftAccidentReport
+captain then told the first officer to “get your speed back. You do not want to take wake
+turbulence from a seven five.” At 1443:44, the approach controller told the flight crew to
+reduce the airspeed to 160 knots. After this instruction, the captain again told the first
+officer to slow down because of the preceding airplane. The first officer replied,
+“[approach control] said one sixty though I thought.” The captain stated, “yeah, slow it
+down even more though…just go about one forty.”
+At 1446:17, the captain stated, “San Juan tower Eagle four zero one ILS
+[instrument landing system] runway one zero, with eight in sight.” The SJU air traffic
+control (ATC) tower local controller stated, “one departure prior to your arrival…seven
+twenty seven, mile final just reported loss of ten knots.” At 1446:33, the local controller
+cleared the airplane to land on runway 8. The captain acknowledged the clearance. At this
+time, the first officer turned the airplane left toward runway 8 and transitioned to the
+visual approach slope indicator (VASI), which is located near the approach end of the
+runway for glideslope guidance.
+At 1449:07, during the approach to landing, the captain stated, “you better keep
+that nose down or get some power up because you’re gonna balloon.”7 The captain then
+told the first officer to “bring the power back.” About 2 seconds later, the ground
+proximity warning system (GPWS) alerted “minimums,” and the captain instructed the
+first officer to get the airplane’s nose up. Four seconds later, the GPWS alerted
+“glideslope,” and the captain stated, “below the glideslope.” The first officer responded,
+“correcting.”
+6 The 727 landed on runway 10. The accident airplane was initially on approach to runway 10 but was
+later vectored to runway 8. For information about the Safety Board’s air traffic control (ATC) radar data
+study, see section 1.16.2.
+7 The term “balloon” refers to a landing airplane that rises slightly before touching down. Ballooning is
+typically caused by excessive airspeed or excessive back pressure being applied to the flight controls by the
+pilot during the landing flare.
+
+Factual Information 3 AircraftAccidentReport
+At 1449:28, the captain told the first officer to “power in a little bit.” Flight data
+recorder (FDR) data indicated that the airplane was about 45 feet above ground level8 and
+traveling at 110 knots indicated airspeed (KIAS) when it crossed the runway 8 threshold 2
+seconds later. After the airplane crossed the runway threshold, the captain stated, “power
+in a little bit, don’t pull the nose up, don’t pull the nose up.” At 1449:39, the captain
+stated, “you’re ballooning,” and the first officer replied, “all right.”
+CVR and FDR information indicated that the airplane touched down for the first
+time about 1449:41 and about 1,600 feet beyond the runway 8 threshold. At this time, the
+FDR recorded vertical and lateral loads of about 1.3 Gs and -0.10 G, respectively.9 At
+1449:41, the captain stated, “get the power,” and, 1 second later, “my aircraft.” The first
+officer responded, “your airplane.” FDR data indicated that, by 1449:43, the airplane had
+skipped to an altitude of about 4 feet.
+CVR and FDR information indicated that the airplane touched down a second time
+about 1449:45 and about 2,200 feet beyond the runway 8 threshold. FDR data indicated
+that the airplane then pitched up to an angle of 9° while climbing to an altitude of 37 feet
+and that the engine torque increased from 10 to 43 percent. About 1449:49, the pitch angle
+decreased to -3°, and the engine torque started to decrease to 20 percent. The pitch angle
+continued to decrease to -10°.
+CVR and FDR information indicated that the airplane touched down a third time
+about 1449:51 at a bank angle of 7° left wing down and about 3,300 feet beyond the
+runway 8 threshold. Concurrently, the FDR recorded vertical and lateral loads of about
+5Gs and 0.85 G, respectively. By 1449:54, the pitch angle was 11°, and the airplane had
+bounced to an altitude of about 24 feet.
+CVR and FDR information indicated that the airplane touched down a fourth time
+about 1449:56 (about 15 seconds after the initial touchdown) and about 4,000 feet beyond
+the runway 8 threshold. FDR data indicated that the airplane pitched down to -7° and that
+it was banked 29° left wing down. The airplane came to a complete stop about 4,317 feet
+from the runway threshold. Figure 1 shows the ground track of the accident flight, and
+figure 1a shows the altitude profile of the accident flight.
+8 Unless otherwise indicated, altitudes referenced in this report are reported as height above ground
+level.
+9 One G is equivalent to the acceleration caused by the earth’s gravity (32.174 feet/second2). The
+Safety Board conducted an airplane performance study, which included airplane trajectory, load, and
+standard performance calculations. For more information about the Board’s airplane performance study, see
+section 1.16.1.
+
+Factual Information 4 AircraftAccidentReport
+Figure 1. Ground track of the accident flight.
+Figure 1a. Altitude profile of the accident flight.
+
+Factual Information 5 AircraftAccidentReport
+1.2 Injuries to Persons
+Table 1. Injury chart.
+Injuries Flight Crew Cabin Crew Passengers Other Total
+Fatal 0 0 0 0 0
+Serious 1 0 0 0 1
+Minor 1 2 16 0 19
+None 0 0 6 0 6
+Total 2 2 22 0 26
+Note: Title 14 CFR 830.2 defines a serious injury as any injury that (1) requires hospitalization for more than 48 hours,
+starting within 7 days from the date that the injury was received; (2) results in a fracture of any bone, except simple
+fractures of fingers, toes, or the nose; (3) causes severe hemorrhages or nerve, muscle, or tendon damage; (4) involves
+any internal organ; or (5) involves second- or third-degree burns or any burns affecting more than 5 percent of the body
+surface. A minor injury is any injury that does not qualify as a fatal or serious injury.
+1.3 Damage to Airplane
+The airplane was substantially damaged.
+1.4 Other Damage
+None.
+1.5 Personnel Information
+1.5.1 The Captain
+The captain, age 33, was hired by Executive Airlines on January 11, 1999. He held
+a multiengine airline transport pilot certificate with an ATR-42/-72 type rating.10 (The
+Federal Aviation Administration [FAA] denotes both airplane models on a pilot’s airman
+certificate regardless of which simulator or airplane model the pilot used to qualify for the
+type rating.) The captain’s most recent FAA first-class airman medical certificate was
+issued on February 10, 2004, and contained the limitation that he “must wear corrective
+lenses.”
+According to the captain’s employment application for Executive Airlines, from
+October 1996 to November 1997, he worked as a pilot-in-command (PIC) at Westwind
+Aviation, Phoenix, Arizona. From December 1997 to February 1998, the captain held
+10 On August 17, 2001, the captain received a notice of disapproval from the Federal Aviation
+Administration (FAA) after a checkride for his ATR-42/-72 type rating. The notice of disapproval stated that
+the entire flight check would have to be repeated, except for the portions involving stalls and steep turns. On
+September 2, 2001, the captain was rechecked successfully, and he received his ATR-42/-72 type rating.
+
+Factual Information 6 AircraftAccidentReport
+nonaviation-related jobs. From March 1998 to January 1999, he worked as a PIC at
+Sunrise Airlines in Phoenix.
+Executive Airlines records indicated that the captain had accumulated a total flight
+time of about 6,071 hours, about 3,814 hours of which were with the company in its
+ATR-42 and -72 airplanes, including about 1,120 hours as PIC. The captain had flown
+about 177, 134, 72, and 3.5 hours in the last 90, 60, and 30 days, and 24 hours,
+respectively. The captain’s last ground training occurred on October 10, 2003; his last PIC
+proficiency check occurred on October 15, 2003; and his last PIC line check occurred on
+October 20, 2003.
+On May 7, 2004, the captain flew the first leg of a 2-day trip sequence, which was
+a roundtrip between SJU and Flamingo Airport, Antilles Islands, the Netherlands, where
+he remained overnight. On May 8th, the captain flew the return flight to SJU. He stated
+that he felt “well rested” for the flights to and from the Antilles Islands. On May 9, the
+captain reported for standby duty at SJU about 1000. The captain stated that he had slept
+well the night before. The captain stated that he did not smoke, drink alcohol, or take any
+medications.
+1.5.2 The First Officer
+The first officer, age 26, was hired by Executive Airlines on March 15, 2004. He
+held a commercial pilot certificate with single-engine and multiengine land and
+instrument airplane ratings. The first officer’s most recent FAA airman first-class medical
+certificate was issued on February 10, 2004, and contained the limitation that he “must
+wear corrective lenses.”
+According to the first officer, his only previous aviation-related employment was
+as a flight instructor in Cessna 172 and Baron airplanes at Windy City Flyers, Wheeling,
+Illinois. Executive Airlines records indicated that the first officer had accumulated a total
+flight time of about 2,000 hours, about 20 hours of which were with the company as first
+officer in its ATR-42 and -72 airplanes. About 18.5 hours of the first officer’s flight time,
+which included eight landings in the ATR-72, were accumulated during his initial
+operating experience (IOE).11 Flight 5401 was the first officer’s first scheduled flight since
+he completed IOE on May 4, 2004. The first officer had flown about 20 hours, all of which
+were flown in the last 30 days. The first officer’s last recurrent ground training occurred
+on April 10, 2004, and his last first officer proficiency check occurred on April26, 2004.
+On May 8, 2004, the first officer was assigned standby duty at SJU from 0600 to
+1400. He was not assigned any flights during this period. On May 9, the first officer
+reported for standby duty at SJU about 1100.
+11 IOE consists of revenue flights flown by pilots after they complete their initial simulator training.
+These flights are conducted in the presence of a company check airman. Federal regulations require that Part
+121 pilots have 20 hours of IOE, which can be reduced by 1 hour (up to 10 hours) for each landing that they
+have completed.
+
+Factual Information 7 AircraftAccidentReport
+1.5.2.1 The First Officer’s Medical History and Prescription Drug Use
+A review of the first officer’s medical records from his personal psychiatrist
+revealed that, in July 2001, he began seeing the psychiatrist for treatment of various
+anxiety-related symptoms. The psychiatrist prescribed alprazolam to treat the first
+officer’s condition.12 Common side effects of alprazolam include drowsiness and
+light-headedness.
+The first officer noted on his psychiatric patient information form that he was
+employed as a part-time flight instructor and that his ambition was to become a
+commercial airline pilot. In March 2004, the psychiatrist noted in the first officer’s
+medical records that they discussed the following:
+heightened anxieties surrounding…his intensive ‘wind-down’ training for full
+commercial jet pilot licensure….we looked at creative as needed manipulation of
+alprazolam being mindful of…the need to stay alert.
+The first officer’s pharmacy refill records indicated that he filled prescriptions for
+60 0.25-milligram (mg) alprazolam tablets on July 15, August 19, and November 3, 2001,
+and on March 28 and May 4, 2004. The first officer stated that he typically took one-half
+of a 0.25-mg tablet and that he took that dosage about once every 2 or 3 days. He stated
+that he did not take any alprazolam on the day of the accident and that he thought that the
+only time he took a whole 0.25-mg tablet in the 72 hours before the accident flight was on
+May 8 about 2000.
+A review of the first officer’s three most recent FAA airman medical certificates
+(dated August 13, 2001; August 7, 2003; and February 10, 2004) revealed that he did not
+indicate that he was taking alprazolam or being treated by a psychiatrist for anxiety.13
+Specifically, the first officer checked the “no” box in response to item No. 18 on the
+airman medical certificate application, which asks, “Have you ever in your life been
+diagnosed with, had, or do you presently have any of the following…Mental disorders of
+any sort, depression, anxiety, etc.?” Further, the first officer did not provide any
+information about his psychiatric visits in response to item No. 19 on the application,
+which asks the applicant to list any “visits to health professional within last 3 years.”
+The Executive Airlines Flight Manual, Chapter 3, “Crew Qualification and
+Responsibility,” Section 12.5, “Use of Medication (FARs [Federal Aviation Regulations]
+91.17),” states, in part, the following:
+12 The prescription was for 60 0.25-milligram (mg) tablets with instructions to take one to two tablets
+every 2 to 3 hours, as needed, and not to exceed 8 mg per day.
+13 The National Transportation Safety Board is aware that, after the accident, the FAA revoked the first
+officer’s airman medical certificate because he allegedly falsified his application.
+
+Factual Information 8 AircraftAccidentReport
+FARs prohibit [a person from] acting or attempting ‘to act as a crewmember of a
+civil aircraft while using any drug that affects the person’s faculties in any way
+contrary to safety…’ Crewmembers who are unsure of the side affects of a
+particular prescription or non-prescription drug are advised to consult their FAA
+Aeromedical Examiner, or [company] Corporate Medical Director.
+Although 14 CFR 61.53, “Prohibition on Operations During Medical Deficiency,”
+does not specifically note anxiety as a disqualifying condition, the FAA “Guide for
+Aviation Medical Examiners,” dated September 2003, states, “the use of a psychotropic
+drug is disqualifying for Aeromedical certification purposes. This includes
+all…anxiolytics [that is, medications used for the treatment of anxiety.]”
+The first officer stated that he was not taking alprazolam at the time of his last
+FAA medical examination in February 2004. The investigation determined that the first
+officer did not consult either an FAA aeromedical examiner or executive airlines’ medical
+director regarding his use of alprazolam.
+1.5.3 The Flight Attendants
+The flight attendant assigned to the forward jumpseat14 had worked for Executive
+Airlines as a flight attendant for 6 weeks. This flight attendant had been employed by the
+company for 6 years in another capacity. On May 8, 2004, she was assigned a 2-day trip
+sequence, which included flight 5401. On May 9, she began duty at Cyril E. King Airport
+(STT), St. Thomas, Virgin Islands, about 1130.
+The flight attendant assigned to the aft jumpseat, who was the lead flight attendant
+on the accident flight, had worked for Executive Airlines for 4 months and had no
+previous airline experience. This flight attendant was off duty during the 2 days before the
+accident. On May 9, 2004, she began duty at STT about 1210.
+1.6 Airplane Information
+The ATR 72-212 is a high-wing, twin turbopropeller, pressurized airplane. The
+airplane has an overall length of 89 feet 1.5 inches and a wingspan of 88 feet 9 inches. The
+accident airplane, serial number 438, was delivered new to AMR Leasing Corporation,15
+Dallas, Texas, from ATR, Toulouse, France, on March 27, 1995. At the time of the
+accident, the airplane had 19,276 total flight hours and 18,086 total cycles.16
+The airplane was equipped with two Pratt & Whitney 127 PW turbopropeller
+engines and two Hamilton Standard four-blade propellers. The time since new for the left
+14 For a description of the airplane’s interior configuration, see section 1.15.1 and figure 4.
+15 AMR Leasing Corporation is owned by AMR Eagle Holding Corporation, which also owns
+Executive Airlines.
+16 An airplane cycle is one complete takeoff and landing sequence.
+
+Factual Information 9 AircraftAccidentReport
+engine was 18,208 hours, and the time since overhaul was 11,709 hours. The time since
+new for the right engine was 15,637 hours, and the time since overhaul was 8,435 hours.
+According to the load manifest for flight 5401, the airplane’s takeoff weight was
+about 36,590 pounds, including 3,960 pounds of passenger weight and 770 pounds of
+baggage weight,17 and its takeoff center of gravity (c.g.) was -11 inches.18
+1.6.1 Pitch Control System
+Two elevators (left and right) perform pitch control of the airplane. The elevators
+are movable control surfaces attached to the rear spar of the horizontal stabilizer, which is
+mounted on top of the vertical stabilizer in a T-tail configuration. Each elevator has a trim
+tab with an actuator. The elevators are controlled either by manual inputs from the captain
+or first officer control columns, which are not directly mechanically linked, or the
+autopilot system.
+Each control column is connected through a dynamometric rod19 to a cable tension
+regulator located under the cockpit floor. The cable tension regulator maintains constant
+cable tension and transmits column movement to two cables that run the length of the
+fuselage to the aft fuselage elevator cable quadrant, which converts cable movement to
+pushrod and elevator control bellcrank movement. Rotation of the elevator control
+bellcrank deflects one elevator, and the pitch uncoupling mechanism (located in the
+horizontal stabilizer between the left and right elevator bellcranks) moves the other
+elevator.
+Pitch uncoupling occurs when opposing rotational forces exist between the left and
+right elevator control bellcrank shafts. When the pitch control system becomes uncoupled
+or experiences a malfunction (such as jamming) that restricts one side of the pitch control
+system, the independent operation of both elevators from either pilot’s control column is
+allowed. Also, when the pitch control system becomes uncoupled, a microswitch located
+on the pitch uncoupling mechanism closes, which illuminates the master warning and
+pitch uncoupling warning lights located on each pilot’s instrument panel and activates a
+repetitive aural chime.20
+17 Average passenger weights were used to calculate the total passenger weight. According to the load
+manifest for flight 5401, 290 pounds of cargo were stowed in the forward cargo area, and 480 pounds of
+cargo were stowed in the aft cargo area. The airplane’s maximum certificated gross takeoff weight was
+48,501 pounds.
+18 The airplane’s takeoff c.g. limits were from -14.4 inches to -0.2 inch.
+19 Each dynamometric rod has two microswitches, which change state when 22.48 pounds are applied
+to the control column. One microswitch indicates that the control column has been pushed downward, and
+the other microswitch indicates that the control column has been pushed upward. When the microswitches
+change state, the autopilot might disengage and trigger the “effort on pitch axis” FDR parameter.
+20 According to ATR, recent ATR model airplanes incorporate a device (a switch installed on the first
+officer’s maintenance panel) that allows the pitch control system to be recoupled. Because recoupling the
+pitch control system is considered a maintenance action, recoupling can only be performed on the ground.
+The accident airplane was not equipped with a recoupling device.
+
+Factual Information 10 AircraftAccidentReport
+1.6.2 Landing Gear System
+The ATR-72 is equipped with a retractable, fuselage-mounted, tricycle-arranged
+landing gear system. The landing gear system consists of one forward-retracting,
+steerable, nose landing gear (NLG) assembly and two inboard-retracting main landing
+gear (MLG) assemblies, all of which are hydraulically controlled.21 Each MLG assembly
+consists of a trunnion leg, a trailing arm, a shock absorber, an actuator, and a side brace.
+Figure 2 shows the MLG assembly.
+Figure 2. Main landing gear assembly.
+The ATR-72 landing gear and associated structure were designed to absorb energy
+equivalent to a maximum airplane descent rate of 10 feet per second (fps) when landing at
+the airplane’s maximum design landing weight (consistent with the landing design limits
+21 The NLG assembly retracts into the nose wheel well, and the MLG assemblies retract into the
+fuselage.
+
+Factual Information 11 AircraftAccidentReport
+imposed by 14 CFR 25.473 to 25.487). In addition, in accordance with Section 25.723, the
+ATR-72 MLG is designed to absorb reserve energy equivalent to a maximum airplane
+descent rate of 12 fps when landing at the airplane’s maximum design landing weight.
+1.6.3 Cockpit Seats
+The accident airplane’s cockpit seats were designed by Ipeco Europe, Ltd.
+According to Ipeco, the accident cockpit seats were manufactured in 1986, and the sleeve
+assemblies installed on the seats were manufactured in 2000 and were 2 of 30 assemblies
+manufactured in a batch run. Ipeco Test Report No. 1057, issued March 25, 1983,
+indicated that the design of the accident airplane cockpit seats met the static load
+requirements contained in 14 CFR 25.561 and Technical Standard Order C-39a (9 Gs
+forward, 1.5 Gs side, 6 Gs down, and 2 Gs up).
+1.7 Meteorological Information
+1.7.1 Airport Weather Information
+Weather observations at SJU are made every hour by an Automated Surface
+Observing System (ASOS),22 which transmits an official meteorological aerodrome report
+every 56 minutes after the hour. The ASOS is located about 1,900 feet south of the
+approach end of runway 8, and its wind measuring equipment is installed 33 feet above the
+ground. About 1356 on the day of the accident, the ASOS reported that visibility was
+10statute miles, clouds were scattered at 3,000 and 4,300 feet and broken at 5,000 feet,
+and winds were 050° at 17 knots and gusting to 23 knots. At 1456, the ASOS reported that
+visibility was 10 statute miles; clouds were few at 2,300 feet, scattered at 3,400 feet, and
+broken at 5,500 feet; and winds were 060° at 15 knots and gusting to 22 knots.
+The SJU ASOS also provides high-resolution observations that are measured and
+stored every 5 minutes. About 1445, the ASOS reported that visibility was 10 statute
+miles, clouds were scattered at 2,300 feet and broken at 3,400 feet, and winds were 050° at
+15 knots and gusting to 23 knots. About 1450, the ASOS reported that visibility was
+10statute miles, clouds were scattered at 2,300 feet and broken at 3,400 feet, and winds
+were 060° at 18 knots and gusting to 22 knots.
+1.7.2 Additional Wind Information
+The 2000 upper air sounding (that is, a vertical profile of atmospheric conditions)
+from SJU showed northeasterly winds aloft from 15 to 24 knots below 4,000 feet mean sea
+level (msl).23
+22ASOS is a system that continuously measures weather information, including windspeed and
+direction, visibility, precipitation, cloud cover, temperature, dew point, and altimeter setting.
+
+Factual Information 12 AircraftAccidentReport
+Center field (CF) wind data,24 which report 2-minute average winds, were obtained
+from the FAA for the period from 1445:02 to 1452:02. During this 7-minute period, the
+CF anemometer indicated wind directions of 060° and 070° magnetic, and the CF
+2-minute average windspeed ranged from 12 to 16 knots. No wind gusts were reported for
+this period.25
+A Safety Board meteorologist retrieved Meteorological Data Collection and
+Reporting System (MDCRS)26 reports from the National Oceanic and Atmospheric
+Administration Forecast System Laboratory archive. Two ascent profiles from airplanes
+departing STT (about 58 nautical miles from SJU)27 before and after the time of the
+accident showed 13-knot winds at 1,160 feet msl, 15-knot winds at 1,440 and 1,600 feet
+msl, and 13-knot winds at 1,670 feet msl.
+1.8 Aids to Navigation
+No problems with any navigational aids were reported.
+1.9 Communications
+No communications problems between the pilots and any of the air traffic
+controllers who handled the accident flight were reported.
+1.10 Airport Information
+SJU is located 3 miles southeast of San Juan at an elevation of 9 feet msl. The
+airport has an ATC tower, which provides approach and departure services. SJU has two
+precision instrument approach runways: runways 8/26 and 10/28. Runway 8/26 is about
+10,000 feet long and 200 feet wide. Runway 10/28 is about 8,000 feet long and 150 feet
+wide. The runway surfaces are constructed of grooved asphalt and are accessible by
+parallel taxiways.
+SJU was certificated under 14 CFR Part 139. A standard two-bar VASI is located
+near the approach end of runway 8. SJU maintains an index D aircraft rescue and
+firefighting (ARFF) facility, which has six ARFF vehicles.28
+23 The National Weather Service typically launches radiosonde balloons about 0700 and 1900. The
+2000 upper air sounding was taken shortly after 1900.
+24 According to the FAA, the CF anemometer is located midfield, about 1,500 feet south of runway 8,
+and the wind is measured at 48 feet.
+25 According to the FAA, wind gust values are not reported unless the wind gust exceeds the 2-minute
+average windspeed by 9 or more knots.
+26 The MDCRS collects, decodes, and disseminates automated weather reports.
+27 No MDCRS data were available for the SJU area.
+
+Factual Information 13 AircraftAccidentReport
+1.11 Flight Recorders
+1.11.1 Cockpit Voice Recorder
+The accident airplane was equipped with a Fairchild model A-100A CVR, serial
+number 55031. The exterior of the CVR was not structurally damaged. The tape spool
+assembly and other components inside the case were not damaged and were generally in
+good condition.
+The CVR was sent to the Safety Board’s laboratory in Washington, D.C., for
+readout and evaluation. The tape was played back normally and without difficulty. The
+recording started at 1422:02 and continued uninterrupted until 1452:54. The recording
+consisted of four separate channels of audio information: the cockpit area microphone
+(CAM), the captain and first officer audio panels, and the public address (PA) system. Hot
+microphone transmissions were also captured on the flight crew’s respective audio
+channels. The audio information from all four channels was generally of good quality.29 A
+transcript of the 31-minute recording was prepared (see appendix B).
+1.11.2 Flight Data Recorder
+The accident airplane was equipped with an L3 Communications Fairchild model
+F-800 FDR, serial number 3151, which used magnetic tape as the recording medium. The
+FDR was found to be in good condition.
+The FDR was sent to the Safety Board’s laboratory for readout and evaluation. The
+magnetic tape was removed from the FDR, and the data were transcribed directly to a hard
+disk. About 25 hours of data were recorded on the FDR, including data from the accident
+flight, and 56 parameters that were pertinent to the circumstances of the accident were
+verified.
+1.11.2.1 Validation of Flight Data Recorder Data
+The Safety Board recovered data from the accident flight, the last landing before
+the accident flight,30 the first recorded landing (made about 25 operational hours before
+the accident flight), and the first recorded flight control ground check and subsequent
+28 According to 14 CFR 139.317, an index D ARFF facility is required to have (1) either one
+firefighting vehicle with 500 pounds of sodium-based dry chemical or Halon 1211 or 450 pounds of
+potassium-based dry chemical and water with a commensurate quantity of aqueous film forming foam
+(AFFF) to total 100 gallons and (2) two firefighting vehicles with water and a commensurate quantity of
+AFFF so that the total quantity of water for foam production carried by all vehicles is at least 4,000 gallons.
+29 The Safety Board uses the following categories to classify the levels of CVR recording quality:
+excellent, good, fair, poor, and unusable. A good quality recording is one in which most of the crew
+conversations could be accurately and easily understood. At times during the flight 5401 recording, the
+ambient noise level of the CAM channel made it somewhat difficult to discern sounds or conversations
+recorded on the other three channels. The transcript that was developed may indicate one to two words that
+were not intelligible. Any loss in the transcript can be attributed to simultaneous cockpit/radio transmissions
+that obscure each other.
+
+Factual Information 14 AircraftAccidentReport
+takeoff. However, the Board could not recover three segments of the event data (8 seconds
+total). The Bureau d’Enquêtes et d’Analyses pour la Sécurité de l’Aviation Civile (BEA)
+had developed a program to decode the waveforms from F-800 magnetic tape FDRs. With
+the use of this program, the BEA was able to decode two of the three segments of
+waveforms; however, because of the very high variation in tape speed, only the last
+second of the 4-second third segment could be fully recovered.31
+1.11.2.2 Aileron Surface Position Sensors
+In accordance with 14 CFR 121.344, the accident FDR was required to record left
+and right aileron surface positions no later than August 20, 2001. According to Executive
+Airlines, the accident airplane was modified on August 7, 2001, in accordance with
+Supplemental Type Certificate (STC)32 No. ST01310NY, which required adding two new
+sensors and associated hardware on each wing.33 Although the airplane had been equipped
+with the required sensors and associated hardware, the left aileron surface position data
+were invalid; therefore, the airplane did not meet the requirements of 14 CFR 121.344.
+The aileron sensors installed on the accident airplane were string potentiometers.
+The string is attached to the aileron linkage so that any aileron movement is registered by
+the potentiometer, which produces a voltage input to the digital flight data acquisition unit
+(DFDAU). The DFDAU then converts the voltage to a digital value that is recorded by the
+FDR and then calibrated by Executive Airlines to determine the aileron surface position.
+Executive Airlines stated that it added aileron surface position sensors to its
+41ATR-72 airplanes (2 sensors per airplane, for a total of 82 sensors) in accordance with
+STC No. ST01310NY, and that, in the last 3.5 years, the company has replaced 47 of these
+sensors, which is a 57 percent failure rate. The company indicated that the sensors are not
+tracked and, therefore, that the times from installation to failure could not be determined.
+The company also indicated that the sensors do not incorporate a warning or an indication
+system. The company further indicated that aileron surface position sensor failures were
+typically caused by wear or weather-related damage.
+At the time of the accident, Executive Airlines performed FDR functional checks
+every 3,000 flight cycles. Executive Airlines indicated that the accident airplane’s last
+FDR functional check was conducted on January 3, 2003, about 1 year and 5 months after
+the STC modification and about 1 year and 4 months before the accident. After the
+accident, Executive Airlines started conducting FDR functional checks every 1,000 flight
+cycles.
+30 The accident flight crew made the airplane’s last landing at MAZ about 1347 on the same day of the
+accident.
+31 Most of the 56 verified parameters recorded from 1449:58.8 to 1450:01.86 (the first 3 seconds of the
+third segment) were deemed invalid.
+32 An STC is issued for major design changes to type-certificated products when the change is not
+extensive enough to require a new type certificate.
+33 Executive Airlines stated that all of its ATR-72s were modified in accordance with STC
+No.ST01310NY.
+
+Factual Information 15 AircraftAccidentReport
+1.12 Wreckage and Impact Information
+1.12.1 General Wreckage Description
+The first evidence of ground impact (from the airplane’s third touchdown) was
+located on runway 8 about 44 feet left of the runway centerline and about 3,361 feet
+beyond the runway threshold. Various ground impact, gouge, scrape, and tire marks were
+found near the first ground impact mark. These marks were on a magnetic heading of
+about 075° and were consistent with the landing gear tires on the accident airplane. The
+tire marks extended about 40 feet from the first ground impact area in the direction of the
+main wreckage. No other tire marks that were consistent with the tires on the accident
+airplane were found beyond the first impact area. An oily spray pattern extended outward
+to the left of the gouge marks. The oily substance was consistent with the fluid contained
+in the MLG shock absorbers. Most of the pieces found at the first ground impact area were
+small sections of the NLG, including the NLG door, pieces of the left MLG, and the
+fuselage belly fairing.
+Evidence of another ground impact (from the airplane’s fourth touchdown) was
+found on the grassy area about 145 feet left of the runway 8 centerline and 4,053 feet
+beyond the runway threshold (about 692 feet from the initial ground impact area). This
+evidence included left wing tip scrape marks, left engine propeller strike marks, and a
+fuselage belly impact impression, which were all on a magnetic heading of about 070°.
+The marks on the grassy area continued from the second ground impact area to the main
+wreckage location. Sections of the outboard left wing and the left propeller blades were
+also found in this area.
+The main wreckage was located about 217 feet left of the runway 8 centerline and
+about 4,317 beyond the runway threshold. The main wreckage consisted of most of the
+airplane structure, except for the lower section of the left MLG tire assembly, which was
+found about 302 feet left of the runway 8 centerline and 3,944 feet beyond the runway
+threshold (about 373 feet from the main wreckage). Figure 3 shows ground scrape marks
+and the main wreckage.
+
+Factual Information 16 AircraftAccidentReport
+Figure 3. Ground scrape marks and the main wreckage.
+The landing gear handle was found in the down position. The parking brake and
+gust lock levers were found positioned to off. The flap handle showed 030° of flaps. The
+captain and first officer internal VmHB30 (minimum high bank at flaps 030°) airspeed
+bugs were found set at 96 KIAS. The power management selector was found set at CLB
+(climb). The CVR, left elevator, rudder, and first officer-side fuel pump circuit breakers
+were found tripped.34
+1.12.2 Fuselage, Wings, and Engines
+The airplane fuselage was found intact and orientated upright. The vertical and
+horizontal stabilizers remained attached to the tail structure and showed no evidence of
+impact damage. The left forward hatch exit was found open, and the hatch was found
+34 The Safety Board documented the positions of the circuit breakers, switches, and movable controls
+on the day after the accident. The documented positions of the circuit breakers, switches, and other movable
+controls may not represent their actual positions after the accident. Emergency medical technicians entered
+the cockpit during the emergency response to help the flight crew evacuate the airplane. Further, an
+Executive Airlines mechanic entered the cockpit after the emergency response and reportedly turned off all
+switches and disconnected the battery system.
+
+Factual Information 17 AircraftAccidentReport
+inside the airplane. The aft main entry door was found open, and the handrail was found
+locked in the up position.
+A section of about 13 feet of the forward, left side of the lower fuselage was
+severely crushed. The left forward cargo door and surrounding structure were severely
+deformed and buckled. A section of about 8 feet of the forward, right side of the lower
+fuselage was crushed. The damage on both the left and right sides of the lower fuselage
+extended from the belly to the floor line, and the left side exhibited some evidence of
+scrape marks just below the floor line.
+Most of the left belly fairing forward and aft of the left MLG was found crushed
+and deformed, and a portion was missing. The aft, lower surface of both sides of the
+fuselage exhibited evidence of scraping, minor crushing damage, and skin wrinkling. The
+aft fuselage just forward of the tail cone was found wrinkled around its circumference.
+All eight of the wing attachment fittings and the two shear web supports located on
+the fuselage were fractured; however, the wing assembly remained near its installed
+location in the fuselage. The left wing was found rotated counter-clockwise about 15° left
+(as viewed from aft), and the wing tip and engine propeller hub contacted the ground. The
+right wing section was found attached to the center wing box and exhibited minimal
+damage. All control surfaces were found intact and exhibited no damage. All of the
+fracture surfaces on the wing frames, struts, and shear web were consistent with overload
+failure.
+The left and right engine assemblies were found attached to the airframe. All four
+propeller blades on the left engine were sheared off at the blade root section. A section of
+about 12 inches was missing from each of the right propeller blades, which remained
+attached to the engine. The fuselage near the right engine exhibited propeller strike marks.
+1.12.3 Landing Gear System and Components
+The right MLG was found down and locked and remained attached to the fuselage
+by the trunnion attach points. All of the right MLG components, including the trunnion
+leg, side brace, shock absorber, and actuator, were found intact and attached to the gear
+assembly. The right MLG outboard tire was found inflated, and the inboard tire was found
+deflated. The right MLG inboard tire exhibited some evidence of rubber scraping and
+minor tears along several circumferential tread lines. No evidence of preexisting damage
+was found on either tire. Both tires were free to rotate with slight resistance. Both brake
+assemblies were found intact. Both ground proximity sensors were found attached.
+The left MLG was fractured circumferentially at its vertical trunnion leg just
+below the actuator attach point. The upper portion of the vertical trunnion leg, which
+remained attached to the horizontal trunnion leg, was 4 inches long. The horizontal
+trunnion leg remained attached to the fuselage by the trunnion attach points, and no
+evidence of any damage to these components was found. The lower portion of the vertical
+trunnion leg, which remained attached to the wheel assembly, was 24 inches long.
+
+Factual Information 18 AircraftAccidentReport
+Sections of the vertical trunnion that contained the fractures were removed from the
+airplane and sent to the Safety Board’s Materials Laboratory for further examination. The
+examination revealed that the fracture surfaces were consistent with overstress separation.
+No evidence of fatigue was found.
+The upper portion of the left MLG side brace remained attached to the fuselage,
+and the lower portion had separated from the fractured vertical trunnion leg and showed
+no evidence of scraping or scoring. The secondary side brace remained attached to the left
+MLG and exhibited minimal damage. The left MLG shock absorber was found separated
+from the MLG assembly. The shock absorber was found along the wreckage path in the
+fully compressed condition, and no shock absorber fluid was present. The shock absorber
+base was fractured about 5 inches from the bottom. The upper portion of the shock
+absorber was intact.
+Both left MLG tires were found inflated. The inboard tire exhibited evidence of
+scoring and rubber tearing over about 22 inches of the circumference of the tire. Both tires
+rotated freely with slight resistance. Both brake assemblies were found intact.
+The NLG was found embedded in the belly of the forward fuselage, folded
+rearward (opposite of its normal position), and rotated counter-clockwise (the right tire
+was in contact with the ground). The NLG had separated from its fuselage attach points in
+the wheel well, which was severely crushed. The right attach point had sheared off. The
+NLG remained attached to the fuselage by the actuating cylinder.
+Both NLG tires were found deflated and exhibited evidence of rubber scoring and
+tearing. No evidence of tire rupture or burst was found. Both inner hubs were fractured,
+and pieces of the hubs were found on runway 8 near the first ground impact area. The
+wheel well structure was severely crushed.
+1.12.4 Elevator and Rudder Control Systems
+The elevator pitch uncoupling mechanism was found uncoupled. All of the other
+tail section elevator components were found intact and attached to their respective
+attachment points. Both elevator control quadrants could be rotated by hand until their
+respective elevators contacted their up or down stops. No mechanical binding or resistance
+was felt. The elevator components beneath the cockpit floor, including the pulleys and
+brackets, were found damaged. All of the elevator cables were found intact and routed
+through and contained within their respective pulleys.
+The tail section rudder components were found intact and attached to their
+respective attachment points. The aft rudder control quadrant showed limited travel in
+both directions when rotated forward and aft using hand pressure.
+
+Factual Information 19 AircraftAccidentReport
+1.12.5 Cockpit Seats
+The captain seat was found attached to the floor at all mounting points, and the
+floor beneath the mounting brackets was not deformed. The inertia reel was found in the
+locked position and worked normally. The forward and aft seat adjustment lever would
+not move. The seat height lever moved freely, but the seat would not lock into any
+position. The seat was found in the lowest height position and moved freely up and down.
+The first officer seat was found attached to the floor at all mounting points, and the floor
+beneath the mounting brackets was not deformed. The first officer seat operated normally.
+Both seats were removed from the airplane and sent to the Safety Board’s Materials
+Laboratory for examination.35
+1.13 Medical and Pathological Information
+Required Federal drug and alcohol testing of the captain and first officer were
+negative for alcohol and drugs of abuse. Company drug and alcohol testing also tested
+negative for alcohol and a wider range of drugs, including alprazolam.
+A review of the captain’s postaccident medical records revealed that he sustained a
+compression fracture of the first lumbar vertebrae. The first officer reported that he
+sustained a contusion on his forehead. The forward flight attendant reported that she had
+arm, shoulder, and neck pain and bruises on her arms. The aft flight attendant reported that
+she had neck and back pain. According to medical records and personal injury reports, 16
+of the 22 passengers sustained minor injuries. The remaining six passengers did not report
+any injuries.
+1.14 Fire
+No evidence of an in-flight or a postcrash fire was found.
+1.15 Survival Aspects
+1.15.1 General
+The airplane was configured with 64 passenger seats in a single-aisle
+configuration. The cockpit contained two flight crew seats and one retractable observer
+seat. An aft-facing, single-occupancy, retractable flight attendant jumpseat was mounted
+on the forward bulkhead, and a forward-facing, single-occupancy, retractable flight
+attendant jumpseat was mounted on the aft bulkhead. Figure 4 shows the interior
+configuration of the airplane.
+35 For information about the metallurgical examinations of the cockpit seat assemblies, see
+section1.16.3.
+
+Factual Information 20 AircraftAccidentReport
+Figure 4. Interior configuration of the airplane.
+As shown in figure 4, the airplane had a main entry door on the left side of the aft
+fuselage, emergency hatch exits on each side of the first row of passenger seats, and a
+service door on the right side of the aft fuselage. The airplane was equipped with all
+required cabin emergency equipment, as specified in Executive Airlines’ In-Flight
+Manual.
+1.15.2 Evacuation of Passengers and Crewmembers
+The cabin crew initiated the evacuation of the passengers in accordance with
+standard company procedures. The forward flight attendant stated that she looked out the
+
+Factual Information 21 AircraftAccidentReport
+forward left emergency exit window and saw a lot of “crash debris” on the ground and that
+she then looked out the right emergency exit window and thought that the exit looked as if
+it were too far above the ground to use; therefore, she decided not to open either forward
+exit. This flight attendant stated that most of the passengers were seated near the rear of
+the airplane.36
+The aft flight attendant stated that, after she assessed conditions, she asked a
+nonrevenue pilot who was sitting in the back of the airplane to open the service door. This
+flight attendant stated that, while he opened the service door, she opened the main entry
+door. She added that emergency response personnel were waiting outside the airplane and
+that they assisted the passengers as they exited the airplane through the main entry door.
+1.15.3 Emergency Response
+An ARFF specialist in a fire truck was positioned between the Executive Airlines
+operations area and the taxiway adjacent to runway 8 (about 1,500 feet from the approach
+end of the runway). The ARFF specialist stated that, about 1455, he watched the accident
+airplane make the approach to landing. The ARFF specialist stated that, after the second
+touchdown, the airplane pitched up “sharply” and that he called the ARFF station because
+he thought that something might be wrong. The ARFF specialist stated that he then turned
+on the vehicle beacon and siren and visually tracked the airplane until it came to a
+complete stop. The ARFF specialist stated that he drove to the location where the airplane
+had stopped and then approached it from the left aft side. He stated that, because he saw
+“black and white” smoke coming from near the left engine, he “hosed [it] down.”
+By 1500, four additional ARFF vehicles and five additional ARFF personnel and
+G.E.S. Ambulance Service ambulances had arrived. About 1515, the State Emergency
+Medical, San Juan Municipal, Carolina Municipal, and Guaynabo City Emergency
+Medical Service units arrived. Additionally, five fire trucks and crews from off-airport
+mutual aid services responded to the accident. According to the airport operations
+coordinator, he coordinated with the operations supervisor and ARFF and security
+personnel to escort these units to the main terminal building. The captain and the injured
+passengers were transported to area hospitals.
+1.16 Tests and Research
+1.16.1 Airplane Performance Study
+The Safety Board conducted an airplane performance study, which used CVR
+transcript information and FDR and radar data37 that were correlated to a common time
+reference. The study integrated FDR lateral, vertical, and longitudinal loads with pitch,
+36 According to passenger information provided by Executive Airlines, the passengers were assigned to
+seats 4A, 5B and 5C, 6B and 6C, 7A and 7D, 8A through 8D, 9A through 9D, 10A through 10D, 11A, 14D,
+and 16A.
+
+Factual Information 22 AircraftAccidentReport
+roll, and yaw values and wreckage survey data and determined the accident airplane’s
+ground track, the corresponding time history of the airplane’s motions, and the estimated
+load factors on the left MLG and cockpit area. The airplane performance study also
+derived windspeed and direction to determine whether the winds had affected the
+airplane’s performance.
+Before and during the time that the CVR recorded the sound of the first thump
+(1449:41), the airplane encountered an 8-knot decrease followed by an 11-knot increase in
+windspeed. Immediately thereafter, the CVR recorded the captain’s statement, “my
+aircraft.” At this time, FDR data showed the engine torque decrease from about 30 to
+10percent, which is slightly above the flight idle position, and the elevators deflect from
+5° to -2°. At 1449:45, the CVR recorded the sound of a second thump. FDR data showed
+that, immediately thereafter, the airplane pitch angle decreased to -4°, and the derived
+windspeed increased by 6 knots. The pitch angle then increased to about 9° while climbing
+to an altitude of 37 feet, and the engine torque started to increase from 10 to 43 percent.
+About 3 seconds later, the engine torque started to reduce to 20 percent, and the pitch
+angle decreased to -3°. While the pitch angle continued to decrease to -10°, the derived
+windspeed decreased by 8 knots, and the elevator deflection began to increase to 4°.
+The airplane performance study showed that, about 1449:51, when the airplane
+was about 3,300 feet beyond the runway 8 threshold, the CVR recorded a very loud bang,
+and the FDR recorded vertical and lateral loads of about 5 Gs and 0.85 G, respectively.
+The average vertical load for the left side of the cockpit area was calculated to be about
+12Gs. It is possible that the vertical loads experienced in the cockpit during the third
+touchdown were more than 12 Gs; however, this value could not be calculated because of
+the low FDR sampling rate. The airplane’s descent rate was determined to be about 19 to
+32 fps.
+During the last touchdown, when the most substantial damage to the airplane most
+likely occurred (especially to the left side of the cockpit), the left bank angle recorded by
+the FDR was 29° left wing down. The average vertical loads experienced in the cockpit
+during the last touchdown could not be determined because the FDR data became
+unreliable at this point and because of the airplane’s orientation.
+1.16.2 Air Traffic Control Radar Data Study
+The Safety Board conducted an ATC radar data study to evaluate the separation of
+radar tracks associated with the accident airplane and the preceding 727 that landed on
+runway 10 about 3 minutes before the accident airplane landed on runway 8. The study
+began at 1444:26, when the 727 was about 5.7 miles west of SJU on final approach to
+runway 10 and the accident flight was about 4.3 miles behind the 727. The study ended at
+1446:42, when the last radar return associated with the 727 was received. At their closest
+37 Radar data from the U.S. Air Force 84th Radar Evaluation Squadron, which were recorded by the
+SJU Airport Surveillance Radar-8 sensor, were used in the calculations.
+
+Factual Information 23 AircraftAccidentReport
+point, the airplanes were separated about 4.3 miles laterally and 400 feet vertically, which
+is greater than the minimum lateral separation specified in Federal requirements.38
+1.16.3 Cockpit Seat Assembly Metallurgical Examinations
+1.16.3.1 Accident Airplane Cockpit Seat Assemblies
+The accident airplane’s cockpit seat assemblies were sent to the Safety Board’s
+Materials Laboratory for metallurgical examination. Figure 5 shows a schematic of the
+cockpit seat assembly.
+Figure 5. Schematic of the cockpit seat assembly.
+38 FAA Order 7110.65, “Air Traffic Control,” paragraphs 4-5-1, 5-5-4, and 5-5-5, require that airplanes
+be separated at least 3 miles laterally and/or 1,000 feet vertically.
+
+Factual Information 24 AircraftAccidentReport
+Visual examinations of the captain seat revealed that the weld that attached the end
+cap to the sleeve was fractured at both welded joints, releasing the end cap from the
+sleeve. Visual examinations of the fractured welded joints revealed the presence of dark,
+oxidized, preexisting regions that were consistent with weld discontinuities at the inner
+diameter side of both joints. On the forward sidewall fracture, intermittent weld
+discontinuities extended along most of the 4.2-inch circumferential length of the joint to a
+depth of about 0.03 to 0.06 inch.39 On the aft sidewall fracture, the weld discontinuity was
+continuous and extended along the entire circumferential length of the joint to a depth of
+about 0.03 to 0.06 inch.
+A Safety Board materials engineer estimated that the weld discontinuities
+extended through about 25 percent of the cross-sectional area on the forward side and
+about 40 percent of the cross-sectional area on the aft side. The discontinuities contained
+repeating columnar patterns with curved features at an angle to the surface, which was
+consistent with a lack of fusion that resulted from molten regions not bonding during the
+welding process. High-magnification optical and scanning electron microscope
+examinations of the aft sidewall fracture showed the presence of small fatigue cracks that
+had propagated from the weld discontinuity region toward the outer diameter, which
+slightly increased the total penetration of the preexisting defect region.
+Visual examinations of the intact welded joints on the first officer seat revealed
+that gaps existed between the mating surfaces of both welded joints, which was consistent
+with incomplete weld penetration. The forward sidewall region had about a 2.9-inch-long
+gap (the total joint length was 4.2 inches). The aft sidewall region had two slightly
+overlapping gaps that extended about 3 inches. A section of the forward sidewall welded
+joint was excised and fractured open, revealing that the gaps at the inner diameter of the
+welded joint had features similar to the preexisting weld discontinuity (lack of fusion)
+regions on the inner diameter of the welded joints on the captain seat. The maximum
+penetration of the weld discontinuity was about 0.045 inch in the section that was
+fractured open for examination.
+1.16.3.2 FAA Vertical Drop Test of ATR-42 Cockpit Seats
+In May 2003, the FAA Technical Center in Atlantic City, New Jersey, conducted a
+vertical drop test of an ATR-42 airplane that had cockpit seats with the same design and
+part number as the cockpit seats on the accident airplane. According to the test report,
+vertical loads in the cockpit area were measured at 30 Gs for the left cockpit floor and
+34Gs for the right cockpit floor.40 Neither of the cockpit seats broke during the test.
+Because of the similarities between the accident and test airplanes’ cockpit seats and
+vertical loading, the cockpit seats from the FAA drop test were sent to the Safety Board’s
+Materials Laboratory for comparison to the cockpit seats from the accident airplane.
+39 An Ipeco representative stated that the manufacturing specification for the sleeve assembly called for
+100 percent weld penetration; therefore, the accident end cap and sleeve assemblies did not meet
+manufacturing specifications.
+40 Federal Aviation Administration, The Vertical Drop Test of an ATR-42-300, FAA Technical Center
+(Atlantic City, New Jersey: FAA, 2004).
+
+Factual Information 25 AircraftAccidentReport
+Visual examination of the test airplane’s captain seat parts revealed that gaps
+existed at the inner diameter between the end cap and sidewall portions of the sleeve on
+both the forward and aft welded joints. No evidence indicated that the inner diameter
+surface had become molten during the welding process. Both the forward and aft welded
+joints were fractured in the laboratory by bending the sidewall portion outward relative to
+the end cap, revealing that the gaps at the inner diameter of the welded joints corresponded
+to weld discontinuity regions. These weld discontinuity regions extended along the entire
+circumferential length of the joints and penetrated about 50 to 60 percent of the joints’
+depth. Visual examination of the test airplane’s first officer seat parts revealed gaps at the
+inner diameter that extended along the circumferential length of the welded joint.
+1.17 Organizational and Management Information
+Executive Airlines began service as Executive Air Charter in 1982 and began
+scheduled passenger operations in 1985. American Eagle Holding Corporation bought
+Executive Air Charter in 1989. In October 2002, the company reorganized, and Executive
+Airlines began operations as a separate entity doing business as American Eagle and AMR
+Leasing Corporation.
+Executive Airlines is a regional airline that provides Part 121 scheduled passenger
+service to 40 island locations in the Caribbean. The company operates 130 flights daily
+from its major hubs at SJU and Miami International Airport, Miami, Florida. At the time
+of the accident, Executive Airlines was the largest ATR-42 and -72 operator in the United
+States and had a fleet of 8 ATR-42 and 41 ATR-72 airplanes.
+1.17.1 Flight Crew Training
+Executive Airlines’ pilots attend training at the American Eagle training center
+located at Dallas/Forth Worth International Airport (DFW), Dallas/Fort Worth, Texas. All
+first-time pilots at Executive Airlines attend a basic indoctrination course, where they are
+taught general information on company operations. Pilots then attend initial and/or
+transition ground school and simulator training. According to the Executive Airlines
+ATR-42/72 Ground Training Instructor Lesson Plan, the typical initial and transition
+training consists of 10 days of ground school and 20 hours of IOE. As stated previously,
+new and upgrade pilots perform their IOE in the presence of a check airman. In addition,
+all pilots are required to attend recurrent training (a 4-hour, line-oriented flight training
+[LOFT] session)41 and perform a 1.5-hour proficiency checkride every year. Recurrent
+training and the proficiency checkrides are conducted by company check airmen.
+1.17.1.1 Simulator Flight Training
+According to the Executive Airlines ATR-42/72 Simulator Training Syllabus, all
+new pilots and pilots qualifying for upgrades receive nine 4-hour simulator lessons (for a
+41 LOFT facilitates the transition from simulator to line flying.
+
+Factual Information 26 AircraftAccidentReport
+total of 36 hours of simulator training)42 and one 2-hour simulator checkride. In addition,
+pilots receive 2 hours of ATR-42 training and a 1.5-hour airplane checkride. Further,
+pilots receive 5 hours of ATR-72 differences training.43 Simulator training is conducted by
+a company check airman and a simulator instructor.
+Executive Airlines uses an ATR-42 simulator located at DFW for most of its pilot
+training. The company also uses an ATR-42 simulator located at FlightSafety
+International, Houston, Texas, when not enough training time is available in the DFW
+simulator. The ATR-42 simulators used for Executive Airlines’ training are Level C
+simulators.44
+1.17.1.1.1 Observations of Simulator Sessions
+On June 20, 2004, the Safety Board observed various flight profiles and
+procedures conducted by Executive Airlines pilots in the ATR-42 simulator at DFW,
+including the following:
+• a visual approach to the runway with the first officer as the flying pilot,
+090°winds at 10 knots, gusts at 15 knots, and ATC assigning various airspeeds
+during the approach;
+• an initiation of a go-around after touchdown; and
+• a visual approach to the runway with the first officer as the flying pilot, the
+captain taking control at 80 feet, and a pitch uncoupling during a go-around—
+making the trim system inoperative.45
+Executive Airlines’ procedures for operation of the ATR-72 allow the flying pilot
+to position the condition levers46 to 100 percent for landing or to leave the levers
+positioned at 86 percent. During a go-around, if the condition levers are positioned at
+86percent, the propellers automatically position to 100 percent when the throttles are
+advanced and the power management selector47 is in the TO position. This automatic
+42 The hours scheduled for the nine simulator training periods are based on the pairing of two students.
+A student who does not have a partner is scheduled for only 18 hours of simulator training.
+43 The Executive Airlines FAA-Approved Training Manual states that differences training is required
+for ATR-42 captains and first officers before they can serve as flight crewmembers on the ATR-72 during
+revenue operations. The manual states that the required crewmember emergency training and operating
+experience for either initial or recurrent training may be accomplished in either the ATR-42 or -72 and that
+the crewmember will be considered trained for both airplane models.
+44 Level C simulators may be used for specified light operational task training for Part 121 and 135
+transition, upgrade, recurrent, and requalification training. These simulators may also be used for initial new
+hire and initial equipment training on specified events for individuals who have previously qualified as PIC
+or second-in-command with the training operator or who meet the FARs for advanced simulator training.
+45 An emergency was declared, and the appropriate checklist was completed.
+46 The condition levers, which are located next to the power management selector, control propeller
+rpm.
+47 The power management selector, which is located on the center instrument panel, provides maximum
+torque limit indications on each torque indicator for the selected mode of operation. The selector has four
+labeled operating modes: TO (takeoff), MCT (maximum continuous), CLB (climb), and CRZ (cruise).
+
+Factual Information 27 AircraftAccidentReport
+feature is not available in the ATR-42. During the simulations, investigators observed that
+the flying pilot always positioned the condition levers to 100 percent before landing.
+1.17.1.2 Crew Resource Management
+The Executive Airlines FAA-Approved Training Manual, chapter 1, section 2,
+page 24, outlined the curriculum for the 2.5-hour, stand-alone crew resource management
+(CRM) training segment, which all new-hire pilots were required to attend. The manual
+states the following:
+Material presented in this subject area acquaints the crewmember with the
+principles and importance of effective crew resource management. Emphasis shall
+be placed on precise communication, crewmember interaction, crewmember
+assertiveness, and delegation of cockpit duties.
+The CRM curriculum contains instruction on methods of fostering crew input,
+maintaining situational awareness, crew coordination during an emergency or abnormal
+situation, cockpit discipline, and proper cockpit procedures.
+During day 5 of basic indoctrination training, all first officers attend a 4-hour First
+Officer Duties and Responsibilities Program, which is based on CRM techniques and
+R.E.A.C.T procedures48 and includes instruction on flight crew communications,
+decision-making, and stress and fatigue management. When pilots transition from first
+officer to captain, they attend a 6.5-hour Captain Leadership Duties and Responsibilities
+Program, which emphasizes flight crew roles and responsibilities, leadership
+development, and conflict resolution.
+1.17.1.3 Bounced Landing Recovery Training
+Executive Airlines’ manager of training and standards stated that the company did
+not provide formalized bounced landing recovery techniques to pilots before the accident
+and that none of the company manuals contained any information about bounced landing
+recovery.49 The manager stated that he would not want to conduct bounced landing
+recovery techniques in the simulator because it is very difficult to demonstrate a bounce.
+The manager stated that bounced landing recovery techniques could be addressed during
+pilot briefings. The manager stated that, after the accident, Executive Airlines’ president
+and vice president of operations asked him to look into the feasibility of conducting
+bounced landing recovery training and incorporating bounced landing recovery techniques
+in the company manuals.
+One simulator instructor stated that, if the airplane landed hard enough to bounce,
+the pilot should execute a go-around. He added that, if an airplane bounced 15 to 20 feet
+48 According to company documentation, a first officer can use R.E.A.C.T. (review and reconfirm,
+evaluate, advise, challenge, and take) procedures to challenge the captain if the first officer believes that the
+captain’s actions might jeopardize the safety of the operation.
+49 A Safety Board review of Executive Airlines’ operations and training manuals verified that the
+company had no documentation regarding bounced landing recovery techniques.
+
+Factual Information 28 AircraftAccidentReport
+into the air after touchdown, the pilot should power up and get back to the flare position.
+Another simulator instructor stated that a pilot should add power to recover from a
+bounce. A third simulator instructor stated that, if sufficient runway existed, the pilot
+should add power and land, and, if sufficient runway did not exist, the pilot should execute
+a go-around.
+A company line check airman stated that, if a first officer were to bounce the
+airplane on landing, he would take control of the airplane, apply power, and go around.
+Another company line check airman stated that, if a bounced landing could be corrected
+safely, the pilot should proceed with the landing, and, if a bounced landing could not be
+corrected safely, the pilot should execute a go-around. This line check airman added that
+he would allow the first officer to execute the go-around after the bounce but that he
+would take control of the airplane if he felt the need to do so.
+On September 25, 2004, Executive Airlines incorporated bounced landing
+recovery techniques in its Airplane Operating Manual (AOM). The bounced landing
+recovery guidance states the following:
+In the event the aircraft should bounce after landing, hold or re-establish a normal
+landing attitude and immediately add power as necessary to control the rate of
+descent. When using this recovery technique, exercise extreme caution not to
+increase the pitch attitude above normal as this will only increase the height of the
+bounce and may cause entry into stall warning. DO NOT push over, as this will
+only cause another bounce and damage the nose gear. If there is any doubt as to a
+safe recovery, the captain will call for and conduct an immediate go-around.
+Apply go-around power and fly the Missed Approach/Rejected Landing Profile.
+DO NOT retract the Landing Gear until a positive rate of climb is established
+because a second touchdown may occur during the recovery.
+The Safety Board informally surveyed six airlines, an airplane manufacturer, and a
+pilot training facility to determine if bounced landing recovery techniques were typically
+contained in industry flight manuals. The survey revealed that only some of the companies
+included bounced landing recovery techniques in their flight manuals and discussed these
+techniques during training. Most of the companies indicated that bounces commonly
+occurred during IOE checkrides and that, when a bounce did occur, the check airman
+would provide verbal guidance to the pilot on how to recover the airplane.
+1.17.2 Operational Guidance
+1.17.2.1 Approach Airspeed Guidance
+Executive Airlines’ ATR-42/72 AOM, Volume 1, Performance, “Landing Speeds”
+(dated April 1, 2004), contains initial approach airspeed guidance. The manual states that
+Vapp, which is the initial approach airspeed, is to be selected at the pilot’s discretion and
+must be more than Vref plus VmGA15 (minimum go-around airspeed, 15° of flaps, low
+bank) and less than or equal to VmLB0 (minimum low bank, 0° of flaps) or VmHB0
+(minimum high bank, 0° of flaps). The manual adds that Vapp is to be maintained until
+
+Factual Information 29 AircraftAccidentReport
+500feet, at which point, power and attitude should be adjusted to ensure that the airplane
+crosses the runway threshold within +10/-0 knots of Vref. According to the airspeed flip
+cards and the airspeed guidance contained in Executive Airlines’ AOM, assuming an
+airplane weight of 37,000 pounds, the flight crew should have selected an initial approach
+airspeed more than 107 KIAS and less than or equal to 128 KIAS.
+Executive Airlines’ ATR-42/72 AOM also contains wind additive to approach
+airspeed guidance. The manual states that Vref is determined by correcting VmHB30
+(minimum high bank, 30° of flaps) for wind. The manual states that the wind factor should
+be the greater of one-third of the headwind component or the full gust factor50 and should
+not exceed 15 knots of correction. The manual also states that the pilot should set the
+calculated Vref on the airspeed bug.
+The manual states that the airspeeds are published in the AOM and in the flip
+cards51 for various landing weights and that the airspeeds to be used for approach and
+go-around are based on actual airplane weight and are rounded to the next heaviest
+increment. The AOM and the flip cards showed that the Vref for the accident flight,
+assuming a landing weight of 37,000 pounds, would have been 95 KIAS.52 As noted
+previously, ATIS Juliet, which was current at the time of the accident, reported winds of
+060° at 17 knots with gusts up to 23 knots. According to the wind data, one-third of the
+headwind component (1/3 x 17 knots) would have been 6 knots, and the full gust factor
+(23 - 17 knots) would also have been 6 knots; therefore, the correct Vref for the accident
+flight would have been 101 KIAS.
+During postaccident interviews, the captain stated that he could not recall what
+airspeeds were used throughout the approach. Further, he could not remember if he made
+a correction to the airspeed during the accident flight or if he used the airspeed that was
+specified on the airspeed flip card (95 KIAS). He stated that airspeed corrections were
+needed most of the time when he landed at SJU. The first officer stated that he set the bugs
+on his airspeed indicator according to the airspeeds read to him by the captain. He stated
+that the captain did not mention if he had made an airspeed correction. Neither pilot could
+recall the airspeed when the airplane crossed the approach end of runway 8.
+1.17.2.2 Before Landing Checklist
+Executive Airlines’ ATR-42/72 AOM, Volume 1, Normals, “Before Landing
+Checklist,” states that the power management selector should be set to the TO position by
+the nonflying pilot before landing. The power management selector was found in the CLB
+position. During postaccident interviews, the captain stated that he could not recall if the
+power management selector was in the CLB or TO position before landing. The captain
+thought all of the appropriate checklists were performed. The first officer stated that the
+50 The full gust factor is the gust speed minus the headwind speed.
+51 Flip cards are carried on board all company airplanes and list takeoff and approach airspeeds for
+various landing weight and flap configurations.
+52 During postaccident examinations, Safety Board investigators found the flip cards in the airplane
+opened to the page that specifies the airspeed for a landing weight of 37,000 pounds.
+
+Factual Information 30 AircraftAccidentReport
+power management selector was in the TO position before departing MAZ. The first
+officer stated that he did not notice if the power management selector was positioned to
+CLB when he called for the climb checklist after departure from MAZ. He thought that the
+captain had moved the power management selector to the CRZ position when he called for
+the cruise checklist. Shortly after recording the captain stating that he had completed the
+before landing checklist, the CVR recorded him stating that he was going to position the
+power management selector to CLB. The CVR did not record the captain stating that he
+was repositioning the selector to TO.
+Executive Airlines’ ATR-42/72 AOM states that the condition levers should
+normally remain at 86 percent for landing and that the minimum setting for landing is
+86percent. The AOM adds that the maximum rpm could be set at the captain’s discretion.
+The AOM notes that, if the power management selector is set to TO before retarding the
+power levers, the condition levers might automatically advance to 100 percent. During the
+cruise portion of the flight, the CVR recorded the captain discussing the use of the
+condition levers with the first officer. The captain stated that he always landed with the
+condition levers set at 86 percent. He added that some pilots landed with the condition
+levers set at 100 percent but that he did not see any reason to land with the levers set at
+100percent. During the before landing checklist, the CVR recorded the captain stating
+that he was setting the condition levers to 86 percent. On September 25, 2004, Executive
+Airlines standardized its procedures and required that the condition levers on all of its
+ATR airplanes be set to 100 percent before landing.
+1.17.2.3 Evacuation Procedures
+Executive Airlines’ ATR-42/72 AOM, Volume 1, Emergency/Abnormals, states
+that the alternate evacuation signal if the PA system becomes inoperative is the following:
+SEATBELT SIGN...........................................................................OFF
+EMER EXIT LT [light].....................................................................ON
+ATTND [attendant] Calls pb [push button]................................Depress
+Executive Airlines’ ATR-42/72 AOM, Volume 1, Emergency/Abnormals,
+contains the following ground evacuation checklist:
+AIRCRAFT PARKING BRAKE..........................................STOP/SET
+ATC (TIME PERMITTING) (F/O)..........................................NOTIFY
+CL [Condition Levers] (BOTH).................FEATHER then FUEL S/O
+MIN [Minimum] CAB LIGHTS........................................................ON
+FLIGHT ATTENDANT (PA)................................................. NOTIFY
+SEATBELTS SIGN.........................................................................OFF
+EMERGENCY EXIT LIGHTS.........................................................ON
+ENGINE FIRE HANDLES (both)................................................PULL
+FIRE AGENTS.........................................................................AS RQD
+ENG [Engine] START Selector......................................................OFF
+
+Factual Information 31 AircraftAccidentReport
+FUEL PUMPS (both).......................................................................OFF
+BAT [Battery] (before leaving A/C [aircraft]) ................................OFF
+VOICE RECORDER CB [Circuit Breaker] 42/Row D 72/Row...PULL
+After the airplane came to a complete stop, the CVR recorded a discussion
+between the first officer and the captain about which checklist should be initiated. The
+CVR recorded the captain instructing the first officer to perform the emergency
+evacuation checklist, which was on placards on both the first officer and captain control
+wheels. The first officer stated that he did not know “where to start,” and the captain then
+told him to perform the fire on ground checklist, which was located on the yellow
+emergency procedures checklist in the cockpit.
+During postaccident interviews, the captain stated that he tried to perform the
+emergency evacuation checklist but that he could not recall specifically how many steps
+were accomplished or if the battery switch was turned off. He stated that he tried to shut
+down the right engine and feather53 the right propeller. The captain added that, after
+shutting down the engines, his main concern was evacuating the passengers. The captain
+stated that he could not remember who pulled the engine fire handles or whether the fire
+bottles were activated.
+The first officer stated that he performed the fire on ground checklist first and then
+the emergency evacuation checklist. The first officer stated that he recalled that the
+captain attempted to feather the propellers and that he was able to feather the left propeller
+but not the right propeller because the condition lever in the cockpit had jammed. He
+stated that battery power was available but that the radios and the PA system were
+inoperative.
+1.18 Additional Information
+1.18.1 Additional Information About Ipeco Cockpit Seats
+1.18.1.1 General Information
+An Ipeco representative stated that, since 1983, when the cockpit seat design found
+on the accident airplane went into service, the company had produced 1,420 seat
+assemblies and had never received a report that a seat had broken similarly to the accident
+seat. The representative stated that, since 1983, the company had manufactured 125 sleeve
+assemblies as spare parts, which were provided to FAA-authorized repair stations. He
+stated that he did not know how many of these assemblies had been used or were still in
+parts inventories. He also stated that Ipeco did not maintain records indicating why the
+parts were replaced.
+53 Feathering means to rotate the propeller blades so that the blades are parallel to the line of flight
+(streamlined to the airflow) to reduce drag in flight and prevent further damage to an engine that has been
+shut down.
+
+Factual Information 32 AircraftAccidentReport
+An Ipeco representative from the company’s subsidiary in Torrance, California,
+stated that sleeve assemblies are periodically replaced on seats sent to its facility for
+overhaul. The representative stated that, during overhaul, the entire cockpit seat is
+inspected and that sleeve assemblies are replaced when evidence of cracking in the metal
+adjacent to the weld at the base of the sleeve is found. He stated that he thought that the
+damage on these assemblies was caused when mechanics dropped or dragged them during
+the removal process. According to the representative, during the last 5 years, the company
+had overhauled 131 ATR seats and had replaced the sleeve assemblies on 45 of the
+overhauled seats.
+1.18.1.2 Ipeco Cockpit Seat Tensile Strength Testing
+As a result of the Safety Board’s metallurgical findings and Ipeco’s U.S.
+subsidiary’s reports of damaged sleeve assemblies, Ipeco conducted tests in December
+2004 to determine the effects of weld discontinuity and cracking on the tensile strength of
+the sleeve assemblies.54 The Ipeco test report stated that, of the six sleeve assemblies that
+were used during the tests, five had been removed from in-service seats by Ipeco’s U.S.
+subsidiary because the assemblies had cracks, which were found during overhaul, and
+exhibited a lack of weld penetration that was similar to that found on the accident sleeve
+assemblies. The sixth sleeve assembly was newly manufactured and had 100-percent weld
+penetration.
+According to Ipeco’s report, the tests were conducted on a tensile/compression
+machine. Fixtures were used to mount the sleeve assemblies as they would be when
+normally installed on a cockpit seat. Tensile loads were then applied to the assemblies
+until they failed or stopped reacting to the loads. The highest load value attained before the
+assemblies failed or stopped reacting was recorded and was considered the ultimate load
+for each assembly. All of the test assemblies exceeded the certification strength
+requirements, including the 6-G vertical load requirement, contained in 14 CFR 25.561.
+1.18.1.3 Ipeco’s Postaccident Actions
+Since the accident, Ipeco has taken several actions to address the issues found
+during the investigation. According to an Ipeco representative, Ipeco changed the type of
+weld it used on the sleeve assemblies to allow easy visual inspection of the weld
+penetration. In May 2005, Ipeco performed tensile strength tests (identical to the
+December 2004 tensile strength tests) on a number of parts welded with the new weld
+material to ensure that the parts met the seat’s strength requirements, and the weld was
+found to meet the requirements. The company started using the new weld in its new
+production seats beginning in July 2005.
+Further, on June 5, 2005, Ipeco issued service bulletin (SB) No. 063-25-04 to
+direct all operators and approved repair facilities to visually inspect under magnification
+all in-service sleeves at the next aircraft “C” check (conducted every 4,000 flight hours)
+for signs of cracks and replace all cracked sleeves before returning the seat to service. The
+54 A representative of the British Civil Aviation Authority attended the tests.
+
+Factual Information 33 AircraftAccidentReport
+SB also stated that seat assemblies held as spares should be inspected within 90 days of
+receipt of the bulletin and, if cracks are found, the sleeve should be destroyed.
+1.18.2 Previous Bounced Landing Recovery Guidance and
+Training-Related Safety Recommendation
+On July 31, 1997, Federal Express flight 14, a McDonnell Douglas MD-11,
+N611FE, bounced once and then crashed while landing at Newark International Airport,
+Newark, New Jersey. In its final report on this accident, the Safety Board concluded that
+the captain’s overcontrol of the elevator during the landing and his failure to execute a
+go-around from a destabilized flare were causal to the accident.55 The report stated the
+following:
+The risk of a future catastrophic accident could be reduced if air carrier pilot
+training programs devote additional attention to safety issues related to landings.
+It is particularly important to instill in pilots the orientation to perform a
+go-around in the event of an unstabilized approach or destabilized landing flare.
+On August 25, 2000, the Safety Board issued the following recommendation to the
+FAA:
+Convene a joint government-industry taskforce composed, at a minimum, of
+representatives of manufacturers, operators, pilot labor organizations, and the
+FAA, to develop, within 1 year, a pilot training tool to provide a syllabus for
+simulator training on the execution of stabilized approaches to the landing flare,
+the identification of unstabilized landing flares, and recovery from these
+situations, including proper sink rate recovery techniques during flare to landing,
+techniques for avoiding and recovering from overcontrol in pitch before
+touchdown, and techniques for avoiding overcontrol and premature derotation
+during a bounced landing. (A-00-93)
+In a May 15, 2002, letter, the FAA stated that a joint taskforce had produced the
+following training materials to address Safety Recommendation A-00-93:
+• Advisory Circular 120-71, “Standard Operating Procedures for Flight Deck
+Crewmembers,” Appendix 2, “Stabilized Approach: Concepts and Terms,” in
+August 2000.
+55 For more information about this accident, see National Transportation Safety Board, Crash During
+Landing, Federal Express, Inc., McDonnell Douglas MD-11, N611FE, Newark International Airport,
+Newark, New Jersey, July 31, 1997, Aircraft Accident Report NTSB/AAR-00/02 (Washington, DC: NTSB,
+2000).
+
+Factual Information 34 AircraftAccidentReport
+• Flight Standards Information Bulletin for Air Transportation 00-08, “Standard
+Operating Procedures for Flightdeck Crewmembers, Including Stabilized
+Approach,” in August 2000.
+• Approach and Landing Accident Reduction (ALAR) Training Guide,
+July2001.
+The FAA stated that the ALAR training guide specifically addressed guidance on
+maintaining a stabilized approach and identifying an unstable approach. The FAA further
+stated that the taskforce member organizations endorsed the use of the training guide in
+developing and evaluating ALAR training. On October 22, 2002, the Safety Board
+classified Safety Recommendation A-00-93 “Closed—Acceptable Action.”
+1.18.3 Previous Flight Data Recorder Potentiometer
+Sensor-Related Safety Recommendations
+On August 21, 1995, Atlantic Southeast Airlines flight 529, an Embraer
+EMB-120RT, crashed on approach to West Georgia Regional Airport, Carrollton,
+Georgia. The flight crew was attempting to make an emergency landing after the in-flight
+failure of a propeller blade. Examination of the FDR data for this accident revealed that
+two flight control position sensors had malfunctioned, preventing the required data from
+being accurately recorded. The Safety Board determined that the absence of the data
+hindered its investigation.56
+The EMB-120 was equipped with potentiometer sensors that were similar to those
+installed on the ATR-72; however, the potentiometers installed on the EMB-120 used an
+input shaft instead of a string. Examination of the EMB-120 revealed that the coupler
+connecting the input shaft of the potentiometer to the rudder pedals had become loose,
+causing incorrect data to be recorded. Further, the control wheel and column
+potentiometers were not calibrated correctly, rendering the recorded data inaccurate.
+In a June 27, 1996, recommendation letter to the FAA regarding the flight 529
+accident, the Safety Board noted that it had investigated seven other EMB-120 accidents
+and incidents. For six of these seven airplanes, malfunctions of the potentiometers
+prevented accurate data from being recorded. The letter noted, “these malfunctions are
+indicative of a design deficiency and/or inadequate FDR system maintenance practices.”
+The letter also noted that tests, such as FDR parameter readouts and potentiometer
+calibrations, could be conducted to ensure timely identification and repair of
+potentiometer malfunctions. The letter further stated the following:
+56 For more information about this accident, see National Transportation Safety Board, In-Flight Loss
+of Propeller Blade, Forced Landing, and Collision with Terrain, Atlantic Southeast Airlines, Inc., Flight
+529, Embraer EMB-120RT, N256AS, Carrollton, Georgia, August 21, 1995, Aircraft Accident Report
+NTSB/AAR-96/06 (Washington, DC: NTSB, 1996).
+
+Factual Information 35 AircraftAccidentReport
+The Maintenance Program Manual for the EMB-120 requires operators to
+perform a readout of the FDR each year. Potentiometer malfunctions are often
+identified and repaired during these checks, but malfunctions that occur between
+readouts are undetected….the Maintenance Manual contains the procedure to test
+the potentiometers for proper operation and calibration; however, operators are
+not required to perform this test at regular intervals.
+As a result of its investigation, the Safety Board issued the following two
+recommendations to the FAA:
+Conduct a design review of the Embraer-120 flight data recorder system, with
+emphasis on potentiometer failures, and mandate design, installation, and/or
+maintenance changes, as necessary, to ensure that reliable flight control data are
+available for accident/incident investigation. (A-96-33)
+Require Embraer-120 operators to perform a flight data recorder (FDR) readout or
+a potentiometer calibration test per section 31-31-00 of the Embraer-120
+Maintenance Manual every 6 months until FDR sensor design, installation, and/or
+maintenance improvements are incorporated. (A-96-34)
+Because of high maintenance costs and the need for frequent inspections and
+replacement of the sensors, the primary operator of EMB-120s in the United States
+identified an alternative sensor design that would be more reliable. In December 2002, the
+FAA issued an STC for the EMB-120 FDR system that authorized the replacement of the
+potentiometer rudder and control column position sensors with the improved sensor. In an
+August 3, 2004, e-mail, the FAA stated that a survey of EMB-120 commercial operators
+indicated that 74 of the 88 EMB-120s in operation had or would have the upgraded
+sensors installed. On October 21, 2004, the Safety Board responded that upgraded sensors
+eliminated the need to revise the FDR system inspection procedures and, therefore,
+classified Safety Recommendation A-96-33 “Closed—Acceptable Action.”57
+On September 19, 1997, the FAA issued Flight Standards Handbook Bulletin for
+Airworthiness (HBAW) 97-14B, “Embraer EMB-120 Flight Data Recorder Test,” which
+directed principal avionics inspectors to require affected EMB-120 operators to perform
+an initial and recurring potentiometer calibration test every 6 months until the FDR design
+and installation were enhanced. On May 5, 1998, the Safety Board classified Safety
+Recommendation A-96-34 “Closed—Acceptable Action.”
+In an August 11, 2003, letter, the Safety Board noted that the FAA had reversed its
+position on these inspections by issuing a supplemental notice of proposed rulemaking
+(SNPRM), which proposed to adopt an airworthiness directive to require the replacement
+of noisy potentiometers with sensors of the same make and model that are less than
+57 On November 30, 1998, the Safety Board issued Safety Recommendation A-98-104, which asked the
+FAA to revise its current EMB-120 FDR system inspection procedure to include an FDR readout and
+evaluation of parameter values from normal operations to ensure a more accurate assessment of the
+operating status of the flight control position sensors on board the airplane. As a result of the FAA’s actions
+taken in response to Safety Recommendation A-96-33, the Safety Board classified Safety
+RecommendationA-98-104 “Closed—Acceptable Alternate Action.”
+
+Factual Information 36 AircraftAccidentReport
+12months old and conduct annual inspections of the potentiometers. The Board stated
+that the FAA’s proposed corrective action did not address the sensor reliability problem
+addressed in Safety Recommendation A-96-34. The Board reiterated its position on
+inspection intervals, stating that the only way to properly evaluate the effectiveness of the
+proposed corrective action was to require an FDR readout and evaluation every 6 months
+for 2 years and submission of the results to the FAA for evaluation.
+
+37 AircraftAccidentReport
+2. Analysis
+2.1 General
+The captain was properly certificated and qualified under Federal regulations. No
+evidence indicated any preexisting medical or physical conditions that might have
+adversely affected his performance during the accident flight. The first officer held a
+current FAA airman medical certificate at the time of the accident; however, he failed to
+provide information about his medical condition (anxiety) or his use of the prescription
+drug alprazolam when he applied for the certificate. When the FAA was informed about
+the first officer’s medical condition and prescription drug use, his medical certificate was
+revoked. For a discussion of this issue, see section 2.5.
+The airplane was properly certificated, equipped, and maintained in accordance
+with Federal regulations and approved company procedures. The airplane was loaded in
+accordance with approved company weight and balance procedures. The weight and
+balance of the airplane were within limits during all phases of the flight.
+Meteorological data indicated that, before and after the time of the accident,
+surface winds were about 17 to 22 knots and winds aloft were about 15 to 24 knots below
+4,000 feet. Although the pilot in the 727 that preceded the accident airplane reported a
+10-knot loss of airspeed during the approach to SJU about 3 minutes before the accident,
+he landed the airplane safely. Further, the Safety Board’s airplane performance study and
+FDR data showed that, although the accident airplane was encountering windspeed shifts
+during the approach and landing phases of the flight, the airplane’s pitch motion
+corresponded with the flight control inputs. Therefore, the Safety Board concludes that
+winds were within the airplane’s performance capabilities and did not adversely affect the
+flight crew’s ability to maneuver the airplane during the approach and landing as
+significant aircraft control authority remained.
+The emergency response was timely and appropriate. The passengers and
+crewmembers were safely evacuated from the airplane.
+Postaccident examination of the captain seat revealed that the weld that attached
+the end cap to the sleeve fractured at both welded joints during the accident sequence.
+Although examinations revealed that both the captain and first officer seats exhibited weld
+discontinuities, the Safety Board could not determine whether the captain seat would have
+failed if these defects had not existed. On the basis of the airplane performance study, the
+Safety Board concludes that, at some point during the accident sequence, the captain
+cockpit seat failed when it was subjected to vertical loads that exceeded those required for
+certification.
+This analysis discusses the accident sequence, including the role of the flight
+crew’s performance. The analysis also discusses the lack of company bounced landing
+
+Analysis 38 AircraftAccidentReport
+recovery guidance and training, the failure of the airplane’s left aileron surface position
+sensors, the first officer’s medical condition and prescription drug use, the uncoupling of
+the pitch control uncoupling mechanism, and the failure of the left MLG.
+2.2 Accident Sequence
+Postaccident interviews with the flight crew and examination of CVR and FDR
+data indicated that the en route and cruise portions of the flight were uneventful.
+About 1437, the captain told the first officer that the Vref was 95 KIAS and instructed him
+to “stand by for winds.” The first officer then set 95 KIAS on his airspeed bug.
+Using the guidance contained in Executive Airlines’ airspeed flip cards and AOM,
+the Safety Board calculated that, at the airplane’s calculated landing weight, the flight
+crew should have selected an initial approach airspeed more than 107 KIAS and less than
+or equal to 128 KIAS. Also, the flight crew should have maintained the selected initial
+approach airspeed until the airplane reached an altitude of 500 feet and then slowed,
+crossing the runway threshold within +10/-0 knots of Vref. In addition, the AOM stated
+that, to compensate for strong wind gradients and/or gust effects during approach and
+landing, Vref must be corrected for wind. According to the wind data reported about the
+time of the accident,58 the correct Vref for the accident flight would have been 101 KIAS.
+Although the CVR recorded the captain telling the first officer to “stand by for
+winds” after confirming 95 KIAS as the Vref, the CVR did not record him providing the
+first officer with a wind-corrected Vref. Postaccident examinations of the cockpit revealed
+that the airspeed bugs on both pilots’ airspeed indicators were set to 96 KIAS, and the
+airspeed flip cards were found opened to the page that showed the airspeed for a landing
+weight of 37,000 pounds (95 KIAS). Further, during postaccident interviews, neither the
+first officer nor the captain could remember making any airspeed changes to compensate
+for the winds. Therefore, the Safety Board concludes that the flight crewmembers did not
+account for winds when calculating the Vref, and, as a result, they were not in compliance
+with Executive Airlines’ approach airspeed procedures.
+About 1443, an SJU approach controller contacted the flight crewmembers,
+cautioned them of possible wake turbulence from a preceding 727, and told them to reduce
+the airspeed to 160 KIAS. The captain told the first officer to reduce the airspeed even
+further.59 The Safety Board’s ATC radar study determined that the separation between the
+accident airplane and the 727, at their closest point, was greater than the minimum lateral
+separation required by Federal regulations (FAA Order 7110.65). Further, the 727 landed
+on runway 10, and the first officer was performing an approach to runway 8. In addition,
+the existing winds would have blown any wake turbulence from the 727 away from the
+accident airplane’s approach path. Therefore, the Safety Board concludes that, given the
+58 Winds were reported to be 060° at 17 knots and gusting at 23 knots.
+59 The CVR recorded the captain state that they were behind a “seven five.” Therefore, the captain most
+likely asked the first officer to reduce the airspeed further because the 757 is a bigger airplane than the 727
+and would create greater wake turbulence.
+
+Analysis 39 AircraftAccidentReport
+relative positions of the accident airplane and the preceding 727, the runway
+configuration, and the existing winds, wake turbulence was not a factor in this accident.
+At 1444:57, the captain stated that he was setting the condition levers to
+86percent.60 At 1445:02, the first officer called for the before landing checklist. About
+1 minute later, the captain stated that he was going to move the power management
+selector from TO to CLB “just for now” to prevent the condition levers from
+automatically advancing to 100 percent. However, the CVR did not record the captain
+repositioning the power management selector back to TO.61 Postaccident documentation
+of the cockpit switch positions by the Safety Board’s Operations Group confirmed that the
+power management selector was set to CLB. Therefore, the Safety Board concludes that
+the captain did not properly follow Executive Airlines’ before landing procedures.
+At 1446:39, the SJU local controller cleared flight 5401 to land, and the first
+officer turned the airplane left toward the runway and monitored the VASI for glideslope
+guidance for the rest of the approach. At 1449:07, the captain told the first officer to keep
+the airplane’s nose down or to increase power (to maintain airspeed) because he was
+concerned that the airplane was going to balloon. About 2 seconds later, he instructed the
+first officer to get the airplane’s nose up, and, at 1449:28, he told the first officer to “power
+in a little bit.”62 About 2 seconds later, the airplane crossed the runway threshold at an
+airspeed of about 110 KIAS, which was almost 15 knots more than the Vref set on both
+pilots’ airspeed indicators (96 KIAS) and 9 knots more than what should have been set.
+After crossing the runway threshold, the captain again told the first officer to
+“power in a little bit” and not to pull the airplane’s nose up. CVR and FDR data indicated
+that the airplane touched down on the runway the first time about 1449:41 and then
+skipped and became airborne, reaching an altitude of about 4 feet. Only minor flight
+control inputs and/or slight power adjustments would most likely have been necessary to
+regain the proper landing attitude and settle the airplane back on the runway. Therefore,
+the Safety Board concludes that the flight crew could have completed a successful landing
+after the initial touchdown.
+After the initial touchdown, the captain took control of the airplane, most likely
+because of the first officer’s inexperience. FDR data indicated that he then made several
+abrupt changes in pitch and power. Wreckage and impact information and CVR and FDR
+data indicated that the captain’s actions after the initial touchdown resulted in the airplane
+bouncing on the runway twice. The captain’s inputs made it less likely that he could
+60 Executive Airlines’ AOM states that the condition levers can remain at 86 percent for landing the
+ATR-72 and that maximum rpm could be set at the pilot’s discretion. After the accident, the company
+standardized its procedures, requiring that the condition levers on all of its ATR airplanes be set to
+100percent before landing.
+61 Executive Airlines’ AOM states that the nonflying pilot should set the power management selector to
+TO before landing.
+62 As noted previously, this flight was the first officer’s first since he completed IOE; therefore, it was
+appropriate for the captain to instruct the first officer during the flight.
+
+Analysis 40 AircraftAccidentReport
+recover from the two bounces and safely land the airplane; as a result, he should have
+executed a go-around.
+The Safety Board concludes that, after each bounce of the airplane on the runway,
+the captain did not make appropriate pitch and power corrections or execute a go-around,
+both of which were causal to the accident. On the basis of the evidence presented in this
+section, the Safety Board concludes that the captain demonstrated poor cockpit oversight
+and piloting techniques before and during the accident sequence.
+2.3 Bounced Landing Recovery Guidance and Training
+Postaccident interviews with the first officer, two company check airmen, and
+three company simulator instructors revealed that Executive Airlines did not have
+standardized guidance regarding bounced landing recovery. For example, one of the check
+airmen and one of the simulator instructors stated that, if the airplane bounced, they would
+execute a go-around. The other three company personnel indicated that, if possible, they
+would try to correct the bounce and land and that, if not possible, they would execute a
+go-around.
+Further, Executive Airlines’ manager of training and standards stated that, before
+the accident, the company did not teach its pilots bounced landing recovery techniques.
+The manager also stated that he would not want to conduct bounced landing recovery
+training in the simulator because it was very difficult to demonstrate. However, he stated
+that, after the accident, the president and the vice president of operations asked him to
+look into the feasibility of conducting bounced landing recovery flight training and
+incorporating bounced landing recovery techniques in company manuals. The Safety
+Board concludes that written company guidance on bounced landing recovery techniques
+would have increased the possibility that the captain could have recovered from the
+bounced landings or handled the airplane more appropriately by executing a go-around.
+As noted previously, on September 25, 2004, Executive Airlines incorporated bounced
+landing recovery techniques in its AOM.
+In its final report on the July 31, 1997, Federal Express flight 14 landing
+accident,63 the Safety Board concluded that the captain’s overcontrol of the elevator
+during the landing and his failure to execute a go-around from a destabilized flare were
+causal to the accident. As a result, the Board issued Safety Recommendation A-00-93 to
+the FAA, which required, in part, that a syllabus for simulator training be developed that
+addressed how to recover from unstabilized landing flares, including techniques for
+avoiding and recovering from overcontrol in pitch before touchdown and techniques for
+avoiding overcontrol and premature derotation during a bounced landing. In a May 15,
+2002, letter, the FAA stated that an industry taskforce had been convened and that the
+taskforce had produced several significant training materials, including an ALAR
+63 NTSB/AAR-00/02.
+
+Analysis 41 AircraftAccidentReport
+Training Guide, to address the safety recommendation. On October 22, 2002, the Board
+classified Safety Recommendation A-00-93 “Closed—Acceptable Action.”
+The training materials produced in response to Safety Recommendation A-00-93
+do not specifically address bounced landing recovery techniques. Further, an informal
+Safety Board survey of six airlines, an airplane manufacturer, and a pilot training facility
+revealed that only some of the companies included bounced landing recovery techniques
+in their flight manuals and discussed these techniques during training. The Board is
+concerned that the lack of guidance on bounced landing recovery techniques could
+contribute to similar landing accidents.
+The Safety Board concludes that the performance of air carrier pilots would be
+improved if additional guidance and training in bounced landing recovery techniques were
+available. Therefore, the Safety Board believes that the FAA should require all
+14CFRPart 121 and 135 air carriers to incorporate bounced landing recovery techniques
+in their flight manuals and to teach these techniques during initial and recurrent training.
+2.4 Quality of Data Provided by Flight Data Recorder
+Potentiometer Sensors
+The Safety Board determined that the left aileron surface position data recorded by
+the accident airplane’s FDR were invalid even though the accident airplane had been
+modified on August 7, 2001, with the position sensors and associated hardware required
+by STC No. ST01310NY. Executive Airlines stated that the first and last FDR parameter
+readout since the installation of the sensors occurred on January 3, 2003, about 1 year and
+5 months after the installation and 1 year and 4 months before the accident. Executive
+Airlines stated that it had replaced 47 aileron surface position sensors in the last 3.5 years.
+However, the company indicated that, because the sensors are not tracked, the times from
+installation to failure could not be determined.
+During its investigation of the Atlantic Southeast Airlines flight 529 accident,64 the
+Safety Board determined that the EMB-120’s two flight control position sensors had
+malfunctioned, preventing the required data from being accurately recorded, and that the
+lack of data hindered the investigation. The Board’s report on the accident noted that tests
+could be conducted to ensure timely identification and repair of potentiometer
+malfunctions, including FDR parameter readouts. The report also noted that malfunctions
+that occur between readouts are typically not detected.
+As a result of the flight 529 investigation and six other investigations involving
+EMB-120s in which potentiometer malfunctions prevented accurate data from being
+recorded on the EMB-120, the Safety Board issued Safety Recommendations A-96-33 and
+-34. Safety Recommendation A-96-33 asked the FAA, in part, to conduct a design review
+of the EMB-120 FDR system, emphasizing potentiometer failures, and mandate design,
+64 NTSB/AAR-96/06.
+
+Analysis 42 AircraftAccidentReport
+installation, and/or maintenance changes, as necessary. In December 2002, the FAA
+issued an STC that authorized the replacement of the potentiometer sensors for the
+EMB-120 FDR system with more reliable sensors. The Safety Board classified Safety
+Recommendation A-96-33 “Closed—Acceptable Action” in October 2004.
+Safety Recommendation A-96-34 asked the FAA, in part, to require EMB-120
+operators to perform an FDR readout or a potentiometer calibration test every 6 months
+until FDR sensor design, installation, and/or maintenance improvements are incorporated.
+In September 1997, the FAA issued an HBAW, which directed operators to conduct FDR
+potentiometer calibration testing every 6 months. As a result, the Safety Board classified
+Safety Recommendation A-96-34 “Closed—Acceptable Action” in May 1998. However,
+in an August 2003 letter commenting on an SNPRM in which the FAA proposed a
+12-month FDR potentiometer inspection interval, the Board reiterated its position on the
+inspection interval recommended in Safety Recommendation A-96-34.
+The potentiometer sensors installed on Executive Airlines ATRs were similar to
+the potentiometer sensors used on the EMB-120; therefore, they were susceptible to the
+same problems that previously prevented accurate data from being recorded on the
+EMB-120. However, at the time of the accident, Executive Airlines only performed
+functional checks of the FDR system every 3,000 flight cycles. As evidenced by company
+maintenance data, it is possible that FDR functional checks performed every 3,000 flight
+cycles will only occur once every 1.5 years. As noted previously, after the accident,
+Executive Airlines began conducting FDR functional checks every 1,000 flight cycles.
+The Safety Board concludes that the aileron flight control surface position sensors
+installed on airplanes in accordance with STC No. ST01310NY are unreliable and that
+FDR functional checks every 6 months could ensure the timely identification and
+correction of potentiometer malfunctions and ensure that accurate flight control data are
+available for accident and incident investigations. Therefore, the Safety Board believes
+that the FAA should require the replacement of aileron surface position sensors installed
+in accordance with STC No. ST01310NY with more reliable aileron surface position
+sensors within 1 year or at the next heavy maintenance check, whichever comes first, after
+the issuance of an approved STC. Until reliable aileron surface position sensors have been
+installed, require FDR functional checks every 6 months and replacement of faulty
+sensors, as necessary. Additionally, the Safety Board believes that the FAA should
+conduct a review of all FDR systems that have been modified by an STC to determine the
+reliability of all sensors used as flight control surface position sensors. If the review
+determines that a sensor does not provide reliable flight control surface position data,
+require that the sensor be replaced with a more reliable sensor.
+2.5 The First Officer’s Medical Condition and
+Prescription Drug Use
+The first officer’s medical records from his personal psychiatrist indicated that he
+had a history of treatment for various anxiety-related symptoms, which are generally
+
+Analysis 43 AircraftAccidentReport
+considered incompatible with aviation duties, at least during the time that the disorders
+require treatment.65 Further, the first officer was prescribed alprazolam, which can cause
+drowsiness and light-headedness and, in doses of 0.5 mg or higher, can impair the
+performance of cognitive and psychomotor tasks.66 The first officer should not have
+omitted information regarding his medical condition on his three most recent FAA airman
+medical certificate applications (dated August 14, 2001; August 7, 2003; and February 10,
+2004), especially given that item Nos. 18 and 19 on the application specifically and clearly
+asked for this information.67 Therefore, the Safety Board concludes that, because the first
+officer started getting treatment for anxiety in July 2001, he should have reported this
+information on his last three FAA airman medical certificate applications. The Safety
+Board is aware that, after the accident, the FAA revoked the first officer’s airman medical
+certificate because he allegedly falsified his application.
+The first officer stated that he typically took only 1/2 of a 0.25-mg alprazolam
+tablet every 2 to 3 days; however, an examination of his recent pharmacy refill records
+suggested that he likely took more than one 0.25-mg tablet per day. Although it is possible
+for the drug to cause impairment if it is taken as frequently as was prescribed (one to two
+0.25-mg tablets every 2 to 3 hours, as needed, not to exceed 8 mg per day), postaccident
+company drug testing of the first officer, which included screening for alprazolam, tested
+negative. Therefore, the Safety Board concludes that not enough evidence was available to
+determine whether or to what extent the first officer’s medical condition and prescription
+drug use contributed to the accident.
+2.6 Uncoupling of the Pitch Control Uncoupling
+Mechanism
+Postaccident testing and examination revealed that the pitch control uncoupling
+mechanism had uncoupled, thereby mechanically disconnecting the left and right
+elevators from each other. As a result, either elevator could be independently deflected up
+and down by hand to its maximum control limits without the corresponding movement of
+the other elevator. During the testing, no binding or mechanical resistance was detected
+when either elevator was moved.
+A review of FDR data indicated that, just before the airplane’s third touchdown,
+the pitch uncoupling mechanism was configured in the normal coupled position. The data
+indicated that the left and right elevators deflected together throughout the entire flight
+and that the elevator deflections were consistent with both control column movements.
+65 D.R. Jones, “Aerospace Psychiatry,” Fundamentals of Aerospace Medicine (Philadelphia, PA:
+Lippincott Williams & Wilkins, 2002).
+66 R.C. Baselt, Drug Effects on Psychomotor Performance (Foster City, CA: Biomedical Publications,
+2001).
+67 The Safety Board has previously noted that pilots do not necessarily have sufficient information to
+determine which medications are contraindicated for flight. As a result, the Board issued Safety
+Recommendations A-00-04 through -06. For more information, see the Board’s Web site at
+<www.ntsb.gov>.
+
+Analysis 44 AircraftAccidentReport
+After the airplane’s third touchdown, the data showed three simultaneous events
+indicating that the pitch uncoupling mechanism had uncoupled. First, the control column
+positions deviated from their normally recorded deviations. Second, the left and right
+elevators began to move independently of each other. Last, the FDR pitch uncoupling
+parameter showed “warn.” None of these events were present before the third touchdown.
+Therefore, the Safety Board concludes that the pitch control uncoupling mechanism
+uncoupled when the airplane touched down for the third time; as a result, the pitch
+uncoupling would not have prevented the flight crew from controlling or safely landing
+the airplane.
+2.7 Failure of the Left Main Landing Gear
+CVR, FDR, and wreckage and impact information indicated that the airplane’s
+third touchdown severely damaged the left MLG, which caused it to fracture
+circumferentially at its vertical trunnion leg just below the actuator attach point.
+Examination of the fracture surfaces revealed evidence of overload failure. No evidence of
+preexisting defects was found.
+The ATR-72 landing gear and associated structure were designed to absorb energy
+equivalent to a maximum airplane descent rate of 10 fps when landing at the airplane’s
+maximum design landing weight (consistent with the landing design limits imposed by
+14CFR 25.473 to 25.487). However, the Safety Board’s airplane performance study
+determined that, when the airplane touched down for the third time, the left MLG touched
+down at a descent rate of about 19 to 32 fps. Therefore, the Safety Board concludes that,
+when the airplane touched down for the third time, the vertical forces on the left MLG
+exceeded those that the gear was designed to withstand, and these excessive forces
+resulted in overload failure.
+
+45 AircraftAccidentReport

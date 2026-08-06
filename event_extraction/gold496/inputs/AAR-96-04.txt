@@ -1,0 +1,2175 @@
+PB96-910404
+NTSB/AAR-96/04
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+RUNWAY DEPARTURE DURING ATTEMPTED TAKEOFF
+TOWER AIR FLIGHT 41
+BOEING 747-136, N605FF
+JFK INTERNATIONAL AIRPORT, NEW YORK
+DECEMBER 20,1995
+6671A
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety Board
+makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)314-6551
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSB/AAR-96/04 PB96-910404
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+RUNWAY DEPARTURE DURING ATTEMPTED TAKEOFF
+TOWER AIR FLIGHT 41
+BOEING 747-136, N605FF
+JFK INTERNATIONAL AIRPORT, NEW YORK
+DECEMBER 20, 1995
+Adopted: December 2, 1996
+Notation 6671A
+Abstract: This report explains the runway departure during attempted takeoff of Tower Air flight
+41, N605FF, a Boeing 747-136 at John F. Kennedy International Airport, New York, on
+December 20, 1995. The safety issues discussed in this report include the adequacy of Boeing and
+air carrier procedures for B-747 operations on slippery runways; adequacy of flight simulators for
+training B-747 pilots in slippery runway operations; security of galley equipment installed on
+transport category aircraft; role of communications among flight attendants and between the cabin
+crew and the flightcrew; adequacy of Tower Air galley security training; compliance of Tower Air’s
+maintenance department with its established procedures; failure of the FDR system to function
+during the accident; adequacy of the Tower Air operational management structure; adequacy of
+FAA surveillance and workload imposed on POIs; adequacy of runway friction measurement
+requirements, including correlation of runway friction measurements with aircraft braking and
+ground handling performance. Safety recommendations concerning these issues were made to the
+Federal Aviation Administration (FAA) and Tower Air, Inc.
+
+
+
+CONTENTS
+EXECUTIVE SUMMARY_____________________________________________________ vii
+1. FACTUAL INFORMATION _________________________________________________ 1
+1.1 History of Flight_______________________________________________________________ 1
+1.2 Injuries to Persons_____________________________________________________________ 4
+1.3 Damage to Airplane____________________________________________________________ 4
+1.4 Other Damage ________________________________________________________________ 5
+1.5 Personnel Information__________________________________________________________ 5
+1.5.1 The Captain_______________________________________________________________________ 5
+1.5.2 First Officer_______________________________________________________________________ 5
+1.5.3 Flight Engineer____________________________________________________________________ 6
+1.6 Airplane Information___________________________________________________________ 6
+1.6.1 General__________________________________________________________________________ 6
+1.6.2 Maintenance Records Review_________________________________________________________ 7
+1.7 Meteorological Information ____________________________________________________ 10
+1.8 Aids to Navigation ____________________________________________________________ 11
+1.9 Communications______________________________________________________________ 11
+1.10 Airport Information__________________________________________________________ 11
+1.10.1 General________________________________________________________________________ 11
+1.10.2 Runway Conditions_______________________________________________________________ 11
+1.10.3 Previous Safety Board Recommendations _____________________________________________ 13
+1.10.4 Air Carrier Slippery Runway Events__________________________________________________ 14
+1.11 Flight Recorders_____________________________________________________________ 14
+iii
+
+1.11.1 Flight Data Recorder______________________________________________________________ 14
+1.11.2 Cockpit Voice Recorder___________________________________________________________ 14
+1.12 Wreckage and Impact Information _____________________________________________ 15
+1.13 Medical and Pathological Information __________________________________________ 17
+1.14 Fire________________________________________________________________________ 17
+1.15 Survival Aspects_____________________________________________________________ 17
+1.15.1 Cabin Interior Layout and Damage___________________________________________________ 17
+1.15.2 Galley Equipment Description ______________________________________________________ 19
+1.15.3 Flight Attendant Galley Preflight Procedures___________________________________________ 22
+1.15.4 Flight Attendant Galley Preflight Activities ____________________________________________ 22
+1.15.5 Events in the Cabin During the Accident Sequence ______________________________________ 23
+1.15.6 Deplanement____________________________________________________________________ 24
+1.15.7 Flight Attendant Training__________________________________________________________ 24
+1.16 Tests and Research___________________________________________________________ 26
+1.16.1 Flight Recorder Tests _____________________________________________________________ 26
+1.16.2 Cockpit Voice Recorder Sound Spectral Study _________________________________________ 27
+1.17 Organizational and Management Information____________________________________ 27
+1.17.1 Reporting Relationships Among Operational Managers___________________________________ 27
+1.17.2 Director of Flight Safety___________________________________________________________ 29
+1.18 Additional Information_______________________________________________________ 29
+1.18.1 Operating Procedures - Boeing 747 __________________________________________________ 29
+1.18.2 Flightcrew Training_______________________________________________________________ 31
+1.18.3 Pilot Techniques for B-747 Takeoffs _________________________________________________ 32
+1.18.4 B-747 Simulator Activity __________________________________________________________ 33
+1.18.5 Recent Tower Air Accidents and Incidents_____________________________________________ 35
+iv
+
+1.18.6 FAA Surveillance ________________________________________________________________ 36
+1.18.7 Aircraft Performance______________________________________________________________ 38
+2. ANALYSIS_______________________________________________________________ 40
+2.1 General _____________________________________________________________________ 40
+2.2 Flightcrew Actions and Decisions________________________________________________ 40
+2.2.1 Pre-takeoff Events_________________________________________________________________ 40
+2.2.2 The Attempted Takeoff and Loss of Control ____________________________________________ 41
+2.2.3 Timeliness of the Rejected Takeoff ___________________________________________________ 42
+2.2.4 B-747 Slippery Runway Operating Procedures __________________________________________ 43
+2.2.5 Training Simulators for B-747 Slippery Runway Operations________________________________ 45
+2.2.6 Summary of Flightcrew Actions and Decisions __________________________________________ 45
+2.3 Galley Security_______________________________________________________________ 46
+2.4 Flight Attendant Actions and Training___________________________________________ 46
+2.4.1 Flight Attendant Communication _____________________________________________________ 46
+2.4.2 Flight Attendant CRM Training ______________________________________________________ 48
+2.4.3 Flight Attendant Galley Training _____________________________________________________ 48
+2.4.4 Purser Training___________________________________________________________________ 48
+2.5 Company Management________________________________________________________ 49
+2.5.1 Maintenance _____________________________________________________________________ 49
+2.5.2 Operations_______________________________________________________________________ 51
+2.6 FAA Surveillance_____________________________________________________________ 51
+2.7 Runway Contamination Evaluation______________________________________________ 53
+3. CONCLUSIONS __________________________________________________________ 55
+3.1 Findings_____________________________________________________________________ 55
+v
+
+3.2 Probable Cause_______________________________________________________________ 57
+4. RECOMMENDATIONS____________________________________________________ 58
+5. APPENDIXES____________________________________________________________ 61
+APPENDIX A - INVESTIGATION AND HEARING_______________________________ 61
+1. Investigation__________________________________________________________________ 61
+2. Public Hearing ________________________________________________________________ 61
+APPENDIX B- COCKPIT VOICE RECORDER TRANSCRIPT______________________ 62
+vi
+
+EXECUTIVE SUMMARY
+On December 20, 1995, at 1136, Tower Air flight 41, a Boeing B-747, veered off
+the left side of runway 4L during an attempted takeoff at John F. Kennedy International Airport
+(JFK), Jamaica, New York. The flight was a regularly scheduled passenger/cargo flight
+conducted under the provisions of Title 14 Code of Federal Regulations (CFR) Part 121. Of the
+468 persons aboard (451 passengers, 12 cabin crewmembers, 3 flightcrew members, and 2
+cockpit jumpseat occupants), 24 passengers sustained minor injuries, and a flight attendant
+received serious injuries. The airplane sustained substantial damage. The weather at the time of
+the accident was partially obscured, with a 700-foot broken cloud ceiling, 1½ mile visibility, light
+snow, and fog.
+The National Transportation Safety Board determines that the probable cause of
+this accident was the captain’s failure to reject the takeoff in a timely manner when excessive
+nosewheel steering tiller inputs resulted in a loss of directional control on a slippery runway.
+Inadequate Boeing 747 slippery runway operating procedures developed by Tower Air, Inc., and
+the Boeing Commercial Airplane Group and the inadequate fidelity of B-747 flight training
+simulators for slippery runway operations contributed to the cause of this accident. The captain’s
+reapplication of forward thrust before the airplane departed the left side of the runway
+contributed to the severity of the runway excursion and damage to the airplane.
+The safety issues discussed in this report include the adequacy of Boeing and air
+carrier procedures for B-747 operations on slippery runways; adequacy of flight simulators for
+training B-747 pilots in slippery runway operations; security of galley equipment installed on
+transport category aircraft; role of communications among flight attendants and between the
+cabin crew and the flightcrew; adequacy of Tower Air galley security training; compliance of
+Tower Air’s maintenance department with its established procedures; failure of the FDR system
+to function during the accident; adequacy of the Tower Air operational management structure;
+adequacy of FAA surveillance and workload imposed on POIs; adequacy of runway friction
+measurement requirements, including correlation of runway friction measurements with aircraft
+braking and ground handling performance.
+vii
+
+
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+RUNWAY DEPARTURE DURING ATTEMPTED TAKEOFF
+TOWER AIR FLIGHT 41
+BOEING B-747-136, N605FF
+JOHN F. KENNEDY INTERNATIONAL AIRPORT, NEW YORK
+DECEMBER 20, 1995
+1. FACTUAL INFORMATION
+1.1 History of Flight
+1
+On December 20, 1995, at 1136, Tower Air flight 41, a Boeing B-747, veered off
+the left side of runway 4L during an attempted takeoff at John F. Kennedy International Airport
+(JFK), Jamaica, New York. The flight was a regularly scheduled passenger/cargo flight
+conducted under the provisions of Title 14 Code of Federal Regulations (CFR) Part 121. Of the
+468 persons aboard (451 passengers, 12 cabin crewmembers, 3 flightcrew members, and 2
+cockpit jumpseat occupants), 24 passengers sustained minor injuries, and a flight attendant
+received serious injuries. The airplane sustained substantial damage. The weather at the time of
+the accident was partially obscured, with a 700-foot broken cloud ceiling, 1½ mile visibility, light
+snow, and fog.
+N605FF was flown from JFK to Miami, Florida, and back to JFK on
+December 19, 1995. The captain on those flights reported no problems with the airplane. On
+December 20, 1995, the airplane was moved to the gate in preparation to depart at 1000 for the
+first leg of a round trip from JFK to Miami and return for the three flightcrew members. The
+cabin crew of 12 included a purser, assistant purser, and deadheading flight attendant (in
+uniform), who was occupying a passenger seat in the cabin.
+The captain stated that he met the first officer and flight engineer in company
+operations before 0830. He received what he described as a thorough weather briefing prepared
+by Tower Air’s dispatch department, which included special weather conditions for JFK. He was
+aware of reports of compacted snow on the runways and that some of the runways were closed;
+he was concerned about both the accumulated snow and a forecast storm. He spoke with the
+Tower Air maintenance controller, who advised him that the airplane had no outstanding
+1
+All times herein are eastern standard time, based on a 24-hour clock.
+
+2
+discrepancies, and proceeded to the airplane. The flight engineer had previously completed the
+external safety inspection and was seated in the cockpit. The first officer joined them shortly,
+and all preflight checks were completed by 0930.
+The captain was the flying pilot for this leg and gave a briefing to the flightcrew.
+According to the captain, the crew discussed the weather and deicing at the gate. They obtained
+2
+the holdover times from the Tower Air General Operations Manual. The crew then discussed
+3
+the amount of snow accumulation, the slippery conditions on the taxiways and runways, the
+need to taxi slowly, taxi procedures on packed snow and ice, and their plans to use engine anti-
+ice and wing heat.
+The flight was pushed back from the gate at 1036, and the final deicing/anti-icing
+4
+with both Type I and Type II fluids began at 1100. The flight was cleared to runway 4L and
+taxied out at 1116.
+According to the captain’s statements, he taxied forward several hundred feet and
+made a 90o left turn to join the taxiway. The ramp was covered with packed snow and patches of
+ice, but some spots were bare. The nosewheel skidded a little in the turn, but the captain taxied
+slowly (about 3 knots according to the captain’s inertial navigation system display), and the
+braking action was adequate. He stopped the airplane to clear the engine of any ice by increasing
+5
+power to 45 percent N for 10 seconds, but the airplane began to slip as power was advanced,
+1
+and they could not complete the procedure at that time.
+Shortly after this attempt, about 1124, the crew of another flight inquired about
+the availability of runway 31L, and ground control advised that it was closed, transmitting, “I
+don’t know when it’s gonna open—probably be a couple of hours, may want to call the Port
+Authority.” The captain stated that based on this information, he did not consider runway 31L to
+be a viable option for his flight’s takeoff. Several minutes later, flight 41 was instructed, “...cross
+[runway] three one left. On the other side monitor [frequency one] nineteen one....” As they
+taxied on the parallel taxiway alongside runway 4L, the flight engineer left the cockpit to visually
+inspect the wings. He returned and reported, “It’s very clean out there.” A few seconds later, at
+1132:06, the flight was cleared to taxi into position and hold on runway 4L.
+2
+Holdover time is the estimated time the application of deicing or anti-icing fluid will prevent the
+formation of frost or ice, and the accumulation of snow on the treated surfaces of an aircraft. It begins
+when the final application of the fluid commences, and it expires when the fluid loses its effectiveness.
+3
+In this report, the term “slippery,” as it pertains to runways, is defined as runway surface condition
+when the effective runway coefficient is less than the certificated bare and dry value, i.e., when the
+runway is not bare and dry.
+4
+Type I fluid, primarily used for deicing, contains a high glycol content (minimum 80 percent) and a
+relatively low viscosity. Type II fluid, normally used for anti-icing, can be operationally defined as fluid
+containing a minimum glycol content of 50 percent (with 45-50 percent water plus thickeners and
+inhibitors).
+5
+N is the engine fan speed expressed as a percentage of the maximum rpm.
+1
+
+3
+The captain stated that as he taxied into position on the runway, he centered the
+airplane and moved the nosewheel steering tiller to neutral as the airplane was barely moving.
+He came to a complete stop, set the parking brake, and did the engine anti-ice runup. The
+airplane did not move during the runup. The captain said that he could see the runway centerline
+intermittently. He noted a strip of dark granular material about the width of a dump truck as he
+looked down the center of the runway. Packed snow was on either side of the strip, and there
+was some bare pavement. Snow was blowing horizontally from left to right across the runway.
+The crew completed the “Before Takeoff Checklist” while holding in position.
+At about 1136, the local controller transmitted, “Tower forty one heavy, wind
+three three zero at one one, runway four left RVR’s one thousand eight hundred, cleared for
+takeoff.” The captain said that he instructed the first officer to hold left aileron (for the
+crosswind correction) and forward pressure on the control column. The first officer stated that he
+held those inputs.
+The captain released the parking brake and held the toe brakes while he increased
+6
+the power to 1.1 EPR. He then released the brakes and advanced the power to 1.43 EPR, and at
+1137:04 called, “Set time, takeoff thrust.” He said that he scanned the EPR gauges, and all were
+normal. The flight engineer confirmed that the power was stable at 1.1 EPR, and as power was
+applied slowly and evenly to 1.43 EPR, he ensured that power was symmetrical and the rpm
+gauges were matched.
+The captain stated that the takeoff began normally, with only minor corrections to
+maintain the runway centerline. Before receiving the 80-knot call he expected from the first
+officer, the captain felt the airplane moving to the left. He said he applied right rudder pedal
+(inputs to the rudder control surface and nosewheel steering) without any effect. He stated that
+he added more right rudder and then used the nosewheel steering tiller, but both were ineffective.
+He stated that he had no directional control and that the nose of the airplane continued to turn
+left. He knew where the runway centerline was, but he was unable to control the direction of
+movement. The captain said that while the airplane was still on the runway with the veer and
+drift to the left increasing, he applied full right rudder and nosewheel steering tiller. He said that
+he then retarded the power levers to idle and applied maximum braking. He said that he
+intentionally did not use reverse thrust because of the airplane’s slow speed at the time of the
+abort, the long runway, and the possibility that reverse thrust could have worsened directional
+control. The airplane then departed the left side of the runway.
+The first officer stated that shortly after thrust was set and the airplane began
+moving forward, it appeared to be left of the centerline. He stated that the nose was pointed
+slightly left of the centerline in a minor deviation. He said that he looked down, noted that the
+airspeed was less than 70 knots, looked back outside, and observed that the airplane had veered
+further to the left. He stated that he was able to distinguish the runway edges at this time, and it
+6
+Engine pressure ratio (EPR) is a measure of engine thrust, comparing the total turbine discharge
+pressure to the total pressure of the air entering the compressor.
+
+4
+was apparent to him that the airplane’s veer to the left could not be corrected. He said that he
+commented on this to the captain and the flight engineer while the captain was attempting to stop
+the airplane.
+The flight engineer stated that after he set takeoff power and cross-checked the
+engine instruments, he noted that the nose had started to veer to the left. He observed the captain
+using right rudder and tiller and thought that the airplane would return to the centerline. He
+recalled that the captain immediately pulled all four thrust levers to idle, and that the captain
+applied the brakes just before the airplane left the runway.
+A deadheading first officer who occupied the aft cockpit jumpseat during the
+attempted takeoff stated that the captain reduced thrust only seconds after the flight engineer
+called “power set.” He stated that he felt no swerve, and that his first indication of trouble was
+when the captain retarded the thrust levers. He thought that the airplane was yawed left but
+tracking straight for a while, and then it started to track to the left off the runway. He thought
+that about 2 seconds elapsed between the power reduction and the time that the airplane left the
+runway.
+The captain recalled that after the airplane came to a stop off the runway, the first
+officer called the control tower, and the flight engineer made a public address (PA)
+announcement for the passengers to remain seated. The captain and flight engineer then
+performed the memory shutdown items. The crew discussed whether to order an evacuation.
+Based on the crew’s determination that there was no fire, that the airplane was basically intact
+and not in imminent danger, and that there was a low wind chill factor outside, the captain
+elected to keep everyone on board.
+1.2 Injuries to Persons
+Injuries Flightcrew Cabin Crew Passengers Other Total
+Fatal 0 0 0 0 0
+Serious 0 1 0 0 1
+Minor 0 0 24 0 24
+None 3 11 427 2 443
+Total 3 12 451 2 468
+1.3 Damage to Airplane
+The airplane sustained substantial damage, and it was written off as a constructive
+total loss.
+
+5
+1.4 Other Damage
+A 12-foot double-sided sign and two 8-foot single-sided signs were damaged
+when the airplane hit them after departing the runway. In addition, an FAA-owned transformer
+was destroyed.
+1.5 Personnel Information
+1.5.1 The Captain
+The captain, age 53, was hired by Tower Air on May 23, 1992, as a first officer on
+B-747 airplanes. He was reassigned as captain on the B-747 on April 23, 1994. He held an
+airline transport pilot (ATP) certificate, with ratings for L-188, DC-9, B-747, and airplane
+multiengine land. His most recent proficiency check was accomplished on January 11, 1995, and
+he completed the required recurrent simulator training in lieu of a proficiency check on July 31,
+1995. He received his last line check before the accident on May 7, 1995. His Federal Aviation
+Administration (FAA) first-class medical certificate was issued on July 17, 1995, with the
+limitation that he must possess corrective lenses. At the time of the accident, company records
+indicated that he had accumulated approximately 16,455 total flying hours. He had logged 2,905
+hours in the B-747, of which 1,102 hours were as pilot-in-command.
+The captain flew on active duty in the U.S. Navy from 1967-1971, and in the
+Naval Air Reserve an additional 15 years in multiengine turboprop airplanes. He flew for
+Transamerica Airlines from 1978 through 1984, and for Midway Airlines from 1984 through
+November 1991.
+7
+The captain held a reserve bid for December, but he was not assigned any flight
+duties by Tower Air from December 12-18, 1995. On December 18, 1995, he was notified that
+he would be performing the accident trip on December 20. He was on reserve on December 19,
+1995, but again was not called for duty that day. He napped for about 2 hours in the afternoon
+and retired about 2200. On December 20, 1995, he awoke at 0400, anticipating bad weather,
+traffic, and the possible need to shovel snow. He arrived at Tower Air operations at 0645. The
+company reporting requirement was 1½ hours before departure, which would have been 0830 in
+this case. He had never flown with the first officer before, but he had flown with the flight
+engineer five times in the past.
+1.5.2 First Officer
+The first officer, age 56, was hired by Tower Air on January 16, 1995, as a first
+officer on B-747 airplanes. He held an ATP certificate, with ratings for LR-JET, N-265, B-747,
+B-727, airplane multiengine land, and commercial privileges for single-engine land, B-707, B-
+720, and L-T33. He completed his most recent proficiency check on February 15, 1995, and his
+7
+A pilot on a reserve bid is on stand-by duty for assignment to flights.
+
+6
+recurrent simulator training in lieu of a proficiency check on July 26, 1995. His most recent
+FAA first-class medical certificate was issued on December 8, 1994, with the limitation that he
+must possess corrective lenses. Company records indicate that at the time of the accident, he had
+accumulated 17,734 total flying hours, of which 4,804 hours were in the B-747.
+The first officer had been off duty for 17 days before the accident trip. He
+commuted from his home in Miami, Florida, to a hotel in New York on December 19, 1995. He
+went to bed about 2230, slept well, and arose at 0600. He reported to operations at 0720. He did
+not recall having flown with the captain previously, but he had flown with the flight engineer
+once.
+1.5.3 Flight Engineer
+The flight engineer, age 34, was hired by Tower Air on March 10, 1995, as a
+flight engineer on B-747 airplanes. He held a flight engineer certificate with a turbojet powered
+rating; a mechanic certificate with airframe and powerplant ratings; and a private pilot certificate
+with ratings for airplane single-engine land. His most recent FAA first-class medical certificate
+was issued on December 8, 1995, with the limitation that he must possess corrective lenses. He
+had a Statement of Demonstrated Ability issued on April 2, 1994, for defective color vision
+demonstrated on a special flight test. His most recent proficiency check was accomplished on
+March 9, 1995, and his recurrent training was completed on September 19, 1995. Company
+records indicate that at the time of the accident, he had accumulated a total of 4,609 total flying
+hours, of which 2,799 hours were as a flight engineer in the B-747.
+The flight engineer flew the JFK-Miami-JFK round trip that included flight 41 on
+December 17, and he was off duty December 18-19, 1995. On December 19, 1995, he left his
+home in Delaware about 1230 in his car, arrived in New York about 1730, and checked into the
+hotel about 2000. He went to bed about 2100. He arose at 0500 on December 20, 1995, left the
+hotel at 0720, and arrived at the operations office at 0730.
+1.6 Airplane Information
+1.6.1 General
+N605FF, a Boeing B-747-136, was delivered new to the British Overseas Airline
+Corporation in July 1971. Trans World Airlines, Inc. (TWA), acquired it in March 1981, and
+subsequently sold it to Tower Air in March 1991. At the time of the accident, it had been flown
+90,456.7 hours, with 17,726 cycles. It was equipped with four Pratt & Whitney JT9D-7A
+engines.
+The Boeing 747-136 model is equipped with a hydraulic-powered nosewheel
+steering system to assist pilots with directional control during ground operations. Hydraulic fluid
+under pressure is used to turn the nosewheel in response to control inputs by the captain and first
+officer. All B-747s are equipped with a nosewheel steering tiller located at each pilot’s side
+panel. Nosewheel steering through the tiller is capable of 70o of nosewheel deflection, at full
+
+7
+tiller input. In addition to the steering capability through the tiller, N605FF (as well as many
+other B-747s) was equipped with rudder pedal steering that turned the nosewheel in response to
+control inputs through the rudder pedals at each pilot’s foot position. Because of the rudder
+pedal steering, a pilot’s inputs to the rudder pedals would result in coordinated movement of the
+nosewheel and the rudder control surface at the tail of the airplane. In contrast to the tiller, the
+rudder pedals were capable of 10o of nosewheel deflection, at full rudder pedal input.
+The flight data recorder (FDR) system on N605FF was an Aeronautical Radio,
+Incorporated (ARINC) Characteristic Number 563 digital FDR system. This system consisted of
+a central electronics unit (CEU) and three digital acquisition units (DAU), in addition to the
+flight data recorder unit. The three DAUs were located in the system’s main equipment center,
+center equipment center, and upper equipment center. Each DAU acquired, converted, and
+multiplexed inputs from FDR data sensors located near the unit (e.g., DAU #3 handled the
+vertical and longitudinal acceleration and stabilizer position data). A processed, digital signal
+was sent from each of the DAUs to the CEU for further conditioning and processing. The CEU,
+located in the main equipment center, acted as a final signal processor, and sent the signal to the
+FDR for recording. (Figure 1 shows the location of the FDR system components.)
+Following the accident, the baggage and cargo on the airplane were weighed. The actual
+takeoff gross weight was found to be 566,963 pounds. The maximum allowable takeoff gross
+weight was 625,609 pounds. The actual center of gravity (CG) was found to be 22 percent mean
+aerodynamic chord (MAC). According to the Tower Air B-747 Flight Manual, the CG limits for
+this weight were between 13.8 and 31.5 percent MAC.
+1.6.2 Maintenance Records Review
+Tower Air maintained N605FF under an FAA-approved continuous maintenance
+program. All appropriate airworthiness directives (ADs) had been accomplished.
+8
+British Airways performed a “C” check on N605FF from December 30, 1993,
+through January 29, 1994, at its facility in London. Tower Air sent two inspectors to the facility
+to monitor the work and to ensure that the maintenance was performed in accordance with the
+Tower Air General Maintenance Manual (GMM). Random inspection of selected work cards by
+the Safety Board revealed that the individual work cards had been signed off by British Airways
+personnel. However, the Tower Air inspectors did not complete the “C” check work
+accountability form that would have attested to the completion of the entire “C” check, as
+required by the GMM.
+8
+The FAA-approved maintenance program for Tower Air includes seven specific checks that must be
+accomplished at various calendar or operating time intervals. They range from Transit Service,
+completed at each departure, to “D” checks performed every 72 months. The 15-month service is
+accomplished at a mid-point (9-15 months) between “C” checks, which are at 24-month intervals.
+
+
+
+9
+A 15-month service check was accomplished on N605FF in March 1995 at the
+Tower Air facility at JFK. During the service check, all landing gear were removed because of
+time-in-service limitations. The part numbers of the replacement landing gear (appropriate for
+the B-747-121 model) were different from those specified in the Tower Air illustrated parts
+catalogue for the B-747-136. Documentation from Boeing showed that the part numbers of the
+replacement gear could be substituted on the B-747-136. However, Tower Air maintenance
+personnel had installed the gear without the documentation from the manufacturer; this
+documentation was obtained when the issue was raised during the Safety Board’s investigation of
+the accident.
+Interviews with the mechanics, maintenance supervisors, inspectors, parts stores
+personnel, and purchasing personnel involved in the landing gear replacement revealed that no
+one had cross-checked the part numbers on the landing gear with the carrier’s illustrated parts
+catalog. The Tower Air GMM specified that it was the responsibility of each mechanic and
+inspector to ensure that all parts being installed were approved in the manual. The GMM also
+required the receiving inspector to compare the serial number, part number, and quantity with the
+applicable purchase order or repair order.
+On September 28, 1995, FDR S/N 2074 was removed from N605FF for a routine
+annual check of the airplane’s FDR systems. The annual check is performed to determine the
+validity and accuracy of the mandatory recorded parameters and consists of a readout of the data
+recorded during recent flights. Nominal data for all recorded parameters would indicate normal
+functioning of the FDR, CEU, and three DAUs. FDR S/N 2074 was replaced with S/N 2461.
+The readout was performed by TWA.
+On November 3, 1995, after FDR S/N 2074 was read out, TWA issued a
+memorandum to Tower Air identifying six data parameters that were “suspect.” These
+parameters were (1) elevator position; (2) radio communications; (3) flap outboard position; (4)
+vertical acceleration; (5) longitudinal acceleration; and (6) No. 2 reverser position.
+Aircraft maintenance log page No. 38147 for N605FF, dated December 1, 1995,
+indicated two specific writeups on the FDR system. The first indicated that the FDR “OFF” light
+(located on the pilot’s overhead panel) flickered in flight. The corrective action shown in the
+logbook was to replace FDR S/N 2461 with FDR S/N 2152. This action eliminated the
+flickering light. The second writeup indicated that the FDR system test (located on the flight
+engineer’s panel) was inoperative in flight and on the ground. The corrective action for this item
+was deferred initially. On December 2, 1995, the CEU was replaced and the system checked
+satisfactorily. The aircraft was then returned to service.
+On December 4, 1995, the six “suspect” FDR system parameters were entered in
+the aircraft maintenance log, and the discrepancies were transferred to the deferred items log.
+According to the maintenance log, on December 7, 1995, the last day that the discrepancy could
+be deferred according to the FAA-approved Master Minimum Equipment List (MMEL), the
+corrective action taken was to replace DAU #1. There was also the annotation, “Performed
+functional check as per 31-31-00 [Maintenance Manual].”
+
+10
+According to the mechanic/supervisor who did the work, the required functional
+check of the FDR on N605FF was not accomplished immediately after DAU #1 was replaced
+because the “thumb wheel” test equipment was not available during the night shift, when the
+DAU was replaced. The day shift mechanic/supervisor stated that he performed the required
+functional check of the FDR after he obtained the tester from TWA. A sales ticket issued by
+TWA for rental of a “thumb wheel” tester indicated that it was issued to Tower Air at 0800 on
+December 7, for 4 hours. The mechanic/supervisor could not remember when he obtained the
+tester or who assisted him, but he stated that the test required about 1½ to 2 hours with another
+person’s help. He stated that the test could be done at the gate; however, he indicated that any
+maintenance on the airplane (including the functional test of the FDR system) must be completed
+2 hours before the scheduled departure time. Tower Air records indicate that N605FF departed
+JFK at 0955 on December 7, 1995, and did not return until 2015 that evening.
+1.7 Meteorological Information
+The National Weather Service (NWS) surface analysis charts for 1000 and 1300
+showed a strong area of low pressure located southeast of Nantucket Island moving slowly
+northeast. Instrument meteorological conditions (IMC), moderate-to-strong northerly surface
+winds, and light-to-moderate snow were indicated west and southwest of the system over the
+New England area.
+Pertinent surface weather observations at JFK were, in part, as follows:
+1050--Record--partial obscuration, estimated ceiling 700 feet broken,
+2,000 feet overcast, visibility 1 1/2 miles, light snow and fog, temperature
+24 oF, dew point 21 oF, wind 350o at 13 knots, altimeter setting 29.54
+inches of Hg; Remarks--0.5 sky obscured by snow.
+1150--Record--partial obscuration, estimated ceiling 700 feet broken,
+2,000 feet overcast, visibility 1 1/2 miles, light snow and fog, temperature
+24 oF, dew point 21 oF, wind 330o at 11 knots, altimeter setting 29.53
+inches Hg; Remarks--0.5 sky obscured by snow.
+The JFK Surface Weather Observations Form for December 20, 1995, showed
+that 1.3 inches of snow had fallen between 0645 and 1245. The form also indicated that the peak
+wind for the day had been from the north at 24 knots at 1014. No local or special weather
+observation was made at the time of the accident, as required by NWS directives, because the
+weather observer was not notified of the accident in time to fulfill this requirement.
+The wind direction and speed measurements included in the official weather
+observations at JFK were obtained from the NWS anemometer located 20 feet above the airport
+surface, between runways 4L-22R and 4R-22L, about ¾ mile northeast of where the airplane
+departed off the side of the runway. Given the prevailing northwesterly winds, this location was
+downwind of the terminal buildings at JFK. Research indicates that no significant sheltering
+
+11
+effects exist beyond 20 building-heights downwind of an obstacle. The anemometer was more
+than 50 building-heights downwind of the terminal buildings.
+An NWS Automated Surface Observing System (ASOS) unit that included an
+anemometer positioned 10 meters above the surface was located about ½ mile further to the
+northeast. This unit had been calibrated and was operating on the day of the accident, but it had
+not yet been commissioned by the NWS. Consequently, the weather data that it collected were
+not included in official observations. The ASOS unit recorded a gust of 22 knots between 1111
+and 1121 (15 to 25 minutes before the accident).
+1.8 Aids to Navigation
+There were no pertinent problems with navigational aids.
+1.9 Communications
+No external communications difficulties were reported.
+1.10 Airport Information
+1.10.1 General
+JFK Airport is located 13 feet above sea level. It is owned by the City of New
+York and operated by the Port Authority of New York and New Jersey (PNY&NJ). It was
+certificated under 14 CFR Part 139, and is an Index E aircraft rescue and fire fighting (ARFF)
+9
+facility. The runway configuration includes four runways: 4L/22R, 4R/22L, 13L/31R, and
+13R/31L. Runway 4L, the accident runway, is 11,351 feet long and 150 feet wide, with an
+asphalt surface that has transverse grooves the full length. It is configured for Category I
+instrument landings and is equipped with high intensity runway edge lights and centerline lights.
+1.10.2 Runway Conditions
+On the morning of the accident, runway 4L had been closed to aircraft operations
+for snow removal, sanding, and inspection until about 1000. Runway 31L was closed until about
+1134, when the airport duty manager informed the control tower that the runway had checked
+satisfactorily. According to the transcript of radio transmissions on Kennedy Air Traffic Control
+Tower ground control frequency, at 1131 the ground controller transmitted, “…American
+fourteen seventy three the word is just now (we’re) switching to thirty one left [at taxiway]
+double kilo for departure so you can plan on that.”
+9
+Title 14 CFR Part 139 requires, for scheduled air carrier service with aircraft at least 200 feet in length,
+that at a minimum the airport be equipped with at least three ARFF vehicles with at least 6,000 gallons of
+water for foam production.
+
+12
+FAA Advisory Circular (AC) 150/5200-30A advises airport operators to perform
+friction checks of runway surfaces during ice/snow conditions. The AC does not specify the
+method of friction measurement to be used, although it provides a list of recommended methods.
+The PNY&NJ operations services supervisor stated that she conducted a
+coefficient of friction measurement survey of runway 4L at 0933, using a Saab friction test
+vehicle, just after the runway had been sanded. After driving the full length of the runway, 20
+feet to the right of centerline, the supervisor estimated that the surface was approximately 60
+percent covered with patches of snow and ice. The friction coefficient results from the test,
+which was completed at 0950, averaged 0.32; with 0.39 in the touchdown zone, 0.26 at the mid-
+point, and 0.31 in the rollout area. Two additional friction tests were run after the accident at
+1147 and 1155 indicating 0.31 and 0.27, respectively, in the touchdown zone area of runway 4L,
+where the on-runway portion of the accident sequence occurred.
+PNY&NJ procedures state, “When [friction] readings are 0.40 and below for any
+one-third of the runway and taken on acceptable conditions, they should be reported to the tower
+[emphasis in original].” PNY&NJ Operations Office personnel stated that the 0933 friction
+results were relayed to the control tower by telephone before runway 4L was reopened at 1000.
+The control tower had no record that this information was received from PNY&NJ. The 0933
+coefficient of friction measurements were entered into the PNY&NJ operations office computer
+at 1240 (after the accident), with the annotation, “ATCT advised.”
+The PNY&NJ assistant chief operations supervisor, who was serving as the
+airport duty manager at the time of the accident, stated that runway 4L had been plowed and
+sanded full length and width just before the 0933 friction test on December 20, 1995. He stated
+that he inspected the runway before it was reopened at 1000, and he issued two notices to airmen
+(NOTAMS), as follows:
+1. Runway 4L-22R, patches of one inch-deep compacted snow and
+ice. Runway sanded.
+2. Runway 4L-22R, centerline lights obscured.
+Both NOTAMS were valid at the time of the accident.
+FAA Order 7110.65J, “Air Traffic Control,” paragraph 3-3-4 (d)(1) provides the
+following procedures for air traffic controllers to use in providing information to pilots about
+runway friction measurements received from airport management:
+Furnish information as received from the airport management to pilots on the
+ATIS at locations where friction measurement devices such as…Saab Friction
+Tester…are in use. Use the Runway followed by the MU number for each of the
+three runway segments, time of report, and a word describing the cause of the
+runway friction problem.
+
+13
+1.10.3 Previous Safety Board Recommendations
+10
+In 1982, the Safety Board addressed the issue of runway surfaces contaminated
+11
+by ice or snow in three investigation reports. As a result of these investigations, the Safety
+Board issued the following safety recommendations to the FAA concerning runway friction
+measurement technologies and procedures:
+Amend 14 CFR 25.109 and 14 CFR 25.125 to require that manufacturers of
+transport category airplanes provide data extrapolated from demonstrated dry
+runway performance regarding the stopping performance of the airplane on
+surfaces having low friction coefficients representative of wet and icy runways
+and assure that such data give proper consideration to pilot reaction times and
+brake antiskid control system performance. (A-82-165)
+In coordination with the National Aeronautics and Space Administration
+(NASA), expand the current research program to evaluate runway friction
+measuring devices which correlate friction measurements with airplane
+stopping performance to examine the use of airplane systems to calculate and
+display in the cockpit measurements of actual effective braking coefficients
+attained. (A-82-168)
+In a June 19, 1987, response to Safety Recommendation A-82-165, the FAA
+informed the Safety Board that it had drafted a notice of proposed rulemaking to enable aircraft
+manufacturers to furnish performance information “for slippery runways in unapproved sections
+of airplane flight manuals .…” Further, the FAA stated that it had amended its guidance material
+regarding performance information for operations on slippery runways, AC 91-6, in conjunction
+with the proposed regulatory changes. However, on April 1, 1988, after reviewing what the
+Board characterized as “the limited actions taken by the FAA during the [preceding] five years,”
+including the FAA’s failure to issue a final rule in this area, the Safety Board classified Safety
+Recommendation A-82-165 “Closed—Unacceptable Action.”
+In response to Safety Recommendation A-82-168, the FAA informed the Safety
+Board on April 1, 1983, that the FAA and NASA were initiating a test program “to develop a
+means to provide runway braking condition information which has a more quantitative basis than
+subjective pilot reports.” However, on May 5, 1987, the FAA informed the Safety Board of its
+concerns that such runway friction and aircraft braking measurements could not be made
+10
+In this report, the term “contaminated,” as it pertains to runways, is defined as being when the runway
+is not bare and dry or when the runway surface is altered such that the effective runway friction
+coefficient is less than the certificated bare and dry value.
+11
+(1) National Transportation Safety Board. 1982. Air Florida collision with 14th Street bridge,
+Washington, D.C., January 13, 1982. Aircraft Accident Report NTSB/AAR-82/8; (2) National
+Transportation Safety Board. 1982. World Airways, Boston, Massachusetts, January 23, 1982. Aircraft
+Accident Report NTSB/AAR-82/15; and (3) National Transportation Safety Board. 1982. Large airplane
+operations on contaminated runways. Special Investigation Report NTSB/SIR-82/15.
+
+14
+meaningful and might encourage operations from a runway with a very low friction coefficient.
+The Safety Board disagreed and on April 1, 1988, classified Safety Recommendation A-82-168
+“Closed—Unacceptable Action.”
+1.10.4 Air Carrier Slippery Runway Events
+Since 1982, a review of Safety Board accident data for 14 CFR Part 121 and 135
+operators showed that 15 accidents occurred during periods of ice and snow contamination. The
+contamination on the surface was found to be the probable cause in two cases, and a contributing
+factor in nine others.
+According to the FAA Administrator’s Daily Alert Bulletin reports reviewed by
+the Safety Board, six air carrier operations experienced excursions from runways or high speed
+taxiways in surface conditions of ice, snow or slush contamination during the winter season of
+12
+1995-96. Additionally, air carrier operations experienced five excursions from taxiways under
+such conditions during the same period.
+1.11 Flight Recorders
+1.11.1 Flight Data Recorder
+The aircraft was equipped with Sundstrand 573 FDR S/N 2152. The FDR was
+received at the Safety Board laboratory in good condition, with no signs of external or internal
+damage. However, the readout revealed that all parameters recorded by the FDR, except time
+and synchronization, lacked orderliness and reflected random values not resembling any type of
+flight operation. The FDR data were also transcribed at the TWA facility in St. Louis, Missouri,
+where the system was initially installed, but the data transcription yielded the same results.
+Finally, the data were provided to a private contractor, who also concluded that no meaningful
+data were on the tape.
+1.11.2 Cockpit Voice Recorder
+The aircraft was equipped with Fairchild model A-100 cockpit voice recorder
+(CVR), S/N 2059. The exterior of the CVR showed no evidence of damage, and the interior of
+the recorder and tape were also undamaged. The recording from 1106:40 to 1137:21 was of
+13
+good quality. It began during the preparation to start engines and ended shortly after the aircraft
+12
+Business Express BAE-146, Rifle CO, 2/20/96; Continental Airlines B-737, Kansas City MO, 1/18/96;
+Delta Airlines B-727, Salt Lake City UT, 1/26/96; Delta Airlines B-757, Portland OR, 2/5/96; American
+Airlines MD-80, Richmond VA, 2/17/96; USAir B-737, Charlotte NC, 2/3/96.
+13
+The Safety Board generally uses the following criteria to assess the quality of a CVR recording: a
+“poor” recording is one in which a transcription is nearly impossible given that a large portion of the
+recording is unintelligible; a “fair” recording is one in which a transcription is possible, but the recording
+is difficult to understand; a “good” recording is one in which few words are unintelligible; and an
+“excellent” recording is very clear and easily transcribed.
+
+15
+went off the runway. The Safety Board transcribed the complete duration of the tape (see
+appendix B).
+1.12 Wreckage and Impact Information
+The first marks on the runway attributed to N605FF consisted of four pairs of
+black marks located approximately 2,000 feet from the threshold of runway 4L, and centered
+approximately 40 feet left of the runway centerline (see figure 2). The four pairs of tire marks
+were consistent with the tires of the airplane left main wing landing gear (LMWLG), left body
+landing gear (LBLG), right body landing gear (RBLG), and right main wing landing gear
+(RMWLG). The tire marks on the runway were continuous, and each mark was approximately 8
+inches wide. No tire marks were found from the nose landing gear either on the runway or on the
+ground.
+The marks were identified by tracing ground, taxiway, and runway marks back
+14
+from the airplane using the known dimensions of the airplane’s landing gear and tires. When
+tire marks were correlated with the landing gear that left the marks, it was determined that the
+LMWLG departed the left edge of the runway (which is 75 feet left of the centerline) 2,100 feet
+from the threshold, and the RMWLG departed the left edge of the runway 2,300 feet from the
+threshold.
+Both the LBLG and the RBLG tire marks paralleled the other tire tracks. The
+landing gear made ruts 8-12 inches deep in the soft, snow-covered ground. The RMWLG ruts
+intersected an area of 8”x12” asphalt blocks about 2,400 feet from the threshold and 105 feet left
+of the runway centerline. Just beyond this area, the tire marks crossed an asphalt service road
+connecting the runway and the parallel taxiway. The road sloped away from the runway so that
+the surface elevation was about 2-3 feet higher at the RMWLG tracks than at the LMWLG
+tracks. The RMWLG ruts continued to approximately 2,500 feet from the threshold and 240 feet
+left of the runway centerline, where the ruts began to shallow and then ended about 2,600 feet
+from the threshold and 290 feet left of the runway centerline. The ruts from the remaining main
+landing gear continued to where the airplane came to rest. Two new ruts approximately 30 feet
+apart and to the right of the RMWLG ruts that disappeared were associated with the Nos. 3 and 4
+engines. The outboard rut ended at an electric transformer. The transformer and its concrete
+base were destroyed, and pieces of the nosegear assembly were found approximately 35 feet to
+the left of the transformer. The No. 4 engine was located about 3,700 feet from the runway
+threshold and 500 feet left of the runway centerline. The airplane came to rest approximately
+4,800 feet from the runway threshold and 600 feet to the left of the runway centerline.
+14
+The distance between the LMWLG strut and the RMWLG strut is 36.1 feet. The distance between the
+LBLG and the RBLG is 12.6 feet. The distance between the center of an inboard and outboard tire for
+each landing gear is 4 feet.
+
+
+
+17
+The fuselage forward of the No. 2 main entry door and below the floor level
+received severe impact damage. It was crushed upward where the nose landing gear had
+collapsed, still attached, aft into the fuselage. The collapse of the nose landing gear and
+subsequent crushing of the fuselage lower lobe resulted in significant damage to the electronics
+bay, and disrupted the normal operation of the PA and interphone systems. There was no impact
+damage to the fuselage above the floor line, and fuselage damage aft of the No. 2 main entry door
+was limited to fiberglass fairings.
+The left wing, flight controls, and pylons for engine Nos. 1 and 2 were not
+damaged. The primary structure of the right wing and ailerons was not damaged. The inboard
+leading edge flaps and the inboard trailing edge mid and aft flaps received impact damage. The
+No. 3 engine pylon was severely damaged and bent slightly inboard. The No. 4 engine pylon was
+also severely damaged and separated forward of the rear engine mounts.
+1.13 Medical and Pathological Information
+In accordance with the requirements of Appendix I of Part 121, each flightcrew
+member submitted a urine sample at the Kennedy Medical Offices at JFK Airport for the
+15
+required testing for five drugs of abuse. The samples were analyzed by Labcorp of America,
+located in Research Triangle Park, North Carolina. The results were negative for all three
+crewmembers.
+In accordance with Appendix J, 14 CFR Part 121, each flightcrew member also
+submitted to a Breath Alcohol Test. The tests were accomplished between 1416 and 1427 on
+December 20, 1995. The results were negative for all three crewmembers.
+1.14 Fire
+There was no fire.
+1.15 Survival Aspects
+1.15.1 Cabin Interior Layout and Damage
+The interior of N605FF was divided into six zones, as shown in figure 3:
+• Zone A - Cabin forward of the L1/R1 doors
+• Zone B - Cabin between the L1/R1 and L2/R2 doors
+• Zone C - Cabin between the L2/R2 and L3/R3 doors
+• Zone D - Cabin between the L3/R3 and L4/R4 doors
+• Zone E - Cabin aft of the L4/R4 doors
+• Upper Deck - Cabin area above the main deck, aft of L1/R1 doors
+15
+The five drugs of abuse specified by the regulation for postaccident testing are marijuana, cocaine,
+opiates, phencyclidine, and amphetamines.
+
+
+
+19
+The cabin floor sustained substantial damage in Zone A. The floor was displaced
+upward approximately 2 feet in the center of the cabin at seat rows 6, 7, and 8. At least three of
+the four attach points for each of the seats in this area remained secured to the seat tracks, and no
+injuries were reported in this area.
+1.15.2 Galley Equipment Description
+The cabin of N605FF had three galley complexes, each of which consisted of two
+galleys facing each other. The forward complex was between the L1/R1 exits; the mid complex
+was between the L2/R2 exits; and the aft complex was between the L4/R4 exits.
+Each galley contained both permanent equipment and removable equipment.
+Permanent equipment included ovens, coffee makers, and waste bins. Removable equipment
+included carts (meal or beverage carts used in the aisles), and containers (also referred to as bins,
+and usually not moved during the flight). Ice carts, slightly larger than the meal and beverage
+carts, were also part of the removable equipment on the former TWA airplanes in the Tower Air
+fleet, including N605FF.
+According to Tower Air procedures, the ice carts are installed by the caterers
+before each flight. Flight attendants do not move them from the galley during the in-flight
+service, but they are responsible for ensuring security of the galley equipment, including the ice
+carts, based on their training, the Flight Attendants Manual, and the Galley & Service Equipment
+Training Manual.
+Tower Air required that all of the removable equipment, including the ice carts, be
+secured with both primary and secondary locking devices. Primary latching of meal and
+beverage carts on N605FF was accomplished by placing each cart over a "mushroom" (a
+restraining spool mounted on the floor under the galley counter). The carts were secured to the
+mushrooms by a locking mechanism mounted beneath the cart. A cart could be removed from
+the mushroom by releasing the cart's brakes, which released the cart from the mushroom.
+In contrast to the “mushroom” locking mechanism used to secure meal and
+beverage carts, the ice cart in each galley area of N605FF locked onto a retaining tongue
+mounted on the floor of the galley with a lever located on the bottom of the cart. The lever
+movement inserted a pin through a circular opening in the retaining tongue (see figure 4).
+Secondary latches were installed for each cart in the galleys of N605FF. The
+secondary latches were levers that when rotated, covered a portion of the cart to prevent the cart
+from moving from its stowage location. In N605FF, some secondary latches were mounted to
+the galley counter, some were mounted on galley support structures, and some were mounted on
+trash bin doors. The secondary latch for the ice cart located in the forward-facing portion of the
+aft galley was mounted on the galley counter.
+
+
+
+21
+Based on its manufacture date of 1971, according to the FAA, N605FF was
+subject to type certificate requirements regarding the prevention of items of mass, stowed in a
+passenger or crew compartment, from becoming a hazard by shifting under the appropriate
+maximum load factors corresponding to the specified flight and ground load conditions, and to
+16
+the emergency landing conditions of 14 CFR 25.561(b) and (c).
+The airplane was also subject to provisions of 14 CFR Part 25.785(h)(4), which
+required that each flight attendant seat be “located to minimize the probability that occupants
+would suffer injury by being struck by items dislodged from service areas, stowage
+compartments, or service equipment.”
+TWA had installed secondary latches on N605FF in 1982. The TWA engineering
+drawings for the installation of those latches included some latches mounted on doors rather than
+rigid structure. On N605FF, in the galleys where waste bins were installed, secondary latches
+were mounted on the waste bin doors. Further, the engineering drawings did not include a latch
+mounted on the galley counter as the secondary latch for the ice cart, as found in the aft galley of
+N605FF. TWA advised the Safety Board that the latches were installed when decorative, non-
+structural doors, were removed. The modification order stated that FAA approval was not
+required; however, a copy of the modification order was provided to the FAA.
+On January 6, 1994, the FAA issued AC 25.785-1A, “Flight Attendant Seat and
+Torso Restraint System Installations.” The AC provided the following guidance on secondary
+latching mechanisms:
+If the primary latching devices fail, the additional restraint devices [secondary
+latches] should be designed to retain all items of mass under the inertial loads
+specified as a part of the airplane type certification basis….
+...Service experience with galleys, stowage compartments, and serving carts
+has shown that some of the presently designed latches or locks, of themselves,
+may not adequately minimize the probability of items being dislodged under
+operational and emergency load conditions….
+Flight attendant seats that are located within a longitudinal distance equal to
+three rows of seats measured fore and aft from the center of a galley or
+16
+14 CFR 25.561 concerns Emergency Landing Conditions. It states, in part, that the airplane must be
+designed to protect each occupant as follows:...(b) The structure must be designed to give each occupant
+every reasonable chance of escaping serious injury in a minor crash landing when - (1) Proper use is
+made of seats, belts, and all other safety design provisions;...(3) The occupant experiences the following
+ultimate inertia forces acting separately relative to the surrounding structure: (i) Upward, 3.0g, (ii)
+Forward, 9.0g (iii) Sideward, 3.0g on the airframe; and 4.0g on the seats and their attachments. (iv)
+Downward, 6.0g (v) Rearward, 1.5g (c) The supporting structure must be designed to restrain, under all
+loads up to those specified in paragraph (b)(3) of this section, each item of mass that could injure an
+occupant if it came loose in a minor crash landing.
+
+22
+stowage compartment area, with the exception of underseat and overhead
+stowage bins, are not in compliance with para. 25.785(j) [sic (h)(4)] unless
+additional restraint devices (dual latching devices or equivalent) are
+incorporated to retain all items of mass in the galley...under the inertia loads
+specified as part of the airplane type certification basis.
+1.15.3 Flight Attendant Galley Preflight Procedures
+According to the Tower Air Flight Attendant Manual, all company flight
+attendants had preflight duties, and four flight attendants on a B-747 were specifically
+17
+responsible for preflight preparation and inspection of the galleys. The R1 flight attendant was
+responsible for preflighting the forward galley; L2, the mid galley; L4 (who was designated
+assistant purser on the flight), the aft galley; and UD, the upper deck galley. These preflight
+duties included testing cart brakes, primary locking mechanisms, and secondary latches.
+Following this accident, Tower Air Inflight Service Department issued a
+memorandum to all flight attendants on January 31, 1996, describing the operation of the ice
+module locking mechanism and the flight attendant responsibility to ensure that carts are
+properly locked.
+1.15.4 Flight Attendant Galley Preflight Activities
+The R1, L2, L4, and UD flight attendants on the accident flight stated that their
+galleys were secure for takeoff. These flight attendants stated that they secured the carts by
+engaging the cart brakes and placing secondary latches over the carts.
+The L4 flight attendant was responsible for securing the aft galley. This was her
+first trip working the galley. She recalled that she was able to secure everything without
+difficulty. The L4 flight attendant stated that she secured the ice cart module in the aft galley by
+moving the lever underneath the cart to the secured position.
+In contrast to the statements of the L4 flight attendant, the R4 flight attendant
+recalled that while she was icing down her beverage cart before departure, she noted that the ice
+cart swing brake was not secured to the retaining tongue. She stated that she tried to lock the
+cart, but could not. She stated that she advised the L4 flight attendant that the ice cart was not
+secure and asked the R5 flight attendant if he could secure the cart. The R5 flight attendant did
+not recall the R4 attendant making this request.
+17
+This report refers to flight attendants according to their emergency exit door assignments (refer back to
+figure 2 for cabin layout and door labels).
+
+23
+1.15.5 Events in the Cabin During the Accident Sequence
+The R4 flight attendant, who was seated in the aft-facing jumpseat at door R4,
+reported that during the accident sequence, she sensed movement toward the right side of the
+runway with a skidding sensation. Later she heard “crunching, tearing” noises, and saw the No.
+4 engine skidding down the runway before the airplane stopped. She recalled that while the
+airplane was still moving, many overhead bins opened and spilled their contents. The larger side
+bins in the cabin nearby also opened and spilled even more debris. During the airplane’s slide,
+she heard a “metal sound” in the aft galley, and she saw an ice cart and a beverage cart come
+loose. The ice cart hit her right shoulder, and she suffered a broken right shoulder. The ice cart
+continued to move forward and stopped upright in front of the empty passenger seats across from
+her jumpseat. The loose beverage cart hit the ice cart and then came to rest tilted against the
+seats, blocking the R4 exit. The R4 flight attendant recalled that she and several passengers
+smelled kerosene after the airplane stopped. She commented that if she had not been injured, she
+would have evacuated.
+The L4 flight attendant stated that when the aircraft stopped abruptly, the
+overhead bins in Zone E opened, and luggage spilled “all over the place.” After the airplane
+stopped, the L4 attendant noted that the secondary latch for the ice cart on the forward-facing
+side of the aft galley was bent upward.
+The R2 flight attendant observed that a bin in the mid galley had popped out about
+2-3 inches during the accident sequence, and that the L2 flight attendant got out of her seat to
+secure it while the airplane was still sliding.
+The UD flight attendant reported that the doors to several bins opened during the
+accident sequence. She recalled that various items of personal equipment she had stowed came
+out of the bins.
+Based on the recollections of all flight attendants, the only flight attendants who
+shouted brace position commands during the accident sequence while the airplane was still
+moving, as required by Tower Air procedures, were those at the R1, R4, and UD positions.
+The purser stated that when the airplane stopped, he tried to call the cockpit on the
+interphone. Although he heard the interphone tone, he received no answer. He ran upstairs to
+the cockpit to get instructions from the captain, and was told that because there was no fire or
+danger, the passengers should be kept on board out of the weather. He recalled that the captain
+also advised him that the rescue personnel would come to the L1 door. The purser stated that the
+captain did not inquire about the cabin condition or injuries, and the purser did not report the
+upward displacement of the floor in the forward cabin (Zone A). The purser returned to the L1
+door position and made a PA announcement instructing passengers to remain seated. Flight
+attendants stated that, following the accident, PA announcements were heard in the front of the
+airplane, but they were not heard in Zones D and E or the rear part of Zone C. Three flight
+attendants stated that they attempted to use the interphone to communicate with the purser, and
+
+24
+these attempts were unsuccessful. According to their statements, none of the flight attendants
+attempted to use the megaphones.
+The deadheading company flight attendant identified himself to the purser and
+asked if he needed help. The purser told him, “Just keep the people seated.” The deadheading
+flight attendant then repeated the announcement for the passengers to remain seated using the PA
+at the L2 station.
+The purser stated that he did not think they were going to evacuate at any time.
+He also thought that the PA announcements were heard throughout the entire cabin, and he did
+18
+not attempt to make an “All Call” interphone call to communicate with the other flight
+attendants. According to the flight attendants, both the PA and interphone systems were
+operating properly before the accident.
+1.15.6 Deplanement
+When the rescue personnel arrived at the airplane, they proceeded to the L1 exit.
+The purser was unable to disarm the emergency evacuation slide at the L1 door because the arm-
+disarm handle would not move to the manual position. He next tried the R1 door, but the girt
+19
+bar remained engaged even after the arm/disarm handle was moved to the manual position. He
+next tried the L2 handle, which he was able to place in the manual position, and the L2 door was
+opened by the rescue personnel. The purser then announced instructions about deplanement over
+the PA system. Passengers deplaned by rows and boarded buses. The purser stated that he
+learned about the injured flight attendant during the deplanement.
+1.15.7 Flight Attendant Training
+Flight attendants at Tower Air were trained in accordance with an FAA-approved
+program. At the time of the accident, under the provisions of this program, new hires received
+40 hours of basic indoctrination covering safety regulations, company policies, procedures,
+forms, and organizational and administrative practices. They then received 16 hours of initial
+training (14 hours classroom and 2 hours competency check) on B-747 cabin familiarization
+(including the aircraft systems they would be operating), authority of the pilot-in-command, and
+passenger handling. They also received 28 hours of emergency procedures training, including
+drills that provided instruction and practice in the use of emergency equipment and procedures.
+18
+The communication system includes a “master call indicator panel” and PA and interphone headset at
+each flight attendant station as well as in the cockpit. The “All Call” signal permits simultaneous
+interphone communication with all flight attendant stations and the cockpit. When the “All Call” code is
+used, a chime sounds at every station, and the crew call light on its master call indicator panel will flash
+(as opposed to a steady light for a normal crew call).
+19
+A bar installed through a sleeve in the girt extension of the evacuation slide, which is installed in
+floor-mounted brackets to enable automatic slide deployment when the slide is in the “armed” position.
+
+25
+Training on operating the serving carts was included in the 16-hour initial training
+module. This training was conducted in a classroom, and one of the three types of carts in the
+fleet was brought to the classroom for demonstration purposes. Students were shown how the
+brakes operated and were given a chance to maneuver the cart. According to routine flight
+attendant training practices at Tower Air, the cart used for this demonstration could have been
+any of the meal or beverage carts found on any of the various models of the Tower Air airplanes.
+Ice carts, which have different primary attachment mechanisms from those of most other carts,
+were not specifically included in classroom cart demonstrations. At a separate time, students
+were shown the galleys while performing a “walkaround” on the actual airplane; however, no
+carts were installed in the galleys during the “walkaround” training session.
+Neither slides nor photographs of carts were included in the Tower Air initial
+flight attendant training program. Students received a “Galley & Service Equipment” handbook
+during initial training that included a diagram showing an “Atlas”-style cart, which was used on
+some B-747s in the Tower Air fleet, but not on the former TWA aircraft. The “Atlas” cart had a
+different primary attachment mechanism from the “TWA” beverage and ice carts installed on
+N605FF. This handbook also described preflight procedures for the galley, again without
+specific reference to the “TWA”-type carts.
+Flight attendants did not receive crew resource management (CRM) training at
+Tower Air, nor were they required to at the time of the accident. As part of its 1992 special
+20
+investigation report on flight attendant training, the Safety Board issued Safety
+Recommendation A-92-77 to the FAA:
+Require that flight attendants receive Crew Resource Management training
+that includes group exercises in order to improve crewmember coordination
+and communication.
+Subsequently, the FAA amended 14 CFR 121.421, “Flight Attendants: Initial and
+Transition Ground Training,” and 121.427, “Recurrent Training,” to require CRM training for
+flight attendants. The effective date for the new requirement was March 19, 1996, with all flight
+attendants to be trained by March 1999.
+Also, the FAA completed rulemaking that mandates CRM training for flightcrews
+and flight attendants and issued Advisory Circular AC 120-51B, Crew Resource Management
+Training, which recommends initial and recurrent training including communication and
+coordination exercises. Because of these actions, the Safety Board classified Safety
+Recommendation A-92-77 “Closed--Acceptable Action” on July 15, 1996. However, based on
+safety issues previously identified by the Board in its accident investigations, the Board
+encouraged the FAA to provide additional guidance to air carriers about the importance of group
+20
+National Transportation Safety Board. 1992. Flight attendant training and performance during
+emergency situations. Washington, DC. June 9, 1992. Special Investigation Report NTSB/SIR-92/02.
+
+26
+exercises involving both cockpit cabin coordination and coordination among the individual
+members of a flight attendant crew.
+At the time of the accident, Tower Air flight attendants qualified for the purser
+21
+and assistant purser positions after receiving 5 additional days of training. Much of the subject
+matter was related to customer service functions, but the training also included reviews of
+emergency procedures, safety regulations, and coordination and communication among
+flightdeck crew, flight attendants, ground staff, and operations personnel.
+Before departure, the flight attendant who had originally been scheduled to serve
+as purser on the accident flight was replaced by the scheduled assistant purser. This flight
+attendant had completed a 5-day training course for purser qualification in March 1995.
+However, he had not served as purser before this flight.
+Tower Air procedures assign the assistant purser to the L4 door position. The
+flight attendant who was assigned the duties of assistant purser at the L4 door, as a result of the
+last-minute cabin crew change, had not attended the assistant purser training program.
+1.16 Tests and Research
+1.16.1 Flight Recorder Tests
+To determine the operating capability of the FDR components installed on
+N605FF at the time of the accident, the Safety Board installed and tested the CEU and DAUs in
+various combinations on a sister ship (N606FF) that had an operative FDR system and
+components. During the test, individual parameter data sent to the FDR were monitored and
+recorded by use of an ARINC 563 hand-held tester, which samples the data stream sent to an
+FDR by the CEU.
+When the three DAUs from N605FF were tested with the sister ship's CEU,
+DAUs #1 and #2 operated normally, but no data were output from DAU #3. In addition, the
+CEU self-test identified DAU #3 as inoperative.
+When the CEU from N605FF was tested with the sister ship's DAUs, only the
+synchronization and time data were valid, and a valid CEU self-test could not be performed.
+This data condition was similar to the conditions found on the accident FDR recording.
+21
+The positions of purser and assistant purser are not FAA-mandated; the company uses these positions
+as part of its cabin crew assignments. According to the Tower Air Flight Attendants Manual, the purser
+provides “work guidance” to all flight attendants and has complete “responsibility for passenger service
+and safety requirements of the flight.” The manual states that the assistant purser directs flight attendants
+in the performance of their duties, ensures accurate provisioning of galleys, and ensures compliance with
+proper service procedures.
+
+27
+1.16.2 Cockpit Voice Recorder Sound Spectral Study
+The area microphone channel of the CVR contained tones that were associated
+with sounds of the aircraft engines. The recording was examined on a computerized spectrum
+analyzer that displays and records frequencies. The engine speeds corresponding to the sound
+signatures were calculated. The engine traces were identifiable above 27 percent N (engine fan
+1
+speed). During the initial takeoff roll, two distinct traces were audible, but once the engines
+exceeded 70 percent N only one engine-related sound signature was identified. It could not be
+1
+determined which engines were creating the identified sound.
+After air traffic control’s (ATC) issuance of the takeoff clearance to flight 41, as
+recorded on the CVR, the engines accelerated to approximately 40 percent N and leveled off for
+1
+approximately 4 seconds. The engine sounds then increased in frequency for 13 seconds, and
+they stabilized at the equivalent of 87.5 percent N after a brief overshoot to approximately 89
+1
+percent. The sounds continued at a constant frequency for approximately 6 seconds (35 seconds
+after the airplane was cleared for takeoff). After this period, the engine sound began to decrease
+to a minimum of 72.6 percent N . Approximately 42 seconds after takeoff clearance, the engine
+1
+sound then began to increase again, reaching a maximum of about 91 percent N . The engine
+1
+sound then decreased sharply after 2 seconds and was finally lost in the background noise at
+approximately 59 percent N .
+1
+1.17 Organizational and Management Information
+Tower Air, Inc., was incorporated in 1982 and obtained an air carrier certificate in
+1983. At the time of the accident, the company provided scheduled and charter passenger and
+cargo service in diverse international and domestic markets. Between 1990 and 1995, the carrier
+increased its fleet of B-747s from 4 to 17 airplanes. At the time of the accident, Tower was
+operating 18 B-747s with 132 pilots, 69 flight engineers, and 805 flight attendants.
+1.17.1 Reporting Relationships Among Operational Managers
+At the time of the accident, the vice president of operations (VPO) exercised daily
+operational control of Tower Air through the director of operations (DO), the chief pilot, the
+manager of flight control, and the director of crew scheduling, all of whom reported directly to
+the VPO.
+The Federal Aviation Regulations do not require air carriers to have a VPO; nor
+do these regulations define the responsibilities or minimum qualifications of the VPO when this
+management position exists at an air carrier. In contrast, the DO is a required management
+position for all air carriers, under the provisions of 14 CFR 121.59 and 119.65. Minimum
+qualifications of the DO are set forth in 14 CFR 121.61 and 119.67. Among other requirements,
+the DO is required to hold an ATP certificate and have previous experience as a manager or PIC
+of flight operations conducted under Part 121.
+
+28
+Under 14 CFR 121.133, Tower Air was required to “prepare and keep current a
+manual for the use and guidance of flight and ground operations personnel in conducting its
+operations.” The Tower Air document that fulfilled this requirement was the company’s General
+Operations Manual (GOM).
+Tower Air personnel records indicate that the owner’s son, who was not a pilot,
+was appointed VPO on November 20, 1995. The former VPO became the DO and vice president
+of training and publications. At that time, the reporting relationships between the new VPO and
+subordinate personnel also were changed. The DO reported directly to the VPO. The chief pilot,
+who was managing the daily flight activities, the flightcrew training, and supervision of the
+pilots, check airmen, and flight instructors of the airline, also reported directly to the VPO.
+According to statements of the VPO, the DO, and the chief pilot, these reporting
+relationships were in effect before the date of the accident. The Tower Air GOM, section 2.2,
+revision 153, dated February 1, 1996, included descriptions of these revisions to the company’s
+organization structure and management duties and responsibilities. This section of the revised
+GOM described the duties and responsibilities of the DO, in part, as follows:
+Plans, administers, and directs the overall accomplishment of flight
+operations in accordance with FAA regulations and company policy and
+procedures.
+Despite these responsibilities given the DO by the GOM, the reporting
+relationships established by Tower Air before the accident did not provide the DO with the
+responsibility to supervise the daily operational and training activities, and the operational
+personnel, that were under the control of the chief pilot.
+According to the FAA principal operations inspector (POI), the FAA first received
+verbal notification of this change in management personnel and reporting relationships on
+December 20, 1995, before the accident occurred. The POI described the notification he received
+on that date as one of a planned management change, rather than a management change that had
+already occurred.
+In a letter dated January 25, 1996, the POI assigned to Tower Air requested an
+updated organizational chart and a list of duties and responsibilities of the VPO, DO, and chief
+pilot. The company provided the POI with GOM revision 153, dated February 1, 1996. On
+February 29, 1996, the POI sent a letter rejecting the new organization, stating the following, in
+part:
+The Vice President of Operations has been assigned several duties and
+responsibilities for which he lacks the qualifications.
+The Operations Organizational Chart shows the chief pilot, Director of Crew
+Scheduling, and Manager of Flight Control reporting directly to the Vice
+
+29
+President of Operations and not through the appropriate chain of command,
+normally associated with aviation experience.
+Tower Air’s chief executive officer responded on March 20, 1996, in part, that,
+“Our research of the applicable laws, regulations, and legal precedents reveals no objective basis
+for your decision. Nevertheless, this is to advise that your position will be addressed in revision
+154 of the General Operations Manual.” This revision subsequently was issued and reflected the
+chief pilot reporting through the DO to the VPO.
+1.17.2 Director of Flight Safety
+In August 1995, Tower Air engaged the part-time services of a consultant to fill
+the company’s newly created position of director of flight safety and evaluation. He served as a
+“contract employee” with a guarantee of 10 paid days per month, and a daily rate for additional
+days worked.
+To foster the communication of safety information from line crews to managers,
+the director of flight safety and evaluation established a “CEO’s hotline,” developed a concern
+form with drop boxes on company premises, and reviewed crewmembers’ trip reports. At the
+time of the accident, he had developed an internal evaluation program, including provisions for
+internal and external audits of station, flight operations, cabin, and ramp safety. However, at the
+time of the accident, Tower Air had not yet formalized the personnel assignments to perform
+these audits, and none had been performed.
+1.18 Additional Information
+1.18.1 Operating Procedures - Boeing 747
+The Tower Air B-747 Flight Manual (p. 4.30.3) states, “Takeoffs on slippery
+runways are not recommended if the crosswind exceeds 15 knots…”
+The manual describes the following technique for nosewheel steering use during
+takeoffs (p.4.24.3):
+Rudder pedal steering [nosewheel steering controlled by pilot inputs through
+the rudder pedals] should be used after the aircraft is aligned on the takeoff
+runway with the tiller guarded only until 80 knots. If deviations from the
+runway centerline cannot be controlled during the start of the takeoff prior to
+rudder effectiveness, immediately reject the takeoff.
+It also specifies the following for takeoffs on slippery runways (p.4.30.3 and
+pp.4.30.3-5):
+Set takeoff thrust slowly and smoothly and correct deviations from the runway
+centerline with immediate steering and/or rudder action and slight differential
+
+30
+thrust if required.… During takeoffs on icy runways, the lag in nosewheel
+steering and the possibility of nosewheel skidding must be realized and
+corrections must be anticipated. Directional control from nosewheel steering
+and aerodynamic rudder forces should be optimized during the low speed
+portions of the takeoff roll by limiting the rudder pedal input to approximately
+1/2 of the full rudder pedal travel for airplanes with rudder pedal steering. For
+airplanes without rudder pedal steering, limit the tiller input to 10o and use the
+rudder as required. Rudder effectiveness is less than nosewheel steering
+effectiveness below approximately 50 knots. Increased directional control
+may be obtained by the use of the ailerons between 60 and 100 knots.
+The manual contains guidance for landing on slippery runways (p.4.30.6), as
+follows:
+Avoid large, abrupt steering and rudder pedal inputs that may lead to
+overcontrol and skidding.… The optimum nosewheel steering angle varies
+with runway condition and airplane speed, and is about 1-2o for a very slippery
+runway. Keep forward pressure on the control column to improve nosewheel
+steering effectiveness.
+The manual further amplifies a discussion of the landing rollout that the optimum
+nosewheel steering angle for a slippery runway is 3-5o, and 1-2o for a very slippery runway.
+A Tower Air 1994 Standards Memo, dated February 11, 1994, provided the
+following additional guidance in a section entitled, “Steering”:
+Use rudder pedal steering for takeoff. Use of the tiller is not recommended
+unless rudder steering is not sufficient during the early takeoff roll. As the
+speed increases during takeoff with a crosswind, apply ailerons as required to
+maintain wings level. Avoid large changes in control inputs. The directional
+control from the rudder becomes more effective than nosewheel steering at
+about 50 knots. If directional control cannot be maintained by 50 knots
+without the use of the tiller, the takeoff should be aborted.
+The Boeing 747 Operations Manual states the following (p.4.23.04A):
+On airplanes without rudder pedal steering, limit tiller input to approximately
+15o....The pilot flying should maintain control of the thrust levers until
+directional control is assured (approximately 50 knots)....If deviations from the
+runway centerline cannot be controlled during the start of the takeoff roll or
+until the rudder becomes effective, immediately reject the takeoff.
+The Boeing 747 Flight Crew Training Manual contains the following additional
+information:
+
+31
+When taxiing on a slick surface at reduced speeds, use of differential outboard
+engine thrust will assist in maintaining airplane momentum through the turn.
+Differential braking may be more effective than nose wheel steering on very
+slick surfaces.
+Keep the airplane on the center line with rudder pedal steering and rudder.
+The rudder becomes more effective than the rudder pedal steering at about 50
+knots. Do not use nosewheel tiller during takeoff roll unless required initially
+due to crosswind.
+At aft CG and light weights, nose wheel steering effectiveness is reduced,
+especially on slick surfaces. Application of takeoff thrust and a sudden brake
+release will lighten the nose wheel loading. With this condition, a rolling
+takeoff is preferred with slow, steady thrust application to takeoff thrust
+during the initial roll. Hold the control column forward to improve nose
+wheel steering.
+1.18.2 Flightcrew Training
+At the time of the accident, Tower Air conducted flightcrew training from a base
+in New York, using leased flight simulators in a variety of locations. The manager of flight
+training handled administrative aspects of the program and reported to the vice president of
+training. However, actual training and flight standards activities were managed directly by the
+chief pilot. The training staff consisted of the chief pilot, classroom instructors, and six
+simulator instructors. The simulator instructors were line-qualified captains who were current
+employees or retired captains who served under direct contract with the company. They were
+also qualified as check airmen.
+According to the chief pilot, the company was able to hire pilots already qualified
+in the B-747 for a period after startup. Later it became more difficult to hire only those pilots
+who were already qualified in the B-747, and hiring was opened to other applicants. At the time
+of the accident, the minimum hiring requirement was 3,000 total hours, but the average
+experience level of new hires was 6,000-8,000 hours with substantial experience in heavy
+airplanes.
+The chief pilot also stated that the training program for new hires provided little
+training in slippery runway procedures, because the new hires started as first officers, and first
+officers would not be performing the takeoffs or landings under these conditions (captains would
+perform all of these operations, according to Tower Air practices).
+The chief pilot stated that during upgrade training for captain qualification,
+adverse weather takeoff procedures were presented in ground school as these procedures were
+described in the Tower Air B-747 flight manual. The simulator training phase of upgrade
+training introduced students to a slippery runway condition during landing that rendered the
+airplane uncontrollable. Tower Air training personnel indicated that the B-747 simulators
+
+32
+available for flightcrew training were not capable of adequately simulating the more realistic
+slippery runway scenarios, in which the airplane would be controllable given proper control
+technique.
+The Tower Air CRM training program for flightcrews included a 1-day ground
+school on CRM fundamentals. This class was taught by an individual who was experienced in
+CRM classroom instruction from his work at other air carriers. The CRM instructor worked
+under contract for Tower Air. Nearly all cockpit personnel, including the three crewmembers
+involved in the accident, had received this training by the time of the accident. Also, Tower Air
+integrated CRM elements into recurrent simulator training by including line-oriented challenges
+for the crew that required coordination among the flightcrew, dispatchers, and maintenance
+personnel. Recurrent simulator training was conducted with complete crews (the company
+elected to provide biannual recurrent training for most first officers).
+1.18.3 Pilot Techniques for B-747 Takeoffs
+The captain stated that his usual takeoff procedure was to hold the tiller with his
+left hand until the 80-knot callout, at which time he called, “I’ve got it” and transferred his left
+hand to the yoke. He stated that he used the tiller on every takeoff, and he relied on the 80-knot
+call to ensure rudder effectiveness. He stated that there was no company-established maximum
+speed for using the tiller. He was unable to recall the recommended maximum crosswind limit
+for a slippery runway without referring to the manual.
+The first officer stated that his usual takeoff procedure was to use the tiller early in
+the takeoff roll, until about 80 knots when the rudder becomes effective. He commented that the
+tiller becomes more sensitive as speed increases. He said that he used the tiller more in
+crosswind situations. He also pointed out that rudder pedal movement gives some nosewheel
+steering. He stated that the maximum crosswind component for a slippery runway was 15 knots.
+The chief of flight standards described Tower Air’s standard takeoff technique at
+the time of the accident: During the takeoff roll, the flying pilot should guard the tiller with one
+hand for possible use during the spoolup phase from 1.1 EPR to takeoff power, in case of
+asymmetrical thrust. At about 50 knots the rudder becomes controlling. At 80 knots, the flying
+pilot should release the tiller and take control of the yoke.
+The chief of flight standards emphasized that the proper nosewheel steering
+technique for the takeoff roll should be to use rudder pedal steering, not the tiller. He explained
+that the Tower Air procedure of guarding the tiller during the takeoff until attaining 80 knots was
+carried over from an early Pan American procedure. The older model B-747s operated by Pan
+American were not equipped with rudder pedal steering. During the 1980s, Tower Air had also
+operated a small number of B-747s that were not equipped with rudder pedal steering. Although
+at that time instructors encouraged the use of the tiller during the initial takeoff roll, the airline’s
+policy changed about 1989 with the retirement from the fleet of the last airplane not equipped
+with rudder pedal steering.
+
+33
+The chief of flight standards stated that proper tiller use, including limitations on
+the use of the tiller, had been periodically emphasized in training. He added that pilots used the
+tiller during taxi, and there was sometimes a natural tendency to revert to its use on the runway.
+He also indicated that instructors emphasized the Boeing training manual language that
+recommends limiting rudder pedal steering input to ½ full travel to get optimal cornering friction.
+He indicated that it is clear that if a pilot cannot control the airplane with ½ rudder pedal travel,
+the takeoff should be rejected.
+The chief pilot reported that the tiller should be guarded by the flying pilot, and it
+should be used for directional control only in the initial alignment with the runway centerline as
+the transition is made to rudder pedal steering. He stated that the tiller can aggravate directional
+control at higher speeds. He said that reverse thrust would not be used on slow-speed rejected
+takeoffs (below 80 knots) and added that reverse thrust presents possible directional control
+problems on slippery runways.
+1.18.4 B-747 Simulator Activity
+In a flight simulator study on August 8, 1996, pilots from the Safety Board, FAA,
+Boeing, Tower Air, and the Tower Air Cockpit Crewmembers Association (TACCA) evaluated
+various pilot inputs and their effects on directional control. The study was conducted at the
+Boeing Airplane Systems Laboratory in Seattle, Washington. The simulator employed in the
+tests was the “747 Cab,” a B-747 engineering simulator in the laboratory capable of being
+systematically modified to reflect selected environmental conditions, aircraft performance
+characteristics, and aircraft responses to control inputs. It was programmed to reflect the
+22
+operating weight, CG, flap setting, and outside air temperature applicable to the accident flight.
+During the simulator sessions, takeoffs were attempted under dry, wet, snowy, and icy runway
+friction conditions, with crosswind components of 12 and 24 knots (corresponding to the greatest
+wind velocities reported by ATC to the accident crew and recorded at any time during the
+morning of the accident, respectively). Gust conditions were simulated by introducing gusts of
+12 and 20 knots, with 2-second and 6-second durations. Gusts were introduced at airspeeds
+varying from 20 to 65 knots.
+The evaluation pilots who had actual experience operating the B-747 on slippery
+runways (those representing the FAA, Boeing, Tower Air, and TACCA) agreed that the Boeing
+engineering simulator adequately reflected the ground handling characteristics of the actual
+airplane in slippery conditions. Further, they agreed that the ground handling characteristics of
+the Boeing engineering simulator were more realistic than those of the simulators used by Tower
+Air for flightcrew training.
+22
+The simulator was a B-747-400 model, with the simulator modified to reflect the performance of the B-
+747-136 model involved in the accident. Modifications included engine thrust, stabilizer trim setting,
+rudder travel, and icy runway friction coefficient.
+
+34
+Operating the simulator under slippery runway conditions, with a left crosswind
+component of 12 knots, the evaluation pilots were able to reproduce the approximate path of the
+accident airplane as it deviated from the centerline and departed the runway. In these
+simulations, the deviations were initiated when tiller inputs were introduced to correct minor
+heading changes that occurred immediately following brake release, while the simulated airplane
+was moving at slow speed. The simulator responsiveness to tiller inputs was reduced by the
+slippery runway conditions. When the pilots reacted to the decreased control responsiveness by
+adding more tiller, the nosewheel quickly exceeded the critical angle at which the traction
+available for steering was maximized. This critical angle, which varies as a function of runway
+slipperiness, airplane ground speed, and airplane slip angle, was one of the parameters recorded
+during the simulations. Once the critical angle was exceeded, the nosewheel began to skid.
+Further tiller inputs in either direction were ineffective, and the airplane veered to the left in a
+weathervaning response to the crosswind.
+During most of the simulated takeoffs that reproduced the approximate path of the
+accident airplane, the airplane did not completely depart the runway surface before it attained
+sufficient airspeed for the aerodynamic rudder to become effective (50-80 knots). The simulator
+was capable of responding to right rudder inputs with a corrective, rightward yaw once this
+airspeed was attained. At that time, pilots were able to arrest the leftward veer with rudder inputs
+to regain runway heading with some or all of the simulated airplane remaining on the runway
+surface. The simulator was not programmed to exhibit any additional drag or yaw that may
+develop when a real airplane landing gear leaves the runway surface. The takeoff attempts
+during which the left veer could not be arrested with right rudder were those in which the
+heading deviation was initiated by overcontrol of tiller at the earliest part of the takeoff roll,
+while airspeed was well below rudder effectiveness.
+In contrast to the results obtained with pilot inputs to the tiller, simulated takeoffs
+could be successfully completed without significant deviation from the runway centerline using
+control inputs limited to the rudder and the nosewheel steering through the rudder pedals. The
+takeoffs were controllable in the absence of tiller inputs under all runway surface conditions from
+dry through icy, and with crosswinds of up to 24 knots. Further, without tiller inputs, takeoffs
+were controllable under crosswind conditions of 20 knots gusting to 40 knots.
+A simulated takeoff during which no aerodynamic rudder or nosewheel steering
+inputs were made resulted in the simulated airplane initially drifting downwind (to the right)
+momentarily, then weathervaning into the wind, and departing the left side of the runway.
+Takeoffs attempted under slippery runway conditions, with a lower thrust value
+from the No. 1 engine, resulted in an uncontrollable deviation to the left of centerline.
+Specifically, when an asymmetric thrust of 0.05 EPR was used at the beginning of the takeoff
+attempt, the simulator departed immediately from the left side of the runway, at low speed, and
+before rudder effectiveness was attained. Introduction of asymmetric thrust later in the takeoff
+roll had varying effects on directional controllability, depending on the airspeed attained and the
+consequent rudder effectiveness.
+
+35
+During simulated takeoff attempts incorporating use of the tiller under slippery
+runway conditions, variations in elevator and aileron position did not appear to significantly
+affect directional controllability at low speeds.
+1.18.5 Recent Tower Air Accidents and Incidents
+Safety Board records reveal that Tower Air experienced two accidents and three
+incidents between August 14, 1995, and June 17, 1996. In addition to the accident that is the
+subject of this report, there were two uncontained engine failures (one of which was an accident),
+an in-flight engine gearbox fire that had to be extinguished by an ARFF unit, and a landing
+approach incident.
+On August 14, 1995, a B-747-130, N603FF, operated by Tower Air, had an
+23
+uncontained engine failure in the No. 1 engine during the departure climb from JFK. The crew
+reported a severe vibration at 14,000 feet, declared an emergency, and returned to JFK. The
+flight landed safely and taxied to the gate, where the 436 occupants deplaned normally without
+injury. The JT9D7A engine had been leased to Tower Air and had accumulated 105 cycles since
+it was installed on July 7, 1995. Examination of the engine revealed that pieces of a turbine
+shroud had penetrated the turbine exhaust case at the 6 to 9 o’clock position, exited the cowling,
+and punctured the No. 2 outboard reserve fuel tank. There was a fuel leak, but no fire developed.
+On October 23, 1995, N613FF, a B-747-121, had a failure of the No. 4 engine
+24
+during the takeoff roll at Miami International Airport, Miami, Florida. This was a cargo flight
+with three crew and two passengers. When the airplane came to a stop, the crew observed a fire
+in the area of the JT9D7A No. 4 engine. The five occupants evacuated the airplane. There were
+no injuries, but the airplane was substantially damaged. Examination of the airplane revealed
+that an uncontained failure of a low pressure turbine hub of the No. 4 engine damaged the
+cowling, pylon, wing, aileron, flaps, fuselage, and right horizontal stabilizer.
+On December 10, 1995, N616FF, a B-747-212B, sustained damage during an
+25
+instrument landing approach in fog at Schiphol Airport, Amsterdam, Netherlands. The flight
+executed a missed approach and landed uneventfully following a second approach. A post-
+landing inspection revealed that the No. 4 engine cowling and right wingtip were damaged.
+None of the 288 occupants were injured.
+On December 20, 1995, this accident occurred at JFK.
+23
+NTSB file number NYC95IA192, B-747, N603FF, JFK Airport, Jamaica, NY, August14, 1995.
+24
+NTSB file number MIA96FA013, B-747, N613FF, Miami, FL, October 23, 1995.
+25
+NTSB file number DCA96WA018, B-747, N616FF, Amsterdam, Netherlands, December 10, 1995.
+
+36
+On June 17, 1996, N606FF, a B-747-136, experienced a fire warning light in the
+26
+No. 2 engine at 35,000 feet, during the arrival/descent to JFK. The crew shut down the engine,
+discharged both engine fire extinguishing bottles, and declared an emergency. The airplane was
+met by ARFF equipment, which foamed the engine. The 414 occupants deplaned by mobile
+stairs, without any injuries.
+1.18.6 FAA Surveillance
+At the time of the accident, the FAA New York Flight Standards District Office
+(FSDO-EA15), located at Garden City, New York, was responsible for surveillance of Tower
+Air. The FSDO organization included two Certificate Management Units (CMU): one managing
+Tower Air and Atlas Air, and the other managing North American Airlines and the USAir
+Shuttle.
+The FAA POI assigned to Tower Air joined the FAA as a geographic operations
+inspector in 1988. He was assigned to the Tower Air certificate as an assistant POI in 1989 and
+became the POI in 1991. His previous background included experience in the commuter industry
+as a director of operations and a chief pilot. He held type ratings in the B-737 and B-747, both of
+which he received after he was hired by the FAA. His B-747 training was provided by TWA to
+FAA personnel only, as transition training, and it lasted 1 month in June 1990. As part of that
+training, he obtained about 2 hours in the airplane. The remainder of his B-747 training and
+subsequent experience was obtained in the simulator. His most recent B-747 recurrent training
+was completed in January 1995.
+He stated that since 1991, he had always been assigned as the POI of one or more
+other air carriers in addition to Tower Air. In 1993, he was assigned as the POI of Atlas Air. At
+the time of the accident, Tower Air was operating 18 B-747s; Atlas was operating 11 B-747s;
+and both carriers were expanding. He estimated that his time was equally divided between the
+two carriers. He said that his workload was “near its limits.” At the time of the accident, he was
+receiving support from an assistant POI, the geographic unit, a navigation specialist, and a cabin
+safety specialist, all within FSDO-EA15. He stated that he had requested additional geographic
+inspection support (surveillance of Tower Air operations by inspectors based at other domestic
+and international FAA flight standards offices).
+The POI stated that he obtained feedback from the geographic inspections by
+reviewing information entered by the geographic inspectors into the FAA Program Tracking and
+Reporting Subsystem (PTRS) data system. He stated that he attempted to review these entries
+quarterly, but that his most recent review before the accident was made in June 1995.
+A review of FAA PTRS records for Tower Air indicated that the POI had
+performed one cockpit en route inspection from October 1, 1994, through December 31, 1995.
+That inspection was performed on January 27, 1995.
+26
+NTSB file number IAD96IA098, B-747, N606FF, JFK Airport, Jamaica, NY, June 17, 1996.
+
+37
+The assistant POI for Tower Air was hired in 1991 as a geographic inspector. He
+was appointed as an assistant POI for both Tower Air and Atlas in 1993. He had been a pilot for
+TWA for 34 years and retired as a B-747 captain. He commented that he and the POI assigned to
+Tower Air and Atlas were not overloaded, but whereas each carrier had been expanding at
+different times previously, the two airlines were both expanding simultaneously at the time of the
+accident. He stated that this had resulted in a backlog for check rides and insufficient time for
+the POI and him to conduct routine en route checks. He stated that he visited the Tower Air
+corporate offices about once per week, and said that he conducted en route inspections for
+certification and initial operating experience (IOE).
+The assistant POI said that Tower Air flightcrew training was conducted by line
+pilots. He was not able to describe the company’s CRM training program for flightcrews. He
+was aware that Tower Air had established a safety department about 2 months before the
+accident, but he did not know whether the safety officer was a full-time employee.
+A review of PTRS records revealed that the assistant POI did not perform any en
+route inspections at Tower Air that were not certification related from October 1, 1994, through
+December 31, 1995.
+The manager of FSDO-EA15 had held that position since October 1994.
+Previously, he was the assistant manager of the Eastern Region Flight Standards Division. He
+stated that at the time of the accident, maintenance and avionics inspector staffing at FSDO-EA-
+15 were at the authorized levels. He said, however, that the operations inspector staff was nine
+short, including an Aircraft Program Manager (APM) position that he did not expect would be
+filled. He stated that he had received authorization to fill five of the operations inspector
+positions in FY 1996. He stated that he hoped to fill the remaining three positions during FY
+1997. He commented that a single international en route inspection required 32 hours of an
+operations inspector’s 40-hour week. He stated that FSDO-EA-15 needed more geographic
+inspection support from other FAA flight standards offices.
+According to the FSDO manager, as a result of an internal staffing review, it was
+his intention to reorganize the office to create three CMUs. The Tower Air certificate would be
+managed by one of these CMUs, with a dedicated POI and assistant POI. In September 1996, the
+Safety Board was informed through informal staff communications with the FAA that these
+changes had not yet occurred, but were impending.
+A review of the PTRS records for Tower Air revealed that 160 operations
+inspections were completed from October 1, 1994, through December 31, 1995. Most of the
+inspections focused on ramp, en route cockpit and cabin, training records, check airmen, and
+facilities. Also, one line station and two in-depth inspections were conducted in FY 1995. About
+half of the operations inspections were conducted by geographic inspectors from the FAA’s
+Eastern Region, which included FSDO-EA-15. Despite the worldwide operations of Tower Air,
+no cockpit en route surveillance had been performed by inspectors from the Frankfurt, Brussels,
+
+38
+or London offices, and no operational inspections of any type had been performed by the Miami
+International Field Office.
+The FAA conducted a national aviation safety inspection program (NASIP)
+inspection at Tower Air from September 11-20, 1995. The inspection resulted in 34 findings, of
+which 23 were maintenance related and 11 were operational.
+The 23 maintenance discrepancies discovered in the NASIP inspection included
+11 items in which procedures were either not found in the maintenance manual or were not being
+followed. Ten items related to discrepancies in maintenance logbooks, and two items related to
+maintenance training. All maintenance items were closed either through Tower Air action or a
+note of explanation provided by FSDO-EA-15.
+The 11 operational findings included four related to flight, duty, and rest time
+recordkeeping; four involved training records of flightcrew members and dispatchers; two related
+to manuals; and one related to aircraft differences in emergency egress equipment that were not
+reflected in safety briefings by flight attendants and in passenger briefing cards. One of the
+training record discrepancies credited a captain with training in New York while he was flying a
+line trip to the Far East. All 11 findings were closed by the time of the accident. Two findings,
+including this pilot training record discrepancy, resulted in enforcement action by the FAA.
+The executive summary of the NASIP inspection stated:
+Findings documented during the inspection that are being investigated for
+possible non-compliance with [Federal Aviation Regulations] are: manuals
+and procedures, training records, passenger briefing cards, [Minimum
+Equipment List] usage, and life limited parts records.
+A review of the FAA enforcement records for Tower Air indicated that 120
+enforcement actions had been closed since the carrier’s inception. As of January 1996, 17 cases
+were open. Two were operational and the others were maintenance related.
+1.18.7 Aircraft Performance
+Because no meaningful data from the FDR were available, a study was conducted
+to investigate the aircraft movement during the attempted takeoff. The aircraft manufacturer
+derived total airplane thrust values from the results of the Board’s CVR sound spectrum study
+(see section 1.16.2). The derived engine thrust was used to calculate ground speed and distance
+traveled data, using the Boeing engineering computer simulator. Selected comments and sounds
+from the CVR were also correlated to the time base. The derived information was then used to
+graphically represent the probable airplane movement during the accident sequence.
+This showed that at 1136:25, flight 41 was cleared for takeoff. By 1137:02,
+engine N rpm had reached 88 percent (approximately 160,000 pounds of total thrust), the
+1
+airspeed had increased to about 40 knots, and the airplane had traveled about 630 feet from the
+
+39
+runway threshold (including a nominal 250 feet to turn onto the runway and align the nosewheel
+before initiating the takeoff).
+At 1137:04, the captain said, “Set time, takeoff thrust.” The power remained
+stable at about 88 percent N . The takeoff continued normally as the flight engineer confirmed
+1
+the request. At 1137:10 the words “watch it” were spoken twice. At this time, 25 seconds after
+the start of the takeoff roll, the airspeed had increased to about 80 knots, and the airplane had
+traveled 1,350 feet. Within a second there was an audible “click” on the CVR, and the engine
+rpm began to decrease from about 88 percent to 75 percent by 1137:13. Within 2 seconds thrust
+began to increase to a maximum of 91 percent N , about the time the airplane departed the left
+1
+edge of the runway.
+Between 1137:12 and 1137:15 there were comments from various flightcrew
+members (“OK, losing it”; “going to the left”; “to the right”; “you’re going off”; and “going
+off”). During the same period, the airspeed increased from 88 knots to 94 knots, and the airplane
+traveled from 1,650 feet to 2,100 feet down the runway. At 2,100 feet, the LMWLG departed the
+runway edge. The aircraft performance study indicated that the airspeed was about 97 knots at
+this time. The RMWLG departed the runway edge at 1137:16.5, at an airspeed of about 100
+knots.
+Based on the Safety Board’s measurements of the tire marks on runway 4L
+associated with the landing gear of the accident airplane, between 2,000 and 2,050 feet from the
+runway threshold, the airplane was at an angle of 15.4o from the runway centerline. Between
+2,050 feet and the 2,100-foot point where the LMWLG left the runway edge, the angle was 11.5o
+from the centerline. The tire marks over the next 200 feet of travel indicated that the airplane
+departed the runway at an angle of 10.4o to the left of the runway centerline.
+
+40
+2. ANALYSIS
+2.1 General
+The flightcrew was properly certificated and qualified in accordance with
+applicable regulations and company requirements. All three crewmembers were experienced at
+their respective positions. Evidence from crew duty time, flight time, rest time, or off-duty
+activity patterns did not indicate that behavioral or physiological factors affected the flightcrew
+on the day of the accident.
+The ATC personnel involved with the flight were all properly certificated and
+qualified.
+The airplane was properly certificated, equipped, and maintained (with the
+exception of the FDR system) in accordance with FARs and approved regulations. The weight
+and balance were within allowable limits.
+In analyzing this accident, the Safety Board focused on flightcrew actions and
+decisions, B-747 procedures for slippery runway operations, the performance of air carrier
+training simulators for B-747 operations on slippery runways, flight attendant actions and cabin
+safety issues, Tower Air management oversight of maintenance and operations, FAA surveillance
+of Tower Air, and FAA policies and procedures regarding the evaluation of slippery runways.
+2.2 Flightcrew Actions and Decisions
+2.2.1 Pre-takeoff Events
+Although the flightcrew was not provided the runway friction values obtained by
+the airport operations crew, they had obtained sufficient indications from the slipperiness of the
+taxiways, the appearance of runway 4L, and the blowing snow to recognize that they were
+operating in a challenging environment of wind, reduced visibility, and runway slipperiness.
+Based on the existing surface and wind conditions on the day of the accident, the
+captain might have considered using runway 31L (which was more favorably oriented to the
+wind) for his departure. However, when the captain overheard the response of JFK ground
+control to another flight’s inquiry about runway 31L that it would remain closed for another
+couple of hours, he determined that runway 31L was not a viable option for departure. Although
+5 minutes before the accident ATC changed the departure runway to 31L for traffic following
+flight 41, the Safety Board recognizes that the captain’s decision to use runway 4L was based on
+the limited information available to him at the time. Further, air traffic controllers were not
+required to offer flight 41 the option of switching to runway 31L, once the airplane was
+established holding short at runway 4L. Based on the absence of definitive runway friction
+measurements for runway 4L, reported winds of less than 15 knots (the maximum recommended
+crosswind component for B-747 takeoffs on slippery runways), the flightcrew’s reports of
+acceptable visibility down the runway, and the reported unavailability of the alternative runway
+
+41
+31L, the Safety Board concludes that the captain’s decision to attempt the takeoff on runway 4L
+was appropriate.
+2.2.2 The Attempted Takeoff and Loss of Control
+Flight 41 attempted its takeoff under crosswind conditions with a runway
+contaminated with packed snow and patchy ice. At the approximate time of the takeoff attempt,
+there were crosswinds of 10-12 knots. Gusts of up to 22 knots were reported in the general area
+near the time of the accident.
+Asymmetric thrust (for example, inadequate thrust from the No. 1 engine) could
+have resulted in the loss of directional control experienced by flight 41. In the absence of a
+cross-check of other engine instruments, a malfunctioning EPR indicator could have led the
+flightcrew to unknowingly set inadequate thrust for the No. 1 engine. However, given the flight
+engineer’s recollections of evenly matched engine acceleration and consistent EPR and N
+1
+indications from all four engines, and the absence from the CVR of flightcrew discussions of
+abnormal throttle alignment, the Safety Board concludes that asymmetric thrust was not a factor
+in the loss of directional control.
+Having verified the realism of the Boeing engineering flight simulator in
+reproducing the ground handling characteristics of the B-747 on slippery runways, the Safety
+Board applied the findings of its August 8, 1996, flight simulation study to the circumstances and
+events in this accident.
+In all simulations in which the pilot did not use the nosewheel steering tiller for
+directional control (including those conducted with icy runway conditions and winds gusting up
+to 40 knots), the simulated airplane was controllable along the runway centerline. In contrast,
+when pilots attempted to maintain the runway centerline using the tiller under slippery runway
+conditions with a 12-knot crosswind, a slight overcontrol at the very beginning of the takeoff roll
+repeatedly led to the loss of traction and steering capability from the nosewheel, followed by the
+loss of directional control.
+Given that it is very unlikely that the captain did not try to control the airplane’s
+tendency to weathervane into the crosswind, and given the consistent controllability of the
+airplane under accident conditions when the tiller was not used (during the simulation study), the
+Safety Board concludes that the captain’s failure to correct the airplane’s deviation from the
+centerline resulted from his overcontrolling the nosewheel steering through the tiller. This
+conclusion is supported by the captain’s statement that he added increasing amounts of tiller
+steering input during the loss of control sequence and departed the runway still holding full right
+tiller.
+The Safety Board was unable to determine with certainty the event that
+precipitated the captain’s overcontrol with tiller inputs. Simulation study results suggest that the
+B-747 has a tendency to react to crosswinds at very slow airspeeds with an initial, slight
+downwind drift. It would have been natural for the captain to have reacted to this slight
+
+42
+deviation with a tiller input, because the deviation would have occurred at a slow airspeed as the
+airplane was just beginning its takeoff roll.
+However, there could have been a number of additional reasons for why the
+captain applied steering inputs through the rudder or tiller at the start of the takeoff roll. These
+include a line-up that was slightly off the runway centerline, a wind gust, or a slight thrust
+imbalance from one or more engines as they accelerated to takeoff power. Still, regardless of the
+reason for beginning the control inputs, the simulation study indicated that the runway deviation
+was unlikely to have precipitated a loss of control without excessive steering inputs through the
+tiller.
+It is logical that overcontrol of the tiller on any aircraft would be more likely on a
+slippery runway than a dry runway, because airplane heading is less responsive to tiller inputs in
+slippery conditions. When a pilot makes a tiller input and does not obtain the expected reaction
+from the airplane, it is possible that the pilot will, at least initially, provide additional input to
+obtain the expected reaction. The lag in airplane response followed by additional control input
+could result in overcontrol of the tiller to the extent that the nosewheel exceeds its critical angle
+and loses traction.
+The simulation study also demonstrated that at least enough rudder effectiveness
+was obtained by 50-80 knots airspeed to shallow the simulator’s leftward veer before it departed
+the runway. In most simulations, directional control could be regained by timely use of the
+rudder. Given the effectiveness of rudder inputs in controlling heading deviations in the
+simulation study, the Safety Board sought to understand why the captain of the accident airplane
+was unable to recover directional control before the airplane departed the left side of the runway.
+The Safety Board’s aircraft performance study of the tire marks on runway 4L from the accident
+airplane (see section 1.18.7) indicated that it departed the left edge of the runway with a
+shallowing leftward veer. This evidence implies that the captain was beginning to regain control
+of the airplane when it left the runway. The simulation study results indicated that tiller inputs
+alone would have been incapable of this recovery of control.
+When interviewed after the accident, the captain recalled that he had applied
+increasing amounts of right rudder as the airplane veered to the left. However, based on the
+consistent effectiveness of rudder inputs in the simulation study and the tire mark evidence that
+directional control was being regained at the runway’s edge, the Safety Board concludes that the
+captain of flight 41 first relied on right tiller inputs as the airplane continued to veer left, then
+applied insufficient or untimely right rudder inputs to effect a recovery.
+2.2.3 Timeliness of the Rejected Takeoff
+In his postaccident interview with the Safety Board, the captain stated that after
+noting the airplane’s failure to respond to his initial input of right rudder, and before deciding to
+reject the takeoff, he applied additional right rudder and tiller steering inputs. He then described
+
+43
+his attempts to reject the takeoff by retarding power to idle and applying maximum braking, right
+rudder, and nosewheel steering input.
+Thus, instead of rejecting the takeoff immediately after experiencing difficulty
+obtaining directional control, the captain continued to attempt to regain directional control with
+progressively greater rudder and nosewheel steering inputs. Because the FDR was not working,
+the Safety Board did not have sufficient information to measure the delay between the first
+indication of loss of control and the captain’s subsequent reduction of engine power. However,
+some measure of the extent of the delay can be gained from the simulation and performance
+studies. The simulation study showed that loss of directional control began at the relatively slow
+airspeeds when the aerodynamic rudder had not yet become effective (less than 50 knots), while
+the aircraft performance study showed that the accident airplane departed the left side of the
+runway at a relatively high speed (approximately 97 knots).
+The captain stated that he reduced power while the airplane was still on the
+runway, and that he had no recollection of subsequently reapplying power. However, the Safety
+Board’s CVR spectrum analysis clearly indicated that the thrust was partially reduced and then
+reapplied in significant amounts as the airplane left the runway. Physical evidence from the
+engines and flightcrew statements confirmed that the engine rpm increase recorded on the CVR
+was not an engagement of reverse thrust.
+Because the CVR ceased recording shortly after the reapplication of power to the
+engines, the Safety Board was unable to determine the amount of time that the airplane traveled
+off the runway under significant power. However, based on the spectrum analysis of engine
+sounds on the CVR, the Safety Board determined that the captain abandoned his attempt to reject
+the takeoff, at least temporarily, by restoring forward thrust. The Board’s aircraft performance
+study indicated that as a result of the reapplication of thrust, the airplane continued to accelerate
+as it approached the edge of the runway.
+2.2.4 B-747 Slippery Runway Operating Procedures
+Because the Safety Board recognized that on a slippery runway, directional
+control of the B-747 could be lost rapidly by overcontrol of the tiller, it evaluated the existing
+procedures established by Tower Air and Boeing for operating the B-747 on slippery runways.
+As a result of the Tower Air procedure to guard the tiller during takeoff until 80 knots, the
+captain was ready to use the tiller during the beginning of the takeoff roll.
+Tower Air and Boeing procedures urge pilots to use the rudder and rudder pedal
+steering during takeoff. However, B-747 procedural information produced by both the airline
+and the manufacturer permit the tiller to be used at the beginning of the takeoff. In its 1994
+Standards Memo, Tower Air stated, “Use of the tiller is not recommended unless rudder pedal
+steering is not sufficient during the early takeoff roll.” Boeing stated in its Flight Crew Training
+Manual for the B-747, “Do not use nosewheel tiller during takeoff roll unless required initially
+due to crosswind.” The Safety Board is concerned that these procedures encourage use of the
+
+44
+tiller at the beginning of the takeoff roll, during which the Safety Board’s simulation study found
+the B-747 to be most susceptible to loss of control on slippery runways.
+The Safety Board concludes that current B-747 operating procedures provide
+inadequate guidance to flightcrews regarding the potential for loss of directional control at low
+speeds on slippery runways with the use of the tiller. The Safety Board believes that the FAA
+should require modification of applicable operating procedures published by Boeing and air
+carrier operators of the B-747 to further caution flightcrews against use of the tiller during
+slippery runway operations, including low-speed operations (for airplanes equipped with rudder
+pedal steering) and to provide appropriate limitations on tiller use during these operations (for
+airplanes not equipped with rudder pedal steering).
+The Safety Board was informed by Tower Air after the accident that it had
+reevaluated and eliminated its standard procedure of guarding the tiller during the takeoff roll
+through 80 knots. The Safety Board concludes that this procedural change by Tower Air will
+make overcontrol of the tiller less likely for its own operations; however, other air carrier
+operators of the B-747 may need to make similar changes to their procedures. Consequently, the
+Safety Board believes that the FAA should issue a flight standards information bulletin (FSIB) to
+POIs assigned to air carriers operating the B-747, informing them of the circumstances of this
+accident and requesting a review and modification, as required, of each air carrier’s takeoff
+procedure regarding pilot hand position with respect to the tiller.
+The Safety Board recognizes that it may be a natural reaction for a pilot to
+persevere in a takeoff attempt when faced with an apparently minor hesitation of an airplane to
+respond to rudder input. However, the circumstances of this accident indicate that during takeoff
+in a B-747 on a slippery runway, the pilot must abort at the very first indication of a directional
+control loss.
+The Boeing B-747 Operations Manual and Tower Air B-747 Flight Manual direct
+pilots who are performing takeoffs on slippery runways to immediately reject the takeoff if
+deviations from the runway centerline cannot be controlled. While this accident demonstrates
+the soundness of this advice, the accident also indicates that the provisions in these manuals are
+not adequately specific, particularly in their references to deviations that “cannot be controlled.”
+Tower Air’s chief of flight standards suggested a criterion for rejecting takeoffs
+under slippery runway/crosswind conditions that may be useful for pilot decisionmaking in the
+future. He linked the takeoff rejection decision to the recommended procedure of limiting
+rudder pedal steering input to one-half full travel to get optimal cornering friction. He indicated
+it was clear that if a pilot could not control the airplane with one-half rudder pedal travel, the
+takeoff should be rejected.
+This advice may be operationally useful for all B-747 pilots, if it can be verified
+by the FAA and aircraft manufacturer. The Safety Board concludes that current B-747 flight
+manual guidance is inadequate about when a pilot should reject a takeoff following some
+indication of a lack of directional control response. Consequently, the Safety Board believes that
+
+45
+the FAA should require Boeing to develop operationally useful criteria for making a rapid and
+accurate decision to reject a takeoff under slippery runway conditions; then require that B-747
+aircraft flight manuals, operating manuals, and training manuals be revised accordingly.
+2.2.5 Training Simulators for B-747 Slippery Runway Operations
+The air carrier and FAA pilots who participated in the August 8, 1996, simulation
+study believed that the Boeing engineering simulator had more realistic ground handling
+performance than the simulators Tower had provided for pilot training. The Board is concerned
+that air carrier B-747 pilots currently are not able to obtain needed training on slippery runway
+procedures, including proper tiller and rudder techniques, because training simulators have not
+incorporated the latest ground handling model (such as that implemented on the Boeing
+engineering simulator). Further, although existing flight test data on slippery runway handling
+characteristics are limited, the increasing use of high capacity FDRs and quick access
+maintenance recorders enables data on slippery runway handling to be obtained from actual line
+flying experience. Many B-747-400 models are equipped with these recorders.
+The Safety Board concludes that improvements in the slippery runway handling
+fidelity of flight simulators used for B-747 pilot training are both needed and feasible.
+Consequently, the Safety Board believes that the FAA should evaluate B-747 simulator ground
+handling models and obtain additional ground handling data, as required, to ensure that B-747
+flight simulators used for air carrier flightcrew training accurately simulate the slippery runway
+handling characteristics of the airplane. The Safety Board also believes that after completing this
+evaluation, the FAA should issue an FSIB urging POIs assigned to air carrier operators of the B-
+747 to enhance simulator training for slippery runway operations, including limitations on tiller
+use and instructions for rudder use during the takeoff roll.
+2.2.6 Summary of Flightcrew Actions and Decisions
+The captain’s use of the tiller control for nosewheel steering during the takeoff
+roll, combined with his untimely or inadequate use of rudder inputs, allowed the loss of
+directional control to develop. As this occurred, the airplane’s deviation from the centerline and
+its unresponsiveness to steering inputs provided cues that, regardless of the adequacy of existing
+procedures and training methods, should have prompted the captain to reject the takeoff more
+quickly than he did. Therefore, the Safety Board concludes that the captain’s failure to reject the
+takeoff in a timely manner was causal to the accident.
+Still, better procedures for operating the B-747 under slippery runway conditions
+and improved ground handling fidelity of the flight simulators used for B-747 pilot training could
+have better prepared the captain for handling the situation that confronted the accident flight.
+Therefore, the Safety Board concludes that the inadequate B-747 slippery runway operating
+procedures developed by Tower and Boeing, and the inadequate fidelity of B-747 flight training
+simulators for slippery runway operations, contributed to the cause of this accident.
+
+46
+Further, the Safety Board concludes that the captain abandoned his attempt to
+reject the takeoff, at least temporarily, by restoring forward thrust before the airplane departed the
+left side of the runway; this contributed to the severity of the runway excursion and damage to
+the airplane.
+2.3 Galley Security
+Service carts, galley containers, drawers and other galley items were not contained
+during the off-runway excursion. The most serious breach of galley security occurred in the aft
+galley complex, between the R4 and L4 exits. The two carts that came loose injured the R4
+flight attendant and blocked the R4 exit.
+The Safety Board could not determine whether the primary latching mechanisms
+were engaged on the carts that were released from the aft galley. However, the bending in the
+secondary latches indicated that those latches were engaged, but were not adequate to secure the
+carts. The Safety Board was unable to calculate the inertial loads imposed on N605FF during the
+crash sequence because of the malfunctioning FDR. However, the condition of the seats and the
+comments of the various occupants suggest that the airplane did not experience the loads
+specified in 14 CFR 25.561(b). Because the crash forces were not severe enough that the latch
+material should have failed, the Safety Board concludes that the material or installation of
+secondary latches in the galleys of N605FF was inadequate. Consequently, the Safety Board
+believes that the FAA should develop certification standards for the installation of secondary
+galley latches; then use those standards to conduct an engineering review of secondary galley
+latches on all transport-category aircraft. Further, the FAA should require changes to existing
+installations as necessary to ensure that the strength of secondary latches and their installation are
+sufficient to adequately restrain carts.
+2.4 Flight Attendant Actions and Training
+2.4.1 Flight Attendant Communication
+Several flight attendants acknowledged seeing or hearing things not associated
+with normal operations, such as crunching and tearing noises, engine separation, and significant
+spillage of carry-on luggage, during the airplane’s off-runway excursion. However, only three of
+the 12 flight attendants on board the accident airplane shouted commands to passengers to “Grab
+Ankles! Stay Down!” during the impact sequence. Because these commands are important
+instructions that can prevent or reduce passenger injuries, the Safety Board is concerned that nine
+of the flight attendants did not shout any commands.
+The Board recognizes that in the large cabin of the B-747, not all flight attendants
+had access to the same information about the event; therefore, flight attendants might have
+formed different opinions about the gravity of the situation. However, the Safety Board
+concludes that during this accident sequence, despite some ambiguity about the situation, there
+were ample indications in most parts of the passenger cabin to have caused a greater number of
+flight attendants to shout brace commands before the airplane came to a stop. The Safety Board
+
+47
+believes that the FAA should issue an FSIB to POIs of 14 CFR Part 121 air carriers to ensure that
+flight attendant training programs stress the importance of shouting the appropriate protective
+instructions at the first indication of a potential accident, even when flight attendants are
+uncertain of the precise nature of the situation.
+Further, the inconsistent pattern of the flight attendants’ emergency commands
+before the airplane came to a stop, the large cabin layout of the B-747, and the large size of its
+cabin crew highlight the importance of communication among flight attendants. Communication
+was an issue in the cabin crew’s actions immediately after the airplane came to a stop. While the
+decision not to evacuate the airplane (made independently by the flight attendants and the
+flightcrew) may have been appropriate, these decisions were made without adequate knowledge
+of the postaccident condition of the airplane. Flight attendants had vital information that they did
+not relay to the purser or the flightcrew. For example, flight attendants did not provide
+information to the flightcrew about the separation of the No. 4 engine, the severe floor disruption
+in the forward cabin, the smell of smoke and kerosene in the cabin, or the condition of the injured
+flight attendant.
+Normally, the PA and interphone systems provide effective means of
+communications among flight attendants and between the cabin and flight deck. In this accident,
+the purser was unaware that his PA announcements were only audible in the forward cabin, and
+thus passengers and flight attendants in the rear of the airplane did not receive any information
+about the decision not to evacuate. Further, the purser and three flight attendants attempted to
+use the interphone system without success. Flight attendants did not use megaphones as an
+alternative to these communications systems. The deadheading flight attendant went forward in
+the cabin to find out what was planned, but he did not return to the aft cabin to share the
+information with the other flight attendants.
+The Safety Board’s review of Tower Air flight attendant procedures revealed that
+no back-up procedures had been established for communicating or assessing conditions in the
+postaccident contingency of inoperative or unpowered PA and interphone systems. However, the
+likelihood of impact damage to PA and interphone equipment, as demonstrated in this accident,
+indicates that such back-up procedures are essential.
+The Safety Board recognizes that not all of the flight attendants involved in this
+accident had adequate information to realize the need to establish communications throughout
+the cabin. However, after an unusual occurrence such as a rejected takeoff (especially on a wide-
+body airplane), positive communications are essential to coordinate the crew’s response, even if
+the decision is not to evacuate.
+The Safety Board concludes that the existing Tower Air flight attendant
+procedures provided inadequate guidance to flight attendants on how to communicate to
+coordinate their actions during and after the impact sequence. Further, because the Safety Board
+is concerned that the flight attendant procedures of other air carriers may also be inadequate, the
+Safety Board believes that the FAA should issue an FSIB requiring POIs of 14 CFR Part 121 air
+carriers to ensure that their air carriers have adequate procedures for flight attendant
+
+48
+communications, including those for coordinating emergency commands to passengers,
+transmitting information to flightcrews and other flight attendants, and handling postaccident
+environments in which normal communications systems have been disrupted.
+2.4.2 Flight Attendant CRM Training
+The circumstances of this accident imply that flight attendants (particularly those
+assigned to wide-body aircraft) would benefit from the opportunity to practice communications
+procedures and coordination skills. CRM training can provide this opportunity.
+While the FAA has issued guidance on this training, the Safety Board recognizes
+that the new requirements for flightcrew and flight attendant CRM training do not specify the
+specific form and content of this training. The communication and coordination issues raised by
+this accident, both among flight attendants and between flight attendants and flightcrew would be
+appropriately addressed in joint CRM training by providing experience and practice in a realistic,
+line-oriented setting. Therefore, the Safety Board believes that the FAA should issue an FSIB
+that encourages the use of this accident as a case study for CRM training.
+2.4.3 Flight Attendant Galley Training
+Although Tower Air operated B-747s with three different kinds of galleys and
+service carts (with significant differences in the method used to secure each type of cart), new
+flight attendants were only provided “hands on” training with a single empty cart. Further, their
+classroom did not have a galley mock-up, and the actual airplane galleys used for “walkaround”
+training usually were not equipped with carts when trainees were brought aboard. Therefore,
+flight attendants did not actually operate carts in a galley setting until they began flying. The
+Safety Board concludes that Tower Air flight attendant galley security training was inadequate
+because flight attendants had not received “hands on” training with all the galley equipment that
+they were required to operate. The Safety Board believes that Tower Air should revise its initial
+flight attendant training program to include “hands-on” training for securing each type of galley
+and cart included in its B-747 fleet.
+2.4.4 Purser Training
+The Safety Board is concerned that the flight attendant serving as the assistant
+purser on the accident flight had not received the training appropriate to that position. While the
+assignment of a purser and assistant purser was not required by regulation, and was not currently
+practiced by many air carriers, formal designation of leadership roles in the cabin crew is very
+beneficial, especially in wide-body aircraft. Although the lack of purser training was not causal
+in this accident, such training could have resulted in better coordination/communication by the
+cabin crew if there had been an evacuation.
+
+49
+2.5 Company Management
+2.5.1 Maintenance
+The Safety Board is concerned that Tower Air failed to recognize the results of the
+annual check of the FDR system of N605FF in a timely manner. Based on the results of this
+check, TWA notified Tower Air in a memorandum dated November 3, 1995, that the FDR
+system had six suspect data parameters. It was more than 1 month later, on December 4, 1995,
+when Tower Air responded to this notification by entering the discrepancy in the maintenance
+log of N605FF.
+Further, although the company recorded in its maintenance records that the
+required FDR functional test had been performed on December 7, 1995, the Safety Board
+concludes, based on the limited amount of time between the rental of the test equipment and the
+movements of the airplane, that Tower Air did not perform the FDR functional test. If Tower Air
+had performed this test, it would have identified the malfunctioning CEU and DAU #3 units (as
+the Safety Board was able to do in its postaccident testing). Consequently, the Safety Board
+concludes that Tower Air’s failure to conduct the FDR functional test resulted in the loss of FDR
+data related to the accident flight that were of critical importance to the Safety Board’s
+investigation.
+On July 11, 1996, the Safety Board issued the following safety recommendations
+to the Federal Aviation Administration:
+Require that the operators of all airplanes equipped with a
+Teledyne Controls Aeronautical Radio Incorporated 563 digital
+flight data recorder system perform a self test of the central
+electronics unit each flight day to ensure that the system is
+operating properly. (Class II, Priority Action) (A-96-45)
+Modify Master Minimum Equipment Lists to ensure that flight
+with an inoperative flight data recorder is permitted only until the
+airplane’s first arrival at a suitable repair facility, but not to exceed
+3 days. (Class II, Priority Action) (A-96-46)
+Increase oversight of flight data recorder system maintenance
+practices by Tower Air to ensure that repairs are performed in
+accordance with the maintenance manual. (Class II, Priority
+Action) (A-96-47)
+In a September 6, 1996, letter, the FAA responded to these recommendations. In
+response to Safety Recommendation A-96-45, the FAA said that it would issue an FSIB to
+require that a repetitive self-test inspection be performed by operators of the ARINC 563 system
+at no more that 60 flight-hour intervals. While the recommendation calls for the test to be
+performed daily, the Board acknowledges that the 60-hour interval will allow operators
+
+50
+flexibility in accomplishing this inspection. Therefore, pending the Safety Board’s review of the
+FSIB, the Board classifies Safety Recommendation A-96-45 “Open—Acceptable Response.”
+In response to Safety Recommendation A-96-46, the FAA said that it would
+revise MMEL Policy Letter #29 as requested and anticipated that the revised letter would be
+issued by November 1996. Pending the Safety Board’s review of the revised policy letter, the
+Board classifies Safety Recommendation A-96-46 “Open—Acceptable Response.”
+In response to Safety Recommendation A-96-47, the FAA said that it was
+evaluating current oversight of FDR system maintenance practices by Tower Air to ensure that
+repairs were being performed in accordance with the maintenance manual. Pending the Safety
+Board’s review of the evaluation, which is expected to be completed by December 1996, the
+Board classifies Safety Recommendation A-96-47 “Open—Acceptable Response.”
+The Safety Board recognizes that on July 9, 1996, the FAA issued a notice of
+proposed rulemaking (NPRM) that, if adopted, could affect the continued usage of the ARINC
+563 system. The NPRM proposes to increase the number of mandatory parameters recorded by
+airplane FDRs. For B-747s with the ARINC 563 system installed (such as N605FF), the airplane
+would be required to record additional parameters, such as pitch, roll, and yaw control input
+positions.
+During the investigation, the Safety Board learned that the manufacturer of the
+ARINC 563 system’s CEU and DAU components had stopped manufacturing these system
+components. Additionally, the manufacturer no longer issues updates to the system software.
+To comply with the proposed rulemaking, airplanes equipped with the ARINC
+563 system would need installation of additional sensors and wiring. In addition, system
+software would need to be upgraded to handle the additional parameters. Because the system is
+no longer supported by the manufacturer, airlines would most likely replace the entire FDR
+system, rather than attempt an in-house upgrade. This may result in the elimination of the
+ARINC 563 system within the U.S. registry and render Safety Recommendations A-96-45
+through -47 obsolete. However, because airlines may request and the FAA may grant waivers for
+certain rules, the Safety Board cannot definitively determine whether the ARINC 563 system will
+be eliminated. Therefore, the Safety Board urges the FAA to fulfill the Board’s objectives in
+issuing these safety recommendations and ensure that existing ARINC 563 systems continue to
+function adequately.
+As shown by the maintenance history of the FDR that failed to function during the
+accident sequence, as well as the findings of the FAA NASIP inspection, the installation of the
+landing gear without assuring it was appropriate for this airplane, and the inadequately
+documented “C” check, the Safety Board concludes that the Tower Air maintenance program
+deviated in significant ways from the procedures established in the company’s GMM. Although
+these deviations were not related to the cause of this accident, they are cause for concern.
+
+51
+The Safety Board is equally concerned that the Tower Air continuing
+airworthiness surveillance and reliability programs, which are the carrier’s internal audit and
+trend monitoring functions, failed to identify these deficiencies. The Safety Board concludes that
+the continuing airworthiness surveillance and reliability programs in the maintenance department
+of Tower Air were performing inadequately at the time of the accident. Consequently, the Safety
+Board believes that the FAA should review the structure and performance of the continuing
+airworthiness surveillance and reliability programs in the Tower Air maintenance department.
+Also, the Safety Board believes that the FAA should reassess inspectors’ methods of evaluating
+maintenance work, focusing on the possibility of false entries through selective detailed analysis
+of records and unannounced work site inspections.
+2.5.2 Operations
+The November 1995 revisions to the reporting relationships among managers in
+the Tower Air operations department were significant because they left the DO, who was
+assigned the responsibility for the proper conduct of flight operations under the GOM, without
+authority over the day-to-day operations of the airline, flightcrew training, or the activities of the
+chief pilot and flightcrews. This organizational change was rejected by the POI when it was
+finally submitted to him for approval following the accident, and the Safety Board concurs with
+this rejection.
+Not only does an airline need individual managers who have appropriate technical
+qualifications, but the reporting relationships among managers must be such that the operational
+functions of the airline report through the DO, who has the responsibility for regulatory and
+procedural compliance in flight operations. Because Tower Air did not have this organizational
+hierarchy, the Safety Board concludes that Tower Air was operating with an inadequate
+management structure at the time of the accident. While the regulations contained in 14 CFR
+Part 119 outline the required technical qualifications for certain operational management
+positions at air carriers (including the DO), they do not specify the reporting relationships that
+provide the DO with the necessary authority. Consequently, the Safety Board believes that the
+FAA should revise 14 CFR Part 119 to specify that the chief pilot and all operational functions
+under that position report through the DO.
+The Safety Board is concerned that Tower Air failed to report significant
+management personnel and organizational changes to the POI before their implementation, even
+though this failure did not contribute to the accident. The carrier is responsible for maintaining
+the accuracy of its GOM, which specifies the company’s operational management positions and
+reporting relationships. Tower Air failed to issue a revised GOM for more than 2 months
+following its implementation of changes in these areas. The fact that the FAA did not recognize
+this significant change in the company for this length of time is also disturbing.
+2.6 FAA Surveillance
+
+52
+The FAA POI and assistant POI assigned to Tower Air were also responsible for
+overseeing the certificate of Atlas Air. At the time of the accident, both companies were fast-
+growing B-747 operators engaged in worldwide flight operations.
+The assistant POI acknowledged that neither he nor the POI had sufficient time to
+conduct routine surveillance of Tower Air. The only en route inspections he performed were
+those that were also required for a new captain’s certification during IOE. The POI conducted
+one en route check from October 1, 1994, through December 31, 1995.
+Because the POI and assistant POI were not able to perform routine surveillance
+of Tower Air, this surveillance was dependent on the support of geographic inspectors from other
+FAA offices. Although inspectors involved in geographic support probably would notify an air
+carrier POI immediately if they detected a gross violation, these inspectors would not necessarily
+recognize deviations from procedures specific to the airline. Further, they would be unable to
+recognize trends in inspection findings. Therefore, the success of the FAA’s geographic
+inspection program depends on the POI’s review and integration of the inspection results.
+The POI assigned to Tower Air acknowledged that his primary source of feedback
+from geographic surveillance was from reviews of the reports filed in the FAA PTRS data base,
+which he attempted to review quarterly. However, he stated that he had been unable to review
+these reports during the 6 months before the accident because of workload.
+Further, the Safety Board is concerned that the POI and assistant POI were so
+burdened with certification activities involving their two carriers that they were unfamiliar with
+significant, inappropriate management changes occurring at Tower Air. Although these changes
+were eventually recognized and rejected by the POI, he was unable to detect the change until the
+formal notification was submitted for his signature.
+Based on the POI’s dependence on geographic inspections for routine
+surveillance, his inability to review the findings of these inspections in a timely manner, and his
+inability to recognize and correct an inadequate operational management structure at Tower Air
+in a timely manner, the Safety Board concludes that the POI and assistant POI assigned to Tower
+Air were overburdened, and the FAA program for routine surveillance of the operational
+functions of Tower Air was inadequate. Consequently, the Safety Board believes that the FAA
+should immediately implement its plan to assign the Tower Air certificate to a POI and assistant
+POI who do not have oversight responsibility for any other carriers. Further, based on the
+circumstances of this accident and Tower Air’s recent accident history, the Safety Board believes
+that the FAA should develop, by December 31, 1997, standards for enhanced surveillance of air
+carriers based on rapid growth, change, complexity, and accident/incident history; then revise
+national flight standards surveillance methods, work programs, staffing standards, and inspector
+staffing to accomplish the enhanced surveillance that is identified by the new standards.
+Although the Safety Board recognizes that the FAA needs to rely on locally based
+inspector resources to accomplish surveillance in each geographic area, the Board has long been
+concerned about the effectiveness of the FAA geographic inspection program. This program has
+
+53
+needed greater standardization of air carrier certifications across FAA regional boundaries, better
+training for inspectors to make them more knowledgeable about both individual air carrier
+procedures and industry-wide standards, adequate tools for geographic inspectors to
+communicate their findings and concerns to POIs, and adequate tools for POIs to use in
+identifying significant trends in the results of routine geographic surveillance.
+The Safety Board examined the FAA geographic surveillance program during its
+investigation of the February 16, 1995, accident at Kansas City International Airport involving an
+attempted three-engine takeoff in a Douglas DC-8-63. As a result of this investigation, on
+November 11, 1995, the Safety Board issued Safety Recommendation A-95-110, recommending
+that the FAA review the effectiveness of the geographic unit oversight program, with particular
+emphasis on the oversight of supplemental air carriers and their international operations, and the
+improvement of overall communications between POIs and geographic inspectors.
+In a February 12, 1996, response to Safety Recommendation A-95-110, the FAA
+stated its plans to implement two improvements to the geographic surveillance program: an
+Enhanced Certificate Management Plan that will position additional inspectors dedicated to
+surveillance of a specific air carrier at outlying locations, and a Safety Performance Analysis
+System that will provide POIs with improved capabilities for monitoring trends in negative
+inspection findings. On July 5, 1996, citing the FAA’s failure to place special emphasis on
+geographic surveillance of supplemental air carriers and their international operations, the Safety
+Board classified Safety Recommendation A-95-110 “Closed—Unacceptable Action.”
+However, immediately following the Safety Board’s July 1996 classification of
+27
+this safety recommendation, the FAA conducted a “90 Day Safety Review,” which generated
+several internal recommendations for improvements in air carrier surveillance systems, including
+the geographic surveillance program. Although the Safety Board intends to further evaluate the
+“90 Day Safety Review” report with respect to a number of specific safety issues, the Board is
+encouraged by this internal review process. Pending final action by the FAA to implement its
+internal recommendations to enhance the effectiveness of air carrier surveillance, Safety
+Recommendation A-95-110 is classified “Open—Acceptable Response.”
+2.7 Runway Contamination Evaluation
+In this accident, the airport personnel completed a runway friction test of runway
+4L at 0933 and obtained a reading that, by their own procedures, required a report to the control
+tower. Although the airport personnel claimed that the report was made, there was no
+documentation of a timely report in their records; the only such record was of a postaccident
+entry in the operations office computer. The control tower was required by FAA Order 7110.65J
+to advise pilots of runway friction readings when they were received from airport management,
+but the control tower personnel claimed that they did not receive these reports. The Safety Board
+27
+Federal Aviation Administration. FAA 90 Day Safety Review. Washington, DC. September 16, 1996
+(mimeo).
+
+54
+was unable to determine whether the runway friction measurement data were sent or received.
+However, the Safety Board concludes that the failure of the PNY&NJ or FAA air traffic control
+tower personnel to provide these data to the pilots of flight 41 did not contribute to this accident.
+Although the guidance currently provided by the FAA on runway friction
+measurement and reporting may be helpful to airport operators, it is incomplete because friction
+coefficient measurements of various types are not correlated with braking performance of
+different airplane types or configurations. The International Civil Aviation Organization (ICAO)
+Guidance Material Supplementary to Annex 14, Volume I, 6, includes a table of friction
+coefficient measurements correlated with descriptive values, i.e., good, medium, poor. However,
+this table is provided for informational use only, and it, too, does not establish clearly defined
+parameters applicable to airplane types.
+The Safety Board is concerned about the frequent occurrence of veeroffs,
+overruns, and other related events by large airplanes when runways are contaminated with ice,
+snow, and/or slush (including this accident). The continuing problem with safety during ground
+operations is related to several problems. There is a clear need to measure the slipperiness of
+runway and taxiway surfaces. However, those values must then be quantified into meaningful
+information that pilots can use to evaluate the expected performance of their specific airplane.
+This would require airport operators to maintain their equipment within specific tolerances, and it
+would require the technicians operating the equipment to adhere to appropriate standards in using
+the equipment. If the FAA had been responsive to the Safety Board’s 1982 safety
+recommendations on this subject (see section 1.10.3), the industry might have already resolved
+these problems.
+The FAA has made considerable progress in providing and implementing
+procedures for airport operators to perform friction measurements during periods of ice/snow and
+slush contamination. However, such measurements are still not required, and there is no
+standardization of the equipment currently being used. Further, there are no means to compare
+measurement standards or translate the data into aircraft performance. A key issue is that no
+significant progress has been made in correlating stopping distance data from airplane
+manufacturers’ flight tests and calculations with the friction values obtained from measuring
+devices. An outcome of these correlations could be the establishment of objective standards for
+air carrier operations on slippery runways, perhaps extending to the establishment of appropriate
+minimum runway friction levels for operational use.
+The Safety Board concludes that the circumstances of this accident indicate that
+the issue of correlating airplane stopping performance with runway friction measurements should
+be revisited by the Government and the air transportation industry. Consequently, the Safety
+Board believes that the FAA should require the appropriate Aviation Rulemaking and Advisory
+Committee to establish runway friction measurements that are operationally meaningful to pilots
+and air carriers for their slippery runway operations (including a table correlating friction values
+measured by various types of industry equipment), and minimum coefficient of friction levels for
+specific airplane types below which airplane operations will be suspended.
+
+55

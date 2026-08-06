@@ -1,0 +1,1753 @@
+/
+PB96-9104O7
+NTSB/AAR-96/07
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+GROUND SPOILER ACTIVATION IN FLIGHT/HARD LANDING
+VALUJET AIRLINES FLIGHT 558
+DOUGLAS DC-9-32, N922VV
+NASHVILLE, TENNESSEE
+JANUARY 7, 1996
+6781
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety
+Board makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)382-6735
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSB/AAR-96/07 PB96-9104O7
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+GROUND SPOILER ACTIVATION IN FLIGHT/HARD LANDING
+VALUJET AIRLINES FLIGHT 558
+DOUGLAS DC-9-32, N922W
+NASHVILLE, TENNESSEE
+JANUARY 7,1996
+Adopted: December 11, 1996
+Notation 6781
+Abstract: This report explains the ground spoiler activation in flight and subsequent hard landing
+of ValuJet Airlines flight 558, N922VV, a Douglas DC-9-32 at Nashville International Airport,
+Nashville, Tennessee. The safety issues discussed in the report include the adequacy of ValuJet’s
+operations and maintenance manuals, specifically winter operations nosegear shock strut servicing
+procedures; the adequacy of ValuJet’s pilot training/crew resource management training programs;
+flightcrew actions/decisionmaking; the role of communications (flightcrew/flight attendants/
+operations/dispatch/air traffic control); ValuJet’s flightcrew pay schedule; Federal Aviation
+Administration (FAA) oversight of ValuJet; and the adequacy of cockpit voice recorder (CVR)
+duration and procedures. Safety recommendations concerning these issues were made to the FAA
+and ValuJet Airlines.
+
+This page intentionally left blank
+
+CONTENTS
+ABBREVIATIONS....................................................................................................................................................vi
+EXECUTIVE SUMMARY......................................................................................................................................viii
+1. FACTUAL INFORMATION................................................................................................................................1
+1.1 HISTORY OF FLIGHT......................................................................................................................................1
+1.2 INJURIES TO PERSONS.................................................................................................................................10
+1.3 DAMAGE TO AIRPLANE...............................................................................................................................10
+1.4 OTHER DAMAGE.........................................................................................................................................10
+1.5 PERSONNEL INFORMATION..........................................................................................................................10
+1.5.1 The Captain.........................................................................................................................................10
+1.5.2 The First Officer..................................................................................................................................11
+1.5.3 Flight Attendants.................................................................................................................................12
+1.5.4 FAA Principal Operations Inspector (POI) for ValuJet......................................................................12
+1.5.5 FAA Principal Maintenance Inspector (PMI) for ValuJet...................................................................12
+1.6 AIRCRAFT INFORMATION.............................................................................................................................13
+1.6.1 Landing Gear System...........................................................................................................................13
+1.6.2 Ground Spoiler System........................................................................................................................15
+1.6.3 Pressurization System..........................................................................................................................16
+1.7 METEOROLOGICAL INFORMATION...............................................................................................................17
+1.8 AIDS TO NAVIGATION..................................................................................................................................17
+1.9 COMMUNICATIONS......................................................................................................................................17
+1.10 AIRPORT INFORMATION...............................................................................................................................18
+1.11 FLIGHT RECORDERS....................................................................................................................................18
+1.11.1 CVR......................................................................................................................................................19
+1.11.2 FDR.....................................................................................................................................................19
+iii
+
+1.12 WRECKAGE AND IMPACT INFORMATION.....................................................................................................20
+1.13 MEDICAL AND PATHOLOGICAL INFORMATION.............................................................................................20
+1.14 FIRE............................................................................................................................................................20
+1.15 SURVIVAL ASPECTS.....................................................................................................................................20
+1.16 TESTS AND RESEARCH................................................................................................................................21
+1.16.1 Landing Gear System Examination.....................................................................................................21
+1.17 COMPANY/OPERATIONS INFORMATION.......................................................................................................21
+1.17.1 ValuJet’s Cold Weather/Winter Nosegear Strut Servicing Procedures...............................................21
+1.17.2 ValuJet’s Manuals..............................................................................................................................22
+1.17.2.1 ValuJet’s QRH and AOM..........................................................................................................................23
+1.17.2.2 ValuJet’s COM...........................................................................................................................................25
+1.17.2.2.1 In-flight Irregularity Procedures...........................................................................................................26
+1.17.3 ValuJet’s Training Program................................................................................................................26
+1.17.3.1 CRM Training............................................................................................................................................28
+1.17.4 ValuJet’s Crew Pay Schedule/Criteria................................................................................................28
+1.18 ADDITIONAL INFORMATION.........................................................................................................................29
+1.18.1FAA Oversight......................................................................................................................................29
+1.18.2 Postaccident FAA/ValuJet Actions......................................................................................................30
+2. ANALYSIS...........................................................................................................................................................35
+2.1 GENERAL....................................................................................................................................................35
+2.2 COLD WEATHER/WINTER FLIGHT OPERATIONS..........................................................................................35
+2.3 FLIGHTCREW ACTIONS/DECISIONMAKING...................................................................................................36
+2.4 VALUJET’S TRAINING PROGRAM.................................................................................................................38
+2.4.1 Crew Resource Management Training................................................................................................39
+2.5 VALUJET PAY SCHEDULE............................................................................................................................39
+2.6 COMMUNICATIONS......................................................................................................................................40
+iv
+
+2.7 CVR ISSUES................................................................................................................................................41
+2.8 VALUJET ACTIONS/FAA OVERSIGHT..........................................................................................................42
+3. CONCLUSIONS..................................................................................................................................................43
+3.1 FINDINGS.....................................................................................................................................................43
+3.2 PROBABLE CAUSE.......................................................................................................................................44
+4. RECOMMENDATIONS.....................................................................................................................................46
+5. APPENDIXES......................................................................................................................................................49
+APPENDIX A - INVESTIGATION AND HEARING...........................................................................................49
+APPENDIX B - COCKPIT VOICE RECORDER TRANSCRIPT......................................................................50
+APPENDIX C - VALUJET FLIGHT 558 DIGITAL FLIGHT DATA RECORDER DATA PLOT.................75
+APPENDIX D - AIR TRAFFIC CONTROL TRANSCRIPT AND STATEMENTS..........................................76
+APPENDIX E - EXCERPTS FROM VALUJET AND DOUGLAS DOCUMENTS/MANUALS..................119
+APPENDIX F - FAA DOCUMENTS/CORRESPONDENCE............................................................................147
+v
+
+ABBREVIATIONS
+agl: above ground level, 7
+AIM: Aeronautical Information Manual, 8
+AOL: all operator letter, 14
+AOM: aircraft operating manual, 1
+APU: auxiliary power unit, 1
+ARFF: aircraft rescue and fire fighting, 8
+ATC: air traffic control, 7
+ATIS: automatic terminal information service, 6
+ATP: airline transport pilot, 11
+CAM: cockpit area microphone, 19
+CDL: configuration deviations list, 13
+CFR: Code of Federal Regulations, 1
+COM: company operating manual, 4
+CRM: crew resource management, 11
+CVR: cockpit voice recorder, 18
+EPR: engine pressure ratio, 20
+FAA: Federal Aviation Administration, 2
+FAR: Federal Aviation Regulation, 22
+FCOM: flightcrew operating manual, 6
+FDR: flight data recorder, 18
+FSDO: flight standards district office, 13
+FSI: Flight Safety International, 24
+G: vertical acceleration force, 19
+IFR: instrument flight rules, 1
+ILS: instrument landing system, 6
+vi
+
+IOE: initial operating experience, 24
+LOS: line operational simulation, 28
+MEL: minimum equipment list, 13
+msl: mean sea level, 4
+P&W: Pratt & Whitney, 13
+PA: public address, 10
+PMI: principal maintenance inspector, 12
+POI: principal operations inspector, 12
+psi: pounds per square inch, 6
+QRH: quick reference handbook, 2
+SB: service bulletin, 14
+SN: serial number, 13
+VMC: visual meteorological conditions, 1
+vii
+
+EXECUTIVE SUMMARY
+About 1620 central standard time, on January 7, 1996, a Douglas Aircraft
+Company DC-9-32, N922VV, operated by ValuJet Airlines, Inc., as flight 558, touched down
+hard in the approach light area short of runway 2R at the Nashville International Airport in
+Nashville, Tennessee. Flight 558 was operating under the provisions of Title 14 Code of Federal
+Regulations Part 121, as a scheduled, domestic passenger flight from Atlanta, Georgia, to
+Nashville. The flight departed the William B. Hartsfield Atlanta International Airport at
+approximately 1540, with five crewmembers and 88 passengers on board. The flight attendant
+who occupied the rear cabin jumpseat and four passengers reported minor injuries; no injuries
+were reported by the remaining 88 occupants. The airplane sustained substantial damage to the
+tail section, nosegear, aft fuselage, flaps, slats, and both engines. Visual meteorological
+conditions prevailed for the flight, which operated on an instrument flight rules flight plan.
+The National Transportation Safety Board determines that the probable cause of
+this accident was the flightcrew’s improper procedures and actions (failing to contact system
+operations/dispatch, failing to use all available aircraft and company manuals, and prematurely
+resetting the ground control relay circuit breakers) in response to an in-flight abnormality, which
+resulted in the inadvertent in-flight activation of the ground spoilers during the final approach to
+landing and the airplane’s subsequent increased descent rate and excessively hard ground impact
+in the runway approach light area.
+Contributing factors in the accident were ValuJet’s failure to incorporate cold
+weather nosegear servicing procedures in its operations and maintenance manuals, the
+incomplete procedural guidance contained in the ValuJet quick reference handbook, and the
+flightcrew’s inadequate knowledge and understanding of the aircraft systems.
+The safety issues discussed in this report include the adequacy of ValuJet’s
+operations and maintenance manuals, specifically winter operations nosegear shock strut
+servicing procedures; the adequacy of ValuJet’s pilot training/crew resource management
+training programs; flightcrew actions/decisionmaking; the role of communications
+(flightcrew/flight attendants/operations/dispatch/air traffic control); ValuJet’s flightcrew pay
+schedule; Federal Aviation Administration oversight of ValuJet; and the adequacy of cockpit
+voice recorder duration and procedures.
+viii
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+GROUND SPOILER ACTIVATION IN FLIGHT/HARD LANDING
+VALUJET AIRLINES FLIGHT 558, DOUGLAS DC-9-32, N922VV
+NASHVILLE INTERNATIONAL AIRPORT
+NASHVILLE, TENNESSEE
+JANUARY 7, 1996
+1. FACTUAL INFORMATION
+1.1 History of Flight
+1
+About 1620 central standard time, on January 7, 1996, a Douglas Aircraft
+Company (Douglas) DC-9-32, N922VV, operated by ValuJet Airlines, Inc., as flight 558,
+touched down hard in the approach light area short of runway 2R at the Nashville International
+Airport in Nashville, Tennessee. Flight 558 was operating under the provisions of Title 14 Code
+of Federal Regulations (CFR) Part 121, as a scheduled, domestic passenger flight from Atlanta,
+Georgia, to Nashville. The flight departed the William B. Hartsfield Atlanta International
+Airport at approximately 1540, with five crewmembers and 88 passengers on board. The flight
+attendant who occupied the rear cabin jumpseat and four passengers reported minor injuries; no
+injuries were reported by the remaining 88 occupants. The airplane sustained substantial damage
+to the tail section, nosegear, aft fuselage, flaps, slats, and both engines. Visual meteorological
+conditions (VMC) prevailed for the flight, which operated on an instrument flight rules (IFR)
+flight plan.
+The accident occurred on the third leg of the day for the DC-9 flightcrew. The
+captain flew the first leg of the day, from Atlanta to Indianapolis, Indiana. According to the
+captain, the first leg’s departure from Atlanta was delayed for more than an hour because of
+maintenance on the auxiliary power unit (APU) generator and deicing operations. The first
+officer performed pilot flying duties for the second leg, which was the return flight from
+Indianapolis to Atlanta. The flightcrew described the second leg of the trip sequence as routine.
+The captain told investigators that upon arrival in Atlanta after the second leg, he
+went to ValuJet system operations to pick up the paperwork for the third leg of the trip sequence.
+When the captain returned to the DC-9, he performed the exterior preflight inspection of the
+airplane. He stated that this inspection of the airplane was normal, and he did not notice any
+landing gear anomalies; specifically, the captain indicated to investigators that the nosegear strut
+inflation appeared normal. The ValuJet aircraft operating manual (AOM) states that during the
+1
+Unless otherwise indicated, all times are central standard time, based on a 24-hour clock.
+
+2
+exterior inspection of the airplane, the flightcrew should check the nosegear strut for inflation
+2
+and leaks and includes a note indicating that “Normal strut extension is 2 to 6 inches.”
+While the captain performed the exterior preflight inspection, the first officer,
+who performed pilot flying duties for the third leg, completed the weight and balance paperwork
+and performed the interior preflight inspection of the airplane. According to the company, flight
+558 was originally scheduled to depart Atlanta for Nashville at 1355; however, in part because of
+the delays before departure from Atlanta on the first leg of the trip, flight 558 did not leave the
+gate at Atlanta until 1525.
+The pilots reported that the engine start and taxi from the gate were normal.
+Because of the amount of ice and snow they encountered as they taxied to runway 26L, the pilots
+were concerned that the aircraft’s surfaces/components would get contaminated during taxi.
+At approximately 1539, flight 558 was cleared for takeoff on runway 26L. The
+flightcrew stated that the takeoff roll and rotation were normal. The pilots reported that after the
+captain announced a positive rate of climb, the first officer requested “...gear up.” The captain
+attempted to raise the landing gear lever to the retract position, but the lever would not move
+3
+beyond the uplock check position.
+In accordance with the procedures outlined in the Federal Aviation Administration
+4
+(FAA)-approved ValuJet quick reference handbook (QRH), Page A-38, (see figure 1) entitled
+5
+“Unable to Raise Gear Lever,” the captain attempted to turn the nosewheel steering wheel
+located at his left side. The nosewheel steering tiller did not turn, which confirmed that the
+nosewheel steering was centered and locked. According to the QRH, this indicated a
+2
+Douglas representatives stated that they would not expect flightcrew members to reliably detect
+underserviced/underinflated nosegear shock struts during the strut extension examination performed
+during their aircraft preflight inspection because the visible indications of such a condition are very
+subtle and are dependent on aircraft load conditions. Douglas representatives stated that reliable
+detection of underserviced/underinflated nosegear shock struts is accomplished by comparing the strut
+pressure and the “X” dimension (amount of visible chrome plate on the piston) with the “strut inflation
+curve.” This inspection/comparison is identified as an item “normally accomplished by maintenance.”
+3
+Further description of the landing gear lever positions is included in section 1.6.1, “Landing Gear
+System.”
+4
+Excerpts from the QRH and other ValuJet and Douglas manuals are included in appendix E.
+5
+Throughout the ValuJet manuals, the term “landing gear lever” is used instead of the Douglas term
+“landing gear handle.”
+
+
+
+4
+6
+malfunction of the landing gear anti-retraction mechanism. The pilots, proceeding in accordance
+with the QRH, pushed the landing gear handle release button and raised the landing gear lever
+again; this time the landing gear retracted.
+The flightcrew retracted the flaps and slats and adjusted the throttles for initial
+climb. The captain assumed flying duties and requested that the first officer review the QRH to
+verify that all required procedures for raising the gear lever had been accomplished. The first
+officer confirmed that they had completed the procedures correctly.
+As the DC-9 climbed through 4,000 feet mean sea level (msl), the captain
+advanced the throttles to normal climb power and called for the “Climb” checklist. At this point,
+7
+the takeoff warning horn sounded, and the first officer noted that the cabin was not pressurizing.
+The flightcrew referred to the QRH again and determined that in addition to the landing gear
+8
+anti-retract mechanism malfunction, the ground shift mechanism must have malfunctioned.
+Specifically, the ValuJet QRH, page A-38, indicated that if the ground shift mechanism was still
+in the ground mode, there would be “No auto-pressurization, and takeoff warning horn will
+sound when flaps/slats are retracted.” The QRH further stated, “The ground control relay
+electrical circuits can be placed in the flight mode by pulling the Ground Control Relay circuit
+breakers (H20 and J20).” The pilots stated that when the first officer pulled the ground control
+relay circuit breakers (H20 and J20), the takeoff warning horn silenced, and the cabin began to
+pressurize. The flightcrew completed the “Climb” checklist without further incident.
+As the DC-9 climbed through 10,000 feet msl, the captain engaged the autopilot
+and transferred control of the airplane back to the first officer. According to the pilots, they
+discussed the problems they had encountered and considered their options as they continued the
+climbout after departure. ValuJet’s company operating manual (COM) states that pilots shall
+9
+report all incidents and/or irregularities to company system operations/dispatch at the earliest
+opportunity. The pilots indicated that they did not contact ValuJet system operations/
+6
+According to the ValuJet DC-9 AOM, the “anti-retraction mechanism prevents moving the [landing
+gear] lever more than 2 inches out of the DOWN position until the nose gear strut extends, actuating the
+ground shift mechanism.”
+7
+According to the ValuJet DC-9 AOM, an intermittent warning horn will sound when the aircraft is in
+the ground mode, if throttles are advanced at least 2 1/8 inches forward of idle stops, as if for takeoff, and
+if the flaps are not set at 5o or 15o. The horn will not sound under similar circumstances, if the aircraft is
+in flight mode.
+8
+For additional information on the ground shift mechanism, see section 1.6.1, “Landing Gear System,”
+and figure 2.
+9
+On pages 7-7 through 7-9 of the ValuJet COM, reportable incidents/irregularities are listed. Page 7-8
+states that any mechanical or communication malfunction should be reported to ValuJet system
+operations by radio. These pages are included in appendix E.
+
+
+
+6
+dispatch about the events that occurred during their departure from Atlanta because they believed
+that the ice and snow on the ground in Atlanta might have contaminated the ground shift
+mechanism. They stated that they believed that they had resolved the problem, and the airplane
+appeared to be flying safely and normally. The pilots also believed that it was safe to continue
+10
+the flight to Nashville and said that they planned to have the contract maintenance personnel at
+Nashville examine the airplane after landing.
+The pilots indicated that the flight to Nashville proceeded normally, and during
+the en route portion of the flight, they discussed the procedures they should use during the
+approach and landing in Nashville. The flightcrew consulted the guidance in the QRH, page A-
+11
+38, “Unable to Raise Gear Lever,” under the subheading “Approach and landing.” The pilots
+decided to depressurize the cabin during the descent with the automatic pressurization system.
+The pilots reported that although the automatic pressurization system appeared to be functioning
+normally, they were concerned that there might be a slight “bump” in pressurization after
+12
+landing, caused by the venting of cabin pressure after touchdown. The pilots decided that they
+could preclude such a loss of cabin pressurization after landing by resetting the ground control
+relay circuit breakers just before touchdown. They believed that resetting the circuit breakers on
+short final approach would also satisfactorily accomplish the third QRH approach and landing
+13
+checklist item. (Refer to figure 1.)
+According to the pilots, as they approached Nashville, they performed the normal
+“Descent and Approach” checklist and obtained the current automatic terminal information
+service (ATIS) for Nashville. The ATIS reported VMC and surface winds out of the northwest at
+12 knots, with gusts to 20 knots, at Nashville. In accordance with the COM, the first officer
+elected to fly the instrument landing system (ILS)/transition to visual approach to runway 2R at
+10
+ValuJet uses contract maintenance facilities for scheduled and unscheduled maintenance away from its
+primary maintenance bases in Atlanta and at Dulles International Airport, Washington, D.C. ValuJet’s
+contract maintenance organization for Nashville was Northwest Airlines.
+11
+The guidance provided in this section of the QRH is quoted in full in section 1.17.2.1 of the narrative.
+A copy of page A-38 of the QRH is included in appendix E.
+12
+According to the Douglas flightcrew operating manual (FCOM), if the DC-9 automatic pressurization
+system was operating normally during the descent and approach, and the differential pressure indicator
+indicated zero pounds per square inch (psi) as the aircraft approached the runway, there would be no
+pressurization anomaly upon touchdown. Also, the DC-9 has a manual pressurization control, which
+may be employed by selecting the manual control position with the cabin pressure controller lever,
+located on the right side of the throttle console. This allows the flightcrew to manually position the cabin
+outflow valves, located in the lower aft section of the airplane and, thus, manually control cabin
+pressurization.
+13
+The ValuJet AOM, which provides more detailed procedural guidance than the QRH for abnormal
+operations (including “Unable to Raise Gear Lever”), describes the third step under “Approach and
+landing” as follows: “Reset Ground Control Relay circuit breakers during taxi [emphasis added] and
+verify that circuits are in the ground mode.”
+
+7
+an airspeed about 10 knots higher than the calculated approach airspeed to compensate for the
+gusty crosswind during the approach and landing.
+As the DC-9 descended on the ILS approach, the flightcrew performed the normal
+“Before Landing” checklist, which included arming the spoilers, extending the flaps/slats, and
+extending the landing gear. The flightcrew stated that the landing gear extended normally, and
+flaps were set at 50o (fully extended) for landing.
+The first officer told investigators that when the DC-9 was about 100 feet above
+ground level (agl), the captain verified a zero psi differential on the cabin differential pressure
+gauge and reset the ground control relay circuit breakers. According to the first officer, he noted
+that the cabin outflow valve began to move to the full open position, and then he heard the sound
+of the ground spoilers deploying as the airplane began to descend at an excessive rate. The first
+officer reported that he shouted “ground spoilers!” and attempted to arrest the excessive sink rate
+14
+with back pressure on the control column and the addition of full power.
+At approximately 1620, the DC-9 struck the runway approach light area tail first,
+followed by main landing gear and nosegear, with engine thrust increasing. The nosewheel tires
+15
+and rims separated after ground impact, and then the airplane became airborne again. The
+captain assumed control of the airplane as it became airborne and established a climb on runway
+heading. The first officer raised the flaps to 15o, which positioned the flaps for the climb.
+Because of possible impact damage, the flightcrew decided not to retract the flaps/slats any
+further and to leave the landing gear extended during the go-around.
+As the pilots performed the go-around procedure, the first officer noticed that the
+No. 2 (first officer’s) navigation and communication radios were unusable. The captain then
+attempted to contact air traffic control (ATC) using the No. 1 (captain’s) communication radio
+16
+but was unsuccessful. Because the first officer was unable to use the navigation radio to
+perform the published missed approach procedure, the pilots agreed that they should remain in
+VMC and return to land at Nashville as soon as possible. They planned to land on runway 31
+because it was closest to their position and because they knew it was operational from the ATIS
+broadcast they had received during their first approach. The pilots indicated to investigators that
+they did not have time to brief the flight attendants during the go-around. Because the flightcrew
+14
+According to the ValuJet AOM, the ground spoilers automatically retract and disarm if the left throttle
+is moved forward from the idle position stop.
+15
+The flightcrew stated that it was not aware of the damage to the nose landing gear.
+16
+Postaccident examination revealed that the No. 1 communication radio switch was in an intermediate
+(unpowered) position, which resulted in the No. 1 communication radio’s failure to operate during the
+go-around. Additionally, the right DC bus reverse current relay, which provides power to the No. 2
+navigation and communication radios, was “open,” which resulted in the No. 2 communication and
+navigation radios’ failure to operate during the go-around. The right DC bus reverse current relay is
+mounted on the inside of the aft wall of the nose wheel well.
+
+8
+was unable to communicate by radio with the Nashville ATC tower, the first officer tuned the
+17
+airplane’s transponder to 7700/7600, in accordance with lost communication procedures.
+Nashville ATC personnel stated that they observed debris from the DC-9 at the
+approach end of runway 2R after the airplane struck the ground during the first landing attempt,
+and they were aware that the airplane nosegear was damaged from the impact. Although the air
+traffic controllers attempted to advise the flightcrew of the damage, they were unable to
+reestablish radio communication with flight 558. At approximately 1623, ATC personnel
+contacted the aircraft rescue and fire fighting (ARFF) facility to advise it that they were unable to
+18
+communicate with a DC-9 that would probably be returning to land with landing gear problems.
+Meanwhile, the pilots continued the approach to runway 31. The captain was
+flying the airplane, while the first officer advised the captain of their relative position to runway
+31 and the length of the runway and briefed the approach. The pilots completed the “Before
+Landing” checklist, and the first officer extended flaps and slats for landing. The pilots decided
+not to arm the spoilers for landing because they planned to manually deploy the ground spoilers
+during the landing roll. As they approached the runway, the pilots observed emergency
+equipment with flashing lights moving into position near runways 2R and 31. (See figure 3,
+“Airport Diagram.”)
+At approximately 1628, the airplane touched down on its main landing gear on the
+centerline of runway 31. The first officer deployed the ground spoilers manually, and the captain
+applied the thrust reversers. Both pilots stated that they heard a loud grinding noise when the
+nosegear touched down on the runway centerline. The noise continued throughout the landing
+roll, and the airplane began to drift to the left of the runway centerline. The captain corrected for
+the left drift with brakes, and the airplane came to a stop about 5,800 feet from the approach end
+of runway 31.
+When the airplane came to a stop, the flightcrew performed the “After Landing”
+checklist and shut down the engines normally. The captain informed the flight attendants and
+17
+According to the FAA Aeronautical Information Manual (AIM), if radio communications are lost, the
+pilot should tune the aircraft transponder to code 7700 to indicate an urgent or distress situation to ATC,
+then tune the transponder to code 7600 to indicate a loss of radio communications.
+18
+The ATC transcript is included in appendix D.
+
+s
+s
+[
+&
+Figure 3—Nashville International Airport Diagram
+
+10
+passengers via the public address (PA) system that a flight control malfunction had occurred, that
+the airplane was safely stopped with emergency equipment standing by, and that the pilots were
+requesting ground transportation from the airplane to the terminal. He instructed the passengers
+to remain seated until further advised. The first officer opened the right side cockpit window and
+asked the ARFF personnel if any risk was involved in remaining on board the airplane. ARFF
+personnel advised the pilots that there was no evidence of fuel leaks, smoke, or fire, and the
+airplane appeared to be safe for continued occupancy.
+Approximately 20 minutes after the airplane came to a stop, buses arrived to
+transport the passengers to the terminal building. The passengers deplaned via the left front
+airstair and were bused to the terminal. The pilots secured the airplane and were transported to
+the terminal in an emergency response vehicle.
+The accident occurred at dusk, at approximately 36o, 7 minutes, 6 seconds North
+latitude and 86o, 40 minutes, 9 seconds West longitude.
+1.2 Injuries to Persons
+Injuries Flightcrew Cabin Crew Passengers Other Total
+Fatal 0 0 0 0 0
+Serious 0 0 0 0 0
+Minor 0 1 4 0 5
+None 2 2 84 0 88
+Total 2 3 88 0 93
+1.3 Damage to Airplane
+The DC-9 received substantial damage to its tail section, nosegear, aft fuselage,
+slats, flaps, and both engines.
+1.4 Other Damage
+Two runway approach system lights and two runway threshold lights on runway
+2R were damaged when the airplane struck terrain on the approach light portion of the runway.
+The surface of runway 31 was also damaged.
+1.5 Personnel Information
+The flightcrew consisted of the captain and the first officer. The trip sequence on
+the day of the accident was the first time the captain and first officer had flown together. The
+cabin crew consisted of three flight attendants.
+1.5.1 The Captain
+
+11
+The captain, age 43, was hired by ValuJet in November 1994 as a first officer on
+19
+the DC-9 airplane. He was upgraded to captain on the DC-9 in December 1995. He held an
+airline transport pilot (ATP) certificate, with airplane single-engine and multiengine ratings, and
+a DC-9 type rating.
+The captain’s first-class medical certificate was issued on September 25, 1995,
+with no restrictions or limitations. According to company records, the captain completed
+ValuJet’s crew resource management (CRM) course on April 14, 1995. The captain’s most
+recent proficiency check was completed on December 6, 1995, in the DC-9 airplane in
+conjunction with his upgrade to captain. A review of his captain upgrade training records
+indicated that the captain flew 25.8 hours of initial operating experience, all under 14 CFR Part
+121. Records indicated that at the time of the accident, the captain had accumulated 4,381 total
+flight hours, including 1,061 hours in the DC-9, with 26 hours as a DC-9 captain. The captain’s
+total flight hours included 3,320 flight hours in military aircraft.
+The captain’s written statement indicated that his aviation background began in
+the U.S. Navy in 1975, and he was designated a naval aviator in 1976. He indicated that from
+1976 to 1978 he was assigned as a standardization flight instructor in the North American T-28.
+20
+Between 1978 and 1982, the captain flew the Lockheed P-3 with a patrol squadron. In 1982,
+the captain left active duty and joined the naval reserve. Between 1982 and 1991, the captain
+served with a naval reserve patrol squadron as plane commander, mission commander, and
+maintenance check pilot in the Lockheed P-3. The captain left the naval reserve patrol squadron
+in August 1991. According to the captain’s résumé, he worked for Lockheed Missiles & Space
+Company as a systems/logistics engineer between 1982 and 1993. The captain’s résumé
+indicated that he was employed as an associate builder/residential construction when he applied
+for employment as a first officer at ValuJet.
+The captain had been off duty for 3 days before the day of the accident. On the
+day of the accident, he reported for duty at about 0915. He flew two flight legs with the first
+officer before the accident flight leg and had accumulated 5 hours 30 minutes of flight time and 7
+hours 5 minutes of duty time at the time of the accident.
+1.5.2 The First Officer
+The first officer, age 42, was hired by ValuJet in October 1995 as a first officer on
+the DC-9 airplane. He held an ATP certificate with airplane multiengine land ratings, an
+instrument rating, and DC-9, Gulfstream G-1159, Cessna 500, Falcon 10, Falcon 20, and Falcon
+50 type ratings. He had commercial pilot privileges for airplane single-engine land and sea.
+19
+The captain of ValuJet flight 558 was the first officer on ValuJet flight 597, which incurred an
+uncontained engine failure/fire on June 8, 1995. The Safety Board investigated the accident and issued
+its findings in report NTSB/AAR-96/03.
+20
+The North American T-28 is a two-seat, reciprocating engine-powered training aircraft. The Lockheed
+P-3 is a Navy antisubmarine patrol airplane equipped with four turbopropeller engines.
+
+12
+His first-class medical certificate was issued on June 1, 1995, and contained the
+limitation, “Holder must wear corrective lens while flying.” Training records indicate that the
+first officer completed ValuJet CRM training in September 1995 with his initial hire training. A
+review of the first officer’s initial operating experience training records indicated that he flew 27
+hours of initial operating experience, all under 14 CFR Part 121. The first officer’s last
+proficiency check was completed on October 11, 1995, in the DC-9 airplane. According to
+company records, he had accumulated about 7,707 total flight hours, with 205 hours in the DC-9,
+all as first officer.
+The first officer reported that he had more than 20 years flight experience, of
+which more than 17 years and 5,500 flight hours were in multiengine turbojet aircraft.
+The first officer was off duty on January 3 and January 4. On January 5, he
+accumulated about 6 hours of flight time and about 8 hours of duty time. On January 6, he
+accumulated about 4½ hours of flight time and about 6 hours of duty time. He reported for duty
+at about 0915 on the day of the accident. He had accumulated 5 hours 30 minutes of flight time
+and 7 hours 5 minutes of duty time at the time of the accident.
+1.5.3 Flight Attendants
+Two flight attendants occupied the aft-facing double-occupancy jumpseat in the
+forward cabin at the time of the accident. The other flight attendant was seated in the forward-
+facing rear cabin jumpseat. All three flight attendants had satisfactorily completed ValuJet’s
+flight attendant training program.
+1.5.4 FAA Principal Operations Inspector (POI) for ValuJet
+The POI was hired by the FAA in September 1989 as a geographic air carrier
+inspector. He spent approximately 1 year in that position and then transferred to certificate
+management in 1990. At various times from 1990 through the time of the accident, he managed
+the certificates of five Part 121 air carriers (including ValuJet) and three Part 135 air carriers. He
+was the project manager for ValuJet’s certification and then became the POI when ValuJet began
+operations in October 1993. In September 1995, the FAA reassigned all non-ValuJet certificate
+responsibilities to other inspectors. At the time of the accident, the ValuJet certificate was the
+only certificate assigned to the POI.
+The POI had more than 32 years of aviation experience at Eastern Airlines before
+he was hired by the FAA. He had been hired by Eastern Airlines in December 1956 and worked
+as first officer, flight engineer, and captain. He had been a captain on the Convair 330/440, L188
+(Lockheed Electra), DC-9, Boeing 727, Boeing 757/767, Airbus A300, and Lockheed L1011.
+1.5.5 FAA Principal Maintenance Inspector (PMI) for ValuJet
+The PMI was hired by the FAA in August 1989 as the accident investigation and
+enforcement program coordinator in the FAA’s Southern Regional Office. In December 1992, he
+
+13
+transferred to an aviation safety inspector/quality specialist position in the Atlanta Flight
+Standards District Office (FSDO), where he began certificate management duties in December
+1993. The PMI was assigned to manage ValuJet’s certificate in December 1994 and held that
+assignment until August 1996. Between November 1994 and February 1996, the PMI also
+managed a second Part 121 operator.
+The PMI had more than 25 years of aviation experience before he was hired by the
+FAA. He had been a maintenance officer in the U.S. Air Force from 1964 until 1969, when he
+was hired by McDonnell Douglas Aerospace as a manufacturing systems analyst. He owned and
+managed a general aviation operation from January 1971 until September 1973, when he entered
+the Air Force reserves as a full-time maintenance manager. The PMI remained as an Air Force
+reserve maintenance manager until August 1989, when he was hired by the FAA.
+1.6 Aircraft Information
+N922VV, a DC-9-32, serial number (SN) 47274, was registered to ValuJet
+Airlines, Inc. The airplane had been purchased from Douglas and was put into service as part of
+ValuJet’s fleet on August 1, 1995. It had previously been operated by Delta Air Lines and Aero
+Mexico. The airplane was powered by two Pratt & Whitney (P&W) JT8D-9A turbofan engines.
+No pertinent discrepancies were noted in the airplane maintenance logs, the
+minimum equipment list (MEL), or configuration deviations list (CDL). The APU generator
+malfunction that delayed the aircraft on the first leg of the trip was repaired by maintenance
+personnel in Atlanta, and the flightcrew noted no further anomaly. No irregularities were noted
+by the ground or flightcrew before flight 558’s departure from Atlanta.
+At the time of the accident, flight 558 had an estimated operating weight of
+96,489 pounds. The certificated maximum landing weight of this DC-9 was 99,000 pounds.
+The center of gravity was at 20 percent mean aerodynamic chord, which was within limits.
+1.6.1 Landing Gear System
+The DC-9 tricycle landing gear is controlled by a lever on the left side of the first
+officer’s instrument panel and is hydraulically actuated by pressure from the right hydraulic
+system. The main and nose landing gear consist of dual wheels mounted on shock struts, with
+dual brakes mounted on the main landing gear.
+The ground shift mechanism, which is actuated by nosegear shock strut
+extension/compression, controls whether certain aircraft systems operate in the ground or flight
+21
+mode. When the nosegear shock strut is compressed by the weight of the aircraft, the ground
+shift mechanism causes those aircraft systems to be operated in the ground mode. When the
+nosegear shock strut is extended after takeoff, it triggers the ground shift mechanism,
+21
+Refer to figure 2.
+
+14
+22
+electronically shifting the aircraft systems to the flight mode. In addition, when the aircraft is
+in the flight mode, the ground shift mechanism mechanically centers the nose wheel, locks out
+the rudder pedal nose wheel steering function, and releases the gear lever anti-retraction
+mechanism.
+According to Douglas representatives, when the nosegear shock strut is
+underserviced/underinflated, strut extension after liftoff may not be sufficient to activate the
+ground shift mechanism to shift the aircraft systems into the flight mode and release the gear
+lever anti-retraction mechanism. Douglas representatives indicated that this is a commonly
+reported occurrence during cold weather operations. They stated that Douglas had issued
+numerous service bulletins (SBs) and all operator letters (AOLs) describing the anomaly and
+recommending maintenance procedures to avoid underserviced/underinflated nosegear shock
+23
+struts during cold weather operations.
+24
+The landing gear lever has DOWN, UPLATCH CHECK, and UP positions.
+When the airplane is on the ground, the gear lever is locked in the DOWN position by the anti-
+retraction mechanism. The anti-retraction mechanism can be overridden by use of the landing
+gear lever release push-button, which is located on the left side of the first officer’s instrument
+panel, beneath the landing gear lever. According to the ValuJet AOM, page 11-2-3, the landing
+gear lever release button bypasses the landing gear anti-retraction release mechanism if the
+ground shift mechanism malfunctions, allowing the landing gear lever to be moved to the UP
+position.
+22
+According to Douglas, the ground sensing control mechanism provides the mechanical means of
+establishing a ground or flight mode of operation for the aircraft. The ground sensing control mechanism
+consists of a linkage and a two-way closed circuit cable run that is actuated solely by the nosegear torque
+links during strut extension or compression. The landing gear lever anti-retraction mechanism is also
+actuated through the ground sensing control mechanism. The Douglas FCOM indicates that being unable
+to raise the landing gear handle after liftoff is an indication of a failure in the mechanical portion of the
+ground shift mechanism, while lack of cabin pressurization is an indication of a failure in the electrical
+portion of the ground shift mechanism.
+23
+Douglas representatives reported that when they become aware that an operator has purchased a
+Douglas aircraft, the operator is placed on a mailing list and automatically receives all future Douglas
+communications, SBs, AOLs, etc., for that aircraft. Douglas records indicate that ValuJet has been on
+the DC-9 mailing list since before it began operations in October 1993. Additionally, Douglas records
+indicate that on December 16, 1993, ValuJet purchased all back-issued DC-9 aircraft-related Douglas
+communications, SBs, AOLs, etc., from Douglas. Douglas records also indicate that on February 7,
+1994, ValuJet purchased the complete Douglas DC-9 maintenance manual and the temporary repair
+manual with revisions on microfilm.
+24
+According to the ValuJet AOM, when the landing gear lever is moved to the UPLATCH CHECK
+position, “hydraulic pressure is bypassed in all gear and door hydraulic components. The main gear rests
+on the [landing gear] doors and the nose gear is held up by the overcenter linkage.”
+
+15
+According to the Douglas DC-9 FCOM, section 2, page 4, under the heading
+25
+“LANDING GEAR -- ABNORMAL OPERATION,” if the pilots are unable to raise the landing
+gear control handle after takeoff, they should do the following:
+26
+1. Check nosewheel steering with NORMAL force on wheel.
+2. If wheel does not turn … a malfunction of the gear anti-retract mechanism
+is indicated. In this event push the gear handle release button and raise the
+landing gear handle. Go to step 4.
+3. DO NOT RETRACT landing gear if wheel is steerable as there is no
+assurance that the nosewheel will center, and remain centered, during
+retraction. Limit speed to applicable gear extend limitations. Continue
+procedure.
+4. If electrical circuits (auto pressurization, takeoff warning after flaps up)
+indicate that ground shift is in ground mode, pull ground control relay circuit
+breakers to place circuits in flight mode. Insure that airplane is depressurized
+prior to landing.
+5. On next landing, during rollout (above approximately 30 kts.) momentarily
+release brakes and place the anti-skid switch to OFF and operate brakes
+manually.
+6. Reset ground control relay circuit breakers during taxi and verify that
+electrical circuits (auto pressurization, air conditioning, ground blowers) are in
+the ground mode.
+1.6.2 Ground Spoiler System
+The DC-9-32 has four spoiler panels located on the upper surfaces of the wings,
+forward of the trailing edge flaps. During airborne operations, the spoiler panels work with the
+ailerons automatically, through an aileron/flight spoiler mixer assembly, to help lower the up-
+aileron wing. Additionally, when the speed brake/ground spoiler control lever is pulled aft during
+flight, the four spoiler panels extend to function as speed brakes. Maximum spoiler deployment
+in flight is approximately 30o. During ground operation, the four spoiler panels can be extended
+to 60o to perform the ground spoiler function. Ground spoiler actuation can be accomplished
+automatically or manually.
+25
+Excerpts from the Douglas maintenance manuals and FCOM are included in appendix E.
+26
+According to Douglas, “NORMAL” force is considered to be equivalent to the force a pilot would
+apply to the nosewheel steering wheel to steer the aircraft during ground operations.
+
+16
+According to the Douglas DC-9 FCOM, automatic ground spoiler extension
+requires main wheel spin-up or the ground shift mechanism to be in the ground mode. According
+to Douglas publications, the flightcrew’s action of arming the spoilers for landing, per the normal
+“Before Landing” checklist, was an acceptable technique, provided that the ground control relay
+circuit breakers were not reset until after landing. Under these circumstances, with or without the
+ground control relay circuit breakers reset, the main wheel spin-up during the landing would
+actuate automatic spoiler extension. Douglas representatives stated that another acceptable
+option would have been for the pilots not to arm the spoilers before landing and then to manually
+extend the spoiler panels using the speed brake/ground spoiler control lever during the landing
+roll. However, the Douglas representatives cautioned that had the pilots chosen this technique,
+the landing roll would have required more runway than if they had extended the spoilers
+automatically.
+1.6.3 Pressurization System
+According to the ValuJet AOM, the DC-9 pressurization system uses bleed air
+from the engine compressor sections to pressurize and air condition the airplane. The desired
+pressurization level is maintained by regulating the escape of cabin air through the cabin outflow
+valves. Although manual outflow valve control may be selected, the cabin outflow valves are
+normally automatically controlled through the cabin pressure control system. The ValuJet AOM
+indicates that the automatic cabin pressure controller includes the following controls:
+- A BAR CORR control and IN HG window are used to set appropriate
+barometric pressure prior to takeoff or descent.
+- An ALTITUDE control and an AIRPLANE ALTITUDE window are used
+to set the controller prior to takeoff and just prior to establishing descent.
+- The RATE INC control is used to adjust cabin vertical speed.
+Under normal operations, the cabin will begin to pressurize automatically in
+accordance with the controller limits set by the flightcrew when the nosegear strut extends on
+takeoff, thereby placing the aircraft systems in the flight mode. Similarly, under normal
+circumstances, cabin depressurization occurs automatically in accordance with the controller
+limits set by the flightcrew. Automatic depressurization is normally complete upon landing,
+when the nosegear strut compresses, and the aircraft systems transition to the ground mode.
+Page 13-2-2 of the AOM states the following, in part:
+Prior to landing, the ALTITUDE KNOB is used to set the destination airport
+altitude in the CABIN ALT window to ensure that the cabin altitude will equal
+airport altitude upon landing.
+Additionally, the AOM states the following:
+
+17
+If the airplane lands with the cabin inadvertently pressurized, the automatic
+system, in response to a signal from the ground control relay, will cause the
+outflow valves to open and depressurize the aircraft.
+In addition to the automatic pressurization system, manual control may be
+employed. This is done by moving the cabin pressure controller lever down to
+the manual position (which deenergizes the automatic system) and manually
+positioning the cabin outflow valves by depressing and rotating the cabin
+pressure controller wheel.
+1.7 Meteorological Information
+VMC prevailed when the airplane departed Atlanta and at the time of the accident.
+The William B. Hartsfield Atlanta International Airport hourly weather
+observation at 1456 was the following:
+sky—ceiling at 2,800 feet; visibility—10 miles, in light snow;
+temperature—22 oF; dew point—14 oF; and wind—290o at 24 knots.
+The Nashville International Airport weather observation at 1626 was the
+following:
+sky—ceiling at 2,400 feet; visibility—5 miles, in light, blowing snow;
+temperature—21 oF; dew point—15 oF; wind—340o at 12 knots, with
+gusts to 20 knots; and altimeter setting—30.11 inches of mercury. The
+weather was essentially the same as the preceding and subsequent hourly
+weather observations, although visibility varied with precipitation intensity
+throughout the afternoon.
+1.8 Aids to Navigation
+There were no known difficulties with external aids to navigation.
+1.9 Communications
+The pilots indicated that all communication and navigation radios functioned
+normally during ground operations at Atlanta and during the flight from Atlanta to Nashville.
+There were no known communication difficulties involving the accident airplane before the
+initial ground impact. After the airplane came to a stop on runway 31, internal communications
+functioned properly, as the pilots were able to make a PA announcement.
+The two communication radio control panels are located on the cockpit control
+pedestal between the pilots. The communication radio control panels contain the radio frequency
+selection knobs and the radio on/off switches. Two of the three audio control panels in the
+
+18
+cockpit are also located on the cockpit control pedestal between the pilots. The third audio
+control panel is located on the overhead panel for the observer’s position. The audio control
+panels permit the pilots to monitor the audio output of the service interphone, communication,
+and/or navigation radios, and to select the desired communication radio for transmission.
+As the pilots performed the go-around, they noted that the No. 2 communication
+and navigation radios, and the No. 1 communication radio on board the airplane were unusable.
+Postaccident examination of the aircraft revealed that the No. 1 communication radio on/off
+switch was positioned in an intermediate (unpowered) position. Additionally, the right DC bus
+reverse current relay, which provides power to the No. 2 communication and navigation radios,
+was “open.” Postaccident functional testing revealed that the No. 1 and No. 2 communication
+27
+and navigation radios were capable of normal operation.
+The pilots set the airplane’s transponder to 7700/7600 in accordance with lost
+radio communication procedures, and returned to land on runway 31. ValuJet’s manuals did not
+contain specific procedural guidance pertaining to lost radio communications. Nashville ATC
+made several attempts to advise the flightcrew of the separated nosegear assembly, using tower
+frequencies and the emergency broadcast frequency, without success. The flightcrew reported
+that they were not aware of the extent of damage to the airplane; specifically, they stated that they
+did not know that the nosegear had separated until they heard the scraping noise during the
+landing roll on runway 31.
+1.10 Airport Information
+The Nashville International Airport is located approximately 6 miles southeast of
+Nashville, Tennessee, and has an airport elevation of 599 feet. The airport has four runways,
+three of which are parallel paved surfaces, oriented north-northeast/south-southwest. The
+farthest east of these runways, runway 2R, was the assigned landing runway for flight 558.
+Runway 2R is 8,000 feet long and 150 feet wide. The flightcrew used the fourth runway, runway
+31, for landing after the go-around. Runway 31 is 11,029 feet long and 150 feet wide. (Refer to
+figure 3, “Airport Diagram.”)
+Nashville International Airport is fully certificated under 14 CFR Part 139. ARFF
+response was not an issue in this accident.
+1.11 Flight Recorders
+A digital flight data (FDR) and a cockpit voice (CVR) recorder were installed in
+the airplane. The FDR was an 11-parameter Loral Fairchild Model F800, SN 6316, recorder.
+The CVR was a Fairchild Model A-100A, SN 57863. Both recorders were removed from the
+airplane and sent to the Safety Board’s laboratory in Washington, D.C., for readout.
+27
+For additional information on the unusable radios, see section 2.6, “Communications.”
+
+19
+The cases of both recorders were intact and exhibited no evidence of damage or
+excessive wear. Aside from loss of FDR data coincident with the airplane’s hard touchdown,
+28
+good quality recordings were obtained from both recorders.
+1.11.1 CVR
+The CVR recording consisted of four channels: the cockpit area microphone
+(CAM), the captain’s position, the first officer’s position, and the passenger cabin’s PA system.
+The CAM channel, from which all crewmember conversation was transcribed, was of good
+quality. A transcript was prepared of the entire 30-minute, 26-second recording, which started
+after the initial ground impact on runway 2R and approximately 2:03 minutes before the aircraft
+touched down on runway 31. The transcript ended after the APU was shut down, approximately
+28 minutes after the aircraft landed on runway 31. The CVR transcript is contained in appendix
+B.
+It should be noted that CVR data are recorded on a 30-minute closed loop tape
+that records continuously while electrical power is on the airplane and there is power to the CVR.
+The electrical power on the accident airplane was shut off approximately 36 minutes after the
+hard landing, and the CVR recording did not include documentation of the hard landing event.
+About 4 minutes of postimpact/go-around information and all preimpact audio information and
+conversation had been recorded over and was unrecoverable.
+1.11.2 FDR
+The FDR experienced data loss coincident with the highest recorded vertical
+acceleration forces (Gs), which occurred during the hard touchdown of the airplane. The Safety
+Board’s laboratory retrieved portions of the lost data and developed a composite data set of the
+accident landing.
+The readout revealed that the airplane's sink rate was between 39 and 47 feet per
+second just before runway impact, whereas over the previous 10 seconds, the descent rates were
+between 0 and 23 feet per second. About 4 seconds before impact, pitch attitude values increased
+from about 0 to a maximum value of 22.8(cid:176) nose up about the time of impact. Roll attitude values
+did not exceed +/-5(cid:176) throughout the initial impact sequence. During the 2 seconds before impact,
+vertical acceleration values increased from 0.677 Gs to the final valid recorded value of 2.854 Gs.
+28
+The Safety Board generally uses the following criteria to assess the quality of a CVR recording: a
+“poor” recording is one in which a transcription is nearly impossible given that a large portion of the
+recording is unintelligible; a “fair” recording is one in which a transcription is possible, but the recording
+is difficult to understand; a “good” recording is one in which few words are unintelligible; and an
+“excellent” recording is very clear and easily transcribed.
+
+20
+Engine pressure ratio (EPR) values remained stable throughout the approximate 15 seconds
+before touchdown, at 1.39 to 1.41 for the No. 1 engine, and 1.40 to 1.45 for the No. 2 engine,
+respectively. After the touchdown, EPR values increased to 1.49 and 1.45, decreased to 1.19 and
+1.30 for the next second, and then increased over the next 5 seconds to about 2.20 and 2.13 for the
+Nos. 1 and 2 engines, respectively.
+A plot of ValuJet flight 558’s FDR data is included as appendix C.
+1.12 Wreckage and Impact Information
+Debris from the nose landing gear and the runway approach lights was found at
+the approach end of runway 2R. The first indications of impact were ground scars in the runway
+approach light area, about 90 feet before the runway threshold lights. Two runway threshold
+lights and two runway approach lights were damaged.
+The airplane came to a stop on runway 31, approximately 10 feet left of the
+centerline and about 5,800 feet from the approach end of the runway. Runway 31 exhibited
+scrape marks along the runway centerline. The scrape marks started on the runway centerline,
+approximately 2,750 feet from the approach end of the runway. The scrape marks continued,
+veering slightly left of the centerline, for more than 3,000 feet. The scrape marks stopped where
+the airplane’s nosegear strut rested on the pavement. (See section 1.16.1 for details of the
+landing gear system examination.)
+1.13 Medical and Pathological Information
+The CVR transcript and pilot statements indicate that during the minutes after the
+airplane came to a stop on the runway, the flight attendant who occupied the rear cabin jumpseat
+told the flightcrew that her ribs were sore. Additionally, ValuJet representatives indicate that
+four passengers reported “minor strains” as a result of this accident. No other injuries were
+reported.
+In accordance with ValuJet’s FAA-approved program, the flightcrew provided
+postaccident toxicological samples for analysis. The samples were analyzed and found to be
+negative for ethanol and other drugs of abuse. Toxicological samples were not requested or
+received from the flight attendants.
+1.14 Fire
+No fire was associated with this accident.
+1.15 Survival Aspects
+Occupant survivability was not an issue in this accident.
+
+21
+1.16 Tests and Research
+1.16.1 Landing Gear System Examination
+On January 12, 1996, investigators performed a functional landing gear retraction
+test and further examination of the landing gear system on the accident airplane. The DC-9 had
+been relocated to a heated hangar at Nashville International Airport. Investigators were unable to
+place the airplane on jacks to perform a full landing gear retraction test because damage to the
+empennage area rendered the rear jack point unusable.
+The forward jack point appeared to be safe for use, so the forward portion of the
+DC-9 was jacked, and a partial landing gear retraction was performed. This operational test of
+the landing gear system did not reveal a ground shift mechanism anomaly. The ground shift
+mechanism operated normally, and the nosegear retracted normally during several operational
+cycles.
+Investigators attempted to simulate the accident approach/landing sequence in the
+hangar by pulling the H20 and J20 circuit breakers to put the airplane in the flight mode.
+Investigators then performed the “Before Landing” checklist, which included extending the
+landing gear and arming the spoilers. When they reset the H20 circuit breaker, they observed that
+the cabin pressurization went to the open position. When the J20 circuit breaker was reset, the
+ground spoilers deployed.
+1.17 Company/Operations Information
+1.17.1 ValuJet’s Cold Weather/Winter Nosegear Strut Servicing Procedures
+The ValuJet COM and maintenance manual contain FAA-approved sections on
+winter operations. The COM winter operations section was approved by ValuJet’s POI on
+November 17, 1995. On page 5-10 of the winter operations section, under the heading “MAIN
+AND NOSE GEAR STRUTS” the manual states the following:
+Due to temperature differences during Winter months, a height change in oleo
+shocks is experienced. To eliminate unnecessary raising and lowering of
+struts, which contributes to packing damage and leakage, all struts will be
+29
+checked in accordance with current instructions for proper heights. Unless
+an aircraft arrives at a station with a flat strut, no pressure should be added. It
+is better for a strut to be low in a cold climate than excessively high in a warm
+one.
+According to Douglas representatives, several DC-9 operators with aircraft based
+in cold climates reported that landing gear anomalies from insufficient air charge in the nosegear
+29
+The instructions for proper strut inflation heights are outlined for pilots and maintenance personnel in
+the ValuJet AOM and maintenance manuals, respectively.
+
+22
+shock strut were more frequent during cold weather operations. The Douglas representatives
+reported that as a result of these occurrences, most DC-9 operators amended their maintenance
+practices for cold weather operations, specifically regarding strut inflation and inspection. Those
+airlines typically amended their cold weather servicing procedures to reflect the procedures
+recommended in the DC-9 maintenance manual. These procedures are as follows:
+A. Nose Gear Strut
+(1) prior to cold weather season:
+(a) Change fluid in strut. This prevents seal damage
+caused by water in fluid which changes to ice particles
+during cold weather exposure.
+(b) Replace seals as required.
+(2) During cold season:
+(a) Check strut for servicing requirements every 14
+days.
+(b) Wipe exposed chromed surface of piston with
+MIL-H-5606 hydraulic oil daily.
+Investigators reviewed the FAA-approved ValuJet winter operations section of the
+maintenance manual in effect at the time of this accident and the winter operations section of the
+revised maintenance manual (dated May 6, 1996). Neither document contained nosegear shock
+30
+strut servicing procedures that reflected the guidance provided by Douglas.
+1.17.2 ValuJet’s Manuals
+The ValuJet QRH, AOM, and COM are required by Federal Aviation Regulations
+(FARs) and ValuJet policy to be available to the flightcrew for reference on every flight.
+Excerpts from the QRH, AOM, and COM, in addition to those presented below, are contained in
+appendix E.
+30
+According to ValuJet’s winter operations manual, “This publication is in effect whenever required by
+cold weather and its contents are ‘Standard Operating Procedures’. Preparation for cold weather will
+begin September 1st in order to assure material and support equipment is in place when needed.
+Susceptibility normally begins to decrease after April 15th.” Further, the manual states “This reference
+applies only to those stations where ValuJet has instituted contracts for deicing of its aircraft and will
+eliminate those cities in the most southern portion of the ValuJet route system where a specific winter
+procedure is not normally an operational concern.”
+
+23
+1.17.2.1 ValuJet’s QRH and AOM
+ValuJet’s QRH, which was consulted by the flightcrew, was stamped “FAA-
+31
+approved,” with the POI’s name, and dated September 14, 1995. The QRH contains condensed
+guidance for abnormal and emergency procedures.
+The instructions in the QRH, on page A-38, under the heading “UNABLE TO
+RAISE GEAR LEVER,” subheading “Approach and landing,” state the following:
+AIRPLANE..............................................DEPRESSURIZE (PNF)
+ANTI-SKID SWITCH (before 30 kts)...........................OFF (PNF)
+GROUND CONTROL RELAY C/Bs (if pulled)
+(H20 and J20).................................................RESET (C or FO)
+The ValuJet AOM is a two-volume manual that describes the systems and
+procedures for the DC-9. Volume 1 contains procedures for normal, emergency, and abnormal
+operations; operating limitations; bulletins; flight training; and performance standards/charts.
+Volume 2 contains systems descriptions for the DC-9. According to the POI, the AOM is an
+“FAA-approved” document.
+The instructions listed on pages A-11-2 and A-11-3 of the AOM, under
+“UNABLE TO RAISE GEAR LEVER,” “Approach and landing,” state the following:
+AIRPLANE..............................................DEPRESSURIZE (PNF)
+-- Ensure airplane is depressurized prior to landing.
+ANTI-SKID SWITCH (before 30 kts)...........................OFF (PNF)
+-- During landing rollout and before 30 kts,
+momentarily release brakes and place Anti-skid
+switch to OFF.
+GROUND CONTROL RELAY C/Bs (if pulled)
+(H20 and J20)...................................................RESET (C or FO)
+-- Reset Ground Control Relay circuit breakers
+during taxi and verify that circuits are in the
+ground mode.
+31
+According to the POI, the term “FAA-approved” applied to a document indicates that the FAA has
+reviewed the document thoroughly and endorses its contents. The term “FAA-accepted” applied to a
+document indicates that the FAA has seen the document and “allows” its use. According to the FAA, the
+term “FAA-accepted” does not imply that a thorough review has been accomplished or that the FAA
+endorses the contents of the document.
+
+24
+The pilots reported that they referred only to the QRH for abnormal procedural
+guidance during the flight from Atlanta to Nashville, although the AOM and COM were also
+available in the cockpit. The pilots reported that during all simulator training, during initial
+operating experience (IOE), and in normal flight operations, ValuJet encouraged them to use the
+QRH as their primary source of information for abnormal and emergency procedures. According
+to both pilots, although they referred to the AOM during the classroom portion of their initial
+32
+training, when they transitioned to the simulator portion of the initial training, the only
+reference material available to them was the QRH. The first officer stated that when he and his
+classmates questioned the absence of the AOM, the Flight Safety International (FSI) simulator
+instructors informed them that ValuJet wanted them to use the QRH “like a Bible” for abnormal
+procedures. The first officer indicated that he and his classmates stopped their first simulator
+session and called the company to get an official determination as to what guidance they should
+use for abnormal and emergency procedures during routine flight operations; he stated that
+ValuJet management advised them to use the QRH instead of the AOM.
+ValuJet’s chief pilot stated that flightcrews are encouraged to use the QRH as a
+handy initial reference manual in the event of an abnormal occurrence but that they are instructed
+to then refer to the ValuJet AOM for detailed guidance. On January 8, 1996, the day after the
+accident, ValuJet’s director of flight standards and training issued a letter to all ValuJet pilots,
+stating the following:
+If it becomes necessary to refer to the QRH (Quick Reference Handbook), for
+Emergency or Abnormal procedures, please use the appropriate section of the
+AOM (Aircraft Operating Manual) in conjunction with the QRH.
+On February 22, 1996, ValuJet’s director of flight standards and training issued a
+letter to all ValuJet pilots, with reference to first officer approach minimums and QRH removal
+from aircraft. According to ValuJet’s chief pilot, the letter was intended to notify the pilots that
+the company was raising the first officer approach minimums, removing the QRHs from their
+aircraft, and replacing the QRH with a laminated emergency checklist to be used with the AOM.
+It stated the following:
+Effective immediately, First Officer minimums will be 300’ AGL and 3/4
+miles visibility. Additionally, the First Officer minimums in the first 100
+hours will be 500’ and 1 miles visibility.
+½
+In the next few days, all of the aircraft should have the new Emergency Check
+list on board. If you should encounter an aircraft with the QRH on board,
+please…let us know. In this case, remember that the QRH is to be used for
+reference only and the Aircraft Operating Manual will have updated
+32
+Information on ValuJet’s training program is included in section 1.17.3.
+
+25
+information. Maintenance in ATL and IAD [have the] Emergency Check List
+on hand.
+1.17.2.2 ValuJet’s COM
+The ValuJet COM is maintained in one binder and contains flight operations
+bulletins; information on system operations control, line operations, communication, non-
+scheduled operations, and reports; aircraft logbook and maintenance procedures; emergency
+procedures; weight and balance; and international operations. The COM also contains a portion
+of the FAA-approved ValuJet operations specifications and winter operations specifications.
+According to the POI, the COM is largely an “FAA-accepted” document; however, the
+operations specifications and winter operations sections within the COM are “FAA-approved.”
+According to ValuJet, the company expects flightcrews to adhere to the guidance
+contained within the company manuals, unless adherence to such guidance would result in the
+flightcrew violating the FARs. Page 1-2 of the COM states the following, in part:
+The Company Operations Manual is a requirement of Federal Aviation
+Regulation 121. Its purpose is to provide guidance to ValuJet personnel in
+conducting company operations. The Company Operations Manual contains
+only part of the rules and procedures that ValuJet and its employees are
+required [emphasis added] to follow. Although this Manual does expand and
+clarify many requirements of FAR Part 121 and various other regulations, it
+does not, and is not intended to, substitute for the requirements of the FARs or
+the contents of the Airman’s Information Manual. (Should a disagreement
+arise between the FARs and the Company Operations Manual, the FARs will
+always take precedence.)
+Additionally, page 1-24 of the COM, under the heading “Duties and
+Responsibilities,” subheading “Captain,” states the following, in part:
+[The captain shall] Operate his/her aircraft in accordance with all company
+directed practices and procedures as well as all applicable rules and
+regulations except when, in his/her judgment, it is necessary to deviate from
+such procedures to assure continued safety of flight.
+Page 3-17 of the COM, under “CREW MEMBER RESPONSIBILITIES,” with
+regard to the first officer flying, states the following:
+A captain who has at least 100 hours as P.I.C. [pilot-in-command] in jet
+transport aircraft under Part 121 may, at his/her discretion, allow the First
+Officer to manipulate the flight controls for takeoffs, approaches and landings
+as well as en route phases of flight.
+
+26
+The captain, who had 26 hours as a DC-9 captain, told investigators that he was
+unaware of the 100-hour limitation listed in the COM. Neither the POI nor ValuJet’s chief pilot
+expressed surprise at the fact that the flightcrew failed to abide by COM guidance. In
+independent postaccident interviews, both the POI and the chief pilot explained the pilots’
+variance from the COM’s 100-hour limitation by citing industry standard operating procedures,
+and the pilot’s right to deviate from rules for safety reasons. The POI further stated that the
+COM is an FAA-accepted, not FAA-approved, manual.
+1.17.2.2.1 In-flight Irregularity Procedures
+Page 10-2 of the ValuJet COM, revision 46, under the heading “Reporting,” states
+the following, in part:
+The Captain shall [emphasis added] report all incidents and/or irregularities to
+System Operations by radio or telephone at the earliest opportunity.
+On page 10-3, the ValuJet COM further stipulates what pilots should do:
+Provide System Operations Control with information concerning the nature
+and extent of the malfunction, and its anticipated effect on the management of
+the flight.
+On page 10-4, the ValuJet COM indicates what dispatcher actions will occur in
+response to a reported irregularity:
+Systems Operations Control will immediately convene the technical
+specialists (maintenance, flight, etc.) who may be of assistance and will relay
+to the pilot by radio the recommendations and questions of the technical
+group. He/She will then direct activities on the ground to support the course
+of action to be undertaken by the pilot.
+The ValuJet COM also states that detailed procedures for handling most
+mechanical problems are found in the AOM.
+1.17.3 ValuJet’s Training Program
+FSI provides training to ValuJet pilots in accordance with a syllabus provided by
+ValuJet, based on the FAA-approved ValuJet flight operations training manual. Initial pilot
+training for ValuJet “new hires” is conducted by FSI at its Airline Learning Center in Miami,
+Florida. Subsequent training (e.g., upgrade, recurrent, and CRM) is conducted by FSI at its
+Airline Learning Centers in Miami and Atlanta.
+
+27
+After the accident, both pilots told investigators that they believed that the training
+they received from FSI was deficient, especially in the area of systems. The first officer’s
+training records indicate that he underwent six simulator training sessions before he took the DC-
+9 type-rating check ride. The first officer stated that although he successfully completed the
+type-rating check ride, he did not believe that six simulator sessions were sufficient to provide
+him with a thorough knowledge or understanding of the systems. The captain’s training records
+indicate that he underwent 10 simulator training sessions before he took the DC-9 type-rating
+check ride. According to FSI personnel, the number of simulator sessions is variable and is
+dependent on pilot performance and material coverage.
+33
+According to the ValuJet/FSI initial equipment training syllabus, the training
+program included 13 days of classroom training, 3 days of system integration training in fixed-
+base simulators, and 6 days of flight training in full-flight simulators. According to the DC-9
+initial equipment training syllabus, the classroom modules that addressed the landing gear and
+pressurization systems were scheduled for 1½ hours and 3 hours, respectively, and were to be
+augmented in system integration and flight training sessions. The lesson plan for the landing
+gear module listed the following lesson elements:
+34
+1. General description **
+2. Nosewheel steering **
+3. Ground shift mechanism
+a. Location and purpose
+b. Functions
+1) Left ground control switch
+2) Right ground control switch
+c. Ramifications of override
+4. Operating limitations **
+5. Controls and indicators **
+6. Normal procedures **
+7. Emergency/Abnormal procedures
+a. In-depth coverage of all landing gear-related emergency/abnormal
+procedures
+Both pilots reported that although they received instruction in “Unable to Raise
+Gear Lever” procedures during their initial DC-9 systems simulator training, they did not
+continue the procedure beyond landing gear retraction. Neither pilot recalled receiving any
+specific instruction about when to reset the ground control relay circuit breakers.
+33
+Excerpts from the FSI training syllabus are included in appendix E.
+34
+Items marked with ** have not been entirely described in the text. The entire lesson plan for the
+landing gear module is included in appendix E.
+
+28
+According to ValuJet’s chief pilot, FSI has been very responsive to changes and
+improvements to the ValuJet training syllabus. FSI and ValuJet personnel reported that since this
+accident, the classroom and simulator training regarding “Unable to Raise Gear Lever”
+procedures have been enhanced.
+1.17.3.1 CRM Training
+35
+ValuJet initiated a CRM program in January 1995. Pilots who received their
+initial training after September 1995 received CRM training with the initial training at the FSI
+facility in Miami. Pilots who received their initial training before September 1995 received the
+2-day course in CRM at the FSI facility in Atlanta. The first officer of flight 558 received CRM
+training with his initial training at FSI in October 1995. Records indicate that the captain of
+flight 558 completed the CRM training on April 14, 1995, 8 months before his upgrade to
+captain.
+According to the POI, ValuJet’s current CRM curriculum does not include
+integrated (flightcrew, cabin crew, company, etc.) CRM training or a line operational simulation
+36
+(LOS) program nor is such training required by FARs.
+1.17.4 ValuJet’s Crew Pay Schedule/Criteria
+Records indicate that when ValuJet began operations in October 1993, the
+company implemented a pay and bonus schedule in which pilots were paid based upon the
+number of flight segments flown and received bonus pay at the end of the year based on a share
+of the annual company profits. According to the POI, the airline’s pay and bonus schedule has
+been controversial since the airline became operational. The POI stated that under the ValuJet
+pay schedule in place at the time of the accident, he did not believe that the pilots would have
+been compensated for the accident leg of the flight if they had returned to Atlanta rather than
+completing the trip to Nashville. However, according to ValuJet’s director of operations and
+37
+ValuJet’s chief pilot, the pilots would have received “segment 2” pay for the accident leg of the
+trip sequence, whether they returned to Atlanta or continued the flight to Nashville. On page 1-
+30 of the COM, revision No. 41, under the heading “Compensation,” it states the following:
+Flight Operations compensation is based on a segment rate.
+35
+CRM training was not a required portion of air carrier training programs when ValuJet began its
+operation in October 1993. Subsequently, FARs have required Part 121 and 135 air carrier and
+commercial operators to provide CRM training for their flightcrews. The CRM training programs must
+be incorporated into company training by mid-1997.
+36
+LOS is the FAA’s revised terminology for the training that was formerly known as line oriented flight
+training (LOFT) and includes special purpose orientation training and line operational evaluation. The
+revised definition (FAR Part 142.3) was adopted May 23, 1996, and became effective August 1, 1996.
+37
+See excerpt from COM, page 1-30, dated March 15, 1995, under the heading “Compensation,” in
+appendix E.
+
+29
+Segments will be numbered according to statute mileage length.
+*City to City mileages used are those published by the Department of
+Transportation, Statute miles, Airport to Airport, Great Circle Route.
+38
+Page 1-30 also contains a city to city mileage table for ValuJet’s route structure.
+The table indicates that city to city distances of less than 350 statute miles fall under the
+segment 2 pay category. According to ValuJet’s chief pilot, where only one airport identifier is
+named under a segment, the mileage listed is from Atlanta to that airport/city. Nashville
+International Airport is listed under segment 2. Page 1-30, revision No. 41, dated March 15,
+1995, was current at the time of the accident.
+The pilots stated that they were not certain whether they would have been
+compensated if they had returned to Atlanta, but they indicated that pay was not a factor in their
+decisionmaking process. According to the first officer, he had experienced pay discrepancies on
+some occasions since he was hired by ValuJet and had successfully negotiated with the company
+to receive back pay.
+1.18 Additional Information
+1.18.1 FAA Oversight
+The POI for ValuJet was involved in ValuJet’s certification even before the airline
+began operation in October 1993. He was directly involved in FAA approval and acceptance of
+ValuJet’s original certification manuals and documents, such as the QRH, AOM, and COM,
+including the COM’s winter operations section. The most current revision to the COM winter
+operations section at the time of the accident was approved by the POI on November 17, 1995.
+Although at the time of the accident he met all FAA qualification and currency requirements for
+39
+POI responsibilities, he did not meet the FAA’s currency requirements for the DC-9 when he
+originally received the ValuJet assignment. Because of this lack of qualification, he referred all
+DC-9 system-specific documents and manuals to an FAA inspector who was DC-9 qualified and
+current. According to the POI, the other FAA inspector reviewed the original ValuJet QRH
+40
+before the POI approved and endorsed it. The applicable FAA Form 8000-36 indicated that the
+ValuJet QRH was approved by the other FAA inspector on October 8, 1993. The FAA form also
+indicated that the activity took only 1 hour of the FAA inspector’s time. Records indicate that
+subsequent revisions to the QRH were personally reviewed and approved by the POI.
+38
+See appendix E for excerpts from the COM.
+39
+The FAA requires that its POIs be qualified in, and remain current in, at least one of the aircraft types
+operated by the operators they oversee. ValuJet operates only Douglas DC-9 aircraft. The POI stated that
+it was common to have a more current inspector review an item for approval and that this practice was in
+accordance with FAA policy.
+40
+A copy of the applicable FAA Form 8000-36 is included in appendix F.
+
+30
+The PMI for ValuJet was assigned to his position in December 1994; another
+FAA inspector held PMI responsibilities during ValuJet’s original certification and during the
+airline’s first year of operation. ValuJet’s original PMI approved the maintenance manual winter
+operations section. The PMI at the time of the accident had no experience or familiarity with the
+DC-9 aircraft or its systems when he received the responsibility for ValuJet’s certificate;
+however, experience in the equipment used by the airline is not an FAA requirement for the PMI
+position. The PMI met all FAA qualification requirements for PMI responsibilities when he
+received the ValuJet assignment.
+During postaccident interviews, the PMI told Safety Board investigators that he
+was unaware of the DC-9’s history of problems with underserviced/underinflated nosegear
+shock struts causing landing gear and ground shift mechanism anomalies during cold weather.
+He further stated that he was unfamiliar with the procedures recommended by Douglas for cold
+weather operations and did not have any discussions with ValuJet personnel regarding the
+implementation of any cold weather operations procedures. The PMI left the ValuJet certificate
+and transferred to the FAA’s Southern Regional Office in late August 1996.
+1.18.2 Postaccident FAA/ValuJet Actions
+Records indicate that on February 5, 1996, the POI sent a letter to ValuJet’s senior
+41 42
+vice president of operations, expressing his concern about recent accidents and incidents
+involving ValuJet flights. The POI wrote that the recent incidents involved flightcrews who were
+either new to the air carrier and/or had very little Part 121 experience, and several involved bad
+weather. He reported that during his observation of a recent initial training class at FSI in Miami,
+he noted that only one pilot in the class had prior Part 121 experience. The POI indicated that
+FAA inspectors conducting en route surveillance had found it necessary to counsel captains
+during flights to keep them from operating contrary to FARs. The letter continued:
+Recent Enroute Surveillance has indicated that due to the rapid expansion of
+ValuJet Airlines many of the new Captains have a minimal amount of Part
+121 experience. It appears that the Captains are allowing the First Officer to
+make the takeoff and/or landing out of response to an unwritten practice of
+alternating that function rather than considering the weather and/or their own
+need for experience.
+On February 14, 1996, a report summary was prepared by the FAA’s maintenance
+aircraft division of the Office of Aviation Flight Standards (AFS-300) as a result of ValuJet’s
+accident and incident history and a Department of Transportation (DOT) Office of Inspector
+41
+Correspondence between the FAA and ValuJet is included in appendix F.
+42
+FAA records indicate that from 1994 through September 1996, ValuJet aircraft/flightcrews were
+involved in three accidents and nine incidents.
+
+31
+43
+General audit of ValuJet. The report addressed ValuJet’s accidents and incidents, enforcement
+history, national aviation safety inspection program (NASIP) inspection results, and the FAA’s
+surveillance activity. The report indicated that ValuJet had a total of 46 violations since 1993, of
+which 20 remained open at the time the report was written. The report covered approximately 3
+years of data and revealed that, “In all areas analyzed, [ValuJet] was at the advisory and or alert
+44
+threshold....” The report concluded that the data reviewed “...clearly show some weakness...” in
+the FAA’s overall surveillance of ValuJet’s operations, with specific weaknesses noted in the
+following areas:
+1. Manuals and Procedures.…
+2. Shop and Facilities.…
+3. Structural Inspection.…
+The report recommended the following actions:
+1. Consideration should be given to an immediate FAR-121 re-certification
+of this airline.…
+2. The overall surveillance of the air carrier should be increased in FY96.
+Special attention should be directed toward manuals and procedures,
+structural inspections, the adequacy of the maintenance program, and
+shops and facilities.…
+3. The close out dead line for the NASIP inspection is February 28, 1996.
+Every effort should be made to meet this dead line with positive corrective
+action.
+4. When a violation of the FARs are detected the inspector should consider
+past enforcement history before administrative corrective action is offered.
+If an air carrier violates the same regulation in a short period of time,
+escalating the enforcement action may be appropriate.
+On February 16, 1996, the FAA’s Atlanta FSDO issued a letter that announced the
+initiation of a special emphasis program at ValuJet to positively identify areas of concern and the
+43
+This report is included in appendix F.
+44
+According to AFS personnel, the terms “advisory” and “alert” are evaluative terms used to describe air
+carrier noncompliance with (or potential for deviation from) published safety requirements and
+standards, based on data retrieved from the FAA’s Safety Performance Analysis System. “Advisory” and
+“alert” correspond to mid- and low-level compliance, respectively. The approximate formula for “large
+Part 121 air carrier groups” is as follows:
+A = the average number of reported instances of air carrier noncompliance with (or
+potential for deviation from) published safety requirements and standards.
+1 x A = “advisory”
+1.5 x A = “alert”
+
+32
+corrective actions necessary to reduce or eliminate the problem areas. The letter stated the
+following:
+ValuJet is an unconventional carrier when compared to more traditional 121
+operators. They are innovators, dedicated to low overhead, leasing rather than
+owning, and tightly controlling all expenses. The tight control of expenses
+includes training (pilot pays), equipment purchases (used), and maintenance
+(all contracted out to geographically diverse low bidders.)
+According to the letter, the program would consist of the following four elements:
+¤ Supplementing the existing FAA employee assignment to ValuJet.
+¤ Special seven day systems (operational observation) review.
+¤ Analysis of data collected in more than 375 inspections of all types, over a
+period of two years.
+¤ Identify and implement corrective actions.
+The 120-day special emphasis program was initiated on February 22, 1996. On
+February 27, 1996, the POI sent another letter to ValuJet’s senior vice president of operations,
+which stated the following, in part:
+In the two and a half years that ValuJet Airlines, Inc. has been certificated, the
+Federal Aviation Administration has conducted one (1) RASIP and one (1)
+NASIP inspection. Additionally, the Department of Defense has conducted
+two inspections. None of these inspections have produced any Findings that
+would tend to explain the number of recent accidents and incidents that have
+occurred.
+In an effort to uncover any uncommon denominator that might have been
+present in each incident, this office launched a Special Emphasis Program on
+February 22, 1996 in which we stepped up FAA surveillance throughout your
+route structure. It is still very early in our program and although we are not
+prepared to announce any trends at this time based on our surveillance, we
+have become aware of certain factors that were present in many case’s that
+could have had some influence on the Captains judgment.
+The POI’s letter also expressed concern about ValuJet’s pay and bonus policies in
+effect during the first few years of the airline’s operations. He indicated that the FAA was
+concerned that pay considerations might have influenced the pilots’ decisions with regard to the
+safe operation of their flights. The POI requested that ValuJet review its pay policies and
+determine to what extent, if at all, the pay policies were affecting the safety of its flights. The
+POI also requested a copy of the ValuJet pilot compensation program.
+On March 15, 1996, the Atlanta FSDO issued a document that indicated that the
+preliminary results of the special emphasis program revealed discrepancies in maintenance
+
+33
+inspection programs, MEL management, decisionmaking by cockpit crews, aircrew abnormal
+checklist training, and gate agent training. The document also recognized that many corrective
+actions had already been implemented by ValuJet, such as the following:
+¤
+ValuJet hired an Operations Manager to oversee the Dispatch Office.
+¤
+ValuJet implemented an in-house self audit program under the direction of
+ValuJet’s Director of Safety.
+¤
+ValuJet initiated a standard practice manual system.
+The document noted several actions taken by ValuJet as a result of the special
+emphasis program. In the operational area, these actions included:
+¤ Signed an updated contract for a Cockpit Resource Management Program to
+be taught by Flight Safety International. This class was originally to be given
+only to new hires, but has now been escalated to encompass all pilots. All will
+have been trained by May 15, 1996.
+¤ They have started holding Captain’s Seminars. An 8 hour course that will be
+given to all upgrading Captains. This will be a retroactive course that will
+include all current ValuJet Captains. Training of the latter group should be
+completed by June 1, 1996.
+¤ First Officer Minimums have been raised to 500’ agl and 1 mile for the first
+250 hours at ValuJet. All current First Officers have been increased to 300’
+agl and 3/4 miles.
+¤ Restrictions have been implemented requiring Captains to make all landings
+on
+a. runways of 7,500 feet or less
+b. contaminated runways when braking action is reported as less than
+good
+c. when ice or slush is on the runway
+d. during heavy rain
+e. when there is any snow accumulation
+¤ Implemented double the FAR requirement for minimum time for crew pairing
+of new pilots with new Captains.
+¤ Beginning on March 10, 1996, three of Flight Safety International’s most
+experienced check airmen will conduct comprehensive line checks of
+[ValuJet] pilots and flight operations over a 10 day period.
+¤ Established a monthly Safety Review, to be published by the Check Airmen’s
+Department, covering all incidents involving DC-9’s, as well as any related
+incidents or accidents.
+¤ Established a monthly publication of a Standards letter from the Check
+Airmen’s Department that will include a review of specific procedures and
+questions about the DC-9.
+
+34
+The document also listed numerous maintenance-related changes implemented by
+45
+ValuJet as a result of the special emphasis program’s preliminary findings.
+After the crash of ValuJet flight 592 in the Florida Everglades on May 10, 1996,
+the FAA increased its surveillance of ValuJet. On June 17, 1996, ValuJet suspended revenue
+flight operations. On June 18, 1996, ValuJet agreed to surrender its operating certificate to the
+FAA and signed a consent order with the FAA stipulating that the FAA would retain ValuJet’s
+operating certificate “until such time as the FAA determines that ValuJet is qualified and capable
+of exercising the privileges of the holder of an Air Carrier Operating Certificate.”
+On August 29, 1996, the FAA returned ValuJet’s air carrier operating certificate,
+permitting the company to resume operations if the airline is found to be managerially and
+financially fit by the DOT. According to the FAA, ValuJet had 51 aircraft in operation when it
+ceased operations in June 1996. On September 30, 1996, ValuJet resumed operations.
+45
+ValuJet’s actions are listed in full in appendix F.
+
+35
+2. ANALYSIS
+2.1 General
+The flightcrew was certificated, trained and qualified for the flight, and in
+compliance with the Federal regulations on flight and duty time. The flight attendants had
+completed ValuJet’s FAA-approved flight attendant training program. The airplane was properly
+certificated and operated in accordance with applicable Federal regulations. VMC prevailed at
+the time of the accident; however, cold weather/winter conditions existed at the time of the
+accident.
+During their departure from Atlanta, the pilots experienced difficulty raising the
+landing gear and had to manually bypass the landing gear anti-retraction system before they could
+successfully retract the landing gear. As they continued the climb, the pilots realized that
+although the airplane was airborne, the cabin pressurization and takeoff warning systems were
+still operating in the ground mode. In accordance with the guidance contained in the QRH, the
+pilots pulled the ground control relay circuit breakers and observed that the airplane’s
+pressurization and takeoff warning systems began to operate in the flight mode. Because of the
+irregularities encountered by the pilots, and because postaccident examination and testing of the
+nosegear and its systems revealed no evidence of preimpact mechanical anomaly, the Safety
+Board concludes that the nosegear shock strut extension during the initial climbout was
+insufficient to actuate the ground shift mechanism, release the landing gear lever anti-retraction
+mechanism, and shift the airplanes systems to the flight mode.
+It is likely that the nosegear shock strut did not extend far enough to actuate the
+ground shift mechanism because it was underserviced/underinflated for the cold/winter weather
+conditions. The en route portion of the flight proceeded uneventfully. When the airplane was
+about 100 feet above the ground during the approach to Nashville, the pilots reset the ground
+control relay circuit breakers, thereby unintentionally shifting the airplane systems from the flight
+mode to the ground mode. The ground spoilers subsequently extended in flight, and the airplane
+descended suddenly, impacting the ground in the runway approach light area.
+2.2 Cold Weather/Winter Flight Operations
+During his preflight inspection of the DC-9, the captain of flight 558 observed that
+the nosegear shock strut appeared to have normal extension. However, according to Douglas
+representatives, visual inspection for proper nosegear strut extension by flightcrew members
+cannot be relied upon to detect underserviced/underinflated nosegear struts. The Safety Board
+concludes that such preflight visual inspections by flightcrews cannot be relied upon to detect
+underserviced/underinflated DC-9 nosegear struts and that more frequent and detailed
+maintenance inspections of the DC-9 nosegear shock strut should be included in cold weather
+maintenance procedures.
+The Safety Board notes that numerous airlines follow specific maintenance
+procedures for cold weather protection and servicing of the nose landing gear, typically following
+
+36
+the additional cold weather servicing practices recommended in the DC-9 maintenance manual.
+However, ValuJet’s maintenance manual had not been revised or amended in accordance with
+the manufacturer’s recommended cold weather nosegear servicing procedures. Although
+ValuJet’s route structure involved primarily southern locations that do not normally experience
+severe cold weather, ValuJet does operate its airplanes in areas where they can be exposed to
+cold weather conditions. The scope and range of jet travel and the unpredictable nature of
+weather systems are such that no airline operating in the continental United States can safely
+consider its aircraft exempt from any such weather extremes. The Safety Board concludes that
+ValuJet Airlines and the FAA should have recognized the possibility of airplanes being exposed
+to cold weather conditions and the potential nosegear problems from such exposure, and ValuJet
+should have developed cold weather nosegear servicing procedures similar to those in the DC-9
+maintenance manual to address these problems.
+Accordingly, the Safety Board believes that ValuJet should develop, immediately,
+a more extensive and accurate winter operations manual, with corresponding adjustments to
+maintenance procedures, to reflect the manufacturer’s cold weather nosegear servicing
+procedures. Further, because no airline is exempt from encountering a range of weather
+extremes, the Safety Board believes that the FAA should require all airlines to review their
+operations and maintenance manuals and, if necessary, adjust or expand these manuals to reflect
+the manufacturer’s recommended cold weather nosegear servicing procedures.
+2.3 Flightcrew Actions/Decisionmaking
+The Safety Board is concerned that several times during the accident trip
+sequence, the flightcrew did not adhere to FAA-accepted ValuJet COM guidance. The Safety
+Board identified at least three instances during which company procedures clearly were not
+followed.
+The first instance occurred when the first officer flew the second leg and planned
+to fly the third leg of the trip. Although according to the COM, a captain may allow the first
+officer to fly the airplane when the captain has at least 100 hours as PIC in jet transport aircraft
+under Part 121, at the time of the accident, the captain of flight 558 had only 26 hours as PIC.
+Therefore, the captain was not authorized under the COM to allow the first officer to fly the
+airplane. The captain told investigators that he was not familiar with the section of the COM
+that indicated that he was not supposed to share flying duties with the first officer.
+The Safety Board notes that the first officer appeared to be competent and capable
+of pilot flying duties, and the weather, although marginal VMC, was above first officer approach
+minimums. The Safety Board concludes that although the first officer’s performing pilot flying
+duties did not jeopardize the safety of the flight, the captain’s decision to allow the first officer to
+act as the flying pilot indicates a lack of awareness and/or regard for the guidelines contained
+within the ValuJet COM.
+The second instance during which company procedures were not followed was
+when the pilots did not notify ValuJet system operations/dispatch that they were unable to raise
+
+37
+the landing gear without pushing the landing gear handle release button. Also, they did not
+report that they needed to disengage the ground control relay circuit breakers to put the airplane
+in flight mode.
+The Safety Board concludes that had the pilots adhered to COM procedures and
+notified system operations/dispatch of the landing gear irregularity during their departure from
+Atlanta, they would probably have received sufficient maintenance advice and guidance from
+technical specialists to land uneventfully at either Atlanta or Nashville. According to ValuJet’s
+chief pilot, if the pilots had informed system operations/dispatch of the anomaly during their
+departure from Atlanta, they probably would have been advised to return to Atlanta to have
+company maintenance personnel examine the airplane. The chief pilot indicated that in their
+advisory capacity, dispatch and maintenance personnel would have reviewed the appropriate
+landing procedures with the flightcrew before they returned to land.
+Finally, the flightcrew used only the QRH, without referring to the AOM, to
+determine how to address the anomalies that arose. Page A-38 of the QRH lists resetting the
+ground control relay circuit breakers under the heading “Approach and landing,” and although
+the preceding checklist item, “ANTI-SKID SWITCH (before 30 kts),” is clearly an after-landing
+item, the QRH does not include the specific instructions to reset the ground control relay circuit
+breakers after landing/during taxi. Thus, had the pilots consulted the AOM for more detailed
+guidance, they might have recognized that they should not reset the ground control relay circuit
+breakers until after the airplane was on the ground, and the accident might not have occurred.
+However, the Safety Board concludes that there was adequate information available on page A-
+38 of the QRH for the flight to have landed uneventfully at Nashville.
+The pilots indicated that although it was unwritten, they believed that ValuJet
+management had encouraged them to consider the QRH their primary reference source for
+abnormal procedures. The use of “unwritten” procedures, combined with a failure to hold
+personnel accountable for following published guidance, can erode the importance, and
+concomitantly, the value, of the existing guidance. The Safety Board concludes that the
+flightcrew’s decisions and actions in this case demonstrate insufficient concern for adherence to
+and a lack of company guidance about the guidelines and procedures set forth in the FAA-
+accepted ValuJet COM and the FAA-approved ValuJet AOM.
+The Safety Board is also concerned that neither the POI nor ValuJet’s chief pilot
+seemed concerned that the flightcrew failed to abide by COM guidance. Therefore, the Safety
+Board believes that the FAA should stress the importance of adherence to the rules, structure, and
+guidelines within the revised ValuJet COM to ValuJet management and its employees, to FSI (or
+other contracted training organizations used by ValuJet), and to the individuals responsible for
+the oversight of ValuJet.
+The flightcrew encountered several airplane system anomalies shortly after
+departure from Atlanta. Once the airplane was safely airborne and en route from Atlanta to
+Nashville, the pilots had sufficient time under relatively low stress and access to adequate
+resources to make informed, thoughtful decisions about how to proceed. Had the pilots felt that
+
+38
+they needed more time and/or information, they could have requested ATC clearance to enter a
+holding pattern while they consulted additional resources. However, the pilots’ statements and
+actions indicated that they did not perceive a need for additional time or information to decide
+how to deal with the anomalies.
+The Safety Board concludes that although the pilots had sufficient time to assess
+their circumstances, seek assistance from other resources, review the options available to them,
+and make a thoughtful decision, the pilots’ decisions, procedures, and actions resulted in the
+inadvertent in-flight activation of the ground spoilers while the airplane was on short final
+approach for the runway. The Safety Board determines that the flightcrew’s improper decisions,
+procedures, and actions were directly causal to the accident.
+2.4 ValuJet’s Training Program
+The pilots told Safety Board investigators that they believed that the training they
+received from FSI was deficient, especially in the area of aircraft systems. In fact, although both
+pilots had recently completed ValuJet/FSI training in the DC-9 and its systems, the pilots
+demonstrated that they did not have adequate knowledge or understanding of DC-9-32 systems to
+properly diagnose and respond to the abnormal situation when they reset the ground control relay
+circuit breakers on short final approach to the runway.
+In an attempt to determine whether there were identifiable deficiencies in the
+ValuJet/FSI training program, Safety Board investigators examined the FAA-approved ValuJet
+flight operations training manual and the FSI ValuJet DC-9 initial equipment training syllabus.
+Although the Safety Board did not find any specific discrepancies in the FSI training syllabus, the
+syllabus was very general and did not go into detailed description of the material to be covered
+by FSI instructors. One possible consequence of the lack of detailed guidance for FSI instructors
+to follow is inconsistent application of the existing guidance by FSI instructors. However, as
+mentioned previously, according to ValuJet and FSI personnel, ValuJet and FSI have since
+revised and improved the training syllabus in response to perceived deficiencies.
+The Safety Board also observes that the training syllabus did not contain written
+guidance about the ValuJet manuals or other reference materials to be used by FSI instructors in
+support of the lesson plans. Again, the pilots of flight 558 used the AOM as the sole reference
+manual during their classroom training and then were told that the QRH should be used instead
+of the AOM when they transitioned from the classroom to the simulator. The Safety Board notes
+that the AOM and QRH were never used at the same time in the training environment, which had
+the unfortunate effect of reducing the opportunity for comparison of the instructions contained in
+the manuals. Had the manuals been used side by side in classroom training, it might have been
+clearer to the pilots that the ground control relay circuit breakers should have been reset after
+landing.
+The Safety Board concludes that ValuJet’s pilot training, as performed by FSI,
+conformed with the FAA’s requirements. However, the Safety Board concludes that the pilots’
+actions and statements illustrate that their knowledge or understanding of the aircraft systems and
+
+39
+the effects those systems have on each other was inadequate. Although the Safety Board
+recognizes and commends ValuJet’s efforts to revise and improve the pilot training syllabus used
+by FSI, the Safety Board believes that the FAA should reevaluate ValuJet’s flight operations
+training manual and the ValuJet training syllabus used by FSI, and require ValuJet to revise or
+expand these documents to include more detailed descriptions and explanation of the DC-9
+systems and procedures.
+2.4.1 Crew Resource Management Training
+The Safety Board notes that ValuJet initiated a 2-day CRM training course in
+January 1995 and that both the captain and first officer of flight 558 had completed this training.
+The Safety Board is concerned that the ValuJet CRM course may have only provided an
+overview of cockpit resource management, without thoroughly teaching the concept of total,
+integrated crew resource management. Pilots who possess an operational awareness of
+integrated crew resource management practices would likely understand the value of
+communicating with operations/dispatch and flight attendants, and of accessing the more detailed
+procedural and systems information available to them in the AOM.
+Although the pilots did not brief the flight attendants about the irregularity and its
+possible ramifications during the go-around, the pilots indicated that the omission was the result
+of the limited time available to them during the go-around. Records indicate that the pilots had
+approximately 6 minutes between the hard landing on runway 2R and their touchdown on
+runway 31. According to the CVR transcript, approximately 15 seconds before the airplane
+touched down on runway 31, the first officer stated “…[we] should’ve braced them in the back.”
+The flightcrew’s failure to discuss the irregularity and its possible ramifications with the flight
+attendants is further evidence of insufficient adherence to the accepted principles of crew
+resource management training.
+Although the direct communication and coordination between the captain and first
+officer were not an issue in this accident, the Safety Board concludes that the pilots’ failure to
+communicate with and utilize some of the other resources available to them (such as the more
+detailed written procedural guidance located in the AOM, or in-flight maintenance advice
+through ValuJet system operations/dispatch in Atlanta or from contract maintenance personnel in
+Nashville) raises questions about the effectiveness of the CRM training provided. Therefore, the
+Safety Board believes that ValuJet should clarify for all flightcrews the importance of referencing
+all available crew reference documents and consulting with company maintenance personnel
+(time permitting) to resolve in-flight abnormalities before committing a flight to landing.
+Further, the Safety Board believes that the FAA should require ValuJet to revise
+its CRM training curriculum to more clearly reflect modern integrated (flightcrew, cabin crew,
+company, etc.) CRM practices (including LOS training) and to combine academic/classroom
+training with integrated practical crew simulations.
+2.5 ValuJet Pay Schedule
+
+40
+During its investigation, the Safety Board received conflicting information about
+ValuJet’s pay and bonus schedule. The Safety Board questioned whether the pay and bonus
+schedule in use by ValuJet at the time of this accident (on page 1-30 of ValuJet’s COM, dated
+March 15, 1995) was a factor in the flightcrew’s decision to continue the flight to its destination,
+rather than return to Atlanta after the irregularity. Although the information indicated the basis
+for ValuJet’s pilot pay schedule, the COM did not define ValuJet’s application of the pay policy
+in the event that a scheduled flight did not reach its intended destination.
+Also, the Safety Board is concerned that the individuals interviewed about the pay
+schedule held dissimilar views about how the ValuJet pay schedule would have been applied had
+the flightcrew elected to return to Atlanta after the irregularity. However, the Safety Board notes
+that the documentation it reviewed after the January 7, 1996, accident had not been revised or
+changed since March 15, 1995. The change bar on page 1-30 indicates that the change(s)
+effected on March 15, 1995, pertained to route structure/city to city mileage. The Safety Board
+concludes that ValuJet’s pay schedule was fairly constant in the months preceding the accident.
+The Safety Board notes that ValuJet’s pay and bonus schedule has evolved as a
+result of adjustments to ValuJet’s route structure and employee feedback, as well as in response
+to recent incidents and accidents. According to an August 14, 1996, letter from ValuJet’s vice
+president and project manager to the FAA Atlanta FSDO, the most recent revised ValuJet pay
+and bonus schedule reflects increased segment pay rates for first- and second-year captains and
+first officers, with decreased eligibility for, and reliance upon, annual bonus pay. The Safety
+Board recognizes and supports ValuJet’s efforts to provide an improved pay and bonus schedule
+for its employees.
+2.6 Communications
+The pilots indicated that all communication and navigation radios functioned
+normally throughout the flight from Atlanta to Nashville; the first anomaly was noted during the
+go-around procedure after the airplane touched down hard in the approach light area short of
+runway 2R. During the go-around, the pilots noted that the No. 1 (captain’s) communication
+radio and the No. 2 (first officer’s) communication and navigation radios were unusable.
+Postaccident examination of the aircraft revealed that the No. 1 communication
+radio was unusable because the No. 1 communication radio on/off switch was positioned in an
+intermediate (unpowered) position. The pilots stated that they did not intentionally place the
+No. 1 communication radio switch in the intermediate (unpowered) position nor did they recall
+bumping the No. 1 communication radio switch. However, the Safety Board notes that the No. 1
+communication radio switch, which is located on the left (captain’s) side of the control pedestal
+between the two pilots, might have been inadvertently and unknowingly bumped by either
+flightcrew member during the initial ground impact at Nashville or during their performance of
+subsequent go-around procedures.
+Additionally, postaccident examination revealed that the right DC bus reverse
+current relay, which provides power to the No. 2 communication and navigation radios, was
+
+41
+“open.” The right DC reverse current relay is mounted on the inside of the aft wall of the nose
+wheel well and is not accessible from the cockpit during flight. The Safety Board notes that
+during the initial ground impact, the nose landing gear struck the ground with enough force to
+separate the nosewheel assemblies from the nosegear strut. It is likely that either the force of the
+initial ground impact or an impact of the nose wheel assembly/debris against portions of the
+nose wheel well resulted in the “opening” of the right DC reverse current relay.
+The Safety Board concludes that there were no preexisting (preimpact)
+communication/navigation radio anomalies; rather, the radio difficulties that the flightcrew
+encountered during the go-around were, directly or indirectly, the result of the airplane’s impact
+with the ground in the approach light area short of runway 2R.
+2.7 CVR Issues
+The investigation of this accident was complicated by the fact that the 30-minute
+closed loop CVR tape did not include documentation of the initial approach to runway 2R, the
+hard landing event, or the go-around. Although the flightcrew’s statements and recollections
+were detailed and clear, information pertinent to the investigation was unrecoverable because of
+the 30-minute tape duration. The Safety Board concludes that had the flightcrew turned off
+power to the CVR after the airplane was safely stopped on the ground, investigators would have
+had access to valuable documentation of the hard landing and the events leading up to it.
+Therefore, the Safety Board believes that the FAA should require all airlines to revise their
+procedures to stipulate that flightcrews turn off power to the CVR as part of the engine shutdown
+procedure in the event of a reportable incident/accident.
+Over the years, the Safety Board has investigated several accidents and incidents
+in which pertinent CVR information has been overwritten and lost because of the 30-minute
+recording limitation. The Safety Board has recognized the advantages of an extended duration
+CVR in certain accidents and especially in incidents. On March 6, 1995, as a result of the
+investigation of the Continental Airlines flight 795 accident at LaGuardia Airport on March 2,
+46
+1994, the Safety Board issued the following safety recommendation to the FAA:
+Require, after December 31, 1995, that all newly manufactured cockpit voice
+recorders intended for use on airplanes have a minimum recording duration of
+2 hours. (A-95-23)
+Because the FAA responded that it would address this issue in upcoming
+rulemaking, the Safety Board classified this recommendation “Open—Acceptable Response” in
+May 1996. As a result of a new recommendation being made in this report, Safety
+Recommendation A-95-23 is now classified “Closed—Unacceptable Action/Superseded.”
+46
+For more detailed information, read Aircraft Accident Report—“Runway Overrun Following Rejected
+Takeoff, Continental Airlines Flight 795, McDonnell Douglas MD-82, N18835, LaGuardia Airport,
+Flushing, New York, March 2, 1994” (NTSB/AAR-95/01)
+
+42
+The Safety Board further concludes that the 30-minute closed loop CVR tape on
+board the accident airplane was of inadequate duration to be helpful in the investigation of this
+accident, because pertinent impact-related audio information and conversation had been recorded
+over and was unrecoverable. Therefore, the Safety Board believes that the FAA should require
+that all newly manufactured CVRs intended for use on airplanes have a minimum recording
+duration of 2 hours.
+2.8 ValuJet Actions/FAA Oversight
+The Safety Board notes that there was no indication that the POI recognized that
+the manner in which FSI and ValuJet used the ValuJet manuals and handbooks during pilot
+training was potentially confusing to the pilots. Although documentation indicates that the POI
+occasionally sat in on portions of the FSI/ValuJet ground school, there is no evidence that he ever
+audited the entire training class. Additionally, the POI and the original PMI approved the winter
+operations portions of ValuJet’s COM and maintenance manual, respectively, when neither
+document included cold weather/winter servicing procedures for the nosegear shock strut. The
+Safety Board concludes that the FAA’s oversight of ValuJet’s procedures and operations was
+inadequate.
+The Safety Board notes that according to FAA records, ValuJet made numerous
+changes in its training, flight operations, pay and bonus schedule, and maintenance practices,
+with increasing frequency and focus on these issues in the months between this accident and the
+crash of flight 592. The Safety Board recognizes that the FAA and ValuJet appeared to be trying
+to identify the problem areas in the airline and make changes to improve safety in ValuJet’s
+operations when flight 592 crashed in the Florida Everglades. The Safety Board will further
+analyze and make conclusions with regard to ValuJet’s actions and the FAA’s oversight of
+ValuJet, and develop recommendations, as needed, in its report on the flight 592 accident.
+
+43

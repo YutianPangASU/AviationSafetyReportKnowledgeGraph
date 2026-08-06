@@ -1,0 +1,768 @@
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+I T Washington, D.C. 20594
+A T IO
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident number: LAX05FA015
+Operator: Med Flight Air Ambulance, Inc.
+Aircraft and registration: Learjet 35A, N30DK
+Location: San Diego, California
+Date: October 24, 2004
+Adopted on: May 23, 2006
+HISTORY OF FLIGHT
+On October 24, 2004, about 0025 Pacific daylight time,1 a Learjet 35A, N30DK,
+registered to and operated by Med Flight Air Ambulance, Inc. (MFAA), crashed into
+mountainous terrain shortly after takeoff from Brown Field Municipal Airport (SDM), near San
+Diego, California. The captain, the copilot, and the three medical crewmembers were killed, and
+the airplane was destroyed. The repositioning flight was operated under the provisions of
+14 Code of Federal Regulations (CFR) Part 91 with an instrument flight rules (IFR) flight plan
+filed. Night visual meteorological conditions prevailed.
+The accident flight was the fourth and final leg of a trip that originated the previous day.
+ATI Jet, Inc. (ATIJ), dispatched the airplane, the two flight crewmembers, and two of the
+medical crewmembers from Albuquerque International Sunport (ABQ), Albuquerque, New
+Mexico, about 1500 on October 23, 2004, for a repositioning flight to pick up another medical
+crewmember and a transport flight to pick up a medical patient in Mexico. According to MFAA
+personnel, repositioning flights were conducted under 14 CFR Part 91 rules, and medical patient
+transport flights were operated under Part 135.
+On the flight’s first leg, the airplane departed ABQ about 1520 and landed at El Paso
+International Airport (ELP), El Paso, Texas, about 1555 to pick up the third medical
+crewmember. On the flight’s second leg, the airplane departed ELP about 1625 for Playa De Oro
+International Airport (MMZO), Manzanillo, Mexico, where it landed about 1825 to pick up the
+medical patient and one accompanying passenger. On the flight’s third leg, the airplane departed
+MMZO about 2040 and flew to SDM,2 where it landed about 2324 to drop off the medical
+1 All times are Pacific daylight time unless otherwise indicated.
+2 The flight was on an IFR flight plan from MMZO to SDM, and an air traffic controller at the Southern
+California Terminal Radar Approach Control had cleared the flight for the “VOR [very high frequency
+omnidirectional range] – A” approach. The flight crewmembers told the controller that they had visual contact with
+the airport, and they canceled the flight’s IFR clearance. The flight proceeded to SDM on a visual approach.
+
+2
+patient and the passenger. The airplane was then met by U.S. Customs Service personnel and
+was on the ground for about 1 hour before it departed on the accident flight to return the airplane
+to its base at ABQ.
+A review of records from the San Diego Flight Service Station (FSS) revealed that one of
+the flight crewmembers filed the IFR flight plan to ABQ at 0002 on October 24, 2004. The filed
+route of flight included an estimated 0020 departure from SDM with a cruise altitude of flight
+level 370 (37,000 feet pressure altitude) direct to Palm Springs, California, and then direct to
+ABQ. The flight plan included an estimated time en route of 1 hour 15 minutes with 3 hours of
+fuel on board the airplane. The flight crewmember did not request any weather information or an
+IFR clearance and clearance void time.3
+The cockpit voice recorder (CVR) recording revealed that the captain and the copilot
+listened to the SDM automatic terminal information service (ATIS) recording; however, they
+listened only to the remarks portion of the recording and did not listen to the weather
+information. The copilot then attempted to contact “Brown Field Municipal clearance” on the
+radio frequency, but he received no response. The captain suggested that the copilot could try
+contacting the Tijuana tower. The copilot stated he could pick up the flight’s clearance in the air
+but then stated, “I don’t want to do it but….”
+The copilot then tried to contact the San Diego FSS via the remote communications outlet
+frequency but received no reply. He next tried to contact the Tijuana tower but again received no
+reply. Afterward, the copilot tried to contact the San Diego FSS utilizing a different radio
+frequency but still received no reply. After the copilot’s fourth failed attempt to obtain the IFR
+clearance using the radio, the captain said, “all right, let’s just do VFR [visual flight rules].”
+According to the operator, the flight crew had a cellular telephone and a satellite
+telephone on board the airplane. The CVR recording revealed no attempt by either crewmember
+to telephone the FSS for an IFR clearance and clearance void time.
+The captain and the copilot discussed the departure. The captain stated that he wanted to
+depart from runway 8 to avoid flying over the city of San Diego. He also stated that a runway 8
+departure would place the flight on a heading straight toward ABQ, and the copilot agreed with
+this statement. Neither the captain nor the copilot mentioned the mountainous terrain to the east
+and northeast as a consideration in deciding which runway to use for departure. The CVR
+recording revealed that the copilot yawned five times within 6 minutes during the departure
+discussion.
+According to the CVR recording, the captain and the copilot performed the checklist
+items and set the altimeters to 29.93 inches of mercury (Hg). The copilot then asked for a
+briefing, to which the captain responded, “uh, let’s see. will be standard callouts tonight and, if
+3 When operating from an airport without a control tower, or during hours when a control tower is closed, a
+pilot may receive an IFR clearance that contains a provision for the clearance to be void if the flight is not airborne
+by a specific time.
+NTSB/AAB-06/05
+
+3
+you can’t punch up through a nice hole then just uh, you know, stay at a reasonably safe altitude
+and uh, underneath two hundred and fifty knots, and I’ll do the best I can to, get somebody’s
+attention.” This statement was followed by the sound of takeoff power being set on the engines.
+A review of radar data4 revealed that the airplane departed runway 8L at 0023 and
+climbed on a straight-out departure. The published departure procedures for IFR aircraft5
+departing from runway 8L included a climbing left turn to a heading of 280º, which was a nearly
+complete course reversal to avoid the mountains east and northeast of SDM.
+According to air traffic control (ATC) transcripts, the captain contacted the Southern
+California Terminal Radar Approach Control (SCT TRACON) controller after takeoff to pick up
+the flight’s IFR clearance. The controller told the flight crew to set the transponder to code 7372
+and “ident.” A review of radar data revealed that the airplane climbed to about 2,300 feet mean
+sea level (msl) and leveled out, and its flight track remained approximately straight out from the
+departure runway.
+At 0024:55, the controller stated the flight was radar identified, and he instructed the
+flight crew to turn to a heading of 020°, maintain VFR, and expect an IFR clearance above
+5,000 feet msl. The captain acknowledged the heading instructions, and no further radio
+communication was received from the flight. A review of radar data revealed that, at the time the
+controller issued the instructions, the flight was about 3.5 nautical miles (nm) west of the
+mountains, and the heading issued by the controller resulted in a flight track that continued
+toward the mountains.
+The last mode C6 radar return from the flight at 0025:03 depicted the airplane about 6 nm
+east of SDM at an altitude of 2,300 feet msl. A review of the controller’s display data recording
+revealed the controller’s computer system issued a minimum safe altitude warning (MSAW),7
+which consisted of an aural alert and a visual alert on the controller’s display, during the flight’s
+last two mode C radar returns at 0024:59 and 0025:03. At 0025:56, the controller attempted to
+make radio contact with the flight but received no reply. After the controller’s subsequent
+attempts to contact the flight crew were unsuccessful, a search and rescue operation was
+initiated.
+4 Any radar-derived position, course, time, or altitude described in this report is intended to illustrate the
+information available to air traffic control personnel for use as the basis of control instructions or advisories and is
+not intended to indicate actual airplane performance.
+5 Although the airplane departed under VFR, chapter 5-5-14 of the Federal Aviation Administration
+Aeronautical Information Manual, “Instrument Departures,” states that pilots should consider the type of terrain and
+other obstructions to determine if obstruction avoidance could be maintained visually or if the departure procedure
+should be followed.
+6 Mode C is a transponder capability that enables the equipment to report an aircraft’s altitude to ground-based
+interrogator equipment.
+7 MSAW is a function of the controller’s computer system that provides alerts when a tracked mode C-equipped
+aircraft is below, or is predicted by the computer to proceed below, a predetermined minimum safe altitude.
+NTSB/AAB-06/05
+
+4
+The airplane wreckage was located about 8 nm east of SDM in a mountainous area
+southeast of Otay Mountain’s highest peak. The initial impact point was at an elevation of
+2,256 feet msl. The San Diego Police Department’s Air Support Unit, which arrived at the site
+by helicopter about 20 minutes after the accident, used night vision goggles and infrared imaging
+to locate the wreckage. The Air Support Unit responders reported that they observed a broken-to-
+overcast layer of clouds near Otay Mountain while flying to the accident site and that the
+elevation of the main impact crater at the site was about 75 to 100 feet below the observed cloud
+layer.
+PERSONNEL INFORMATION
+The director of operations (DO) for ATIJ provided personnel records, training records,
+drug test results, and duty and flight time records for the captain and the copilot. The information
+in this section was extracted from that data, Federal Aviation Administration (FAA) records, and
+pilot logbooks.
+The Captain
+The captain, age 56, held an airline transport pilot certificate with a rating for airplane
+multiengine land and type ratings for CL-604 (Challenger) airplanes, IA-Jet (Westwind)
+airplanes, and Learjet airplanes (the Learjet model was not specified). He also held a commercial
+pilot certificate with a rating for airplane single-engine land. The captain’s most recent FAA
+first-class airman medical certificate was issued on October 8, 2003, with a limitation that he
+must possess lenses for near vision.
+The captain completed ATIJ’s initial general ground training and initial crewmember
+emergency training, which included a review of the company’s previous accidents and incidents,
+on August 21, 2004. According to ATIJ’s DO, the review included a controlled flight into terrain
+(CFIT) scenario.
+From August 23 to 27, 2004, the captain completed a Learjet 35/36 Part 135 pilot
+recurrent training course. The course was held at FlightSafety International’s (FSI) Tucson,
+Arizona, training facility, and the course included 12 hours of simulator training, 15 hours of
+ground training, and 4 hours of briefing/debriefing training. During one of the simulator sessions,
+CFIT was addressed as a special-emphasis area. A review of the captain’s FSI training records
+revealed that he received positive comments from his instructor.
+On August 21, 2004, the captain passed the knowledge items required by
+14 CFR 135.293, “Initial and Recurrent Pilot Testing Requirements,” paragraph (a), items
+1 and 8. On August 27, 2004, while at FSI, the captain passed the knowledge tests required by
+14 CFR 35.293, paragraph (a), items 2 and 3, and the checkride required by 14 CFR 135.297,
+“Pilot in Command: Instrument Proficiency Check Requirements.” On September 10, 2004, the
+captain passed the flight check required by 14 CFR 135.299, “Pilot in Command: Line
+Checks: Routes and Airports,” while flying the accident airplane.
+NTSB/AAB-06/05
+
+5
+An ATIJ pilot personal data form listed the captain’s total flight time as 13,000 hours and
+his total instrument time as 900 hours. A review of the captain’s logbook entries between
+February 1997 and February 2000 revealed that he logged a total of 525 hours of flight time in
+Learjet 35 airplanes and 639 hours of flight time in Learjet 25D airplanes.
+A review of the duty time sheets provided by ATIJ revealed that the captain had
+accumulated a total of 70 hours duty time and 36 hours flight time during September 2004 and
+67 hours duty time and 38 hours flight time during October 2004. All of the flight hours were
+accumulated in Learjet 35 airplanes.
+According to his wife, the captain had flown to SDM at least once before; that flight was
+in January 2003.
+The Copilot
+The copilot, age 30, held a commercial pilot certificate and a flight instructor certificate
+with ratings for airplane single-engine land, airplane multiengine land, and instrument airplane.
+His most recent FAA first-class airman medical certificate was issued on April 8, 2004, with the
+limitations that he must wear corrective lenses for distant vision and possess lenses for near
+vision.
+The copilot completed ATIJ’s initial general ground training and initial crewmember
+emergency training on August 21, 2004. As previously stated, the training included a review of
+the company’s previous accidents and incidents, including a CFIT scenario.
+From August 23 to 27, 2004, the copilot completed a Learjet 35/36 Part 135 pilot
+recurrent training course at FSI. As previously stated, during one of the simulator sessions, CFIT
+was addressed as a special-emphasis area. A review of the copilot’s FSI training records revealed
+that he received positive comments from his instructor.
+On April 16, 2004, the copilot passed the competency check and knowledge tests
+required by 14 CFR 135.293, paragraphs (a) and (b), while flying a Learjet 25. On August 21,
+2004, the copilot passed an oral test, as outlined in paragraph (a), items 1 and 8. On August 27,
+2004, he passed the tests outlined in paragraph (a), items 2 and 3, while in a Learjet 35A
+simulator.
+An ATIJ pilot personal data form completed by the copilot indicated that he logged a
+total of 3,000 hours of flight time with 375 hours of instrument time. An MFAA pilot
+questionnaire indicated that, in 2004, the copilot accumulated about 100 flight hours in a
+Learjet 25.
+A review of the copilot’s duty time sheets revealed that he accumulated a total of
+74 hours duty time and 29 hours flight time during September 2004 and 54 hours duty time and
+NTSB/AAB-06/05
+
+6
+32 hours flight time during October 2004. All of the flight hours were accumulated in Learjet 35
+airplanes.
+A review of the copilot’s flight log revealed no record of previous flights into or out of
+SDM.
+Flight Crew 72-Hour History
+On October 21, 2004, the captain and the copilot worked a 10-hour duty day that
+included 7.4 hours flight time in the accident airplane. During a flight leg from Casper,
+Wyoming, to Battle Creek, Michigan, the airplane had a generator problem, and the captain and
+the copilot remained overnight in Michigan while the airplane underwent maintenance. On
+October 22, 2004, the captain and the copilot returned the airplane to its base at ABQ, and each
+pilot logged 3.3 hours of flight time during 4.3 hours of duty time, which ended at 1730.
+After the captain completed his duty day, he spent the evening with his wife and went to
+bed about 2130. The next morning, which was the day of the first leg of the accident trip, the
+captain awoke about 0700. He and his wife ate breakfast, read the newspaper, and went
+shopping. While they were shopping, the captain received a call from MFAA regarding the
+accident trip. The captain left for ABQ about 1330.
+After the copilot completed his duty day on October 22, 2004, he met with his mother-in-
+law, spent the rest of the evening with his wife relaxing, and went to bed about 2130. The next
+morning, which was the day of the first leg of the accident trip, the copilot awoke about 0830,
+helped his in-laws move some furniture, and spent the rest of the morning and early afternoon
+shopping. According to the copilot’s wife, he received the call for the accident trip about 1410.
+She stated that he drove her home and then left for ABQ.
+A review of dispatch logs revealed that, during the 24 hours before the accident, the
+captain and the copilot each accumulated about 6.5 hours of flight time and about 11 hours of
+duty time. Title 14 CFR 135.267(b), “Flight Time Limitations and Rest Requirements:
+Unscheduled One- and Two-Pilot Crews,” was applicable to the trip legs before the accident
+flight that were subject to Part 135 rules. The regulation states the following:
+Except as provided in paragraph (c) of this section, during any 24 consecutive
+hours the total flight time of the assigned flight when added to any other
+commercial flying by that flight crewmember may not exceed…10 hours for a
+flight crew consisting of two pilots.
+Paragraph (c) of the regulation states that the flight crewmember’s flight time may
+exceed the flight time limit included in paragraph (b) if the following were to occur:
+The assigned flight time occurs during a regularly assigned duty period of no
+more than 14 hours, and (1) if this duty period is immediately preceded by and
+NTSB/AAB-06/05
+
+7
+followed by a required rest period of at least 10 consecutive hours of rest; (2) if
+flight time is assigned during this period, that total flight time when added to any
+other commercial flying by the flight crewmember may not exceed…10 hours for
+a flight crew consisting of two pilots; and (3) if the combined duty and rest
+periods equal 24 hours.
+AIRPLANE INFORMATION
+The airplane was powered by two Honeywell TFE731-2-2B turbine engines. The airplane
+underwent a medical conversion and was configured to accommodate two flight crewmembers,
+three medical crewmembers, one medical patient, and one additional passenger. A review of the
+engine logbooks revealed that a 150-hour inspection was completed on May 12, 2004, with an
+airplane total time of 10,031 hours, a left engine total time of 9,794 hours, and a right engine
+total time of 9,871 hours.
+MFAA purchased the airplane in July 2004. Between June 1, 2004, and August 10, 2004,
+when the airplane had a total time of 10,048 hours, the airplane underwent maintenance at
+Garrett Aviation Service Center in Houston, Texas. The maintenance included the airplane’s
+12-year/6,000 landings inspection; 12,000-hour inspection; and multiple phase A, B, and C
+inspections, as outlined in the manufacturer’s maintenance schedules. On August 31, 2004, the
+airplane underwent a Part 135 conformity inspection at ATIJ’s maintenance facility; at the time,
+the airplane had accumulated 10,049 hours. At the time of the accident, the airplane had
+accumulated 10,188 hours.
+According to MFAA and ATIJ personnel, the airplane was scheduled to have a terrain
+awareness and warning system (TAWS) installed in January 2005.8
+METEOROLOGICAL INFORMATION
+The official weather observation at SDM is provided through an automated surface
+observing system (ASOS) recording, which pilots can access by telephone. Information from the
+ASOS is used to update the ATIS recording.
+The ASOS reports before the time of the accident were as follows: at 2317, the reported
+conditions were scattered clouds at 2,100 feet above ground level (agl), visibility 8 miles,9
+temperature 14° Celsius (C), dew point 12º C, and altimeter setting 29.93 inches of Hg. At 2353,
+reported conditions were winds calm, ceiling overcast at 2,100 feet agl, visibility 8 miles,
+temperature 14º C, dew point 12º C, and altimeter setting 29.92 inches of Hg. About the same
+time, the weather observing facility at San Diego International Airport (SAN), which is located
+8 The purpose of a TAWS is to determine possible terrain conflicts along the airplane’s flightpath and provide a
+warning to pilots in time for them to take corrective action. According to 14 CFR 91.223, turbine-powered airplanes
+configured with six or more passenger seats, excluding any pilot seat, were required to be equipped with an
+approved TAWS no later than March 29, 2005; the same was required under 14 CFR 135.154 for turbine-powered
+airplanes configured with six to nine passenger seats.
+9 Visibility is expressed in statute miles.
+NTSB/AAB-06/05
+
+8
+16 nm northwest of SDM, reported winds from 340º at 4 knots, visibility 10 miles, and a broken
+layer of clouds at 3,000 feet agl.
+The ASOS and ATIS recordings did not include, and were not required to include, any
+information about the mountainous terrain near SDM. Since the time of the accident, the ATIS
+recording was updated to include a terrain caution to pilots during hours when the control tower
+is closed.
+AIRPORT INFORMATION
+SDM is at an elevation of 526 feet msl and is located about 5 nm north of the U.S.-
+Mexico border and 13 nm southeast of San Diego on the Otay Mesa. The rising terrain
+associated with the Otay Mountain peaks begins about 2 nm east-northeast of SDM, and the
+highest terrain, at an elevation of 3,566 feet msl, is located about 7 nm east of SDM. The FAA
+Airport/Facility Directory (AFD) listing for SDM did not include, and was not required to
+include, information about the mountainous terrain near the airport. Since the time of the
+accident, the AFD listing for SDM was revised to include terrain information.
+SDM has two runways, 8L/26R and 8R/26L, and a federally contracted ATC tower. The
+tower operates Monday through Friday from 0800 to 2200 and is closed on weekends. When the
+tower is closed, pilots use the common traffic advisory frequency when operating to and from the
+SDM traffic area. The airport is served by two instrument approach procedures: “VOR [very
+high frequency omnidirectional range] or GPS [global positioning system] – A” and “GPS RWY
+[runway] 8L.”
+Air Traffic Control Information
+The SCT TRACON is a level 12 facility classified as a combined radar approach control.
+The facility provides approach and departure services for most airports in the southern California
+area, including SDM. At the time of the accident, the west radar (WESR) controller position was
+responsible for airspace within 40 nm of SAN, ranging from the surface to 17,000 feet msl; the
+WESR controller handled no other aircraft for the duration of the accident flight.
+The controller who was working the WESR position entered duty with the FAA on
+December 4, 1987, and worked at the SCT TRACON between 1994 and 1995. He returned to the
+SCT TRACON in February 1998 and achieved area certification on December 8, 1999. The
+controller previously worked at SDM tower and SAN tower.
+On October 23, 2004, the controller worked a shift from 0630 to 1430. He then returned
+for duty at 2300 for his scheduled midnight shift, which was from 0000 to 0800 on October 24,
+2004. The controller stated that he rested, but did not sleep, before reporting for the midnight
+shift and that he was not tired when he handled the accident flight. (The controller added that he
+would sometimes sleep before a midnight shift and that sometimes he was tired.) The accident
+shift, which was on a Sunday, was the last shift of his workweek, and Monday and Tuesday were
+his regular days off.
+NTSB/AAB-06/05
+
+9
+According to ATC transcripts and radar data, at 0024:12, when the flight was about 2 nm
+east of SDM and at an altitude of 1,800 feet msl, the captain contacted the controller and stated,
+“off brown field at this time squawking vfr with the ifr please to albuquerque.” The controller
+replied, “lifeguard three zero delta kilo squawk seven three seven two and ident please.”
+At 0024:46, the SCT TRACON automated radar terminal system (ARTS)-III indicated
+that the flight’s transponder code had changed, as instructed by the controller. Radar data showed
+that the flight was about 4 nm east of SDM and had leveled at 2,300 feet msl.
+At 0024:55, the controller stated, “lifeguard three zero delta kilo radar contact cleared
+through class b airspace for now fly heading of zero two zero [degrees] maintain vfr and as soon
+as you get above five thousand [feet] I’ll uh have an ifr clearance for ya.” The captain stated, “ok
+uh zero two zero heading and uh lifeguard zero two uh zero delta kilo roger.” Radar data showed
+that the flight was about 4.5 nm east of SDM and at an altitude of 2,300 feet msl.
+During a postaccident interview, the controller stated that he issued the 020º heading to
+keep the flight away from Mexico’s airspace, which he explained was his first priority. The
+controller further stated that he issued the 020º heading to turn the airplane toward the first
+waypoint on its filed route of flight, which he explained was his second priority.
+The controller stated that he was aware of the mountainous terrain east SDM. When
+asked why he took no action to warn the flight crew of the airplane’s proximity to terrain, the
+controller stated that it was the pilot’s responsibility to avoid terrain when operating under VFR.
+The controller stated that he did not distinguish between day or night operations when providing
+VFR advisories to pilots. The controller also stated that he was aware of the cloud ceiling at
+2,100 feet agl and that he expected the pilots to maintain VFR and to advise him if they were
+unable to do so.
+At 0024:59, the controller’s computer system generated MSAW aural and visual alerts on
+his display. The MSAW alerts ended 4 seconds later at 0025:03. A review of the radar playback
+indicated the visual alert on the controller’s radar display was depicted as a flashing “LA” (low
+altitude) in the ARTS data block for the flight. At the time, radar data showed that the flight was
+5 nm east of SDM at an altitude of 2,400 feet msl and was tracking an easterly heading. The
+minimum vectoring altitude (MVA)10 in this area was 5,000 feet msl. The airplane’s radar track
+continued for another 15 seconds, but no altitude readout was displayed. The last radar return
+was received at 0025:18, and it showed the flight 6 nm east of SDM and tracking an easterly
+heading. At 0025:22, the flight’s data block indicated “coast” status, indicating that the SCT
+TRACON computer system could no longer associate the flight plan information with radar
+returns.
+At 0025:33, the controller contacted the Tijuana approach controller via the landline and
+advised, “got a point for ya about six northeast of tijuana trying to pick him up vfr right now and
+10 The MVA is the lowest msl altitude at which a radar controller can vector an IFR aircraft.
+NTSB/AAB-06/05
+
+10
+turn him northwestbound out of…northbound out of your airspace uh beacon code seven three
+seven two.” The Tijuana controller responded by saying, “point out approved.”
+During a postaccident interview, the controller stated that he did not hear or observe the
+MSAW alerts because he was on the landline with the Tijuana approach controller. He stated
+that, once he completed coordination, he returned his attention to his radar display and observed
+that the flight’s data block had gone into coast status. According to radar and communication
+data, the MSAW alerts began 34 seconds before the controller initiated the call to the Tijuana
+controller. Radar contact with the airplane had been lost for 15 seconds when the controller
+began coordinating the flight’s position with the Tijuana controller.
+At 0025:56, the SCT TRACON controller stated on the frequency, “lifeguard zero delta
+kilo uh radar contact lost say altitude,” but received no reply. The controller made several more
+attempts to make radio contact with the flight. After receiving no reply from the flight crew, the
+controller contacted Tijuana approach control and asked if the controllers observed the flight on
+radar, but no one had observed the flight. The controller notified his supervisor that he lost radar
+and radio communication with the flight, and facility personnel initiated search and rescue
+procedures.
+FLIGHT RECORDERS
+The airplane was equipped with a Collins 642C-1 CVR, serial number 3951. The CVR
+arrived at the National Transportation Safety Board’s Vehicle Recorders Laboratory on
+October 26, 2004. The CVR sustained significant structural damage and was dented and
+compressed along its longitudinal axis. The case was cut away to access the recorder tape. The
+interior of the tape recorder appeared undamaged. The tape included three channels of excellent-
+to-good quality audio information.11 A CVR group convened on November 4, 2004, and a
+transcript was made for the recording. The transcript began at 2359:58 when the captain and the
+copilot powered the airplane and began preparing for departure, and it continued until 0025:28
+when the airplane collided with terrain. Time references in the CVR transcript were established
+utilizing times correlated from the ATC transcript.
+WRECKAGE AND IMPACT INFORMATION
+The initial impact point was at the 2,256-foot level of the west side of the mountain range
+on a 32º slope. The wreckage debris was distributed about 500 feet up the side of the mountain
+along a magnetic heading of 040º. The impact crater was about 48 feet wide.
+The impact crater displayed three large, deep, oval-shaped impact marks connected by a
+shallower impact line. One of the oval marks was on the left side of the crater, one was in the
+approximate center of the crater, and one was on the right side of the crater. A piece of wingtip
+11 The Safety Board uses the following categories to classify the levels of CVR recording quality: excellent,
+good, fair, poor, and unusable. An excellent quality recording is one in which virtually all of the crew conversations
+can be accurately and easily understood. A good quality recording is one in which most of the crew conversations
+can be accurately and easily understood.
+NTSB/AAB-06/05
+
+11
+fuel tank with a red navigation light was about 9 feet to the left of the crater. Another piece of tip
+tank with a green navigation light was about 120 feet to the right of the impact crater. The brush
+located adjacent to the impact crater displayed branches that were freshly broken; inclinometer
+measurements revealed that the branches on the left side were broken about 10º lower than those
+on the right side.
+All of the airplane’s flight control surfaces were identified throughout the debris field. All
+fracture features were bent and distorted. The horizontal and vertical stabilizers remained
+attached to each other but were separated from the rest of the airplane. The rudder and elevator
+remained attached to the vertical stabilizer and horizontal stabilizer, respectively. The engines
+separated from the fuselage and were relatively close to the tail section. A section of the right
+inboard wing with the right flap and right spoiler attached remained in the impact crater. Sections
+of the left aileron, left flap, left spoiler, and right aileron were located in the debris field.
+The right engine was separated from its cowling and was fragmented. The left engine
+remained enclosed by its cowling but sustained significant impact damage. The compressor
+blades for both engines displayed bending opposite the direction of rotation; many blades were
+bent nearly 90º, and some blades were separated from their rotor disk attach points.
+MEDICAL AND PATHOLOGICAL INFORMATION
+Autopsies were performed on the captain and the copilot by the County of San Diego’s
+Office of the Medical Examiner. The autopsy reports stated the cause of death for both the
+captain and the copilot was “blunt and sharp force injuries.” The reports indicated no evidence of
+preaccident physical incapacitation or impairment of either flight crewmember.
+Forensic toxicology was also performed by the medical examiner on specimens from
+both crewmembers. The toxicological studies were negative for performance-impairing drugs.
+According to the medical examiner’s reports, the quantities of ethanol detected in the captain’s
+and the copilot’s specimens were “believed to be postmortem fermentation artifact.”
+ORGANIZATIONAL AND MANAGEMENT INFORMATION
+MFAA, which was located in Albuquerque, owned the airplane and employed the
+captain, the copilot, and the medical crewmembers. MFAA had an aviation services agreement
+with ATIJ (from September 1, 2004, to August 31, 2005) under which ATIJ leased the airplane
+from MFAA and used MFAA’s crewmembers to conduct charter operations under ATIJ’s
+Part 135 certificate. According to 14 CFR 119.3, a “wet lease” is “any leasing agreement
+whereby a person agrees to provide an entire aircraft and at least one crewmember.” Further,
+14 CFR 119.53(b) states, in part, “no certificate holder…may wet lease from…any person not
+authorized to engage in common carriage.” MFAA did not hold a certificate to conduct common
+carriage. The Safety Board notes that the agreement was approved by the FAA principal
+operations inspector (POI) for ATIJ prior to the accident. On June 10, 2005, the FAA issued
+Notice 8400.83 to its inspectors clarifying the regulation that such wet lease agreements are
+prohibited.
+NTSB/AAB-06/05
+
+12
+ATIJ, which was located in El Paso, held a Part 135 certificate to conduct on-demand
+common carriage operations. The FAA POI who approved ATIJ’s operations specifications was
+located at the Albuquerque Flight Standards District Office. A review of the operations
+specifications revealed that ATIJ was authorized to perform flights under Part 91 without
+obtaining an FAA letter of authorization for the purposes of flight crewmember training,
+maintenance testing, ferrying, repositioning, and carrying company officials, provided that these
+flights were not performed for compensation or hire and that no charge of any kind was made for
+the conduct of the flights.
+Although ATIJ’s operations specifications stated that the company was authorized to
+conduct repositioning flights under Part 91, the aviation services agreement between ATIJ and
+MFAA stated that ATIJ “shall retain operational control[12] of the aircraft under Part 135 during
+lease periods.” During the investigation, the Safety Board made repeated requests to the FAA to
+determine which company was the operator of the Part 91 accident flight. The FAA did not make
+such a determination. In the absence of an answer from the FAA, it was the joint position of
+MFAA and ATIJ that, at the time of the accident, MFAA was the operator.
+According to the aviation services agreement, ATIJ was also responsible for ensuring that
+the required maintenance of the airplane was performed by an authorized facility, the flight
+crewmembers were appropriately trained in accordance with their approved training program,
+and a log of all maintenance and pilot records was maintained while the airplane was operated
+under the terms of the agreement. In return, MFAA paid ATIJ a management fee of $2,500 per
+month and maintained insurance on the airplane.
+According to MFAA personnel, publications on board the airplane that were available to
+the flight crewmembers included world aeronautical charts, high- and low-altitude en route
+instrument charts, the U.S. Government Flight Information Publication of U.S. Terminal
+Procedures, and the Jeppesen Sanderson instrument approach procedures for Canada and
+Mexico.
+ADDITIONAL INFORMATION
+Pilot Responsibilities
+Title 14 CFR 91.103, “Preflight Action,” states, “each pilot in command shall, before
+beginning a flight, become familiar with all available information concerning that flight.” Title
+14 CFR 91.119, “Minimum Safe Altitudes: General,” states in paragraph (c) that no person may
+operate an aircraft below an altitude of 500 feet agl over noncongested areas.
+When the captain and the copilot flew the airplane from MMZO to SDM with a medical
+patient on board, that leg of the flight was operated under the provisions of 14 CFR 135. Title
+14 CFR 135.299 paragraph (c) states the following:
+12 The FAA defines operational control of a flight as the exercise of authority over initiating, conducting, or
+terminating a flight.
+NTSB/AAB-06/05
+
+13
+Each certificate holder shall establish in the manual required by [14 CFR] 135.21
+a procedure which will ensure that each pilot who has not flown over a route and
+into an airport within the preceding 90 days will, before beginning the flight,
+become familiar with all available information required for the safe operation of
+the flight.
+ATIJ’s Standard Operating Procedures Manual, states, under the section “Crew Takeoff
+Briefing (Lear[jet] 35),” “the pilot in command will brief any special or unusual conditions that
+may arise such as high terrain, windy conditions, etc.”
+FAA Aeronautical Information Manual (AIM) chapter 4-4-8, “VFR/IFR Flights,” states
+the following:
+A pilot departing VFR, either intending to or needing to obtain an IFR clearance
+en route, must be aware of the position of the aircraft and the relative
+terrain/obstructions. When accepting a clearance below the MEA [minimum en
+route altitude]/MIA [minimum IFR altitudes]/MVA/OROCA [off-route
+obstruction clearance altitude], pilots are responsible for their own
+terrain/obstruction clearance until reaching the MEA/MIA/MVA/OROCA. If
+pilots are unable to maintain terrain/obstruction clearance, the controller should
+be advised and pilots should state their intentions.
+FAA AIM chapter 5-1-2, “Follow IFR Procedures Even When Operating VFR,” states
+the following:
+When flying VFR at night, in addition to the altitude appropriate for the direction
+of flight, pilots should maintain an altitude which is at or above the minimum en
+route altitude as shown on the charts. This is especially true in mountainous
+terrain, where there is usually very little ground reference. Do not depend on your
+eyes alone to avoid rising unlighted terrain.
+FAA AIM chapter 5-5-14, “Instrument Departures,” states that pilots should do the
+following:
+1. Prior to departure consider the type of terrain and other obstructions on or in
+the vicinity of the departure airport. 2. Determine if obstruction avoidance can be
+maintained visually or that the departure procedure should be followed. 3.
+Determine whether a departure procedure and/or DP is available for obstruction
+avoidance.
+Air Traffic Control Procedures
+According to FAA Order 7110.65P, chapter 4-2-8, “IFR-VFR and VFR-IFR Flights,”
+procedures for personnel who provide ATC services include the following:
+NTSB/AAB-06/05
+
+14
+b. Treat an aircraft planning VFR for the initial part of flight and IFR for the latter
+part as a VFR departure. Issue a clearance to this aircraft when it requests IFR
+clearance approaching the fix where it proposes to start IFR operations.
+d. When a VFR aircraft, operating below the minimum altitude for IFR
+operations, requests an IFR clearance and you are aware that the pilot is unable to
+climb in VFR conditions to the minimum IFR altitude:
+1. Before issuing a clearance, ask if the pilot is able to maintain terrain and
+obstruction clearance during a climb to the minimum IFR altitude.
+NOTE - Pilots of pop-up aircraft are responsible for terrain and obstacle clearance
+until reaching…MIA…or…MEA. Pilot compliance with an approved FAA
+procedure or an ATC instruction transfers that responsibility to the FAA;
+therefore, do not assign (or imply) specific course guidance that will (or could) be
+in effect below the MIA or MEA.
+2. If the pilot is able to maintain terrain and obstruction separation, issue the
+appropriate clearance as prescribed in paragraph 4-2-1, Clearance Items, and
+paragraph 4-5-6, Minimum En Route Altitudes.
+3. If unable to maintain terrain and obstruction separation, instruct the pilot to
+maintain VFR and to state intentions.
+According to FAA Order 7110.65P, chapter 5-15-7, “Inhibiting Minimum Safe Altitude
+Warning (MSAW),” procedures for personnel who provide ATC services include the following:
+“a. Inhibit MSAW processing of VFR aircraft and aircraft that cancel…IFR flight plans unless
+the pilot specifically requests otherwise.”
+According to FAA Order 7110.65P, chapter 2-1-6, “Safety Alert,” the procedures for
+personnel who provide ATC services include the following:
+Issue a safety alert to an aircraft if you are aware the aircraft is in a
+position/altitude, which, in your judgment, places it in unsafe proximity to terrain,
+obstructions, or other aircraft.
+NOTE - 1. The issuance of a safety alert is a first priority…once the controller
+observes and recognizes a situation of unsafe aircraft proximity to terrain,
+obstacles, or other aircraft. Conditions, such as workload, traffic volume, the
+quality/limitations of the radar system, and the available lead time to react are
+factors in determining whether it is reasonable for the controller to observe and
+recognize such situations. While a controller cannot see immediately the
+development of every situation where a safety alert must be issued, the controller
+NTSB/AAB-06/05
+
+15
+must remain vigilant for such situations and issue a safety alert when the situation
+is recognized.
+2. Recognition of situations of unsafe proximity may result from
+MSAW…automatic altitude readouts…observations on a [radar] scope, or pilot
+reports.
+3. a. Terrain/Obstruction Alert. Immediately issue/initiate an alert to an aircraft if
+you are aware the aircraft is at an altitude which, in your judgment, places it in
+unsafe proximity to terrain/obstructions. Issue the alert as follows:
+PHRASEOLOGY-
+(Identification) LOW ALTITUDE ALERT, CHECK YOUR ALTITUDE
+IMMEDIATELY. THE (as appropriate) MEA/MVA/MOCA [minimum
+obstruction clearance altitude]/MIA IN YOUR AREA IS (altitude).
+FAA AIM chapter 5-5-14 states that controllers should do the following:
+2. At locations without airport traffic control service but within Class E surface
+area when necessary to specify direction of takeoff, turn, or initial heading to be
+flown, obtains pilot’s concurrence that the procedure will allow the pilot to
+comply with…terrain and obstruction avoidance.
+SDM Instrument Approach Procedures
+A review of SDM’s instrument approach procedures published by Jeppesen Sanderson
+and the U.S. Government Flight Information Publication of U.S. Terminal Procedures revealed
+that terrain contours were not depicted, and were not required to be depicted, in the graphics
+portion of the procedures. On the U.S. Terminal Procedures graphics, the peak elevation of
+3,566 feet msl was depicted as a dot with the elevation number about 7 nm east of SDM. Since
+the time of the accident, the graphics portion of the U.S. Terminal Procedures for SDM was
+revised to include terrain contour graphics.
+The GPS RWY 8L instrument approach procedures listed a minimum safe altitude of
+7,400 feet msl in all sectors within 25 nm of the runway. The VOR or GPS–A instrument
+approach procedure indicated the following minimum safe altitudes for each sector within 25 nm
+of the Poggi very high frequency omnidirectional range/tactical navigation aid (VORTAC),
+which is located 3 nm north of SDM: 7,600 feet msl for the northeast sector, 5,300 feet msl for
+the southeast sector, 2,500 feet msl for the southwest sector, and 4,700 feet msl for the northwest
+sector.
+The published instrument approach procedures for SDM also included “Takeoff
+Minimums and (Obstacle) Departure Procedures” for IFR aircraft. According to the publication,
+NTSB/AAB-06/05
+
+16
+airport departure procedures are designed “specifically to assist pilots in avoiding obstacles
+during the climb to the minimum enroute altitude.”
+The takeoff minimums at SDM showed that, for a departure from runway 8L or 8R in a
+category C or D aircraft, which includes the Learjet 35A, pilots are required to have ceilings of at
+least 3,100 feet agl and 3 miles visibility or standard requirements with a minimum climb of
+520 feet per nm to 3,900 feet msl. The departure procedures for aircraft departing from
+runway 8L or 8R included a climbing left turn. The procedures stated that all aircraft must climb
+on a heading of 280º to intercept the 160º degree radial of the Mission Bay VORTAC and fly
+northwest to the VORTAC.
+Previous Accident Near SDM
+A review of Safety Board accident data revealed that, on March 16, 1991, at 0143 Pacific
+standard time, a Hawker Siddeley DH125-1A/522 transport-category turbojet airplane crashed
+into mountainous terrain about 8 nm northeast of SDM, killing 10 people.13 The Hawker
+accident site was located within 1.5 miles of the Learjet accident site. The Hawker accident site
+was at the 3,300-foot level of Otay Mountain and about 172 feet below the mountain’s top.
+The flight crew of the Hawker filed an IFR flight plan with the San Diego FSS, and the
+FSS briefer suggested that the pilot depart under VFR and pick up his IFR clearance in the air.
+The pilot stated that he was not familiar with SDM’s departure procedures. The pilot later
+telephoned the FSS again and informed the briefer that he could not find information regarding a
+standard instrument departure procedure for SDM, and the FSS briefer then read to the pilot the
+departure procedures for runways 8 and 26. The pilot later telephoned the FSS a third time and
+informed the same briefer that, if he followed the procedures, he would enter the terminal control
+area (now class B airspace) without a clearance. The pilot stated that it would be better if he
+headed northeast and stayed below 3,000 feet, and the briefer responded, “yeah, sure that’ll be
+fine.”
+The flight crew of the Hawker departed runway 8L under VFR, contacted terminal radar
+approach control, and informed the controller that the flight was waiting for its IFR clearance.
+When the controller asked the flight crew about the flight’s position, no response was received.
+The Safety Board determined that the probable cause of the Hawker accident was the
+pilot’s improper planning/decision, the pilot’s failure to maintain proper altitude clearance over
+mountainous terrain, and the copilot’s failure to adequately monitor the progress of the flight.
+Contributing to the accident were the insufficient terrain information provided by the FSS
+specialist during the preflight briefing after the pilot inquired about a low-altitude departure, both
+pilots’ lack of familiarity with the geographical area, and the dark night conditions.
+13 Additional information about this accident, LAX91FA132, can be found on the Safety Board’s Web site at
+<http://www.ntsb.gov>.
+NTSB/AAB-06/05
+
+17
+ANALYSIS
+The airplane departed under VFR at night and was being handled by an air traffic
+controller when it crashed into terrain at the 2,256-foot level of a mountain that was located 8 nm
+east of SDM. The initial impact was about 100 feet below the base of an overcast cloud layer.
+The flight crew decided to depart under VFR from runway 8L after unsuccessful attempts to
+obtain an IFR clearance using the communication radios. The flight crew did not attempt to
+obtain the IFR clearance by telephone, even though they had cellular and satellite telephones on
+board the airplane.
+According the FAA’s AIM chapter 5-5-14, the recommended procedure for departing
+under VFR at night in areas of mountainous terrain is to adhere to the airport’s takeoff
+minimums and departure procedures for IFR aircraft. The published departure procedures for
+runway 8L included a climbing left turn to a heading of 280º, which was a nearly complete
+course reversal to avoid the mountains east and northeast of SDM. The accident captain and
+copilot did not follow the recommended departure procedure and instead flew the airplane
+straight out on a heading toward the mountains and leveled off at an altitude of 2,300 feet msl,
+presumably to maintain VFR below the cloud ceiling.
+The CVR recording revealed that the captain and the copilot did not listen to the weather
+portion of the ATIS, which reported overcast ceilings at 2,100 feet agl. The CVR recording
+revealed, however, that they had some awareness of the cloud cover; specifically, during his
+takeoff briefing to the copilot, the captain stated, “if you can’t punch up through a nice hole then
+just…stay at a reasonably safe altitude and…I’ll do the best I can to get somebody’s attention.”
+Shortly after the VFR takeoff, the captain contacted an air traffic controller at the SCT
+TRACON to obtain the flight’s IFR clearance. The controller identified the airplane on his radar
+screen and instructed the flight crew to turn to a heading of 020º, maintain VFR, and expect an
+IFR clearance above 5,000 feet. The captain acknowledged the heading instructions; however,
+the heading issued by the controller resulted in a flight track that allowed the airplane to continue
+directly toward mountains that included terrain elevations as high as 3,566 feet msl. At the time
+the controller issued the heading, the airplane was about 4.5 nm east of SDM and was no longer
+climbing after having leveled off at 2,300 feet msl, yet the controller took no action to warn the
+flight crew of the airplane’s proximity to the rising terrain. Also about that time, the controller’s
+computer system generated aural and visual MSAW alerts on his display, yet the controller took
+no action to warn the flight crew about the MSAW alerts. The last radar return from the flight
+was received about 19 seconds later.
+During a postaccident interview, the controller stated that he was aware of the
+mountainous terrain east of SDM. When asked why he took no action to warn the flight crew of
+the rising terrain, he stated that it was the flight crew’s responsibility to avoid terrain when
+operating under VFR. The controller also stated that he was aware of the cloud ceiling at
+2,100 feet agl and that he expected the flight crew to maintain VFR and to advise him if they
+were unable to do so. The controller stated he did not distinguish between day or night
+operations when providing VFR advisories to pilots and that he did not think it was necessary to
+NTSB/AAB-06/05
+
+18
+do so. The Safety Board notes that such a distinction is necessary because the horizon is less
+visible and less distinct at night than during the day. At night, clouds and terrain are difficult for
+pilots to see, and a gradual loss of visual cues can occur as flight is continued toward darker
+terrain. Given that the accident flight occurred at night, over rural terrain, and with few visual
+cues and that the overcast cloud layer would have prevented moonlight from illuminating the
+terrain, it is likely that the flight crew did not see the rising terrain as the airplane continued
+toward it.
+When the controller was asked why he did not advise the flight crew of the MSAW
+alerts, he stated that he did not hear or observe the MSAW alerts because he was talking with a
+controller at another control facility when the alerts began. A review of radar and
+communications data, however, did not support the controller’s statement. The data revealed that
+the MSAW alerts occurred 34 seconds before the controller initiated the call to the other control
+facility, and radar contact with the flight had been lost for 15 seconds before the controller began
+coordinating the accident airplane’s position with the other controller. Moreover, the controller
+was not handling any other aircraft for the duration of the accident flight; thus, it is unlikely that
+workload demands distracted him from his display. These data suggest that the controller may
+have been aware of the MSAW alerts but disregarded them because of his belief that it was not
+his responsibility to provide alerts to flight crews operating under VFR. According to FAA
+Order 7110.65P, chapter 2-1-6, the issuance of a safety alert is a controller’s first priority
+regardless of whether the flight is operating under VFR or IFR.
+Although the flight crew is responsible for maintaining terrain clearance while operating
+under VFR, FAA Order 7110.65P, chapter 4-2-8, states that, when an aircraft is operating under
+VFR below minimum IFR altitudes and the flight crew requests an IFR clearance, the controller
+should ask the crewmembers if they would be able to maintain terrain and obstruction clearance
+during the climb to the minimum IFR altitude. The order also states that, if the controller
+provides an instruction (such as turn to a heading of 020º), the responsibility for terrain clearance
+is transferred to the FAA. The order advises controllers not to “assign (or imply) specific course
+guidance that will (or could) be in effect below the MIA or MEA.” During a postaccident
+interview, the controller stated he was unaware of this responsibility.
+Regardless of his failure to appropriately apply the procedures for handling a VFR-IFR
+flight, the controller was aware of the topography near SDM and that the airplane was quickly
+approaching a mountainous area; thus, he should have taken action to alert the flight crew. The
+controller’s explanation that he was not required to monitor or provide terrain clearance
+assistance to a VFR flight is contrary to the primary purposes of ATC, which are to prevent a
+collision and to remain vigilant for situations that warrant the issuance of alerts to flight crews
+regarding hazardous proximity to terrain, obstacles, and other aircraft. The controller’s apparent
+perception that flight crews operating under VFR are always able to avoid terrain and obstacles
+regardless of flight conditions is incorrect, and his failure to take appropriate action placed the
+airplane in an unsafe situation. The controller had the knowledge and opportunity to alert the
+flight crew to an unsafe condition, but he failed to do so.
+NTSB/AAB-06/05
+
+19
+At the time of the accident, the captain had been awake about 17.5 hours, the copilot had
+been awake about 16 hours, and both pilots had accumulated about 11 hours duty time. The CVR
+transcript revealed that the copilot yawned five times within 6 minutes during the departure
+discussion with the captain. Although the duty and rest times of both flight crewmembers were in
+compliance with 14 CFR 135.267 (which was applicable to the trip legs before the accident flight
+that were subject to Part 135 rules), the accident flight departed about 3 hours past both
+crewmembers’ normal bedtimes at the end of a long duty day.
+Research indicates that the normal waking day is between 14 and 16 hours and that, if the
+normal waking day were extended, human performance could be degraded.14 A Safety Board
+study of major aviation accidents demonstrated that procedural tactical decision and
+monitoring/challenging errors were the most common errors for flight crewmembers who had
+been awake for more than 11 hours.15 On the basis of the time of the accident and the number of
+hours that the captain and the copilot had been awake, it is likely that physiological and
+psychological fatigue had adversely affected the ability of both pilots to properly plan the
+departure and assess the risks associated with it. Research has shown that fatigue can cause pilots
+to make risky, impulsive decisions and to become fixated on one aspect of a situation.
+Additionally, research has shown that people who are fatigued become less able to consider
+options and are more likely to become fixated on a course of action or a desired outcome.16
+The airplane was not equipped with a TAWS, which was not required equipment at the
+time of the accident but is required now for all U.S.-registered turbine-powered airplanes
+configured with six or more passenger seats. The accident flight was the second accident in
+which a transport-category airplane collided with the mountains east of SDM while departing
+under VFR to pick up an IFR clearance during night conditions.
+The aviation services agreement under which ATIJ leased the airplane from MFAA
+stated that ATIJ “shall retain operational control of the aircraft under Part 135.” According to the
+agreement, MFAA, which owned the airplane and employed the captain, the copilot, and the
+medical crewmembers, paid ATIJ a management fee of $2,500 per month and maintained
+insurance on the airplane. Because of conflicting language between ATIJ’s operating
+specifications (which stated that the company was authorized to perform repositioning flights
+under Part 91) and the aviation services agreement with MFAA (which referred only to Part 135
+flights), the Safety Board requested repeatedly that the FAA determine which company was the
+operator of the Part 91 accident flight. The FAA did not make such a determination. In the
+absence of an answer from the FAA, it was the joint position of MFAA and ATIJ that, at the
+time of the accident, MFAA was the operator. ATIJ has since amended its aviation services
+agreement with MFAA to state that ATIJ is the operator of Part 91 repositioning flights.
+14 G.P. Kruger, “Sustained work, fatigue, sleep loss, and performance: A review of the issues,” Work and Stress
+(1989), vol. 3, pp. 129 – 141.
+15 National Transportation Safety Board, A Review of Flightcrew-Involved Major Accidents of U.S. Air
+Carriers, 1978 Through 1990, Safety Study NTSB/SS-94-01 (Washington, DC: NTSB, 1994).
+16 J.A. Caldwell, “Fatigue in the aviation environment: An overview of the causes and effect as well as
+recommended countermeasures,” Aviation, Space, and Environmental Medicine, vol. 68, pp. 932-938.
+NTSB/AAB-06/05
+
+20

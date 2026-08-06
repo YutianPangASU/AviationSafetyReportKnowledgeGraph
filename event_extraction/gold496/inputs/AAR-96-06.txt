@@ -1,0 +1,2710 @@
+/ \
+PB96-910406
+NTSB/AAR-96/06
+DCA95MA054
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+IN-FLIGHT LOSS OF PROPELLER BLADE
+FORCED LANDING, AND COLLISION WITH TERRAIN
+ATLANTIC SOUTHEAST AIRLINES, INC., FLIGHT 529
+EMBRAER EMB-120RT, N256AS
+CARROLLTON, GEORGIA
+AUGUST 21, 1995
+6609B
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety
+Board makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)382-6735
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSB/AAR-96/06 PB96-910406
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+IN-FLIGHT LOSS OF PROPELLER BLADE
+FORCED LANDING
+AND COLLISION WITH TERRAIN
+ATLANTIC SOUTHEAST AIRLINES, INC., FLIGHT 529
+EMBRAER EMB-120RT, N256AS
+CARROLLTON, GEORGIA
+AUGUST 21, 1995
+Adopted: November 26, 1996
+Notation 6609B
+Abstract: This report explains the accident involving Atlantic Southeast Airlines flight
+529, an EMB-120RT airplane, which experienced the loss of a propeller blade and
+crashed during an emergency landing near Carrollton, Georgia, on August 21, 1995.
+Safety issues in the report focused on manufacturer engineering practices, propeller
+blade maintenance repair, propeller testing and inspection procedures, the relaying of
+emergency information by air traffic controllers, crew resource management training, and
+the design of crash axes carried in aircraft. Recommendations concerning these issues
+were made to the Federal Aviation Administration.
+
+
+
+CONTENTS
+EXECUTIVE SUMMARY.................................................................. v
+1. FACTUAL INFORMATION
+1.1 History of Flight..................................................................................... 1
+1.2 Injuries to Persons .................................................................................. 5
+1.3 Damage to Airplane................................................................................ 5
+1.4 Other Damage......................................................................................... 6
+1.5 Personnel Information............................................................................ 6
+1.6 Airplane Information.............................................................................. 7
+1.6.1 General.................................................................................................... 7
+1.6.2 Weight and Balance................................................................................ 8
+1.6.3 Propeller Design..................................................................................... 8
+1.6.4 Airplane and Propeller Design Requirements on Released Blades....... 10
+1.6.5 Airworthiness Standards for Engines and Propellers............................. 12
+1.7 Meteorological Information ................................................................... 13
+1.8 Aids to Navigation.................................................................................. 15
+1.9 Communications..................................................................................... 15
+1.10 Airport Information................................................................................ 16
+1.11 Flight Recorders ..................................................................................... 16
+1.12 Wreckage and Impact Information......................................................... 17
+1.12.1 Fuselage.................................................................................................. 18
+1.12.2 Wings...................................................................................................... 19
+1.12.3 No. 1 (Left) Engine Nacelle ................................................................... 19
+1.12.4 No. 2 (Right) Engine Nacelle................................................................. 20
+1.13 Medical and Pathological Information................................................... 20
+1.14 Fire.......................................................................................................... 21
+1.15 Survival Aspects..................................................................................... 21
+1.16 Tests and Research................................................................................. 23
+1.16.1 Laboratory Examination of the Fractured Propeller Blade.................... 23
+1.16.2 Previous Failures of Similar Model Propellers...................................... 26
+1.16.3 Blade Inspection and Repair - Actions Taken by
+Hamilton Standard and the FAA........................................................... 28
+1.16.4 The Failed Propeller, Information, and Service History........................ 36
+1.16.5 Results of 14RF-9/EMB-120 Stress Survey .......................................... 39
+1.17 Organizational and Management Information....................................... 44
+1.17.1 Hamilton Standard Division, United Technologies Corporation.......... 44
+1.17.2 Hamilton Standard Propeller Customer Service Center........................ 45
+1.17.2.1 Employee Training at Hamilton Standard Customer Service Center.... 45
+iii
+
+1.17.3 Designated Engineering Representative ................................................ 46
+1.17.4 FAA Certification Engineer ................................................................... 47
+1.18 Additional Information........................................................................... 48
+1.18.1 Safety Board Recommendations............................................................ 48
+1.18.2 Postaccident Hamilton Standard and FAA Actions............................... 50
+2. ANALYSIS
+2.1 General.................................................................................................... 53
+2.2 Analysis of the Propeller Blade Failure................................................. 53
+2.2.1 The Accident Blade’s June 1994 Inspection, Repair,
+and Return to Service ........................................................................... 54
+2.2.1.1 Inappropriate Use of PS960A Blending Repair .................................... 54
+2.2.1.2 Sanding (Blending) of the Accident Blade............................................ 56
+2.2.2 Adequacy of Hamilton Standard Procedures for Detecting Corrosion. 59
+2.2.2.1 Borescope Inspection.............................................................................. 59
+2.2.2.2 Technician Training and Supervision.................................................... 60
+2.2.2.3 Adequacy of Improvements to Inspection Procedures.......................... 61
+2.3 Effect of Blade Resonance..................................................................... 62
+2.4 Adequacy of Vibration Testing.............................................................. 65
+2.5 Effect of Blade Failure and Analysis of Terminating Action................ 66
+2.6 FAA Oversight........................................................................................ 68
+2.6.1 Role of Designated Engineer Representative and FAA
+Certifying Engineer............................................................................... 68
+2.7 Weather................................................................................................... 69
+2.8 Air Traffic Control Services................................................................... 70
+2.9 Survival Factors Aspects........................................................................ 72
+2.9.1 Time Management During Emergencies................................................ 72
+2.9.2 Crash Axes.............................................................................................. 74
+3. CONCLUSIONS
+3.1 Findings.................................................................................................. 75
+3.2 Probable Cause....................................................................................... 79
+4. RECOMMENDATIONS ..................................................................... 80
+5. APPENDIXES
+Appendix A--Investigation and Hearing................................................ 83
+Appendix B--Cockpit Voice Recorder Transcript................................. 84
+Appendix C--Fracture Summary............................................................ 110
+Appendix D--EMB-120/14RF-9 Stress Resurvey................................. 111
+iv
+
+EXECUTIVE SUMMARY
+On August 21, 1995, about 1253 eastern daylight time, an
+Empresa Brasileira de Aeronautica S. A. (Embraer) EMB-120RT, N256AS,
+airplane operated by Atlantic Southeast Airlines Inc., (ASA) as ASE flight
+529, experienced the loss of a propeller blade from the left engine propeller
+while climbing through 18,100 feet. The airplane then crashed during an
+emergency landing near Carrollton, Georgia, about 31 minutes after
+departing the Atlanta Hartsfield International Airport, Atlanta, Georgia.
+The flight was a scheduled passenger flight from Atlanta to Gulfport,
+Mississippi, carrying 26 passengers and a crew of 3, operating according to
+instrument flight rules, under the provisions of Title 14 Code of Federal
+Regulations Part 135. The flightcrew declared an emergency and initially
+attempted to return to Atlanta. The flightcrew then advised that they were
+unable to maintain altitude and were vectored by air traffic control toward
+the West Georgia Regional Airport, Carrollton, Georgia, for an emergency
+landing. The airplane continued its descent and was destroyed by ground
+impact forces and postcrash fire. The captain and four passengers sustained
+fatal injuries. Three other passengers died of injuries in the following 30
+days. The first officer, the flight attendant, and 11 passengers sustained
+serious injuries, and the remaining 8 passengers sustained minor injuries.
+The National Transportation Safety Board determines that the
+probable cause of this accident was the in-flight fatigue fracture and
+separation of a propeller blade resulting in distortion of the left engine
+nacelle, causing excessive drag, loss of wing lift, and reduced directional
+control of the airplane. The fracture was caused by a fatigue crack from
+multiple corrosion pits that were not discovered by Hamilton Standard
+because of inadequate and ineffective corporate inspection and repair
+techniques, training, documentation, and communications.
+Contributing to the accident was Hamilton Standard’s and the
+Federal Aviation Administration’s failure to require recurrent on-wing
+ultrasonic inspections for the affected propellers.
+Contributing to the severity of the accident was the overcast
+cloud ceiling at the accident site.
+v
+
+Safety issues in the report focused on manufacturer engineering
+practices, propeller blade maintenance repair, propeller testing and
+inspection procedures, the relaying of emergency information by air traffic
+controllers, crew resource management training, and the design of crash
+axes carried in aircraft. Recommendations concerning these issues were
+made to the Federal Aviation Administration.
+vi
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+IN-FLIGHT LOSS OF PROPELLER BLADE
+FORCED LANDING
+AND COLLISION WITH TERRAIN
+ATLANTIC SOUTHEAST AIRLINES, INC., FLIGHT 529
+EMBRAER EMB-120RT, N256AS,
+CARROLLTON, GEORGIA
+AUGUST 21, 1995
+1. FACTUAL INFORMATION
+1.1 History of Flight
+On August 21, 1995, about 12531 eastern daylight time, an Empresa
+Brasileira de Aeronautica S.A. (Embraer) EMB-120RT, N256AS, airplane
+operated by Atlantic Southeast Airlines Inc., (ASA2) as ASE3 flight 529,4
+experienced the loss of a propeller blade from the left engine propeller while
+climbing through 18,100 feet. The airplane then crashed during an emergency
+landing near Carrollton, Georgia, about 31 minutes after departing the Atlanta
+Hartsfield International Airport (ATL), Atlanta, Georgia. The flight was a
+scheduled passenger flight from ATL to Gulfport, Mississippi (GPT), carrying 26
+passengers and a crew of 3, operating according to instrument flight rules (IFR),
+under the provisions of Title 14 Code of Federal Regulations (CFR) Part 135. The
+flightcrew declared an emergency and initially attempted to return to Atlanta. The
+flightcrew then advised air traffic control (ATC) that they were unable to maintain
+altitude and were vectored toward the West Georgia Regional Airport (CTJ),
+Carrollton, Georgia, for an emergency landing. The airplane continued its
+1All times are reported in eastern daylight time unless noted.
+2The Atlantic Southeast Airlines Inc., corporate logo and airplane paint scheme are
+represented by the letters ASA.
+3The air traffic control system call sign for flights of Atlantic Southeast Airlines is ASE.
+4Because a code sharing agreement existed between ASA and Delta Air Lines, passenger
+flight schedules also identified the airplane as Delta flight 7529.
+
+2
+descent, passed through some trees, and was destroyed by impact forces with the
+ground and postcrash fire. The captain and four passengers sustained fatal
+injuries. Three other passengers died of injuries in the following 30 days. The
+first officer, the flight attendant, and 11 passengers sustained serious injuries,5 and
+the remaining 8 passengers sustained minor injuries.
+On August 21, 1995, the accident flightcrew began a 2-day trip at
+Macon, Georgia (MCN). They operated the accident airplane, N256AS, as flight
+ASE 211 from MCN to ATL. A jump seat rider, an ASA captain, reported that the
+flight was uneventful and that the crew appeared to be rested and in a relaxed
+mood during the flight.
+In ATL, the captain remained in the airplane on the ground to receive
+the ATC clearance; the first officer deplaned and remained in the immediate area.
+The accident flight, ASE 529, was cleared IFR from ATL to GPT via the Atlanta 4
+departure and flight planned route at flight level 240.6 The estimated flight time
+was 1 hour and 26 minutes. The ASA EMB-120 load manifest prepared by the
+first officer recorded 26 passengers, 3 crewmembers, 724 pounds of cargo, and
+2,700 pounds of fuel for departure.
+ASE 529 taxied from the ramp area at 1210 and was airborne at 1223.
+At 1236, the first officer reported to the west departure sector of the Atlanta air
+route traffic control center (Atlanta Center) that they were climbing past 13,000
+feet. About 1242, following several intermediate climb clearances, the controller
+issued a clearance to climb and maintain flight level 240, which the flightcrew
+acknowledged.
+The flight data recorder (FDR) and the cockpit voice recorder (CVR)
+data7 indicated that at 1243:25, while climbing through 18,100 feet at 160 knots
+indicated airspeed (KIAS), several thuds could be heard from the cockpit, and the
+torque on the left engine decreased to zero. The airplane then rolled to the left,
+pitched down, and subsequently started to descend. Immediately thereafter, the
+FDR shows numerous flight control inputs consistent with an attempt to
+counteract the flightpath deviations; however, the airplane attitude decreased to
+5Section 1.2 contains more details regarding serious injuries.
+6Flight level 240 represents a barometric altimeter indication of 24,000 feet.
+7Appendix B contains the transcript of the CVR. All relevant ATC communications with
+ASE 529 are contained in the transcript.
+
+3
+about 9 degrees nose low, and the airplane began a descent rate that progressed to
+about 5,500 feet per minute (fpm). The captain said, “I can’t hold this thing,” then
+“help me hold it.” At 1244:26, the first officer declared an emergency with
+Atlanta Center and stated, “we’ve had an engine failure.” Atlanta Center cleared
+ASE 529 direct to the Atlanta airport.
+According to data from the FDR and CVR, airspeed and descent rate
+changes continued and were accompanied by abrupt excursions in vertical and
+lateral acceleration values. At 1245:46, the CVR revealed that the first officer
+informed the flight attendant that they had experienced an engine failure, had
+declared an emergency and were returning to ATL, and he told her to brief the
+passengers. At 1246:13, the first officer stated, “we’re going to need to keep
+descending, we need an airport quick and uh, roll the trucks and everything for
+us.” The controller provided the flightcrew with heading information to CTJ. The
+flightcrew applied various combinations of flight control inputs and power on the
+right engine, partially stabilizing the airplane descent rate to between 1,000 and
+2,000 fpm and the airspeed to between 153 and 175 knots indicated airspeed
+(KIAS).
+The Atlanta Center controller lost ASE 529’s transponder code from
+radar when the airplane descended through 4,500 feet. About 1250, he instructed
+the flightcrew to contact Atlanta approach control. The flightcrew contacted
+Atlanta approach and requested the localizer frequency and vectors for the West
+Georgia Regional Airport. The controller issued the localizer frequency. The
+flightcrew acknowledged and then requested vectors for a visual approach. The
+controller verified the altitude of the airplane and that the flight was in visual
+flight rules (VFR) conditions and said, “fly heading zero four zero...airport’s at
+your about 10 o’clock six miles....” At 1251:47, ASE 529 acknowledged, “zero
+four zero ASE 529.” This transmission was the last one received by the approach
+controller from the accident flight. After 1251:30, airspeed steadily decreased
+from 168 KIAS to about 120 KIAS. FDR and CVR information indicated that the
+landing gear and flaps remained retracted. CVR sounds indicated that the first
+ground impact occurred about 1252:45.
+In postcrash interviews, survivors indicated that during the climbout,
+they heard a loud sound and felt the airplane shudder. They also indicated that
+two or three blades from the left propeller were wedged against the front of the
+
+4
+Figure 1.--Propeller installation - left wing.
+
+5
+wing. The flight attendant said that she looked out the left side of the aircraft and
+observed, “a mangled piece of machinery where the propeller and the front part of
+the cowling was.” Other passengers observed the propeller displaced outboard
+from its original position on the engine (see Figure 1). The flight attendant stated
+that after the first officer notified her of the flight’s emergency return to ATL (at
+1245:46), she prepared the cabin for an emergency landing and evacuation. She
+stated that she had no further dialogue with the flightcrew.
+Investigators found the left engine propeller assembly early in the
+ground debris path. The propeller hub contained three complete blades and about
+1 foot of the inboard end of the fourth blade protruding from the hub. The
+remainder of the fourth blade was not at the accident site. (See Section 1.12 for
+more wreckage information.)
+The accident took place in daylight visual conditions. The crash site
+was located at 33 degrees, 34’, 50.5” north latitude and 85 degrees, 12’, 51.2” west
+longitude. A topographical map indicated that the elevation of the site was 1,100
+feet above sea level.
+1.2 Injuries to Persons
+Injuries Flightcrew Cabincrew Passengers Other Total
+Fatal 1 0 7 0 8
+Serious 1 1 118 0 13
+Minor 0 0 8 0 8
+None 0 0 0 0 0
+Total 2 1 26 0 29
+1.3 Damage to Airplane
+The airplane was destroyed by the impact and postcrash fire. Its
+estimated value was $5,000,000.
+8One passenger died 4 months after the accident as a result of her injuries. She sustained
+third-degree burns over 50 percent of her body, as well as inhalation injuries. In accordance with
+49 CFR 830.2, which defines “fatal injury” as any injury that results in death within 30 days of
+the accident, her injuries were classified as “serious.”
+
+6
+1.4 Other Damage
+The crash site was located on 20 acres of unimproved farmland with
+trees, adjacent to an open field. There was environmental damage from airplane
+fuel and fire-fighting efforts along the wreckage path, and immediately adjacent to
+the wreckage.
+1.5 Personnel Information
+The captain, age 45, held an airline transport pilot certificate for
+airplane multiengine land, type rated in the EMB-120, with commercial privileges
+for airplane single-engine land. He held a flight instructor certificate with ratings
+for airplane, instrument, and multiengine. His most recent Federal Aviation
+Administration (FAA) first-class medical certificate was issued on April 3, 1995,
+with the limitation: “Holder shall wear correcting lenses for near vision while
+exercising the privileges of his airman certificate.” The captain’s overnight bag,
+found in the wreckage, contained an empty eyeglasses case.
+The captain was employed by ASA in March 1988. Company records
+indicate that at the time of the accident, he had accumulated 9,876.13 total hours
+of flying experience, with 7,374.68 hours in the EMB-120 of which 2,186.94
+hours was pilot in command. His last proficiency check was on March 3, 1995,
+and his most recent training, on August 7, 1995, was Line Oriented Flight
+Training (LOFT).
+The first officer,9 age 28, held a commercial pilot certificate with
+ratings for airplane, single-engine land, airplane multiengine land, and instrument-
+airplane. He held a flight instructor certificate with ratings for airplane,
+multiengine, and instrument. His most recent FAA first-class medical certificate
+was issued on June 15, 1995, without limitations.
+The first officer was employed by ASA in April 1995. Company
+records indicate that at the time of the accident, he had accumulated 1,193 total
+hours of flying experience, with 363 hours in the EMB-120. He received his ASA
+first officer training in April 1995, and completed his initial operating experience
+on May 4, 1995.
+9Because of his severe injuries that included burns and inhalation damage, Safety Board
+investigators were unable to interview the first officer.
+
+7
+The flight attendant, age 37, was employed by ASA on February 8,
+1993. She completed her initial training, which included emergency procedures
+training, on February 23, 1993. She had no prior experience as a flight attendant.
+Her most recent recurrent training on the EMB-120 was on January 26, 1995.
+Activities of the crew in the days before the accident were routine and
+unremarkable. They appeared to have received normal rest.
+1.6 Airplane Information
+1.6.1 General
+The airplane, N256AS, was an Embraer EMB-120RT “Brasilia,”
+serial number 120122, manufactured and certificated in Brazil. The airplane was
+certificated in the United States in accordance with a bilateral airworthiness
+agreement between the FAA and the Brazilian certification authorities. The
+airplane was delivered to ASA on March 3, 1989.
+Prior to the day of the accident, the airplane had accumulated
+17,151.3 flight hours and 18,171 flight cycles. Maintenance records indicate that
+maintenance inspections were accomplished in accordance with ASA’s Standard
+Practice No. 624, Airplane Maintenance Program, an FAA-approved maintenance
+plan.
+The airplane had been assigned to ASA’s Dallas-Fort Worth, Texas,
+hub until 1 week prior to the accident when it was transferred to ASA’s Atlanta
+hub in preparation for a “C” check (required at 3,300-hour intervals). The
+inspection was scheduled to take place the coming week at the ASA maintenance
+facility at MCN but the accident intervened. Safety Board investigators reviewed
+the airplane records at MCN and found no remarkable discrepancies or minimum
+equipment list (MEL) items carried forward in the records.
+As part of the ASA maintenance program, a line check10 is required at
+75-hour intervals. A line check was accomplished by employees of ASA’s MCN
+maintenance facility on the night of August 20, 1995, during an overnight stop.
+According to ASA maintenance work cards, the line check included a specific
+10An ASA line check for the EMB-120 airplane consists of detailed visual inspections in
+14 areas to detect leaks, damage, and ensure the continuing airworthiness of all systems.
+
+8
+visual inspection of the left and right propellers for any evidence of oil leaks or
+damage; and none were noted. Maintenance records indicate that a maintenance
+daily inspection11 was performed at MCN on August 21, 1995, the date of the
+accident, by ASA line mechanics prior to the first flight of the day. Maintenance
+personnel indicated that a flightcrew walk around inspection was also
+accomplished by the first officer prior to departing MCN. Neither of these
+inspections noted anything remarkable.
+1.6.2 Weight and Balance
+ASA dispatch records indicate that the takeoff weight of N256AS at
+ATL was 24,237 pounds. The maximum takeoff weight, as stated in the airplane
+flight manual (AFM), is 25,353 pounds. The planned landing weight was 22,637
+pounds; the AFM maximum landing weight is 24,802. The takeoff percent mean
+aerodynamic chord (MAC) was 28.65; the AFM forward and aft center of gravity
+limits are 21.0 and 42.0 percent MAC respectively. The airplane was within its
+prescribed weight and center of gravity limitations at takeoff and at the time of the
+accident.
+1.6.3 Propeller Design
+Hamilton Standard manufactures a family of composite propeller
+blades, including the 14RF (the accident propeller blade), 14SF, and 6/5500/F,
+that are intended for use on turbopropeller commuter airplanes. The solid, forged
+7075-T73 aluminum alloy spar is the main load-carrying member. The airfoil
+shape of the blade is formed by glass fiber-filled epoxy and foam adhesively
+bonded to the spar (see Figure 2). A conical hole (taper bore) is bored in the
+center of the spar from the inboard end to blade station 21,12 for weight reduction
+and balance weight installation. The taper bore on the 14RF blade can be one of
+two different shaped designs: straight taper bore known as the “M” style13) and a
+11An ASA maintenance daily inspection is performed prior to the first flight of the day. It
+consists of external and internal visual inspections, checks of system operating pressures and
+fluid levels, and an operational check of radio and navigational equipment.
+12Blade stations on the 14RF model propeller are measured in inches from a reference
+point 3.427 inches inboard of the blade pin platform on the inboard end of the blade.
+13Produced from February 1986 to February 1987 through serial number 85344.
+
+9
+HAMILTON STANDARD
+14RF-9
+63.00 STA PROPELLER BLADE
+UNTWISTED PLANFORM
+WITH SECTION THRU
+60.00 STA
+SHANK & TAPERBORE
+OF THE ALUMINUM SPAR
+LEADING EDGE
+NICKEL SHEATH +1
+48.00 STA
+36.00 STA
+ALUMINUM SPAR
+EROSION STRIP
+DE-ICE HEATER
+d
+24.00 STA —
+16.60 STA — SEPARATION
+TAPER BORE
+12.00 STJA ;
+00.00 STA
+Figure 2.--Illustration of a 14RF-9 propeller blade.
+
+10
+bellmouth shape (known as the “N” style). Also, during very early production, the
+taper bore was shotpeened.14 However, early in the production run, Hamilton
+Standard reviewed the production process, deemed shotpeening unnecessary, and,
+with FAA approval, it was discontinued. The accident blade was originally an N
+style blade, but it was rebalanced on customer request for ASA fleet
+standardization to the M style and reidentified as an M blade. The accident blade
+taper bore was not shotpeened during production.
+The taper bore provides space for a measured amount of lead wool to
+be inserted for blade balancing. Until April 1994, a cork was used to retain the
+lead wool in the taper bore; however, it was later eliminated15 because it was found
+to be a source of chlorine (and potential corrosion) in the taper bore, as well as
+unnecessary to retain the lead wool. The model 14RF, 14SF and 6/5500/F
+propellers, which vary in length from 10.5 to 13 feet, operate at a maximum of
+1,200 to 1,384 rpm. As of July 1996, the 14RF, 14SF and 6/5500/F propeller
+assemblies were installed on 9 types of commuter aircraft, operated by 143
+operators, on approximately 1,300 aircraft, for an industry total of about 15,000
+blades worldwide.
+According to information provided to the Safety Board in February,
+1995, Hamilton Standard statistical data from field service experience indicate that
+blades without shotpeened taper bores are susceptible to earlier corrosion and
+cracking.
+1.6.4 Airplane and Propeller Design Requirements on Released Blades
+When the EMB-120 was certificated in the United States, the effect
+on safe flight of a failed or released propeller blade was addressed in FAR
+25.571(e)(2), “Damage tolerance (discrete source) evaluation,” which, at that time,
+required that the airplane be capable of successfully completing a flight during
+which likely structural damage occurs as a result of a propeller blade impact.
+14Shotpeening is a metallurgical surface treatment to improve resistance to cracking. The
+surface to be treated is bombarded with air-propelled glass beads or steel shot. Only the first 431
+production blades were shotpeened.
+15Use of cork was discontinued in the manufacturing process between April 1994 and
+November 1995. Existing corks have been removed from all model 14RF blades, and will be
+removed from other models pursuant to PS960A and later AD 95-05-03, which sets forth end
+dates for each propeller model.
+
+11
+Embraer petitioned the FAA on January 11, 1983, to permit type certification of
+the EMB-120 without compliance with that requirement. On March 22, 1983, the
+FAA exempted the EMB-120 from compliance with FAR 25.571(e)(2) through
+Grant of Exemption No. 3722, which also contained the statement that, “all
+practical precautions must be taken in the design of the airplane taking into
+account the design features of the propeller and its control system to reduce the
+hazard which might arise from failure of a propeller hub or blade.”
+In 1990, the (e)(2) requirement was eliminated from FAR 25.571.
+The FAA noted at that time (in the preamble to this and other regulatory changes),
+that service experience had shown compliance to be “impossible,” and that “[a]s a
+result of the granting of exemptions for good cause, no manufacturer has, in fact,
+been required to show compliance with the current requirement.” At the same
+time, however, the FAA promulgated FAR 25.905(d), which requires that “design
+precautions must be taken to minimize hazards to the airplane from a failed or
+released blade, including damage to structure and vital systems due to impact of a
+failed or released blade, and from the unbalance created by such failure.” (55 Fed.
+Reg. 29756 at 29772, 29766, July 20, 1990.)
+According to Embraer records, after initial certification of the
+airplane, Embraer evaluated the effects on the wing, the nacelle, and the
+empennage from a blade tip loss, a mid-blade loss, and a full blade loss.16
+Embraer’s analysis indicated that the nacelle would not withstand the loss of a
+mid-blade or full blade segment.
+After the accident, the FAA indicated that records from the original
+certification of the 14RF propeller indicate that Hamilton Standard demonstrated
+compliance, through testing, with the requirement of FAR 35.15 that the propeller,
+“not have design features that experience has shown to be hazardous or
+unreliable.” The FAA further stated that Hamilton Standard designed, tested and
+demonstrated the 14RF-9 propeller blade to meet the FAR 35 requirements and it
+was approved as having an unlimited life when maintained in accordance with
+FAA-accepted Hamilton Standard maintenance instructions.
+16Embraer Report No. 120-DE-180, “Effect Analysis on Propeller Failures,” dated
+September 3, 1984.
+
+12
+1.6.5 Airworthiness Standards for Engines and Propellers
+To comply with the airworthiness requirements, the propeller
+manufacturer must also consider during design and must subsequently
+demonstrate the vibration characteristics of the propeller assembly to ensure that
+resonant frequencies17 that can produce critical vibration stresses do not occur
+within the normal operating range of use. The applicable regulations are 14 CFR
+23.907,18 25.907,19 35.37,20 and 35.39.21 Advisory Circular22 (AC) 20-66 provided
+17The resonant frequency of any vibration is the naturally occurring frequency at which
+the blade will vibrate when excited. To avoid excessive vibration and overstressing of the
+propeller, propeller design practice requires that the propeller spend only a minimal amount of
+time in an rpm range that corresponds to a resonant frequency.
+18Each propeller with metal blades or highly stressed metal components must be shown to
+have vibration stresses, in normal operating conditions, that do not exceed values that have been
+shown by the propeller manufacturer to be safe for continuous operation. This must be shown
+by: Measurement of stresses through direct testing of the propeller; comparison with similar
+installations for which these measurements have been made; or any other acceptable test method
+or service experience that proves the safety of the installation. Proof of safe vibration
+characteristics for any type of propeller, except for conventional, fixed pitch, wood propellers,
+must be shown where necessary.
+19The magnitude of the propeller blade vibration stresses under any normal condition of
+operation must be determined by actual measurement or by comparison with similar installations
+from which these measurements have been made. The determined vibration stresses may not
+exceed values that have been shown to be safe for continuous operation.
+20A fatigue evaluation must be made, and the fatigue limits must be determined for each
+metallic hub and blade and each primary load-carrying metal component of nonmetallic blades.
+The fatigue evaluation must include consideration of all reasonably foreseeable vibration load
+patterns. The fatigue limits must account for the permissible service deterioration, such as nicks,
+grooves, galling, bearing wear, and variations in material properties.
+21For variable-pitch propellers. Compliance with this paragraph must be shown for a
+propeller of the greatest diameter for which certification is requested. Each variable-pitch
+propeller (the pitch setting can be changed by the flightcrew or by automatic means while the
+propeller is rotating) must be subjected to one of the following tests: A 100-hour test on a
+representative engine with the same or higher power and rotational speed and the same or more
+severe vibration characteristics as the engine with which the propeller is to be used. Each test
+must be made at the maximum continuous rotational speed and power rating of the propeller. If
+a takeoff rating greater than the maximum continuous rating is to be established, an additional
+10-hour block test must be made at the maximum power and rotational speed for the takeoff
+rating. Operation of the propeller throughout the engine endurance tests is prescribed in Part 33
+of this subchapter.
+
+13
+the propeller manufacturer an acceptable means of compliance with the CFRs
+relating to airplane propeller vibration.
+In Chapter Two, Vibration Measurement Program, it is recommended
+that for multiengine installations:
+Propeller diameters to be used are tested in at least two percent or
+two-inch intervals throughout the diameter range to be approved
+and should include the maximum diameter and the minimum
+diameter, including cutoff repair limit.
+AC 20-66 also states:
+For installations where the propeller diameter is greater than 13
+feet or the engine nacelles are toed in or toed out, propeller
+vibration testing include complete flight and ground crosswind
+tests. Flight tests includes the effects of yaw, maximum and
+minimum aircraft gross weight at maximum and minimum
+airspeeds, flap settings during takeoff and landings, propeller
+reversing, and any other condition that would create an
+aerodynamic excitation of the propellers. On the ground, the
+aircraft is headed at different angles to the prevailing wind to
+determine the effects of crosswind excitation. Wind velocities
+typical of conditions to be encountered in service are included.
+1.7 Meteorological Information
+The West Georgia Regional Airport (CTJ) at Carrollton, Georgia, is
+about 4 miles northeast of the crash site. The airport authority owns and operates
+an Automated Weather Observing System-3 (AWOS-3). The CTJ AWOS-3, and
+similar independent systems at other airports that do not serve air carriers, are not
+connected through long-line transmission to the National Weather Service (NWS)
+or the FAA weather communication networks. The observations are available to
+airport users on a dedicated radio frequency. The CTJ AWOS-3 observation just
+after the accident was reported as follows:
+22An AC is an FAA document that sets forth an acceptable means to comply with
+provisions of Federal Aviation Regulations (FAR). An AC is intended for guidance purposes
+only and is not mandatory or regulatory in nature.
+
+14
+Type--AWOS-3; time--1301; clouds--800 feet overcast; visibility--
+10 miles; temperature--76 degrees F; dew point--75 degrees F;
+wind--150 degrees at 6 knots; altimeter--30.08 inches Hg;
+Anniston Airport (ANB), Alabama is about 32 miles west of the crash
+site. The reported ANB aviation weather observation just before the accident was
+as follows:
+Type--Record; time--1252; clouds--estimated ceiling 1,500 feet
+broken; visibility--5 miles; weather--haze; temperature 87 degrees
+F; dew point--73 degrees F; wind--050 degrees at 5 knots;
+altimeter--30.02 inches Hg.
+The departure airport, ATL, is about 40 miles east of the crash site.
+The reported ATL aviation weather observation just before the accident was as
+follows:
+Type--Record special; time--1246; clouds--200 feet scattered
+measured ceiling 1,600 feet broken 3,400 feet overcast; visibility--
+2 miles; weather--light rain fog, temperature 73 degrees F; dew
+point--73 degrees F; wind--140 degrees at 3 knots; altimeter--
+30.08 inches Hg; remarks--surface visibility 5 miles.
+The CVR transcript at 1250:15 (2 minutes and 30 seconds before
+impact) contained a captain’s statement that, “we can get in on a visual.” The
+FDR altitude at that time was about 3,760 feet. The CVR transcript at 1251:05 (1
+minute and 40 seconds before impact) contained a captain’s statement, “we can get
+in on a visual, just give us vectors.” The FDR altitude at that time was about
+2,450 feet. The ATC and CVR transcripts indicate that the first officer reported at
+1251:33 (1 minute and 12 seconds before impact) “out of nineteen hundred (feet)
+at this time” and the captain added “we’re below the clouds, tell ‘m.” The first
+officer then transmitted, “’K we’re uh, VFR at this time, give us a vector to the
+airport.”
+A helicopter pilot, who arrived at the accident site about 1400,
+estimated scattered clouds at about 1,500 feet and a broken ceiling at around 2,500
+feet. He estimated the visibility at 3.5 miles in haze.
+
+15
+1.8 Aids to Navigation
+There were no reported or known difficulties with the navigational
+aids.
+1.9 Communications
+There were no reported or known communications equipment
+difficulties.
+At the time of the propeller blade separation, ASE 529 was
+communicating with an Atlanta Center air traffic controller. Although the base of
+the Atlanta Center controller’s airspace is 11,000 feet, the center controller
+continued to direct the airplane for about 7 minutes after the blade separation. At
+that point (1250:45), with the airplane at about 4,500 feet in altitude, changeover
+to Atlanta approach took place. Recorded radar information at that time indicated
+that the airplane was about 7 miles from CTJ. The Atlanta approach controller
+issued a vector toward the CTJ ILS localizer at 1250:49. Later the controller
+provided the localizer frequency; however, neither the AWOS frequency nor the
+CTJ weather conditions were provided.
+Atlanta approach is responsible for flights inbound or outbound from
+ATL and all airports within an approximate 40-mile radius, which includes CTJ.
+However, the ATL approach control facility’s access to the CTJ AWOS weather
+information is limited to commercial telephone sources. The Georgia Department
+of Transportation, which (as the operator of the airport) would be responsible for
+the costs of disseminating AWOS information via private communications
+networks directly to ATC, determined that the amount of air traffic at CTJ did not
+justify the cost of acquiring this service. This is because flightcrews destined for
+the smaller airports receive their AWOS weather information on the airport
+discrete AWOS frequency.
+The closest weather report immediately available to the approach
+controller was the ATL Airport observation, the flight’s departure point. No
+controller was assigned to the “assist” position. Although the manager and
+supervisor were nearby, they became occupied with coordinating and monitoring
+activities supporting the flight and did not attempt to retrieve the CTJ AWOS
+weather information by telephone. During the 90 seconds that the approach
+controller was in radio communication with the flight, the controller issued a
+
+16
+vector toward the runway, stated the localizer frequency, confirmed the flight was
+in visual conditions, and issued a vector for the visual approach.
+FAA ATC procedures23 state, in part, “If you are in communication
+with an aircraft in distress, handle the emergency and coordinate and direct the
+activities of assisting facilities. Transfer this responsibility to another facility only
+when you feel better handling of the emergency will result.”
+Following their declaration of an emergency with Atlanta Center, at
+1246:13 the flightcrew indicated their need to land as soon as possible and
+requested, “roll the trucks and everything for us.” The controller then advised the
+flightcrew that CTJ was the closest airport and directed the aircraft to CTJ.
+However, the request for emergency vehicles was not passed to the fire department
+serving CTJ, (the Carroll County Fire Department) or to the Atlanta approach
+controller. Following the accident, Atlanta approach did call the Carroll County
+Sheriff’s Office and was informed that a private citizen had already reported the
+airplane crash near CTJ.
+1.10 Airport Information
+CTJ has one asphalt surface runway, 5,001 feet by 100 feet, oriented
+340/160 degrees, and the field elevation is 1,160 feet. There are two instrument
+approaches, an instrument landing system (ILS) localizer only (LOC) RWY 34
+and a nondirectional beacon (NDB) RWY 34. Atlanta approach control is the
+feeder ATC agency on sector frequency 121.0 megahertz (MHz). Weather at the
+airport is available directly through an AWOS-3 reporting system on 118.175
+MHz. The airplane crashed about 4 miles from the airport.
+1.11 Flight Recorders
+The airplane was equipped with an operating cockpit voice recorder
+(CVR) and flight data recorder (FDR). They were recovered from their installed
+positions in the aft portion of the airframe and appeared in good condition with
+only minor sooting on the cases. The CVR was a Fairchild Model A100A, S/N
+57597. The recording was good and showed no evidence of loss of quality as a
+result of the crash.
+23FAA Order 7110.65, Chapter 10, “Emergencies,” Section 1, “General,” paragraph 10-1-
+4, “Responsibility,” applies.
+
+17
+The FDR was a Fairchild Digital Model F-800, S/N 04856, with 28
+parameters of data. The recording was of good quality; however, the parameter
+for rudder pedal position indicated only small changes that did not approach
+normal travel. Postaccident investigation of the airframe wreckage revealed that
+the rudder pedal potentiometer coupler was not securely connected to the shaft of
+the rudder pedal potentiometer.
+ASA maintenance records indicate that the rudder pedal
+potentiometer was installed on the accident airplane in November 1990. The most
+recent calibration check was performed in June 1994. At that time, no
+discrepancies were noted during a 3-point calibration check (neutral, full left, and
+full right). On June 27, 1996, the Safety Board issued two safety
+recommendations to address this issue (see Section 1.18.1).
+1.12 Wreckage and Impact Information
+The main wreckage area consisted of the cockpit, fuselage, right wing
+and engine, and the empennage. Portions of two of the right engine’s propeller
+blades remained attached to the propeller hub and engine. The remaining two
+blades of the right engine propeller assembly were located nearby. An area of the
+grass leading up to and surrounding the main wreckage was burned out to a radius
+of about 30 feet.
+The airplane came to rest at the northwest end of an 850 foot
+wreckage trail that was aligned on a heading of about 330 degrees magnetic.
+Numerous trees were sheared off prior to ground contact, consistent with a descent
+angle of about 20 degrees, and an increasing left-wing-down attitude of 15 to 40
+degrees. Impact with the trees extended for about 360 feet, and, following the last
+tree impact, a debris path continued for 490 feet through an open field on slightly
+upsloping terrain to the main wreckage.
+Prominent ground scars were observed at the beginning of the debris
+field (about 40 feet from the last tree impact) that were consistent with the
+dimensional measurement of the left wing to the fuselage. The first scars
+contained several pieces of the left wing. Ground scars were consistent with
+separation of the left wing at its root. Debris from the airplane was scattered along
+the wreckage path in the field. The left engine’s propeller and reduction gear box
+(RGB) assembly were located approximately 160 feet past the tree line. The
+
+18
+propeller hub and blade assembly contained three complete propeller blades with
+the inboard piece of a fourth blade protruding about 1 foot from the hub.
+The Safety Board’s Airplane Performance Group used its
+WINDFALL computer program to calculate the trajectory of the missing blade
+piece. The group devised a search area and alerted the local residents and
+authorities about the missing piece. Three weeks after the accident, the outboard
+piece of the blade was discovered by a farmer. It had been well hidden in some
+tall grass within about 100 yards of the primary search area.
+The fractured blade sections were sent to the Safety Board’s Materials
+Laboratory for detailed examination (see Section 1.16.1 for details).
+1.12.1 Fuselage
+The aft portion of the fuselage had separated from the forward portion
+in two places, near the trailing edge of the wing and also just behind the cockpit.
+The forward fuselage section (including the cockpit) was upright. The aft portion
+of the fuselage was resting on the right side and was supported by the right
+horizontal stabilizer. The vertical stabilizer was intact and essentially undamaged.
+Most of the passenger cabin that was not resting on the ground was destroyed by
+fire.
+The right side of the forward fuselage from the radome rearward to
+the cockpit had very little damage. The left side of the forward fuselage below the
+cockpit window from the radome to just forward of the passenger/crew entry door
+was crushed in, aft, and up to the left side of the nose landing gear wheel well.
+Inward deformation was less severe near the aft portion of the crushed area. The
+external fuselage skin forward of the passenger/crew entry door was undamaged
+by fire except for an area of sooting aft and above the captain’s side window.
+Fire had destroyed the left side of the fuselage aft of the
+passenger/crew entry door. The fire damage extended to just forward of the cargo
+door and the entire right side of the fuselage from the leading edge of the wing to
+two seat rows forward of the cargo section. The upper portion of the right
+fuselage forward of the leading edge of the wing to the cockpit had also been
+destroyed by fire.
+
+19
+1.12.2 Wings
+The major portion of the left wing, with the nacelle and engine
+partially attached, came to rest along the wreckage path about 125 feet in front of
+the cockpit. The inboard portion of the left wing leading edge, from the fuselage
+to the left engine nacelle, was intact. The leading edge outboard of the left engine
+nacelle was recovered from the debris field but was broken into several pieces.
+There were no cuts or gouges in the leading edge. The inboard and nacelle flaps
+and the inboard flap track for the outboard flap were attached. Damage to the flap
+tracks was consistent with the flaps being in the retracted position.
+The entire right wing remained intact and attached to the fuselage.
+The inboard section of wing between the engine and the fuselage was destroyed by
+fire. There was no fire damage to the wing outboard of the engine. All flap
+segments appeared to be in the retracted position.
+1.12.3 No. 1 (Left) Engine Nacelle
+The outboard member of the front frame of the No. 1 left engine
+nacelle was deformed aft approximately 90 degrees and was twisted outboard
+slightly. There was also a semicircular flattened area in the middle of the outboard
+member of the front frame. The axis of the flattened area was oriented upward
+approximately 20 degrees from the horizontal. The forward inboard engine mount
+bolt had sheared in an upward and slightly outboard direction. The corresponding
+metal surface area of the attachment fitting was smeared in the same direction.
+The engine air inlet fairing and the forward portion of the forward
+cowling remained attached to the propeller/RGB assembly, but they were
+deformed outboard. Both steel tubes connected to the forward and aft engine
+mounts were found separated from the terminal ends. The inboard tube was bent
+slightly; the outboard tube was not bent.
+Five of the six hinges that secure the inboard and outboard forward
+cowling doors were attached, but they were bent in a direction consistent with up
+and aft movement of the cowling doors. The area underneath several of the hinges
+was damaged consistent with overtravel of the hinges. The forward, inboard hinge
+had separated, and the area of the inboard door where the hinge was attached was
+torn. The forward edge of both forward cowling doors was bent upward.
+
+20
+The forward inboard engine/RGB mount bolt, and forward, outboard
+engine/RGB mount, upper and lower rod ends of the inboard and outboard torque
+mount assemblies were removed and submitted to the Safety Board’s Materials
+Laboratory for examination of all fracture surfaces. That examination revealed no
+indications of fatigue or other preexisting defects. The inboard engine/RGB
+mount and the outboard engine mount bolt were intact and remained attached to
+the engine and the nacelle structure, respectively. No deformation was noted on
+the inboard engine mount. The forward, outboard engine/RGB mount was
+deformed aft near the fracture location. No definitive failure directions were
+obtained from the upper rod ends, which had fractured near the first screw thread.
+Examination of the fracture surfaces of the lower rod ends revealed characteristics
+consistent with the fracture propagating inboard to outboard.
+1.12.4 No. 2 (Right) Engine Nacelle
+The No. 2 engine and RGB remained mounted to the wing. Although
+a fire consumed the adjacent inboard wing-to-fuselage area, damage to the No. 2
+engine nacelle was not remarkable. All cowlings and fairings were found in place
+with little evidence of fire or soot.
+1.13 Medical and Pathological Information
+The Carroll County Medical Examiner determined that the seven
+fatally injured passengers succumbed to thermal burns and smoke inhalation. The
+cause of death for the captain was also reported to be thermal burns and smoke
+inhalation. However, in his report, the Medical Examiner indicated that blunt
+force trauma injuries to the face and head were “other significant conditions.”
+This is consistent with impact-related damage on the forward left side of the
+fuselage. The first officer survived with burns over 80 percent of his body.
+Physicians indicated that as a result of his injuries, he would require extensive
+therapy.
+Urine samples obtained post-mortem from the captain, and blood and
+urine samples obtained from the first officer after the accident, tested negative for
+alcohol and other drugs of abuse.
+
+21
+1.14 Fire
+Based on ASA flight dispatch records, investigators estimated that
+about 350 gallons of fuel were on board at the time of the accident. Per normal
+operating practice, the fuel would have been equally distributed between the left
+and right side tanks. The two tanks in the left wing separated early during the
+impact sequence, and there was evidence of fuel spilled on vegetation along the
+wreckage path. The inboard tank in the right wing was found burned at the
+accident site, but the outboard tank was intact. Passengers did not observe fire
+until after the airplane came to a complete stop. They said that there was a period
+of about 1 minute before the outbreak of fire. The passengers described black
+smoke and flame consistent with what would be expected of a fuel-fed fire.
+Passengers reported that the fire was immediately preceded by cracking sounds
+and sparks from wires and cables and that the fire started in small patches and
+spread quickly, fully engulfing the area aft of the cockpit entrance door.
+Some passengers related that they found portions of their clothing
+saturated with fuel, and one passenger saw “a couple of people on fire.” The flight
+attendant and several passengers said that they had to run through flames to escape
+from the cabin wreckage.
+The flight attendant received second degree burns to her ankles and
+legs. She was wearing a skirt, white blouse, hosiery, and an airline uniform vest.
+1.15 Survival Aspects
+The CVR revealed that the flightcrew advised the flight attendant of
+the planned emergency return to ATL about 7 minutes prior to impact. There were
+no further communications from the flightcrew to the flight attendant. The flight
+attendant stated that while preparing the passengers for the emergency landing,
+she saw tree tops, immediately returned to her seat, and shouted commands to
+brace for landing.
+According to passengers, immediately following the loss of the
+propeller blade, the flight attendant checked with each passenger to make sure that
+they understood how to assume the brace position, and she yelled instructions to
+the passengers until the time of impact. Despite being seriously injured, she
+continued to assist passengers after the accident by moving them away from the
+airplane. She also extinguished flames on at least one passenger who was on fire.
+
+22
+The postcrash fire destroyed the passenger cabin. According to the
+surviving passengers, the cabin breakup started at the initial ground impact.
+Passengers stated that overhead storage bins in the cabin dislodged during the
+initial ground impact and that passenger seat structures separated and/or became
+deformed. According to one passenger, as the fuselage slid on its left side, several
+large holes were created that allowed enough daylight to appear in the cabin that
+provided the flight attendant and passengers visual escape cues. None of the
+survivors reported escaping from the cabin through the main entrance door, the
+overwing emergency exits, or the cabin emergency exit. They escaped through the
+holes in the fuselage, which were immediately behind the cockpit and aft of the
+wing. Passengers who were unable to escape from the wreckage succumbed to
+smoke inhalation.
+Shortly after the airplane came to rest, the first officer attempted
+unsuccessfully to open the right side cockpit window, which was damaged during
+the impact. Thereafter, he reached behind his crew seat and retrieved a small ax
+with a wooden handle. He subsequently attempted to chop a hole in the side
+window but was only successful in chopping a hole approximately 4 inches in
+diameter in the center of the window through which he handed the small ax to a
+passenger. The passenger attempted unsuccessfully to use the ax to extricate him
+from the cockpit.
+When a Carroll County Sheriff’s deputy arrived at the scene within
+about 5 minutes, he saw a passenger striking the first officer’s side window with
+the small ax,24 which was aboard the airplane as FAA-required emergency
+equipment. The wooden handle separated from the ax head early in the rescue
+effort. About 2 minutes after the ax handle broke, the local fire department arrived
+and tried, unsuccessfully to break the window using full size axes. The fire
+department applied water to the cockpit side window. The deputy reported that
+during the time of the rescue, a continuous roaring sound emanated from an area
+behind the cockpit in which there was intense fire. In the following several
+minutes, the fire aft of the cockpit was controlled sufficiently to allow firefighters
+to enter the cabin and break through the cockpit door to rescue the first officer.
+The Sheriff’s deputy did not observe any signs of life from the captain during the
+rescue sequence.
+24The ax had a short wooden handle about 14 inches long and resembled a hatchet. It had
+a single blade with a nail puller notch, and the opposite end of the blade had a shape that was
+similar to a hammerhead.
+
+23
+Postaccident inspection of the cockpit area indicated that movement
+of the right and left cockpit sliding windows was restricted by airframe damage
+consistent with impact and deformation of the windows’ slide tracks. The first
+officer’s cockpit sliding window was found to have jammed in its track in the
+closed position. Investigators were able to open the sliding windows with the aid
+of pry bars (tools not normally available to flightcrews ).
+The flightcrew oxygen walkaround cylinder and smoke masks were
+found stored, respectively, on the left and right sides of the cockpit. They did not
+appear to have been used. Protective breathing equipment (PBE) required in 14
+CFR Part 121 airplanes was not carried (nor was it required to be) because the
+airplane was operated under 14 CFR Part 135.
+1.16 Tests and Research
+1.16.1 Laboratory Examination of the Fractured Propeller Blade
+The inboard piece of the fractured blade, serial number 861398, was
+retained in the left engine propeller hub, which was recovered at the accident
+scene on August 21, 1995. The outboard piece of the blade was recovered on
+September 15, 1995, after it was discovered by a farmer on property about 35
+miles west of the accident site adjacent to an area that had previously been
+searched by helicopter. Both portions of the blade were examined at the Safety
+Board’s Materials Laboratory. The blade spar25 was separated at blade station 16.6
+(about 13.2 inches outboard of the blade pin platform). Initial visual examination
+revealed that a portion of the spar fracture was on a flat transverse plane and
+contained crack arrest positions, typical of fatigue cracking (see Figure 3). The
+fatigue cracking appeared to initiate from at least two adjacent locations on the
+taper bore surface. Below the taper bore surface, the individual cracks joined to
+form a single crack that propagated toward the face side26 of the blade and
+progressed circumferentially around both sides of the taper bore. The extent of the
+fatigue cracking progressed through about 75 percent of the spar cross section.
+The fracture surface in areas beyond the terminus of the fatigue region contained
+rough features with a matte appearance, typical of an overstress separation area.
+25The main load-carrying member of the blade.
+26The face side of the blade is aerodynamically similar to the bottom side of a wing.
+
+24
+Figure 3.--Photo of the blade fracture surface.
+
+25
+The origin areas on both the inboard and outboard faces of the
+fracture were examined with a scanning electron microscope (SEM) before the
+faces of the fracture were cleaned. The fracture surface near the origin area on
+both faces of the fracture contained a layer of heavy oxide deposits that had a
+mud-cracked appearance. These deposits extended to a maximum depth of 0.049
+inch from the taper bore surface. Their maximum circumferential width was 0.130
+inch, based on the examination of the damaged outboard fracture face. X-ray
+energy dispersive spectroscopy (EDS) of the deposits of both faces generated
+similar spectra with a major peak for aluminum, a substantial peak for oxygen, and
+a minor peak for zinc.27 EDS of the deposit area on the inboard fracture face also
+revealed the presence of chlorine.
+After the fracture surface had been cleaned, additional SEM
+examination revealed that the fatigue cracking initiated from several corrosion pits
+in a line of pits in the taper bore that extended over a distance of about 0.070 inch.
+The maximum depth of the corrosion pitting at the fatigue origin area was
+measured as slightly less than 0.006 inch below the taper bore surface.
+The taper bore surface, including the area adjacent to the fatigue
+initiation area, contained a series of nearly circumferential sanding marks. The
+marks extended over about 180 degrees of the circumference of the taper bore and
+to a maximum distance of about 1.5 inches inboard of the fracture surface.
+Outboard of the fracture, the sanding marks extended about 2 inches from the
+fracture surface.
+The investigation revealed that sanding rework of the area had been
+accomplished using the blending repair procedures contained in PS960A.28 The
+procedures required that the surface finish of the blended area should be restored
+to the original surface finish. Postaccident surface profilometer measurements
+conducted on the taper bore sanding marks indicated that the surface finish was
+much rougher than the manufactured surface not disturbed by the rework
+process.29 Measurements also indicated that the nondisturbed surface met the
+manufacturing specifications.
+27Zinc is an alloying element in the 7075 aluminum alloy specified for the blade spar.
+28PS960A is described in paragraph 1.16.3.
+29The surface roughness in the blended area was measured as Ra 125, whereas the surface
+finish requirement of PS960A is 63 RMS, which converts to approximately Ra 50. (“Ra”
+denotes arithmetically averaged roughness.)
+
+26
+The taper bore was measured to determine the minimum thickness of
+the spar between the taper bore hole and the spar’s face side and was found to be
+within the requirements of the manufacturing specifications. Measurements also
+indicated that about 0.002 inch of material appeared to have been removed from
+the taper bore surface during the sanding process.
+Specimens of material cut from the fractured blade were tested for
+tensile strength, hardness, conductivity, and composition. All the tests indicated
+values that were consistent with the specified composition for 7075-T73 aluminum
+alloy.
+1.16.2 Previous Failures of Similar Model Propellers
+Prior to this accident, there were two failures of Hamilton Standard
+composite-type propeller blades that were found to have resulted from cracks that
+originated from inside the taper bore. The first event took place on March 13,
+1994, on an Inter-Canadien30 Aerospatiale-Aeritalia ATR 42 equipped with a
+model 14SF propeller blade. The second event occurred on March 30, 1994, on a
+Nordeste31 Embraer EMB 120 equipped with a model 14RF blade. (Appendix C
+contains details of the fractures).
+The Transportation Safety Board of Canada (TSB) conducted an
+investigation32 of the Inter-Canadien event. TSP analysis indicated that forces
+induced from the rotation of the three remaining blades resulted in propeller
+imbalance and loads on the forward engine mounts that exceeded the ultimate
+limits. This resulted in separation of the propeller and the RGB assembly from the
+airplane. The RGB with the propeller hub, three complete blades, and the retained
+portion of the fourth blade fell onto an ice-covered lake and was recovered during
+the investigation. Indications were that the separated blade passed through the
+fuselage and caused depressurization of the cabin. There were no injuries, and the
+flightcrew accomplished a safe landing.
+30Inter-Canadien is a regional air carrier based in Montreal, Canada.
+31Nordeste Linhas Aereas Regionals S.A. is a regional air carrier based in Salvador,
+Bahia, Brazil.
+32The TSB released the results of its investigation as Aviation Occurrence Report No.
+A94Q0037 on February 28, 1995.
+
+27
+The Aircraft Accident Prevention and Investigation Center of Brazil
+(CENIPA) investigated the Nordeste occurrence. CENIPA did not publish a
+formal report; however, it provided documentation contained in a technical report
+by Embraer that affirmed causal findings similar to the Inter-Canadien blade
+separation. Embraer’s report indicated that during the Nordeste event, the
+imbalance forces from the rotation of the three remaining blades resulted in
+damage to the RGB. The remaining three blades and fourth blade stub were found
+moved toward the feathered position (resulting in minimum aerodynamic drag);
+and the propeller and RGB assembly remained within the nacelle area and were
+partially attached to the airframe. There were no injuries, and this flightcrew also
+accomplished a safe landing.
+Laboratory examination of the failed blades indicated the presence of
+chlorine-based corrosion pits in both instances. The chlorine source was traced to
+a bleached cork installed in the taper bore to retain the lead balance wool. These
+findings were corroborated by Hamilton Standard engineers and the FAA.
+In addition to the Inter-Canadien and Nordeste propeller blade
+fractures that were related to taper bore corrosion, on August 3, 1995, about 3
+weeks prior to the ASA accident, there was an in-flight loss of a Hamilton
+Standard Model 14RF-9 propeller blade that was not related to taper bore
+corrosion. The propeller was installed on a Luxair33 EMB-120 airplane that was in
+the final approach to landing when the right propeller and portions of the RGB
+separated. Some of the separating components struck the airplane; the flightcrew
+accomplished a safe landing, and there were no injuries. The Belgian Civil
+Aviation Administration (CAA) conducted an investigation on behalf of the
+Ministry of Transport of Luxembourg.34 The investigation determined that one of
+the four propeller blades had failed from a fatigue crack about 9 inches from the
+butt end of the blade. It was found that the crack began on the outer surface of the
+blade shank in an area of mechanical damage induced by a localized interference
+condition between the blade spar and the foam mold, which occurred during the
+manufacturing process.
+33Luxair is a regional air carrier based in Luxembourg City, Luxembourg.
+34The Belgian CAA released the “Final Report of Aircraft Accident” on July 5, 1996.
+
+28
+1.16.3 Blade Inspection and Repair - Actions Taken by Hamilton
+Standard and the FAA
+(See Table 1 for a timeline of significant events related to the 14RF-9
+propeller.) Following the March 1994 blade failures, Hamilton Standard began an
+immediate program to inspect ultrasonically all model 14RF, 14SF, and 6/5500F
+propeller blades for evidence of cracks. Blades with rejectable ultrasonic
+indications were returned to Hamilton Standard. Early in the process of inspecting
+the returned blades, Hamilton Standard discovered that some ultrasonic
+indications were caused by visible mechanical damage. Although no cracks were
+found, the mechanical damage was in excess of what engineers thought was
+acceptable. Hamilton Standard reviewed the shop practices and concluded that the
+mechanical damage was a result of tools and techniques used during the
+installation and removal of balance wool lead. As a result, Hamilton Standard
+developed repair procedures to blend locally visible mechanical damage and
+eliminate ultrasonic indications that had no associated cracks. This repair was
+described in Hamilton Standard repair procedure PS960 (and was approved by the
+FAA on April 8, 1994.) PS960 specified the following steps:
+1) Visually inspect the blade taper bore for evidence of mechanical
+damage. No unblended mechanical damage is allowed.
+2) Locally blend mechanical damage to 50 times the repair depth.
+Repair limits are 0.010” maximum stock removal for the face area, 0.020”
+maximum stock removal for all other areas, including end of taper bore.
+When the blending is complete, no evidence of damage may remain.
+Reference Figure 1 (page 3) for definition of face area at any taper bore
+location.
+3) Inspect repairs using a borescope with a 1:1 magnification to
+verify blending to the above requirements. Surface finish of repair area
+must be 63 RMS.
+4) Perform an ultrasonic inspection of the blade taper bore area.
+5) WARNING; CONVERSION COATING IS POISONOUS TO
+EYES, SKIN, AND RESPIRATORY TRACT. USE SKIN AND EYE
+PROTECTION. MAKE SURE THE TIME YOU USE IT IS THE
+
+29
+MINIMUM NECESSARY. MAKE SURE THE AREA HAS A GOOD
+FLOW OF AIR.
+6) Apply “PS960” to the face and camber side of each blade with
+white stenciling ink in accordance with stenciling procedures provided in
+the applicable Component Maintenance Manual.
+With a brush, touch up all areas repaired per the above procedure
+with a coating that agrees with MIL-C-5541, Class 1A. Allow to cure 24
+hours.
+NOTE: Alodine 600 is recommended because it is without cyanide, but
+Alodine 1200 or 1201, or any material which agrees with MIL-C-5541,
+Class 1A is satisfactory.
+Soon thereafter, it was determined that the cork in the taper bore
+contained chlorine residue that could cause corrosion in the taper bore. As a
+result, PS960 was amended by PS960A to include procedures to eliminate the
+taper bore cork and to replace it with a sealant. PS960A was approved by the
+FAA on April 18, 1994.
+Concurrent with the development of the PS960A repair procedure,
+Hamilton Standard was also developing a series of alert service bulletins (ASB) to
+address the problem of cracks originating from inside the taper bore in the model
+14RF, 14SF, and 6/5500F blade spars. The bulletins called for a one-time, on-
+wing ultrasonic shear wave inspection to be performed by level II35 Hamilton
+Standard employees or contractor inspection teams to detect abnormalities in the
+blade taper bore. Blades rejected for ultrasonic indications above specified limits
+found during the on-wing inspection were to be removed from service and sent to
+Hamilton Standard Customer Support Centers. Upon receipt of the blades,
+35Hamilton Standard inspectors were certified according to the American Society for
+Nondestructive Testing (ASNT) or the Hamilton Standard, FAA-approved equivalent.
+According to ASNT, an NDT Level II individual is qualified to set up and calibrate equipment,
+and to interpret and evaluate results with respect to applicable codes, standards, and
+specifications. The NDT Level II is thoroughly familiar with the scope and limitations of certain
+NDT methods, and guides and performs on-the-job training of trainees and NDT Level I
+personnel. The NDT level III individual is familiar with other NDT methods and is capable of
+training and examining NDT Level I and II personnel for certification in those methods.
+
+30
+TABLE 1
+SIGNIFICANT EVENTS RELATED TO
+HAMILTON STANDARD 14RF/SF SERIES PROPELLERS
+Previous Accident(s): Blade Separation
+Date Company Airplane Type
+3/13/94 Inter-Canadien ATR-42
+3/30/94 Nordeste EMB-120
+Inspection and Repair Action
+Date Document Reason Action
+4/8/94 Hamilton Standard Mechanical damage -Visual inspection for
+4/18/94 PS960, as revised by and chlorine deposits mechanical damage.
+PS960A. (FAA found in taper bores. -Blend mechanical
+approved procedure.) damage.
+-Remove cork and
+replace with sealant.
+4/18/94 Hamilton Standard Inter-Canadien & -One-time on-wing
+ASB 14RF-9-61-A66 Nordeste blade failures ultrasonic inspection to
+due to fatigue cracking detect abnormalities in
+taper bore
+- If rejectable
+indications are found,
+remove from service
+and return to Hamilton
+Standard
+4/27/94 Hamilton Standard To document decision -Was interpreted as
+Internal Memorandum to use 960A repair to expansion of PS960A
+eradicate UT blending repair to
+indications caused by include blades without
+peaks of shotpeen mechanical damage.
+impressions
+5/2/94 AD 94-09-06 -Required one-time UT
+inspection for cracks in
+taper bore (within 45
+days) in accordance
+with ASB 14RF-9-61-
+A66.
+- If cracks are found,
+replace propeller.
+
+31
+ASA Accident Blade History
+5/19/94 ASA accident blade inspected on-wing per AD and removed from service.
+6/7/94 ASA accident blade inspected at Hamilton Standard, no visible faults found,
+blend repaired per PS960A.
+Inspection and Repair Action (Continued)
+Date Document Reason Action
+8/29/94 Hamilton Standard ASB Continuing -Repeat ultrasonic insp.
+14RF-9-61-A69 airworthiness every 1,250 cycles for
+(Revised10/5/94) specified unpeened
+blades, or do improved
+visual inspection per
+Safety Board 14RF-9-61-
+A70, or return to
+Hamilton Standard.
+- In all cases, return
+rejected blades to
+Hamilton Standard
+-Remove cork (if still
+installed).
+- ASA blade exempted.
+8/29/94 Hamilton Standard SB Continuing -(For unpeened blades
+14RF-9-61-A70 airworthiness only) Improved taper
+bore visual inspection
+with borescope photo
+and mold transfer.
+- If pits found, remove
+from service or return to
+repair facility.
+9/1/94 Component Detect corrosion, if -Improved taper bore
+Maintenance Manual none then repair. cleaning & visual
+(CMM) Eliminates PS960A inspection (cracks, pits,
+No. 61-13-04 and mechanical damage)
+and FPI.
+- Shotpeen.
+3/ 23/95 AD 95-05-03 -Required SB 14RF-9-
+61-A69 Rev 1, and SB
+14RF-9-61-70 (by
+12/31/97) and provided
+terminating action to
+repetitive inspection.
+
+32
+Accident(s): Blade Separation
+Date Company Airplane Type
+8/3/95 Luxair EMB-120
+8/21/95 ASA EMB-120
+Further Inspection and Repair Action
+Date Document Reason Action
+8/25/95 NTSB ASA Accident Recommended re-
+recommendations inspection of reworked
+blades; vibration and
+loads survey; review of
+requirements for
+shotpeened taper bores.
+8/25/95 TAD 95-18-51 ASA Accident and Required re-inspection
+NTSB of reworked blades.
+recommendations
+9/30/95 14RF-9-61-86, Rev LUXAIR blade shank Shank on-wing
+4,11/9/95 failure due to fatigue ultrasonic inspection,
+cracking for “N” blades
+11/9/95 14RF-9-61-A90 same as above Shank off-wing
+ASB ultrasonic inspection,
+for “M” blades
+11/16/95 AD 95-24-09 -Require SB 14RF-9-
+61-A86 Rev 4 or SB
+14RF-9-61-A90.
+12/15/95 14RF-9-61-A91 Revised fracture -New off-wing
+ASB mechanics info. and risk ultrasonic insp., lead
+assessment of blade and removed, each 500
+shank fatigue cracks. cycles.
+12/18/95 14RF-9-61-A95 same as above -New on-wing
+ASB ultrasonic insp., with
+Rev 1, 12/18/95 balance lead.
+1/19/96 AD 96-01-01 -Require ASB 14RF-9-
+61-A91 or ASB 14RF-
+9-61-A95.
+
+33
+Terminating Action
+Date Document Reason Action
+3/6/96 14RF-9-61-A94 terminate recurrent -Repair taper bore,
+ASB ultrasonic inspections. rework to like new.
+4/24/96 AD 96-08-02 -Require ASB 14RF-9-61-
+A94 taper bore
+repair by 8/31/96.
+
+34
+Hamilton Standard performed a borescope inspection and initiated the repair
+process, if warranted. The FAA mandated the inspection described in the ASBs
+by AD 94-09-06, effective on May 2, 1994. The AD required that blades with
+ultrasonic indications above 50 percent be removed from service. A rejectable
+ultrasonic indication was found on the accident blade, and it was removed from
+service on May 19, 1994. The accident blade was one of 490 rejected blades that
+were sent to Hamilton Standard for further evaluation and possible repair.
+Hamilton Standard customized inspection and repair instructions set
+forth in a shop traveler form (Rock Hill Flow Traveler - Form Number RH243)36
+were used to define the taper bore inspection and repair actions for blades rejected
+as a result of the field on-wing ultrasonic inspections. The shop traveler form
+required that the taper bores of the returned blades be ultrasonically inspected
+again to verify the unacceptable rejectable indication. The taper bores of the
+blades were then to be cleaned and borescope inspected for evidence of cracks,
+corrosion, pits, and other flaws. None of the returned blades were discovered to
+be cracked. Corrosion was identified in approximately 13 percent of the blades;
+these blades were set aside for further analysis by Hamilton Standard engineering.
+Some of these blades were subsequently cut up or were otherwise destructively
+tested; others were used to develop further testing and repair processes. None of
+the blades with confirmed corrosion were returned to service.
+After PS960A and the alert service bulletins were issued, Hamilton
+Standard discovered that a small percentage of the returned blades with ultrasonic
+indications did not have observable corrosion, mechanical damage, or cracks in
+the taper bore. All such blades identified at that time had shotpeened taper bores.
+Hamilton Standard determined that the roughness inherent in shotpeened surfaces
+could in some cases also generate a rejectable ultrasonic indication. According to
+Hamilton Standard engineering managers, as a measure to further reduce the
+number of apparently unsubstantiated ultrasonic indications and to return these
+blades to service, Hamilton Standard engineering personnel decided that the
+procedures set forth in PS960A for blending areas of mechanical damage could
+also be used to blend the area surrounding the ultrasonic indication inside the taper
+bore of shotpeened blades, even though there was no associated mechanical
+damage. This decision to extend the applicability of PS960A was discussed and
+36The shop traveler form that was in use at the time the accident blade was inspected and
+approved by the engineering manager at Rock Hill on May 13, 1994 (approximately 1 month
+before the accident blade was received there).
+
+35
+authorized in conference calls that included engineering managers of the three
+Customer Service Centers and Hamilton Standard engineering. It was
+implemented without the knowledge or approval of the FAA or the DER.
+According to Hamilton Standard management, the authorization to
+use PS960A in this manner was confirmed through an internal memorandum,
+dated April 27, 1994, from the Manager of Operations Engineering to the three
+Customer Service Center engineering managers, stating:
+Subject: Blade U. T. [ultrasonic] Inspection
+Per direction from [the head of Project Engineering] you should
+handle blades returned from the field as a result of U.T. inspection
+as follows:
+1) Perform a U. T. inspection. Record results on the ASB form
+except that this form should have the [applicable location]
+written at the top of the form. Forward the form to HSD
+Service via FAX.
+2) Rework blade per PS960A. Perform a U.T. inspection and
+record the results on the modified form as described in para. (1).
+3) Ship acceptable blades. Hold rejected blades until further
+notice.
+In a letter to the Safety Board dated March 5, 1996, Hamilton
+Standard indicated that the intent of this memo was to document the decision to
+use PS960A “to eradicate false ultrasonic positives being caused only by
+superficial irregularities,” specifically, to “remove tool marks or the peaks of shot
+peen impressions.”
+On August 29, 1994, Hamilton Standard issued an additional series of
+ASBs and SBs for unshotpeened blades in the 14RF, 14SF, and 6/5500/F series
+with procedures for repeating the on-wing ultrasonic inspection every 1,250 cycles
+or, in the alternative, accomplishing a borescope inspection for pits. Rejected
+blades were to be returned to Hamilton Standard for inspection (including FPI)
+
+36
+and repair according to the new maintenance procedure37 in the Component
+Maintenance Manual38 (CMM), which superseded the procedures in PS960A. The
+1,250 cycle interval was based on the minimum detectable flaw using the
+ultrasonic inspection technique and the operating time to failure of the Nordeste
+and Inter-Canadien blades.
+Shortly after these ASBs were issued, the FAA issued AD 95-05-03,
+effective on March 23, 1995, referencing the Hamilton Standard SBs and ASBs
+and requiring that blades be ultrasonically inspected at an interval of 1,250 cycles
+or, alternatively, that a borescope inspection of the taper bore be performed. The
+AD provided appropriate ASB/SB references. If the borescope inspection found
+no corrosion pits in the taper bore, the blade could be returned to service. AD 95-
+05-03 also contained a provision that a return to service following the results of a
+satisfactory borescope inspection constituted terminating action to the requirement
+for recurrent ultrasonic inspections every 1,250 cycles.
+Following this accident, the Safety Board made several urgent
+recommendations resulting in additional ADs. (See Sections 1.18.1) Other
+postaccident actions taken by Hamilton Standard and the FAA are discussed in
+Section 1.18.2.
+1.16.4 The Failed Propeller, Information, and Service History
+The fractured propeller blade from N256AS was model 14RF-9, part
+number RFC11M1-6A, serial number 861398, manufactured with an
+unshotpeened taper bore in 1989 by the Hamilton Standard Division, United
+Technologies Corporation, Windsor Locks, Connecticut. The 14RF-9 model blade
+is certificated only for the EMB-120 airplane.
+37Repair 4-25 in the CMM required the removal of the bore plug, cork (if installed), and
+lead wool, followed by a cleaning, white light borescope and FPI inspections. For unpeened
+blades: If a blade had damage less than 0.005 inch, with no previous blending per PS960A, then
+the blade was shotpeened, balanced and marked +A. If the blade had damage less than 0.005
+inch, but it was previously blended per PS960A, then the blade was shotpeened, balanced and
+marked +B. If the damage was greater than 0.005 inch, but less than 0.020 inch (0.010 inch on
+the blade face), then the blade was reamed, shotpeened, balanced and also marked +B. If the
+damage was greater than 0.020 inch (0.010 on the blade face), then the blade was reamed,
+balanced and marked +C. The process was similar for shotpeened blades.
+38The CMM is the FAA-approved maintenance manual that contains instructions for
+continued airworthiness of Hamilton Standard propellers.
+
+37
+The fractured blade had accumulated a total of 14,728 operating
+hours and 5,182 hours since overhaul. The overhaul was accomplished by
+Hamilton Standard customer service technicians at East Windsor on April 7, 1993.
+At that time, the blade had accumulated 9,546 hours.39 Records indicated that only
+routine maintenance actions were necessary at the time of overhaul.
+On April 20, 1993, upon return to ASA from overhaul, the blade was
+installed on an airplane (not the accident airplane) where it remained until May 19,
+1994. On that day, the blade received an on-wing ultrasonic inspection of the
+taper bore by a Hamilton Standard contract inspector in accordance with AD 94-
+09-06. The blade was rejected for a 60-percent, full-scale height40 ultrasonic
+indication.
+The blade was removed from service and returned to Hamilton
+Standard facilities at East Windsor, Connecticut. It was subsequently shipped to
+Hamilton Standard’s Customer Support Center at Rock Hill, South Carolina, for
+inspection and repair.
+According to the shop traveler form for the accident blade, an
+ultrasonic inspection of the accident blade on June 7, 1994, confirmed the
+rejectable indication, with a reading of 52 percent full-scale height. Following this
+ultrasonic inspection, the lead wool was mechanically removed from the taper
+bore and the hole was examined with a white-light borescope for evidence of
+corrosion, pits, or cracks. In the space provided on the shop traveler form for the
+“results” of this inspection, the technician recorded, “No visible fa[u]lts found,
+blend rejected area.”
+The shop traveler form reflects that he then blend-repaired41 the taper
+bore “damage” with aluminum oxide sanding tools, using the procedures of
+PS960A. The technician, who was not an FAA-certificated mechanic, stated that
+39The inspection limit for 14RF-9 propeller blades is 9,500 hours. ASA had FAA
+approval to fly in excess of the required inspection time by as many as 500 hours.
+40Pursuant to criteria set forth in Hamilton Standard ASB 14RF-9-A66 (incorporated by
+reference in AD 94-09-06), indications of 50 percent full-scale height and above, as viewed on a
+cathode ray tube screen, were rejectable. Indications of 40 to 50 percent were “reportable” on the
+inspection record but were not cause to reject the blade.
+41Blending in this context means grinding or sanding the surface to remove a small
+amount of material containing an imperfection and then restoring the surface finish to a condition
+equal to the surrounding area.
+
+38
+he was permitted to perform and sign off the work that he was qualified to
+perform. The technician, as an employee of Hamilton Standard’s Rock Hill blade
+repair facility, which is an FAA-certificated repair station under 14 CFR Part 145,
+is not required to be a certificated mechanic to work on the propeller blades. In
+the shop traveler form for the accident blade, the instructions to blend the taper
+bore also specify that the surface finish should be 63 RMS. The block on the form
+was initialed and dated by the technician, but an adjacent block that would have
+signified a second inspection by a repairman42 was blank. Although the shop
+traveler form for the ultrasonic inspection after the blending on the accident blade
+showed that there were no reportable or rejectable indications, the shop traveler
+form did not show that the blade had received a final inspection after the work was
+completed. However, Hamilton Standard provided ASA with an FAA Form 8130-
+3, Airworthiness Approval Tag, indicating that the PS960A repair had been
+completed.
+Subsequent examination by the Safety Board indicated that about
+0.002 inch of material was removed from the taper bore. The shop traveler form
+indicates that the blade passed a postrepair ultrasonic inspection.43 Because no
+defects were found during the June 7, 1994, borescope inspection, and the blade
+was marked with “PS960A” (indicating accomplishment of the repair), the blade
+was exempt from the requirements of AD 95-05-03 (effective on March 23, 1995)
+for recurrent taper bore ultrasonic inspections and enhanced borescope inspection.
+Investigators attempted to establish how the decision was made to
+blend the area of the unacceptable indication in the taper bore of the accident
+blade, even though there was no visible mechanical damage and PS960A did not
+explicitly require or authorize blending of a blade taper bore that was free of
+visible mechanical damage. During an interview with the technician who
+performed the taper bore repair, he stated that he had been told that the
+shotpeening of the taper bore could cause “false” ultrasonic indications. Further,
+he stated that he understood, based on his training in the repair by the Rock Hill
+42A repairman, as defined in 14 CFR, Parts 65.101 and 65.103, is recommended for
+certification by the repair station and is then certificated by the FAA. He must have at least 18
+months of experience on the specific task, have completed specialized training, and may
+supervise maintenance of aircraft components by the repair station.
+43The shop traveler form indicated that a blade that “failed” the postrepair, ultrasonic
+inspection could be reblended. If the blade “failed” the ultrasonic inspection after the second
+attempt to blend the rejected area, it was to be sent to Hamilton Standard’s Windsor Locks
+facility.
+
+39
+facility Engineering Manager, that it was acceptable to use the PS960A process to
+blend out unexplained ultrasonic indications for blades with unshotpeened taper
+bores, as well as those with shotpeened taper bores. He said that he recognized the
+difference in surface finish between shotpeened and unshotpeened blades. He also
+stated that if he came across something that he did not understand or recognize, he
+would not hesitate to seek assistance from the facility Engineering Manager. The
+technician further stated that he had blended about 10 propeller blades without
+shotpeened taper bores that had ultrasonic indications but no visible damage.
+During an interview on October 19, 1995, the Rock Hill Engineering Manager
+stated that the April 27, 1994, memorandum covered both shotpeened and
+unshotpeened blades. However (as already noted in Section 1.16.3), in a letter to
+the Safety Board dated March 5, 1996, Hamilton Standard indicated that the
+memorandum was intended to document the authorization to use the PS960A
+blend repair to “remove tool marks or the peaks of shot peen impressions.” The
+letter further stated that “there was no discussion of how to handle blades that had
+not been shot peened.”
+After the PS960A blending repair, the accident blade was rebalanced
+and the taper bore was sealed with protective material. It was also determined that
+some additional repair was necessary to the composite surface features of the
+blade. The blade was returned to Hamilton Standard’s East Windsor, Connecticut,
+facility to complete that work. The blade was shipped back to ASA on August 30,
+1994, and was reinstalled on the left propeller assembly of the accident airplane on
+September 30, 1994. It remained there until the accident. At the time of the
+accident, the blade had accumulated 2,398.5 hours and 2,425 cycles since the
+Hamilton Standard repair at Rock Hill.
+1.16.5 Results of 14RF-9/EMB-120 Stress Survey
+To reduce cabin noise during ground operation, the EMB-120 aircraft
+was certificated with model 14RF-9 propeller assembly designed to rotate at a
+relatively low ground idle revolutions per minute (rpm), between 50 and 65
+percent. To operate successfully in the 50 to 65 percent rpm range without
+overstressing the propeller, the design had to avoid the coincidence of any blade
+resonant frequencies44 with any excitation frequencies.45 To accomplish this, the
+44The resonant frequency of any vibration is the naturally occurring frequency at which
+the blade will vibrate when excited. To avoid excessive vibration and overstressing of the
+
+40
+upper rpm limit of 65 percent for ground operation was set below the resonant
+frequency of the first flat-wise mode of vibration46 of the 14RF-9 blade of
+approximately 70 percent rpm. Although all 14RF blades have a resonant
+frequency at approximately 70 percent rpm, because of small differences in blade
+construction, there is some variation in the exact resonant frequency from blade to
+blade.47 The exact resonant frequency of the accident blade could not be
+determined because it had separated and was damaged.
+The Hamilton Standard 14RF-9 blade for the EMB-120 was designed
+so that its first flat-wise resonant frequency would not coincide with the 2P48
+excitation frequency during ground operation. However, the coincidence or close
+proximity of the ground rotational speed and the first flat-wise resonant frequency
+can place the propeller in a resonant condition and results in undesirable vibratory
+stress. (See Figure 4 for an illustration of the vibratory modes of the 14RF-9
+propeller.)
+propeller, propeller design practice requires that the propeller spend only a minimal amount of
+time in an rpm range that corresponds to a resonant frequency.
+45Excitation frequencies are created by aerodynamic loads that act on a propeller. Some
+aerodynamic loads on a propeller are cyclical. The frequency of these cyclical loads are
+multiples of propeller rpm. The frequency of the first cyclical aerodynamic load (1P) is equal to
+propeller rpm; that is, one cycle per revolution.
+46The first flat-wise mode of vibration is the lowest frequency vibration. (There are
+multiple orders of vibration, and each has an associated frequency called a resonant or natural
+frequency.)
+47A resonant frequency of a propeller blade is a function of the blade’s rigidity, mass
+distribution and, to some extent, retention stiffness.
+48The frequency of the second aerodynamic load (2P) acts on all propeller blades twice
+per revolution because the blade senses the wing leading edge as it rotates past it. The 2P
+excitation frequency is always present but is most pronounced during ground operation in a
+tailwind or quartering tailwind condition.
+
+41
+w
+TECHNOLOGIES
+wLm CAMPBELL DIAGRAM FOR EMB120 4P
+JAV-9-1 2‘-9W5 -
+HAMILTON STANDARD 14RF-9 PROPELLER n
+80
+70-
+2 II
+Ill
+I 60
+Q
+>
+u
+z g
+g 50
+A
+u APPROXIMATE
+Ill
+u RESONANT RPM
+L 40 BAND FOR Ist MODE
+1- *
+z ("REACTIONLESS")
+u
+g 30
+in
+=-
+&
+u 20-
+/
+‘~
+10Y . *
+,Allowable’
+Range for
+Static OD
+o v
+10 20 70 90 100
+| Pi”OPELL:# PERC:~T SPEE:O(l 00% = 1300 RPh~
+0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300
+PROPELLER RPM
+Figure 4.--Vibratory modes of the 14RF-9 propeller.
+
+42
+When the first flat-wise vibration frequency and the 2P excitation
+frequency coincide, a four-bladed propeller, such as the 14RF-9, vibrates in the
+reactionless49 mode. The reactionless mode of vibration is characterized as when
+two blades of a four-bladed, rotating propeller, 180 degrees apart, reach a negative
+stress peak at the same time that the other two blades reach their positive stress
+peak. This type of propeller vibration is called reactionless because the bending
+loads of the four blades are canceled at the propeller hub which consequently
+transmits little or no vibratory loading to the propeller mounting structure.
+As originally certificated, the EMB-120 Airplane Flight Manual,
+Maintenance Manual, and a cockpit placard stated that propeller rpm (Np)50 above
+65 percent should be avoided during ground operations with the aircraft stationary,
+and with rear quartering winds in excess of 10 knots, except for short duration
+transitions.
+The 1983 and 1985 certification testing of the EMB 120 with the
+model 14RF propeller was accomplished using an instrumented, new propeller
+blade. The original stress surveys, which included flight and ground51 tests, and an
+additional ground test following the ASA accident, revealed that the resonant
+frequency of the first flat-wise mode varied from approximately 70 percent to 76
+percent. Because the actual resonant frequency of a propeller must be determined
+during ground testing, and because propeller assemblies are not measured
+49The Safety Board investigated another accident on April 19, 1993, in Zwingle, Iowa, in
+which a Mitsubishi MU-2B-60 airplane experienced an in-flight loss of a propeller blade and
+collided with terrain (NTSB/AAR-93-08). All of the occupants were killed, and the airplane was
+destroyed. The Safety Board attributed the loss of the propeller to a reduction in the fatigue
+strength of the hub material, combined with exposure to higher-than-normal cyclic loads during
+ground operations when the propeller vibrated in the reactionless mode. The investigation
+revealed that during certification testing of the Hartzell HC-B4 propeller on the MU-2B airplane,
+a reactionless mode of vibration was identified with the peak stress occurring at a propeller speed
+of 1,079 rpm. As a result, the propeller was prohibited from continuous operation on the ground
+below 1,145 rpm. The Safety Board did not find evidence that the test was repeated using
+propeller blades altered to conform to the minimum dimensions specified in the repair limit
+criteria of Hartzell’s HC-B4 propeller maintenance manual.
+50Propeller rpm expressed as a percentage of the maximum operational limitation.
+51The test airplane was subjected to the propeller wash of a second airplane to simulate
+normal ground operations in a quartering tailwind. This was accomplished to determine the high
+stress peaks of the propeller blade associated with the 2P excitation frequency within the normal
+propeller rpm range.
+
+43
+separately, the actual resonant frequency of the accident blade could have been
+slightly different than the frequencies measured in these tests.
+Following the accident, Hamilton Standard conducted an independent
+blade stress survey in the latter part of 1995 and presented its report as part of a
+technical presentation to Safety Board investigators on February 2, 1996 (see
+Appendix D for Summary of Results, Conclusions and Recommendations). The
+1995 stress survey also consisted of a flight and ground test, using four
+instrumented blades on both engines with two taper bore configurations. Of the
+four blades, one blade had zero service time, and the other three blades had
+approximately 12,000 service hours. The survey concluded that only small
+differences52 from previous stress level surveys were observed, including those
+from the original certification and the postaccident test referenced above. The
+highest vibratory stress measured in flight was reported to be about 6,000 pounds
+per square inch (psi). The highest ground running peak stress was reported to be
+about 18,000 psi. This occurred with quartering tailwinds when the propeller
+passed through the range corresponding to vibration of the blade twice per
+revolution in the first flat-wise mode (2P/1f).
+After the ground tests were completed, Hamilton Standard initiated
+actions to modify the EMB-120 Airplane Flight Manual and Maintenance Manual
+Limitations Sections with revised language to reduce the maximum propeller Np
+limit during ground operation from 65 to 60 percent. On December 20, 1995,
+airworthiness authorities in Brazil and the FAA approved temporary revisions to
+the language as follows:
+Airplane Flight Manual: Condition Levers must be in MIN RPM
+position during all ground operations, except when cleared for
+takeoff or during landing roll. Power Levers must remain at or
+below Flight Idle during all ground operations, except for brief
+(approximately 5 seconds) excursions as needed to maneuver the
+airplane.
+52The vibration and loads survey was conducted by Hamilton Standard on the 14RF
+propeller on an Embraer EMB-120 airplane. A possible small downward shift was discovered in
+the 2P resonant frequency relative to the 1985 certification test data. The downward shift was
+attributed by Hamilton Standard to normal wear and mass properties in the propeller blade from
+normal operation.
+
+44
+CAUTION: GROUND OPERATION ABOVE FLIGHT IDLE
+SIGNIFICANTLY INCREASES PROPELLER STRESS UNDER
+CERTAIN ADVERSE WIND CONDITIONS (E.G., TAILWINDS
+OR REAR CROSSWINDS). OPERATION IN THIS RPM
+RANGE MUST BE AVOIDED TO THE MAXIMUM EXTENT
+PRACTICABLE.
+Maintenance Manual: Propeller System Operating Limitations, To
+prevent excessive propeller stress, do not operate above 60% Np
+unless the wind is less than 18.5 Km/h (10 Knots) or the airplane
+is headed into the wind + or - 45 degrees. Wind direction must be
+monitored locally at the run-up site.
+1.17 Organizational and Management Information
+1.17.1 Hamilton Standard Division, United Technologies Corporation
+Hamilton Standard Division, Windsor Locks, Connecticut, has
+produced aluminum blade propellers with taper bores since 1958. More than
+10,000 such blades are in use on C-130 and P-3 military airplanes. Composite
+blade propellers were introduced for military airplanes in 1974. Their use was
+expanded to regional (commuter) airplanes in 1978. Since that time, regional
+airplane propellers equipped with more than 15,000 blades that are fabricated with
+an aluminum spar and an aerodynamic shell of composite materials have
+accumulated in excess of 17 million flight hours.
+A customer support facility for regional propeller inspection and
+repair was opened in East Windsor, Connecticut, in 1989. Hamilton Standard’s
+engineering support continued to reside with the manufacturing facilities at
+Windsor Locks.
+From 1989 through 1990, regional propeller inspection and repair
+expanded to facilities in Long Beach, California, and Maastricht, the Netherlands.
+In 1993, the regional propeller customer support center was moved from East
+Windsor, Connecticut, to a facility in Rock Hill, South Carolina.
+
+45
+1.17.2 Hamilton Standard Propeller Customer Service Center
+Selected engineering and management personnel from the Hamilton
+Standard Division, Windsor Locks, were transferred in 1993 to the new regional
+propeller Customer Support Center in Rock Hill. Management at the Rock Hill
+facility hired technicians from a large pool of local area applicants and trained
+them to perform various propeller blade repairs. The facility was certificated by
+the FAA to begin repairing propeller blades in February 1994.
+As a result of the two propeller blade failures in March 1994,53 and
+the resulting ultrasonic inspections of the taper bore mandated by the FAA54 in
+May 1994, there was a sudden increase in the number of propeller blades requiring
+inspection and repair in May and June 1994. The accident propeller blade was one
+of the blades returned to Hamilton Standard as a result of the inspection. The
+taper bore inspection and repair of the accident blade was performed at Hamilton
+Standard’s Customer Support Center in Rock Hill between June 7, and June 9,
+1994.
+According to Hamilton Standard work records from May and June
+1994, the technician who performed the taper bore inspection and repair of the
+accident blade worked between 8 and 26 hours of overtime each week, in addition
+to his normal work week.
+1.17.2.1 Employee Training at Hamilton Standard
+Customer Service Center
+According to the Engineering Manager in Rock Hill, new technicians
+at the facility received approximately 250 hours of training on a specific propeller
+blade repair before they are permitted to make repairs without direct supervision.
+However, the technician who made the taper bore repair to the accident blade was
+transferred from the nickel sheath and fiberglass repair area of the shop and had
+received 250 hours of training in connection with that position. In addition, he
+received approximately 90 hours of additional on-the-job training (OJT) on the
+taper bore repair. This technician had a background in automotive repair. His
+additional OJT training on the taper bore repair procedure was administered by the
+53Details of the two previous failures are contained in Section 1.16.2.
+54AD 94-09-06 required an ultrasonic inspection of the taper bore. (See Section 1.16.3
+for details on the AD.)
+
+46
+facility Engineering Manager, who had other responsibilities in addition to
+employee training.
+The investigation revealed that during the time the accident blade was
+being repaired, the technicians at the service centers had not been provided a
+photograph or model illustrating the appearance of corrosion or cracking in a taper
+bore. Neither the Engineering Manager nor the technician who performed the
+inspection and repair of the accident blade had ever seen a crack in the taper bore
+of a blade. Several months after the accident blade was inspected and repaired, all
+the service center technicians were provided with an enlarged color photograph of
+taper bore corrosion, a model and an instructional video.
+1.17.3 Designated Engineering Representative
+The FAA annually appointed several Hamilton Standard engineering
+employees based in Windsor Locks to serve as Designated Engineering
+Representatives (DER) in propeller systems to approve certain engineering
+information.55 Those DER duties normally represented about 20 to 30 percent of
+his or her workload. There were nine DERs certificated to support propeller
+systems at the time of the accident. Under an agreement with the FAA, Engine
+and Propeller Directorate, DERs have authority to approve certain engineering
+changes, repairs, service bulletins and maintenance manuals. However, the
+requirement for direct FAA approval was retained for changes affecting critical
+parts or single point failure components.
+After the two blade failures in March 1994,56 a Hamilton Standard
+DER57 was in contact with the FAA, Engine and Propeller Directorate, several
+times a week during the development of the ultrasonic inspection requirements
+that were set forth in the ASB subsequently mandated by AD 94-09-06, and the
+taper bore repair procedures contained in PS960 and PS960A. The DER was
+55In accordance with 14 CFR 183.29(f), a propeller engineering representative may
+approve engineering information relating to propeller design, operation, and maintenance, within
+limits prescribed by the Administrator of the FAA, whenever the representative determines that
+information complies with applicable FARs.
+56See Section 1.16.2 for details.
+57The DER who was the central figure in the activity related to this accident was initially
+appointed in October 1992. He had 16 years of experience at the Windsor Locks propeller
+facility. He holds a Bachelor of Science degree in astronomy and a Master’s Degree in business
+administration. He also attended a university-level course in aircraft accident investigation.
+
+47
+involved in developing the ASB and PS960/960A. The DER was familiar with the
+issue of taper bore corrosion, the formation and functions of the Rock Hill
+Customer Service Center, and the white light borescope inspection technique used
+to search for evidence of cracks and corrosion, and to reject blades for engineering
+evaluation. After the accident, he told investigators that based on his knowledge
+of the March 1994 accidents, he believed the white light borescope inspection
+would be adequate to enable technicians to detect corrosion pits in the taper bore
+of the size that led to the cracks that caused the two previous failures.
+The DER stated that he was not aware of the discussions between
+engineering managers at Windsor Locks and the Customer Service Centers in
+which it was decided to extend the taper bore repair procedures outlined in
+PS960A beyond their intended use (to blend visible mechanical damage in taper
+bores) to blend ultrasonic indications that were not related to visible mechanical
+damage. He said that this lack of coordination from the engineering department
+was atypical.
+1.17.4 FAA Certification Engineer
+The FAA certification engineer58 responsible for Hamilton Standard
+regional propellers reviewed the fracture analysis of the two blade fractures in
+March 1994. He determined that the FAA should retain direct approval authority
+for the data and the inspection and repair techniques used for PS960/PS960A
+because, based on the two blade failures that resulted from taper bore corrosion, he
+considered the taper bore to be a critical part.59 The Certification Engineer also
+required that the repair for mechanical damage in the taper bore be accomplished
+only at Hamilton Standard repair facilities.
+58The FAA certification engineer had been with the FAA Engine and Propeller
+Directorate for 9 years at the time of the accident. He holds a Bachelor of Science degree in
+mechanical engineering. He has 30 years of government experience, primarily with U.S. Navy
+programs. His experience includes propellers for surface ships and submarines.
+59FAA Order 8110.37A (DER Guidance Handbook), Paragraph 14.h.(1)states that “The
+DER must obtain specific authorization from the appointing ACO [Aircraft Certification Office]
+prior to initiating approvals for repairs or alterations. An authorized DER may approve technical
+data for major repairs and alterations without first notifying the project ACO, except when the
+part is critical or life limited. For critical or life limited parts, the DER must contact the project
+ACO for guidance.”
+
+48
+The Certification Engineer (like the DER) stated that he was not
+aware that blending procedures outlined in PS960A (originally approved as a
+repair for areas with visible mechanical damage) had been extended by Hamilton
+Standard engineers as an authorized repair to areas in which ultrasonic indications
+were present without visual evidence of mechanical damage.
+1.18 Additional Information
+1.18.1 Safety Board Recommendations
+The Safety Board issued the following three Safety Recommendations
+to the FAA on August 25, 1995, which was 4 days after the accident:
+A-95-81 (Class I, Urgent Action)
+Immediately implement the ultrasonic inspection program on
+Hamilton Standard propeller blades cited in paragraph (a)(2) of
+airworthiness directive (AD) 95-05-03, irrespective of prior
+compliance with paragraph (d) of the AD. Require the initial
+inspection before further flight on any propeller blades that have
+accumulated 1,250 cycles since the last ultrasonic inspection or
+since the visual and borescope inspection required by paragraph
+(d) of the AD.
+A-95-82 (Class II, Priority Action)
+Conduct a vibration and loads survey and analysis of the propeller
+installation on the Embraer EMB-120 airplanes with applicable
+Hamilton Standard propellers throughout the ground and flight
+operating range of the engine with specific consideration for the
+effects [that] propeller in-service wear, maintenance, or other
+changes may have on the resonant frequencies. Based on the
+findings, broaden the survey and analysis to other installations as
+appropriate.
+A-95-83 (Class II, Priority Action)
+Review the current overhaul and inspection requirements for all
+Hamilton Standard 14 series propeller blades for which the taper
+bore hole has been shotpeened to determine whether additional
+inspections or maintenance should be required.
+
+49
+Regarding Safety Recommendation A-95-81, on August 25, 1995, the
+FAA issued a telegraphic AD (T95-18-51) requiring that certain blades installed
+on EMB-120 aircraft that had ultrasonic crack indications discovered as a result of
+inspections required by AD 94-09-06 or AD 95-05-03, been reworked, and had
+been returned to service, be removed from service within the next 10 flight cycles
+and be replaced with serviceable parts. The telegraphic AD also required that
+propeller blades installed on aircraft other than the EMB-120 meeting the same
+criteria (ultrasonic crack indications reworked and blade returned to service) be
+inspected ultrasonically for cracks within the next 10 flight hours and every 1,250
+cycles thereafter. Any blades removed from service as a result of the AD could
+not be returned to service. On January 16, 1996, the Safety Board classified
+Safety Recommendation A-95-81 “Closed--Acceptable Alternate Action.”
+Regarding A-95-82, on July 24, 1996, the FAA informed the Safety
+Board that it conducted the requested vibration and loads survey. The FAA
+reported that the survey substantiated the results of past stress surveys indicating
+that no new high stress conditions were uncovered, and that it did not show that
+further evaluations were needed on other installations. However, to limit propeller
+exposure to known high vibratory stresses during ground operation, on December
+27, 1995, the FAA issued AD 95-25-11, which requires installation of a placard
+reading “Avoid Np Above 60% During Ground Operations,” and also requires
+revising the EMB-120 Airplane Flight Manual and maintenance program to limit
+the rotational speed of the propeller during ground operation. In its Final Rule,
+published in the Federal Register, the FAA stated that the AD is considered “an
+interim action until final action is identified, at which time the FAA may consider
+further rulemaking.” Based on the FAA’s interim actions and the statement
+contained in its announcement of the Final Rule, on November 15, 1996, the
+Safety Board classified Safety Recommendation A-95-82 “Open--Acceptable
+Response.”
+Regarding A-95-83, on July 24, 1996, the FAA informed the Safety
+Board that its review of the overhaul and inspection requirements for all Hamilton
+Standard 14RF, 14SF and 6/5500/F blade designs for which the taper bore hole
+has been shotpeened showed that additional action should be taken. On April 24,
+1996, it issued AD 96-08-02, requiring repetitive ultrasonic inspection of the
+blades until they are repaired and restored to their certificated strength. The repair
+of EMB-120 blades was required to be accomplished by August 1996, and all
+other blades will be repaired by February 1997. Since the actions of the FAA are
+
+50
+responsive to the intent of the recommendation, on November 15, 1996, the Safety
+Board classified Safety Recommendation A-95-83 “Closed--Acceptable Action.”
+On June 27, 1996, the Safety Board issued the following additional
+safety recommendations to the FAA:
+A-96-33
+Conduct a design review of the Embraer EMB-120 flight data
+recorder system, with emphasis on potentiometer failures, and
+mandate design, installation, and/or maintenance changes, as
+necessary, to ensure that reliable flight control data are available
+for accident/incident investigation.
+A-96-34
+Require Embraer EMB-120 operators to perform a flight data
+recorder (FDR) readout or a potentiometer calibration test per
+section 31-31-00 of the EMB-120 Maintenance Manual every 6
+months until FDR sensor design, installation, and/or maintenance
+improvements are incorporated.
+On September 5, 1996, the FAA responded that it had initiated a
+design review focusing on the potentiometers and associated attaching hardware,
+and would determine a course of action when the review is complete. The FAA
+also stated that it would contact the manufacturer and coordinate the necessary
+maintenance instructions with an appropriate inspection interval. Therefore, on
+October 15, 1996, the Safety Board classified both A-96-33 and A-96-34 “Open--
+Acceptable Response,” pending final action.
+1.18.2 Postaccident Hamilton Standard and FAA Actions
+As a result of the accident and Safety Board recommendations, on
+August 25 and 28, 1995, the FAA issued AD T95-18-51 and AD 95-18-06,
+respectively, which required that all blades installed on EMB-120 aircraft that, like
+the accident blade, had been removed from service in accordance with AD 94-09-
+06 (or 95-05-03) and been reworked and returned to service be immediately
+removed from service, and it required an ultrasonic reinspection of all other 14RF,
+14SF, and 6/5500/F blades (a total of approximately 15,000 blades) on a 1,250
+cycle interval.
+
+51
+As a result of the Luxair accident, Hamilton Standard developed an
+additional series of service bulletins that were mandated by the FAA in
+Airworthiness Directive (AD) 95-24-09, issued on November 16, 1995. This AD
+required an ultrasonic shear wave inspection on the propeller shank for cracks or
+indentations. Four blades were removed from service as a result of this AD.
+As the inspections mandated by AD 95-18-06 began to take place,
+Hamilton Standard recognized a need for a detailed reevaluation of the
+adequacy/appropriateness of this inspection procedure because the ultrasonic
+inspections continued to reject blades with no apparent discrepancies on the taper
+bore. This reevaluation showed that the minimum detectable size of a taper bore
+crack varied widely. That is, it could be much greater (and, in some cases,
+smaller) than previously believed. Hamilton Standard found that there were
+differences in the calibration blocks60 distributed for the inspection, and that
+differences in the thickness of the surface composite layers and in the
+transmitability of the ultrasonic beam through the aluminum spar could
+substantially affect the inspection results.
+Coincidentally, Hamilton Standard performed a risk analysis of the
+failed blades to resolve inconsistencies in the crack growth data from the Inter-
+Canadien, Nordeste, and ASA blade separations. Results from a NASA-developed
+fracture mechanics FASTRAN program were integrated into the risk analysis.
+Hamilton Standard concluded that for some blades of each model, the 1,250 cycle
+inspection interval using the original ultrasonic technique provided insufficient
+safety margins for the detection of taper bore cracks. Thereafter, Hamilton
+Standard issued another series of ASBs for the 14RF, 14SF, and 6/5500/F blades,
+containing a newly-developed ultrasonic inspection technique with a customized
+calibration procedure for each blade and a reduced inspection interval. For the
+14RF blades used on the EMB-120 airplanes, the inspection interval was reduced
+to 500 cycles. The FAA issued AD 96-01-01, effective on January 19, 1996,
+requiring the improved ultrasonic inspection technique and mandating the reduced
+cyclic inspection interval.
+In March 1996, Hamilton Standard issued ASB 14RF-9-61-A94 to
+repair and restore the taper bore surface to its original surface finish (with
+shotpeening) on all model 14RF-9 propeller blades installed on EMB 120
+60Test specimens manufactured with defects of known sizes used to adjust the threshold
+of pass/fail for ultrasonic inspection equipment.
+
+52
+airplanes and on similar model blades installed on other commuter-type airplanes.
+On April 24, 1996, the FAA issued AD 96-08-02, which required that all blades of
+the affected propellers be repaired by specific end dates. The end date for the
+14RF-9 model blade was August 31, 1996, and for other affected models is
+February 28, 1997. The repair procedure included removal of a layer of spar
+material from the taper bore, followed by an eddy current inspection, fluorescent
+penetrant inspection (FPI), removal of an additional layer of material, a wall
+thickness check, shotpeening, and the application of a corrosion-protective
+coating. Hamilton Standard also conducted fatigue tests on a set of blades with
+the minimum allowable remaining wall thickness between the taper bore and the
+outside of the spar, thereby verifying the fatigue characteristics of blades repaired
+in this manner. Once a blade is repaired, the requirements for ultrasonic
+inspection are eliminated, and further visual inspections of the taper bore will take
+place only as part of the major inspection that is required every 9,500 flight hours.
+There are no calendar-based inspection requirements.
+Hamilton Standard informed the Safety Board that all 14RF-9 blade
+repairs were accomplished within the time limit established in the AD. The Safety
+Board also notes that the Component Maintenance Manual (CMM) for all
+Hamilton Standard model 14FR, 14SF, and 6/5500F airplane propellers (which
+includes all propellers used in commuter operations), has been amended to include
+a recurring inspection of the taper bore.
+
+53
+2. ANALYSIS
+2.1 General
+The flightcrew was trained, certificated and qualified to conduct the
+flight, and the flight was conducted in accordance with applicable FARs and
+company requirements. The flight attendant also was appropriately trained and
+qualified. The flightcrew was in good health and held the proper FAA medical
+certificates. There was no evidence that the performance of any crew member was
+impaired by alcohol, drugs, or fatigue.
+The airplane was maintained in accordance with applicable FARs and
+company Operations Specifications. A review of the airplane’s maintenance
+records and operating history did not reveal any maintenance discrepancies or
+mechanical anomaly that would have either caused or contributed to the accident.
+Evidence from the CVR, FDR, and examination of the powerplants,
+reduction gear boxes, and propellers indicated that the engines were operating
+normally during the flight until the loss of a major portion of one propeller blade
+on the left engine. After the propeller blade separation, the combination of the
+resulting loss of left engine thrust, increased drag from a deformed engine nacelle
+and the three blades retained in the propeller hub, and added frontal drag from
+external sheet metal damage, degraded airplane performance, preventing the
+flightcrew from arresting the airplane’s descent or making rapid changes in its
+direction of flight making a forced landing necessary. The Safety Board concludes
+that because of the severely degraded aircraft performance, the flightcrew’s
+actions were reasonable and appropriate during their attempts to control and
+maneuver the airplane throughout the accident sequence and were not a factor in
+this accident.
+2.2 Analysis of the Propeller Blade Failure
+The Safety Board concludes that one of the four blades from the left
+engine propeller separated in flight because a fatigue crack that originated from
+multiple corrosion pits in the taper bore surface of the blade spar propagated
+toward the outside of the blade, around both sides of the taper bore, then reached
+critical size. (See Section 1.16.1.)
+
+54
+Results of investigations conducted in two previous propeller blade
+failures in 1994, one in Brazil with this model blade and the other in Canada with
+a similar model blade, indicated that corrosion was produced when entrapped
+moisture reacted with residual chlorine in a bleached cork used to retain the lead
+wool in the taper bore hole of the propeller. The accident blade exhibited a nearly
+continuous layer of oxide deposits on the initial 0.049 inch of the crack depth.
+These deposits contained a substantial amount of chlorine. The Safety Board
+found that the ASA propeller blade contained corrosion damage (pitting) in the
+taper bore and the oxide layer in the origin area of the fatigue crack in the
+separated ASA propeller blade, as did the two previous failed propellers. Because
+the oxidizing condition and the cork containing chlorine were eliminated from the
+accident blade per PS960A during the June 1994 repair at the Hamilton Standard
+Customer Support Center in Rock Hill, oxide deposits would not be expected to
+have formed during further crack propagation after the PS960A repairs.
+Therefore, the extent of the oxide layer on the fracture (to a depth of 0.049 inch
+below the surface) was indicative of the size of the crack at the time of the Rock
+Hill repair activities.
+2.2.1 The Accident Blade’s June 1994 Inspection, Repair, and Return
+to Service
+2.2.1.1 Inappropriate Use of PS960A Blending Repair
+As discussed in Section 1.16.4, the technician who inspected and
+repaired the accident blade first confirmed the rejectable ultrasonic indication, and
+then visually examined the taper bore for evidence of corrosion, pits or cracks
+using a white light borescope. He wrote on the shop traveler, “No visible fa[u]lts
+found, blend rejected area,” and used the blending repair procedure set forth in
+PS960A to remove the ultrasonic indication. The blended area was later found to
+be the site of a crack originating in corrosion pits.
+Apparently, Hamilton Standard engineering originally intended
+PS960A only to remove possible sources of stress concentration by blend-
+repairing mechanical damage (visible tool marks) within the taper bore of any
+blade, without regard for whether the surface was shotpeened or not shotpeened.
+The instructions in PS960A with regard to the surface finish of the taper bore
+specifically stated, “No unblended mechanical damage is allowed.” The FAA
+reviewed and approved the repair for this purpose. However, the use of PS960A
+blending repair was expanded by Hamilton Standard engineering to blend the area
+
+55
+of ultrasonic indications even when there was no apparent mechanical reason
+(visible tool mark) associated with the ultrasonic indication.
+The Safety Board considered whether it was appropriate, from an
+engineering perspective, for Hamilton Standard to extend the applicability of
+PS960A beyond its original purpose (blending of mechanical damage), and to
+authorize its use for removing ultrasonic indications caused by shotpeen
+impressions. Surface irregularities created by shotpeening are, in effect, a form of
+mechanical surface alteration, and the concept of blending mechanical damage is
+not per se objectionable, so long as there are no cracks or other defects in the area
+being blended.61 Based on the prior blade separations (both of which involved
+cracks originating from corrosion), Hamilton Standard had no reason to believe
+that mechanical damage in taper bores was causing cracks. Therefore, the Safety
+Board concludes that Hamilton Standard’s engineering decision to use the
+PS960A blending repair to remove ultrasonic indications caused by a shotpeened
+taper bore surface was technically reasonable.
+Although the decision by Hamilton Standard engineers to extend the
+applicability of PS960A to impressions in shotpeened taper bores was technically
+reasonable, the procedure by which that decision was communicated to others
+within Hamilton Standard was deficient. The decision was communicated during
+a conference call involving top engineering managers, but it was not discussed
+with the DER or the FAA. It was then documented in a memorandum that
+contained no indication that it represented an extension of PS960A, and made no
+reference to shotpeened taper bores. The memorandum stated only that blades
+returned as a result of an ultrasonic inspection should be reworked “per
+PS960A.”62 The substance of the decision was then verbally transmitted by the
+engineering manager of the Rock Hill facility to his staff but, as evidenced by the
+technician’s belief that he was authorized to use the PS960A blend repair to
+remove ultrasonic indications on both shotpeened and unshotpeened blades, it was
+either misstated or misunderstood.
+61The blending process could mask the existence of a crack if done improperly (see
+Section 2.2.1.2, discussing effects of failing to restore the original surface finish) or if enough of
+the crack is removed by the blending so that the ultrasonic indication is reduced to a
+nonrejectable height.
+62See Section 1.16.3 for more information about the circumstances surrounding the
+decision to extend PS960A.
+
+56
+Although Hamilton Standard management asserted that this
+expansion of the use of the PS960A blending repair procedure applied only to
+ultrasonic indications in shotpeened taper bores, it was understood, at least by the
+technician who worked on the accident blade, as being applicable to unexplained
+ultrasonic indications in unshotpeened taper bores as well. Given that
+unexplained ultrasonic indications in the taper bore area represent an unknown
+condition suggestive of cracking and, further, that (according to statistical data
+provided by Hamilton Standard) blades without shotpeened taper bores are
+susceptible to earlier corrosion and to cracking once corrosion begins, Hamilton
+Standard management (both in Windsor Locks and in Rock Hill) should have
+made certain that the technicians performing the repair clearly understood that the
+extension of PS960A was intended for shotpeened taper bores only.
+If the technician had clearly understood that he was not authorized to
+blend unexplained ultrasonic indications in unshotpeened taper bores, he would
+have rejected the accident blade, or at least sought additional guidance from his
+engineering manager as to how to handle the unexplained ultrasonic indication. In
+either case, the accident blade would not have been subjected to the PS960A blend
+repair, which masked the existence of the crack (see Section 2.2.1.2), and would
+not likely have been returned to service. The Safety Board concludes that the
+manner in which the unapproved extension of PS960A was documented and
+communicated within Hamilton Standard, and the lack of training on the
+extension, created confusion and led to misapplication of the blending repair to
+unshotpeened blades with unexplained ultrasonic indications, allowing the
+accident blade to be placed back into service with an existing crack, thus
+contributing to this accident. The Safety Board is concerned about the adequacy
+of Hamilton Standard’s internal communication and documentation. This issue is
+further addressed in Section 2.6.1.
+2.2.1.2 Sanding (Blending) of the Accident Blade
+As noted in Section 1.16.1, although PS960A required that the
+blended area be restored to its original surface finish, the sanding marks in the
+blended area of the accident blade were much rougher than the original surface
+finish. The sanding marks left by the blending appeared to have smeared some of
+the corroded surface, suggesting that the sanding took place after the corrosion
+had formed. Although some of the fatigue initiation area was along the sanding
+marks, the fatigue cracking initiated from corrosion pitting damage that extended
+below the taper bore surface to a depth much greater than the sanding marks.
+
+57
+Therefore, the Safety Board concludes that the sanding marks left by the PS960A
+blending repair did not contribute to the initiation of the fatigue crack in the
+accident blade. However, as discussed below, the sanding marks may well have
+allowed the cracked blade to pass the ultrasonic inspection following the PS960A
+blending repair.
+Following the PS960A blending repair, the accident blade was again
+ultrasonically inspected, and this time, neither a rejectable63 nor a reportable64
+indication was generated. This allowed the blade to be returned to service, and it
+was installed on the accident airplane. Safety Board laboratory measurements
+indicated that only a minimal amount of material (less than about 0.002 inch) was
+removed from the taper bore surface during the PS960A blending repair process.
+Although removal of this amount of material would have slightly decreased the
+size of the crack, it is unlikely that such a small decrease, by itself, would have
+reduced the ultrasonic indication from 60 or 52 percent (the magnitude of the
+indications recorded in the previous on-wing inspection and upon receipt at Rock
+Hill, respectively) to below 40 percent (the minimum level that must be recorded
+on the inspection form).
+The ultrasonic inspection beam must reflect off both the defect and
+the taper bore surface to bounce back to the transducer and be detected. However,
+the surface finish in the taper bore was much rougher than the original finish, and
+the sanding scratches that remained in the taper bore surface would have caused
+the ultrasonic beam to scatter or become diffused as the beam reflected from the
+taper bore surface. It is likely that this was the major reason for the decrease in the
+size of the ultrasonic indication. Therefore, the Safety Board concludes that the
+failure to restore the taper bore surface to the original surface finish during the
+blend repair, as required by PS960A, was a factor that caused the reduction of the
+ultrasonic indication that allowed the blade to pass the final ultrasonic inspection
+and to be returned to service, and thus contributed to the accident.
+In trying to determine why the technician did not properly perform
+the blend repair, the Safety Board noted that PS960A did not describe or refer to
+procedures that would ensure that the blended area was restored to its original
+surface finish but simply stated this as a requirement. The technicians were
+provided with examples of the required surface finish, which were designed to
+6350 percent or over of full-scale height.
+6440 percent or over of full-scale height.
+
+58
+assist them in determining whether the blended surface finish was appropriate.
+However, Safety Board investigators found that it was difficult to distinguish
+whether a particular surface finish varied from the examples. Investigators also
+considered the possibility that the technician’s improper performance of the blend
+repair was related to inadequate training in the repair,65 his automotive
+background, or the long hours he was working at the time.66 However, after
+extensive records examination and questioning of the technician, his supervisor
+and others at Hamilton Standard, it was not possible to determine whether, or to
+what extent, these factors contributed to the technician’s failure to properly restore
+the blended area to its original surface finish.
+Although the PS960A blend repair is no longer being used, Hamilton
+Standard uses blending (sanding) in a variety of other propeller repair procedures.
+In view of the potential for improperly performed blend repairs to mask existing
+corrosion and cracks, the Safety Board believes that the FAA should require
+Hamilton Standard to review and evaluate the adequacy of its tools, training and
+procedures for performing propeller blend repairs, and ensure that those blend
+repairs are being performed properly.
+The technician who performed the blend repair on the accident blade
+was neither an FAA-certificated mechanic nor, as an employee of a 14 CFR Part
+145 repair station, was he required to be certificated. The technician stated that he
+was permitted to sign off the work that he was qualified to perform. The shop
+traveler form, which listed the requirement for the 63 RMS surface finish, showed
+that the technician had signed off that he had accomplished the taper bore blend
+repair. However, except for the subsequent ultrasonic inspection that was to
+determine if the rejectable indication had been eliminated, there were no other
+inspections of the accident blade. 14 CFR Part 65.87 states, in part, that a
+certificated mechanic may return a propeller blade to service after he has repaired
+and inspected, or supervised the repair and inspection of, that part. 14 CFR Part
+145.45 specifies that a repair station must have an inspection system with qualified
+personnel to determine the airworthiness of the parts being altered or maintained.
+Therefore, the Safety Board believes that the FAA should review the need to
+require inspection (“buy back”) after the completion of work that is performed by
+65He received 90 hours of on-the-job training from the engineering manager, whose
+primary duties did not relate to training.
+66His work records indicate that during May and June of 1994, he worked between 8 and
+26 hours of overtime each week.
+
+59
+uncertificated mechanics at Part 145 repair stations to ensure the satisfactory
+completion of the assigned tasks.
+2.2.2 Adequacy of Hamilton Standard Procedures for Detecting
+Corrosion
+2.2.2.1 Borescope Inspection
+From an engineering and airworthiness perspective, the
+appropriateness of the PS960A blending repair procedure rests on the premise that
+there are no cracks or corrosion in the area being blended. However the
+investigation revealed that during the initial stages of inspecting and repairing the
+490 returned blades, although great emphasis was given to the development and
+implementation of the PS960A repair procedure, little consideration was given to
+the adequacy of the procedures being used to detect cracks and corrosion.
+The inside of the taper bore is less than 1 inch in diameter. Visual
+inspection of the interior of the taper bores was accomplished using a borescope
+that did not provide low angle (indirect) illumination, which would have
+highlighted changes in the surface depth, such as those related to subtle corrosion.
+Instead, the borescope inspection used direct illumination, which produced a glare
+and made visual detection of corrosion difficult. Using this direct-light borescope
+resulted in a view of the taper bore interior that would reveal gross discoloration
+or widespread corrosion but that would not readily reveal minor corrosion or small
+cracks. In addition, the glare could have caused eye strain over time. For these
+reasons, the probability of detection of cracks or corrosion decreased over the
+course of a work period.
+Corrosion in earlier blade failures, such as the Inter-Canadien
+accident, was widespread and deep, and most likely would have been readily
+detected by a visual inspection, even with a direct light source. However, the
+corrosion involved in the accident blade was shallow, diffused and more difficult
+to recognize as corrosion. In fact, the ultrasonic inspection performed prior to the
+PS960A repair directed the technician to the location of the corrosion pits, but
+upon visual examination of that area, the technician reported that he did not see
+“visible faults.” Safety Board investigators, and other experts who have examined
+the accident blade, agreed that inspection with a direct light source might not have
+adequately highlighted the corrosion and cracking that had already developed.
+
+60
+(An FPI inspection technique was later introduced, using a black light borescope,
+which would more readily reveal cracks and corrosion.)
+In addition, at the time the accident blade was inspected, the
+movement of the borescope into the taper bore hole and circumferentially around
+the hole was controlled by hand, and there was no procedure to ensure that the
+entire inner surface was inspected. Therefore, it is possible that the visual
+inspection of some blades, possibly even the accident blade, might have been
+incomplete. (Mechanical assistance to control the location of the borescope was
+introduced later.)
+Therefore, the Safety Board concludes that the borescope inspection
+procedure developed and used by Hamilton Standard in June 1994 to inspect
+returned blades that had rejectable ultrasonic indications for evidence of cracks,
+pits, and corrosion was inadequate and ineffective.
+2.2.2.2 Technician Training and Supervision
+Investigators were informed that technicians at Hamilton Standard,
+Rock Hill, normally received approximately 250 hours of general training before
+they began working on propellers being returned to airworthy condition. Because
+the technician who accomplished the taper bore repair to the accident blade
+transferred from another shop area (fiberglass and nickel sheath replacement and
+repair), he received his 250 hours of training in that area. After transferring to the
+taper bore area, he received about 90 hours of on-the-job training (OJT) for taper
+bore repair. However, that training was deficient because he was not provided a
+photograph or model of what corrosion or cracking looked like inside a taper bore.
+It was not until the fall of 1994 that such material was provided (in the form of a
+photographic example of corrosion and an instructional video), as part of a group
+of inspection improvements covered in a Component Maintenance Manual
+revision and Service Bulletin 14RF-9-61-70A. Compliance with that Service
+Bulletin was not required until March 23, 1995, with AD-95-05-03.
+In the absence of a photograph or model of different types of potential
+corrosion, the technician might have expected the type of gross corrosion or
+cracking more familiar to his automotive background and, thus, failed to realize
+the significance of corrosion with a more subtle appearance, such as that present in
+the accident blade. This problem was most likely compounded by the poor
+borescope inspection techniques discussed above. Further, technician training in
+
+61
+how to perform the taper bore repair procedure was provided by the Rock Hill
+facility engineering manager, who had numerous additional responsibilities at the
+time. Moreover, because the other inspectors were also recently hired and trained
+and were relatively inexperienced in finding corrosion in the taper bore of
+aluminum aircraft propellers, they were unable to provide guidance or help to each
+other.
+The Safety Board concludes that although the introductory technical
+training to prepare the new, inexperienced workforce at Hamilton Standard’s Rock
+Hill Customer Service Center may have been adequate, the specific training
+initially given to technicians who inspected blades returned to Rock Hill as a
+result of the on-wing ultrasonic inspections, including the accident blade, was not
+adequate to ensure that they were proficient in the detection of taper bore
+corrosion or associated cracks. (Hamilton Standard eventually improved its
+training by providing photographs and an instructional video.)
+2.2.2.3 Adequacy of Improvements to Inspection Procedures
+The Safety Board is concerned that Hamilton Standard and the FAA
+determined that repetitive ultrasonic inspections (per AD 95-05-03) could be
+terminated by a one-time visual borescope inspection to detect corrosion or by a
+previous PS960A repair, even though the probability of detection (POD67) for the
+visual borescope method would be less than 100 percent. As a result of this
+determination, when the ASA accident blade was visually inspected, repaired, and
+marked with “PS960A” (which incorporated a borescope inspection of the taper
+bore), the blade was exempt from further ultrasonic or visual inspections.
+Hamilton Standard’s and FAA’s expectations for a visual inspection were
+unrealistic, particularly when using hand-held borescopes with a direct light
+source, and when the technician did not have explicit examples of what was a
+rejectable visual condition.
+In the months following the first two failures in March 1994,
+Hamilton Standard identified inadequacies in the inspection process and generated
+improvements to address these inadequacies. Specifically, Hamilton Standard
+provided a photographic example of corrosion, a training video, a borescope feed
+adapter, and a process upgrade to FPI. However, when these improvements in the
+67The probability of detection (POD) for a visual inspection is dependent upon many
+variables including the flaw size, environment, ocular assistance devices, training and operator
+experience and fatigue.
+
+62
+inspection methods were made, Hamilton Standard either did not recognize or was
+not concerned that taper bore flaws, such as the crack in the ASA blade, might
+have gone undetected during the previous inspection and repair process before the
+improvements were made because Hamilton Standard did not implement
+retroactive inspection of those blades that had been inspected previously and
+returned to service under inspection standards and processes that were no longer
+considered adequate.
+Because the accident blade had been rejected once for an ultrasonic
+indication caused by the crack that ultimately propagated to cause separation, it is
+very likely that the existing crack would have been redetected if the accident blade
+had been subjected to additional ultrasonic inspections (at the required 1,250 cycle
+intervals, per AD 95-05-03) after it was returned to service following the Rock
+Hill maintenance activities. If the accident blade had been subjected to the
+recurrent on-wing ultrasonic inspections required by AD-95-05-03, it would have
+received one inspection, and possibly a second, before the crack reached critical
+size and the blade separated. Therefore, the Safety Board concludes that Hamilton
+Standard’s failure to recommend, and the FAA’s failure to require, repetitive
+ultrasonic inspections for all propellers (particularly those already inspected when
+there were recognized shortcomings in the inspection process) contributed to the
+accident because the crack in the accident blade would likely have been detected
+in a recurrent ultrasonic inspection.
+2.3 Effect of Blade Resonance
+When Hamilton Standard attempted to model the growth of a taper
+bore fatigue crack in the fall of 1995, the results of the initial fracture mechanics
+analysis of the fracture of the Inter-Canadien (ATR-42) blade were consistent with
+the initiation and propagation of the crack from the corrosion pits in that blade.
+However, the analysis indicated that cracking should not have developed from the
+smaller corrosion pits that were found at the origin area of the ASA blade and the
+Nordeste blade (both from EMB 120 airplanes).
+To more fully understand the ASA taper bore fracture mechanics,
+Hamilton Standard then used a NASA-developed program called FASTRAN,
+which addressed the magnitudes and numbers of stress cycles required for
+corrosion pits to form cracks and for the cracks to propagate to critical size. Using
+the measured flaw sizes from the accident blade and the two previous fractures,
+the FASTRAN program was able to predict the stress cycles needed for the crack
+
+63
+in each of the blades, including the ASA blade, to propagate from the initial flaw
+size to fracture. Hamilton Standard indicated to the Safety Board that for a
+corrosion pit to initiate a crack, especially for small pit sizes, such as in the ASA
+blade, a blade would have to have been subjected to a very high number of stress
+cycles of the most severe type that the blade would normally encounter in routine
+operations. Since a ground-air-ground (GAG) cycle68 imparts severe stress to the
+blade only once per flight, Hamilton Standard engineers believed that 2P
+resonance (which occurs twice per revolution of the propeller) in adverse winds,
+perhaps during a maintenance ground run, contributed to the initiation of the crack
+from corrosion pitting and propagation of the crack while it was small. The
+FASTRAN program calculated that for a crack the size of the ASA crack at the
+time the blade was at Rock Hill (0.050 by 0.060 inch) to propagate to failure, an
+average of 50 maximum level 2P stress cycles would have to be accumulated each
+flight. This number of cycles could be accumulated in about 1.6 seconds of
+operation at the rpm range associated with 2P resonance during ground operation
+in adverse winds (quartering tailwinds).69
+Through independent testing using a corporate-owned EMB-120
+airplane, Hamilton Standard confirmed previous test results that the most severe
+stress cycles were the GAG cycles, and the vibratory stresses encountered during
+2P resonance (which are about the same magnitude as the GAG stresses) in
+adverse winds during ground operations.
+It should be noted that during the propeller ground tests conducted by
+Hamilton Standard (where stress levels up to 18,000 psi were measured), the test
+lasted for only 30 seconds. The 30-second interval might not have been of
+sufficient duration, with the given test conditions, to produce maximum possible
+stress. Additionally, the quartering tailwinds were generated by the propeller
+wash of a small executive turbopropeller aircraft. It is possible that stress levels in
+excess of 18,000 psi could be attained if the propeller were allowed to remain in
+the resonant condition in excess of 30 seconds or if the propeller was subjected to
+natural quartering tailwind conditions of higher velocity.
+68A GAG cycle included engine power application for takeoff, climb, cruise, descent and
+reverse thrust after landing.
+69Ground operation in a tailwind or quartering tailwind causes the airplane to shake and
+buffet, which hampers the mechanic’s ability to read instruments and perform any meaningful
+tests.
+
+64
+The Safety Board noted that ASA’s operational procedures prohibited
+single-engine taxi. Because single-engine taxi increases the potential for ground
+operation in the resonant range, by requiring higher engine rpm to initiate and
+continue movements, it might be expected that other operators of EMB-120
+airplanes that allow single-engine ground operation would have a higher incidence
+of cracks. That is, if a 2P resonant condition could be generated during normal
+ground operations and could initiate and propagate a fatigue crack, it would be
+more likely that cracking would occur on blades used by operators that allow
+single engine operation on the ground. However, this did not occur.
+It is also possible that a 2P resonant condition was generated during
+some type of ground maintenance activity and that these stresses contributed to the
+initiation and propagation of the crack. However, ground operation in a tailwind
+or quartering tailwind is contrary to all standard maintenance practice and is
+prohibited in the EMB-120 maintenance manual. The Safety Board could find no
+documented evidence, and was not provided any information by Hamilton
+Standard, Embraer, Pratt and Whitney of Canada, or the operator, that the
+propeller was operated in a 2P resonant condition. Additionally, the EMB-120
+cockpit was placarded, and there were cautions set forth in the airplane flight
+manual and engine maintenance manual to avoid engine operation above 65
+percent Np range in adverse wind conditions. Safety Board investigators had a
+number of opportunities to observe whether there was compliance with these
+limitations, and they did not observe noncompliance.
+Although ground operation in a tailwind causes the airplane to shake,
+the shaking is a result of disturbed airflow across the wings and fuselage and is not
+damaging. However, under such conditions, an increase of the propeller rpm into
+the resonant range would generate a reactionless vibratory mode in the propellers.
+This would be undetectable, especially during crosswind-induced airframe buffet.
+Such circumstances could arise at any time during ground operation in a strong
+quartering tailwind, such as while operating in the vicinity of jet wash from a large
+transport aircraft. With a population of more than 2,450 14RF-9 model blades in
+service on EMB-120 airplanes throughout the world, there have probably been
+many occasions when blades were operated in quartering tailwinds in excess of the
+10 knots cautioned about in the flight manual and placards.
+The Safety Board concludes that a combination of 2P resonance and
+GAG cycle stresses initiated the crack from the corrosion pits in the ASA blade
+and caused the crack to propagate to failure under normal operating conditions.
+
+65
+2.4 Adequacy of Vibration Testing
+Hamilton Standard’s 1983 and 1985 certification stress surveys were
+conducted using one instrumented blade with a second instrumented blade as a
+backup. None of the tests were conducted using blades that had previously been
+used in service. The 1995 stress survey conducted as a consequence of this
+accident included three instrumented blades that had approximately 12,000 service
+hours. The 1995 stress survey revealed a small but important difference from the
+1983 and 1985 certification tests. Although no new high stress conditions were
+discovered, a small downward shift in the first flat-wise natural frequency was
+detected. This downward shift was attributed to normal wear and mass properties
+in the propeller blade from normal operation.
+On April 19, 1993, the Safety Board investigated a propeller in-flight
+separation on an MU-2B-60 in Zwingle, Iowa. As indicated in the accident report,
+the Safety Board discovered that during certification testing of the Hartzell HC-B4
+propeller on the MU-2B airplane, a reactionless mode of vibration was identified
+with the peak stress occurring at a propeller speed of 1,079 rpm. As a result, the
+propeller was prohibited from continuous operation on the ground below 1,145
+rpm. The Safety Board did not find evidence that the test was repeated using
+propeller blades altered to conform to the minimum dimensions specified in the
+repair limit criteria contained in the Hartzell HC-B4 propeller maintenance
+manual.
+The FAA recommends in Advisory Circular (AC) 20-66, Vibration
+Evaluation of Aircraft Propellers, in the chapter on vibration measurement
+programs, that propeller diameters should be tested at various lengths throughout
+the diameter range, to include the maximum and minimum diameters, and the
+cutoff repair limit. Although it is not explained in AC 20-66, testing a propeller
+blade at its cutoff repair limit is conducted presumably to ensure that the decrease
+in blade length does not alter the natural frequency to the extent that a resonant
+vibration condition could be entered while operating within the normal rpm range.
+AC 20-66 considers the expected loss of mass of a metal propeller blade following
+blend repair; however, the AC does not consider the expected mass gain with age
+of a composite propeller blade. Composite blades may gain mass with age with
+the addition of layers of paint, introduction of moisture, and patch repairs.
+A review of AC 20-66, which includes a detailed discussion of the
+propeller vibratory phenomenon, does not explain that a propeller blade’s natural
+
+66
+vibratory response varies with varying conditions (i.e. mass gain, mass loss,
+variations in airfoil shape, etc.) and that adequate margin from a potentially
+coincident excitation frequency should be maintained. Consequently, the Safety
+Board concludes that the AC does not provide guidelines for adequate margin
+between a propeller blade’s natural frequencies and its potentially coincident
+excitation frequencies over the life of the blade.
+Therefore, the Safety Board believes that the FAA should revise AC
+20-66 to include the vibratory testing of composite propeller blades that have been
+previously operated for a substantial number of service hours, and composite
+blades that have been altered to the limits set forth in FAA-approved repair
+manuals to determine the expected effects of age on propeller vibration and
+provide guidelines for rpm margin between a propeller blade’s natural frequencies
+and the excitation frequencies associated with propeller operation.
+2.5 Effect of Blade Failure and Analysis of Terminating Action
+The forward half of the fractured front inlet case, found along the
+wreckage path, was attached to the reduction gear box (RGB) of the left engine.
+The RGB case was also fractured, empty of oil, and some internal gearbox
+components were missing. The in-flight fracture of the RGB case most likely
+resulted in the loss of the gearbox components and the venting liquid reportedly
+seen by the passengers.
+Damage to the forward engine mounts and the front frame of the left
+engine nacelle indicated that the propeller RGB first separated upward at the
+inboard mount location, followed by the aft and outboard failure at the outboard
+mount location. Failure of the engine mounts were the result of overload stresses.
+The imbalance loads associated with the separated blade on the
+accident airplane apparently exceeded the design strength of the RGB attachment
+points. In this instance, it appears that the RGB was retained on the airplane in an
+outboard displaced position, as observed by the passengers, from the time of
+propeller blade separation until the beginning of the initial ground impact.
+Embraer’s postcertification (September 1984) testing determined that
+the nacelle would not withstand a mid-blade or full-blade segment loss. To date,
+there have been four blade separations--three from fatigue cracks that initiated in
+the taper bore. The first blade separation (Inter-Canadien) resulted in RGB and
+
+67
+propeller separation, and the assembly fell to earth. During the second blade
+separation (Nordeste), the RGB and propeller assembly remained in place. During
+the third separation (the Luxair accident), in which a fracture occurred in the blade
+shank area, the RGB and propeller assembly again fell from the airplane. During
+the fourth blade failure (this accident), the RGB rotated out of position, and
+resulted in degraded aerodynamic performance and a fatal accident.
+Although in two of the occurrences, the RGB and propeller fell clear
+and did not seriously compromise the airplane or degrade its performance, all of
+the occurrences clearly placed the airplane and its occupants at potential serious
+risk. On four occasions, stresses on blades with flaws (corrosion pits or
+mechanical damage) have produced a blade separation even though the propeller
+was certificated based on the assumption of an unlimited life. Because the current
+regulations do not require that an airframe survive if a blade breaks, and because
+Embraer has determined that the EMB-120 cannot survive the loss of a mid-blade
+or full-blade segment, minimizing the possibility of a propeller blade separation is
+imperative. To prevent future failures, it is essential that stress risers in the form
+of corrosion or mechanical damage are not permitted to occur on any propeller
+blade.
+The Safety Board concurs that the taper bore repair procedure
+specified in the March 1996 Service Bulletins (and required by ADs) should have
+restored the surface of the taper bore of all existing propellers to a nearly new
+condition. Also, because Hamilton Standard has prohibited the use of the
+mechanical lead-removal tools during routine blade balancing, the likelihood of
+future inadvertent mechanical damage has been greatly reduced.
+However, while the terminating taper bore repair procedure should
+detect and eliminate any chlorine-induced corrosion or mechanical damage, the
+Safety Board is concerned that exposure to small amounts of moisture or other
+atmospheric elements during routine maintenance, the recurring inspection
+procedure set forth in the CMM, periods of low utilization, or long-term storage
+may allow atmospheric-induced corrosion to begin in the taper bore. The Safety
+Board is aware of reports of corrosion and cracking in the taper bores of P-3 and
+C-130 propellers associated with long-term storage. Because of this, the Safety
+Board concludes that despite all the actions taken by Hamilton Standard and the
+FAA to date, there is a continuing potential for corrosion to develop in taper bores
+of the affected Hamilton Standard propeller blades. Therefore, the Safety Board
+believes that the FAA should require that Hamilton Standard consider long-term,
+
+68
+atmospheric-induced corrosion effects and amend the CMM inspection procedure
+to reflect an appropriate interval that will detect any corrosion within the taper
+bore.
+2.6 FAA Oversight
+2.6.1 Role of Designated Engineering Representative and FAA
+Certifying Engineer
+As discussed in Section 1.16.3, Hamilton Standard extended the
+applicability of the PS960A blending repair beyond its original purpose (blending
+of mechanical damage) to also allow blending of shotpeen impressions to remove
+ultrasonic indications without informing or involving its DER or the FAA
+(through its Certifying Engineer in the Engine and Propeller Directorate).
+Hamilton Standard was aware that the FAA Certifying Engineer had earlier
+determined that repair procedures to the taper bore would require direct FAA
+approval. Consistent with this determination, both the DER (who served as a
+liaison to the FAA) and the Certifying Engineer were involved in developing the
+initial ultrasonic inspection procedures later set forth in ASB 14RF-0-61-A66 and
+the PS960A repair procedure. If Hamilton Standard had consulted with the DER
+and the FAA about the proposed extension and the reason for it (ultrasonic
+indications in blades without any visible damage), it might have prompted the
+FAA to reconsider whether the inspection and repair processes then being used
+were adequate to identify blades at risk for cracking.
+Even though the extension of PS960A to allow blending of shotpeen
+impressions might have been approved by the FAA, if approval had been
+requested, Hamilton Standard’s failure to seek such approval nonetheless played a
+role in creating the confusion that led to the misapplication of PS960A. The
+FAA’s approval would likely have been documented in a fashion similar to its
+approval of PS960 and PS960A, clearly specifying the limits of the approved
+extension. In contrast, as discussed in Section 2.2.1.1, Hamilton Standard’s
+attempt to internally document the extension was confusing and led to the
+misapplication of the repair to unshotpeened taper bores with unexplained
+ultrasonic indications.
+Accordingly, the Safety Board concludes that Hamilton Standard’s
+failure to seek FAA approval of the extension of PS960A blending repair hindered
+the FAA’s ability to oversee Hamilton Standard’s handling of the taper bore crack
+
+69
+and corrosion problem, and led to an inadequate documentation of the extension
+that caused confusion and misapplication of the repair. Although the DER stated
+that this lapse in communication was atypical, the Safety Board is concerned--
+especially in light of the inadequate manner in which Hamilton Standard
+communicated the information to its managers and technicians--that it may
+represent a deficiency in Hamilton Standard’s corporate communication.
+Specifically, it suggests that Hamilton Standard placed insufficient emphasis on
+proper communication of vital safety information. Accordingly, the Safety Board
+believes that the FAA should require Hamilton Standard to review and, if
+necessary, revise its policies and procedures regarding 1) internal communication
+and documentation of engineering decisions, and 2) involvement of the DER and
+FAA, and to ensure that there is proper communication, both internally and with
+the FAA, regarding all significant engineering decisions.
+2.7 Weather
+The flight was operating in accordance with an IFR flight plan and
+was climbing above overcast clouds at the initiation of the accident sequence. A
+weather observation taken at CTJ, approximately 4 miles from the crash site,
+reported an 800-foot overcast cloud ceiling just after the accident. However,
+weather conditions appropriate for visual flight below the clouds were reported at
+several airports near the accident site.
+From the flightcrew’s requests to ATC for vectors to the airfield, it is
+apparent that the cloud ceiling affected the flightcrew’s ability to visually acquire
+a suitable landing site during the descent for a forced landing. In the latter portion
+of the descent, after descending below the overcast cloud ceiling, the airplane’s
+height above the terrain would have limited the view of the flightcrew to just the
+immediate area. The airplane impacted the ground in a left-wing-down attitude,
+probably because the flightcrew was attempting to complete a turn to properly
+align themselves for the forced landing. If the overcast cloud ceiling had been
+higher, the crew would have had more time to align the airplane and level the
+wings before the impact. Consequently, the Safety Board concludes that the cloud
+ceiling precluded the flightcrew from being able to see the ground and thus to
+make a more successful forced landing, a situation that contributed to the severity
+of the accident.
+
+70
+2.8 Air Traffic Control Services
+All FAA ATC personnel were trained, certificated, and qualified for
+their duties. There were no apparent physiological or behavioral impairments or
+disabilities that would have detracted from their ability to provide the expected air
+traffic services. Following the declaration of the emergency by the flightcrew and
+their continuing description of their difficulties, the controllers provided
+appropriate assistance to the crew.
+The Atlanta Center controller did not issue the CTJ AWOS
+frequency. Although FAA ATC procedures70 require that “both center and
+approach controllers shall provide current approach information to aircraft
+destined to airports for which they provide approach control services,” in this case,
+the Atlanta Center controller was not responsible for approaches into CTJ and was
+not in the best position to have provided this information.
+The closest weather report immediately available to the approach
+controller was the ATL Airport observation, the flight’s departure point. There
+was no controller assigned to the “assist” position and although the manager and
+supervisor were nearby, they became occupied with coordinating and monitoring
+activities supporting the flight and did not attempt to retrieve the CTJ AWOS
+weather information by telephone. During the 90 seconds that the approach
+controller was in radio communication with the flight, the controller issued a
+vector toward the runway, the localizer frequency, confirmed the flight was in
+visual conditions and issued a vector for the visual approach. Therefore, the
+Safety Board concludes that, although the Atlanta approach controller did not
+issue the AWOS frequency or provide weather information, the controller
+performed higher priority tasks and, because the flight had to land at the nearest
+airport regardless of the weather, the failure to provide the CTJ weather
+information to the flightcrew was not a factor in this accident.
+The Safety Board examined the performance of both the center and
+the approach controllers in assisting the accident flight. Once the flightcrew
+declared the emergency, Atlanta Center immediately issued instructions to permit
+the flight to return to ATL. Because of the location of the aircraft within the
+sector, the radar controller and manual assist controller coordinated with
+70FAA Order 7110.65, “Air Traffic Control,” Chapter 4, “IFR,” Section 7, “Arrival
+Procedures,” paragraph 4-7-13, “Approach Information,” applies.
+
+71
+surrounding sectors; the center controller attempted to assist the accident
+flightcrew by providing vectors and airport information. However, because of the
+degraded flight performance of the aircraft, the flightcrew was not able to effect a
+timely response to the controller’s instructions. When the flightcrew requested
+information normally available from the approach controller, such as runway
+heading and airport surface condition, the center controller instructed the
+flightcrew to contact the approach control facility. FAA ATC procedures71 state in
+part, “If you are in communication with an aircraft in distress, handle the
+emergency and coordinate and direct the activities of assisting facilities. Transfer
+this responsibility to another facility only when you feel better handling of the
+emergency will result.”
+The flightcrew would have been able to advise the center controller
+that they preferred to remain on the current frequency because of the emergency,
+and the center controller may have been able to coordinate alternate procedures.
+Also, in retrospect, the Atlanta Center controller could have made an earlier
+handoff if he had been informed by the flightcrew of, or if he had perceived the
+full extent of, the performance degradation to the accident airplane. However, the
+Safety Board concludes that the timing of the handoff to Atlanta approach control
+by the Atlanta Center controller was not a factor in the accident.
+The Safety Board is concerned, however, about the failure of ATC
+controllers to notify CFR services once the controllers were aware of the
+emergency situation. At 1644:25, the flightcrew of ASE 529 notified the Atlanta
+Center air traffic controllers that they had experienced an engine failure and
+declared an emergency. Two minutes later, the flightcrew advised that they
+needed to “land quick” and requested the controller to “roll the trucks and
+everything for us.” The controller then advised the flightcrew that CTJ was the
+closest airport and directed the aircraft to CTJ. Although ATC was aware of the
+emergency situation and destination airport, ATC did not notify the fire and
+emergency services covering CTJ, the Carroll County Fire Department, of the
+incoming aircraft.
+Atlanta Center should have immediately advised the appropriate CFR
+service or instructed Atlanta approach of the pilot’s request so that they could have
+made timely airport emergency services notification. The accident had already
+71FAA Order 7110.65, Chapter 10, “Emergencies,” Section 1, “General,” paragraph 10-1-
+4, “Responsibility,” applies.
+
+72
+occurred when the Atlanta approach controller made the call to the Carroll County
+Sheriff, and it had already been reported by a citizen on 911. The Safety Board
+concludes that if the Atlanta Center had placed a call for emergency services as
+soon as the pilot requested, which was 10 minutes before the accident, personnel
+would have responded sooner, and the rescue efforts might have been more timely
+and effective. Therefore, the Safety Board believes that the FAA should include
+an article in the Air Traffic Bulletin and provide a mandatory formal briefing to all
+air traffic controllers regarding the necessity and importance of notifying crash,
+fire and rescue personnel upon a pilot’s request for emergency assistance. Ensure
+that air route traffic control center (ARTCC) controllers are aware that such a
+request may require them to notify local emergency personnel.
+2.9 Survival Factors Aspects
+The Safety Board commends the exemplary manner in which the
+flight attendant briefed the passengers and handled the emergency. According to
+passengers, immediately following the loss of the propeller blade, the flight
+attendant checked with each passenger individually to make sure that they all
+understood how to assume the brace position, and she yelled instructions to the
+passengers up until the time of impact. After the crash, although she was seriously
+injured, she continued to assist the passengers by moving them away from the
+airplane and extinguishing flames on at least one passenger who was on fire.
+2.9.1 Time Management During Emergencies
+The Safety Board recognizes that the flightcrew in this accident was
+attempting to control the aircraft. However, the Safety Board is concerned that the
+flight attendant neither received nor sought information about the time remaining
+to prepare the cabin or to brace for impact. The CVR transcript revealed that the
+flightcrew informed her 7 minutes before impact that they had experienced an
+engine failure, that they had declared an emergency for return to ATL, and that
+they had advised her to brief the passengers. There were no further
+communications to the flight attendant. Specifically, the flight attendant was
+never told that the airplane would not be able to make ATL, and would instead be
+making an off-airport crash landing. The flight attendant stated that while
+preparing the cabin and passengers, she saw the tree tops from a cabin window.
+She immediately returned to her jump seat and shouted her commands. A
+passenger commented that the flight attendant was barely in the brace position
+when the impact occurred.
+
+73
+The Safety Board is concerned that the flight attendant and the
+flightcrew did not discuss a brace signal and the time available to prepare the
+cabin, and that the flightcrew did not announce a brace command on the public
+address system. Further, if the flight attendant had not had sufficient time to
+fasten her safety belt and shoulder harness, she might have received more serious
+or fatal injuries, and she might have been incapable of directing an evacuation.
+The FAA has recognized that communication and coordination
+between cockpit crewmembers and flight attendants continue to challenge air
+carriers and the FAA. Advisory Circular (AC) 120-51B, “Crew Resource
+Management Training,” suggests several methods of addressing this problem.
+Paragraph 15, Evolving Concepts of CRM: Extending Training Beyond the
+Cockpit, addresses specific subjects for joint training but does not specifically deal
+with the communication of critical information during an emergency.
+The Safety Board’s special investigation report on flight attendant
+training72 describes another accident on page 28:
+The lead flight attendant in the DC-10 stated that she knew
+emergency procedures required her to determine the amount of
+time available to prepare the passengers and the cabin. However,
+she chose not to ask the flightcrew about the time. Additionally,
+the second item on the flight attendant checklist was “Determine
+Time,” but none of the flight attendants followed this checklist
+procedure.
+Although the FAA issued Air Carrier Operations Bulletin 1-91-11 in
+response to Safety Board Safety Recommendation A-90-173, which called for
+inspectors to reiterate the importance of time management in the preparation of the
+cabin in a planned emergency, the Safety Board concludes that this accident also
+illustrates that critical information regarding time available to prepare the aircraft
+for an emergency landing or impact is not being considered and communicated
+among flight and cabin crewmembers. Therefore, to improve the interactions
+between the cockpit and cabin crews, the Safety Board believes that the FAA
+should amend AC 120-51B to include guidance regarding the communication of
+72See Special Investigation Report—“Flight Attendant Training and Performance During
+Emergency Situations” (NTSB/SIR-92/02)
+
+74
+time management information among flight and cabin crewmembers during an
+emergency.
+2.9.2 Crash Axes
+The captain and first officer were trapped in the cockpit by fire that
+had ignited on the cabin side of the cockpit door. When the first officer found it
+impossible to open his cockpit sliding window, he unsuccessfully attempted to
+chop a hole in the hardened Plexiglas side window using the airplane crash ax. It
+was apparently intended for use as a woodworking tool because it consisted of a
+blade and nail puller attached to a wooden handle. Given the resilient composition
+of the cockpit window material, it was difficult to make a hole in the window
+panel; however, if the ax had been equipped with a pry bar rather than a nail
+puller, the first officer might have been successful in wedging the pry bar between
+the window and the track or frame and prying or forcing the window open.
+Although regulations exist that require most passenger-carrying aircraft to be
+equipped with a crash ax,73 there is no FAA or other civil technical standard
+regarding the design and use of crash axes. This accident demonstrates the
+importance of an adequate crash ax design.
+The crash ax carried aboard military transport aircraft conforms to a
+special design. Large commercial transport airplanes manufactured in the United
+States are equipped with crash axes of similar design. Additionally, firefighter
+axes that have a wedge and pry bar tool features are in use by airport rescue and
+fire fighting personnel and municipal emergency medical technicians. The Safety
+Board concludes that there should be standards governing the design of crash axes
+required to be carried aboard passenger-carrying aircraft. Therefore, the Safety
+Board believes that the FAA should evaluate the necessary functions of the
+aircraft crash ax, and provide a technical standard order or other specification for a
+device that serves the functional requirements of such tools carried aboard aircraft.
+73See 14 CFR 91.513(e), 135.177(a)(2), and 121.309(e).
+
+75

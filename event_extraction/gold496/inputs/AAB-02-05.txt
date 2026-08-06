@@ -1,0 +1,1248 @@
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+A
+TI T
+OI
+Washington, D.C. 20594
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident No.: DCA00MA052
+Operator or Flight Number: Executive Airlines
+Aircraft and Registration: British Aerospace J-3101, N16EJ
+Location: Bear Creek Township, Pennsylvania
+Date: May 21, 2000
+HISTORY OF FLIGHT
+On May 21, 2000, about 1128 eastern daylight time (EDT),1 a British Aerospace
+Jetstream 3101, N16EJ, operated by East Coast Aviation Services (doing business as Executive
+Airlines) crashed about 11 miles south of Wilkes-Barre/Scranton International Airport (AVP),
+Wilkes-Barre, Pennsylvania. The airplane was destroyed by impact and a postcrash fire, and
+17 passengers and two flight crewmembers were killed. The flight was being conducted under
+14 Code of Federal Regulations (CFR) Part 135 as an on-demand charter flight for Caesar’s
+Palace Casino in Atlantic City, New Jersey. An instrument flight rules (IFR) flight plan had been
+filed for the flight from Atlantic City International Airport (ACY) to AVP.
+The captain checked in for duty about 0800 at Republic Airport (FRG) in Farmingdale,
+New York, on the day of the accident. The airplane was originally scheduled to depart FRG at
+0900 for ACY and to remain in ACY until 1900, when it was scheduled to return to FRG. While
+the pilots were conducting preflight inspections, they received a telephone call from Executive
+Airlines’ owner and chief executive officer (CEO) advising them that they had been assigned an
+additional flight from ACY to AVP with a return flight to ACY later in the day, instead of the
+scheduled break in ACY.
+Fuel records at FRG indicated that 90 gallons of fuel were added to the accident
+airplane’s tanks before departure to ACY. According to Federal Aviation Administration (FAA)
+air traffic control (ATC) records, the flight departed at 0921 (with 12 passengers on board) and
+arrived in ACY at 0949. According to passenger statements, the captain was the pilot flying from
+FRG to ACY.2 After arrival in ACY, the flight crew checked the weather for AVP and filed an
+IFR flight plan. Fuel facility records at ACY indicated that no additional fuel was added. The
+1 Unless otherwise indicated, all times are EDT, based on a 24-hour clock. The accident time is approximate,
+based on air traffic control (ATC) information.
+2 According to company practices, pilots alternated pilot flying duties each flight leg. Representatives of
+Executive Airlines who were familiar with both pilots reviewed the ATC recordings from AVP approach and tower
+facilities and identified the captain as the pilot speaking with ATC in all radio transmissions. Based on company
+policy, it is likely that the first officer was the pilot flying on the flight to AVP.
+NTSB/AAB-02/05
+
+2
+accident flight to AVP, which departed ACY about 1030, had been chartered by Caesar’s Palace.
+According to ATC records, the flight to AVP was never cleared to fly above 5,000 feet mean sea
+level (msl).3
+According to ATC transcripts,4 the pilots first contacted AVP approach controllers at
+1057 and were vectored for an instrument landing system (ILS)5 approach to runway 4. The flight
+was cleared for approach at 1102:07, and the approach controller advised the pilots that they
+were 5 nautical miles (nm) from Crystal Lake, which is the initial approach fix (IAF) for the ILS
+approach to runway 4.6 The pilots were told to maintain 4,000 feet until established on the
+localizer. At 1104:16, the approach controller advised that a “previous landing…aircraft picked
+up the airport at minimums [decision altitude].”7 The pilots were instructed to contact the AVP
+local (tower) controller at 1105:09, which they did 3 seconds later. The airplane then descended
+to about 2,200 feet, flew level at 2,200 feet for about 20 seconds, and began to climb again about
+2.2 nm from the runway threshold when a missed approach was executed (see the Airplane
+Performance section for more information).
+At 1107:26 the captain reported executing the missed approach but provided no
+explanation to air traffic controllers.8 The tower controller informed the North Radar approach
+controllers of the missed approach and then instructed the accident flight crew to fly runway
+heading, climb to 4,000 feet, and contact approach control on frequency 124.5 (the procedure
+published on the approach chart). The pilots reestablished contact with the approach controllers
+at 1108:04 as they climbed through 3,500 feet to 4,000 feet and requested another ILS approach
+to runway 4. The flight was vectored for another ILS approach, and at 1110:07 the approach
+controller advised the pilots of traffic 2 nm miles away at 5,000 feet. The captain responded that
+they were in the clouds. At 1014:38, the controller directed the pilots to reduce speed to follow a
+Cessna 172 on approach to the airport, and the captain responded, “ok we’re slowing.” The flight
+was cleared for a second approach at 1120:45 and advised to maintain 4,000 feet until the
+airplane was established on the localizer.
+At 1123:49 the captain transmitted, “for uh one six echo juliet we’d like to declare an
+emergency.” At 1123:53, the approach controller asked the nature of the problem, and the captain
+responded, “engine failure.” The approach controller acknowledged the information, informed
+the pilots that the airplane appeared to be south of the localizer (off course to the right), and
+asked if they wanted a vector back to the localizer course. The flight crew accepted, and at
+1124:10 the controller directed a left turn to heading 010, which the captain acknowledged. At
+3 ATC radar indicated that the airplane approached AVP from the southeast at an initial altitude of 5,000 feet.
+4 No information was recorded on the cockpit voice recorder (CVR). ATC transcripts are the only record of pilot
+communication. See the CVR Maintenance section for information about the CVR’s failure to record information.
+5 The ILS is a precision approach system that provides lateral alignment (localizer) and vertical guidance
+(glideslope) with the runway.
+6 The Crystal Lake non-directional beacon is located about 8.4 nm from the runway 4 threshold.
+7 Decision altitude (DA) is a specified altitude at which a missed approach must be executed if visual references
+have not been established. DA for the ILS runway 4 approach is 1,263 feet msl, or about 300 feet above the runway
+touchdown zone.
+8 The airplane was about 2.5 nm from the runway threshold when it began to climb on the missed approach.
+NTSB/AAB-02/05
+
+3
+1124:33, the controller asked for verification that the airplane was turning left. The captain
+responded, “we’re trying six echo juliet.” At 1124:38, the controller asked if a right turn would
+be better. The captain asked the controller to “stand by.” At 1125:07, the controller advised the
+pilots that the minimum vectoring altitude (MVA) in the area was 3,300 feet. At 1125:12, the
+captain transmitted, “standby for six echo juliet tell them we lost both engines for six echo
+juliet.” At that time, ATC radar data indicated that the airplane was descending through 3,000
+feet.
+The controller immediately issued the weather conditions in the vicinity of the airport and
+informed the flight crew about the location of nearby highways. At 1126:17, the captain asked,
+“how’s the altitude look for where we’re at.” The controller responded that he was not showing
+an altitude readout from the airplane9 and issued the visibility (2.5 miles) and altimeter setting. At
+1126:43, the captain transmitted, “just give us a vector back to the airport please.” The controller
+cleared the accident flight to fly heading 340, advised the flight crew that radar contact was lost,
+and asked the pilots to verify their altitude. The captain responded that they were “level at
+2,000.” At 1126:54, the controller again advised the flight crew of the 3,300-foot MVA and
+suggested a 330° heading to bring the airplane back to the localizer. At 1127:14 the controller
+asked, “do you have any engines,” and the captain responded that they appeared to have gotten
+back “the left engine now.” At 1127:23, the controller informed the pilots that he saw them on
+radar at 2,000 feet and that there was a ridgeline between them and the airport. The captain
+responded, “that’s us” and “we’re at 2,000 feet over the trees.” The controller instructed the
+pilots to fly a 360° heading and advised them of high antennas about 2 nm west of their position.
+At 1127:46, the captain transmitted, “we’re losing both engines.” Two seconds later the
+controller advised that the Pennsylvania Turnpike was right below the airplane and instructed the
+flight crew to “let me know if you can get your engines back.” There was no further radio contact
+with the accident airplane. The ATC supervisor initiated emergency notification procedures. A
+Pennsylvania State Police helicopter located the wreckage about 1236, and emergency rescue
+units arrived at the accident site about 1306. The accident occurred in daylight instrument
+meteorological conditions (IMC). The location of the accident was 41° 9 minutes, 23 seconds
+north latitude, 75° 45 minutes, 53 seconds west longitude, about 11 miles south of the airport at
+an elevation of 1,755 feet msl.
+Witness Statements
+The Safety Board interviewed several witnesses who were along the accident airplane’s
+flightpath and near the accident site at the time of the accident. One witness located near the
+crash site stated, “the aircraft was making a very loud sound as if overspeeding and slowing
+down at different times. A short time later, the engines stopped.” The witness added, “the plane’s
+engines sounded unusually loud to me as if they were being accelerated to the maximum. A few
+seconds later, the sound of the engines stopped. A few seconds after that, the sound of the
+9 The airplane had descended below the MVA of 3,300 feet and radar was unable to record its altitude because
+of terrain interference.
+NTSB/AAB-02/05
+
+4
+engines started a short distance away from the location I originally heard the airplane and soon
+thereafter, once again stopped.”
+A second witness in the vicinity of the crash site stated, “I heard the engines cut out but
+the turbines continued to whine…soon after that, I heard the whining of the turbines but
+definitely the engine was not running.” Another witness, who was in the vicinity where the pilots
+radioed that they had lost an engine, stated that he heard an engine noise that was “very loud,
+irregular running, with a real rough grinding noise…the sound pitched up and down in cycles.”
+PERSONNEL INFORMATION
+Both flight crewmembers were certificated under company and FAA certification
+requirements. A review of FAA records indicated that the flight crewmembers had no record of
+airplane accidents, incidents, or enforcement actions. In addition, the flight crewmembers held
+valid driver’s licenses with no history of accidents or violations during the 3 years before the
+accident. A search of the National Driver Registry found no history of driver’s license revocation
+or suspension for either flight crewmember.
+The Captain
+The captain, age 34, was hired by Executive Airlines in April 1998 as a part-time pilot.
+He was also a full-time pilot for Atlantic Coast Airlines (ACA), where he had started working in
+December 1992. At ACA, he was a captain on the Jetstream 3200 and the Jetstream 4100. He
+held an airline transport pilot (ATP) certificate, issued on May 17, 2000, and type ratings in the
+Jetstream 3100, Jetstream 4100, and Dornier D-328 jet. His most recent FAA first-class medical
+certificate was dated December 16, 1999, with no restrictions or limitations. At the time of the
+accident, the captain had accumulated about 8,500 flying hours, including about 1,874 hours as
+pilot-in-command in the Jetstream. According to the captain’s wife, the captain had flown
+previously with the accident first officer and considered him to be a good pilot.
+According to his family, the captain awoke about 0600 on the day of the accident. His
+wife spoke to him just after he awoke, and she stated that he seemed very happy. On the day
+before the accident, the captain awoke about 0845 and went to his son’s little league game, which
+started at 0900. The captain took a nap on Saturday afternoon from 1300 to 1600. He went out to
+dinner that evening with his wife. He went to bed about 2200 because he had to get up for the
+early flight. His wife stated that when he was not working, the captain usually went to bed about
+2300 and awoke between 0800 and 0900. There was no family recall of what the captain did on
+Friday, 2 days before the accident.
+The First Officer
+The first officer, age 38, was hired by Executive Airlines on November 9, 1998. He held a
+commercial pilot certificate issued on May 19, 1998. His most recent FAA first-class medical
+certificate was dated January 28, 2000, with no restrictions or limitations. According to
+NTSB/AAB-02/05
+
+5
+Executive Airlines records, he had accumulated about 1,282 total flying hours, of which about
+742 hours were in the Jetstream 3101.
+According to the first officer’s fiancée, the first officer had received a job offer on the
+Friday before the accident to fly with a regional airline. She stated that the first officer was
+excited about the new position and that the captain had helped the first officer prepare for job
+interviews during down times in ACY.
+The first officer’s fiancée reported that on the day of the accident, the first officer arose at
+0600. He showered and ate breakfast. En route to the airport, he stopped for coffee, a bagel, and
+orange juice. He met the captain at the airport around 0815.
+The day before the accident, the first officer departed ACY about 0130 on a routine flight
+to FRG that arrived at 0200. His fiancée was on the flight. They had a 20-minute drive home and
+went to sleep. He slept late and spent the day around the house. They watched TV and went out
+for lunch about 1400 to 1500. He went to bed on Saturday night about 2200 to 2230.
+Two days before the accident, the first officer went on duty about 1400 and flew a series
+of flights for a total flight time of 6 hours and 42 minutes. His fiancée saw him in ACY about
+1930 when they got together and had dinner at the airport. She stated that his mood was good and
+that after dinner he went to the pilot lounge for a nap.
+AIRPLANE INFORMATION
+According to FAA and company records, the accident airplane, serial number 834, was
+manufactured in 1988 by British Aerospace. The cabin was configured for 19 passenger seats,
+with 7 single passenger seats on the left side of the airplane, and 6 double passenger seats (12
+total) on the right side of the airplane. At the time of the accident, the airplane had accumulated
+about 13,972 flight hours and about 18,503 cycles since new (CSN).10 FAA records indicated that
+the airplane was imported to the United States from the United Kingdom in 1988 and that it was
+assigned aircraft registration number N851JS. Executive Airlines purchased the airplane on
+October 28, 1996, from Fairchild Dornier of Sterling, Virginia. The accident airplane’s
+registration was changed to N16EJ in September 1997. The airplane entered Executive’s line
+service on December 19, 1997.
+A review of FAA and Safety Board accident and incident files indicated that the accident
+airplane was substantially damaged when it veered off a runway and impacted terrain during an
+aborted takeoff in snow conditions on December 15, 1989. In addition, on February 19, 1991,
+during cruise flight, an engine fire warning bell sounded. The crew shut down the engine and
+landed safely. There were no other accident or incident reports.
+10 A cycle is one complete takeoff and landing sequence.
+NTSB/AAB-02/05
+
+6
+Airplane Engines and Propellers
+The accident airplane was equipped with two Honeywell (formerly AlliedSignal) model
+TPE331-10UGR-514H turboprop engines. This model engine is a single-spool design consisting
+of a dual centrifugal compressor, reverse-flow annular combustor, and a 3-stage axial flow
+turbine. It is rated at 940 shaft horsepower for takeoff and has a maximum continuous rating of
+900 shaft horsepower.
+At the time of the accident, the No. 1 (left) engine, serial number P63344C, had
+accumulated 14,027.5 hours time since new (TSN), 18,602 CSN, and 469 hours since the last
+overhaul. The last engine inspection performed was a 150/300-hour inspection on March 15,
+2000. The engine had 13,853.4 hours TSN and 18,361 CSN at the time of the last inspection.
+The No. 2 (right) engine, serial number P63328C, had accumulated 5,939.5 hours TSN,
+6,017 CSN, and 56.9 hours since last overhaul. The last engine overhaul before the accident was
+performed on April 25, 2000, and the last operational check, ground runs, and leak checks were
+performed on May 10, 2000, when the engine was installed on the accident airplane.
+The accident airplane was equipped with two Dowty model R333/4-82-F/12 single-
+acting, full-feathering,11 constant speed, 4-blade propellers, which rotate counter-clockwise as
+seen from the cockpit. The No. 1 propeller, serial number DRG/598/82, had accumulated
+14,047.8 hours TSN and 945.0 hours since overhaul. The No. 2 propeller, serial number
+DRG/1747/88, had accumulated 14,446.8 hours TSN and 3,822.1 hours since overhaul.
+The propeller governor supplies oil pressure to drive the propeller to a low-pitch position
+(small blade angle) while the feathering spring drives the propeller to high blade angles,
+including feather. To maintain a constant speed, the propeller governor uses mechanical
+flyweights to position a metering valve that supplies oil pressure to the propeller dome. Propeller
+speed is maintained by modulating the blade angles to increase or decrease the load on the
+propeller.
+The propeller governor cannot drive the blades lower than the low-pitch stop. Governor
+oil flows through a set of holes in the beta tube and out to the propeller dome. As the blade angle
+changes, the position of the beta tube changes. The beta tube slides inside a bronze bushing that
+covers the oil supply holes in the beta tube as the blade angle approaches the low-pitch stop (so
+that less oil flows to the propeller dome). The supply holes are completely covered when the
+blades are at the low-pitch stop, preventing additional oil from flowing to the propeller dome and
+11 When an engine fails in flight, the windmilling propeller creates drag and causes the airplane to yaw.
+Feathering a propeller rotates the leading edges of the propeller blades into the slipstream, which minimizes or stops
+the rotation of the propeller blades and, thus, reduces drag caused by the propeller.
+NTSB/AAB-02/05
+
+7
+a further blade angle decrease into the beta range.12 To move the propeller into the beta range, the
+engine power lever must be reduced, which mechanically repositions the bronze bushing on the
+beta tube and allows governor oil pressure to flow to the propeller dome again, further reducing
+the blade angle and driving the propeller into the beta range.
+Airplane Fuel System
+The Jetstream 3101 is equipped with one fuel tank in each wing (see figure 1), and each
+has a maximum usable capacity of 227 U.S. gallons.13 Each tank is divided into five cells (cell
+No. 1 is the most inboard and cell No. 5 is the most outboard) with flapper valves installed
+between the cells to limit fuel sloshing. Six fuel probes are installed in each tank and are
+connected to the cockpit fuel quantity gauges. A booster pump is installed in each tank to supply
+each respective engine. Downstream of each booster pump is a line-mounted, one-way check
+valve to prevent fuel transfer between tanks during crossfeed operations. A two-position,
+electrically operated crossfeed valve connects the left and right engine fuel feed lines when open.
+Low pressure (LP) fuel valves are installed in each system to isolate the fuel system in the event
+of an engine fire. The respective LP fuel valve closes if the associated feather lever is selected.
+Each wing tank contains an independent low fuel level system that illuminates small low
+fuel quantity annunciator light(s) in the cockpit if fuel levels fall below about 200 pounds in the
+respective tank. The low fuel quantity annunciator lights are located on the left center panel
+between the fuel quantity gauges. According to the Jetstream 31 Operating Manual, the low fuel
+quantity annunciator lights were not designed to be warning lights. The manual states that they
+are a means to confirm low fuel quantity. The airplane is also equipped with two independent
+fuel quantity gauges and two fuel flow/fuel used indicators, one for each engine. An analog point
+continuously displays each engine’s fuel flow rate. The indicator also has a 4-digit numerical
+display that shows fuel used for each engine. A small toggle switch allows the flight crew to reset
+(to zero) the fuel used display. The fuel used display automatically resets to zero when airplane
+power is shut off.
+12 According to the BAE Jetstream 31 Crew Manual, in the beta mode, or the propeller reverse mode, propeller
+blade angles are “directly related to the engine power lever setting between reverse and flight idle positions.” The
+manual further states that the propeller “has a pitch range between reverse and feather.” The propeller also operates
+in the propeller governing mode, when “blade angles are controlled to maintain the rpm set by the engine rpm
+lever…when the power lever is advanced above flight idle position.” The beta, or reverse, mode is used to decelerate
+the airplane after landing.
+13 According to the Jetstream 31 manual, about 5 U.S. gallons (about 33 pounds) are unusable in each tank. The
+amount of unusable fuel varies depending on airplane configuration. During certification, the manufacturer tested the
+Jetstream 31 for usable fuel in five phases of flight. The unusable fuel quantity ranged from 7 pounds 15 ounces to
+33 pounds depending on the phase of flight/airplane configuration. For example, the largest unusable fuel quantity,
+33 pounds, was measured in a climb at 110 knots, flaps at 10°, in a 5° bank with the booster pump off. The minimum
+quantity, 7 pounds 15 ounces was measured in level flight at 230 knots, in a 5° bank with the booster pump off.
+Jetstream publishes the most conservative configuration, 33 pounds of unusable fuel in each tank in the Jetstream 31
+flight manual. In addition, fuel volume in the fuel lines (between the respective tank and the engine) is about
+1.5 gallons.
+NTSB/AAB-02/05
+
+8
+Figure 1. Diagram of the Jetstream Series 3100 fuel system (from the Jetstream Series 3100
+Training Guide)
+Cockpit Voice Recorder
+The Fairchild cockpit voice recorder (CVR) was recovered from the accident scene and
+transported to the Safety Board’s laboratory in Washington, DC, for examination. The CVR was
+damaged by impact forces but showed no evidence of fire damage. The impact damage was
+primarily confined to the connector plug, dust cover, and adjacent chassis. The magnetic tape
+was removed from the CVR and examined. The entire recording was monitored. No information
+pertaining to the accident flight or any other flight was found. A 400 hertz (Hz), 20 decibel tone,
+approximately 1.8 seconds in duration, was present on all four channels at the end of the
+recording. The remainder of the tape contained a signal consistent with a trace signal of bulk
+erase activation. (See the Maintenance section and the Tests and Research section later in this
+report for details about the accident airplane CVR and its maintenance history). The CVR impact
+inertia switch14 was found in the “open” position when initially tested in the Safety Board’s
+laboratory. Subsequent testing indicated that the switch was serviceable (that is, the switch would
+open when subjected to impact shock and could be reset to the closed position using the manual
+reset button).
+No flight data recorder (FDR) was installed on the accident airplane, nor was one
+required.
+14 The impact switch interrupts the CVR power supply when subjected to a 4-G impact force. The switch can
+only be reset by manually depressing the reset button on the side of the switch.
+NTSB/AAB-02/05
+
+9
+Weight and Balance
+Weight and balance calculations were performed using the accident airplane’s records,
+the Executive Airlines operator’s manual, and the manufacturer’s flight manual. Calculations
+(which included 2,890 pounds assumed for 17 passengers) showed that the airplane could have
+contained as much as 2,192 pounds of fuel and remained within ramp and takeoff weight
+limitations when departing ACY.
+METEOROLOGICAL INFORMATION
+No significant surface weather features or upper air disturbances were present over the
+northeastern United States on the day of the accident. Radar and other data indicated widespread
+cloudiness and scattered light rain showers over the region.
+The AVP surface weather observation current at the time that N16EJ executed its missed
+approach reported cloud layers at approximately 1,700 feet msl broken and 2,500 feet msl
+overcast.15 In addition, a tower controller reported lower clouds on the approach end of the
+runway, and a previous landing airplane reported near minimum conditions on the approach.
+Upper air, satellite, radar, and numerical model data indicated that the winds at and below
+3,000 feet msl in the vicinity of AVP were likely from 220° to 250° at 5 to 10 knots. The
+temperature at 3,000 feet was about 7.5° Celsius (C) increasing to 11° C at the surface. The
+freezing level in the AVP area was about 9,300 feet msl.
+The following official weather observation was current near the time of the accident
+airplane’s second approach to AVP:
+Time—1123; type—SPECI; wind—260 degrees at 3 knots; visibility—2 1/2 miles;
+present weather—mist; sky condition—broken 500 feet agl broken 900 feet agl [above
+ground level] overcast 1,500 feet agl; temperature—11 degrees C; dew point—
+11 degrees C; altimeter setting—30.04 inches hg; remarks—rain began 1108 ended 1117
+Regional weather observations and satellite imagery indicated overcast cloud layers over
+New Jersey and eastern Pennsylvania with cloud ceilings below 1,500 msl. Cloud tops of the
+lower layers varied between 5,000 feet and 9,000 feet msl. The en route winds between
+4,000 feet and 5,000 feet msl were from 230° to 250° at 10 to 15 knots. The en route freezing
+level was about 10,000 feet msl.
+AIRPORT INFORMATION
+AVP, is at an elevation of 962 feet msl and is located about 5 miles southwest of Wilkes-
+Barre/Scranton. The active runway at the time of the accident was runway 4. Runway 4 is
+7,501 feet long and equipped with an ILS, including high intensity runway lights, a medium
+15 According to FAA data, N16EJ descended to 2,200 feet msl before declaring a missed approach at 1107:42.
+NTSB/AAB-02/05
+
+10
+intensity approach lighting system with runway alignment indicator lights, and a 3° precision
+approach path indicator located on the right side of the runway.
+WRECKAGE INFORMATION AND IMPACT INFORMATION
+The airplane wreckage was found on the top of a mountain on the east side of a pipeline
+clearway on state-owned property. Ground and tree impact marks indicated that the airplane
+impacted terrain at a steep angle and in an extreme bank angle. Witness marks on the attitude
+indicator, ground witness marks, airplane crushing, and other damage indicated that the airplane
+impacted the ground at a 60° nose low attitude and in a 135° left bank. Ground scars indicated
+that the airplane impacted the ground on a 40° heading. All of the airplane’s primary structure
+was located at the accident site. All recovered primary and secondary flight control surfaces were
+found at the accident site. As shown in figure 2, fire damage was confined to the immediate
+impact area, with little fire damage to surrounding trees and foliage.
+Figure 2. Photo of the accident site illustrating the lack of fire damage to the surrounding area.
+The fuselage structure was found upright, in two major pieces, oriented on a 220°
+heading, with the right outboard wing folded up at a 90° angle. There was no evidence of in-
+flight fire, such as metal splattering, soot streaking, or heat damage along any horizontal plane.
+All heat damage and postcrash fire signatures were in the vertical direction.
+The cockpit area was destroyed by impact and mostly consumed by the postcrash fire.
+The flight instruments, engine instruments and flight controls sustained severe fire damage. The
+cockpit roof switch panel was consumed by fire. The cockpit area had impact crushing damage
+NTSB/AAB-02/05
+
+11
+from the rudder pedals through the instrument panel. All parts of the flight control system that
+were recovered were heat damaged and fragmented. Only small fragments of the aileron control
+handwheels were found, and the aileron longitudinal control shafts were found in multiple
+sections. All four rudder pedals were found separated. The elevator torque shaft was found in
+multiple segments. The aileron, rudder, and elevator trim cable drums were separated from their
+support structure and were severely heat damaged. The trim cables were not broken.
+The flap selector was not found; the flap position indicator sustained severe heat damage
+and the position needle and stencil were consumed by the postcrash fire. All the switches and
+indicators aft of the power levers on the center pedestal were consumed by the postcrash fire. The
+empennage was found rotated 180° about its longitudinal axis. It was separated from the aft
+fuselage structure and inverted but remained attached to the remnants of the forward fuselage by
+cables and wire bundles. The empennage had minimal heat and soot damage. The lower outside
+empennage surface had light vertical sooting and some heat discoloration but no paint blistering.
+The rudder was attached to the vertical stabilizer by its attach points. Teardown of the
+rudder trim mechanical screw jack revealed that it was extended approximately to the full
+airplane-nose-right position.16 The rudder trim control cables remained attached to the
+empennage and rudder system but were stretched and twisted from the airplane’s impact
+sequence. Because of this impact damage, the pre-impact rudder trim position could not be
+determined.
+The left elevator was attached to the left horizontal stabilizer by its attach points. A tree
+trunk was lying on top (chordwise) of the elevator and horizontal lower surfaces with
+corresponding crushing damage to the lower skin. The right horizontal stabilizer with elevator
+attached was found about 32 feet north of the empennage structure. The right horizontal stabilizer
+had been torn from its spar attach points near the vertical stabilizer. A large indentation
+(crushing) was located on the leading edge of the stabilizer; the diameter of which matched a
+nearby tree. None of the elevator or rudder control cables that remained in the empennage
+exhibited any damage. The cable runs forward of the empennage were severely heat damaged due
+to the postcrash fire; however, all the cables were unbroken up to the cockpit area.
+The left wing was found with extensive leading edge crushing. It had extensive heat
+damage and a portion of the upper skin was consumed by fire. The left inboard wing section
+between the engine nacelle and the fuselage was destroyed by fire. The left aileron had severe
+heat damage and was fractured just outboard of the inboard hinge. The inboard hinge was intact,
+but the outboard hinge point was separated. The inboard portion of the trim tab was intact and
+moved freely.
+16 The airplane’s rudder is controlled by a torsion bar mechanism and a combined trim/spring tab. Control inputs
+from the rudder pedals are transmitted by quadrants, cables, and pulleys to the rudder torsion bar, which twists
+against aerodynamic loads and drives the trim/spring tab to provide servo assistance. Rudder trim is controlled by
+rotating a trim control knob in the cockpit. The trim control knob is connected to the cable control system, which
+extends or retracts the trim screw jack output shaft. The screw jack, mounted on the top of the torsion bar, drives the
+torsion bar mechanism to deflect the trim/spring tab to relieve rudder forces.
+NTSB/AAB-02/05
+
+12
+The right wing was mostly separated from the fuselage but attached by cables and parts of
+the wing spars. The inboard wing structure was consumed by fire. The outboard wing section
+exhibited decreasing fire damage toward the wing tip. The bottom part of the bent wing structure
+had numerous tree impact marks and bark imbedded in the structure. The wing fuel tank was
+ruptured in several places consistent with impact damage. The right aileron was broken from its
+hinge points but was still in its approximate position on the wing. The trim tab was intact but
+could not be moved because of impact damage. The aileron system cables were unbroken but
+severely heat damaged in areas associated with the postcrash fire.
+The majority of the left and right flap panels were broken and consumed in the postcrash
+fire. The flap actuator was found with the flap torque shaft attached. The flap actuator was found
+in its approximate position in the center fuselage area and was severely heat damaged.
+Examination of the flap actuator at the manufacturer determined that the position of the piston
+was consistent with a 20° flap setting.
+The left and right main landing gear actuating cylinders were found in the extended
+position but were separated from their attach points and burned. The nose gear strut and wheels
+were found folded back along the fuselage and were not damaged by fire. The nose gear actuator
+was found separated from the nose gear strut cylinder and in the extended position. The cylinder
+and extension assembly were found in the extended position but were separated from the
+fuselage attach points.
+The stick pusher17 actuator was recovered in good condition with no heat damage.
+Examination determined that the actuator was operational.
+Fuel System Wreckage
+The left engine low pressure (LP) fuel valve actuator was found separated from its valve
+and the right engine LP fuel valve was found intact. The valve position indicators on both valves
+were in the open position, consistent with the observed valve positions. The left and right
+hydraulic LP cocks were also found in the open position. The crossfeed valve was found in a
+clump of melted aluminum. The melted aluminum was removed and the crossfeed valve position
+indicator was found in the closed position, consistent with the observed valve position. The LP
+fuel cock switches in the cockpit were consumed by the postimpact fire.
+As previously noted, the low fuel quantity annunciator lights in the cockpit are located on
+the left center panel between the fuel quantity gauges. The main portion of the left center panel
+was found separated but approximately in its original location and with severe heat and impact
+damage. The lower third of the panel had been consumed and the fuel flow gauges and fuel
+quantity gauges had separated from the panel and were not identified. The low fuel quantity
+annunciator lights were consumed by the postcrash fire.
+17 The stick pusher is part of a stall prevention system. When triggered, the stick (control column) is forced
+forward, commanding the airplane to rotate from a climb to a shallow dive. About 80 pounds of force is required on
+the control wheel to override.
+NTSB/AAB-02/05
+
+13
+The right tank fuel booster pump was found separated in its approximate original position
+in the wreckage (most of the right inboard wing structure was consumed in the postcrash fire).
+The pump showed signs of surface deformation from extreme heat damage. The left booster
+pump was heavily sooted and was attached to the rib in fuel cell 1.
+The fuel booster pumps were removed from the wreckage and examined at the
+manufacturer. Because of extensive fire damage, the pumps could not be bench tested. Both
+pumps were disassembled and examined. No rotational scoring was found on either armature.18
+The left fuel filler cap was attached to its respective fuel port. The cap’s inside face was
+deformed by heat damage and was covered with melted and resolidified aluminum. The right fuel
+filler cap was not attached to its respective fuel port and the cap was not found. The filler cap
+ports were removed from the airplane and sent to the Safety Board’s materials laboratory for
+examination.
+The right fuel port had a chordwise wrinkle mark that intersected the port and was
+consistent with the localized upward bending of the upper skin. Examination of the interior face
+of the port’s lip revealed circumferential marks, consistent with normal rotation of the filler cap.
+In addition, the lip contained three areas of localized outward deformation.19 A chordwise gouge
+mark was found on the interior surface of the lip in one of those areas. Metallurgical examination
+determined that the localized deformation and gouge mark were consistent with the right fuel
+filler cap being attached before impact.
+The main fuel lines from each engine were recovered from the wreckage and sent to the
+Safety Board’s materials laboratory for examination. A visual inspection determined that the lines
+were intact. No evidence consistent with kinking or blockage was found.
+On-site Examination of Engines and Propellers
+Both engines and their respective propellers were found at the crash site. After an initial
+on-site inspection, they were removed to a hangar at AVP for a detailed, preliminary inspection
+before being transported for extensive teardown inspections (see the Tests and Research section
+for details of the teardown inspections).
+The No. 1 (left) engine was found partially attached to the left wing. There was no visible
+sign of any uncontained engine failure (that is, engine parts exiting the casing) or fire damage in
+the engine. The No. 1 engine was bent inboard toward the airplane’s centerline, at a 35° angle,
+just forward of the wing spar, and was lying over on its right side. The rear engine mount was
+found intact, and the forward mounts, located at the 3, 6, and 9 o’clock positions, were broken
+18 The booster pumps do not operate continuously and are normally used for engine start, high altitude operations,
+fuel balancing, or abnormal or emergency situations.
+19 Each filler cap contains three tangs, or legs, spaced equally around the circumference, which are inserted into
+slots in the lip of the fuel port. The cap is then rotated clockwise to secure the cap.
+NTSB/AAB-02/05
+
+14
+out of the accessory gearbox. The 3rd-stage turbine blades, as viewed up the tailpipe, all
+appeared intact with no obvious signs of distress. The propeller remained attached to the engine.
+Minimal external fire damage was found on the No. 1 engine, and all of its systems and
+accessories were generally intact with the exception of a broken starter/generator input shaft. Dirt
+and debris were found around the inlet circumference and on the 1st-stage compressor blades.
+The 1st-stage compressor blades were all intact with no signs of distress, and the rotating group
+was seized. The auto-ignition system was installed and intact. The aircraft electrical connector
+was still connected to the auto-relight pressure switch. The three negative torque system (NTS)20
+load arms were intact. The gearcase was cracked in two places from front to back.
+Blade No. 1 of the No. 1 engine’s propeller was found fractured 9 inches outboard from
+the hub flange. The tip of blade No. 1 was curled, and the blade had an “S” shape, bent in the
+direction opposite rotation. A 5-inch long impact/depression was centered 17.5 inches from the
+fracture surface that was closest to the hub. The counterweight was missing. Blade No. 2 had
+minor impact marks on the leading edge and the anti-ice boot was ripped. The No. 3 blade had a
+1.5-inch depression on the leading edge that was centered 34 inches outboard from the hub.
+Blade No. 4 had a 5-inch leading edge dent/impact mark that was centered 40.5 inches outboard
+from the hub and was missing 2 inches of the blade tip. Blade No. 4 also had smaller impact
+marks along the leading edge, and its anti-ice boot was torn along the leading edge. The pressure
+side of blade No. 4 had scrape marks approximately 45° to the length of the blade. Blade No. 4
+was the only blade that was able to rotate within the hub. Blades 2 and 4 were bent in the
+direction of rotation. Blade No. 3 was slightly bent opposite the direction of rotation. The hub
+was fractured at the No. 2 blade position; the crack extended axially and circumferentially
+through the hub from one of the No. 2 blade attachment bolt holes. The No. 1 engine’s propeller
+governor21 was recovered undamaged and contained residual oil. A bench test determined the
+propeller governor functioned within limits.
+The No. 2 (right) engine was found partially attached to the right wing. The propeller
+assembly was attached to the engine. The engine was bent about 30° nose-down and 20° inboard.
+The outside of the engine was heavily fire damaged and the inlet case exhibited a burn-through.
+There were no visible signs of any uncontainments. The rear engine mount was intact and the
+forward engine mount, located at the 9 o’clock position, was fractured.
+All the 1st-stage compressor blades were intact with no obvious signs of distress. The
+3rd-stage turbine blades were all intact with no obvious signs of distress, and the rotating group
+was seized. The anti-ice system and its plumbing were intact. The propeller pitch control flange
+was partially separated from the gearbox. The inner contour of the inlet scoop was fractured
+20 Negative torque is a condition in which air loads on the propeller drive the engine. The NTS system is
+designed to sense this condition and modulate the propeller blade angles to prevent it from occurring.
+21 The propeller governor is a device that is used to control the speed of the propeller by using either governor
+oil pressure to drive the blades to a fine pitch or the force of the feathering spring to drive the blades to a course
+pitch. This blade angle change controls the propeller speed by either decreasing or increasing the load on the
+propeller. In the event of a loss of governor oil pressure, the feathering spring would drive the blades to the feathered
+position (failsafe mode) to minimize the drag on that side of the airplane. If necessary, the Jetstream 31’s propellers
+can be unfeathered in flight.
+NTSB/AAB-02/05
+
+15
+circumferentially from about the 10 o’clock to the 2 o’clock position. The fuel control was
+severely fire damaged.
+The No. 2 engine’s propeller assembly had three blades intact and one blade fractured.
+Blade No. 2 was fractured 34 inches outboard from the hub. Blade No. 3 was bent in the
+direction of rotation. Blade No. 3 had a sharp bend, slightly less than 90°, located 17 inches
+outboard from the hub. Blades No. 1 and No. 4 were straight. Blade No. 2 was the only blade that
+could be rotated within the hub. With the exception of blade No. 2, none of the other three blades
+had any significant leading edge damage. All of the blade counterweights were in place.
+The No. 2 engine’s propeller governor drive spline was seized, consistent with the
+combined effects of impact forces, fire damage, and rust. The governor was disassembled and all
+components were found intact and without evidence of any internal failures.
+SURVIVAL ASPECTS
+The accident was not survivable because of high impact forces. Autopsies determined that
+the passengers and flight crew died of blunt force trauma.
+MEDICAL AND PATHOLOGICAL INFORMATION
+Tissue specimens from the captain and first officer were recovered and transported to the
+FAA’s Civil Aerospace Medical Institute (CAMI) for toxicology analysis. The CAMI laboratory
+performed a routine analysis for major drugs of abuse22 and prescription and over-the-counter
+medications, and the results were negative. The FAA’s Final Forensic Toxicology Fatal Accident
+Report indicated that 15 milligrams per deciliter of ethanol was detected in a kidney sample from
+the first officer (a muscle sample tested negative). The report noted that the “ethanol found in this
+case may potentially be from postmortem ethanol formation and not from the ingestion of
+ethanol.”
+TESTS AND OTHER RESEARCH
+Airplane Performance
+The accident airplane’s performance during the final 30 minutes of flight was calculated
+based on FAA three-dimensional radar data,23 ATC communications, weather information, and
+aircraft aerodynamic performance data obtained from the manufacturer. The data were used to
+calculate performance parameters including airspeed, groundspeed, altitude, vertical speed,
+flightpath angle, pitch and roll angles, and magnetic heading. Upper wind data (wind direction,
+speed, and air temperature) were obtained from the FDR of a regional jet that had departed AVP
+about an hour before the accident.
+22 The five drugs of abuse tested in postaccident analysis are marijuana, cocaine, opiates, phencyclidine, and
+amphetamines.
+23 ATC airport surveillance radar at AVP and air route surveillance radar data were obtained from the FAA’s
+New York Air Route Traffic Control Center.
+NTSB/AAB-02/05
+
+16
+Examination of the wreckage indicated that the airplane’s flaps had been extended to 20°
+and that the landing gear was extended at impact. Aerodynamic information was obtained from
+British Aerospace for the airplane in several configurations, including flaps retracted, flaps
+extended to 20°, and with landing gear in the stowed and deployed position for the flap settings.
+The performance study determined that during the first approach, the accident airplane
+descended to about 4,000 feet and turned to a 45° heading (the localizer heading) about 12.5 nm
+from the end of runway 4 (figure 3 shows the approach chart for the ILS runway 4 approach).
+The airplane intercepted the localizer at 4,000 feet (about 1104:50) and was descending between
+900 feet and 1,000 feet per minute (fpm). The aircraft began to follow the glideslope about 9 nm
+from the runway. The airplane followed the center of the localizer and glideslope until it leveled
+off at 2,200 feet about 1106:50, about 3.7 nm from the runway threshold. The airplane was level
+at 2,200 feet for about 20 seconds and then began to climb while still following the center of the
+localizer. The airplane exited the localizer while at 2,900 feet, about 2.2 nm from the end of the
+runway.
+After the missed approach was declared, the airplane began to climb at a rate of
+2,000 fpm, reaching an altitude of 4,000 feet and an airspeed of 200 knots by 1108:30 (the climb
+was consistent with the airplane’s expected twin-engine performance in such conditions). The
+airplane continued on the missed approach at 4,000 feet and 180 knots. After establishing a track
+to intercept the localizer, the airplane began reducing speed while continuing a right turn on the
+intercept course. At 1123:10 the airplane began descending at 300 fpm, and its airspeed
+continued to decrease (reaching about 128 knots during the following minute). The airplane was
+again on the localizer course when, at 1123:20, the accident airplane began to deviate to the right
+of the localizer track.
+The accident airplane was at an altitude of 3,800 feet when the flight crew declared an
+emergency at 1123:51 (see figure 4). By this time, the airplane had deviated from the specified
+45° approach course to about a 70° heading, had slowed to about 125 knots airspeed, and was
+about 12 nm from the runway threshold. The airplane continued to turn right. At 1124:14, when
+ATC instructed the flight crew to turn left, and a crewmember responded “we’re trying,” the
+airplane was on a 100° heading, or about 55° off of the desired heading and to the right of the
+specified approach course. About a minute later, when the crew radioed that it had lost both
+engines, the airplane was in a steeper descent, descending about 1,500 fpm at 130 knots airspeed.
+The airplane then turned to the left to a 90° heading and radar contact was temporarily lost.
+Airspeed increased to 140 knots as the airplane descended through 2,100 feet.
+NTSB/AAB-02/05
+
+17
+Figure 3. Approach chart for the ILS runway 4 approach at AVP.
+NTSB/AAB-02/05
+
+18
+Figure 4. Plot of the accident airplane’s initial and second approaches correlated with key ATC
+transmissions.
+At 1127:16, when the pilots radioed that they had apparently regained power to the left
+engine, the airplane’s heading would have been about 285°. The next radar return occurred at
+1127:23. According to the performance calculations, the accident airplane would have had to
+execute a right turn while maintaining about 2,000 feet in a northwesterly direction to reach that
+radar return location. The final series of radar returns showed the airplane at 2,000 feet and an
+airspeed of 103 knots. The data indicated that the airplane continued to turn right at the same
+altitude and airspeed. The final radar return occurred at 1127:48, 2 seconds after the captain
+reported losing both engines. The crash site was about 0.22 nm north of the final radar return.
+NTSB/AAB-02/05
+
+19
+Fueling History and Fuel Burn
+Safety Board investigators examined fueling records and interviewed company officials,
+fuelers that serviced the accident airplane, and passengers on the flight from FRG to ACY to
+determine the accident airplane’s recent fueling history. Executive Airlines billing records, load
+manifests from some flights, and company records of the accident airplane’s recent flights were
+also examined. The load manifest for the flight from ACY to AVP was not recovered from the
+wreckage.
+Executive Airlines’ owner and CEO stated that about 0100 on the day of the accident, he
+received a telephone call from a captain who had been originally assigned to ferry the accident
+airplane from FRG to ACY to pick up 17 passengers for AVP. That captain informed him that
+weather at ACY and AVP was marginal, that the airplane had only 1,200 pounds24 of fuel on
+board, and that the fixed base operator (FBO) fueling operation at FRG was closed. The CEO
+stated that he decided to cancel the flight and told the captain to hangar the airplane. He stated
+that he then contacted Caesar’s Palace and rescheduled the flight for 1030. As previously
+discussed, the pilots of the accident airplane were instructed when they arrived at FRG to add this
+leg to the day’s flying schedule.
+The CEO stated that he originally told the accident first officer to calculate the airplane’s
+weight and balance based on nine passengers from ACY to AVP to determine if the airplane’s
+fuel tanks could be topped off with fuel in FRG. He stated that the first officer told him that fuel
+tank measuring sticks25 indicated that about 1,100 pounds of fuel were on board. The CEO stated
+that he learned that 17 passengers would be on board the flight from ACY to AVP and informed
+the first officer. He stated that the first officer informed him that 90 gallons (about 600 pounds)
+of fuel would be added to each tank and told him “we are going almost topped off.” The CEO
+added that according to company procedure, pilots “would normally stick the tanks and then
+order the fuel.”
+The FBO fueler at FRG stated that the accident flight crew was at the airplane when he
+arrived in his fuel truck.26 He stated that one pilot, whom he described as smaller than the other,27
+requested that the fuel tanks be topped off. The fueler stated that the larger pilot later requested
+60 gallons of fuel, 30 gallons in each tank. He stated that he could not see the refueling meter
+while he was refueling and asked the larger pilot to monitor the meter. The fueler stated that, at
+one point, he stopped fueling and asked the pilot to tell him the meter indication and stated that
+he was told 4.5 (or 45 gallons). He stated that he asked the pilot if he wanted him to put 15
+gallons in the other tank for a total of 60 gallons. The fueler stated that the larger pilot told him to
+put 45 gallons in the other tank for a total of 90 gallons. Fuel truck and billing records confirmed
+24 Fuel quantity is also expressed in pounds. According to the Jetstream 31 weight and balance manual, one
+U.S. gallon is about 6.66 (the Safety Board used 6.7) pounds, based on the density of the kerosene-type fuel used.
+25 The fuel tank sticks are read by pulling them downward from built-in slot positions under the wings.
+26 The fueler stated that he had worked for the FBO for about 3 months and had refueled about 12 Jetstream
+airplanes before fueling the accident airplane.
+27 Company records indicated that the accident captain was 74 inches tall and weighed 210 pounds. The first
+officer was 71 inches tall and weighed 165 pounds.
+NTSB/AAB-02/05
+
+20
+the purchase of 90 gallons of fuel. The pilots did not receive a copy of the fuel receipt because
+Executive Airlines had a fueling contract with the FBO. The fueler stated that he “did not
+observe either pilot check the fuel drip sticks, climb up the fueler’s ladder to check the fuel, or
+walk around the airplane.”
+The accident first officer’s fiancée, who was a passenger on the first leg of the accident
+flight from FRG to ACY, stated that the first officer told her that one fuel gauge read 300 pounds
+and that the other read 900 pounds and that she subsequently saw these gauge readings herself.
+She stated that the 300-pound indication was “the right side.” She stated that the first officer
+remarked, “I don’t even know how to tell how much fuel we have on board.” She stated that the
+pilots did not remain outside the airplane during fueling because it was raining. She stated that
+she did not know if either pilot had been involved with the fueling. She stated that she was aware
+of the decision, made during discussion with the operator’s president, to top off the fuel tanks to
+avoid refueling in ACY. In a written statement, dated June 6, 2000, she stated that the captain
+“walked behind the aircraft to the right side to stick the tank” after learning of the added flight to
+AVP. She also stated, “the three of us remained in the aircraft during the fueling procedure…and
+the door of the airplane was closed.” She also stated that she called the FBO in ACY28 to confirm
+that the manifest listed 17 passengers flying to AVP. The line serviceman at ACY, who
+marshaled the airplane for departure on the accident flight, stated that he recalled looking at the
+plane and “did not see any fuel coming out of or off the wing at any time.”
+Fuel burn estimates for the accident airplane’s flight legs between May 19, 2000, and
+May 21, 2000 were calculated. The estimates were based on approximate airplane weights from
+available weight manifests from the flights and fueling records. Altitudes used were based on
+information obtained from interviews with other Executive Airlines flight crews familiar with the
+flight legs. The taxi fuel burn was estimated at 6 pounds per minute, according to the Jetstream
+flight crew manual.
+According to the airplane manufacturer, the maximum fuel load was 3,090 pounds. When
+fueling records indicated a fill-up of the fuel tanks, 3,090 pounds was used in the Safety Board’s
+fuel calculations, which are presented in the following tables. During postaccident interviews,
+Executive flight crews indicated that it was a common practice to only put 2,900 pounds on the
+load manifest because flight crews assumed that the tanks were almost never filled to the top.
+The Director of Operations of Executive Airlines, who was also an instructor and a check
+captain on the Jetstream 31, stated that Executive pilots normally used high-speed climb power
+for the climb to altitude and used high-speed cruise power during the cruise portion of the flight.
+However, Executive Airlines’ owner and CEO stated that his pilots used long-range cruise power
+during cruise flight. Based on this information, the Safety Board calculated fuel burn for the nine
+previous flights and the accident flight using manufacturer performance information for
+high-speed cruise and long-range cruise power (presented in tables 1 and 2, respectively). Fuel
+burn calculations were based on flight times listed in the airplane logbook.
+28 The first officer’s fiancée was employed at the FBO in ACY.
+NTSB/AAB-02/05
+
+21
+According to these calculations, if high-speed cruise power settings were used on the nine
+previous flights and accident flight, about 275 pounds of fuel would have remained at the time of
+the crash (of which 209 pounds would have been useable using a 66-pound estimate of unusable
+fuel), which is sufficient fuel for about 15 minutes of flight at high-speed cruise power settings. If
+long-range cruise power settings were used, the airplane would have had about 1,220 pounds
+remaining at the time of the crash, of which 1,154 pounds would have been useable. It should be
+noted that these fuel burn calculations did not take into account unknown factors that could have
+altered the amount of fuel burned on any flight. For example, altitude changes, temperature
+variations, the use of engine bleed air and airplane configuration variations (such as landing gear
+extended) can affect fuel burn.
+Table 1. Estimated Fuel Remaining – High-Speed Cruise
+Date Flight Fuel Estimated Departure Flight Altitude Fuel burn Taxi time Taxi Fuel
+added departure fuel on time in per flight in minutes burn remaining
+lbs. fuel load minutes lbs.
+amount manifest
+5/19 GON-PHF 985 3090 2900 96 16000 1090 12 72 1928
+5/19 PHF-FRG None 1928 NA 72 17000 792 12 72 1064
+5/20 FRG-ACY 800 1864 NA 30 4000 445 12 72 1347
+5/20 ACY-FRG None 1347 1400 30 5000 396 13 78 873
+5/20 FRG-ACY 676 1549 NA 36 4000 483 15 90 976
+5/20 ACY-AVP 1675 2651 NA 50 6000 662 13 78 1911
+5/20 AVP-ACY None 1911 2000 50 5000 677 15 90 1144
+5/20 ACY-FRG 409 1553 1500 37 5000 498 9 54 1001
+5/21 FRG-ACY 603 1604 2400 30 5000 401 13.5 est.29 81 1122
+5/21 ACY-AVP None 1122 NA 60 5000 847 6.5 est.30 48 275
+Table 2. Estimated Fuel Remaining – Long-Range Cruise
+Date Flight Fuel Estimated Departure Flight Altitude Fuel burn Taxi time Taxi Fuel
+added departure fuel on time in per flight in minutes burn remaining
+lbs. fuel load minutes lbs.
+amount manifest
+5/19 GON-PHF 985 3090 2900 96 16000 941 12 72 2077
+5/19 PHF-FRG None 2077 NA 72 17000 655 12 72 1350
+5/20 FRG-ACY 800 2150 NA 30 4000 341 12 72 1737
+5/20 ACY-FRG None 1737 1400 30 5000 329 13 78 1330
+5/20 FRG-ACY 676 2006 NA 36 4000 402 15 90 1514
+5/20 ACY-AVP 1675 3090 NA 50 6000 542 13 78 2470
+5/20 AVP-ACY None 2470 2000 50 5000 563 15 90 1817
+5/20 ACY-FRG 409 2226 1500 37 5000 421 9 54 1751
+5/21 FRG-ACY 603 2354 2400 30 4000 419 13.5 est. 81 1935
+5/21 ACY-AVP None 1935 NA 60 5000 676 6.5 est. 39 1220
+29 Because of the loss of the airplane log, which would have contained the taxi time for this flight, an average of
+the two previous fights that operated from FRG to ACY was used. The two previous flights used 12 minutes and
+15 minutes of taxi time.
+30 Because of the loss of the airplane log, which would have contained the taxi time for this flight, the 13
+minutes of taxi time for a previous flight from ACY to AVP was used. This time was then divided in half to estimate
+the taxi out.
+NTSB/AAB-02/05
+
+22
+Simulator Observations
+Safety Board investigators conducted several Jetstream 31 simulator scenarios in
+June 2001 at Pan Am Flight Academy in Sterling, Virginia. The level C simulator was set to
+match as closely as possible the accident airplane’s configuration when the engines were lost.
+The simulator was operated at a simulated airplane weight of 13,500 pounds, which is the
+estimated weight of the accident airplane when it crashed.
+During the first simulated scenario, which was flown independently by two Safety Board
+pilots, a right engine failure was induced during an ILS approach, at an indicated airspeed of
+about 140 knots. A moderate amount of force on the rudder with rudder trim was sufficient to
+correct the resulting deviation. Any delay in flight control input led to heading deviations of 10°
+to 25° to the right of the ILS course. When deviations occurred, the airplane was easily
+controllable back to the ILS course. When the scenario was conducted with an airspeed of
+110 knots, considerably more rudder and rudder trim inputs were required to correct the
+deviations, keep the airplane on course, and turn back to the ILS. However, the airplane remained
+controllable.
+During the second simulator scenario, after a right engine failure was induced on an ILS
+approach (and after corrective rudder trim inputs were made), a left engine failure was induced.
+The simulated left engine failure was then allowed to operate as if the autolight system
+occasionally restored the engine briefly before failing again. In this scenario, the workload on the
+flying pilot was not considerably increased when the dual engine failure was induced. However,
+pilot workload increased considerably (the airplane was difficult to control and required constant
+flight control and trim inputs) when the left engine was intermittently lost and restored.
+Before the simulator sessions, instructors briefed both pilots that the low fuel quantity
+annunciator lights would be activated during the session but did not indicate when. Neither pilot
+observed the lights when they first appeared, and both pilots continued to fly without observing
+the lights. It was observed that the left seat pilot’s right hand blocked a view of the lights when
+his right hand was on the control wheel. It was also observed that at certain seat positions, a
+portion of the control wheel blocked a clear view of these lights. It was also observed that the
+digital “FUEL USED” indicator lights located immediately above the low fuel quantity lights
+were much brighter in intensity than the low fuel quantity annunciator lights during simulated
+daylight and nighttime conditions.
+Engine and Propeller Teardown Examinations
+The engines were shipped in June 2000 to Honeywell Engines & Systems in Phoenix,
+Arizona, for a teardown inspection and evaluation under Safety Board supervision. Propeller
+assemblies were shipped to Dowty Aerospace Propellers in Sterling, Virginia, and were
+disassembled and examined under Safety Board supervision during the same period.
+The No. 1 engine showed rotational scoring between various rotating and static
+components, as well as metal spray on the turbine blades and vanes. The No. 2 engine was
+NTSB/AAB-02/05
+
+23
+heavily fire damaged and exhibited no rotational scoring between rotating and static components.
+Static impact marks were observed on the compressor impeller shrouds, and neither the turbine
+blades nor vanes exhibited any signs of metal spray.
+Disassembly of the left engine propeller hub revealed witness marks on the butts of three
+out of the four blades that were consistent with blade angles between 28° and 40°. The remaining
+blade revealed indications on the butts of two adjacent blades consistent with blade angles of
+approximately 80°. A feathered propeller is consistent with a minimum drag angle of 82°. The
+remaining two blades showed no discernible impact marks.
+Examination of ATC Audio Tape of Cockpit Transmissions
+The Safety Board’s audio laboratory examined a copy of the ATC tape recording of
+approach control and tower communications with the accident flight crew to identify and
+document engine or propeller sounds during the radio transmissions. The Safety Board’s
+examination assumed that the propeller normally rotates at a maximum speed of 1,591 rpm and
+that, at its maximum speed, the propeller would produce noise at the fundamental frequency of
+106.06 Hz. The examination concluded that the low frequency response of the pilot’s headsets,
+the aircraft’s radios and the approach control’s recording system were such that only the
+fundamental frequency of the rotating blades was recorded. The examination noted that none of
+the radio transmissions from the accident aircraft contained discrete frequency signatures that
+could be associated with the two rotating propellers. Several explanations could account for the
+lack of two sound signatures. Either both propellers were always operating at the same rpm, thus
+only producing one signature, or the recorded signature was being produced by only one of the
+two engines. However, the airplane is equipped with a system to closely match propeller rpm's. It
+was not possible to determine which of the aircraft’s two engines was producing the noise that
+was observed on the recording or whether both engines were producing the noise. In addition,
+engine noise could not be conclusively identified in all radio transmissions.
+CVR Testing and Evaluation
+The CVR was examined at the manufacturer’s facility in Sarasota, Florida. A standard
+bench check was conducted, and all components were found to be within the manufacturer’s
+specifications. After installing a new tape, the recording capability of the CVR was tested, and it
+passed the standard bench check. The self-test and bulk-erase features were also tested and found
+to be within manufacturer’s specifications. A bulk-erase trace signal was also identified on a
+second CVR of the same make and model after it was bulk erased, and the trace signals were
+identical. The presence of a bulk-erase trace signal was consistent with a CVR delivered from
+overhaul. There was no evidence of a 600 Hz self-test tone on the recording, which is recorded
+on the CVR tape when the self-test is activated in the cockpit as prescribed by the flight crew
+checklist. (See the CVR Maintenance section for details about the CVR operational test check.)
+After overhaul, the 600 Hz self-test tone is activated but is erased by the bulk-erase function.
+NTSB/AAB-02/05
+
+24
+COMPANY INFORMATION
+Company History
+East Coast Aviation Services was established in 1991. The company was previously
+known as Long Island Airlines and, prior to 1987, Montauk Caribbean Airways. Since 1991, the
+Part 135 on-demand charter operator has done business as Executive Airlines. The operation and
+all crews are based at FRG. At the time of the accident, Executive Airlines employed 10 pilots
+and operated 7 airplanes, 4 of which were Jetstream 31s. At the time of the accident, the director
+of operations had worked for the company for about 1 1/2 years, and the chief pilot had worked
+for the company for about 6 weeks.
+Executive Airlines had a contract with Caesar’s Palace from November 1998 to
+November 1999. When the contract expired, the airline continued to fly trips for the casino on an
+ad hoc basis and also operated ad hoc flights for other casinos in Atlantic City.
+FAA records indicated that an Executive Airlines airplane was involved in an accident in
+1991 when engine failure forced a Piper PA-31-350 to ditch into the ocean 6 miles from John F.
+Kennedy airport in New York. The aircraft sank, but all airplane occupants were rescued. In
+addition, another Executive Airlines Piper PA-31-350 was involved in an incident when it
+experienced engine trouble on takeoff and returned for landing.
+MAINTENANCE
+General
+The FAA approved Executive Airlines’ maintenance program under air carrier certificate
+number ECAA477A. The company was authorized to use a continuous airworthiness
+maintenance program (CAMP) for its Jetstream aircraft, including the accident airplane.
+Executive Airlines’ CAMP manual, dated March 8, 2000, revision 5, provided for the following
+maintenance intervals:
+• “Service Check”—Every 7 calendar days
+• “A” Check—To be performed at a time in service not to exceed 200 hours or 4 months
+• “B” Check—To be performed at a time in service not to exceed 400 hours or 8 months
+• “C” Check—To be performed each 12 months
+• “D” Check—To be performed each 24 months
+• “E” Check—To be performed each 48 months
+Executive Airlines documented its maintenance using a system of flight/maintenance log
+sheets and other records. According to the director of maintenance (DOM), logbook entries for
+each Jetstream were maintained in separate envelopes in the maintenance office.
+According to the accident airplane’s maintenance records, the right fuel quantity gauge
+was replaced in November 1999 after pilots reported that it fluctuated. The right fuel quantity
+NTSB/AAB-02/05
+
+25
+gauge was replaced again in April 2000 after it was reported to have fluctuated. No unresolved
+discrepancies were noted for the engines, wings, fuel caps, or fuel tanks.
+CVR Maintenance
+According to the accident airplane’s maintenance records, a Fairchild A100A CVR was
+installed on the airplane on May 31, 1991, when the airplane was owned and operated by a
+Part 135 operator in Ohio. On July 3, 1998, Executive Airlines removed this CVR and installed a
+“loaner” CVR into the accident airplane. The airplane’s flight/maintenance log indicated that the
+“loaner” CVR was tested following installation. The log was marked with the statement, “Ops
+checked good.” On July 16, 1998, the “loaner” CVR was removed and another CVR was
+reinstalled. The Discrepancy Correction sheet was marked with the following notation: “Ops
+Checked Good. No Defects Noted.”
+On June 29, 1999, an annual avionics inspection, which included the CVR, was
+performed by Duncan Avionics, an FAA-certified repair station. The aircraft’s total time was
+about 13,462.3 hours. The CVR was also functionally checked during a “C” check in
+August 1999 and the following remark was noted on the operator’s Discrepancy Correction
+Sheet: “Complied with 12 mo F/C of CVR No defects noted.”
+On February 29, 2000, after a pilot reported that the CVR was inoperative, the CVR was
+removed and replaced. The airplane’s total time was 13,803.4 hours. The discrepancy for the
+removed CVR (serial number 58309) was described as “Battery Weak Requires Replacement.”31
+The original CVR was sent to a repair station, which determined that it was defective.
+The DOM indicated that on February 29, 2000, a serviceable CVR was installed in the
+accident airplane. This CVR was received after it was overhauled by a repair station. The
+accident airplane’s maintenance log indicated that the CVR was operationally checked and that
+no defects were noted. According to the DOM, the operational check was in accordance with the
+Executive Airlines maintenance program.
+The Safety Board reviewed all flight/maintenance logs between the date the accident
+CVR was installed in the airplane and May 20, 2000. (No maintenance logs were found dated
+May 21, 2000.) No evidence of CVR discrepancies or maintenance was noted for this period. The
+DOM stated that Executive Airlines maintained the CVR in accordance with the FAA-approved
+CAMP. Under this program, the CVR system was required to be maintained by performing
+checks at specific intervals. They included the following:
+• CVR Operational Check. This is a flight crew checklist item and is to be accomplished
+using the flight crew “J31 Preliminary Check List.” This check is to be performed by
+pressing the CVR’s test button before the first flight of the day or whenever a crew
+31 The only battery associated with the CVR is part of the underwater locator beacon, and the battery has no
+effect on the CVR’s operation.
+NTSB/AAB-02/05
+
+26
+change occurs. The crew then monitors a test signal on a meter on the CVR control unit
+next to the test button.
+• Audio Interface Check. A complete audio interface testing procedure was described in the
+Fairchild installation manual, FAR02213189, and included plugging a headset into the
+control unit in the cockpit to test the system’s recording capability. According to the
+DOM, Executive Airlines did not perform a complete system interface test following the
+February 29, 2000, installation of the accident CVR because the CAMP did not require it
+following unscheduled maintenance.32
+• Overhaul. The CVR manufacturer called for an overhaul to be completed every
+8,000 hours. Based on the accumulated hours on the accident CVR, it was not due to
+receive either a functional check or another overhaul. The DOM stated that CVR system
+repairs and functional checks were performed by contract avionics vendors. The DOM
+stated that Executive Airlines did not have a wiring diagram for the CVR system that was
+installed on the airplane. In addition, Executive Airlines did not have the FAA-approved
+Jetstream International Airlines, Inc., maintenance manual. According to the CVR
+installation documentation, the FAA required that the CVR system “be maintained in
+accordance with procedures contained in the FAA approved” Jetstream manual.
+After the accident, L3 Communications, which acquired Fairchild, indicated that it would
+revise its CVR installation manual to add language specifying that a complete audio system
+interface test “must be completed during each annual inspection or specified maintenance period
+on the aircraft or rotorcraft and whenever unscheduled maintenance is performed on the aircraft
+or rotorcraft [that] may have affected the performance of the cockpit voice recorder system.”
+Before the accident, the language did not provide specific guidance about complete audio
+interface check intervals or the kinds of unscheduled maintenance that might affect the CVR
+system.
+Fuel Estimates Based on Fire Damage Evaluations
+According to a May 6, 2002, letter to the Safety Board, a fire consultant was engaged by
+Executive Airlines, to “conduct a thorough analysis of the wreckage…in order to determine the
+quantity of fuel on board at the time of this accident.” The consultant’s report was submitted to
+the Safety Board on May 15, 2002. The report concluded that, “between a minimum of
+41 gallons to a maximum of 163 gallons” of fuel caused the thermal damage to the wings and
+fuselage between the engine nacelles and that a “minimum of 1.6 gallons to a maximum of
+10.7 gallons” of fuel caused the fire damage to the central region of the outboard left wing. The
+report added that “no account has been made of fuel lost during the crash kinematics or of how
+much fuel could be absorbed by the crash terrain. For these reasons…the amount of fuel released
+from the fuel cells during the crash would be more likely near the maximum quantities calculated
+by this analysis.” The consultant’s report noted that “some of the damage to the upper fuselage
+32 Following the accident, the operator’s CAMP was amended to require a CVR interface check during its
+service check and to require audio interface checks whenever CVR system components are “installed or replaced.”
+NTSB/AAB-02/05
+
+27
+area probably resulted from the burning of cabin upholstery during the fire” but added that the
+damage “would be limited to materials above floor level.”
+The consultant’s report was reviewed by fire experts at the FAA Technical Center in
+Atlantic City, New Jersey. The FAA review of this report, which was submitted to the Safety
+Board, noted that the fuel estimates in the consultant’s report rely “primarily on an approximately
+10 square meter area between the engines” to reach conclusions about the amount of fuel on
+board the airplane at the time of the accident. The FAA report concluded that the 10 square meter
+area “used for the fuel quantity estimate should be reduced by half at a minimum to account for
+the contribution of cabin materials that make up 5 of the 10 square meter area. This would reduce
+the minimum estimate of fuel by half also, to 20.5 gallons.” The FAA report added that the
+“contribution of burning cabin materials…is likely much more than 5 square meters considering
+the radiation and convection from the burning cabin materials forward and aft of that section.
+After the fuselage skin melts, the wing root area on both sides of the fuselage would be exposed
+to the heat of the burning cabin materials.” The FAA report noted that other fuel sources,
+including hydraulic fluid and engine oil, were not considered in the consultant’s report. The FAA
+report concluded that “by ignoring the contribution of burning cabin materials and other fuel
+sources, the quantity of fuel estimated to produce all of the thermal damage…is greatly
+overestimated.”
+NTSB/AAB-02/05
+
+28
+ANALYSIS
+GENERAL
+The captain and first officer were properly certificated and qualified in accordance with
+applicable Federal regulations and company requirements. Their duty time, flight time, rest time,
+and off-duty activity patterns did not indicate any preexisting medical, behavioral, or
+physiological factors that might have affected their performance on the day of the accident.
+Based on radar and AVP local and en route weather data, the accident airplane was in
+IMC during the entire flight from ACY to AVP and was in the clouds when the captain declared
+the missed approach at 1107:26. Weather data also indicate that the airplane remained in IMC
+(clouds and possibly occasional light rain) during the second approach (with intermittent ground
+visibility) until just before ground impact. Turbulence and/or airframe icing conditions were not
+factors in the accident.
+The airplane was properly certificated and equipped in accordance with Federal
+regulations and approved procedures. Passengers and fuel were properly loaded in accordance
+with FAA-approved company weight and balance procedures. The airplane’s weight and balance
+were within prescribed limits during all phases of the flight and were not factors in the accident.
+There was no indication of preexisting maintenance discrepancies that could have
+contributed to the accident. There were no pre-impact failures of any flight control system
+component. There were no pre-impact failures of any fuel system component to either engine,
+and no evidence of pre-impact engine damage. There was no evidence of an in-flight fire.
+A teardown examination of the No.1 (left) engine found rotational scoring and metal
+spray indicating that the engine was developing power at impact. An examination of the No. 2
+(right) engine, which found static imprints and no evidence of rotational scoring or metal spray,
+determined that the engine was not running at impact.
+All propeller blades were found at the crash site. The left engine’s propeller blade angles
+were 28° to 40°, which is within the normal operating range, indicating that the engine was
+developing some power at impact. An examination of the right engine’s propeller blades found
+angles of about 80°. This high blade angle is consistent with the right engine being in NTS and
+not developing power at impact. There was no evidence of any propeller anomalies. The fuel
+lines to each engine were intact and had no kinks or blockage that would have caused an
+interruption of fuel flow to the engines. The landing gear was extended at impact.
+The CVR did not record information during the accident flight and, based on subsequent
+testing, the Safety Board concluded that although the CVR was capable of recording information,
+it likely never operated. Bench testing indicated that the recorder was functional if properly
+installed, and a cockpit functional check should have indicated to flight crews that the CVR was
+not operating. The Safety Board could not determine why the system did not operate. The Safety
+Board notes that the lack of CVR information hindered the investigation and emphasizes the
+NTSB/AAB-02/05
+
+29
+Board’s position that functional onboard recording devices, including cockpit video recorders,
+are critical investigative tools.
+According to ACY-bound passenger statements, the captain had flown the first flight of
+the day from FRG to ACY. According to company practice, pilots alternated as the flying pilot
+on each leg. Further, representatives of the airline identified the captain as the pilot speaking with
+ATC in all radio transmissions. Thus, it is likely that the first officer was the flying pilot for the
+accident flight and may have remained in control of the airplane throughout the accident
+sequence.
+FLIGHT CREW ACTIONS
+The Missed Approach
+During the first ILS approach to runway 4 at AVP, the flight crew was advised by the
+AVP approach controller that a previous landing airplane had “picked up the airport at
+minimums.” Radar data indicated that the accident airplane had intercepted the ILS course and
+glideslope and descended along the glideslope and localizer to an altitude of about 2,200 feet msl
+when the airplane began to climb and the pilots advised the AVP tower that they were executing
+a missed approach. Radar data indicated that the airplane was level at 2,200 feet (about 1,000 feet
+above the decision altitude) for about 20 seconds and followed the center of the localizer before
+climbing about 700 feet to 2,900 feet before the pilots initiated the missed approach when they
+were within 2.2 nm of the runway threshold.
+Because the flight crew’s cockpit conversation was not recorded and because the flight
+crew did not report the reason for the missed approach to controllers, the Safety Board could not
+conclusively determine why the missed approach was initiated. However, ATC tapes indicated
+no sense of urgency from the flight crew. Further, the flight crew accepted sequencing behind a
+slower airplane without advising the controller of a low fuel state or a desire to expedite the
+landing and flew a wide pattern to return to the localizer. Therefore, the Safety Board concludes
+that the flight crew was not aware of a potentially low fuel state or mechanical anomalies when
+the missed approach was executed.
+Loss of Directional Control
+ATC approach radar data indicated that the accident airplane deviated 55° in a right turn
+away from the localizer course during the second approach to AVP. Shortly after this deviation,
+the pilots informed the AVP controller that they were declaring an emergency because of engine
+failure. The deviation to the right was likely the result of asymmetrical thrust caused by stoppage
+of the right engine. Experiencing engine failure in IMC could cause pilots to fixate on
+instruments such as the attitude indicator and airspeed indicator and to allow the course heading
+to wander. However, during simulator tests, Safety Board investigators had minimal difficulty
+maintaining heading and controllability after a simulated right engine failure during approach to a
+landing.
+NTSB/AAB-02/05
+
+30
+The Safety Board notes that, based on the airplane’s performance capabilities and
+simulator tests, the accident airplane was controllable after the initial engine stoppage and its
+subsequent deviation from the ILS approach course should have been sufficiently correctable to
+enable the flight crew to execute a single-engine ILS approach and landing. Further, the Safety
+Board notes that during simulator tests, when a left engine failure was induced along with a
+failed right engine on an ILS approach, the airplane remained controllable with minimal
+difficulty. However, the airplane was more difficult to control and required constant flight
+control and trim inputs when the left engine was intermittently failed and restored.33 Because of
+impact damage to the empennage, and the stretching and twisting of the rudder trim control
+cables, an exact rudder trim position for the accident airplane could not be determined.
+The Safety Board also considered the possibility of a propeller governor malfunction.
+However, postaccident examinations determined that both propeller governors were functional.
+Further, had an internal governor failure occurred (such as a seized drive shaft), the loss of oil to
+the propeller dome would have caused the feathering spring to drive the propeller into feather
+and would not have caused significant control problems.
+Airplane Fuel Loading
+Three witness accounts provided information about how much fuel was on board the
+airplane at FRG before fuel was added in preparation for the first flight leg of the day to ACY:
+• The captain who cancelled the flight earlier in the day because of weather and because it
+was too late at FRG for the airplane to be refueled stated that the airplane had
+1,200 pounds of fuel on board;
+• The Executive Airlines owner and CEO stated that the accident first officer told him
+before departure that the fuel tank measuring sticks indicated that 1,100 pounds of fuel
+were on board; and
+• The first officer’s fiancée, who was a passenger to ACY, stated that the first officer
+indicated that 1,200 pounds of fuel were on board and told her that one fuel gauge read
+300 pounds and that the other read 900 pounds. She stated that she believed that the
+300-pound indication was for the right tank.
+These reports are roughly consistent with Safety Board calculations, based on airplane log pages
+and flight crew records (between May 19 and before the accident airplane’s fueling in FRG),
+which indicated that about 1,000 pounds of fuel were onboard the airplane before the 600 pounds
+(90 gallons) were added on the day of the accident.
+33 The left engine failure was allowed to operate as if the autolight system occasionally restored the engine briefly
+before failing again. The Safety Board pilots were briefed that the simulated engine failures would occur but did not
+know when.
+NTSB/AAB-02/05
+
+31
+Statements from the carrier’s owner and the first officer’s fiancée and information from
+the weight and balance form completed by the accident crew suggest that the flight crew planned
+to add a total of 180 gallons to the airplane. If the flight crew intended to load 180 gallons (about
+1,200 pounds), it was common industry and company practice to ask for 90 gallons on each side.
+However, based on the evidence, it appears that a lack of clear communication between the pilots
+and the fueler resulted in only 90 gallons (about 600 pounds) of fuel being added, a total amount
+confirmed by the fuel order receipt. Further, it is likely that the flight crew did not confirm the
+amount of fuel loaded before departure because flight crews do not see the fuel receipts after
+fueling and because the pilots were not outside the airplane monitoring the fuel loading.
+The accident flight crew completed a load manifest that stated that the airplane was
+loaded with 2,400 pounds of fuel when it departed from FRG, and it is probable that the accident
+flight crew planned to depart from FRG with 2,400 pounds. Based on the airplane’s performance,
+2,400 pounds of fuel would have been sufficient fuel to fly the two flights without adding fuel
+during the stop at ACY. This would have allowed a takeoff from ACY that was within normal
+weight and balance limits for the airplane with 17 passengers on board. There was no evidence
+that the flight crew asked for additional fuel to be added during the stop at ACY.
+However, based on the Safety Board’s calculations, it appears that the accident airplane
+departed FRG with about 1,600 pounds of fuel on board, which is 800 pounds less than listed on
+the load manifest. Therefore, the Safety Board concludes that the accident airplane departed FRG
+with less fuel than the pilots thought they had on board.
+The accident pilots departed from FRG and ACY, completed two checklists (one for each
+of the flights) that included verification of fuel quantity,34 completed both load manifests for each
+of these flights (which required an entry indicating the amount of fuel on the airplane), and flew
+both flights apparently without being aware of a low fuel state. It is possible that the pilots’ belief
+that they had sufficient fuel on board for the flight to AVP caused them to be less vigilant in their
+monitoring of the airplane’s fuel state and slower to consider a low fuel state as the cause of the
+initial engine failure. Although low fuel quantity annunciator lights for each tank illuminate on
+the forward instrument panel when the fuel quantity decreases below 200 pounds, Safety Board
+investigators determined in simulations that these annunciator lights were easily overlooked,
+even when illuminated. Flight crews are required to constantly monitor their airplane’s fuel
+levels. If a pilot suspects that the fuel gauges are unreliable, fuel indicator sticks can be used to
+compare actual tank fuel levels to fuel gauge indications. Nevertheless, either pilot should have
+been able to determine a low fuel state by looking at the fuel gauges.35 Although the first officer’s
+fiancée stated that the first officer was concerned about the accuracy of the airplane’s fuel
+gauges, her statements and those of the operator’s CEO indicated that the tank levels had been
+measured before the airplane was fueled at FRG. It is possible that the pilots discounted the
+accuracy of the fuel gauges in flight because they had measured the tanks and believed that they
+added sufficient fuel (180 gallons) for the day’s flights. Further, it is also possible that the pilots
+34 The “J31 Preliminary Checklist” contains a “Fuel Quantity” check item and a “low fuel caution system” test
+item. The “Before Takeoff Checklist,” from the “J31 Normal Checklist,” also has a fuel quantity check item.
+35 The pilot who flew the accident airplane the day before stated that the fuel gauges were operating normally.
+NTSB/AAB-02/05
+
+32
+trusted and monitored the LED display showing fuel used.36 However, the Safety Board notes that
+this display’s accuracy is dependent on pilot input of the correct fuel quantity at the beginning of
+the flight.
+Engine Stoppage Scenarios
+The accident airplane’s estimated fuel burn was calculated using information provided by
+the airplane manufacturer, including the Jetstream 31 flight manual, and the operator. Fuel burn
+calculations were based on flight times entered into the airplane’s logbook. Based on calculations
+for high-speed cruise power settings37 (which included fuel load and fuel burn time estimates for
+taxi, climb, en route flight, and descent), the accident airplane could have had about 275 pounds
+of fuel on board when it crashed. If the airplane, in fact, had 275 pounds of fuel evenly
+distributed between the tanks at the time of the crash this would not explain the right engine
+stoppage and subsequent crash. However, several factors could affect the accuracy of the
+assumptions that were used in these calculations and, consequently, the reliability/accuracy of the
+275-pound result.
+Factors that can significantly change the amount of fuel burned on any flight include
+different (higher or lower) flight altitudes or airplane configurations, such as flaps and landing
+gear extended for long periods of time. Fuel burn is also increased during rapid, high-
+performance climbs, such as required for the execution of a missed approach.
+It is also possible that fuel load information for the accident airplane documented in the
+days before the accident did not accurately represent the airplane’s fuel load during this period.
+Carry-over errors in fuel load documents and differences in fuel calculations could result in
+assumptions of more fuel than was actually on board the airplane. For example, the Safety Board
+notes that its fuel calculations were based on the airplane being loaded to its maximum fuel load
+capacity, an amount that flight crews stated was rarely loaded. Using a 2,900-pound top-off fuel
+amount38 instead of the maximum 3,090 pounds (as assumed in the fuel burn calculations) for
+these instances resulted in only 85 pounds of fuel remaining. Assuming that as much as
+66 pounds were unusable, the remaining 19 pounds, or about 3 gallons, would have been enough
+for only about 1 to 4 minutes of flight. Therefore, assuming that these factors account for some or
+all of the fuel that would have remained under the conditions assumed for the high-speed cruise
+setting calculations and given the larger amount of fuel loaded in the left fuel tank, the right
+engine stoppage could be explained by fuel exhaustion.39 However, the Safety Board notes that
+36 In a postaccident interview, the owner and CEO of Executive Airlines stated that the airlines’ pilots could
+determine current fuel loads by subtracting fuel burned from the known quantity at departure and that he believed
+that the fuel burned gauges are more reliable than the fuel quantity gauges.
+37 Although Executive’s owner and CEO stated that flight crew used long range cruise settings, the Safety Board
+considered the airline’s director of operations to be more credible based on his direct interaction with line pilots as
+their supervisor and as a Jetstream 31 check captain and instructor.
+38 As previously noted, Executive Airlines flight crews indicated that it was common practice to list
+2,900 pounds on the load manifest because tanks are rarely filled to the top.
+39 Witness testimony indicated that the right tank contained less fuel when the airplane departed FRG. The
+airplane’s fuel crossfeed valve was found in the closed position. However, it was not possible to determine whether
+this valve was open before the accident (as is required by the airplane checklist in the event of an engine failure).
+NTSB/AAB-02/05
+
+33
+both the 275-pound and 85-pound flight time estimates indicate a critically low fuel state, and a
+fuel state well below the reserve required by the IFR flight plan filed by the flight crew.
+Further, the apparent difficulties with the left engine could be explained by unporting of
+whatever fuel remained in the left tank.40 Conditions would have been conducive to unporting if,
+for example, the airplane was in a left bank and in a nose-right sideslip following the loss of the
+right engine, which is consistent with flying straight while attempting to turn to the left, as
+indicated by the pilot statement “we’re trying” when the controller queried if the airplane was in
+a left turn. Assuming some usable fuel was in the left tank, it is probable that the flight crew’s
+maneuvering after the right engine stoppage may have intermittently unported it, causing the
+sequential stoppage and restarting of the left engine. The Safety Board notes that the loss of the
+right engine occurred while the airplane was in relatively level flight and that the left engine
+stoppage occurred during attempts to maneuver back to the ILS course after the stoppage of the
+right engine. Further, the final loss of control may have been precipitated by momentary stopping
+or starting of the left engine when the airplane was at a reduced airspeed. Impact witness marks
+and airplane damage were consistent with a loss of control at low altitude.
+Observations made during examination of the accident site and the surrounding area were
+consistent with only a small amount of fuel being on board at the time of the crash. Severe fire
+damage was limited to the area immediately surrounding the crash site, suggesting a lack of
+significant fuel splash from the ruptured tanks. The burn pattern also indicated that there was
+little fuel remaining on board at impact.
+Fuel starvation to the engines caused by the failure of the LP fuel cock circuitry was also
+considered. However, no determination could be made because the LP fuel cock switches located
+in the cockpit were destroyed by impact and fire. The Safety Board notes that the right engine
+and left engine LP valves, which are controlled by the fuel cock circuitry, were found in the open
+position and that the hydraulic LP valves were found open.
+Loss of fuel en route was also considered. However, witnesses who observed the
+airplane’s departure from ACY saw no indication of leaking fuel from the wings or the fuel caps.
+Although the right tank fuel cap was not recovered, metallurgical evidence determined that it had
+been in place before impact. Further, the airplane’s manufacturer indicated that, because of the
+outboard location of the fuel caps, spillage or suction from an open fuel tank filler in level flight
+would be minimal and unlikely.
+Although the Safety Board’s fuel calculations do not demonstrate that the accident
+airplane was completely out of fuel, the Safety Board considered a critically low fuel state to be
+the most likely scenario given the lack of evidence indicating mechanical failures. Federal
+regulations and company policy state that it is the pilot-in-command’s responsibility to ensure
+before departure that the airplane has the correct amount of fuel onboard for the planned flight.
+The Safety Board concludes that because of miscommunication between the flight crew and the
+40 Banking and acceleration can cause fuel to flow away, or become unported from, the airplane’s fuel pumps,
+which are located in the inboard section of the fuel tanks near the fuselage.
+NTSB/AAB-02/05
+
+34
+fueler about the amount of fuel to add at FRG and the flight crew’s failure to ensure an adequate
+fuel supply, the airplane departed FRG with less fuel than the flight crewmembers stated on the
+load manifest and with less fuel than they believed they had. Further, the Safety Board concludes
+that the flight crewmembers failed to adequately monitor the airplane’s fuel state en route and at
+ACY based on the expectation that they had sufficient fuel on board to complete both flights.

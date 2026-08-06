@@ -1,0 +1,458 @@
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+I T Washington, D.C. 20594
+A T IO
+N N
+SAFETYBO
+AR
+D
+Aviation Accident Brief
+Accident Number: NYC05MA039
+Operator: LifeNet, Inc.
+Aircraft and Registration: Eurocopter EC-135 P2, N136LN
+Location: Oxon Hill, Maryland
+Date: January 10, 2005
+Adopted On: December 4, 2007
+HISTORY OF THE FLIGHT
+On January 10, 2005, about 2311 eastern standard time,1 a Eurocopter Deutschland
+GmbH EC-135 P2 helicopter, N136LN, operated by LifeNet, Inc., as Life Evac 2, crashed into
+the Potomac River during low-altitude cruise flight near Oxon Hill, Maryland. The certificated
+commercial pilot and the flight paramedic were killed, and the flight nurse received serious
+injuries. The helicopter was destroyed. The positioning flight was conducted under the
+provisions of 14 Code of Federal Regulations (CFR) Part 91 and visual flight rules (VFR) with a
+company flight plan filed. Night visual meteorological conditions prevailed at the time of the
+accident.
+The flight originated at the Washington Hospital Center Helipad (DC08), Washington,
+D.C., about 2304, and was en route to Stafford Regional Airport (RMN), Stafford, Virginia.
+Global positioning system (GPS) data for the flight2 showed that the helicopter proceeded
+toward the Federal Aviation Administration’s (FAA) published helicopter route 1.3 According to
+FAA air traffic control (ATC) transcripts, the pilot contacted the local controller at Ronald
+Reagan Washington National Airport (DCA), Washington, D.C., at 2305:47 and stated,
+“washington tower life evac two . . . sir we’re at uh medstar like to go out to uh r f k route one
+1
+Unless otherwise indicated, all times are eastern standard time, based on a 24-hour clock.
+2
+The helicopter was equipped with an Outerlink GPS tracking system, which enabled communications
+specialists at LifeCom in Omaha, Nebraska, to track the location of each flight and provide flight requests and
+flight-following services to the pilots. The GPS data recorded by the operator included ground track and altitude
+information and were consistent with the ATC radar data for the accident flight.
+3
+The FAA’s National Aeronautical Charting Office (NACO) publishes helicopter route charts that depict
+aeronautical information for helicopter pilots, including helicopter route charts that depict routes, heliport locations,
+navigational aids, geographical features, landmarks, and obstructions. According to the NACO Baltimore-
+Washington Helicopter Route Chart current at the time of the accident, a section of helicopter route 1 followed the
+Anacostia River, passed near Robert F. Kennedy Memorial Stadium, and intersected with route 4 at the Potomac
+River. Helicopter route 4 ran north-south along the Potomac River and crossed the Woodrow Wilson Bridge.
+According to the chart, the route’s maximum altitude restriction north of the bridge was 200 feet and south of the
+bridge was 300 feet.
+
+2
+then to route four south.” The local controller responded, “life evac two (unintelligible) bravo
+airspace altimeter three zero two five.” The pilot responded, “roger understand cleared as
+requested.”
+Examination of FAA ATC radar data showed that the helicopter intercepted a segment of
+published helicopter route 1, followed it southwest to intercept helicopter route 4, and then flew
+southbound along the Potomac River toward Woodrow Wilson Bridge (see figure 1).
+Figure 1. Helicopter route chart with routes 1, 4, and select landmarks highlighted.
+NTSB/AAB-07/04
+
+3
+As the helicopter flew over the river toward Woodrow Wilson Bridge, its Mode C
+transponder reported that its altitude varied from 0 to 100 feet.4 When the helicopter was about
+0.5 nautical mile (nm) north of the bridge, its reported Mode C altitude was 200 feet.
+At 2311:20, the pilot reported to the local controller, “life evac two is at the Woodrow
+Wilson [Bridge],” and the controller responded, “life evac two washington tower traffic on a
+ten mile final is a seven [sic] an airbus.”5 At 2311:30, the pilot responded, “roger we have him in
+sight and will be out of his way,” and the controller stated, “life evac two maintain visual
+separation from traffic.” ATC radar data showed that, at the time of the pilot’s response, the
+helicopter was about 0.25 nm north of the Woodrow Wilson Bridge at an altitude of about
+200 feet. The pilot made no further radio communications.
+According to the flight nurse, who was seated in the helicopter’s left front copilot’s seat,
+the pilot maneuvered the helicopter to cross the bridge midspan. The flight nurse stated that the
+helicopter appeared to be at the same or higher altitude than the lights he saw on some
+construction cranes near the Woodrow Wilson Bridge. He stated that he “called the lights” on
+both sides of the river to the pilot and that the pilot acknowledged him. According to a Maryland
+Department of State Police report, the flight nurse also stated that there was a “commercial
+airplane coming into [DCA], and the pilot . . . made a change in his flightpath and started to
+descend.”6
+According to ATC radar data, at 2311:39, the helicopter had crossed over the Woodrow
+Wilson Bridge and was just south of the bridge with a ground track of about 180º and an altitude
+of about 200 feet. Four seconds later, the helicopter had a ground track of about 190º and an
+altitude of about 100 feet. The helicopter’s last recorded position at 2311:48 showed a ground
+track of about 200º and an altitude of about 0 feet. According to ATC radar data, at the time of
+the helicopter’s last radar return, the northbound Airbus that the local controller previously
+mentioned was about 2.2 nm south of the helicopter’s position at an altitude of about 1,700 feet.
+According to the flight nurse, after the helicopter flew over the southern half of the
+Woodrow Wilson Bridge, the next thing he recalled was being submerged in water with his
+seatbelt on and his helmet off. He stated that the helicopter’s master caution lights and panel
+segment lights did not illuminate and that he did not hear any audio alarms sound before the
+4
+A Mode C transponder transmits the helicopter’s identification and altitude information in response to
+interrogation signals received from ground-based radar equipment. Mode C information, if available, provides the
+helicopter’s altitude above mean sea level (msl) in 100-foot increments. All altitudes in this report were derived
+from transmitted Mode C altitudes. The elevation of the river in the vicinity of the accident site is about 10 feet
+above msl.
+5
+At the time that the controller notified the helicopter pilot of the Airbus, the Airbus was south of the
+helicopter’s position and was about to turn and fly northbound for the final approach to DCA. The controller also
+advised the Airbus flight crew to expect that, once they were on the final approach, the southbound helicopter would
+be at their 12 o’clock position and 2 miles away. A member of the Airbus crew stated to the controller that the
+helicopter was in sight.
+6
+According to the police report, this interview took place about 10 hours after the accident at the hospital where
+the flight nurse was receiving treatment.
+NTSB/AAB-07/04
+
+4
+crash. He stated that the pilot did not execute any evasive maneuvers or communicate any
+difficulties, either verbally or nonverbally.
+According to witnesses in vehicles on the Woodrow Wilson Bridge, the helicopter
+crossed over the bridge before it descended and then impacted the water. None of the witnesses
+reported seeing the helicopter impact any objects before its descent. The wreckage was located in
+the Potomac River about 0.5 nm south of the Woodrow Wilson Bridge.
+At 2314:46 (about 3 minutes after the helicopter crashed), the DCA local controller
+stated, “life evac two frequency change approved.” The controller received no reply and made no
+further attempts to contact the flight. The Maryland State Police later notified the controller of
+the crash.
+PILOT INFORMATION
+The pilot, age 56, was hired by LifeNet in June 2004. He held a commercial pilot
+certificate with ratings for airplane single- and multi-engine land, rotorcraft helicopter, and
+instrument helicopter. His most recent FAA second-class airman medical certificate was issued
+on May 28, 2004. On his application for the medical certificate, he reported 1,500 hours total
+civilian flight experience, 30 hours of which were accumulated in the previous 6 months.7 A
+review of company records showed that, in the 90 days, 30 days, and 24 hours before the
+accident, the pilot flew 42 hours, 12 hours, and 1 hour, respectively, and performed a total of
+71 night landings.
+According to LifeNet’s training records, during the pilot’s first few weeks of
+employment, the company provided 12 hours of basic indoctrination training, as well as 20 hours
+of initial ground training and 7.8 hours of flight training in the Messchersmitt Bolkal Blohm
+BK-117 helicopter. The training records indicated that the pilot completed the initial pilot-testing
+requirements of 14 CFR 135.293 and the pilot-in-command flight check required by
+14 CFR 135.299 on July 8, 2004, in the BK-117. The company subsequently provided the pilot
+18 hours of transition ground training and 5.8 hours of transition flight training for the EC-135,
+and the pilot completed the initial testing and flight-check requirements in the EC-135 on
+October 3, 2004.
+During his employment with LifeNet, the pilot accumulated 51.5 flight hours in the
+BK-117 and 40.8 flight hours in the EC-135. According to LifeNet’s assistant chief pilot, when
+the pilot applied for employment, he reported that he had been retired since 1997 but that he was
+current for Part 135 operations and had passed Part 135 flight checks in a Bell 206 helicopter in
+February 2004 and in a BK-117 in April 2004. The assistant chief pilot stated that, according to
+the pilot’s interview and résumé, he had been a military pilot in the U.S. Army from 1968 to
+1971 and had accumulated about 2,400 military flight hours in helicopters, including about
+350 hours of night flying and about 70 hours of instrument flying. From 1971 to his retirement in
+7
+On the medical application, the pilot listed as his employer the name of a Part 135 helicopter operator that had
+terminated his employment 1 month earlier.
+NTSB/AAB-07/04
+
+5
+1997, the pilot worked for a corporation in both nonflying and flying positions. During his
+26-year corporate employment, the pilot accumulated 400 hours total flight experience in
+Agusta 109 and Sikorsky S76 helicopters and about 300 total civilian flight hours in fixed-wing
+airplanes.
+The résumé that the pilot submitted to LifeNet did not list his most recent employer,
+which was another Part 135 helicopter operator that had terminated his employment after about
+2 weeks. According to the chief pilot for that company, the accident pilot was hired on April 12,
+2004, but the company terminated his employment on April 28, 2004, because the pilot was
+unable to adequately perform complex tasks in the helicopter or fly a “complete mission”
+involving several tasks in a series.8 During his training with this operator, the pilot accumulated
+about 7 hours of flight time in a BK-117.
+Two medical crewmembers who flew with the pilot the night before the accident on the
+same route as the accident flight and on other previous flights stated that the pilot flew the
+helicopter in a manner equivalent to other pilots in the company.
+HELICOPTER INFORMATION
+The helicopter was manufactured in 2004 and was equipped with two Pratt & Whitney
+Canada PW206B-series turboshaft engines. The helicopter was configured with a front right pilot
+seat, a front left copilot’s seat, an aft-facing passenger seat in the left aft cabin, and an area for
+one medical patient in the aft cabin. Each seat was equipped with lap belt and shoulder harness
+restraints.
+The helicopter was maintained in accordance with an FAA-approved aircraft inspection
+program. According to maintenance records, the most recent 50-hour inspection was performed
+on December 17, 2004. The most recent 100-hour inspection was performed on
+November 23, 2004, at an airframe total time of 94.5 hours. At the time of the accident, the
+helicopter had accumulated 166.6 total hours.
+The maintenance logbook recovered from the helicopter included an entry dated
+January 10, 2005, for an inoperative radar altimeter.9 The maintenance log also contained a
+“Record of Minimum Equipment List (MEL) Items and Deferred Maintenance” section that
+8
+In accordance with the Pilot Records Improvement Act of 1996, which was enacted to ensure that an operator
+adequately investigates a pilot’s background before hiring him or her, LifeNet requested records from the previous
+employer listed on the pilot’s résumé. Because the pilot did not disclose to LifeNet his most recent employer,
+LifeNet was unaware of the employment termination.
+9
+A radar altimeter is also known as a radio altimeter. The radar altimeter in the accident helicopter, when
+functional, provided a digital readout of altitude in feet above terrain, a low/high warning (visual amber indicator),
+and an indicator on the pilot’s multifunction display.
+NTSB/AAB-07/04
+
+6
+included an entry stating that the inoperative radar altimeter could be deferred for maintenance
+until January 20, 2005.10
+METEOROLOGICAL INFORMATION
+According to the DCA automated surface observing system, located about 3.5 nm north
+of the accident site, the reported conditions at 2251 were winds calm, visibility 10 statute miles,
+broken clouds at 13,000 feet and 20,000 feet, temperature 45º Fahrenheit (F), dew point 36º F,
+and altimeter setting 30.25 inches of mercury.
+According to recorded astronomical data, at the time and location of the accident, a new
+moon was below the horizon and provided no illumination.
+WRECKAGE AND IMPACT INFORMATION
+The helicopter was recovered from about 5 feet of water in the Potomac River. Wreckage
+was scattered along a north-south oriented debris path. The wreckage was recovered, and
+examination indicated no evidence of a collision with a bird or other object, fatigue fractures, or
+other anomalies.
+The main fuselage section was separated into the lower cockpit area and upper cockpit
+area. The lower cockpit area included the flight-crew floorboard section, antitorque pedals, the
+forward skid frame, and fragments of the fuel tank. The upper cockpit area included the flight-
+control tubes, the center electrical and flight-control structure, the upper flight-control deck,
+engines, the main transmission, and the rotor head.
+The cyclic, collective, and antitorque control systems were damaged, and portions of
+some push-pull tubes were separated and not recovered. Continuity could not be established
+because of the separations; however, the separated surfaces showed fracture features consistent
+with impact-related overload.
+The main rotor mast was in place and intact in the main transmission. The root ends of
+the four main rotor blades remained attached to the main rotor hub on the mast. Three of the four
+pitch-change links were connected to their two attach points, and the other pitch-change link was
+fractured in the middle. The fracture surfaces were consistent with compression-bending
+overload.
+10
+According to the FAA, certain aircraft equipment may be inoperative without compromising an acceptable
+level of safety if the operator adheres to the conditions and limitations stated in the operator’s FAA-approved MEL.
+The FAA’s master MEL for the EC-135-series helicopter, on which the operator’s MEL is based, states that the
+helicopter may be dispatched with an inoperative radar altimeter, provided that the radar altimeter is repaired within
+10 calendar days, excluding the day that the malfunction was recorded in the aircraft maintenance records.
+According to LifeNet’s director of operations, when the radar altimeter was functional, generally, the pilots of twin-
+engine helicopters would set the altitude preselect/alerter to the landing decision point (LDP) altitude. The LDP is
+the last point in the approach and landing path at which a balked landing can be accomplished with a failed or failing
+critical engine and with the engine failure recognized by the pilot.
+NTSB/AAB-07/04
+
+7
+Portions of all four main rotor-blade tips were recovered. Each main rotor blade had
+overload fractures and chordwise scoring on the lower blade skin between 6 to 12 inches from
+the blade hub. Each blade also showed fractures along the blade span, consistent with impact
+damage. The main transmission remained attached to the center section of the upper airframe
+structure, and all four mounting points were intact. The main transmission turned freely, no chips
+were found on the detectors, and the transmission appeared intact and functional.
+The tail boom was separated at the aft fuselage frame. The tail section included the
+complete fenestron assembly11 with the tail rotor gearbox and tail rotor. The tail rotor driveshaft
+was displaced forward about 1.5 inches. The aft portion of the driveshaft, which was carbon
+composite, was found fractured, torsionally cracked, and deformed. All tail rotor blades
+remained complete and attached to the hub. The fenestron shroud around the tail rotor showed a
+rotational scrape at the 5 o’clock position. The width of the scrape corresponded with the tail
+rotor-blade width.
+Both engines showed little damage, and the gas generator (N1 compressor and turbine)
+and power turbine (N2 turbine) for each engine rotated freely. Nonvolatile memory data
+extracted from the electronic engine control units for each engine revealed no evidence of
+preimpact faults.
+MEDICAL AND PATHOLOGICAL INFORMATION
+The FAA Bioaeronautical Sciences Research Laboratory, Oklahoma City, Oklahoma,
+performed toxicological testing on specimens from the pilot, and no drugs or alcohol were
+detected in the pilot’s blood or urine.
+SURVIVAL ASPECTS
+The State of Maryland, Office of the Chief Medical Examiner, performed autopsies on
+the pilot and the flight paramedic. The medical examiner determined that the pilot’s cause of
+death was “multiple injuries.” The flight paramedic’s cause of death was listed as “drowning
+complicated by hypothermia”;12 the paramedic was found still belted into the left aft cabin seat.
+According to the flight nurse, after the crash, he was submerged in water but was able to
+remove his seat restraints, exit the helicopter, and remain near the helicopter’s partially
+submerged tail section until a rescue boat arrived. He was taken to a hospital and treated for a
+broken arm and burns.
+Several of the witnesses who saw the helicopter impact the water telephoned 911 to
+report the crash. According to the DCA tower’s daily record of operation, the DCA controller
+11
+A fenestron is a type of helicopter tail rotor system in which the tail rotor assembly consists of a series of
+rotating blades shrouded within the vertical tail structure.
+12
+The report also stated that the flight paramedic sustained a pelvic injury that, “although not fatal, may have
+contributed to death by restricting . . . mobility.”
+NTSB/AAB-07/04
+
+8
+received a call about 2326 from a Maryland State Police helicopter crew advising that they were
+inbound to investigate reports of a downed aircraft near the Woodrow Wilson Bridge. According
+to an incident report from the City of Alexandria (Virginia) Fire Department, Station 201, the
+station was notified about the downed aircraft at 2330:18 and dispatched the first of nine
+emergency medical service apparatuses about 2331:12; the first boat was dispatched at 2333:09.
+ORGANIZATIONAL AND MANAGEMENT INFORMATION
+LifeNet’s Part 135 certificate was issued in 1995. LifeNet is headquartered in
+Chesterfield, Missouri, and has 89 aircraft based at various locations across the country.
+LifeNet’s fleet includes various AS-350, BK-117, and EC-135 series helicopters, various models
+of Bell helicopters, Eurocopter BO-105 helicopters, McDonnell Douglas MDHS-MD-900
+helicopters, and Beech BE-100 and BE-200 twin-engine turboprop airplanes. LifeNet employs
+pilots and medical personnel.
+TESTS AND RESEARCH
+A National Transportation Safety Board performance engineer completed a performance
+study using the last 30 seconds of the flight’s Mode C radar data and the location of the crash site
+to estimate the helicopter’s bank angle and flightpath descent angle at impact, as well as the time
+of the crash. The study estimated that the helicopter’s flightpath angle was about -3º, its bank
+angle was about 12º right, and it impacted the water about 3.5 seconds after the last radar
+return.13
+The study also used primary and Mode C radar data to examine the helicopter’s
+proximity to other aircraft and to evaluate any possible encounter with wake turbulence or a bird
+flock.14 Review of the Mode C radar data showed that a 70-passenger Canadair Regional Jet 700
+(CRJ-700) passed northbound over Woodrow Wilson Bridge about 1 minute 45 seconds before
+the helicopter passed over the bridge. According to the data, the helicopter passed 900 feet
+directly beneath the flightpath of the CRJ-700. On the basis of the radar data, weather
+information, and information obtained through consultation with an FAA wake turbulence
+specialist, the study concluded that the time frame was sufficient to expect that the jet’s wake
+would be completely decayed before it could reach the helicopter and that, even if the wake had
+not decayed at all, its descent rate would not have been sufficient for it to have reached the
+helicopter.
+Review of the primary radar data showed that an area of primary returns, which could
+possibly represent a bird flock, occurred north of the bridge about 1 nm north of the point where
+the helicopter began its descent and about 30 seconds before the beginning of descent. The data
+showed that the helicopter’s flightpath continued undisturbed beyond the location of the primary
+13
+The study assumed that the helicopter followed a constant descent rate and angle from the location of the last
+radar return to the location of the wreckage and considered a Mode C uncertainty range of +/- 50 feet.
+14
+The flight nurse reported that he observed a white bird fly up from the lower left of the helicopter before the
+accident. Two medical crewmembers who had flown with the accident pilot on the night before the accident
+reported observing a large flock of white birds flying up from the water near the Woodrow Wilson Bridge.
+NTSB/AAB-07/04
+
+9
+returns, which is not consistent with a sudden or catastrophic collision with a bird flock. No
+evidence of bird remains was observed in the area surrounding the accident site.
+Construction Crane Information
+During interviews, the flight nurse stated that, although he did not remember the
+helicopter striking anything, he thought that it must have struck an unlighted construction crane.
+Safety Board investigators used the recorded ATC radar data and data from the operator’s GPS
+to examine sites along the Potomac River. The helicopter’s projected ground track along the data
+points toward the accident site was at least 300 feet laterally from the nearest construction crane,
+and no additional obstacles were observed along the track. Examination of the five construction
+cranes closest to the flightpath showed no evidence of an aircraft strike or structural damage, and
+all of the cranes had the required lighting on top of their respective boom. Also, a Maryland
+Department of Transportation traffic surveillance camera located on the east side of the Potomac
+River at Woodrow Wilson Bridge captured video that showed, at the time of the accident, an
+aircraft overflew the bridge, passing above and beyond the construction cranes, then began to
+descend.
+Comparison of Accident Flight with Previous Flight on the Same Route
+The pilot had flown the route from DC08 to RMN the night before the accident. A review
+of the operator’s GPS data revealed that the previous flight’s ground track and altitudes were
+nearly identical to those of the accident flight while north of Woodrow Wilson Bridge and up to
+the point of crossing the bridge midspan at an altitude of about 200 feet. According to the data,
+after the helicopter crossed the bridge on the previous night’s flight, it continued southbound on
+a steady ground-track heading and at an altitude of about 200 feet until it was at least 3 nm south
+of the bridge, then it climbed. The data showed that the accident flight also crossed the bridge
+midspan at an altitude of about 200 feet; however, its heading then deviated to the right while it
+descended into the water.
+ADDITIONAL INFORMATION
+Night Flying and Featureless Terrain Considerations
+Several professional helicopter pilots who routinely fly along the Potomac River in the
+vicinity of the Woodrow Wilson Bridge were interviewed regarding their observations of
+physical lighting and the natural horizon of the shoreline. All of the pilots reported that the river
+widens south of the bridge and that the area becomes “very dark” because the parks and natural
+bird habitats there limit the physical lighting on the shoreline.
+One helicopter pilot reported the following in a written statement:
+Flying at night from North to South over the Woodrow Wilson Bridge is very
+similar to going into actual instrument conditions. A pilot [flying] low-level North
+of the bridge is typically flying VFR due to the intense amount of ground lights
+NTSB/AAB-07/04
+
+10
+available along the river. Once the pilot crosses the bridge he is now flying into a
+black void. At this point an instrument scan must be established to maintain
+altitude. Because of the close proximity to water . . . a radar altimeter is necessary
+to ensure altitude awareness.
+According to the FAA Aeronautical Information Manual (AIM),15 chapter 8-1-5,
+Illusions in Flight, Featureless Terrain Illusion, “An absence of ground features, as when landing
+over water, darkened areas, and terrain made featureless by snow, can create the illusion that the
+aircraft is at a higher altitude than it actually is.”
+The FAA Airplane Flying Handbook,16 chapter 10, states the following about night
+flying:
+Night flying requires that pilots be aware of, and operate within, their abilities and
+limitations. . . . Night flying is very different from day flying and demands more
+attention of the pilot. The most noticeable difference is the limited availability of
+outside visual references. Therefore, flight instruments should be used to a greater
+degree.
+Air Defense Identification Zone and Flight Restricted Zone Communication Requirements
+After September 11, 2001, an Air Defense Identification Zone (ADIZ) was established
+for the Washington, D.C., area, which includes the DCA class B airspace. According to the
+National Security Flight Advisory, pilots are required to maintain two-way radio
+communications with a controller while in the ADIZ. The Washington, D.C., Metropolitan Area
+Flight Restricted Zone (FRZ), which includes an area within the ADIZ transitioned by the
+accident flight, also requires the pilot to maintain two-way radio communications with a
+controller.
+Pilots of flights that enter the ADIZ/FRZ typically maintain two-way radio
+communications with a controller and do not change from the assigned radio frequency until
+instructed to do so by a controller.17 Pilots who violate the provisions of the ADIZ/FRZ could be
+subject to criminal charges and/or FAA administrative action, including civil penalties and
+suspension or revocation of airman certificates, or military interception.
+15
+U.S. Department of Transportation, Federal Aviation Administration, Aeronautical Information Manual:
+Official Guide to Basic Flight Information and ATC Procedures (Washington, DC: FAA, 2006).
+16
+U.S. Department of Transportation, Federal Aviation Administration, Airplane Flying Handbook,
+FAA-H-8083-3A (Washington, DC: FAA, 2004).
+17
+The rules for operating within an ADIZ are outlined in 14 CFR Part 99 and include requirements for a
+functioning two-way radio and transponder, as well as certain procedural, position-reporting, and flight-planning
+requirements. The rules for operating within class B airspace are outlined in 14 CFR 91.131 and include two-way
+radio and transponder requirements.
+NTSB/AAB-07/04
+
+11
+ANALYSIS
+Examination of the helicopter revealed no mechanical deficiencies, and no evidence of
+impact with a bird or other object was found. Studies determined that an encounter with wake
+turbulence was unlikely.
+Other pilots who were familiar with the accident flight route reported that, because of the
+lack of physical lighting on the shoreline, flying south of the Woodrow Wilson Bridge at night
+was like flying into actual instrument meteorological conditions. According to the AIM and the
+FAA Airplane Flying Handbook, such an absence of ground features, especially at night, can
+result in illusions that make it difficult for a pilot to visually determine altitude, depth perception,
+and orientation.
+The helicopter crossed over the Woodrow Wilson Bridge at an altitude of about 200 feet,
+then it entered a gradual descent and right bank, and, about 14 seconds later,18 it impacted the
+water. Performance calculations estimated that the helicopter struck the water at a 3º nose-low
+and 12º right-bank attitude, which was consistent with the damage observed on the wreckage.
+Because the helicopter was traveling in dark conditions over featureless terrain, the pilot
+would have needed to reference the flight instruments to help maintain the helicopter’s safe
+altitude over the water. However, about 8 seconds before the onset of the helicopter’s banking
+descent, the pilot diverted his attention from the instruments, at least momentarily, because he
+stated to the controller that he was looking for the approaching Airbus traffic. Additionally, the
+flight nurse stated that, because of the traffic, the pilot “made a change in his flightpath and
+started to descend.”
+If the pilot had continued to look out the windscreen for the traffic, he would have had
+few or no outside visual ground references to provide information about the helicopter’s altitude,
+and detection of an unintentional descent during this time would have been difficult using
+external cues. Once the pilot detected any unintentional descent, he would have had to respond
+immediately to arrest it because of the helicopter’s cruise speed and low altitude. Other pilots
+familiar with the area stated that radar altimeters are necessary to ensure altitude awareness.
+During low-altitude flight, a functioning radar altimeter provides a pilot constant altitude
+information in feet above terrain and has an alerter function that can visually and/or aurally alert
+a pilot that the aircraft had descended below a preset altitude.19 However, on the night of the
+accident, the helicopter’s radar altimeter was inoperative.
+The night before the accident, the helicopter’s radar altimeter was functional, and the
+pilot successfully flew a nearly identical route southbound over the river, crossed the Woodrow
+18
+This includes the 10-second descent observed using radar data and the 3.5 seconds that the performance
+study estimated the helicopter continued to fly after the last radar return.
+19
+The pilot can set the alerter function by setting the altitude bug, or indicator, at any altitude, in feet above
+terrain, that the pilot determines is appropriate for the flight or flight segment. The alerter will then produce a visual
+and/or aural warning (depending on the altimeter model) any time the aircraft descends below that height above
+terrain.
+NTSB/AAB-07/04
+
+12
+Wilson Bridge at an altitude of about 200 feet, and then continued southbound over the river and
+eventually climbed to a higher altitude. For the accident flight, the inoperative radar altimeter
+was allowable for 10 calendar days, according to conditions and limitations stated in the
+operator’s FAA-approved MEL. If a functioning radar altimeter had been available to and used
+by the pilot, it could have provided a constant altitude cue, in the form of a digital readout of feet
+above the terrain, to enhance his awareness of the helicopter’s height above the water. This cue
+may have prevented the pilot from descending the helicopter into the water. Additionally, the
+visual alerter features of the radar altimeter could have provided the pilot additional tools to alert
+him that the helicopter had descended below a set altitude.20
+About 3 minutes after the helicopter crashed, the DCA local controller issued frequency-
+change instructions to the pilot but received no reply and was unaware that the helicopter had
+crashed. Because of the rules associated with the airspace, it would be unusual for a pilot not to
+maintain radio contact with the controller; thus, the controller should have attempted to locate
+the flight when he did not receive a reply.21 However, because witnesses immediately called 911
+to report the crash and rescue resources were dispatched, no evidence shows that the controller’s
+actions adversely impacted the timeliness of the rescue response.

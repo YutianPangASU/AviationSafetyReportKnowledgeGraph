@@ -1,0 +1,2171 @@
+PB97-910401
+NTSB/AAR-97/0l
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+WHEELS-UP LANDING
+CONTINENTAL AIRLINES FLIGHT 1943
+DOUGLAS DC-9 N10556
+HOUSTON, TEXAS
+FEBRUARY 19, 1996
+6804
+/
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety
+Board makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)382-6735
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSB/AAR-97/01 PB97-910401
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+WHEELS-UP LANDING
+CONTINENTAL AIRLINES FLIGHT 1943
+DOUGLAS DC-9 N10556
+HOUSTON, TEXAS
+FEBRUARY 19, 1996
+Adopted: February 11, 1997
+Notation 6804
+
+
+
+CONTENTS
+EXECUTIVE SUMMARY..........................................................................................................vi
+1. FACTUAL INFORMATION..................................................................................................1
+1.1 History of Flight....................................................................................................................1
+1.2 Injuries to Persons.................................................................................................................5
+1.3 Damage to Airplane...............................................................................................................5
+1.4 Other Damage........................................................................................................................5
+1.5 Personnel Information...........................................................................................................5
+1.5.1 The Captain.................................................................................................................................6
+1.5.1.1 Captain’s 72-Hour History Before the Accident.................................................................................8
+1.5.2 The First Officer..........................................................................................................................9
+1.5.2.1 First Officer’s 72-Hour History Before Accident.............................................................................12
+1.5.3 Flight Attendants.......................................................................................................................12
+1.6 Airplane Information...........................................................................................................13
+1.6.1 Dispatch Information.................................................................................................................13
+1.6.2 Hydraulic System......................................................................................................................14
+1.6.3 Landing Gear Indication and Warning System.........................................................................16
+1.6.4 Ground Proximity Warning System..........................................................................................16
+1.7 Meteorological Information................................................................................................17
+1.8 Aids to Navigation..............................................................................................................17
+1.9 Communications.................................................................................................................17
+1.10 Airport Information...........................................................................................................18
+1.11 Flight Recorders................................................................................................................18
+1.12 Wreckage and Impact Information....................................................................................20
+1.13 Medical and Pathological Information..............................................................................21
+iii
+
+1.14 Fire....................................................................................................................................21
+1.14.1 Airport Emergency Response..................................................................................................21
+1.15 Survival Aspects................................................................................................................21
+1.15.1 Flight Attendant Tailcone Training.........................................................................................24
+1.16 Tests and Research............................................................................................................25
+1.16.1 Simulated Approach................................................................................................................25
+1.17 Organizational and Management Information...................................................................26
+1.17.1 Pilot Union Presence at COA..................................................................................................26
+1.17.2 Recent COA Accidents and FAA Oversight...........................................................................27
+1.18 Additional Information......................................................................................................30
+1.18.1 Pilot Observations Concerning DC-9/MD-80 Hydraulic System...........................................30
+1.18.2 COA Guidance to Pilots on the DC-9 Hydraulic System........................................................31
+1.18.3 COA Crew Resource Management Training..........................................................................32
+1.18.4 COA Checklist Procedures......................................................................................................34
+1.18.5 COA Standard Operating Procedures......................................................................................36
+2. ANALYSIS..............................................................................................................................38
+2.1 General................................................................................................................................38
+2.2 Flightcrew Performance......................................................................................................39
+2.2.1 Failure to Properly Complete the In-range Checklist................................................................39
+2.2.2 Failure to Confirm Flap Function at the 5o Setting...................................................................41
+2.2.3 Failure to Determine the Cause of the Flap Extension Problem...............................................43
+2.2.4 Failure to Perform Landing Checklist and Confirm Gear Position...........................................44
+2.2.5 Failure to Discontinue the Approach........................................................................................46
+2.2.5.1 Role of the First Officer....................................................................................................................46
+2.2.5.2 Role of the Captain...........................................................................................................................47
+2.3 Role of Fatigue in Flightcrew Performance........................................................................49
+iv
+
+2.4 Adequacy of COA and FAA Oversight...............................................................................50
+2.5 Checklist Design.................................................................................................................52
+2.6 Survival Factors...................................................................................................................54
+3. CONCLUSIONS....................................................................................................................55
+3.1 Findings...............................................................................................................................55
+3.2 Probable Cause....................................................................................................................57
+4. RECOMMENDATIONS.......................................................................................................58
+5. APPENDIXES........................................................................................................................61
+APPENDIX A—INVESTIGATION AND HEARING............................................................61
+APPENDIX B—COCKPIT VOICE RECORDER TRANSCRIPT.......................................62
+APPENDIX C—FLIGHT DATA RECORDER DATA PLOT..............................................92
+APPENDIX D—COA DC-9 NORMAL CHECKLIST...........................................................93
+v
+
+EXECUTIVE SUMMARY
+On February 19, 1996, at 0902 central standard time, Continental Airlines (COA)
+flight 1943, a Douglas DC-9-32, N10556, landed wheels up on runway 27 at the Houston
+Intercontinental Airport, Houston, Texas. The airplane slid 6,850 feet before coming to rest in
+the grass about 140 feet left of the runway centerline. The cabin began to fill with smoke, and
+the captain ordered the evacuation of the airplane. There were 82 passengers, 2 flightcrew
+members, and 3 flight attendants aboard the airplane. No fatalities or serious injuries occurred;
+12 minor injuries to passengers were reported. The airplane sustained substantial damage to its
+lower fuselage. The regularly scheduled passenger flight was operating under Title 14 Code of
+Federal Regulations Part 121 and had originated from Washington National Airport about 3
+hours before the accident. An instrument flight rules flight plan had been filed; however, visual
+meteorological conditions prevailed for the landing in Houston.
+The National Transportation Safety Board determines that the probable cause of
+this accident was the captain’s decision to continue the approach contrary to COA standard
+operating procedures that mandate a go-around when an approach is unstabilized below 500 feet
+or a ground proximity warning system alert continues below 200 feet above field elevation. The
+following factors contributed to the accident: (1) the flightcrew’s failure to properly complete
+the in-range checklist, which resulted in a lack of hydraulic pressure to lower the landing gear
+and deploy the flaps; (2) the flightcrew’s failure to perform the landing checklist and confirm
+that the landing gear was extended; (3) the inadequate remedial actions by COA to ensure
+adherence to standard operating procedures; and (4) the Federal Aviation Administration’s
+(FAA) inadequate oversight of COA to ensure adherence to standard operating procedures.
+Safety issues discussed in this report include checklist design, flightcrew training,
+adherence to standard operating procedures, adequacy of FAA surveillance, and flight attendant
+tailcone training. Safety recommendations concerning these issues were made to the FAA.
+vi
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+WHEELS-UP LANDING
+CONTINENTAL AIRLINES FLIGHT 1943
+DOUGLAS DC-9-32, N10556
+HOUSTON, TEXAS
+FEBRUARY 19, 1996
+1. FACTUAL INFORMATION
+1.1 History of Flight
+On February 19, 1996, at 0902 central standard time,1 Continental Airlines (COA)
+flight 1943, a Douglas DC-9-32, N10556, landed wheels up on runway 27 at the Houston
+Intercontinental Airport (IAH), Houston, Texas. The airplane slid 6,850 feet before coming to
+rest in the grass about 140 feet left of the runway centerline. The cabin began to fill with smoke,
+and the captain ordered the evacuation of the airplane. There were 82 passengers, 2 flightcrew
+members, and 3 flight attendants aboard the airplane. No fatalities or serious injuries occurred;
+12 minor injuries to passengers were reported. The airplane sustained substantial damage to its
+lower fuselage. The regularly scheduled passenger flight was operating under Title 14 Code of
+Federal Regulations (CFR) Part 121 and had originated from Washington National Airport
+(DCA) about 3 hours before the accident. An instrument flight rules (IFR) flight plan had been
+filed; however, visual meteorological conditions (VMC) prevailed for the landing in Houston.
+The accident occurred on the second leg of a 2-day 2-leg sequence for the reserve
+flightcrew. The captain flew the first leg on February 18, 1996, from IAH to DCA. The flight
+departed IAH at 1745 and arrived in DCA at 2127 eastern standard time (EST). The flightcrew
+then had a 9-hour 23-minute rest period in Washington, D.C.
+The first officer performed pilot flying duties for the accident leg of the trip (flight
+1943), which departed DCA at 0650 EST. According to both the captain and the first officer, the
+takeoff, departure, and en route segments of the flight were uneventful.
+1
+Unless otherwise indicated, all times are central standard time, based on a 24-hour clock.
+
+2
+At 0840:42, air traffic control (ATC) at Houston Center issued a clearance to
+flight 1943 to descend from the en route altitude of 35,000 feet to 13,000 feet mean sea level.2
+The first officer began the descent, and at 0841:32, the cockpit voice recorder (CVR) recorded
+the captain reading the descent checklist.3 At 0841:40, the first officer asked the captain to verify
+that the calculation of 132 knots as the target airspeed for the approach to IAH was correct, to
+which the captain replied in the affirmative.4 The descent checklist was called complete by the
+captain at 0842:03.
+At 0845:31, the first officer called for the in-range checklist. The data from the
+digital flight data recorder (FDR) indicated that the airplane was descending through 19,000 feet
+at this time. Between 0845:37 and 0846:10, the captain referred to each of the seven items on the
+in-range checklist, in the correct order, except for the fourth item, “Hydraulics,” to which the
+captain did not refer.5 The first officer responded “checked set” to the third item, “Flight
+Instruments, Altimeters,” and “on” to the fifth item, “Shoulder Harness.”
+Flight 1943 received clearance to descend to 10,000 feet at 0847:12. At 0848:39,
+the captain made initial contact with the Houston Terminal Radar Approach Control Arrival East
+controller and requested runway 27. At 0849:33, the controller cleared flight 1943 to descend to
+7,000 feet. At 0853:23, the controller instructed flight 1943 to “join the two seven localizer” and
+descend to 4,000 feet.
+At 0854:49, the first officer called for the approach checklist. Between 0854:49
+and 0855:18, the captain referred to the first four of the nine items on the checklist.6 At 0855:27,
+the checklist was interrupted by the first officer informing the captain that he intended to use
+manual spoilers and 40o of flaps for the landing. The captain resumed completing the checklist at
+0855:56, and accomplished the next three items before he was interrupted again at 0856:06,
+when the controller transmitted “Continental nineteen forty three, thirteen miles from the marker,
+maintain two thousand till established on the localizer, cleared ILS two seven approach.” At
+0857:02, the controller instructed flight 1943 to maintain a speed of 190 knots or faster to the
+outer marker and to contact the tower. According to the captain, the ATC request to maintain
+190 knots or faster to the marker was not unusual at IAH on a visual flight rules (VFR) day. In
+his postaccident statement, the captain reported that at the time ATC made the request, the
+airplane’s indicated airspeed was approximately 210 knots, so no speed adjustment was necessary.
+2
+Unless otherwise indicated, all altitudes are expressed in relation to mean sea level.
+3
+See appendix B for a complete transcript of the CVR.
+4
+The calculation of a target airspeed was one of the steps required to complete the last item of the
+descent checklist, “Landing Data, Bugs.” A copy of COA’s DC-9 Normal Checklist is provided as appendix D.
+5
+The following items, in consecutive order, are on the in-range checklist: “Fuel Boost Pumps,
+Quantity,” “No Smoke & Seat Belt Signs,” “Flight Instruments, Altimeters,” “Hydraulics,” “Shoulder Harness,”
+“Approach Briefing,” and “Sterile Cockpit Light.”
+6
+The following items, in consecutive order, are on the approach checklist: “Altimeters & Bugs,”
+“VOR/ADF Switches,” “Marker Switches,” “Radios,” “Course,” “Mode Selectors,” “RAT EPR/TRI,” “Air
+Conditioning Auto-Shutoff,” and “Landing Announcement.”
+
+3
+After making the landing public address (PA) announcement, the captain contacted the Houston
+Intercontinental Air Traffic Control Tower Local East controller, and at 0857:58, the flight was
+cleared to land. At 0858:08, the captain said “now, where was I,” referred to the last two items
+on the approach checklist, and stated “approach check complete.”
+At 0858:48, the captain commented “aw shoot. I can’t play tennis when it’s like
+this… well maybe this afternoon it’ll clear up. actually I’ve still got a lot of time.” At 0859:00,
+the first officer said “go slats and five.” After the CVR recorded the sound of a click at 0859:03,
+the captain stated “slats are going to five.” The captain later recalled that he felt the slats extend,
+and the first officer recalled that the blue “SLATS EXTEND” light illuminated. Between
+0859:14 and 0859:37, the captain engaged the first officer in nonessential conversation about the
+weather. At 0859:50, the first officer initiated dialogue with the captain to clarify whether the
+controller had asked them to maintain 190 knots to the outer or middle marker. The discussion
+ended at 0900:00, when the first officer commented “heh” and then made two remarks, of which
+only a few words were intelligible on the CVR recording. In a written statement submitted to the
+Safety Board on January 27, 1997, the first officer reported that he had noticed the flap gauge
+indicating 0o at 0900:00 and that his subsequent remarks had been in reference to the flap gauge.
+At 0900:11, the captain reported the airport in sight.
+At 0900:13, after crossing the outer marker, the first officer called for the flaps to
+be extended to 15o. During an interview on February 20, 1996, and in his written statement dated
+February 27, 1996, the first officer indicated that at this point he realized that the flaps had not
+extended and touched the flap gauge to show the captain that it indicated zero. According to the
+captain, he responded by confirming that the flap handle was positioned to 15o. At 0900:33, the
+captain said “I think the flaps *7.” At 0900:35, three intermittent sounds from the landing gear
+warning horn were produced, according to the first officer, by the captain rapidly moving the
+throttles back and forth. At 0900:37, the captain said “well we know that, you want the gear.”8
+At 0900:38, the first officer called “gear down,” and 2 seconds later, the CVR recorded the sound
+of a thump.9 At 0900:41, the first officer called for the landing checklist and the flaps to be
+extended to 25o. At 0900:46, the gear warning horn began to sound. During the next 12 seconds,
+the first officer called for the flaps to be extended to 40o and then to 50o. At 0901:00, the first
+officer stated “* I don’t have any flaps.” In his postaccident statement, the captain reported that
+“the aircraft did not feel as though we had 50 flaps (didn’t balloon and aircraft didn’t slow).”
+The CVR does not indicate that the landing checklist was ever started.
+During postaccident interviews, neither pilot recalled seeing “any” landing gear
+indicator lights; both pilots recalled the gear handle being moved to the down position. The first
+7
+When transcribing cockpit voice recordings, the Safety Board uses an asterisk to signify an
+unintelligible word.
+8
+After the accident, the first officer stated that he did not understand what the captain meant by the
+comment, “well we know that.”
+9
+According to the DC-9 pilots who were members of the CVR group, the thump sound recorded
+by the CVR was similar to the sound produced by moving the gear handle on a DC-9 to the down position.
+
+4
+officer stated that he did not hear the landing gear warning horn. The captain stated that he heard
+the horn sound momentarily and thought that it sounded because he put the flaps to 25o before
+the gear was down and locked.
+According to FDR data, at 0900:58, the airplane was traveling at 216 knots
+indicated airspeed, approximately 504 feet above field elevation (AFE), and 34 seconds from
+touchdown.10 At 0901:02, the first officer stated “want to take it around?” and the captain
+replied “no, that’s alright. * keep your speed up here about uh.” Regarding his decision to
+continue the approach, the captain later stated, “it was a VFR day, we had a 10,000 foot runway,
+we had gear and flaps, I felt there was not a problem.” The first officer later stated that there was
+no time for discussion with the captain because the approach was so fast.
+At 0901:07, the landing gear warning horn stopped sounding. At 0901:08, the
+first officer stated “I can’t slow it down here now,” and the captain replied “you’re alright.” At
+0901:10, the first officer said “we’re just smokin’ in here.” At 0901:13, the ground proximity
+warning system (GPWS) alerted “whoop whoop pull up” three times, and silenced at 0901:18.
+During the second GPWS alert, at 0901:15, the landing gear warning horn resumed sounding and
+continued to do so until after touchdown. According to the first officer, the captain reached up to
+the overhead panel as the GPWS was alerting. The captain did not recall doing this and stated
+that he had interpreted the GPWS alerts as a high sink rate warning.
+At 0901:18, the first officer said “want to land it?” At 0901:20, the captain
+replied “yeah” and, according to the first officer, took control of the airplane. According to the
+captain, the first officer was “uncomfortable with the situation and relinquished the controls.”
+The captain stated that at the time he took over, the airspeed was high, but he felt comfortable.
+The transfer of control from the first officer to the captain occurred as the airplane was traveling
+at 204 knots indicated airspeed, approximately 161 feet AFE, and 12 seconds from touchdown.
+At 0901:24, the first officer asked the captain “you want it?” and the captain said “yeah.”
+At 0901:32, the airplane touched down hard with the wheels up at 193 knots
+indicated airspeed. As the airplane slid down the runway, two controllers on duty in the tower
+and two airport groundskeepers observed smoke and fire coming from beneath the airplane. The
+captain said that as the airplane slid down the runway, he was able to maintain directional control
+with the rudder. The airplane came to a stop in the grass off to the left side of the runway.
+The first officer stated that after the airplane came to rest, he made the PA
+announcement, “remain seated, remain seated, remain seated.”11 According to the captain, he
+called for the evacuation checklist, pulled both engine fire handles, and moved both fuel control
+10
+See appendix C for a plot of all FDR parameters covering a 90-second period commencing at
+0900:10.
+11
+The first officer’s PA announcement was not recorded by the CVR. The recording ended at
+0902:05, before the evacuation.
+
+5
+levers to “OFF.” The first officer read the evacuation checklist, and the captain accomplished the
+items.
+The “A” flight attendant12 stated that after the airplane came to a stop, she entered
+the cockpit and informed the flightcrew that smoke was in the cabin. She observed the
+flightcrew shutting down the engines and returned to the cabin. When she heard, “easy victor,
+easy victor, go out the main cabin door,” she opened the left forward cabin exit, inflated the slide,
+and directed the passengers at the front of the cabin out this exit. The “B” flight attendant
+directed passengers out the overwing exits. She stated that with the exception of one elderly man
+who required assistance, all the passengers were evacuated in less than 1 minute. After the
+passengers were evacuated, the flight attendants exited, followed by the flightcrew.
+The accident occurred during the hours of daylight. The airplane came to rest
+about 29(cid:176) 58’40” north latitude, 95(cid:176) 20’23” west longitude.
+1.2 Injuries to Persons
+Injuries Flightcrew Cabin Crew Passengers Other Total
+Fatal 0 0 0 0 0
+Serious 0 0 0 0 0
+Minor 0 0 12 0 12
+None 2 3 70 0 75
+Total 2 3 82 0 87
+1.3 Damage to Airplane
+The airplane received substantial damage to its lower fuselage. Estimated repair
+costs exceeded the airplane’s insured value of $2.56 million, and it was scrapped.
+1.4 Other Damage
+A total of 18 runway centerline lights and 3 taxiway lights were destroyed. The
+estimated cost to replace the lights was $8,500.
+1.5 Personnel Information
+The flightcrew consisted of the captain and the first officer. Company records
+indicated that the two pilots had not flown together before the accident pairing. Three flight
+attendants were aboard the airplane.
+12
+The “A,” “B,” and “C” flight attendants have specific duties to perform both during a routine
+flight and in the event of an emergency evacuation. During an evacuation, the “A,” “B,” and “C” flight attendant’s
+duty stations are at the front, middle, and rear of the cabin, respectively.
+
+6
+Safety Board investigators conducted individual interviews of the captain and first
+officer on February 20, 1996, and again on September 25, 1996. In addition, all crewmembers
+submitted written statements to the Safety Board.
+1.5.1 The Captain
+The captain, age 50, was hired by COA in 1984. He holds an airline transport
+pilot certificate, with airplane multiengine land and airplane single-engine land ratings, and B-
+727, B-737, and DC-9 type ratings. At the time of the accident, he possessed a first-class
+medical certificate dated February 6, 1996, with the restriction, “Must possess near vision
+glasses.” He had no Federal Aviation Administration (FAA) record of aircraft accidents,
+incidents, or flight violations.
+The captain’s total pilot time was approximately 17,500 hours. In the 24 hours
+before the accident, he flew 6 hours. In the 30, 60, and 90 days before the accident, he flew 29,
+60, and 87 hours, respectively.
+The captain was a U.S. Air Force flight instructor during the Vietnam War.
+Before joining COA, he was employed by the FAA as an aviation safety inspector and by Braniff
+International as a flight engineer on DC-8 and B-727 airplanes. His first position at COA was as
+a B-727 second officer. In July 1985, he upgraded to first officer on the B-727 and accumulated
+approximately 5,000 hours in that position. He transitioned to the B-737 in 1993 and
+accumulated approximately 1,100 hours as a B-737 first officer. In 1995, he upgraded to captain
+on the B-737. As part of his upgrade training, he completed a 1-day crew resource management
+(CRM) course in January 1995. He told investigators that he considered the CRM training to be
+useful. Between March 1995 and June 1995, he accumulated approximately 119 hours as a B-
+737 captain.
+In late June 1995, the captain transitioned to the DC-9 and completed primary
+systems training. He characterized this training as weak because of outdated course materials. In
+July 1995, he completed DC-9 simulator training and participated in a line oriented flight training
+(LOFT) simulator session. Following his initial operating experience (IOE), the captain
+successfully completed a line check. The line check report13 indicated that the captain was rated
+"above average" on two evaluation categories and "satisfactory" on the remaining thirteen. The
+two categories with above average ratings were:
+OVERALL TECHNICAL PROFICIENCY
+Adhere to checklist, SOP, FARs, sterile cockpit, etc.
+Demonstrate high level of basic flying skills
+13
+The original line check report prepared by the check airman was destroyed in compliance with
+COA policy, after record of satisfactory completion was entered in the computer data base. However, the check
+airman retained a copy of the report.
+
+7
+Adept at normal and abnormal procedures
+Thorough systems knowledge
+LEADERSHIP AND TEAMWORK
+Balance authority and assertiveness
+Promote continual dialogue
+Use all available resources
+Share any doubts with others
+The check airman also wrote on the form, “good check ride well prepared and
+ready to fly as a DC-9 captain." The captain said that after his training, he felt comfortable in the
+DC-9.
+As a reserve14 captain on the DC-9, the captain accumulated approximately 220
+flight hours from August 1995 to February 1996. At the time of the accident, he was the most
+junior captain on the DC-9 at the Houston base. The captain indicated to Safety Board
+investigators after the accident that he had been concerned with the regularity and amount of his
+flying time in the DC-9 and frequently volunteered to pick up trips to build more time. He also
+said that he did not feel comfortable in the aircraft, because he was not flying as often as he
+would have liked.
+In December 1995, the captain completed recurrent DC-9 systems and simulator
+training. A review of the captain’s COA training records revealed no history of failures or re-
+tests.
+Regarding his DC-9 training, the captain could not recall whether he had practiced
+no-flap landings in the simulator or received specific simulator training on hydraulic system
+problems. He did not remember having any previous events in the DC-9 concerning hydraulic
+system configuration. He said that a “norm”15 existed for the first officer to make hydraulic
+system configuration changes; he was aware that this was not standard operating practice, which
+assigned the task to the pilot not flying at all times. He said he conducted his cockpit according
+to standard operating practice, because he was new to the airplane, and he did not expect first
+officers to configure the hydraulic pumps.
+The chief pilot at Houston, who had flown with the captain when he was a first
+officer on the B-727, said that the captain was conscientious, had an excellent record, and that
+pilots liked flying with him. Several pilots who flew with the captain in the year before the
+accident were interviewed. Many of them did not remember flying with him. First officers who
+did remember flying with the captain described him as capable, competent, and personable. One
+characterized the atmosphere in the cockpit while flying with the captain as light and jovial and
+14
+Reserve pilots do not have enough seniority (time-in-service) to obtain a monthly trip schedule.
+They are on call about 20 days each month, flying on an as-needed basis.
+15
+Norms are customary behaviors, not necessarily based on policy.
+
+8
+said he “wasn’t completely all business.” One indicated that the tone in the cockpit while flying
+with the captain was closer to the “norm” developed on the line rather than standard operating
+practice as taught during training. Two first officers who flew with the captain in the Fall of 1995
+said that because the captain was new to the DC-9, he was a little slow at times, but that his
+procedures and airplane handling skills were good. One first officer said that he did not enjoy
+flying with the captain, but could only describe the reasons as a difference in style and “vague
+discomforting things.”
+A first officer who flew with the captain in early February described the first leg
+of a trip in which the captain had difficulty making crossing restrictions16 while flying a standard
+terminal arrival route into a busy airport in the northeast corridor. The first officer characterized
+the captain’s behavior during the approach as “slow to develop with what was happening.” He
+felt that the captain had mixed up step-down fixes on the arrival. He attributed this to the
+captain’s lack of recent flying experience and lack of experience in northeast corridor operations.
+According to the first officer, the captain’s remaining legs were routine.
+The captain was domiciled in Houston throughout his career with COA. He was
+married with two children. He said that his relationships with his wife and children were good.
+He stated that no major family or personal events had occurred in the days and weeks before the
+accident. A search of the National Driver Register indicated no history of driver’s license
+revocation or suspension.
+1.5.1.1 Captain’s 72-Hour History Before the Accident
+The captain was off duty on February 16 and 17. He checked the scheduling
+computer on Saturday evening, February 17, to determine the likelihood that he would get called
+out. He began reserve phone availability at 0600 on the morning of February 18. He awoke at
+0700, ate breakfast, and played tennis at 0845. He was called by crew scheduling at 1000 and
+assigned the trip with a report time of 1645. He completed his tennis match and went home. He
+reported normal activities and made no attempts to sleep that afternoon because he was not tired.
+He arrived at the airport about 1630, performed routine paperwork, and met the crew at 1715.
+The flight departed Houston at 1745 and arrived at DCA at 2127 EST.
+The captain arrived at the hotel about 2220 EST, after what he described as a
+longer-than-usual van ride, went straight to his room, and went to bed immediately. The captain
+said it was an “unrestful night” describing it as a “short night, early wakeup.” He said that he
+was awakened by traffic and outside noises during the night but did not remember how many
+times. Hotel records indicate that he had a wake-up call scheduled for 0530 EST. He said that
+he awoke at 0500 EST to prepare for the 0600 EST departure to the airport. The captain said that
+he probably had coffee and sweet rolls in the hotel lobby while waiting for the van. He arrived at
+the aircraft about 0620 EST.
+16
+Crossing restrictions specify the altitude and/or airspeed an airplane is required to be at when
+passing over a given location (fix).
+
+9
+The captain indicated that when he is off duty, he normally gets about 9 hours of
+sleep each night and feels tired the next morning if he gets fewer. He said that he routinely
+drinks one cup of coffee in the morning, but in the case of an early wakeup, he might consume
+two cups of coffee. During his second interview with Safety Board investigators, the captain
+made conflicting statements about whether he was tired on the morning of the accident. Early in
+the interview, the captain said that he felt tired and indicated that the time-zone difference meant
+it was an unusually early wakeup for him. Later, he stated that he was not fatigued or tired at the
+time of the accident, and he believes that fatigue was not a factor in the accident. The captain
+emphasized that nothing adversely affected his performance on the day of the accident and stated
+that he would characterize his behavior on the accident trip as normal.
+1.5.2 The First Officer
+The first officer, age 37, was hired by COA in 1988. He holds an airline transport
+pilot certificate, with an airplane multiengine land rating, and Lear Jet and Sabreliner type
+ratings. At the time of the accident, he possessed a second-class medical certificate dated August
+9, 1995, with no restrictions. He had no FAA record of aircraft accidents, incidents, or flight
+violations.
+The first officer had approximately 2,200 hours total pilot time. In the 24 hours
+before the accident, the first officer flew 6 hours. In the 30, 60, and 90 days before the accident,
+he flew 11, 51, and 111 hours, respectively.
+Before becoming employed by COA, the first officer was a pilot in the U.S. Air
+Force, where he flew F-4, Sabreliner, and Lear Jet aircraft. He was hired by COA as a B-747
+second officer and accumulated approximately 575 hours in that position from April 1988 to
+February 1989. In March of 1989, he accepted a 1-year company-offered leave of absence 17 to
+fly A-3718 jets in the Air Force reserve. He extended this leave on an annual basis until 1993,
+when his request for extension was denied at the chief pilot’s office because of “tight staffing.”
+The first officer returned to COA in August 1993 and started his transition training
+for the second officer position on the DC-10. He had difficulty completing the simulator training
+in the DC-10 and had to repeat the curriculum, starting with primary systems (ground) school in
+November 1993. The vice president of training for COA indicated that repeating training was
+not unusual for a second officer coming back to line operations after a 4-year leave of absence.
+In January 1994, the first officer completed his IOE and passed a line check. During line
+operations in the DC-10, he accumulated approximately 78 hours from January to April 1994.
+Because changes in COA’s DC-10 fleet usage would have forced him to leave the Houston base,
+he transitioned to the Airbus 300 (A-300) in June 1994 to maintain his Houston domicile. The
+transition was completed without difficulty, and he accumulated approximately 128 hours as an
+17
+COA used this method of workforce reduction to prevent the furlough of excess pilots. Pilots
+who accepted COLAs maintained certain company benefits such as travel passes and paid medical insurance.
+18
+The A-37 is an Air Force air-to-ground attack airplane.
+
+10
+A-300 second officer from June to September 1994.
+In September 1994, while a second officer on the A-300, the first officer was
+removed from the line for 60 days and sent for a fit-for-duty evaluation following an incident at
+an IAH security checkpoint and an A-300 captain’s complaint about his cockpit behavior. While
+proceeding to the gate for the first leg of a trip with the A-300 captain, the first officer failed to
+respond to a request by security personnel that he pass through a second magnetometer. After
+flying with him for six legs, the A-300 captain complained to the Houston chief pilot’s office,
+and later to the FAA principal operations inspector (POI) for COA, that the first officer had
+questioned his authority, demonstrated nonstandard behavior in the cockpit, and ignored security
+personnel.
+The first officer was removed from duty, and the Houston chief pilot started an
+investigation and evaluation. No concerns about the first officer’s professional competence were
+identified during the investigation. He underwent a fit-for-duty examination consisting of a
+clinical interview by a psychiatrist lasting several hours, and a comprehensive psychological
+evaluation consisting of a battery of personality and aptitude tests. The psychiatrist found nothing
+wrong with the first officer and recommended to the assistant chief pilot that he be returned to
+flight status without delay. After a proficiency check, the first officer was returned to duty.
+The first officer told Safety Board investigators that the A-300 captain’s
+complaint resulted from what he said was a “personality clash” precipitated by the security
+checkpoint incident. He said a contributing factor was his status as a non-union reserve pilot
+who had obtained a line19 to fly for the entire month. At the time, COA’s pilot union was at an
+impasse in its contract negotiations with the company, and it recommended that pilots not fill
+open time so that the company would have to call in extra pilots. The first officer did not support
+the union and did not heed their recommendation. The A-300 captain was a union member.
+The first officer said this incident was “terribly damaging” to him personally and
+professionally. After the incident he adopted what he described as a mode of “captain
+management” to preclude a recurrence of another similar event. In this mode he would
+constantly interpret what the captains he flew with really meant or really wanted. He indicated
+that it was necessary for him to play along and “not stir the hornet’s nest.” Even though he had
+been cleared of the accusations, and the record of the incident had been removed from his
+personnel file, the first officer felt like he was being watched.
+In November 1994, he transferred to the Greensboro, North Carolina, base and
+upgraded to first officer on the DC-9. As part of his upgrade training, he completed a 1-day
+CRM course. He said that it was his understanding that according to company CRM policy, the
+captain has final authority, and there was not a company policy instructing first officers to take
+control if necessary. The first officer failed to complete DC-9 simulator training on his first
+attempt because of a slow instrument scan. He repeated all the simulator sessions and completed
+19
+Monthly trip schedule.
+
+11
+the training in February 1995. The simulator instructor said the first officer was average and
+stated that his problem was not unusual for pilots upgrading after extended time in the second
+officer position. In March 1995, the first officer completed his IOE and passed a line check. The
+captain who gave the first officer IOE said that he had good skills, improved over time, was
+receptive to input, and eager to learn.
+From February 1995 to February 1996, the first officer accumulated
+approximately 450 hours as a reserve pilot on the DC-9. In December 1995, he completed DC-9
+recurrent systems training. On February 16, 1996, the first officer participated in a recurrent
+LOFT simulator session and completed a proficiency check. The instructor for the LOFT and
+proficiency check said the first officer provided substantial input to the captain during the LOFT
+session and did an "excellent" job in the proficiency check. He characterized the first officer as
+"above average" and "more than qualified" at the time he saw him. The instructor was the same
+one who had administered the first officer’s initial DC-9 simulator training a year before.
+The first officer did not remember any instances in line operations or training on
+the DC-9 where the hydraulic system was not configured for landing during the in-range
+checklist. He remembered covering material about the hydraulic system configurations on the
+DC-9 during ground school. He said that some captains had asked him to make hydraulic system
+configuration changes even when he was the flying pilot and it was not his responsibility.
+Several pilots who flew with the first officer in the year before the accident were
+interviewed. Several captains described him as quiet, with good pilot skills and an adherence to
+procedures that reflected his military training. Two captains described the first officer as
+technically proficient but “meticulous,” and stated that his slow and deliberate approach to
+cockpit procedures was frustrating. The lead line check airman on the DC-9 at Greensboro, who
+had worked for 8 years as a CRM instructor, offered the following description of the first officer
+based on their conversations:
+if you bumped into him at a grocery store or on a flight deck, he’d probably
+tend to be quiet, but very analytical, very judicial, very fair on a good day. On
+a bad day, he might be too quiet, too inclined to keep issues to himself rather
+than speak up, . . .
+In the summer of 1995, a captain complained to the Greensboro chief pilot about
+the first officer’s performance and lack of CRM skills in the cockpit. The captain had flown
+about 40 legs with the first officer over a 1-month period. The Greensboro DC-9 lead line check
+airman was tasked with evaluating the complaint and assigned a check airman to fly with the first
+officer. The first officer was not aware of the complaint or that he was being evaluated. The
+check airman reported that the first officer was still learning techniques, but overall was very
+professional, communicated, and was part of the crew. Based on this report, no further action
+was taken by the chief pilot’s office.
+At the time of the accident, the first officer was single and lived alone in an
+apartment in Greensboro. He moved to Greensboro from Houston about 1 year before the
+
+12
+accident. He said that near the time of the accident, a close relationship ended with someone
+who had remained in Houston. A search of the National Driver Register indicated no history of
+driver’s license revocation or suspension.
+1.5.2.1 First Officer’s 72-Hour History Before Accident
+Thursday night, February 15, 1996, the first officer studied for his proficiency
+check and spoke for about 90 minutes to the Greensboro DC-9 lead line check airman about the
+check ride. He described the proficiency check as a major life event. Friday, February 16, he
+deadheaded20 from Greensboro to Houston and slept most of the trip. He completed the
+proficiency check in the afternoon and spent the night at a hotel near the airport. On Saturday,
+February 17, he deadheaded back to Greensboro and arrived in the afternoon.
+Sunday, February 18, he awoke about 0900 EST, was contacted by crew
+scheduling at 0930 EST, and assigned the accident trip pairing. He departed his home base in
+Greensboro at 1455 EST and deadheaded to Houston, arriving at 1625. He proceeded directly to
+the gate, and the flight departed at 1745. He ate a crew meal and drank some orange juice on the
+flight. Upon arrival at DCA, after completing the termination checklist, he searched for, but
+could not find, his overnight bag on the airplane. He arrived at the hotel about 2230 EST, where
+he learned that a flight attendant had mistakenly given his bag to the station manager at DCA. At
+his room, he called the station manager to locate his bag. The first officer said that he was
+“miffed” about the missing bag. He went to sleep about 2330 EST and did not sleep very well.
+He said he doesn’t sleep well the first night in a strange bed, and he was concerned about the loss
+of his bag. He awoke at 0500 EST to prepare for the 0600 EST crew van. He said that it was an
+early day and that there was no time for breakfast at the hotel. While en route to Houston, he
+had some coffee and ate a crew meal.
+The first officer described himself as an evening person and said that he usually
+wakes up around 0900. He indicated that he does not drink coffee regularly, but uses it when he
+needs its stimulating effect. The first officer stated that he was tired on the morning of the
+accident, and he felt that fatigue affected his ability to make decisions at the end of the flight.
+1.5.3 Flight Attendants
+The “A” flight attendant had more than 11 years of service with COA. Her most
+recent recurrent training before the accident was completed in March 1995. The “B” flight
+attendant had 3 years of service with COA. Her most recent recurrent training before the
+accident was completed in February 1995. The “C” flight attendant had more than 9 years of
+service with COA. Her most recent recurrent training before the accident was completed in May
+1995. Each of the flight attendants was qualified on DC-9, DC-10, B-727, B-737, B-747, B-757,
+and A-300 airplanes.
+20
+Flew in a nonactive crew status.
+
+13
+1.6 Airplane Information
+N10556, a Douglas DC-9-32, serial number 47423, was manufactured on
+March 9, 1970. It was powered by two Pratt & Whitney (P&W) JT8D-9A turbofan engines. The
+airplane was put into service as part of COA’s fleet in January 1991. It had previously been
+operated by Air Canada, Texas International, New York Air, and Eastern Airlines.
+The airplane had accumulated 63,163 flight hours and 58,913 cycles at the time of
+the accident. The last maintenance inspection performed was an "A" check21 on February 17,
+1996.. No noteworthy discrepancies were found in the airplane’s maintenance records.
+1.6.1 Dispatch Information
+The dispatch paperwork for flight 1943 indicated that it was released from DCA
+at a gross takeoff weight of 102,757 pounds. The maximum gross takeoff weight for the airplane
+was 104,400 pounds. The center of gravity was calculated to be 16.9 percent mean aerodynamic
+chord, which was within limits.
+The planned fuel burn for the flight to Houston was 16,500 pounds; thus, 86,257
+pounds was the estimated landing weight and also the estimated weight of the airplane at the time
+of the accident.
+The COA speed card for a landing weight of 86,000 pounds lists the following
+reference speeds:
+Flaps 40 degrees, slats extended 125 knots
+Flaps 50 degrees, slats extended 121 knots
+COA procedures call for final approach to be flown at a target airspeed of the
+flaps 40 (or 50)o reference speed plus a wind additive. Using a wind additive of 7 knots (1/2 the
+steady state wind of 14 knots), the following target airspeeds were calculated for flight 1943:
+Flaps 40 degrees, slats extended 132 knots
+Flaps 50 degrees, slats extended 128 knots
+For a landing weight of 86,000 pounds, the COA DC-9 Flight Manual chart
+entitled, “V-Speeds for Abnormal Landings,” listed the landing reference speed as 153 knots for
+a flaps-up, slats-extended configuration.
+21
+An "A" check is a comprehensive external inspection of the airplane performed by COA
+maintenance personnel at intervals of 14 days.
+
+14
+1.6.2 Hydraulic System
+Hydraulic power on the DC-9 is provided by two independent hydraulic systems.
+Each system is normally pressurized by its respective engine-driven hydraulic pump. An
+auxiliary electrically operated pump and an alternate motor pump provide backup pressure
+sources. The output pressure of each engine-driven hydraulic pump is controlled by a 3-position
+switch, which is located on the first officer’s instrument panel, but is accessible to both pilots.
+(See figure 1.) In the “HI” position, pump output pressure is 3,000 pounds per square inch (psi).
+The “LOW” position reduces the pressure to 1,500 psi. The “OFF” position depressurizes the
+system. Switches controlling the auxiliary (AUX) and alternate (ALT) hydraulic pumps are also
+located on the first officer’s instrument panel. Ground, takeoff, and landing operations are
+conducted with the engine-driven hydraulic pump switches in the “HI” position and the AUX and
+ALT switches “ON.” During in-flight operation, system pressures are reduced to 1,500 psi by
+positioning the engine-driven pump switches to “LOW” and turning the AUX and ALT switches
+“OFF.” COA procedures require changeover to the low pressure configuration during
+completion of the after-takeoff checklist. The high pressure configuration is enabled before
+landing, during completion of the in-range checklist.
+Hydraulic components are classified as being either priority or non-priority based
+on their operating pressure requirements and/or their function. Priority components are mainly
+associated with normal flight operations and require lower operating pressures to function.
+These components include spoilers, slats, rudder, flap/rudder stop, engine reversers, the elevator
+augmentation system, and the ventral stair system. Non-priority components require a system
+pressure of at least 2,000 psi to function normally and are required for all ground operations,
+including takeoff and landing. Non-priority components include landing gear, brakes, flaps, nose
+wheel steering, and the alternate gear pump. A priority valve in each system gates hydraulic
+pressure between the priority and non-priority components. When the engine-driven pumps are
+placed in the “HI” mode, the priority valves open as the system pressure exceeds 2,000 psi and
+permit operation of non-priority components. Placing the engine-driven pumps in the “LOW”
+mode reduces system pressure, closes the priority valves, and renders the non-priority
+components, including the flaps and landing gear, inoperative.
+Pressure gauges for each hydraulic system are located on the first officer’s
+instrument panel immediately above the pump switches. The “LOW” range is indicated by a
+green arc from 1,300 to 1,600 psi, and the “HI” range is indicated by a green arc from 2,800 to
+3,100 psi. Each system has a “HYD PRESS LOW” annunciator light on the overhead panel that
+illuminates when the respective system pressure drops to approximately 900 psi. The “MASTER
+CAUTION” light will illuminate at the same time.
+According to the Douglas Aircraft Company, as of December 31, 1996, 874 DC-9
+(-10 through -50) and 1,009 MD-80 series airplanes were in service worldwide with the “HI,
+LOW, OFF” hydraulic switch configuration. The MD-80 hydraulic system differs from the DC-9
+system in that it does not incorporate priority valves. On the MD-80, system pressure is provided
+to all components continually; however, normal operation of the non-priority components still
+
+15
+a
+.bDm
+z Oub ‘4
+o e
+MYO?Wo
+9vuuntr
+Upper Illustration -Hydraulic switch panel in high pressure configuration.
+Bottom Photo - Photo of accident airplane’shydraulic switch panel in low pressure
+configuration (see section 1.12).
+Figure 1– Hydraulic switch panel.
+
+16
+requires hydraulic pressure greater than 2,000 psi. If the engine-driven pumps are in the “LOW”
+mode, the function of the flaps and the landing gear will be impaired. Douglas provides an “ON,
+OFF” hydraulic switch configuration as a customer option on the MD-80. Two operators have
+chosen this option, and as of December 31, 1996, there were 126 MD-80 airplanes in service
+worldwide with the “ON, OFF” switch configuration.
+1.6.3 Landing Gear Indication and Warning System
+Landing gear position indication on the DC-9 is provided by three green lights and
+three red lights located on the forward instrument panel above the gear handle. A green gear
+light indicates that the respective landing gear is down and locked. A red gear light indicates that
+the respective gear is unsafe, neither full up nor full down. An amber light located just to the
+right of the gear lights illuminates whenever the inboard main gear doors are not in the fully
+closed position.
+A landing gear warning horn will sound when the throttles are retarded to idle if
+the landing gear is not down and locked.22 The pilots can silence the horn by depressing the horn
+cutoff button located on the instrument panel. The warning horn will also sound, regardless of
+throttle position, if the landing gear is not down and locked and the flap handle is moved beyond
+the approach (15o) setting. In this condition, the horn cannot be silenced and will continue to
+sound until the gear is down and locked or the flap handle is retracted to a setting of 15o or less.
+1.6.4 Ground Proximity Warning System
+COA operates DC-9 airplanes equipped with Sundstrand Mark I and Mark II
+GPWS units, which provide aural and visual warnings in response to aircraft configuration
+and/or operation deficiencies. The GPWS computer receives input from the radio altimeter, air
+data computer, glideslope receiver, landing gear handle position switch, and flap handle position
+switch. The computer processes these inputs and, in the case of the Mark I system as installed in
+N10556, generates a “whoop whoop pull up” aural warning and illuminates a red light labeled
+“PULL UP” on the instrument panel when any of the following conditions are detected:
+• Rate of descent exceeds certain threshold values.
+• Terrain closure rate exceeds certain threshold values.
+• Takeoff altitude loss.
+• Below 500 feet above ground level (agl) with landing gear handle not in the
+down position.
+22
+The red gear lights on a COA DC-9 will not illuminate under these conditions. All COA DC-9
+airplanes have been modified in accordance with Douglas Service Bulletin 32-170, entitled “LANDING GEAR -
+Position and Warning - Deactivate Warning Lights During Throttle Retardation.” This modification is required for
+compliance with United Kingdom Civil Aviation Authority requirements. Texas International (which merged with
+COA in 1982) acquired DC-9 airplanes incorporating this modification from Air Canada and then performed the
+modification on the remainder of its DC-9 airplanes to standardize the fleet.
+
+17
+• Between 500 and 200 feet agl with gear handle down, but flap handle not
+selected to the landing position,23 and a rate of descent exceeding certain
+values.
+• Below 200 feet agl with gear handle down, but flap handle not selected to the
+landing position.
+•
+If a pilot chooses to land with less-than-normal landing flaps, the flap configuration warning can
+be disabled by activating a flap-override switch installed on the overhead panel. This switch
+affects only the GPWS warnings associated with flap position; the other warning modes remain
+active. All warnings are inhibited below 50 feet agl.
+When an ILS frequency is selected by the pilot, the Mark I GPWS unit will sound
+a “glideslope” warning and illuminate the “BELOW G/S” light on the instrument panel if the
+airplane inadvertently descends below the glideslope. “Whoop whoop pull up” and “glideslope”
+are the only verbal warnings available in the Mark I GPWS units. The Mark II units provide
+verbal warnings that are more specific about the nature of the airplane deficiency. The expanded
+warnings include “too low gear,” “too low flaps,” too low terrain,” “sink rate,” “don’t sink,” and
+“minimums.”
+1.7 Meteorological Information
+Visual meteorological conditions prevailed at the time of the accident.
+The IAH hourly weather observation at 0850 was 1,000 feet scattered, measured
+ceiling 1,800 feet broken, 2,700 feet overcast; visibility 10 miles; temperature 68 oF; dew point
+63 oF; wind estimated 210o at 12 knots; altimeter setting 29.70 inches of Hg.
+1.8 Aids to Navigation
+There were no known difficulties with aids to navigation.
+1.9 Communications
+Before the airplane’s touchdown, there were no known difficulties with
+communications. At 0901:56, the CVR recorded the captain making a radio call to IAH tower
+requesting assistance. This call was not received by the tower.
+The captain was using the airplane’s No. 1 communication radio to transmit.
+Postaccident examination revealed that the antenna for this radio, which was mounted on the
+belly of the airplane, was destroyed.
+23 Landing position is any flap setting greater than 15o.
+
+18
+1.10 Airport Information
+IAH is owned and operated by the city of Houston and is about 15 miles north of
+Houston. The airport is served by four paved runways. (See figure 2.) It is certificated as an
+aircraft rescue and fire fighting index E airport24 in accordance with the applicable provisions of
+14 CFR Part 139.
+Runway 9/27 is an asphalt runway, 9,999 feet long and 150 feet wide with 35-foot
+asphalt non-weight bearing shoulders. Runway 27 is equipped with a Category II instrument
+landing system and marked as a precision instrument runway, which includes high intensity
+runway, runway centerline, and touchdown zone lights. The approach threshold elevation is 87
+feet.
+Runway 9/27 is surrounded by a runway safety area, which is 500 feet wide and
+extends 1,000 feet beyond each runway threshold, and which conforms to FAA Advisory
+Circular 150/5300-13, “Airport Design.” There are 4 drainage culverts located at 2,000- to
+3,000-foot intervals 248 feet north of the runway centerline, with the first 15 feet of each culvert
+tapered, which conforms to runway safety area requirements.
+1.11 Flight Recorders
+An FDR and a CVR were installed in the airplane. The two recorders were
+removed from the airplane and sent to the Safety Board’s laboratory in Washington, D.C., for
+readout.
+The FDR was a Sundstrand model UFDR, SN 5442. The following six
+parameters were recorded: time, indicated airspeed, pressure altitude, magnetic heading, vertical
+acceleration, and very high frequency radio keying.25 The data indicated that at 0901:32, the
+airplane touched down hard at an indicated airspeed of 193 knots. The recorded data ended when
+power to the unit was interrupted while the airplane was still moving.
+The CVR was a Fairchild model A-100, SN 4100. The recording consisted of four
+channels of good quality26 audio information: the cockpit area microphone, the captain and first
+24
+Title 14 CFR Part 139 requires, for scheduled air carrier service with aircraft at least 200 feet
+long, that at a minimum the airport be equipped with at least three aircraft rescue and fire fighting vehicles with a
+combined carrying capacity of at least 6,000 gallons of water for foam production.
+25
+The six-parameter FDR was permissible under an exception to the standard 11-parameter
+requirement of 14 CFR Part 121.343 because the airplane did not meet Stage 2 noise levels, was to be retired by
+1998, and was listed on the FAA Aircraft Retirement Schedule.
+26
+The Safety Board generally uses the following criteria to assess the quality of a CVR recording:
+a “poor” recording is one in which a transcription is nearly impossible given that a large portion of the recording is
+unintelligible; a “fair” recording is one in which a transcription is possible, but the recording is difficult to
+
+Flight 1943 final location m
+w
+of airplane. m
+m=
+x
+Flight 1943 approximate
+point of touchdown.
+Figure 2 – Houston Intercontinental Airport diagram.
+difficult to understand; a “good’ recording is one in which few words are unintelligible; and an “excellent”
+recording isvery clear and easily transcribed.
+
+20
+officer audio panels, and the interphone/PA system. The recording started at 0831:16, with the
+airplane in cruise flight at 35,000 feet. It continued through the descent, approach, and landing at
+IAH, ending at 0902:05, when electrical power to the unit was interrupted. A transcript was
+prepared of the entire 30-minute, 49-second recording (see appendix B).
+1.12 Wreckage and Impact Information
+Physical evidence indicated that the airplane touched down about 3,300 feet from
+the approach end (beginning) of runway 27, almost directly on the runway centerline. A
+continuous scrape mark started at this point and led down the runway to the location of the
+airplane. The scrape mark remained close to the runway centerline for approximately 5,000 feet
+and then diverged to the left, departing from the pavement about 6,730 feet after it began. About
+10 feet further than that, both inboard main landing gear doors and the left forward nosegear door
+were located. Small fragments of skin from the belly of the airplane were scattered along the
+runway.
+Examination of the cockpit revealed that the landing gear handle was in the down
+position and the flap handle was set to 50o. The left and right engine-driven hydraulic pump
+switches were in the “LOW” position, and the ALT and AUX hydraulic pump switches were in
+the “OFF” position. The left hydraulic system gauge indicated 1,600 psi, and the right gauge
+indicated 0 psi (refer to figure 1). The safety wire on the GPWS flap override switch was found
+broken; however, the switch was not in the “OVRD” position.
+The airplane stopped on a magnetic heading of 255(cid:176) about 6,850 feet from the
+initial touchdown point. It came to rest on its lower fuselage in the grass adjacent to the takeoff
+end of the runway about 140 feet left of the runway centerline.
+Upon initial examination of the airplane, the leading edge slats were found
+deployed, and the flaps were found extended to approximately 5o. However, as time passed, the
+flaps continued to extend until the trailing edges rested on the ground. When the airplane was
+lifted by a crane, the landing gear extended and the flaps moved to full deflection (50o).27
+After the airplane was removed to a hangar, the underside of the fuselage was
+examined. Skin, stringers, and frames on the lower fuselage were damaged by contact erosion,
+with the damage increasing in severity in the aft direction. There was a 15-inch diagonal tear in
+the aft pressure bulkhead. The majority of the hydraulic piping and electrical wiring installed in
+the lower fuselage was heavily damaged.
+27
+According to Douglas, the gradual extension of the flaps, the extension of the landing gear, and
+the 0 psi indication on the right hydraulic pressure gauge are all indications that the airplane’s hydraulic system had
+been compromised during the slide down the runway.
+
+21
+1.13 Medical and Pathological Information
+Six passengers reported that they sustained minor injuries, and six passengers
+reported that they sustained smoke inhalation.28 One passenger was transported to a local
+hospital with complaints of back pain and released the same day.
+The captain and first officer submitted urine samples about 1015 on February 19,
+1996, in accordance with COA’s drug testing program. The samples were tested at an
+independent laboratory for amphetamines, phencyclidine, cocaine, cannabinoids, and opiates.
+The results of the examinations were negative for both pilots. At 1220 on February 19, 1996, the
+captain and first officer were administered a breath alcohol test, which tested negative for both
+pilots.
+1.14 Fire
+According to passenger and flight attendant statements, after the airplane came to
+a stop, smoke began to fill the midsection of the cabin. Several passengers reported that the
+smoke appeared to be coming from beneath the cabin floor.
+During postaccident examination of the airplane, scorched paint and burnt
+electrical wiring were found in the center section dry bay located below the cabin midsection.
+No evidence of a sustained fire was found.
+1.14.1 Airport Emergency Response
+At 0902, the Houston Fire Department was notified of the accident by ATC via
+the airport emergency phone network and responded with four crash/rescue units and an
+emergency medical vehicle. The aircraft rescue and fire fighting vehicles were positioned around
+the airplane, ready to apply extinguishing agent. After some light smoke was observed
+emanating from the rear cargo area, a hand-held hose line was placed in position while fire
+fighters boarded the airplane to ensure that all occupants had been evacuated. Fire fighters
+attempted to gain access to the aft cargo compartment using saws and hydraulic cutting tools, but
+this proved to be too difficult because of the airplane’s position without its landing gear
+extended, so they removed seats and flooring in the cabin to gain access. When access to the
+cargo compartment was gained, no fire was found.
+1.15 Survival Aspects
+The cockpit was configured conventionally with two flightcrew member seats and
+an observer jumpseat, which had not been occupied on the accident flight. The airplane was
+configured with 103 passenger seats, which had been about 80 percent occupied. No lap children
+28
+Passenger injuries were self-reported in statements to the Safety Board or on their COA
+“Customer Incident Report.”
+
+22
+had been aboard. The “A” flight attendant had been seated on an aft-facing jumpseat that was
+attached to the cockpit bulkhead adjacent to the forward entry door. The “B” and “C” flight
+attendants were seated on a forward-facing double-occupancy jumpseat that was attached to the
+tailcone access door.
+Two floor-level exits were located in the forward cabin, four overwing exits were
+located at seat rows 15 and 16, and a tailcone exit was located at the rear of the cabin. (See
+figure 3.) Access to the tailcone was provided by a plug-type door in the center of the aft cabin
+bulkhead.29 With this type tailcone access door, the shoulder harnesses for the flight attendants
+occupying the aft jumpseat are mounted to the plug door, and the flight attendant lap belts are
+attached to the aft cabin bulkhead. If one or more of the jumpseat shoulder harness straps are
+buckled to the lap belt, this ties the plug door to the bulkhead and interferes with the removal of
+the door during an emergency evacuation.
+COA’s Inflight Manual, current at the time of the accident, provided the following
+guidance to flight attendants for opening the plug-type door:
+DC-9-30 aircraft #556 and #557 are equipped with a plug type door. At the
+top of the door is a T-shaped handle. The door is opened from the customer
+compartment by lifting the handle up and pulling the door inward, then lifting
+it up and out of its frame. Place the door against the lavatory door.
+The manual did not mention the need to ensure that the jumpseat shoulder harness straps are
+unbuckled from the lap belts before attempting to remove the plug door.
+According to the flight attendants, during the evacuation most of the passengers
+exited the airplane by way of the overwing emergency exits. Other passengers exited through the
+left forward (L-1) cabin exit. Access to the tailcone exit was blocked. One passenger stated that
+the tailcone access plug door could not be fully opened because a seat belt restricted its
+movement. The “C” flight attendant stated that she could not completely remove the plug door
+because of the jumpseat shoulder harness. She redirected the passengers at the rear of the plane
+to the overwing exits.
+When Safety Board investigators examined the airplane, the evacuation slide at
+the left forward exit was found deployed and inflated. The right forward exit was open, but the
+slide was not deployed. All the overwing exit hatches and the tailcone access plug door were
+found removed. According to fire department personnel, the right forward exit and the tailcone
+plug door were opened during the postevacuation fire fighting activities.
+29
+COA operates DC-9 airplanes with access to the tailcone exit via either a plug-type door or a
+floor-level door. At the time of the accident, COA operated two airplanes with the plug-type tailcone access door:
+one of these was the accident airplane and the other was ship #557.
+
+23
+coNTINEm& AIRLINEs
+AIR~ SEAmG DIAGRAM
+DC-9-30
+Flight Attendant
+A
+Jumpseat
+MainCabinDoor/ Scrvi@Door/
+Emrgency Exit Emer-g.encyExit
+EmergencyExit ErnagencyExit
+EmergencyExit Emrgency Exit
+Flight Attendant
+Jumpseat on
+Tailcone Access I
+EmergencyExit
+Plug Door
+Figure 3 – Cabin configuration.
+
+24
+Subsequent to the accident, on September 16, 1996, COA issued “Inflight Safety
+Bulletin #96-07” to all flight attendants. The subject of the bulletin was the “Aft Jumpseat
+Harness on DC-9 Ship #557 (Plug Door).” The bulletin provided information on how to prevent
+blocking a useable exit during an evacuation. It emphasized the need to fully rotate the release
+knob when unfastening the jumpseat restraining harness to ensure that the shoulder straps release
+and cautioned flight attendants never to leave the shoulder harness attached to the seat belt. On
+October 16, 1996, COA issued a revision to the Inflight Manual that included the following note
+concerning the plug door:
+NOTE: When leaving the jumpseat ensure both shoulder harness straps
+release from the lap belt, or removal of the door may be hindered.
+1.15.1 Flight Attendant Tailcone Training
+The Safety Board addressed the issue of flight attendant tailcone training in its
+report on the ground collision of a DC-9 and a B-727, and the subsequent fire on the DC-9, at
+Romulus, Michigan, on December 3, 1990.30 As a result of its investigation of that accident, in
+which a flight attendant and a passenger died of smoke inhalation inside the DC-9 tailcone, the
+Safety Board issued Safety Recommendation A-91-60, which asked the FAA to do the following:
+Issue an Advisory Circular addressing acceptable methods for the design,
+construction, operation, and maintenance of mockups used for exit training
+during crewmember emergency training, and provide guidance to FAA
+inspectors to ensure that emergency equipment training devices accurately
+replicate the intended operational environment.
+In response to this recommendation, on July 13, 1992, the FAA issued Air Carrier
+Operations Bulletin (ACOB) 8-76-6, “Guidelines for Crewmember Training on Aircraft
+Tailcones and Approval of Tailcone Training Devices.”31 The bulletin set forth acceptable means
+for approving tailcone training devices and provided the following guidance concerning plug
+door training devices:
+(2) The ventral or plug door training device simulating the door at the pressure
+bulkhead leading to the tailcone should approximate the size and shape of the
+door on the actual aircraft. A door training device should approximate, within
+10 percent, the weight of the actual door. If a shoulder harness is attached to
+the door in the aircraft that might interfere with the opening of the door, one
+should be similarly attached to the corresponding door in the training device.
+30
+See Aircraft Accident Report—“Northwest Airlines, Inc., Flights 1482 and 299, Runway
+Incursion and Collision, Detroit Metropolitan/Wayne County Airport, Romulus, Michigan, December 3, 1990”
+(NTSB/AAR-91/05).
+31
+On January 6, 1993, the Safety Board classified A-91-60 “Closed—Unacceptable Action”
+because the ACOB did not require that each flight attendant receive hands-on experience with every emergency exit.
+
+25
+On January 26, 1996, ACOB 8-76-6 was superseded by the issuance of Flight
+Standards Handbook Bulletin (HBAT) 96-02, “Guidelines for Crewmember Training on Aircraft
+Tailcones and Approval of Tailcone Training Devices.” HBAT 96-02 contained the same
+language concerning plug door training devices as was found in ACOB 8-76-6. On February 8,
+1996, the POI provided COA with a copy of HBAT 96-02, and on March 8, 1996, the director of
+in-flight training and procedures for COA stated in a letter to the POI that COA “was in
+compliance with all requirements” of the bulletin.
+On July 25, 1996, Safety Board investigators visited COA’s Houston flight
+attendant training facility and examined the DC-9 plug door training device. Although the trainer
+used an actual plug door salvaged from an airplane, no shoulder harnesses or seat belts were
+installed in the training device. According to the FAA cabin safety specialist for COA, the plug
+door training device in Houston, as well as those at the flight attendant training facilities in
+Newark, New Jersey, and Cleveland, Ohio, were approved by the FAA before her assignment to
+COA in 1989.
+The cabin safety specialist told Safety Board investigators that her 1992 file
+photos of the plug door trainers currently located in Newark and Cleveland showed that shoulder
+harnesses were installed on the plug doors. In addition, she pointed out what she considered to
+be a deficiency in HBAT 96-02, in that COA’s trainers were equipped in accordance HBAT
+96-02, which specifies only the installation of shoulder harnesses on the plug door; however, this
+did not provide flight attendants with an opportunity to see how the shoulder harness could
+interfere with the opening of the door, because no seat belts were installed on the trainer
+bulkheads, and HBAT 96-02 does not specify the installation of seat belts. As of January 1997,
+COA has equipped its plug door training devices in Houston, Newark, and Cleveland with
+shoulder harnesses and seat belts.
+1.16 Tests and Research
+1.16.1 Simulated Approach
+The approach segment of flight 1943 was reenacted in a COA DC-9 simulator.
+According to COA training personnel, the simulator was programmed to accurately represent the
+cockpit indications resulting from attempting to configure the airplane for landing with the
+hydraulic pumps in the low pressure position. The simulator was positioned 12 miles outside the
+outer marker on the IAH runway 27 localizer at 4,000 feet. The in-range checklist was
+completed with the exception of the “Hydraulics” item.
+A speed of 190 knots was maintained to the marker. When the glideslope was
+intercepted, the slats were extended and the flaps were selected to 5o. The “MASTER
+CAUTION” light illuminated for a few seconds along with the “HYD PRESS LOW” light as the
+slats extended. The blue “SLATS EXTEND” light came on, indicating that the slats were
+extended. The flaps remained at 0o, and the flap gauge indicated zero.
+
+26
+When the landing gear handle was lowered and the flap handle placed to 25o, the
+following indications were observed:
+• No red landing gear warning lights.
+• No green landing gear “down and locked” lights.
+• No amber landing gear door light.
+• Continuous landing gear warning horn that could not be silenced when the
+flap handle was positioned to 25o.
+1.17 Organizational and Management Information
+COA was founded in 1934 as Varney Speed Lines and changed its name to
+Continental Airlines in 1937. At the time of the accident, it operated 298 airplanes, on both
+domestic and international flights. It had 31,952 employees, of whom 3,892 were pilots. It had
+31 DC-9 series airplanes, flown by 215 DC-9 pilots. The FAA certificate holding office
+(headquarters) is located in Houston, Texas.
+The former Texas International, People Express, New York Air, and Frontier
+Airlines have become part of COA. COA also acquired assets from former airlines—Muse,
+Transtar, and Eastern. In its 62-year history, COA has twice filed to reorganize under Chapter 11
+of the Federal Bankruptcy Code. The first was in 1983, and the company emerged in 1986; the
+second was in 1990, and the company emerged in 1993. The company also experienced a
+protracted labor strike from 1983 to 1985.
+1.17.1 Pilot Union Presence at COA
+Since July 1993, the pilots of COA have been represented by the International
+Association of Continental Pilots (IACP), a union certified by the National Mediation Board. All
+COA pilots, except those in management positions, are eligible for membership. Contractually
+all COA pilots must pay IACP dues, but pilots are not required to join the union. About 85
+percent of the pilots have elected to join the union.
+Before the IACP was certified, COA pilots had last been represented by the Air
+Line Pilots Association (ALPA) until the bankruptcy of 1983. From 1984 to 1993, the pilots
+were represented by a COA-sponsored “operational group,” a form of participative management,
+not sanctioned by the National Mediation Board. According to IACP officials, in 1991, the pilots
+believed that more formal representation was needed because of a disparity between COA and
+industry-standard pay and scheduling practices; a significant majority of pilots voted for union
+representation. COA management offered the pilot group voluntary recognition of an
+independent union. COA pilots elected to form the IACP instead of seeking representation by
+ALPA. In August 1995, the first collectively bargained labor agreement since 1983 was signed.
+
+27
+1.17.2 Recent COA Accidents and FAA Oversight
+On November 15, 1993, a COA B-727 was substantially damaged when it
+contacted the runway during a go-around at Chicago’s O’Hare International Airport.32 None of
+the 7 crewmembers or 79 passengers were injured. The go-around was initiated when the
+flightcrew realized that the landing gear was not extended for landing. In postaccident
+statements, the pilots reported that they were distracted by Traffic Alert Collision Avoidance
+System alerts and forgot to lower the landing gear. The Mark I GPWS sounded a warning as the
+airplane descended through 500 feet agl; it was not designed to, and did not, specifically
+announce “too low gear” as would a Mark II GPWS. The GPWS warning ceased at 50 feet agl,
+and at that time, the pilots realized they had not lowered the landing gear, so they initiated a go-
+around. The Safety Board determined that the probable cause of this accident was the following:
+THE CAPTAIN’S FAILURE TO ASSURE THAT THE LANDING GEAR WAS EXTENDED
+FOR LANDING. FACTORS RELATED TO THE ACCIDENT WERE: TRAFFIC ALERT
+DISTRACTIONS, THE FLIGHT CREW’S FAILURE TO USE THE CHECKLIST, AND
+INADEQUATE COMPANY SYSTEMS TRAINING.
+In the Pilot/Operator Aircraft Accident Report submitted on December 14, 1993,
+to the Safety Board, COA stated that it would “evaluate upgrading all “Mark I” GPWS units on
+all aircraft to the “Mark II” standard.” As of January 1997, COA still had 53 airplanes in service
+equipped with Mark I GPWS units.
+FAA inspectors performed a focused inspection of COA operations during a 3-
+week period in January and February 1994. Inspectors conducted from 40 to 55 en route flight
+inspections. The stated results were that some pilots were found not to be following checklists
+and standard operating procedures. According to the POI, he debriefed COA management
+regarding these results, and the company committed to initiating remedial action.
+On March 2, 1994, a COA MD-82 sustained substantial damage when the captain
+rejected the takeoff from runway 13 at LaGuardia Airport, Flushing, New York, and the airplane
+continued beyond the takeoff end of the runway.33 There were no fatalities, and 29 of the 110
+passengers and 1 of the 6 crewmembers received minor injuries during the evacuation. The
+Safety Board determined that the probable causes of this accident were the following:
+The failure of the flightcrew to comply with checklist procedures to turn on an
+operable pitot/static heat system, resulting in ice and/or snow blockage of the
+pitot tubes that produced erroneous airspeed indications, and the flightcrew’s
+32
+See Brief of Accident and Factual Report NTSB CHI94FA039.
+33
+See Aircraft Accident Report—“Runway Overrun Following Rejected Takeoff, Continental
+Airlines Flight 795, McDonnell Douglas MD-82, N18835, LaGuardia Airport, Flushing, New York, March 2, 1994”
+(NTSB/AAR-95/01).
+
+28
+untimely response to anomalous airspeed indications with the consequent
+rejection of takeoff at an actual speed of 5 knots above V1.
+In its final report the Safety Board stated the following:
+The checklist deviations and other pilot procedural deficiencies noted by the
+FAA during a special inspection, which included numerous en route
+inspections about 1 month before the accident, suggest that the problems
+identified in this accident regarding improper checklist procedures were
+systemic at COA. If pilots fail to adhere to procedures during en route
+inspections by FAA inspectors, they most likely behave in a similar manner
+when no inspector is present. Despite the COA POI’s efforts to correct this
+situation with COA management, the actions recommended in A-94-001 and -
+00334 appear to be appropriate for COA.
+According to the POI, there was no increased FAA surveillance of COA following
+the La Guardia accident. In interviews with Safety Board investigators, COA personnel indicated
+that the company placed additional emphasis during pilot training on the importance of checklists
+and adhering to standard operating procedures.
+In accordance with the National Aviation Safety Inspection Program (NASIP), a
+team of FAA aviation safety inspectors conducted an inspection of COA from July 31, 1995,
+through August 11, 1995. Compliance issues raised during the inspection were discussed with
+company personnel and the FAA principal inspectors. Fourteen cockpit en route inspections
+34
+These safety recommendations pertaining to flightcrew checklists were issued to the FAA on
+February 2, 1994, as a result of the Safety Board’s study of flightcrew-involved major accidents (NTSB/SS-94/01):
+Apply the results of research conducted to date on the design and use of checklists to improve the
+error-tolerance of air carrier checklist procedures for taxi operations by enhancing flightcrew
+monitoring/challenging of checklist execution, providing cues for initiating checklists, and
+considering technological or procedural methods to minimize the omission of any items on a
+checklist. Provide specific guidance to air carriers for implementing these procedures. (A-94-001)
+Require U.S. air carriers operating under 14 [CFR] Part 121 to provide, for flightcrews not covered
+by the advanced qualification program, line operational simulation training during each initial or
+upgrade qualification into the flight engineer, first officer, and captain position that: (1) allows
+flightcrews to practice, under realistic conditions, nonflying pilot functions, including monitoring and
+challenging errors made by other crewmembers; (2) attunes flightcrews to the hazards of tactical
+decision errors that are errors of omission, especially when those errors are not challenged; and (3)
+includes practice in monitoring and challenging errors during taxi operations, specifically with
+respect to minimizing procedural errors involving inadequately performed checklists. (Class II,
+Priority Action) (A-94-003)
+The FAA responded to A-94-003 by revising Advisory Circular 120-51B “Crew Resource
+Management Training,” and the Safety Board classified this recommendation “Closed—Acceptable Alternate
+Action.” The status of A-94-001 is discussed in section 2.5 of this report.
+
+29
+were performed to observe compliance with Federal regulations, company procedures, and FAA-
+approved programs. The inspection did not identify any deviations from Federal regulations or
+noncompliance with company procedures during the en route phase of flight. In addition, the
+POI told Safety Board investigators that he had seen no trends in the area of noncompliance with
+Federal regulations or company procedures in the Program Tracking and Reporting System data
+collected during his tenure as POI (1991 to present).
+On February 20, 1996, a COA B-737 ran off the departure end of runway 36 and
+onto the overrun after landing at DCA.35 None of the 5 crewmembers or 74 passengers were
+injured. In postincident statements, the air traffic controllers working the flight reported that the
+airplane was faster on the approach and touched down farther down the runway than other
+airplanes that arrived at DCA around the time of the incident. Data retrieved from the FDR
+indicated that the airplane touched down at approximately 180 knots indicated airspeed.
+According to Boeing, the landing reference speed for the airplane as configured (flaps 25o,
+weight 94,000 pounds) was 141 knots. The Safety Board determined that the probable cause of
+this incident was the following:
+[E]xcessive airspeed was maintained by the captain during the
+approach/landing phase of the flight, which resulted in an overrun and an
+encounter with soft/wet terrain. Factors relating to the incident were: the
+pilot’s failure to attain the proper touchdown point, the wet runway condition,
+and partial failure of the anti-skid brake system.
+In 1996, COA participated in a National Aeronautics and Space Administration
+(NASA)/University of Texas/FAA-sponsored Aerospace Crew Research Project. The program
+had been coordinated before the flight 1943 accident; however, data collection did not start until
+late spring. A series of internal line checks throughout the COA fleet were performed by the
+research team as part of the project. The line checks focused on CRM, standard operating
+procedures, and checklists. The NASA/University of Texas team briefed COA management on
+the results of the line checks in July 1996. The research team noted violations of the sterile
+cockpit rule and problems with checklist execution. The checklist problems observed included
+checklists performed from memory, interrupted checklists not being completed properly, and
+nonstandard checklist initiation.
+According to COA management personnel, following the July 1996 briefing, the
+company initiated a “bottoms-up” review of normal checklist usage and compliance throughout its
+fleet. It also considered modifications to the physical form of checklists and checklist philosophy.
+As one result of its ongoing checklist review, COA developed a “Checklist Discipline” training
+module, which will be presented to all active flightcrew members during 1997 recurrent training.
+The module highlights the importance of strict adherence to checklist procedures by using a
+videotape that reviews recent COA accidents and incidents to elicit discussion among the class
+participants.
+35
+See Brief of Accident and Factual Report (NTSB IAD96IA044).
+
+30
+1.18 Additional Information
+1.18.1 Pilot Observations Concerning DC-9/MD-80 Hydraulic System
+A search of the Aviation Safety Reporting System (ASRS) data base produced one
+report dated February 1995 relevant to this accident.36 In this report, the first officer of an MD-
+80 series airplane described a landing approach during which the nosegear would not lower and
+lock. After a go-around, diagnosis of the problem revealed that the crew had not performed the
+in-range checklist, and the captain “had failed to turn the engine driven hydraulic pumps from
+low to high and had also failed to turn on either AUX or transfer pumps.” The first officer, self-
+described as “new to the aircraft,” reported being unaware that high pressure was necessary to get
+the nosegear down. According to the first officer, the captain “commented that he had made this
+mistake before.”
+Several DC-9 pilots told Safety Board investigators that they remembered
+instances where the pumps were not configured for landing during the performance of the in-
+range checklist in airplanes they were flying. They indicated that they learned of the
+consequences of this action through personal experience. They said that the operating manuals
+and training materials do not explicitly state that if the pumps are not switched to “HI,” the
+landing gear will not extend and the flaps will not deploy.
+Again, COA standard operating procedures direct that the pilot not flying, who is
+performing the checklist, is responsible for manipulating the pump switches. Some captains and
+first officers indicated the unofficial norm that delegated the first officer with the responsibility
+for manipulating pump switches at all times was because although the switches were accessible
+to the captain, the pump switches were closer to the first officer.
+Pilots indicated that it was possible to forget to configure the hydraulic pumps for
+landing if the approach was interrupted or rushed. They said the airplane’s behavior when
+attempting to deploy the flaps and landing gear would clue them that the switches had not been
+placed to “HI.” Several pilots stated that it is difficult to detect the difference between flaps 5o
+and flaps 0o with slats extended using handling characteristics alone. One pilot said there is a
+“rocking” pitch moment that occurs when the flaps and slats deploy, because they rarely extend
+together. However, he indicated that he noticed the flaps were not operating when the flap
+handle was positioned to 15o and no pitch change occurred. Another pilot indicated that he was
+alerted that the pumps had not been configured for landing when the sounds associated with the
+extension of the landing gear did not occur.
+36
+See ASRS Report #296688. The ASRS is a NASA-sponsored project to maintain a data base of
+voluntarily submitted reports addressing safety concerns in aviation. Identifying information, such as company
+affiliation, is removed from the reports. Because of the voluntary nature of the data collection methods, the presence
+of an event in the ASRS data base probably indicates that a number of such events are occurring.
+
+31
+1.18.2 COA Guidance to Pilots on the DC-9 Hydraulic System
+COA’s FAA-approved training program requires that, within the preceding 12
+months, all flightcrew members complete a recurrent systems review (RS) course. According to
+the COA Flight Operations Training Manual, aircraft systems subjects are taught in a 3-year
+cycle; the “Hydraulics” subject is taught in the first year of the cycle, and 1995 was the first year
+of a cycle. The RS course includes 8 hours of classroom instruction and a home study module.
+The 1995 home study material on hydraulics provides the following information on the system
+priority valves:
+Each system is divided into a priority and non-priority section by a priority
+valve. This valve restricts available pressure to the priority section when
+pump output is at or below 2000 psi. This valve allows free flow in the
+opposite direction.
+The text does not specifically list the priority or non-priority components;
+however, a schematic diagram of the hydraulic system is provided from which this information
+could be extracted. Regarding the engine-driven hydraulic pump switch positions, the home
+study material states the following:
+OFF-energizes solenoid to position pump to zero pressure output, hydraulic
+fluid circulates through pump for lubrication.
+LOW-allows pump to operate at approximately 1500 psi (lower green band).
+HI-pump will now operate at approximately 3000 psi (upper green band).
+NOTE: If electrical power is lost, pump will operate at full output
+pressure regardless of switch position.
+In addition, the section entitled “Hydraulic System, Landing Gear, Brakes, &
+Anti-Skid,” in the COA DC-9 Flight Manual, provides the following guidance to the pilot under
+the heading “Engine Driven Pumps”:
+EACH ENGINE DRIVEN PUMP IS A VARIABLE DISPLACEMENT TYPE PUMP CAPABLE
+OF PROVIDING 8 GALLONS PER MINUTE FLOW AT A MAXIMUM PRESSURE OF 3,000
+PSI. THE PUMPS ARE SWITCH CONTROLLED AND SOLENOID OPERATED. THE 3-
+POSITION SWITCHES ARE LOCATED ON THE FIRST OFFICER’S INSTRUMENT PANEL
+AND CONTROL THE OUTPUT PRESSURE OF THE RESPECTIVE PUMPS.
+IN THE “HIGH” MODE, PUMP OUTPUT PRESSURE IS 3,000 PSI. THE “LOW”
+MODE REDUCES THE PRESSURE TO 1,500 PSI. THE “OFF” POSITION
+ELECTRICALLY UNLOADS THE PUMP AND DEPRESSURIZES THE SYSTEM. THE
+ENGINE DRIVEN PUMPS ARE “FAIL-SAFE” TO THE “HIGH” MODE OF OPERATION
+IF ELECTRICAL POWER IS LOST.
+
+32
+Under the heading “System Priority and Priority Valves,” the manual states the following:
+HYDRAULIC COMPONENTS ARE CATEGORIZED AS BEING EITHER PRIORITY OR
+NON-PRIORITY, DEPENDING UPON THEIR OPERATING PRESSURE REQUIREMENTS
+AND/OR THEIR FUNCTION DURING THE OPERATING REGIMES OF THE AIRCRAFT.
+PRIORITY COMPONENTS ARE MAINLY ASSOCIATED WITH NORMAL FLIGHT
+OPERATIONS, AND REQUIRE LOWER OPERATING PRESSSURES TO FUNCTION.
+THESE COMPONENTS INCLUDE: SPOILERS; SLATS; RUDDER; FLAP/RUDDER
+STOP; ENGINE REVERSERS; ELEVATOR AUGMENTATION SYSTEM; AND THE
+VENTRAL STAIR SYSTEM (GROUND OPERATION ONLY).
+NON-PRIORITY COMPONENTS INCLUDE: LANDING GEAR; BRAKES; FLAPS;
+NOSE WHEEL STEERING; AND THE ALTERNATE GEAR PUMP. THESE
+COMPONENTS REQUIRE A SYSTEM PRESSURE OF AT LEAST 2000 PSI TO FUNCTION
+NORMALLY, AND ARE REQUIRED FOR ALL GROUND OPERATIONS, INCLUDING
+TAKEOFF AND LANDING.
+TO MAINTAIN SUFFICIENT HYDRAULIC FLUID SUPPLY AND PRESSURE FOR
+PRIORITY COMPONENT OPERATION, A ONE-WAY RESTRICTOR VALVE, OR
+PRIORITY VALVE, IS INSTALLED IN EACH SYSTEM. THE VALVE IS DESIGNED TO
+PREVENT FLUID PASSAGE UNTIL 2000 PSI OR GREATER PRESSURE IS AVAILABLE.
+IN FLIGHT, SYSTEM PRESSURE IS REDUCED TO 1500 PSI, WHILE TAKEOFF AND
+LANDING OPERATIONS REQUIRE FULL SYSTEM PRESSURE OF 3000 PSI.
+1.18.3 COA Crew Resource Management Training
+Continental’s manager of human factors told Safety Board investigators that pilots
+upgrading or downgrading at COA attend a 1-day CRM course known as “Crew Coordination
+Concepts (CCC).” This course is conducted as a workshop with a CRM facilitator to elicit
+discussion of crew coordination issues relevant to pilots changing their cockpit role. The course
+includes role playing, discussion of personal experiences, review of industry accidents and
+incidents, and evaluation of crew behavior from videotapes. The course also reviews the
+importance of checklists and strict adherence to standard operating procedures. Safety Board
+investigators attended a CCC workshop on August 29, 1996, and found that specific emphasis
+was placed on the danger of accepting, during line operations, short-cuts or “norms” that deviate
+from standard operating procedures.
+According to the manager of human factors, check airmen at COA evaluate
+flightcrews during line checks on technical proficiency and six “Crew Effectiveness Markers”
+based on CRM principles. The evaluation form used by the check airmen, and reviewed with the
+crew after a check ride, contains descriptions of each of the six areas. The six “Crew
+Effectiveness Markers” are also presented in the COA DC-9 Flight Manual as follows:
+
+33
+The following Crew Effectiveness Markers were developed to assist crew
+members in their understanding and practice of [CRM]. The markers were
+structured in a checklist format for ease of use and recall. . . . They should be
+reviewed periodically to improve CRM proficiency, just as emergency and
+abnormal checklists are revisited from time to time. CRM will be evaluated in
+training events, proficiency checks and line checks utilizing the Crew
+Effectiveness Markers.
+OVERALL TECHNICAL PROFICIENCY
+(cid:1) Set a professional example.
+(cid:1) Adhere to SOP, FAR’s, sterile cockpit, etc.
+(cid:1) Demonstrate high level of flying skills.
+(cid:1) Be adept at normal and abnormal procedures.
+(cid:1) Maintain thorough systems knowledge.
+BRIEFING and COMMUNICATION
+(cid:1) Set an open tone.
+(cid:1) Fully brief operational/safety issues.
+(cid:1) Explicitly encourage participation.
+(cid:1) All are obligated to seek and give information.
+(cid:1) State how SOP deviations will be handled.
+(cid:1) Include cabin crew.
+LEADERSHIP and TEAMWORK
+(cid:1) Balance authority and assertiveness.
+(cid:1) Promote continual dialogue.
+(cid:1) Adapt to the personalities of others.
+(cid:1) Use all available resources.
+(cid:1) Must share doubts with others.
+SITUATIONAL AWARENESS
+(cid:1) Monitor developments (fuel, weather, ATC, etc.).
+(cid:1) Anticipate required actions.
+(cid:1) Ask the right questions.
+(cid:1) Test assumptions, confirm understanding.
+(cid:1) Monitor workload distribution and fellow crew members.
+(cid:1) Report fatigue, stress, and overload in self and others.
+DECISION MAKING
+(cid:1) Fly the aircraft.
+(cid:1) Obtain all pertinent information.
+(cid:1) All crew members state recommendations.
+(cid:1) Better idea suggested? Abandon yours.
+(cid:1) Clearly state plan or intentions.
+
+34
+(cid:1) Establish “Bottom Lines”.
+(cid:1) Resolve conflicts and doubts quickly.
+CREW SELF-EVALUATION
+(cid:1) Debrief key events.
+(cid:1) Continuously provide information to self-correct.
+(cid:1) Openly discuss successes and mistakes.
+(cid:1) Ask, “How could we have done better?”.
+(cid:1) Discuss what is right, not who is right.
+In addition, the COA DC-9 Flight Manual contains the following information
+about CRM:
+Effective [CRM] can substantially improve safety in line operations.
+Technical proficiency, knowledge of aircraft systems and adherence to
+standard operating procedures continue as the foundation of aviation safety. . .
+. The practice of effective CRM is expected behavior among all crewmembers.
+Pilots should routinely utilize effective CRM skills as discussed during the
+[CCC] workshops. . . . Industry studies have shown that most airline mishaps
+were attributable to poor CRM. Failure to follow standard operating
+procedures, failure of non-flying pilots to monitor the flying pilot, and
+unchallenged tactical decision errors by the Captain were the leading causes
+identified. Effective CRM would have broken the chain of events leading to
+an accident in the majority of mishaps studied.
+According to COA training personnel, following this accident and the internal line
+checks conducted in the spring of 1996, COA worked with human factors experts from NASA
+and the University of Texas to design a new 1-day CRM course known as “Error Management.”
+All active COA flightcrew members are scheduled to complete this course during 1997.
+1.18.4 COA Checklist Procedures
+The section entitled “Use of Checklists,” in the COA DC-9 Flight Manual,
+provides the following guidance to the pilot regarding normal checklists:
+The Pilot Flying will call for all checklists in flight. Each item will be
+challenged out loud by the designated crewmember unless otherwise noted.
+The responding crewmember will visually confirm that the challenged action
+has been properly accomplished and will respond appropriately to the
+challenge, confirming the action or describing the configuration. . . . When
+responses are required by both crewmembers (C, F), the pilot responding to
+the checklist replies first followed by a crosscheck and identical reply from the
+other pilot. . . . Any action which has not been performed or completed when
+
+35
+challenged must be completed before the next challenge is read. If
+performance of the challenged action cannot be completed immediately, the
+crewmember responding will reply “Standby” or other suitable response to
+indicate that further reading of the checklist will be suspended until the item
+can be accomplished.
+Both pilots are responsible for visual confirmation that all checklist items are
+completed. Each checklist item will be treated separately, read in a command
+tone, and answered only when the challenged action has been completed and
+is in agreement with the appropriate response [emphasis in original]. When
+the crewmember reading the checklist has ascertained that all items have been
+completed, he will announce, “____ CHECKLIST COMPLETE.”
+Continental’s vice president of training told Safety Board investigators that COA
+instructs pilots to work through the flow required in a particular checklist and then use the
+checklist to confirm the configuration of the aircraft. COA pilots are not required to physically
+hold the checklist but are instructed to directly refer to the checklist; normal checklists are not to
+be performed from memory. COA pilots are instructed to correct a pilot reading a checklist
+using nonstandard phraseology. They are not specifically instructed to perform checklists in a
+timely manner; however, if interrupted, pilots are instructed to state that the checklist has been
+stopped and where it has been stopped. They are not required to use a placeholder, but if they
+forget where the checklist was stopped, they are to resume the checklist from the start.
+The COA normal checklists for the DC-9 are printed along two columns on two
+sides of a laminated 8.5- by 11-inch card. The card was designed to be folded in half along its
+longest dimension to isolate each column. Each column contains between two and five separate
+checklists. During line operations, Safety Board investigators observed COA crews on the DC-9
+and MD-80 routinely folding the card a second time, into quarters. The dimensions of the folded
+card were about 4.25 by 5.5 inches, and crews stowed it in the sliding-window latch mechanism
+while not in use or placed it for use on the yoke clipboard. Depending on the location of the
+checklists on the card, the additional fold could cross a single checklist and require the card to be
+turned over or unfolded to read the items on and after the fold.
+COA’s expanded checklist procedure for the in-range checklist indicates that the
+checklist “will be accomplished at 18,000 feet” and is to be conducted by “PNF [pilot not flying]
+Challenge - PNF Respond.” Only one of the seven items on the checklist, “Flight Instruments,
+Altimeters,” requires a response by both pilots. The fourth item on the checklist is “Hydraulics -
+ON, HI, CHECKED.” The expanded procedure for this item states the following:
+Place the L and R Eng Hyd Pumps switches to the HI position and check both
+HYD Press gauges within 3000 PSI green arc. Check both Hyd Fluid
+Quantity gauges for indication above red line.
+
+36
+Place Alt and Aux Hyd Pump switches to ON position. This is to provide an
+additional source of hydraulic pressure in the event of an engine pump failure.
+Verify brake pressure gauges are normal.
+The expanded checklist procedure for the landing checklist indicated that the pilot
+flying should call for the checklist in conjunction with the gear-down call and the pilot not flying
+should complete the procedure and the checklist. Both pilots were required to “respond to the
+gear challenge.” The first item on the checklist was “Gear - DOWN, 3 GREEN.” The expanded
+procedure for this item states the following:
+Placing landing gear handle to DOWN position and in the detent will put the
+gear down and close the doors. The three green lights will come on indicating
+that all three gear overcenter links are in place. The main landing gear doors
+are closed and held closed by hydraulic pressure. The GEAR DOOR OPEN
+light should be out.
+1.18.5 COA Standard Operating Procedures
+The Safety Board reviewed the operational procedures for landings contained in
+the COA DC-9 Flight Manual. Under the heading “Stabilized Approach,” the manual states the
+following:
+A “stabilized” approach is defined as flight on the desired glide path (visual or
+electronic) at a steady rate of descent, on the “target” speed in landing
+configuration, in trim, and with the proper thrust setting. Approach planning
+which results in a stabilized approach at and below 1,000 feet above field
+elevation will provide the most consistent landing performance. Unstabilized
+approaches must not be allowed to continue below 500 feet above field
+elevation in VMC conditions, or below 1,000 feet above field elevation in
+IMC conditions except as required for descent on non-precision approaches.
+Under the heading “Final Approach,” the manual states the following:
+Once landing flaps have been established, target speeds (under stable air
+conditions) will be V +5 knots. . . . When landing in higher wind
+REF
+conditions (above 10 knots), add 1/2 the steady wind and the full value of the
+gust (if any).
+The approach procedures section of the COA DC-9 Flight Manual provides the
+following guidance to the pilot regarding GPWS warnings:
+Under day IFR or night flight conditions, a GPWS terrain warning will be
+responded to by application of thrust and a positive pull-up out of the danger
+zone. Under day VFR flight conditions, the crew will evaluate conditions and
+take appropriate corrective actions when a terrain warning is annunciated.
+
+37
+Any “Terrain”, “Pull-up”, or configuration warning that occurs or continues
+below 200’ AFE mandates a go-around, regardless of flight conditions.
+Additional information regarding GPWS warnings is contained in the section of
+the manual entitled “Ground Proximity Warning System” and states the following, in part:
+WARNING: Do not ignore short duration warnings. Take immediate and
+aggressive action to correct the flight path.
+Any “TERRAIN,” “PULL UP,” or configuration warning that
+occurs or continues below 200’ AFE mandates a go around
+regardless of flight conditions.
+
+38
+2. ANALYSIS
+2.1 General
+The two-member flightcrew and three flight attendants were trained and qualified
+to conduct the flight in accordance with Federal regulations. There was no evidence of any
+medical condition that might have affected the flightcrew’s performance.
+VMC prevailed, and weather was not a factor in the accident. The Safety Board
+considered the role that the ATC request to maintain 190 knots to the outer marker had in the
+accident. The captain had substantial experience flying into IAH during his 12-year career at
+COA. He told investigators that the ATC request was not unusual during VMC conditions at
+IAH. The first officer demonstrated some confusion about the request, but his actions to
+configure the airplane for landing were timely and appropriate upon passage of the outer marker.
+The Safety Board concludes that the ATC request to maintain 190 knots to the outer marker did
+not contribute to the accident because it did not affect crew actions, decisionmaking, or
+situational awareness.
+The airplane was certificated and equipped and maintained in accordance with
+Federal regulations and approved procedures. There is no evidence that mechanical
+malfunctions or failures of the airplane structures, flight control systems, or powerplants
+contributed to the accident.
+The evidence indicates that the airplane’s hydraulic system was not configured for
+landing. Because the hydraulic system remained in the low pressure mode, hydraulic pressure
+was not available to lower the landing gear and deploy the flaps. The flightcrew failed to detect
+this configuration error and continued its approach into Houston. Comments on the CVR and
+postaccident statements by the flightcrew indicate that both pilots recognized that the flaps did
+not deploy after the flaps were selected to 15o, but the flightcrew did not determine the cause of
+this problem or execute a go-around.
+The landing checklist was not performed, and the flightcrew did not confirm that
+the gear was down and locked. The gear warning horn sounded during the approach, indicating
+that the landing gear was not extended, but it was ignored. When the airplane descended through
+500 feet AFE, it was traveling 84 knots faster than the target airspeed of 132 knots. Although,
+under COA standard operating procedures, this excessive airspeed mandated that the approach be
+discontinued, the captain rejected a go-around request from the first officer, who was the flying
+pilot. The GPWS sounded an alert 19 seconds before impact and was ignored. Unaware that the
+gear was not down, the captain assumed control of the airplane and made a wheels-up landing.
+This analysis addresses flightcrew performance, including the role of fatigue in
+the flightcrew’s performance, the adequacy of COA’s oversight of its pilots and the FAA’s
+oversight of COA, checklist design, and survival factors.
+
+39
+2.2 Flightcrew Performance
+Performance deficiencies exhibited by the flightcrew during this flight include: (1)
+failure to configure the hydraulic system for landing during the performance of the in-range
+checklist; (2) failure to detect initially that the flaps did not extend; (3) failure to determine the
+reason the flaps did not extend after detection; (4) failure to perform the landing checklist and to
+confirm the landing gear status; and (5) failure to discontinue the approach.
+2.2.1 Failure to Properly Complete the In-range Checklist
+Fifteen minutes before landing, as the airplane descended through 19,000 feet, the
+captain omitted one item on the in-range checklist. The omitted item, “Hydraulics - ON & HI,
+CHECKED,” would have enabled the high pressure configuration of the hydraulic system,
+thereby providing pressure to operate the flaps and landing gear. Three steps were required to
+complete this checklist item: movement of the AUX and ALT pump switches from “OFF” to
+“ON,” movement of the left and right engine-driven hydraulic pump switches from “LOW” to
+“HI,” and confirmation that system pressures were between 2,800 and 3,100 psi.
+The Safety Board examined the following potential reasons for the captain’s
+omission of the checklist item:
+• The captain was interrupted or distracted.
+• The checklist item, “Hydraulics,” was obscured by a fold in the checklist.
+• The captain expected the first officer to complete the hydraulics item because
+of the existence of an informal “norm.”
+The results of line checks conducted in the weeks after the accident as part of
+COA’s participation in the NASA/University of Texas/FAA-sponsored Aerospace Crew
+Research Project found instances of checklist procedural violations, including improperly
+completed checklists after interruptions. Interruptions during the in-range checklist could have
+come from several sources including other flight tasks, system anomalies, scanning for traffic,
+ATC communications, or nonessential conversation. However, there is no indication that any of
+these events occurred during the captain’s performance of the in-range checklist.37 The captain
+accomplished the checklist in less than 30 seconds, and there was no delay when he read items in
+the list immediately before and after the skipped checklist item. There is no evidence that an
+interruption or distraction contributed to the omission of the checklist item.
+The in-range checklist contains seven items and is located approximately mid-
+page on the left column on COA’s laminated 8.5- by 11-inch DC-9 normal checklist. The checklist
+used by the captain was folded into quarters, and the horizontal fold bisected the in-range
+37
+No ATC communications were directed to flight 1943. Routine ATC communications to other
+aircraft were present and are a normal part of airline operations.
+
+40
+checklist. However, the fold was between the last two items of the checklist, “Approach
+Briefing” and “Sterile Cockpit Light.” The captain referred to each of these items. The checklist
+item, “Hydraulics,” was not obscured by the additional fold.
+Regarding the informal norm assigning the first officer the responsibility to
+manipulate the hydraulic pump switches at all times, even when the first officer was the flying
+pilot, the captain said he did not adhere to the norm in his cockpit and did not expect the first
+officer to work the hydraulic pump switches during the accident flight. Therefore, it is unlikely
+that the norm contributed to the captain’s failure to properly configure the hydraulic system.
+However, the existence of informal norms, the findings from the line checks conducted after the
+accident, and the recent history of flightcrew-related accidents at COA raises concerns that an
+operational climate may have existed in which crews occasionally deviated from standard
+operating procedures. This significant issue is addressed in section 2.4 of this analysis.
+In summary, the Safety Board found no evidence indicating that the captain was
+interrupted or distracted during the performance of the in-range checklist, that the omitted
+checklist item was obscured, or that the captain believed the first officer would configure the
+hydraulic system. The Safety Board was unable to determine the specific reason for the captain’s
+omission of the “Hydraulics” item on the in-range checklist.
+The COA DC-9 Flight Manual states that both pilots are responsible for visual
+confirmation that all checklist items are completed. The first officer’s response to two items on
+the checklist, “Flight Instruments, Altimeters” and “Shoulder Harness,” indicates that he was
+aware that the in-range checklist was being completed. However, the first officer did not detect
+the captain’s omission of the “Hydraulics” item. The Safety Board concludes that because the
+captain omitted the “Hydraulics” item on the in-range checklist and the first officer failed to
+detect the error, hydraulic pressure was not available to lower the landing gear and deploy the
+flaps.
+The Safety Board is concerned that the normal in-flight operating procedure for
+the DC-9 hydraulic system deactivates (or, in the case of the MD-80, impairs the operation of)
+certain hydraulic components, including the landing gear and the flaps, without providing an
+overt signal to the flightcrew of the non-functional status of those components. If the hydraulic
+system is not configured properly during performance of the in-range checklist, the error can
+initially only be determined by direct observation of the hydraulic pump switches and pressure
+gauges. Because the flaps and landing gear are not typically extended until the later stages of an
+approach, the next opportunity for the flightcrew to detect such an error occurs during a period of
+higher workload when there is less time for problem diagnosis.
+The February 1995 ASRS report and statements by other DC-9 pilots indicate that
+failure to configure the hydraulic system for landing is not an uncommon occurrence.38 A review
+of checklists from several DC-9 and MD-80 operators revealed that none of the checklists,
+including the Douglas Aircraft Company’s checklist, emphasize the importance of the
+38
+See discussion in section 1.18.1.
+
+41
+“Hydraulics” item by placing it as the first item on the in-range checklist or requiring mandatory
+cross-check of the item by both pilots. Further, the item requires only an “ON & HI,
+CHECKED” response to the challenge and does not require verbal notation of the pressure
+values. NASA-sponsored research on checklist design39 indicates that critical items should be
+placed first on a checklist because the probability of successfully accomplishing the first items on
+a checklist is the highest. In addition, this research indicates that errors in checklist execution
+can be reduced by designing checklists that incorporate redundancy through requiring cross-
+check of items by both pilots, and that reduce ambiguity by requiring verbal responses stating the
+actual value of an item.
+The Safety Board concludes that the “Hydraulics” item is placed too low on the
+in-range checklist, rendering it vulnerable to omission. Therefore, the Safety Board believes that
+the FAA should require all DC-9 and MD-80 operators with the “HI, LOW, OFF” hydraulic
+switch configuration to revise their checklists to emphasize the importance of the “Hydraulics”
+item by placing it as the first item on the in-range checklist (or equivalent), and requiring that
+both pilots verbally verify hydraulic pump switch settings and system pressures.
+2.2.2 Failure to Confirm Flap Function at the 5o Setting
+Because the flightcrew did not note the information displayed by the hydraulic
+system pressure gauges and pump switches, the first opportunity to detect the configuration error
+through abnormal system function came when the crew selected 5o of flaps. At 0859:00, the first
+officer called “go slats and five,” and the captain moved the flap handle to the 5o setting. Only
+the leading edge slats deployed because of the low hydraulic pressure. Although the captain
+recalled that he felt the slats extend and the first officer recalled that the blue “SLATS
+EXTEND” light illuminated, the flightcrew failed to detect that the flaps had not extended to 5o.
+The following cues were available to both pilots to signal abnormal system function:
+During slat extension
+• Momentary illumination of the “MASTER CAUTION” and “HYD PRESS
+LOW” lights.
+• Absence of pitch changes that normally occur when both flaps and slats
+are in transition.
+After slat extension
+• Flap gauge pointer indicating zero at the 12-o’clock position, instead of 5o
+at the 1-o’clock position.
+39
+Degani, A. & Weiner, E. Human Factors of Flight-Deck Checklists: The Normal Checklist,
+NASA Contractor Report 177549, May, 1990.
+
+42
+Because he was the flying pilot, the absence of normal pitch changes would have
+been most perceptible to the first officer. However, as mentioned previously, DC-9 pilots
+interviewed by Safety Board investigators stated that it is difficult to detect the difference
+between flaps 5o and flaps 0o with slats extended using handling characteristics alone.
+Nonetheless, the illumination of the “MASTER CAUTION” and “HYD PRESS LOW” lights,
+even though momentary, should have alerted the flightcrew to a problem. The Safety Board
+considered the possibility that both pilots were distracted, which prevented detection of the lights
+and the zero indication on the flap gauge.
+At 0858:48, immediately before the first officer requested slats and 5o of flaps,
+the captain commented “aw shoot. I can’t play tennis when it’s like this. . . . well maybe this
+afternoon it’ll clear up. actually I’ve still got a lot of time.” After moving the flap handle, the
+captain stated “slats are going to five,” paused for about 10 seconds, and then, contrary to the
+sterile cockpit rule,40 continued to discuss with the first officer for about 30 seconds the weather
+as it would affect his afternoon tennis. The first officer then initiated dialogue with the captain to
+clarify whether ATC had asked them to maintain 190 knots to the outer or middle marker.
+The topic of the captain’s conversation indicates that his attention was directed
+outside the cockpit as he assessed the weather’s effect on his tennis plans. It would have been
+unlikely for him to detect the momentary illumination of the “MASTER CAUTION” light,
+especially if he was using a side window to view the rain on the ground. The first officer may
+have been distracted by the captain’s statements, or by his own concern about the ATC speed
+request. It is possible that he was examining an approach plate or the cockpit instruments to
+evaluate his position relative to the outer marker. It is also possible that he detected the
+momentary illumination of the “MASTER CAUTION” light, but assigned it no significance
+because the blue “SLATS EXTEND” light was illuminated, providing a positive cue of system
+function.
+The failure of the flaps to extend to 5o was an important cue that the hydraulic
+system was not properly configured. The detection and diagnosis of the flap problem at this
+stage of flight could have prevented the accident. Although the Safety Board was unable to
+determine the specific reason why the flightcrew failed to detect the momentary illumination of
+the “MASTER CAUTION” light or the zero flap gauge indication, it concludes that the captain’s
+distraction from his duties as pilot-in-command and his disregard for the sterile cockpit rule
+contributed to the pilots’ failure to detect their hydraulic system configuration error when they
+selected 5o of flaps. The captain’s disregard for the sterile cockpit rule also raises concerns that
+40
+Title 14 CFR Part 121.542 states, “no flight crewmember may engage in, nor may any pilot in
+command permit, any activity during a critical phase of flight which could distract any flight crewmember from the
+performance of his or her duties or which could interfere in any way with the proper conduct of those duties.
+Activities such as eating meals, engaging in non essential conversations within the cockpit and non essential
+communications between the cabin and cockpit crews, and reading publications not related to the proper conduct of
+flight are not required for the safe operation of the aircraft. Critical phases of flight include all ground operations
+involving taxi, takeoff and landing, and all other flight operations below 10,000 feet, except cruise flight.”
+
+43
+an operational climate tolerant of nonstandard conduct may have existed at COA. As mentioned
+previously, this issue will be addressed in section 2.4.
+2.2.3 Failure to Determine the Cause of the Flap Extension Problem
+There is evidence that both pilots recognized that the flaps had not extended
+during the final minute of the flight. The first officer has indicated that he recognized that the
+flaps had not extended somewhere between 1 minute and 1 minute 13 seconds after he first asked
+for them to be extended. After the accident, the captain consistently stated that he felt the flaps
+were extended. However, the following evidence suggests the captain also recognized the flaps
+had not extended:
+• His instruction at 0901:03 to the first officer to maintain speed was consistent
+with an approach without flaps.
+Further, in postaccident statements, the captain said the following:
+• He recalled the first officer saying the flaps were zero.
+• The airplane did not respond as it should have with the flaps at 50o.
+• The 10,000-foot runway length was a factor in his decision to land.
+Based on this evidence, the Safety Board concludes that both the captain and the first officer
+recognized that the flaps had not extended after the flaps were selected to 15o.
+As the pilot not flying, the captain had primary responsibility for initiating
+diagnosis of the reason for the flap extension problem. The first officer communicated the
+anomaly to the captain using nonverbal and verbal messages. The captain’s postaccident
+statements indicate that he received the first officer’s message. However, the captain’s diagnosis
+was limited to confirmation that the flap handle was positioned properly and making throttle
+movements.41 These ineffective actions suggest that the captain was confused and not able to
+comprehend the information that was available to him. This type of behavior is consistent with
+the effects of fatigue, a topic that will be addressed in section 2.3 of this analysis.
+Consistent with other DC-9 pilots who reported failing to properly configure the
+hydraulic system, this crew detected a problem with flap deployment when the airplane did not
+respond with pitch and speed changes as flaps were selected to 15o and beyond. However, this
+crew did not recognize that the failure of the flaps to deploy was a symptom of improper
+hydraulic system configuration. Neither the captain nor the first officer recalled events concerning
+improper hydraulic system configuration in his previous DC-9 experience and, therefore, did not
+41
+At 0900:33, the captain said, “I think the flaps *.” At 0900:35, there were three intermittent
+sounds from the landing gear warning horn that, according to the first officer, were produced by the captain rapidly
+moving the throttles back and forth. The throttle manipulation would not have provided the captain with diagnostic
+information about the flaps.
+
+44
+possess firsthand knowledge to help recognize that the symptom he was experiencing was the
+result of this error.
+In addition, the Safety Board’s review of the information provided by COA to its
+pilots concerning the DC-9 hydraulic system revealed that the flight manual and training
+materials do not explicitly state that if the pumps are not switched to “HI,” the landing gear will
+not extend and the flaps will not deploy. The Safety Board concludes that the pilots’ lack of
+previous exposure, either through training or during line operations, to the consequences of
+improper hydraulic system configuration contributed to their failure to detect their hydraulic
+system configuration error.
+The Safety Board believes that the FAA should require all POIs of 14 CFR Part
+121 operators using DC-9 and MD-80 airplanes with the “HI, LOW, OFF” hydraulic switch
+configuration to ensure that operating manuals and training programs include information about
+the consequences of improper hydraulic system configuration, specifically that the flaps and
+landing gear will not function normally if the engine-driven hydraulic pumps are not set to “HI.”
+2.2.4 Failure to Perform Landing Checklist and Confirm Gear Position
+In accordance with company procedures, the first officer called for the landing
+checklist after the gear-down call. Although he placed the gear handle in the down position, the
+captain never initiated the checklist.
+Because the flaps remained stowed, the airplane did not slow during the approach.
+Traveling at a speed of approximately 200 knots, the airplane covered the distance between the
+outer marker and the runway threshold in about 75 seconds. If the target approach speed of 132
+knots had been maintained, it would have taken about 115 seconds to cover this distance. The
+increase in speed allowed the flightcrew very little time to address the flap problem and
+configure the airplane for landing.
+In the 27 seconds that elapsed from the time the captain said “I think the flaps *”
+to the time the first officer stated “I don’t have flaps,” the captain manipulated the throttles and
+then responded to the gear-down call, the flaps 25 call, the flaps 40 call, and the flaps 50 call.
+The captain had very little time to react to the directives he was being given by the first officer.
+The first officer’s rapid calls for 40o and then 50o of flaps probably interrupted the captain as he
+was initiating the landing checklist. It is likely that the first officer was preoccupied flying the
+approach at an unusually high rate of speed and was unaware that the checklist had not been
+accomplished. Thus, neither pilot confirmed the landing gear was down and locked as required
+by the first item in the checklist.
+During postaccident interviews, both pilots recalled the gear handle being moved
+to the down position.. Apart from the handle position, the following cues were available to
+indicate to the flightcrew that the gear was not down:
+
+45
+• There was no increase in cockpit noise after the gear handle was placed in the
+down position, as there would have been if the nosegear doors had opened and
+the gear extended into the slipstream.
+• The red gear unsafe lights and the amber gear door open light, which would
+have illuminated when the gear were in transition, remained off.
+• The green gear lights, which would have illuminated when the gear were
+down and locked, remained off.
+• The gear warning horn sounded almost continuously after the flap handle was
+moved to 25o at 0900:46.42
+Neither pilot was alerted to the status of the gear by the absence of the normal
+cues (increase in noise and lights). However, detecting the absence of normal cues is often more
+difficult than detecting the presence of abnormal cues. Nonetheless, neither crewmember
+responded to the gear warning horn. The reason for this may be that the gear warning horn
+frequently sounds during routine operations, and it can be perceived by pilots as a nuisance
+alarm. For example, the horn sounds during approaches whenever the throttles are reduced to
+idle and the landing gear is not down; a condition that is not always consistent with a dangerous
+configuration. Research has shown that frequent alarms can lead to slower response times or
+even disregard for a warning.43 In this case, however, the horn sounded after the gear handle was
+placed down and the flap handle was moved to 25o. These conditions were outside the
+traditional “nuisance” envelope.
+The first officer later stated that he did not hear the horn; the captain stated that
+he heard the horn but thought it sounded because he put the flaps to 25o before the gear was
+down and locked. It is possible that the horn’s constant tone lost its salience as a signal in the
+environment because of the extended duration it sounded during the final minute of the approach.
+However, it is more likely that the pilots failed to detect the numerous cues alerting them to the
+status of the gear for the same reasons they failed to perform the landing checklist—
+preoccupation with the flap extension problem and their high workload during the final minute of
+the flight.
+The Safety Board concludes that the pilots failed to perform the landing checklist
+and to detect the numerous cues alerting them to the status of the landing gear as a result of their
+focus on coping with the flap extension problem and the high level of workload because of the
+rapid sequence of events in the final minute of the flight. The Safety Board also concludes that
+had the landing checklist been properly performed, the flightcrew would have detected the failure
+of the landing gear to extend.
+42
+The landing gear warning horn stopped for 8 seconds from 0901:07 to 0901:15. This issue is
+addressed in section 2.2.5.2.
+43
+See, for example, Getty, D.J., Swets, J.A., Pickett, R.M., & Gonthier, D., 1995, “System
+Operator Response to Warnings of Danger: A Laboratory Investigation of the Effects of the Predictive Value of a
+Warning on Human Response Time.” in Journal of Experimental Psychology: Applied, Vol. 1, Pages 19-33.
+
+46
+2.2.5 Failure to Discontinue the Approach
+According to FDR data, 34 seconds before touchdown, the airplane was 504 feet
+AFE and traveling at 216 knots indicated airspeed. Again, this speed was 84 knots faster than the
+target airspeed of 132 knots established by the flightcrew during completion of the descent
+checklist. In addition, the speed was 63 knots faster than the reference airspeed of 153 knots for
+a flaps-up, slats-extended landing at a weight of 86,000 pounds. The COA DC-9 Flight Manual
+current at the time of the accident described a stabilized approach as flight on the desired glide
+path at a steady rate of descent, on the target speed in landing configuration, in trim, and with the
+proper thrust setting. The manual stated that unstabilized approaches must not be allowed to
+continue below 500 feet AFE. The approach was clearly unstabilized when the airplane
+descended through 500 feet; yet, the flightcrew failed to discontinue the approach.
+2.2.5.1 Role of the First Officer
+The first officer told Safety Board investigators that his goal after recognizing that
+the flaps were not extended was to get the captain to initiate a go-around. Thirty seconds before
+touchdown, the first officer stated “want to take it around?” and the captain replied “no that’s
+alright. * keep your speed up here about uh.” When the captain denied the first officer’s request
+to go around and told him to keep his speed up, the first officer did not challenge the captain’s
+statement. He also did not question the captain to determine his reason(s) for continuing the
+approach. The first officer stated that there was no time for discussion with the captain because
+the approach was so fast. The first officer’s failure to question the captain’s decision to continue
+the approach was inconsistent with the CRM training he had received that emphasized the
+importance of sharing doubts with other crewmembers and quickly resolving conflicts.
+The first officer’s failure to assert himself and overtly challenge the captain’s
+decision to continue the approach must be evaluated in the context of the strategy he had
+developed after the A-300 incident in 1994 when he was removed from duty for 60 days and sent
+to a psychiatrist for evaluation following a captain’s complaint. The first officer described the A-
+300 incident as “terribly damaging” to him personally and professionally. He told Safety Board
+investigators he believed his career would be in jeopardy if another captain complained to
+management about him. Therefore, after the incident, he adopted a cautious and deferential
+mode of interaction with captains to prevent a recurrence, even though this style of
+communication could on occasion conflict with the CRM training he had received.
+Although the first officer failed to overtly challenge the captain’s decision to
+continue the approach, he did continue providing information to the captain about the quality and
+stability of the approach. Five seconds after the captain rejected his go-around request by stating
+“no you’re alright,” the first officer said “I can’t slow it down here now.” The captain again
+stated “you’re alright,” and the first officer replied “we’re just smokin’ in here.” The Safety
+Board concludes that although the first officer was unwilling to overtly challenge the captain’s
+decision to continue the approach, he did attempt to communicate his concern about the
+excessive speed of the approach to the captain.
+
+47
+Nonetheless, the Safety Board is concerned that a pilot was disinclined to
+assertively challenge another pilot’s decision, despite having completed CRM training
+advocating that he do so, because he feared reprisal. Therefore, the Safety Board believes that
+the FAA should require all POIs of 14 CFR Part 121 carriers to ensure that the carriers establish
+a policy and make it clear to their pilots that there will be no negative repercussions for
+appropriate questioning in accordance with CRM techniques of another pilot’s decision or action.
+In addition, the Safety Board believes that the FAA should require all POIs of 14 CFR Part 121
+carriers to ensure that CRM programs provide pilots with training in recognizing the need for,
+and practice in presenting, clear and unambiguous communications of flight-related concerns.
+2.2.5.2 Role of the Captain
+The captain’s rejection, without any discussion, of the first officer’s go-around
+request was inconsistent with the CRM training concerning decisionmaking that he had received.
+This training emphasized the importance of giving consideration to the recommendations of
+other crewmembers and obtaining all pertinent information before committing to a course of
+action. The first officer, because he was flying, had substantial information about the quality and
+stability of the approach; however, the captain chose to ignore the first officer’s recommendation.
+The captain stated after the accident that he was aware that the first officer was uncomfortable
+with the approach, but that the captain felt comfortable continuing with the landing.
+The GPWS warning that began sounding 19 seconds before touchdown was not
+heeded by the captain. The warning began at 0901:13 when the airplane was 275 feet AFE and
+continued until 0901:18 when the airplane was 172 feet AFE. The COA DC-9 Flight Manual
+current at the time of the accident stated that any GPWS warning that occurred or continued
+below 200 feet AFE mandated a go-around regardless of flight conditions.
+There is also evidence that the captain may have attempted to silence the GPWS
+warning. During the final 30 seconds of flight, the gear warning horn stopped sounding for 8
+seconds. Because the landing gear was not down and locked, the only way the gear horn could
+have been silenced at this point was by moving the flap handle to a setting of 15o or less. This
+would have placed the airplane in a condition (gear handle down, flap handle not selected to the
+landing position) enabling the GPWS to generate a flap configuration warning. Six seconds after
+the gear warning horn stopped sounding, the GPWS alerted “whoop whoop pull up” three times.
+During the second GPWS alert, the gear warning horn resumed sounding and continued to do so
+until after touchdown.
+The first officer stated that the captain reached up to the overhead panel as the
+GPWS began alerting. The captain did not recall doing this. During examination of the cockpit
+following the accident, the safety wire on the GPWS flap override switch was found broken;
+however, the switch was not in the “OVRD” position. Moving the switch to the “OVRD”
+position would have terminated the GPWS warning. Moving the flap handle to a setting greater
+than 15o would also have terminated the GPWS warning. After the accident, the flap handle was
+found in the 50o position. A possible explanation for the 8-second interruption of the gear
+warning horn and the three GPWS alerts is that one of the pilots cycled the flap handle. It is
+
+48
+conceivable that this was an attempt to diagnose the cause of the flap extension problem. During
+postaccident interviews, neither pilot recalled cycling the flap handle.
+The GPWS unit installed in the airplane was a Mark I system, which only
+provided a generic “pull up” warning and did not provide a specific message about the reason for
+the alert. A Mark II system would have provided the warning “too low flaps.” The Safety Board
+considers it unlikely that the captain’s decision to land would have been affected even if he had
+received the more specific warning, as he was already aware that the flaps were not extended.
+However, the captain’s statement that he interpreted the alerts as a high sink rate warning, and
+not as a configuration warning, illustrates the potential for misinterpretation of the less specific
+warning messages provided by the Mark I GPWS.
+Another example of the inadequacy of the Mark I GPWS was provided by the
+COA B-727 accident in November 1993.44 The Safety Board is disappointed that COA has not
+replaced all its Mark I GPWS units, but it recognizes that there is currently no Federal regulation
+mandating such replacement.
+The Safety Board has addressed the need for improvements to the GPWS
+equipment installed in 14 CFR Part 121 aircraft several times over the years. Most recently, on
+October 16, 1996, the Safety Board issued Safety Recommendation A-96-101, which asked the
+FAA to examine the effectiveness of enhanced ground proximity warning equipment, and if it
+found the equipment to be effective, require its installation on all transport-category aircraft. The
+features provided by enhanced GPWS equipment include aural messages that identify the reason
+for a warning. On December 31, 1996, in its initial response to A-96-101, the FAA stated that it
+has initiated an evaluation of the effectiveness of enhanced ground proximity warning
+equipment. The FAA further stated that it will initiate appropriate action based on the results of
+the evaluation, which it anticipates will be completed in March 1997.
+There was no safety of flight reason for the captain to land the airplane, and there
+was sufficient fuel on board to abort the landing and make another approach. Although the
+captain made reference to an on-time arrival bonus,45 there was no system in place at COA
+rewarding pilots for individual flight performance. Consequently, the Safety Board concludes
+that there was no compelling reason for the captain’s decision to land the airplane; multiple
+signals and guidance indicated that the approach should be discontinued, as did COA’s standard
+operating procedures.
+44
+See discussion in section 1.17.2.
+45
+At 0854:01, the captain said “surprise, you’re gonna make your on time,” and at 0854:10,
+commented “I’m gonna give you another bonus check.” COA had a company-wide bonus system that provided a
+$100 bonus to eligible employees, including pilots, for any month when the airline ranked first in on-time arrivals
+based on U.S. Department of Transportation Air Travel Consumer Reports. The bonus was $65 when the airline
+ranked second or third place. The staff vice president for safety and regulatory compliance told Safety Board
+investigators that the bonus system was directed at gate agents and ramp personnel, not pilots.
+
+49
+The captain’s improper decision to land was consistent with his behavior as
+recorded by the CVR during the final 30 minutes of the flight. His behavior was that of a
+passive, distracted pilot and not that of an active member of the flightcrew ensuring the safety of
+the flight. He repeatedly deviated from standard operating procedures, failed to adhere to the
+sterile cockpit rule, ignored warnings, and did not utilize effective CRM techniques. This
+behavior was in sharp contrast to the July 1995 line check report, which rated the captain above
+average for “Overall Technical Proficiency” and “Leadership and Teamwork.” It also was
+inconsistent with the descriptions of the captain as capable, competent, and personable made by
+first officers he had flown with in the year before the accident.
+On two separate occasions the captain was interviewed by Safety Board
+investigators, and he offered no explanation for his behavior. During the second interview, the
+captain emphasized that nothing affected his performance on the day of the accident and stated
+that his behavior was normal. However, the Safety Board considered the possibility that fatigue
+may have affected the captain’s behavior.
+2.3 Role of Fatigue in Flightcrew Performance
+Evidence that fatigue may have affected the behavior of flightcrew is available in
+the following areas:
+• Maximum sleep time available during the layover.
+• Statements on the CVR.
+• Postaccident statements by the flightcrew.
+The flightcrew had a rest period the night before the accident of 9 hours 23
+minutes, which was 38 minutes longer than COA’s minimum block-to-block rest period46 of 8
+hours 45 minutes. However, because of travel to and from the hotel, the amount of sleep time
+obtained by the flightcrew that night was less. The captain had the opportunity for 6 to 6.5 hours
+of sleep, and because of his efforts to locate his crew bag, the first officer had the opportunity for
+only 5.5 hours of sleep.
+During the flight, at 0848:08, the captain indicated he had consumed two cups of
+coffee. The captain told Safety Board investigators that he would consume two cups of coffee in
+the morning only if it was an early wakeup. At 0857:22, the captain said to the first officer
+“you’ve been up all night too.” This statement suggests the captain knew that neither pilot had
+obtained a restful night’s sleep.
+After the accident, the first officer said that he was tired and felt that fatigue
+affected his ability to make decisions at the end of the flight. The captain made conflicting
+46
+The block-to-block rest period for a crewmember starts when the last flight of the day for that
+crewmember blocks in at the gate (arrives at the gate and parking brake is set) and stops when the first flight of the
+next day for the crewmember blocks out (parking brake is released for push back from the gate).
+
+50
+statements about fatigue. He initially stated that he felt tired on the day of the accident, but later
+he stated that he was not tired at the time of the accident and he did not believe that fatigue was a
+factor in the accident.
+The captain’s deficient decisionmaking at the end of the flight and his inability to
+effectively process the rapidly changing information concerning abnormal system operation are
+consistent with the effects of fatigue. There is evidence that obtaining 2 hours less sleep than
+normally is required by an individual can degrade alertness and performance.47 Fatigue can
+interfere with an individual’s capability to deal with rapidly changing events and to direct and
+sustain attention, and can lead to the tendency to fixate.48 However, the captain’s ATC
+communications were standard and not suggestive of impairment. The captain was experienced
+in airline operations and therefore routine ATC communications were well-learned and processed
+automatically. Automatic behaviors are less likely to show the same degradation with fatigue
+that accompanies higher cognitive processes such as decisionmaking and problem solving.
+The Safety Board found no evidence that the pilots had accumulated a sleep debt
+over the days preceding the accident; therefore, the fatigue they may have experienced was not
+long term. The Safety Board concludes that the flightcrew’s degraded performance is consistent
+with the effects of fatigue, but there is insufficient information to determine the extent to which it
+contributed to the accident.
+2.4 Adequacy of COA and FAA Oversight
+In its study of flightcrew-involved major accidents, the Safety Board documented
+the significance of improperly completed checklists and failure to follow standard operating
+procedures in accident causation.49 The COA flight 1943 accident was the third flightcrew-
+involved accident at COA in 28 months.50 The frequency of these accidents suggests that the
+company response and FAA oversight after the previous accidents may have been inadequate.
+The 1995 NASIP findings appeared to show that COA had corrected deficiencies
+identified after the previous accidents and FAA inspections. However, only 6 months later, the
+flightcrew of the accident airplane consistently deviated from standard operating procedures,
+including failing to properly perform checklists and engaging in nonessential conversation below
+10,000 feet. In addition, the day after this accident, a COA B-737 overran the runway on landing
+47
+See Special Investigation Report—“Commercial Space Launch Incident, Launch Procedure
+Anomaly, Orbital Sciences Corporation, Pegasus/SCD-1, 80 Nautical Miles East of Cape Canaveral, Florida,
+February 9, 1993” (NTSB/SIR-93/02).
+48
+See Aircraft Accident Report—“Uncontrolled Collision With Terrain, American International
+Airways Flight 808, Douglas DC-8-61, N814CK, U.S. Naval Air Station, Guantanamo Bay, Cuba, August 18, 1993”
+(NTSB/AAR-94/04).
+49
+See Safety Study—“A Review of Flightcrew-Involved, Major Accidents of U.S. Air Carriers,
+1978 through 1990” (NTSB/SS-94/01).
+50
+See discussion in section 1.17.2.
+
+51
+at DCA, and again, the Safety Board found evidence of deviations from standard operating
+procedures, specifically the captain’s failure to discontinue an unstabilized approach.
+In the weeks following the accident, there was evidence of improper checklist
+execution and sterile cockpit violations found and later reported by the NASA/University of
+Texas/FAA-sponsored Aerospace Crew Research Project team. The Safety Board is especially
+concerned that procedural violations were observed in the weeks after the accident, yet the FAA
+NASIP inspection 6 months before the accident failed to detect any procedural deviations, and
+the POI had seen no trends in the area of noncompliance with Federal regulations or company
+procedures during his tenure as POI (1991 to present). Finally, during this investigation, Safety
+Board investigators learned that some pilots at COA used operational norms that had been
+developed on the line and were contrary to standard operating procedures acquired during
+training. That COA management was aware of and apparently concerned by these norms, is
+evident from a CRM course attended by Safety Board investigators in which the instructor
+emphasized the importance of rejecting short-cuts and norms that deviate from standard
+operating procedures.
+Based on the findings of this investigation, the Safety Board concludes that there
+were deficiencies in COA’s oversight of its pilots and the POI’s oversight of COA. In addition,
+the Safety Board concludes that COA was aware of inconsistencies in flightcrew adherence to
+standard operating procedures within the airline; however, corrective actions taken before the
+accident had not resolved this problem.
+During its investigation of USAir flight 1016, a DC-9-31 that crashed into terrain
+during a missed approach at Charlotte, North Carolina, on July 2, 1994, the Safety Board found
+evidence of systemic pilot procedural deviations.51 In the final report for USAir flight 1016, the
+Safety Board stated the following, in part:
+The Safety Board believes that the failure of flightcrews to adhere to standards
+and procedures may reflect a general lack of professionalism that is not being
+corrected by the training and checking programs at airlines. The findings of
+this investigation, as well as many other investigations, suggest that there may
+be a systemic problem of complacency and nonstandard conduct that adversely
+affects the performance of flightcrews during critical phases of flight.
+As a result of this investigation, the Safety Board issued Safety Recommendation A-95-46,
+which recommended the following to the FAA:
+Require that Principal Operations Inspectors (POIs) ensure that their
+respective air carrier(s) adhere to the company's operating procedures, and
+emphasize rigorous compliance to checklist procedures.
+51
+See Aircraft Accident Report—“Flight Into Terrain During Missed Approach, USAir Flight
+1016, DC-9-31, N954VJ, Charlotte/Douglas International Airport, Charlotte, North Carolina, July 2, 1994”
+(NTSB/AAR-95/03).
+
+52
+The Safety Board classified A-95-46 “Closed—Acceptable Action” based on the
+FAA’s issuance of Flight Standards Information Bulletin (FSIB) 95-20, which directed POIs to
+reemphasize to their air carrier(s) the need for adherence to company operating procedures. The
+action recommended in FSIB 95-20 appears to be appropriate for COA; furthermore, the Safety
+Board believes the FAA should require COA to audit its internal oversight process and correct
+deficiencies in that oversight process that allow deviations from standard operating procedures
+and violations of Federal regulations to go uncorrected, and to develop a specific plan to
+reinforce the importance of adherence to standard operating procedures among pilots. In
+addition, the Safety Board believes that the FAA should audit its surveillance of COA en route
+operations to determine if the surveillance is adequate to identify procedural deficiencies in
+COA’s operations.
+2.5 Checklist Design
+In the summer of 1996, COA independently initiated a comprehensive evaluation
+of checklist philosophy, usage, and format across its fleet. The evaluation is ongoing, and COA
+has received guidance from experts on human factors in this effort. According to COA
+management personnel, the company intends to modify its checklists to comply with guidelines
+for checklist design and usage derived through NASA-sponsored research.52 These guidelines
+are designed to help prevent crew omissions, promote redundancy, and prioritize safety-critical
+information.
+The Safety Board is encouraged by the steps that COA has taken to bring its
+checklists into compliance with contemporary human factors research on checklist design and
+usage. During its investigation, the Safety Board noted deficiencies in COA checklists that are
+contrary to these guidelines and should be addressed in the checklist revisions. These
+deficiencies included the following:
+• checklists that could be folded by flightcrews to reduce the checklist size, but
+the additional fold could interrupt a checklist or obscure a checklist item.
+• normal checklists that are designed to be challenged and responded to by the
+same pilot, thereby eliminating the redundancy inherent in the system in which
+the challenge is made by one pilot and the response by another pilot.
+The Safety Board has addressed the issue of inadequate checklist procedures by
+airline pilots several times over the years. The Board issued Safety Recommendation A-94-001
+(quoted in full in section 1.17.2), which specifically addressed the design of taxi checklists, as a
+result of its study of flightcrew-related accidents.53 This recommendation asked the FAA to
+52
+Degani, A. & Weiner, E. Human Factors of Flight-Deck Checklists: The Normal Checklist,
+NASA Contractor Report 177549, May, 1990.
+53
+See Safety Study—“A Review of Flightcrew-Involved, Major Accidents of U.S. Air Carriers,
+1978 through 1990” (NTSB/SS-94/01).
+
+53
+“apply the results of research conducted to date on the design and use of checklists to improve
+the error-tolerance of air carrier checklist procedures for taxi operation” and to “provide specific
+guidance to air carriers for implementing these procedures.”
+In a December 18, 1996, letter the FAA responded to the Safety Board detailing
+actions taken to address Safety Recommendation A-94-001. The FAA’s actions included: (1)
+mandating CRM training for certificate holders required to comply with 14 CFR Part 121
+training requirements, (2) revising Advisory Circular 120-51B “Crew Resource Management
+Training” to address training in challenging errors involving inadequately completing checklists
+and to provide clarifying CRM guidance in respect to checklist procedures, (3) issuing Flight
+Standards Information Bulletin 95-20, which instructs POIs of 14 CFR Part 121 and 135 carriers
+to reemphasize the need to strictly comply with standard operating procedures and in-flight
+checklist procedures, and (4) issuing a report in January 1995 entitled “Human Performance
+Considerations in the Use and Design of Aircraft Checklists,” which summarizes contemporary
+human factors principles affecting the design and use of all aircraft checklists, not only taxi
+checklists as stated in A-94-001. The report also provides guidance on checklist design.
+On October 30, 1996, the report was distributed to all FAA headquarters, regional, and
+field offices accompanied by a memorandum from the Director of Flight Standards Service
+(AFS-1) stating the following, in part:
+[this report] is a tool which can be used by operators in the design,
+development, and use of new aircraft checklists. The report can also be used
+in the revision of existing checklists, as needed. Several reports, for
+employees and operators, are included with this memorandum.
+Based on the FAA’s actions, including the production and distribution of this report, the
+Safety Board now classifies A-94-001 “Closed—Acceptable Action.”
+Although the Safety Board recognizes that the FAA has satisfied the intent of
+A-94-001, the Board notes that to date, the FAA has not provided a mechanism to ensure that
+checklists of air carriers comply with the guidance provided in the FAA’s recently issued report.
+The Safety Board concludes that this accident demonstrates the need for all air carriers to bring
+their checklists that apply to all phases of ground and flight operations into compliance with the
+contemporary human factors principles of checklist design outlined in the FAA’s report. While it
+appears that the current COA-initiated review of checklists and checklist procedures may
+accomplish this end at COA, the Safety Board is concerned that other airlines’ checklists may not
+benefit from the guidance set forth above. Therefore, the Safety Board believes that the FAA
+should require that POIs review the checklists of air carriers operating under 14 CFR Parts 121
+and 135 to ensure that they comply with the guidance presented in the FAA report entitled
+“Human Performance Considerations in the Use and Design of Aircraft Checklists, ” and require
+that any checklists that do not comply with the guidance be revised accordingly.
+
+54
+2.6 Survival Factors
+The Safety Board concludes that the “C” flight attendant was unable to completely
+remove the tailcone access plug door because one of the aft jumpseat shoulder harness straps was
+buckled to the lap belt, which tied the plug door to the aft cabin bulkhead. Fortunately, the lack
+of availability of the tailcone exit did not preclude a timely and successful evacuation.
+When Safety Board investigators examined the DC-9 plug door training device at
+COA’s Houston flight attendant training facility, they found that seat belts and shoulder
+harnesses were not installed in the trainer. Therefore, it was not possible for flight attendants to
+practice attempting to remove the plug door with the shoulder harness straps buckled to the seat
+belt and gain hands-on experience with the problem this creates. In addition, the COA Inflight
+Manual current at the time of the accident did not mention the need to ensure that the jumpseat
+shoulder harness straps are unbuckled from the lap belts before attempting to remove the plug
+door. The Safety Board concludes that COA flight attendants received inadequate information
+and training on the operation of the DC-9 tailcone access plug door. As a result of the Safety
+Board’s accident investigation, COA has equipped its DC-9 plug door trainer in Houston (as well
+as those at its flight attendant training facilities in Newark, New Jersey, and Cleveland, Ohio)
+with shoulder harnesses and seat belts. In addition, COA revised the Inflight Manual to include
+information on the consequences of attempting to remove the plug door without first ensuring
+that the shoulder harness straps are released.
+HBAT 96-02 provides guidelines for approval of tailcone training devices by
+FAA inspectors and states, “if a shoulder harness is attached to the door in the aircraft that might
+interfere with the opening of the door, one should be similarly attached to the corresponding door
+in the training device.” However, because of the omission of a requirement in HBAT 96-02 that
+seat belts be installed in plug door trainers, the Safety Board believes that the FAA should amend
+HBAT 96-02 to include a requirement that if any portion of a restraint system is attached to the
+tailcone access plug door in the aircraft that might interfere with the opening of the door, the plug
+door training device must be equipped with the entire restraint system.
+
+55

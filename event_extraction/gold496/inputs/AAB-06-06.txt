@@ -1,0 +1,803 @@
+Crash During Approach to Landing
+Business Jet Services, Ltd.
+Gulfstream G-1159A (G-III), N85VT
+Houston, Texas
+November 22, 2004
+aaaaavvvvviiiiiaaaaatttttiiiiiooooonnnnn
+ACCIDENT BRIEF
+NTSB/AAB-06/06
+PB2007-100699
+
+
+
+Aircraft Accident Brief
+Crash During Approach to Landing
+Business Jet Services, Ltd.
+Gulfstream G-1159A (G-III), N85VT
+Houston, Texas
+November 22, 2004
+A L T RAN SPOR
+N T
+ATI O E PLURIBUS UNUM A T IO
+N N
+S AFETYBO ARD
+NTSB/AAB-06/06
+PB2007-100699 National Transportation Safety Board
+Notation 7828 490 L’Enfant Plaza, S.W.
+Adopted November 2, 2006 Washington, D.C. 20594
+
+National Transportation Safety Board. 2006. Crash During Approach to Landing Business Jet
+Services, Ltd., Gulfstream G-1159A (G-III), N85VT, Houston, Texas, November 22, 2004. Aircraft
+Accident Brief NTSB/AAB-06/06. Washington, DC.
+The National Transportation Safety Board is an independent Federal agency dedicated to promoting aviation, railroad, highway, marine,
+pipeline, and hazardous materials safety. Established in 1967, the agency is mandated by Congress through the Independent Safety Board
+Act of 1974 to investigate transportation accidents, determine the probable causes of the accidents, issue safety recommendations, study
+transportation safety issues, and evaluate the safety effectiveness of government agencies involved in transportation. The Safety Board
+makes public its actions and decisions through accident reports, safety studies, special investigation reports, safety recommendations, and
+statistical reviews.
+Recent publications are available in their entirety on the Web at <http://www.ntsb.gov>. Other information about available publications also
+may be obtained from the Web site or by contacting:
+National Transportation Safety Board
+Records Management Division, CIO-40
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(800) 877-6799 or (202) 314-6551
+Safety Board publications may be purchased, by individual copy or by subscription, from the National Technical Information Service. To
+purchase this publication, order report number PB2007-100699 from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(800) 553-6847 or (703) 605-6000
+The Independent Safety Board Act, as codified at 49 U.S.C. Section 1154(b), precludes the admission into evidence or use of Board reports
+related to an incident or accident in a civil action for damages resulting from a matter mentioned in the report.
+
+iii Aircraft Accident Report
+Contents
+History Of Flight. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Personnel Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+The Captain. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+The First Officer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Airplane Information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Cockpit Instrumentation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Ground Proximity Warning System. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Meterorological Information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Airport Information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Minimum Safe Altitude Warning Information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Flight Recorders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Wreckage And Impact Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Medical And Pathological Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Tests And Research . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Organizational and Management Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Instrument Precision Approach and Landing Guidance. . . . . . . . . . . . . . . . . . . . . . . 15
+Maintenance Records . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Federal Aviation Administration Surveillance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Safety Recommendation A-05-08 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Additional Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Accident Sequence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Minimum Safe Altitude Warning Operation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Probable Cause. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+
+
+National Transportation Safety Board
+Washington, D.C. 20594
+Aircraft Accident Brief
+Accident Number: DCA05MA011
+Aircraft and Registration: Gulfstream III, N85VT
+Location: Houston, Texas
+Date: November 22, 2004
+Adopted On: November 2, 2006
+HISTORY OF FLIGHT
+On November 22, 2004, about 0615 central standard time,1 a Gulfstream G-1159A
+(G-III), N85VT, operated by Business Jet Services Ltd., struck a light pole and crashed
+about 3 miles southwest of William P. Hobby Airport (HOU), Houston, Texas, while on an
+instrument landing system (ILS)2 approach to runway 4. The two pilots and the flight
+attendant were killed, an individual in a vehicle near the airport received minor injuries,
+and the airplane was destroyed by impact forces. The airplane was being operated under
+the provisions of 14Code of Federal Regulations (CFR) Part91 on an instrument flight
+rules flight plan. Instrument meteorological conditions (IMC) prevailed at the time of the
+accident.
+The accident flight was scheduled to depart from Dallas Love Field Airport
+(DAL), Dallas, Texas, about 0500 as a positioning flight to HOU. The flight crew planned
+to pick up former President George H.W. Bush and other passengers at HOU and transport
+them to Guayaquil, Ecuador. The flight was scheduled to depart HOU about0654.
+The flight departed DAL about 0530. According to Business Jet Services’ Flight
+Operations and Charter Sales Manager, the departure was delayed because of poor
+weather conditions at HOU and DAL. The captain was the flying pilot, and the first
+officer performed the nonflying pilot duties.
+At 0543:32, the flight crew received HOU automatic terminal information service
+(ATIS) information “Quebec,” which reported that the winds were calm, the visibility was
+1 Unless otherwise indicated, all times in this report are central standard time based on a 24-hour
+clock.
+2 The ILS consists of a localizer and a glideslope, which provide lateral and vertical guidance,
+respectively, during an approach. Cockpit instrumentation shows the airplane’s location relative to the
+glideslope and localizer signals. Displacement is shown in terms of the airplane’s angular deviation above or
+below the glideslope and left or right of the localizer. Pilots can judge the amount of displacement by needle
+deflections that reference “dots” on the face of the instruments.
+
+2
+1/8statute mile (sm) in fog, the runway visual range (RVR)3 for runway 4 was variable between
+1,600 and 2,400 feet, and the clouds were broken at 100 feet and overcast at 9,000feet.4 At
+0547:50, the cockpit voice recorder (CVR) recorded the first officer starting the approach
+briefing. About 3 minutes later, the CVR recorded a discussion between the pilots about entering
+the navigational approach fixes CARCO, ELREN, EISEN, and Hobby (HUB) very high
+frequency omnidirectional range (VOR) in the airplane’s flight management system (FMS). The
+captain asked, “we can probably delete HUB though, can’t we?” The first officer replied, “yeah,
+we could ‘cause we’re gonna have that on here for our missed [approach point].” (See figure 1 for
+the runway 4 ILS published approach chart.)
+At 0558:50, the first officer contacted the Houston Terminal Radar Approach Control
+(TRACON) and reported, “approach…Gulfstream eight five Victor Tango’s with you out of one
+eight zero for one one thousand [feet], [ATIS] information ‘Kilo.’”5 The controller cleared the
+flight directly to CARCO, adding, “when you’re able for the ILS runway four.” The first officer
+acknowledged the transmission; however, he read back, “ILS runway one four” instead of “
+runway four.” He then stated, “I’ll set up our ILS, in here, one oh nine nine.”
+At 0605:05, the Houston TRACON controller instructed the flight crew to descend to and
+maintain 3,000 feet. Radar data indicated that, about this time, the airplane was at an altitude of
+about 11,000feet and was located about 29miles northwest of HOU. At 0609:33, the first officer
+started the before landing checklist, and, about 1 minute later, he stated, “five miles…from
+CARCO.” At 0610:43, the controller instructed the flight crew to turn left heading 070° and to
+maintain an altitude of “2,000 feet or above ‘til established [on the] localizer.” The controller then
+cleared the flight for the ILS runway 4 approach. At 0611:13, the first officer stated, “localizer’s
+alive.” (See figure 2 for the accident airplane’s ground track.)
+3 The RVR is the measurement of the visibility near the runway’s surface. The measurement represents the
+horizontal distance that a pilot should be able to see down a runway from the approach end.
+4 Altitudes referenced in this report from surface weather observations and terminal aerodrome forecasts are
+reported as height above ground level. All other altitudes referenced in this report are reported as height above mean
+sea level.
+5 As noted previously, the first officer had actually received ATIS information “Quebec.”
+NTSB/AAB-06/06
+
+3
+Figure 1. ILS runway 4 published approach chart. (Reproduced with permission of Jeppesen
+Sanderson, Inc. Not to be used for navigation.)
+NTSB/AAB-06/06
+
+4
+Figure 2. Accident airplane’s ground track.
+An airplane performance study conducted by the National Transportation Safety Board
+indicated that, about 0611, the airplane was descending through an altitude of about 2,900 feet on
+a southeasterly heading when it started turning left to converge on the ILS localizer. The airplane
+continued descending during the inbound turn and leveled off at an altitude of about 2,300 feet. At
+0611:41, the Houston TRACON controller instructed the flight crew to contact the HOU air
+traffic control tower (ATCT). About 16 seconds later, the first officer contacted the HOU ATCT
+and stated, “with you on the ILS.” The ATCT controller reported calm winds and then cleared the
+flight to land on runway 4. The performance study indicated that, about this time, the airplane was
+still at an altitude of about 2,300 feet and was located about 11 miles southwest of HOU.
+NTSB/AAB-06/06
+
+5
+At 0612:15, the captain asked the first officer to get the RVR. He then stated, “I can’t get
+approach [APR] mode on my thing.”6 The first officer replied that he could not get the APR mode
+to activate either. About 0613, the airplane descended through 2,000feet. The airplane
+performance study showed that the airplane was about 1,000 feet below the glideslope about this
+time and that the airplane remained 600 to 1,000 feet below the glideslope until impact.
+At 0612:31, the HOU ATCT controller reported to the first officer that the RVR was
+1,600feet.7 The first officer acknowledged the transmission. At 0612:40, the first officer stated,
+“gear down.” At 0612:57, the first officer asked, “what [is]…wrong with this?” The captain
+responded, “I don’t know.” At 0613:03, the first officer further asked, “what do we have set
+wrong? we have…long range [navigation or NAV] or something… that we shouldn’t have?” Five
+seconds later, the captain reported, “got NAV…VOR one.” The first officer stated, “okay, we’re
+high on the glideslope now,” and the captain replied, “just gonna have to do it this way.” At
+0613:24, the first officer stated, “guess so. yeah you’re on [the] glideslope now.” However, the
+airplane performance study showed that, about the time that the first officer made the comments
+about the glideslope, the airplane was at an altitude of about 1,700 feet and was 700 feet below the
+glideslope. (See figure 3 for the accident airplane’s altitude profile.)
+At 0613:44, the captain asked the first officer if they were going to descend to an altitude
+of 244feet,8 and the first officer replied, “yeah.” The airplane performance study indicated that,
+about 0614, the airplane was at an altitude of about 1,000 feet. At 0614:05, the captain asked,
+“what happened? did you change my frequency?” The first officer responded, “yeah we were
+down there…the VOR frequency was on.” He then stated, “we’re all squared away now…you got
+it.” The captain responded, “yeah, but I, I don’t know if I can get back on it in time.” The first
+officer replied, “yeah you will…you’re squared away now.” The airplane performance study
+showed that, shortly after the captain’s question regarding the frequency, the airplane turned right
+and subsequently intersected the ILS runway 4 localizer centerline. As shown in figure 3, about
+this time, the airplane was at an altitude of about 900 feet and was 800 feet below the glideslope.
+6 The airplane has an autopilot/flight director mode selector panel, and the APR mode provides flight guidance
+during an ILS approach.
+7 According to the published ILS runway 4 approach chart (see figure 1), the minimum allowable RVR for an
+ILS approach to runway 4 is 1,800 feet. Under 14 CFR Part 91 operations, pilots are allowed to initiate an approach
+when the reported visibility is below minimums.
+8 Two hundred forty-four feet is the decision height for the ILS runway 4 approach.
+NTSB/AAB-06/06
+
+6
+Figure 3. Accident airplane’s altitude profile.
+At 0614:32, the first officer stated, “I’m, I’m outside,” and, 8 seconds later, he stated,
+“okay, comin’ up on two forty four.” At 0614:35, the automated radar terminal system minimum
+safe altitude warning (MSAW) provided visual and aural warnings to the Houston TRACON and
+HOU ATCT controllers. At 0614:42, the captain completed the before landing checklist, stating,
+“give me full flaps.” At 0614:45.2, the CVR recorded the first officer state, “up,” seven times in
+quick succession. The CVR recorded the HOU ATCT controller simultaneously state, “check
+your altitude, altitude indicates four hundred feet.” The flight crew did not respond to the
+controller’s transmission. No further communications were received from the flight crew.
+The airplane performance study showed that the airplane tracked the ILS runway 4
+localizer and continued to descend until about 0614:47. The airplane impacted a light pole at an
+altitude of about 198 feet and about 3 1/4 miles from the runway 4 threshold.
+NTSB/AAB-06/06
+
+7
+PERSONNEL INFORMATION
+The Captain
+The captain, age 67, was hired by Business Jet Services on May 1, 1998. The captain was
+the company’s chief pilot from February 15, 2000, to July 31, 2004.9 He held a multiengine airline
+transport pilot certificate with type ratings in the British Aircraft Corporation (BAC) 1-11 and the
+G-III. The captain received a check airman designation from the Federal Aviation Administration
+(FAA) effective December 10, 2002, and he was approved to conduct flight checks for Business
+Jet Services pilots in G-III and BAC1-11 series airplanes. The captain’s most recent FAA
+first-class airman medical certificate was issued on June17, 2004, and contained the limitation
+that he “must wear corrective lenses.” Table 1 shows the employment information reported by the
+captain on the application that he filled out for Business Jet Services.
+Table 1. Employment information for the captain.
+Employment date Employer Job position Airplane type
+June 1976 to July 1989 Jet Fleet Corporation, Line captain, instructor, and BAC 1-11
+Dallas, Texas check airman
+August 1989 to March 1990 Flight International, Newport Line captain, instructor, and BAC 1-11
+News, Virginia check airman
+April to October 1990 Self Freelance pilot
+October 1990 to April 1998 Sky King, Inc., Sacramento, Captain, check airman, BAC 1-11
+California director of operations
+Business Jet Services records indicated that the captain had accumulated about
+19,000total flight hours, 15,700 hours of which were as pilot-in-command. The captain had
+accumulated 1,000 hours in Gulfstream G-II and G-III airplanes, 1hour and 55 hours of which
+were flown in the accident airplane in the 6 and 12 months preceding the accident, respectively.
+The captain had flown about 400, 90, 10, 3, and 0.75 (the accident flight) hours in the last
+12months; 90, 30, and 7days; and 24 hours, respectively. The captain’s last ground training
+occurred on May 18, 2004, and his last G-III proficiency check occurred on May20, 2004.
+According to the captain’s wife, the captain did not work on November 20 and 21. She
+stated that the captain typically went to bed about 2230 to 2300 and awoke about 0800 on days
+that he did not work. On November 21, he awoke about 0800 and went to bed about 2100. On the
+morning of the accident, the captain awoke about 0220. According to a company employee, the
+captain arrived at DAL about 0300, and he stated that the captain looked like he had just woken
+up because he was “slow moving.” Four company line service personnel described the captain’s
+actions as “normal.”
+9 According to the captain’s wife, he retired from the chief pilot position so that he could reduce his work
+schedule.
+NTSB/AAB-06/06
+
+8
+The First Officer
+The first officer, age 62, was hired by Business Jet Services on April 19, 2004. He was the
+company’s chief pilot from July31, 2004, to the accident date. He held a single- and multiengine
+airline transport pilot certificate with type ratings in Sabreliner N-265, Cessna Citation CE-500,
+Hawker Siddeley HS-125, and G-III airplanes. The first officer’s most recent FAA first-class
+airman medical certificate was issued on September10, 2004, and contained the limitation that he
+“must have available glasses for near/intermediate vision.” Table 2 shows the employment
+information reported by the first officer on the application that he filled out for Business Jet
+Services.
+Table 2. Employment information for the first officer.
+Employment date Employer Job position Airplane type
+July 1974 to October 1979 Eliminator Boats, Mira Chief pilot Cessna 411 and
+Lorna, California Turbo Aerostar
+October 1979 to December 1987 Ledo Financial Flight department Sabreliner 60,
+manager and Cheyenne III, and
+chief pilot Cessna414
+December 1987 to November 1997 Various companies Contract pilot Hawker Jets
+November 1997 to October 2001 Elite Aviation, Van Nuys, Captain G-II, G-III, and
+California Hawker Jets
+December 2001 to September 2002 XtraJet, Inc., Santa Monica, Captain G-II
+California
+September 2002 to April 2004 AvJet, Burbank, California; Contract pilot G-II, G-III, and
+Sun Air Jets, Camarillo, Hawker Jets
+California; and XtraJet
+Business Jet Services records indicated that the first officer had accumulated about
+19,100total flight hours, 17,700 hours of which were as pilot-in-command. The first officer had
+accumulated 1,700 hours in G-II and G-III airplanes, about 18 hours of which were flown in the
+accident airplane in the 8 months preceding the accident. The first officer had flown about 300,
+83, 24, 8, and 0.75 (the accident flight) hours in the last 12months; 90, 30, and 7days; and
+24hours, respectively. The first officer’s last G-III proficiency check occurred on January 25,
+2004; his last line check occurred on May 20, 2004; and his last ground training occurred on
+May21, 2004.
+According to the first officer’s wife, the first officer awoke about 0900 on November 20,
+2004, and he went to bed about 2300. On November 21, the first officer awoke about 0900. The
+first officer’s wife stated that the first officer did not have regular sleeping hours and, therefore,
+she was not sure exactly what time the first officer went to bed that evening; however, she thought
+that it was probably about 2000. According to company personnel, on the morning of the
+NTSB/AAB-06/06
+
+9
+accident, the first officer arrived at DAL about 0430.10 Two line service technicians who saw him
+on the morning of the accident stated that he “seemed in good spirits.”
+AIRPLANE INFORMATION
+The accident airplane was manufactured by Gulfstream Aerospace Corporation on
+December 12, 1984. From October 1985 to March 1993, the airplane was operated by Jets
+Ejecutivos in Mexico. The FAA issued the airplane a standard airworthiness certificate on
+March3, 1993.11 The airplane was operated by five different operators from April 1993 to
+August2000, when Business Jet Services bought the airplane. At the time of the accident, the
+airplane had accumulated about 8,566 hours.
+The airplane was equipped with two Rolls-Royce Spey 511-8 turbofan engines. The time
+since new for the left engine was about 8,452 hours, and the time since overhaul was about
+1,644hours. The time since new for the right engine was about 8,548hours, and the time since
+overhaul was about 1,648 hours.
+Cockpit Instrumentation
+The airplane was equipped with an electronic flight instrument system (EFIS), which
+consisted of two electronic displays, a symbol generator, a display controller, and a source
+controller. The electronic attitude director indicator (EADI) has a fast/slow indicator that is
+always visible and a glideslope indicator that is only visible when a valid ILS frequency has been
+selected. If a valid frequency has not been selected, the side of the screen where the glideslope
+indicator should appear remains blank. The fast/slow indicator shows airspeed guidance relative
+to a target airspeed, and the glideslope indicator shows aircraft vertical deviation from the ILS
+glideslope.
+The glideslope and fast/slow indicators are the same color and about the same size. Each
+indicator consists of a moving pointer on a rectangular display, and each display has markers
+above and below the rectangle to indicate the degree of deviation. The glideslope pointer
+resembles a blunt-point arrow, and the fast/slow pointer resembles a rectangle (see figure 4). The
+accident airplane’s EADI was configured with the glideslope indicator on the left side and the
+fast/slow indicator on the right side.12 A review of the Safety Board’s accident database revealed
+10 The first officer’s wife was not sure what time he awoke on the morning of the accident, but she indicated that
+he would have showered and then needed about 30 minutes to drive to the airport.
+11 During a review of company records, several documents required by Federal regulations to import and operate
+an airplane in the United States, including a transfer application, an export certificate of airworthiness, and a
+conformity and acceptance inspection record, were not found for the accident airplane. Further, no maintenance
+records were found for the time period that the accident airplane was operated in Mexico. Title 14 CFR 135.439
+establishes the requirements for the retention of maintenance records.
+12 FAA Advisory Circular (AC) 25-11, “Transport Category Airplane Electronic Display Systems,” dated
+July16, 1987, provides guidance on the location of essential flight instrument displays, including the glideslope
+indicator. The AC recommends standardizing the location of the glideslope indicator to the right side of the main
+display; however, the accident airplane was manufactured before this guidance was issued. Five other company
+airplanes flown by the accident pilots were configured with the glideslope indicator on the left side. Of these
+airplanes, four had fast/slow indicators on the right side, and one had no indicator on the right side. Three of the
+company airplanes flown by the accident pilots had the glideslope on the right side.
+NTSB/AAB-06/06
+
+10
+no instances of accidents involving confusion of a different cockpit instrument with the glideslope
+indicator.
+Figure 4. A diagram of the EADI.
+Note: The diagram shows the glideslope and the fast/slow indicators on the right and left side of the EADI, respectively, which is
+opposite of the accident airplane’s configuration.
+The EFIS source controller is used to select attitude, heading, navigation, and bearing
+sources for display on the EADI. The NAV button on the source controller is used to control the
+source of the very high frequency (VHF) NAV information. When a frequency is entered in the
+VHF NAV receivers, it is stored in the standby position. The standby frequency can be activated
+instantly by flipping a toggle switch located next to the frequency display. The display data
+include the selected course and the course, localizer, and glideslope deviations.
+The airplane was equipped with an autopilot/flight director mode selector panel. The APR
+mode is used during an ILS approach. An ILS frequency must be selected as the NAV source and
+valid ILS signals must be received for the APR mode to activate. When these conditions are met
+and the APR button is pressed, both the NAV and APR modes are armed to capture the localizer
+and glideslope, respectively. When the APR mode is activated, the flight director’s lateral and
+vertical modes, including the glideslope and localizer captured and armed modes, are annunciated
+on the top of the EADI display. According to CVR information, neither the first officer nor the
+captain was initially able to activate the APR mode on their flight directors.
+NTSB/AAB-06/06
+
+11
+The airplane was equipped with an FMS that had a multifunction display (MFD), which
+was located on the center instrument panel and displayed navigational approach waypoints13 that
+are entered into the FMS by the flight crew. As the airplane proceeds toward the airport, the
+displayed waypoint numbers change position on the MFD relative to a fixed airplane symbol at
+the bottom of the screen. An FMS does not provide the minimum altitudes for each navigational
+approach waypoint and supplements the airplane’s other navigational guidance instruments.
+Ground Proximity Warning System
+The airplane was equipped with a Honeywell Mark VI ground proximity warning system
+(GPWS), which provides aural alerts when thresholds are exceeded in several operational
+modes.14 Specifically, an aural “too low terrain” alert will be generated when the airplane reaches
+a specific allowable altitude for a given airspeed and the landing gear is down. Also, when a valid
+glideslope frequency has been selected on the captain’s NAV receiver and the landing gear is
+down, an aural “glideslope” alert will be generated and repeated every 3 seconds if the airplane
+deviates below the glideslope by more than 1.3dots and if the altitude is below 1,000feet. The
+“glideslope” alert gets louder as the airplane descends below 300 feet. If a valid ILS frequency
+has not been selected on the NAV receiver, the “glideslope” alert is inhibited.
+In addition, when the airplane descends below 500 and 200 feet and deviates below the
+glideslope by more than 1.3dots and a valid ILS frequency has been selected, “500” and
+“200” foot aural alerts will be generated. The GPWS also generates a “minimums” alert when the
+airplane descends to the decision height (DH) selected by the flight crew. The CVR did not record
+any GPWS alerts during the accident flight.
+An avionics functional check of the GPWS, which consists of a self-test and audio level
+check, is conducted by maintenance personnel every 12 months. The last maintenance functional
+check of the accident GPWS occurred on April 2, 2004, and no discrepancies were noted.
+According to the director of training at Business Jet Services, company pilots also perform
+preflight avionics functional checks. The director, who had flown a series of flights in the accident
+airplane during the 4days before the accident, indicated that the airplane’s GPWS tested normally
+during the preflight checks. He also stated that, within the last year, he had received a valid
+in-flight “glideslope” alert while flying low on the glideslope during a visual approach. Other
+company pilots who had recently flown the accident airplane reported no problems with the
+GPWS during the preflight checks. According to Honeywell, the only common failure that could
+prevent activation of the GPWS glideslope and altitude callouts is a radio altimeter failure. No
+evidence was found indicating that there were any problems with the radio altimeter.
+METEOROLOGICAL INFORMATION
+National Weather Service (NWS) surface analysis station models showed, about 0600, a
+low pressure area centered over northern Mexico and two frontal boundaries extended through
+13 The MFD displays a number for each approach waypoint, which indicates the waypoint’s chronological order
+in the waypoint list.
+14 Federal regulations required that all turbine engine-powered airplanes with six or more passenger seats be
+equipped with an enhanced ground proximity warning system (EGPWS) by March 29, 2005. The EGPWS provides
+pilots with a pictorial view of terrain in addition to the aural alerts provided by the GPWS.
+NTSB/AAB-06/06
+
+12
+central and southern Texas. Station models in southeastern Texas showed that surface winds were
+generally less than 5 knots and that mist and light rain existed in the area.
+A Terminal Aerodrome Forecast prepared by the NWS for HOU, which was valid at the
+time of the accident, stated, in part, the following: Wind at 100° at 5 knots, visibility 1/4sm in
+fog, vertical visibility15 100 feet. The NWS issued a dense fog advisory at 0159 local time on
+November 22, which was valid at the time of the accident and warned of a large area of fog over
+the surrounding area and of visibility of less than 1/4sm.
+About 0245 local time, the NWS issued Airman’s Meteorological Information (AIRMET)
+“Sierra,” which covered the area surrounding the airplane’s flightpath and was valid at the time of
+the accident. AIRMET “Sierra” warned of occasional ceilings below 1,000feet and/or visibility
+below 3 sm in precipitation, mist, and/or fog. About 0455 local time, the NWS issued a
+convective significant meteorological information (SIGMET),16 which covered the area near the
+accident site and was valid at the time of the accident. The SIGMET warned of embedded
+thunderstorms moving from 250° at 20knots, with cloud tops above 45,000 feet.
+Weather observations at HOU are made by an automated surface observing system
+(ASOS), which is located about 4miles northeast of the accident site at an elevation of about
+45feet. ASOS transmits official meteorological aerodrome reports (METAR) 53 minutes past
+each hour and special weather observations (SPECI) as conditions warrant, including wind shift,
+visibility change, and cloud cover or height ceiling change. The 0553 METAR reported that winds
+were 110° at 3 knots; the tower visibility was 1/8 sm in fog; the sky condition was clouds
+scattered at 100feet, broken at 600 feet, and overcast at 5,500feet; and the surface visibility was
+1/2sm. The HOU ASOS issued SPECIs at 0605 and 0627 because the cloud ceiling had changed
+from scattered to broken at 100feet and from broken to overcast at 600 feet, respectively. The
+HOU ASOS provides unofficial weather observations that are recorded every 5minutes. At 0615,
+the HOU ASOS reported that winds were 90° at 3knots, the tower visibility was 1/8 sm in fog,
+the sky condition was clouds broken at 100feet and overcast at 600feet, and the surface visibility
+was 1/2 sm.
+AIRPORT INFORMATION
+HOU is located about 8 miles southeast of Houston at an elevation of 46 feet. Runway 4 is
+equipped with a medium intensity approach lighting system with runway alignment indicator
+lights, high intensity runway edge lights, touchdown lights, and centerline lights. The approach
+end of runway 4 at HOU is equipped with a suite of sensors that measure the RVR.
+Minimum Safe Altitude Warning Information
+Houston TRACON provides approach control services to the HOU ATCT. Houston
+TRACON is equipped with an automated radar terminal system IIIA radar data processing unit
+15 Vertical visibility is defined as the vertical distance a person can see from the surface of the earth to the
+obscuring phenomenon.
+16 Convective SIGMETs are issued when severe thunderstorms and embedded thunderstorms occur for more
+than 30 minutes of the valid period, regardless of the size of the area; when a line of thunderstorms exists; or when an
+area of active thunderstorms affecting at least 3,000 square miles exists.
+NTSB/AAB-06/06
+
+13
+with an MSAW capability that monitors an aircraft’s separation from terrain and obstacles. The
+MSAW warnings are provided at the TRACON and at the HOU ATCT. The MSAW operates in
+two modes: general terrain monitor (GTM) mode, which monitors aircraft clearance above the
+highest terrain and obstacles in a general area, and the approach monitor (AM) mode, which
+monitors aircraft clearance above terrain and obstacles within a specific area on a certain runway
+approach (known as the Type II Airport Area). Each of these modes alerts controllers when an
+aircraft is currently below or predicted to go below an established minimum safe altitude. If the
+minimum safe altitude thresholds are exceeded, the MSAW will provide air traffic controllers
+with both a visual alarm (a blinking “LA” [low altitude] on the controller’s screen) and an aural
+alert.
+A predicted monitor alert will activate if two out of three consecutive radar scans show
+that the aircraft will descend 100 feet below the minimum altitude within the next 15 seconds. A
+current monitor alert will activate if a single radar scan shows that the aircraft is below the
+minimum altitude. The MSAW recorded a single GTM predicted exceedance of the established
+minimum safe altitude of 400 feet at 0613:30, but neither of the two subsequent scans predicted
+that the airplane would descend below the minimum altitude; therefore, no alert was generated at
+this time. The MSAW recorded no AM predicted exceedances; therefore, no AM predicted alerts
+were generated. The MSAW generated an AM current alert at 0614:35. The HOU ATCT
+controller began issuing a warning to the flight crew about 7.5seconds after the alert activated,
+which was about 3 to 4 seconds before impact with the light pole.
+The Safety Board evaluated the airplane’s flight profile and the MSAW algorithms for the
+HOU airport area to determine whether the MSAW provided the HOU ATCT controller the alerts
+expected given the design specifications of the system. The study indicated that the system
+performed as designed. The study also indicated that the descent profile of the accident flight was
+along the edge of the GTM predicted alert threshold, such that only one GTM predicted alert was
+recorded by the system.
+During discussions with FAA staff about MSAW-related safety issues, FAA personnel
+noted that, in an effort to limit “nuisance alarms,” MSAW parameters are presently set to not
+trigger an alarm for aircraft that routinely fly visual approaches lower than any precision
+instrument approach. Because the present MSAW design does not provide any way to alter
+system performance to treat aircraft flying visual approaches differently from aircraft flying
+instrument approaches, aircraft that deviate from instrument approach limits during IMC may not
+generate an MSAW alert until they are well below the expected instrument approach altitude.
+On July 11, 2006, the Safety Board issued safety recommendations to the FAA that
+addressed MSAW alert effectiveness.17 In its recommendation letter, the Board noted that
+modifying MSAW software to apply different alerting parameters to aircraft flying visual and
+instrument approaches will likely decrease the number of false alarms when aircraft are in visual
+approach conditions and increase warning times when aircraft are instrument dependent, which
+will increase the credibility and overall effectiveness of MSAW warnings and likely improve
+controllers’ ability to detect hazards and potentially prevent accidents.
+17 For more information, see the Safety Board’s Web site at
+<http://www.ntsb.gov/Recs/letters/2006/A06_44_47.pdf.>
+NTSB/AAB-06/06
+
+14
+FLIGHT RECORDERS
+The accident airplane was equipped with a Fairchild model A-100 CVR. The exterior of
+the CVR showed no evidence of structural damage. The CVR was sent to the Safety Board’s
+laboratory in Washington, D.C., for readout and evaluation. The interior of the CVR and the tape
+sustained no apparent heat or impact damage. The recording started at 0543:32 and continued
+uninterrupted until 0614:47. The recording consisted of two channels of “good quality” audio
+information, the cockpit area microphone and the combined captain and first officer audio panel
+information, and two channels of low level audio that was unusable.
+The accident airplane was equipped with an L-3 Communications Fairchild model F1000
+flight data recorder (FDR). The FDR used solid-state flash memory as the recording medium and
+was configured to record a minimum of 25 hours of flight data. The recorder was found to be in
+good condition. The FDR was sent to the Safety Board’s laboratory for readout and evaluation.
+About 122 hours of data were recorded on the FDR, including data from the accident flight.
+WRECKAGE AND IMPACT INFORMATION
+The airplane impacted the top of a light pole about 198 feet above the ground. Pieces of
+the right wing inboard leading edge were found embedded in the joint that attaches the light
+fixture to the pole. Numerous pieces of the right wing inboard leading edge, upper and lower right
+wing skin, and the right main landing gear door were found between the light pole and the initial
+ground impact mark, which was about 790 feet northeast of the light pole.
+The initial portion of the ground impact mark extended about 110 feet along a magnetic
+heading of 035°. Numerous pieces of the left wing outboard leading edge were found embedded
+in the ground along the gouge mark. The left wing tip was found near the gouge mark about
+50feet from the initial ground impact mark. The airplane’s main wreckage, which contained the
+majority of the airplane’s forward fuselage and cockpit, was found beyond the ground impact
+mark. All of the airplane structure, including the fuselage, wings, and empennage, were found
+along the wreckage path.
+Both engines were found separated from the airplane. The engines showed no indications
+of uncontainment, case rupture, or in-flight fire. The left engine low pressure compressor blades
+were found in place and bent opposite the direction of rotation. The right engine low pressure
+compressor blades were found in place and straight, with no circumferential rub marks.
+Postaccident disassembly of the engines revealed no preexisting defects or malfunctions, and
+testing of both engines’ fuel controls showed that they were functioning normally.
+MEDICAL AND PATHOLOGICAL INFORMATION
+Tissue and fluid specimens from both pilots tested negative for a wide range of drugs,
+including major drugs of abuse. The captain’s specimen tested positive for ethanol, but the
+analysis indicated that the detected ethanol most likely resulted from postmortem formation.
+NTSB/AAB-06/06
+
+15
+TESTS AND RESEARCH
+Flight simulations were conducted to determine whether any GPWS alerts would have
+been expected during the flight with parameters, such as altitude, airspeed, and glideslope
+deviation, set to approximate the conditions of the accident flight profile. The simulations showed
+that the airplane penetrated the descent-below-glideslope alert envelope at an altitude of about
+925feet, by which time, the ILS frequency had been selected by the first officer and the landing
+gear commanded down. The airplane penetrated the insufficient terrain clearance alert envelope at
+an altitude of about 255 feet. Therefore, the “glideslope” and “too low terrain” alerts, respectively,
+should have activated. The simulations also showed that the “500” and “200” feet aural alerts
+should have activated.
+Postaccident tests using an engineering bench test unit were also conducted to verify
+whether GPWS alerts would be generated with parameters set to approximate the accident flight
+profile. The tests showed that, at an altitude about 915 feet, the “glideslope” alert sounded and
+repeated. During the tests, the altitude was continually reduced, and the following was noted:
+about 500feet, the “500” foot alert sounded; about 300 feet, the “glideslope” alert got louder;
+about 272 feet, the “too low terrain” alert sounded and repeated; about 244 feet, the “minimums”
+alert sounded; and, about 200feet, the “200” foot alert sounded.
+ORGANIZATIONAL AND MANAGEMENT INFORMATION
+Business Jet Services is an aviation management company that specializes in management
+services for corporate aircraft owners and provides Part 135 on-demand charter services
+worldwide. At the time of the accident, the company had about 100employees, including 35
+Part 135 pilots, and a fleet of 13 airplanes, 7of which were Gulfstreams.
+Instrument Precision Approach and Landing Guidance
+According to Business Jet Services’ Gulfstream III Standard Operating Procedures
+(SOPs), after the flight crew reviews the descent procedures, the flying pilot is required to brief
+the approach, including the airplane configuration (such as the flap setting) and the final approach
+fix (FAF) altitude. The SOPs state that as many checklist items as possible should be
+accomplished and that the approach checklist must be completed before the initial approach fix.
+The CVR recorded the first officer accomplishing the approach briefing; however, the CVR did
+not record him mentioning the airplane’s configuration or the FAF altitude, which was 1,500 feet.
+The SOPs also indicate that, at initial convergence of the localizer, the flying pilot is
+required to call out, “localizer alive,” and, at initial downward needle movement of the glideslope
+indicator, to call out, “glideslope alive.” Further, the flying pilot is required to call out, “one dot to
+go,” when the airplane is one dot below the glideslope; “localizer captured,” when the
+annunciator indicates that the localizer has been captured; and, “glideslope captured,” when the
+annunciator indicates that the glideslope has been captured. CVR evidence indicates that the first
+officer called out, “localizer alive,” but that he did not call out, “glideslope alive,” or, “one dot to
+go.” The CVR transcript indicates that the first officer made the first glideslope-related callout at
+0613:14, when he stated, “we’re high on the glideslope.”
+NTSB/AAB-06/06
+
+16
+The SOPs also state that, no later than the FAF crosscheck, the nonflying pilot should tune
+the VHF NAV receivers to a specific frequency and then identify and monitor the frequency.18
+The nonflying pilot is also required to call out when the airplane is 1,000,500, 200, and 100 feet
+above the DH and when the localizer and glideslope deviate one dot or more. The CVR transcript
+indicated that, although the first officer tuned the VHF frequency in the standby position earlier in
+the flight, he did not switch the VHF NAV receivers from the HUB VOR frequency to the ILS
+frequency until the airplane was at an altitude of about 1,000 feet nor did he identify or monitor
+the frequency. Further, the CVR did not record either pilot making any altitude or deviation
+callouts.
+Business Jet Services’ stabilized approach criteria require that, within 500 feet of the
+touchdown elevation, the airplane must be within the approach window, which requires, in part,
+that the glideslope and the localizer must not deviate more than one dot and that the descent rate
+must be less than 1,000 feet per minute (fpm). If the airplane is not within these criteria, the
+nonflying pilot should call out, “missed approach,” and a go-around should be executed.
+According to the Safety Board’s airplane performance study, about the time that the airplane was
+at an altitude of about 500 feet, the glideslope display would have shown a deviation of more than
+one dot and the descent rate would have exceeded 1,000 fpm. The CVR did not record either pilot
+call for a missed approach or initiate a go-around.
+Maintenance Records
+During a review of Business Jet Services maintenance inspection records, Safety Board
+investigators noted several discrepancies, including missing inspector signoffs, missing stamps
+and dates of maintenance actions, and other missing information. Many of the Form 337s, which
+are used to document major repairs and alterations, noted that they were approved by the
+Oklahoma City Flight Standards District Office (FSDO); however, no approving documentation
+was attached to the forms. In addition, although several records were found indicating compliance
+with airworthiness directives (AD), in many of these cases, no records were found pertaining to
+work accomplished for compliance with the ADs.
+Federal Aviation Administration Surveillance
+Business Jet Services was initially certificated on July 24, 1998, by the Dallas FSDO. On
+March 15, 2000, the company’s operating certificate was transferred to the Oklahoma City FSDO.
+The Business Jet Services principal maintenance inspector (PMI), who was based in Oklahoma
+City, had been in that position since 2000. The PMI was also responsible for the surveillance of
+three other Part 135 operators, four repair stations, one flight school, and one airplane and
+powerplants school.
+A review of the FAA’s Program Tracking and Recording Subsystem records indicated that,
+from January to November 2004, the PMI visited Business Jet Services 15times and
+accomplished all of the required surveillance items, which included a maintenance records review
+18 To identify a frequency, the nonflying pilot listens for a specific, audible Morse-code pattern, which is
+received by the VHF NAV receivers.
+NTSB/AAB-06/06
+
+17
+on May 6, 2004. No maintenance procedures or record-keeping discrepancies were noted by the
+PMI in the FAA’s records.
+Safety Recommendation A-05-08
+As a result of the June 13, 2003, Air Sunshine, Inc., flight 527 accident, the Safety Board
+issued Safety Recommendation A-05-08, which asked the FAA to do the following:
+Review the procedures used during its oversight of Air Sunshine, including those for the
+Surveillance and Evaluation Program [SEP] and Regional Aviation Safety Inspection
+Program, to determine why the inspections failed to ensure that operational and
+maintenance issues that existed at the company were corrected. On the basis of the
+findings of this review, modify Part 135 inspection procedures to ensure that such issues,
+including maintenance record-keeping and practices, are identified and corrected before
+accidents occur.19
+In response to the safety recommendation, the FAA indicated that it will review and revise
+FAA Order 8300.10, “Airworthiness Inspector’s Handbook,” to enhance inspectors’ awareness of
+inadequate record-keeping systems and the timely correction of record-keeping discrepancies.
+The FAA noted that because the SEP was designed and used for Part 12l operators, it was not
+applicable to Air Sunshine. The FAA stated that FAA Order 1800.56, “National Flight Standards
+Work Program Guidelines,” provided guidelines for the establishment of a surveillance work
+program. Pending the FAA’s revisions to Order 8300.10, Safety Recommendation A-05-08 was
+classified “Open—Acceptable Response,” on January 18, 2006.
+ADDITIONAL INFORMATION
+FAA Order 7110.65, “Air Traffic Control,” states that approach controllers are required to
+issue the current touchdown RVR for the runways in use when the prevailing visibility is 1 mile or
+less or when the RVR indicates a reportable value (an RVR that is fewer than 6,000 feet). FAA
+Order 7110.65 also states that approach “controllers shall ensure that pilots receive the most
+current pertinent weather information. Ask the pilot to confirm receipt of the current ATIS
+information if the pilot does not initially state the appropriate ATIS code.” The CVR did not
+record the Houston TRACON controller question the first officer when he stated that he had ATIS
+information “Kilo” instead of information “Quebec”; notify the flight crew of the current ATIS,
+which at that time was information “Romeo”; or provide the flight crew with the current RVR.
+19 For more information, see the Board’s Web site at <http://www.ntsb.gov/Recs/letters/2005/A05_08_10.pdf.>
+NTSB/AAB-06/06
+
+18
+ANALYSIS
+General
+The flight crew was performing an instrument precision approach; therefore, the presence
+of low cloud ceilings and reduced visibility should not have affected the pilots’ ability to fly the
+approach.
+The Houston TRACON controller did not correct the first officer when he stated that he
+had ATIS information “Kilo” instead of “Quebec”; confirm that the flight crew had the most
+current weather, ATIS information “Romeo,” and RVR; or question the first officer when he read
+back the incorrect runway assignment,20 as required by FAA Order7110.65. However, because
+the RVR and weather conditions had not changed considerably since the time the first officer
+received the information and the CVR recorded the flight crew correctly reference the runway
+later in the approach, the controller’s errors did not contribute to the accident.
+Postaccident benchtests set to parameters approximating the accident flight profile
+showed that the “glideslope,” “500” foot, “too low terrain,” “minimums,” “300”foot, and “200”
+foot GPWS alerts should have activated on the accident flight. However, the CVR did not record
+the accident GPWS generate any alerts during the flight. The only common failure that could
+prevent activation of the GPWS glideslope and altitude callouts is a radio altimeter failure.
+However, a review of Business Jet Services’ maintenance records and the CVR transcript found
+no evidence indicating any problems with the radio altimeter. The GPWS unit and the radio
+altimeter were destroyed during impact; therefore, the Safety Board was unable to determine why
+the GPWS did not operate as expected. Federal regulations would have required that the accident
+airplane be equipped with an EGPWS by March 29, 2005. The EGPWS provides pilots with a
+pictorial view of terrain in addition to aural alerts.
+A review of the FAA’s Program Tracking and Reporting System records indicated that the
+PMI reviewed company maintenance records, which is a required inspection item, on May 6,
+2004, and no discrepancies were noted. However, a Safety Board review of the company’s
+maintenance records revealed that some of the maintenance paperwork was inconsistent,
+incomplete, and/or not documented properly. The Board is concerned that, although the FAA
+PMI’s oversight of Business Jet Services was in accordance with standard guidelines, the PMI did
+not detect the maintenance records deficiencies found during the investigation. As noted
+previously, the Safety Board addressed this issue by issuing Safety Recommendation A-05-08,
+which is currently classified “Open—Acceptable Response,” pending the FAA’s revisions to
+Order 8300.10.
+Accident Sequence
+The examination of CVR and FDR data indicated that the en route portion of the accident
+flight from DAL to HOU was routine. The first officer started the approach briefing about
+0547:50. However, Business Jet Services’ SOPs state that the flying pilot—in this case, the
+20 At 0559:06, the CVR recorded the first officer read back “runway one four” instead of “runway four.”
+NTSB/AAB-06/06
+
+19
+captain—should brief the approach. Further, during the briefing, the first officer did not mention
+all of the approach checklist items, including the FAF altitude.
+About 3 minutes after starting the approach briefing, the CVR recorded the captain asking
+the first officer to set the navigational approach waypoints in the FMS. The pilots then discussed
+deleting the HUB VOR waypoint from the list, which the first officer most likely did at that time.
+The MFD only displays a chronological number for each approach waypoint; therefore, it is
+possible that the flight crew forgot that the first officer removed the HUB waypoint from the
+FMS, causing them to mistakenly believe that the last waypoint displayed on the MFD (EISEN)
+was the airport. Regardless, an FMS serves as a secondary navigational aid on an ILS approach.
+The pilots should have been relying on the primary navigational aids during the approach.
+About 0612, the CVR recorded both pilots stating that they were unable to get the APR
+mode on their flight directors to activate. About 1 minute later, the first officer told the captain
+that they were “high on” the glideslope and then that they were “on” the glideslope. According to
+the airplane performance study, the airplane was actually about 700 feet below the glideslope
+when the first officer made these statements, and the airplane remained well below the glideslope
+throughout the rest of the approach. Although the first officer entered the ILS frequency in the
+standby position in both VHF NAV receivers earlier in the approach (about 0559, after the
+approach clearance), at this point in the approach, neither pilot had selected the ILS frequency.
+Further, the glideslope indicator would not have been visible on the EADI. Therefore, the first
+officer could not have been looking at the glideslope indicator when he made the statements about
+the glideslope.
+The first officer’s failure to activate and identify the ILS frequency earlier in the approach
+prevented the flight crew from recognizing that the airplane was off course and below the
+glideslope. The fast/slow indicator on the EADI resembles the glideslope indicator and is visible
+on the EADI at all times, whereas the glideslope indicator only appears on the screen once an ILS
+frequency has been activated. Postaccident flight simulations revealed that the fast/slow indicator
+would have been centered within one dot during the approach sequence and that the indications
+would have been consistent with the first officer’s comments about the glideslope if he had
+mistaken the fast/slow indicator for the glideslope indicator.
+The first officer did not switch the VOR frequency to the ILS frequency until about
+1minute before impact. When the first officer realized that he had not switched to the ILS
+frequency, he should have called for a missed approach because the airplane was not properly
+configured for the approach and was not receiving proper vertical guidance during the most
+critical phase of the flight. Once the first officer selected the ILS frequency, the glideslope
+indicator would have appeared on the screen and both pilots’ displays would have shown a
+full-scale deviation below the glideslope and a full-scale or near full-scale deviation of the
+localizer; however, the CVR did not record either pilot mention the glideslope deviation. The
+fast/slow indicator would have remained visible on the EADI even after the ILS frequency was
+selected, which may explain why the pilots did not immediately notice the glideslope indicator
+deviation after the first officer selected the ILS frequency. Therefore, the pilots most likely
+mistook the fast/slow indicator for the glideslope indicator throughout the approach sequence.
+NTSB/AAB-06/06
+
+20
+The Safety Board is concerned that the first officer switched the frequency of a primary
+navigational aid and failed to inform the captain. If the pilot-not-flying takes such actions without
+first checking with or simultaneously informing the flying pilot, confusion can occur, as
+evidenced by the captain’s remark, “What happened? Did you change my frequency?” In this
+case, because the airplane was at such a low altitude (about 1,000 feet) in IMC, such a major
+change should have prompted the captain to immediately initiate a missed approach.
+Shortly after activating the ILS frequency, the first officer stated, “we’re all squared away
+now.” The captain replied, “I don’t know if I can get back on it [the ILS localizer] in time.” The
+first officer stated, “yeah you will. you’re squared away now.” These comments indicate that the
+pilots were focused on correcting the localizer deviation. The first officer dismissed the captain’s
+concerns, and the captain did not proceed to assert his authority. As noted, earlier in the approach,
+the flight crew had attempted unsuccessfully to activate the flight director APR mode, and no
+evidence indicates that either pilot tried to reactivate the APR mode on their flight directors once
+the ILS frequency was selected. Therefore, the flight crew continued to perform the approach
+without the advantage of flight director guidance. The CVR did not record the pilots making any
+of the required altitude callouts, except at 0614:40, when the first officer announced that they had
+reached the DH of 244feet. The airplane hit the light pole immediately thereafter.
+FDR data show that the airplane exceeded a descent rate of 1,000 fpm within 500feet of
+the touchdown elevation, which was outside of the stabilized approach window. In addition,
+although the localizer deviation was less than one dot by the time the airplane reached 500 feet,
+the localizer would have shown a full-scale or near full-scale deviation of the localizer when the
+first officer initially activated the ILS frequency. Both of these factors should also have prompted
+the flight crew to initiate a missed approach.
+Throughout the approach, the flight crew failed to follow approved company approach
+procedures. The first officer’s failure to activate and identify the ILS frequency at the appropriate
+point in the approach prevented the pilots from receiving glideslope and localizer information on
+their EADIs until late in the approach. Further, the pilots’ failure to engage the APR mode on their
+flight directors after the ILS frequency was selected prevented them from receiving flight director
+guidance. In addition, neither pilot was adequately scanning the cockpit instruments. Compliance
+with standard company procedures, activating and identifying the ILS frequency and
+subsequently the APR mode, and adequate monitoring of the flight instruments would likely have
+prevented the accident.
+Fatigue might have also played a role in the flight crew’s degraded situational awareness.
+According to the captain’s wife, on the night before the accident, the captain received about
+4hours less sleep than normal. A company employee stated that, when the captain arrived for
+work on the morning of the accident, he looked as though he had just woken up. The first officer’s
+wife stated that the first officer did not have regular sleeping hours and that she was not sure how
+much sleep he got the night before the accident. Although the early reporting time for the accident
+flight might have resulted in flight crew fatigue, the actual amount and quality of sleep received
+by the captain and the first officer could not be determined. Regardless, their improper conduct of
+the approach reflected fundamental operational shortcomings that were independent of fatigue.
+NTSB/AAB-06/06
+
+21
+Minimum Safe Altitude Warning Operation
+The Safety Board evaluated the airplane’s flight profile and the MSAW algorithms for the
+HOU airport area and determined that the MSAW performed as designed given the alert
+thresholds established for the HOU airport area. The study determined that the accident descent
+profile was along the edge of the MSAW GTM predicted alert threshold. In this case, although the
+MSAW recorded a single predicted exceedance of the threshold at 0614:30, the two subsequent
+scans did not predict exceedances; therefore, no GTM predicted alert was generated.
+The MSAW generated an AM current alert at 0614:35. The HOU ATCT controller began
+issuing a low-altitude warning to the flight crew about 7.5seconds later. Analysis of the MSAW’s
+performance found that the system provided only about 11.5 seconds of warning time before the
+airplane struck the light pole, which was not sufficient time for the controller to recognize the
+alert and warn the flight crew in time to prevent the accident. Configuring a single set of MSAW
+parameters is a balancing act between minimizing “nuisance alarms” and providing sufficient
+warning time. Implementing software and adaptation modifications to minimize or eliminate
+unwarranted MSAW alerts without degrading the usefulness and safety benefit of MSAW will
+increase the credibility and overall effectiveness of MSAW warnings. Such modifications will
+likely improve controllers’ ability to detect hazards and potentially prevent controlled flight into
+terrain accidents. As noted previously, in July 2006, the Safety Board issued safety
+recommendations to the FAA that addressed MSAW alert effectiveness.

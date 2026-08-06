@@ -1,0 +1,1418 @@
+(_
+NATIONAL
+_ ____. TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+(
+NORTHEAST JET COMPANY
+GATES LEARJET 25D, N125NE
+GULF OF MEXICO
+MAY 19, 1980
+NTSB-AAR-81-15
+( UNITED STATES GOVERNMENT
+
+J I TECHNICAL REPORT DOCUMENTATIOl't PAGE
+I. Report No. 2.Government Accession.No. 3.Reclpient's Catalog No.
+NTSB-AAR-81-15 PBSl--'910415
+.,\ 4. Title and Subtitle Aircraft Accident Reeort-- 5.Report Date
+\ ''¾,... Northeast Jet Company, Gates Learjet 25D, Nl25NE, Sentember 15. 1981
+Gulf of Mexico, May 19, 1980 6.Performing Organization
+Code
+7. Author\s/
+8.Performing Or~anlzatlon
+Report No.
+9. Performing O~ganlzatlon Name and Address JO.Work Unit No.
+National Transportation Safety Board 3352
+Bureau of Accident Investigation II.Contrast or Grant No.
+Washington, D.C. 20594
+.. 13.Type of Report and
+Period Cove red
+12.Sponsorlng Agency Name and Address
+Aircraft Accident Report
+May 19, 1980
+NATIONAL TRANSPORTATION SAFETY BOARD
+Was~ington, D. C. 20594 14.Sponsoring Agency Code
+-
+.•
+IS.Supplementary Notes
+The subject report was distributed to NTSB mailing lists:
+1A, 'SA and SB.
+16.Abstract At 1205 e.d.t., on May 19,·1980, N.ortheast Jet Company, Learjet 25D, Nl_25NE
+crashed into the Gulf of Mexico while en route to New Orleans, Louisiana, from W_est Palm
+Beach, Florida. The pilot and copilot were on board the aircraft.
+· .About 2 1/2 minutes after the aircraft ,,was reported at Flight Level 430. in the
+vicinity of the Covia Intersection on Airway J58, the Jacksonville, Florida, Air Route Traffic
+Control Center received an unusual staccato sound transmission over the frequency, followed 18
+seconds later by a report from the copilot, "Can't get it up ••• it's in a spin ••••" About 33
+seconds after the first staccato·sounds, radio and radar contact with N125NE was lost about 104
+miles west of Sarasota, Florida. Floating debris was located by a search aircraft and later
+recovered; the flightcrew was not found. There were no known witnesses ~o the crash. ·
+The National Transportation Safety Board determines that the probable cause of
+this accident was an unexpected encounter with moderate to severe clear air turbulence, the
+flightcrew•s improper response to the encounter, and the aircraft's marginal controllability
+characteristics when flown at and beyond the boundary of its high altitude speed envelope, all
+of which resulted in the aircraft exceeding its Mach limits and a progressive loss of :control
+from which recovery was not possible. Contributing to the accident was the disconnection of
+the Mach overspeed warning liorn with an unauthorized cut-out switch which resulted in the
+absence of an overspeed· warning that probably delayed the crew's response to the turbulence
+encounter, and the inconsistencies in aircraft flight manuals and flightcrew training programs
+• •ha 1u,...._ ,..~ •• •A • ·
+1.7. Key Words Clear air turbulence-penetration, airplane ,· 18.Distribution Statement
+response, pilot response, 10&!1. of control, overspeed, , This document Is available to .
+autopilot mistrlm, disengagement, automatic flight the public through the National
+control system, control stick puller, mach tuck, Technical Information Service-
+aileron buzz/"snatch", spoilers, nosedown pitching Springfield, Virginia 22161
+roll
+11!,qment, uncoordinated maneuver, high sp'eed.dive. (Always refer to number listed-
+ff. In Item 2)
+19.S~curi ty Classification 20.Securlty Classification 21.No. o~_Pages 22.Price
+·,\s. (of this report) (of this page)
+""--1 'UNCLASSIFIED UNCLASSIFIED 72
+NTSB Form 1765.2 , (Rev. 9/74)
+
+CONTENTS )
+. . .
+. . .
+SYNOPSIS . 1
+1. FACTUAL INFORMATION . 1
+1.1 History of Flight • • 1
+1.2 Injuries to Persons 4
+1.3 Damage to. Aircraft • 4
+1.4 Other Damage • • • 4
+1.5 Personnel Information • 4
+1.6 Aircraft Information • 4
+1.7 Meteorological Information. 5
+1.8 Aids to Navigation • • 6
+1.9 Communications • • • 6
+1.10 Aerodrome Information 6
+1.11 Flight Recorders • • • 7
+1.12 Wreckage and Impact Informatio)l • 7
+1.13 Medical and Pathological Information 8
+1.14 Fire . . .. . . 8
+1.15 Survival Aspects • • 8
+1.15.1 Wreckage Search • • • 8
+1.16 Tests and Research • 9
+1.16.1 Aircraft Performance 9
+1.16.2 ATC Tape of Communication • 12
+1.16.3 Aileron Buffet • • • • • • • • 12
+1.17 Additional Information. • • • • • • • • • • • • • 12
+1.17 .1 Automatic Flight Control Stability System (AFC/SS). 12.
+1.17 .2 Stall Warning Stickshaker/Pusher System. 13
+1.17.3 Wheel Master Button • • • • • • • • • 14
+1.17 .4 Overspeed Warning Horn Cut-out Switch • 14
+1;17.5 Gates Learjet Service News Letter • • • 16
+1.17 .6 Special Certification Review of the Learjet 17
+2. ANALYSIS . .... . 21
+2.1 The Flightcrew • • • • 21
+2.2 Aircraft Airworthiness • 21
+2.3 Loss of Control • 22
+3. CONCLUSIONS. . . 27
+3.1 Findings • • • • . 27
+3.2 Probable Cause • 28
+4. RECOMMENDATIONS. 29
+5. APPENDIXES . . • . 31
+Appendix A-Investigation and Hearing. 31
+Appendix B-Crew Information • • • • 32
+Appendix C-Aircraft Information • • • 34
+Appendix D--Probable Ground Track • • 35
+Appendix E--Expanded ARTCC Transcript •. 36
+Appendix F--Learjet Accident and Incident History 39
+Appendix G--Airworthiness. Directives. • • • 44
+Appendix H--NTSB Safety Recommendations. 60
+Appendix 1--FAA Response Letter •••• 69
+ii
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+Adopted: September 15 1981
+1
+NORTHEAST JET COMPANY
+GATES LEARJET 25D, N125NE
+GULF OP MEXICO
+MAY 19, 1980
+SYNOPSJS
+At 1205 e.d.t., on May 19, 1980, Northeast Jet Company, Learjet 25D, N125NE
+crashed into the Gulf of Mexico while .en route to New Orleans, Louisiana, from West
+Palm Beach, Florida. Only the pilot and copilot were on board the aircraft.
+About 2 1/2 minutes after the aircraft was reported at Flight Level 430 in the
+vicinity of the .Covia Intersection on Airway J58, the Jacksonville, Florida, Air Route
+Traffic Control Center received an unusual staccato sound transmission over the
+up •.•
+frequency, followed 18 seconds later by a report from the copilot, "Can't get it it's
+in a spin; •••" . About 33 seconds after the first staccato sounds, radio and radar contact
+with N125NE was lost about 104 miles west of Sarasota, Florida. Floating debris was
+located by a search aircraft and later recovered; the flightcrew was not found. There
+were no known witnesses to the crash.
+The National Transportation Safety Board determines that the probable cause
+of this accident was an unexpected encounter with moderate to severe clear air
+turbulence, the flightcrew's improper response to the encounter, and the aircraft's
+marginal controllability characteristics when flown at and beyond the boundary of its high
+altitude sp·eed envelope, all of which resulted in the aircraft exceeding its Mach limits and
+a progressive loss of control from which recovery was not possible. Contributing to the
+accident was the disconnection of the Mach overspeed warning horn with an unauthorized
+cut-out switch which resulted in· the absence of an· overspeed warning that probably
+delayed the crew's resp.onse to the turbulence encounter, and the inconsistencies in
+aircraft flight manuals and flightcrew training programs regarding the use of spoilers to
+regain control. ·
+1. FACTUAL INFORMATION
+1.1 History of the Plight
+On May 14, 1980, N125NE was flown to West Palm Beach, Florida, on a
+business flight. The aircraft was fueled to near capacity and then hangared. According to
+the fixed-base operator, at West Palm Beach, the aircraft did not receive any further
+service.
+About 2140 1/ on May 18, the flightcrew arrived in West Palm Beach by
+commercial aircraft, remained overnight in a company apartment, and arrived at the
+airport about 0930 on May 19. Their activities between the time of their arrival on
+,, May 18 and their arrival at the airport the following morning are not known.
+([
+y
+' All times herein are eastern daylight, based on the 24-hour clock.
+~
+
+-2'-
+At 0955:15, the flightcrew of Learjet N125NE contacted the International )
+Flight Service Station, Miami, Florida, obtained a weather briefing, and filed three flight
+plans ·ror a trip from West Palm Beach to Allentown, Pennsylvania, with en route stops at
+New Orleans, Louisiana, and Newark, New Jersey. The flightcrew was to deadhead to
+New Orleans and pick up a passenger for a charter flight to Newark, New Jersey, and then
+return to Allentown, the company headquarters. They planned to depart at 1230 with a
+. route of flight to New Orleans on Airway J-58 at Flight Level {FL) 430 at a true airspeed
+of 440 knots. Time en route was to be 1 hour 30 minutes with 4 hours of fuel on board.
+There was no forecast of turbulence in the flightcrew's weather briefing.
+The copilot of an unmodified Learjet 24D, N51J, stated that he saw the crew
+of N125NE arrive at the airport and he engaged in a conversation with them about a
+similiar portion of the route of flight. He said that the crew of N125NE did not have the
+New Orleans instrument approach chart and they had asked for and made copies of his
+chart. He said that when the crew boarded N125NE for departure, the pilot occupied the
+right seat and the copilot occupied the left seat.
+At 1107:06, N125NE contacted Palm Beach Clearance Delivery and received
+the following clearance: ", •• cleared to the New Orleans Lake Front airport radar vectors
+Sarasota as filed maintain five thousand expect FL 430 10 minutes after departure,
+departure frequency will be 124.6, squawk 3712." At 1119:14, the flightcrew received taxi
+clearance to runway 9, and at 1121:07, the crew received clearance for an intersection
+takeoff; 3 seconds later, they reported rolling.
+At 1122:46, the aircraft was cleared to climb and maintain 10,000 feet mean
+sea level {m.s.l.) !/ and to turn left to a heading·of 330°. Thirty-six seconds later, they _'1'._.. ·
+J
+were told to turn to 290°. At 1124:51, the aircraft was cleared direct to Sarasota and was
+cleared to climb to and maintain 17,000 feet. At 1126:49, Nl25NE contacted the Miami
+Air Route Traffic Control Center {ARTCC) and reported, "· •• out of fifteen, five
+climbing to one seven thousand," and was then cleared to climb to and maintain FL 230.
+At 1127:30, N125NE was cleared to climb to and maintain FL 430. At 1130:56, the crew
+reported out of FL 260, and at 1135:16, they reported out of FL 330. At 1145:16, the
+aircraft reported to the Miami Center, " ••• with you level uh out of four two zero for
+four three zero."
+At 1201:42, the pilot contacted the Jacksonville ARTCC and reported level at
+FL 430. At 1203:56, an unusual staccato or vibration noise, was transmitted. over the
+ARTCC frequency. The following transcript of the radio transmissions from N125NE was
+prepared by the Jacksonville ARTCC:
+1203:56 {unusual sound on frequency, three
+distinct bursts)
+1204:00 (put out the spoilers)
+1204:03 (keyed microphone with static)
+1204:13 (keyed microphone with static)
+1204:14 Can't get it up (pause) it's in a spin
+(background) noise, voice talking in
+background)
+1204:20 (sporadic sounds, keying and unkeying
+of a microphone) •
+1204:23 Oh jees (background noise)
+!/ All altitudes are mean seal level unless-otherwise noted.
+
+-3-
+1204:27 We're gonna
+1204:30 (static)
+1205:19 R-29 November One Two Five November
+Echo ah reset and squawk three seven
+one two normal
+1208:19 R-29 November One Two Five November
+Echo JAX
+1208:29 R-29. November One Two Five November
+Echo Jacksonville Center
+At 1203:53, the Jacksonville ARTCC lost altitude information (mode C) from
+the aircraft and at 1204:29, the ARTCC lost radar contact with the aircraft on Airway
+J-58 in the vicinity of the Covia Intersection when the aircraft apparently made about a
+90° left turn from the 290° radial, 104,5 miles west of the Sarasota (SRQ), Florida.
+The aircraft crashed at latitude 27°54' N and longitude 84°46' W. The depth of
+the water is about 600 feet.
+According to the copilot of N51J, he departed West Palm Beach about
+16 minu,tes after N125NE. He and the pilot, who was flying the aircraft, received radar
+vectors over Lake Okeechobee during the climb-out, and about 30 miles south of Sarasota,
+they were cleared by the Miami ARTCC to fly direct to the Covia Intersection. The
+aircraft reached FL 430 well before the Covia Intersection and was cruised at Mach 0.77,
+indicating 210 to 220 knots with a true airspeed (TAS) of about 440 knots. The ram air
+temperature was -39° C. The gross weight of the aircraft was estimated at 12,000 pounds.
+He described the weather as essentially clear, with a very light haze at about FL 450,
+.ttffi
+with some low clouds at about 2,000 feet and some cloud buildups southwest of their
+-:!i~,
+course. He did not note any change in ram air temperature,
+N51J encountered some light to moderate "chop" which presented no problem,
+about 50 miles west of Sarasota. In the vicinity of the Covia Intersection, the aircraft
+pitched up about 5°, climbed about 300 to 400' feet, pitched down about 4°, lost about 700
+to 800 feet of altitude, and then abruptly pitched up at which time the autopilot
+disengaged. The flightcrew reengaged the autopilot, and the same sequence occurred two
+more times. Following the third reengagement of the autopilot, no further turbulence·
+disturbances occurred, The pilot of N51J, an experienced Learjet captain, gave the
+following account of the incident:
+I noticed that our Mach number suddenly rose from .77 to
+nearly .• 80 and simultaneously our altitude increased and I felt
+the most severe turbulence I have ever encountered in a
+Learjet. It disconnected our. autopilot and, when I reengaged
+it for the last time, the altitude hold was inoperative and it
+had to be repaired later. I reduced.power immediately.
+The turbulence continued for a certain time, which I cannot
+guess at now. Our altitude varied considerably during this
+interval.
+I did not check the. path of the jet streams that day but I am
+fairly certain that we must have crossed a jet stream at a
+fairly sharp angle and this was the cause of the rise in Mach
+number and the turbulence.
+
+-4-
+The pilot further stated that he, "• •• had no great difficulty in maintaining . , ....
+control under these extreme conditions." He did not deploy the spoilers, nor did he ,
+unintentionally disengage the autopilot and yaw damper with the wheel master button
+during the encounter. ·
+Shortly after 1100, a National Aeronautics and ,Space Administration (NASA)
+pilot departed the Johnson Space Center, Houston, Texas. He was flying a Northrup T-38
+jet aircraft from Houston to Patrick Air Force Base (AFB) near. the Kennedy Space
+Center, Florida. He stated that there were cloud buildups just to the south of New
+Orleans, with tops about FL 430. He stated that 40 to 50 miles east of New Orleans, the
+weather was clear and the air was smooth, with some scattered cloud layers below. He
+was cruising at Mach 0.89 at FL 430 on Airway J58 and attempting to attain Mach 0.90.
+The gross weight of the aircraft at the time was 10,500 lbs. His flight level, was changed
+by the Jacksonville Center and he climbed to FL 450. Shortly thereafter, he overheard a
+keyed microphone and voices in the background which lasted about 10 seconds. He said he
+was not able to determine what was stated. The aircraft overflew the accident site about
+19 minutes after the accident. The pilot further stated that he did not encounter any
+significant turbulence. He said that in the vicinity of Covia Intersection he requested to
+fly direct to Patrick AFB -and-that the air traffic control (ATC) kept him at FL 450 as
+long as they could before he received a descent clearance to land.
+1.2 Injuries to Persons
+Injuries Crew Passengers Other · T - ot - al
+•
+Fatal 2 0 0 2
+Serious 0 0 0 0
+Minor/None 0 0 0 0
+1.3 Damage to Aircraft
+The aircraft was destroye~ by impact forces.
+1.4 Other Damage
+None.
+1.5 Personnel Infcrmatioo
+The fiightcrew was certificated and qualified for the flight •. (See appendix B.)
+The pilot obtained type ratings in the Learjet 23 and 24 on August 16, 1966. He acquired
+his type rating in the model 25 on July 8, 1968. According to Northeast Jet, he had
+accumulated 15,740 flight-hours, of which 6,062 hours were in the Learjet.
+The copilot was not rated in the Learjet. According to the company, he had
+accumulated 4,116 flight-hours, of which 65 hours were in the Learjet. He had also
+acquired 40 hours of Learjet 25 ground school. He was a former military pilot and had
+accumulated 2,476 flight-hours of high performance turbojet flight time before his
+employment with the company.
+1.6 Aircraft Infcrmatioo
+•
+Gates Learjet Model 25D, N12~NE, serial No. 271, was issued a standard
+airworthiness certificate on February 12, 1979. It was equipped with the manufacturer's
+Century Ill and Softfiite performance modifications to improve the slow speed and stall
+
+-5-
+"'" '
+,, characteristics of the aircraft. It was certificated for flight up to 51,000 feet. The
+,"".{f 'f
+•·i aircraft was purchased by Northeast Jet Company on April 30, 1979. (See appendix C.)
+The maintenance logs were on board the aircraft and were not recovered. A
+review of the company's available maintenance records did not provide an accurate
+evaluation of the maintenance status of.the aircraft. However, the records indicated that
+the required maintenance checks under the company's Approved Aircraft Inspection
+Program had been-conducted at the proper intervals.
+· Company records indicated that on. May 29, 1979, the copilot's airspeed
+indicator was indicating 0.02 Mach higher than the pilot's; a ground check of the
+indicators showed both to be reading identically. The_ cabin altitude test horn· was
+reported inoperative in August 1979; corrective action taken was, "slaved in aural warn
+control box. No help. ·Reinstalled plug on original box and system ops check okay." On
+December 26, 1979, a customer work record stated "Stick puller goes off at Mach .79 on
+captains a/s indicators." According to ,the maintenance facility that performed the
+1,200-hour inspection on April 20, 1980, the Mach/overspeed warning and stick puller
+control systems had been tested and no discrepancies were noted. During the same
+inspection, the right engine oil pressure gage was indicating a below zero pressure and the
+left aileron cable· was reported ·bad; no corrective actions were recorded. However, a
+Northeast Jet representative said that the right engine qil pressure discrepancy had been
+corrected and the left aileron cable had been replaced on May 6, 1980.
+The maximum· certificated takeoff gross weight of the Learjet 25D is
+15 ,ODO pounds and the center of gravity (e.g.) envelope at this weight is 17 to 30 percent
+1r mean aerodynamic chord (MAC). The total fuel capacity of N125NE was 6,144 pounds.
+1? The addition of 580 gallons of fuel on M~y 14 would have placed the fuel load on departure•
+\k, \ at 5,737 ,pounds. .
+Postaccident weight and balance computations of the aircraft before takeoff
+were:
+Item Weight (lbs) Moment (XlOOO)
+Zero Fuel Weight (Bow)* 8,709 3,256.000
+·Fuel Load
+wings and tip tanks 4,837 1,865.330
+fuselage 900 341.720
+Total Ramp Weight 14,446 5,463.050
+The e.g. was 21.5 percent MAC.
+*Basic operating weight
+1.7 Meteorological lnfcrmation
+'
+The 1000 West Palm Beach surface weather was: Scattered--2,000 feet and
+30,000 feet; visibility--12 miles; temperature--82° F; dew point--74° F; wind 140° at
+9 knots; altimeter--30.07.
+Based upon radar observations from the National _Weather Service (NWS) radar
+at Appalachicola, Florida, and photographs from the Geostationary Operation.al
+· Environmental Satellite (GOES), ~here was no significant thunderstorm activity over the
+Gulf of Mexico in the vicinity of Covia Intersection. There was, however, thunderstorm
+activity to the north over northern Florida, Georgia, and. Alabama.·
+
+-6~
+The 0800, 250 millibar (approximately 34,000 feet) map showed· a trough \
+extending south through the western plains States into western Texas. The jet stream 1
+wind maxima extended north-northeast from northeast Texas through West Virginia, The
+0800, 100 millibar (approximately 53,000 feet) map showed a trough with no pronqunced
+· jet maxima.
+The 0800 winds aloft observed at Bootheville, Louisiana, Appalachicola, and
+Tampa, Florida, were as follows:
+Altitude Direction Speed
+(feet above sea level) ( degrees true) (knots)
+Bootheville - 42, 797 263 69
+Appalachicola - 42,988 261 49
+Tampa - 43,138 256 9
+The maximum vertical wind shears at the approximate altitude of Nl25NE at
+Boothville, Appalachicola, and Tampa were 9.2, 14.6, and 6.5 knots per 1,000 feet,
+respectively. The maximum horizontal wind shear between Appalachicola and Tampa (a
+line nearly normal to the wind direction) was 37 knots per 150 miles. The parameters used
+by the NWS for forecasting clear air turbulence based on wind shear include: vertical
+wind shears exceeding 6 knots per 1,000 feet and/or horizontal wind shears exceeding
+18 knots per 150 miles for moderate turbulence, and vertical wind shears exceeding
+6 knots per 1,000 feet and horizontal wind shears exceeding 40 knots per 150 miles for
+severe turbulence.
+In addition to the wind shears, a shallow temperature inversion layer, possibly
+an upper front, was reported at Bootheville, Appalachicola, and Tampa near the flight
+level· of N125NE, Such an inversion layer, or upper front, is often considered an indication
+of clear air turbulence.
+There were no forecasts for clear air turbulence included in the 0900 area
+forecasts issued by the Forecast Offices at Miami and New Orleans. There were no
+convective SIGMETS or AIRMETS pertinent to the area of the accident.
+The following pilot report was made by N51J at 1230: Location--270°
+160 miles froJ;ll St. Petersburg, Florida; altitude--43,000 feet; type of aircraft--Learjet
+24; turbulence--:-severe clear air turbulence (cat).
+1.8 Aids to Navigation
+Not applicable.
+1.9 Communications
+There were no known communication difficulties before the last transmission
+from N125NE.
+1.10 . Aerodrome Information
+Not applicable.
+I,
+
+-7-
+1.11 Flight Recorders
+The aircraft was not equipped with a flight data recorder or a cockpit voice
+recorder, nor was either required ,by regulation.
+1.12 Wreckage and Impact Information
+Recovered aircraf~. wreckage from Nl25NE consisted of a 40-inch sec'tion·' of
+fuselage from the aft pressure bulkhead forward (frames 18 through 22), which contained
+the baggage compartment; a 1.5- by 3.0-foot piece of cockpit floor structure; a landing
+gear emergency air bottle; an oxygen boit1e; a spare wheel; a ram air duct; the right wing
+fuel tip tank nose seetion, from the forward :closure bulkhead to the second bulkhead
+(station 46); the front section of the right engine pylon; and miscellaneous cabin interior
+items. Examination of the debris was concentrated on the baggage compartment floor
+structure and fuselage skin, the right engine pylon; and the portion of the right wing fuel
+tip tank. . .
+0 On the l!!ft side of the fuselage , section, the frames and
+stringers remained attached to the baggage compartment
+floor structure. The floor structure was undamaged. The
+Nos. 5 arid 8 wing spar to 'fuselage attachment fittings were
+broken. The fasteners of the wing fitting ,at the No. 7 spar
+attachment failed in shear, leaving the wing fitting attached
+to the fuselage fitting.
+('71 · On the right side of the fuselage section, the No. 7 wing spar
+ttL:-' fitting was broken and the remaining portion was connected
+to the fuselage fitting which was bent rearward. The No. 8
+fuselage fitting was broken and bent rearward and outboard.
+The skin on the right side of the fuselage section was
+concaved in the open bays between the frames and stringers.
+The air conditioner evaporator and blower assembly, anti-ice
+tubing, electrical'wiring, and conduits were attached to the
+fuselage top skin. Two diagonal buckles were located below
+the level of the baggage floor at frame 21 on the left side .of
+the structure and progressed upward· and forward to
+frame 19. · · .
+o The housing f.or the recognition light, located forward of the
+closure bulkhead of the right wing tank was intact. The light
+·.bulb and nose cone fairing were not recovered. All of the
+fastener holes for the nose cone fairing were elongated in the
+'forward direction. Glass particles remained inside the light
+bulb retainer ring. The aft bulkhead fastener holes were
+. elongated forward around the top surface and rearward
+around the bottom surface of 'the· nose section of the tank.
+The tank was slightly compressed and exhibited a seciondary
+compression buckle in the bottom surface of the tank.
+0 The -forward portion of the right engine pylon, which was
+separated from its engine and fuselage attachment, included
+the upper and lower skin,· the leading edge air inlet, and the
+inboard and outboard attachment flanges. All inboard
+
+-8-
+attachments to the fuselage were sheared; All screws
+common to outboard flange attachment to the engine nacelle
+were pulled through. The upper skin surface exhibited
+diagonal buckles between the pylon liox structure which
+indicated downward loading of the pylon.
+1.13 Medical and Pathological Information
+. A. review of th~ flightcrew•s flight physical examination records dii!!closed no
+history of disqualifying medical problems.
+1.14 ,F-ir-e
+There was no·evidence of fire damage to the recovered wreckage.
+L15 Survival Aspects
+The accident was not survivable.
+1.15.1 Wreckage Search
+. 'I'he flightcrew of a .Fairchild F27, Nl 72C, on a company fligh~ from Houston,
+Texas, to Tampa, overheard the Jacksonville ARTCC calling N125NE. N172C was at
+FL 190. The ARTCC advised the flight~rew that contact with N125NE was lost and asked
+them if they would- attempt to contact the aircraft and search the water en route to
+Tampa.
+The captain of Nl 72C stated that the weather was clear and smooth. He •
+obtained clearance from the ARTCC to d~scend to 8,000 feet for a close~ look and circled
+a 20-mile area in the vicinity where radar contact with N125NE was lost. The captain
+spotted white floating debris around an oil slick on the 290° radial, 104.5 miles from
+Sarasota. At 1249, the aircraft made a low pass and determined that the debris was white
+styrofoam and what appeared to be an overhead liner and a nose cone .portion of a tip
+tank. The flightcrew of Nl 72C did not see the flightcrew of N125E.
+The captain stayed at the scene until a Coast Guard C-130 arrived at 1345.
+The C-130 flightcrew located the accident site, using a Litton 72 inertial navigation
+system, and contacted and directed a fishing vessel to the debris.
+By the time a Coast Guard helicopter from St. Petersburg arrived on-scene at
+about 1424, the debris and oil slick had drifted on a heading of 160° true. Except for a
+section of fuselage, the "debris had drifted beyond the oil slick. The helicopter crew
+reported the weather on-scene as clear with 15 miles visibility, wind--120° at 10 knots,
+and sea ·condition--3 feet from 220°.
+The fishing vessel recovered the debris and transported it to St. Petersburg.
+The Safety Board in coordination with the Gates Learjet Corporation, the
+Federal Aviation Administration (FAA), and Perry O,ceanographics,. Inc., of Kiveiera,
+Florida, participated in a two-phase effort to .recover the remainder of the wreckage.
+The first phase was conducted between·May 29 and June 8, 1980, using side scanning sonar
+and Lorah "C" navigation equipment. The sonar returns defined potential crash site
+t
+locations in the area where the floating debris was recovered and added credibility to the
+belief that the crash site area had been correctly identified.
+
+,-9-
+,f.'
+The second phase was conducted from June ~1 to Jull 2, and an attempdt was
+, made to identify the sonar returns, using underwater Video eqwpment transporte by a
+,,__ tethered remote control vehicle. The video search proved negative as all of the sonar
+returns observed were from dead coral formations and lumps of mud. Further attempts to
+recover the wreckage were suspended.
+1.16 Tests and Research
+1.16.1 Aircraft Perfcrmance
+The. two-engine climb schedule for the Learjet Model 25 is based on a climb
+o.
+speed profile of 300 knots indicated airspeed (KIAS) to· 24,500 feet, Mach 70 indicated
+o.
+(M ) to 45,000 feet. and 72M above FL 450. It is more common to fly the aircraft at 270
+1 o. 1
+KIAS until reaching 70M (aoout 30,000 feet.) At a start climb weight of 14,000 pounds,
+1
+the climb schedule chart shows that the aircraft was not climb limited to FL 430 at
+standard atmospheric conditions (ISA): The temperature was about 10° warmer (ISA+ 10°)
+than ~andard from F,L 360 to FL 400, but from FL 410 to FL 430, the temperature was
+about standard. The amount of fuel used_ for taxi, takeoff, and to the. top of the climb was
+about 1,200 pounds, an am_ount that would normally be burned from the tip tariks before a
+fuel transfer fro111.the fuselage tank would be accomplished. At'this point, the aircraft's
+weight would have been 13,246 pounds with a e.g. of about the 20.2 percent MAC.
+, The following :airspeed limits and turbulent air penetration procedures were
+extracted from the Learjet 25D and 25F aircraft flight manual (AFM):
+_ Limitations
+KIAS KCAS
+MAXIMUM OPERATING SPEED VM /MMO
+0
+These speeds shall not be deliberately VM S.L, to 14,000 feet
+0
+exceeded in any flight condition except 306 300
+where specifically authorized for flight VM O above 14,000 f~et
+test or pilot training operations or in 359 350
+approved emergency procedures. If MMO .82_ M .81M
+1
+*V MO or MMO is inadvertently exceed,ed. AFC/SS Inoperative
+1. Thrust Lever - Idle' 0. 78 M 0, 77M
+1
+2. Rotate nose up not to exceed 1.5 g's
+3. Level wings if required
+NOTE: No aerodynamic changes are apparent at either VMO or MMO and
+the aircraft will respond normally to control movefilents.
+*Means maximum operating limit speed.
+TURBULENT AIR PENETRATION
+Flight, through severe turbulence should be avoided if possible. When
+flying at 30,000 feet or higher, it is not advisable to avoid a turbulent
+area by climbing over it unless it is obvious that it can be overflown well
+in the <Jlear. For turbulence of the sam'e inte,nsity, greater buffet
+margins are achieved by flying the recommended speeds at reduced
+.altitudes.
+
+-10-
+A. AFC/SS - If severe turbulence is penetrated with the AFC/SS on, I !
+the altitude hold mode should be off. With AFC/SS off, yaw
+damper should be engaged. Remember, controllability of the
+aircraft in turbulence becomes more difficult with the yaw damper
+off. Rudder should be centered before engaging yaw damper. .
+B. Airspeed - Approximately 255 KIAS. Severe turbulence will cause
+large and often rapid variations in indicated airspeed. DO NOT
+CHASE THE AIRSPEED.
+c.
+Attitude - Maintain wings level and the desired pitch attitude. Use
+attitude indicator as the primary instrument. In extreme drafts,
+large altitude changes may occur. DO NOT USE SUDDEN LARGE
+CONTROL MOVEMENTS.
+D. Stabilizer - Maintain control of the airplane with the elevators.
+After establishing the trim setting for penetration speed, DO NOT
+CHANGE STABILIZER TRIM.
+E. Altitude - Allow altitude to vary. Large altitude variations are
+possible in severe turbulence. Sacrifice altitude in order to
+maintain .the desired attitude' and airspeed. DO NOT CHASE
+ALTIMETER.·
+F. Thrust - Engine ignition should be set to ON (refer to IGNITION
+SYSTEM OPERATION, this Section). Make an initial thrust setting
+for the target airspeed. CHANGE THRUST ONLY IN CASE OF
+EXTREME AIRSPEED VARIATION.
+, Buffet Boundaries--All aircraft in high speed flight are subject to airframe
+buffet caused by shock wave induced airflow separations from the aircraft's lifting
+I)) )
+surfaces. The formation of a shock wave begins as the local airflow over the wing airfoil
+shape reaches sonic speed. The onset of high speed buffet is influenced by the speed of
+the aircraft and ·sudden· changes in its angle of attack. Usually, airframe buffet also
+occurs at low -speeds when high angles of attack (stall) are approached because of
+separation of the airflow from the airfoil surfaces. The difference between the high
+airspeed which produces Mach buffet and the low airspeed which produces stall buffet
+decreases as altitude increases. At very high altitudes, the difference is substantially
+reduced in subsonic aircraft. Since Mach buffet and stall buffet are also dependent on the
+load factors produced by the wing, the aircraft's maneuverability margins at high altitudes
+are correspondingly reduced. The Learjet does not possess sufficient inherent prestall
+buffet characteristics at low speeds, to provide a pilot with a clear warning that the
+aircraft is. stalled before it enters a flight condition from which a normal recovery can not
+be accomplished. ~/ Therefore, the aircraft was equipped with a stall warning
+stickshaker/pusher system to artificially provide the needed stall warning.
+According to the AFM, the low speed buffet boundary for an aircraft with a
+gross weight of 13,000 pounds, at FL 430, and 1.Sg's is 192 KIAS (.71M ). The AFM does
+1
+not depict the high speed buffet boundary. According to Gates Learjet, however, at
+12,500 pounds and in 1-g flight, the buffet free Mach number range for the accident
+aircraft would have been from 0.57M (155 KIAS) to beyond red line of 0.82M (233 KIAS).
+1
+1
+"Beyond the red line, and beginning with a barely perceptible airframe buffet at about
+.82M, the buffet and aileron activity increase with increasing Mach No. to .86M, which is
+as fast as has been tested.1 1
+3/ FAA special condition CAR 3.120.
+
+-11-
+Radar Information--ARTCC recorded radar information for N125E was
+available from the Jacksonville Center, the Miami Center, and the Cross City radar
+facility north of Tampa. The radar points from the three radars were averaged into one
+probable ground track. {See appendix D.)
+Calculations of the aircraft's performance were made based on the radar
+data, aircraft specifications, and meteorological data. The calculations included the
+·period between the latter part of the climb to FL 430 and the time of the last altitude
+encoded radar return from the Jacksonville radar. Because of data tolerances, the Safety
+Board could not conclude that the aircraft was performing precisely as calculated at each
+point in time that the calculations were made. The general range and trend of these
+. calculations, however, are representative of the aircraft's performance during the period
+of the flight examined. ·
+The radar data showed that. the aircraft was cruising on assigned altitude and
+on course within a minute before radar information was lost. The radar information also
+showed that the aircraft's track turned to the right nearly 90° and the aircraft began a
+descent during the final minute of information. During this turn, altitude information was
+lost from all three radars; However, the ground position coordinates, which continued to
+be recorded, showed that ttie aircraft's ground track made a final turn of about 90° to the
+left. ·
+Once an aircraft exceeds a rate of descent of 20,000 feet per minute, the
+radar computer no longer displays the altitude information from the aircraft's
+transponder, and when this happens, a specific code is recorded in the computer memory.
+If the altitude information from the aircraft's transponder is not received by the radar,
+then a different code is recorded in the computer memory. A readout of the recorded
+radar information from the accident aircraft showed that the altitude information was
+lost because it was not being received by the ground radar, and not because the aircraft
+had exceeded the 20,00~ feet per minute rate of descent parameter. A special flight
+check of the primary radar .coverage in the vicinity of the Covia Intersection showed
+satisfactory coverage from FL 430 to a minimum altitude of FL 190. ·
+N125NE climbed to its cruising altitude of FL 430 between 220 and 250 KIAS,
+or between O. 75 and 0.82 Mach {M ). Between 1157:41 and 1202:41, the altitude was
+stabilized at.FL 431 and the averagt speed was Mach 0.77. During the next 48 seconds,
+between 1202:41 and 1203:29, the aircraft's altitude and vertical speed deviations were
+within tolerances. At 1203:46, Jacksonville radar showed the aircraft had lost 300 feet
+which resulted in a rate of descent of 1,500 feet per minute. At 1203:45, Cross City r_ads:r
+showed the aircraft had lost 800 feet which computed to about 4,000 feet per minute. No
+further altitude information was received by Jacksonville nor Cross City. Between
+1203:29 and 1204:14, the aircraft made a right turn of nearly 90° followed ,by a left turn of
+about 90° in 7 seconds. Radar information was lost 8 ·seconds later at 1204:29.
+Learjet N51J departed West Palm Beach 16.5 minutes after N125NE and flew
+the same flight route in the same direction. N51J's route of flight was displaced about 12
+miles south of N125NE's route of flight. Also, the NASA T-38 flew on the same airway in
+the opposite direction as N125NE and overflew the vicinity of the accident site about 18.5
+minutes after Jacksonville Center received the last radar return from Nl25NE. Learjet
+- N51J was cruising at FL 430 "well before Covia Intersection" according to the pilot.
+The NASA T-38 was first recorded on radar, climbing from FL 430 to 450,
+about 120 miles west of the vicinity of the accident. According to the pilots, the NASA
+o.
+T-38 was cruising at Mach 0.89 lll!d the Learjet was cruising at 77, indicating 210 to
+
+-12-
+f
+220 knots with TAS of 440 knots, with an indicated outside air temperature ·of -39° C
+(-28° F). The calculated ram temperature rise at Mach 0.77 and -39° C indicated is about
+20.5° C. This would give an outside air temperature of -59.5° C.
+1.16.2 • ATC Tape of Communications
+An ·ATC tape of communications with N125NE was exa11,1ined in the ·safety
+Board's audio laboratory. The FAA ATC transcript was expanded in the area of the
+occurrence. (See appendix E.) Reception was marginal because of the di~tance between
+N125NE and the receiving station. If N125NE had been maneuvering, it is possible for the
+reception to have been intermittent even though the transmitter remained keyed. The
+unusual, very low volume signals, which were heard following· the cessation of the last
+decipherable transmission at 1204:27, may have been bleed-through through the receiver
+transistor controlling the squelch circuitry. The possibility that the low volume signals
+were coming from N125NE is supported by the fact that the normal transmitter ON/OF!f
+signature was absent from the transmission, which suggests that the aircraft's transmitter
+remained ON. The receiver squeich circuitry could have been responsible for the low
+amplitude signals. The low signals were weak voices; however, the words could not be
+deciphered.
+The "staccat to sound" (similar to the stall warning signal as noted in the
+transcript) had a frequency of 18 to 1~ heavy beats per second. In some cases, the heavy
+beat was followed by a light beat about 20 milliseconds later. In general, the individual
+staccatto beats took a finite time (approximately 16 milliseconds) to build to a maximum
+and then drop off. The signal level between the beats did not drop to ~he normal
+quiescent (no signal) voltage level but ·remained up at some value until the beginning of
+f. )
+the next cycle, which indicated ·that the carrier was continuing or that the receiver
+squelch was keeping the ATC receiver on.
+1.16.3 Aileron Buffet
+The Gates Learjet Corporation investigated the staccato-type sound by
+comparing the frequency of primary flight control vibration with the frequency of the
+unusual sound. The·natural frequency of. the ailerons is 11.5 Hz. The same frequency was
+picked up when·the vibration was recorded in the cockpit. When the sound was recorded
+through the, radio in the cockpit, a frequency of 19 Hz was identified. The vibra~ion of
+the stickshaker was also recorded. It revealed a frequency of 30 Hz without the radio and
+31 Hz -with the use of the radio as a medium. Based on the results of the tests, the
+manufacturer was not able to reach any conclusions about the source of the staccato
+sounds heard on the tape. ·
+1.17 AdditiClll81 Inflll'mation
+1.17.1 Automatic flight Control Stability System (AFC/SS)
+The AFC/SS primarily consists of the autopilot pit!lh axis which includes a
+force sensor fa combination 'with a control stick puller and an aural .overspeed Mach
+warning horn. Longitudinal stability of the aircraft is dependent on operation of the
+autopilot pitch axis when operating beyond Mach 0.78 (M ); when the autopilot is not in
+o. 1
+use, speed is restricted to 78 Mr When this limit is reached, a sensing switch ·in the
+copilot's pi tot static system energizes the O. 78 M speed warning •.
+1
+
+-13-
+The force sensor will signal the autopilot computer to disengaged the autopilot
+pitch trim once the pilot overrides the elevator with• a force in excess of 6 to 8 pounds.
+The force sensor also disconnects any autopilot modes selected, such as heading, altitude,
+or speed, and causes the autopilot to operate in the basic altitude hold mode. Once the
+control column pressure is decreased, the autopilot will maintain the existing pitch•
+attitude and will roll the wings leyel.
+The control stick puller is incorporated into the flight. control system to
+automatically prevent the aircraft from exceeding M • The puller is powered or armed
+by the left stall warning switch. When tlie aircraft0reaches ,Mach 0.82 (M ), another
+sensing switch will sound ~he Mach warning horn and feed a nose-up signal to thl autopilot
+elevator servo clutch. This will cause the aircraft to climb until the overspeed condition
+is corrected. The stick puller exerts a force of 18 pounds. It is an M function only and
+will not work below 30,000 feet. The aircraft is not to be flown bW§'ond 0.74 MI if the
+puller is inoperative. · • ,
+1.17.2 Stall Warning Stickshaker/ Pusher System
+Because of the stall characteristics of the Learjet, an artifice! stall warning
+system incorporating a stickshaker and stickpusher was installed to provide a prestall
+warning to prevent an abrupt wing· rolloff. The system includes a stall vane on each side
+of the nose of the aircraft, two angle ·of attack indicators, two stall warning lights, and a
+computer. In flight, the stall vanes align with the local direction of the airstream. As the
+angle of attack of the aircraft changes, the realigned vanes signal the computer and the
+corresponding angle of attack is depicted on the cockpit indicators. As the critical angle
+of attack is approached at a point near the stall, 1. 07 Vs' the computer actuates the
+sticks.haker which induces a mild vibration of the control column while causing the red
+stall warning, lights ·to flash. If the angle of attack is further increased, an additional
+signal from the computer actuates the stickpusher (d.c. torquer clutch) and forces the
+control wheel forward with a force of 60 to 80 pounds. This applied force diminishes as
+the angle of attack decreases and can be overridden by the pilot. The system
+automatically disengages when it has decreased the angle of attack to a point less than
+that at which the pusher was set to •a ctuate. 4/ Any signals· from the autopilot are
+cancelled when the pusher activates. The computer also modulates the signals to
+compensate for various wing flap positions. In conjunction with an altitude pressure
+switch, the angle of attack for the shaker/pusher operation is reduced·above altitudes of
+about 22,500 feet. This causes the system to operate .at a higher speed than it does at
+lower altitudes. This feature is incorporated in only the models 24 E/R, 25 D/F, and all
+Century ill modified airplanes. ·
+The· Century m modification incorporated an ,electronic computer circuit in
+the stall warning system. The circuit, identified as the alpha dot, system, uses the· rate of
+change of the angle of attack sensor vane to automatically raise the stall warning
+stickshaker/pusher speeds to compensate 'for accelerated entry to the ,stall. The circuit
+permits the stickpusher activation speed-to be set within 1 knot of the unaccelerated stall
+speed/wing rolloff •. Theoretically, the computer raises the stickshaker/pusher speeds at
+about the same rate that· the stall speed increases under accelerated stall conditions;
+During. an FAA special investigation of the Learjet, in cooperation with the Safety Board's
+study of modified Learjets, §/ it was determined that the 1-knot speed margin.between
+4/ FAA Order 8110.6, Review Case No. 38
+5/ "Study of Selected Performance Characteristics of Modified Learjet Aircraft,"
+February 1979.
+
+-14-
+activation and aerodynamic stall was inadequate. ·This condition was corrected by Air
+' I.
+worthiness Directive (AD) 79-12-05, dated June 18, 1979, which increased the pusher
+margin to about 3 knots and increased the AFM stall and landing approach speeds.
+However, with the development of the Softflite modification, the aircraft rolloff
+characteristics at the stall were enhanced significantly and permitted resetting of the
+stickpusher operation within l to 2 knots of the stall speed.
+1.17.3 Wheel Master Button
+· 'The wheel master, button is located below the four-way trim switch on the left
+side of the pilot's control wheel. (See figure 1.) . In the Learjet model 25D, when
+depressed, it will, among ot_her .features, disconnect the autopilot and yaw damper, and
+interrupt any primary pitch trim.
+The yaw damper system is designed to prevent a coupled lateral-directional
+oscillation which is commonly referred ·to as a "dutch roll." Without the yaw damper
+operating, "dutch roll" can occur in the Learjet at altitude and high Mach number but is
+most severe in the landing c<>nf!guration.
+1.17.4 Overspeecl Warning Horn Cut-out Switch
+.. Nl25NE was equipped. with an overspeed warning horn -cut-out switch, an.
+unauthorized modification. (See figure 2.) The Northeast Jet Company reported the
+existence ·or the switch when a similiar one was located. under the pilot's instrument panel
+in the company's other Learjet 25D, N911MG.
+I) Ji,
+An operational ground check of the switch installation in N911MG using
+battery power· disclosed that when the switch was activated the maximum operating speed
+Vt'f!/Mmo• cabin altitude,.and landing gear warning horn was inhibited. The stall warning,
+s cK snaKer/pusher system, and stickpulle~ were· not affected because the switch was
+installed between the aural warning control box output and the horn. With the switch in
+the normal position (ON), signals from the aural warning control box would activate the
+horn. In the OFF position, the horn was inhibited.
+An aneroid type pressure switch is installed in the copilot's pitot-static system
+to activate the overspeed warning horn if the 306-KIAS limit is exceedeq between sea
+level .and 14,000 feet. The speed restriction was imposed because of the windshield bird
+strike criteria of 14 CFR 25. 775. 6/ The Learjet Model 23, the first model produced, was
+certificated on May 15, 1956,. in accordance with Part 3 of the Civil Air Regulations;
+windshield bird strike criteria were not required. As a result, the Learjet 23 was approved
+to cruise up to its maximum operating speed of 358 KIAS between sea level and FL 239
+without a structural speed restriction. Later Learjet models were certificated in
+accordance with FAR Part 25 and were required to meet the windshield bird strike
+criteria. A redesigned windshield was able to withstand the impact of a 4-pound bird at
+300 knots. The Learjet models 24 through 24E were limited to 306 KIAS between sea
+level and FL 310 and the Learjet model 24F and later models were restricted to 306 KIAS
+until passing 14,000 feet, and to 359 KIAS above 14,000 feet. This procedure was
+consistent with an earlier FAA dec_ision involving the certification of another. type of
+turbojet.
+§I The windshield panes .and supporting structure directly in front of the pilots must
+withstand, without penetration, the impact of a 4-pound bird when the velocity of the
+aircraft (relative to the bird along the aircraft's flightpath) is equal to the value of its
+cruise velocity at sea level.
+
+-15-
+Figure 1.--Wheel master button on pilot's control wheel.
+;( The microphone switch is located on the front side of the
+wheel, opposite the wheel master button•
+. \
+.r
+Figure 2.--The unauthorized overspeed warning horn
+cut-out switch is identified within the circle.
+
+-16-
+"·
+Shortly after the accident, the FAA issued a general notice alerting its field /
+offices of the unauthorized switch installation. A special airworthiness alert was issued
+later which alerted all air carrier and general a_viati<in operators of the unauthorized
+switch installation. The FAA expressed concern that all flightcrews and operators might
+not be aware of the existence of such a switch and that operators should have their
+aircraft inspected and have the switch removed, if installed.
+Northeast Jet Company did not disclose its reason for installing the overspeed
+warning cut-out switch.
+1.17.5 Gates Learjet Service News Letter
+Gates Learjet Se~vice News Letter 49, dated May 1980, and issued
+immediately after the accident, requested that operators review their emergency
+procedures regarding potential .overspeed conditions. The manufacturer specifically urged
+carefu,1 review of procedures relating to emergency descent, inadvertently exceeding
+Vm /Mmo' pitch aicjs malfunction, and normal or primary pitch trim system runaway.
+Regarding the overspeed condition, the letter states, in part:
+At. Mach No.'s in excess of M , aileron activity could be
+encountered, and this activity increases'1'ln amplitude as Mach No. is
+increased. This activity has been described as aileron "buzz" or aileron
+"snatch" and is a random frequency and amplitude movement of the
+'.
+ailerons and control wheel. Pulling "g's" in that regime <if flight
+)
+increases ·the aileron activity, so one must not pull abruptly on the '•
+elevator C!lntrol to slow the aircraft, but must• apply a steady force of
+the magnitude necessary to produce. as much "g" force as possible
+without losing roll control. Exceeding Vm in the lower Mach No.
+regjme produces higher recovery elevator cori'trol forces, but no aileron
+activity. Another phenomenon which occurs at Mach No.•s beyond the
+red line is "Mach Tuck." This phenomenon is cailsed by aft movement of
+the wing center of pressure and results in a nose-down pitching moment.
+The stick puller is provided as a device to · ensure no excursion beyond
+M • It should never be turned off during normal operation of the
+aiffi~aft. If, for any reason, there is a malfunction that requires turning
+off the stick puller, the aircraft should be operated at speeds well below
+Mm as prescribed in the applicable Flight Manual procedures. As in any
+airp?ane, speeds beyond the red line must. be avoided by maintaining the
+desired attitude with appropriate flight controls and by decreasing thrust
+while executing the prescribed Emergency Procedures.
+NOTE: iF. M IS INADVERTENTLY EXCEEDED TO THE POINT
+WHERE THE ~RPLANE SEEMS TO BE OUT OF CONTROL, LOWER
+THE LANDING GEAR. The landing gear doors may be lost or damaged,
+but the main concern is to facilitate recovery by using the extended gear
+to slow' the forward speed of the airplane •••..
+Spoilers
+The use of the spoilers is not prescribed in Pitch Axis Malfunction and
+Runaway Tfim Emergency Procedures. The reason is that the nose down
+pitch change which the spoilers produce may, aggravate pitch down
+problems.
+
+-17-
+Certification flight tests of the aircraft•~ high speed flight characteristics
+were conducted to determine compliance with the criteria set forth .in·FAR Part 25,253
+(February 1, 1965). In accordance with Advisory Circular (AC) 25.253-1, dated
+November 24, 1965, on high speed flight characteristic testing, as -a means of· compliance,
+only a 1.5 g recovery procedure is used.
+· 1.1'1.6 Speeial Certification Review of the Learjet
+As a result of _several other Learjet accidents. (see appendix F), the FAA
+undertook a special certification review (SCR). of the Learjet which addressed primarily
+several items suspected of being potential factors in the accidents. The following
+extracts of three specific problem areas discussed in the interim SCR report, were made
+available to the Safety Board on May 8, 1981:
+This interim report will generally establish that the' Learjet
+airplanes do possess certain critical flight characteristics, which
+require compensation l:>y complex systems to insure an e,dequate
+level of safety. Records review indicates that approval of these
+compensating -systems were based. on possible inadequate rules,
+extensive rationalization rather than actual demonstration of
+adequacy, early "state-of-the-art" . engineering judgment,
+equivalent safety determinations, and apparent inadequate system
+analysis. It appears that most of the reported problem areas
+involve a system(s) whose pr_oper functioning is critically required
+to provide an acceptable level of safety for the airplane; and these
+installed systems are possibly inadequate to perform their intended
+function. J_/
+1) High Spee_d Characteristics
+a. M (0.81) is limited by longitudinal stability
+ciMPacteristics.
+b. , Mach tuck (nose down pitch divergence caused ,by aft
+movement of center of pressure due to compressibility)
+begins prior to MMO.
+c. Gates Learjet states in. the Model 25 Type Inspection Report
+(TIR) that if a FAR 25.1505 8/ upset occurs at MMO' the
+aircraft will exceed MnF" Tins characteristic is the reason
+for the stick puller. n-the puller is inoperative, MMO is
+limited to 0.74 Indicated Mach Number.
+7/ As a result of the preliminary findings, the FAA issued· AD 9·0-1&-0& on August 4, 1980,
+which was superseded by AD 80-19-11 on September~. 1980. (See appendix G.)
+y
+Maximum Operating Limit Speed - "V /M must be established so that it is not
+greater than the design cruising speed V Wftld s!P?hat it is sufficiently below VD/MD or
+VDF/MDF• to make it highly improbabfe that the latter, speeds will be inadvertently
+..
+( exceedea in operations." V 0 /MD means design diving speed and v 0 F/MDF means
+'· demonstrated flight diving speed.
+'. ..
+
+-18-
+)
+d. Extension of the spoilers at high speed causes .a large nose
+down pitching moment. For the Lear 25 D/F Models, stick
+force required to hold airspeed with spoiler extension at VM O
+varies from 46 lbs. at aft e.g. to 84 lbs. at forward e.g.
+e. Aileron "buzz" onset occurs just above MM ; at higher Mach
+0
+numbers and/or higher load factors, aileron "snatch" (rapid,
+large deflection aileron motion) occurs. Loose' (misrigged)
+aileron cables could increase the amplitude and lower the
+onset Mach number, since the major factor which damps this
+motion is control system friction.
+f. The Mach overspeed Y/'&rning and stick puller systems operate
+only from the copilot's pitot-,static system. If an error in. the
+copilot's system results in a low Mach reading for any reason,
+the overspeed warning will occur beyond MMO"
+g. Dur_ing STC approvals on , three diff~rent aircraft (one
+Model 2,5D and two Model 35s), it was noted in• a dive to M
+with a separate trailing cone calibrated .static system tft'a1t
+the pilot's Machmeter stopped increasing at approximately
+0.80-.81 Mach number and remained at this reading out to a
+true Mach number of 0.86.
+On the recovery, the pilot's Mach indicator began
+working again at .805 Mach. Changing the Machmeter did )
+not eliminate this characteristic. The copilot's Machmeter
+indicated correctly on the Model 25D, but both Model
+35 copilot.s' Machmeters read less than the correct Mach
+number.
+The majority of the problem was traced to a production
+static system calibration error in a dive using a production
+indicator. This was not detected during original prototype
+testing with-a sensitive Machmeter and a trailin~ ~one.
+In addition, pert of the problem was possibly caused by the
+static sources not being flush with the surface after the
+airplanes were painted. The end' result of the airspeed
+problem was that the production airplanes were actually
+going .01 to .015 Mach· faster than expected.
+h. Lear 25 TIR data shows that the speed increase after an
+upset was less if the spoilers were not· used, because the
+heavy nose' down trim change made it harder to get the nose
+up to 1.5 g's for recovery. The AFM specifies spoiler
+deployment as the first action in an overspeed condition.
+If a pitch upset occurs near MM , the airplane can accelerate rapidly
+into a region where the flying q~ities are unacceptable. Consider, for
+example, any type of nose down pitch axis malfunction (such as trim
+runaway, pusher hardover, autopilot hardover, etc.).. In this case,
+
+-19-
+if the pilot restrains the control column, .t he pull force can go as high as
+50-60 lbs. (80 lbs • .for pusher malfunction.) Because of pilot reaction
+time (3 seconds according to 8110.10), 'E.f the speed will have increased
+beyond the limit Mach number. If the pilot follows the AFM procedure
+for overspeed and-deploys the spoilers (which_is instinctive), the required
+pull force will increase an additional 50-80 lbs. Also, because of the
+pitch instability due to. Mach tuck, the pull for_ce will continue to
+increase as speed increase~: Adding the maneuvering stick force
+required to pull 1.5 g, the total pilot force required for recovery can be
+as high as 150-200 lbs. ·
+The stick puller was instilled to prevent Mach overspeed, but in the
+event of a nose down pitch axis malfunction, and/or deployment of the
+spoilers, its 18 lb. pull becomes insignificant.
+At some Mach number beyond M , the elevator effectiveness will
+decrease due to shock wave for;;Pafion. Additionally, stretch in the
+longitudinal control system at very high control forces can negate any
+furthei;:. elevator 'deflection in the recovery direction.
+At the same, time these extreme pitch forces are being generated, the
+pilot can h!lve a severe roll control problem due to aileron "buzz" and
+"snatch." An active pitch axis malfunction is not required for this
+scenario to take place. A passive failure on the ground to the 0.81 Mach
+warning/puller switch allows the system to test properly on preflight, yet
+be totally inoperative. , In this case, an inadvertent overspeed due to gust
+upset, unannunciated autopilot softover, pitot static system error, pilot
+inattention, fuel bumoff, flying into a colder airmass, etc., can put the
+airplane into an overspeed condition wit~_no warning. ·
+If, after the pilot notices the overspeed, he deploys the spoilers, or if
+aileron "snatch" rolls the airplane to an excessive bank angle, it may
+become impossible to recover.
+2) Pitch-Trim System
+a. The control wheel primary pitch tr_im interrupt switch
+installed on the control wheel of all 3.0 series and Century m
+20 series Learjets is not a quick-disconnect switch as inferred
+in almost all Learjet TIRs and design documents. The-pitch
+trim interrupt switch must be held until the pitch trim
+selector/disengage switch is turned off. None of the control
+wheel switches, with the exception of pitch trim and lateral
+trim, are labeled as to their function. Because of these
+differences from model to model, different emergency
+procedures are 'applicable. In the event of an actual pitch,
+axis malfunction, the pilot cannot always immediately
+determine the cause of the malfunctions since it could. be
+caused by any of the following: stick pusher, stick puller,
+autopilot, secondary pitch trim or primary pitch trim. In
+addition, no single action by the pilot can immediately
+<g FAA_Notic~ of September 22, 1972 concerning trim malfunctions.
+
+-20-
+)
+eliminate all pitch axis faults. In order to totally i1;1olate all
+potential pitch axis faults, the pitch trim selector must be
+turned off, the autopilot turned off, both stall warnings
+turned off, and the AFCS pitch circuit breaker pulled.
+3) Autopilot AFC/SS Characteristics
+a. On the 45,000 foot Model 24E/F and 25D/F autopilot
+malfunctions were conducted at low altitudes only with
+maximum specification torques on all axes. Autopilot
+performance was demonstrated at low altitudes only with
+minimum servo torques. No autopilot pitch trim runaways
+were conducted.
+b. On the 51,000 foot Model 24E/F and 25D/F autopilot
+functional tests were conducted at 51,000 ft utilizing
+minimum specification torques on all axes. Malfunction tests
+were 11ot conducted, but instead were "rationalized" from
+data obfained at 41,000 to 45,000 ft on various straight wing
+models of the 24, 25, and 36.
+c. FAA Review Case No. 57 (dated September 16, 1965) on the
+DC-8, on which the Learjet 24/25 AFC/SS (Mach trim)
+system was patterned, required the following specific_ items
+to be added to the existing DC-8 autopilot before it could be
+)
+used as a stability device: · .
+o Aural warning upon any autopilot disconnect in the
+. clean configµration.
+o Adding the autopilot disconnect light to the master
+warning light.
+o Restriction of the airplane nose-down pitch command
+authority of the autopilot to approximately 10°
+(degrees).
+o Addition of a stabilizer'-in-motion aural warning.
+The items in subparagraph c were not required on the Learjet AFC/SS.
+d. The Mach trim function of the FC-110 AFC/SS as originally
+evaluated on the Model 24, required a stick force-disengage
+function on the· pitch axi~ to "preclude any out-of-trim
+problems." During required collision avoidance maneuvers,
+the Mach trim function was automatically disengaged with
+6 lb. stick force. This force disengage function is included on
+all Model 24 and 25 AFC/SS systems. The function was,
+however,. deleted on the Model 35/36 and 28/29· models where
+an independent Mach trim unit is provided.
+)
+
+-21-
+,
+! I ' 2. ANALYSIS
+2.1 The Flightcrew
+The flightcrew was certificated and qualified to operate the aircraq. The
+pilot, an experienced Learjet captain, occupied _the right seat. The copilot, who occupied
+the left seat, was not rated in the Learjet and had limited flight time in this aircraft. It
+is believed that the copilot was flying the aircraft when a loss of' control occurred. There
+was no evidence of previous 'medical' problems of either. pilot which would have had an
+effect on the accident.
+2.2 Aircraft Airworthiness
+The unavailability of the entire wreckage and most of the maintenance records
+for examination precluded the Safety Board from making a total assessment of the
+aircraft's airworthiness at the time of the accident. According to Northeast Jet, the
+pr11vio~ discrepancy concerning the right engine oil pressure had been cor_rected. The
+December, 26, 1979, remark, "stick puller goes off at Mach •7 9 on captain's a/s indicators,"
+infers that the indicator W!IS f!lulty because the Mach overspeed warning and stick pul).er
+system operates,,from the sensing switch (Mach switch) in the copilot's pitot-static
+system. .The inference is somewhat supported by the May 29, 1979, remark· that the _
+copilot's indicator was believed more accurate than the pilot's, which read 0.02 Mach
+lower. The difference between the indicators was within tolerance; however, the pilot's
+indicator would have been 0.01 Mach out of tolerance with respect to the actuation of the
+stick puller if it operated at the prescribed speed of 0.82M . -Assuming the existence of a
+0.02 Mach difference between indicators, the copilot's indfcator would have been reading
+0.8i.M when the puller activated, and this indication was also within tolerance. The
+1
+Safety Board could not conclude with certainty, however, that the copilot's . Mach
+· indicator was accurate based entirely on the actuation of the puller because it was not
+known if the Mach switch setting was within tolerances. Erroneously low airspeed
+indications could have, been a critical factor in the accident because the aircraft would
+have b~ri nearer its Mach buffet boundary and would have had less margin for
+maneuvering. The low airspeed indications were noted as an item of concern in the SCR
+interim report.
+The inoper!ltive cabin .altitude test horn reported in August 1979 may have
+been due, in part, to the installation of· the overspeed warning cut-out switch. However,
+the Safety Board was not able to verify that possibility.
+According to Northeast Jet, the left aileron cable had been replaced 13 days
+before the accident. · Proper maintenance of the aileron system is a critical item in the
+. Learjet because, as noted in the SCR interim report, control .system friction is a major
+_factor in damping initial Mach buffeting of the control surfaces.
+Because the Learjet has characteristics which could lead to critical control
+problems in the high Mach regime of flight and which · might not be recognized by the
+inadequately trained or unwary pilot, complex compensating features were incorporated
+into the flight control system ·to comply with current Federal aviation regulations and to
+provide an appropriate level of safety. In view of the integral nature of the compensating
+features in the aircraft, an unauthorized modification, such as ·an overspeed warning horn
+cut-out switch, could be· detrimental to safety. The switch also would have inhibited the
+cabin altitude and landing gear warning- horns. This unauthorized modification, therefore,
+could have insidious consequences. In some earlier Model 24 Learjets, pilots were
+required, according to AFM limitations, to maintain 306 KIAS between 10,000 feet and
+FL 310, and in some later Model 24 Learjets, pilots were required to slow to 306' KIAS at
+
+-22-
+14,000 feet during a descent to avoid actuation of the overspeed warning horn. The )
+Learjet Model 25D was exempt from the 306 KIAS speed restriction above 14,000 feet,
+but the use of the cut-out switch would, have permitted .abuse of the speed restriction
+below 14,000 feet, during climbouts and descents, without activation of overspeed warning
+horn. Because the overspeed warning also provides a vital safety function at high Mach
+numbers, the Safety Board concludes that installation and use of the cut-out switch made
+the accident aircraft unairworthy.
+A preflight test of the other Northeast Jet Company Learjet disclosed that the
+cut-out switch did not affect the operation of the stick puller system. Based on the test
+and statements made by company personnel, the Safety Board concludes that the cut-out
+switch also would not have affected the operation of the stick puller in N125NE.
+2.3 LClllS of Control
+Recorded comments of the flightcrew on the ATC tape indicated that control
+of the aircraft was lost shortly after it was leveled at FL, 430. The limited portions of the
+recovered wreckage prevented determining whether the aircraft was intact when it struck
+the water. Alth9ugh no ·firm conclusions could be made regarding the aircraft's attitude
+at impact, the' nature of the, damage suggested that the impact was severe. The
+separations of the wing attachment fittings indicated that the right wing rotated aft and
+the left wing rotated forward at breakup. . The top crown skin and the sidewall skin
+attached to the baggage floor were concaved which suggested that the aircraft struck the
+water inverted. However, diagonal buckles on the left side wall.skin which extended from
+below the baggage floor at frame_ 21 to near the top of frame 19, suggested that the
+aircraft may have struck the water with empennage first, in an upright, nose-high ·)·
+attitude. The elongation of the right wing tip tank nose section fastener holes indicated
+that it separated in an upward direction.
+Since the complete wreckage was not available for examination, the Safety
+Board considered several possibilities which could have caused the loss of control of the
+aircraft, based on the knowledge gained from previous Learjet investigations, the FAA's
+SCR interim report, ATC radar and tape of communications, meteorological data, and
+information from other pilots who were in the vicinity when the accident occurred. The
+Safety Board identified the following areas for evaluation:
+o Flight characteristics
+o Flight-control system and compensating features
+o Engine performance
+o Turbulence
+o Pilots' actions
+Flight Characteristics.--The flight characteristics which most probably
+contributed to the accident were the speed instability due to "Mach Tuck"; the minimal
+speed margin between MMO and MDR' resulting in the requirement for a stick puller; the
+high nosedown pitching moment with spoiler extension at high speed; the aileron
+"buzz/snatch" phenomenon which occurs slightly above MMO and which is aggravated with
+increased speed and load factor; and the decreased elevar-or effectiveness due to shock
+wave formation at Mach numbers beyond MDF'
+Flight Control Sfistem and Comp~sating Features;--With regard to the flight
+)
+control system, control diflculty was considered because of the malfunction history of
+
+-23- ,
+,(, the electromagnetic clutches. ·However, because·the accident aircraft was equipped wit.h
+improved d.c. torquer clutches, the Safety Board concludes that a malfunction in this unit
+was not likely.
+The possibility of a transistor failure in the autopilot c,omputer which could
+have caused a trim runaway in either the noseup or nosedown direction and flight control
+difficulty was considered because'it is not known whether the aircraft was equipped with
+the Delco or ·non-Delco germanium transistors. · According to Gates Learjet, Delco
+transistors are more resistant to thermal runaway failures than germanium transistors
+built by other manufacturers; also, the transistors on the accident aircraft were likely to
+have been non-Delco. Their reliability, therefore, is questionable. However, in
+consideration of a transistor failure, ·a failure eould cause a runaway trim in either the
+noseup or nosedown direc_tion. The eontrol wheel pressure needed to compensate for
+runaway trim condition could have been low or high (10 to 80 pounds) depending ori when
+the pitch trim .'monitor may have diseonneeted the autopilot.· The Safety Board eannot
+rule out the possibility of a failure or malfunetion of an autopilot computer transistor;
+however, when eonsidered with.all the available.evidence, we believe that a failure or
+malfunction of a transitor not likely. ·
+W(IS
+Engine Perfortnanee.--Engine flameout leading to a loss of eontrol was also
+reviewed. . The serviee history diselosed that engine flameout primarily concerned the
+CJ610-6 engine and not the -BA engine whieh has an improved compressor stall margin.
+Also, there was no evidence on ,the AT C tape indieating that the flightcrew was
+eonfronted with an engine power loss, and loss of thrust would not have eaused or
+neeessarily ha:vEHiontributed·to either a low speed or high spe.ed loss of,eontrol situation•
+.f -7 Therefore, the Safety Board coneludes that it is not likely that an engine flameout caused
+i the loss of control.
+X'\ _\
+Turbulence.--The Safety Board's ·examination of the weather conditions
+showed no active thunderstorms in the immediate vieinity where the aircraft departed its
+flight level. The wind in the vicinity would have been ,from 270° at 50 knots (+10° and 5
+knots), and the temperature would have been -59° C (+2°). This temperature corresponds
+almost exactly with the· corrected ram air temperature reported by the crew of N51J.
+Based on.the soundings whieh indicated the ,existenee of a shallow temperature inversion
+layer,. an upper front was present. Sueh a frontal system is known to be condueive to the
+formation of clear air turbulence. Since the NWS defines a horizontal wind shear of 40
+knots over 150 miles as il severe clear air turbulenee condition, the Safety Board
+concludes that moderate to severe clear air turbulence existed at FL 430 in the vicinity of
+the Covia Intersection when the aceident aircraft entered the area.
+The pilot's report from Learjet N51J, minutes after the accident, and his
+subsequent statements further eonfirm the existenee of clear air turbulence. The Safety
+Board believes that the accident aircraft encountered essentially the same phef!omenon as
+described by the pilot of N51J, and we eonclude that this ph~nomenon initiated the
+accident sequence of events. Furthermore, the flight characteristies of the aircraft, and
+the actions of the erew in response to the encounter led to the loss of control from which
+the flightcrew was not able to reeover. ·
+An adequate range usually exists -at all altitu~es and weight conditions
+between the onset of high-speed buffet and low speed buffet, or the speed at whieh the
+-,- stickshaker'would activate in 1-g flight. Increased load factors caused by manuevering,
+(.
+sueh as pull-ups or level banked turns, however, reduce the buffet-free speed range. The
+,. .. .. aircraft's operational envelope, therefore, becomes restricted under conditions of high·
+~ :..
+
+. -24-
+altitude flight because of the buffet boundary limitations. This narrow area of operation )
+is commonly referred to as "coffin corner." For these reasons, the buffet boundaries of an
+aircraft become extremely important to a pilot since they dictate the limiting margins
+within which the aircraft can be operated safely. · A sharp, unexpected turbulence
+encounter can easily cause an aircraft to exceed these margins.
+Since the aircraft was operating in a relatively narrow area of its flight
+envelope, the Safety Board considered the possibilities of a loss of control from transient
+conditions which might have placed the aircraft either below its low speed buffet
+boundary or above its high speed buffet boundary. The aircraft's 1-g_ low speed buffet
+boundary was 0.57M and its 1-g high speed boundary was about 0.82M ,-a 0.25 ,M margin
+1 1 1
+equating to about 78 knots. A load factor increase of about 1.5 g's would have reduced
+the margin to between 30 and 40 knots. However, an adequate margin appears to have
+existed. ·
+Pilots' Actions.--According to the ATC tape of communications, the first
+indication of difficulty began at 1203:40.1 (appendix E) with a short burst of static
+associated with a keyed microphone. The sound came from the accident aircraft since it
+compared with the transmitter key's signature from previous transmissions. Also,
+according to the probable radar ground track' plot, the first sign of significant flightpath
+deviation occurred about 1203:41, coincident with the keyed microphone sound, when the
+aircraft began turning to the right and descending from FL 431.
+Eight seconds after the burst of static, the calculated speed of the aircraft
+was Mach 0.81, a 0.04 Mach increase over that which the aircraft had been averaging
+..,.;
+about 4 seconds earlier. At 1203:56.7 (appendix E), the unusual staccato sound occurred.
+The Safety Board believes that the staccato sound was transmitted when the copilot keyed .J·, .
+the microphone inadvertently because of his firm grip on the _control wheel. It was noted
+that the signal level between the low frequency beats did not drop to the normal quiescent
+voltage level, but remained at the same value u,ntil the next frequency cycle began. The
+evidence supports the contention that the copilot had keyed the microphone continuously,
+which resulted in the inadvertent transmissions. Immediately after the cessation of the
+staccato sound, at 1204:00.7, the pilot stated, "put-out the spoilers." His statement
+sounded weak, as if it was in the background, possibly due to his statements being
+amplified through the copilot's headset microphone. At 1204:13.3, 12.6 seconds later, the
+copilot stated, "Can't get it up ••. its in a spin;" Four seconds later, the aircraft made
+about-a 90° deviation to the left in its ground track.
+Bas~d on information from the closest radar ·site, Cross City, .the aircraft's
+calculated rate of •descent at 1203:46 was about 4,000 feet per minute. The evidence
+indicates that the aircraft began to descend rapidly, and its speed began to increase
+shortly (8 to 10 seconds) before the first staccato• sounds were recorded. The high rate of
+descent is further supported by the radar returns which were progressively closer together
+a
+during the final 30 seconds of radar contact. The returns support conclusion that the
+aircraft was diving at high speed and at a progressively steeper angle. The speed of the
+aircraft and the short radius of the 90° left deviation in its ground track indicates that the
+aircraft could not have made either a steady coordinated turn or a turn resulting_ from a
+loss of control from its low speed buffet boundary to arrive at' the location of the last
+radar return at 1204:29. Therefore, the Safety Board concludes that , the weight. of
+evidence indicates t_hat the aircraft made a high speed descent from FL 431.
+J
+The Safety Board's evaluation of the staccato sound disclosed. a heavy beat
+frequnuedncviY_borfat1_8ntso 19f Htzh.e Eail~teernosnivse attesttsheb_yr thneataiu·rralcraff t muaennufc acpturorderucalsedo ashofwreeqduetnhcayt
+gr0 10 0 1 reg y · 0
+
+-25-
+of 19 Hz when recorded through the radio in the cockpit. The vibrations produced by
+aileron buffet could be felt throughout the entire aircraft, Recording of the stickshaker
+a
+with or without the use of the aircraft radio as -medium, produced 'essentially the same
+frequencies, but the shaker vibration cannot be felt throughout the aircraft. Therefore,
+the Safc:ity Board concludes that the staccato sound probably 'was associated with aileron
+buffeting at high Mach num~ers and that this buffeting was transmitted through the
+airframe and through the open radio transmitter which resulted in the recorded frequency
+,of 18 to 19 Hz, rather than the natural frequency of 11 Hz. ·
+Because the flightcrew was not alerted to the possibility of encountering clear
+air turbulence in the weather briefing, the altitude hold mode of the autopilot was
+probably engaged when the aircraft penetrated the turbulence near the Covia
+Intersection. According to the, AFM, the fl_ightcrew should ~ave had· this f.eature
+disengaged during penetration of known turbulence to prevent the possibility of a mistrim
+condition. ·
+In 'a sudden upset, a pilot would reactively grab the control wheel in an
+attempt to maintain control of the aircraft. Under these circumstances, it would have
+been easy for· th_e copilot to inadvertently key the microphone. Further, with the copilot
+holding the control wheel·, the turbulence could have caused the 'force sensor to disconnect
+the altitude and heading hold functions of the autopilot, or he could have easily
+disengaged the pitch trim function with 6 to 8 pounds ·or force applied to .the control
+column. Either type of disengagement would not have been readily apparent to the
+flightcrew because there are no associated artifical warnings. As a result, the copilot
+could have been confronted with a mistrim condition and a need to exert a ·significant
+amount of pull force to maintain level0flight because of the possible nosedown. trim the
+autopilot may have used to counteract the increased airspeed caused by the turbulence.
+1·_·_·c
+\
+The necessary pull force would have continued to increase with an increase in speed
+""C..:: because of the "Mach Tuck" tendency. Additionally, since the wheel master button was
+inside the copilot's left hand grip, opposite the microphone switch, it is probable ·that he
+could have accidentally disengaged the autopilot and yaw damper. The absence of these
+critical items under these conditions would have significantly contributed to the copilot's
+difficulty in controlling the aircraft.
+The lack of the Mach overspeed warning sound on. the ATC tape probably
+was
+indicates that the warning horn disabled because of the cut-out switch. Not until
+20.4 seconds after 'the burst of static is ,there recorded-evidence that the flightcrew took
+action to correct the overspeed condition when the pilot gave the command to use the
+spoilers. However, his statement was made 12. seconds after the aircraft had already
+reache.d 0.81M : Considering the computed rate of the aircraft's speed increase, the.
+1
+aircraft probal>ly had substantially exceeded M before the spoilers were extended.
+Consequently,· extension of the spoilers would h;N~ further aggravated the situation by
+significantly increasing the pull force needed to restore the aircraft to level flight.
+The stick puller should have functioned once the overspeed occurred.
+However, since it exerts a relatively light force of 18 pounds against the COl!trol column,
+its operation could have been easily overcome and could have gone unrecognized by the
+flightcrew, particularly if the copilot had abruptly pushed forward on the control wheel in
+response to any pitchup caused by the turbulence. The lack of an overspeed warning,
+system would have contributed to such a reaction and to the flightcrew's failure to
+recognize that the stick puller was functioning.
+
+-26-
+It is not known whether the crew was aware that the cut-out ·switch was on. )
+According to the company, the pilot was aware of the switch installation, and its position
+before- the. flight could have been determined by following the preflight checklist.
+Therefore, since it would not have been easy to inadvertently move the switch to the ON
+position, because of its position underneath the instrument panel, it is l?elieved that the
+crew should have been aware of the, position of the switch. Nevertheless, the turbulence
+encounter was sudden and unexpected, and the Mach warning would have been essential in
+alerting the crew to the overspeed condition ·before the overspeed• limit .was substantially
+exceeded. ·
+Since the aircraft's reactions would have appeared very similar in either a
+turbulence encounter or a control malfunction occurrence, the upset could have .been
+perceived as a control malfim~tion. The pilot's statement at 1204:23.6, (appendix E) "pull
+the circuit breaker," supports this possibility. It is believed that the pilot was referring to
+the AFC/SS circuit breaker which must be pulled to insure that all pitch trim operation is
+stopped--.a prescribed emergency procedure. This possible inaccurate perception of the
+sudden upset also could have delayed the crew's correct response to the upset.
+.
+'
+The copilot was military trained with experience in turbojet fighter and attack
+mission aircraft and would have been accustomed to abrupt control movements and high
+"g'' maneuvers. Consequently, since he lacked experience in the Learjet, the copilot may
+have been more aggressive in his, response to the upset and to a nosedown high speed
+departure. As indicated in the FAA's SCR report and Gates Learjet Service Letter 49, if
+an overspeed condition occurs, aileron "buzz" would be the first indication of encountering
+a high speed Mach buffet condition. The letter further states, "Ptilling "g's" in that
+regime of flight increases the aileron activity, so one must not pull abruptly on the
+elevator control to slow the airplane but must apply a steady force of the magnitude
+necessary to produce as much "g" force as possible without losing roll control." During
+certification flight tests, this recovery "g'' force was limited to 1.5 g's. The· ailerons in
+the Learjet are sensitive to buff etiilg at speeds beyond M and increased "g" loads.
+Therefore, it is conceivable that the copilot could have illHl·eased the onset and the
+intensity of Mach buffet by exerting more than 1.5 g's on the aircraft. Consequently, his
+attempts to recover the aircraft by pulling on the control wheel probably resulted in a loss
+of roll con_trol. The Safety Board concludes that the copilot's comment, "Can't get it
+up ...i ts in a spin," indicates that he was attempting to pull on the control wheel to recover
+the aircraft but that it was in an uncoordinated roll manuever from which a recovery may
+not have been possible. .
+Action by the pilot to deploy the spoilers could have been a natural'reaction to
+an overspeed since he had been trained initially to use such a procedure in the Learjet
+Model 24, and the early Model 24 AFMs specified the use of spoilers in an overspeed
+situation. However, the procedures for the Model 25D/F _AFM do not provide for the use
+of spoilers in, this situation, but require the reduction of thrust, leveling of the wings, and
+a slight positive "g" recovery.
+The ability of one flightcrew to recover from the turbulence upset and the
+failure· of another flightcrew to recover may be due to differences in the severity of the
+turbulence encountered; differences, such as the rigging of the flight controls, between
+the two aircraft; or to the attentiveness of the 'flightcrews. . and their perception of the
+upset. The pilot of N51J made an immediate thrust reduction, did not di11engage the
+autopilot or yaw damper, and did not deploy the spoilers. It is believed that, the primary )
+reasons for the accident flightcrew's failure to recover were the lack of a timely thrust ·. \ ·
+reduction, an inadvertent disengagement of the autopilot and yaw damper, and an inability
+to counteract the significant nosedown pitch forces caused by deployment of the spoilers.
+
+-27-
+·Further, it is our opinion that. the inconsistencies regarding the use of spoilers in training
+( (
+for an overspeed condition may·have been·responsible for the different response to the
+\,_\
+ups.et.
+More emphasis should be placed in training on turbulence upset procedures.
+Since this type of training may not be practical in· the aircraft, it could be effectively
+accomplished in a simulator; The tr/lining should.instill in a Learjet flightcrew a greater
+appreciation for. how quickly the aircraft can exceed its operating envelope, apd how
+quickly they must respond correctly to insure a successful recovery. It should also teach a
+0
+crew .how to recognize and avoid situations which may lead to a loss of control. ·
+The Safety Board recognizes that in a high altitude environment a pilot might
+make oitly a small .reduction in thrust because of its affect on cabin pressurization.
+However, considering the, marginal controllability characteristics of the aircraft at speeds
+beyond Mm and the marginal "g" limits allowed for recovery, a pilot is ·confronted with a
+very crUicl8 situation and thrust must be reduced imm,ediately to recover .the air(lraft.
+The Safety Bo~d investigated three accidents in which the ·overspeed warning
+horn was heard before the loss of control occurred. (See appendix F .) In at least two of
+the accidents, and possibly the· third, the spoilers were used in an unsuccessful attempt to
+decelerate the aircraft. In all three accidents, deployment of the spoilers probably would
+have aggravated the situations and prevented recovery of the aircraft.
+The Safety Board is aware of the FAA's efforts in response to our previous
+recommendations to review the certification of the aircraft and of its recent issue of
+Airworthiness Directive 81-16-08 to correct some of the high altitude, high speed control
+deficiencies. We are also aware of· the SCR -team's recommendation that the spoiler
+system be redesigned to reduce ·the,nosedown pitching moment so that deployment of the .
+spoilers at vM /M will not requil'.e more than 50 pounds of control force· to counter.
+0
+Earlier this year, ~ recommendation was considered resolved with the required pitch
+axis modifications and the changes in the AFM and training procedures. However, the
+Safety Board believes that changes in the AFM and training procedures· will not
+necessarily remedy this potential problem as evidenced by the events in this accident.
+Currently, the spoiler system is used primarily as a speed brake and not necessarily a
+spoiler. Also, the aircraft's emergency descent performance is dependent upon the use of
+the spoiler as a drag device. It is apparent that a thorough retraining exercise must be
+conducted to insure that pilots do not use .the spoilers at an inappropriate time. . In
+response to a Safety Board recommendation, the FAA stated that it had established a
+team to "review the adequacy and effectiveness of Learjet crew training." 10/ As of this
+date, we have not received any information about its progress. Ther·etore, we encourage
+the FAA to take immediate action to expedite its review of training to resolve this
+potential problem.

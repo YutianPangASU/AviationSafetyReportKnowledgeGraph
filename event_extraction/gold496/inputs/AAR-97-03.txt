@@ -1,0 +1,2649 @@
+PB97-910403
+NTSB/AAR-97/03
+NYC97MA005
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+DESCENT BELOW VISUAL GLIDEPATH
+AND COLLISION WITH TERRAIN
+DELTA AIR LINES FLIGHT 554
+MCDONNELL DOUGLAS MD-88, N914DL
+LAGUARDIA AIRPORT, NEW YORK
+OCTOBER 19, 1996
+6785B
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety
+Board makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)382-6735
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSB/AAR-97/03 PB97-910403
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+DESCENT BELOW VISUAL GLIDEPATH
+AND COLLISION WITH TERRAIN
+DELTA AIR LINES FLIGHT 554
+MCDONNELL DOUGLAS MD-88, N914DL
+LAGUARDIA AIRPORT, NEW YORK
+OCTOBER 19, 1996
+Adopted: August 25, 1997
+Notation 6785B
+Abstract: This report explains the descent below visual glidepath and collision with terrain of
+Delta Air Lines flight 554 at LaGuardia Airport on October 19, 1996. The safety issues in this
+report focused on the possible hazards of monovision contact lenses, visual illusions encountered
+during the approach, non-instantaneous vertical speed information, the weather conditions
+encountered during the approach, the guidance in air carrier’s manuals regarding flightcrew
+member duties, the stabilized approach criteria in air carrier’s manuals, emergency evacuation
+procedures, special airport criteria and designation, and LaGuardia Airport issues/runwaylight
+spacing. Safety recommendations concerning these issues were addressed to the Federal
+Aviation Administration and to optometric associations.
+
+
+
+EXECUTIVE SUMMARY.........................................................................................................vii
+1. FACTUAL INFORMATION..................................................................................................1
+1.1 History of Flight...................................................................................................................1
+1.2 Injuries to Persons................................................................................................................8
+1.3 Damage to Airplane..............................................................................................................8
+1.4 Other Damage.......................................................................................................................8
+1.5 Personnel Information..........................................................................................................8
+1.5.1 The Captain..................................................................................................................9
+1.5.2 The First Officer.........................................................................................................10
+1.5.3 Flight Attendants........................................................................................................10
+1.6 Aircraft Information............................................................................................................11
+1.6.1 General........................................................................................................................11
+1.6.2 Vertical Speed Information.........................................................................................11
+1.7 Meteorological Information................................................................................................11
+1.7.1 Weather Information Provided to the Flightcrew by Delta........................................12
+1.7.2 Runway Visual Range (RVR) Values.......................................................................113
+1.7.3 Windshear Information/Low Level Windshear Alert System (LLWAS).................113
+1.8 Aids to Navigation..............................................................................................................15
+1.9 Communications.................................................................................................................15
+1.10 Airport Information..........................................................................................................15
+1.10.1 Runway 13 Information...........................................................................................17
+1.10.1.1 Runway 13 Runway Lights/Spacing.................................................................17
+1.10.1.2 Runway 13 RVR Information...........................................................................18
+1.10.1.3 Runway 13 VASI Information..........................................................................19
+1.11 Flight Recorders...............................................................................................................20
+1.11.1 CVR..........................................................................................................................20
+1.11.2 FDR...........................................................................................................................20
+iii
+
+1.11.2.1 FDR Information on Windshear........................................................................22
+1.12 Wreckage and Impact Information...................................................................................23
+1.13 Medical and Pathological Information.............................................................................24
+1.14 Fire....................................................................................................................................24
+1.15 Survival Aspects...............................................................................................................24
+1.15.1 Evacuation-related Information From CVR Transcript............................................26
+1.15.2 Crewmember Responsibilities During an Emergency Evacuation...........................27
+1.15.2.1 Flightcrew Duties During an Emergency Evacuation.......................................27
+1.15.2.2 Flight Attendant Duties During an Emergency Evacuation..............................28
+1.15.3 Flight Attendant Actions/Decisionmaking During the Evacuation..........................29
+1.15.3.1 Flight Attendant in Charge................................................................................29
+1.15.3.2 Second Flight Attendant....................................................................................30
+1.15.3.3 Third Flight Attendant.......................................................................................31
+1.15.4 Delta Flight Attendant Training................................................................................31
+1.15.5 Previous Safety Board Recommendation—Flight Attendants’ Actions...................31
+1.16 Tests and Research...........................................................................................................32
+1.17 Company/Flight Operations Information..........................................................................32
+1.17.1 Delta’s Procedures and Guidance Regarding Flightcrew Responsibilities During
+CAT I ILS Approach to Land..............................................................................................32
+1.17.1.1 First Officer’s Actions During Approach to Land............................................36
+1.17.1.2 Delta’s Postaccident Actions Regarding PF/PNF Duties..................................36
+1.17.2 Stabilized Approach Criteria.....................................................................................37
+1.17.2.1 Previous Safety Board/FAA Actions Regarding Stabilized Approaches..........39
+1.17.2.2 Delta’s Actions Regarding Stabilized Approaches...........................................41
+1.17.3 Crew Resource Management (CRM) Training........................................................42
+1.18 Additional Information....................................................................................................43
+1.18.1 FAA Oversight of Airman Medical Certification (Vision)......................................43
+iv
+
+1.18.1.1 Vision Requirements for Certification..............................................................44
+1.18.1.2 Information/Guidance Available to AMEs and Optometrists...........................46
+1.18.2 Information on Monovision (MV) Contact Lenses..................................................47
+1.18.2.1 The Captain’s Use of Monovision Contact Lenses...........................................48
+1.18.2.2 Captain’s Postaccident Vision Test Results......................................................49
+1.18.2.3 General Aviation Accident Involving Monovision Contact Lenses..................50
+1.18.2.4 Postaccident Delta Air Lines Actions Regarding MV Contact Lenses.............51
+1.18.3 Information on Visual Cues/Illusions.......................................................................51
+1.18.4 Information Regarding Special Airports...................................................................52
+1.18.4.1 FAA Information Regarding Special Airports..................................................52
+1.18.4.2 Delta’s Information Regarding Special Airports...............................................54
+2. ANALYSIS..............................................................................................................................55
+2.1 General................................................................................................................................55
+2.2 The Accident Scenario........................................................................................................56
+2.2.1 The Approach and Descent.........................................................................................56
+2.2.2 The Landing................................................................................................................58
+2.3 Delta’s Flightcrew Procedures............................................................................................60
+2.4 Availability of Information About the Hazards of Monovision Contact Lenses................61
+2.5 Non-Instantaneous Vertical Speed Indicator (VSI)............................................................62
+2.6 Special Airport Designation...............................................................................................63
+2.7 Flight and Cabin Crew Evacuation Actions.......................................................................64
+2.8 CRM Issues.........................................................................................................................65
+2.9 Other LaGuardia Airport Issues..........................................................................................66
+3. CONCLUSIONS....................................................................................................................67
+3.1 Findings..............................................................................................................................67
+3.2 Probable Cause...................................................................................................................70
+v
+
+4. RECOMMENDATIONS.......................................................................................................71
+5. APPENDIXES........................................................................................................................75
+APPENDIX A—INVESTIGATION AND HEARING............................................................75
+APPENDIX B—COCKPIT VOICE RECORDER TRANSCRIPT.......................................76
+APPENDIX C—EXCERPT FROM FDR REPORT.............................................................127
+APPENDIX D—MEDICAL/VISION INFORMATION.......................................................128
+APPENDIX E—WEATHER INFORMATION.....................................................................148
+vi
+
+EXECUTIVE SUMMARY
+About 1638 eastern daylight time, on October 19, 1996, a McDonnell Douglas
+MD-88, N914DL, operated by Delta Air Lines, Inc., as flight 554, struck the approach light
+structure and the end of the runway deck during the approach to land on runway 13 at the
+LaGuardia Airport, in Flushing, New York. Flight 554 was being operated under the provisions
+of 14 CFR Part 121, as a scheduled, domestic passenger flight from Atlanta, Georgia, to
+Flushing. The flight departed the William B. Hartsfield International Airport at Atlanta, Georgia,
+about 1441, with two flightcrew members, three flight attendants, and 58 passengers on board.
+Three passengers reported minor injuries; no injuries were reported by the remaining 60
+occupants. The airplane sustained substantial damage to the lower fuselage, wings (including
+slats and flaps), main landing gear, and both engines. Instrument meteorological conditions
+prevailed for the approach to runway 13; flight 554 was operating on an instrument flight rules
+flight plan.
+The National Transportation Safety Board determines that the probable cause of
+this accident was the inability of the captain, because of his use of monovision contact lenses, to
+overcome his misperception of the airplane’s position relative to the runway during the visual
+portion of the approach. This misperception occurred because of visual illusions produced by the
+approach over water in limited light conditions, the absence of visible ground features, the rain
+and fog, and the irregular spacing of the runway lights.
+Contributing to the accident was the lack of instantaneous vertical speed
+information available to the pilot not flying, and the incomplete guidance available to
+optometrists, aviation medical examiners, and pilots regarding the prescription of unapproved
+monovision contact lenses for use by pilots.
+The safety issues in this report focused on the possible hazards of monovision
+contact lenses, visual illusions encountered during the approach, non-instantaneous vertical speed
+information, the weather conditions encountered during the approach, the guidance in air
+carrier’s manuals regarding flightcrew member duties, the stabilized approach criteria in air
+carrier’s manuals, emergency evacuation procedures, special airport criteria and designation, and
+LaGuardia Airport issues/runway light spacing.
+Safety recommendations concerning these issues were addressed to the Federal
+Aviation Administration and to optometric associations.
+vii
+
+
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+DESCENT BELOW VISUAL GLIDEPATH AND COLLISION WITH TERRAIN
+DELTA AIR LINES FLIGHT 554
+MCDONNELL DOUGLAS MD-88, N914DL
+LAGUARDIA AIRPORT, NEW YORK
+OCTOBER 19, 1996
+1. FACTUAL INFORMATION
+1.1 History of Flight
+About 1638 eastern daylight time,1 on October 19, 1996, a McDonnell Douglas
+MD-88, N914DL, operated by Delta Air Lines, Inc., as flight 554, struck the approach light
+structure and the end of the runway deck during the approach to land on runway 13 at the
+LaGuardia Airport (LGA), in Flushing, New York. Flight 554 was being operated under the
+provisions of Title 14 Code of Federal Regulations (CFR) Part 121, as a scheduled, domestic
+passenger flight from Atlanta, Georgia, to Flushing. The flight departed the William B.
+Hartsfield International Airport at Atlanta, Georgia, about 1441, with two flightcrew members,
+three flight attendants, and 58 passengers on board. Three passengers reported minor injuries; no
+injuries were reported by the remaining 60 occupants. The airplane sustained substantial damage
+to the lower fuselage, wings (including slats and flaps), main landing gear, and both engines.
+Instrument meteorological conditions (IMC) prevailed for the approach to runway 13; flight 554
+was operating on an instrument flight rules (IFR) flight plan.
+The accident occurred on the first leg of a scheduled three-leg trip for the MD-88
+flightcrew. The pilots reported for duty at 1330 for the scheduled 1430 departure from Atlanta.
+According to the pilots, they received a thorough preflight weather briefing2 as they prepared to
+depart. The weather briefing indicated that there was frontal activity in the New York area; the
+pilots stated in postaccident interviews that they believed the weather conditions could result in a
+bumpy flight or otherwise make for a more difficult approach at LaGuardia.
+According to Delta dispatch records, the flight departed the gate at 1431 and took
+off about 1441, with the captain performing the pilot flying (PF) duties during the trip to
+LaGuardia. The pilots stated that the departure, climbout, and en route portions of the flight
+1 Unless otherwise indicated, all times are eastern daylight time, based on a 24-hour
+clock.
+2 For additional information concerning the weather information obtained by the
+flightcrew, see section 1.7.1, “Weather Information Provided to the Flightcrew by Delta.”
+
+2
+proceeded uneventfully, although they experienced turbulence at their cruising altitude of flight
+level (FL) 370.3
+The pilots stated that as they approached LaGuardia, they observed large areas of
+precipitation on the airplane’s weather radar and encountered light-to-moderate turbulence and
+strong winds during the arrival to the New York area. According to flight and cabin
+crewmember statements, the captain had previously briefed the flight attendant in charge (FAIC)
+that their descent in the New York area might be bumpy. The flight attendants indicated that at
+the captain’s suggestion, they prepared the cabin for landing and were seated in their jumpseats
+earlier than usual during the descent to land.
+As the airplane approached LaGuardia, the pilots received radar vectors for the
+instrument landing system with distance measuring equipment (ILS DME) approach to runway
+13.4 At 1611:57, the cockpit voice recorder (CVR) 5 recorded the captain commenting about the
+3o offset of the localizer course6 as he began to brief the details of the ILS DME runway 13
+approach. At 1612:39, New York air route traffic control center advised the pilots to contact
+New York terminal radar approach control (TRACON); the first officer acknowledged and
+complied with the instruction. At 1613:30, the captain finished the approach briefing, stating in
+part, “glide slope’s unusable below two hundred feet...final approach course crosses runway
+centerline and twenty-seven hundred and fifty-four feet from threshold… .”
+The first officer initiated the descent checklist at 1616:39, during which the pilots
+discussed the wind and rain conditions reported at LaGuardia with regard to their approach
+airspeeds. They determined that 131 knots would be their target airspeed for final approach to
+LaGuardia and completed the descent checklist. At 1617:32, the captain called for the approach
+checklist. At 1632:11, the captain asked the first officer if the approach checklist was completed,
+to which the first officer replied, “we’re both identified … approach check’s complete.”
+3 37,000 feet mean sea level (msl), based on an altimeter setting of 29.92 inches of
+mercury (Hg).
+4 For additional information concerning the ILS approach to runway 13 at LaGuardia,
+see section 1.10.1, “Runway 13 Information.”
+5 See appendix B for a transcript of the CVR.
+6 According to the instrument approach chart used by the pilots of Delta flight 554
+during their approach to runway 13, the localizer heading (132o) is offset 3o from the runway heading
+(135o); however, according to Federal Aviation Administration (FAA) personnel, the actual offset is 1.8o.
+Additionally, the instrument approach chart contains the remark, “Final approach course crosses runway
+centerline extended 2745 [feet] from [the runway] threshold.” The ILS DME runway 13 approach
+contains a waiver for runway threshold crossing height. The FAA’s requirement for electronic
+glideslope height at the point where it crosses the runway threshold is 45 feet; the threshold crossing
+height of the ILS DME runway 13 glideslope was 44.1 feet. According to FAA personnel, a new
+localizer for runway 13 should be commissioned by October 1997. The new localizer will not require
+the 3o offset.
+
+3
+At 1633:28, the captain stated, “Still showing sixty-three knots [of wind] now.”
+At 1633:33, New York TRACON stated, “Delta five fifty-four, turn left heading one three
+zero…you’re three miles from LYMPS,7…maintain three thousand until LYMPS…cleared ILS
+DME runway one three approach,” and the first officer acknowledged the clearance. At 1633:55,
+the first officer stated, “Yeah, I guess the wind’s gonna blow us over [to the localizer course],”
+and (at 1633:58) the captain responded, “I think you’re right.” (See figure 1 for a copy of the
+instrument approach chart used by the pilots of Delta flight 554.)
+According to the CVR and pilot statements, about 1635, the flightcrew intercepted
+the localizer and glideslope and received air traffic control (ATC) instructions to contact
+LaGuardia tower. At 1635:23, the LaGuardia air traffic control tower (ATCT) transmitted,
+“Delta five five four, you’re number two, traffic to follow…two mile final, the wind now one
+zero zero at one two…one departure prior to your arrival…braking action reported good by [a
+737]…low level wind shear reported on final by [a 737]… .”8 Within the next 25 seconds, the
+CVR recorded the captain calling for landing gear extension and the before-landing checklist. At
+1636:18, as the flightcrew accomplished the before-landing checklist, LaGuardia ATCT advised,
+“Runway one three RVR [runway visual range] touchdown three thousand…rollout two
+thousand two hundred,” and the captain commented, “must be raining hard at the airport.” At
+1636:25, the first officer announced, “Before landing check is complete…not cleared to land
+yet.”
+According to the pilots’ statements, as they began their descent from 3,000 feet on
+the ILS DME approach to runway 13, the airplane was in the clouds, in what the pilots described
+as light-to-moderate precipitation. The pilots indicated that although strong, gusty surface winds
+and turbulence had been forecast for their arrival in the New York area, as they descended on the
+approach to the runway, LaGuardia ATCT reported steady surface winds out of the east at less
+than 15 knots, and the pilots reported that the turbulence lessened.
+At 1636:46, the first officer called out “…a thousand feet above minimums,”9 in
+accordance with Delta’s procedural guidance.10 As the airplane continued to descend in the
+clouds, the captain commented that the ceiling was lower than the 1,300 feet reported in the
+automatic terminal information service (ATIS) recording.11
+7 LYMPS is the initial radar fix for the ILS DME approach to runway 13 at LaGuardia
+and is located 8.5 miles from the approach end of runway 13.
+8 According to ATC records, the most recent low level windshear report was reported by
+a Boeing 737 (at 1543:05), about 55 minutes before the accident occurred.
+9 The decision height (DH) (“minimums”) for the ILS DME approach to runway 13 at
+LGA is 250 feet above ground level (agl) (263 msl).
+10 For additional information concerning procedural guidance contained in Delta’s flight
+manuals, see section 1.17.1.
+11 LaGuardia ATIS information “Delta” was obtained by the pilots before they contacted
+New York TRACON (at 1612:52). For additional information on the weather, see section 1.7.
+
+4
+I
+JEPPESEN NEW YORK, NY
+ATIS Arrival 125.95 LA GUARDIA
+New York Approach (R) 120.8 i 2000’ 11S DME Rwy 13
+LA GUARDIA Tower 118.7 t 10C 108.5
+121.7 s MSA
+~r-. A VOR Apr. Elev. 22’
+‘3”
+unusable
+~
+1
+;;~5.~
+Loc Cra offset ~
+Rwy centerline 135+ 1 —mMv—
+#n
+/1
+1 YMPS
+D8. 9 JGDI ILS
+or 8,5 RADAR FIX
+40-s0
+A
+475’
+“5k
+mu
+509’ & IGDI ILS b17’
+& &
+-—
+7400 73-50 73.40 I
+GARDE
+~819YyD~+l* D5.6 IGOI :1S
+GS1940’(/727’)
+,?!fl?~:,:
+I author izcdby ATC. i (1387’/1
+3.3 I 1.2 I 3.4
+MISSEDAPPROACH: Climb to 800’ then climbing LEFT turn to 2000’ direct
+UR LOM and hold.
+STRAIGHT-IN LANDING R WV 13 CIRCLE. TO-LAND
+ILS LOC [GSeUt)
+OA(H) 263 ‘(250,/ MDA(M) 620’(607’)
+FULL RAIL or A15 WI MM W? RAIL o.f I AIS O“t ~: _ MDA(HJ
+4 i M24WYZ RV w R Y 2 2 4 R . v , R Y 4 , 0 RV ., R 5 I 0 ~ 9Q 620’(s98’)-1
+RV O R rY 2 z 4 RvR 400ryt R 0 V , R 1 1 6 4 0 I Y4 I 40 620’(598’)- 1 YJ
+) RvR 400, y4 1 Y2 2 105 700’(678).2Y4
+G“d spe,d.Kts 70 90 !00 120 [ 140 160
+Gs —— 3.00” 378 485 ~39 b47 f 755 863
+MAP l, 00 4 IGD1 11$.,
+GAR!>F ,“ MAP 5.2 4:27 ~j8 3:07 2:36[ 2:14 1:57
+<ANGF5 6, ,3.,, *, @) JC*PC$EM SANOERSm. INC 19U7 199S A1t #lCMIS RESERVEO
+I
+Figure l—Instrument approach chart
+(reproduced with the permission of Jeppeson Sanderson, Inc.)
+
+5
+At 1637:08, LaGuardia ATCT instructed a TWA airplane at LaGuardia, “TWA
+eighty-six thirty, wind one zero zero at one two, runway one three cleared for takeoff, traffic [on]
+three mile final runway one three.”12 The pilots of TWA 8630 acknowledged the takeoff
+clearance and advised that they were “rolling,” and at 1637:22, LaGuardia ATCT cleared Delta
+flight 554 to land. Two seconds after he acknowledged the landing clearance, the first officer
+advised the captain that he was “starting to pick up some ground contact.”13
+At 1637:29, the pilots of TWA 8630 indicated that they were rejecting the takeoff
+and needed to turn off the runway. LaGuardia ATCT responded, “TWA eighty-six thirty, make
+the first right turn, runway four two two…can you do that for me, sir?” then stated, “…if you
+could expedite, traffic on a two mile final…prevent him from going around.”14 According to
+CVR and pilot statement information, simultaneous with this transmission, the captain turned off
+the autopilot and advised the first officer “I’ve got the jet” (indicating that he was taking manual
+control of the airplane).
+At 1637:41, one of the pilots of TWA 8630 stated, “TWA eighty-six thirty’s
+turning off,” and LaGuardia ATCT responded, “Thank you very much…say the reason for the
+abort, sir?” Five seconds later LaGuardia ATCT stated, “Just continue down the runway…make
+the first right turn on taxiway golf…when you get a chance let me know the reason for the
+abort.”15 At 1637:52, as the airplane descended through about 492 feet agl, flight 554’s CVR
+recorded an expletive on the captain’s channel, and the airplane’s descent rate (calculated from
+FDR data) shallowed briefly. During postaccident interviews, the captain stated that at the time
+of the expletive comment he was concerned that they might have to perform a missed approach
+because the TWA flight had aborted its takeoff, and he believed that it had not yet cleared the
+runway.
+At 1637:57, the CVR recorded the first officer’s callout—“two hundred above
+[minimums].” Four seconds later the first officer advised the captain, “speed’s good, sink
+[rate]’s good.” At 1638:07, the captain stated, “no contact yet.” According to the CVR, at
+12 According to FAA Order 7110.65, “Air Traffic Control,” controllers should, “Separate
+a departing aircraft from an arriving aircraft on final approach by a minimum of 2 miles…this procedure
+permits a departing aircraft to be released so long as an arriving aircraft is no closer than 2 miles from the
+runway…at the time the departing aircraft commences [its] takeoff roll.” According to FDR data, Delta
+flight 554 was located 3.28 miles from the threshold of runway 13 at 1637:08.
+13 FDR data indicated that at this time the airplane was about 600 feet above minimums,
+or 850 feet agl.
+14 According to FAA Order 7110.65, “Air Traffic Control,” controllers should, “separate
+an arriving aircraft from another aircraft using the same runway by ensuring that the arriving aircraft does
+not cross the landing threshold until…the other aircraft…is clear of the runway.”
+15 Postaccident interviews with ATC and the pilots of TWA 8630 indicated that at this
+time, TWA 8630 had turned off of runway 13 at runway 22 and was taxiing to the southwest on runway
+22 towards taxiway Golf.
+
+6
+1638:10, the first officer called out “one hundred above [minimums],” and at 1638:11, the
+captain stated, “I got the (REIL [runway end identifier lights])…approach lights in sight.”
+At 1638:13, the first officer advised the captain, “You’re getting a little bit
+high…a little bit above [the] glide slope…approach lights, we’re left of course.” The FDR data
+indicated that at 1638:13, the airplane was 1.39 dots high on the electronic glideslope and 0.39
+dots left of the localizer, at 306 feet agl (319 msl). At 1638:18, LaGuardia ATCT stated, “You
+are cleared to land, Delta five fifty-four,” and the first officer acknowledged the reissued landing
+clearance. According to FDR data, at that time the autothrottle was disconnected and the captain
+reduced power manually. At 1638:20.6, the CVR recorded the sound of the ground proximity
+warning system (GPWS) announcing “minimums,” followed by, according to the CVR
+transcript, a “sound similar to that of windshield wipers increasing to full speed.” About 1
+second later, the captain restated that he had the approach lights in sight.
+The captain began to reduce the engine power, and at 1638:25.6, the first officer
+stated, “speed’s good” and then, about 1 second later, “sink’s seven hundred.”16 At 1638:30.1,
+the captain stated, “I’ll get over there,” which he later explained referred to the airplane’s
+alignment with the runway.17 One second later, the first officer stated, “a little bit slow, a little
+slow.” According to postaccident interviews, the captain stated that the approach seemed normal
+until about 4 to 5 seconds before the initial impact, when “all of a sudden, [the] aim point shifted
+down into the lights.” About 1638:33, as the captain was adding power and pitching up, the first
+officer stated, “Nose up,” and then at 1638:34.3, stated, “Nose up” again. At 1638:34.2 and
+1638:35.7, the CVR recorded the sound of the GPWS “sink rate” warning,18 followed by sounds
+of impact at 1638:36.5.
+The airplane struck the approach light structure and the vertical edge of the
+concrete runway deck, and then skidded approximately 2,700 feet down runway 13 on its lower
+fuselage and nose landing gear before it came to a stop. (See figure 2 – an overhead photograph
+of LaGuardia Airport, with runway 13 approach lights, the point of initial impact, and the point
+where the airplane came to rest on runway 13 depicted.) The nose landing gear came to a stop on
+the pavement, with the fuselage oriented on a 345o heading; the left wing extended towards the
+runway centerline, and the right wing extended over the wet, grassy area next to the runway.
+According to flight and cabin crewmember statements, after the airplane came to a stop, the
+pilots began to assess the damage to the airplane and determine whether an emergency
+evacuation was warranted, while the flight attendants picked up their interphone handsets and
+awaited instructions. About 74 seconds after the airplane came to a stop (about 94 seconds after
+16 For additional vertical speed information, see sections 1.6.2, 1.11.2, 2.2, and 2.5.
+17 The captain indicated that after he saw the approach lights, he made a right correction
+to align the airplane with the runway; then the airplane drifted to the right, so he made a correction to the
+left. The captain reported that he recalled a drift correction of about 10o during the final approach.
+18 The warnings annunciated in accordance with the manufacturer’s specifications.
+
+7
+Figure 2—LaGuardia Airport, with runway 13 approach lights, the point of initial impact, and
+the point where the airplane came to rest on runway 13 depicted
+
+8
+impact), the captain issued the emergency evacuation command19 after a non-revenue Delta pilot
+and the FAIC reported that they smelled jet fuel fumes in the cabin. All aircraft occupants exited
+through the left front door (L-1) slide.20
+The accident occurred during daytime hours, at approximately 40o, 46 minutes, 94
+seconds North latitude, and 73o, 52 minutes, 73 seconds West longitude.
+1.2 Injuries to Persons
+Injuries Flightcrew Cabin Crew Passengers Other Total
+Fatal 0 0 0 0 0
+Serious 0 0 0 0 0
+Minor 0 0 3 0 3
+None 2 3 55 0 60
+Total 2 3 58 0 63
+1.3 Damage to Airplane
+The MD-88 received substantial damage to its lower fuselage, main landing gear,
+slats, flaps, and both engines. The estimated cost to repair the airplane was about $14 million.
+1.4 Other Damage
+The metal runway approach light structure and the wooden catwalk that accessed
+it were damaged when the airplane struck the approach light structure. The approach end of the
+runway deck and the runway/pier support stanchions were also damaged. The estimated cost to
+repair the damage to airport property was about $240,000.
+1.5 Personnel Information
+The flightcrew consisted of the captain and the first officer. The captain and the
+first officer had been paired together as a crew on one previous occasion, in January 1996. Three
+flight attendants were aboard the airplane.
+19 At 1640:10, the CVR recorded the captain’s evacuation command, “Ladies and
+gentlemen, we’re going to evacuate the airplane…please follow the flight attendants instructions right
+now.”
+20 For additional information on the emergency evacuation, see section 1.15, “Survival
+Aspects,” and 1.15.2, “Crewmember Responsibilities During an Emergency Evacuation.”
+
+9
+1.5.1 The Captain
+The captain, age 48, was hired by Delta Air Lines on September 5, 1978. He held
+an airline transport pilot (ATP) certificate with airplane multiengine land and instrument ratings,
+a commercial pilot certificate with airplane single-engine land privileges, and MD-88 and Cessna
+500 type ratings. The captain’s most recent first-class medical certificate was issued on
+October 8, 1996, and contained the restriction, “Must have glasses available for near vision.” The
+captain was wearing monovision (MV)21 contact lenses for vision correction when the accident
+occurred. The captain’s vision and MV contact lenses are discussed further in sections 1.18.1,
+“FAA Oversight of Airman Medical Certification (Vision),” and 1.18.2, “Information on
+Monovision (MV) Contact Lenses.”
+The captain had about 10 years of civilian and military flight experience before he
+joined Delta Air Lines, including 3,320 total flight hours in military aircraft. He was upgraded to
+a captain on the MD-88 in June 1990. His most recent proficiency check, which included crew
+resource management (CRM) training, was completed on September 18, 1996, in the MD-88.
+According to company records, at the time of the accident, the captain had accumulated 10,024
+total flight hours, with about 3,756 hours as pilot-in-command in the MD-88.
+The captain had been off duty for 3 days before the day of the accident. He
+reported that during the 3 off-duty days, he performed routine activities at home and received
+about 8 to 9 hours of sleep each night, which he indicated was a normal amount of sleep for him.
+On the day of the accident, the captain was not scheduled to fly, but was available in reserve
+status;22 he was called for flight 554 at 1145 and reported for duty in Atlanta about 1330. The
+captain had landed at LaGuardia on numerous occasions; however, he had landed on runway 13
+on only two occasions before the accident flight. Both of the previous approaches occurred in
+visual meteorological conditions (VMC); the captain had not performed an instrument approach
+to runway 13 before the day of the accident.
+During postaccident interviews, the first officer described the captain as “quiet,”
+“easy to get along with,” and “by the book, procedurally.” Two other first officers who had flown
+with the captain before the accident described him in similar terms; they indicated that he made
+first officers feel at ease and was open to criticism. A review of Delta’s personnel records for the
+captain revealed no problems.
+21 MV contact lenses are prescribed by optometrists for patients who require both near
+and distant vision correction and who would otherwise be considered candidates for bifocal glasses. MV
+contact lenses apply distance vision correction to one eye, and near vision correction to the other eye.
+According to the FAA’s “Guide for Aviation Medical Examiners,” MV contact lenses are not approved
+for use by pilots when performing flight duties.
+22 A pilot in reserve status is on standby duty for assignment to flights.
+
+10
+1.5.2 The First Officer
+The first officer, age 38, was hired by Delta Air Lines on May 30, 1988. He held
+an ATP certificate with airplane multiengine land and instrument ratings. He had commercial
+pilot privileges for airplane single-engine land. His most recent first-class medical certificate
+was issued on February 15, 1996, with no restrictions or limitations. The first officer’s vision did
+not require the use of, nor was he using, corrective lenses or glasses when the accident occurred.
+Before he joined Delta Air Lines, the first officer had approximately 6 years of
+military flight experience in the U.S. Air Force. He began his career with Delta Air Lines as a
+flight engineer on the Boeing 727 and performed flightcrew member duties in the L-1011 and
+DC-9 aircraft before he transitioned to first officer on the MD-88 in November 1992. His most
+recent proficiency check, which included CRM training, was completed on October 17, 1996, in
+the MD-88. According to company records, the first officer had accumulated about 6,800 total
+flight hours, with 2,220 hours in the MD-88, all as first officer.
+The first officer had been off flight-line duty for 3 days before the day of the
+accident; however, on October 16 and 17 he underwent 2 days of recurrent simulator training.
+He reported that during the 3 days before the accident, he received about 7½ hours of sleep each
+night, which he indicated was a normal amount of sleep for him. On the day of the accident, he
+reported for duty in Atlanta at about 1330. The first officer had never landed on runway 13 at
+LaGuardia before the accident flight.
+During postaccident interviews, the captain described the first officer as “very
+competent” and “fun to be with.” The Safety Board interviewed another captain who had flown
+with the first officer before the accident; the captain described the first officer as a “fine first
+officer” who “did everything a captain would expect from a first officer and more.” A review of
+Delta’s personnel records for the first officer revealed no problems.
+1.5.3 Flight Attendants
+The FAIC occupied the aft-facing jumpseat (adjacent to the L-1 door) in the
+forward cabin at the time of the accident. She had more than 7 years of service with Delta and
+had completed her most recent recurrent training before the accident on October 11, 1996. The
+second flight attendant was seated in the forward-facing jumpseat on the left side of the airplane,
+forward of the aft galley. She had almost 5 years of service with Delta and had completed her
+most recent recurrent training before the accident in February 1996. The third flight attendant
+was seated in the forward-facing rear cabin jumpseat. She had 5 years of service with Delta and
+had completed her most recent recurrent training in September 1996. According to company
+records, all three flight attendants had satisfactorily completed Delta’s initial flight attendant
+training program and were qualified on the MD-88 aircraft.
+
+11
+1.6 Aircraft Information
+1.6.1 General
+N914DL, a McDonnell Douglas MD-88, serial number (SN) 49545, was operated
+by Delta Air Lines, Inc. The airplane was purchased from the Douglas Aircraft Company and
+was put into service as part of Delta’s fleet in June 1988. The airplane was powered by two Pratt
+& Whitney JT8D-219 turbofan engines.
+No noteworthy discrepancies were found in the maintenance log, and the pilots
+did not note any maintenance irregularities before or during their flight from Atlanta to
+LaGuardia.
+At the time of the accident, the airplane had an estimated operating weight of
+109,295 pounds. The maximum landing weight of this MD-88 was 130,000 pounds. The
+estimated center of gravity was 15.6 percent of the mean aerodynamic chord, which was within
+limits.
+1.6.2 Vertical Speed Information
+The accident airplane was equipped with a traffic advisory/vertical speed indicator
+(TA/VSI), which displayed vertical speed information with a permitted lag time of up to 4
+seconds. According to the manufacturer, the TA/VSI unit could be rewired to display real-time
+(instantaneous) vertical speed information to the flightcrew if an inertial reference unit (IRU) was
+installed in the airplane. Although Delta was replacing the altitude/heading reference systems
+(AHRSs) with IRUs throughout the MD-88 fleet, at the time of the accident, the accident
+airplane’s AHRS had not been replaced.
+Several of the MD-88 check airmen and flight instructors interviewed during the
+investigation stated that they believed that most Delta line pilots were unaware that the VSIs in
+the MD-88 were not instantaneous.
+1.7 Meteorological Information
+According to the National Weather Service (NWS), on the day of the accident the
+weather in the New York area was being influenced by a low pressure center located in central
+New Jersey and a weak occluded front23 extending to the east and southeast from the low
+pressure center; strong easterly winds and rain were noted to the north and northeast of the low
+pressure center. The terminal forecast for LaGuardia, issued by the NWS forecast office in
+Upton, New York, and valid at the time of the accident, predicted strong, gusty winds out of the
+east, a 400-foot cloud ceiling, and visibility of 1 mile in moderate rain and mist.
+23 According to FAA weather publications, occluded fronts occur when a fast-moving
+cold front catches up to a slow-moving warm front.
+
+12
+Although VMC prevailed when Delta flight 554 departed Atlanta, the flightcrew
+stated that when the flight arrived in the New York area, it encountered the forecast IFR
+conditions. The pilots obtained ATIS information “Delta” during their approach to LaGuardia. It
+indicated winds out of 120o at 16 knots, visibility of 1¼ miles in heavy rain and mist, and an
+overcast cloud layer at 1,300 feet. It also advised that the ILS DME approach was in use, with
+airplanes landing and departing on runway 13.
+Weather observations made at LaGuardia between 1627 and 1651 indicated a
+broken cloud layer at 800 feet, visibility between ½ and 1 mile in heavy rain and fog or mist, and
+easterly winds at 12 to 14 knots.
+Automated surface weather observation system weather data obtained for the
+period approximately 13 minutes before to 7 minutes after the accident indicated the following
+conditions:
+Time Winds Precipitation Visibility
+1625 080o @ 17 knots Heavy rain 1 ¼ miles
+1635 090o @ 11 knots Heavy rain ½ mile
+1645 060o @ 16 knots Heavy rain ¾ mile
+The NWS Aviation Weather Center in Kansas City, Missouri, issued several
+significant meteorological information advisories (SIGMETs)24 for turbulence in strong winds
+and possible low level windshear, which were applicable for LaGuardia at the time of the
+accident. Additionally, the NWS Aviation Weather Center in Kansas City, Missouri, issued
+several airman’s meteorological information advisories (AIRMETs)25 for strong winds and
+occasional IFR conditions, which were applicable for LaGuardia about the time of the accident.
+Further, Delta’s meteorological staff issued an Airport Alert for moderate-to-severe turbulence,
+strong, gusty surface winds, and possible low level windshear at LaGuardia around the time of
+the accident. The SIGMETs, AIRMETs, and additional weather information are included in
+appendix E.
+1.7.1 Weather Information Provided to the Flightcrew by Delta
+The pilots of flight 554 received a complete preflight weather briefing (prepared
+by Delta’s meteorologists) with their flight release before departing from Atlanta. A review of
+the weather information in the flight release paperwork revealed that it included terminal
+forecasts, surface weather observations, and notices to airmen (NOTAMs) for the departure, en
+24 According to the Weather Service Operations Manual, a SIGMET advises of weather,
+other than convective activity, potentially hazardous to all aircraft.
+25 According to the Weather Service Operations Manual, an AIRMET advises of
+weather, other than convective activity, that might be hazardous to single-engine and other light aircraft,
+and VFR pilots. However, operators of large aircraft might also be concerned with these phenomena.
+
+13
+route, destination, and alternate airports, as well as pertinent weather alerts for those regions.
+The flight release paperwork also included SIGMET Uniform 2 and Delta’s meteorological
+staff’s Airport Alert (both for moderate-to-severe turbulence in strong winds), and the following
+1251 LaGuardia hourly weather observation:
+sky -- broken ceiling at 1,200 feet, broken cloud layer at 1,800 feet, overcast
+at 2,200 feet; visibility -- 2 miles, in moderate rain, mist; temperature -- 16o
+C; dew point -- 14o C; winds -- 080o at 23 knots, with gusts to 38 knots; and
+altimeter setting -- 29.54 inches Hg. Remarks: peak wind -- 070o at 38 knots
+occurred at 1247; tower visibility 2 ½ miles; pressure falling rapidly.
+The pilots also obtained an updated preflight weather briefing about 10 minutes
+before they departed Atlanta. The briefing included the LaGuardia hourly weather observation
+from 1351, which indicated winds out of the east, with wind speeds more moderate than the
+previous hour’s observation. Records indicate that at 1511 and 1618, during the flight to
+LaGuardia, the pilots requested and received updated weather information via their onboard
+automatic communication and reporting system (ACARS).
+1.7.2 Runway Visual Range (RVR)26 Values
+Investigation revealed that the RVR was taken out of service sometime after the
+accident because of a problem with the line that ran between the receiver and the computer,
+where the RVR values were recorded.27 According to FAA airways facilities (AF) personnel,
+this anomaly might have resulted in slight inaccuracies in the recorded RVR values.
+The minimum RVR value estimated about 1637 was 2,800 feet. ATC records
+indicate that at 1636, LaGuardia ATC advised traffic that runway 13 RVR at touchdown was
+3,000 feet, while RVR during landing rollout was 2,200 feet.
+Postaccident interviews with air traffic controllers revealed that they first
+observed Delta flight 554 as it neared the runway threshold; the distance between the ATC tower
+cab and the approach end of runway 13 is approximately 2,800 feet. According to the ILS DME
+runway 13 instrument approach plate, the minimum RVR required for the approach is 2,400 feet.
+1.7.3 Windshear Information/Low Level Windshear Alert System (LLWAS)
+Examination of the ATC transcripts for the local control frequency revealed that
+between 1525 and 1545, about an hour before the accident, there were numerous pilot reports of
+26 According to the Aeronautical Information Manual, RVR is the “range over which the
+pilot of an aircraft on the [centerline] of a runway can see the runway surface markings or the lights
+delineating the runway or identifying its [centerline].”
+27 The method for determining RVR for runway 13 is discussed in section 1.10.1.2,
+“Runway 13 RVR Information.”
+
+14
+windshear, and the flightcrews of four flights executed missed approaches while attempting to
+land on runway 13. The ATC transcripts revealed that these missed approaches were attributed
+to wind conditions. Examination of the LLWAS recorded data and ATC records indicated that
+no LLWAS system alarms occurred between 1525 and 1545; however, wind gusts were recorded
+during that time (peak gusts to 28 knots). Review of the ATC tapes did not reveal any pilot
+comments regarding windshear between 1545 and the time of the accident.
+Weather Surveillance Radar-88 Doppler (WSR-88D) is installed at the NWS
+Forecast Office in Upton, New York, approximately 46 nautical miles east-southeast of
+LaGuardia. The 1640 winds aloft estimates obtained from the WSR-88D velocity azimuth
+display vertical wind profile revealed the following:
+Height (agl) Wind Information
+1,000 feet 083o @ 60 knots
+2,000 feet 090o @ 65 knots
+3,000 feet 105o @ 70 knots
+4,000 feet 108o @ 70 knots
+5,000 feet 109o @ 65 knots
+A tape containing Doppler weather radar data from the Upton, New York, WSR-
+88D around the time of the accident was obtained from the National Climatic Data Center. A
+review of these data showed the presence of weather echoes along Delta flight 554’s approach to
+runway 13. The weather echoes varied from moderate to very strong.28
+A Phase II LLWAS was installed and operational at LaGuardia at the time of the
+accident. The LLWAS system consisted of six wind sensors; one sensor was positioned near the
+center of the airport, and the five remaining sensors were placed in locations surrounding the
+airport. Information obtained from the LLWAS northwest wind sensor (sensor 6) data29 and
+center field average (CFA [sensor 1]) wind data for 40 seconds about the time of the accident
+indicated the following surface wind conditions:
+Time Northwest Wind Sensor CFA Wind
+1638:26 080o @ 14 knots 090o @ 13 knots
+1638:36 080o @ 13 knots 090o @ 14 knots
+1638:46 080o @ 14 knots 090o @ 14 knots
+1638:56 080o @ 14 knots 090o @ 14 knots
+1639:06 080o @ 15 knots 090o @ 14 knots
+28 For details of the review of the WSR-88D data, see appendix E.
+29The northwest wind sensor is located about 5,468 feet northwest of the approach end of
+runway 13.
+
+15
+Examination of the LLWAS recorded data indicated that no LLWAS system
+alarms occurred between 1600:06 and 1649:56. Additionally, no wind gusts were recorded from
+1600:06 through 1649:56.
+After the accident, the FAA performed a site performance evaluation system of
+the LLWAS archived data. The examination revealed that three of the six sensors (sensors 3, 4,
+and 5) appeared to have problems. According to the FAA, the sensor problems might have
+resulted in the system’s failure to detect existing windshears, or the system producing false
+windshear warnings.
+Postaccident discussions with FAA personnel revealed that they are “improving
+and expanding” the existing LLWAS system at LaGuardia. They reported that the improved
+LLWAS system will consist of eight new sensor sites replacing the present LLWAS sites, which
+should be commissioned by November 1997.
+1.8 Aids to Navigation
+There were no known malfunctions with the aids to navigation involved in this
+accident.
+1.9 Communications
+There were no known difficulties with internal or external communications.
+1.10 Airport Information
+LaGuardia Airport is located in Flushing, New York, and has an airport elevation
+of 22 feet.30 The airport is served by runway 4/22, which is oriented north-northeast/south-
+southwest and runway 13/31, which is oriented northwest/southeast. The runways are 7,000 feet
+long and 150 feet wide, grooved paved surfaces, and constructed of asphalt and concrete. The
+approach ends of runway 22 and runway 13 extend on an elevated deck above the Rikers
+Channel portion of Flushing Bay. The extended portion of the runways is constructed of asphalt
+and concrete laid out on steel piers, the approach end of which is covered by orange and white
+plywood panels that extend vertically toward the water. Runways 22 and 13 are equipped with
+approach lighting systems built on stanchions and accessible by catwalks, which extend farther
+into the bay from the end of the runway deck. During postaccident interviews, the LaGuardia
+airport manager stated that the airport “[does] a lot in a small area,31 [but we] feel the physical
+constraints of its size.” Refer to figure 3, “Diagram of LaGuardia Airport.”
+30 The published touchdown zone elevation for runway 13 is 13 feet.
+31 Airport records indicate that there are 337,087 flight operations at LaGuardia per year,
+of which 316,287 are commercial flight operations.
+
+I
+,
+I
+I
+,
+I
+I
+$
+16
+
+17
+LaGuardia is fully certificated under 14 CFR Part 139. According to the FAA
+airports inspector with oversight responsibility for LaGuardia, the airport was in compliance with
+FAA standards, and all past deficiencies had been corrected in a timely manner.
+1.10.1 Runway 13 Information
+According to ATC operational records, the average prevailing winds at LaGuardia
+are northwesterly. Because the winds are generally out of the northwest, and because of other
+operational considerations, runway 13 (the landing runway for Delta flight 554) is used less
+frequently than the other runways. Runway 13 was equipped with high intensity runway lights
+(HIRL), centerline lighting, REIL, medium intensity approach light system, runway alignment
+indicator lights, and visual approach slope indicator (VASI) lights.
+Runway 13 was serviced by an ILS DME instrument approach made up of six
+components: glideslope, localizer, DME, approach lighting system, marker beacons, and
+compass locators. The electronic glideslope is not usable below 200 feet agl because of signal
+irregularities.32 According to FAA personnel, the ILS DME runway 13 DH, which is 250 feet agl
+(263 feet msl), is 50 feet higher than the standard DH because the localizer course is offset from
+the runway heading.
+On the day after the accident, the FAA conducted an airborne operational check of
+the ILS DME approach to runway 13. All components of the instrument approach and landing
+system were determined to be capable of normal operation, with the electronic glideslope
+restriction (unusable below 200 feet) in effect. As mentioned previously, a new localizer for
+runway 13 should be commissioned by October 1997. The new localizer will not have an offset
+course.
+1.10.1.1 Runway 13 Runway Lights/Spacing
+According to FAA Advisory Circular (AC) 150/5340-24, “Runway and Taxiway
+Edge Lighting System,” a runway edge lighting system is a configuration of lights that defines
+the lateral and longitudinal limits of the usable landing area. With regard to location and spacing
+of runway lights, the AC states the following:
+The longitudinal spacing of the lights should not exceed 200 feet (61 m) and
+be located such that a line between light units on opposite sides of the runway
+is perpendicular to the runway centerline. The lights should be spaced as
+uniformly as possible with the threshold/runway end lights used as the starting
+reference points. Where a runway is intersected by other runways or
+taxiways, a semiflush light…should be installed to maintain the uniform
+32 According to the FAA, the signal irregularities are the result of the runway pier’s
+location over the water, tidal changes/influences, and the metal content of the water.
+
+18
+spacing for HIRLs. For MIRLs [medium intensity runway lights] and LIRLs
+[low intensity runway lights] a single elevated edge light should be installed
+on the runway side opposite the intersection to avoid gaps in excess of 400
+feet (122 m) where the matching of lights on opposite sides of the runway
+cannot be maintained… .
+Postaccident measurement of the runway light spacing on runway 13 revealed that
+the runway lights were installed at irregular intervals, even where no other ground utilization
+considerations (crossing runways, taxiways, etc.) existed. The runway light spacing distances
+varied, with the most common distances between lights falling between 120 feet and 170 feet.33
+1.10.1.2 Runway 13 RVR Information
+Although LaGuardia has four runways that are usable for landing, the airport only
+uses three RVR transmissometers (visibility sensors). The transmissometers are located at three
+positions on the airport:
+• The approach end of runway 04, aligned with runway 04.
+• The approach end of runway 31, aligned with runway 31.
+• The intersection of runway 13 and runway 22, aligned with runway 22.
+According to the LaGuardia Tower standard operating procedures (SOPs),
+because the runway 13 and runway 22 touchdown areas are close to each other, a common RVR
+transmissometer services both runways. The shared RVR transmissometer is located about 1,500
+feet from the approach end of runway 13. FAA AF personnel stated that the equipment is
+correctly situated to record valid touchdown RVR readings for both runways. The LaGuardia
+Tower SOP states, “To obtain an accurate RVR reading, the Runway 4-22 edge lights MUST BE
+AT A STEP THREE SETTING OR GREATER. If the Runway 13-31 HIRLs are [at a setting]
+equal [to] or greater than the Runway 4-22 HIRLs, then the Runway 13 RVR will display an
+accurate reading.”
+According to FAA Order 7110.65, “Air Traffic Control,” at the time of the
+accident, the HIRLs for runways 13 and 22 should have been set on step 5, the runway 13 REILs
+should have been set on step 3, and the runway 13 VASI lights should have been set on high
+brightness. During postaccident interviews, the LaGuardia air traffic controllers stated that they
+did not recall what light settings were in use at the time of the accident. However, according to
+AF personnel, the LaGuardia HIRLs are connected to, and monitored by, a warning system. If
+the runway 13 and runway 22 HIRLs are not on the same setting, a “fail” light and an aural
+warning alarm will activate. The controllers did not indicate that an alarm had activated.
+33 Most airports have runway edge lights generally positioned at, or near, the maximum
+200-foot intervals.
+
+19
+1.10.1.3 Runway 13 VASI Information
+The VASI light system for runway 13 is a two-bar VASI system, which may be
+used by pilots as a visual aid for maintaining an approximate 3o glidepath to the touchdown point
+on the runway. The two-bar VASI system consists of two light boxes located on the left side of
+the runway; the boxes are positioned on either side (downwind and upwind) of the touchdown
+point.34 According to the pilots of flight 554, when the airplane descended below 200 feet agl and
+the electronic glideslope was considered unusable, they were in visual conditions; however, they
+did not observe either bar of the VASI lights during their descent to the runway. Postaccident
+interviews with the pilots of the four airplanes that landed on runway 13 just before flight 554
+revealed that none of them recalled observing the VASI lights during their approach/landing.
+However, none of the pilots interviewed (including the flightcrew of flight 554) recalled
+specifically seeking VASI light guidance during their approach to land.
+According to LaGuardia facility records and interviews with ATC personnel, there
+was no tower cab indication that the VASI lights were not operating normally at the time of the
+accident. However, a note in the “Daily Record of Facility Operation,” FAA Form 7230-4,
+indicated at 1730 (52 minutes after the accident), a “Power surge in the [tower, runway] 13
+MALSR (medium intensity approach lighting system with runway alignment indicator lights) and
+VASI [out of service].”35 The runway 13 VASI light system was inspected by AF personnel on
+October 20, 1996. The inspection revealed that the VASI light bar angles and high brightness
+34 The electronic glideslope touchdown point is located about 985 feet from the approach
+end of the runway deck. The downwind light box (closest to the landing airplane) and the upwind light
+box are positioned about 650 feet and 1,550 feet from the approach end of the runway deck, respectively.
+Each light box contains a set of white lights and a set of red lights, with the set of white lights over the
+set of red lights. The visual glideslope guidance is indicated by the color of the lights in the two boxes
+that is visible to a pilot on final approach for the runway, as follows:
+•
+Red lights visible in both downwind and upwind light boxes = glideslope
+lower than 3o.
+•
+White lights visible in both downwind and upwind light boxes = glideslope
+higher than 3o.
+•
+White lights visible in downwind box, red lights visible in upwind box =
+glideslope equals 3o.
+The Safety Board’s calculations based on the positions of the light boxes revealed that an
+airplane on the ILS course at DH (250 feet agl) would be positioned 4,442 feet from the downwind light
+box and 5,342 feet from the upwind light box; an airplane on the ILS course at 200 feet agl would be
+positioned 3,486 feet from the downwind light box and 4,386 feet from the upwind light box.
+35 Postaccident interviews with AF personnel revealed that the log indication of “power
+surge” at 1730 was incorrect; a power “outage” occurred at 1730 because the “gear switch took on
+water.” The gear switch is an electro-mechanical mechanism that monitors and controls the main airport
+power supply; if one power source loses power, the gear switch selects an alternate airport power source.
+According to a Daily Record of Facility Operation entry at 1831, “[AF personnel advised] that we were
+on generator from [1730-1745] when we came back to normal power, also AF [advised] that extensive
+damage was done to [runway 13 approach lights.]”
+
+20
+output current level were normal; however, the medium and low brightness output current levels
+were below tolerance. According to FAA Order 7110.65, “Air Traffic Control,” VASI light
+intensity is required to be set to high brightness during the hours of “daylight - sunrise to sunset.”
+As noted previously, ATC personnel did not recall what light settings were in use when the
+accident occurred.
+1.11 Flight Recorders
+A digital FDR and a CVR were installed in the airplane. The FDR was a
+Lockheed Aircraft Service Company Model 209F, SN 4548, recorder, which recorded 68
+parameters of airplane flight information in a digital format on ¼-inch magnetic tape. The CVR
+was a Fairchild Model A100, SN 2698. Both recorders were removed from the airplane and sent
+to the Safety Board’s laboratory in Washington, D.C., for readout. The cases of both recorders
+were intact and exhibited no evidence of damage or excessive wear.
+1.11.1 CVR
+The CVR recording consisted of four channels of audio information: the cockpit
+area microphone (CAM), the captain’s position, the first officer’s position, and the flight
+attendant intercom/public address (PA) system. Although the overall quality of the recording
+was good, the CAM and crewmember channels, from which all crewmember conversation was
+transcribed, were of excellent quality. A transcript was prepared of the final 30 minutes, 9
+seconds of the recording. The transcript started approximately 27 minutes, 49 seconds before the
+first sounds of impact occurred on the CVR. The recording ended after APU shutdown, with the
+airplane stopped on runway 13.
+1.11.2 FDR
+Although the quality of the FDR data was good, the FDR experienced data loss
+coincident with the highest recorded vertical acceleration forces (Gs) that occurred during the
+airplane’s impact with the approach lights and runway pier. The Safety Board’s laboratory
+retrieved portions of the lost data and developed a composite data set of the accident approach
+and landing. A copy of the FDR data plot, with CVR excerpts overwritten, is included in
+appendix C.
+The FDR data indicated that as the airplane descended on the ILS DME approach
+to runway 13, it was established on the electronic glideslope and localizer until it reached about
+400 feet msl. As the airplane continued the approach from that point, it began to deviate above
+the electronic glideslope and right of the localizer. FDR data indicated that between 1637:33 and
+1638:11, the airplane went from .09 dots high on the glideslope to 1.3 dots high on the
+glideslope. At 1638:20, the airplane was 1.43 dots high on the glideslope, and at 1638:28, when
+the airplane descended through 200 feet agl, the airplane was about 1.66 dots above the
+electronic glideslope. As discussed in section 1.10.1, from this point to the surface, the
+electronic glideslope information was considered unusable. Excerpted FDR data from the last 63
+seconds of the approach is included in Table 1.
+
+21
+
+22
+According to FDR data and CVR information, between 1638:24 and 1638:28, the
+engine pressure ratio (EPR) reduced from about 1.2 EPR to about 1.15 EPR as the first officer
+stated, “speed’s good.” At 1638:26, when the first officer called a 700 feet per minute descent
+rate, the airplane’s actual rate of descent, calculated from FDR data,36 was about 1,200 feet per
+minute. At 1638:30.1 (when the captain stated, “I’ll get over there”), the FDR data indicated that
+the airplane was descending through about 110 feet agl at a rate of descent of about 1,500 feet
+per minute. The FDR data indicated that between 1638:24 and 1638:32, the elevator position
+oscillated between about 2o nose up and 8o nose up, and the airspeed decreased from 131 knots to
+about 126 knots. (About 1638:31, the first officer stated, “a little bit slow, a little slow.”)
+The FDR data indicated that an increase in EPR and nose-up elevator position
+began to occur about 1638:32; about 1638:33, as the engine power and pitch increased, the CVR
+recorded the first officer stating “Nose up…nose up.” By 1638:33, the FDR data indicated that
+the airplane was descending through about 75 feet agl at 1,800 feet per minute. At 1638:34, the
+rate of descent began to decrease. At 1638:34.2 and 1638:35.7, the CVR recorded the sound of
+the GPWS “sink rate” warning, followed by loss of FDR data at 1638:36.5, the moment of
+impact.
+1.11.2.1 FDR Information on Windshear
+The horizontal wind encountered by Delta flight 554 during the approach to
+runway 13 and estimated from FDR data indicated no sudden changes associated with windshear.
+Postaccident examination of the windshear computer (WSC) from the accident airplane revealed
+that the WSC was capable of detecting and annunciating windshear alerts. No commands were
+recorded on the CVR regarding windshear during the final 1,000 feet of flight 554’s descent.
+The Safety Board requested and received FDR data from three of the four flights
+that preceded Delta flight 554 on the approach, and from the airplane that followed flight 554 on
+the approach to runway 13. FDR data was received from Delta Air Lines flight 1215, a Boeing
+727, which landed at LGA about 1630; Continental flight 1614, a Boeing 727, which landed at
+LGA about 1633:07; USAir flight 212, a Boeing 737-300, which landed at LGA about 1634:53,
+and United flight 1576, a Boeing 737-300 (this flight was at an altitude of about 1,780 feet
+when—at 1639:08—ATC instructed the pilots to execute a missed approach after the accident).
+Examination of the FDR data and pilot reports from these four flights revealed no evidence of
+windshear encounters during the approach to runway 13.
+36 The FDR system installed on the accident airplane did not directly record the
+airplane’s inertial vertical speed; however, the Safety Board calculated the airplane’s descent rate based
+on the FDR data. References to the airplane’s actual rate of descent are based on these calculations.
+
+23
+1.12 Wreckage and Impact Information
+Postaccident examination revealed damage to the approach light bars located 203
+and 100 feet short of the approach end of the runway deck, the access catwalk structure, the edge
+of the runway deck, the runway deck support structure, and six runway threshold lights. The
+plywood on the vertical portion of the runway deck exhibited two main areas of impact damage;
+both areas of damage extended from the upper surface to a point approximately 3 feet 9 inches
+below the upper surface of the deck and were approximately 4 feet wide. The approximate
+midpoints of the damaged areas were located 11 feet and 27½ feet left of the extended runway
+centerline.37 In addition, debris from the approach light structure and the access catwalk was
+found embedded in the plywood at the end of the runway deck.
+Witness and flightcrew statements indicated that the airplane touched down on its
+nose landing gear and lower fuselage, slightly left of the extended runway centerline, and skidded
+down the runway pavement. Postaccident examination revealed that both main landing gear had
+separated from the airplane; although one main landing gear tire was located on airport property,
+the remainder of the main landing gear was not recovered during the investigation.
+Examination of runway 13 revealed faint scrape marks38 that started at the
+approach end of the runway deck, left of the runway centerline. The scrape marks veered farther
+left as they continued down the runway, to the point where the airplane came to rest,
+approximately 2,700 feet from the approach end of the runway. The airplane came to a stop
+facing north-northwest on runway 13, with the nosewheel about 99 feet left of the runway 13
+centerline, and the right wing extended over the grass next to the runway. Airplane and approach
+light structure debris was scattered along the wreckage path.
+The right wing exhibited extensive damage to the leading edge, leading edge slats,
+fuel tank, trailing edge flaps, wing-to-fuselage fairing, and landing and position lights. The
+damage consisted of crush, dents, tears, and one puncture. Wood and fiberglass objects were
+implanted in the leading edge of the wing structure, and stones were wedged in the trailing edge
+flap components. Fuel leakage was noted and traced to a right wing fuel tank puncture; an
+estimated 600 gallons of fuel leaked from the airplane's right wing as a result of the accident.
+The left wing exhibited less extensive damage to the trailing edge flaps, wing-to-fuselage fairing,
+and one leading edge slat.
+Examination of the fuselage revealed extensive damage to underside antennae,
+skin, stringers, frames, and longerons, increasing in severity in the aft direction. Landing gear
+doors, the APU doors, and the lower surface of the tailcone were scraped and torn. Examination
+of what remained of the main landing gear assemblies revealed that the main landing gear
+37 According to the Delta Air Lines MD-88 maintenance manual, section 06-10-00, pages
+2 and 3, the distance between the midpoints of the main landing gear is 16.7 feet.
+38 Scrapes/damage to the runway were minimal; according to airport personnel, the
+runway was very wet, with areas of standing water when the accident occurred.
+
+24
+cylinders were fractured approximately 12 to 13 inches below the bottom surface of the wing.
+Although both engines exhibited foreign object damage, damage to the right engine was more
+severe. A diagonal buckle was located above the aft portion of the right engine pylon, the
+exhaust case was fractured at the forward joint, and the right engine thrust reverser had separated
+and was not recovered.
+1.13 Medical and Pathological Information
+Three passengers reported that they received minor injuries during the accident
+and evacuation. Two passengers reported that they bumped their heads during the landing
+touchdown and deceleration on the runway, and one passenger sustained a minor neck injury
+during the emergency evacuation; the passenger with the neck injury was transported to a local
+hospital, where she was treated and released the same day.
+In accordance with 14 CFR Part 121 requirements, the flightcrew provided
+postaccident toxicological samples for analysis. The samples were analyzed39 and found to be
+negative for ethanol and other drugs of abuse. Toxicological samples were not requested or
+received from the flight attendants or air traffic controllers.
+1.14 Fire
+No fire was associated with this accident.
+1.15 Survival Aspects
+Although no serious or fatal injuries occurred in this accident, the Safety Board
+examined the flight and cabin crew decisions and procedures during the emergency evacuation.
+The airplane was configured with 142 passenger seats, 58 of which were occupied on the
+accident flight. Two floor-level exits were located in the forward cabin; four overwing exits
+were located at seat rows 20 and 21; one floor-level exit was located in the aft galley, on the left
+side of the cabin; and a tailcone exit was located at the rear of the cabin. According to the flight
+attendants and dispatch documentation, most of the passengers were seated forward of the
+overwing exits. All airplane occupants were evacuated safely through the forward left (L-1)
+door. See figure 4 for an airplane diagram and seating chart.
+39 Toxicological analysis of the samples was conducted on October 22, 1996, at
+MedExpress—National Laboratory Center, per Dr. William H. Whaley, Delta Air Lines, Atlanta,
+Georgia.
+
+25
+Q
+l
+1st Flight Attendant a.
+Main Passenger Entrance ~ +
+Gal~r
+L-1
+G1 G2 .
+!
+13 * Seating chart is based upon assigned
+14 seating as listed on passenger manifest.
+Actual passenger positions at time of
+15
+impact are unknown.
+1*
+17
+2 Overwing Exits 2 Overwing Exits
+2nd Flight Attenda
+Aft Galley door ~
+L-2
+G4
+36w
+37k
+38 3a
+Lav 3rd Flight Attendant
+~Aft Emergency Exit
+Figure 4—Airplane diagram and seating chart
+
+26
+1.15.1 Evacuation-related Information From CVR Transcript
+According to CVR information, the airplane came to a stop on the runway about
+1638:56, about 20 seconds after the first sounds of impact were heard. The CVR recorded, in
+part, the following comments pertaining to the emergency evacuation:
+1639:06 (PA announcements attributed to the captain)—“Ladies and
+gentlemen please remain seated at this time…please remain seated with your
+seatbelts securely fastened please.”
+1639:17 (Comment attributed to the first officer--CAM)—“We need to get out
+of the airplane I think.”
+1639:29 (Comments attributed to the captain--CAM)—“Let’s evacuate…well
+hold, hold on a minute.”
+1639:34 (Comment attributed to the FAIC--interphone)—“Stay away from
+the back.”
+1639:52 (Comment attributed to FO-ATC communications)—“Yes, we’re
+gonna evacuate the airplane and…we’ll try and get everyone off the front of
+the airplane on the…runway.”
+(1640:01-1640:06—Unattributed comments--CAM—including “…smelling
+fuel…” “we need to get out,” and “evacuate the airplane.”)
+1640:10 (PA announcement attributed to captain)—“Ladies and gentlemen
+we’re going to evacuate the airplane…please follow the flight attendants
+instructions right now.”
+1640:12 (Evacuation instructions attributed to FAIC)—“Release your
+seatbelts, get up, get out…release your seatbelts, get up, get out…release your
+seatbelts, get up, get out.”
+1640:15 (Interphone comment attributed to a flight attendant in the aft
+cabin)—“Do you want to go forward or backwards?”
+1640:19 (Sound similar to door opening and slide inflating)
+1640:39 (Interphone comment attributed to a flight attendant in the aft
+cabin)—“Are we going out the back?”
+1640:43 (Interphone comment attributed to a flight attendant in the aft
+cabin)—“I’m wanting to know which way out.”
+
+27
+1640:48 (Interphone comment attributed to a flight attendant in the aft
+cabin)—“Do you want to go forward?”
+1640:50 (Interphone comment attributed to the first officer)—“Lets come
+forward, yes come forward.”
+During postaccident interviews, the FAIC stated that she did not recall making the
+statement “Stay away from the back,” which was attributed to her in the CVR transcript.
+Statements obtained from the FAIC and the first officer indicated that after the first officer left
+his seat in the cockpit to assist with the evacuation, he instructed the FAIC to use the L-1 door
+for the evacuation. That instruction was not audible to the aft flight attendants and was not
+recorded on the CVR.
+1.15.2 Crewmember Responsibilities During an Emergency Evacuation
+1.15.2.1 Flightcrew Duties During an Emergency Evacuation
+Emergency evacuation procedures for flightcrews, in Delta’s flight operations
+manual (FOM),40 chapter 10, “Abnormal Operations,” page 10-14.2, state the following:
+After a thorough evaluation, if an emergency evacuation is required, complete
+the evacuation checklist and make the evacuation announcement:
+“This is the Captain, Evacuate, Evacuate.”
+•
+If an engine fire or other conditions make certain exits unusable,
+state the direction of egress (i.e., Use the left side exits only).
+•
+Some aircraft are equipped with an evacuation signal or horn
+which can be used to give the evacuation command.
+Remove all passengers to a point well clear of the aircraft, out of range of
+possible fire or explosion.
+Do not allow passengers to return to the aircraft until danger no longer exists.
+On page 8, Delta’s MD-88/90 pilots operating manual (POM),41 under the
+heading “Ditching/Evacuation,” outlines the following flightcrew duties and responsibilities
+during an emergency evacuation:
+40 The FOM provides the policies, procedures, practices, instructions, and guidance for
+Delta flight operations personnel to follow. It is supplemented by other Delta manuals and documents.
+41 Each Delta pilot is issued a set of pilot’s manuals (the POM and the pilot’s reference
+manual [PRM]). The POM contains procedures, techniques, and operations that establish the standard to
+which pilots will be trained and by which the airplane should be operated. The PRM is designed as a
+training manual, and an in-depth reference manual, and contains specific airplane information. The
+information in both manuals complies with the FAA-approved airplane flight manual.
+
+28
+CAPTAIN
+•
+Order evacuation.
+•
+Proceed to forward cabin area.
+•
+Assist in evacuating passengers as conditions dictate.
+•
+Check that all persons have been evacuated, if possible.
+•
+After exiting, assemble passengers away from the aircraft.
+FIRST OFFICER
+•
+Remove and carry ELT from crew closet.
+•
+Assist in opening forward cabin door and assist in evacuation until able to
+proceed to mid cabin.
+•
+Proceed to mid cabin area.
+•
+Assist in evacuating passengers as conditions dictate.
+•
+Assist in assembling passengers away from the aircraft.
+Examination and documentation of the cockpit switch positions was
+accomplished on October 20, 1996; a review of the documentation revealed that all passenger
+evacuation checklist items had been completed, except that the emergency light switch was
+located in the “off” position.
+1.15.2.2 Flight Attendant Duties During an Emergency Evacuation
+Chapter 5, “Emergency Procedures,” of Delta Air Lines’ in-flight service on board
+manual addresses flight attendant procedures during emergency evacuations on land and water.
+The following excerpts from chapter 5 of the in-flight service on board manual, pages 5-20 to
+5-24, address flight attendant procedures during evacuations on land:
+The type of emergency dictates the means of communication to determine if
+evacuation is necessary. Once determination is made to evacuate begin
+evacuation commands. …
+Unanticipated Emergency
+•
+Call the cockpit crew to coordinate evacuation (be prepared to provide
+information such as structural damage, fire, etc.)
+NOTE: Upon hearing an evacuation horn [or command]…,
+evacuate without further communication from [the] cockpit.
+(Emphasis added.)
+•
+Give motivational commands
+On land --
+
+29
+“Release seat belts! Get up! Get out!”
+• Release seat belt, grab flashlight and proceed to nearest or designated exit.
+Assess conditions
+• Look for structural damage, fire or if exit is underwater or obstructed.
+• Assess type of emergency.
+Activate exit
+• Quickly confirm armed status of exit.
+• Open exit.
+If exit or slide is not usable REDIRECT passengers to an alternate exit:
+• Consider Time, Availability and Distance to redirect to a usable exit.
+Evacuate—LAND
+At a door
+• Command first 2 passengers:
+“You two, stay at the bottom! Help people off!”
+• Command passengers: “Arms straight ahead” (all types of slides)
+“Sit and slide!” (slides)
+“Move away”
+Continually assess conditions—LAND
+• If passengers are waiting in line at any exit, consider redirecting to less
+crowded exits.
+• If passengers are piling at bottom of slide, temporarily halt evacuation.
+The in-flight service on board manual also states that if a main landing gear
+collapse/nose high situation occurs, the most desirable exits are low door and low window exits.
+1.15.3 Flight Attendant Actions/Decisionmaking During the Evacuation
+During postaccident interviews, the flight attendants were asked to describe their
+actions, communications, and decisionmaking process during the evacuation procedure.
+1.15.3.1 Flight Attendant in Charge
+The FAIC, who was positioned in the forward cabin, stated that when the airplane
+came to a stop on the runway, she picked up her interphone handset and waited for instructions.
+She stated that moments later the flightcrew opened the cockpit door, and thereafter she
+communicated with the pilots without using the interphone. The FAIC indicated that when she
+heard the evacuation command, she opened the L-1 exit, pulled the manual slide inflation handle,
+and began the evacuation. She stated that she recalled receiving verbal guidance from one or
+
+30
+both of the pilots to use only the L-1 door, but she did not recall specifically when or by whom
+that guidance was given.
+The FAIC indicated that the first officer stood near the cockpit door and assisted
+her by attempting to calm the passengers during the evacuation. She stated that she instructed
+two passengers to remain at the bottom of the slide to help, but they did not do so. She stated
+that after four or five passengers “piled up” at the bottom of the slide, she slowed the pace of the
+evacuation; shortly thereafter, firefighters and police officers began to assist at the bottom of the
+slide, and there were no further problems with the evacuation. The FAIC indicated that when all
+the passengers but one had been evacuated, she exited the airplane at a firefighter’s request; the
+flightcrew remained behind to assist the remaining passenger out of the airplane.
+1.15.3.2 Second Flight Attendant
+The second flight attendant indicated that from the jumpseat she occupied
+(forward of the aft galley, on the left side of the airplane), she was able to see outside during the
+accident sequence by looking out a passenger window on the left side of the cabin. She reported
+that she saw debris and heard “slushing sounds” during the impact sequence; then when the
+airplane came to a stop, she picked up the interphone handset and waited for instructions. She
+stated that she heard two PA announcements from the cockpit: the first was made seconds after
+the airplane came to a stop and instructed passengers to remain seated, and the second PA
+announcement, which was made about a minute after the first, ordered the evacuation. She stated
+that sometime between the two announcements, she began to smell fumes, which she described
+as a combination of burned motor oil and fuel fumes.
+The second flight attendant stated that after she heard the captain’s evacuation
+command she replaced the interphone handset, got up, and began to instruct passengers to move
+forward to evacuate. During the evacuation process, the second flight attendant also obtained ice
+from the aft galley for a passenger who had bumped her head. The second flight attendant
+reported that she based her decision not to use the aft exits on the following information:
+• Passenger seating positions—no passengers were seated behind her in the
+cabin, about four passengers were located between her jumpseat and the
+overwing exits, and the rest of the passengers were seated forward of the
+overwing exits. She stated that “based on time and distance,” she believed
+that it was “one third” faster to direct passengers to evacuate through the
+forward exit.
+• The debris and “slushing sounds” she observed during the accident sequence
+led her to determine that the L-2 exit might be unsuitable for safe egress.
+• A woman seated near the jumpseat occupied by the second flight attendant
+had bumped her head as she stood up from her seat and was slow to
+move/evacuate. The second flight attendant stated that she was concerned that
+the woman might have been trampled if they had attempted to use the aft
+exits.
+
+31
+1.15.3.3 Third Flight Attendant
+According to the third flight attendant, she believed that she was somewhat
+“displaced” during the accident sequence and evacuation because she was seated on the aft cabin
+(tailcone) jumpseat and no passengers were seated in the rear of the cabin. She indicated that
+when the airplane came to a stop, she picked up the interphone to listen for instructions. She
+reported that when the captain commanded the evacuation the engines were no longer operating,
+and she had no difficulty hearing the announcement over the PA system. She stated that as she
+prepared to open the tailcone exit, the second flight attendant stopped her and indicated that they
+were evacuating through the L-1 door only.
+The third flight attendant left her position in the rear of the airplane and proceeded
+forward to help the remaining passengers. She stated that as she moved forward in the airplane,
+she began to smell fuel fumes. By the time she reached the middle of the coach section of the
+cabin, most of the passengers had moved forward into the first-class section of the airplane,
+toward the L-1 door. However, two passengers who were standing near the midsection of the
+airplane appeared disoriented and were not moving forward toward the exit. The third flight
+attendant indicated that she tried get the two remaining passengers to move forward quickly, but
+the passengers did not respond. She reported that the first officer “was telling me to hurry
+because there was extensive aircraft damage and potential for explosion.” When the first officer
+moved aft to carry one of the passengers out of the airplane, the third flight attendant exited
+through the L-1 door.
+1.15.4 Delta Flight Attendant Training
+According to Delta's Flight Attendant Training Manager, Delta's flight attendants
+are instructed that every emergency situation is different and that flight attendants should follow
+the evacuation guidelines outlined in the in-flight service on board manual, make an individual
+assessment of the conditions, and use appropriate exits.
+1.15.5 Previous Safety Board Recommendation—Flight Attendants’ Actions
+A review of the Safety Board’s previous recommendations concerning flight
+attendants’ actions during emergency evacuation procedures revealed that as a result of
+information gathered in several accident investigations, on August 12, 1992, the Safety Board
+issued Safety Recommendation A-92-077, which recommended the following to the FAA:
+Require that flight attendants receive crew resource management training that
+includes group exercises in order to improve crewmember coordination and
+communication.
+In response, the FAA revised AC 120-51B, “Crew Resource Management
+Training,” to provide information concerning training that includes combined flight and cabin
+crewmember exercises, and it published its final rule, “Air Carrier and Commercial Operator
+
+32
+Training Programs,” which requires that air carriers include CRM training for flight attendants in
+their FAA-approved training program.
+On July 15, 1996, based on the FAA’s actions, the Safety Board responded, in
+part:
+Because of the FAA’s…adequate general definition of a comprehensive CRM
+program, the [Safety] Board classifies…A-92-077… “Closed—Acceptable
+Action.” However, based on safety issues previously identified by the [Safety]
+Board in its accident investigations, the [Safety] Board encourages the FAA to
+provide additional guidance to air carriers about the importance of group
+exercises involving both cockpit-cabin coordination and coordination among
+the individual members of a flight attendant crew.
+At the time of the accident, Delta pilots received 3 hours of CRM training during
+the 2-day ground school portion of their annual recurrent training; the 3 hours consisted of a 2-
+hour segment of joint flight and cabin crew CRM training and an additional 1-hour segment for
+flightcrew members only.
+1.16 Tests and Research
+No additional tests and research were conducted in this accident.
+1.17 Company/Flight Operations Information
+At the time of the accident, Delta had approximately 68,000 employees and
+operated 536 aircraft with more than 2,700 flights each day to 153 domestic and 51 foreign
+destinations. Delta’s fleet included 52 Lockheed L-1011, 58 Boeing 767, 86 Boeing 757, 67
+Boeing 737, 129 Boeing 727, 12 MD-11, 12 MD-90, and 120 MD-88 aircraft. Delta has
+operated the MD-88 aircraft since December 1987.
+1.17.1 Delta’s Procedures and Guidance Regarding Flightcrew Responsibilities
+During CAT I ILS Approach to Land
+During postaccident interviews, several Delta MD-88 check airmen/flight
+instructors and the pilots of Delta flight 554 stated that Delta’s manuals did not contain detailed
+guidance for pilot not flying (PNF) duties after visual contact with the runway environment is
+established during a Category (CAT) I ILS approach. A review of Delta’s manuals supported
+that comment; excerpts from Delta Air Lines’ FOM and the POM/PRM will be discussed in this
+section.
+Delta's FOM, chapter 7, "Normal Operations," addresses flightcrew duties and
+responsibilities during normal flight operations, including instrument approaches. On page 7-46
+(dated November 30, 1995), under the heading "Instrument Approach Procedures—General," the
+FOM states the following:
+
+33
+Approach and landing should be planned to maintain minimum drag
+configurations as long as possible, safety and conditions permitting, while still
+meeting the stabilized approach requirements.
+The aircraft should be stabilized on final approach in the landing configuration
+at least 1,000 feet AFE [above field elevation] except where this conflicts with
+nonprecision approach procedures.
+Any abnormal condition, such as tail wind as evidenced by higher than normal
+sink rate while maintaining glide slope and airspeed, should be verbalized.
+If operable, both the Autopilot and Flight Director will be utilized for all ILS
+approaches when the reported visibility is below RVR 4000 or ¾ mile.
+On page 7-48 (dated August 31, 1995), under the heading "Decision to Land," the
+FOM states the following, in part:
+During all instrument approaches, regardless of who is flying, the Captain
+shall announce his decision to allow the aircraft to continue to a landing or to
+execute a missed approach. This decision must be made no later than:
+• CAT I Approaches—[Decision Altitude or Height/Missed Approach
+Point] DA(H)/MAP
+• CAT II ILS Approaches—DA(H)/RA
+• CAT III ILS Approaches—AH/DH
+The Captain will state, and the F/O will acknowledge (when operating to an
+MDA or DH):
+If and when visual reference is established with the runway
+• "Approach lights in sight" or
+• "Runway in sight"
+Note: The "runway in sight" callout does not relieve the PF from the
+responsibility to execute a missed approach if it would be unsafe to continue
+to a landing.
+If either visual reference is not established or a safe landing cannot be
+accomplished in the touchdown zone
+• "Missed approach"
+Also, on page 7-48, under the heading "Descent Below DH/MDA," the FOM
+states the following:
+
+34
+Upon reaching the DH/MDA, and at any time before the missed approach
+point, the pilot may continue the approach below the DH or MDA and touch
+down if meeting the conditions listed in the Airway Manual—Procedures
+(Ops. Specs.).
+On page 7-49 (dated June 30, 1996), under the heading "Crew Duties," the FOM
+states the following, in part:
+On each instrument approach the Captain shall ensure all requirements for the
+approach are met. The duties below are the normal duties for all pilots,
+however, the Captain may assign additional duties as required.
+Pilot Flying (PF) Duties
+• All Approaches
+¤ Fly the aircraft.
+¤ Conduct a suitable approach briefing.
+¤ Conduct the approach as outlined in the POM.
+¤ Crosscheck all instruments.
+¤ After passing the final approach fix using the autopilot, the pilot
+flying should follow through on the controls and be prepared to
+immediately disengage the autopilot and autothrottles if
+performance is not satisfactory.
+• CAT I and CAT II
+¤ Adjust scan pattern approaching MDA or DA(H)/RA to include
+outside references.
+¤ Primary duty continues to be accurate aircraft control
+approaching DA(H) or MDA and maintaining MDA as
+required.
+¤ Either pilot may initially call "Runway in sight" (except CAT II).
+¤ Autopilot may be disconnected when "runway in sight" is
+established.
+¤ The Captain must make the decision to continue or to execute a
+missed approach.
+¤ The PF will continue the approach or execute the missed approach.
+¤ Refer to Airway Manual—Procedures (Ops. Specs.) section for
+description of visual cues that allow operation below MDA or
+DA(H)/RA.
+
+35
+Pilot Not Flying (PNF) Duties
+• All Approaches
+¤ Positively make all Standard Callouts.
+¤ Crosscheck all instruments, both primary and raw data.
+¤ Closely monitor flight instruments.
+¤ Call attention to any flight path deviations, flags or
+malfunctions. Any deviation from the published
+approach should immediately be brought to the
+attention of the PF.
+¤ After establishing visual contact, the PNF must
+continue to monitor the flight instruments through
+the flare. Call out any significant deviation to
+minimize the effects of possible visual illusions for
+the PF.
+¤ Monitor airspeed and sink rate through touchdown.
+¤ After landing, F/O assists in runway and taxiway identification.
+¤ If the approach cannot be continued, assist in execution of missed
+approach.
+¤ Pay particular attention to rotation, thrust, positive rate of climb,
+airspeed, gear/flap retraction, and the missed approach procedure.
+• CAT I
+¤ Approaching DA(H), or MDA,
+¤ Closely monitor flight instruments.
+¤ Adjust scan to include outside references and verbalize
+those observed.
+Delta’s MD-88/90 POM, on pages 10-12 of the section entitled “Normal
+Procedures,” states that during all CAT I ILS approaches, the PNF will make the following
+callouts:
+• First positive movement of localizer—“localizer alive”
+• First positive movement of glide slope bar—“glide slope alive”
+• At approximately 1000 feet above DH—“1,000 above, cleared to land,” or
+“1,000 above, no landing clearance”
+• Approaching DH—“200 above” and “100 above”
+• At DH—“minimums”
+At the time of the accident, the POM stated that at or before the DH, the PF will
+call “Approach lights in sight,” “runway in sight,” or “missed approach,” and the PNF will
+acknowledge that callout.
+
+36
+1.17.1.1 First Officer’s Actions During Approach to Land
+During postaccident interviews, the first officer stated that from the time he made
+the “one thousand above minimums” callout during the approach, he looked almost exclusively
+at the instruments until the captain called out “approach lights in sight”; after which point the
+first officer “glanced out a few times.” The first officer indicated that when he stated, “a little bit
+high” and “above the glide slope” he was looking at the glideslope indicator on the instrument
+panel; however, he believed that when he said “approach lights, we’re left of course,” he had
+glanced outside. The first officer reported that he believed that the approach was a good, stable
+approach—not rushed—until a few seconds before impact. However, about 3 seconds before
+impact, he had the sensation that they would touch down short of the runway. He stated that at
+that point, he looked outside the cockpit and saw the approach end of the runway. Information
+obtained from the FDR, CVR, and flight and cabin crew statements indicate that the captain
+applied power about the same time (1638:33) as the first officer called out “nose up.”
+The first officer stated that because the guidance contained in Delta’s manuals
+concerning the duties of the PNF during a CAT I ILS approach were “not real specific as [to]
+what [the PNF] should be monitoring,” he followed his own personal procedures. He reported
+that his personal practice after the PF established ground contact was to monitor the cockpit
+instrumentation, provide the captain with information, and be ready to take over control of the
+airplane if necessary. He indicated that he did not believe that he needed to take over control of
+the airplane at any time during flight 554’s approach to runway 13; he stated, “as I said or
+thought to do something, [the captain] was doing it. I don’t think I could have done much more.”
+1.17.1.2 Delta’s Postaccident Actions Regarding PF/PNF Duties
+As a result of this accident, Delta’s program managers discussed PNF duties and
+landing callout requirements in several Joint Standards Meetings. The minutes from the
+February 1997 meeting indicated that the program managers discussed the non-flying pilot’s
+callout requirements in effect at other air carriers, which included the following:
+• 1,000 feet agl
+• 500 feet agl
+• every 100 feet thereafter to 100 feet agl, then
+• 50 feet agl
+• 40 feet agl
+• 30 feet agl
+• 20 feet agl
+• 10 feet agl
+According to the minutes from that meeting, Delta’s program managers concluded
+that their “…scan policy is adequately explained in [the proposed revision pages of the FOM
+which do not contain such callout requirements]…we wanted the PNF to be aware of the outside
+
+37
+environment in the final phase of an approach/landing.” The minutes further indicated, “A
+methodical approach to teaching our scan policy is needed.”
+According to the minutes from the March 1997 Joint Standards Meeting, the
+program managers agreed to revise the Maneuvers section of the FOM to reflect increased details
+concerning PF and PNF scanning responsibilities during instrument approaches. The following
+procedures are expected to be included in the revision, which is still in draft form:
+Scan Policy:
+• Approach scan policy is set to ensure someone is always focused on
+airspeed, altitude and profile.
+• Approach scan responsibilities for the PF and PNF are listed below.
+• IN means primary responsibility is inside the aircraft.
+• OUT means primary responsibility is outside the aircraft.
+• The item inside the parenthesis ( ) means secondary responsibility.
+PF PNF
+Runway Environment NOT in Sight IN (out) IN (out*)
+Runway Environment in Sight OUT (in) IN (out)
+• Except for CAT II and CAT III approaches.
+1.17.2 Stabilized Approach Criteria
+As mentioned previously, several Delta MD-88 check airmen/flight instructors
+and the pilots of Delta flight 554 stated that Delta’s manuals did not contain a formal definition
+of a stabilized approach, and that the only specific guidance concerning pilot actions during an
+unstabilized approach was located in the windshear guidance section. A review of Delta’s flight
+and pilot manuals supported their statement; although the word "stabilized" and the terms
+"stabilized approach" and “unstabilized flightpath” appear several times, the manuals did not
+define these terms, nor did they prescribe stabilized approach criteria. Excerpts from Delta’s
+FOM, POM/PRM, and airway manual regarding stabilized approaches will be discussed in this
+section.
+The FOM did address basic aircraft operation parameters in various phases of
+flight. In chapter 21, “Training,” under the heading "Pilot Qualification Standards," aircraft
+operation parameters during the approach to land are outlined in part as follows:
+Note: The tolerances described below, and throughout this document,
+represent the performance expected in good flying conditions.
+Aircraft Control
+Maintains within the following parameters unless otherwise stated:
+
+38
+• Airspeed within +/- 10 knots, except for target airspeed
+• Heading within +/- 10 [degrees]
+• Altitude within +/- 100 feet
+Approach
+The pilot will maintain aircraft performance within the following tolerances
+for the approach being flown.
+CAT I Precision Approach Tolerances are listed as follows:
+Final approach segment -- Localizer and glide path -- +/- 1 Dot
+At DA -- Localizer -- +/- ½ Dot
+-- Glide path -- +/- 1 Dot
+The FOM did not contain specific procedural guidance with regard to pilot actions
+if approach tolerances were exceeded. Delta’s MD-88/90 POM guidance concerning flightcrew
+procedures in the event of an unstabilized condition is contained in the Supplemental Information
+section, under the heading “Wind shear Guidance.” On pages 32-33 of the POM’s
+“Supplemental Information” section, it states the following, in part:
+The following criteria for indications of an unstabilized flight path are
+published only as a guideline.
+CRITERIA FOR RECOGNIZING AN UNSTABILIZED FLIGHT
+PATH
+• +/- 15 KIAS
+• +/- 500 fpm vertical speed
+• +/- 5o pitch attitude
+• 1 dot from glide slope
+• Unusual throttle position for an extended period of time
+• Wind shear system advisory (caution or warning)
+When to Initiate a Recovery
+Initiate the standard recovery technique when an unstabilized flight path or
+marginal aircraft performance is indicated by:
+• Wind shear below 1,000 feet [above field elevation] AFE:
+¤ Criteria exceeded for an unstabilized flight path or
+¤ Wind shear caution or warning annunciated by the wind shear
+detection system.
+• Severe or extreme turbulence encountered below 1,000 AFE.
+• Stall warning encountered:
+
+39
+¤ Buffet, stick shaker or stall warning horn.
+The Delta airway manual contained similar discussions of stabilized and
+unstabilized conditions in chapter 4 (Weather), in the section entitled “Hazardous Weather.” On
+page 4-7, under the heading “Wind shear—Decision Tree,” the Delta airway manual outlined the
+criteria for unstabilized flightpath, consistent with pages 32-33 of the POM Supplemental
+Information listed earlier in this section, and provided an outline for standard recovery technique.
+On page 4-11, the Delta airway manual states the following, in part:
+Heavy rain may have as significant an effect on airplane performance as wind
+shear. Consider using the wind shear adjustment of up to 20 knots when
+determining Target Airspeed.
+If heavy rain is experienced during approach, initiate prompt attitude
+correction to arrest any increase in descent rate, and immediately apply
+adequate thrust to maintain Target Airspeed.
+1.17.2.1 Previous Safety Board/FAA Actions Regarding Stabilized Approaches
+As a result of an accident that occurred on September 8, 1989, involving a Boeing
+737 near Kansas City, Missouri, the Safety Board issued Safety Recommendation A-90-131,
+which recommended the following to the FAA:
+Direct principal operations inspectors [POIs] to verify that the airlines they
+surveil have clearly established stabilized approach and missed approach
+procedures for nonprecision approaches, such as full-scale deflection of
+localizer needle when the airplane is inside the final approach fix.
+On May 31, 1991, the FAA revised Air Carrier Operations Bulletin (ACOB) 7-76-
+31, directing all POIs to verify that appropriate air carriers have clearly established stabilized
+approach and missed approach procedures for nonprecision approaches. The Safety Board
+subsequently classified Safety Recommendation A-90-131 “Closed—Acceptable Action.”
+As a result of an accident that occurred on June 8, 1992, involving a Beech C99,
+near Anniston, Alabama, the Safety Board issued Safety Recommendation A-93-36, which
+recommended the following to the FAA:
+Require that scheduled air carriers operating under 14 CFR Part 135 develop
+and include in their flight operation manuals and training programs stabilized
+approach criteria. The criteria should include specific limits of localizer,
+glideslope, and VOR needle deflections and rates of descent, etc., near the
+airport, beyond which initiation of an immediate missed approach would be
+required.
+
+40
+On December 29, 1994, the FAA issued Flight Standards Information Bulletin
+(FSIB) Air Transportation (FSAT) 94-22, “Stabilized Approaches,” which states the following,
+in part:
+POLICY. FAA Principal Operations Inspectors (POIs) should strongly
+encourage operators to incorporate the stabilized approach concept [contained
+in FAA Order 8400.10, paragraph 511] into their approach procedures. POIs
+also should ensure that the IFR practices, as discussed in [FAA Order]
+8400.10, paragraph 547 [generic CAT I callouts], are incorporated into the
+procedures used by all operators who conduct IFR operations.
+Based on the FAA’s action, on July 19, 1995, the Safety Board classified Safety
+Recommendation A-93-036 “Closed—Acceptable Alternate Action.” The “stabilized approach
+concept” guidance referenced in FSAT 94-22, FAA Order 8400.10, paragraph 511, dated
+December 20, 1994, states the following, in part:
+Maintaining a stable speed, descent rate, vertical flight paths, and
+configuration is a procedure commonly referred to as the stabilized approach
+concept. Operational experience has shown that the stabilized approach
+concept is essential for safe operations with turbojet aircraft, and it is strongly
+recommended for all other aircraft…. A stabilized approach for turbojet
+aircraft means that the aircraft must be in an approved landing
+configuration…must maintain the proper approach speed with the engines
+spooled up, and must be established on the proper flightpath before
+descending below the minimum “stabilized approach height” specified for the
+type of operation being conducted. These conditions must be maintained
+throughout the rest of the approach for it to be considered a stabilized
+approach. Operators of turbojet aircraft must establish and use procedures
+which result in stabilized approaches…. A stabilized approach must be
+established before descending below…1,000 feet above the airport or
+touchdown zone elevation during any straight-in instrument approach in
+instrument flight conditions.
+On June 26, 1995, the FAA issued FSAT 95-10A, “Instrument Approach
+Procedures and Training,” which contains guidance that “reflects FAA analysis and the latest
+information and recommendations [from the NTSB] regarding instrument approach procedures.”
+The guidance addresses the “stabilized approach concept,” and states the following, in part:
+The “stabilized approach concept” of 8400.10, [paragraph] 511, will be
+considered essential for safe operations for “all” (emphasis added) aircraft in
+air carrier operations. Moreover, 1,000 feet per minute will normally be
+considered the maximum allowable for a stabilized approach inside the final
+approach fix. Descent rates in excess of 1,000 feet per minute will be cause
+for consideration to abandon the approach.
+
+41
+1.17.2.2 Delta’s Actions Regarding Stabilized Approaches
+A review of the minutes from Delta’s Joint Standards Meetings and flight
+instructor standards meetings that took place between January 1996 and September 1996
+indicated that stabilized approach definition, criteria, and guidance had been a topic of
+discussion. The minutes from the April 16, 1996, Joint Standards Meeting indicated that an “Old
+Business” item was a proposal to further define “stabilized approach” in the FOM. The minutes
+indicated that action would be taken on this item before the next FOM revision.
+Since the accident, Delta has issued a revision to chapter 7, “Normal Operations,”
+of the FOM, which states the following, in part:
+Stabilized Approach Requirements
+Maintaining a stable speed, descent rate, and vertical/lateral flight path in
+landing configuration is a procedure commonly referred to as the stabilized
+approach concept. Chapter 21—Training (Pilot Qualification Standards)42
+contains the acceptable parameters for a stabilized approach.
+Any significant deviation from planned flight path, airspeed, or descent rate
+must be verbalized. The decision to execute a go-around is no indication of
+poor performance.
+WARNING
+Do not attempt to land from an unstable approach.
+IMC
+At 1,000 feet AFE, and on final, the aircraft must be:
+•
+Configured for landing.
+•
+Maintaining stabilized descent rate, if descending.
+•
+On target airspeed within tolerance, or speed being reduced toward target
+airspeed if higher was necessary.
+At 500 feet AFE, the aircraft must be:
+•
+Maintaining stabilized descent rate not to exceed 1,000 FPM, if
+descending.
+•
+On target airspeed within tolerance.
+•
+Established on course.
+42 The guidance and parameters contained in Chapter 21 were previously discussed in
+section 1.17.2, “Stabilized Approach Criteria.”
+
+42
+CAUTION
+These conditions must be maintained throughout the rest of the approach
+for it to be considered a stabilized approach. If the above criteria cannot be
+established and maintained, at and below 500 feet AFE, initiate a go-
+around.
+VMC….
+Crossing the Runway Threshold
+As the aircraft crosses the runway threshold it must be:
+•
+Stabilized within tolerance on target airspeed until arresting descent rate at
+flare.
+•
+On a stabilized flight path using normal maneuvering.
+•
+Positioned to make a normal landing in the touchdown zone (i.e., first
+3,000 feet or first third of the runway, whichever is less).
+CAUTION
+Initiate a go-around if the above criteria cannot be maintained.
+Instrument Approach Procedures
+General
+Use all suitable electronic and visual systems. If an ILS Glideslope or VASI is
+available, do not descend below the ILS Glideslope prior to the Middle
+Marker or below the VASI Glideslope until a lower altitude is necessary for a
+safe landing.
+1.17.3 Crew Resource Management (CRM) Training
+Safety Board personnel examined Delta’s Human Factors/CRM training program
+and syllabus. According to Delta’s training syllabus, the Human Factors/CRM training includes
+an overview of the background of Human Factors/CRM training followed by discussion of CRM
+skills and flightcrew roles in areas such as communications, coordination, planning, workload
+management, situational awareness management, and decisionmaking. Delta’s CRM training
+then focuses on the following seven areas of awareness:
+• Crew Specific Behaviors
+• Stress
+• Fatigue
+• Leadership/Followership
+• Personality
+• Effective Assertion
+• Automation Pitfalls
+
+43
+Chapter 23 in Delta’s FOM, “Human Factors,” states, “CRM develops the skills,
+techniques, attitudes, and behaviors air crews use to direct, control, and coordinate all available
+resources towards the safe and effective operation of their aircraft. These skills enhance the
+safety and effectiveness of your crew (pilots and flight attendants) as well as the expanded team
+(dispatch, line maintenance, ramp service, etc.).” The FOM further states that the captain’s
+command authority is not lessened by CRM; however, “inquiry, advocacy, and assertion by
+crew/team members allows for better informed decisions.” Delta’s FOM indicates that first and
+second officers should “offer or assert [their] perspective when safety and/or efficiency would be
+enhanced.”
+According to Delta’s training program development program manager, at the time
+of the accident, Delta Air Lines provided initial CRM training to newly hired pilots as part of its
+initial training program. Additionally, pilots received 3 hours of CRM training during the 2-day
+ground school portion of their annual recurrent training, and CRM issues were emphasized
+during Delta’s captain and first officer upgrade training.
+1.18 Additional Information
+1.18.1 FAA Oversight of Airman Medical Certification (Vision)
+According to the June 1995 FAA Aeronautical Information Manual (AIM),
+chapter 8, “Medical Facts for Pilots”:
+All pilots except those flying gliders and free air balloons must possess valid
+medical certificates in order to exercise the privileges of their airman
+certificates. The periodic medical examinations required for medical
+certification are conducted by designated Aviation Medical Examiners
+[AMEs], who are physicians with a special interest in aviation safety and
+training in aviation medicine.
+Pilots who do not meet medical standards may still be qualified under special
+issuance provisions or the exemption process. This may require that either
+additional medical information be provided or practical flight tests be
+conducted.
+Title 14 CFR 67.19 discusses the special issue of medical certificates as follows:
+At the discretion of the Federal Air Surgeon, a medical certificate may be
+issued to an applicant who does not meet the applicable provisions…if the
+applicant shows to the satisfaction of the Federal Air Surgeon that the duties
+authorized by the class of medical certificate applied for can be performed
+without endangering air commerce during the period in which the certificate
+would be in force.
+
+44
+1.18.1.1 Vision Requirements for Certification
+The standards for pilot medical certification are described in 14 CFR Part 67,
+which was most recently updated in September 1994. According to Part 67.13, to be eligible for
+a first-class medical certificate, an applicant must meet the following vision requirements:
+1.) Distant visual acuity of 20/20 or better in each eye separately, without
+correction; or of at least 20/100 in each eye separately corrected to 20/20 or
+better with corrective lenses (glasses or contact lenses) in which case the
+applicant may be qualified only on the condition that he wears those corrective
+lenses while exercising the privileges of his airman certificate.
+2.) Near vision of at least v=1.00 at 18 inches with each eye separately, with or
+without corrective glasses.
+3.) Normal color vision.
+4.) Normal fields of vision.
+5.) No acute or chronic pathological condition of either eye or adenexae that
+might interfere with its proper function, might progress to that degree, or
+might be aggravated by flying.
+6.) Bifocal fixation and vergencephoria relationship sufficient to prevent a break
+in fusion under conditions that may reasonably occur in performing airman
+duties.
+According to current FAA medical certification regulations, the FAA may grant
+any class medical certificate to monocular applicants (applicants with only one usable eye), as
+long as the applicant demonstrates the required near visual acuity with the usable eye and
+demonstrates to the satisfaction of the Federal Air Surgeon that the applicant can perform the
+duties authorized by the class of medical certificate applied for without jeopardizing the public’s
+safety. In response to the Safety Board’s request for additional information on medical
+certification of pilots with one usable eye, the acting manager of the aeromedical certification
+division of the FAA’s Civil Aeromedical Institute (CAMI) submitted the following explanation
+of FAA policy:
+An airman with one eye, or with effective visual acuity equivalent to
+monocular (i.e. best corrected distant visual acuity in the poorer eye is no
+better than 20/200), may be considered for medical certification, any class,
+through the special issuance procedures of Part 67…if:
+I) A 6-month period has elapsed to allow for adaptation to monocularity,
+II) A complete evaluation by an eye specialist, as reported on FAA Form
+8500-7, Report of Eye Evaluation, reveals no pathology of either eye
+which could affect the stability of the findings,
+III) Uncorrected distant visual acuity in the better eye is 20/200 or better and is
+corrected to 20/20 or better by lenses of no greater power than plus or
+minus 3.5 diopters spherical equivalent, and
+IV) The applicant passes an FAA medical flight test.
+
+45
+He further stated, “For a binocular applicant, contact lenses that correct near
+visual acuity only or that are bifocal are not considered acceptable for aviation duties; the first for
+obvious reasons, the latter because of our concerns for their effectiveness. The use of a contact
+lens in one eye for distant visual acuity and a lens in the other eye for near visual acuity is not
+acceptable because this procedure makes the pilot an effective ‘alternator,’ i.e. a person who uses
+one eye at a time, suppressing the other. Stereopsis43 [binocular vision] is lost. Since this is not
+a permanent condition for either eye in such persons, there is no adaptation such as occurs with
+permanent monocularity.” A copy of the statement is included in appendix D.
+In 1968-1969, a U.S. Air Force (USAF) flight research program44 performed a
+series of accuracy landing experiments that documented USAF pilots’ performance with and
+without one eye patched, in an attempt to determine the degree of impairment experienced by
+pilots as a result of loss of binocular vision. The USAF report stated that in general, the pilots
+who participated in the experiments experienced a sense of diminished brightness, a marked lack
+of confidence in their ability to accurately judge height, and a significant increase in workload
+during monocular landings. The USAF analysis of the data gathered resulted in the following
+conclusions:
+1. Spot landing performance in jet aircraft is not adversely affected by the
+sudden total loss of vision in either eye. This observation has
+important implications with regard to aeromedical standards.
+2. Significantly steeper approaches are observed during monocular
+landings than those observed during approaches made with normal
+vision. It is suggested that the pilots’ lack of confidence in their ability
+to accurately judge height during monocular approaches was
+responsible for the steeper approaches reported.
+3. Eye dominance is shown not to affect monocular landing performance
+(95% level of confidence).
+4. Noticeable increases in pilot workload are subjectively reported during
+monocular landings.
+5. It is suggested that monocular pilots may not experience significant
+losses in their “functional” visual field; a definitive study is indicated.
+The USAF report recognized that the experiments did not address the “problem of
+restricted peripheral vision” on the blinded side, and indicated that future studies should address
+that issue. A copy of the USAF results is included in appendix D.
+43 According to T. J. Tredici, stereopsis “…is the visual appreciation of three dimensions
+during binocular vision, occurring during fusional signals from slightly disparate retinal points, which
+cause different retinal images in each eye… .” For the remainder of the report, the term “binocular
+vision” will be used to indicate stereopsis.
+44 Lewis, C.E. Jr., Krier, G.E. Flight Research Program XIV: Landing performance in jet
+aircraft after the loss of binocular vision. Aerospace Medicine, September 1969.
+
+46
+1.18.1.2 Information/Guidance Available to AMEs and Optometrists
+According to the FAA’s September 199645 Guide for Aviation Medical
+Examiners, the Federal Air Surgeon has determined that applicants for a first- and/or second-
+class medical certificate must demonstrate at least 20/20 distant visual acuity and 20/40 near
+visual acuity with each eye separately, with or without correction. Applicants for a third-class
+medical certificate must demonstrate a near visual acuity of at least 20/60 in each eye separately,
+with or without correction. The Guide contains the following guidance for AMEs with reference
+to an applicant’s need for corrective glasses/lenses and the resultant flight limitations:
+When correcting glasses are required to meet the near vision standards, an
+appropriate limitation will be placed on the medical certificate. Contact lenses
+that correct only for near visual acuity are not considered acceptable for
+aviation duties.
+If the applicant meets the uncorrected near vision standard of 20/40, but
+already uses spectacles that correct the vision better than 20/40, it is
+recommended that the Examiner enter the limitation for near vision corrective
+glasses on the certificate.
+The use of a contact lens in one eye for distant visual acuity and another
+in the other eye for near visual acuity [monovision contact lenses] is not
+acceptable (emphasis added).
+For all classes, the appropriate wording for the near vision limitation is
+“Holder shall possess corrective glasses for near vision.” Possession only is
+required, because it may be hazardous to have distant vision obscured by
+the continuous wearing of reading glasses (emphasis added).
+For combined defective distant and near visual acuity when unifocal glasses or
+contact lenses are used and correct both, the appropriate limitation is: “Holder
+shall wear corrective lenses.”
+The September 1996 Guide for Aviation Medical Examiners also contained the
+following information concerning contact lens use:
+Experience has indicated no significant risk to aviation safety in the use of
+contact lenses for distant vision correction. As a consequence, no special
+evaluation is routinely required before the use of contact lenses is authorized,
+and no [Statement of Demonstrated Ability] SODA is required or issued to a
+45 The information contained in the September 1996 Guide for Aviation Medical
+Examiners is consistent with the information available to the AME who issued the captain’s most recent
+medical certificate.
+
+47
+contact lens wearer who meets the standards and has no complications.
+Contact lenses that correct near visual acuity only or that are bifocal are
+not considered acceptable for aviation duties. Similarly, the use of a
+contact lens in one eye for distant visual acuity and a lens in the other eye
+for near visual acuity is not acceptable. (Emphasis added.)
+The AME who had examined the captain for airman medical certification
+indicated that although he was not specifically aware that MV contact lenses were not approved
+for use while flying, if the issue had come up with airman medical certificate applicants, he
+would have advised them not to use MV correction when flying. He did not recall discussing
+MV correction with the captain; further, he indicated that it was unlikely that such a discussion
+took place, because he did not know that the captain possessed contact lenses.
+Although corrected and uncorrected vision testing is included in the airman
+medical certificate examination, AMEs are not required to ask pilots whether they possess/wear
+contact lenses; pilots who require vision correction are required to bring contact lenses or glasses
+to the examination. Additionally, although the airman medical certificate application, FAA Form
+8500-8, contains numerous questions concerning the applicant’s medical history, the application
+does not ask whether the applicant uses contact lenses. The AME who examined the captain
+reported that if he was aware that a pilot wore contact lenses, he would ask that pilot to bring the
+contact lenses to his or her examination; otherwise (as occurred when the captain was examined),
+the pilots generally brought their glasses.
+According to several optometrists interviewed during this investigation, no
+published information tells optometrists that the use of MV contact lenses by pilots while flying
+is prohibited. The literature on MV contact lenses provided to optometrists by one manufacturer
+(for distribution to patients) indicated, “Monovision is a contact lens fitting technique that lets
+you see clearly both near and far…without the bother of bifocals,” and did not refer to any
+hazards or contraindications. A copy of the literature on MV contact lenses is included in
+appendix D.
+1.18.2 Information on Monovision (MV) Contact Lenses
+Optometrists indicated that traditionally, bifocal, and even trifocal, spectacles
+have been prescribed for individuals who need both distant and near vision correction. However,
+they indicated that with increasing frequency, optometrists are prescribing MV contact lenses in
+place of bifocal spectacles for these individuals.
+According to USAF medical personnel,46 when an individual has symmetrical
+binocular vision, the brain fuses the two images presented by the eyes into a single image,
+46 Brooks Air Force Base personnel, including Jose L. Perez-Becerra, Lt. Col., USAF, FS
+(Staff Ophthalmologist); Thomas J. Tredici, M.D. (Senior Scientist); and Douglas J. Ivan, Col., USAF,
+MC, CFS (Chief, Ophthalmology Branch).
+
+48
+resulting in three-dimensional vision, which aids in the determination of distance from objects in
+the environment (depth perception). USAF medical personnel also reported that although the
+brain is able to fuse the images presented through bifocal spectacles normally, it is unable to fuse
+the disparate images presented through MV contact lenses normally, which can result in
+monocular vision in individuals wearing MV contact lenses. Additionally, the USAF medical
+personnel indicated that the eye wearing MV contact lens correction for near vision will present a
+blurred image to the brain when used for distance vision; although the brain will try to
+accommodate by “suppressing” the blurred image, that accommodation is rarely complete.
+USAF research personnel indicated that stereoscopic vision is normally most
+critical in determining the distance from objects close to an individual, although stereoscopic
+vision is generally accurate to distances of up to 600 feet. They stated that beyond about 20 to 25
+feet, monocular cues,47 such as comparative size, motion parallax, interposition, texture,
+convergence, and perspective, usually assume an increasing role in the judgment of distance.
+Because the use of MV contact lenses results in degraded depth perception and occasional
+blurred images, an individual wearing MV contact lenses will rely more heavily on monocular
+cues under all circumstances to judge distance than an individual wearing binocular vision
+correction.
+1.18.2.1 The Captain’s Use of Monovision Contact Lenses
+According to the AME who had routinely examined the captain for airman
+medical certification since 1984, the captain had 20/20 vision in both eyes until 1989. Records
+indicate that since 1989, the captain’s distance vision remained 20/20 without correction, but his
+near vision worsened. The AME stated that before the accident occurred, he believed that the
+captain corrected his near vision with glasses.
+According to the captain’s optometrist, the captain became a client in February
+1990 and first obtained MV contact lenses in 1991. The optometrist indicated that a lot of his
+patients were airline pilots, and he knew that the captain was an airline pilot before the accident
+occurred. He further stated that he was unaware that the use of MV contact lenses while flying
+was not approved. The optometrist told investigators that in general, he felt “someone in a
+position of public safety” should use bifocal correction (spectacles) rather than MV contact
+lenses. He further stated that binocular vision correction would be preferable for pilots while
+performing flying duties, because there is a need for stable near and distant vision in cockpit
+situations. He reported that a pilot’s use of MV contact lenses could impair sink rate perception,
+depth perception at some distances, and scanning vision, especially on the side with near vision
+correction. The captain of Delta flight 554 had near vision correction in the left lens.
+The optometrist stated that MV contact lenses can impair depth perception,
+especially at distances of less than 20 to 25 feet. He further indicated that the impairment
+resulting from using MV contact lenses could make it more difficult to land a small airplane or
+47 Monocular cues are depth cues that do not require binocular vision.
+
+49
+parallel park a car; in his opinion, the use of MV contact lenses should not adversely affect depth
+perception at distances greater than 25 feet. The optometrist did not perform a depth perception
+test on the captain.48 The optometrist did not specifically recall discussing the limitations of MV
+contact lenses with the captain when he first prescribed the lenses, and his medical notes did not
+indicate that he discussed the issue with the captain.
+According to the captain, he began using MV contact lenses several months after
+he began using glasses. He indicated that he had been using either bifocal spectacles or MV
+contact lenses with distance and near vision correction since 1990. He stated that he became
+accustomed to the MV contact lenses easily, and that he had not perceived any deficiency in
+vision or depth perception when wearing the MV contact lenses. The captain reported that he
+used the MV contact lenses interchangeably with the glasses for general use, and that he used
+MV contact lenses for vision correction approximately 75 percent of the time that he flew. The
+captain indicated that he had not noted any problems wearing the contact lenses while driving or
+flying. He stated that because he had flown with FAA medically certificated pilots who operated
+with what he considered to be a worse deficiency (pilots with only one usable eye), he had
+believed that MV contact lenses would be acceptable for use by pilots while flying. He stated
+that he was unaware that MV contact lenses were not approved for use by pilots while flying.
+1.18.2.2 Captain’s Postaccident Vision Test Results
+In an attempt to determine whether the captain’s use of MV contact lenses was an
+issue in the accident, the Safety Board requested a complete ophthalmological evaluation of the
+captain’s vision and depth perception. The captain’s vision, fusion, and binocular vision were
+tested and documented under the following conditions: uncorrected, corrected with bifocal
+spectacles, and corrected with MV contact lenses.
+According to the results of the examination, the captain’s uncorrected distance
+vision in both eyes was 20/20 and his uncorrected near vision in both eyes was 20/70. He had
+fusion of binocular images at all distances;49 however, his uncorrected near binocular vision (200
+seconds/15o of arc) was below the norm,50 and his uncorrected distance binocular (120 seconds)
+was only one increment better than the worst measurement unit.51
+48 For details on the captain’s postaccident vision test results, including depth perception,
+see section 1.18.2.2.
+49 The Worth 4 dot method was used to evaluate fusion.
+50 The Titmus method measurements are as follows: best = 40 seconds/15o of arc, norm =
+40 seconds/15o of arc, and worst = 800 seconds/15o of arc.
+51 Binocular vision was measured by the Titmus (near) and BVAT (distant) methods.
+According to the ophthalmologist who examined the captain, although the Titmus method has a well-
+established and accepted norm, the norm for the BVAT method is not as well standardized. However,
+BVAT units of measurement double in incremental increase; the best and worst measurements are 15
+seconds and 240 seconds, respectively.
+
+50
+Additionally, the examination revealed that the captain’s corrected vision using
+bifocal spectacles was 20/20 in both eyes for both near and distant vision; he had fusion of
+binocular images at all distances; his near binocular vision (40 seconds/15o of arc) was
+documented at the best increment; and his distance binocular vision (120 seconds) was one
+increment better than the worst measurement unit.
+Finally, the ophthalmologist evaluated the captain’s vision corrected by MV
+contact lenses, with the right eye contact lens correcting for distance vision and the left eye
+contact lens correcting for near vision. The results indicated that the captain’s distance vision
+was 20/20 +2 in the right eye and 20/30 in the left eye, and his near vision was 20/50 in the right
+eye and 20/20 in the left. The captain had normal fusion at 3 feet; however, at 20 feet he
+exhibited suppression of the left eye. The captain’s near and distant binocular vision using MV
+contact lenses was one increment worse than it was using bifocal spectacles.
+1.18.2.3 General Aviation Accident Involving Monovision Contact Lenses
+During the investigation, the Safety Board became aware of a general aviation
+accident previously investigated by the Safety Board that occurred on February 15, 1996. The
+general aviation accident involved a private pilot operating a Cessna 210 in degraded day VMC
+(low clouds and light snow) near Shelbyville, Illinois.52 The private pilot told the Safety Board
+that he “didn’t pull the nose up” during the landing; the airplane bounced, and then touched
+down on and blew the nose landing gear tire. The Safety Board determined that the probable
+cause of the accident was “the pilot’s misjudged flare and improper recovery from a bounced
+landing. Factors relating to the accident were: the pilot’s improper use of procedure by wearing
+unapproved correcting lenses, and his resultant decreased depth perception.”
+According to a flight instructor who was hired by the private pilot to help him
+prepare for a postaccident FAA flight evaluation, the private pilot exhibited a consistent tendency
+to begin the landing flare too close to the ground and had difficulty landing with crosswinds. On
+July 16, 1996, when the private pilot returned to his AME to renew his medical certificate, the
+AME noticed the pilot’s use of MV contact lenses. The AME informed the private pilot that MV
+contact lenses were not approved for use by pilots while flying; the pilot returned with his
+eyeglasses, and the medical examination was successfully completed. The flight instructor stated
+that the pilot’s landings “improved suddenly and dramatically upon switching back to glasses.”
+The private pilot indicated that he had been wearing MV contact lenses when the accident
+occurred.
+Postaccident interviews with the private pilot’s optometrist revealed that he had
+prescribed MV contact lenses for the pilot in March 1995. Both the private pilot and the
+optometrist indicated that they were unaware of the prohibition against the use of MV contact
+lenses by pilots while flying until the pilot visited the AME after the accident.
+52 For more detailed information, see Brief of Accident CHI96LA089.
+
+51
+1.18.2.4 Postaccident Delta Air Lines Actions Regarding MV Contact Lenses
+Delta records indicate that after this accident occurred, the company issued a
+mandatory electronic flight operations bulletin alerting its pilots and medical personnel about the
+hazards of MV contact lens use by flightcrew members. The mandatory electronic flight
+operations bulletin will show up when a pilot checks in on the computer before the next flight;
+the pilot must indicate that he/she has read the bulletin before he/she can continue to check in for
+the flight.
+1.18.3 Information on Visual Cues/Illusions
+According to the FAA AIM, many different visual illusions experienced in flight
+can lead to spatial disorientation, landing errors, and even accidents. Section 8-1-5 of the AIM,
+dated July 20, 1995, states the following:
+Various surface features and atmospheric conditions encountered in landing
+can create illusions of incorrect height above and distance from the runway
+threshold. Landing errors from these illusions can be prevented by
+anticipating them during approaches, aerial visual inspection of unfamiliar
+airports before landing, using electronic glide slope or VASI systems when
+available, and maintaining optimum proficiency in landing procedures.
+Section 8-1-5 describes several specific types of illusions, including featureless
+terrain illusion, atmospheric illusions, and ground lighting illusions. These illusions are
+described as follows:
+(d) Featureless terrain illusion: An absence of ground features, as when
+landing over water, darkened areas, and terrain made featureless by snow,
+can create the illusion that the aircraft is at a higher altitude than it actually
+is. The pilot who does not recognize this illusion will fly a lower
+approach.
+(e) Atmospheric illusions: Rain on the windscreen can create the illusion of
+greater height, and atmospheric haze the illusion of being at a greater
+distance from the runway. The pilot who does not recognize these
+illusions will fly a lower approach. Penetration of fog can create the
+illusion of pitching up. The pilot who does not recognize this illusion will
+steepen the approach, often quite abruptly.
+(f) Ground lighting illusions: Lights along a straight path, such as a road, and even lights
+on moving trains can be mistaken for runway and approach lights. Bright runway and
+approach lighting systems, especially where few lights illuminate the surrounding terrain,
+may create the illusion of less distance to the runway. The pilot who does not recognize
+this illusion will fly a higher approach. Conversely, the pilot overflying terrain
+
+52
+which has few lights to provide height cues may make a lower than
+normal approach. (Emphasis added.)
+As the pilots descended out of the clouds during their approach to land on runway
+13, they were in heavy rain conditions, with the windshield wipers operating at the highest
+setting. The captain reported that visibility through the windscreen was limited to the arc of the
+windshield wipers, with rain obscuring the side windows. The estimated RVR for runway 13
+was 3,000 feet, with limited visibility because of fog. According to Fundamentals of Aerospace
+Medicine,53 a perception of a shortened runway, with part of the length obscured by fog and/or
+rain, might result in an illusion of “size constancy,” in which a pilot perceives the runway as
+more distant than it is.
+1.18.4 Information Regarding Special Airports
+1.18.4.1 FAA Information Regarding Special Airports
+According to 14 CFR 121.445, “Pilot in command [PIC] airport qualification:
+Special areas and airports,” the FAA Administrator “may determine that certain airports (due to
+items such as surrounding terrain, obstructions, or complex approach or departure procedures)
+are special airports requiring special airport [airman] qualifications… .” The regulation further
+states,
+no certificate holder may use any person, nor may any person serve, as pilot in
+command to or from an airport determined to require special airport [airman]
+qualifications unless, within the preceding 12 calendar months:
+(1) The pilot in command or second in command has made an entry to that
+airport (including a takeoff and landing) while serving as a pilot flight
+crewmember; or
+(2) The pilot in command has qualified by using pictorial means acceptable to
+the Administrator for that airport.
+…this section does not apply when an entry to that airport (including a takeoff
+or a landing) is being made if the ceiling at that airport is at least 1,000 feet
+above the lowest MEA [minimum en route altitude] or MOCA [minimum
+obstruction clearance altitude], or initial approach altitude prescribed for the
+instrument approach procedure for that airport, and the visibility at that airport
+is at least 3 miles.
+On June 20, 1990, the FAA published AC 121.445-1D, which provides
+information concerning the routes and airports where the FAA has determined that pilots require
+53 DeHart, R. L. Fundamentals of Aerospace Medicine. Baltimore: Williams & Wilkins,
+1996.
+
+53
+special qualifications to operate as pilot in command. Page 2 of AC 121.445-1D, under the
+heading “Special Airports,” states the following:
+Appendix 1 contains a listing of airports, by regions, where it has been
+determined that pilots require special airport qualifications. FAR Section
+121.443 [“PIC qualification: Route and airports”] requires, in part, for each
+certificate holder to provide a system acceptable to the Administrator for
+disseminating the information required therein to ensure that the pilots have
+adequate knowledge concerning the areas, and each airport and terminal area
+into which the pilot is to serve. Therefore, airports with congested areas and
+physical layouts such as John F. Kennedy in New York and O’Hare Field in
+Chicago, which do not have terrain problems, are not included.
+Page 3 of AC 121.445-1D states the following, in part:
+Air carriers are encouraged to recommend additions or deletions to these
+listings. Recommendations, along with an explanation of the need for the
+addition or deletion, should be submitted to the assigned Principal Operations
+Inspector. The Principal Operations Inspector will forward the
+recommendation with his/her comments to his/her regional Flight Standards
+Division. The regional Flight Standards Division will provide updated
+information on these listings, as changes occur, to the Air Transportation
+Division, AFS-200, who will make appropriate changes periodically.
+During postaccident interviews, the first officer indicated that he believed that
+LaGuardia should be classified as a special airport because a pilot landing at the airport for the
+first time might have difficulty with the nature of the approaches and the traffic density. He
+pointed out, “the visual approach to Runway 31 requires maneuvering the airplane at high bank
+angles close to the ground [and] the approach to Runway 13 requires landing over water, a 250
+foot DH, and an offset localizer.” LaGuardia was not designated a special airport in appendix 1
+of the AC. Airports listed in appendix 1 of the AC were considered to be special airports for a
+variety of reasons, including the following:
+•
+Terrain issues—“Mountainous terrain;” “mountainous terrain in immediate
+vicinity of airport, all quadrants;” “mountainous terrain on both sides of final
+approach;” “airport is surrounded by mountainous terrain. Any go-around
+beyond ILS…MAP will not provide obstruction clearance;” “runway located
+on mountain slope with high gradient factor;” “special conditions due to
+precipitous terrain;” “high terrain;” “high field elevation;” “high altitude
+requires special performance;” “lake effect upon thermals on short final
+[approach];” “mountainous to 2,300 feet within 3 miles of the localizer.”
+•
+ATC/Approach/Departure issues—“Special arrival/departure procedures;”
+“unique arrival/departure procedures;” “unique approach;” “complex ATC
+procedures;” “limited approach facilities;” “complex departure procedures;”
+
+54
+“all nonprecision approaches;” “no [air traffic control] tower;” “no approach
+control;” “traffic complexity;” “traffic density;” “no radar environment.”
+•
+Other issues—“Political sensitivity of corridor adherence;” “limited
+information.”
+The FAA’s special assistant for air carrier operations indicated that at the time of
+the accident, no criteria were published designating special airports, and he did not believe that
+such criteria had ever existed. He stated that in October 1996, the FAA met with industry
+representatives and developed a list of criteria based on factors such as accident histories, human
+performance concerns, and runway anomalies that the FAA could use to develop objective
+criteria for designating special airports. He stated that he hoped the FAA would develop a
+procedure to add or remove airports from the special airport list and publish criteria for special
+airport designation.
+1.18.4.2 Delta’s Information Regarding Special Airports
+According to Delta’s FOM, the following airport destinations are FAA-designated
+Class I special airports:
+Asheville, North Carolina; Wilkes Barre/Scranton, Pennsylvania;
+Birmingham, Alabama; Burlington, Vermont; Burbank, California;
+Washington, D.C. (National Airport); Guadalajara, Mexico; Hilo, Hawaii;
+Ketchikan, Alaska; Harrisburg, Pennsylvania; Kahului, Hawaii; Ontario,
+California; Palm Springs, California; Reno, Nevada; San Diego, California;
+Sondre Stromfjord, Greenland; San Francisco, California; Sitka, Alaska;
+Stuttgart, Germany; St. Thomas, Virgin Islands; and airports in the Peoples
+Republic of China.
+The following Class II special airports (FAA designated, with additional Delta
+requirements) are listed in Delta’s FOM:
+Eagle, Colorado; Gunnison, Colorado; Jackson Hole, Wyoming; and
+Missoula, Montana.
+Juneau, Alaska, was listed in the Delta FOM as a Class III special airport (FAA
+designated, with lower-than-published minimums authorized), and the Class IV special airports
+(Delta designated) were Kalispell, Montana; Helena, Montana; and Mexico City, Mexico.
+According to Delta’s FOM, Class II and Class III special airports and Mexico City, Mexico, have
+more rigorous flightcrew member initial qualification and currency requirements, which include
+a review of pictorial, video, or Qualification Manual information concerning the specific airport
+and an initial special airport entry flight under the observation of a company line check airman.
+In addition, Class II and Class III special airport qualifications are aircraft specific.
+
+55
+2. ANALYSIS
+2.1 General
+The pilots held appropriate flight and medical certificates; they were trained and
+qualified for the flight and were in compliance with the Federal regulations on flight and duty
+time. However, the captain was using monovision (MV) contact lenses, which were not approved
+by the FAA for use by pilots while flying. The captain indicated in postaccident interviews that
+he was not aware that MV contact lenses were not approved for use while flying.
+The flight attendants had completed Delta’s FAA-approved flight attendant
+training program.
+The airplane was properly certificated, and there was no evidence that airplane
+maintenance was a factor in the accident.
+A review of ATC procedures revealed that the controllers followed proper air
+traffic separation rules, and air traffic separation was assured during flight 554’s approach to the
+runway. In addition, ATC provided the pilots with timely weather (rain and visibility)
+information during their approach to runway 13. No ATC factors contributed to the cause of the
+accident.
+Although the pilots did not receive several pieces of weather information, Delta
+Air Lines provided the pilots with sufficient preflight, en route, and arrival weather information
+to allow them to conduct the flight safely; however, because of rapidly changing surface
+conditions, the conditions they encountered differed from what was forecast.
+Although the pilots encountered a low cloud ceiling and degraded visibility, the
+ceiling and visibility were still above the minimums required for the ILS approach. The Safety
+Board concludes that although the weather conditions encountered by the pilots during the
+approach differed from the forecast conditions, these conditions should not have affected the
+pilots’ ability to conduct a safe approach and landing.
+The pilots reported that they did not encounter much turbulence after they
+descended through 3,000 feet on the approach, and the recorded wind speeds were less than
+expected. FDR data from flight 554 and four other airplanes that made the approach to runway
+13 between 9 minutes before and 1 minute after the accident disclosed no evidence of significant
+windshear. Additionally, no pilot reports of windshear, LLWAS windshear alerts, or wind gusts
+were recorded during the 50 minutes preceding the accident. Therefore, the Safety Board
+concludes that Delta flight 554 did not encounter windshear during its approach to runway 13 at
+LaGuardia.
+The pilots performed the instrument approach to runway 13 in low clouds,
+moderate-to-heavy rain, fog, and in limited light conditions.
+
+56
+Although the pilots did not observe the VASI lights during the approach to
+runway 13, postaccident examination revealed that the VASI light system was capable of normal
+operation at the time of the accident. Although it is likely that the runway 13 VASI light system
+was operating normally when the accident occurred, with the reduced visibility that existed at the
+time of the accident, the pilots would not have been able to utilize descent path guidance from
+the VASI light system until late in the visual phase of the approach, and then only if they sought
+such guidance.
+2.2 The Accident Scenario
+2.2.1 The Approach and Descent
+The pilots reported that the departure, en route, and initial approach portions of
+the flight were routine. The CVR transcript indicated that after Delta flight 554 had been cleared
+to land on runway 13, the flightcrew of TWA 8630, which was departing from runway 13,
+advised ATC that it was aborting its takeoff roll on the runway. ATC asked the TWA pilots to
+expedite their turn off the runway, so that Delta flight 554 would not have to execute a missed
+approach.
+About 20 seconds after their decision to abort the takeoff, the pilots of TWA 8630
+reported that they were “turning off,” and LaGuardia ATCT responded, thanking them. About 5
+seconds later, TWA 8630 was off of runway 13 and was taxiing southwest on runway 22 towards
+taxiway Golf; however, during postaccident interviews, the captain of Delta flight 554 stated that
+he was uncertain if the TWA airplane had yet cleared runway 13.
+During the seconds after TWA 8630 had aborted its takeoff roll, the CVR
+recorded an expletive on the Delta flight 554 captain’s channel. The captain stated that he made
+the expletive comment because he believed he might have to perform a missed approach because
+of the airplane on the runway; he reported that he was not certain that he would be landing until
+he established visual contact with the approach lights.
+Based on the FDR data and calculated descent rate information, the airplane was
+established in the landing configuration (flaps and landing gear extended), on target airspeed (+/-
+4 knots), with an average rate of descent of about 750 feet per minute, and was established on the
+localizer and electronic glideslope (+/- 1/10 of a dot) from the time it descended through about
+1,000 feet agl (at 1637:05) until it reached an altitude of 431 feet agl (approximately 1638:02).
+Between 1638:02 and 1638:08, the airplane’s rate of descent decreased, and the airplane began to
+deviate above the glideslope; however, at 1638:09 (just before the airplane exceeded 1 dot
+deviation above the electronic glideslope), the captain applied nose-down elevator, and the
+airplane began to pitch down. The momentary reduction in descent rate occurred when the
+captain later stated that he had been uncertain if TWA 8630 would clear runway 13 in time for
+flight 554 to land, and it may have been the result of the captain’s anticipation of (and
+preparation for) a missed approach.
+
+57
+Regardless of the reason for the reduction in the descent rate, by the time the
+airplane began to deviate more than 1 dot above the electronic glideslope (at 1638:10), it appears
+that the captain had recognized the deviation and had applied correction in an attempt to
+reestablish the airplane on the glideslope. According to the FDR data, about 1638:14, the engine
+thrust reduced and the descent rate increased slightly; however, the airplane did not reintercept
+the electronic glideslope. FDR data indicated that from 1638:14 until 1638:26, the airplane’s
+airspeed and descent were generally steady and on target, and the airplane was in a position from
+which a successful landing could be made. At 1638:21, as the airplane descended through 200
+feet agl, the pilots were in (degraded) visual conditions; they were aware that guidance from the
+electronic glideslope was unusable below 200 feet agl; and they were using other cockpit
+instrumentation and outside visual references for glidepath information. The Safety Board
+concludes that because the airplane was in stable flight and the captain had taken actions to
+correct for a glideslope deviation, the captain’s continuation of the approach after he established
+visual contact with the approach lights was not inappropriate.
+About 10 seconds before impact, just after the first officer called “sink’s seven
+hundred,” the airplane’s rate of descent began to increase. According to FDR data, the airplane’s
+calculated sink rate at that time was actually about 1,200 feet per minute. The difference
+between the 700 feet per minute rate of descent reported (and presumably observed on the VSI)
+by the first officer, and the 1,200 feet per minute rate of descent indicated by the FDR data was
+probably the result of the lag time in the non-instantaneous vertical speed information displayed
+on the VSI. (This issue is discussed in greater detail in section 2.5.)
+FDR data indicated that about 10 seconds before impact, the engine power was
+reduced gradually (from 1.2 EPRs at 1638:22, to 1.15 EPRs at 1638:28, to 1.09 EPRs at
+1638:31). During this period, the elevator position oscillated, averaging between 2o nose up to
+about 8o nose up. The Safety Board concludes that the captain gradually reduced the engine
+power because he perceived a need to slightly increase the airplane’s rate of descent; however,
+the descent rate increased beyond what the captain likely intended to command. At 1638:30, the
+airplane’s descent rate was about 1,500 feet per minute. By 1638:32, the captain had recognized
+that corrective action was required and was increasing the nose-up elevator deflection and
+increasing the engine power.54 About 2 to 3 seconds before the initial impact, the airplane was
+descending about 1,800 feet per minute; however, the trend in vertical velocity started to reverse.
+According to the first officer, several seconds before impact he glanced outside
+and realized that the airplane was descending short of the runway, and at 1638:33.7, he stated,
+“Nose up…nose up.” The first officer stated that the captain had already added power and the
+nose of the airplane pitched up; however, it was too late to avoid the accident.
+54 At 1638:32, the EPRs began to increase rapidly (from 1.10 EPRs at 1638:32, to 1.15
+EPRs at 1638:33, to 1.25 EPRs at 1638:34, and to 1.55 EPRs at 1638:35).
+
+58
+2.2.2 The Landing
+The Safety Board sought to determine why the descent rate of flight 554 continued
+to increase until a safe landing could no longer be achieved. The Safety Board analyzed the
+visual cues in the airport environment, including the airport lighting system and the effect of the
+weather at the time of the accident, the effect of the captain’s vision limitations, and the first
+officer’s actions and input to the captain during the last 10 seconds of the flight.
+The pilots performed the instrument approach and landing in low clouds,
+moderate-to-heavy rain and fog (which obscured the VASI lights and the runway environment),
+and in limited light conditions. In addition, the pilots indicated that when they descended out of
+the clouds, the airplane was positioned over the waters of Flushing Bay (which appeared gray),
+with no visible structures to aid in visually judging distance and/or altitude. Although the
+weather conditions were sufficient for the approach to be made safely, the low overcast cloud
+layer and heavy rain and fog encountered by flight 554 during its approach to runway 13
+degraded visual cues that the captain might otherwise have used to gauge the airplane’s rate of
+descent/descent path during the visual portion of the approach.
+As discussed in section 1.18.3, according to the FAA AIM, visual illusions that
+might lead a pilot to perceive that the airplane is higher or more distant from the runway than it is
+during an approach can result from the following conditions:
+• an absence of ground features [as when landing over water]
+• rain on the windscreen
+• atmospheric haze/fog
+• terrain with few lights to provide height cues
+The Safety Board notes that all of these conditions were present when the pilots of
+Delta flight 554 descended out of the overcast cloud layer and the captain transitioned to visual
+conditions. According to FAA and medical publications55 on the subject of visual illusions,
+these conditions could result in improper perception of altitude and descent path; specifically, a
+pilot might perceive the altitude to be higher than the airplane’s actual altitude, especially during
+periods of reduced visibility, when other visual cues are not available.
+Further, the runway 13 edge lights were spaced irregularly—most of the lights
+were spaced at intervals less than the maximum interval of 200 feet set forth in AC 150/5340-
+24—and the departure end of runway 13 was obscured by rain and fog, so the pilots were visually
+presented with a foreshortened runway. Pilots who are accustomed to operating into airports at
+which runway lights are spaced at consistent 200-foot intervals might perceive their distance and
+angle to the runway differently when presented with runway lights spaced at shorter, irregular
+intervals.
+55 FAA AIM and Fundamentals of Aviation Medicine.
+
+59
+The Safety Board concludes that the irregular and shortened runway edge light
+spacing and degraded weather conditions can result in a pilot making an unnecessarily rapid
+descent and possibly descending too soon, especially in the absence of other visual references or
+cues. Therefore, the Safety Board believes that the FAA should identify Part 139 airports that
+have irregular runway light spacing, evaluate the potential hazards of such irregular spacing, and
+determine if standardizing runway light spacing is warranted.
+Although the airport and weather conditions that existed at the time of the
+accident combined with the irregular (and shortened) spacing of the runway lights presented a
+potential challenge for any pilot landing on runway 13, other airplanes used the ILS DME
+approach to runway 13 around the time of the accident and landed without incident. In an effort
+to understand why the captain of Delta flight 554 was unable to land safely, the Safety Board
+analyzed the effect that his use of MV contact lenses had on his vision under those conditions.
+Individuals with normal binocular vision use both binocular and monocular cues
+for depth perception. Although binocular vision is generally accurate to distances of up to 600
+feet, binocular cues are most critical in determining the distance from objects close to an
+individual, while monocular cues assume an increased role in the perception of distances from
+objects farther away. The Safety Board concludes that the captain’s use of MV contact lenses
+resulted in his (unrecognized) degraded depth perception, and thus increased his dependence on
+monocular cues (instead of normal three-dimensional vision) to perceive distance. However,
+because of the degraded conditions encountered by flight 554, the captain was not presented with
+adequate monocular cues to enable him to accurately perceive the airplane’s altitude and distance
+from the runway during the visual portion of the approach and landing. This resulted in the
+captain’s failure (during the last 10 seconds of the approach) to either properly adjust the
+airplane’s glidepath or to determine that the approach was unstable and execute a missed
+approach.
+The unnecessary increase in descent rate 10 seconds before impact is consistent
+with the captain’s degraded binocular vision, because it suggests that he had the impression that
+the airplane was slightly higher than it actually was. A flying pilot with normal depth perception
+might have perceived the airplane’s increasingly excessive sink rate earlier and either slowed the
+rate of descent to make a normal landing possible or performed a missed approach. However,
+the captain did not have normal depth perception and did not recognize that anything was wrong
+with the approach until about 4 seconds before the accident, when the “aim point shifted down
+into the lights.” The captain applied engine power and pitched up and the airplane’s rate of
+descent began to decrease; about 2 seconds later, the airplane struck the approach lights and then
+the runway deck, where the main landing gear separated from the airplane.
+The Safety Board concludes that because of the captain’s use of MV contact
+lenses, he was unable to overcome the visual illusions resulting from the approach over water in
+limited light conditions (absence of visible ground features), the irregular spacing of the runway
+edge lights at shorter-than-usual intervals, the rain, and the fog, and that these illusions led the
+captain to perceive that the airplane was higher than it was during the visual portion of the
+
+60
+approach, and thus, to his unnecessarily steepening the approach during the final 10 seconds
+before impact.
+The first officer stated that during the visual portion of the descent and landing he
+primarily monitored the cockpit instrumentation, provided the captain with feedback based on
+that information, and glanced outside occasionally to monitor the approach visually, while the
+captain flew the approach primarily using outside visual references. As stated earlier, at 1638:26,
+when the first officer advised the captain “sink’s seven hundred,” the airplane was actually
+descending about 1,200 feet per minute. The first officer stated that he never observed a descent
+rate indication on the VSI of more than 1,000 feet per minute during the approach descent. Had
+the first officer called out information from the airplane’s radar altimeter,56 it would have helped
+one or both of the pilots perceive the airplane’s actual descent rate; however, the first officer did
+not (and was not required by Delta to) call out radar altimeter information (because he either did
+not look at it, or did not perceive the importance of that information) during the approach.
+The first officer told Safety Board investigators that he believed that Delta’s
+manuals did not contain clearly defined guidance regarding PNF duties during a CAT I ILS
+approach once the PF established ground contact. The first officer indicated that during the
+approach to runway 13, he followed his own “unofficial” procedures; he primarily monitored the
+cockpit instrumentation, provided the captain with feedback based on that information, and
+glanced outside occasionally to monitor the approach visually while the captain flew the
+approach primarily using outside visual references. The Safety Board notes that after the captain
+(PF) reported that he had the approach lights in sight, there were several occasions when the first
+officer (PNF) attempted to provide the captain with useful feedback (i.e., speed’s good, sink’s
+700, a little slow, nose up), which was not specifically required by Delta’s manuals, before the
+airplane struck the runway deck. The Safety Board concludes that during the visual portion of
+the approach, when the captain was primarily relying on visual cues, the first officer, who was
+primarily monitoring cockpit instrumentation to gauge the airplane’s position with regard to the
+runway, provided input to the captain that surpassed what was set forth in the guidance available
+to the pilots at that time.
+2.3 Delta’s Flightcrew Procedures
+When the first officer observed “sink’s seven hundred” in an attempt to provide
+the captain with useful vertical speed information during the approach, he unintentionally
+provided the captain with misleading vertical speed information because of the 4-second lag time
+inherent in the VSI as it was installed in the airplane. Use of radar altitude would have been
+more useful, and more correct. If Delta’s manuals had contained either specific PNF callout
+instructions using radar altimeter information (i.e., altitudes of 300, 200, 100, 50, 40, 30, 20,
+56 The altitude information displayed on the radar altimeter would represent the
+airplane’s radar altitude above the water (not the runway) until the airplane crossed the edge of the
+runway deck. However, because the runway 13 touchdown zone elevation is only 13 feet above the
+water level, it is likely radar altimeter information would have helped the pilots perceive the airplane’s
+actual descent rate.
+
+61
+10…), or a specific scan policy to ensure that someone was focused on airspeed, altitude and
+approach profile, the first officer probably would have provided the captain with information that
+would have been useful in determining the airplane’s position (and rate of change of position)
+relative to the runway. Therefore, the Safety Board concludes that the Delta manuals were not
+sufficiently specific regarding PNF duties during CAT I ILS approaches after the PF establishes
+visual contact with the ground. (The Safety Board recognizes that Delta is revising PF/PNF CAT
+I ILS duties listed in its manuals and related pilot training to include specific scan policy
+guidance.)
+In addition, Delta’s manuals did not specify operational criteria for a stabilized
+approach, nor did they contain procedural guidance for pilots to follow if an approach became
+unstabilized. The guidance and definitions that did exist regarding stabilized approach criteria
+and procedures were either unclear or difficult to locate (the only guidance pertaining to
+“unstabilized approaches” was located in the Supplemental Information section, under “Wind
+shear Guidance”). Further, the manuals did not contain specific, accessible procedural guidance
+about what action a pilot should take if an unstabilized condition developed during an otherwise
+stabilized approach. However, as previously noted, the captain flew a stabilized approach until
+about 1 second before he reported that he had the approach lights in sight (by which time the
+airplane had deviated more than 1 dot above the electronic glideslope), and then he promptly
+began to take corrective action. Therefore, the Safety Board concludes that although Delta’s
+manuals did not adequately specify operational criteria for a stabilized approach, the lack of
+guidance in this area did not contribute to the accident.
+The Safety Board notes that Delta personnel had discussed the lack of adequate
+information concerning stabilized approaches before the accident, and revisions to the manuals
+were being prepared when the accident occurred. Delta’s revised manuals now contain more
+thorough information and criteria concerning stabilized approaches. However, the Safety Board
+is concerned that if Delta’s manuals contained inadequacies in these “safety of flight” areas other
+air carriers’ manuals might also be inadequate. Therefore, the Safety Board believes that the
+FAA should require all 14 CFR Part 121 and 135 operators to review and revise their company
+operations manuals to more clearly delineate flightcrew member (pilot flying/pilot not flying)
+duties and responsibilities for various phases of flight, and to more clearly define terms that are
+critical for safety of flight decisionmaking, such as “stabilized approach.”
+2.4 Availability of Information About the Hazards of Monovision Contact
+Lenses
+The AME who examined the captain reported that he was unaware that the
+captain used MV contact lenses; he indicated that it would never have occurred to him that the
+captain might use MV contact lenses, because the captain’s vision did not indicate the need for
+MV contact lens correction. The Safety Board concludes that AMEs need to know if pilot
+examinees are using contact lenses, and currently no process is in place to ensure that AMEs are
+provided with that information. The Safety Board believes that the FAA should revise FAA
+Form 8500-8, “Application for Airman Medical Certificate,” to elicit information regarding
+contact lens use by the pilot/applicant.
+
+62
+Additionally, the captain and the optometrist who prescribed the MV contact
+lenses for the captain were not aware that the use of MV contact lenses by pilots performing
+flying duties was not approved by the FAA. This is consistent with the information obtained
+during the previously mentioned Safety Board investigation into the general aviation accident
+that involved MV contact lens use.57 The Safety Board concludes that information concerning
+the possible hazards of MV contact lens use is not well disseminated among optometrists and the
+pilot population.
+Because the information available to optometrists and pilots is insufficient, the
+Safety Board believes that the optometric associations should issue a briefing bulletin to member
+optometrists, informing them of the potential hazards of and prohibition against MV contact lens
+use by pilots while performing flying duties, and urging them to advise pilot-rated patients of
+those potential hazards (MV contact lens’ effect on distance judgments/perceptions). In addition,
+the Safety Board believes that the FAA Civil Aeromedical Institute should publish and
+disseminate a brochure containing information about vision correction options, to include
+information about the potential hazards of MV contact lens use by pilots while performing flying
+duties and to emphasize that MV contact lenses are not approved for use while flying.
+The Safety Board is aware that since this accident, Delta Air Lines has alerted its
+pilots and medical personnel to the hazards of MV contact lens use by flightcrew members. The
+Safety Board believes that the FAA should require all 14 CFR Part 121 and 135 operators to
+notify their pilots and medical personnel of the circumstances of this accident, and to alert them
+to the hazards of MV contact lens use by flightcrew members. Additionally, the Safety Board
+believes that the FAA should require all flight standards district office air safety inspectors and
+accident prevention specialists to inform general aviation pilots of the circumstances of this
+accident and to alert them to the hazards of MV contact lens use by pilots while flying.
+2.5 Non-Instantaneous Vertical Speed Indicator (VSI)
+As pointed out earlier, during the final 12 seconds before impact, the airplane’s
+rate of descent, which had been averaging about 700 feet per minute, began to increase. At
+1638:26, as the first officer called out a sink rate of 700 feet per minute (based on VSI
+information), the airplane was actually descending about 1,200 feet per minute. Had the first
+officer seen a descent rate of 1,200 feet per minute, he would likely have been alarmed and
+immediately indicated that to the captain. However, by 1638:33, when the first officer stated,
+“nose up,” he had undoubtedly transferred his focus to external cues; thus, the first officer never
+saw cockpit instrumentation indicate an excessive rate of descent. (This is consistent with the
+first officer’s postaccident statement.) The Safety Board concludes that the lag time in the
+display of vertical speed information in the VSI installed in the accident airplane limited the first
+57 For additional information on the general aviation accident, see section 1.18.2.3 or the
+Safety Board’s report, CHI96LA089.
+
+63
+officer’s ability to provide the captain with precise vertical speed information during the critical
+final seconds of the approach, and therefore contributed to the accident.
+The Safety Board notes that several Delta check airmen and flight instructors
+interviewed during the investigation stated that they believed that most Delta line pilots were
+unaware that the vertical speed information presented by the VSIs in the MD-88 was not
+instantaneous. If Delta’s MD-88 pilots were unaware that the VSIs in the MD-88 presented them
+with non-instantaneous vertical speed information, the Safety Board considers it likely that pilots
+with other air carriers/flying other aircraft might also be unaware of the nature of the information
+(instantaneous or non-instantaneous) provided by the VSIs in their airplanes. The Safety Board is
+concerned that a pilot who is unaware that the VSI in his/her airplane does not provide
+instantaneous vertical speed information might be misled into believing that the airplane’s sink
+rate is appropriate when it is not (as occurred with the first officer in the accident airplane).
+Therefore, the Safety Board concludes that pilots need to be aware of the type of vertical speed
+information provided by the VSI installed in their airplane, and to understand the possible
+ramifications of that information. Therefore, the Safety Board believes that the FAA should
+require all 14 CFR Part 121 and 135 air carriers to make their pilots aware (through specific
+training, placards, or other means) of the type of vertical speed information (instantaneous/non-
+instantaneous) provided by the VSIs installed in their airplanes, and to make them aware of the
+ramifications that type of information could have on their perception of their flight situation.
+VSIs can be rewired to provide instantaneous vertical speed information in
+airplanes that are equipped with an inertial reference unit (IRU). Again, the Safety Board notes
+that Delta is replacing the attitude/heading reference system (AHRS) units installed in the MD-88
+fleet with IRUs, and will have the capability of upgrading the timeliness of the vertical speed
+information displayed on airplanes equipped with IRUs. The Safety Board believes that the FAA
+should require all 14 CFR Part 121 and 135 operators to convert, where practical, the non-
+instantaneous vertical speed instrumentation on airplanes that have IRUs installed to provide
+flightcrews with instantaneous vertical speed information.
+2.6 Special Airport Designation
+The first officer told Safety Board investigators that he believed that LaGuardia
+should be designated an FAA special airport; he specifically cited the approaches to runway 31—
+which require maneuvering the airplane at high bank angles close to the ground—and runway
+13—which require landing over water, a 250-foot DH, and an offset localizer—as being worthy
+of special pilot qualification requirements; the Safety Board also received other anecdotal
+comments concerning designating LaGuardia a special airport. Because of the northwesterly
+prevailing winds and other operational considerations, runway 13 is used less frequently than the
+other runways at LaGuardia; the pilots of Delta flight 554 had not performed the approach to
+runway 13 in inclement weather conditions, and the first officer indicated that he was not aware
+that the runway extended on a pier over the water.
+Although 14 CFR 121.445 contains a description of the special pilot qualifications
+necessary for special airport operations, and AC 121.445-1D contains a description of the special
+
+64
+pilot qualifications required for operating in and out of special airports, a list of designated
+special airports, and brief remarks to describe the “special” feature(s) of each designated special
+airport, there are no published criteria or procedures for special airport designation. In addition,
+the information provided in AC 121.445-1D’s remarks section is general, and does not provide
+operators with detailed information as to the justification for special airport designation, nor does
+it describe specific approaches, runways, hazards, or obstacles. The Safety Board concludes that
+the FAA’s current guidance on special airports contained in AC 121.445-1D is not sufficiently
+specific about criteria and procedures for designation of special airports; therefore, the FAA’s
+current guidance might not always be useful to air carriers operating in and out of (existing or
+potential) special airports.
+The Safety Board is aware that the FAA met with industry representatives in
+October 1996 to develop a list of factors—based on accident histories, human performance
+concerns, runway anomalies, etc.—to use in determining criteria for classification of special
+airports. However, the Safety Board is concerned that the FAA has apparently not made any
+progress in developing such criteria since that meeting. Therefore, the Safety Board believes that
+the FAA should expedite the development and publication of specific criteria and conditions for
+the classification of special airports; the resultant publication should include specific remarks
+detailing the reason(s) an airport is determined to be a special airport, and procedures for adding
+and removing airports from special airport classification.
+The Safety Board is also concerned that if an airport is designated “special”
+because of a specific approach or runway configuration (i.e., the ILS DME approach to runway
+13 at LaGuardia) a pilot who satisfies the special pilot qualification requirements by landing and
+departing on a different runway at that airport might not have appropriate familiarization with the
+special features of that specific approach or runway configuration and therefore might not
+adequately satisfy the intent of the special airport regulation. The Safety Board concludes that
+the present requirements for special airport pilot qualifications might not be sufficient to ensure
+that pilots who are so qualified have been exposed to the runways and/or approaches at those
+airports that make the airport “special.” Thus, the Safety Board believes that the FAA should
+develop criteria for special runways and/or special approaches giving consideration to the
+circumstances of this accident and any unique characteristics and special conditions at airports
+(such as those that exist for the approaches to runways 31 and 13 at LaGuardia) and include
+detailed pilot qualification requirements for designated special runways or approaches. Also, the
+Safety Board believes that once criteria for designating special airports and special runways
+and/or special approaches have been developed, the FAA should evaluate all airports against that
+criteria and update its special airport publications accordingly.
+2.7 Flight and Cabin Crew Evacuation Actions
+The Safety Board considers that in general, the crewmembers’ responses after the
+airplane came to a stop were commensurate with the circumstances of this accident. First, the
+crewmembers assessed the condition of the airplane and reviewed their options; then, when the
+captain was informed that there was a smell of jet fuel fumes in the passenger cabin, he promptly
+commanded an emergency evacuation. The Safety Board concludes that the flightcrew
+
+65
+coordination appeared adequate, and the decision to evacuate the airplane was appropriate and
+timely. Further, the Safety Board concludes that the FAIC, who began shouting evacuation
+commands within 2 seconds of the evacuation order, reacted to the evacuation command
+promptly and assertively, in accordance with Delta’s flight attendant manuals and training. All
+passengers were successfully evacuated through the L-1 door, with minimal evacuation-related
+injuries. Although under other circumstances the decision to use only one exit may have critical
+consequences, in this case the decision to use only the L-1 door did not have adverse results.
+The CVR transcript indicated that while the evacuation was being conducted at
+the front of the cabin, the two flight attendants in the aft cabin remained on the interphone trying
+to obtain additional evacuation instructions for at least 38 seconds after the captain issued the
+evacuation command. About 40 seconds after the evacuation was commanded, the first officer
+(who had been assisting with the evacuation at the L-1 door) responded on the interphone to the
+aft flight attendants’ inquiry, with instructions to evacuate “forward,” and the aft flight attendants
+began to participate in the evacuation. Because the airplane was carrying a light passenger load,
+with most of the passengers seated in the front half of the cabin, by the time the aft flight
+attendants began evacuation actions, most of the passengers had exited or moved toward the first
+class cabin area.
+The aft flight attendants stated that they sought further instructions before taking
+action because they were concerned that the damage to the airplane and the possibility of spilled
+fuel might affect the usability of their exits. According to the guidance contained in Delta’s
+flight attendant manual, when an evacuation is commanded, flight attendants should promptly
+assess the condition of their assigned exits, activate exits as appropriate, and issue guidance to
+passengers. The manual further states that if a flight attendant judges that his or her assigned exit
+is not usable, the flight attendant should redirect passengers towards an appropriate exit. The
+Safety Board notes that it was appropriate for the aft flight attendants to evaluate and make a
+decision regarding the usability of their exits; however, a 38-second delay before beginning
+evacuation actions may have been critical if more hazardous conditions (e.g., fire) had
+developed.
+Delta’s flight attendant manual also indicates that once an evacuation is
+commanded, flight attendants should begin the evacuation promptly, and “without further
+communication from [the] cockpit.” The Safety Board concludes that the two aft flight
+attendants did not react promptly or demonstrate assertive leadership, as specified in Delta’s
+flight attendant manuals and training. Therefore, the Safety Board believes that the FAA should
+require all 14 CFR Part 121 and 135 operators to review their flight attendant training programs
+and emphasize the need for flight attendants to aggressively initiate their evacuation procedures
+when an evacuation order has been given.
+2.8 CRM Issues
+The Safety Board examined the interactions between the pilots, among the cabin
+attendants, and between the pilots and the flight attendants, to assess the quality of the CRM
+before and after the accident. The evidence suggests that the quality of the interaction between
+
+66
+the pilots was good, and that both pilots provided appropriate assistance to each other when
+needed, and that individually and together they performed effectively as a crew both before and
+after the accident.
+As previously discussed, the Safety Board found some deficiencies in the actions
+of the aft flight attendants during the evacuation. However, the evidence overall indicates that
+the quality of the CRM of the flight and cabin crewmembers of Delta flight 554 was good and in
+accordance with Delta’s training and procedures. Therefore, the Safety Board concludes that the
+quality of the CRM was not a factor in this accident.
+2.9 Other LaGuardia Airport Issues
+The Safety Board is aware that because of an anomaly in a data transmission line,
+the RVR values from the time of the accident (3,000 feet) might be slightly incorrect. However,
+postaccident pilot and air traffic controller statements indicate that the actual visibility at the time
+of the accident was at least 3,000 feet. The flight visibility experienced by the pilots was at least
+3,000 feet, which is consistent with the estimated (and ATC reported) RVR value, and which is
+above the 2,400-foot RVR minimum required for the approach.
+In addition, the Safety Board evaluated LaGuardia’s use of an RVR
+transmissometer aligned with runway 22 to measure touchdown RVRs for runway 13. Although
+the installation is not typical, the FAA has concluded that the transmissometer is situated such
+that it can reliably serve both runway 22 and runway 13, and the evidence gathered during this
+investigation suggests that the existing installation provided representative data at the time of the
+accident. Therefore, the Safety Board concludes that the atypical installation and use of RVR
+transmissometer equipment at LaGuardia did not adversely affect the validity of the RVR values
+reported at the time of the accident.
+According to the FAA, a postaccident evaluation of the LLWAS data revealed
+that three of the six LLWAS sensors for LaGuardia might have been producing unreliable data
+during the time of the accident. It is not known what effect this might have had on the windshear
+detection capabilities of the system. However, surface wind speeds during Delta flight 554’s
+approach and landing were relatively low (10 to 15 knots). Also, no wind gusts or LLWAS
+windshear alarms were recorded during the 50 minutes before the accident. In addition, there
+were no pilot reports of windshear during the 50 minutes before the accident. Therefore, the
+Safety Board concludes that the LLWAS equipment anomalies were not a factor in this accident.
+However, the Safety Board is concerned with the performance of the LLWAS at
+LaGuardia. The Safety Board notes that the FAA is planning to improve and expand the existing
+LLWAS at LaGuardia, with commissioning of a new system scheduled for November 1997. The
+Safety Board agrees with these efforts by the FAA and urges the FAA to make every effort to
+expedite the improvements.
+
+67

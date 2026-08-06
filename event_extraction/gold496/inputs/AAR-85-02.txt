@@ -1,0 +1,1389 @@
+NTSB/AAR-35/02
+
+TECHNICAL REPORT DOCUPlEKTATIOn PRGE
+.
+Re ort No. 2.Government Accession No. 3.Recipient's Catalog No.
+D NT&B/AAR-85/02 PES5-910402
+.
+Ti t Ie and Subtitle Aircraft Accident Report--Air 5.Report Date
+Continental Gates Lwrjet 23 Bradley International March 5, 1985
+Airport Windsor Lacks. Connecticut, June 4, 1984 6.Performing organization
+1 I CoJe
+'. Author(s) 8.Performing organization
+Report No.
+1. Performing Organization Name and Address 10.York Unit No.
+National Transportation Safety Board 4024-A
+Bureau of Accident Investigation Il.Concract or Grant No.
+Washington, D.C. 20594 I 1 1
+13.Type of Report and
+i
+Period Covered
+2.Sponsoring Agency H a m and Address
+Aircraft Accident Report,
+I
+hATiONAL TRANSPORTATION SAFETY BOARD June 4y Iga4
+I
+Washington, D. C. 20594 14.Sponsoring Ageincy Code
+__
+I
+1j.Supplementary Nctes
+16.Abstract On June 4, 1984, Night Air 4, e Gates Learjet 23, NIOiPP, was being operat
+D Air Continental Inc. of Syria, Ohio, on a cargo flight transporting cancelled bank checks.
+Night Air 4 was on final approach to runway 33 et Bradley International Airport, Wind
+Locks, Connecticut, several witnesses saw it level off over the approach iights and turn ri
+The right roll continued until the bank angle was about 90' and the airplane collided wit
+ground. The eirplane was destroyed by impact and postimpact fire. Both pilots and th
+passenger on board were killed.
+The National Transportation Safety Board determines thst the cause
+accident was a? uncommanded roll to the right which caused the airplane to roll about
+descend into the pound. The cause of the uncoasmanded roll was an asymmetric retractio
+the flight spoilers wherein the left spoiler retracted and the right spoiler did not. The Sa
+Board could not determine the reason for the right spoiler mslfunction. i
+I
+17. Key Words /' 18.9istribuiion Staremen:
+1
+This document is aveilable
+to the public through tne
+Informa-
+1
+Springfield, Virginia 22161
+.-
+b l y . ~ ~ ~cla~ss~ifiica:tio~c 2C.Security Classification Pages 22.Price
+(of this report) (of t i s page)
+UNCLASSIFIED UNCLASSIFIED 1 !
+bTSB Form 1765.2 (Rev. 9/74)
+
+CON-
+. . . . . . . . . . . . . . . . . . . . . . . . . .
+SYNOPSbS 1
+. . . . . . . . . . . . . . . . . . . .
+1 FACTUALINFORMATI . O . N . . . . . . . . . . . . . . . . . . . 1
+1.1 Ristory of the Flight 1
+. . . . . . . . . . . . . . . . . . . . . .
+1.2 Injuries to Persons . . . . . . . . . . . . . . . . . . . . . . 2
+1.3 Damage to AirpXane 2
+. . . . . . . . . . . . . . . . . . . . . . . .
+1.4 Other Damage 2
+. . . . . . . . . . . . . . . . . . . . .
+1.5 Personnel hformation 2
+. . . . . . . . . . . . . . . . . . . . .
+1-6 Aircraft Mcrmation 3
+. . . . . . . . . . . . . . . . . . .
+1.7 MeteorrjlrexaI Information 4
+. . . . . . . . . . . . . . . . . . . . . .
+1.8 Aids to Navigation 4
+. . . . . . . . . . . . . . . . . . . . . . .
+1.9 Comnrunications 4
+. . . . . . . . . . . . . . . . . . . .
+1.10 Aerodrome Information 4
+. . . . . . . . . . . . . . . . . . . . . . .
+1.11 Flight Recorders . . . . . . . . . . . . . . . . 4
+1.12 Wreckage and Impact Information 5
+. . . . . . . . . . . . . .
+1.13 Medical and Pathological Information 7.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.14 Fire . . . . . . . . . . . . . . . . . . . . . . . .I
+1.15 Survival Aspects 7.
+. . . . . . . . . . . . . . . . . . . . . .
+1.16 Tests and Research 'I
+. . . . . . . . . . . . . . . . . .
+1-16.1 Airplane Parts Examination 7
+. . . . . . . . . . . . . . . . . . . . . . . . .
+1.16.2 Flight Tests 11
+. . . . . . . . . . . . . . . . . . . . .
+1.17 Additional Information 13
+. . . . . . . . . . . . . . . . . .
+1.17.1 Normal Operating Procedures 13
+. . . . . . .
+1.17.2 Airplane Descent, Approach, and Landing Techniques 13
+. . . . . . . . . . . . . . .
+1.17.3 Flight Control System MaIfunctions 14
+. . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+2 ANALYSIS 14
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1 General 14
+. . . . . . . . . . . . . . . . . . . . . . . . .
+2.2 The Accident 15
+. . . . . . . . . . . . . . . . . . . . . . . . .
+2.3 The Airplaie 15
+. . . . . . . . . . .
+2.4 Accident Analysis Based on Flight Test Data 16
+. . . . . . . . . . . . . . . . . . . . . . . . .
+3 CONCLUSIONS 17
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.1 Findings 17
+. . . . . . . . . . . . . . . . . . . . . . . .
+3.2 ProbableCause 18
+. . . . . . . . . . . . . . . . . . . . . . . . .
+4 APPENDIXES 19
+. . . . . . . . . . . . .
+Appendix A--I nvestigation ana Hearing 19
+. . . . . . . . . . . . . . .
+Apperdix B-- Personnel Information 20
+. . . . . . . . . . . . . . .
+Appendix C--A ircraft Information 21
+. . . . . . . . . . . . . . . . . . .
+Appendix D-- Radar Data 22
+. . . . . . . . . . . . . . . . .
+Appendix E-- Accident History 35
+ii
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASEEINGTON, DX. 20594
+. .
+AIRCRAFT ACCIDENT REFORT
+llderch 5,1985
+AIR CONTINENTAL GATES LEAlUET 23
+BRADLEY INTEBNATKIWLU. AIRPORT
+WMDSOR LOCKS, CONNECTICUT
+JUNE 4,1984
+SYHOPSIS
+On June 4, 1984, Night Air 4, a Gates Learjet 23, NlOlPP, was being operated
+by Air Continental Inc. of Elyria, Ohio, on a cargo flight trmspwting cancelled bank
+checks. As Night Air 4 was on fir& approach to runway 33 at Bradley International
+Airport, Windsor Locks, Connecticut, several witnesses saw it level off over the approach
+lights and turn right. The right roll continued until the bank angle was s h u t 90° and the
+airplane collided with the ground. The airplane was destnyed by impact and postimpact
+fire. Both pilots and &' e one passenger on board were killed.
+The National Transpclrtation Safety Board determines that the cause of the
+accident was an uncommanded roll to the right which mused the airplane to roll about 90°
+and descend into the ground. The cause of the uncommanded roll was 8n asymmetric
+retraction of the flight spoilers wherein the left spoiler retracted and the right spoiler did
+not. The Safety Ward could not determine the reason for the right spoiler malfunction. . .
+1
+I. FACTTJAL INFORMATION
+1.1 aistwgof #'le Flight
+On June 4, 1984, an unmodified I/ Gates Learjet 23, NlOlPP, was being
+operated by Air Continental, Inc., Elyria, Oiiio, on E regularly scheduled cargo flight
+transporting cancelled bank checks under 14 CFR 135. The flight departed Cleveland
+Hopkirrs International Airport, Ohio, as Night Air 4 at 2200 eastern daylight
+time. 2/ After an uneventful flight, Night Air 4 arrived at Syracuse Hancock
+Int&tional Airport, New York, at 2245. There was routine ground cargo handling at
+Syracuse, the airplane was not refueled. Night Air 4 departed Syracuse at 2311, was
+cleared to climb to 17,000 feet, 3/ and was handed off to Boston Air Route Traffic
+Control Center (Boston Center) at 2314. Boston Center cleared Night Air 4 to its
+requested altitude of Flight Level (FL) 290 (about 29,000 feet) and the en route portion of
+the flight was uneventful.
+-
+I/ An unmodified Lesjet has winghift devices that have not been changed since
+manufacture. A modified Learjet (for example, Century IH and Howard/Ftaisebeck Mark
+n)
+has wingfift devices that have Seen changed since manufacture to improve airplane
+performance.
+-Z/ All times are eastern daylight saving time, based on the 24-hour crock.
+- 3/ AU, altitudes 8re mean sea level, except as noted.
+
+-2-
+At 2332, Night Air 4 was handed off at 16,000 feet during its descent to 4
+Bradley Internstional Airport, Windsor Locks, Connecticut Approach Control. Approach
+eontrol identified the airplane, cleared it for a visual approach to runway 33, and at 2336
+gave Night Air 4 a turn to position the airplane on final approach at 10 miles from the
+airport. At 2338:22, Night Air 4 reported that the airplane was on final approach for
+rllnway 33, and at 2338:25 the air traffic control tower operator cleared the flight to land.
+At 2341:18, the control tower operator reported to approach control that there had been
+an accident at the airport.
+Fifteen witnesses, who either heard and/or saw the accident, were
+interviewed, and with the exception of a few minor points, all of the witnesses described
+basicatly the same accident sequence. The airplane was on a normal approach to runway
+33 with no apparent abnormalities. When the airplane was about 200 feet over the
+approach Lights, an increase in engine thrust was heard and the airplane halted its rate Of
+descent in what two pilot witnesses thought was an apparent attempt to go-around.
+immediately afterward, Night Air 4 began what appeared to be a level turn to the right.
+?& the airplane went through about 90° of turn, the wings of the aircraft were i?early
+vertical to the ground. The airplane3 nose dropped below the horizon and the airplane
+descended into the ground in a nose low attitude. The witnesses stated that they saw en
+explosion which was foilowed by Intense ground fire.
+None of the witnesses reported any significant lateral or vertical changes
+while t:ie aircraft was on short final or during the 90° right turn prior to its descent into
+the gound. Many witnesses stated that they saw some iights illuminated on the aircraft
+but none repcrtea seeing the landing lights, bcated on the landing gear, or the landing
+gesr in the extended position. Witnesses reported no inflight fire, smoke, or airframe
+separation before the crash.
+The accident occurred about 2341 during hours of darkness at 41%6:N latitude
+and 012a41'W longitude.
+1.2 Injuries to ?ersons
+Injuries _Cre_w Passengers Others Total
+Fatal 2 1 0 3
+Serious 0 0 0 0
+XnorjNone -0
+-
+C -0 -0
+Totai 2 1 0 3
+1.3 Damage to Airplane
+The airplane was destroyed by impact forces and postcrash fire.
+1.4 other Demiige
+One tekphone polo and a portion of chain link fence were destroyed. About 3
+acres of ai-?: property was burned and contaminated by debris and fuel.
+1.5 Persmnel Wormation
+TRe fiightcrew was properly certificated and qualified for the flight. (See
+appen6ix 3.)
+
+-3-
+The captain was employed by Air Continental, Inc. on July 29, 1983, and
+qualified as a Learjet captain on September 27, 1983. He had last flown on June 1, 1984,
+and was off duty on June 2 and 3, 1984. He was returned to duty at 2100 on June 4,1984.
+The first officer was employed by Air Continental, Inc. on March 23, 1984, and
+was assigned co-pilot duties on the Learjet. His duty schedule had been the same as the
+captain's since June 1, 1984.
+The passenger was a former employer of the captain and was a guest on the
+flight.
+1.6 Aircraft Information
+The aircraft was certificated, equipped, and maintained in accordance with
+Federal Aviation Administration (FAA! requirements.
+The basic empty airplane weight and center of gravity information for weight
+and balance calculations were obtained from Air Continental. The pilot, co-pilot, and
+passenger weights were obtained from pilot medical certificates. Before departing
+Cleveland Hopkins Airport, 568 gallons (3,806 pounds) of Jet A fuel was added to the
+airplane. To stay within the required maximum gross weight limitations, the airplane
+departed Cleveland with full wing and full tip tank fuel end minimum to zero fuel in the
+fuselage tank. Refueling was to be conducted at Bradley International Airport by Combs
+Gates. Typical fuel loads for Night Air 4 at Eraaey on three previous trips were 410, 415,
+and 442 gallons. These quantities were consistent with fuel in the wing and tip tanks only
+upon leaving Cleveland.
+i
+The following computations reflect the most probable loading of the airplane
+at Cleveland and at the time of the accident.
+Cieveland Bradley
+(pounds) (pounds)
+Empty Weight 6,939 6,939
+Crew/Passenger 449 449
+FreightBaggage 490 360
+Fuel 4,718 1,518
+Total W-eight 12,596 9,266
+Center of gravity 26.5% 24.1%
+Maximum takeoff weight is 12,499 pomds.
+-
+Center of gravity limits 16% 31.5% MAC
+A second loading configuration, which placed all cargo and baggage in the
+baggage compartment to achieve the most aft possible center of gravity, also was
+computed. This configuration also was within weight and center of gravity limitations.
+A weight of 9,266 pounds for landing at Bradley was used to compute the
+landing approach speed of about 120 knots and was consistent with the airspeed indicator
+%ug' fll8 knots) found on the airspeed indicator in the wreckage. The approach landing
+speed actually flown by Night Air 4, as computed from radar data, was about 128 knots.
+
+-4-
+X.?
+The surface weather observation for Bradley International Airport at 2250
+(2150 e.s.t.) was:
+No ceiling, 4,000 feet scattered clouds; visibility--20 miles;
+temperat~re--S5F~; dewpoint--4Z0 F; wind--290° at 4 knots; altimeter
+setting--29.93 inHg.
+The 2350 (2250 e.s.t.1 observation was:
+No ceiling, 4,000 feet scattered clouds; visibility--20 miles;
+temperature--65' F; dewp0int--43~F ; wind--280° at 8 knots; altimeter
+setting--29.94 inHg.
+At 2333, approach control gave Night Air 4 the altimeter setting of
+29.94 in Hg., and at 2338 the tower controllers gave the final approach
+winds as 290° at 6 knots.
+1.8 Aids to Navi@tion
+A previously seheduled FAA flight check of the visual and navigational aids
+was conducted the day after the accident. All systems, including radio communications,
+were reported as being satisfactory. A maintenance certification check of the ground
+facilities by local airway facilities personnel indicated all systems were functioning
+satisfactorily.
+1.9 Communications
+A review of the recorded radio transmissions between approach control, the
+control tower, and the Crew of Night Air 4 revealed normal, routine handling by air traffic
+control ( A X ) with no discrepancies noted. The co-pilot's voice, which was identified by
+company personnel, was calm, and his radio transmissions were routine in nature. Air
+Continenta:'s policy requires that non-flying crewmember handle the radios.
+1.10 Aerodrome Information
+Bradley International Airport is served by three runways. Runway 33/15 is
+5,845 feet long, and 220 feet wide; runway 33 has a magnetic bearing of 3289 The
+touchdown zone elevation is 172 feet.
+Runway 33 has an instrument landing system (ILS) instrument approach,
+runway visual approach slope indicator (VASI), and a medium intensity, or simplified short
+approach lighting system, 1,400 feet in length. Information supplied by tower personnel
+indicatd that all approach and runway light systems were on low intensity seitings and
+were operationel a: the time of the accident. The sequence flashing lights in the
+approaci. light system were off during the approach of Night Air 4.
+1-11 Flight Recorders
+The aircraft was not equipped with a cockpit voice rxorder or a flight dats
+reco;der, and neither p;as required.
+
+-5-
+1.112 Wreckage and Impact Information
+The initial impact point was located approximately 1,200 feet to the right of
+the threshold of runway 33. The airplane had disintegrated and scattered ove? a pattern
+about 400 feet long and 200 feet wide on a heading of 035O magnetic. The ground terrain
+was a flat, open area on the airpart property. The wreckage area was scorched from heet
+and fire.
+The airplane's initial impact damaged a chain link fence which had one post
+knocked down, and the cement footirg of the post was pulled from the ground. About
+2 feet beyond the fence post hole, there was a 5- by 3-foot gouge in t3e ground which
+contained Pisces of the right airplane tip tank structure. A second gouge nark, about 18
+by 10 feet in size, was located along a heading of about 035O magnetic and about 15 to
+20 feet beyond the first gouge mark. Pieces of the airplane's right wing tip structure, the
+outboard end of the right elevator, engine blades, pieces of the cockpit windshield frame,
+and the encoding altimeter were recovered from within and around the second gouge mark
+area.
+Pieces of the airplane fuselage were scattered throughout the wreckage srea.
+X section of the fuselage right side was recovered along the wreckage path. The largest
+intact portion of fuselage structure which was recovered was the tail section aft of the
+rear pressure buRhead; it was heavily damaged by fire and was crushed on the left side
+which was upright against a telephone pole. The left wing structure was recovered in an
+inverted position just beyond the aft fuselage structure and was heavily burned. The left
+forward side of the fuselage from the main door frame forward toward the nose, including
+the control column, the rudder pedal assembly, the nose gear assembly, cockpit seat
+D
+tracks, the throttle assembly, the nose gear door, and the lower hinge of the cabin main
+door, and pieces cf the cockpit windshield frame lower area were attached to the wing.
+Located about 30 feet left of the wing structure was a portion of the left fuselage frame
+and ?kin, the left cabin window, and the upper and lower halves of the cabin main door.
+The lower i.3lf of the right crew seat, which was located beyond the wing st-ucture, was
+crushed toward an inboard direction.
+The left wing was recovered in one piece with the aileron partially attached,
+the spoiler and flap attached, and the mid area of the left tip tank attached. The wing
+structure was relatively intact, except at the outboard trailing edge, which was crushed
+forward and burned, and the leading edge, which was crushed aft and burned. The left
+flap was relatively intact and retracted. The leading edge and inboard area of the left
+flap upper surface was sooted. A line of discontinuity in the soot deposit ran in a
+spanwise direction forward of the skin splice line dong the spar upper cap. Aligning the
+discontinuity line with the wing upper surface trailing edge would correspond to a flap
+position of 7.5O.
+Tfre left flap push-pull rod was intact and attached between the flap and the
+flap sector in the wing. There was no apparent bending or elongation in the rod or
+distortion in the rod attachment holes. The left flap retraction cable was unbroken
+between the left wing sector and the center sector assemblies. The extension cable was
+broken approximately 4 inches from the attachment end on the left wing sector. The
+remaining extersion cable was continuous to the flap center sector assembly.
+
+-6-
+The center sector assembly was intact and connected to the flap actuator
+which also was intact on the wing structure. The actuator ?od extension rmmired
+2.25 inches from the face of the actuator housing to the centerline of the attachment bolt
+at the end of the rod, which corresponds to about 34' of flap extension. Full flap
+extension is 40'.
+The left aileron trim tab was attached; the actuator motor and linkages were
+intact through the aileron. The trim tab deflection angle between the aileron and tab
+lower surfaces was about 16' trim tab trailing edge down. The alignment index between
+the actuator motor shaft and housing was measured at about 26O, which corresponds to go
+of trim tab deflection for left wing down. The left spoiler was intact and attached to the
+wing structure and spoiler actuator linkage. The spoiler was in the retracted position.
+The right wing was recovered adjacent to the left wing; however, the right
+wing was broken apart and was damaged heavily bv fire. The right flap, spoiler, and a
+portion of the right aileron were recovered in the vicinity of the right wing. The right
+flap structure was in one piece; however, it was scorched, discolored, and partially burned
+away at the outboard end. The flap tracks were still attached to the right flap. The
+outboard flap track support assembly was separated from the wirg and remained with the
+flap track. The position of the track support was 6.5 inches from the centerline of the aft
+roller on the track support to the centerline of the attachment bolt for the flap track,
+corresponding to a flap positian of 6.5' extension.
+The right flap sector was atieched to the sector brackets in the wing structure
+and was free to rotate. The right flap retract cable was broken about 5 inches inboard of
+the sector. Tne right flap extend cable was broken about 34 inches inboard of the sector.
+The remaining right flap cable was in one piece and was routed around the flap center
+sector but was not within the sector cable tracks.
+The right wing spoiler was battered and partially burned away but still was
+attached to a remaining portion of wing structure with its hydraulic actuator attached.
+The actuator was intact but discolored by heat. Tt,e spoiler ectuator rod was extended
+1.97 inches between the face of the actuator housing and the bottom of the lock nut on
+the end of the extension rod. This measurement corresponded to about 39' of spoiler
+extension. The actuator rod could not be respositioned manually. The actuator and
+spoiler were recovered from an area of extensive fire damage. The spoiler actuator
+hydraulic lines, which were attached to the actuator, were burned in an area adjacent to
+the actuator and were broken where they were routed through the wing rear spar.
+The right aileron was broken into two sections with the inboard section still
+attached to the wing structure. The right aileron control cables were attached to the
+outboard puUy assembly and were continuous up to the aileron and rudder interconnect
+instellation. The outboard section of the right aileron was recovered several hundred feet
+to the left of the remaining right wing structure. The balance tab was still attached to
+the outboard section of the aileron.
+i
+The empennage was broken into two major sections consisting of the
+horizontal stabilizer with the ele5stors attached and the vertical stabilizer with the
+rudder attached. The horizontal stabilizer, which was recovered in one piece, had
+separated from the top of the vertical stabilizer. The right outboerd end of the horizontal
+stabilizer was crushed aft, and the entire right leading edge was separated from the front
+spar. The horizonw stabilizer actuator, which was in place, exhibited impact damage.
+39th the electrical drive motors were broken from their mounts. The actuator measured
+14.5 inches from the center of the attachment points, which corresponds to about 6.9'
+airplane nose-up; full nose-up is 'io.
+
+-7-
+The vmcical stabilizer was relatively intact and was attached to the taiI
+section. The rudder was relatively undamaged and was attached with the rudder trh tab
+intact to the vertical stabilizer. The rddder trim tab was in the faired position, and the
+tab push pull tube, which appeared straight and still, was attached between the tab and
+trim motor. The rudder cables were attached on the rudder sector and were continuous up
+to where the fuselage was broken apart. The elevator cables in the tail area were
+continuous from the sector forward to where the fuselage was broken apart.
+Both main landin? gear were relativiely intact and were partially attached to
+the wiag structure. Both maln landing gear actuators were irr the extended position. The
+nose gear structure, which was broken apart, had separated from fuselage structure. The
+nose gear actuator was broken apart, but the down lock balls were recovered in the down
+and lock position.
+-
+1.13 Medical and Pathological Information
+Postmortem examinations of both pilots and the passenger were performed by
+the Office of the Chief Medical Examiner, State of Connecticut. The examinations
+showed that the occupants died of multiple traumatic injuries. Injury patterns on the
+bodies indicated that both crewmembers were seated in their assigned seats and that the
+passenger was seated in the cabin. Toxicological specimens were screened for elcohol,
+drugs, and carbon monoxide, and the results were negative. There was no evidence of any
+disease or physical condition that would have affected the pilots in the performance of
+their duties.
+The airplane exploded on impact and was involved in an inten .e postaccident
+ground fire.
+1.15 survival Aspects
+The accident was not survivable because impact forces exceeded human
+tolerances.
+The accident site was adjacent to the Bradley International Airport Fire
+Department station. The accident caused a power outage to the electrical gate
+controlling access to the site, however, the Deputy Fire Chief, who had witnessed the
+accident, opened the gate manually, and crash/fire/rescue (CFR) response was immediate.
+Five pieces of equipment manned by eight men responded to the accident. They were
+joined by eight off-duty firemen and by units from adjacent mutual aid fire departments.
+The initial fire was knocked down and controlled using aqueous film forming foam.
+1-16 Tests and Research
+1.16.1 Airplane Parts Examination
+An extensive technical schedule was established to examine the powerplants
+and other parts of the airplane removed from the accident site.
+
+-8-
+Powerpiants.--Both airplane engines were sent to an overhaul facility in
+Dallas, Texas, for teardown examination and analysis. The examination was performed On
+July 19-20, 1984, under the supervision of a Safety Board field investigator. The
+examiners indicated that there was no evidence of preaccident malfunction or
+discyapancy on either and estimated that both engines where operating at 90 to 92 percent
+rpm at the time of the accident.
+Light Bulbs.--A number of lightbulbs from the airplane warning panel and
+exterior navigation lighting system were sent to the Canadian Aviation Safety Board,
+Ottawa, Ontario for examination &qd analysis. In a report, dated October 3, 1984, the
+Canadian Aviation Safety Board indicated that the filaments of the right fuel pressure
+light and left fuel pressure light, which had been removed from the warning panel, were
+stretched and appeared to have been on at impact. Both empennage navigation lights and
+the top rotating beacon gave the appearance of having been in operation at impact. All
+other light bulbs, including the spoiler warning lignt, were damaged consistent with cold
+filaments subjected to impact. Under normal operating conditions, the spoiler warning
+light is on when one or both of the spoilers are extended.
+System Components--The following components were examined at the
+manufacturer's facilities in Wichita, Kansas, on July 18-19, 1984, under Safety Board
+supervision.
+Component Serial Number
+l.* Spoiler Control Valve 240
+2.* Left Spoiler Restrictor Filter 383
+3.* Right Spoiler Restrictor Filter None
+4.* Left Spoiler Actuator 202
+5.* Right Spoiler Actuator None
+6. Spoiler Position Switch None
+7.* Flap Control Valve 184
+8. Flap Restrictor Filter 48
+9. Flap Relief Valve 251
+10. Flap Relief Valve None
+11.* Flap Hydraulic Actuator 94
+12. Aileron Trim Actuator 047
+13. Pitch Trim Actuator 128
+14. Roll Autopilot Servo 384
+15. Pitch/Yaw Autopilot Servo 0580-49AA
+16. Stall Warning Vibrator 177
+17. Fuselage Fuel Pump B6932
+18. Left Fuel Boost Pump B1746
+19. Right Fuel Boost Pump B4481
+*Component x-rayed before examination and/or testing.
+No discrepancies, other than noted in the following descriptions, were
+cnmvered by the examinations. An X-ray of the spoiler control valve revealed no
+evidence of internal operating distress. The valve exhibited fire damage. The valve was
+tested and found operational, although it functioned slowly.
+
+-9-
+An X-ray of the right spoiler restrictor filter revealed a small %-3" sized
+droplet Of solder in the inlet end of the filter on the retraction side. The restrictor
+unit 4 ; Was composed of an orifice with filters on each side. The metal ban was found on
+the retraction side of the orifice and outside the filter screen. The hydraulic line
+attached to the retraction side of the orifice was partially burned away. The restrictor
+filter exhibited fire damage.
+The O-rings seals on both sides of the restrictor were replaced before testing.
+The restrictor filter then was tested and found to function satisfactorily. The retraction
+side of the filter was removed, and foreign material was extracted and submitted to €he
+Safety Board's labmatory where it was identified by spectral analysis as composed of tin
+and lead (components of solder).
+An X-ray of the left spoiler restrictor filter revealed no evidence of internal
+operating distress. The restrictor filter did not exhibit any damage. The restrictor filter
+was tested and found to function satisfactorily.
+The right spoiler actuator exhibited severe fire damage; however, there was no
+impact damage. The actuator was extended 1.97 inches which corresponds to 3S0 of
+spoiler extension (full extension of the spoilers is 45.59. The actuator was tested and
+retracted at about 700 psi and extended at 500 psi. During the test, the actuator bypassed
+hydraulic pressure internally. Disassembly and examination of the actuator revealed that
+O-rings, the backup ring, and the felt wiper had been damaged by the heat of the ground
+fire. The right spoiler position switch was fire damaged and could not be tested
+eiectrically. The left spoiler actuator was not damaged. The actuator was tested and
+B found to function satisfactorily.
+The aileron trim actuator was not damaged. It was tested and found to
+function satisfactorilv. The pitch trim actuator exhibited imDact damwe. The orimarv
+and secondary drive- motors- were tested and found to function satGfactorili. Th;.
+actuator was near the airplane full nose-up position. The stall warning vibrator, which
+exhibited impact damage, was tested electrically and found to function satisfactorily.
+The left and right spoiler actuators were split in half lengthwise and examined
+by ar! engineering firm to determine if a materials trace pattern could be identified to
+indicate the position of the spoilers at impact or during the ground fire. (See figure 1.)
+The left spoiler actuator was not damaged by the ground fire; however, traces of rubber
+specks were found on the inside walls of the actuator, and a faint Sand was found on the
+actuator walls, corresponding to the piston O-ring in the extended and the retracted
+positions. The retract end of the left spoiler actuator barrel assembly was faintly scored;
+the circular scoring v;as aligned with the end of the piston rod. (See figure 2.) The right
+spoiler actuator was damaged by ground fire; heat decomposed rubber specks were found
+on the actuator walls and a heavy band of dark color was found on the actuator wall
+corresponding to the piston being in the extended position. The retract end of the barrel
+assembly was scored; the circular scoring was aligned with the end of the piston rod.
+A new spoiler actuator with the piston it. the retracted pos.tior, was subjected
+to 400° F heat to determine if the heat would cause the piston to extend. The actuator
+piston did not extend, however, and the test was inconclusive since the duration and
+intensity of the postaccident fire could not be reproduced in the laboratory.
+D
+41 The restrictor unit restricts hydraulic flo* to the actuator so that the spoilers move at
+a
+reasonable rate during extension and retraction.
+
+-1 0-
+Pistons in barrel
+Left Right
+Pistons out of barrel.
+Figure 1.
+
+..
+., ..
+.. .
+. .
+. .. . .
+.~.. . .
+... .
+, .
+... . .. : .
+. . .
+.. ....
+.I
+..
+... .
+.. ..
+-. . ..
+. .
+.. : .
+.. . ..
+..
+. .
+
+-1 2-
+A second flight test was conducted by the Safety Board's aircraft performance
+group and the FAA pilot member of the operations group. An unmodified Gates
+Learjet 23, N7200K, was flown at Bradley International Airport on October 17, 1984, to
+obtain radar data from the ,same facilities as the data for the accident aircraft. The
+radar data from the test airplane flight profiles and the radar data from the accident
+flight were obtained from Bradley Approach Controi and compared. (See appendix D.) The
+aircraft instrument and engine panels were videotaped to further document the flight
+test.
+Th&' purpose of the first tR.0 profiles was to obtain the vertical Velocity
+performance of the airplane during the first half of the descent in spoilers
+extended/retracted configurations at airspeeds similar to those flown by the accident
+airplane as obtained from processed radar data. The difference in the vertical speeds
+between ;ne spoilers extended/retracted configurations was noted and compared to the
+vertical speed calculated for the accident aircraft. The profiles were flown and recorded
+from FL200 td10,OOO feet. Since engine power settings were not known, the throttle was
+at idle (appro%mately 55 to 60 percent engine rpm) for the two descents except that a
+slight amountr'of power (5 to 10 percent) was added to maintain cabin pressurization
+between FL200 and 15,000 feet.
+There was a marked difference in descent rates between the spoilers
+extendedketracted configurations. With the power at idle, spoilers retracted, and
+maintaining the airspeeds of the accident aircraft as closely as possibie, e 4,000 to
+4,200 feet per minute descent rete resulted. However, with spoilers extended, the
+vertical speed indicator was pegged at 6,000 feet per minute. The calculated descent rate
+was about 6,500 feet per minute, which compares to a descmt rate of 3,500 to 3:800 feet
+per minute for the accident airplane (throttle setting unknown)
+The third and fourth profiles were flown frorn the downwind position (runway
+33 at Bradley) to approximately 700 feet. Since the rada: data indicated that the
+accident airplane was about 2.5 miles abeam the radar site &t 12,000 fee? at about
+285 knots indicated airspeed (KIAS), these values were selected as the initial point for the
+profiles. The engine power was kept at idle throughout, and indicated airspeeds as
+predicted froM radar data for the accident airplane were maintained. The flaps and
+landing gear were extended at the normal scheduled speeds, i.e., 200 KIAS for gear
+extension, 170 KIAS for approach flaps, 140 KIAS for full flaps. The third profile, flown
+with spoilers retracted, was similar tc the accident airplane profile ir, ground track.
+Passing altitudes were higher when compared to the passing altitudes of the accident
+airplane.
+Th6 fourth profile was flown in a similar manner as the third profile except
+that the spoilers were deployed at 7,000 feet since this was the only point in the descent
+of the accidefrt airplane where the descent rate was higher than that of the descent rate
+of the test aiwlane with spoilers retracted. The fourth profile required a steep descent
+after the fin& turn to maintain the desired airspeeds and track since engine power was
+maintained ateidle. Under normal operational technique, power would be added as the
+landing gear &d flaps were lowered to minimize changes in airplane attitude, descent
+rates, and aigpeed. After the airplane was levelled at 1,100 feet, it required about
+90 percent rph to maintain thc desired airspeed in the gear and flaps down, spoilers
+extended conf:guratiori.
+
+-13-
+1.17 Additional Information
+I
+1.17.1 Normal (3peratina procedures
+The FAA Approved Airplane Flight Manual of the Learjet 23, Section E,
+Normal Operating Procedures Checklist states: Taxiing --- E. Spoilers-Check operation,
+then retract.
+1.17.2 Descent, Approach, and Lending Techniques
+The Gates Learjn? Flight Training Manual describes standardized procedwes
+and maneuvers for pilots transitioning into Learjet series 20 aircraft. Those portions of
+the manual devoted to descent, approach, and landing state, in part;
+Descent
+. .
+.Both a power and pitch change is usually required when transitioning
+to the lower altitudes. To level off from the descent, lead the desired
+altitude by about 10-20 percent of vertical speed to avoid overshoot and
+for passenger comfort. If levelling at descent airspeed, smoothly add
+power while changing to level flight attitude. When levelling at a slower
+speed smoothly change pitch attitude to level flight and as the airspeed
+appmaches within about 10 knots of that desired, smoothly advance
+power to maintain desired airspeed.
+The wing spoilers are a convenient means of expediting a descent rate
+and/or to quickly reduce speed. Deploying the spoilers will cause a slight
+pitch down tendency. With a little practice, this can be anticipated,
+elevator pressure held against it and relieved with trim. The nose up
+tendency when the spoilers are retracted, may be handled in like manr?er.
+A slight buffeting will be noticed with the spoilers extended. Good
+planning will usually preclude the need for frequent spoiler use in flight;
+however, if circlimstances dictate, do not hesitate to use them.
+Remember that the stall speed is increased with spoilers extended.
+Remember too, spoilers and flaps should -not be used simultaneously
+because of the probable fatigue damage to the flap surface.
+..
+.After level off in the traffic pattern, the initial target power setting
+ir? clean configuretion to Vref plus 40 KiAS is spproximately 78 percent
+rpm. Lowering the flaps to 8O and mawtaining Vref plus 30 KIAS
+requires very little change of power (78 percei.t rpm), Lowering flaps to
+20° along with extending the gear and maintairting Vref plus 20 KIAS
+requires an additional 4 percent (82 percent rpmi. Lowering full flaps
+and maintaining Vref will require additional 5 percent (87 percent rmp).
+These power settings are for straight and level flight and are
+approximate. Generally in the Learjet in a stabilized conditio>,
+I percent rpm power change will e q m 1 appzoximately 5 knots in
+airspeed. In the landing configuration at Vrei ispeed stable), reducing
+the rpm 1 percent will result in approximately 100 feet per minute rate
+of descent.
+
+-1 4-
+-
+Normal Approach for Landing
+Several factors influence the requirement for utilizing a smootfi, shallow
+power-on approach. Two of the basic factors are: First, if an approach
+angle is relatively shallow, airspeed control is generally improved.
+Secondly, by using a relatively shallow approach with adequate power,
+the rate of descent is held to an acceptable value. The final one-half
+mile of the final approach should approximate an ILS glide slope with a
+rate of de!.tent of approximately 600 feet per minute. At idle or low
+power in a high rate descent (steep glide slope), the airplane on flare will
+only rotate; however rate of descent will not appreciably change.
+Another advantage of a shallow approach is that the high power required
+. . .
+places the engines in the best acceleration range.
+Landing
+Jet aircraft in general have certain landing characteristics.
+Deceleration is not rapid whert power is reduced to idle. While in idle,
+the engines still produce forward thrust. In ground effect, the jet
+aircraft can "float" for a long <:stance.
+The Gates Learjet in landing configuration at Vref is in a near landing
+attitude. Constantly trim pitch to neutral. n2aintain Vref until within a
+.. .
+few feet of the runway surface.
+The Operations group FAA pilot member and other Learjet pilots stated that
+near fuli nose up horizontal stabilizer trim is normal for most landings.
+I
+A review of Service Difficulty Reports (SDR) since 1979 involving flight
+control systems on Lear 20 series airplanes disclosed three reports concerning the spoiler
+system: one report indicated a leaking hydraulic line due to corrosion, and the other two
+concerned worn and broken attachment brackets on the actuator. All three discrepancies
+were discovered during maintenance inspections. None of the reports indicated if spoiler
+operation had been affected in flight. Of the three discrepancies noted, thne most likely to
+cause an asymmetric position between the left and right spoiler actuators would be a
+leaking or broken hydraulic line. Due to impact and fire damage, the preimpact integrity
+of the spoiler hydraulic lines of the accident airplane could not be evaluated.
+2. ANALYSIS
+2.1 G e n d
+The airplane was properly certificated and had been maintained in accordance
+with approved procedures. There xas no evidence of preaccident failure or malfunction
+of *he aircraft structure or powerplants.
+The flightcrew of Night Air 4 were certificated and qualified for the scheduled
+cargo flight. The flightcrew had current medical certificates. Both crewmembers were
+seated in their assigned seats and the pilot was flying the airplane. Weather was not a
+factor; the accident occurred on a dark night, with scattered clouds, 20 miles visibility,
+and light winds.
+I
+
+-1 5-
+1 2.2 me Accident
+Fifteen witnesses who either heard a?d/or saw tine accident described basically
+the same accident sequence. Night Air 4 was on final approach to runway 33 at Bradley
+International Airport over the approach lights in a stabilized attitude configured for
+landing. The nose of the airplane rose and a right turn was initiated as if the pilot had
+decided to go-around. However, the right turn continued and the airplane descended until
+it struck the ground in a nose down attitude with a bank angle of 90' or more.
+The Safety Board has investigated a number of Gates-Learjet takeoff and
+landing accidents which had similar characteristics. (See appendix E.) Certain flight
+maneuvers were common to all of the accidents: (1) each aircraft experienced steep
+banking with high roll rates immediately before the loss of control, (2) none of the
+flightcrews was able to recover the airplane after the rolling started, and (3) the addition
+of engine thrust appears to have aggravated the severity of bank attitude. During its
+investigatims of the accidents, the Safety Board concluded that a number of factors could
+create a situation causing the wing roll and subsequent control loss: ice/snow
+accumulation on control surfaces and other aircraft structures, gusty winds, wake vortex
+turbuience, mistrimmed flight control surfaces, cockpit flight control interference,
+asymmetrical thrust application, and flightcrew failure to maintain airspeed and attitude.
+None of these factors, however, appear to have been present in the June 4, 1984 accident.
+Analysis of the radar data indicates that the airplane's speed on final approach was about
+8 knots above the Vref speed of 120 knots. Witnesses stated that the airplane's speed and
+attitude looked normal for landing. The flightcrew was rested, highly-qualified, and
+familiar with the airport. While this accident may have similarities to the other Learjet
+accidents investigated by the Safety Board, the causal factors found in the other
+accidents do not appear likely explanatiors in this accident.
+2.3 The Airplane
+Examination of the wreckage disclosed no evidence of an inflight fire,
+explosion, or component separation. The landing gears were recovered in a fully down
+position. Soot patterns and impact marks on the left and right flap surfaces indicated
+that the flaps were partially extended :;.hen exposed to postimpact fire. Examination of
+the flap control cables disclosed tension overload failures typical of crssh damage
+indicating that the flaps were extended. The flap actuator was recovered in a position
+corresponding to about 34'of flap extension. Full flap extension is 40'. The exact flap
+extension before irpact could not be determined; however, the flaps most likely were
+extended at least 34'.
+During the postaccident inspection, the horizontal stabilizer actuator was
+measured and found trimmed nearly to the full airplane nose-up position. Based on
+statements by pilots who fly the Learjet and Gates Learjet personnel, this is not an
+abnormal position for landing since it relieves back pressure on the control wheel and
+elows for a smooth roundout and flare for touchdown. This aiso is indicative of inflight
+spoiler deployment since extension of spoilers causes a nose-down pitching moment.
+The right wing spoiler actuator rod was recovered in the extended position,
+and the left wing spoiler actuator rod in the retracted position. Because spoilers are
+programmed to operate in unison and because pilots are cautioned not to use them in the
+air when the flaps are down in order to prevent fatigue damage to the flaps, the position
+of the right sDoilers found during the postaccident inspection was unusual.
+
+-16-
+A laboratory inspection of the right spoiler actuator revealed a heavy band of
+discolored metal on the interior wall that corresponded to the piston being in the extended
+position, indicating that the spoiler was in the extended position whi?e exposed to the
+postaccident ground fire. Although circular scoring marks were found on the retract end
+of the spoiler actuator barrel assembly, examination of the marks was not conclusive in
+determining whether the scoring was caused by inservice use or by impact damage. The
+left spoiler actuator barrel assembly had faint scoring marks. Based upon the weight of
+the physical evidence and the reactions of the airplane during tne last part of the flight,
+the Safety Board concludes that the spoilers were asymmetrical at impact. The Gleron
+trim actuator was recovered in a position toward full travel for left wing down which
+points to the possibility of a lateral control prcblem and indicates that the pilot
+attemptea' to counteract an uncommanded airplane roll to the right by using aileron trim.
+Other components of the airplane spoilers, flaps, aileron trim, and automatic
+flight control systems that were recovered from the wreckage and examined at the Lear
+facility in Wichita did not indicate any potential source of flight control malfunctions in
+flight. The only discrepancy noted was a small aB-BTTs ized droplet of solder found in the
+flow restrictor of the hydraulic line for the right spoiler actuator. If the metal droplet
+hac; impeded hydraulic flow through the restrictor, the effect would have been a slightly
+reduced retraction capability of the right spoiler. However, flow rates through the
+restrfctor measured during both the retraction and extension cycles were not affected by
+the presence of the solder.
+Examination of the spoiler warning light bulbs indicated tha? the filaments
+were no? stretched at impact indicating a cold filament (bulb off) condition. Cnder
+no?mE! conditions. if one or both of the spoilers had been extended, the bulbs would have
+been illuminated. However, since the right wing struck the ground first, it is possible that
+the impact sequence caused an electrical interruption and extinguished the light, or that
+the k*&so r wiring mag have been defective and that the system was not operative. If the
+sys?en was inoperative, it would further explain why the flightcrew did not notice the
+extended spoilers on the f i i a pproach. Other light bulb examination evidence indicates
+the right and !eft fuel pressure warning lights were illuminated at impact. The Safety
+BoaFd attributes this to the rolling maneuver of the airplane before impact during which
+the fuel pumps probably were uncovered in the tanks, causing the warning lights to
+illuminete.
+The Safety Board could not determine the reason for the postulated
+malfunction of the spoiler system. There is no maintenance history of spoiler failure in
+Getes Learjets, and the flightcrew did not report a malfunction before flight when they
+wouid have checked the spoilers as part of the normal operating procedures checklist.
+Fiight tests in an unmodified Lear 23 indicated that an asymmetrical spoiler
+c-o.n dition is controllable if prompt end correct rudder and aileror. control inputs are made.
+::owever, the fiight tests were made under controlled conditions at altitude with
+rL orewerningo f :be conditions. !f an wymetrical spoiler condition were to occur at night
+on fimi apmoech. airplane rol! rates might develop to a degree that delayed recovery
+inputs by an unwary pilot would not be sufficient to stop the roll.
+The flight tests performed at Bradky to evaluate Lear 23 flight
+characteristics indicate that the first portion of the approach (from FL200 to 10,000 feet)
+%'as ?Prforrned xith the Tpoiiers retracted. The flight tests also indicated that the
+coxbination of descent rate an2 acceleration which the accident airplane achieved as it
+
+-17-
+1 descended through 7,000 feet was achievable only with the spoilers extended. The Safety
+Board concludes that the spoilers were used to increase the rate of descent during the
+turn to final since the descent rate shown by the radar data of the accident flight was
+'nigher than the descent rate shown by the radar data for the test flight with the spoilers
+retracted and was similar to the descent rate of the test flight with the spoilers extended.
+After the airplane rolled out on final approach, nost likely the landing gears
+were lowered at about 200 KIAS, the flaps were extended at about 170 KIAS, and the
+power was increased to maintain airspeed, attitude, and rate of descent. However, the
+Safety Board believes that the spoilers were still extended. It was noted during the flight
+test that there is little difference in cockpit ::tal background noise level with spoilers
+either extended or retracted when the gear and flaps are down to alert the pilot that the
+spoilers are extended. The fourth profile of the test flight flown at Bradley International
+revealed that it took about 90 percent of power to maintain level flight with the gear and
+flaps down with spoilers extended. The engine teardown revealed that engines were
+operating at about 90 to 92 percent rpm at impact. Power required to maintain Level
+flight with spoilers retracted is about 87 percent. Consequently, the spoilers extended
+configuration only requires 3 percent more power than retracted configuration and a pilot
+could overlook the difference in power particularly if the spoiler warning lights were not
+lit. It is postillated that as the airplane passed over the approach lights, the pilot realized
+that the spoilers were extended and retracted them. The nose of the aircraft would have
+risen slightly due to spoiler retraction, but since the right spoiler did not retract the
+aimlane started a slow roE to the right. While the pilot sdded power, he apparently did
+not use enough aileron and rudder control input to arrest the roll, srd the airplane rolled
+inverted and crashed.
+b 3. CONCLUSIONS
+me
+airplane was properly certificeted and had been maintained in
+accordance wit'n approved procedures.
+fiere was no evidence of preaccident failure or malfunction of the
+sirplane's structure or powerpiants.
+The flightcress of Sight Air 3 was certificated and qualified for the
+scheduled cargo flight.
+The flightcrew of S$ht Air 3 held current medica! certificates.
+30th crewmembers were seaiec! in their assigned seats and the pilot was
+Eying ?he airplane.
+'.\eat%er was not a facto? in this accident.
+Thore was no evidence of sn ir.%ght explosion, fire, or componeni
+sepsrstion.
+The landing gears were iuil? extended at impae:.
+The 5:iiips were extended: the actus1 extended position before irnpect
+eorllZ 7ot oe determined but most likely was at ieast 349
+
+-1 8-
+10. The aileron trim actuator was recovered in a position toward full left
+wing down.
+11. The horizontal stabilizer actuator was in the near full airplane noseup
+position.
+12. The right spoiler actuator was recovered in an extended position, and the
+left actuator in a retracted position.
+13. The right spoiler actuator was in the extended position when evosed to
+the postaccident ground fire.
+14. There is no maintenance history of spoiler problems in Gates-Learjets.
+15. Flight tests indicate that an asymmetrical spoiler condition in a Gates-
+Learjet 23 is controllable if prompt and correct rudder and aileron
+control inputs are applied. If input is not correct or applied won enough,
+uncontrollable roll rates may deveiop.
+16. The initial pert of Night Air 4's descent was made in a clean
+configuration.
+17. The pilot of Night Air 4 extended spoilers during the turn to the final
+approach and inadvertentiy did not retract them until over the approach
+lights.
+18. The spoilers did not retract spmrr,etrically causing the airplane to roU to
+the right.
+f 9. The pilot apparent:?; did not detect the roll before the roll rate
+developed to the extent that the aimlane could not be Controlled before
+it impacted the groune.
+cause
+=le
+The Nationa! Trarqwrtation Safety Board determines that the cause of the
+acciCeni was en unconmanded roi: to the right which caused the airpl8r.c to roil about SOo
+and descend into the Fomd. The cause of the unsornmanded roll was an asymmetric
+yetraction af the flight swiiers wherein the left spoiier retracted and the right spoiler did
+;x*T.he. % fet!;v Boerd cortld not 6etermine the reason for the right spoiler malfunction.
+3Y NATlONAL TRANSPORTATION SAFETY WARD
+'I'HE
+
+-1 9-
+4. APPENDIXES
+APPENDIX A
+INVPSTIGATION AND REARMG
+1. Investigation
+The Safety Board was notified of the accident about 0030, June 5, 1984. A
+partial team was dispatched from the Washington, D.C., headquarters and arrived on
+scene about 0530. Working groups were established for operatimslair traffic
+control/ witnesses, structures, systems/powerplants, and maintenanre recorits.
+Parties to the investigation were the Federal Aviation Administration, Air
+Continental, Gates Learjet Corporation, General Electric, and the State af Connecticut.
+2. Public Hearing
+A public hearing was not held. Depositions were not taken.
+
+-20-
+APPENDIX B
+PBBsOwNEL INFORMA~ON
+pilot Charles Rrtssel Huffman
+Mr. Huffman, 52, held Airlirle Transport Pilot Certificate No. 1359790, issued
+On April 5, 1982. He had a singic? ancl multiengine rating with a Learjet type certificate.
+As of June I, 1984, hsi total flykg time was about 11,039 hours with approximately
+1,130.4 hours in Learjets. He tad flown 713.4 hours while an employee with Air
+continental.
+Mr. Huffman had an FAR Part 135 proficiency check ride on April 29, 1984.
+He was assigned duty BS a Captain by Air Continental on September 27, 1983.
+Mr. Hdfman had a first class medical certificate dated March 28,1984, vith a
+Iimitation that stated, "Holder shafl posses correcting g&sses for new vision while
+exercising the privileges of his airman certificate."
+A~c~mEntog company records, Mr. Huffman had 99.3 hours in the last 30 days
+and 281-9 h0W in the past 90 days He had flown into the Bradley International Airport
+18 times during the Iast 90 days before the accident
+Mr. Dulay, 26, held an Airline Transport Pilot No. 199388678, issued on
+October 29, 1982, with a single and mdtiengine aircraft rating. He held a first class
+medical certificate dated Jure 30,1983, with a limitation that stated, "Holder must wear
+corrective lerses while exercising the privileges of his airmen certificate."
+His total flight time was 5,263.6 hours with 189-3 hours in Learjet, all of which
+was with Air continental. His Last proficier,cy check. which was on March 23, 1984, was
+administered by the company's president He was assigned duties as Air Continental
+copilot in March 1984.
+Psswnger EIdridge Monroe Sheetz
+Mr. SheeU, 71, a passenger, was the holder of a Commercial Pilot's
+Certificate No. 244571. His Seeond class medical certificate was issued on December 10,
+expired.
+1975, and it had
+
+-21-
+APPENDIX C
+rpsXCBAFT INFORMATION
+The accident aircr.a:t was a Gates Learjet model 23A, Serial No. 23-085,
+Registration No. NlOlPP. Tjne Grcraft was owned and operated by Air Continental, Inc.,
+of Elq-ria, Ohio.
+The aircraft was equipped with two General Electric C3610-4 engines, each
+;.at& at 2,850 pounds of thrust. The right engine, SN: 251-268 was a leased engine from
+AVIALL and, according to the engine logbook, had a total time of 2,336 hours when
+installed on April 7, 1984. Tne left engine, SX: 241-133, had a total time of 3,112.6
+fiau?s.
+Aecordi-q tu the aircraft records, the last inspection was a 150-hour check
+cor pleted op. -4pril 14, 1984, at a totel airframe time of 8,393.4 hours. The estimated
+&reraft time on the d&tt of the accident was 8,483.3 hours.
+Re maximum certificated ramp weight for this airmaft is 12,749 fbs. with a
+maximum takeoff weight of 12,499 Ibs. The maximum landing weight is 11,880 lbs. with
+e .T.EX~~UE z ero fuel weight of 9,000 I~s.
+OR J m e 7, 1984, a review of the aircraft (logbooks 4 end 5) and the e??gine
+-8in:er.snce records indicate that the airplane was being maintained in accordance with
+zsiicsSe FAXk. 30 msjor discrepancies were noted during the review. Airworthiness
+3irectives hed k e n complied with. AU flight control cables were replaced or.
+-.
+22, I C8.l.
+1 I~ p_irl.I &
+
+-22-
+APPEHMX D
+RADAR DATA
+Table I. Printout of radar data from accident flight.
+Figure 1. Plotted data of accident flight.
+II.
+Table Printout of radar data from first profile, descent from FL 200 to 10,000
+feet, spoilers retracted.
+Figure 2 Plotted data from first profile.
+m.
+Table Printout of radar data from second profile, descent from FL 200 to
+10,000 feet, spoilers extended.
+Figure 3. Plotted data from second profile.
+Table IV. Printout of radar data from the third profile, descent from downwind to
+final, spoilers retracted.
+Figure 4. Plotted data from third profile.
+Table V. Printout of radar data from fourth profile, descent from down wind to
+final, spoilers extended.
+Figure 5. Plotted data from fourth profile.
+
+-23- APPENDTY D
+a
+3
+3
+i
+
+APPENDIX D -24-
+
+-25-
+.-
+v:
+I
+L
+I
+/ O
+i 3
+
+APPENDIX D -26-
+.
+51-
+av
+c
+.....................................
+c
+z
+-0
+CZ
+E
+
+-27- APPENDIX D
+G,
+(D
+!
+. .
+. I
+Figure 2.--Plotted data from first probile, spoilers retracte6.
+
+Table In.--Printout of radar data from second profile, 3escent
+from FL200 to 10,000 feet, spoilers extended.
+PRINJOUT Ut OUTPUT IIATA
+P Y O O I NT MIN SEC T IM M U A G t. C L G U t ' V V k F t v l R n . T . . F P L O A I L G G T H H T G L . I S t T T- G U S l K H q U A Of I E R S S PECD K IN N D O . T S U
+5 3 4 I 1 1 6 6 6 4 3 3 2 3 0 . . . 8 3 0 5 6 9 1 I I 9 u 9 2 1 5 0 0 0 0 0 0 . . . 4 ~ YU 0 U 1 2 . . O 6 1 m . - - 1 - 1 0 1 7 . . 5 . 5 1 5 6 4 0 0 1 . . . 0 7 1 4 5 1 - - - u 0 0 . . . 3 1 1 3 1 1 - -1 2 9 3 4 . . . 1 1 6 9 2 1 - - - 6 9 9 . . 0 . 4 7 3 7 = 269 ? .2 !A
+6 8 7 9 1 l I 1 b 7 b 6 4 5 5 1 6 2 1 . . . . 4 8 1 5 5 ) 9 6 1 I 1 I b 7 7 7 h 7 9 2 U O 0 00 0 0 0 . . . . 4 4 4 4U 0 u 0 1 3 H 4 . . . . 3 6 5 2 - - - - 9 7 L b . . . . 6 2 h U 2 b < h 0 U 1 1 . . .. Y 9 2 O 1 1 w - " - - ( 0 U I 0 , . 2 . . 1 1 1 0 1 5 2 2 2 1 b 1 0 4 . . . . 3 6 7 9 6 9 3 5 - - - - 8 4 8 4 . . . 5 . 1 5 b 2 1 1 o 2 2 2 2 m Y 1 88 9 6 1 . . . .u 5 6 5
+1
+1 1
+2
+0 1 1
+1
+1
+7
+7 7
+1
+1 6
+5
+0 .
+.
+. 2
+5
+9 0
+7
+5
+I
+1 1 6
+5
+5b
+1
+1 U
+0
+0 D
+0
+0 .
+.
+. J
+3
+3
+1
+9 fi
+1
+' 4 1
+7
+. .
+.
+4
+6
+Y
+-
+- - Y
+9
+9 .
+.
+. J
+3
+0 3
+7
+4
+1
+1 I . .
+.
+u
+0
+04 s
+0 -
+- -
+0
+0 0
+.1
+. . 1 4
+4
+3 2 - - 1 1 Y
+9
+9 .
+.
+. 4
+4
+4 2
+9
+5
+-
+- -
+7
+7 7
+.
+. .
+6
+4 3
+4
+9 7 j2 2 u8 9 4 0 . .
+.
+9 3
+u
+I 1 4 3 1 17 7 3 0 4 . . 2 9 0 5 t I 4 4 1 6 u 0 u 0 . . 3 3 Y U L 9 . . 7 b - - 9 9 . . 1 2 6 0 1 1 . . 0 0 3 4 - - 0 0 . . 2 1 4 6 19.49 - -7 7 . . 4 5 5 4 29 9 7 3 . . Y 0
+I 1 6 5 1 1 7 7 2 3 9 4 . . 5 3 7 1 1 3 3 6 2 0 0 0 0 . . 3 3 8 7 3 5 . . 8 4 - - b 0 . . 6 4 9 3 1 1 . .U o 7 u - -0 0 . . 3 3 2 0 -0.2 - -6 4 . . 4 3 1 9 2 2 8 9 7 3 . . H 8
+1 68 7 1 1 7 7 4 38 3 . . 9 7 6 1 1 1 1 2 h 90 0 0 0. . 3 3 5 b 1 e . . 6 b - -5 0 . . 8 2 1 3 0 1 . . 9 01 8 - - 0 0 . . 2 3 9 1 - 6 3 . . 9 b 8 4 - - 3 3 . .6 0 1 2 2 2 7 8 1 3 . . 1 4
+19 17 40.II I 2i0U. 344.9 -6.35 0.98 -0.14 Y.43 -3.86 261 -5
+20 17 52.96 1 1000. 345.7 -1.16 u.Y:l -0.10 -7.61 -4.19 270.5
+21 17 57.15 1 IhUO. 345.4 -7.21 1 .u1 -0.21 -8.a; -4.70 M:!
+2 2 3 J 1 38 8 6 2 . . 9 3 b 5 1 t A 1 % J : OU. 3 33 4 4 3 . . 4 3 - -b 6. .5 4 b 1 0 1 . . 9 0 8 1 - - 0 0 .2 .2 5 4 - - 2 1 . . 4 8 - - 3 3 .Y .8 5 4 5%:: N I
+24 18 11.SR 325.2 -b.b5 1.03 -0.16 -0. -3.69 m
+15 1 04UO. 325.3 -5.52 1.167 -0.12 6.@1 -2.38 261.5 I
+* * 2 2 ' 6 1 I 1 0 0 ; 0 c 0 u 0 o . . 3 3 1 1 7 4 . . 0 1 - -2 4 . . 3 5 1 1 1 1 . . 1 1 0 5 - - 0 0 . . 1 2 7 2 - b 9 . . 3 1 9 9 -1 1 . . 1 5 1 5 1 2 26 5 1 5 . . 3 5
+28 1Y 40.11 1 OOOfJ. 3u11.4 n.uo 1 .OY -0.09 -9.46 4.04 241 .b
+*
+SMOOTHED VALUES APE 4PYRUXIMATE NEAR END POINTS
+
+I
+. . . .
+i
+1 -
+..
+. . .
+i u i
+! A
+!
+1
+i
+.. .
+. .
+..
+. .
+. .
+..
+.. . . .
+.. . . . ~ ,
+.
+. .
+..
+,. .:
+..
+. . ..
+.
+.. .
+.~ ... .
+. .
+. .
+. . . ...
+: . ... .
+. . .a'3IK#m&w az-
+. .
+.
+:
+..
+
+Tnble 1V.--Printout of rndnr dntn from the thrid profile,
+descent from downward to finrll, svnilcrs rctrnc?ted.
+f LIbHT
+rltu
+'P- L
+DEL cs
+3 dn 1y.o) 120l10.
+1 1 1 l 1 1 I 1 1 b 9 b 5 4 5 U 8 3 2 O 4 7 7 1 3 3 3 3 3 3 3 3 3 3 3 3 3 1: Y 9 9 9 9 n E 9 9 9 9 8 8 5 2 2 4 5 : 3 1 3 3 3 1 3 2 2 4 1 n 7 9 5 1 9 0 I : . . . . . . . . . . . . . 7 4 3 9 Y 0 1 3 3 1 3 1 0 : 1 6 3 6 1 4 4 7 1 4 S 2 0 2 1 1 1 I I l 1 1 1 ' 9 9 9 8 1 m o l 0 0 l 1 I 1 1 1 H 1 2 9 u 5 T 7 0 4 0 2 3 0 1 0 o 0 0 n n 0 0 0 O 0 u 0 0 0 n 0 n 0 0 n 0 0 0 0 0 O 0 0 0 . . . . . . . . . . . . . . . - - - - - - - - - - - - - - - b:!: 6 1 5 3 S 4 3 4 0 5 5 5 2 2 . . . . . . . . . . H . . . 6 U 3 2 9 9 5 7 0 5 9 Y J 1 b 1 5 1 3 2 0 4 1 1 u 0 0 0 0 0 n 1 I I 1 1 I I I I . . . - . . . . - .. . . . . o ' 0 9 I 0 0 9 0 ) V o 4 9 u U 2 1 u 3 I 5 s 2 9 0 8 3 u I I - - - - - " - * - ' - - " - 0 0 U 0 1 0 0 n 0 0 0 b 0 n 0 , 1 . . . . , . . . ' + . . O . , 1 2 J 2 5 U 5 Y 1 % 4 2 0 5 1 o ' h 5 1 8 0 b 3 3 l 5 i H 5 - - : - - - - - - - - - - : 1 2 1 0 3 0 I : 1 2 3 0 ; . 1 1 . 4 . . . . . . , 2 2 . 4 . . 1 1 . 1 1 5 0 u 0 1 4 6 1 s 2 9 2 3 5 3 4 1 0 ) 3 2 2 2 2 2 1 2 4 4 4 2 3 3 > 4 7 7 6 4 1 6 . 2 9 7 4 8 2 9 3 1 s 2 U 9 1 Y 2 3 5 2 . 5 4 . . . . . 8 . 5 3 . 0 . . . 6 0 9 . . 7 . 0 6 4 4 6 3 0 * j
+b 6 b 5 5 5 5 4 4 5 5 4 4 3 4 4 4 4 4 5 5 5 5 2 2 2 2 2 2 2 2 2 2 3 4 3 3 3 3 3 3 3 1 1 2 6 1 1 M 1 Y 5 1 8 Y 7 1 o 0 n b 7 9 9 4 s 3 b 2 1 0 0 0 2 4 4 4 Y 3 3 5 2 0 3 5 6 2 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 3 0 3 3 ' 3 1 3 1 3 1 ) 3 1 1 1 1 1 1 2 2 2 2 1 2 9 9 0 0 2 2 2 0 2 0 9 0 0 0 0 2 2 0 2 2 1 0 0 1 2 5 5 2 3 J 5 S 5 2 4 4 2 4 5 2 2 4 4 2 4 5 2 3 1 1 3 1 1 3 1 J 3 3 1 1 1 3 5 0 b 4 0 3 9 0 9 0 4 I 9 2 Y 1 5 4 2 b 9 9 1 0 b 4 4 b 1 5 7 7 3 8 0 : 1 ? 1 1 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 . . . . . . . . 5 1 Y d 1 7 4 7 Y n 5 3 4 S 0 2 9 5 0 Y V 5 4 0 V 1 3 1 9 4 4 7 # 4 J 0 1 1 3 1 5 J 5 1 6 S 1 1 1 2 C 6 8 0 5 3 S S 2 s 2 1 1 1 0 5 7 2 5 4 7 s 4 0 > 0 6 5 7 5 2 9 l 7 3 0 1 b 6 5 2 2 1 1 R M 8 1 1 7 5 4 4 4 4 2 2 1 1 1 1 M 1 4 2 2 2 x ? 2 1 2 7 3 1 3 3 3 3 3 2 9 9 b 0 Y 9 5 b 1 Y 9 3 4 4 2 0 1 1 b b 8 h 4 3 1 5 7 0 b 3 4 0 2 5 1 n 7 3 1 2 4 3 n 4 1 U 0 O 0 0 O 3 0 O O o 0 0 0 0 0 0 0 O O 0 0 0 0 0 0 0 0 0 0 0 i 0 0 o 0 0 0 0 0 0 ) J J 0 o 0 C 0 0 0 0 0 o 0 0 0 0 0 0 0 U 0 0 0 O 0 0 0 O 0 0 0 0 ( 0 0 0 O 0 0 0 0 0 0 0 0 1 . . . . , . I . . . l . . . . . . . . . . . . , , . . . . . . . . . . . . . . . . . . . , , - - - 1 I - - 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 3 m a 7 ) b 9 0 3 1 3 D 2 2 1 4 J 5 I 5 3 7 7 5 5 4 1 4 5 3 2 5 3 3 0 0 2 5 5 2 2 5 5 5 I . . . . . . . . . . . . . . . . . . . . . . 0 . . . . . . . . . . . . . . . . . . . . U u . . 5 . b b 3 6 2 4 1 6 y b m b 4 Y 5 1 7 0 y 1 9 Y 4 t 9 1 9 6 1 1 0 4 5 4 6 2 2 t 1 l b 5 1 4 w 1 5 7 7 3 3 3 l 2 b 9 0 9 4 5 3 1 2 4 0 5 9 5 9 3 1 7 ( 6 5 2 6 3 0 2 0 2 0 2 0 2 b 5 0 0 0 6 0 0 0 0 I 1 0 0 1 1 1 1 0 u I I 1 1 I 1 1 1 I 1 1 1 I I 1 1 1 i I 1 I I I 1 1 I I . . . . , . . . . . 6 . . . . . . . . - . . . . . . . . . . . . . . . . . . * . . . . . - o u 4 Y 4 0 o 0 U 0 2 9 1 0 2 0 0 Y O 4 9 0 9 Y 6 5 3 O I 2 1 9 Y o 9 0 0 9 I 9 O U I b I R 1 o Y s h b 3 Q 3 7 4 b 1 2 n 7 b Y B b 2 b 9 Y 1 b 4 r 9 2 1 3 I n 3 4 Y Y 6 b 5 I 6 V - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 1 U 0 0 0 0 0 0 0 0 0 n 0 u 0 0 0 u 0 0 0 0 0 1 0 0 0 0 0 0 0 0 b 0 0 0 0 0 0 0 0 0 0 1 0 n . . . . . . . . . . . . . . . . . 1 . . . . . . . . . . . . . . . . . , . . . . . . ) . 1 o 2 . . 1 l 2 0 o 1 1 2 1 1 1 0 1 1 0 l 0 . 1 2 1 1 u 2 3 1 0 l 2 1 3 0 1 2 1 1 2 1 1 2 Y b 0 y J 5 b 0 3 3 1 5 u 5 I b 4 1 2 1 b 9 0 1 9 2 1 4 b 8 5 3 2 6 7 7 0 4 0 1 5 2 2 7 2 I 0 I - - - - - - - - - - - - - - - - - - I 1 1 # 1 3 7 1 1 1 I 9 2 9 1 0 1 3 2 Y 1 1 0 2 2 5 7 5 7 b b 4 5 b I 0 7 2 2 u u 1 3 2 0 h 0 1 . . J . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . * . . . . . 1 8 . . Y 2 9 3 4 1 4 6 1 0 1 5 1 2 d . 7 2 0 1 1 n h 0 0 5 4 6 1 0 z 0 1 7 Y 0 1 7 3 4 1 b 5 6 1 J U 4 7 1 4 j 1 Y 0 h 3 6 0 3 6 2 9 Y 4 1 5 ) 4 4 0 7 n 3 u 2 4 s S 0 1 0 2 4 / 8 2 Y 3 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 I 1 1 2 3 3 1 l 1 1 1 1 1 l l 1 1 1 3 9 8 4 2 b 5 1 7 2 6 2 4 5 9 2 8 2 d 2 b 0 8 7 R 8 3 5 5 3 1 1 b d 6 4 8 b 0 b 7 4 ~ 5 l l 9 7 3 2 1 Y ' 6 5 8 7 4 b M 8 Y J 9 5 2 3 6 6 Y 1 1 3 7 8 1 4 d 2 1 l 0 4 b 3 7 3 4 8 O 0 3 . . 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 . 5 . . . . 0 5 . 7 7 . . 3 B Y 6 4 O 0 9 O 8 7 4 0 1 0 5 6 0 3 6 . 7 1 0 5 5 6 5 2 2 6 1 5 Q 3 1 I l 2 1 3 w u I
+
+Table 1V.--Printout of radar dnta from the thrid profile,
+descept from downwind to final, spoilers retracted (cont'd).
+PHINTUUT Or' UUTPUT DATA
+*
+SMOOTHED VALUES ARE APYHOXlHATY NEAR END POIh'lS
+
+. .
+APPEBDlX D -32-
+. .
+. . .. .&...
+...
+. .
+,
+. . .
+? ~. ... .. . ..
+. . .
+. . .. . .. . .
+. .
+. ~ .. . . . . . . . ... . . .. . .
+. .. .
+i
+i
+t
+' i
+i
+t
+Figure 4.--motted data from third profile, spoilers retracted.
+
+PHlN1'UUT tJF "UTPUT DATA
+TPACK UCHT. FIa 1 GHT
+#LT ITUOL: ANtiLt. VtL. PATH LlFT T-11
+FT DEti FPU DFC C,S GS
+3 35 49.10 1 2000, 2 0.00 1 .02 -0.02 aII.31 1.1:0 !? 256.20 4:5E2.4: $ 3@0,J
+4 5 5U.91 I 2000. 2 -0.U4 0.96 -0.28 :1::;a 4: %:P4 314.1
+5 i 6 3.45 I 1900. 2 -I .11 1 .os -0.4C 361.3
+6 36 8.08 1 1800. 2: -0.91 1 .U4 -0.61 -17.65 O.@b 242.06 395.4 311.9
+7 36 12.70 1 1800. $: -2.01 U,Y1 -0.51 -12.30 - 0.01 239.69 364.R 105.6
+H 36 11.20 1 1 bOO. -3.18 U.'fb -0.37 -1 1.41 -0.16 236.27 3J7.9 l93.5
+Y 36 21.9s 1 1500. 2 -3.JY 0.95 -0.2Y -4.85 -0.55 243.16 316.2 665.3
+( 0 36 26.415 1 1300. ; - 0.62 0.94 v0.34 4.59 -1.10 231.25 308.4 259.5
+11 36 31.11 1 IIGO. -4.711 0.91 -0.30 12.64 -1.52 235.80 29b. I 249.8
+12 36 15.70 I 0900. 2 -6.21 0.Y) -0.16 7.13 - 2.74 740.04 2L12.8 239.2
+1: 3b 40.45 1 ObOO. !, -7.41 I .02 -0.10 -12.75 -3.70 219.1~3 282.2 239.9
+36 45.01 I 0300. -6.09 1.08 0.01 -3.47 -2.20 231.71 287.1 245.3
+15 I 0100. 2 -4.M6 1.10 - 0.23 16.35 -1.17 ?3 .01 292.9 251.1
+lb 9900. 2' -3.n 1 .OQ -0.22 9.6'1 0.06 28.34 $!I:$244. 6
+I 1 36 5'3.0 YIIOO. 2' -3.9! 0.Y9 -0.22 1.85 0.16 241.28 235.6
+18 31 1.70 9b00. 2 -4.05 1 .0u -0.09 0.01 0.4i 243.33 261.9 22b. I
+19 31 B.bb 9500. 2 -3.97 0.96 - 0.01 0.02 0.lU 243.26 265.8 225.9
+20 31 l?.lj 9300. 2 -5.34 0.97 - 0.20 -1 72 -I .21 243.10 264.8 229.7
+21 37 17.M2 9100. 2 -5.3b 1.01 - 0.07 -!:21 -0.92 235.03 259. I 225.5
+?2 37 22.51 89(J0. 2 - 5.43 1.05 -0.17 20.23 *I .O1 238.07 258.5 225.7
+d 3 31 21.2b 8700. if -5.53 I .u7 -0.0b 3:5 ': -0.95 248.9 ;:;:I 225.2
+2 a 4 s 3 31 1 3 3 1 6 . . 9 7 5 0 0 u 5 3 0 0 0 0 . . 2 - - 5 2 . . 4 7 2 8 I 1 . . O 0 b 1 - - 0 0 . . 1 0 5 6 -10.36 -0 I . . 6 Y H b 2 24 5 b 3 . . U 5 l 1 251.2 2 2 2 2 0 1 . * 4 3
+26 37 41.14 8300. 2 "5.36 0.68 0.01 8.56 -1.54 245.90 257.2 216.7 I
+2 z 2 m 9 1 3 3 3 9 1 7 4 5 5 0 5 5 . . . 5 9 3 8 5 2 7 1 1 5 9 7 0 0 0 0 0 0 , . . 2 2 2 - - - 1 5 5 . . . Y 3 4 3 4 2 0 1 1 . . . 0 9 0 3 u 9 - - - 0 0 0 . . . 1 1 0 Y 8 9 1 12 4 1 . . . 0 I 7 4 Y 9 - - - 3 1 1 .1 . . 1 3 0 ' 6 1 4 2 2 7 5 6 5 2 0 5 . . . 2 8 6 6 6 5 2 2 26 6 6 7 6 5 . . 6 . 6 2 3 23 3 3 6 b . 6 1 . . 1 2 6 w w I
+3 3 3 0 5 4 ) 3 5 3 3 a 0 8 8 1 5 I ln r 9 Y 4 . . . . . o 9 7 4 a ? 5 0 2 6 6 5 7 7 4 1 1 9 3 0 0 0 0 3 0 0 0 0 0 . . . . . 2 2 2 2 I - - 1 - - 1 - 5 5 5 9 5 . . . . . 0 b 4 3 u l 9 7 4 0 1 1 1 1 . . . . - U 1 1 1 2 J 4 3 4 6 - - - - 0 0 0 0 0 . . . . . 0 0 0 0 ; b 0 6 4 j - - - - -:: 2 a 3 4 2 4: 9 u 4 8 !1: . . . . . 6 9 6 7 5 U 4 5 0 7 - -1 - - - 1 6 1 3 2 1 . . . . . 7 5 4 1 1 1 0 0 4 5 1 2 3 2 1 2 3 5 2 9 8 1 6 4 . . . . . 7 b 9 6 7 9 L 9 2 6 1 2 3 2 2 b 6 5 5 8 B 4 4 4 0 . . . . . 8 8 3 0 5 2 2 2 2 1 2 5 2 6 3 9 4 8 5 8 . . . . . i 9 1 4
+35 39 23.45 5100. I -1b.61 1 .on -0. -14.bt lUU.69
+30 39 28.14 4300. t -12,tJY 1.58 -0.50 -U. ;:;:4:
+17 38 3*.Y5 4100. -I .11 1 .b2 -0.14 -14.40 3.69 211.
+3m 38 31.45 4200. 0.05 I .07 0.00 *29.Y4 3.62 150,30 263.1 241.4
+'19 3m 42.14 4100. *>.YU 1.13 -U.OH -40.99 -0.81 140.21 2b6.O
+40 38 4h.84 )goo. -5.30 I .24 -0.22 - 44.72 -2.13 t21.40 269.0
+41 a 38 51.5U 3700. -8.34 1.11 -0.26 -39.62 -5.04 106.28 23::6 1.4 241,
+4 38 56.21 3300. -10.20 1.41 -0.311 -44.96 -5.96 92.35 *4 139.1
+4 04 ) 3 3 9 9 0 5 . . 9 1 5 0 2 1 m 00 o 0 o . . - - 7 3 . . 5 0 n 4 1 I . * 4 2 1 1 -0 0. . 1 2 5 2 - - 3 2 J 0 . . M 7 l 9 -2 2 . . O 4 Y b 6 5 4 3 , . b 3 U 3 49:i 2 22 3 9 1 . . 8 0
+45 I9 10.13 2800. 0.00 1 .Ob -.0.11 -LY.lJ 4.31 45,lY 345.2 235.5
+0 b 39 lS.0U ?MOO. -3.14 0.UY -0.50 -12.94 0.uo 3b.57 240.0 230.5
+bl 39 19.70 200O. -5.21 1.03 -0.50 -0.17 0,YO 36.41 2 1 2 204.4
+48 39 14.45 2500. 0.03 1.15 -0.15 16.93 9.bU 3U.40 1jb:ll 170.5
+4 s 9 o . 3 3 9 9 2 1 9 1 . . 1 8 4 3 2 ? 0 !l 0 o 1 o 1 . . . -8 0 . . 1 O 1 C 0 0 . . 1 H 17 5 - - 0 0 . . 0 10 6 -15 9 . . 9 1 U 5 -1 8 . . 1 0 4 5 5 4 ' 5 J . .Y 7 ) 7 1 1 7 7 0 9 . . 5 4 l 1 b 7 4 3 . .0 2
+51 39 Jtl.bl 2 2 (1 'J -1u.14 1.00 -0.04 5.45 -1.84 40.6) 11Y.O 174.1
+52 39 41.21 20GU. -'"Y1.1;) 1 I .02 -0.12 -4.10 -0.511 50.15 116.2 173.1
+53 f9 41.07 I ~ O I I . I .Ob -11.23 -1m.15 0.09 40.81 178.5 171.Y
+54 I9 52.10 1600. -7. 1 .oo -0.14 -1.26 ,.4u 32.40 i69.3 165.5
+55 39 57.45 1400. -b.?Y 1.14 0.01 13.94 5. jn 31. )8 154.9 151.8
+50 40 2.16 I jao. -2. I1 1 .Ob -0.lb 1.15 8.60 5l.dl 111.0 ISM. I
+J l 40 6.Yb 1300. -1 * 29 0.YU -0.21 12.lb 11.01 39.U7 15b.J 153.4
+5m 40 11.5Y 1200. -4.64 1.10 -0.0i 15.OH 6.tlY 61.6'4 151.1 14d.5
+59 40 16.33 1100. .2. 39 I.IU 0.04 -1J.12 11.24 71.24 144.5 142.1
+6 61 0 4 4 0 0 ' 2 2 5 0 . . 7 9 1 5 1 1 1 1 0 0 0 0 . . 0 0. . 0 0 0 0 I I , .0 O 4 b - u 0 . . 2 0 4 1 -1 1 4 I . . 7 4 5 2 1 M 0. . 7 5 2 1 ) 5 I 9 ( . e 4 b 2 U 1 1 5 7 Y 4 . . 6 9 l 15 Y 1 1 . . ' J 1
+42 40 10.46 1100. 0.00 1.04 -0.12 16.67 9.10 b4.12 164.6 lb1.0
+
+Table V.--Printout of radar dotn from fourth profile,
+descent from downwind tu final, spoilers cxtendetl. (cont ' d )
+POINT YLIliHT
+r-o
+NO Pllli LIFT
+UIN SEC DEG G,S CS
+1IOU. 0.00 0.uo t -07 d.21
+1100. 0.uo J.0I) t::i 0.05
+1100. 0.00 0.00 -0.31
+1100. u * I10 40:.s00; -"a?
+1100. 0. uo -0.0
+fIOO. 'b)l '56 0.24
+1000. -b11.5a -1.20 1 .OJ 0.00
+LOOO. 0.1)U 0,IlO 1.07 "0.0Y
+1060. 0.00 0.00 1 .00 0.04
+IQO(1. u. OG 0.ou 1.00 0.02
+100.1, 0.00 0.ov 1.uo 0.10
+1000. 0.00 0.00 ;:;\ -0.17
+1000. 0.00 0.00 -U.14
+1000. -till. 3 1 -2.45 0.96 -0.11
+voo. -b22.1? -2.59 1 *03 -o.\a
+966. 0.00 0.00 1.01 O,l!
+900. lb4Y. 20 -2.61 O.9H 0.04
+b00. -04'1.20 - 2 . 5 ~ 1 .oo 0.00
+p0u. -6j0.02 -1.11 I .02 0.16
+101). -b)O.V? -1.21 I .02 0.18
+'ton. -6Il.SU -2.05 1.01 0.07
+b0v. -611.5b -I .94 1 .OJ -0.02 w I
+bOO. 0.00 0.00 1 .OI -0.05 P
+
+0
+0
+- _
+0
+t : I 1 1 L - 1
+-15.00 - 12.26 -9.5t - 6.77 - 4.03 -1.29 ! .46
+EAST RANGE i N N.M.
+D F i e 5 .-Pkttt& data from fourth pmfde, spoilers extended.
+
+-36-
+APPENDIX E
+ACCIDENT HISTORY
+In Lancaster, California, on October 17, 1978. an unmodified iearjet 24,
+crashed duping a trlinirtg flight. The training schedule for Learjet type rating required
+the introduction of single-engine approaches and si-nulated engine faiiure on takeoff at Or
+after 1' <peed during this series of pianned touch-and-go landings. One witness said the
+1 -
+sirplane made a circling approach to the runway and Iwwhed down about 609 feet ieyond
+the threshold and that the airplane rolled to the center taxiway befor2 he heard ?OT.4er
+8
+increase for takeoff. Another witness saw the airplane benit sharply to t5e left upon
+becoming airborne, ar., then bank SOo to the right. Fron a point a b o ~5i5 0 feet from the
+end of the runwag? the airplane veered off to the right at an angle of 384 The Fight
+wingtip made initial contact abodt 360 feet from the side of :he rsnw-ey. Oae pilo: was
+killed, the other was seriously injured. and the airplane was destroyed. The %?-at>-B oard
+concluded that the pilot did not maintain directionai con:rol of the a!?era% !?ZSB
+Accident Docket Xo. 3-3022)
+On December 4, 1978, a Learjet 25? with e Century Lii wiz~n odification,
+crashed in Anchorage, Alaska, during the landing phase of flight fo!!wing a visilai
+approach. Light-to-mderate icing was forecast in clouds Selow 12.000 feet in the
+Anchorage area, and turbulence accompanied by gusting winds %as reported in the airport
+vicinity. The flightpath was normal almost to touchdown when the airplane suddenly
+pitched up and began to bank steeply from side to side. The airplane rolled to the right
+end continued cver until the right wing struck the ground. Of the sever: persons aboard the
+airplane. 90th pilots and three passe:lge,-s were killed, an:: two passmgers suffered serious
+injury: the airplane was destroyed.
+The Safety Board deternined that the probable czuse of the accidefit wgs en
+eccounter with strong, gusting crosswinds during the landing zttezpt, tvhich caused ?he
+ai-craft to roll abruptly and unexpectedly. The ensuing loss of control resulted from
+inappropriate pilot techniques during the atteinpt to regain con?-oi of the aircraft.
+Suspected light ice accumulations on the aerodynamic surfaces may have contributed to a
+stall and loss of control. (Aircraft Accident Repor?--%!et Xarine, inc., Gates iearjet
+XZRS, Century III, Model 23C, Anchorage International ..lirpoft, Anchorage, Alaska,
+DecexSer 4, 1978" (NTSB-AAR-79-18))
+On December 20, 1978, a Learjet 25, tioward!Raisbeck ?.?ark Ii Conversion,
+airplane, with a crew of two and five passengers aboard, erashe6 during takeoff. in
+Yinneapolis, Minnesota. Witnesses staled that after liftoff, the Learjzt rolled to a 45"
+right bank, then to an 80°to 90O left bank, and finally to ar, 80" to 90° right bank. They
+estixzted that the airplane reached a maximum aititude of 100 to 15C feet. The airplane
+struck ?he ground approximately 5,300 feet beyond the approach er,d of the runway in a
+nose-high attitude and then bounced and skidded about 803 feet before coming to a stop.
+All five mupsnts received serious injuries, and the airplane was destroyed. Causai
+factors relaied to this accident involved pilot preflight preparation, sncxjice on the
+airplane, improper flap setting, and improper pitch trim setting. {NTS!? Accident Docket
+KO. 3-1353)
+On January 19, 1979, e Leai'jet 2SD, equipped with a CeEtury wing
+modification to improve siow-speed performance and to permit operations on shorter
+runways crashed during a night, nonprecision approach. During descent, the airplane,
+which was pi!oted by two pilols who held L.eerjet type ratings, flew in iiyht to moderate,
+
+APPENDIX E -37-
+}
+occasionally severe ice conditions. Shortly before the Learjet was to land, a ?rlcISonnell
+Douglas DC-9 took off. %+iinessessa w the Learjet cross the threshold in a normel la&ing
+attitude. and seconds later, be@n a series of left and right rolls. The aircraft was in a
+steep right bank when the right wingtip fuel tank struck the runway 2,640 feet t? .-and the
+threshold, and the airplane burst into Games. All six occupants of the air( 3ft were
+killed, and the airplane was destroyed.
+The Safety Board determined that the probable cause of the ecddent was the
+pilot's loss of control of the airplane. Tne loss of control may have been initiated by wake
+turbulence of a departing aircrC3ft. by a premature stall caused by an accumulation Of
+wing ice, by delayed application of engine thrust durin& an attempted go-around, or by a
+combination of all these factors. (.%ireraftA ccident Report--"~Tas~ey-Ferguson,
+Gates Leerjet 25T3, N137GL1 Detroit, Michigan, Jsnuary 19, 1979" (NTS3-AAR-80-4)?
+On July 6, :97Y, an unmodified C'ltra Air Learjet 25B crashed on landing at
+Pueblo, Colorado. The purpose of the flight was an F.4A checkride for the two-well
+qualified crewmembers. ,After 40 Einutes of rourine airwork, the aircraft was configwed
+for a single-engine ILS approach and landing. When the aircraft was stabilized on the
+final approach, the FA.4 inspector said he left the cockpit and belted himself down and
+that the airplane then went through severe yawing and rolling oscillations. Witnesses
+recalled seehg the airplane nose-high with the wings rocking through several cycles. The
+aircraft, with high engine power applied, clirnbed steeply to 50 feet, roUed inverted, end
+crashed. Both 3ilots were kilied, the FAA inspector was seriously injured. and the
+air2lane xes destroyed.
+The postaccident inspection revealed that the rudder trim was set ai zero.
+b
+The pilot apparently was holding rudder ta compensate for the retarded engine during ?he
+approach rather thm trimming off the pressure. Causal factors included the improper
+rudder trim setting and the possibility that the heei of the pilot's cowboy b o t may have
+jasmed between the bottox of :he rudder pedal and the cockpit floor scuff plate. (NEE
+Accidertt Dockst So. 3-3982)
+On 3:I~v 3, 198G. an unmodified Gates Learjet Model 23 was being operated by
+Kennedy Flite Center, Xichinondl Virginia, on a flight from Richmond to Louisville,
+Kentucky, continuing to Gainesviie, Florida, and returning to Richmond. Upon arrival in
+the Richxond arez, the flightcrew requested an instrument ianding system (ILS) approach
+to runway 33 at Egrd International Air?ort. The flightcrew were cleared for the tipproach
+and landing. 3'i;nesses stated that the airptane crossed the runway threshold "a bit high,"
+started to rock. and rolled inverted as engine thrust increased. The airplane crashed
+adjacent to the runway at 0312 and burst into flame. Both pilots were killed.
+The Safety Board deterniced that the probable cmse of the accident was the
+pilot3 fai1r;re to maintain prope? eirspeed and aircrzft attitude while transitioning from
+final approach through flare to touchdown. The !owspeed/high angle-of-attack flight
+condition precipitated xino rolloff, wingtip strikes, and ultimate loss of aircraft control.
+?
+The pilot:s improper lechnrque during roundout may have been due to fatigue, his limited
+knowledget training. and experience regarding the flight characteristics of the Leerjet
+aircraf:, and distraction caused by concern over the intensity of the approach lighting.
+{Aircraft Accident Report--"Kennedy Flite Center Gates Learjet 23, 3866JS, Byrd
+Internations! Airport, Xichnond, Virginia, Na17 6, 1980." (NTSE-AAR-80-12))

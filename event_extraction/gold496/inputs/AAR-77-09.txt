@@ -1,0 +1,794 @@
+I TECHNICAI L REPORT DOCUMENTATION PAGE
+I. Re ort No. 2.Government Accession No. 3.Reci.pient's Catalog No.
+NTEB-AAR-77-9
+I
+-
+L. Title and Subtitle Aircraft Accident Report 5.Report Date
+New York Airways, Inc., Sikorsky S-61L, N619PA October 13, 1977
+Pan Am Building Heliport, New York, New York 6.Performing Organization
+May 16, 1977 Code
+1. Author(s) 8.Performing Organization
+Report No.
+3. Performing Organization Name and Address 10.Work Unit No.
+2090B
+National Transportation Safety Board 1I.Contract or Grant No.
+Bureau of Accident Investigation
+Washington, D.C. 20594 13.Type of Report and
+Period Covered
+12.Sponsoring Agency Name and Address
+Aircraft Accident Report
+May 16, 1977
+NATIONAL TRANSPORTATION SAFETY BOARD
+Washington, D. C. 20594 14.Sponsoring Agency Code
+15.Supplementary Notes
+i6.Xbstract
+About 1735 e.d.t., on May 16, 1977, the right landing gear of a New York
+Airways, Inc., Sikorsky S-61L; N619PA, failed while the aircraft was parked, with
+rotors turning, on the rooftop heliport of the Pan Am Building in New York, New York
+The aircraft rolled over on its right side and was substantially damaged. At the
+time of the accident four passengers had boarded the aircraft and other passengers
+were in the process of boarding. The passengers and the three crewmemhers onboard
+received either minor or no injuries; however, four passengers who were still outsid
+the aircraft and were waiting to board were killed and one was seriously injured.
+One pedestrian on the corner of Medison Avenue and 43rd Street was killed and anothe
+was seriously injured when they were struck by a separated portion of one of the mai
+rotor blades of the aircraft.
+The National Transportation Safety Board determined that the probable cause of
+the accident was the fatigue failure of the upper right forward fitting of the right
+main landing gear tube assembly. Fatigue originated from a small surface pit of
+undetermined source. All fatalities were caused by the operating rotor blades as
+a result of the collapse of the landing gear. I
+17. Key Words 18.Distribution Statement
+Fatigue hailure; landing gear; fracture of right hand This document is available
+main landing gear forward fitting; fracture initiation to the public through the
+and propagation; stress corrosion cracking; fitting National Technical Informa-
+P/N S6125-5033-22; surface pit. tion Service, Springfield
+Virginia 22151
+I9.Security Classification 20.Security Classification 21.No. of Pages I22.Price
+I
+(of this report) (of this page)
+UNCLASSIFIED UNCLASSIFIED 32
+NTSB Form 1765.2 (Rev. 9/74)
+
+I
+TABLE OF CONTENTS
+!
+Page
+. . . . . . . . . . . . . . . . . . . . . .
+. Synopsis . . . . . . . . . . . . . . . . . . . 1
+1 Investigation . . . . . . . . . . . . . . . 2
+1.1 History of the Flight. . . . . . . . . . . . . . . . 2
+1.2 Injuries to Persons. . . . . . . . . . . . . . . . . 4
+1.3 Damage to Air.cr.a.ft. . . . . . . . . . . . . . . . . 4
+1.4 Other Damage . . . . . . . . . . . . . . . 4
+1.5 Personnel Informatio.n . . . . . . . . . . . . . . . 4
+1.6 Aircraft Information . . . . . . . . . . . . . 4
+1.7 Meteorological Info . rm . at . io . n . . . . . . . . . . . . . 5
+1.8 Aids to Navigat.io.n . . . . . . . . . . . . . . . . . 5
+1.9 Communications . . . . . . . . . . . . . . . 5
+1.10 Aerodrome Informa.t.io.n . . . . . . . . . . . . . . . 5
+1.11 Flight Recorders . . . . . . . . . . 5
+1.12 Wreckage and Impact I.nf.or.m.at.io.n . . . . . . . . . . 6
+1.12.1 General Examination . . . . . . . . . . . . . . 6
+1.12.2 Landing Gear Examination . . . . . . . . . 6
+1.13 Medic . a . l . an . d . Pa . th . o . lo . gi . ca . l . I . nf . or . ma . t . io . n . . . . . . 7
+1.14 Fire . . . . . . . . . . . . . . . . . . 7
+1.15 Survival Aspects . . . . . . . . . . . . . . . . . 8
+1.16 Tests and Research . . . . . . . . . . . . . . . 9
+1.17 Additional Information . . . . . . . . . . . 10
+1.17.1 History of Heliport Operation 10
+1.17.2 History of S-61L Forward Lower Landing .Ge.ar. t.o . . .
+Fuselage Attachment Fitting. F.ai.lu.r.es. . . . . . . 11
+1.17.3 Normal Helicopter Operations . . . . . . . . . . . . 12
+1. . 1 8 New Inves.t.ig.at.io.n .Te.c.hn.iq.ue.s. . . . . . . . . . . 12
+2 . Analysis . . . . . . . . . . . . . . . . . . . . 13
+3 Conclusio.n.s . . . . . . . . . . . . . . . . . . . . 16
+3.1 Findings . . . . . . . . . . . . . . . . . . . 16
+3. . 2 Probable Cause . . . . . . . . . . . . . . . 17
+4 Safety Recommendations 17
+.
+5 Appendixes
+. . . . . .
+.
+Appendix A Investigation and Hear.in.g . . . . . . 19
+Appendix B . P ersonnel Information . . . . . . . . 20
+.
+Appendix C Aircraft Information . . . . . 22
+.
+Appendix D Wreckage Distribution Chart 23
+.
+Appendix E Right Main Landing Gear Area. . . . .
+(Photograph and diagram) 25
+Appendix F .L aboratory Photographs . . . . . .
+(Figures 1 through 10) 27
+V
+ii
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+p e
+Adopted: October 13, 1977
+' 1
+2
+2 NEW YORK AIRWAYS, INC.
+: 4 SIKORSKY S-61L, N619PA
+4 PAN AM BUILDING HELIPORT
+4 NEW YORK, NEW YORK
+4 MAY 16, 1977
+4
+5 SYNOPSIS
+5
+1 :
+About 1735 e.d.t. on May 16, 1977, the right landing gear of a
+New York Airways, Inc., Sikorsky Model S-61L helicopter, N619PA, failed
+5 while the aircraft was parked, with rotors turning, on the rooftop
+6 heliport of the Pan Am Building in New York, New York. The aircraft
+6 rolled over on its right side and was substantially damaged. Four
+6 passengers had boarded the aircraft and other passengers were in the
+7 process of boarding. The passengers and the three crewmembers onboard
+7 received either minor or no injuries; however, four passengers who were
+8 still outside the aircraft and were waiting to board were killed and one
+9 was seriously injured. One pedestrian on the corner of Madison Avenue
+10 and 43rd Street was killed and another was seriously injured when they
+10 were struck by a separated portion of one of the main rotor blades of
+the aircraft.
+11
+12 The National Transportation Safety Board determines that the
+12 probable cause of the accident was the fatigue failure of the upper
+13 right forward fitting of the right main landing gear tube assembly.
+16 Fatigue originated from a small surface pit of undetermined source.
+16 All fatalities were caused by the operating rotor blades as a result
+17 of the collapse of the landing gear.
+17
+19
+20
+22
+23
+25
+27
+K
+
+- 2 -
+1. INVESTIGATION
+s ligh
+1.1 History of the Flight by a
+On May 16, 1977, New York Airways, Inc. (NYA) Flight 972, a
+Sikorsky S-61L, N619PA, was being operated as a regularly scheduled right
+passenger flight from the rooftop heliport (JPB) of the Pan American cap ta
+Building at 200 Park Avenue, Manhattan, New York, to John F. Kennedy with
+International Airport (JFK), New York, New York. from
+help
+The flight originated as Fli ht 971 from JFK Airport and them ;
+H
+landed at the heliport at about 1732. -/ There were 20 passengers and a
+crew of 3 aboard.
+the 1
+After approaching from the northeast and landing, the aircraft The
+I
+was taxied to the boarding gate, which required a 180' turn to the left firs.
+and a short taxi of 10 to 20 feet to position the aircraft properly. comp
+The captain stated that he used the tailrotor instead of his brakes to turn
+assist in taxiing. He set his brakes and left the tail wheel unlocked,
+which was a normal procedure. The aircraft was chocked and passengers
+began to deplane. According to witnesses and passengers, the landing roto
+had been smooth and gentle. ~ rapi
+The captain remained in his seat with his hands on the controls.
+The collective was bottomed (negative pitch) and torque was about 18 and
+percent on each engine. The engine speed controls (ESC) were positioned one
+to maintain 100 percent rotor speed (NR) and the automatic flight control f lig
+system was on with all controls centered--a normal operating procedure. door
+The first officer stated that as he filled out the flightlog, he had his hear
+knee against the collective to insure that it was bottomed. f ron
+was
+The captain estimated that they had been sitting on the heliport the
+for 1 to 2 minutes. Passengers had deplaned and the outbound passengers s to1
+were boarding. He heard a "faint noise," which he believed to have come who
+from the rotor system, followed immediately by a "crumpling, crunching so :
+noise" and a buckling sound. The crumpling sound was accompanied by a on :
+settling and yawing motion, followed by a roll of the aircraft to the inql
+right. air1
+ins
+As he heard the first "faint noise," the captain reached for
+the EX'S to shut the engines down. He pulled them back immediately to
+the ground idle detent and then into the engine shutoff position before of
+the aircraft rolled beyond its 45" position. When the ESC's are in the of
+shutoff positfon, fuel is shut off in the engine fuel control units. he
+The captain stated that when the blades struck the concrete they were tow
+not being powered by the engines. f ux
+whi
+-1/ A l l times herein are eastern daylight, based on the 24-hour clock. it
+to
+
+r
+I
+- 3 -
+The first officer stated that he felt the aircraft settle
+slightly to the right and heard a crunching noise, followed immediately
+by a "gentle smooth roll" to the right.
+, 972, a After hearing the first sound, the first officer looked to his
+tluled right at the captain who was in the right cockpit seat and saw the
+erican captain reach for the ESC's. He also saw the blade tip path plane rotating
+Fnnedy with the aircraft. The relationship of this tip path remained constant,
+from the upright position, throughout the entire roll. He reached up to
+help the captain pull the ESC's but the captain already had his hands on
+! and them; he stated that the whole sequence happened quickly.
+iers and a
+With the ESC's in the shutoff position, the aircraft continued
+the roll and the main rotor blades struck the heliport concrete surface.
+The captain heard the breaking of plexiglass as the blades struck the
+first officer's overhead window. When the aircraft stopped the captain
+completed the procedure to shut down the aircraft. A l l switches were
+.
+turned off
+The captain stated that it did not occur to him to use the
+rotor brake after the aircraft began to roll; the events developed too
+rapidly to allow the rotor brake to be effective.
+At the time of the accident, inbound passengers had deplaned
+and four outbound passengers had boarded or were boarding the aircraft;
+one passenger was approaching the first step of the airstair door. The
+flight attendant, who was positioned inside the aircraft at the entrance
+door stated that, as a woman passenger was coming up the airstair she
+heard a "loud metallic crumbling sound," which she believed to be coming
+from the right underside of the aircraft. She noticed a vibration which
+was followed immediately by the aircraft tilting to its right side. As
+the aircraft continued its roll to the right, she heard the engines
+stop. She stated that the woman on the airstair door and a passenger
+who had just boarded fell backward against the door. She braced herself
+so she would not fall as the door closed when the aircraft came to rest
+on its right side. After the motion stopped, the flight attendant
+inquired about the safety of the four passengers who were inside the
+aircraft and upon ascertaining that they were alright, she began to give
+instructions regarding evacuation.
+A passenger who was approaching the airstair door at the time
+of the accident stated that as he placed his left foot on the first step
+of tha.airstair, he heard a loud noise like an engine backfire and then
+he noticed the aircraft moving laterally first and then begin to tilt
+toward him. He said that he'stepped back as the helicopter tilted
+further toward him and he began moving toward the front of the aircraft
+while keeping his hands on the aircraft's side. In the few seconds that
+it took the aircraft to stop, he had moved forward to a position adjacent
+to the cockpit. He was not injured.
+
+- 4 -
+The accident occurred during daylight hours at latitude 40' 45'
+north and longitude 73' 58' west. The elevation of the accident site is
+855.23 feet m.s.1.
+1.2 Injuries to Persons
+Injuries -Crew Passengers Others
+Fatal 0 4 1
+Serious 0 1 1
+Minor/None 3 17 2
+1.3 Damage to Aircraft
+The aircraft was substantially damaged.
+1.4 Other Damage
+Two automobiles located on the streets below the accident site
+were damaged by separated main rotor blade leading edge counterweights.
+An office on the 36th floor of the west side of the Pan Am Building was
+extensively damaged when an 11-foot section of a main rotor blade penetrated
+a window. The New York Airways passenger waiting/control tower area
+located in the east corner of the heliport had five windows shattered
+and a light fixture knocked from its structure. A 6-foot section of the
+rooftop edge railing on the north side was penetrated and bent outward
+by a main blade section.
+1.5 Personnel Information
+The three crewmembers were properly certificated and qualified
+for the flight. (See Appendix B.)
+1.6 Aircraft Information
+The aircraft was certificated, equipped, and maintained in
+accordance with Federal Aviation Administration (FAA) requirements and
+New York Airways procedures.
+The records of maintenance and inspection from June to December
+1976;were examined. There were no notable patterns of malfunctions or
+items of malfunction related to the failure of the right landing gear.
+The program of inspection and recording was comprehensive and complete.
+The program calls for: (1) A daily preflight. (2) A "safety inspection"
+every 40 hours--an in-depth inspection to discover any irregularities.
+The entire aircraft is opened up and additional functional tests are
+performed. (3) A phase check. One of five phases is performed every
+70 hours. All five phases are completed within 350 hours. The type of
+inspection and corrective maintenance is progressive. Selected items
+and AD compliance work, if any, are performed during these checks.
+
+- 5 -
+At the time of the accident, the landing gear had a total time
+of 6,913:15 hours. There was no service life limit on the landing gear
+or on its components. Overhaul was required every 9,900 hours. The
+gross weight and c.g. were within prescribed limits for both takeoff and
+landing. About 950 lbs of Jet A-1 fuel were onboard, and the aircraft
+weighed about 17,668 lbs when the accident occurred. (See Appendix C.)
+1.7 Meteorological Information
+At the time of the accident, surface weather observations for
+the'heliport were as follows: Broken clouds at 1,500 ft, visibility--15 mi,
+temperature--71° F, wind--260° at 12 kn, altimeter setting--30.26 in Hg.
+1.8 Aids to Navigation
+Not applicable
+1.9 Communications
+Not applicable
+d
+1.10 Aerodrome Information
+The heliport is located on top of the Pan American Building,
+at 200 Park Avenue, New York. The heliport is operated by New York
+Airways, Inc., and was certificated under an airport operating certificate
+issued by the Federal Aviation Administration on January 3, 1977, with
+an effective date of February 1, 1977. It is an Index A heliport based
+on the requirements of 14 CFR 139, with no exemptions. The heliport is
+owned by the Grand Central Corporation and leased to New York Airways,
+Inc. New York Airways is responsible for the administration, operation,
+and maintenance of the heliport.
+The heliport is located at an elevation of 855.23 feet m.s.1.
+and has an effective landing area of 131 feet by 131 feet. Only VFR and
+special VFR operations are authorized. Approach and departure routes
+for the heliport are specified in the certification manual for the
+heliport. The heliport pavement is of reinforced concrete. A lighted
+windsock is located at the northwest corner and another at the extreme
+northeast corner of the heliport.
+1.11 Flight Recorders
+*
+N619PA was equipped with a Fairchild A-100 cockpit voice
+recorder (CVR), Serial No. 4129. The recording was complete from landing
+at JFK Airport through the landing on the Pan Am Building heliport to
+the accident event.
+
+- 6 -
+Two minutes and twenty-one seconds following the landing, the
+cockpit area microphone recorded a "cracking" sound and banging sound as
+the blades contact the roof. There was no recorded crew conversation
+for the period that N619PA was on the roof.
+The aircraft was not equipped, nor was it required to be
+equipped, with a flight data recorder.
+1.12 Wreckage and Impact Information
+1.12.1 General Examination
+Aircraft damage was limited to the main rotor blades, the main
+rotor system, the copilot's enclosure (fuselage station (F.S.) 72, water
+line (W.L.) 170), the right side of the fuselage just forward of the
+right main landing gear attachment points (F.S. 209.5, W.L. 89 and 156),
+the right main landing gear supports (F.S. 221), and the horizontal
+stabilizer mounted on the right side of the tail rotor pylon (F.S.
+704.5, W.L. 191). A l l access panels and fairings were in place and
+attached, except for the nose battery compartment access door which had
+been opened after the rollover to disconnect the battery.
+The five color coded main rotor blades had been damaged exclusively.
+Each blade was 28 feet 10 inches long and weighed 209.3 lbs. A l l blades
+had bent upward along their span, and heavy surface contact smears were
+located on their bottom surfaces beginning at midspan and continuing
+outward toward the tip.
+The only parts of the helicopter that were thrown from the
+heliport were outboard sections of these five rotor blades. The longest
+distance traversed by the blade portions was four blocks north and one
+block west of the Pan American Building.
+The outboard sections of the five main rotor blades, including
+the tip caps, were recovered in the area below the heliport on the roofs
+of lower buildings or at street level. (See Appendix D.)
+There was no preimpact damage noted to any of the aircraft's
+systems or powerplants. The fuel tanks, which were located in the lower
+fuselage tub structure beneath the passenger cabin floor, were intact
+with no evidence of fuel leakage. About 120 gallons of fuel was removed
+from the aircraft after the accident.
+"
+1.12.2 Landing Gear Examination
+Examination of the landing gear showed that.the left main gear
+assembly was intact with no visual damage. The right main landing gear
+had separated from its upper (F.S. 221,.W.L. 164) and lower (F.S. 221
+and 243.5, W.L. 106) fuselage attachment fittings and was lying beneath
+the aircraft. The aircraft was righted, and the right landing gear and
+lower fuselage were examined.
+
+- 7 -
+The two tires, axle, and main oleo strut were intact. Both
+tires were fully inflated; the tires were removed and the axle examined.
+Visual examination disclosed no evidence of damage. The oleo was fully
+extended. The energy absorbing strut, which angles from the upper
+fuselage attachment fitting (F.S. 221, W.L. 164) outboard to the oleo
+strut's upper attachment fitting, had separated through its lugs at both
+the upper and lower ends.
+The lower landing gear supports consist of two sets of upper
+and lower tube assemblies which form two "V's"; the apex of each "V"
+attaches to the upper and lower ends of the main oleo strut (outboard)
+and to the fuselage attachment fittings (inboard). The forward upper
+and lower tubes (F.S. 221, W.L. 106) attach to the forward fuselage
+attachment fitting through P/N 6125 - 50333 - 22 fitting which is
+bolted and bonded to the forward upper tube. The aft upper and lower
+tubes attach to the aft fuselage fitting (F.S. 243.5, W.L. 106) in a
+similar manner. (See figures 1 and 2, Appendix E.) The lower attachment
+,tube was bent downward and had broken adjacent to the inboard tube
+assemblies fitting. The forward upper tube assembly had separated at
+the main oleo strut attachment fitting. The complete tube was still
+attached to the P/N 6125-50333-22 fitting. However, this fitting, which
+also has a lug to which the lower tube attaches had fractured.
+The fractured areas were examined in the Safety Board's metallurgical
+laboratory and under the Safety Board's control at Sikorsky Aircraft/United
+Technologies' laboratories.
+1.13 Medical and Pathological Information
+No occupants of the aircraft were seriously injured. Post-
+mortem examination of the four passengers that had not yet boarded the
+aircraft and the one pedestrian revealed that they died as the result of
+impact trauma caused by strikes from the main rotor blades and separated
+portions of those blades. The cause of death of the four passengers was
+found to be multiple lacerations, fractures, and internal injuries. The
+cause of death of the pedestrian was found to be fractures of the skull
+and lacerations of the brain.
+A review of the cockpit crew's medical records disclosed no
+evidence of pre-existing physical problems which could have affected
+their judgment or performance.
+There was no fire; however, foam was laid over the area in the
+immediate vicinity of the aircraft as a precautionary measure.
+
+1.15 Survival Aspects
+This was a survivable accident for the aircraft occupants.
+When the aircraft came to rest on its right side the first officer, who
+was in the left seat, was hanging in his harness. The captain looked
+back and saw that the cockpit door, which is a two-panel sliding door,
+was partially open and was jammed. This door was fully open before the
+accident. Although the captain's emergency evacuation station was in
+the cabin, he realized that he could not enter the cabin through the
+door. The captain unbuckled the first officer; the first officer then
+opened his emergency exit, which is the window on his side, and exited
+by pushing the window free and climbing out on top of the aircraft.
+The first officer climbed off the aircraft on the bottom side.
+efi
+He did not see anyone moving the heliport. He went around the tail
+section to the other side of the aircraft at the rotor head area and saw
+what he believed to be transmission fluid on the ground. Two cargo
+personnel were there and he told them to put foam down. He went back to
+the (bottom side) of the aircraft, pushed a cargo cart closer and climbed
+back up onto the aircraft.
+The captain followed the first officer out the left emergency
+exit. He walked back toward the tail section on the now horizontal left
+side of the aircraft, opened the left rear emergency door,and climbed
+down into the aircraft. There were three male and one female passengers
+inside of the cabin and a flight attendant at the front of the cabin.
+A l l were calm; there was no panic. The captain told them to come to the
+rear exit. The three male passengers climbed out by themselves. The
+first officer then escorted each passenger back to the baggage cart and
+they climbed down. The woman who had been on the airstair when the
+aircraft began to roll over had injured one of her hands. The flight
+attendant was attempting to give first aid and the captain began to
+assist; however, after looking at the injuries briefly they assisted her
+in leaving the aircraft. The flight attendant then deplaned followed by
+the captain.
+The New York Police Department (NYPD) received a call to respond
+to Madison Avenue and 43rd Street for a "jumper" 21 who hit a pedestrian.
+Then a detective unit and a fire department unit arrived, at which time
+a call over the radio said that a helicopter had hit the Pan American
+Building. A detective said he saw a body and a 6-foot length of rotor
+blade at the Madison Avenue location. He then walked to the Pan American
+Build2hg and went up an elevator with some firemen. About 4 minutes
+elapsed from the initial response until the detective was on the elevator.
+-21 A person who had committed suicide by jumping from a building.
+
+r
+- 9 -
+When the detective and the firemen arrived at the 50th floor, the elevator
+went back down to the bottom. The Fire Department key was then used to
+take command of the elevators. When the detective arrived at the top
+s,omeo ther fireman were already there.
+The NYPD personnel stated that initial confusion existed in
+getting to the roof because the elevators remained in automatic operation
+immediately after the accident. When the fire service arrived they
+operated the elevators manually with the fire service keys until building
+personnel arrived to operate the manual controls.
+At 1738, the New York Fire Department (NYFD) received a special
+call to send the rescue unit to the Pan American Building. This was
+immediately followed by a call for a full response--all units from the
+fire battalion--to that location. Because of the difficulty encountered
+with the automatic elevator operation, foam was not applied until 1745
+or 1750 when the first fire department units arrived on the roof.
+d The crash/fire/rescue (CFR) procedures outlined for the heliport
+were contained in the heliport operations manual. The procedures were
+valid and clearly stated for each employee. Some of the station personnel
+were not completely familiar with the contents of the CFR portion of the
+manual. However, the primary firefighters, which were the two cargo
+handlers, were aware of their CFR duties and performed their duties as
+dictated by the manual. One cargo handler had received no formal CFR
+training. The foam hoses were deployed immediately and most of the
+emergency procedures went into effect.
+The most significant shortcomings of the CFR activities were:
+(1) The alarm box to the City/Building fire alarm system was not activated.
+(2) Foam was not applied to the aircraft immediately although C02 was
+applied. (3) There was no NYA employee who immediately took charge of
+the accident site to insure the CFR emergency plan was implemented
+properly.
+1.16 Tests and Research
+md
+1. The Safety Board's metallurgical laboratory examined the right
+forward main landing gear tube assembly (P/N 56125-50338-2) 21 and the
+right aft inboard main landing gear fitting with a portion of the tube.
+xn Examination of the right forward main landing gear P/N S6125-
+50333-22 fitting showed that it fractured near where the end of the tube
+or. assembly is located within the fitting (See figure 2, Appendix F). This
+was near the bottom of a 1.498/1.500-inch diameter hole which is drilled
+in the fitting to accommodate the tube. Fractography of the fractured
+features indicated that a fatigue crack had begun along the 0.12-inch
+radius near the bottom of the hole where the hole changes from a cylindrical
+to a conical shaped section. (See figure 4, Appendix F.)
+-31 The S6125-50338-2 tube assembly includes the S6125-50333-22 fitting,
+
+1
+-
+10 -
+Examination of the fracture using a scanning electron microscope
+(SEM) disclosed fracture features typical of h' rycle fatiaue p r o p a m n
+from these origin areas. Fatigue had propagat2down and through the
+bottom of the fitting and out - . (See Figure 4, A ppendix F.) Approximately
+40 percent of the fractured cross sectional area of the fitting appeared
+cracked. The remaining sections of fracture away from this fatigue
+region were typical of overload separations.
+~~ ~ ~ ~ ~~~~
+Some areas were missing along the fracture line that corresponded
+to the overload portion of the separation. These missing areas suggested
+that the fitting opposite the fatigue region and near its forward side
+had broken in compression since compression breaks tend to fragment the
+fracture.
+The missing area on the forward side was seen by comparing the
+mating fracture halves and noting that the fracture on the inboard half
+went through the small hole used to locate the tube in the fitting while
+on the outboard half the fracture in the same area progressed through
+the bolt hole. (See Figure 3, Appendix F.)
+Detailed examination of the fracture origin area disclosed two
+origin sites, both of which appeared to be at discontinuities in the
+radius (See Figures 5 and 6, Appendix F). The two origins produced two
+planes of fatigue fracture slightly offset from one another. The two
+fatigue cracks grew into one large crack a short distance out from the
+radius. Because of the extent and symmetry of the crack arrest markings
+and the locations of the origins with respect to a ratchet mark (step-
+like portion of the fracture connecting the fatigue planes), one origin
+was considered secondary and the other was considered the main origin.
+A substance was found which completely filled the discontinuity at the
+secondary origin and partially filled the discontinuity at the main
+origin. (See Figures 5 and 6, Appendix F.) Energy dispersive X-ray
+analysis of the substance at the main origin area disclosed elements
+normally associated with the fitting alloy system along with an appreciable
+amount of sulfur and small amounts of calcium and potassium all of which
+are foreign elements. The silicon energy peak was strong indicating
+silicon as a primary element of the substance; the fitting alloy normally
+contains less than 0.4 by percent weight of silicon.
+The radius in the origin area was mostly covered by an adhesive
+(EC-2214) used during fabrication of the assembly. Analysis of this
+adhesive material indicated that it was high in aluminum and silicon
+with some sulfur, chlorine, potassium and calcium.
+Hardness and electrical conductivity measurements of the
+fitting gave values averaging Rockwell "B" 83 and 40 percent International
+Annealed Copper Standard, respectively. These measurements, as well as
+the microstructural characteristics, appeared normal for 7075 aluminum
+alloy heat treated to the T73 condition (specified material and heat
+treatment).
+
+- -
+11
+Examination of the right-hand aft main landing gear fitting
+n and tube assembly showed fractures that were all typical of an overload
+separation. No evidence of fatigue or other type of pre-existent
+cracking was found on this assembly.
+PY
+1.17 Additional Information
+1.17.1 History of Heliport Operation
+d
+Heliport operations began in 1965 from the Pan Am Building
+with New York Airways operating Boeing Vertol 107 equipment. There was
+public pressure against the NYA petition because of noise and safety
+reasons. Hearings were held and the operation was approved. A 5-year
+permit from the NYC Planning Commission was issued for the period 1964
+through 1969. The NYC Department of Marine and Aviation then issued an
+Air Facility Permit for 1 year, which was later renewed for another 1-
+year term.
+In February 1968, NYA ceased operations from the heliport
+because of a contractual disagreement between Pan American World Airways
+and Trans World Airlines. During the disagreement, the facility permit
+for the heliport expired. Shortly before the expiration date NYA requested
+a renewal. The Department of Marine and Aviation refused to renew the
+permit because (1) NYA was not operating onto the roof heliport currently,
+(2) NYA presented no plans in the renewal petition to begin operations
+at a set date, (3) public pressure was such that a hearing should be
+held. Since NYA was not operating to the roof, the city determined that
+there was no point in renewing the permit at that time. No further
+petitions were presented, and in 1969 the NYC Planning Commission permit
+expired.
+On November 24, 1976, the New York City Planning Commission
+held a public hearing to consider the application of New York Airways,
+le Inc., for a resumption of scheduled helicopter operations from the roof
+top heliport on the Pan American Building. Before the hearing, local
+community planning boards 5 and 6, representing the neighborhoods most
+directly affected by the proposed operation, gave their approval of the
+granting of an operational permit after an extensive review of the
+facility. The operation was then approved by the New York City Board of
+Estimate, the Department of Marine and Aviation, and by the Federal
+Aviation Administration.
+The resolution by the Board of Estimate, City of New York, to
+It
+grant a permit to operate the Pan American Building Heliport was approved
+December 6, 1976, and adopted January 20, 1977. The special permit was
+11 for a 3-year period.
+
+1
+-
+12 -
+On January 27, 1977, New York Airways, Inc., applied to the
+Department of Marine and Aviation for an Air Facility License for the
+operation of a heliport on the roof of the Pan American Building. This
+license was granted on January 31, 1977, for 1 year. Operations began
+on February 1, 1977, and were conducted without incident until this
+accident. During this period New York Airways conducted 7,240 helicopter
+operations from the rooftop heliport.
+1.17.2 History of S-61L Forward Lower Landing Gear to Fuselage
+Attachment Fitting Failures
+On July 15, 1963, a forward lower landing gear to fuselage
+attachment fitting failed when a Los Angeles Airways S-61L, N300Y, was
+parked with rotors turning at the American Airlines gate area, Los
+Angeles International Airport. While ground personnel loaded mail
+aboard the aircraft, a snapping noise was heard, and the helicopter
+tipped to the right and rolled over on its right side. Outboard sections
+of the five main rotor blades contacted the ramp surface and separated.
+One person on the ground was injured and windows in the airline terminal
+building were broken.
+Investigation revealed that forward lower landing gear fitting,
+P/N S6125-50312-22, had failed in fatigue and had separated, allowing
+the right main landing gear to collapse. This part had a total time of
+1912:43 hours.
+As a result of this occurrence, the manufacturer redesigned
+the forward and aft fittings, both left and right, as follows:
+1. Forging material was changed from 7079T6 aluminum alloy
+to 7075T73 aluminum alloy.
+2. Wall thickness of the tube portion of the fitting was
+increased from .120 to .160 inches.
+3. The internally machined radius was increased to .12
+inches.
+The redesigned fittings were installed on all existing S-61L
+models (four at that time) per Sikorsky Service Bulletin 61 B25-1 dated
+September 18, 1963. Appropriate engineering drawings were changed
+requiring installation of the improved fittings. (PN's 6125-50333-21-22
+and PN's 4125-50334-21-22).
+Subsequently, all S-61L model aircraft, including those purchased
+by New York Airways, Inc., had the improved fittings installed. This
+accident resulted from the first failure since the redesigned fittings
+had been installed.
+
+-
+- 13
+1.17.3 Normal Helicopter Operating Procedures
+Experience has shown that the overall safety of helicopter
+operations is enhanced by operating the engines and rotor system during
+the frequent passenger enplaning and deplaning of normal scheduled
+operations. Dynamic components of a helicopter's main rotor system are
+not designed for frequent stops; therefore, rotor shutdown at each stop
+would shorten the service life of these components which are critical to
+safety of flight and would increase the possibility of component fatigue.
+The stability of a helicopter is increased when the rotor
+blades are turning during high and variable wind conditions. Also,
+blade flapping at low rotor RPM during such wind conditions increased
+the possibility of blade damage to the aircraft's airframe.
+1.18 New Investigation Techniques
+None
+2. ANALYSIS
+The aircraft was certificated, equipped, and maintained according
+to applicable regulations. The aircraft's powerplants and systems were
+not factors in the accident. The gross weight and c.g. were within
+prescribed limits. The flightcrew was properly certificated and each
+crewmember had received the training and off-duty time prescribed by
+applicable regulations.
+According to the flightcrew, passengers, and other witnesses,
+the landing on the heliport was gentle. The aircraft was taxied to the
+normal position without incident, and approved procedures were followed
+for passenger operations. The fact that the engines were operating, and
+the rotor was turning had no bearing on the failure of the landing gear.
+No control input was made which could have overloaded the part which
+failed.
+The captain stated that he had his hands on the controls, and
+that the collective was bottomed, which would produce minimum torque on
+the engines. This setting was verified by the first officer. The
+cyclic was in the neutral position according to the captain and the
+first officer. The first officer stated that as the aircraft began to
+roll, he saw the blade tip path rotate with the aircraft and remain
+constant in the windshield in relation, to the fuselage. The constant
+relatlonship shows that no cyclic input was induced which in turn would
+have tilted the rotorhead and the blade tip path plane.
+7
+The Safety Board reviewed the actions taken by the crew from
+the first sound of failure until the blades struck the heliport surface,,
+and concluded that the actions taken by the crew--to close the ESC's--'
+\,
+were correct. The location of the aircraft and the number of people
+
+- -
+14
+around the helicopter, coupled with an unexpected noise from an area \
+initially believed by the captain to be the rotor system, dictated that \
+the engines be shut down immediately. The fact that both ESC's were
+!
+shut down so quickly probably prevented further damage and injury and
+possibly prevented a fire.
+The pilot's reaction of not applying the rotor brake was also
+correct. The rotor brake is not designed to stop a rotor head turning
+at 100 percent NR quickly. It is designed to stop the rotor blades once
+NR is below 40 percent. For an emergency shutdown the lever may be
+forced forward into the full on position, after closing the engine W M
+control with a delay time of 5 seconds. Since the captain barely had
+time to close the ESC's before the blades struck the ground, the Safety
+Board concludes that he could not have used the rotor brake for an
+emergency stop of the rotor blades. At 100 percent NR, the application
+of the rotor brake will cause the brake to heat up and possibly burn
+out, thereby creating a fire hazard.
+The Safety Board, therefore, concludes that the failure of the
+gear was not the result of a pilot input.
+The fracture of the right hand landing gear forward fitting,
+P/N S6125-5033-22, stemmed from a fatigue crack through 40 percent of
+the cross section.
+The crack location in the bottom portion of the fitting
+suggested that bending stresses, which compressed the top of the fitting
+and placed tension on the bottom, had caused the fracture to begin and
+propagate. Planar orientation of the crack was diagonally downward and
+inboard through the support rib between the fuselage and lower diagonal
+tube attachment. Since fatigue cracks tend to propagate in a plane
+perpendicular to the direction of principle tension stress, a tension
+force along the diagonal tube may also have contributed to the crack
+propagation.
+The material properties of the fitting, including the chemical
+composition, were considered normal for 7075-T73. Originally the fitting
+was designed using the alloy 7079-T6 (P/N S6125-50312). However, problems
+with stress corrosion cracking warranted changing the material to 7075-
+T73 (T73 condition is highly resistant to stress corrosion).
+The radius showed no appreciable attack from corrosion, indicating
+this area vas adequately protected against it. There was no indication
+of stress corrosion on the fracture surface although pitting of the
+fracture was noted. This pitting, however, was much more intense in the
+latter stages of fatigue propagation, indicating that the corrosion
+medium may have entered when the crack opened to the atmosphere (breaking
+through the support rib and lower portion of the fitting).
+
+- -
+15
+Two holes, however, did enter into the interior of the tube.
+These holes were located along the inboard edge of the adhesive just
+inboard of the tube end and were open between the external and internal
+radius of the fitting. An access, therefore, existed for water or other
+mediums to penetrate into the interior and collect along the lower
+portion of the radius. If the adhesive in the radius area contained
+minute holes through its thickness, then corrosion attack would have
+been highly localized, and would have produced discontinuities such as
+those found on the failed fitting.
+The discontinuities found could also have been produced by
+normal microconstituent particles or phases in the material which were
+exposed to the surface. The sizes of the discontinuities, however, were
+much larger than the compound phases or particles found in the microsections
+which would mean that the discontinuities would have to be unusually
+large particles or groupings of second phase particles.
+The substance found in the cavities of the discontinuities is
+believed to be the adhesive used in the assembly. It is not known
+whether the adhesive entered the cavity before or after the fracture.
+The Safety Board, therefore, concludes that the fracture of
+the right main landing gear was the result of fatigue originating from a
+small surface pit of undetermined source.
+Although, in this case, the rotating main rotor blades resulted
+in fatalities when the right landing gear failed, there is a good possi-
+bility that similar fatalities could have occurred if gear failure had
+occurred during shutdown or starting procedures. In considering all of
+the safety aspects of continued rotor rotation during enplaning and
+deplaning operations versus frequent rotor shutdowns, the Safety Board
+concludes that continued rotor rotation during such operations is, in
+most cases, safer. This conclusion is based on the fact that, (1)
+frequent rotor shutdowns shorten the service life of the rotor components
+and the engine by introducing more fatigue cycles thereby reducing the
+overall safety of operations, (2) potential safety hazards such as rotor
+brake fires, engine acceleration malfunctions, and main blade to fuselage
+contact due to excessive flapping at low rotor RPM are introduced by
+repeated rotor brake applications, and (3) the stability of the helicopter
+is increased due to the gyroscopic effects resulting from the rotating
+blades. Continued rotation is especially important for safety during
+variable, high wind conditions.
+* The heliport was certificated properly under 14 CFR 139. All
+the equipment which was required to meet the crash fire rescue (CFR)
+criteria was met or exceeded. The personnel requirements, as stated in
+the heliport manual, were met or exceeded.
+
+- -
+16
+The Safety Board also concludes that, although some confusion
+existed and some misunderstanding of CFR responsibilities were apparent,
+the CFR activities were effective for the situation.
+The Safety Board recommends that the cockpit cabin door of
+the aircraft remain open. Helicopters operated under 14 CFR 127 are
+not required to have the cockpit door closed and locked as are aircraft
+operated under 14 CFR 121. Since the door is not usually used in normal
+operations, the Safety Board believes that it is unnecessary and could
+become an obstruction between the cockpit and cabin during emergency
+conditions.

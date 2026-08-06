@@ -1,0 +1,2024 @@
+PB97-910405
+NTSB/AAR-97/05
+DCA97MA016
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+UNCONTROLLED FLIGHT INTO TERRAIN
+ABX AIR (AIRBORNE EXPRESS)
+DOUGLAS DC-8-63, N827AX
+NARROWS, VIRGINIA
+DECEMBER 22, 1996
+F 6822A
+I
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety
+Board makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)382-6735
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSB/AAR-97/05 PB97-910405
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+UNCONTROLLED FLIGHT INTO TERRAIN
+ABX AIR (AIRBORNE EXPRESS)
+DOUGLAS DC-8-63, N827AX
+NARROWS, VIRGINIA
+DECEMBER 22, 1996
+Adopted: July 15,1997
+Notation 6822A
+
+
+
+CONTENTS
+EXECUTIVE SUMMARY.......................................................................................................... v
+1. FACTUAL INFORMATION..................................................................................................1
+1.1 History of Flight....................................................................................................................1
+1.2 Injuries to Persons.................................................................................................................4
+1.3 Damage to Airplane...............................................................................................................4
+1.4 Other Damage........................................................................................................................4
+1.5 Personnel Information...........................................................................................................4
+1.5.1 The Pilot Not Flying (PNF)........................................................................................................4
+1.5.2 The Pilot Flying (PF)..................................................................................................................5
+1.5.3 Flight Engineer...........................................................................................................................5
+1.5.4 FEF Experience of the Accident Pilots......................................................................................6
+1.5.5 Flightcrew’s 72-hour History Before the Accident....................................................................6
+1.6 Airplane Information.............................................................................................................7
+1.6.1 N827AX Overhaul and Modification Maintenance Work.........................................................7
+1.6.2 Stall Warning System Checks....................................................................................................8
+1.6.3 Maintenance Discrepancies Listed on the First FEF..................................................................8
+1.6.4 Weight and Balance....................................................................................................................8
+1.6.5 Airplane Performance Calculations............................................................................................9
+1.6.6 Operating Authority to Conduct the Accident Flight.................................................................9
+1.7 Meteorological Information................................................................................................10
+1.8 Aids to Navigation..............................................................................................................10
+1.9 Communications.................................................................................................................10
+1.10 Airport Information...........................................................................................................11
+1.11 Flight Recorders................................................................................................................11
+1.11.1 FDR Data During Stall Entry and Subsequent Loss of Control.............................................12
+1.12 Wreckage and Impact Information....................................................................................13
+1.13 Medical and Pathological Information..............................................................................14
+1.14 Fire....................................................................................................................................14
+1.15 Survival Aspects................................................................................................................14
+1.16 Tests and Research............................................................................................................14
+1.16.1 Douglas DC-8 Certification and Simulation Data..................................................................14
+1.17 Organizational and Management Information...................................................................15
+1.17.1 Selection and Workload of Management Pilots.....................................................................15
+1.17.2 Crew Resource Management (CRM) Program......................................................................17
+1.17.3 ABX’s FEF Program..............................................................................................................17
+1.17.4 ABX Management Communication with the Accident Flightcrew.......................................18
+1.17.5 ABX Scheduling Requirements and Plans for the Accident Airplane...................................19
+1.17.6 Department of Defense Inspection of ABX...........................................................................19
+1.17.7 FAA Oversight of ABX Operations.......................................................................................20
+1.17.8 ABX Safety Program..............................................................................................................20
+1.18 Additional Information......................................................................................................21
+1.18.1 Previous DC-8 Loss of Control Incident at ABX...................................................................21
+1.18.2 Survey of Evaluation Flight Procedures.................................................................................22
+iii
+
+1.18.3 Survey of Stall Recovery Procedures.....................................................................................23
+1.18.4 Previous Nonroutine Operation DC-8 Accident.....................................................................26
+1.18.5 Previous Safety Board Recommendation on Angle of Attack Indicators..............................27
+1.18.6 Safety Board Recommendations on Unusual Attitude Recovery Training............................28
+2. ANALYSIS..............................................................................................................................30
+2.1 General................................................................................................................................30
+2.2 Flightcrew Performance During the Accident Sequence....................................................30
+2.2.1 Execution of the Stall Recovery...............................................................................................30
+2.2.2 Buffet Onset and Stall Speeds..................................................................................................32
+2.2.3 Flightcrew’s Mis-trim of the Airplane.....................................................................................34
+2.2.4 Monitoring and Challenging by the PNF.................................................................................34
+2.3 Cues Presented to the Flightcrew........................................................................................36
+2.3.1 Stall Warning System...............................................................................................................36
+2.3.2 Angle of Attack Instrumentation..............................................................................................38
+2.3.3 Engine Compressor Surges.......................................................................................................38
+2.3.4 Ambient Lighting, Visibility, and Cloud Clearance.................................................................39
+2.4 Simulator Fidelity and Training for Stall Recovery Procedures.........................................40
+2.5 ABX Organizational Structure and Function......................................................................41
+2.5.1 Failure of ABX to Use Revised FEF Stall Recovery Procedures............................................41
+2.5.2 FEF Conditions and Limitations Guidance..............................................................................42
+2.5.3 Training of Flightcrews for Nonroutine Operations................................................................44
+2.5.4 Potential Pressures on the Flightcrew......................................................................................45
+2.6 FAA Oversight....................................................................................................................46
+2.6.1 FAA Surveillance of ABX.......................................................................................................46
+2.6.2 Operating Authority to Conduct the Accident Flight...............................................................47
+3. CONCLUSIONS....................................................................................................................48
+3.1 Findings...............................................................................................................................48
+3.2 Probable Cause....................................................................................................................51
+4. RECOMMENDATIONS.......................................................................................................52
+5. APPENDIXES........................................................................................................................55
+APPENDIX A—INVESTIGATION AND HEARING............................................................55
+APPENDIX B—COCKPIT VOICE RECORDER TRANSCRIPT.......................................56
+APPENDIX C—EXCERPTS FROM THE FLIGHT DATA RECORDER........................100
+APPENDIX D—FAA LETTER DETAILING REVISIONS TO ABX STALL RECOVERY
+PROCEDURES.........................................................................................................................105
+APPENDIX E—ABX FEF FLIGHT TEST REPORT DC-8-61/62/63 (EXCERPTS)........107
+iv
+
+EXECUTIVE SUMMARY
+On December 22, 1996, at 1810 eastern standard time, a Douglas DC-8-63,
+N827AX, operated by ABX Air Inc. (Airborne Express) impacted mountainous terrain in the
+vicinity of Narrows, Virginia, while on a post-modification functional evaluation flight. The
+three flightcrew members and three maintenance/avionics technicians on board were fatally
+injured. The airplane was destroyed by the impact and a postcrash fire. The functional
+evaluation flight, which originated from Piedmont Triad International Airport, Greensboro, North
+Carolina, was conducted on an instrument flight rules flight plan and operated under Title 14
+Code of Federal Regulations Part 91.
+The National Transportation Safety Board determines that the probable causes of
+this accident were the inappropriate control inputs applied by the flying pilot during a stall
+recovery attempt, the failure of the nonflying pilot-in-command to recognize, address, and correct
+these inappropriate control inputs, and the failure of ABX to establish a formal functional
+evaluation flight program that included adequate program guidelines, requirements and pilot
+training for performance of these flights. Contributing to the causes of the accident were the
+inoperative stick shaker stall warning system and the ABX DC-8 flight training simulator’s
+inadequate fidelity in reproducing the airplane’s stall characteristics.
+Safety issues discussed in this report include airplane stall recovery procedures for
+functional evaluation flights, stall warning systems, fidelity of the ABX DC-8 flight training
+simulator, guidelines and limitations for conducting functional evaluation flights, and Federal
+Aviation Administration surveillance of air carrier functional evaluation flight programs.
+Recommendations concerning these issues were made to the Federal Aviation Administration.
+v
+
+
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+UNCONTROLLED FLIGHT INTO TERRAIN
+ABX AIR (AIRBORNE EXPRESS)
+DOUGLAS DC-8-63, N827AX
+NARROWS, VIRGINIA
+DECEMBER 22, 1996
+1. FACTUAL INFORMATION
+1.1 History of Flight
+On December 22, 1996, at 1810 eastern standard time,1 a Douglas DC-8-63,
+N827AX, operated by ABX Air Inc. (Airborne Express) impacted mountainous terrain in the
+vicinity of Narrows, Virginia, while on a post-modification functional evaluation flight (FEF).2
+The three flightcrew members and three maintenance/avionics technicians on board were fatally
+injured.3 The airplane was destroyed by the impact and a postcrash fire. The FEF, which
+originated from Piedmont Triad International Airport, Greensboro, North Carolina (GSO), was
+conducted on an instrument flight rules (IFR) flight plan and operated under Title 14 Code of
+Federal Regulations (CFR) Part 91.
+The airplane had received major modifications at Triad International Maintenance
+Corporation (TIMCO), a Federal Aviation Administration (FAA)-certified repair station located
+at GSO, including a “D” check (major airplane overhaul),4 modification and standardization of
+cockpit, avionics and airplane systems, installation of a cargo handling system and engine
+modifications to achieve Stage III noise level requirements.5 A partial FEF was conducted on
+December 21, 1996, but was terminated when the airplane developed a hydraulic system anomaly
+(low fluid quantity indication). On the day of the accident, the crew had originally scheduled a
+1320 departure. However, the airplane departed GSO at 1740, following maintenance delays.
+1Unless otherwise indicated, all times are eastern standard time, based on a 24-hour clock.
+2Title 14 Code of Federal Regulations (CFR) Part 91.407, “Operation after maintenance, preventive maintenance,
+rebuilding, or alteration,” requires that an operation check (an FEF) be conducted following maintenance “that may
+have appreciably changed [the airplane’s] flight characteristics or substantially affected its operation in flight.…”
+The post-modification FEF was the most extensive conducted by ABX. Air carriers routinely conduct less-
+exhaustive FEFs, or acceptance flights, following less extensive repairs.
+3The three technicians were aboard to assist the flightcrew with the resolution of aircraft systems questions and
+problems during the FEF. A review of ABX FEF records indicated that this was a routine practice.
+4According to Subpart L of Part 121, airlines are required to create and maintain an FAA-approved continuing
+maintenance program. As part of such a program, maintenance tasks are divided into categories based on the level
+of maintenance checks required, beginning with “A” checks through “E” checks. The major focus of the work scope
+provided by ABX to TIMCO was to perform an all-phases “C” check, which was equivalent to a “D” check.
+5Stage III regulations establish maximum allowable noise levels for airplanes based on airplane weight and number
+of engines and affect all airplanes being operated in the United States. The first phase implementation deadline went
+into effect on January 1, 1997. Full (Stage III) implementation for all airplanes will be required by January 1, 2000.
+
+2
+Following takeoff and climb out, air traffic control (ATC) assigned the flight a
+block altitude of 13,000 feet to 15,000 feet mean sea level (msl). The flight received a “round-
+robin” IFR clearance to GSO with a planned route of flight from GSO northwest to Pulaski
+(PSK) very high frequency omnidirectional radio range (VOR), to Beckley, West Virginia, and
+points in Kentucky and Virginia before returning to GSO after a planned flight duration of about
+2 hours. Scattered clouds at 8,000 feet and a broken ceiling at 25,000 feet were reported at GSO
+when the airplane departed.
+FAA National Track Analysis Program (NTAP)6 data indicate that the airplane
+climbed through 9,000 feet at 1743:08. The airplane was level at 14,100 feet at 1745:50 and
+remained within 300 feet of that altitude until 1808:18, just before it entered a steep descent,
+according to NTAP data. Upper air temperature and dew point data indicated that cloud tops
+were just below 14,000 feet along the airplane’s route of flight. Flightcrew comments recorded
+on the cockpit voice recorder (CVR)7 indicated that the airplane flew briefly in and out of the
+clouds and that ice buildup was observed after they reached their assigned block altitude. At
+1748:34, the pilot flying (PF) in the left seat stated, “We’re gettin’ a little bit of ice here,”
+followed by “…probably get out of this” three seconds later at 1748:37. At 1752:19, the PF said,
+“We just flew out of it, let’s stay here for a second.”
+At 1805:37, after performing several landing gear, hydraulic and engine system
+checks, the flight engineer told the other flightcrew members that the “next thing is our stall
+series,”8 according to the CVR.
+The evaluation flight profile form that the flightcrew was using for the FEF
+required that the flightcrew identify and record the speed at which the stick shaker activated and
+the speed of the stall indication. At 1805:56, the pilot not flying (PNF) said, “one eighty four
+[1.5 V , the reference for the crew to stop trimming the airplane]9, and…we should get uh, stall at
+s
+uh, one twenty two. I’m going to set that in my, interior bug.” At 1806:10, the flight engineer
+stated, “shaker at one twenty eight [5 percent faster than calculated stall speed] if you just … call
+out your numbers, I’ll record them.” At 1806:14, the PF asked “that’s shaker and the stall?” and
+the flight engineer replied, “yeah, shaker and stall both.” The crew then commenced to slow the
+airplane about 1 knot per second toward the stall.
+At 1806:18, the PNF told the PF that “the only trick to this is just don’t unspool
+[to allow the engine rpm to decay to near flight idle].” At 1807:21, the PF, referring to the engine
+power settings, asked, “are you saying you don’t want to pull all the way back to it [the stall] and
+6The NTAP system provides analog flight tracking information based on digital ATC radar computer data.
+7A transcript of the CVR is included in appendix B.
+8According to ABX, the purpose of this part of the FEF was to verify the airplane’s flight characteristics following
+the removal, installation and rigging of flight control surfaces (flaps and ailerons) and to check the operation of the
+stall warning and stick shaker systems. Federal regulations in place at the time the airplane was manufactured stated
+that an airplane “shall be considered stalled when, at an angle of attack [the angle of the wing to the relative wind]
+measurably greater than that of maximum lift, the inherent flight characteristics give clear indication to the pilot that
+the airplane is stalled.” The regulations added, “A nose-down pitch or a roll which cannot be readily arrested are
+typical indications that the airplane is stalled.”
+9V is the stalling speed or minimum steady flight speed at which the airplane is controllable.
+s
+
+3
+then spool back or just wait?” The PNF responded, “Aw you can do that, just when you get close
+to the stall you don’t want to be unspooled.” The PF replied, “Unspool and then I’ll respool.”
+At 1807:51 the PF said, “Yeah, I’m going to spool now.” The PNF replied, “All
+right,” and, at 1807:55, the CVR recorded sounds similar to the engines increasing in rpm.
+At 1808:06, the PF announced “some buffet” (at 151 knots), and the PNF noted
+“yeah, that’s pretty early.” At 1808:09, the sound of rattling was heard on the CVR and, at
+1808:11, the flight engineer said “that’s a stall right there… ain’t no [stick] shaker” (at 145
+knots). The PF then called “set max power” at 1808:13. Seven seconds later popping sounds
+began and continued for nine seconds until 1808:29. At 1808:30, the PNF said, “You can take a
+little altitude down. Take it down.” At 1808:42, the PNF added, “Start bringing the nose back
+up.”
+At 1809:10, ATC asked the crew if they were in an emergency descent and the
+PNF replied “yes sir.” ATC then asked the crew “can you hold seven thousand?” There was no
+reply, and there were no further radio communications from the accident airplane with ATC. At
+1809:29, the PNF told the PF to apply left rudder and the PF replied “left rudder’s buried” 1
+second later. Two seconds later, the PNF added “OK, easy, don’t. OK now, easy bring it back.”
+Three seconds later the aural warning (“terrain, terrain, whoop, whoop, pull up”) of the ground-
+proximity warning system (GPWS) activated. The sound of impact was recorded on the CVR at
+1809:38, 3 seconds after the GPWS aural warning.
+Three ground witnesses told accident investigators that the airplane was
+generating loud “skipping or missing” noises. Two of the witnesses reported seeing the airplane
+descending out of the clouds at a steep angle, with bright lights shining downward. The
+witnesses described weather conditions at the time of the accident as cloudy with precipitation
+that was freezing at the surface.
+The airplane struck mountainous terrain in a 52-degree, left wing low and 26-
+degree, nose-down attitude about 3,400 feet msl, 1 minute and 32 seconds after the PF called
+“some buffet.” According to satellite-based global positioning system (GPS) data, the accident
+site was located at 37 degrees, 19.30’ north latitude and 80 degrees 53.06’ west longitude. The
+accident occurred during the hours of darkness.
+
+4
+1.2 Injuries to Persons
+Injuries Flightcrew Cabin Crew Passengers Other10 Total
+Fatal 3 0 0 3 6
+Serious 0 0 0 0 0
+Minor 0 0 0 0 0
+None 0 0 0 0 0
+Total 3 0 0 3 6
+1.3 Damage to Airplane
+The airplane was destroyed by impact forces and a postcrash fire. The estimated
+value of the airplane, including modifications performed by TIMCO, was about $21 million.
+1.4 Other Damage
+There was extensive impact and fire damage to trees and foliage at and near the
+accident site, and fuel soaking of the ground in some areas.
+1.5 Personnel Information
+The flightcrew consisted of two DC-8-qualified captains and a flight engineer.
+Three maintenance technicians (two ABX and one TIMCO employee) were on board to assist in
+the post-modification FEF.
+1.5.1 The Pilot Not Flying (PNF)
+The PNF, age 48, was hired by ABX in March 1988 as a DC-8 first officer. He
+later was promoted to DC-8 simulator instructor and, in 1990, to DC-9 flight standards pilot.
+After a brief period as a DC-9 line captain, he was promoted in 1994 to DC-8 flight standards
+manager and to B-767 flight manager in July 1996, in anticipation of the planned delivery of
+Boeing B-767 airplanes to the ABX fleet. He was also an FAA-designated DC-8 examiner. He
+held an airline transport pilot certificate (ATP) with an airplane multiengine land rating and type
+ratings in the Cessna CE-500, DC-8 and DC-9, along with commercial privileges, single-engine
+land. He was issued a flight engineer certificate, turbojet powered rating, in 1979. His most
+recent FAA first-class medical certificate was issued on September 13, 1996, with no limitations.
+His most recent proficiency check was July 12, 1996, and his most recent line check was on
+September 5, 1996. He had logged a total of 8,087 hours of flying, of which 869 hours were in
+the DC-8. He had logged 463 hours as a captain in the DC-8. The PNF had flown 1.1 hours
+(logged for the December 21 flight) within the last 24 hours before the accident. In the 30, 60
+and 90 days before the accident, he had flown 13.1, 25.8 and 34.4 hours, respectively. He had
+accumulated a total of 114.5 hours, all in the DC-8, in the 365 days before the accident.
+10See section 1.5.
+
+5
+Before being hired by ABX, the PNF was employed as a B-727/DC-8 flight
+engineer at Braniff International Airways from 1978 through 1980; as a DC-9/MD-80 captain at
+Transtar/Muse Air from 1983 to 1987; and as a DC-9 pilot at several small carriers. He began
+his aviation career in the U.S. Air Force, serving as a C-141 pilot and instructor pilot, and he
+later continued flying in the U.S. Navy Reserve.
+The PNF’s personnel records at ABX contained complimentary performance
+evaluations. A June 1991 company evaluation noted that the PNF was a “little laid back…may
+want to do his own thing, doesn’t want to upset or rock boat.” There was no ABX company
+record of disciplinary actions, and a search of the National Driver Register found no history of
+driver’s license revocation or suspension.
+1.5.2 The Pilot Flying (PF)
+The PF, age 37, held an ATP certificate with an airplane multi-engine land rating
+and type ratings in the DC-8, British Aerospace Jetstream 31, and Saab 340. He also held a
+commercial certificate, airplane single-engine land, a flight engineer certificate, turbojet powered
+rating, and an airframe and powerplant (A&P) certificate. His FAA first-class medical certificate
+was issued on October 18, 1996, with the limitation, “Holder shall wear corrective lenses.”
+Company records indicated that he wore corrective lenses for distant vision.
+He was hired by ABX in April 1991 as a DC-8 first officer and completed his
+initial operating experience (IOE) that June. In August 1993, he was promoted to DC-8
+equipment chief pilot and was assigned as a DC-8 standards pilot in May 1996. He was
+promoted to manager of DC-8 flight standards in June 1996, replacing the accident PNF in that
+position. He had also been selected to become an FAA-designated DC-8 examiner. His most
+recent proficiency check was on July 11, 1996, and his most recent line check was on December
+5, 1995. He had logged a total of 8,426 hours of flying, with 1,509 hours of pilot time in the DC-
+8, of which 434 were as a DC-8 pilot-in-command (PIC). He had flown a total of 1.1 hours
+(logged as PF on the December 21 flight) in the 24 hours before the accident. In the 30, 60 and
+90 days before the accident, he had flown 7.5 hours, 10 hours and 31.5 hours, respectively. He
+had flown a total of 89.1 hours, all in the DC-8, in the 365 days before the accident.
+The PF had a general aviation and regional airline background before being hired
+by Trans World Airlines in 1988, where he served as a B-727 flight engineer and DC-9/MD-80
+first officer. ABX performance evaluations were complimentary. There was no record of
+company disciplinary actions, and a search of the National Driver Register revealed no history of
+driver’s license revocation or suspension.
+1.5.3 Flight Engineer
+The flight engineer, age 52, was hired by ABX as a DC-8 flight engineer in
+February 1988 and was promoted to DC-8 flight standards flight engineer in May 1991. He held
+a flight engineer certificate, turbojet-powered rating, issued in March 1987 and an A&P
+certificate issued in May 1987. He was also an FAA-designated DC-8 examiner. His FAA
+
+6
+second-class medical certificate was issued in June 1996 with the limitation, “Holder shall wear
+corrective lenses.” His most recent proficiency check was on February 6, 1996, and his most
+recent line check was on July 17, 1996. He had logged a total of 7,928 hours of flying (all as a
+flight engineer), of which 2,576 hours were in the DC-8. He had flown 1.1 hours in the 24 hours
+before the accident. In the 30, 60 and 90 days before the accident, he had logged 9.4 hours, 27.6
+hours and 34.2 hours, respectively. He had flown a total of 110 hours in the 365 days before the
+accident.
+From 1970 through 1974, the flight engineer was a crew chief on B-52 airplanes
+in the U. S. Air Force. He was an instructor flight engineer on C-141 airplanes from 1974
+through 1978. From 1978 through 1981, he was one of the first U.S. Air Force flight engineers
+qualified on the E-4B, a modified B-747 airborne command post, and he instructed all flight
+engineers in differences training for qualification on the airplane. He was with the E-4B unit
+when he retired from the Air Force in 1986, after 26 years of service. At the time he was hired
+by ABX, the flight engineer had logged 2,665 hours in B-747s and 2,687 hours in C-141s.
+The flight engineer’s company performance evaluations were unremarkable and
+complimentary, and there was no record of disciplinary actions. A search of the National Driver
+Register revealed no history of driver’s license revocation or suspension.
+1.5.4 FEF Experience of the Accident Pilots
+According to ABX records, the PNF on the accident flight had a total of 1.1 hours
+of flying experience as PIC (logged the previous day) of a DC-8 post-modification FEF. The
+PNF had 12.6 hours of experience as a nonflying second-in-command (SIC) on post-modification
+DC-8 FEFs and had conducted other, less-extensive FEFs in the DC-8 that did not involve a stall
+series. Between 1991 and 1993, the accident PNF had flown 15 FEFs as PIC in DC-9s,
+according to ABX records. Some of these DC-9 flights may have involved approach to stall.
+The accident flight PF had no experience as a pilot on a DC-8 post-modification FEF before the
+abbreviated December 21 FEF.
+1.5.5 Flightcrew’s 72-hour History Before the Accident
+The flight engineer had arrived on December 9 to begin preparations for the FEF
+that was originally scheduled for December 16. The accident flight PNF and PF arrived in GSO
+on December 15. After the December 16 flight was delayed, the accident PNF returned home to
+Dayton, Ohio, on December 17 and returned to GSO on the morning of December 19. The
+flightcrew had dinner together on December 19, according to family members. TIMCO
+employees said the flightcrew performed an initial preflight inspection on N827AX on the
+evening of December 20. The flightcrew completed another preflight inspection of the airplane
+between 1000 and 1200 on December 21. The FEF was scheduled for 1200, and the flightcrew
+performed engine run-up tests, then departed GSO at 1315. After returning from the abbreviated
+FEF on December 21 at 1419, the flightcrew went to dinner in GSO. On December 22, the
+flightcrew arrived at the airport between 1000 and 1200 and performed preflight duties. The
+airplane was released to the flightcrew between 1630 and 1700. Relatives told Safety Board
+
+7
+investigators that the flightcrew members typically went to bed at 2300 and awoke at 0700 when
+at home, and that the timing of daily phone calls indicated that they kept that schedule in GSO.
+1.6 Airplane Information
+N827AX, a Douglas DC-8-63, serial number 45901, was manufactured on July
+15, 1967. It was previously registered to Emery Airplane Leasing as N929R and to KLM Royal
+Dutch Airlines as PH-DEB. It was equipped with four Pratt & Whitney JT3D-7 turbofan
+engines. As of December 12, 1996, the airframe had accumulated a total of 62,800.9 hours and a
+total of 24,234 landings, or cycles, since new (CSN).
+1.6.1 N827AX Overhaul and Modification Maintenance Work
+The airplane was purchased by ABX from Aerolease International Inc., Miami,
+Florida on June 17, 1996, and subsequently underwent modifications at TIMCO. At the time of
+the accident, it had not yet been placed in service by ABX. Before the accident flight, TIMCO
+had performed a comprehensive maintenance work package, including completion of an all-
+phases “C” check overhaul. (The “C” check for ABX is divided into four phases, and each phase
+includes applicable task requirements of a “D” check. All “D” check tasks are incorporated into
+these four phases.)
+In addition to the extensive overhaul work, ABX ordered many equipment
+modifications to standardize N827AX with 14 other company DC-8s. Many avionics, cockpit
+and airplane systems were modified, including the flight directors, color radar, air data
+instruments, communications and navigation receivers and transmitters. A new cargo handling
+installation and a dual electronic flight instrument system (EFIS) were also part of ABX’s order.
+Nineteen supplemental type certificates (STCs) were incorporated on N827AX during
+modification at TIMCO.
+All four JT3D-7 Pratt & Whitney turbofan engines were removed. Two engines
+were overhauled (by another contractor), and two engines were replaced with JT3D-7 engines
+supplied by ABX. Stage III (hush kit) noise attenuation modifications were performed by
+TIMCO on the four engines and pylons.
+Because the TIMCO inspection discovered a greater amount of corrosion than
+anticipated, especially on the underside of the airplane, a scheduled 4-month project extended
+into a 6-month work period, according to TIMCO records examined by the Safety Board.
+TIMCO’s original estimated delivery date of the airplane was October 31, 1996. Delays caused
+by the replacement of seven fuselage “belly skins” because of corrosion moved that date forward
+to November 24, 1996. The late arrival of parts and kits further delayed the estimated delivery
+date to December 15, 1996.
+
+8
+1.6.2 Stall Warning System Checks
+The airplane’s electrically powered (115-volt AC, 28-volt DC) stall warning
+system consists of a lift transducer, lift computer, control column shaker, test relay, test switch
+and circuit breaker protection.11 The lift transducer, located in the right wing leading edge, is the
+sensing mechanism for the stall warning system. During a final engine run-up check on
+December 20, 1996, the stall warning system and pitot heaters were checked, according to ABX
+records. Operation of the lift computer and stick shaker is tested on the ground during preflight
+by placing the STALL WARN TEST switch in the TEST position. This electrically simulates a
+stall warning in the computer, which activates the shaker. Cockpit checks do not test operation
+of the lift transducer. A maintenance check of the airplane’s stall warning system, including the
+operation of the lift transducer, was performed on December 5, 1996, and records indicate that
+the system was operational. According to Douglas records, the airplane’s stall warning system
+functioned in accordance with its design specifications when it was delivered in 1967.
+The lift transducer heater is on whenever the “Anti-icing and Meter Sel” switch is
+in any position except “off.” The heater can be checked for proper operation by noting the
+indication on the anti-icing (Pitot Amp) ammeter. A “Heater Inop” light monitors several anti-
+icing heaters through a current sensing detector. If the stall warning heater current drops below
+1.2 amperes, or increases above 2.9 amperes, a relay contact within the detector will close,
+illuminating the monitor light.
+1.6.3 Maintenance Discrepancies Listed on the First FEF
+The first FEF conducted on December 21, 1996, was terminated because of an
+indication of hydraulic quantity loss. No major leak was found, but a minor leak was located at
+the nose landing gear actuator. TIMCO maintenance personnel said they suspected that trapped
+air in the lines may have caused the low hydraulic quantity indication. The nose gear actuator
+was replaced, and the system was reserviced after the arrival of replacement parts at 1630 on
+December 22. The airplane had no open maintenance items before the second FEF.
+1.6.4 Weight and Balance
+The airplane’s weight and balance report was computed as part of the ABX-
+scheduled maintenance on December 11, 1996. The operating empty weight (OEW) was
+computed to be 145,273 pounds. According to ABX records, 81,000 pounds of fuel was on
+board the airplane when it departed on the first FEF. The flight returned with 65,600 pounds of
+fuel, after a flight duration of 1 hour and 4 minutes. No fuel was added for the accident flight.
+Parts of some pages relating to the airplane’s weight and balance logs were discovered at the
+accident site, but records for the accident flight were not recovered. Fuel weight for the accident
+flight’s takeoff was estimated by Safety Board investigators by adjusting fuel remaining on board
+11Airflow around the leading edge of the right wing is sensed by the lift sensor, and when the airspeed is about 1.05
+V (stalling speed) both control columns will shake, indicating that the airplane is approaching a stall. The lift
+s
+sensor is protected against ice by heaters. The system is operative in flight and on the ground when electric power is
+applied. Unless the anti-ice heater and selector switch is in the OFF position, the pitot tubes, the static ports, the
+outside air temperature probe and the lift transducer are heated.
+
+9
+for an estimated 1,000-pound taxi-out fuel burn. The airplane’s weight at the time of the
+accident was adjusted for an estimated 9,000-pound additional fuel burn. The airplane’s gross
+weight at takeoff was estimated at 209,783 pounds and 200,783 pounds at the time of the
+accident.12 The approved zero fuel weight (145,783 pounds) center of gravity (CG) range at
+takeoff and accident weight was 14.0 percent to 32.0 percent mean aerodynamic chord (MAC).
+The estimated CG location at takeoff was 21.67 percent MAC. The estimated CG location at the
+time of the accident was 21.23 percent MAC.
+1.6.5 Airplane Performance Calculations
+Records of the flightcrew’s performance calculations were not recovered, and they
+were not required to be filed as part of the Part 91 dispatch process they followed. Based on
+weight and balance estimates performed by the Safety Board, assuming an estimated 5-degree
+Celsius surface temperature at GSO and a flap 18 [takeoff] setting, the following performance
+parameters were calculated for the takeoff weight: takeoff EPR [engine pressure ratio] =1.81;
+V =108 knots; V =120 knots; and V =138 knots.13
+1 R 2
+1.6.6 Operating Authority to Conduct the Accident Flight
+The FAA principal operations inspector (POI) assigned to ABX and ABX
+managers stated that N827AX was authorized to operate the accident flight under Part 91
+because (1) an FAA-designated airworthiness representative employed by ABX had issued an
+airworthiness certificate, (2) the airplane was being maintained in accordance with ABX’s Part
+121 maintenance program, and (3) airworthiness conformity inspection records were partially
+complete pending conclusion of the FEF. Further, in a February 11, 1997, memorandum,
+ABX’s FAA-designated airworthiness representative stated that N827AX met the requirements
+of ABX’s Part 121 maintenance program, upon completion of the planned inspections and
+modifications, and he described the FEF as the final step in the maintenance process. The
+memorandum said that “a letter is then sent to the [FAA] certificate holding office stating that the
+airplane meets the requirements for 121 operation.” The letter “was not signed pending
+completion of the functional test flight.” Also, the accident airplane was added to ABX’s
+Operating Certificate airplane list on November 4, 1996 (6 weeks before the accident FEF).
+According to an April 2, 1997, memorandum from the FAA’s Flight Standards
+Service to the Safety Board, ABX would have required a letter of deviation authority under Part
+125.3 to operate under Part 91, unless the airplane had been added to the ABX aircraft list. There
+was disagreement among FAA personnel about whether it was appropriate to include the airplane
+on the ABX aircraft list prior to the completion of all airworthiness certification activities,
+including the FEF.
+12ABX procedures approved by the local FAA Flight Standards District Office (FSDO) included computations for
+ballast fuel. However, ballast fuel procedures do not appear in the FAA-approved airplane flight manual.
+13V is takeoff decision speed; V is rotation speed; and V is takeoff safety speed.
+1 R 2
+
+10
+1.7 Meteorological Information
+Weather observations at GSO and Winston-Salem, North Carolina, (INT)
+indicated visual conditions in the area at the time of the accident flight’s departure. GSO
+reported scattered clouds at 8,000 feet and a broken ceiling at 25,000 feet. INT reported a broken
+ceiling estimated at 15,000 feet. The 1900 Surface Analysis chart of the National Weather
+Service (NWS) showed a ridge of high pressure located along the east coast of the United States
+and a northeast-southwest stationary front extending from Michigan to Missouri. The chart
+indicated overcast clouds, scattered precipitation and light-to-moderate southerly surface winds
+over western Virginia, West Virginia, and Ohio.
+Digital radar data from the Roanoke, Virginia, Weather Surveillance Radar
+Doppler (WSR-88D) facility at the time of the accident showed a scattered area of light rain
+along N827AX’s flightpath and a cross-section of the radar data indicated radar tops in the area
+were about 13,100 feet to 13,500 feet. Radiative temperature data obtained by infrared satellite
+imagery indicated that corresponding cloud tops were in the vicinity of 14,000 feet. A
+radiosonde14 launched at Blacksburg, Virginia, at 1815 showed the top of the moist layer to be
+between 13,600 feet and 13,700 feet. The upper freezing level in the accident area was about
+7,600 feet.
+Two pilots (a corporate pilot and a regional airline pilot), who landed at Bluefield,
+West Virginia, 16 nautical miles west of the accident site, about the time of the accident, told
+Safety Board investigators that they were on top of the cloud deck at 13,000 feet and 15,000 feet,
+respectively, on flights from Hilton Head, South Carolina, and Charlotte, North Carolina. The
+pilots said that they did not encounter any icing or turbulence during their descents into
+Bluefield. A surface weather observation at Bluefield shortly before the accident reported light
+rain, 1,500 feet overcast and visibility 2 miles.
+Astrological data for the accident location were calculated using a Safety Board
+computer program. Sunset was calculated to be 1721 with the end of twilight at 1750. The
+altitude of the Moon in relation to the airplane was about 27 degrees, with a magnetic bearing to
+the airplane of 90 degrees. The Moon’s illumination was calculated at 96 percent (or nearly full).
+Infrared satellite imagery also indicated the presence of cirrus clouds above the cloud deck in the
+area.
+1.8 Aids to Navigation
+There were no reported problems with navigational aids.
+1.9 Communications
+No external communications difficulties were reported.
+14A radiosonde is a balloon-borne instrument for the simultaneous measurement and transmission of meteorological
+data.
+
+11
+1.10 Airport Information
+GSO has two asphalt surface runways. Runway 14-32 is 6,380 feet long and 150
+feet wide. Runway 5-23 is 10,000 feet long and 150 feet wide. The field elevation is 926 feet. It
+is equipped for instrument landing system (ILS), VOR, nondirectional beacon (NDB), airport
+surveillance radar (ASR), global positioning system (GPS) and area navigation (RNAV)
+approaches. The accident airplane departed from runway 23.
+1.11 Flight Recorders
+The airplane was equipped with a CVR and a flight data recorder (FDR).15 They
+were recovered from the accident site on the morning following the accident and sent to the
+Safety Board’s laboratory in Washington, D.C., for readout and evaluation.
+The FDR was a Fairchild model F1000 that recorded 11 parameters, including
+time, indicated airspeed, pressure altitude, control column position, engine pressure ratios
+(EPRs),16 heading, longitudinal acceleration, vertical acceleration, pitch angle, roll angle and
+very high frequency (VHF) radio keying. Although the recorder sustained extensive impact
+damage, the memory module (the recording medium) did not sustain any impact or thermal
+damage and was in good condition. A complete recovery of the data was accomplished.
+The FDR is installed in the aft cabin ceiling. According to ABX’s DC-8
+operations manual, it derives static pressure information from the alternate static ports; magnetic
+heading data from the first officer’s compass indicator; vertical accelerations from the
+acceleration sensor; keying information from high frequency (HF) and VHF keying lines, and
+pitot pressure from the tail pitot tube.
+The CVR was a Fairchild model A-100A, SN56935. The recording consisted of
+four channels of good quality audio information: the cockpit area microphone, and channels for
+the captain, first officer and flight engineer.17 The recording began at 1739:08, with the crew
+reading the final items of the before-takeoff checklist, and continued until 1809:39, when
+electrical power to the unit ceased on impact with terrain. The interior of the memory module
+showed moderate impact damage, but the tape sustained no thermal or impact damage. A
+transcript was prepared of the 30:31-minute recording (see appendix B).
+15Excerpts from the FDR are included in appendix C.
+16Engine pressure ratio is a measure of engine thrust, comparing total turbine discharge pressure to the total pressure
+of the air entering the compressor.
+17The Safety Board uses the following criteria to assess the quality of a CVR recording: a “poor recording is one in
+which a transcription is nearly impossible because a large portion of the recording is unintelligible; a “fair” recording
+is one in which a transcription is possible, but the recording is difficult to understand; a “good” recording is one in
+which few words are unintelligible; and an “excellent” recording is very clear and easily transcribed.
+
+12
+1.11.1 FDR Data During Stall Entry and Subsequent Loss of Control
+FDR data indicated that the EPRs on all engines were at or near idle power as the
+airplane slowed to stall speed for the stall test maneuver and EPRs were increased by about 0.05
+about 11 seconds before the pre-stall buffet was called. FDR data showed that at the time of
+impact, engine EPR levels were at or near idle. The full range of motion of the airplane’s control
+column position (CCP) was about 37 degrees (5 degrees forward of neutral and 32 degrees aft of
+neutral). During the last 2 minutes of flight, the CCP peaked, at times, at 32 degrees aft,
+according to FDR data. A Safety Board performance study based on FDR data indicated that the
+pre-stall buffet began at 149 knots and that the stall occurred at 126 knots.
+FDR data indicated that immediately after the PF commanded and applied power
+to recover from the stall (at 1808:13), all four engines accelerated, although the No. 2 engine
+accelerated to a slightly lower EPR than the other engines during the power increase. The
+engines had stabilized at maximum EPR by 1808:18. At 1808:20, the airspeed was decaying
+from 130 knots and the CVR recorded sounds similar to engine compressor surges (popping
+sounds) that continued for 9 seconds. During the period of engine compressor surges (at
+1808:25), the FDR recorded EPR reductions. The power was subsequently increased two
+additional times before the airplane impacted terrain, but the CVR recorded no further sounds
+linked to engine compressor surges.
+According to FDR data, at 1807:40, just before entering the stall sequence, the
+airplane’s airspeed was diminishing from 180 knots. The airspeed had decreased to 126 knots at
+1808:11. Between that time and 1809:20, the indicated airspeed fluctuated rapidly and
+significantly, consistent with erratic airspeed indications.18 The airplane impacted terrain at more
+than 240 knots.
+FDR data indicated that for about 14 seconds after the flight engineer noted the
+stall indication (at 1808:11) and through the time that the first roll excursion began at 1808:25,
+the airplane remained pitched nose up between 7 degrees and 14 degrees. CCP values ranged
+from about 5 degrees aft when the stall was noted to 20 degrees aft at 1808:25. During this
+period, the airplane’s airspeed decayed from 145 knots to about 120 knots (the FDR was
+providing erratic airspeed indications below 126 knots, and was indicating about 90 knots). FDR
+data indicated that the airplane’s pitch attitude then decreased from about 11 degrees above the
+horizon at 1808:25 to 12 degrees below the horizon at 1808:35. Thirteen seconds after the stall
+was called, vertical acceleration forces began to increase and remained (with minor fluctuations)
+consistently more than 1 G (with a maximum of 1.5 G) until impact.
+The airplane experienced four roll reversals between 1808:25 and impact at
+1809:38. Ten seconds before impact, at 18:09:28, the airplane was 52 degrees nose down, in a
+113-degree right roll (the largest roll angle recorded on the FDR). At 18:09:31, the airplane was
+18The FDR recorded erratic airspeed indications below 126 knots. The erratic indications were most likely caused by
+disruption of airflow around the tail-mounted pitot tube from the effects of a high angle of attack and a sideslip as the
+airplane entered the stall.
+
+13
+67 degrees nose down, the maximum pitch value recorded, and in a 79-degree right roll. At
+impact, the airplane was in a 26-degree-nose-down, 52-degree-left-wing-down-attitude.
+1.12 Wreckage and Impact Information
+The airplane wreckage was found on the southeast side of a 4,200-foot mountain
+at the 3,400-foot level in a 700-foot-long wreckage path. The airplane systems displayed heavy
+impact damage and fire damage consistent with a postcrash ground fire. Examination of the
+wreckage area and vicinity revealed no evidence of a preimpact fire or in-flight separation of
+components. The majority of the airplane’s system components were located in the main debris
+field. An examination of the initial tree breaks indicated that the airplane impacted trees in a left-
+wing-down attitude. The airplane’s flightpath angle from initial tree impact to ground impact
+was about 35 degrees. The location of the ground scars and separated airframe and engine
+components indicated that the left wing tip made initial ground contact, and the ground impact
+crater became deeper and wider as the left wing continued to penetrate the ground. The impact
+of the No. 1 engine followed. All four engines were found at the accident site, similarly damaged
+and broken into three or four sections. There was no evidence of uncontained rotating parts
+failures, case ruptures or in-flight fires on the engines.
+The alignment of the impact craters for the outboard left wing, the No. 1 engine
+and the aft fuselage is consistent with FDR data showing high vertical G forces and a steep left
+bank angle at the time of ground impact. The initial ground impact scar was 65 feet long and
+oriented along a magnetic heading of 045 degrees. The distance between the initial tree impacts
+and the first ground impact was about 75 feet. Several pieces of leading edge structure were
+found in the area between the tree impacts and the initial ground impact. A section of the vertical
+stabilizer (the lower 19 feet) was found on its left side in a third ground scar area along with the
+tail cone. Fuselage pieces were scattered throughout a debris field that expanded in a fan-shaped
+pattern beyond the empennage area. Parts of the cockpit were found in this debris field, and
+several small pieces of wing skin were found well beyond the empennage and down the hill to
+the right of the main wreckage area.
+The airplane’s flight controls were destroyed in the crash sequence. One of the
+airplane’s two horizontal stabilizer trim jack screws was found separated from the drive system
+and broken from the stabilizer. The threads were measured from the top of the threads to the top
+of the rotating bezel. Extension of the jack screw corresponded to a horizontal stabilizer position
+of 8 degrees airplane nose up (ANU).19 The rudder system components were found in the debris
+field. The rudder was found torn from its attachment points and not fully recovered. The rudder
+power unit was damaged, and the hydraulic and electrical lines were torn from their attachment
+points. No evidence of preimpact hydraulic leaks was found in the area surrounding the power
+unit.
+19According to the DC-8 operations manual, the horizontal stabilizer is adjustable to provide longitudinal trim in a
+range from 1 degree nose down to 10 degrees nose up from the neutral position. The stabilizer is actuated by two
+jack screws, which are driven by a primary hydraulic actuator, or by an alternate electric actuator. The motor is
+actuated by dual trim handles located on the left side of the cockpit control pedestal or by dual switches on the
+outboard horn of each control wheel.
+
+14
+1.13 Medical and Pathological Information
+Both pilots and the flight engineer tested negative for a wide range of drugs,
+including major drugs of abuse.20 Ethanol was detected in the tissue samples of the PF and the
+flight engineer. According to the FAA’s Civil Aeromedical Institute toxicological analysis, the
+ethanol found “may be the result of post-mortem ethanol production.”
+1.14 Fire
+A fuel-fed fire erupted on impact.
+1.15 Survival Aspects
+The accident was not survivable.
+1.16 Tests and Research
+Safety Board investigators evaluated flight characteristics of ABX’s DC-8 flight
+training simulator21 in Wilmington, Ohio, in January 1997. A clean stall (landing gear and wing
+flaps retracted, wing slots closed) was performed using the approximate accident airplane CG
+and weight (200,000 pounds) and environmental conditions of the accident flight. The stick
+shaker activated at 140 knots, followed by the stall buffet. As the airspeed continued to decrease
+and the simulator was flown farther into the stall, the buffet ceased and the simulator developed a
+sink rate in a nose-high, wings-level attitude. There was no uncommanded nose-down pitch or
+lateral rolloff at the stall, regardless of how deeply the simulator was stalled, the rate of entry
+(deceleration) into the stall, or the vertical G loading leading up to the stall. After slowing well
+below stall speed, the simulator entered a mode in which airspeed did not continue to decrease.
+1.16.1 Douglas DC-8 Certification and Simulation Data
+According to Douglas DC-8-63 performance certification data, an aerodynamic
+stall is typically preceded by aerodynamic buffet about 15 knots above stall speed. Based on the
+flightcrew’s calculation of 122 knots for the stall speed, the expected buffet airspeed would be
+137 knots. Douglas data also indicated that the stall warning (stick shaker) activation point had a
+tolerance band of plus or minus 5 knots.
+In addition, simulations and calculations conducted by Douglas based on the
+accident airplane’s weight and CG location indicated that an 8-degree ANU trim resulted in a
+trim speed of about 175 knots.
+20The five drugs of abuse tested in postaccident analysis are marijuana, cocaine, opiates, phencyclidine and
+amphetamines.
+21ABX’s flight training simulator was certified on April 3, 1990, by the FAA’s National Simulator Evaluation Team.
+It was rated a Level B simulator on October 30, 1990, and its last recertification before the accident was on October
+2, 1996. Flight training simulators (levels A through D) are approved by the FAA based on the capabilities of their
+aerodynamic programming, motion systems and visual systems.
+
+15
+1.17 Organizational and Management Information
+ABX Air Inc., was listed in its company fact sheet as the air carrier division and
+wholly-owned subsidiary of Airborne Freight Corporation of Seattle, Washington. ABX and
+Airborne Freight did business as Airborne Express. The company provides door-to-door pickup
+services in all U.S. metropolitan areas and in 200 countries. ABX employs more than 6,900
+persons, of which about 750 were flightcrew members operating a fleet of 35 DC-8s, 65 DC-9s
+and 9 twin-turboprop YS-11s. The air carrier’s operational and package sorting hub was located
+at Airborne Air Park, a privately owned airport near Wilmington, Ohio. All flightcrew members
+were domiciled in Wilmington. Line maintenance, overhaul and repair shops were also located
+in Wilmington. DC-8 heavy maintenance checks and modifications were contracted out.
+TIMCO accomplished most of the DC-8 fleet modernization modifications for ABX. Contracts
+were monitored by an ABX maintenance representative based at GSO. ABX’s air carrier
+certificate was issued on November 28, 1979, by the FAA’s Great Lakes regional office.
+Operations specifications issued by the FAA to ABX authorized the air carrier to conduct
+supplemental, cargo-only operations under Part 121 rules.
+ABX was organized into five major departments: administration, airplane
+maintenance, air park services, flight operations and ground operations. The ABX flight
+operations department was organized into six divisions. The “flight training/standards” and
+“crew operations/system chief pilot” divisions reported independently to the senior vice president
+of flight operations, who also served as director of operations. The flight training and
+standards/check airman functions were managed by a captain who supervised flight managers for
+each airplane type. The DC-8 flight standards manager, for example, was responsible for all
+training and checking in the DC-8 fleet, and he supervised a staff of DC-8 flight standards pilots
+and line check airmen who conducted the training and checks. The DC-8 flight standards
+manager also supervised the DC-8 flight standards second officer, formerly known as the DC-8
+flight standards flight engineer. The pilot flying the accident airplane was serving as the DC-8
+flight standards manager, having taken over the job from the accident flight PNF 6 months
+before. The flight engineer on the accident flight was the DC-8 flight standards manager -
+second officers, who reported to the PF at the time of the accident. The ABX FEF program was
+managed by the director of flight technical programs, who reported to the senior vice president of
+flight operations. (See Figure 1).
+1.17.1 Selection and Workload of Management Pilots
+A Safety Board review of the employment histories of the two accident pilots and
+other ABX management pilots indicated that ABX selected many of its management pilots from
+a pool of flight officer employees recently hired by the company. Some of the new flight officers
+had previous experience as captains, check airmen or managers at other carriers. Many of these
+pilots had initially qualified as captains at ABX when they were selected as management pilots.
+Thus, they had not accumulated extensive experience as pilots-in-command at ABX in the
+airplane types that they were assigned to manage. ABX senior operational managers told Safety
+Board investigators that this selection system was designed to obtain the best managers possible,
+noting that seniority was not necessarily indicative of the best management skills.
+
+16
+ABX AIR, INC.
+FLIGHT OPERATIONS ORGANIZATIONAL CHART
+SR. VICE PRESIDENT, FLIGHT OPERATIONS
+DIRECTOR, FLIGHT CONTROL & MANAGER, COMPLIANCE & PUBLICATIONS
+SYSTEM CONTINGENCY Flight Standards Coordinator
+Flight Dispatchers Records Specialist
+Apprentice Dispatchers
+Flight Tracking Specialist DIRECTOR, FLIGHT TRAINING/STANDARDS
+Flight Control Training and Standards Supervisor Flight Standards Manager - DC-8
+Flight Control Instructor/Check Airman Flight Standards Pilots
+Contingency Coordinators Line Check Airmen
+Flight Control Facilitator Flight Standards Manager - Second Officers
+Flight Standards Second Officers
+SR. DIRECTOR, CREW OPS & Line Check Airmen - Second Officers
+SYSTEM CHIEF PILOT Flight Standards Manager- DC-9
+Equipment Chief Pilot -DC-8 Standards Pilots
+DC-8 Pilots Line Check Airmen
+Equipment Chief Pilot - DC-9 Flight Standards Manager - YS- I I
+Assistant Chief Pilots - DC-9 Standards Pilots
+DC-9 Pilots Line Check Airmen
+Equipment Chief Pilot - YS-I I Manager. Simulator
+YS- I I1 Pilots Simulator Engineer
+Manager, Crew Scheduling Simulator Technicians
+Supervisor, Crew Utilization
+Senior Crew Schedulers SUPERVISOR FLIGHT ADMINISTRATION
+Crew Scheduler Senior Secretary
+Flight Ops Analyst Secretary
+Crew Operations Specialist Office Assistant
+DIRECTOR FLIGHT TECHNICAL PROGRAMS
+Supervisor, Aircraft Training Instruction
+Senior Aircraft Training Instructor
+Aircraft Training Instructors
+Manager, Flight Technical Services
+Aircraft Performance Specialist
+Aircraft Performance Engineer
+Flight Control Coordinator
+Figure 1.—ABX Air Inc., Organizational Chart.
+
+17
+The FAA POI assigned to ABX said he had spoken to ABX senior management
+about his concern that check airmen were not scheduling sufficient time to fly the line and
+maintain proficiency. He told Safety Board investigators that this remained a problem at ABX.
+The POI said that the accident flight PF had spent much of his recent time working on
+administrative duties in the chief pilot’s office, while the PNF had focused on training and
+simulation requirements for the new B-767 acquisition.
+1.17.2 Crew Resource Management (CRM) Program
+ABX maintained a CRM training program under the direction of the DC-9
+equipment chief pilot. As of October 1996, 266 of ABX’s 733 pilots had not yet received the 2-
+day training course. A review of ABX records indicated that neither the manager of flight
+training/standards nor the director of flight technical programs had received CRM training. The
+accident flight PNF had been scheduled to take the course, but had not received it before the
+accident. The PF had been a CRM course instructor. The flight engineer on the accident
+airplane had not yet taken the course. ABX had not established a program of recurrent CRM
+training in either the classroom or the simulator. The company had established a recurrent
+operations-oriented simulation training (ROOST) program that included some elements of CRM
+in a real-time, line-oriented simulation, according to ABX managers. The flight standards
+department was in charge of the ROOST program and the chief pilot’s department ran the CRM
+course.
+1.17.3 ABX’s FEF Program
+Flightcrews for FEF missions were primarily selected from the flight standards
+department, where these pilots were normally responsible for the training and flight checks in
+their respective airplane fleet. The director of flight technical programs, who managed the FEF
+program, created a written profile for conducting FEFs that specified the maneuvers to be
+performed (see appendix E). It provided spaces to record flight parameters and results.22 The
+flight technical programs director said he did not use Douglas evaluation flight guidelines
+because of differences between production test flight objectives for a new airplane and those for
+an airplane coming out of maintenance. He said that he had compiled an FEF checklist from a
+variety of sources, including those used by other carriers. The profile stated that the flightcrew
+should allow 2.5 hours for preflight checks, 45 minutes from first engine start to takeoff, and 5
+hours and 40 minutes from the start of the preflight inspection to final engine shutdown.
+The director of flight technical programs told Safety Board investigators that there
+were no specific in-flight weather restrictions for FEFs, although he said he preferred that they be
+conducted in clear air. There was no prohibition against conducting the tests at night, although
+the director said he preferred to conduct the flights during the day. He added that he preferred
+that the stall series not be performed in instrument meteorological conditions (IMC). There was
+no written record of these preferences. ABX’s flight training/standards manager said that the
+22The ABX “Flight Test Report” included accepted tolerances for some evaluation items, such as duration of flap
+extension, but it did not provide acceptable tolerances for the stall and stick shaker speeds or further explanation of
+the maneuver (items 17-19 on the “Flight Test Report”).
+
+18
+only takeoff and landing restrictions for conducting the evaluation flights were ceiling and
+visibility minimums of 800 feet and 2 miles.
+The flight technical programs director said he briefed pilots on how to conduct
+evaluation flights during a review of the evaluation flight profile in an office environment. He
+said that the purpose of the briefing was to ensure that pilots understood each maneuver and the
+reason for performing it. The ground briefing also addressed the sequence in which the
+maneuvers should be performed and flightcrew roles and responsibilities. The flight technical
+programs director said that the flight engineer controlled the evaluation sequence because he had
+the profile forms and the right seat pilot coordinated with the flight engineer. The left seat pilot
+was expected to be the PF commanding configuration changes. The director said that crew
+coordination was stressed in the ground orientation, and that flightcrews were cautioned about
+not becoming so absorbed in the evaluation process that they became distracted from their flying
+duties. Altitude restrictions and potential hazards were also discussed, he said. The director
+stated that evaluation flights consisted of maneuvers that line pilots would be expected to
+perform. He said that a previous upset incident in 1991 involving a DC-8 on an FEF was also
+addressed (see Section 1.18.1 and appendix E). Procedures used to train and designate ABX
+pilots as qualified to conduct FEFs were not documented, nor were they required to be
+documented, in company records.
+The accident flight PNF was trained to conduct DC-8 evaluation flights by the
+flight technical programs director about 2 years before the accident. The director said the
+training primarily consisted of the accident flight PNF, in the right seat, acting as second in
+command (SIC) and observing the director flying the evaluation profiles. The director said that
+he had not personally trained the accident flight PF, but he was aware that the PF had received
+simulator instruction from the accident flight PNF. The director said that he had originally
+planned to conduct the evaluation flight of N827AX with the accident flight PF, but was
+unavailable because he was ferrying another airplane back from Japan. He said the accident
+flight PF was assigned to the flight because he was replacing the PNF as DC-8 flight standards
+manager and that it was appropriate that he should gain evaluation flight experience.
+According to the director of flight technical programs, he was the FEF PIC for
+most of the DC-8s that had earlier undergone major modification. From 1991 through 1994, the
+DC-8 flight standards manager was PIC for nine of these DC-8 post-modification FEFs, while
+the director of flight technical programs performed two of them. Beginning in October 1994, the
+director of flight technical programs instructed the accident PNF in FEF procedures on several
+flights during which the accident PNF served as SIC and nonflying pilot. The director of flight
+technical programs also told Safety Board investigators that he had provided the accident PNF
+with a simulator training session in which stall recoveries and unusual attitude recoveries were
+practiced. The manager said that the stall recovery procedure he taught the accident PNF was
+identical to the procedure taught to line pilots for their proficiency checks.
+1.17.4 ABX Management Communication with the Accident Flightcrew
+The ABX director of flight training and standards said that he spoke to the
+
+19
+accident flight PNF by telephone before the flight. He said that they discussed weather
+minimums and the higher minimums (1,000 feet and 3 miles) of another carrier for similar
+evaluation flights. The director of flight training and standards said he told the accident PNF,
+“don’t do anything you’re uncomfortable with…what’s another day?” The flightcrew’s desire to
+complete the flights before the Christmas holidays was also discussed, according to the manager,
+who added that there was no company pressure to complete the flights before the holidays.
+1.17.5 ABX Scheduling Requirements and Plans for the Accident Airplane
+The accident airplane had originally been scheduled as available for revenue
+service by late October or November 1996, before that date slipped to December 15, and then
+December 22. ABX’s freight business experienced an annual peak load from Thanksgiving
+through Christmas, according to company managers. Airplane maintenance and flightcrew
+training were generally not scheduled during this period to allow the maximum number of
+flightcrews and airplanes for revenue operations. ABX also operated a series of charter flights
+carrying U.S. mail during the day from mid-December to December 25. These postal charter
+flights required DC-8s equipped with cargo doors. During this contract period, eight airplanes
+equipped with cargo doors were available for revenue service, not including N827AX, which was
+also equipped with a cargo door. Seven of these airplanes were required to operate daily to fulfill
+the postal contract.
+In addition, ABX had contracted to operate a freight charter between the United
+States and Honduras using the eighth airplane equipped with a cargo door. In mid-December,
+with N827AX facing additional delays, ABX notified the customer that ABX would be unable to
+fly the charters on a consistent basis and that flights would be canceled if an airplane involved in
+the postal charters developed a mechanical problem. ABX canceled one Honduras charter flight
+during this period. ABX’s marketing manager told Safety Board investigators that the company
+was bidding for a 3-week series of domestic charter flights in January and that the accident
+airplane was to be scheduled for these charters.
+1.17.6 Department of Defense Inspection of ABX
+The Department of Defense’s (DOD’s) Air Carrier Survey and Analysis team
+conducted a survey of ABX’s operation near Wilmington, Ohio, in November 1996.23 As a
+result of this survey, ABX was approved for continued participation in the DOD Air
+Transportation Program. The survey report ranked ABX as “excellent, above average or
+average” in all categories examined, which ranged from overall management to flight operations,
+training, hiring, operational controls, charter procedures and maintenance quality assurance. The
+report concluded that ABX management was “committed to dedicating the resources necessary to
+ensure a safe, quality operation.” The report added that flightcrews were “well trained, qualified
+and suitably compensated” and that the flightcrew work force was “stable and turnover is nil.”
+23DOD surveys of air carriers are part of a routine approval process for participation in the air transportation
+program.
+
+20
+1.17.7 FAA Oversight of ABX Operations
+The FAA conducted a regularly scheduled National Aviation Safety Inspection
+Program (NASIP) audit at ABX in November 1991.24 According to the executive summary of
+the NASIP report, the NASIP team found that ABX was in compliance with Federal Aviation
+Regulations (FARs), but determined that its day-to-day operations were “outstripping [its] own
+written policy and procedures guidance.” The NASIP team found that many company tasks were
+“being performed without written guidance.” In some cases, the NASIP team found, new
+guidelines were “issued in the form of bulletins” and were “several generations past the manual
+policies.” In addition, the NASIP team concluded that ABX’s instructor/check airman training
+outlines and records were inadequate, noting that the company “does not have formal lesson
+plans detailing the subjects, elements and events that will take place in the training.” ABX’s
+FAA-approved flight training program also did not contain the flight maneuver “go-around with
+horizontal stabilizer out of trim,” the NASIP report said. The NASIP team’s findings were
+provided to ABX, and the specific issues were cited in the report and later resolved in
+conjunction with the POI assigned to ABX.
+ABX’s certificate was managed by the FAA’s Flight Standards District Office
+(FSDO) in Detroit, Michigan. The FAA POI, who was assigned to ABX in 1989, described the
+company as an “extremely compliant” operator that was attempting to operate in accordance with
+the Federal regulations and that needed only occasional guidance. At the time of the accident,
+ABX was the only certificate for which he was responsible. The POI said he did not conduct
+surveillance of the FEF program because there was no requirement to do so. He said that he
+assumed that these flights would not be conducted at night or in IMC.
+1.17.8 ABX Safety Program
+A safety program was in place at ABX at the time of the accident under the
+direction of a corporate director for operational safety and planning. This manager reported
+directly to ABX’s president. The safety officer, as part of his corporate planning responsibilities,
+also participated in labor negotiations with the pilot group as a representative of ABX
+management. He said that his goal was to improve safety-related communication with the pilots
+through cooperative arrangements with their labor union. At the time of the accident, ABX had
+not established a formal safety partnership program with its pilots’ union or the FAA. Before the
+accident, pilots submitted safety reports directly to the chief pilots. The safety officer told Safety
+Board investigators that the reports were now routed to him. He said that he was not familiar
+with ABX’s FEF procedures, but was aware that there had been a loss-of-control incident in
+1991 involving an ABX DC-8 on an FEF (see Section 1.18.1). He said that he did not know if
+ABX’s FEF procedures had been changed following that incident.
+24NASIP inspections are part of the FAA’s normal air carrier inspection process.
+
+21
+1.18 Additional Information
+1.18.1 Previous DC-8 Loss of Control Incident at ABX
+FAA records indicate that a DC-8-63F operated by ABX experienced an in-flight
+loss of control incident during an FEF on May 16, 1991, while recovering from a stall in the
+landing configuration (landing gear and flaps down). The stall was being conducted as part of
+the FEF profile and involved engine compressor surges in the No. 1 and No. 2 engines during
+application of power in the stall recovery. The maneuver was begun at 13,000 feet msl, and the
+flightcrew recovered control of the airplane at 7,000 feet msl. The PIC of the incident flight was
+the DC-8 flight standards manager at the time, and the PF in the right seat was the DC-8
+equipment chief pilot.
+The flight engineer on the 1991 incident flight, now a DC-8 first officer, told
+Safety Board investigators that the flightcrew calculated the stall speed and stick shaker speed,
+configured the airplane for the landing stall, and slowed to stall speed. He said that the
+flightcrew was surprised when the stick shaker activation and buffet occurred simultaneously.25
+The PF called for maximum power and the flight engineer advanced the throttles. The flight
+engineer said that he then heard popping noises on the left side of the airplane and noticed that
+the EPR gauges for the No. 1 and No. 2 engines showed no acceleration. The throttles were
+retarded to idle and advanced again by the flight engineer. The airplane then yawed to the left,
+rolled right and began a rapid, spiral descent. The PIC took the controls and reversed all four
+engines. The crew said they experienced a 1 ½-turn spin.
+After the recovery from the stall/spin incident, the FEF was continued for nearly 3
+hours until the FEF checklist was completed. FAA records indicate that the FAA Winston/Salem
+FSDO processed an enforcement action because of the flightcrew’s failure to terminate the flight
+after the incident, and the pilots’ check airmen status was temporarily suspended.
+As a follow-up to the incident, the POI assigned to ABX wrote in a June 7, 1991,
+letter to the Winston/Salem FSDO that he had met with ABX personnel and they agreed that the
+following changes would be made to the FEF profile: flightcrews would fly the FEF profile in
+the simulator before the actual evaluation flight; airborne maneuvers would be executed in an
+ATC-assigned altitude block depth ranging from 3,000 feet to 5,000 feet (see appendix D).
+Recovery was to be accomplished with pitch (lowering the nose), and power then slowly
+advanced to complete the recovery (and fly out of the buffet). “The stall maneuver will no longer
+use power [first] for recovery,” the POI wrote in the June letter. He added in the letter, “In the
+simulator, lowering the nose three to four degrees results in an instant recovery. Power can then
+be slowly advanced to complete the recovery. All of this is being incorporated in their
+acceptance flight profile.”26
+25According to ABX’s director of flight technical programs, FEF flightcrews were also told that they should be
+prepared for the stick shaker not to activate before the stall during the clean stall maneuver.
+26ABX maintains that it did not receive a copy of this letter. The POI told Safety Board investigators that he could
+not recall whether he sent a copy of the letter to ABX, but he added that ABX managers were aware of its contents.
+
+22
+Pilots reported using the new procedure on subsequent FEF flights. The PIC of
+the incident flight said that in performing stall series during subsequent evaluation flights he
+reduced pitch attitude more positively and “let the altitude go.” He said that the airplane typically
+lost about 200 feet to 500 feet using this (modified) stall recovery procedure (compared to little
+or no altitude loss using the former power-recovery procedure). The flight engineer on the
+incident flight told Safety Board investigators that he was aware that the FEF stall recovery
+procedure had been changed following the incident. “The biggest change was to use a pitch
+recovery technique rather than a power recovery technique.”
+ABX’s director of flight technical programs, who had been on sick leave and then
+returned to flight status primarily flying DC-9 airplanes, told Safety Board investigators that he
+did not use the revised FEF stall recovery procedures when he subsequently flew several DC-8
+post-modification FEFs. He added that he believed that if the engines were spooled up properly
+during the approach to stall, the resulting power recovery maneuver would be “okay.”
+The POI said that he recalled having a disagreement with the director of flight
+technical programs about the stall procedures, arguing that ABX had been “performing the stall
+series in level flight like it was a precision [FAA-recommended stall recovery] maneuver.” He
+said that he told ABX personnel, “Let’s apply some common sense here.” The POI said he told
+ABX managers and pilots that it was not necessary to hold altitude in such FEF scenarios.
+1.18.2 Survey of Evaluation Flight Procedures
+Guidance on the requirements for conducting FEFs is contained in a brief section
+entitled “Test Flights” in ABX’s flight operations manual (FOM). The FOM stated, in part, that:
+night test flights may be conducted only when the reported ceiling is 800
+feet or above and the reported visibility is 2 miles or greater, and the
+weather forecast indicates that the ceiling and visibility will remain at or
+above those limits for the duration of the flight. Night test flights flown by
+flight supervisory personnel may be operated with lower minimums when
+circumstances warrant.
+The Safety Board also collected documentation from other operators on FEF
+procedures. The American Airlines flight manual stated, in part, that:
+every effort will be made to conduct … [FEFs] during VFR conditions. If
+the functional evaluation program warrants, an FCF may be made in IFR
+conditions. (The captain may stipulate higher than regular minima.)
+Flight Department management permission must be obtained for FCFs to
+be accomplished when the departure or landing airport is forecast to be
+less than 800/2.
+
+23
+The Boeing Commercial Airplane Group’s flight test operations manual for new
+airplanes noted that “production flights are normally flown in daylight hours.” It added, in part,
+that:
+the following maneuvers should only be flown during daylight hours:
+engine relights, stick shaker tests and tests requiring visual confirmation
+by occupants of wing or engine status. First flights are made during
+daylight only.
+Referring to production flight test policies (including extensively modified
+airplanes), the Boeing manual stated:
+Night flying shall be kept to an absolute minimum. If a flight cannot
+depart in time to be completed by nightfall, then it should be rescheduled
+for the next morning.
+For stall warning checks, the manual specifies that airspeed should be reduced
+slowly at about 1 knot per second “while maintaining altitude until stick shaker actuates.
+Maintain as close to 1-G flight during the maneuver as possible.” The B-757 flight evaluation
+profile, for example, stated that if the stick shaker has not actuated 5 knots below the computed
+value, the evaluation flight should be terminated and the airplane returned to base for additional
+maintenance.
+The Douglas Aircraft Company’s production flight check minimums for first
+flights stated that weather conditions at takeoff must be at least 600 feet and 1 ½ miles visibility
+“with cloud tops below 5,000 feet. Final landing will be accomplished no later than one hour
+before official sunset.” The Douglas manual specified takeoff minimums on subsequent
+evaluation flights of 200 feet and ½ miles visibility “provided that all Category I27 equipment is
+fully operational, including radios, flight instruments and related systems.” United Parcel
+Service’s (UPS’s) procedures for DC-8 condition flight checks note that stall warning tests “shall
+be accomplished in VFR conditions and an altitude of at least 10,000 feet agl [above ground
+level], where recovery can be made without reference to the attitude indicator. If stick shaker
+functions in the clean configuration, then no further testing is required.”
+1.18.3 Survey of Stall Recovery Procedures
+The Safety Board examined stall recovery procedures outlined in ABX’s DC-8
+operations manual and those recommended by the airplane’s manufacturer. According to the
+introductory section (page 4) of ABX’s DC-8 operations manual, dated December 31, 1988, stall
+recovery is to be accomplished “sufficiently smooth to avoid sustained secondary indication of
+approach to stall while minimizing altitude loss.”
+27Category I instrument landing system (ILS) approaches have minimums of 200 feet decision height (DH) and
+runway visual range (RVR) 2,400 feet.
+
+24
+The ABX DC-8 operations manual prescribes stall recovery practice procedures to
+be accomplished between 10,000 feet and 15,000 feet agl. For zero flap clean stalls, the manual
+describes the sequence of operations as follows: an initial entry speed of 200 knots, straight and
+level, slow deceleration by reduction of power to “minimum ‘spool up’ rpm, maintaining heading
+and altitude. Maintain altitude by increasing pitch, maintaining the rate of climb indicator at zero
+rate of climb.” It said to discontinue trimming below 1.5 V. The manual described the recovery
+s
+as follows:
+At ‘stick shaker’ or initial buffet, apply and call out ‘Set Max Power.’
+Simultaneously reduce back pressure sufficiently to stop the stick shaker.
+Fly the airplane out of the buffet. There should be very little, if any,
+altitude loss. The PF should observe the trim changes as the engines
+accelerate.
+The 1988 ABX manual (section 00, pages 54-55) further stated:
+The primary purpose of stall practice is to enable the pilot to avert a
+dangerous stall condition by early stall recognition, followed by immediate
+corrective action. It should be remembered that a stall recovery is
+accomplished by reducing the angle of attack at which the airplane is
+flying. This may be accomplished by a number of ways, but basically by
+(1) lowering the pitch attitude, (2) acceleration produced by adding thrust
+and/or (3) by leveling the wings, if in a bank.
+All stall approaches should be made only to the ‘stick shaker’ or initial
+buffet, whichever occurs first. Points to be stressed are a smooth entry,
+striving for a zero rate of climb, and a prompt, well coordinated recovery
+without inducing a secondary stall. The altitude lost in stall recovery
+depends on the promptness and smoothness of applying the recovery
+technique, i.e., lowering the pitch attitude, applying power and leveling the
+airplane.
+The manual added, “Particular care should be exercised to ensure that the buffet
+has ceased before the airplane is rotated nose up for recovery. Additionally, the controls should
+be moved smoothly to preclude inducing acceleration loads which could cause secondary stall
+indications.”
+According to a draft of a new ABX operating manual, dated October 15, 1996,
+and written by the accident PF, the DC-8 was “designed to have good stall characteristics.
+Longitudinal stability is positive below the stall, and there is a strong pitch down tendency after
+the stall. Light buffet may be felt prior to the stall, although artificial stall warning from the stick
+shaker will occur about 10 percent above the 1 G stall speed.” The manual, which had not been
+approved at the time of the accident, stated that the initial buffet on the DC-8 “occurs very close
+to actual stall speeds.”
+
+25
+Referring to stall recovery techniques, the draft manual stated:
+Points to be stressed are a smooth entry, striving for a zero rate of climb,
+and a prompt, well-coordinated recovery without inducing an accelerated
+secondary stall. Minimal loss of altitude in stall recovery depends upon
+the prompt and smooth application of the recovery technique, i.e.,
+lowering the pitch attitude, applying power and leveling the wings.
+During approaches to stalls, there should be no trimming below the
+minimum maneuvering speed for the given flap configuration.
+Since a heavy jet airplane will not easily accelerate from a stalled or near
+stalled condition without decreasing the angle of attack, some altitude loss
+should be expected. The amount varies depending upon the method of
+entry, power application, timing, smoothness and delicacy with which
+altitude changes are made on recovery.
+The manual also noted that because of the DC-8’s “underslung engine
+configuration, the airplane has a strong pitch-up moment as thrust is increased.”
+A 1970 Douglas DC-8 flight study guide describes a clean stall in the following
+way:
+At ‘stick shaker’ or initial buffet, apply in-flight takeoff thrust and call for
+‘FLAPS 25 (degrees)’ [Flaps to 23 degrees for DC-8 models 62 and 63].
+Simultaneously lower the nose toward the horizon and fly the airplane out
+of the buffet. There should be very little, if any, altitude loss. The student
+should observe the trim change as slots open, flaps extend and engines
+accelerate.”28
+…the minimum altitude for accomplishing stall checks is 18,000 feet msl
+and at least 10,000 feet above the terrain. Stall checks will be
+accomplished only in VFR conditions, and when a natural horizon is
+visible. Stall checks will not be accomplished in turbulent air conditions.
+Delay check until air conditions are more suitable.
+In November 1984, Douglas issued new procedures for “inadvertent approach to
+stall” based on increasing knowledge of and concern about windshear and downdrafts. The
+procedures were first issued for DC-9/MD-80 and DC-10 airplanes, but Douglas noted that the
+“procedure for the DC-8 is similar to these, and reflects our current thinking and
+recommendations.” The following is the 1984 recovery procedure for DC-8s:
+28Recovery procedures with flaps were in effect before windshear avoidance maneuvers (with no configuration
+changes) were instituted in the mid-1980s.
+
+26
+RECOVERY FROM APPROACH TO STALL
+At first indication of approach to stall, simultaneously apply maximum
+available thrust, level the wings and adjust pitch as required to minimize
+altitude loss. In an emergency situation (i.e., encountering a downdraft or
+decreased performance windshear condition), positive climb performance
+and limited maneuver margins still exist at or near stick shaker actuation
+speed. High pitch attitudes are to be expected; however, pitch attitude
+should not be increased so rapidly that airspeed decreases below stick
+shaker actuation speed.
+First indication of approach to stall may be one or any combination of the
+following:
+Rapid decrease of airspeed below bug setting.
+Rapid decrease of climb rate during takeoff or go-around.
+Rapid increase of sink rate during approach.
+Stick shaker or initial stall buffet.
+If ground contact is imminent, apply maximum available thrust (up to
+throttle mechanical stops) for the time required to recover from the
+situation.
+NOTE: After a maximum thrust application (overboost), those engine
+parameters that exceeded the limits and the duration will require a log
+entry.
+At first indication of a stall with the autopilot engaged, immediately
+disconnect the autopilot and initiate stall recovery. Be alert to counteract
+excessive nose-up trim condition.
+1.18.4 Previous Nonroutine Operation DC-8 Accident
+On February 16, 1995, a DC-8-63 operated by Air Transport International (ATI)
+was destroyed by ground impact and fire during an attempted three-engine takeoff at Kansas City
+International Airport in Kansas City, Kansas. Following an investigation of this accident, the
+Safety Board determined that the probable causes of the accident included “the flightcrew’s lack
+of understanding of the three-engine takeoff procedures” …and “the failure of the company to
+ensure that the flightcrew had adequate experience, training and rest to conduct the non-routine
+flight.”29
+29See Aircraft Accident Report—“Uncontrolled Collision with Terrain, Air Transport International, Douglas DC-8-
+63, N782AL, Kansas City International Airport, Kansas City, Missouri, February 16, 1995” (NTSB/AAR-95/06).
+
+27
+As a result of its investigation, the Safety Board issued the following safety
+recommendation to the FAA:
+A-95-39
+Limit operations of engine-out ferry flights to training, flight test or
+standardization flightcrews that have been specifically trained in engine-out
+procedures.
+In response, on July 18, 1995, the FAA issued flight standards information
+bulletin 95-16A, “Flightcrew Training and Qualifications for One-engine Inoperative Ferry
+Flights.” The bulletin directed POIs to inform their respective operators to take additional
+measures to ensure:
+1. That aircraft manual requirements for engine-out ferry flights are clear
+and unambiguous.
+2. That flightcrew training segments are clearly outlined for engine-out
+operations.
+3. That flightcrew members who conduct engine-out ferry flights have
+satisfactorily completed an approved qualification and training
+program specific to the aircraft type within the previous 12 months.
+4. That flightcrew members who conduct engine-out ferry flights are
+recommended by the chief pilot and approved by the POI through a
+letter of authorization.
+The Safety Board determined that the bulletin satisfied the intent of the
+recommendation and, on November 14, 1995, classified A-95-39 “Closed—Acceptable Action.”
+1.18.5 Previous Safety Board Recommendation on Angle of Attack Indicators
+Following a December 20, 1995, fatal accident involving an American Airlines
+(AAL) B-757 near Buga, Colombia, the Safety Board recommended that the FAA:
+A-96-94
+Require that all transport-category aircraft present pilots with angle of attack30
+information in a visual format, and that all air carriers train their pilots to use
+the information to obtain maximum possible climb performance.
+AAL flight 965 struck trees and crashed into the side of a mountain in night visual
+meteorological conditions (VMC) on approach to Cali, Colombia. The airplane was destroyed,
+and all but four of the 163 passengers and crew on board were killed. In an October 16, 1996,
+recommendation letter to the FAA, the Safety Board noted the following:
+30Angle of attack is the angle of the airplane wing to the relative wind. The stick shaker does not provide
+information about the degree to which the angle of attack exceeds a critical level, only that it has. However,
+knowledge that the angle of attack has approached or exceeded the level necessary for the wings to create lift
+effectively is important. In the absence of a stick shaker, the angle of attack can only be estimated indirectly by such
+cues as airplane handling characteristics, buffet or the relationship between pitch attitude, airspeed and G-loading.
+
+28
+Data revealed that the first officer promptly initiated a nose-up elevator
+input after the GPWS warning activated, and continued the nose-up inputs
+until the stick shaker activated. Next, he immediately reduced the pitch
+attitude until the stick shaker stopped. He then increased the pitch attitude
+until the stick shaker again activated, and continued to increase the pitch
+attitude to the stall angle of attack. Had the stick shaker activation angle
+been steadily maintained during the escape maneuver, the airplane may
+have climbed above the initial impact point. The evidence from this
+accident demonstrates that inadequacies in the use of the stick shaker as a
+primary indicator for angle of attack limited the first officer’s ability to
+obtain the maximum climb performance possible from the airplane when it
+was most needed. Although the stick shaker presents effective tactile and
+aural indications of the angle of attack needed to achieve maximum
+performance of the airplane, angle of attack information should be
+presented in a visual and more readily interpretable format. Military
+aircraft have been equipped with angle of attack indicators for many years;
+however, these indicators are not required on civil air transport aircraft.
+Presentation of angle of attack information can enhance pilot control of the
+airplane during takeoffs and climbs, and during maneuvers, such as
+engine-out procedures, holding, maximum range, GPWS encounters,
+windshear and approach and missed approach procedures. The visual
+presentation of angle of attack information in transport-category aircraft,
+combined with pilot training in using this information to achieve
+maximum airplane climb performance, would enhance the ability of pilots
+to extract maximum performance from an airplane.…
+In a December 31, 1996, response to the Safety Board’s letter, the FAA said that it
+had “initiated an evaluation to assess the operational requirements for an angle of attack indicator
+to obtain maximum airplane climb performance. This evaluation will include implementation
+and training requirements, the complexity and cost of the system, and other functions as well as
+indicating the angle of attack for maximum rate of climb. If it is determined that angle of attack
+indicators are warranted, the FAA will take appropriate regulatory action.” Pending the Safety
+Board’s evaluation of the FAA’s completed action, on April 11, 1997, the Safety Board classified
+Safety Recommendation A-96-94 “Open—Acceptable Response.”
+1.18.6 Safety Board Recommendations on Unusual Attitude Recovery Training
+The Safety Board has addressed the need for training in the recognition of and
+recovery from unusual attitudes for nearly 30 years, culminating in the following safety
+recommendation to the FAA:
+
+29
+A-96-120
+Require 14 CFR Part 121 and 135 operators to provide training to
+flightcrews in the recognition of and recovery from unusual attitudes and
+upset maneuvers, including upsets that occur while the aircraft is being
+controlled by automatic flight control systems, and unusual attitudes that
+result from flight control malfunctions and uncommanded flight control
+surface movements.
+The October 18, 1996, safety recommendation letter to the FAA that included
+Safety Recommendation A-96-120 stated that the Safety Board was “convinced that unusual
+attitude training programs would improve the safety of air transport-category aircraft.” It noted
+that several airlines had instituted such “advanced maneuver training” or “selected event
+training” and that these programs “have been enthusiastically accepted by flightcrews.”
+The FAA replied to the Safety Board, in a letter dated January 16, 1997, that it
+agreed with Safety Recommendation A-96-120 and that it was considering a Notice of Proposed
+Rule Making to require that air carriers conduct training that will emphasize recognition,
+prevention, and recovery from aircraft attitudes normally not associated with air carrier
+operations.
+In its review of the FAA response, the Safety Board noted again that while many
+operators are providing training on the recognition, prevention and recovery from attitudes not
+normally associated with air carrier operations, it was not aware of “any training in which the
+unusual attitude was the result of a control system failure” or because “some flight controls
+would not be available for, or would be counterproductive to, the recovery.” The Safety Board
+added, “The Safety Board trusts that the full intent of this recommendation will be addressed in
+the FAA’s final action on this recommendation.” Pending further correspondence with the FAA,
+on July 15, 1997, the Safety Board classified Safety Recommendation A-96-120
+“Open(cid:190) Acceptable Response.”
+
+30
+2. ANALYSIS
+2.1 General
+The three-member flightcrew was properly certificated and qualified in
+accordance with applicable Federal regulations and company requirements. There was no
+evidence that any medical, behavioral, or physiological factor affected the flightcrew on the day
+of the accident. Both pilots were qualified in accordance with Federal regulations and company
+requirements to act as DC-8 PICs and to fulfill the duties of the roles they were assigned,
+although neither the FAA nor ABX had established any additional experience requirements or
+qualifications for flightcrew members to perform FEFs (see section 2.5.3 for a discussion of this
+issue).
+The airplane was properly certificated, equipped and maintained in accordance
+with Federal regulations and approved procedures. There were no open or deferred maintenance
+items listed on the airplane before the accident flight, and there was no evidence that failures of
+the airplane structures, flight control systems or engines contributed to the accident. Other than
+the failure of the stall warning system stick shaker to activate (which is addressed in section
+2.3.1), there was no evidence of mechanical malfunctions. All records for airplane systems
+indicated proper maintenance and normal operation. Airplane logs indicated that all four engines
+had received approved overhaul and noise attenuation modifications. There were no open or
+deferred maintenance items involving the engines and all inspections were conducted within
+required intervals.
+The Safety Board’s analysis of the accident focused on flightcrew performance
+during the accident sequence, and whether the cues presented to the flightcrew, their prior
+experience, the fidelity of the ABX DC-8 flight training simulator, the organizational structure
+and function of ABX, or oversight by the FAA may have affected the flightcrew’s performance.
+2.2 Flightcrew Performance During the Accident Sequence
+2.2.1 Execution of the Stall Recovery
+The purposes of the FEF stall series were to verify that the airspeeds at which the
+airplane experienced stick shaker activation and stall indication were in accordance with
+precalculated values for the DC-8-63 and to determine whether maintenance performed had
+changed any of the airplane’s flight characteristics. A comparison between the CVR transcript
+and the ABX procedures for executing a clean stall (see section 1.18.3) indicates that the
+flightcrew prepared for the stall maneuver generally in accordance with ABX procedures, with
+the exception of their use of pitch trim, which is discussed in section 2.2.3. The PF reduced the
+airspeed into the stall region at approximately the desired rate of 1 knot per second, and he
+increased engine EPR (spooled up the engines) prior to the onset of buffet to provide adequate
+engine acceleration during the recovery.
+
+31
+By 1808:13, 2 seconds after the flight engineer stated, “That’s the stall right there
+* ain’t no shaker,” significant engine thrust had been applied, and the PF had stated, “Set max
+power.” The flightcrew had recognized the incipient stall and initiated the stall recovery in
+accordance with ABX’s procedures. Based on the thrust application and the “Set max power”
+statement of the PF, the Safety Board concludes that the PF made a timely decision to terminate
+the clean stall and begin the stall recovery.
+For 8 seconds following the initiation of the stall recovery, from 1808:13 through
+1808:21, the PF maintained the airplane’s pitch attitude at between 10 degrees and 14 degrees
+ANU. During this 8-second period, the airspeed continued to decrease and the airplane entered a
+fully developed stall.
+The failure of the airplane to recover before entering the full stall resulted from
+the control column inputs the PF was making to maintain pitch attitude. The control column was
+moved aft by the PF, from 5 degrees aft (at 1808:11, just prior to initiating the recovery) to 20
+degrees aft (14 seconds later). An increasingly downward flightpath angle coupled with a
+relatively constant pitch angle resulted in an increasing angle of attack. The increase in angle of
+attack, which placed the airplane farther into the stalled condition, may not have been perceived
+by the flightcrew unless they were closely monitoring the airspeed indicator. In addition, the
+vertical speed indicator and altimeter should have provided evidence of a developing sink rate
+and stall.
+Thereafter, the airplane began a series of roll reversals, and the airplane remained
+in an aerodynamic stall condition because the PF held significant back pressure on the control
+column all the way to impact. Each time the airplane developed a large nose-down pitch rate
+(combined with reductions in airspeed at 1808:25 and 1809:22), the PF responded with
+additional back pressure, according to FDR data on control column movement. In contrast, the
+appropriate pilot response to an uncommanded decrease in pitch attitude (which is, itself, an
+indication that the airplane is in a stall) would have been forward movement of the control
+column.31
+ABX’s stall recovery procedures, established in accordance with FAA standards,
+were used to train line flightcrews to recognize an impending stall and perform a recovery with a
+minimum loss of altitude. The training procedures call for the airplane to be slowly decelerated
+at a constant altitude until stall recognition; i.e., the onset of a pre-stall buffet or activation of the
+stick shaker. Recovery is executed by adding power, reducing pitch attitude slightly (until the
+stick shaker stops) and maintaining heading. Evaluation criteria for the performance of this
+maneuver by line flightcrews during proficiency checks include minimum altitude loss and
+avoidance of a secondary stall (which can be recognized by reactivation of the stick shaker or
+aerodynamic buffet).
+31FDR data on control column position indicated that the elevator controls were not jammed during the loss of
+control sequence. There was forward and aft movement of the column, but the column was moved forward of the
+10-degree nose-up position only once, momentarily.
+
+32
+The flightcrew had initiated the clean stall maneuver at 13,500 feet, within a block
+altitude range of 13,000 feet to 15,000 feet. Their use of the lowest 500 feet of the block altitude
+indicated that the flightcrew anticipated recovering from the stall with a minimum altitude loss,
+just as they were accustomed to performing and instructing the standard ABX stall maneuvers in
+the simulator. Further, their execution of the clean stall only slightly above the cloud tops
+suggests that the flightcrew did not anticipate the possibility of greater altitude loss.
+Pilots control airplanes, including in stall recoveries, by first establishing
+appropriate pitch attitudes and power settings, then monitoring the effects of pitch and power on
+the performance instruments, such as the airspeed and vertical speed indicators. Although the PF
+attempted to establish his desired pitch attitude and power setting, he failed to recognize that
+these initial pitch and power inputs were inadequate for the stall recovery he was executing, and
+he failed to take further action to correct for the decreasing airspeed and developing sink rate.
+Allowing the control column to move forward would have stopped the airspeed loss, and the
+airplane would have recovered from the stall. However, he failed to do so. The Safety Board
+concludes that the PF applied inappropriate control column back pressure during the stall
+recovery attempt in an inadequate performance of the stall recovery procedure established in
+ABX’s operations manual, and these control inputs were causal to the accident.
+Further, although the stall recovery procedure established by ABX cautioned
+pilots to relax enough control column back pressure to avoid secondary stalls during the
+recovery, the Safety Board notes that the objective of a minimum altitude loss procedure,
+including the ABX procedure, is to use the minimum reduction in pitch attitude required to
+recover from the stall. As such, the minimum altitude loss stall recovery procedure places the
+airplane at a more critical angle of attack and drag configuration during the initial recovery from
+the stall, compared to an alternative procedure that uses a greater pitch reduction and trades a
+greater altitude loss for a more rapid reduction in angle of attack and increase in airspeed.
+ABX’s role in specifying the type of stall recovery procedure to be used during FEFs is discussed
+in section 2.5.1.
+2.2.2 Buffet Onset and Stall Speeds
+Prior to executing the clean stall maneuver, the flightcrew calculated the airspeed
+values at which the stall warning stick shaker should activate and the airplane should stall, based
+on their estimates of the airplane’s weight at the time the maneuvers began. According to ABX
+procedures, the flightcrew would have used a table to look up the value for 1.5 V (1.5 times the
+s
+stall speed in the clean configuration based on the airplane’s weight), the airspeed below which,
+according to ABX procedures, the flightcrew should not apply additional nose-up pitch trim; then
+the flightcrew would have divided this value by 1.5 to calculate the expected stall speed. They
+would have then calculated the expected stick shaker activation speed, according to ABX
+procedures, by multiplying the stall speed by 1.05.
+According to the CVR, at 1805:56 the PNF said, “one eighty four [1.5 V ], and…
+s
+we should get uh, stall at uh, one twenty two.” Based on this stall speed calculation, the
+flightcrew would have expected the stick shaker to activate at 128 knots.
+
+33
+The flightcrew noted “some buffet” at 1808:06 and appeared surprised that the
+buffet had begun at the existing airspeed of 149 knots (the PNF stated, “That’s pretty early”).
+DC-8-63 performance certification test data provided by Douglas indicate that an aerodynamic
+stall is typically preceded by aerodynamic buffet about 15 knots above the stall speed. Therefore,
+the nominal airspeed for the buffet to have begun on the accident flight would have been 137
+knots; based on these data, the buffet apparently began about 12 knots early.
+Because the pre-stall buffet began at an airspeed greater than the flightcrew
+expected, the Safety Board evaluated three factors that could have affected the airspeeds for both
+pre-stall buffet and stall during the accident flight: the weight of the airplane, airframe icing, and
+flight control surface rigging.32
+The aircraft log page for December 22, 1996, which would have included the
+flightcrew’s entries for aircraft weight and the amount of fuel aboard at departure, was not
+recovered in the wreckage. However, based on the stall speed stated by the flightcrew on the
+CVR (122 knots), the crew believed the weight of the aircraft to have been approximately
+200,000 pounds at the time they began the stall maneuver. FDR data on the performance of the
+airplane during its takeoff on the accident flight were consistent with the flightcrew’s
+calculations of the airplane’s weight and stall speed. Therefore, the Safety Board concludes that
+aircraft weight and balance were not a factor in the greater-than-expected buffet onset speed.
+Further, based on the Safety Board’s estimates of weight and balance for the accident flight,
+which were developed using ABX records of the basic operating weight of N827AX and the fuel
+weight remaining after the December 21 FEF, the Safety Board concludes that the airplane was
+loaded within its approved weight and balance limits during the accident flight.
+The flight had been operating at least intermittently in the cloud tops and below-
+freezing air temperatures, where weather conditions were conducive to light-to-moderate icing
+for a brief period before the attempted stall maneuver. The flightcrew’s statements on the CVR,
+at 1748:34, indicate that the airplane was accumulating airframe ice. Recorded comments of the
+flightcrew further indicated that the airplane departed from the icing conditions shortly thereafter.
+The Safety Board was unable to determine the amount of airframe ice that the airplane would
+have accumulated during this period. However, airframe icing could have caused the airplane to
+buffet at a greater airspeed than the flightcrew expected.
+The buffet and stall speeds also could have been affected by the rigging of the
+airplane’s flap and aileron control surfaces. These control surfaces had been re-rigged prior to
+the FEFs of December 21 and 22, 1996, as a routine part of the overhaul of N827AX. One of the
+purposes of performing the stall series during the post-modification FEF was to verify that
+control surface rigging was proper by comparing calculated stick shaker activation and stall
+speeds to the airspeeds at which the airplane actually encountered these events.
+32Stall speed is an increasing function of an airplane’s weight. An accumulation of ice on the lift-producing surfaces
+of an airplane can increase the stall speed by altering the shape of these surfaces. A control surface that is rigged at
+or beyond the forward (retracted) tolerance limit decreases the airplane’s wing area and the camber (curvature) of the
+wing, increasing the stall speed. Also possibly affecting the stall speed are load factor (vertical G), aileron
+deflection, spoiler deflection, sideslip, and smoothness of the wing leading edge.
+
+34
+Consequently, like airframe icing, variations in flap and aileron rigging could
+have caused the airplane to buffet at a greater airspeed than expected. The Safety Board was
+unable to determine the extent to which these possible conditions individually contributed to the
+early onset of buffet, but concludes that some combination of airframe icing, flight control
+rigging, or other factors resulted in the greater-than-expected buffet onset speed.
+However, the Safety Board’s analysis of FDR parameters indicated that the actual
+stall occurred at 126 knots, only four knots greater than the stall speed calculated by the
+flightcrew.33 Therefore, despite the early onset of aerodynamic buffet, the Safety Board
+concludes that any effects of airframe icing or flight control rigging upon the stall speed of the
+accident airplane were minimal, and did not contribute to the accident.
+2.2.3 Flightcrew’s Mis-trim of the Airplane
+At 1807:43, when the FDR data indicated the airspeed was decreasing through
+173 knots, the PF stated, “Guess I better not trim below * two *.”34 However, ABX procedures
+for the clean stall maneuver required that he stop trimming the airplane’s nose up at 1.5 V (184
+s
+knots for the accident flight).
+Based on the measured position of a horizontal stabilizer trim jackscrew found at
+the accident site, the stabilizer was trimmed to the 8-degree ANU position. Simulations and
+calculations conducted by Douglas based on the accident airplane’s weight and CG location
+show that an 8-degree ANU trim would result in a trim speed of about 175 knots.
+The effect on the stall recovery of trimming the airplane to a slower airspeed than
+desired would have been to require more forward control column movement to achieve the
+desired nose-down pitch rate and recover from the stall. However, because the airplane’s 175-
+knot trim speed was significantly greater than the 126 knot stall speed, additional control column
+back pressure was required from the PF to slow the airplane to the stall speed, and the airplane
+would have rapidly recovered from the stall if the PF had relaxed his back pressure on the control
+column. Therefore, the Safety Board concludes that although the PF trimmed the airplane below
+the recommended minimum trim speed for the clean stall, this action did not contribute to the
+accident.
+2.2.4 Monitoring and Challenging by the PNF
+Because both pilots were qualified to act as a DC-8 captain at ABX, the Safety
+Board evaluated flight records, the flightcrew’s previous experience with check flights and
+flightcrew statements on the CVR to determine whether the PNF was serving as the pilot-in-
+command of the accident flight and instructing the PF from the right seat.
+The ABX aircraft log page for the FEF of December 21, during which the two
+pilots had flown in the same seating positions as on the accident flight, had the PF’s name
+33According to FDR data, an aerodynamic stall occurred between 18:08:21 and 18:08:22.
+34When transcribing CVR recordings, the Safety Board uses an asterisk to signify an unintelligible word.
+
+35
+entered in the “Captain” block. However, that log page was ambiguous as to who had been the
+PIC of the December 21 flight because the PNF signed for the airplane in the “Captain’s
+signature” block. The aircraft log page for the accident flight was not recovered.
+The PNF had previous experience as the SIC of several DC-8 post-modification
+FEFs, while the FEFs of December 21 and 22 were the first exposure of the PF to post-
+modification FEF procedures. Although it is typical for the left seat pilot to fulfill the role of the
+PIC, flight instruction can be conducted from the right seat, and the flight instructor usually
+serves as the PIC.
+Flightcrew comments recorded on the CVR during the set-up for the clean stall
+maneuver and the unpowered controls V 35 check that preceded it, revealed that the PNF
+mc
+directed the PF, while the PF expressed uncertainty and asked questions. Further, several of the
+communications from the PNF to the PF were instructional in nature. Based on these
+communications and the PF’s lack of any prior experience with a complete DC-8 post-
+modification FEF, the Safety Board concludes that the PNF, in the right seat, was serving as the
+pilot-in-command of the accident flight and was conducting instruction in FEF procedures; and
+that the PF, in the left seat, was serving as the second-in-command and was receiving instruction
+in FEF maneuvers, including the clean stall maneuver.
+During the attempted stall recovery, there were several indications of the PF’s
+excessive aft control column inputs that should have suggested to the PNF that, as the PIC, he
+needed to correct the control inputs and recover from the stall. These included the position of the
+control column, which was, at times, being held in the full aft position by the PF; continued
+aerodynamic buffet; the extreme pitch down moments (stall breaks) accompanied by roll-off into
+steep bank attitudes; engine compressor surges; and the instrument indications of low airspeed
+and high rate of descent. The Safety Board evaluated why, despite these cues, the PNF did not
+take control of the airplane or otherwise intervene effectively as the PF held the airplane in a
+stalled condition all the way to impact.
+The reduced effectiveness of the monitoring and challenging of one crew member
+by another when each is qualified as captain has been recognized in previous accidents
+investigated by the Safety Board.36 In this accident, both pilots were captains, both were
+managers, and both had similar backgrounds at ABX. In this kind of crew pairing, it may be
+difficult for one captain to challenge the actions of the other because of a lack of overt command
+authority.
+The PNF’s role as an instructor pilot during the FEF maneuvers should have
+clarified the roles and responsibilities of the two pilots. As the instructor, his pilot-in-command
+authority should have been enhanced, and it should not have been difficult for him to exercise
+direct control to ensure the safety of the flight. However, the PNF’s instructional role, like his
+35V is defined as minimum controllable airspeed with critical engine inoperative.
+mc
+36For example, see Aircraft Accident Report—“Midwest Express Airline, Inc., DC-9-14, N100ME, General Billy
+Mitchell Field, Milwaukee, Wisconsin, September 8, 1985” (NTSB/AAR-87/-1); and Aircraft Accident/Incident
+Summary Report—“Controlled Flight into Terrain, GP Express Airlines, Inc., N115GP, Beechcraft C99, Shelton,
+Nebraska, April 28, 1993” (NTSB/AAR-94/01/SUM).
+
+36
+command role, was informal on this flight. Therefore, his command and instructional authority
+may have remained unclear.
+Further, instructors often prefer to “talk” a student through a recovery, rather than
+take over the controls. This milder, verbal intervention can be carried too far if instructors are
+overconfident about their students’ or their own ability to recover at the last moment, or if they
+lose their awareness of impending danger.
+In this accident sequence, early in the recovery attempt at 1808:30, the PNF made
+a helpful comment to the PF, “You can take a little altitude down, take it down [that is, give up
+altitude to facilitate the stall recovery].” However, when the PF did not respond adequately, the
+PNF did not escalate his verbal interventions or take over the controls. During the uncontrolled
+descent, the PNF continued to provide suggested control inputs to the PF, but the PNF never told
+the PF to move the control column forward.
+It is possible that the PNF’s priorities changed after the extreme rolling moments
+developed. The PNF may have become less concerned about angle of attack, and the reduction
+of pitch attitude may have become a secondary priority to roll attitude control. Throughout the
+recovery sequence, the PNF made several statements to the PF to help direct him out of the roll
+situation (but not out of the stall condition), and he remained in an instructional role up to the
+time of impact. During this period, the PNF also took time to respond to a query from ATC
+pertaining to the airplane’s rapid descent below its assigned block altitude floor. Based on the
+PNF’s lack of urgency in correcting the PF’s control inputs and the PNF’s radio transmissions
+with ATC, he apparently lost awareness of the flight’s descent rate and proximity to the ground.
+The Safety Board concludes that the PNF’s failure, as the pilot-in-command, to recognize,
+address and correct the PF’s inappropriate control inputs were causal to this accident.
+2.3 Cues Presented to the Flightcrew
+The Safety Board evaluated the adequacy of the cues that were presented to the
+flightcrew and the role of distraction as possible contributors to the flightcrew’s failure to recover
+from the stall. The Board examined the cues that were presented to the flightcrew by the
+airplane’s flight deck instrumentation and engines, and the flightcrew’s visual references to the
+natural horizon based on the existing weather and light conditions.
+2.3.1 Stall Warning System
+The stall warning system stick shaker failed to activate during the accident
+sequence at the appropriate margin above the stall and during the full stall that followed.
+According to Douglas, DC-8 models up to the -61 series provided an adequate margin between
+the buffet and stall in the clean configuration, so they did not require the artificial stall warning of
+the stick shaker. However, the stick shaker was needed to fulfill the certification requirements
+for adequate pre-stall warning on subsequent DC-8 models, including the accident airplane (a
+DC-8-63).
+
+37
+Despite these requirements, ABX FEF pilots told Safety Board investigators that
+the stick shaker activated inconsistently relative to the onset of pre-stall buffet during the clean
+stall maneuver, sometimes activating prior to buffet, but in some cases activating simultaneously
+with buffet or after the buffet had begun. According to the ABX director of flight technical
+programs, FEF flightcrews were told that they should be prepared for the stick shaker not to
+activate before the stall during the clean stall maneuver. Further, the CVR transcript indicates
+that the flightcrew had clearly identified a stall buffet and that they initiated a recovery in a
+timely manner. Consequently, the Safety Board concludes that the absence of the stick shaker
+prior to the stall did not affect the flightcrew’s recognition of the initial entry into the stall.
+However, the Safety Board is concerned that the stick shaker failed to activate at
+any time during the full stall that followed. Given the extreme angles of attack that were
+eventually attained prior to impact, the stall warning system clearly was inoperative.
+The Safety Board attempted to determine why the airplane’s stick shaker stall
+warning system did not activate. Douglas records indicated that the airplane’s stall warning
+system functioned in accordance with its design specifications when it was delivered in 1967.
+Preflight cockpit checks before the accident flight indicated that the airplane’s stall warning
+system was operational; however, the preflight check of this system (using the test switch located
+on the flight deck overhead panel) does not test the stall warning system’s wing-mounted angle
+of attack sensor and transducer. According to TIMCO records of the maintenance work
+performed on N827AX, a test was performed on the sensor and transducer by TIMCO on
+December 5, 1996; this test was more extensive than the preflight check, but it did not include
+verification of the stall warning system transducer’s calibration with a measured-force applicator
+or a functional check of the lift computer. Because stall warning components found at the
+accident site were destroyed, the recovered components provided no evidence about the system’s
+status and function. Consequently, the Safety Board was unable to identify the failure mode of
+the stall warning system.
+Although it did not hamper the initial identification of the stall, the absence of a
+stick shaker warning may have been confusing for the flightcrew. The pilots’ training and
+experience would have made them expect a stick shaker cue during the period the airplane was in
+a stalled condition. They were trained to respond to the stick shaker by adding power and
+reducing control column back pressure until the stick shaker ceased.
+During the first moments of the recovery attempt, an operative stick shaker would
+have provided the flightcrew with cues about the ineffectiveness of the PF’s recovery efforts
+which could have alerted the pilots that the angle of attack needed to be further reduced.
+Similarly, if the flightcrew had received the expected cues from the stick shaker as the airplane
+subsequently was flown farther into the stall, the PF may have responded with more aggressive
+stall recovery actions, and the PNF would have received a stronger signal to intervene.
+It is even possible that, in the absence of the stick shaker warning, the flightcrew
+may have gradually lost the perception that the airplane was stalled (especially in the latter stages
+of the accident sequence when the airplane was descending in an accelerated stall condition at
+
+38
+high airspeed and positive G load) and may have been attempting to perform a high airspeed,
+nose-low unusual attitude recovery. The unusual attitude recovery procedure calls for engine
+thrust to be reduced to idle and primary attention to be focused on leveling the wings; FDR
+engine thrust parameters and the flightcrew’s statements about lateral control recorded by the
+CVR were consistent with this procedure. The Safety Board concludes that the inoperative stall
+warning system contributed to the accident by failing to reinforce to the flightcrew the
+indications that the airplane was in a full stall during the recovery attempt. Further, based on the
+circumstances of this accident, the Board is concerned that existing air carrier maintenance
+programs may not ensure that stall warning systems are adequately checked during scheduled
+maintenance. Therefore, the Safety Board believes that the FAA should require Douglas Aircraft
+Company to review and amend the stall warning test procedures in the DC-8 maintenance
+manual and maintenance planning document to include regular calibration and functional checks
+of the complete stall warning system.
+2.3.2 Angle of Attack Instrumentation
+A flight deck display of angle of attack would have maintained the flightcrew’s
+awareness of the stall condition, and it would have provided a direct indication of the pitch
+attitudes required for recovery throughout the attempted stall recovery sequence in this accident.
+The Safety Board recognizes that, in response to Safety Recommendation A-96-94 (see section
+1.18.5), the FAA is currently evaluating the operational requirements for angle of attack
+instrumentation on transport-category aircraft. However, the Safety Board concludes that this
+accident might have been prevented if the flightcrew had been provided a clear, direct indication
+of the airplane’s angle of attack. Therefore, the Safety Board reiterates Safety Recommendation
+A-96-94.
+2.3.3 Engine Compressor Surges
+Distraction may have also played a role in the flightcrew’s failure to recover from
+the stall. The engine compressor surges that began at 1808:20 (as a result of the disruption of air
+flow though the No. 2 engine at the prevailing high angle of attack)37 were loud and potentially
+distracting during this critical period (the airplane stalled 1 second later, according to FDR data).
+The flightcrew responded to the surges by reducing power on all four engines, but to differing
+degrees: at 18:08:27, EPR levels on the No. 1 and No. 2 engines decreased to 1.39 and 1.04,
+respectively. EPR levels on the No. 3 and No. 4 engines were reduced to 1.66 and 1.73,
+37EPR data recorded on the FDR for the period when the PF advanced power to spool up the engines just prior to
+buffet onset indicate a very slight power increase at that time for all four engines. However, the EPR readings were
+split, with the No. 2 engine 0.17 EPR less than the No. 4 engine, and 0.14 and 0.12 EPR less than the Nos. 1 and 3
+engines, respectively. An engine that is inadequately spooled may be more subject to engine compressor surges and
+may accelerate more slowly when power is advanced, resulting in yawing and rolling moments. Although the EPR
+split prior to buffet onset might have indicated that the No. 2 engine (which subsequently experienced engine
+compressor surges) was inadequately spooled for the stall recovery, the FDR data for the No. 2 engine EPR
+displayed inconsistencies throughout the accident flight and the preceding FEF. At times it matched the EPR of the
+other engines, but at other times it stabilized both above and below them. The Safety Board was unable to determine
+whether the slightly lower EPR on the No. 2 engine at spool-up represented an instrumentation error or a difference
+in the spooling of the engine.
+
+39
+respectively, with resultant asymmetrical thrust. At this time, the airspeed had dropped below
+the stall speed of 126 knots with the airplane still in a 10-degree nose-up attitude.
+During the roll reversals that began at 1808:30 and that continued until impact,
+and with the airplane rolling at angles from -70 degrees to +115 degrees, the flightcrew’s
+attention was most likely focused on their inability to control the airplane’s roll attitude. It is
+possible that the pilots perceived the roll reversals to be caused by pilot-induced oscillations from
+rudder inputs out-of-phase with the airplane’s roll/yaw moments. If so, the PF may have been
+devoting a great deal of attention to the increasing mismatch between his rudder control inputs
+and the airplane’s roll attitude.
+The Safety Board was unable to assess the precise role of asymmetric power in
+generating the rolling moments. The airplane’s lateral stability would have been reduced, and its
+sensitivity to rudder-induced sideslip would have been increased. In the stall condition that
+prevailed on the accident flight; both of these factors (engine surges and rudder inputs) could also
+have been responsible for the rolling moments. However, the Safety Board concludes that the
+engine compressor surges in the No. 2 engine (caused by airflow disruption) may have distracted
+the flightcrew during the critical early period of the stall recovery, when sufficient lateral control
+was available for the recovery.
+2.3.4 Ambient Lighting, Visibility, and Cloud Clearance
+Although IMC prevailed for parts of the night flight, the accident airplane was in
+VMC above a cloud layer when the flightcrew began the stall series. However, based on weather
+satellite data and almanac information, the Safety Board concludes that the flightcrew did not
+have a clearly visible natural horizon because of darkness and clouds above and below the
+airplane, and that the airplane most likely encountered IMC soon after descending through
+13,500 feet and remained in IMC until just before impacting terrain.
+As a result of their initiating the maneuver with minimum clearance from clouds,
+the flightcrew was immediately forced to rely on instrument references for the stall recovery
+when the airplane entered a full stall and started a steep descent. The Safety Board recognizes
+that the artificial horizon on the electronic flight instrument system (EFIS) display facilitates
+precise attitude control and orientation in extreme pitch and roll attitudes. However, the natural
+horizon may have provided a more rapid orientation for the flightcrew in the range of +10/-20
+degrees pitch and +/-70 degrees roll, which the airplane experienced during the early stages of
+the loss of control, because a natural horizon would have been visible through the airplane’s
+windshield in this range of pitch and roll attitudes. Other air carriers and manufacturers require
+that a natural horizon be visible during approach to stall or stall characteristics checks. The
+Safety Board concludes that by conducting these maneuvers without a visible natural horizon, the
+flightcrew was deprived of an important flight attitude reference that would have aided in their
+recovery from a full stall. The role of ABX in regard to this issue is discussed in section 2.5.2.
+
+40
+2.4 Simulator Fidelity and Training for Stall Recovery Procedures
+The Safety Board’s evaluation of the ABX DC-8 simulator indicated that the
+simulator did not reproduce the stall characteristics of the DC-8 with fidelity. For example, when
+slowed to below the airspeed of stick shaker activation, the simulator developed a stable, nose-
+high, wings-level descent, with no tendency to pitch down in a stall break (abrupt nose-down
+pitch or roll). In contrast, according to Douglas and ABX manuals and the FDR data from the
+accident flight, the actual DC-8 airplane’s stall characteristics include a pronounced stall break.
+Further, after slowing well below stall speed, the simulator entered a mode in which the
+aerodynamic buffet stopped and the airspeed did not continue to decrease.
+The simulator’s benign flight characteristics when flown more into the stall
+provided the flightcrew with a misleading expectation of the handling characteristics of the actual
+airplane. The PF’s initial target pitch attitudes during the attempted stall recovery (from 10
+degrees to 14 degrees) may have resulted in a successful recovery during his practice and
+teaching in the simulator. Further, because their experience with stalls in the DC-8 was obtained
+in a simulator without a stall break, the PF and PNF could not practice the nose-down control
+inputs required to recover a stalled airplane that is pitching down or at a nose-low attitude.
+Moreover, because the PF and PNF were exposed during extensive simulator experience to what
+they presumed was the stall behavior of the DC-8, the stall break that occurred in the airplane
+most likely surprised them. The Safety Board concludes that the flightcrew’s exposure to a low
+fidelity reproduction of the DC-8’s stall characteristics in the ABX DC-8 flight training simulator
+was a factor in the PF holding aft (stall-inducing) control column inputs when the airplane began
+to pitch down and roll, which contributed to the accident.
+The Safety Board has previously expressed concerns about the inadequate fidelity
+of air carrier pilot training simulators and their deficiencies in reproducing handling
+characteristics of an airplane during specific maneuvers.38 The FAA does not require air carrier
+flightcrews, for example, to be trained in full or deep stall maneuvers, and simulators are not
+required to be programmed to provide fidelity farther into the stall than the initial buffet or stick
+shaker.39 Consistent with FAA requirements, simulator manufacturers do not routinely obtain
+accurate data about airplane stall characteristics from airplane manufacturers.40
+However, the Safety Board is aware that for many airplane types (including the
+DC-8), data obtained from stall maneuvers performed during the certification process could be
+used to improve the fidelity of stall characteristics in air carrier flight simulators. Further, the
+stall phase of the flight envelope is one that has received increasing attention in air carrier pilot
+training through the advent of “advanced maneuver” or “selected event” training programs.41
+38See Aircraft Accident Report—“Runway Departure During Attempted Takeoff, Tower Air flight 41, Boeing 747-
+136, N605FF, JFK International Airport, New York, December 20, 1995” (NTSB/AAR-96/04); and Aircraft
+Accident Report—“Uncontrolled Collision with Terrain, Air Transport International, Douglas DC-8-63, N782AL,
+Kansas City International Airport, Kansas City, Missouri, February 16, 1995” (NTSB/AAR-95/06).
+39See FAA Advisory Circular 120-40B, “Airplane Simulator Qualification.”
+40However, regardless of the level of simulator approval, a flight training simulator is required to provide “stall
+buffet to, but not necessarily beyond the FAA certified stall speed, V.”
+s
+41See section 1.18.6.
+
+41
+Improved simulator fidelity may therefore benefit all pilots and passengers. The Safety Board
+believes that the FAA should evaluate the data available on the stall characteristics of airplanes
+used in air carrier service and, if appropriate, require the manufacturers and operators of flight
+simulators used in air carrier pilot training to improve the fidelity of these simulators in
+reproducing the stall characteristics of the airplanes they represent to the maximum extent that is
+practical; then add training in recovery from stalls with pitch attitudes at or below the horizon to
+the special events training programs of air carriers.
+2.5 ABX Organizational Structure and Function
+2.5.1 Failure of ABX to Use Revised FEF Stall Recovery Procedures
+According to the POI, a revision to the FEF stall recovery procedure was agreed
+upon by ABX and the FAA promptly following a 1991 loss-of-control incident during an ABX
+DC-8 post-modification FEF. The revised FEF stall recovery procedure stressed a positive
+reduction of pitch attitude to rapidly decrease the angle of attack below the critical stall angle
+before the application of engine power. In calling for a more positive reduction of pitch attitude,
+the revised procedure eliminated the emphasis of the standard ABX stall recovery procedure on
+minimum altitude loss.
+The POI stated that the revision was accepted on behalf of ABX by the pilot who
+was the DC-8 flight standards manager in 1991, who had also been the PIC of the incident flight.
+The POI said that the director of flight technical programs had little involvement in the DC-8
+FEF program at that time.42 The POI described the revision to the ABX FEF stall recovery
+procedures in a letter to an FAA inspector at the Winston-Salem FSDO. He told Safety Board
+investigators that he could not recall whether he had sent a copy of this letter to ABX, although
+he was certain that the revised procedures had been covered during meetings and simulator
+sessions with ABX. He stated that he believed the revised FEF stall recovery procedures to have
+been a permanent change.
+The DC-8 flight standards manager (who held the position in 1991) told Safety
+Board investigators that he had immediately begun using the revised FEF stall recovery
+procedures after the 1991 incident. This use was confirmed in interviews with flightcrew
+members who had served as second-in-command and flight engineer on many of his flights.
+According to ABX records, the DC-8 flight standards manager performed most of the DC-8 post-
+modification FEFs (which involved stalls) from 1991 through 1994, while the director of flight
+technical programs performed a limited number during that period.
+The POI recalled that at some time following the 1991 incident (he did not
+remember precisely when) the director of flight technical programs had voiced disagreement
+about the need to change the FEF stall recovery procedures. The POI said that he was not
+42ABX records indicate that the director of flight technical programs was on extended sick leave for some periods in
+1989 and 1990, and he did not log flight time at ABX between February 19, 1990, and February 14, 1991. From
+March 1991 to August 1992, he was extensively involved in the ABX DC-9 FEF program. He returned to DC-8
+flying in August 1992, and conducted two post-modification FEFs in the DC-8 through 1994.
+
+42
+concerned about this disagreement because, at that time, the director of flight technical programs
+had a limited role in the DC-8 FEF program.
+The director of flight technical programs also confirmed to Safety Board
+investigators his belief that the stall recovery procedures contained in ABX’s operations manual
+were adequate for FEFs if performed with sufficient attention to engine spooling. He had
+continued to use these stall recovery procedures when he flew FEFs. After the DC-8 flight
+standards manager, who had adopted the revised FEF procedure, returned to line flying in 1994
+and was replaced by the accident PNF, the director of flight technical programs trained the
+accident PNF using the original stall recovery procedure. The accident PNF, in turn, trained the
+accident PF.
+The Safety Board notes that some provisions of the revised procedure were
+implemented and used during the accident flight, although the manner in which they were used
+confirmed that the flightcrew was attempting the original, minimum altitude loss stall recovery.
+For example, the flightcrew used the block altitude clearance designed to provide sufficient
+altitude for stall recoveries involving greater altitude loss. However, they only obtained a 2,000-
+foot block, rather than the 3,000-foot to 5,000-foot block specified in the revised procedure. In
+addition, they conducted the stall 500 feet above the bottom of the altitude block and only
+slightly above the clouds. The flightcrew also referred to engine spooling. Further, although
+both pilots received simulator training during their informal qualification as FEF pilots, ABX did
+not implement a simulator session prior to each FEF, which was also specified by the POI.
+Despite its partial implementation of the revised procedure, the statements of the
+director of flight technical programs and the actions of the accident flightcrew show that ABX
+ultimately did not institutionalize the technique of exchanging altitude for a more rapid stall
+recovery, and thus failed to take advantage of the valid lessons of the 1991 DC-8 FEF loss-of-
+control incident. The revised FEF stall recovery procedure (temporarily adopted by the DC-8
+flight standards manager) was designed to provide an immediate stall recovery and prevent the
+occurrence of engine compressor surges (which occurred in the 1991 loss-of-control incident and
+on the accident flight). In contrast, the minimum altitude loss stall recovery procedure contained
+in ABX’s DC-8 operations manual re-instituted by the director of flight technical programs
+extended the airplane’s operation at a critical angle of attack and added significant exposure to
+the distracting and destabilizing effects of engine compressor surges.
+The Safety Board concludes that the accident could have been prevented if ABX
+had institutionalized and the flightcrew had used the revised FEF stall recovery procedure agreed
+upon by ABX in 1991. The Safety Board believes that the FAA should ensure that ABX
+explicitly incorporates the revised FEF stall recovery procedure (that was agreed upon in 1991 by
+ABX and the FAA), or an equivalent procedure, in its DC-8 FEF program.
+2.5.2 FEF Conditions and Limitations Guidance
+ABX had no specific prohibition against conducting an FEF at night. In addition,
+the pilots’ direct supervisor, the director of training and standards, stated that he had conducted
+
+43
+FEFs at night and that he would have approved the operation of the accident flight at night had
+he been asked by the flightcrew. ABX’s director of flight technical programs also stated that he
+had conducted several FEFs at night, although he said that he preferred to conduct the flights
+during the day. In contrast to this practice at ABX, procedures established by a major U.S.
+airplane manufacturer for the first flight43 after a major modification stated, “If a flight cannot
+depart on time to be completed by nightfall, then it should be rescheduled for the next morning.”
+Although ABX had set weather minimums for FEF takeoffs, no weather
+minimums were established by ABX for maneuvers performed at higher altitudes and beyond the
+vicinity of an airport, such as a stall series. Further, the guidance provided by ABX to
+flightcrews for the performance of the clean stall maneuver specified a minimum altitude of
+10,000 feet agl; a maximum altitude of 15,000 feet msl was also specified. However, no
+requirements were established by ABX for ambient lighting conditions, visual references, or
+distance from cloud tops. (The director of flight technical programs told Safety Board
+investigators that he preferred the stall series not to be performed in IMC.)
+In contrast, manuals of two airplane manufacturers reviewed by the Safety Board
+limited the stall maneuver to daylight hours. The Douglas Aircraft Company production flight
+minimums further specified maximum cloud tops of 5,000 feet msl, with at least 5,000 feet
+clearance from clouds for performance of the stall series. In addition, the Douglas manual stated
+that the stall series should be performed in VMC with a visible natural horizon. This restriction
+to a stall recovery using visual references was echoed in the manuals of two of the three air
+carriers reviewed by the Safety Board.
+Further, according to Douglas, the approved tolerance for DC-8 stick shaker
+activation was within 5 knots of the calculated stick shaker activation speed. Similarly, a major
+manufacturer’s flight evaluation profile stated that an evaluation flight should be terminated if
+the stick shaker has not actuated 5 knots below the computed value. Although the ABX “Flight
+Test Report” provided acceptable tolerances for some evaluation items, it did not provide the
+acceptable tolerances for the stick shaker and stall tests or a further explanation of the maneuver.
+The establishment of those tolerances would have helped the crew of the accident flight to
+identify an inoperative stick shaker and possibly preclude entry into a full stall.
+The Safety Board concludes that ABX’s failure to require completion of an FEF
+by sundown or to establish adequate limitations on ambient lighting and weather conditions led
+the flightcrew to attempt the stall series in the absence of a natural horizon, and contributed to the
+accident. Further, based on its review of the provisions of selected air carrier and manufacturer
+manuals, the Safety Board concludes that there is a lack of consistency across the industry in the
+conditions and limitations for conducting FEFs and associated approach to stall maneuvers.
+Consequently, the Safety Board believes that the FAA should develop an advisory circular
+(AC)44 that provides guidance to air carriers on the appropriate conditions, limitations and
+43Because the functional check flight on December 21, 1996, was terminated prematurely because of mechanical
+problems and the flight control tests (including the stall series) were not completed, the Safety Board considers the
+accident flight to be the continuation of the “first flight” following major modification.
+44An FAA advisory circular provides nonregulatory guidance to certificate holders for a means, but not necessarily
+the only means, of complying with Federal Aviation Regulations.
+
+44
+tolerances for the performance of FEFs and the specific maneuvers performed during these
+flights, including approaches to stall.
+2.5.3 Training of Flightcrews for Nonroutine Operations
+Although the pilots of the accident flight had less PIC experience in the DC-8 and
+less recent flying experience than many other pilots who did not have management
+responsibilities, the Safety Board was unable to identify any link between these measures of
+experience and the flightcrew’s performance during the accident flight. As a result of their
+instruction and check airman duties, both pilots were well-acquainted with ABX procedures for
+conducting a stall in the clean configuration. However, an analysis of the accident pilots’ recent
+flight experience showed that the PF had no experience as a pilot on a post-modification DC-8
+FEF before the first evaluation flight on December 21, 1996. Although the PNF, who was the
+PIC on the accident flight, had been trained to conduct post-modification DC-8 FEFs by the
+director of flight technical programs 2 years before the accident, he had never served as PIC on a
+post-modification DC-8 FEF prior to December 21. In addition, the director of flight technical
+programs had operated the controls during most of the maneuvers in previous evaluation flights,
+while the accident PNF had occupied the right seat. The clean stall maneuver was performed by
+ABX pilots in the airplane only during post-modification FEFs. Therefore, neither pilot involved
+in the accident had performed the clean stall maneuver in a DC-8 airplane before the accident
+flight.
+The ABX director of flight technical programs developed the flight evaluation
+profile for the DC-8 fleet specifying the maneuvers to be performed during FEFs. The form
+describing this profile, however, consisted only of a list of maneuvers with space provided for
+entering evaluation data during the flight. Limited guidance on the performance of FEF
+maneuvers was included on the form or in any other ABX publication. Training for FEFs was
+informal and undocumented, and ABX had established no specific training or proficiency
+requirements for pilots conducting FEFs.
+The informality of its FEF training program led ABX to fail to recognize that a
+post-modification FEF was a non-routine operation with special characteristics, including further
+entry into the stall than was provided in regular line pilot training and for which the simulator did
+not provide adequate fidelity. In contrast, if ABX had been required to develop a formal
+curriculum for training FEF procedures, the air carrier may have recognized that simulator
+training for FEF stall recoveries (which comprised the PF’s training for FEFs) was inadequate,
+and that the additional training received by the PNF (which was limited to observing the director
+of flight technical programs performing the stall series during several FEFs), also was
+inadequate. Both pilots should have been given the opportunity to perform the stall in the
+airplane, under the supervision of a check pilot who had previous experience with the maneuver.
+The Safety Board concludes that the informality of the ABX FEF training program contributed to
+the accident by permitting the inappropriate pairing of two pilots for an FEF, neither of whom
+had handled the flight controls during an actual stall in the DC-8.
+
+45
+Beyond providing the opportunity for ABX to have better identified the training
+needs of its FEF pilots, a requirement for a formal training program in FEF procedures would
+have also facilitated the review, approval, and surveillance of the air carrier’s FEF program by
+the FAA. This would have increased the likelihood that the deficiencies of the program would
+have been identified and corrected prior to the accident.
+In its investigation of a February 16, 1995, DC-8 accident at Kansas City
+International Airport,45 the Safety Board also found evidence of inadequate flightcrew training
+and qualification for a nonroutine, special operation (a three-engine ferry operation). In both the
+Kansas City accident and this accident, the lack of explicit procedures and formal training for
+conducting nonroutine operations exposed the flights to unnecessary risks. The Safety Board
+concludes that the occurrence of fatal accidents during two different nonroutine operations (an
+FEF and a three-engine ferry) by air carriers indicates a need to identify other nonroutine
+operations conducted by air carriers that may require additional procedural definition and training
+measures. Consequently, the Safety Board believes that the FAA should identify the set of
+operations conducted by air carriers that require special consideration, including FEFs and other
+nonroutine operations that have similar needs for training and operational guidance; then amend
+air carrier operations specifications to include appropriate guidelines and limitations for these
+nonroutine operations and amend Subpart N of Title 14 CFR Part 121 to require air carriers to
+establish appropriate flightcrew training and qualification requirements in their training manuals.
+2.5.4 Potential Pressures on the Flightcrew
+Although performing a post-modification FEF at night was an accepted practice at
+ABX, according to the flightcrew’s supervisors, it was preferable to conduct the FEF stall series
+during the day. The prospect of conducting the stall series at night should have at least prompted
+the flightcrew to consider whether additional risks were involved, both prior to departure and
+while preparing to perform the stall maneuver. The Safety Board evaluated whether the
+flightcrew’s decision to undertake the FEF at night was prompted by supervisory or self-imposed
+pressure.
+Completion of modifications to N827AX had been delayed for several months.
+Although ABX operational and maintenance managers said that the company had made no
+specific plans to use the airplane in revenue service, ABX marketing managers indicated that the
+delayed availability of the airplane had caused the company to inform a freight charter customer
+that its charters were subject to cancellation on short notice (because N827AX would not be
+available in case another airplane needed repairs) and subsequently to cancel one of these
+charters. In addition, the loss of the airplane in the accident caused ABX to lose another charter
+opportunity.
+The Safety Board was unable to identify the accident flightcrew’s state of
+awareness of these specific plans for N827AX; however, according to ABX’s director of flight
+training and standards, the accident PNF was aware of the company’s desire to place the airplane
+45NTSB/AAR-95/06. op. cit.
+
+46
+in revenue service. The flightcrew, as ABX managers, would most likely have responded to the
+urgency to place the airplane in service with a strong effort to get the job done.
+However, there was no evidence of direct pressure on the flightcrew from higher
+level ABX managers to complete the flight. Further, on the day of the accident, the flightcrew
+had experienced a succession of delays as maintenance was completed on the airplane. The crew
+must have only gradually become aware, as the delays extended, that the planned evaluation
+flight could not be completed in daylight conditions. For the flight’s originally scheduled 1320
+departure time and for several of the subsequent estimated departure times, the flightcrew would
+have assessed that they could complete the flight in daylight; after having made these initial
+assessments, it may have been more difficult for them to reverse their decision to perform the
+flight. The Safety Board concludes that the flightcrew’s decision to conduct the flight at night
+was influenced by the succession of delays they had experienced earlier in the day.
+2.6 FAA Oversight
+2.6.1 FAA Surveillance of ABX
+The FAA’s 1991 NASIP inspection found evidence that ABX had problems
+ensuring that company manuals and other documentation of operations procedures kept pace with
+the company’s growth. There were no requirements for the FAA to provide surveillance of the
+FEF program, and there was no documentation on the FEF program in the NASIP report.
+However, this accident has indicated that the ABX FEF program was also functioning with
+inadequately defined and documented guidelines for conducting evaluation flights, and
+inadequate flightcrew training and qualification standards for FEFs. Therefore, the FEF program
+deficiencies were consistent with the general problems identified by the 1991 FAA inspection.
+Subsequent action by ABX and the FAA to resolve these general deficiencies
+focused on the specific operational areas identified by the NASIP inspection. The Safety Board
+concludes that the deficiencies of the ABX FEF program remained latent after general
+organizational problems were identified by the NASIP in the other company functions. To
+ensure that inadequacies in the FEF program are corrected at ABX and, if necessary, at other air
+carriers, the Safety Board believes that the FAA should undertake an appropriate level of
+surveillance of the FEF programs of all air carriers, following implementation of the Board’s
+suggested changes to FEF and other nonroutine operations (see section 2.5.3).
+The Safety Board notes that the FAA POI assigned to ABX successfully identified
+the safety issues raised in the 1991 DC-8 loss of control incident, as shown by his efforts to cause
+ABX to revise its FEF stall recovery procedures and the air carrier’s implementation of this
+revision. The response of the FAA principal operations inspector to the 1991 ABX DC-8 loss-
+of-control incident was timely and appropriate, but it was not formally incorporated into ABX
+procedures.
+
+47
+2.6.2 Operating Authority to Conduct the Accident Flight
+ABX maintenance department managers asserted that ABX was authorized to
+conduct the functional test flight of N827AX under the regulations of 14 CFR Part 91. The FAA
+POI concurred with the procedures being used by ABX. However, the Safety Board identified
+confusion among FAA personnel regarding whether it was appropriate to operate the flight
+without a letter of deviation authority under 14 CFR Part 125.3, and whether it was appropriate
+to have added the accident airplane to the ABX aircraft list prior to the completion of all
+airworthiness certification activities, including the FEF and a final conformity inspection that
+was to follow the FEF. TIMCO, in a letter to the Safety Board, expressed its desire for the FAA
+to clarify this issue.
+Based on the apparent confusion within the FAA and among the air carrier
+operations and maintenance communities about regulatory requirements for operating an FEF,
+the Safety Board concludes that the currently established FAA airworthiness and operating
+procedural requirements for conducting FEFs on large transport aircraft provide inadequate
+guidance to air carrier operators, maintenance repair stations, FAA principal operations and
+maintenance inspectors, and other affected parties. Consequently, the Safety Board believes that
+the FAA should modify the operating and airworthiness regulations of Title 14 CFR or issue
+appropriate guidance material to clarify airworthiness and operational procedural requirements
+for conducting FEFs in transport-category aircraft.
+
+48

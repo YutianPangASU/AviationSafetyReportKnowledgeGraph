@@ -1,0 +1,532 @@
+A
+L T RAN SPO
+R
+National Transportation Safety Board
+N T
+I O E PLURIBUS UNUM A T Washington, D.C. 20594
+A
+T OI
+N N
+SAFETYBO AR D September 5, 2000
+Mr. Ed Voorhis, Petitioner
+Aircraft Accident
+Quincy, Illinois
+November 19, 1996
+File No. 1930, Accident No. DCA97MA009A/B
+RESPONSE TO PETITION FOR RECONSIDERATION
+In accordance with 49 Code of Federal Regulations (CFR) Section 845.41, the National
+Transportation Safety Board has reviewed the May 6, 1998, petition for reconsideration and
+modification of its findings and probable cause in the runway collision accident involving
+United Express flight 5925, a Beechcraft 1900C, N87GL, and a Beechcraft King Air A90,
+N1127D, at Quincy Municipal Airport, Quincy, Illinois, on November 19, 1996. On the basis of
+this review, the Safety Board has denied the petition to amend findings 6, 7, 13, 14, 19, and 20.
+The Board, however, has deleted findings 16 through 18 and has amended part of the probable
+cause statement based on its reevaluation of the factual evidence in this accident. In addition, the
+Board has amended finding 15, even though that finding was not specifically challenged by the
+petitioner.
+Background Information
+On November 19, 1996, about 1701 central standard time, United Express flight 5925,
+a Beechcraft 1900C, N87GL, and a Beechcraft King Air A90, N1127D, collided at Quincy
+Municipal Airport, Quincy, Illinois. The Beech 1900C was in its landing roll on runway 13, and
+the King Air A90 was in its takeoff roll on runway 4. The collision occurred at the intersection
+of the two runways. The 2 flight crewmembers and all 10 passengers aboard the 1900C were
+killed, and the 2 occupants aboard the King Air A90 were killed. A Piper Cherokee, N7646J,
+with a pilot and passenger aboard, was taxiing to runway 4 behind the King Air A90.
+On July 1, 1997, the Safety Board determined that the probable cause of this accident was
+the failure of the pilots in the King Air A90 to effectively monitor the common
+traffic advisory frequency or to properly scan for traffic, resulting in their
+commencing a takeoff roll when the Beech 1900C (United Express flight 5925)
+was landing on an intersecting runway. Contributing to the cause of the accident
+was the Cherokee pilot’s interrupted radio transmission, which led to the
+6793E
+
+2
+Beech 1900C pilot’s misunderstanding of the transmission as an indication from
+the King Air that it would not take off until after flight 5925 had cleared the
+runway. Contributing to the severity of the accident and the loss of life were the
+lack of adequate aircraft rescue and firefighting services, and the failure of the air
+stair door on the Beech 1900C to open.1
+Raytheon Aircraft Company, which acquired Beech Aircraft Corporation in
+February 1980, was a party to the Safety Board’s investigation in accordance with
+49 CFR Section 831.12. In support of its petition, Raytheon provided affidavits from company
+employees and consultants retained by the company to assist in the investigation of the accident.
+The petition states that “important new evidence has been discovered which deserves the Board’s
+evaluation. The Affidavits…identify in detail this new evidence and discuss its impact on the
+Board’s findings.” In particular, the petitioner challenges nine of the Board’s findings (6, 7, 13,
+14, and 16 through 20) and urges the Board to adopt the following revised probable cause:
+…(1) the failure of both flight crews to effectively monitor the traffic advisory
+frequency and to properly scan for traffic was a probable cause of the collision;
+and (2) the severity of the impact from the collision and the intensity of the
+immediately resulting fire caused the deaths. Neither the airstair door nor the
+availability of airport rescue and fire fighting services played a role in the cause of
+death.
+The Safety Board’s response follows the petition’s format.
+Finding 6
+The Safety Board concluded that
+Given the Beech 1900C flight crew’s frequent radio broadcasts of the airplane’s
+position during the approach, and the lack of any prohibition on straight-in
+approaches to uncontrolled airports, the flight crew’s decision to fly a straight-in
+approach to runway 13 was not inappropriate.
+Raytheon’s petition stated that
+…the crew violated FAR [Federal Aviation Regulation] 91.117(a) by operating in
+excess of 250 KIAS [knots indicated airspeed] below 10,000 feet MSL [mean sea
+level]. They also chose the non active runway and admittedly “fudged in there a
+little” to complete their approach before the departure of the King Air. These
+actions by the 1900 crew were inappropriate; it appears the 1900 crew was
+operating in a hurry-up mode and cutting corners on prudent traffic pattern
+procedures.
+1 For more information, see National Transportation Safety Board. 1997. Runway Collision, United Express
+Flight 5925 and Beechcraft King Air A90, Quincy Municipal Airport, Quincy, Illinois, November 19, 1996. Aircraft
+Accident Report NTSB/AAR-97/04. Washington, DC.
+
+3
+The Federal Aviation Administration (FAA) encourages pilots, through Advisory Circular
+(AC) 90-66A, “Recommended Standard Traffic Patterns and Practices for Aeronautical
+Operations at Airports Without Control Towers,” to use the standard traffic pattern, rather than a
+straight-in approach, for uncontrolled airports (such as Quincy Municipal Airport). However,
+AC 90-66A recognizes that some pilots may choose to execute a straight-in approach and
+therefore urges that all pilots operating in the traffic pattern be alert to aircraft executing such an
+approach.
+The petitioner does not offer any contrary evidence toward the prohibition of a straight-in
+approach. Although the petitioner presents information suggesting that the 1900C flight crew
+erred in other respects, these issues are not relevant to the finding. Therefore, the Safety Board
+has denied the petitioner’s request to modify finding 6.
+Finding 7
+The Safety Board concluded that
+The flight crew of flight 5925 made appropriate efforts to coordinate the approach
+and landing through radio communications and visual monitoring; however, they
+mistook the Cherokee pilot’s transmission (that he was holding for departure on
+runway 4) as a response from the King Air to their request for the King Air’s
+intentions and therefore mistakenly believed that the King Air was not planning to
+take off until after flight 5925 had cleared the runway.
+Raytheon’s petition stated that
+The conspicuity tests performed by RAC [Raytheon Aircraft Company]…clearly
+establish that the King Air was in the field of view of the 1900 flight crew for
+more than the last minute of flight, including the King Air’s entire ground roll.
+Therefore, the 1900 flight crew’s visual monitoring efforts were anything but
+appropriate.
+The petitioner’s challenge of this finding focused solely on visual monitoring. The Safety
+Board notes that the petitioner did not challenge the parts of the finding regarding the 1900C
+flight crew’s radio communications and the radio transmission from the pilot of the Piper
+Cherokee.2
+The Safety Board recognizes that, in this case, the “see and be seen” concept of traffic
+separation was unsuccessful. The Board also recognizes that the flight crew of each airplane had
+an opportunity to see the other airplane during the last minute of flight. However, the petitioner
+ignores the appropriate efforts of the 1900C flight crew to coordinate the approach and landing
+2 The Safety Board notes that the petitioner also did not challenge finding 11, which stated that “the Cherokee pilot’s
+transmission in response to flight 5925’s request was unnecessary and inappropriate and, combined with the lack of
+any correction to the flight crew’s misunderstanding, misled the flight crew into believing that it had been
+communicating with the King Air, and that the King Air would continue holding.”
+
+4
+through radio communications, in accordance with the FAA’s Aeronautical Information Manual
+(AIM), paragraph 4-1-9, and AC 90-66A. Specifically, the cockpit voice recorder indicated that
+the 1900C flight crew made radio transmissions about 30, 10, and 5 miles out and on short final.
+These transmissions included position location information and requests to be advised of any
+other traffic in the area.
+According to 14 CFR Section 91.113, “Right-of-way rules,” the landing airplane (the
+1900C) had priority over the departing airplane (the King Air A90). Also, the 1900C flight
+crew’s attention during the last minute of the final approach could reasonably be expected to
+focus on runway alignment and the descending flightpath into the touchdown zone. In addition,
+air traffic control transcripts indicated that the King Air A90 flight crew failed to announce its
+takeoff intentions on the common traffic advisory frequency, which was required by the AIM,
+paragraph 4-1-9.3
+Because the 1900C pilots mistakenly believed that they had received assurance from the
+King Air A90 pilots that the airplane would hold on the runway, the 1900C pilots may have been
+less concerned about continuing to watch the King Air A90 during their landing. However, the
+evidence gathered during this investigation continues to support that the 1900C flight crew made
+appropriate efforts to coordinate the approach. Therefore, the Safety Board has denied the
+petitioner’s request to modify finding 7.
+Finding 13
+The Safety Board concluded that
+The impact forces were at a survivable level for the occupants of both airplanes.
+Raytheon’s petition stated that
+…the 1900’s peak deceleration [was shown] to be in excess of 19G’s and the
+King Air’s more than 30G’s, resulting in a severe (not mild) impact.
+The autopsy results determined that the cause of death for the occupants of both airplanes
+was either “carbon monoxide intoxication from inhalation of smoke and soot” from the
+postimpact fire or “inhalation of products of combustion.” Also, two on-scene witnesses
+indicated that they heard sounds of life from within the 1900C cabin and that the captain had
+spoken with them from the cockpit.
+According to the autopsy results, the occupants of both airplanes did not sustain blunt
+force trauma injuries that would have impeded their mobility or ability to evacuate. The bodies
+of the King Air A90’s occupants were found behind their seats, and the body of the 1900C first
+3 The Safety Board notes that the petitioner did not challenge finding 8, which stated that “the failure of the King
+Air pilot to announce over a common traffic advisory frequency his intention to take off created a potential for
+collision between the two airplanes.”
+
+5
+officer was found between the air stair (main boarding) door and the forward right overwing exit.
+The bodies of seven passengers were found forward of row 4, and the bodies of three passengers
+were found near rows 7 and 8.4 (The body of the 1900C captain was found in the cockpit area.)
+The petitioner stated that finding 13 was reached without an impact analysis. However,
+no analysis of the severity of this accident was required to support the Safety Board’s conclusion
+that the impact forces were survivable. The Board based its conclusion on autopsy findings,
+body locations, and eyewitness accounts, which clearly indicated that the 1900C occupants were
+alive and mobile after the collision. The petitioner offered the Board no reason to alter this
+finding. Therefore, the Board has denied the petitioner’s request to modify finding 13.
+Finding 14
+The Safety Board concluded that
+The speed with which the fire enveloped the King Air and the intensity of the fire
+precluded survivability for the occupants of the King Air.
+Raytheon’s petition stated that
+…this conclusion applies equally to the 1900’s passengers. The 1900 passengers
+and co-pilot were subjected to severe fire conditions both inside the cabin at the
+moment of impact and externally.
+The Safety Board formed its conclusion based on the position of the King Air A90
+cockpit/fuselage within the pool fire in the final wreckage scene. The Board determined that the
+King Air A90 occupants initially attempted to escape but were overcome by the effects of the fire
+before reaching an exit. The Board did not make a similar conclusion for the 1900C because it
+did not have sufficient evidence to determine the amount of time that was available for the
+occupants to have escaped the airplane in the presence of smoke and soot from the fire.
+Because the petitioner offered a different conclusion from the same evidence, the Safety
+Board considered it appropriate to seek outside assistance to review the survivability issue and
+ensure that no relevant forensic evidence was overlooked. Thus, the Board requested that the
+Assistant Medical Examiner at the Armed Forces Institute of Pathology (AFIP) conduct a review
+of the survivability and crash forces of this accident. In a July 15, 1999, letter, the medical
+examiner stated the following:
+Many documents were submitted by Raytheon Aircraft supporting the hypothesis
+that the [1900C] aircraft interior was ignited by burning fuel vapor at the time of
+the initial impact and was totally involved by fire almost immediately with all
+4 The forward section of the airplane included rows 1 through 5, and the aft section included rows 6 through 9.
+According to the load manifest, at least four passengers were seated in rows 6 through 9, and at least five passengers
+were seated in rows 1 through 5. The 10th passenger was not listed on the manifest.
+
+6
+occupants, except the pilot, dead within the first 30 seconds after the initial
+impact. An alternate hypothesis is that there was minimal or no interior fire
+associated with the initial fire-ball of burning fuel and the occupants’ fatal injuries
+were associated with the pool fire which ultimately ignited the interior. The
+alternate hypothesis would allow some occupants to survive 120 seconds or more
+after the impact.
+The hypotheses represent extreme limits of the occupant survival time in this
+mishap. The actual fire dynamics are within the spectrum defined by the two
+hypotheses. Occupant survival time ranged from 30 to more than 120 seconds. I
+am not aware of any scientific means to define exactly when the occupants were
+incapacitated or when they died. The following observations suggest that the
+survivability impact of the pool fire was more important than the initial external
+fire ball.
+a. The pilot was alive and conscious at least 120 seconds after the impact.
+The pilot had a source of fresh air and was partially separated from the
+main cabin. Despite these special circumstances, it is very difficult to
+imagine a single individual remaining alive and alert for over 2 minutes
+when all other occupants were dead within the first 30 seconds [according
+to Raytheon’s hypothesis].
+b. The fire and toxicological modeling studies are consistent with death
+within 20 to 30 seconds after full involvement of the cabin interior by fire.
+Unfortunately this is a final common pathway and does not distinguish
+whether the cabin fire was primarily from entry of the initial fireball or
+from burn-through by the pool fire.
+c. The wreckage and kinematics analyses indicate that there were
+openings in the fuselage exposed to the fuel droplet cloud and fireball
+associated with initial impact. It is possible that this burning cloud entered
+and rapidly consumed the cabin and its occupants. It is also possible that
+very little, if any, of the burning fuel cloud entered the cabin, despite
+significant defects in the fuselage of the B1900. Post-impact movement of
+the airplanes away from the fuel cloud, temporary occlusion of fuselage
+defects during the crash sequence, lack of significant cabin ventilation, and
+relative positive pressure in the cabin at the time of impact could limit
+initial entry of burning fuel.
+d. Data cited by Raytheon consultants suggests fuselage burn-through
+within approximately 30 seconds of exposure to a fully developed fire.
+Since the entire left side of the fuselage was intact when the first witnesses
+arrived approximately 2 minutes after the crash, it seems unlikely that a
+significant fire had been burning inside the cabin since initial impact.
+
+7
+The locations of the remains of the B1900 occupants suggest that at least some of
+[the] passengers moved out of their seats and forward in the aircraft after the
+crash. Only three of the twelve occupants were found behind the wings while
+achieving proper weight and balance would require seating of five to six
+passengers aft of the center of gravity. Despite some movement after the crash,
+there is no evidence of any effective escape attempts on the part of any of the
+occupants. The left over-wing exit and the main door were the only viable exit
+routes due to the pool fire on the right side of the aircraft. The B1900 occupants
+had opened neither exit. This suggests that the relatively uninjured occupants
+were incapacitated by the post-crash fire before they could open the window or
+door.
+The hypothesis presented by the AFIP Assistant Medical Examiner supports the Safety
+Board’s decision not to include the 1900C as part of this conclusion. Specifically, the Board
+found that the fire did not initially preclude survivability for the 1900C occupants because the
+first officer and the passengers were able to move from their seats and on-scene witnesses heard
+sounds of life inside the cabin and spoke with the captain. The petitioner did not offer any new
+evidence to support modifying the Board’s conclusion. Therefore, the Board has denied the
+petitioner’s request to modify finding 14.
+Finding 16
+The Safety Board concluded that
+The most likely reason that the air stair door could not be opened is that the
+accident caused deformation of the door/frame system and created slack in the
+door control cable.
+Raytheon’s petition stated that
+…the internal operability of the 1900 airstair door is irrelevant in light of the fact
+that the King Air engine penetrated the 1900 fuselage opposite that door
+disrupting the floor and immediately depositing fuel and fire in that area. In
+addition, the kinematics of the door, on scene witness statements, and the remains
+of the airstair door itself, do not support a finding that the door was jammed.
+As previously stated, the autopsy results indicated that the 1900C occupants did not
+sustain blunt force trauma injuries that would have impeded their mobility or ability to evacuate.
+Thus, it is possible that the occupants were in the cabin for a period of time sufficient to have
+opened an available exit. However, the investigation determined that the air stair door, which
+was located on the left side of the airplane, and the left overwing exit hatch were not opened in
+an escape attempt. (On-scene witnesses indicated that, when they approached the airplanes after
+the accident, the right side of the 1900C was engulfed in fire.)
+
+8
+The 1900C captain told the two potential rescuers outside of the airplane (one of which
+was a 1900C-qualified United Express pilot) to “get the door open,” but neither was able to open
+the door. Also, the first potential rescuer found the air stair door handle in the 6 o’clock
+(unlocked) position. This finding, along with the location of the first officer’s body, suggested
+that the first officer was following company evacuation procedures and tried to open the air stair
+door but was unable to do so. The Safety Board does not have specific evidence to indicate why
+the air stair door was not opened because most of the door and its frame were destroyed by fire.
+The Safety Board does not agree with Raytheon’s statement that “the internal operability
+of the 1900 airstair door is irrelevant in light of the fact that the King Air engine penetrated the
+1900 fuselage opposite that door disrupting the floor and immediately depositing fuel and fire in
+that area.” The internal operability of the air stair door is extremely relevant because the impact
+forces were survivable and the air stair door was accessible despite the fire on the right side of
+the airplane. The 1900C flight crew and passengers should have been able to get out of the
+airplane using the air stair door, yet they did not open the door to escape the airplane. Also, the
+two potential rescuers could not open the door from the outside. The first potential rescuer stated
+that he found the handle in the 6 o’clock position, pulled on the handle, and turned it up. The
+second potential rescuer (a United Express 1900C pilot, who was familiar with the operation of
+the door) stated that he intervened and then depressed the release button above the door handle
+while rotating the handle downward from the 3 o’clock to the 6 o’clock position but was also
+unable to open the door.5 Nonetheless, the Board reevaluated the factual evidence from this
+accident and could not determine the most likely reason that the air stair door was not opened.6
+Therefore, the Board has granted the petitioner’s request to modify finding 16 by deleting it from
+the findings list and amending the corresponding text in the accident report.
+The Safety Board notes that the petitioner did not challenge finding 15, which states that
+“the occupants of the Beech 1900C did not escape because the air stair door could not be opened
+and the left overwing exit hatch was not opened.” However, because the reevaluation of the
+factual evidence from this accident could not determine the specific reason that the air stair door
+or the left overwing exit hatch were not opened, the Board has revised finding 15 and the
+corresponding text in the accident report to indicate that the air stair door and the left overwing
+exit hatch were not opened for undetermined reasons.
+5 The Beechcraft 1900C maintenance manual stated that “when unlocking the door from the outside or inside, the
+release button adjacent to the door handle must be held depressed before the handle can be rotated to unlock the
+door.”
+6 The Safety Board’s final report on this accident indicated that “according to Raytheon, the introduction of as little
+as 1/4 inch of slack in the [door control] cable could prevent the cams from fully rotating.” However, the Board’s
+reevaluation did not determine that the slack in the cable was the reason that the air stair door was not opened. Other
+possible reasons include a right wing low attitude, which shifted the door’s center of gravity inward and increased
+the force necessary to open the door, and damage to the door.
+
+9
+Finding 17
+The Safety Board concluded that
+The methods for showing compliance with the FAA’s certification requirement
+that external doors be reasonably free from jamming as a result of fuselage
+deformation are not clearly defined.
+Raytheon’s petition stated that
+…although FAA regulatory clarity might be helpful, current testing of the fuselage
+to ultimate shear and bending loads are adequate and appropriate.
+The 1900C was certificated by the FAA as having met the freedom from jamming
+requirements. However, the Safety Board’s investigation did not find clear written guidance
+from the FAA indicating how a manufacturer should demonstrate compliance with the freedom
+from jamming requirements. Specifically, there appeared to be no clear guidance specifying the
+degree of fuselage deformation contemplated by the applicable regulations in 14 CFR Part 23 and
+the meaning of “reasonably free” from jamming. This finding provided the basis for Safety
+Recommendation A-97-104, which recommended that the FAA “establish clear and specific
+methods for showing compliance with the freedom from jamming certification requirements.”
+In its June 23, 1998, letter to the Safety Board, the FAA stated that it received proposed
+text from Raytheon for a new airworthiness standard for a fuselage door per
+14 CFR Section 23.783(c)(5). The proposed text stated the following:
+The door and emergency exit should be free from jamming and operate properly
+after fuselage deformation resulting from the ultimate load factors of
+14 CFR 23.561(b)(2) and the requirements of 14 CFR 23.307(a). It should also be
+demonstrated by tests that each door and emergency exit can be opened after
+exposure to each critical loading condition. Those conditions should include at
+least the following: the ultimate static tests loads that result from 14 CFR 23.321
+through 14 CFR 23.341, and 14 CFR 23.365(a)(b); or ultimate landing design
+load requirements of 14 CFR 23.365(a)(c), and 14 CFR 23.471 through
+14 CFR 23.485, provided they are equal to or exceed the ultimate load
+requirements of 14 CFR 23.561(b)(2).
+The FAA indicated that it reviewed Raytheon’s proposed text and determined that it
+would provide no new substantial airworthiness standards beyond those contained in existing
+guidance (AC 25.783-1). However, the FAA stated that Raytheon’s proposal did provide
+“excellent policy material.” The FAA reported that it would convert the text into policy guidance
+for use by aircraft certification offices in future certification projects. The FAA also indicated
+that this information would appear as guidance information in the forthcoming Systems Guide for
+Certification of Part 23 Airplanes.
+
+10
+In its September 5, 2000, response, the Safety Board stated that it had reevaluated the
+factual information regarding the inability of the flight crew and passengers of the 1900C to exit
+the airplane after the collision with the King Air A90. Because the Board was unable to
+determine the circumstances that prevented the occupants from evacuating the airplane (even
+with the efforts of two potential rescuers to open the door) and the investigation did not identify
+any specific evidence that the door jammed, the Board classified Safety Recommendation
+A-97-104 “Closed—Reconsidered.”
+The Safety Board’s reevaluation of the factual evidence from this accident did not
+conclusively determine that the air stair door had jammed. Therefore, the Board has granted the
+petitioner’s request to modify finding 17 by deleting it from the findings list and amending the
+corresponding text in the accident report.
+Finding 18
+The Safety Board concluded that
+The FAA’s freedom from jamming certification standards may be inadequate.
+Raytheon’s petition stated that
+…the known severity of this accident, including impact forces of 169,385 pounds
+acting over a period of only approximately 0.115 seconds, is equivalent to a
+passenger bus traveling at 60 mph and being struck at a right angle by a UPS
+[United Parcel Service] truck traveling 70 mph. No transportation vehicle is
+designed to withstand such loads.
+On June 25, 1998 (almost 1 year after the accident report was adopted), the Safety Board
+issued a study, titled “Momentum Reconstruction and Door Tests,” to determine, among other
+things, the physics of the collision. The Board’s study determined that the damage from the nose
+of the King Air A90 and the damage to the 1900C in the front part of the fuselage were not
+equivalent to a right angle impact at 60 mph. The study also determined that the main impact of
+this accident lasted as long as 0.133 second. These findings do not support the claims made by
+Raytheon regarding the severity of this accident. In addition, forensic evidence indicated that the
+impact forces in this accident were survivable, and eyewitnesses stated that the occupants of the
+1900C did, in fact, survive the collision.
+Finding 18 resulted in the issuance of Safety Recommendation A-97-105, which asked
+the FAA to “consider the circumstances of the November 19, 1996, Quincy, Illinois, accident
+when developing methods for showing compliance with freedom from jamming requirements,
+and determine whether it is feasible to require that doors be shown to be free from jamming after
+an impact of similar severity.” In its June 23, 1998, letter to the Safety Board, the FAA stated
+that it was not feasible to show freedom from jamming for the door of the 1900C because of the
+impact forces that were present in this accident.
+
+11
+In its September 5, 2000, response, the Safety Board stated that its reevaluation of the
+factual evidence in this accident continued to support that the impact forces from the accident
+were survivable and that the 1900C occupants should have been able to open the air stair door
+and escape from the airplane. The Board remained concerned that, in this survivable accident,
+none of the 1900C occupants survived; all succumbed to smoke inhalation and thermal injuries
+because they were unable to exit the airplane. However, the Board was unable to determine the
+circumstances that prevented the occupants from evacuating the airplane (even with the efforts of
+two potential rescuers to open the door). Because the investigation did not identify any specific
+evidence to indicate that the air stair door had jammed, the Board classified Safety
+Recommendation A-97-105 “Closed—Reconsidered.”
+The Safety Board’s reevaluation of the factual evidence from this accident did not
+conclusively determine that the air stair door had jammed. Therefore, the Board has granted the
+petitioner’s request to modify finding 18 by deleting it from the findings list and amending the
+corresponding text in the accident report.
+Finding 19
+The Safety Board concluded that
+Formal training for maintenance personnel in specific tasks they are assigned to
+accomplish is critical for the proper, sustained operation of aircraft.
+Raytheon’s petition stated that
+…nothing in the record reflects any maintenance discrepancy in the 1900 external
+door prior to this accident. Without a maintenance discrepancy, additional formal
+training of maintenance personnel is unnecessary.
+As part of its investigation, the Safety Board considered whether a Great Lakes Aviation
+mechanic improperly routed the air stair door’s cable, which could have led to a binding or
+loosening of the cable over time and might have prevented the door from operating properly.
+Although, in this case, no evidence indicated that the cable was misrouted, the Board believed
+that it would be beneficial to safety to issue Safety Recommendation A-97-106, which asked the
+FAA to “review and improve, as necessary, guidance for principal maintenance inspectors to use
+in ensuring that maintenance personnel are properly trained in accomplishing the maintenance
+tasks that they are assigned.”
+In its June 23, 1998, letter to the Safety Board, the FAA indicated that it reviewed the
+guidance available to principal maintenance inspectors (PMI) to use in ensuring that maintenance
+personnel are properly trained in accomplishing assigned maintenance tasks. Specifically, the
+FAA reviewed FAA Order 8300.10, “Airworthiness Inspector’s Handbook,” and determined that
+the guidance available to PMIs was adequate. The FAA stated that, on November 17, 1997, it
+sent a letter to all PMIs to reinforce the importance of proper maintenance training. Because the
+
+12
+FAA’s actions satisfied the intent of Safety Recommendation A-97-106, it was classified
+“Closed—Acceptable Action” on October 6, 1998.
+The petitioner indicated that, before this accident, there was no maintenance discrepancy
+concerning the air stair door. However, this statement, regardless of its validity, is not relevant to
+the conclusion and resulting safety recommendation. Therefore, the Safety Board has denied the
+petitioner’s request to modify finding 19.
+Finding 20
+The Safety Board concluded that
+If on-airport aircraft rescue and firefighting equipment protection had been
+required for this operation at Quincy Airport, lives might have been saved.
+Raytheon’s petition stated that
+…the presence of such equipment would have been no assistance to the
+passengers and co-pilot of the 1900 due to: (1) the intense fire inside the
+1900 fuselage, which ignited immediately upon impact; and (2) the large external
+pool fire. Rescue and fire fighting equipment could not have reached the accident
+site in time to save these people.
+The investigation determined that on-airport aircraft rescue and firefighting (ARFF)
+services would have been able to reach the accident scene in no more than 1 minute (in contrast
+to the 14-minute response time from the Quincy Fire Department).7 Thus, ARFF personnel
+might have been able to extinguish or control the fire, thereby extending the survival time for at
+least some of the 1900C occupants. Because the impact of the collision did not result in blunt
+force trauma injuries to the occupants, some might have had time to escape.
+The petitioner’s response did not acknowledge the possibility that the captain might have
+survived if rescue personnel had arrived sooner. As stated previously, the captain was observed
+by witnesses to have survived for some time (estimated to be 120 seconds), and she was
+sufficiently coherent to tell potential rescuers to open the door. Also, the AFIP Assistant Medical
+Examiner determined that the captain “had a source of fresh air and was partially separated from
+the main cabin.”
+In addition, the AFIP Assistant Medical Examiner stated that “since the entire left side of
+the [1900C] fuselage was intact when the first witnesses arrived approximately 2 minutes after
+the crash, it seems unlikely that a significant fire had been burning inside the cabin since initial
+7 Title 14 CFR Part 139 requires that a certificated airport be capable of an immediate response time of 3 minutes by
+an on-site ARFF truck. However, this requirement only applies when the airport is serving air carrier aircraft with a
+seating capacity of more than 30 passengers. Although Quincy Municipal Airport had an ARFF truck, it was not
+staffed at the time of the accident because no air carrier aircraft with more than 30 passenger seats were taking off or
+landing. The 1900C had 19 passenger seats.
+
+13
+impact.” As a result, the Safety Board continues to believe that on-airport ARFF equipment
+would have reached the accident site in time to save the lives of at least some of those aboard the
+1900C. Therefore, the Board has denied the petitioner’s request to modify finding 20.
+Probable Cause Statement
+As previously indicated, the Safety Board determined that the probable cause of this
+accident was
+the failure of the pilots in the King Air A90 to effectively monitor the common
+traffic advisory frequency or to properly scan for traffic, resulting in their
+commencing a takeoff roll when the Beech 1900C (United Express flight 5925)
+was landing on an intersecting runway. Contributing to the cause of the accident
+was the Cherokee pilot’s interrupted radio transmission, which led to the
+Beech 1900C pilot’s misunderstanding of the transmission as an indication from
+the King Air that it would not take off until after flight 5925 had cleared the
+runway. Contributing to the severity of the accident and the loss of life were the
+lack of adequate aircraft rescue and fire fighting services, and the failure of the air
+stair door on the Beech 1900C to open.
+Raytheon’s petition stated that
+…(1) the failure of both flight crews to effectively monitor the traffic advisory
+frequency and to properly scan for traffic was a probable cause of the collision;
+and (2) the severity of the impact from the collision and the intensity of the
+immediately resulting fire caused the deaths. Neither the airstair door nor the
+availability of airport rescue and fire fighting services played a role in the cause of
+death.
+The Safety Board continues to believe that the 1900C flight crew made appropriate
+efforts to coordinate the approach and landing (see the discussion of finding 7). The Board also
+continues to believe that that the King Air A90 pilots’ failure to announce the airplane’s takeoff
+over the common traffic advisory frequency and yield to the landing airplane (which had the right
+of way) led to the accident.
+The petitioner claimed that the cause of death for the occupants of both airplanes was the
+severity of the impact from the collision and the fire that resulted immediately afterward.
+Although the petitioner presented impact analysis data to support his claim regarding the severity
+of the impact, the Safety Board’s determination of the survivability of the accident was not
+dependent on a determination of the specific levels of force within each airplane. Regarding the
+immediate intensity of the cabin fire, the petitioner stated that survival time in the 1900C cabin
+was less than 30 seconds because the King Air A90 penetrated the cabin and immediately
+deposited fuel and fire in that area. However, the AFIP Assistant Medical Examiner offered the
+possibility that the 1900C occupants’ deaths were associated with the pool fire that ultimately
+
+14
+ignited the interior but could have allowed some occupants to survive 120 seconds or more after
+the impact (see the discussion of finding 14).
+The petitioner suggested that the air stair door did not play a role in the cause of death for
+the 1900C occupants. The impact forces of the collision were survivable, and evidence indicated
+that the 1900C occupants were able to move inside the cabin after the accident. However, the air
+stair door was not opened in any escape attempt, and the door could not be opened from the
+outside of the airplane by the two potential rescuers. Raytheon presented evidence to indicate
+that an air stair door could be opened with slack in the door cable, but this evidence does not
+change the fact that the 1900C occupants succumbed to inhalation and thermal injuries because
+they did not escape from the airplane using the two available exits—one of which was the air
+stair door.
+The petitioner also stated that the lack of on-airport ARFF services did not play a role in
+the cause of death. Because the captain of the 1900C likely survived for at least 120 seconds
+after the accident (according to eyewitness estimates) and had a source of fresh air, the Safety
+Board continues to believe that her life could have been saved by the presence of on-airport
+ARFF equipment, which would have been able to reach the accident scene in 60 seconds or less.
+The Board cannot precisely determine when the 1900C first officer and passengers were
+incapacitated to the point that they could not escape or when they died. However, the Board
+continues to believe that at least some of the remaining occupants might have been saved by the
+presence and use of ARFF equipment.
+After evaluating the evidence provided by the petitioner, the Safety Board has determined
+that none of this evidence is sufficient to support a change to the original probable cause for this
+accident. However, because its reevaluation of the factual information in this accident did not
+identify any specific evidence to indicate that the air stair door had jammed (even with the efforts
+of two potential rescuers to open the door), the Board has modified the probable cause language
+to indicate that “the failure of the air stair door on the Beech 1900C to be opened” was a
+contributing factor to the severity of the accident and the loss of life.

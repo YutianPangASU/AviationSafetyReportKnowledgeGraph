@@ -1,0 +1,379 @@
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+I T Washington, D.C. 20594
+A T IO
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: LAX04FA075
+Aircraft and Registration: Learjet 24B, N600XJ
+Location: Helendale, California
+Date: December 23, 2003
+Adopted On: May 23, 2006
+HISTORY OF FLIGHT
+On December 23, 2003, about 0913 Pacific standard time,1 a Learjet 24B, N600XJ,
+registered to and operated by Pavair, Inc., of Santa Monica, California, departed controlled flight
+and crashed near Helendale, California. The captain and the first officer were killed, and the
+airplane was destroyed. The flight was operating under the provisions of 14 Code of Federal
+Regulations (CFR) Part 912 from San Bernardino County Airport (CNO), Chino, California, to
+Friedman Memorial Airport, Hailey, Idaho. Visual meteorological conditions prevailed for the
+flight, which operated on an instrument flight rules flight plan.
+A review of radar data3 and air traffic control (ATC) transcripts revealed that the flight
+departed CNO about 0858 and was cleared to climb to an altitude of 29,000 feet mean sea level
+(msl).4 About 0909:55, as the airplane was climbing through an altitude of 26,000 feet, the first
+officer requested a return to CNO. About 0910:01, the controller asked the first officer if he
+needed to declare an emergency, and the first officer replied that he did not.5 The controller then
+directed the flight crew to maintain an altitude of 24,000 feet.
+Mode C information6 for the flight showed that, from about 0910:12 to about 0910:59,
+the airplane descended from 26,500 to 24,000 feet at a rate of about 2,000 feet per minute (fpm).
+About 0911:08, the controller cleared the flight directly to HECTOR (a navigation fix) and asked
+the first officer to confirm that the airplane was in level flight at an altitude of 24,000 feet. The
+first officer did not respond. Radar data showed the airplane descending through 23,000 feet at a
+rate of about 6,500 fpm about that time. About 0911:24, while the airplane was descending at a
+1 Unless otherwise noted, all times in this brief are Pacific standard time.
+2 Pavair did not hold a 14 CFR Part 135 operating certificate; therefore, the company’s flights were restricted to
+Part 91 operations.
+3 These data were from the Southern California Air Route Surveillance Radar and the U.S. Air Force 84th Radar
+Evaluation Squadron.
+4 Unless otherwise noted, all altitudes in this brief are reported as msl.
+5 National Transportation Safety Board investigators compared the first officer’s voice in this transmission with
+his voice in transmissions that he made earlier in the flight. The investigators noted that his voice sounded similar in
+this and previous transmissions.
+6 Mode C is a function of the transponder that provides altitude information to air traffic controllers.
+
+2
+rate of about 10,000 fpm, the first officer stated, “we’re declaring an emergency now.”7 No
+further transmissions were received from the airplane. No radar data were available after about
+0911:35. Starting about 0911:47, mode C information was invalid. The airplane impacted high
+desert terrain (an elevation of 3,350 feet) about 3 miles southeast of Helendale. The accident site
+was located about 46 nautical miles (nm) north of CNO.
+A witness to the accident, who was located about 4.5 miles northwest of the accident site,
+stated that, after hearing the sound of a jet flying high overhead, he looked up and observed the
+accident airplane flying straight and level below a high, overcast cloud layer. He stated that the
+airplane then pitched “nose down a little” and “straightened again.” He also stated that, shortly
+thereafter, he observed the airplane’s nose pitch “straight down” until it impacted terrain. The
+witness reported that he did not notice whether the airplane was rotating about its longitudinal
+axis during the descent, but he did indicate that the airplane appeared to be intact without any
+components separating from the airplane during the descent. The witness added that he did not
+observe any smoke or fire before the airplane impacted terrain and that the airplane exploded
+into a “mushroom cloud” when it impacted terrain.
+San Bernardino County firefighters, who were performing controlled burns near the
+accident site, reported hearing an explosion about the time of the accident. The firefighters
+reported that they looked toward the direction of the explosion and saw a rising smoke cloud.
+None of the firefighters observed the airplane before the sound of the explosion. The firefighters
+drove to the accident site and were the first to arrive there. The firefighters extinguished small
+fires that had erupted as a result of the crash.
+PERSONNEL INFORMATION
+The Captain
+The captain, age 51, held an airline transport pilot (ATP) certificate (issued on
+October 13, 1987)8 with a multiengine land rating and type ratings in the Cessna 500 (Citation)
+and the Learjet.9 The captain also held a commercial certificate with a single-engine land rating
+and a flight instructor certificate with single- and multiengine land and instrument ratings. The
+captain’s most recent Federal Aviation Administration (FAA) first-class airman medical
+certificate was issued on October 1, 2003, with the limitation that he must wear corrective lenses
+to correct his near vision.
+The captain’s résumé indicated that he had been a Learjet and Cessna 500 captain, a
+flight instructor, and director of operations for an aircraft charter company from October 1985 to
+7 Safety Board investigators noted that the first officer’s voice during this transmission sounded agitated and
+highly distressed compared with his voice during earlier transmissions.
+8 On April 13 and 25, 2002, the captain received “altitude awareness” faults during Cessna 500 checkrides. On
+September 9, 2002, the captain satisfactorily completed an ATP recheck in a Cessna 500 and was able to maintain
+his ATP certificate.
+9 The Learjet model was not specified on the type rating, which was issued in May 1988, or identified on the
+captain’s Federal Aviation Administration Form 8410-2, Airman Certificate and/or Rating Application, for the
+Learjet.
+NTSB/AAB-06/04
+
+3
+2000. The captain occasionally worked for the owner of XtraJet, Inc.,10 as a pilot but did not
+appear to be an employee (no hiring record could be found). During the course of the
+investigation, the National Transportation Safety Board was unable to locate any logbooks for
+the captain.
+The Safety Board obtained information about the captain’s flight hours from American
+Air Network (AAN), where he received training.11 A pilot summary, which was signed by the
+captain and dated October 6, 2003, indicated that, at that time, he had accumulated 11,783 total
+flight hours, about 7,900 hours of which were as pilot-in-command of Learjet airplanes.
+According to XtraJet’s former director of operations, the captain completed initial Learjet 24
+training at AAN because Pavair did not have an approved Learjet 24 training program. Further,
+the captain began recurrent Learjet 24 training at AAN but did not complete the training because
+the Learjet 24 was removed from AAN’s operating certificate in November 2003.
+The First Officer
+The first officer, age 23, held a commercial pilot certificate (issued on November 8,
+2002) with single-engine and multiengine land and instrument ratings. He also held a flight
+instructor certificate for single-engine land and instrument airplanes. His most recent FAA first-
+class airman medical certificate was issued on September 5, 2003, with no limitations.
+According to the first officer’s September 4, 2003, pilot summary for AAN, he had
+accumulated 250 total flight hours. On October 25, 2003, the first officer completed AAN’s
+basic indoctrination and emergency situation and procedures training for the Learjet 25 and 35.
+From November 3 to 17, 2003, he completed Learjet 35/36 training at FlightSafety International.
+This training consisted of 50 hours of ground training, 15 hours of briefing/debriefing training,
+and 24 hours of simulator training. On November 17, 2003, the first officer completed 4 hours of
+ground training and 2 hours of simulator differences training in Learjet 20 series airplanes.
+According to AAN personnel, the first officer received Learjet 20 series differences training so
+that he could fly those airplanes as second-in-command to build his flight time experience.
+The first officer was listed as an approved pilot on AAN’s Part 135 operating certificate
+on November 7, 2003, and, on the same day, he was given an airmen proficiency check in a
+Learjet 35A simulator in accordance with 14 CFR 135.293, “Initial and Recurrent Pilot Testing
+Requirements.” A review of AAN’s duty and flight time records revealed that the first officer
+flew 4.3 and 19.9 hours in a Learjet 35A in November and December 2003, respectively.
+10 XtraJet is an FAA-approved charter company with a 14 CFR Part 135 operating certificate. Pavair and
+XtraJet are owned by the same individual and use the same staff.
+11 AAN is a Part 135 certificate holder and an aircraft management company that arranges lease agreements for
+airplanes and flight crews and charges managerial service fees to operate the airplanes under the company’s Part 135
+certificate.
+NTSB/AAB-06/04
+
+4
+AIRPLANE INFORMATION
+General Information
+The accident airplane, serial number 190, was manufactured in April 1969, in Wichita,
+Kansas. The airplane was equipped with two General Electric CJ-610-6 turbine engines and was
+operated and maintained in the United States until 1977. From 1977 to 1981, the airplane was in
+Europe. In 1981, the airplane returned to the United States, where it was operated and
+maintained until the time of the accident.
+At the time of the accident, the airplane was registered to and operated by Pavair. The
+airplane was listed on AAN’s 14 CFR Part 135 operating certificate from March 9, 2001, to
+November 17, 2003; at which time, the airplane was removed from the company’s operating
+certificate. According to AAN, the airplane was removed from its operating certificate because
+Pavair had provided inadequate maintenance records.
+The Safety Board requested a copy of all maintenance records for the accident airplane
+from Pavair and XtraJet. The airframe logbook from 1969 to October 1973 and the left engine
+logbook from 1981 to December 1998 were not provided to the Board. Further, no maintenance
+logbooks from April 1999 to the time of the accident were provided to the Board.
+Maintenance Actions
+The accident airplane was maintained by Jet Executive Transport Technologies (JETT) in
+Chino.12 JETT provided the Safety Board with copies of its invoices and endorsements for the
+accident airplane from October 15, 2000, to December 19, 2003. According to JETT’s
+maintenance records, on November 23, 2002, the accident airplane underwent 300- and 600-hour
+inspections in accordance with AAN’s approved airworthiness inspection program. At the time
+of these inspections, the airplane had accumulated 9,439 total flight hours. The records also
+indicated that, on October 17, 2003, the left engine underwent a hot-section inspection. At the
+time of the inspection, the engine had accumulated 7,675 total flight hours (6,702 cycles),13 and
+the airplane had accumulated 9,507 total flight hours.
+XtraJet provided copies of the aircraft flight logs, flight manifests, and discrepancy logs
+to the Safety Board. The records were dated from February 27 to April 17, 2003. No
+discrepancies were noted. According to JETT maintenance personnel, the accident airplane was
+out of service from July to mid-October 2003 because the airplane’s avionics were being
+replaced.
+JETT also provided a major repair and alteration form (FAA Form 337), dated
+October 29, 2003, which revealed that all installed communication, navigation, and transponder
+equipment was removed and replaced with new components. The newly installed equipment
+12 JETT was formerly known as Executive Aviation Logistics.
+13 A cycle is one complete landing and takeoff sequence.
+NTSB/AAB-06/04
+
+5
+included a global navigation system, communication radios, transponders, radio magnetic
+indicators, distance measuring equipment, a horizontal situational indicator, a computer, and a
+control panel. According to JETT maintenance personnel, the new navigation system was
+coupled to the autopilot. The form was not signed, but a review of the form revealed that the
+airplane was inspected in a manner prescribed by the FAA and was approved by Xtrajet’s
+FAA-approved inspector. The form had not been submitted to the FAA, as required by 14 CFR
+Part 43, Appendix B.
+According to JETT, on the morning of the accident, the airplane’s left battery was
+inoperative. JETT maintenance personnel took the left battery from a Learjet 25B and used it to
+replace the accident airplane’s inoperative battery. No maintenance endorsement was provided
+for this work.
+Right Engine Discrepancy History
+According to XtraJet, JETT, and FAA personnel, on November 26, 2003, during a flight
+from Las Vegas, Nevada, to Mesa, Arizona, the accident airplane’s right engine flamed out. The
+pilot was able to relight the engine during the descent to Mesa, and the airplane landed without
+incident. A JETT mechanic was flown to Mesa to examine the airplane. The cause of the
+flameout could not be determined, and the airplane was flown to CNO on November 29, 2003.
+During the flight, the right engine flamed out again. The pilot of the flight diverted the airplane
+to Palm Springs, California, and made an uneventful landing. The engine was examined by
+another maintenance facility, and the cause of the flameout once again could not be determined.
+According to the Riverside Flight Standards District Office (FSDO), an airworthiness
+inspector followed up on the airplane’s engine issue and asked Pavair to provide him with the
+airplane’s maintenance records. Because Pavair did not provide the inspector with the accident
+airplane’s maintenance records, he placed an aircraft condition notice on the airplane on
+December 12, 2003, that indicated the following:
+Operation of this aircraft may be in violation of FAR [Federal Aviation
+Regulations] 91.409, FAR 91.417, and FAR 91.419. The airplane owner is asked
+to provide for review to the Riverside FSDO: 1. Aircraft maintenance records for
+the past 2 years, 2. List of complied ADs [airworthiness directives]. Owner shall
+provide the data for review no later than 12/29/2003.
+On December 22, 2003 (the day before the accident), JETT maintenance personnel tried
+to contact the airworthiness inspector who had placed the condition notice on the airplane. He
+was not in the office, so they spoke with another Riverside FSDO airworthiness inspector.
+According to this inspector, JETT reported (on behalf of Pavair) that it had complied with the
+limitations of the condition notice; therefore, he verbally released the airplane for operations.14
+However, the investigation revealed that Pavair’s maintenance records for the accident airplane
+were never received by the Riverside FSDO.
+14 FAA Order 8300.10, Volume 3, Chapter 124, refers to the issuance of aircraft condition notices. The chapter
+provides no guidance on release of airplanes for operation.
+NTSB/AAB-06/04
+
+6
+METEOROLOGICAL INFORMATION
+Meteorological data were obtained from the Daggett and Palmdale, California,
+Automated Surface Observing Systems (ASOS). About 0853, the Daggett ASOS reported that
+winds were calm, visibility was 10 statute miles, clouds were few at 10,000 feet above the
+ground, the temperature was 7º Celsius (C), the dew point was -3º C, and the altimeter setting
+was 30.10 inches of mercury (Hg). About 0854, the Palmdale ASOS reported that winds were
+from 100º at 4 knots, visibility was 10 statute miles, skies were clear, the temperature was 7º C,
+the dew point was -2º C, and the altimeter setting was 30.11 inches of Hg.
+The closest upper air sounding (that is, a vertical profile of atmospheric conditions) was
+from San Diego, California (110 nm south of the accident site). According to the 0400 sounding,
+at an altitude of 24,000 feet, winds were from 235º at 35 knots.
+Weather Surveillance Radar depicted no precipitation radar returns near the accident site.
+No in-flight weather advisories were in effect surrounding the time of the accident.
+At the time of the accident, two AIRMETs (Airman’s Meteorological Information) were
+in effect for the accident area. One AIRMET indicated moderate turbulence between 18,000 and
+38,000 feet. The other AIRMET indicated occasional moderate rime or mixed ice in clouds and
+precipitation between the freezing level, which sloped between 10,000 feet in the north and
+12,000 feet in the south.
+FLIGHT RECORDERS
+The airplane was not equipped with a cockpit voice recorder or a flight data recorder and
+was not required by Federal regulations to be so equipped.
+WRECKAGE AND IMPACT INFORMATION
+The accident site was located in high desert terrain (an elevation of 3,350 feet) about
+3 miles southeast of Helendale.
+The accident airplane was severely fragmented. The accident site consisted of an impact
+crater located on the top of a ridgeline with a circular debris field measuring about 0.3 mile in
+diameter. The impact crater measured 43 feet long by 17 feet wide and was between 24 and
+30 inches deep. The Safety Board accounted for all flight controls at the accident site. Because
+the flight controls were severely fragmented and deformed, flight control continuity could not be
+established. The engines were found fractured into numerous sections, which were scattered
+throughout the debris field.
+The only cockpit and cabin components that could be positively identified were an
+oxygen mask, seat components, window frames, Plexiglas pieces, main entry door components,
+NTSB/AAB-06/04
+
+7
+excerpts from flight logs, weight and balance calculation sheets, and a binder containing
+Jeppesen charts. No remnants of flight instruments could be located.
+Wreckage Examinations
+The wreckage was collected and transported to Aircraft Recovery Services, Littlerock,
+California, where it was laid out and examined by a Safety Board investigator and Bombardier
+Learjet representatives. No evidence of in-flight fire damage or soot patterns was found.
+Components that would normally be positioned adjacent to each other in the airplane displayed
+contradictory soot and heat signatures.
+The flight control actuating components were destroyed. All systems (including
+atmospheric, oxygen, electrical, flight control, navigation, communications, hydraulic, fire
+suppression, fuel, and engine) were destroyed, and no system continuity or functionality could be
+confirmed.
+The left and right engines sustained severe accordion crushing along the longitudinal
+axis. Numerous rotor and stator blades were separated from their roots. The blades were flattened
+against each other and were mated to other stator and rotor blades along the engine’s airflow
+path.
+An examination of the electrical wire components revealed that some of the wire bundles
+sustained fire damage but that none displayed molten metal or fused components, which would
+have indicated a shorted condition. The fracture ends of various wire bundles were examined.
+The separated wire areas displayed necking deformation in a rounded manner that was indicative
+of a tensile failure. The external surfaces of the wire strands contained soot, but, after removing
+the soot, the wire strands were shiny.
+MEDICAL AND PATHOLOGICAL INFORMATION
+The San Bernardino County Sheriff’s Office, Coroner Division, could not perform a
+complete autopsy examination for either pilot because of the condition of their remains. The
+coroner determined that the cause of death for the pilots was massive blunt force trauma.
+The Civil Aerospace Medical Institute, Oklahoma City, Oklahoma, conducted a
+toxicological examination on a tissue specimen from the captain. The tissue tested negative for
+alcohol and other performance-impairing drugs. A tissue specimen from the first officer could
+not be obtained.
+NTSB/AAB-06/04
+
+8
+TESTS AND RESEARCH
+Actuator Examinations
+Two flap actuators, one spoiler actuator, one rudder trim actuator, one landing gear door
+actuator, and the horizontal stabilizer actuator were recovered from the wreckage and shipped to
+Learjet’s facility in Wichita, Kansas, for further examination under the FAA’s supervision.
+According to Learjet, at the time of impact, the flap actuators were in the retracted
+position. The damage to the spoiler actuator prevented the determination of a definitive impact
+position, but Learjet stated that the actuator was either deployed to 1.5º or stowed. The rudder
+trim was found in the near-neutral position. Impact damage prevented the determination of the
+position of the landing gear door actuator.
+The horizontal stabilizer actuator’s upper attachment rod end, which attaches to the
+horizontal stabilizer, was detached from the actuator. The U-bolt, which is installed over the rod
+end, was still attached to the actuator at one end. The lower attachment lug, which attaches to the
+vertical stabilizer, was also detached from the actuator. Examination of the fracture surfaces
+revealed 45º shear lips and irregular fracture features. No evidence of fatigue or cracking was
+noted during a microscopic examination.
+The horizontal stabilizer’s actuator jackscrew dustcover was pressed into the jackscrew
+threads. A 3.2-inch portion of the jackscrew extended from the nut. The extended portion of the
+screw was bent and fractured at the screw and nut interface. A measurement of the nut showed
+that the overall length of the actuator was stretched by 0.30 inch (the original overall length of
+the actuator was 9.89 inches). The screw and nut were examined for evidence of galling or
+abnormal wear, but none was found. The screw and stop were installed in accordance with
+Learjet’s recommended positions.
+A slot and small window were milled into the body of the cylindrical nut to view the
+location of the screw stop in relation to the nut threads. The distance from the mechanical stop to
+the fully extended position was 0.812 inch, which corresponded to a horizontal stabilizer position
+of -1.8º nose down. According to Learjet, with this trim setting and the airplane’s estimated
+weight and balance at the time of departure, the airplane would have been trimmed for a
+calibrated airspeed of 285 knots (± 25 knots calibrated airspeed).
+Air Traffic Control Sound Spectrum Study
+The Safety Board conducted an ATC sound spectrum study on all of the radio
+transmissions from the accident airplane. The frequency response of the first officer’s headset,
+the accident airplane’s radios, and the Los Angeles Air Route Traffic Control Center’s recording
+system prevented background sound signatures associated with the airplane’s systems and
+engines from being recorded during any of the transmissions associated with the accident flight.
+NTSB/AAB-06/04
+
+9
+Aircraft Performance Study
+The Safety Board examined the FAA’s radar data and computed the accident airplane’s
+calibrated airspeed and Mach number throughout the flight. Review of the radar data revealed
+that the airplane’s airspeed continued to increase after the pilots initiated the descent and
+declared an emergency.
+ORGANIZATION AND MANAGEMENT INFORMATION
+At the time of the accident, XtraJet employed eight pilots and four dispatchers and
+operated two Gulfstream 1159 airplanes and one Learjet 36 airplane. The captain and first officer
+were employees of AAN and were not listed on XtraJet’s Part 135 operating certificate.15 The
+accident airplane was not listed on XtraJet’s or any other Part 135 certificate. XtraJet
+representatives stated that the company had intended to add the captain, first officer, and airplane
+to its Part 135 certificate before the accident but had not done so. According to XtraJet’s former
+director of operations, the accident airplane had maintenance-related issues that needed to be
+resolved before it could be inspected for Part 135 conformity and then added to the certificate.
+Xtrajet’s former director of operations believed placement on the company’s certificate would
+not have happened until spring 2004.
+During initial postaccident interviews, XtraJet personnel told a Safety Board investigator
+that the flight was operated as a personal flight to pick up a family member of the companies’
+owner. During subsequent interviews, XtraJet’s former director of operations stated that he had
+reason to believe that the intended passenger was not a family member but was instead “a loyal
+paying customer.”
+15 XtraJet listed a JETT employee on its Part 135 certificate as the company’s director of maintenance.
+NTSB/AAB-06/04
+
+10
+ANALYSIS
+About 0913, a Learjet 24B, N600XJ, registered to and operated by Pavair, Inc., departed
+controlled flight, entered a near-vertical descent, and crashed into high desert terrain near
+Helendale, California. Review of ATC communications and airplane radar data revealed that the
+flight crew requested a return to the departure airport about 12 minutes after takeoff as the flight
+was climbing through 26,000 feet. The controller asked the pilots if they were declaring an
+emergency, and the first officer replied that they were not. During this transmission, the first
+officer’s voice sounded similar to the voice he used during his transmissions earlier in the flight,
+indicating that he was not under any increased stress at that time. The flight crew was instructed
+to descend to and maintain 24,000 feet. As the controller was issuing additional route clearance
+information, he asked the flight crew to confirm that the airplane was level at 24,000 feet. At that
+time, the radar data showed that the airplane had descended through 23,000 feet. About
+15 seconds later, the first officer declared an emergency. The first officer’s voice sounded
+agitated and highly distressed during this transmission compared with his earlier transmissions.
+Transcripts of recorded air-to-ground communications showed that about 2.5 minutes had
+elapsed from the flight crew’s request to return to the departure airport and the declaration of the
+emergency.
+A review of the radar data showed that the flight had a normal descent rate from 26,000
+to 24,000 feet (less than 2,000 fpm [feet per minute]). The descent rate then rapidly increased to
+6,500 fpm and then to 10,000 fpm. Integration of the communications times and the radar data
+revealed that the first officer’s declaration of an emergency occurred about the time of the
+increase in the descent rate to 10,000 fpm. A witness on the ground saw the airplane in level
+flight before it pitched nose down slightly, returned to level flight, and then pitched nose down in
+a near-vertical descent. He stated that the airplane remained in a nose-down attitude until it
+impacted terrain and exploded. The witness added that he did not observe any components
+separate from the airplane or any smoke or fire before the airplane impacted terrain.
+All airplane system components were destroyed and thus could not be examined. All
+primary and secondary flight control surfaces were identified; however, impact damage
+precluded any determination of preimpact control system continuity. The horizontal stabilizer
+was trimmed for 285 knots calibrated airspeed. No useful remnants remained from the cockpit
+instrument panel. No evidence of an in-flight fire was found. Impact damage precluded a
+determination of whether the engines were operating at impact. An aircraft performance study
+for this accident revealed that the accident airplane did not approach its maximum operating
+airspeeds until after the pilots initiated the descent and declared an emergency. No unusual or
+hazardous meteorological phenomena were near the airplane at the time of the loss of control.

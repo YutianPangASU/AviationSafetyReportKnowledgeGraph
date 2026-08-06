@@ -1,0 +1,1841 @@
+National Transportation Safety Board
+Washington, D.C. 20594
+L
+T
+RAN
+SP
+O
+A R
+N T
+O E PLURIBUS UNUM A
+I T
+T I
+A O
+N N
+S A FE
+TYBO
+A R D
+Aircraft Accident Brief
+________________________________________________________________________
+Accident Number: LAX01MA272
+Aircraft and Registration: Eurocopter AS350-B2, N169PA
+Location: Meadview, Arizona
+Date: August 10, 2001
+Adopted On: June 3, 2004
+HISTORY OF FLIGHT
+On August 10, 2001, about 1428 mountain standard time,1 a Eurocopter AS350-B2 helicopter,
+N169PA, operating as Papillon 34, collided with terrain during an uncontrolled descent about 4
+miles east of Meadview, Arizona. The helicopter was operated by Papillon Airways, Inc., as an air
+tour flight under Code of Federal Regulations 14 (CFR) Part 135. The helicopter was destroyed by
+impact forces and a postcrash fire. The pilot and five passengers were killed, and the remaining
+passenger sustained serious injuries. The flight originated from the company terminal at the
+McCarran International Airport (LAS), Las Vegas, Nevada, about 1245 as a tour of the west Grand
+Canyon area with a planned stop at a landing site in Quartermaster Canyon. The helicopter departed
+the landing site about 1400 and stopped at a company fueling facility at the Grand Canyon West
+Airport (GCW). The helicopter departed the fueling facility at 1420 and was en route to LAS when
+the accident occurred. Visual meteorological conditions prevailed, and a visual flight rules flight
+plan was filed.
+No ground-based or airborne witnesses to the accident were identified; however, National
+Transportation Safety Board investigators interviewed the surviving passenger on March 7, 2002.
+She reported that she and the other passengers had worn headsets to hear the pilot’s commentary
+and announcements.2 She did not hear any bells or horns before the accident and did not hear a
+verbal warning from the pilot or overhear any radio transmission with the phrase, “mayday.” The
+passenger stated that she remembered being “up in the air” and that she had “traveled quite some
+time” when everything “went quiet, the blades stopped turning and we fell.” She did not remember
+seeing the pilot move any switches or buttons before the accident.
+1Unless otherwise noted, all times in this report are mountain standard time. Because Nevada was on Pacific
+daylight time at the time of the accident, the times in Nevada and Arizona were the same.
+2In her interview, the surviving passenger gave seating positions for the passengers that differed significantly from
+the manifest provided by Papillon.
+NTSB/AAB-04/02
+
+2
+During the investigation, the company procedures for passenger check-in and seat
+assignment were reviewed. When the passengers first arrive at the Papillon terminal for their
+flight, they are weighed and given a playing card that serves as their boarding pass; the playing card
+number represents the individual’s seat assignment. The company uses a computer program, which
+takes the passenger weight value and assigns a seat for optimum weight and balance control. This
+program also generates a manifest. Passengers are then required to watch a short safety video
+before being bussed to their helicopter for the flight. Upon arrival at the helicopter, the passengers
+are met by the pilot and asked if there are any questions regarding the safety video. The pilot then
+points out the various safety features of the helicopter. Passengers are asked for their boarding pass,
+and the pilot ensures that the passengers sit in their assigned seats.3
+The passengers in the accident helicopter were part of a group of 12 individuals traveling
+together who booked the Canyon Celebration tour flight offered by Papillon. During check-in,
+the 12-member group was assigned to two helicopters, six passengers in the accident helicopter
+and 6 in the other helicopter. According to Papillon’s general manager, the route and tour are
+standard and performed five times a day. The route consists of departure from LAS eastbound
+along Tropicana Boulevard to Hoover Dam, over Indian Pass, and to the west end of the Grand
+Canyon to the entrance near “Green Route 4,”4 then down to Quartermaster Canyon. The 1½-
+hour itinerary included a 30-minute stopover at either the Quartermaster Canyon or the Lower
+Ramada landing sites, which are leased from Native American tribes and used exclusively by
+Papillon. (The accident flight landed at Quartermaster Canyon.) The helicopters are shut down
+after landing, and the passengers are then given a picnic-type lunch, with nonalcoholic
+champagne. The passengers are then reboarded into the helicopters, and they depart. Depending
+on weight restrictions, some of the helicopters stop at an uncontrolled field, GCW, where
+Papillon maintains a fuel tanker truck. Hot fueling is conducted at this facility.5
+Company flight following records indicated that Papillon 34 departed LAS about 1245 as
+the third helicopter in the six-ship flight conducting the Canyon Celebration tour, with about 5
+minutes between departures. Papillon 34 was originally scheduled to depart at 1230.
+The flight departed Quartermaster Canyon about 1400 and landed at GCW about 1410
+with about 15 percent of the fuel remaining (about 30 minutes of flight time). (See figure 1.)
+The GCW fuel log indicated that the helicopter was serviced with 27.9 gallons of Jet A fuel,
+which increased the amount of fuel on board to about 34 percent of the capacity (about 70
+minutes of flight time). Papillon 34 departed about 1420 for the return flight to LAS.
+3According to company procedures, the pilots can alter seat assignments, but only after recomputation of the
+weight and balance. Interviews with company pilots revealed that although this procedure gives them the authority to
+change the passenger seating, they rarely allow passengers to swap seats.
+4The Special Federal Aviation Regulation (SFAR) 50-2 covering the airspace in and around the Grand Canyon
+specifies predetermined and charted routes that fixed and rotary wing aircraft must follow.
+5Hot fueling is a procedure whereby the tanks are filled while the engine(s) are running. In the case of a
+helicopter, the rotors are turning at a ground-idle power setting while the procedure is conducted.
+NTSB/AAB-04/02
+
+3
+Figure 1. Topographic chart showing departure points and crash site.
+None of the Papillon pilots who were interviewed recalled hearing any radio
+transmissions from the accident pilot after he had departed from GCW. A company pilot in
+N911KR recalled seeing the accident flight about 2 to 3 minutes in front of him at about 5,500
+feet mean sea level (msl) in the vicinity of the Grand Wash Cliffs during the return flight to LAS.
+These cliffs were depicted on local aeronautical charts as part of the route structure for all
+returning flights and were used by the pilots as a navigational landmark. The pilot in N911KR
+reported that company procedures were to change radio frequencies prior to crossing the Grand
+Wash Cliffs. He did not recall hearing the accident pilot make that frequency change.
+The area of the accident site is remote and has limited radar coverage. An examination of
+primary and secondary beacon targets derived from National Track Analysis Program radar data
+obtained from the Los Angeles Air Route Traffic Control Center was performed covering the
+period from 1424 to 1432. Based on the time stamp from the secondary beacon returns and the
+relationship of the targets to the accident location, only two secondary radar targets6 could be
+associated with Papillon 34 just before the accident. No primary returns were detected. The
+target received at 1428:05 showed a mode C reported altitude of 5,400 feet msl, with a location
+over or just west of the cliff edge. The next target, received at 1428:17, showed a mode C
+reported altitude of 4,500 feet msl, with a location approximately 1,100 feet horizontally from
+the accident site. Statements from other pilots in the area indicated that, following the accident,
+other helicopters diverted to the crash site. Numerous other secondary targets appear over and
+around the accident location between 1429 and 1432.
+6A secondary radar target is one in which the position, altitude, time, and a transponder beacon code is denoted on
+the air traffic controller’s radar screen. A primary target consists of only a radar return from the aircraft structure and
+does not provide any altitude or beacon code information.
+NTSB/AAB-04/02
+
+4
+Upon crossing the Grand Wash Cliffs, all of Papillon’s flights descend from 5,500 feet
+msl to 4,500 feet msl to avoid opposite direction traffic and to comply with the hemispheric
+flight rules in 14 CFR Part 91. As N911KR passed the Grand Wash Cliffs, the pilot looked to
+his left and noticed a column of black smoke. Upon closer investigation, he confirmed that the
+smoke was rising from the wreckage of a Papillon helicopter. He immediately notified the
+company of the accident and requested that emergency medical services be notified. He then
+landed at a suitable nearby spot and rendered whatever assistance he could to the survivor.
+The accident site was located on a hillside about 5 miles east of Meadview, Arizona, at 35o
+59.19’ north Latitude and 113o 59.00’ west Longitude. The main wreckage was located about ¼
+mile west of, and 1,800 feet msl below, the rim of the Grand Wash Cliffs. Site elevation obtained
+from a digital handheld altimeter was 4,041 feet msl. The terrain slope was estimated to be 40o and
+sloped up toward the east culminating in the Grand Wash Cliffs.
+PILOT INFORMATION
+A review of Papillon company personnel and training records and Federal Aviation
+Administration (FAA) airman and medical record files revealed that the pilot held a commercial
+pilot certificate, with rotorcraft ratings for helicopters and instrument-helicopter, the most recent
+issuance of which was dated July 29, 1999. He also held a flight instructor certificate for
+helicopters. The most recent second-class medical certificate was issued to the pilot on July 3,
+2001, without limitations. A review of FAA records found no accident or enforcement action
+history associated with the pilot.
+The FAA airman records revealed that the accident pilot received a private pilot certificate
+with a rotorcraft-helicopter rating on June 25, 1993. His commercial certificate with a rotorcraft
+helicopter rating was first issued on March 25, 1996. He received a flight instructor certificate
+on June 11, 1997, and he was issued an instrument rating for helicopters on July 29, 1999.
+The pilot was hired by Papillon for a line pilot position on September 14, 2000, and entered
+the company’s Part 135 training program. According to the training records, he was given credit
+for completion of an AS350 helicopter line check and competency check in accordance with the
+requirements of 14 CFR 135.293 and 135.299 at his previous employer on August 3, 2000. He also
+received 20 hours of credit for previous ground training at his former employer. The pilot
+completed his initial ground training on September 16, 2000. He completed the ground and flight
+training for the SFAR Green Route 4 on September 22 and 26, 2000, respectively. He completed
+recurrent ground training on February 20, 2001, and his line and competency checks in the AS350,
+required by 14 CFR 135.293 and 135.299, on February 21, 2001.
+According to company records, the pilot’s total aeronautical experience consisted of 2,794
+hours, all of which were accrued in helicopters, with 699 total hours flown in the AS350. In the
+90 and 30 days preceding the accident, he had flown 224 and 86 hours, respectively.
+A review of Papillon’s ground and flight training program disclosed that the following topics
+were covered: settling with power; hovering in upwind, downwind, and crosswind conditions; and
+high-altitude takeoffs. The checkride training form used by the company contained a block for the
+instructor to sign off completion of the settling with power maneuver. There was also written
+NTSB/AAB-04/02
+
+5
+material distributed to each pilot that described settling with power and the proper corrective
+actions. According to the chief pilot, settling with power was a required maneuver on all
+checkrides, and hydraulic transparency was a procedure discussed during the hydraulic
+emergencies segment of ground school.7
+The investigation did not reveal anything unusual regarding the accident pilot’s
+appearance, conduct, or performance during the 72 hours prior to the accident. The accident
+pilot reported for duty at Papillon operations in LAS at 0843 on the day of the accident. He was
+assigned to fly four tour flights that were scheduled to depart at 0945, 1230, 1515, and 1800.
+The dispatcher and several other pilots observed the accident pilot on the day of the accident, and
+they reported seeing nothing unusual regarding his behavior or demeanor.
+The accident pilot was scheduled to fly the accident helicopter on all four of his
+scheduled flights. He completed the scheduled 0945 flight without incident. The 1230 flight
+was scheduled to carry six passengers. Five other Papillon helicopters were scheduled to depart
+on tour flights from LAS about the same time.
+AIRCRAFT INFORMATION
+Based on a review of maintenance and manufacturing records, the Eurocopter AS350-B2
+helicopter, serial number 2477, had accrued a total time since new of 1,356 hours and 1,679
+flight cycles. See figure 2 for a view of the AS350’s main structural components. The
+helicopter was powered by a Turbomeca Arriel 1D1 engine, serial number 9155. According to
+factory records, this was the original engine installed in the helicopter at the time of manufacture.
+No previous overhauls were noted on the engine, which had accrued the same total time since
+new as the airframe. The engine cycles8 were recorded as 1,696.55 for the gas producer, and
+1,698 for the power section. In the previous 90 days, the helicopter had flown 39.0 hours, of
+which 37.6 hours were accrued in the past 60 days.
+Figure 2. View of the AS350’s main structural components.
+7Settling with power and hydraulic transparency are discussed later in this report.
+8According to representatives at Turbomeca, the cycle count difference is due to the factory procedure for
+determining cycle counts, based on power levels and time.
+NTSB/AAB-04/02
+
+6
+Helicopter Maintenance History
+General
+The accident helicopter was manufactured by Eurocopter on May 5, 1991, and delivered to a
+private individual in Japan under the Japanese registration number JA6081. The airframe and
+engine accumulated 1,307 hours while in Japan. According to an engineering report supplied by
+Eurocopter France and historical records from Turbomeca, the helicopter sustained structural
+damage during a hard landing and ground resonance event on September 16, 2000. The helicopter
+was deemed to be not economically repairable and was sold to Heliquip International, Ltd., New
+Zealand, in a nonairworthy status. The Safety Board’s Maintenance Records Group examined the
+original Japanese maintenance records, and no export airworthiness certificate from Japan to New
+Zealand was found.9 The helicopter was registered in New Zealand under the registration number
+ZK-HXT on March 4, 2001, and issued a New Zealand Civil Aviation Authority (CAA) certificate
+of airworthiness and an export airworthiness certificate on April 17, 2001. Papillon Grand Canyon
+Helicopters purchased the helicopter from Heliquip International on April 4, 2001, and it arrived in
+a crate at the company’s facility on June 20, 2001.
+New Zealand Maintenance Records
+The New Zealand maintenance records given to Papillon with the sale of the helicopter were
+examined. These records included logbooks for the airframe and engine and a separate record book
+detailing airworthiness directive (AD) compliance. A copy of Heliquip International Job Sheet
+[work order] number H1083, detailing the repair of the helicopter, and a New Zealand CAA export
+airworthiness certificate, number 1/21L/30, were also included. No Japanese export airworthiness
+certificate was found in the New Zealand records.
+Heliquip International Job Sheet H1083 was dated January 3, 2001. Under the nature of
+work description an entry states, “Carry out C-Check and prepare for a NZ certificate of
+airworthiness.” Thirty-nine specific items of work are listed on the job sheet, and separate sheets
+attached to this job sheet detail the replacement parts used during this work. The job sheet notes
+compliance with three service bulletins (SB). Items 23 and 24 of the job sheet note the replacement
+of the left and right center beams. Items related to the engine are listed in items 22 and 35 through
+38 and include the following items: engine droop check, engine power check, rear bearing oil flow
+check, and engine vibration check. A rubber stamp entry appears at the bottom of page 4 of the job
+sheet certifying that the work was in accordance with Part 43 of the New Zealand CAA regulations.
+The first entry in the aircraft logbook is dated April 4, 2001, and notes the completion of
+the C check. This entry states that the helicopter was imported from Japan and that the C check
+was “carried out following Japanese report of a ground resonance problem.” The entry refers the
+reader to Job Sheet H1083 at Heliquip International for full details. The entry further states, “In
+brief: Helicopter dismantled including removal of tailboom, canopy, skid gear, flight controls,
+and all rotating components. The following components dismantled for inspection: main rotor
+shaft assembly, main rotor head, vibration absorber and B1 beam. New starflex, frequency
+9Subsequent inquiries by the JAAIC determined that the Japan Civil Aviation Authority did not issue an export
+airworthiness certificate for the aircraft.
+NTSB/AAB-04/02
+
+7
+adaptors, main rotor blade sleeves, outer spherical bearings, and spherical thrust bearing bolts
+installed.” The entry concludes with a certification that the work was in accordance with Part 43 of
+the New Zealand CAA regulations.
+Three flights are noted in the journey log. The time carried forward at the start of the page
+shows 1,307.8 total hours and 1,595 cycles; these times correspond to the hours in the last entry in
+the journey log of the Japanese records. These flights were conducted on April 11, 12, and 14 of
+2001, and were 1.1, 8.1, and 1.4 hours long, respectively. The ending total time was 1,318.4 hours,
+which is the time carried forward in the Papillon maintenance records as the beginning total time.
+The last two entries in the airframe logbook are dated April 17, 2001. The first entry is the
+issuance by the New Zealand CAA of a standard airworthiness certificate. The second entry is the
+issuance by the New Zealand CAA of an export airworthiness certificate.
+The engine logbook maintenance section has two entries. The first one is dated April 4,
+2001, and notes that the engine was imported from Japan installed in airframe serial number
+2477 (the accident helicopter). The entry stated the following:
+100-hour inspection carried out [in accordance with the] manufacturers maintenance
+manuals. Oil changed to Mobil 254. All AD’s & special inspections complied with.
+Engine test run and vibration check carried out with result of 10 mm/sec. Rear bearing oil
+flow check 100 mls. Engine test flown and power check carried out…droop check and
+found satisfactory after adjustment ½ turn anti-clockwise. Engine considered suitable for
+[New Zealand certificate of airworthiness] issue.
+The entry concludes with a certification that the work was in accordance with Part 43 of the New
+Zealand CAA regulations.
+Japanese Maintenance Records
+The Japanese maintenance records given to Papillon with the sale of the helicopter were
+reviewed. Interpreters were retained to translate the records, and the history of the helicopter
+was determined. Written translations were made of the entries listed for the year 2000 in the
+airframe and engine logbooks and from June 2000 to the end of records in the journey log.
+The last entry in the airframe logbook is dated June 29, 2000, and notes a balance
+adjustment to the tail rotor and tail rotor drive shaft. The last entry in the engine logbook is
+dated June 27, 2000, and notes the engine’s reinstallation in the airframe following completion of
+SB 292720246. The last entry in the journey log is dated August 12, 2000, and concludes with a
+helicopter total time of 1,307.8 hours. The notation section of this entry notes that a hard landing
+occurred.
+Records for Inclusion of Hard Landing Inspections
+American Eurocopter specifies required hard landing inspection items in section
+05.53.00.605-01 of its AS350-B2 Maintenance Manual. Two separate inspections are listed in
+that section, the first addresses hard landing events associated with autorotations and the second
+NTSB/AAB-04/02
+
+8
+addresses hard landings under power. No maintenance or inspection activity was recorded in the
+Japanese records after the August 12, 2000, flight.
+The specific entries in the New Zealand airframe and engine logbooks and Heliquip
+International Job Sheet H1083 were compared to the hard landing inspection items (hard landing
+under power) listed in the AS350-B2 Maintenance Manual. The only items not documented as
+having been accomplished are (1) tail rotor drive shaft alignment per work card 65.10.00.602 and
+(2) landing gear inspection per work card 32.13.00.601.
+Turbomeca specifies required hard landing inspection items in chapter 71-00-04 of its
+Arriel 1D1 Maintenance Manual. Two separate inspections are listed in that chapter; the first
+addresses hard landing events associated with blade strikes and the second addresses hard
+landings under power without blade strikes.
+The specific entries in the New Zealand airframe and engine logbooks and Heliquip
+International Job Sheet H1083 were compared to the hard landing inspection items (hard landing
+without blade strikes) listed in the Arriel 1D1 Maintenance Manual. The only item not
+documented as having been accomplished is a dye penetrant inspection of the starter generator
+and fuel control mounting flanges.
+Recent Maintenance and Inspection History
+Papillon’s maintenance program utilizes the manufacturer’s service recommended inspection
+program for both the airframe and engine. In addition, the company performs annual inspections in
+accordance with 14 CFR Part 43. The company also follows the manufacturer’s recommended
+additional guidelines for sand and dust environments and elected to exclude the corrosive
+environmental guidelines and related inspections due to their exclusive operation in a dry, desert
+climate. The company also complies with all manufacturer SBs within the time specified.
+After delivery to the Papillon maintenance facility, numerous maintenance inspections and
+modifications were accomplished. The modifications were performed either in accordance with a
+supplemental type certificate or field approvals under FAA Form 337. Papillon applied for a U.S.
+certificate of airworthiness during this maintenance and modification process. A conformity
+inspection was conducted by an FAA designated airworthiness representative (DAR),10 and an
+airworthiness certificate in the normal category was issued on August 2, 2001.
+Following completion of this work and a functional check flight on August 3, 2001, the
+helicopter was placed into revenue service at an aircraft and engine total time of 1,319.4 hours. Six
+routine scheduled maintenance inspections were performed between the date that the aircraft was
+placed into revenue service and the date of the accident. No unresolved discrepancies were noted in
+the maintenance records.
+Airworthiness Directive and Service Bulletin Compliance
+10A DAR is not a government employee. A DAR is a private individual who is appointed by the FAA to conduct
+certain activities related to the inspection and certification of aircraft on behalf of the FAA. These individuals
+typically charge a fee to the owners/operators of the aircraft for this service.
+NTSB/AAB-04/02
+
+9
+A comparison of the maintenance records with a listing of FAA ADs and manufacturer
+SBs applicable to the airframe and engine disclosed that the company had complied with all ADs
+and SBs.
+Operator’s Maintenance Personnel Training and Signoff Procedures
+The maintenance records revealed that personnel working on and signing for
+discrepancies for the accident helicopter and other personnel at the company’s Las Vegas base
+had no previous formal factory training on the AS350-B2 or Turbomeca Arriel 1D1.
+Furthermore, work performed on the accident aircraft was at times inspected by the same person
+that performed the work. A review of the selected records of several of the operator’s AS350
+fleet at the Las Vegas base disclosed that entries generally contained a description of the work
+performed, but did not include specific maintenance manual references for accomplishment of
+the work.
+The maintenance and record-keeping requirements for operations under 14 CFR Part 135 are
+governed, in part, by 14 CFR 135.411, which prescribes rules in addition to those contained in
+other parts of the regulations for the maintenance, preventive maintenance, and alterations for
+each certificate holder. For aircraft with nine seats or less, the regulation allows the operator to
+select less stringent requirements concerning the number, job categories, and training of its
+maintenance personnel. Specifically, 14 CFR 135.411(a)(1) permits operators to use the more
+general maintenance personnel and record-keeping requirements found in 14 CFR Subparts 91 and
+43.
+The pertinent provisions of 14 CFR 43.9 allow FAA-certificated maintenance personnel to
+perform work on all aircraft without the requirement for make- and model-specific maintenance
+training. FAA-certificated maintenance technicians may also inspect and sign off their own work
+for return to service. The record-keeping requirements of this regulation also allow the maintenance
+technicians to record a description of the work performed without specific reference to maintenance
+manual sections, pages, or work cards.
+For aircraft with 10 seats or more, 14 CFR 135.411 requires the operator to comply with the
+maintenance program provisions specified in 14 CFR 135.423 through 135.443. These parts
+require, in part, that the operator’s maintenance personnel have make- and model-specific
+maintenance training, that trained and authorized inspectors other than the technician performing the
+work inspect any maintenance activity, and that more stringent record-keeping requirements be in
+place.
+Weight and Balance
+A weight and balance computation was performed for the helicopter with gross weight and
+center of gravity data points established for departure from LAS, GCW, and the accident site. In
+accordance with the helicopter’s FAA-approved type certificate data sheet, the maximum
+allowable ramp weight and takeoff gross weight were 4,961 pounds. Based on the load manifest
+weights, the estimated fuel consumed to the point of refueling and the amount of fuel loaded at
+GCW, the last departure gross weight was estimated to be about 4,554 pounds (2,065.66
+kilograms [kg]). Using the fuel flow figures in the AS350 rotorcraft flight manual (RFM), it was
+NTSB/AAB-04/02
+
+1 0
+estimated that about 38 pounds of fuel were consumed after takeoff from GCW, for a computed
+gross weight of 4,515 pounds (2,047 kg) at the time of the accident. The lateral center of gravity
+was at zero for all conditions. The longitudinal center of gravity averaged 127 inches, with an
+allowable envelope between 125.5 and 136 inches.
+Hydraulic System Shutoff Switch
+A toggle switch is mounted on the end of the collective control lever, which allows the
+pilot to manually turn off the hydraulic system by depressurizing the pump output. Prior to
+1990, the switch was guarded by perpendicular walls the height of, and on each side of, the
+toggle. In response to in-service reports (including one accident) in which inadvertent
+deactivation of the hydraulic system occurred by objects (principally sleeve cuffs and straps)
+catching on the switch, Eurocopter changed the design of the switch guard, which incorporated a
+horizontal, fixed-plate cover over the toggle switch to preclude inadvertent movement of the
+toggle. With the new guard, two separate motions are required to first reach the toggle, and then
+move it. SB 67-17R2 was issued by Eurocopter on October 25, 1990, and called for replacement
+of the old-style guards with the new ones. A review of Eurocopter manufacturing documents
+and airworthiness conformity documents in the maintenance records disclosed that the accident
+helicopter was equipped with the new-style guard, with SB 67-17R2 incorporated on the
+production line.
+Fuel Tank Design and Certification Testing
+The 540-liter capacity fuel tank is manufactured from a spin-molded polymide and does
+not have internal baffles. The tank is mounted in the fuselage behind the passenger compartment
+and below the main transmission deck, between the left and right baggage compartments.
+According to manufacturing drawing process specifications, the wall thickness varies according
+to measurement location on the tank. The manufacturing conformity acceptance test requires the
+tank to hold an internal pressure of 0.5 bars (7.14 psi [per square inch]).
+All versions of the AS350 that hold FAA-type design approvals are under Type
+Certificate Data Sheet (TCDS) H9EU. The first of the AS350 series, the AS350-C, initially
+received an FAA type certificate design approval on December 21, 1977. The predecessor to the
+AS350-B2 is the AS350-B, which received an FAA type certificate on November 9, 1978. The
+AS350-B2 design variant was approved by the FAA on June 8, 1990. The certification basis for
+all design variants under TCDS H9EU consist of 14 CFR 21.29 and Part 27, effective February
+1, 1965, plus the requirements contained in amendments 27-1 through 27-10. There are no
+exemptions or equivalent level of safety findings listed for the fuel tank.
+The regulatory change history of 14 CFR Part 27, “Airworthiness Standards: Normal
+Category Rotorcraft,” that pertains to requirements for fuel tanks and tank crash resistance was
+examined. For amendments 27-1 through 27-10, the only certification requirement for fuel tank
+crash resistance was found in 14 CFR 27.965, which was effective February 1, 1965, and was
+unchanged through amendment 27-10. The regulation states, in part, “Each fuel tank must be
+able to withstand, without leakage, an internal pressure equal to the pressure developed during
+the maximum limit acceleration with that tank full, but not less than 3.5 psi for conventional
+tanks; or 2.0 psi for bladder tanks.” With amendment 27-12 (effective May 2, 1977), 14 CFR
+NTSB/AAB-04/02
+
+1 1
+27.965 was amended. The basic internal pressure requirements listed previously were
+unchanged; however, other vibration proof tests were imposed against potential in-service
+leakage sources not related to deceleration events.
+Specific fuel system crash resistance standards were first introduced into 14 CFR Part 27,
+with amendment 27-30, effective November 2, 1994. Section 27.952 imposes drop-test
+requirements to prove that the design can withstand certain static and dynamic deceleration
+loads, depending on the fuel tank’s location within the helicopter structure. The minimum static
+and dynamic loadings (in units of gravity [or G] and direction of force application) specified for
+the fuel tank’s location in the AS350-B2 is: (1) 1.5 Gs in upward direction, (2) 8.0 G’s in
+forward direction, (3) 2.0 Gs in sideward direction, and (4) 4.0 Gs in downward direction.
+Documents were obtained from Eurocopter France concerning the fuel tank design and
+any testing performed to establish static and/or deceleration load limits. The company provided
+report number 350A.06.2064, dated June 1, 1977, which documents a series of drop tests
+performed from September 1976 to February 1977. In the test series, an accelerometer-
+instrumented, conforming production fuel tank filled to 80 percent capacity with water and the
+tank’s associated mounting structure was subjected to a series of drop tests from varying heights
+to induce deceleration loads in the vertical (Z) and horizontal/longitudinal (X) axes. According
+to the report, the tank sustained a loading in the vertical downward Z axis of 6.1 Gs without
+deformation to the tank. In the X axis, neither the tank nor the mounting structure ruptured or
+exhibited deformation up to 3.85 Gs. Between 3.85 and 10.0 Gs, the tank exhibited deformation
+without rupture; however, the mounting structure was deformed. The tank and the mounting
+structure withstood an ultimate loading of 10.35 Gs.
+Engine Description
+The Turbomeca Arriel 1D1 is a free-turbine, fixed-geometry, turboshaft engine, which is
+rated at 732 shaft horsepower (takeoff) and features a modular design. The gas generator section
+consists of a one-stage axial, a one-stage centrifugal compressor, an annular combustor with
+centrifugal fuel injection, and a two-stage gas generator turbine. The rotational speed of the gas
+generator is determined by the rate at which fuel is burned in the combustor. Gas generator
+exhaust gases drive a single-stage power (free) turbine, which drives a reduction gear assembly.
+Torque is transferred forward through a power turbine shaft to an accessory gearbox mounted at
+the front of the engine.
+The Arriel engine provides the helicopter with a conventional fuel control system in
+which the collective pitch of the aircraft rotor establishes the power output of the engine.
+Generally, the helicopter rotor speed is held constant. As rotor collective pitch is changed, the
+load on the engine power turbine changes, tending to change its speed. The engine fuel control
+unit corrects for this by varying fuel flow, which changes the gas producer speed to supply the
+power required to maintain constant power turbine and helicopter rotor speeds.
+NTSB/AAB-04/02
+
+1 2
+METEOROLOGICAL INFORMATION
+Company Weather Briefing Procedures
+According to representatives of Papillon, the first pilot to arrive at LAS each morning was
+responsible for obtaining the current weather and forecast from the FAA flight service station.
+That information was then posted for the rest of the pilots to review upon their arrival. The chief
+pilot was responsible for updating the weather throughout the day, and he would notify the
+dispatcher if any weather phenomena threatened to become a hazard for company flights.
+According to the Papillon chief pilot’s records and statement, on the day of the accident,
+the weather was forecast to be sunny throughout the day with a slight chance of thunderstorms.
+Weather Reports, Forecasts, and Pertinent Data
+A Safety Board meteorologist conducted a study of the atmospheric conditions at the
+accident site during the timeframe of the occurrence.
+The closest official weather observation station to the accident site is the Kingman,
+Arizona, airport, which is 43.7 nautical miles south. The station’s elevation is about 700 feet
+lower than the impact location. At 1356, the station reported winds 190o at 10 knots gusting to
+15 knots; visibility 10 miles; scattered clouds at 7,500 feet; temperature 36o Celsius (C), dew
+point 17o C; altimeter setting 30.07 inches of mercury (Hg).
+At 1436, the station reported winds 320o at 12 knots; visibility 10 miles; clear skies;
+temperature 34o C; dew point 16o C; altimeter setting 30.05 inches of Hg. The peak wind and a
+wind shift were recorded at 1416. The peak wind was 320o at 28 knots. The station pressure at
+1356 and 1416 was recorded as 26.57 inches of Hg and 26.54 inches of Hg, respectively.
+Weather Surveillance Radar-88D (WSR-88D) Doppler weather radar images from the
+Las Vegas, Nevada (KESX), station were reviewed. The KESX radar is located 46.9 nautical
+miles from the accident site on an approximate bearing of 248o. At the accident site, the KESX
+radar beam center is about 8,900 feet with a beam width of about 4,700 feet. The images show
+weak weather radar echoes (weather radar echo intensities greater than 25 decibels) in the
+accident area. The images show intense weather radar echoes (weather radar echo intensities
+greater than or equal to 50 decibels) about 20 to 30 nautical miles east of the accident site.
+Although weak weather radar echoes were noted in the area of the accident,
+Geostationary Operational Environmental Satellite (GOES) 10 visible satellite imagery for 1400,
+1430, and 1500 showed clear skies in the accident area. Convective activity was noted in the
+1430 image about 20 nautical miles east and south of the accident site.
+The radar Base Radial Velocity images centered on the accident site for the times 1420,
+1426, 1432, and 1438 generally showed radial velocities of 5 to 10 knots away from the radar
+(westerly component) in the accident area. However, radial velocities of about 45 knots toward
+the radar (easterly component) were seen in the 1420 and 1432 images.
+NTSB/AAB-04/02
+
+1 3
+The 1420 image showed a radial velocity of about 5 knots away from the radar at the
+accident site. A radial velocity of about 45 knots toward the radar was detected about 2 nautical
+miles north of the accident site. The 1432 image showed a radial velocity of about 0 knots at the
+accident site. A radial velocity of about 45 knots toward the radar was seen about 5 nautical
+miles northeast of the accident site.
+A National Weather Service Senior Meteorologist at the Las Vegas, Nevada, Weather
+Service Forecast Office, was interviewed by Safety Board investigators via telephone on
+November 9, 2001, concerning the weather radar images. He reported that the weak weather
+radar echoes seen in the accident area were probably small cumulus clouds and ground clutter.
+The 45-knot, in-bound radial velocities seen in the Base Radial Velocity images were likely
+spurious data and nonmeteorological.
+Using data from all the sources, the pressures and temperatures for the listed altitudes
+were estimated for the time and area of the accident. These pressures and temperatures are
+shown in table 1 below.
+Table 1. Pressure and temperature valves for various altitudes on day of the accident.
+Altitude Pressure Temperature
+(feet msl) (milibars) (degrees C)
+4,000 878 36
+5,003 850 34
+7,146 789 24
+Papillon company pilots who landed at the accident site within minutes of the accident
+were asked about the atmospheric conditions. One pilot noted that the winds were calm and the
+temperature was approximately 106 degrees Fahrenheit (41.1o C) and that there was no
+turbulence. A second pilot said that the weather at the time was hot, light winds, and very light
+to moderate turbulence. When asked for a clarification of the turbulence, the pilot noted that he
+got “jostled a little” but nothing to cause a problem. A third pilot said that the weather was clear,
+sunny, hot, and that there was no turbulence at all, especially when crossing the ridge.
+FLIGHT RECORDERS
+The helicopter was not equipped with a cockpit voice recorder (CVR) or a flight data
+recorder (FDR), nor were they required by FAA regulations. The Papillon maintenance
+department had intended to install a maintenance-trend monitoring system on the helicopter, but
+had not yet scheduled this work. The system considered for installation would have sampled
+various engine parameters and would have stored these in nonvolatile memory for maintenance
+technician retrieval.
+NTSB/AAB-04/02
+
+1 4
+WRECKAGE AND IMPACT INFORMATION
+The accident site was located on the western side of an escarpment known as Grand
+Wash Cliffs in a steeply sloped, mountainous area covered with sparse brush, hard dirt, loose
+rocks, and Joshua trees indigenous to the high Arizona desert. Geologically, the Grand Wash
+Cliffs consist of small plateaus stair-stepped up from a flat desert floor that culminate into a
+mesa. See figure 3 for a profile view of the accident site.
+Figure 3. Profile view of the accident site. Note downsloping terrain.
+The accident site was located at an elevation of 4,041 feet msl. The average elevation of
+the top of the mesa formed by Grand Wash Cliffs is about 5,500 feet msl. The accident site was
+just outside the SFAR 50-2 (Green Route 4) area of the Grand Canyon National Park.
+An easterly energy path consisting of ground scars and wreckage debris was identified
+oriented in the direction of the cliff face and rising terrain. The energy path was approximately
+180o from Papillon 34’s last known direction of flight. All ground scars were confined to the
+immediate vicinity of the wreckage mass within the approximate diameter of the main rotor.
+Papillon tour helicopters and other operators based at Las Vegas generally cross the
+Grand Wash Cliffs westbound at 5,800 msl. The accident helicopter’s last known direction of
+flight was from GCW toward LAS, on a median magnetic heading of 265o.
+The Safety Board’s Structures Group examined the wreckage on site from August 12
+through August 17, 2001. FAA inspectors from the Las Vegas Flight Standards District Office
+(FSDO) arrived on-scene along with rescue personnel and made initial on-scene observations
+during the initial law enforcement rescue response phase. The inspectors photographed ground
+scars and impact marks before rescue personnel disturbed the area during the course of victim
+recovery operations. The on-scene investigation revealed no evidence of an in-flight fire.
+NTSB/AAB-04/02
+
+1 5
+Three separate aerial and ground surveys were conducted from points on the plateau at
+the cliff edge along possible approach paths to the accident site. No ground disturbances or other
+items associated with the helicopter were observed during these aerial and ground surveys.
+Due to thermal effects from the postcrash fire, bolt torque on all of the examined
+components could not be determined.
+The main wreckage area distribution, including helicopter debris, tree strikes, and ground
+impressions, were contained in an area approximately 40 feet in diameter. See figure 4 for an aerial
+view of the crash site.
+Figure 4. Aerial view of the crash site. Top arrow denotes first identified point of
+contact (IPI). Middle arrow denotes resting point of main wreckage. Lower arrow
+denotes right door. Note that the crash site is compact.
+The first identified point of impact (IPI) contained an outcropping of boulders. Various
+portions of the center fuselage belly panel, canopy glass, and all of the landing gear with the
+exception of the aft cross tube were found on and immediately around the boulder outcropping.
+The main wreckage came to rest about 20 feet downslope of the IPI. Using the IPI as the
+center point, the median bearing of the upslope debris path was approximately 085o. Charring and
+soot patterns propagated from the IPI down hill in a V-shaped pattern.
+The farthest piece of the helicopter wreckage from the IPI was the right door. It was located
+about 400 feet directly downslope from the IPI and was found in multiple pieces. The fracture
+surfaces on the door pieces were angular, irregular, and granular in character. The upper and lower
+hinges were distorted, with the door-side hinge gudgeons11 split and elongated. The hinge pins
+11A gudgeon is a socket for the pin of a hinge.
+NTSB/AAB-04/02
+
+1 6
+were attached to the door jettison arm and rod mechanism and were found adjacent to their
+respective hinge gudgeons in positions dimensionally similar to the pins being fully seated in the
+gudgeons. The bottom forward corner of the right front door contained longitudinal scrape marks
+consistent with the rock-covered slope between the door and the IPI. The corresponding fuselage
+doorpost was found in the vicinity of the IPI and had separated from the structure, with distortion
+evident in the vertical direction (lengthwise on the member).
+The left front door was found up slope from the IPI. (See figure 5.) It had separated from the
+fuselage with a portion of the forward fuselage doorpost attached to the upper and lower hinges.
+The doorpost section was torn from the fuselage structure. The lower hinge was bent and distorted,
+whereas the upper hinge was intact and undamaged. The hinge pins were fully seated in their
+corresponding gudgeons and also remained attached to the door jettison arm and rod mechanism,
+with the internal cockpit-side jettison handle in a near normal position. The door-operating handle
+was found in the closed and latched position.
+Figure 5. View of crash site showing left door (in foreground) found upslope from IPI.
+The pitot tube, which had been mounted on the nose of the helicopter, was found about 2
+feet uphill of the IPI.
+Ground impressions, scars, and tree strikes were upslope of the IPI over an arc between
+magnetic bearings from 080o to 110o. Two Joshua trees, centered on, and upslope of, the IPI
+exhibited angled cuts in the severed trunks. From the IPI, a ground scar and a Joshua tree were
+observed to the left at the 080o bearing, and another Joshua tree was observed to the right at the
+110o bearing. Both trees were on an arc with about a 20-foot radius.
+According to Eurocopter technical documentation, the rotor disk diameter is approximately 35
+feet, and the main rotor blades rotate in a clockwise direction when viewed from above. The Joshua
+tree to the left (080o) of the IPI was lying on its side showing upward cuts near the base adjacent to
+NTSB/AAB-04/02
+
+1 7
+an arcing, thin ground scar. The Joshua tree to the right (110o) of the IPI had an upward cut, which
+was flat and smooth on the end facing north and splintered on the opposite side (toward the south).
+Both of the cut Joshua trees were within a rotor disk radius of the center of the IPI. Damage
+patterns on the main rotor blades were principally on the lower surfaces and leading edges of the
+blades.
+The right forward cross tube and segmented pieces of the skid tube to the aft cross tube leg
+were located at the IPI. The skid tubes contained large dents and scrape marks that were not parallel
+to the longitudinal axis of the skids. The skid tubes also exhibited bends about midspan. The right
+spring steel extension was separated from the skid tube. The left spring steel extension was bent up
+70o from its original position on the airframe. The right forward skid toe exhibited fire damage. The
+left forward skid toe was not fire damaged. The aft cross tube and skid heels were located with the
+main wreckage.
+Examination of the fuselage wreckage disclosed that the floor of the cockpit was inverted
+in the main wreckage area. A portion of the aluminum tail boom aft of the horizontal stabilizer
+was separated, with the fracture features uneven and jagged in nature. The separated portion of
+the tail boom and the nose of the helicopter came to rest adjacent to each other. The yellow main
+rotor blade12 was lying on top of the tail boom. The blue and red main rotor blades were oriented
+180o from the tail boom, laying on top of each other (the blue blade was on top of the red blade)
+and adjacent to the engine. (See figure 6.) The engine came to rest behind the main gearbox
+debris in its normal relationship to the fuselage.
+Figure 6. View looking upslope from IPI. The tail rotor blade is shown in right half of
+photograph.
+12Helicopter rotor blades are color coded for maintenance identification purposes.
+NTSB/AAB-04/02
+
+1 8
+The tail rotor blades were bowed and had minor leading edge damage. One strike tab was
+bent aft and exhibited chordwise scratching. The other strike tab was bent inboard and also
+exhibited chordwise scratching.
+The primary fuselage structure is of aluminum construction. The postimpact fire consumed
+the majority of the cabin area aft of the pilot’s seat. The secondary structure is mostly of composite
+construction and consisted of the canopy, doors, fairings, and windows; these structures were also
+almost totally consumed by fire.
+The helicopter was equipped with the following doors: two hinged cabin doors on either side
+for pilot and forward passenger entry, one subdoor on the right side, and a large sliding door on the
+left side. The two front doors are hinged to the doorpost adjacent to the front windows and open
+forward. All of the doors were accounted for at the accident site.
+The postimpact fire consumed all of the aluminum control tubes aft of the pilot’s seat to the
+transmission deck. The collective pitch lever and cyclic stick suffered thermal damage, and all of
+the associated electrical switches on the grips were thermally consumed. No determination could be
+made of the position of the hydraulic cutoff switch. The cyclic stick was frozen and could not be
+moved. The collective pitch lever was manually raised and lowered, with corresponding movement
+noted to the associated collective pitch lever control system rods in the forward cockpit area that
+were not consumed by fire.
+The center console was thermally consumed, and the positions of the switches in this area
+including the hydraulic system test switch and the electrical master switch could not be determined.
+The rotor brake lever was found in a normal operating position. The throttle lever was found in the
+Normal Flight (gate detent) position.13
+Flight control continuity could not be established from the pilot’s station to the hydraulic
+servos due to thermal destruction of the aluminum push-pull and torque tubes; however, all of the
+17 steel flight control rod end fittings associated with these tubes were accounted for, with no
+unusual damage or operating signature pattern evident on the bolts, nuts, safety devices, or clevis
+bolt hole bores. Some of the flight control rods with their associated end fittings were intact in that
+portion of the fuselage not destroyed in the postimpact fire.
+The left lateral and fore/aft main rotor hydraulic servos remained attached to the flared
+housing (top portion of the main rotor gear box [MGB]). The right lateral main rotor hydraulic
+servo and the flared housing attachment lug were consumed in the postimpact fire. The upper
+attachments for the hydraulic servos were separated from the main rotor nonrotating swash plate at
+the rod end bearings. The housing of the left-lateral hydraulic servo was partially consumed in the
+postimpact fire, and the rod end fracture face was angular and granular in appearance. The fore/aft
+hydraulic servo was also partially consumed; however, no fracture surface remained. The housing
+of the right-lateral hydraulic servo was completely consumed in the postimpact fire, and no fracture
+surfaces remained.
+13The lever-type throttle control is mounted on the control quadrant below and behind the lower center console
+and has the following operating positions: Stop (fuel flow off), Normal Flight (gate-detent), and Emergency Override.
+NTSB/AAB-04/02
+
+1 9
+The antitorque pedals on the pilot’s side were separated from the structure, and each pedal was
+bent forward.14 At the tail boom separation point, movement of the pitch change push-pull tubes
+resulted in pitch change of the tail rotor blades.
+Thermal processes consumed the fuel tank. Both boost pumps were thermally damaged. All
+aluminum fittings and lines at the fuel tank, boost pump, and fuel filter areas were thermally
+destroyed. The steel fuel fittings and connections located in the engine compartment aft of the
+engine firewall were found with the main wreckage and were exposed to thermal processes. The
+fuel level transmitter in the fuel tank was separated in three pieces. The fuel shutoff valve was
+found in the open position.
+All three arms of the Starflex were fractured and separated from the main body of the Starflex.
+All three main rotor head sleeve sets were thermally consumed/destroyed by fire, leaving only the
+fiberglass rovings. The main rotor blade retaining pins were in place. The spherical thrust
+bearings15 were thermally damaged; however, all of the steel laminates making up the spherical
+thrust bearings were present. Two of the three frequency adapters (elastomer blocks) were
+thermally consumed/destroyed. The third frequency adapter was thermally damaged and remained
+on the sleeve in its normal position.
+All three of the main rotor blades were principally intact; however, the blades exhibited
+trailing-edge, spanwise buckling and separation of the lower and upper surface skins as well as
+broomstrawing16 of the tips. All three main rotor blades exhibited chordwise scratching on the
+lower surfaces as well as denting of the leading edges.
+The yellow blade came to rest on top of the tail boom. The yellow blade’s trailing edge was
+separated near the tip. The remaining trailing edge of the blade was delaminated over most of its
+span. The blue and red blades came to rest adjacent to the engine, with the blue blade lying on top
+of the red blade. The blue blade exhibited fire damage with the trailing-edge portion split open and
+burned. The red blade had leading-edge, tip-end impact damage, with the composite fibers fanned
+out in a broomstraw pattern at the blade tip.
+The main rotor pitch change rod17 for the blue main rotor blade was intact and bent. The main
+rotor pitch change rods for the yellow and red main rotor blades were thermally destroyed leaving
+only the rod ends, which were connected at the pitch change horn and rotating swashplate.
+The engine-to-MGB drive shaft was separated from the MGB input pinon coupling tube. The
+flexible coupling18 between the shaft and engine splined adapter flange was intact and connected
+14 This helicopter was configured for tour operation with the left cyclic, collective, and antitorque pedals removed.
+The copilot’s seat was also removed and replaced with a two-place bench seat.
+15The spherical thrust bearings consist of laminated sandwich structure of steel cups and thin elastomer sheets.
+16The damage pattern called broomstrawing is characterized by longitudinal spanwise fracturing/splintering of the
+composite unidirectional fibers with the fanning out of these fibers in a flared pattern reminiscent of a broom straw.
+17 The pitch change rods connect the rotating swashplate to the pitch change horns of the main rotor hub.
+18The flexible coupling is designed to absorb minor misalignments in the drive shaft segment between the engine
+power takeoff and the MGB. The unit is composed of a series of thin stainless steel disks, which are stacked between
+the triangular three-armed flanges of the adjacent shaft connections. Each flange arm of one shaft is separated by 120o
+and the unit is assembled with the adjacent shaft’s flange arms at 60o from the first flange arms. Six bolts are used to
+secure the connection between the shaft flange arms and the stack of steel disks.
+NTSB/AAB-04/02
+
+2 0
+with all six bolts to the flange arms of both the shaft and the splined engine side flange. The flexible
+coupling was distorted in an S-bending pattern. The engine-side shaft flange splines were smeared
+around the circumference to a depth of about ¼ inch.
+Portions of the flexible coupling on the MGB input coupling tube flange were retained by
+two of its three bolts. The remaining attachment hole was elongated and bent forward. No bolts
+or flexible coupling segments remained on the shaft side of the MGB end of the drive shaft. The
+attachment holes on the shaft flange arms were elongated and gouged opposite the direction of
+rotation, and the arms were bent aft toward the engine. Dents and nicks were observed on the
+side of the arms opposite the direction of rotation. During detailed examination of this area of
+the wreckage, several pieces subsequently identified as components of the missing shaft side
+flexible coupling were found in the ash debris. A bolt was found in a fragment of flexible
+coupling band. The bolt had failed in shear, and the nut was not recovered. Another flexible
+coupling fragment was found in association with a nut that was split open. The three remaining
+nuts, bolts, and associated flexible coupling fragments that make up the whole coupling were not
+recovered.
+The postimpact fire consumed the engine-to-MGB drive coupling housing and gimbal
+(universal) joint; however, all four gimbal joint pins were recovered with their safety pins in place.
+The postimpact fire also consumed the MGB magnesium housing. The internal gears were exposed
+with magnesium ash deposits present, and no prefire damage or other unusual operating signature
+was observed on the gear teeth.
+The forward portion of the tail boom structure was mostly consumed in the postimpact fire;
+however, portions were recovered containing the tail rotor compensator mechanism, and the
+horizontal stabilizer.
+The tailskid was bent up into the lower portion of the vertical stabilizer. The lower vertical
+stabilizer was bent out to the right about 30o. The upper vertical stabilizer had one perforation at the
+trailing edge.
+The tail rotor drive system was comprised of an intermediate drive shaft, a long drive shaft,
+and the tail rotor gearbox (TGB). The intermediate drive shaft was separated and found about 5 feet
+from the main wreckage. The forward end of the intermediate drive shaft, where it attaches to the
+engine, remained attached through a flexible coupling. The coupling was fractured and exhibited
+“fanning” of the laminates. No rotational scoring was observed on the splined adapter or the
+flexible coupling at the aft end of the intermediate drive shaft. No rotational scoring was observed
+on the steel splined fitting on the forward end of the long drive shaft. The long drive shaft was
+fractured in three places and exhibited thermal distortion and flattening. All five tail rotor drive
+shaft support bearings were recovered at the site. Bearing 1 (nearest to the TGB) exhibited fire
+damage; however, the bearing rotated with no noticeable binding. The long drive shaft aft of
+bearing 1 was attached to the TGB with the flexible coupling and was intact. Bearings 2 through 5
+exhibited moderate fire damage and were seized.
+No visible damage was apparent to the exterior of the TGB. The tail rotor was manually
+rotated with no binding of the TGB evident. Both tail rotor pitch change rod ends were bent on the
+NTSB/AAB-04/02
+
+2 1
+shaft just below the spherical bearings. One of the tail rotor pitch change rod ends had fractured and
+exhibited an angular and granular fracture face. The pitch change horns were damaged and bent.
+The forward landing gear cross tube was fractured at the right side fuselage attachment point.
+The separated portion was bent forward. Both of the forward landing gear shock absorbers had
+separated from the forward cross-tube attachment points. The aft landing gear cross tube remained
+intact and attached to the cabin floor. The two aft attachment clamps were found rotated
+approximately 90o forward of their normal position. The right leg of the aft cross tube was bent
+slightly aft in relation to the left leg.
+The skid tubes were fractured and separated at the attachment points of the cross tubes. The
+right forward skid toe exhibited fire damage. The left forward skid toe was not fire damaged. The
+steps appeared undamaged and were located at the IPI.
+Members of the Safety Board’s Powerplants Group documented the engine at the
+accident site on August 12, 2001. The engine was found resting on its right side,19 in its normal
+location and attitude with respect to the aircraft fuselage. A ground burn pattern was evident at
+the IPI and extended about 20 feet downslope, where the main body of the wreckage lay. The
+aircraft fuel cell, forward tail boom, fuselage body structures, and the cabin aft of the cockpit had
+been consumed by fire.
+The engine bay deck had deformed around the engine’s lower right and bottom sides; only the
+left and rear sides were accessible to inspection. The engine was burned in areas unprotected by the
+deck material but was otherwise intact, with no discernable evidence of catastrophic mechanical
+failure or in-flight fire. Visible portions were coated with fire extinguisher chemicals and pieces of
+resolidified metal material. Re-formed metal droplets noted at component edges were consistent
+with the resting attitude of the engine. The area of greatest fire damage was observed at the front of
+the engine between 12 and 5 o'clock, where the accessory gearbox and engine inlet were exposed to
+the ground fire encompassing the airframe and transmission. Portions of the engine fuel and air
+system installed in this area had been consumed by fire. The front engine mount had been
+destroyed. One clamp of the two-clamp rear engine mount-attaching device remained secured to
+the engine deck; the second clamp was fire damaged and no longer intact. The throttle quadrant
+pointer on the fuel control unit was positioned at 55° (full open, the normal flight position). It was
+possible to access the axial compressor rotor and free turbine by hand; neither could be rotated
+manually. All visible fuel and air connections were intact. The engine was no longer connected at
+its output drives.
+TESTS AND RESEARCH
+Engine and Fuel Control Unit Examinations
+Engine and fuel control unit teardown examinations were conducted at the Turbomeca
+Engine Company facility in Grand Prairie, Texas, from August 28 to 30, 2001, under Safety
+Board supervision.
+19All references to position are looking forward from aft.
+NTSB/AAB-04/02
+
+2 2
+Engine Teardown
+Examination of the engine found indications of normal operation at impact, and no
+evidence of preimpact failure. No condition that would have prevented normal operation of the
+fuel control was found upon examination and testing of all recovered external components.
+Free turbine and gas generator rotation were checked at the free turbine wheel and the axial
+compressor, respectively; both drive trains were seized.
+The accessory gearbox front support casing had separated circumferentially 1 to 2 inches
+aft of the forward flange, with portions lost to thermal damage. The gearbox remained attached
+between 3 and 5 o’clock. A raised and distorted area was noted on the outer diameter between 1
+and 4 o’clock just aft of the separation, with corresponding rotational scoring on the inside
+diameter between 10 and 2 o’clock. The forward flange hardware was intact, with portions of the
+(airframe provided) coupling tube aft mating flange still captured under the bolt heads.
+The gas generator drive train remained seized after the axial compressor assembly was
+removed.
+Both compressor casings suffered some light thermal damage, but there was no obvious
+case distortion. The 1st-stage compressor stators were intact. There was damage to the leading
+edges of 10 of the 13 axial compressor rotor blades, and the tips were slightly bent opposite the
+direction of rotation. Three blades were missing small amounts of blade material from the
+leading edge tips. There was blue discoloration 360° around the inner diameter of the
+compressor cover coincident with the plane of centrifugal rotor vane rotation. The leading edges
+of the centrifugal rotor vane displayed blue discoloration corresponding with the cover damage.
+There was one nick in the inducer region of one vane leading edge.
+The 1st-stage turbine wheel blade path showed light rub indications, and there were
+evenly distributed, shiny metallic deposits on the suction (low pressure) sides of the 1st-stage
+nozzle vanes. There were indications of light tip rub on the 1st-stage turbine wheel blades, and
+light, evenly distributed metallic deposits on both high pressure and suction (low pressure) sides
+of all blades. The 2nd-stage nozzle vane leading edges showed evenly distributed metallic
+deposits and no mechanical damage. There was a rub mark along the 2nd-stage blade path (360°
+contact).
+The 2nd-stage wheel airfoils were found intact. Light, evenly distributed, metallic deposits
+were found on both high pressure and suction (low pressure) sides of the 2nd-stage wheel airfoils.
+The turbine rear bearing was intact with free and smooth rotation. The bearing cage oil delivery
+port was unobstructed. The free turbine assembly rotated freely after separation from the turbine
+reduction gearbox. The reduction gearbox gear train was seized but was freed after application of
+penetrating oil. The oil tubes were unobstructed. The continuity of the gear train was
+confirmed. The bearings were heat discolored but were intact and rotated freely.
+The freewheel shaft was heavily coated with soot. Rotational scoring was noted on the
+aft freewheel housing flange; this damage was consistent with the scoring noted on the inner wall
+NTSB/AAB-04/02
+
+2 3
+of the front support casing. Freewheel unit sprag clutch operation was confirmed. The unit was
+disassembled with no anomalies noted.
+The lock securing the nut to the forward end of the externally splined freewheel shaft
+displayed metal displacement (smearing), and the initial 1/4 inch of the splines in this area
+showed severe 360° scoring damage, with corresponding scoring noted on the female splines of
+airframe drive shaft portion.
+Both oil strainers were found intact and free of debris. The oil pump was disassembled
+with no anomalies found. No evidence of contamination was found in the oil filter. The
+reduction gearbox magnetic plug was inspected and found clean. A small amount of oil was
+present at this fitting, and it had a clean appearance and no burnt odor. This oil was collected for
+analysis. The electric magnetic plug located at the oil return to the aircraft tank was found
+separated from the engine. The electric magnetic plug located at the rear bearing return was
+intact. Both plugs were inspected and found clean. The pressure oil line to the front section,
+rear bearing, reduction gear, and power turbine (four-way union) was intact. The breather-to-
+tank-to-general air vent was fire damaged but intact.
+Fuel Control Unit
+The fuel control unit (FCU) incorporates a gas generator control, power turbine governor,
+fuel pump and filter unit in a single, double-drive accessory. Portions of the gas generator
+control components were consumed or damaged by the ground fire. Teardown examination of
+the FCU disclosed no anomalies other than thermal exposure damage. No fuel was found in the
+unit.
+At the request of Safety Board investigators, Turbomeca (France) supplied the
+investigation with an engineering analysis of the failure modes and subsequent effects on engine
+power generation for failures of the FCU components that were thermally consumed. The
+analysis found no component failure effects that could have negatively influenced engine power
+generation.
+Metallurgical Analysis of Blade Material Deposits
+A blade removed from the 2nd stage turbine wheel assembly was submitted to the Safety
+Board’s Materials Laboratory, Washington, D.C., for chemical analysis of the shiny deposits
+noted throughout the turbine gas path. These deposits were shiny, smooth, and could not be
+removed with a knife or pencil eraser. X-ray energy spectroscopy analysis identified the
+material as aluminum.
+Engine Oil Analysis
+Analysis of the oil sample removed from the reduction gearbox found it contained iron,
+copper, chromium, and nickel levels below the maintenance action thresholds for these elements.
+NTSB/AAB-04/02
+
+2 4
+Airframe and Drive Train Component Examinations
+The Structures Group reconvened at the Eurocopter facilities in Grand Prairie, Texas,
+from August 29 to 31, 2001, for detailed component examinations.
+Main Rotor Drive Shaft and Mast Components
+The main rotor shaft was intact, and exhibited thermal damage and discoloration. The
+upper bearing of the rotor shaft exhibited thermal damage, with no evidence of scoring or
+threading observed on the shaft. The lower bearing was a four-contact type bearing and was
+thermally damaged. Manual rotation of the bearing was not possible due to molten debris
+deposits in the bearing and thermal damage. The two bearing seals were thermally damaged.
+All three clevises of the nonrotating swashplate were intact and contained the steel
+hydraulic servo rod end fittings. All three of the rod end-fitting bolts were in place with their
+safety pins intact.
+The pitch change rods connect the rotating swashplate to the pitch change horns of the
+main rotor hub. The pitch change rods for the yellow and red blades were thermally destroyed.
+The third pitch change rod remained attached to the blue main rotor blade and was thermally
+distorted.
+The drive scissors were thermally destroyed. All bolts were accounted for and were safe-
+tied. The stationary scissors were thermally destroyed. All bolts were accounted for and were
+safe-tied. The Uniball20 was thermally discolored. Three dents dimensionally and geometrically
+similar to the contact sleeve of the stationary star were observed on the ball. The axes of these
+dents were on three separate diagonal planes. The flared (conical) housing also functions as the
+top cover for the MGB and was partially destroyed by thermal processes.
+Examination of the swashplate bearing disclosed that it was thermally affected and could
+not be rotated. For this reason the bearing was cut open to examine it for preimpact defects. The
+bearing cage was thermally damaged, and the seals were thermally consumed. The bearing race
+and balls were thermally damaged, with ash deposits found. No brinelling or galling was noted
+on the race or the balls.
+Main Rotor Hub and Blades
+Components of the main rotor hub assembly examined included the main rotor sleeves,
+antivibration assembly, and the Starflex.
+The main rotor sleeves were thermally consumed; however, elements of the sleeves’
+fiberglass rovings were evident and remained attached to the main rotor blades. The six rotor
+blade attach pins and the six bolts at the sleeve and spherical stop were in place. The three
+20The Uniball is a ball joint mounted on the main rotor mast, which allows the stationary star to pivot in response
+to cyclic control inputs. The rotating star is on a bearing mounted on the stationary star, which allows it to copy all of
+the movements of the stationary star and transmit control inputs via the pitch change links to the main rotor blade pitch
+horns.
+NTSB/AAB-04/02
+
+2 5
+antivibration springs and weights were present. Two of the three springs were retained in their
+respective housings. The third spring was in place; however, there was thermal distortion to the
+housing and the cover was open.
+All three of the Starflex arm tips were found in the immediate wreckage area. The tips
+fractured in the plane of rotation from their respective arms. The tips were subsequently
+matched to their respective arms by comparing the fracture patterns. The fracture of the yellow
+arm showed a 45o fracture from the outboard leading edge to the inboard trailing edge. The blue
+arm of the Starflex showed a complex fracture pattern. The first fracture was 1 inch in length
+and ran from the outboard trailing edge toward the inboard leading edge. The remainder of the
+fracture was perpendicular to the Starflex arm. A peeled away surface was observed on the upper
+trailing edge portion of the Starflex arm. The bottom portion of the blue arm was also peeled
+away. The fracture of the red arm showed a 45o fracture. However, the fracture was opposite of
+the yellow arm. The fracture ran from the inboard leading edge to the outboard trailing edge of
+the Starflex arm.
+Main Rotor Gearbox
+The MGB was made up of three modules: epicyclic, bevel reduction gear, and the oil
+pump. The freewheeling unit is integrated into the engine power takeoff transmission/drive
+shaft. All three modules were thermally damaged with foreign debris present. The debris
+consisted of molten aluminum deposits, magnesium ash, dirt, and rocks. The transmission filter,
+oil lines, flexible hydraulic lines, and electrical wiring attached to the case of the MGB were
+thermally destroyed.
+The epicyclic was composed of the planetary gears, stationary ring gear, and the sun gear.
+According to the Eurocopter Illustrated Parts Manual, the required hardware consisted of seven
+epicyclic to mast junction bolts, one main center bolt, and six secondary bolts; all of the bolts
+were present and locked in place. The conical housing was thermally damaged and partially
+destroyed. The planetary gears and the stationary ring gear were thermally damaged. Neither
+the planetary gears nor the stationary ring gear showed evidence of galling, bending, or missing
+teeth. An attempt was made to rotate the planetary gears. Due to thermal damage, only one of
+the planetary gears could be manually rotated. The sun gear was thermally fused to the vertical
+shaft/bevel reduction gear and could not be removed. The sun gear’s spring clip and two spacers
+were accounted for and in place.
+The bevel reduction gear was thermally damaged and did not show evidence of galling,
+bending, or missing teeth.
+The oil pump housing was thermally destroyed. The internal impeller gears displayed
+thermal damage without evidence of galling or bent or missing teeth.
+Hydraulic System Components
+The hydraulic pump is belt driven by the engine-to-MGB drive shaft. The belt, which
+was mounted in an area of almost complete thermal destruction, was not located. The hydraulic
+pump body was thermally damaged and partially destroyed, preventing a functional check. The
+NTSB/AAB-04/02
+
+2 6
+regulator unit and hydraulic fluid reservoir were mounted in areas that were exposed to extreme
+thermal damage and were not found.
+The main rotor servos are single-cylinder servo controls with accumulators that provide
+hydraulic power assistance for transferring pilot control inputs to the nonrotating swashplate.
+The servos consist of a fore/aft servo, left-hand (L/H) lateral servo, and right-hand (R/H) lateral
+servo. In addition, another servo is used for tail rotor pitch control.
+The fore/aft servo body was thermally damaged and partially destroyed. The hydraulic
+line fittings were secured to the servo body. The accumulator was separated from the servo
+body, and the remaining threads were thermally damaged. The servo input rod end was
+connected to the input valve and was safe-tied.
+The L/H lateral servo body was thermally damaged, and the upper portion was thermally
+destroyed. A portion of the upper servo body was removed during the examination to prevent
+binding and to allow movement of the piston rod.
+The R/H lateral servo body was thermally destroyed.
+The tail rotor servo was thermally damaged and partially destroyed. The fittings for the
+lines remained connected to the servo. The control rod to the tail rotor was separated from the
+servo. The input rod was connected to the servo input; however, the aft end of the control cable
+separated from the sheath.
+The Structures Group reconvened in Southern California from December 4 to 5, 2001, to
+conduct additional component examinations on the hydraulic servos. An x-ray examination of
+the three main hydraulic servos was conducted at General Inspections Laboratories, Inc.,
+Cudahy, California, on December 4th. A teardown examination was conducted on December 5th
+at Hawker Pacific Aerospace, Sun Valley, California.
+The R/H lateral servo body was thermally destroyed and all that remained was the piston
+body. Neither an x-ray nor a teardown examination could be conducted on the R/H lateral servo.
+The fore/aft and L/H lateral servos were x-rayed prior to a teardown to verify that there
+were no internal mechanical discrepancies and to record the internal position of the piston. All
+internal components were observed in place, with no internal mechanical anomalies noted. The
+external examination of the fore/aft and L/H lateral servos revealed that all the safety wire and
+nuts and bolts were in place. Due to the thermal damage, the valve bodies could not be opened;
+therefore, a component teardown was not possible.
+Tail Rotor System Components
+The TGB was disassembled. When turned manually, the input and output shafts rotated
+freely. There were no galled, bent, or missing teeth evident to either the input pinion gear or the
+Gleason spiral bevel gear. The oil appeared normal in color and aroma.
+NTSB/AAB-04/02
+
+2 7
+Witness marks were noted on the forward edge of the pitch change bell crank. A separate
+mark was observed on the adjacent forward TGB mount structure. No witness marks were
+observed on the pedal stops. An exemplar helicopter was examined to determine positional
+orientation of the observed marks in comparison to cockpit antitorque pedal input. The
+comparison revealed that alignment of the marks was only possible with control positions
+beyond full right anti-torque pedal input.
+No visual defects or binding of the assembly was noted with the pitch change spider.
+The fracture face of the tail rotor yellow pitch change link spherical bearing end exhibited
+brittle fracture characteristics. The spherical bearing end of the red pitch change link was bent.
+Witness marks were observed on the inboard side of the blade control horn and
+corresponding marks were observed on the tail rotor hub. An exemplar helicopter was examined
+to determine what blade pitch would result in positional alignment of the observed marks. The
+comparison found that the marks would require full positive pitch (full right pedal) and a
+flapping motion of the tail rotor blade.
+Additional witness marks were observed on the inboard laminated tail rotor bearings and
+corresponded with marks on the tail rotor hub. The inboard balancing weights on the lower
+outboard edge contained witness marks, which corresponded with witness marks on the rotating
+portion of the pitch change spider. Alignment of these marks required full positive pitch of the
+blades.
+Cockpit Caution/Warning Panel Light Bulb Filament Analysis
+The light bulb filaments in the cockpit caution/warning panel were intact. The panel was
+disassembled for a visual examination under a microscope and a 10x magnifying glass; no
+filament stretch was observed. The panel was sent to the Safety Board’s Materials Laboratory in
+Washington, D.C., for further examination and documentation. With the exception of two light
+bulbs21 for the pitot indicator, no filament stretch was observed. The filament for one of the pitot
+bulbs exhibited minor stretch when compared to the other bulbs in the panel. The second pitot
+bulb exhibited minor stretch in the area where the filament was supported by the post; however,
+no stretch was observed in the remainder of the filament.
+MEDICAL AND PATHOLOGICAL INFORMATION
+The pilot sustained fatal injuries in the accident and an autopsy was conducted by the
+Mojave County Medical Examiner’s Office. Tissue and fluid samples from the pilot were
+submitted to the FAA’s Civil Aerospace Medical Institute in Oklahoma City for toxicological
+analysis. The results were negative for carbon monoxide, cyanide, and all screened drug
+substances. No ethanol was found in the vitreous fluid.
+21Each caution/warning light position within the caution/annunciator panel has two light bulbs for redundancy
+purposes.
+NTSB/AAB-04/02
+
+2 8
+ORGANIZATIONAL AND MANAGEMENT INFORMATION
+Tour Operator Procedures
+All flight tours of the Grand Canyon transited the Grand Canyon National Park Special Flight
+Rules Area (GCNP SFRA) Airspace. The Las Vegas FSDO issued Order 1380.2A, “GCNP SFRA
+Procedures Manual,” to all operators approved to operate within this airspace. Order 1380.2A
+contained, in part, the following information:
+• reporting points, radio frequencies, and procedures;
+• weather minimums;
+• aircraft exterior lighting requirements;
+• qualifications and training requirements;
+• routes, altitudes, and procedures;
+• air tour route descriptions for the 20 authorized routes;
+• flight plans; and
+• commercial air tour limitations.
+Operational Ground Procedures
+The on-duty dispatcher was responsible for ordering fuel, filing flight plans, coordinating with
+the ticket counter, tracking each flight, and maintaining radio communications with company
+aircraft.
+Operational In-flight Procedures
+Following departure from LAS, each Papillon flight toured Lake Mead and the Hoover Dam
+prior to entering the GCNP SFRA. When Papillon operated within the GCNP SFRA, all of its
+operations that departed from LAS were conducted on Green Route 4. The majority of that route
+traversed areas of mountainous and rugged terrain.
+About 45 minutes after takeoff, each flight landed for 30 minutes at either Quartermaster
+Canyon or Lower Ramada. These were Papillon’s designated landing sites located on the floor of
+the canyon. A picnic lunch was provided, and the passengers were given the opportunity to take
+photographs.
+If additional fuel was required prior to returning to LAS, the flights would stop at GCW where
+Papillon operated its own fueling pad. It was at the pilot’s discretion whether he would obtain fuel
+prior to or after landing at one of the designated landing sites. Passengers disembarked the
+helicopter during fueling; however, the engine continued to operate at idle power.
+Company History
+The company was founded in the spring of 1965 by the present owner and originally
+certificated as Grand Canyon Helicopters. The firm operated from the South Rim of the Grand
+Canyon. When the owner purchased Hawaiian-based Papillon Helicopters, he incorporated both
+operations under the name Papillon Grand Canyon Helicopters. In 1993, the company owner
+NTSB/AAB-04/02
+
+2 9
+founded the Tour Operators Program for Safety to promote safety and bolster the public image of
+Grand Canyon helicopter tour operators. The company’s name was changed to Papillon Airways,
+Inc., in October 1995.
+The company was primarily a tour operator but also held contracts with the Arizona Fish
+and Game Agency, the Forestry Service, and several utility companies. The company had
+operations at LAS and at Grand Canyon Airport with the latter being the largest. The company
+also operated a fueling facility at GCW. At the time of the accident, Papillon operated a total of
+36 helicopters with a staff of 55 line pilots. Company helicopters flew over 250,000 passengers
+each year with a seasonal peak of about 250 departures per day.
+FAA Oversight
+An interview was conducted by Safety Board investigators with the FAA principal
+operations inspector (POI) assigned to the Papillon certificate. He had been Papillon’s POI since
+September 1, 1993, and he worked at the FAA’s FSDO in Las Vegas, Nevada. He had about
+6,500 rotorcraft hours and had recently retired from the Army National Guard.
+The POI stated that he had oversight responsibilities for all helicopter operations in LAS
+and the Grand Canyon. Those certificates operated 85 helicopters and 34 fixed-wing airplanes.
+He was assigned an assistant in July 1996, and he stated that he felt that the two of them were
+able to provide adequate oversight to their assigned operators.
+Records provided by the FAA indicated that the POI and his assistant performed the
+following surveillance inspections at Papillon from March 1998 to August 2001:
+• three operations manuals inspections,
+• twenty ramp inspections,
+• six training program inspections,
+• two crewmember/dispatcher training records inspections,
+• three facility inspections,
+• two flight following inspections,
+• one de-icing procedures inspection,
+• ten check airman oral examination inspections,
+• nine check airman aircraft inspections, and
+• nine check airman line inspections.
+Records provided by the FAA indicated that the POI and his assistant performed the following
+technical/administrative activities at Papillon from November 2000 to August 2001:
+• two operations specifications revisions,
+• twelve airman oral examinations,
+• eleven airman aircraft evaluations,
+• fifteen airman line evaluations,
+• one minimum equipment list revision,
+• one incident investigation,
+NTSB/AAB-04/02
+
+3 0
+• one administrative enforcement action, and
+• one enforcement investigation closed out with no action.
+FAA Surveillance Policy of Flights Conducted Outside of the SFAR
+The FAA provides national surveillance guidelines for aviation safety inspectors in the
+September 14, 2001, order number 1800.56B,22 entitled “National Flight Standards Work
+Program Guidelines” (NPG). This order delineates the policy, including inspection intervals
+and activities, for the execution of annual surveillance work programs to be followed by flight
+standards inspectors. The order was distributed to the Las Vegas, Nevada, Flight Standards
+District Office.
+The FAA POI reported that his surveillance of Papillon was performed in
+compliance with the NPG. The POI indicated that, according to the NPG, there is no
+requirement for him to perform direct (in-flight) surveillance of Papillon’s tour routes
+outside the airspace designed by the SFAR.23 Because the NPG did not mandate this type
+of direct surveillance, none was performed under either the required or planned work
+activity program during the preceding year.
+ADDITIONAL INFORMATION
+Helicopter Performance
+Company Procedures for Determining Performance Limits
+According to the chief pilot, the company used limiting takeoff temperatures and
+temperature ranges in the form of tables for each of the landing sites used by the operator. The
+tabular data were based on performance charts found in the FAA-approved Rotorcraft Flight
+Manual (RFM). These tables depicted information that pertained to situations in which the
+helicopter hovered in-ground effect and also hovered out-of-ground effect (HOGE). There was
+also a cockpit reference chart that provided pilots with the maximum gross weight for takeoff
+based on the actual reported temperatures at LAS and GCW.
+Performance Capability - Fight from Grand Canyon West to Accident Site
+With the assistance of Eurocopter engineering and flight test personnel, a performance
+capability profile was determined for the helicopter from the time it departed the GCW until the
+accident. Portions of this performance profile were generated by computer modeling using
+Eurocopter Performance Prediction Software (Sycomore Version 1.45). The balance of the
+performance capability profile was generated by using the performance charts contained in the
+RFM applicable to the accident helicopter’s serial number.
+22 The National Flight Standards Work Program Guidelines, order number 1800.56B, was superceded by
+order number 1800.56C, on September 13, 2002. None of the changes made in order 1800.56C addressed 14 CFR
+Part 135 en route surveillance procedures or special emphasis areas for tour flights.
+23 The accident occurred during the return portion of the tour flight, outside the Grand Canyon National Park
+SFAR designated airspace.
+NTSB/AAB-04/02
+
+3 1
+Certain factual data concerning the atmospheric conditions, terrain clearance altitudes,
+and the helicopter’s gross weight during the accident sequence were used in the development of
+the performance capability profile.24 The factual data used in the profile development included
+the following:
+• The aircraft gross weight at the time of the accident, which was estimated to be about
+4,515 pounds (2,047 kg), with the center of gravity within the longitudinal and lateral
+limits for this weight.
+• The minimum practical msl altitude that the helicopter could have crossed the western
+edge of the Grand Wash Cliff feature as it flew westbound, which was 5,300 feet.
+• The elevation that the aircraft was at when it collided with the ground with an
+eastbound energy path, which was 4,080 feet.
+• The ambient outside air temperature at 5,300 feet, which was estimated to be 34o C and
+36o C at the impact altitude.25
+• Based on the above values, the engine power available was limited by the engine (Ng)26
+limitations, not by transmission or torque limits.
+• Use of the antitorque pedals requires some of the engine power output, with full right
+pedal application pulling 90 kilowatts (kw) of power out of the drive train. At sea
+level, takeoff power is equal to 530.9 kw, and maximum continuous is 466 kw.
+• The minimum power required airspeed (V ), which was 55 knots.
+Y
+The HOGE performance capability as the helicopter crossed the ridgeline westbound was
+determined from the AS350-B2 flight manual. Using takeoff power, the hover ceiling was
+determined to be a helicopter weight of 2,072 kg. At the impact elevation, the hover ceiling was
+determined to be a weight of 2,148 kg. According to Eurocopter’s analysis, the helicopter would
+have had only a marginal capability to slow to zero airspeed at the ridgeline elevation.
+Safety Board investigators asked Eurocopter engineers to determine the vertical climb
+capability of the helicopter under the conditions of a near-zero, forward-speed vertical descent.
+Since the performance charts in the RFM do not address vertical climb capability, the flight test
+department computer software referenced previously was employed to predict this capability. A
+calibration of the software data output was performed by inputting data to predict the hover
+ceiling performance discussed previously; the values returned by the program were within a few
+kilograms of the values obtained from the flight manual charts. At the accident site elevation
+conditions, the software predicted a theoretical positive climb capability of 421 feet per minute
+(fpm).27 At the ridgeline elevation conditions, the software predicted climb capability of 41 fpm.
+The engineers noted that this vertical climb rate capability assumes starting at a stabilized hover,
+and if the helicopter was in a vertical descent of greater than 421 fpm, insufficient power was
+available to arrest the rate of descent.
+24The detailed factual basis for these data can be found in the pertinent sections of this narrative dealing with those
+specific areas.
+25Company pilots who landed at the accident site within minutes of the crash reported outside ambient air
+temperatures on the ground of 41o C.
+26Ng is the gas generator section of the engine. Power is “Ng limited” when the atmospheric temperature and
+pressure conditions preclude the engine developing full-rated power.
+27This assumes an outside air temperature of 36o C. If the calculations are performed using the company pilot
+reports of 41o C at the accident site, the vertical climb capability reduces to 43 fpm.
+NTSB/AAB-04/02
+
+3 2
+According to the Eurocopter engineering analysis, for the conditions approximating those
+between 5,300 feet and the impact elevation, any airspeed decrease below V would require an
+Y
+increase in power; as the speed decreases toward zero, the power required to maintain altitude is
+just under or equal to the power required to HOGE or available from the engine. Table 2
+illustrates the various weight limits and power margins for the stated atmospheric conditions.
+Table 2. Various weight limits and power margins for stated atmospheric conditions.
+Condition HOGE Weight Limits Power Margin Vertical Climb Ability
+5,300 feet at 34o C 2,072 kg 2.1 kw + 41 fpm
+4,041 feet at 36o C 2,148 kg 21.5 kw +421 fpm
+4,041 feet at 41o C 2,073 kg 2.2 kw +43 fpm
+The engineering analysis also noted that any tailwind component would significantly
+decrease the hover and vertical climb performance capabilities of the helicopter.
+Settling with Power
+Various helicopter aerodynamic texts and research articles28 address the phenomenon of
+settling with power. Also known as vortex ring state, the settling with power phenomenon is
+characterized by an unstable, chaotic, and disorganized rotational airflow around and through the
+main rotor, which results in a net decrease in the thrust produced by the main rotor. This
+rotational airflow can be visualized as a donut-shaped area of air swirling up and around the
+blade tips that induces a downward air through the rotor disc and a resultant decrease in lift. In
+this condition, the use of collective pitch by the pilot will not slow the rate of descent, but it will
+aggravate the descent rate by increasing the rotational airflow around and through the rotor disc.
+Descent rates in fully developed vortex-ring state conditions can reach values from 4,000 to
+6,000 fpm. Depending on disc loading, various helicopters can enter the state under some or all
+of the following conditions:
+• powered vertical rates of descent from 300 to 700 fpm;
+• flightpath angles of around 70o (although in wind tunnel studies significant main rotor
+thrust instability has been found under certain conditions at flightpath angles between 30o
+and 70o);
+• airspeeds at, near, or below the translational lift boundary speed (although wind tunnel
+work suggests the phenomenon can occur at speeds as high as 60 knots in some designs);
+• high-density altitudes near or beyond the HOGE ceiling; and
+• autorotational or quick stop flare maneuvers while flying downwind.
+The typical actions required to escape this condition include reducing the collective pitch
+and entering an autorotation until the descent rate is at or above 1.25 times the hovering induced
+28See: R.W. Prouty, Helicopter Aerodynamics, revised edition dated August 21, 2000; U.S. Navy, Aerodynamics
+for Naval Aviators, NAVWEPS 00-80T-80; U.S. Department of Transportation, Basic Helicopter Handbook, revised
+1978; U.S. Air Force, Guide to Mishap Investigation, AFP 127-1; U.S. Army, Fundamentals of Flight, FM1-203;
+Laboratoire ONERA-Ecole de L'air, Induced Velocity Model in Steep Descent and Vortex Ring State Prediction.
+NTSB/AAB-04/02
+
+3 3
+downward airflow through the rotor disc (typically 1,500 to 3,000 fpm). Increasing the forward
+airspeed will also moderate or eliminate the condition.
+A related condition is known as power settling, which occurs when the power required
+for any hover or arresting a rate-of-descent condition exceeds the power available in the drive
+train to the main rotor.
+Retreating Blade Stall
+Eurocopter France was asked by Safety Board investigators to research certification flight
+test reports to determine if a retreating blade stall was ever encountered during flight test work.
+According to the company, the helicopter was flown at maximum weight to V (design
+D
+maneuvering airspeed), which is 1.11 times V (never exceed airspeed), without encountering a
+NE
+retreating blade stall. For the AS350-B2 at sea level and 2,250 kgs gross weight, V is 155
+NE
+knots, with a 3-knot reduction for every 1,000 feet above sea level.
+Hydraulic Control System Servo Transparency Phenomenon
+In its submission to the Safety Board, Papillon discussed possible scenarios and/or causes
+to this accident. One scenario that Papillon presented involved a phenomenon known as cyclic
+transparency or jack stall.
+Discussions and correspondence were conducted between Safety Board investigators and
+Eurocopter engineers and flight test pilots concerning the hydraulic control system transparency
+phenomenon. While typical hydraulic systems in other helicopters and fixed-wing aircraft
+operate at pressure ranges from 1,000 to 3,000 psi, the hydraulic system in the AS350 series
+helicopters operates at 600 psi. According to Eurocopter representatives, this system pressure
+was chosen during design as a balance between the loads generated by the rotor system that must
+be overcome and acceptable load limits on the rotor system dynamic components (that is, control
+rods, links, and fittings).
+At the request of Safety Board investigators, Eurocopter France provided a copy of
+AS350 certification flight test report No. H/EV 17.530. The report documents a series of test
+flights conducted in 1985 to explore the points where the hydraulic transparency effect (also
+called control reversibility) occurs. From the data collected, a series of graphic plots were
+developed and included in the flight test report, which predict the G loads for phenomenon onset
+for a given weight, density altitude, and helicopter speed.
+Eurocopter representatives stated that the transparency phenomenon is nonviolent and
+transitory, lasting only 2 to 3 seconds at most due to the “self-correcting actions of the pilots” to
+reduce the G loads and/or the natural static and dynamic stability “response of the helicopter.”
+They also stated that the controls are fully operable throughout the entire transparency event;
+however, the force required to effect movement of the flight controls against the rotor system
+dynamic feed back loads would increase significantly. Eurocopter stated that the force feedback
+for each control channel would be dependent in part on the amount of G loads experienced;
+however, the company estimated that about 22 pounds of force would be required to move the
+collective in the UP or increased pitch direction, with the same amount to move the cyclic to the
+NTSB/AAB-04/02
+
+3 4
+left. Additionally, flight tests data indicate that servo transparency could not be encountered if
+the collective is less than 50% raised.
+Safety Board investigators reviewed Section 3.2 of the RFM for the AS350, which covers
+hydraulic system failures. This section lists the approximate force increase needed to move the
+flight controls following a hydraulic system failure. The system has an accumulator, which
+would provide for about 45 seconds of normal system operation following a pump failure before
+the system would revert to manual reversion.29 As examples, the force required for movement
+of the collective would go from minimal (boosted condition) to 40 pounds, while the force for
+cyclic movement would go from minimal to about 20 to 25 pounds, depending on the direction
+of control input.
+An additional review of the RFM that was in effect at the time of the accident was
+performed to determine what information was presented concerning the hydraulic transparency
+phenomenon. The review found that the phenomenon was only described in paragraph 7.2 of
+section 4.1. Paragraph 7.2, “Maneuvers,” states the following: “Maximum load factor in turns is
+felt in the form of servo-control ‘transparency’; this phenomenon is smooth and presents no
+danger.” There were no informational charts in this section to illustrate the phenomenon onset as
+a predictable relationship between gross weight, speed, density altitude, and maneuvering-
+induced load factors. One additional related note was found in section 2 of the RFM,
+Limitations, Paragraph 7.3, “Maneuvering Limitations,” which states, “Do not exceed the load
+factor corresponding to the servo control reversibility limit.”
+At the request of Safety Board investigators, Eurocopter provided the predicted onset G
+loads for hydraulic transparency for the accident helicopter at the weight and atmospheric
+conditions existing at the time of the accident. At 100 knots, the transparency phenomenon
+would have occurred at +1.7 Gs, and at 120 knots it would have occurred at +1.5 Gs.30
+On December 19, 2003, the FAA issued Special Airworthiness Information Bulletin
+(SAIB) No. SW-04-35 which “alerts owners and operators of Eurocopter France AS350B, BA,
+B1, B2, B3, D, AS355E, and EC120B model helicopters that the pilot can encounter a
+phenomenon known as Servo Transparency, Servo Reversibility, or Jack Stall.” The bulletin
+stated the following:
+Pilot and operators may misunderstand this phenomenon. This aircraft phenomenon
+occurs smoothly, and can be managed properly if the pilot anticipates it during an abrupt
+or high load maneuver such as a high positive g-turn or pull-up. The factors that affect
+Servo Transparency are high airspeed, high collective pitch, high gross weight, high G-
+loads, and high density altitude.
+The maximum force that the servo actuators can produce is constant and is a function of
+hydraulic pressure and of the servo characteristics. The system is designed to exceed the
+29The time the accumulator can provide hydraulic system pressure is dependent on the amount of nitrogen
+pressure precharge in the accumulator and on how much control movement is made by the pilot after the pump failure
+or system deactivation.
+30The basis for this number can be found in Eurocopter’s Engineering Certification Flight Test Report No. H/EV
+17.530.
+NTSB/AAB-04/02
+
+3 5
+requirements of the flight limitations in the approved flight manual. With excessive
+maneuvering and under a combination of the above listed factors, the aerodynamic forces
+can increase beyond the opposing hydraulic servo forces and Servo Transparency can
+occur. An improperly serviced/maintained hydraulic system can also effect the onset of
+Servo Transparency.
+Servo Transparency begins when the aerodynamic forces exceed the hydraulic forces and
+is then transmitted back to the pilot’s cyclic and collective controls. On clockwise
+turning main rotor systems, the right servo receives the highest load when maneuvering,
+so Servo Transparency results in uncommanded right and aft cyclic motion accompanied
+by down collective movement. The pilot control force to counter this aerodynamically-
+induced phenomena are relatively high and could give an unaware pilot the impression
+that the controls are jammed. If the pilot does not reduce the maneuver, the aircraft will
+roll right and pitch-up.
+The amplitude of the induced control feedback loads is proportional to the severity of the
+maneuver, but the phenomenon normally lasts less than 2 seconds.
+The SAIB presented the following nonmandatory recommendations to operators:
+• Review Chapter 14, Aeronautical Decision Making, Rotorcraft Flying Handbook
+FAA-H-8083-21.
+• Properly service the hydraulic system before each flight.
+• The pilot should follow (not fight) the control movement. Allow the collective pitch
+to decrease (monitoring Rotor RPM, especially at very low collective pitch settings)
+to reduce the overall load. You should be aware that as the load is reduced, hydraulic
+assistance will be restored and force being applied to the controls could result in
+undesired opposite control movement. Follow the aircraft limitations in accordance
+with the Aircraft Flight Manual.
+• Understand that Servo Transparency is a natural phenomenon for any flyable
+helicopter. BASIC AIRMANSHIP should prevent encountering this phenomenon by
+avoiding combinations of high speed, high gross weight, high-density altitude, and
+aggressive maneuvers, which exceed the aircraft’s approved flight limitations.
+Pilot Tour Narration and Gratuities
+Papillon does not employ tour guides who accompany the flights. Part of the pilots’
+additional responsibilities includes providing tour narration and commentary regarding notable
+landmarks and other features of the Grand Canyon environment. Each passenger is provided a
+headset prior to departure, and the pilot narrates the tour as he points to all the features along the
+route of flight. For non-English speaking passengers, the company provides a prerecorded
+audiotape narration of the tour utilizing a cassette system installed in the helicopter.
+The investigation noted that several tour operators in Hawaii and Alaska were found to
+have adopted a system whereby the principal tour narration is given by a prerecorded tape.
+NTSB/AAB-04/02
+
+3 6
+Interviews with company pilots disclosed that although the operator prohibited the pilots
+from soliciting gratuities from passengers, the gratuity amount voluntarily given the pilots by
+passengers was usually proportional to the quality of the entertainment. The investigation
+determined that gratuities provided significant additional income for the pilots.
+Emergency Contingencies for the Routes Flown
+During the investigation, Safety Board investigators had several opportunities to fly in
+Papillon company helicopters over the routes flown for the passenger tour flights. Over much of
+the SFAR-mandated route structure, the nature of the terrain is composed of precipitous and
+rugged canyon topography with few locations that would be suitable for emergency
+autorotations. In the latter stages of the route approaching the Quartermaster Canyon and Lower
+Ramada landing sites, there are prolonged periods where the helicopters operate over the
+Colorado River in areas of the canyon where the near sheer vertical walls of the canyon rise from
+the river edge, and the only possible emergency landing site is in the water.31
+Accident Pilot’s Prior Tour Flights
+Several passengers who had flown on a tour flight with the pilot about 1 month prior to
+the accident provided information on their experiences. One passenger provided a copy of a
+videotape taken during the tour.
+According to the passengers, once the tour started, the pilot was talking all the time. He
+was very informative, and they felt he knew his history and geography very well. They went
+over the Hoover Dam and Lake Mead. About 20 minutes into the flight, the pilot turned his head
+toward the back and was talking to the passengers as the helicopter flew toward a cliff. The
+people in the back were trying to get the pilot’s attention and point out that he was flying toward
+a cliff, but he pretended he did not understand what they were saying, as if this was all being
+done on purpose. All this time, the pilot was turned around and talking to the passengers in the
+back seat, while the passengers were all pointing up trying to get him to climb. One witness said
+she finally picked up the microphone and said, “they are really scared….turn around and pull up
+the helicopter,” and he did. She could not estimate how far they were from the cliff when the
+pilot terminated the maneuver.
+One of the passengers stated that there were particularly exciting episodes during the tour
+that were frightening to some of the others. As part of the tour, they flew over a site that was
+used in the commercial motion picture film Thelma and Louise,32 and the pilot pointed out the
+cliff. The pilot stopped for fuel before he landed in the canyon for the picnic lunch. After lunch,
+no more stops were made. During the return to LAS, the pilot asked if they wanted to know
+what it was like to drive a car off of a cliff. She stated that they all said “no” to this question;
+however, he proceeded to fly very fast toward the edge of the cliff and then dove the helicopter
+as it passed the edge. The passenger reported that it was “frightening and thrilling at the same
+time but it scared the others to death.”
+31 According to Papillon, no flotation devices are carried on the helicopters.
+32 The scene referenced shows a car driving off of a high cliff and diving toward the desert floor.
+NTSB/AAB-04/02
+
+3 7
+Safety Board investigators reviewed the videotape supplied by the passenger. The two
+episodes referenced by the passenger were on the tape. No voices could be discerned due to the
+engine and rotor noise. In the first event, the pilot was observed turning his head toward the rear
+seat passengers as the helicopter approached a clifflike terrain feature about 50 to 100 feet below
+the top. The passengers were observed to be gesturing up and then the pilot turned around and
+initiated a climb. The helicopter appeared to clear the top by 50 to 100 feet. Regarding the
+Thelma and Louise event, after the lunch stop, the video showed a view of the helicopter flying
+an estimated 100 feet over Grand Wash Cliff plateau. Just past the cliff edge, the pilot initiated a
+diving descent. The amount of nose pitch down was estimated to be in the range of 10o or less.
+Observations of the sound change in the engine and rotor noise were consistent with a lowering
+of the collective and unloading of the rotor system during this maneuver.
+NTSB/AAB-04/02
+
+3 8
+ANALYSIS
+General
+The pilot was properly trained and certificated in accordance with Federal regulations and
+company requirements. The pilot’s rest and duty times were within the requirements of Federal
+regulations.
+Interviews with company pilots and supervisors revealed that they considered the
+accident pilot one of their “very best.” He was consistently praised for his knowledge of the
+helicopter and its systems. They stated that even the mechanics and other maintenance personnel
+within the company praised his knowledge, skills, and abilities. There was no evidence that
+suggested his emotional state materially influenced his flying abilities or job performance.
+Although the investigation was concerned about the large number of operators and aircraft
+assigned to the FAA POI, the records review and the results of this investigation did not reflect
+an inadequate level of surveillance by the POI and his assistant of Papillon Airways. However,
+the investigation revealed that FAA’s local and national policy did not contain adequate
+guidance or requirements for direct surveillance of thousands of air tour flights that occur
+outside of the SFAR.
+Examination of the helicopter maintenance records and work orders from New Zealand and
+interviews with the Papillon maintenance technicians who worked extensively on the helicopter
+after its arrival in the United States revealed that repair work on the helicopter was of very high
+quality and not related to the accident.
+Analysis of the atmospheric conditions disclosed no evidence of any meteorological
+phenomenon that was contributory to the accident other than the high-ambient temperatures and
+resultant high-density altitude. The winds at both the top of the cliff and at the accident site were
+about 5 to 10 knots from the west.
+Accident Flightpath and Accident Site Location
+Due to noise and traffic restrictions, Grand Canyon tour aircraft are required to follow
+preapproved routes. The accident helicopter was following a route that crosses east to west over
+a plateau formed by the Grand Wash Cliffs, and once past the western face of the cliff, descends
+1,400 feet33 and continues west across level desert terrain. Passing over the cliff edge along this
+route, the terrain drops off dramatically to barren desert floor 3,000 feet below. According to
+Papillon representatives, helicopter pilots are trained to identify potential landing sites along a
+route, and the investigation determined that Papillon pilots flying this route would most likely
+attempt to perform an emergency autorotation34 landing on the flat terrain to the west of the cliff
+as opposed to attempting any landing in the hazardous terrain in proximity to the cliff.
+33 This is a required elevation change, to avoid opposite-direction traffic and to comply with the hemispheric flight
+rule provisions of 14 CFR Part 91.
+34 Autorotation is a stable flight condition in which the rotor system is turned by airflow, not engine power, and
+altitude and forward airspeed are exchanged for increases in rotor rpm. It is essentially a tradeoff of rotor kinetic
+energy for lifting force (reduced rate of descent) and forward airspeed.
+NTSB/AAB-04/02
+
+3 9
+The total time between the last radar return associated with the accident helicopter being on
+course at cruise altitude and the first observation of heavy smoke above the crash site was about
+3 minutes.35 The crash site evidence suggests that during the final minutes of flight, the accident
+helicopter passed over the cliff edge, and rather than continuing straight ahead along the route,
+the helicopter reduced forward airspeed and reversed its heading. This maneuver would have
+placed the helicopter below the cliff edge, facing into the escarpment.
+Although the plateau’s western edge has elevations as high as 6,000 feet msl, the area
+where the helicopter is believed to have crossed it is about 5,300 feet msl. Based on the limited
+available radar data, the helicopter flew across the plateau at about 100 feet agl (5,400 feet msl).
+After crossing the plateau and still on a westerly heading, a normal descent to 4,500 feet msl was
+required. This descent provided the tour pilots an opportunity to demonstrate the helicopter’s
+rapid descent capabilities. Several of the operator’s tour pilots, including the accident pilot,
+nicknamed this maneuver the Thelma and Louise descent. Interviews with passengers who had
+flown with the accident pilot before the accident and other people familiar with the way he flew
+his tour indicated that he preferred to cross the cliff edge at low altitude and high speed. They
+stated that he would then enter a rapid descent by lowering the collective and nosing the
+helicopter over into a dive. The evidence of a compact crash site located at the base of the cliffs
+is consistent with a maneuver of this type in which the descent was not arrested.
+The accident helicopter came to rest on an easterly heading (180o from the original
+direction of flight) on a rocky 40o slope, at an elevation of 4,041 feet msl, about 1,400 feet below
+the point where it crossed the cliff. This area was unsuitable for a helicopter landing, either as an
+intentional elective landing or due to any conceivable emergency situation. The terrain directly
+ahead of the pilot, as he crossed the Grand Wash Cliffs, featured many suitable areas to initiate a
+forced landing. The altitude difference between crossing the plateau and these suitable landing
+areas was about 3,000 feet msl and could have significantly extended the helicopter’s power off
+glide distance and time.
+Analysis of the accident site, terrain features, and options available to the pilot indicated that
+the helicopter came to rest in the least advantageous location available. Postaccident interviews
+with other company pilots determined that they would choose to continue straight ahead toward
+the level terrain36 as opposed to attempting any sort of landing at the accident site. None of the
+pilots interviewed could conceive of any emergency where they would attempt an emergency
+landing at the accident site, given the flat terrain directly ahead on the original heading. They
+also pointed out that an alert and proficient pilot would never intentionally turn the helicopter
+toward any type of sloping terrain, especially one that would expose the helicopter to a 5- to 10-
+knot tailwind.37
+35 A company helicopter was flying 3 minutes behind Papillon 34 and had it in visual contact about a minute
+before it crossed the Grand Wash Cliffs.
+36 In addition to company pilots, many others were asked about the site as a potential emergency landing place
+and, given the nature of the terrain ahead on the flight path, none could conceive of any emergency that would induce
+a pilot to attempt a normal or emergency landing at the crash site.
+37 According to the Safety Board’s meteorological study of the atmospheric conditions, the winds from 3,000 to
+6,000 feet were from the west at 5 to 10 knots.
+NTSB/AAB-04/02
+
+4 0
+Analysis of the crash site evidence indicates that there was insignificant forward velocity
+and a very high, vertical descent rate at impact. The helicopter’s skid-type landing gear was
+found sitting upright and facing into the cliff face at the IPI on a large outcropping of boulders.38
+A burn pattern and limited debris was found at this location. There was a second burn pattern
+about 20 feet downslope where the helicopter had come to rest after rolling over and where much
+of the aircraft had been consumed by fire. The two burn patterns and the wreckage distribution
+indicates that the fuel cell was compromised at initial impact. The rearward rotation of the skid
+cross tubes and the outward collapse of the skids indicate that the aircraft was in an upright and
+slightly flared39 attitude at impact and that high-compressive forces (high-vertical rate of
+descent) were experienced. The undersides of the skids showed only minor longitudinal scrape
+marks, and the wreckage and terrain scars were located within the immediate vicinity of the IPI.
+While the degree of airframe thermal destruction precluded a more definitive estimate of vertical
+loading during the impact, the G loads were estimated to range between 10 and 16. No lateral
+scrape marks were found on the skids or the ground, indicating that the helicopter was not
+turning or spinning at ground contact.
+Engine Power at Impact
+The investigation revealed that the engine and rotor system were developing a significant
+amount of power at the time of impact. The collective pitch control was in the full UP
+(maximum pitch) position40 and the antitorque pedals were positioned full right.41 These control
+positions are consistent with a high-power demand from the pilot and a high-power output from
+the engine to the rotor system. Both pedals were bent forward at the tips, which is consistent
+with pilot contact on the controls.
+Terrain scars identified near the IPI were consistent with the damage observed to the
+leading edges and tips of the main rotor blades. The helicopter Starflex rotor head and drive
+train flexible couplings exhibited the torsional damage signatures typically associated with
+sudden rotor stoppage under considerable driving power.42 The severity of the damage indicates
+38 This orientation represents a 180° deviation from the route and from the helicopter’s last known heading.
+39 A flare, or nose up helicopter attitude is achieved by moving the cyclic control aft. This input decelerates the
+aircraft and increases lift/rotor energy (the rate of descent and the forward airspeed are reduced; rotor rpm is
+increased). A flare maneuver is typically performed to cushion a touchdown. In this case, the evidence suggests the
+helicopter’s pitch attitude at impact was about 5o less than the slope of the hillside or slightly nose down.
+40 This position equates to the pilot commanding the maximum lift or climb capability from the main rotor
+system. Determination of this control position was made with a high degree of confidence based on the collective
+demand pointer on the fuel control unit; this is cable driven and not likely to have been influenced by vertical impact
+forces on the collective torque and push/pull tubes.
+41 In European-manufactured helicopters, a full-right antitorque pedal position results in the maximum tail rotor
+blade angle, which is the highest setting available to counteract engine torque effect. Determination of this control
+position was made based on the witness marks found on the blade control horns and tail rotor hub. These marks could
+only have been made with the tail rotor rotating and the blades just beyond maximum positive pitch (right pedal).
+Although the impact-related down bending separation of the tailboom would tend to move the blades to a right pedal
+position, the investigation believes that the pilot had right pedal input, and the tailboom downward bending moved the
+tail rotor blade pitch past the limit stop.
+42 Sudden rotor stoppage is the sudden arrest of a helicopter drive system due to rotor blade contact with a solid
+object while being driven by the engine. Typical damage signatures include rotor blade leading edge impact damage,
+rotor head torsional damage consistent with the direction of rotation and with the sequence of blade strikes, torsional
+shearing of engine-to-transmission couplings, starflex arm fracture patterns, and rotor blade stack up. Such signatures
+are not seen if the engine has failed: a clutch mechanism disengages a failed engine.
+NTSB/AAB-04/02
+
+4 1
+that power was being transferred from the engine and that the main rotor was rotating at a high
+rotor rpm when contact occurred. The internal condition of the engine provides additional
+evidence that there was significant engine power development at impact.
+Teardown examination found indications of normal engine operation at impact. The axial
+compressor wheel blade tips were bent in the direction opposite to rotation, a classic rotational
+signature. Frictional heat damage had resulted in blue discoloration 360° around the inside diameter
+of the compressor cover. There was corresponding blue discoloration on all centrifugal rotor vane
+tips. These signs of rotational contact resulted from abnormal contact of stationary structures with
+the compressor rotor during engine operation, when vertical deceleration forces were experienced at
+impact. High rotational speed is required for heat buildup to occur from only momentary contact.
+Ingestion of foreign material often occurs when a turbine engine continues to operate
+during an accident sequence. In this case, there is evidence that impact forces compromised the
+helicopter’s inlet protection and that foreign aluminum-based material was ingested shortly
+before engine shutdown. Small nicks and tears characteristic of foreign-object damage43 were
+found on the leading edges and tips of the axial compressor blades. Metallic deposits found
+spattered on both gas generator and power turbine airfoils were confirmed as aluminum.
+Because the Turbomeca Arriel 1D1 engine does not have any internal aluminum-based parts or
+coatings, the presence of aluminum in the turbine confirms the ingestion of foreign material.
+The metal deposits also indicate that there was ingestion shortly before engine shutdown because
+such deposits will burn away with continued operation.44 The smooth appearance and fused state
+of the deposits confirm that engine combustion was taking place either during or immediately
+prior to their contact, which strongly suggests that the engine continued to operate while airframe
+structural breakup was taking place. Aluminum airframe structures located just forward of the
+engine inlet are likely sources of foreign-ingested material.
+Rotational contact had also occurred between the power turbine output shaft and the engine
+front support casing. Circumferential scoring was present 360° around the casing inner diameter at
+the location axially coincident with the aft engine freewheel housing flange. This flange had
+corresponding rub damage along all of its flange tips. The contact had caused a roughly 45° arc of
+raised and heat-distorted metal to appear on the casing outer diameter. The asymmetry of this
+contact indicates a misalignment and suggests that the rub occurred during the drive train separation
+in response to high vertical loadings on the structure.
+Other than the compressor impact-related damage, all engine airfoil parts were in good
+condition, with no obvious sand erosion or hot section over-temperature damage found. The
+possibility of a wear-induced stall event having occurred is ruled out by the condition of these
+43 Hard-body impact damage is characterized by a serrated appearance and cuts or tears to the airfoil’s leading
+and trailing edges. Severity will vary depending on impact velocity, secondary damage, and relative hardness of the
+objects and the components they strike. Common foreign objects causing hard-body impact damage include metal
+parts, concrete, asphalt, and rocks.
+44 If particles of aluminum or other metal of similar melting point pass through the engine when it is operating at
+a stable speed of idle or above, the particles will be wholly or partially molten when they exit the combustor and will
+tend to adhere to downstream parts. If the surface of a part is above the melting point of aluminum (1200° F) the
+aluminum will fuse, and have an even, smooth appearance. Molten aluminum contacting cooler surfaces will have a
+rough appearance, and will sometimes be present in globular form. This type of deposit will be easily scraped away
+with a fingernail or knife (temporary adhesion). Both deposit forms will burn away quickly with continued operation.
+NTSB/AAB-04/02
+
+4 2
+components. No engine anomalies were found other than the ground fire-produced thermal
+damage. The gas generator drive train seizure was caused by physical interference to gas generator
+accessory gear train rotation by the thermally distorted gearbox casing.45 The power turbine drive
+train seizure resulted from a temporary lockup of the reduction gear train due to thermal degradation
+of the gearbox oil.46 The absence of power turbine overspeed-related damage suggests an engine
+fuel supply interruption occurred almost coincident with the drive train arrest.
+Hydraulic and Flight Control System Malfunctions
+Examination of the wreckage and analysis of the accident site location did not reveal any
+evidence of a preimpact hydraulic failure or anomaly. The caution light warning panel was
+removed from the wreckage for further examination. An analysis of the filaments for the light
+bulb corresponding to the hydraulic system failure light revealed that the filaments were not
+stretched, indicating that they were not illuminated at impact. Careful examination of all the
+light bulbs for systems other than the pitot heat revealed that no filaments exhibited stretch,
+further indicating that no system failures had occurred. Both of the pitot heat bulbs exhibited
+minor stretch, indicating that the advisory light for the pitot heat system was illuminated at the
+time of ground impact.
+The investigation revealed that none of the in-flight emergencies relating to the failure of
+the hydraulic system would have required the pilot to immediately execute an emergency landing
+in sloping hazardous terrain with a prevailing tailwind. Most anomalies and emergencies of the
+hydraulic control system result in stiff controls requiring a high degree of effort by the pilot to
+effect movement. Most hydraulics-off emergencies are terminated by the pilot executing a
+running landing47 into a suitable flat area with the actual touchdown being performed at or above
+translational lift speed48 (normally 15 to 20 knots). Several suitable areas, including an airstrip,
+were available to the pilot for such a landing within 8 nautical miles (about 5 minutes flying
+time) of the accident site.
+As previously mentioned, the investigation revealed that the engine was operating at
+considerable power at impact Other witness marks and evidentiary findings indicate that the
+pilot’s antitorque pedals were in the full-right position (consistent with counteracting the full-
+torque effects of a running engine, at low-forward airspeed, and with the rotor blades at
+maximum climb or lift pitch), and the collective lever was in the full-up position (pilot
+commanding the rotor blades into the maximum lift configuration). Ground scar evidence at the
+initial impact point clearly establishes that the helicopter was not rotating or spinning and, thus,
+was under positive pilot directional control. These indications of positive directional control also
+establish that the tail rotor and yaw control system was fully functional.
+45 The location of the heat-damaged parts was consistent with the areas of greatest ground fire damage.
+46 The gearbox rotated freely following application of penetrating oil.
+47 A running landing, also known as a run-on landing. During a running landing, instead of coming to a stationary
+hover before touchdown, the pilot conducts an approach and landing like a conventional fixed-wing airplane. In
+addition to a hydraulic failure, the loss of antitorque control (tail rotor failure) is the other principal reason a pilot
+would be required to conduct a running landing.
+48 Translational lift speed is the forward velocity of the helicopter where the inflow of fresh undisturbed air into
+the top of the rotor disk greatly improves the rotor efficiency and results in a significant reduction in the power
+required for a climb or level flight.
+NTSB/AAB-04/02
+
+4 3
+Helicopter Performance Capability
+The investigation considered the criticality of the high-density altitude and the
+helicopter’s weight. These considerations revealed that any interruption in power, however
+momentary or slight, would have demanded that the pilot initiate an immediate autorotation in
+order to maintain the critically important rotor speed in the green range. The investigation also
+considered the possibility of a deceleration event, which could have induced an attempted
+autorotation, and then the engine recovering to a high operating speed at the time of impact.
+Although this scenario is possible, it is considered highly unlikely. The 3-minute or less timeline
+of the accident sequence does not favor the possibility that the engine could have decelerated to
+idle and accelerated back to full power. An examination of historical accident/incident data
+indicates that most turbine engine malfunctions resulting in a loss of power require the pilot to
+lower the collective to maintain rotor rpm and enter autorotation.
+All forced landings are ideally executed into the wind and rarely with a tailwind.
+Optimal forced landing areas were available downslope, away from the accident site, on a
+westerly heading toward lowering terrain, which would also have provided the pilot more time to
+prepare for a landing or troubleshoot the problem. A westerly heading would have also
+maintained the helicopter into the prevailing headwind. The investigation notes that the
+extremely hazardous nature of the accident site topography makes it improbable that the pilot
+intentionally selected the accident site as a landing spot in response to any emergency,
+particularly when several other adequate locations would have been available to the pilot. The
+investigation also could not determine why the helicopter arrived at the accident site location at a
+high rate of descent with an apparently fully functioning helicopter with a running engine and
+driving rotor system.
+For a complete understanding of possible accident scenarios, it is important to consider the
+following performance capabilities of the helicopter for the weight and atmospheric conditions
+existing at the accident site:49
+• The helicopter was marginally capable of HOGE at the top of the plateau.
+• The helicopter was marginally capable of HOGE at the altitude of the accident site.
+• The available power margin at the accident site altitude translates into a helicopter
+vertical climb capability from a hover of only 421 fpm at best. If the helicopter were
+descending vertically (or nearly so) at a greater rate, the pilot could not arrest the descent.
+• Use of the right antitorque pedal utilizes drive train power that would otherwise be
+available for hover or vertical climb capability. Full-right pedal input consumes almost
+20 percent of the available drive train power and would significantly affect the power
+available margin to the main rotor system.
+One possible scenario that is consistent with the evidence is the condition known as settling
+with power; however, this scenario assumes that the pilot elected to execute a descending 180o
+49 The temperatures used for these calculations were the most conservative chosen. Pilots landing at the accident
+site immediately following the crash estimated significantly higher ambient air temperatures, which would translate
+into performance capabilities more degraded than the numbers used in the report.
+NTSB/AAB-04/02
+
+4 4
+turn with an abrupt slowing of forward speed back toward the cliff after crossing the face of the
+Grand Wash Cliffs. In the absence of a survivor providing an explanation or any flight recorder
+data, the investigation could not determine why the pilot would have initiated such a maneuver;
+therefore, a determination of a settling with power event cannot be made.
+A hydraulic systems failure, in the worst of cases, could possibly produce a right
+descending turn; however, the magnitude and severity of the turn and descent with this scenario
+is unlikely to result in the impact geometry seen in the wreckage. In the event of either a failure
+of the hydraulic system or the system being inadvertently deactivated by the cockpit switches,
+once the system accumulators bleed down to zero pressure, the dynamic forces in the main rotor
+will drive the collective down and the cyclic to the full-aft and full-right position. As the servos
+and cockpit controls move to these positions, the helicopter will enter a right descending turn if
+the pilot does nothing to counter this motion.50 The scenario also requires the highly improbable
+condition that the pilot had his hands off the controls and was distracted to the point that he
+failed to notice an extremely abrupt attitude change and a violent movement of the cyclic flight
+control that would most likely have hit his right leg very hard. Since there was no filament
+stretch in the hydraulic system failure warning light in the enunciator panel, the investigation
+concludes that no system failure occurred.
+During the analysis of the helicopter’s flight profile from the last fueling stop through the
+route to the accident site, comparisons were made to determine the possible effects of hydraulic
+servo transparency to the flight profile. Servo transparency can cause the collective to move
+downward, and the cyclic to move rearward and to the right. During this phenomenon, both
+collective forces and cyclic forces create flight control forces that cause the helicopter to pitch up
+and to the right, and to slow. A review of flight test reports indicates that servo transparency
+could be encountered at high gross weights, high forward airspeeds, and during maneuvers that
+produce high flight loads on the rotor system. The tests also showed that servo transparency
+could not be encountered if the collective is less than 50% raised, and that servo transparency
+usually lasts only a few seconds. Analysis indicates that the flight profile of the helicopter
+included a region where servo transparency might have been encountered if the helicopter was
+maneuvered with a high-speed pull up following the dive over the cliff. However, since servo
+transparency effects would have caused a pitch up and a slowing of the helicopter, rather than a
+dive, and given the impact geometry of accident site, servo transparency is not considered to be a
+likely factor in the accident.
+In the absence of any evidence to indicate a preimpact mechanical malfunction, and given
+the density altitude, helicopter performance considerations, and virtually all of the signatures
+evident at the IPI and in the wreckage, the investigation revealed that a probable scenario
+involves the pilot’s decision to maneuver the helicopter in a flight regime, and in a high density
+altitude environment, which significantly decreased the helicopter’s performance capability,
+resulting in a high rate of descent from which the pilot was unable to recover prior to ground
+impact. Additionally, although no evidence was found to indicate that the pilot had intended on
+performing a hazardous maneuver, the high rate of descent occurred in proximity to precipitous
+terrain, which effectively limited remedial options available.
+50Although the hydraulics-off control forces are relatively high, in the 20- to 25-pound range, they are completely
+manageable.
+NTSB/AAB-04/02
+
+4 5
+Flight Recorders
+The almost complete destruction of the helicopter by impact forces and postcrash fire
+hindered the investigation and required the expenditure of significant resources. The accident
+helicopter was not required to be equipped with an FDR or a CVR; however, the Safety Board
+notes that this investigation would have benefited from having recorders installed in the
+helicopter.
+Since January 2000, the Safety Board has investigated numerous accidents involving
+turbine-powered aircraft that were not required to be equipped with either a CVR or an FDR.
+These accidents involved aircraft operating under 14 CFR Parts 91 and 135. Included among
+these accidents was the October 25, 2002, accident involving a Raytheon (Beech) King Air,
+which crashed on approach to Eveleth-Virginia Municipal Airport, Eveleth, Minnesota, killing
+all eight persons on board, including Senator Paul Wellstone. The airplane was not equipped
+with either a CVR or an FDR at the time of the accident, nor did Federal regulations require it to
+be so equipped.
+The Safety Board has investigated several cases in which the aircraft was not required to be
+equipped with a flight recorder,51 but in which a CVR was installed voluntarily on the aircraft.
+The Board has found that data from these CVRs provided invaluable information during its
+investigations. Specifically, in the beginning phases of an investigation, CVR data may reveal
+operational issues that are not readily apparent from the physical evidence found at an accident
+site. Such critical data regarding the aircraft’s operation and the flight crew’s actions not only
+help to immediately narrow the focus of an investigation but may also be the sole source of
+evidence for a probable cause and recommendations that could prevent future similar
+occurrences.
+In addition, Safety Board investigators have repeatedly found that CVRs installed in
+conjunction with FDRs provide data instrumental in reconstructing events leading to the
+accidents. Specifically, CVRs have provided insight into the operational environment within the
+cockpit, and FDRs have provided information regarding the aircraft’s performance. Using data
+from both recorders, investigators have been able to determine the aircraft’s motion and flight
+crewmember response to it or, conversely, how crewmember actions affected the airplane’s
+performance. The CVR and the FDR each provide a different but complementary perspective on
+the events leading to an accident.
+Although CVRs and FDRs are required on most larger passenger-carrying aircraft,52
+smaller aircraft are excluded by the current regulations and are not required to be equipped with
+any crash-protected recorder: specifically, single-pilot certificated turbine-powered aircraft and
+dual-certificated cargo/passenger aircraft. When neither CVR nor FDR data are available, Safety
+51 For private operations, CVR and FDR requirements are in 14 CFR 91.609. For charter operations, CVR
+requirements are in 14 CFR 135.151, and FDR requirements are in 14 CFR 135.152. For scheduled transport
+operations, CVR requirements are in 14 CFR 121.359, and FDR requirements are in 14 CFR 121.343, 14 CFR
+121.344, and 14 CFR 121.344a.
+52 The Safety Board has previously addressed the issue of insufficient recorded data from larger aircraft (that are
+currently required to be equipped with a both a CVR and an FDR) in Safety Recommendations A-00-30 and -31.
+NTSB/AAB-04/02
+
+4 6
+Board investigators can sometimes compensate in part with radar data or air traffic control
+recordings. However, these data do not provide the same level of detail about the aircraft’s
+flightpath, flight conditions, or operations that can be provided by CVR and FDR data.
+Furthermore, when accidents occur in areas outside radar coverage, such as the case in this
+accident, these data are not available.
+Many turbine-powered aircraft, including the AS350, Bell 407, and Bell 206L helicopters
+are single-pilot-certificated aircraft that are heavily used in Part 135 passenger charter and other
+commercial operations. Under 14 CFR Parts 91 and 135 operations, a CVR is required only if the
+aircraft are certificated to operate with two pilots. Moreover, because these aircraft are
+configured with fewer than 10 passenger seats, they are not required to have an FDR installed on
+board. Although CVR data from single-pilot operations may not provide the same level of
+operational information as would be expected when two or more crewmembers are present, the
+CVR can capture events that are important to accident investigators. Specifically, investigators
+routinely extract aircraft event data from a CVR recording—some of which might have been
+available from an FDR, if one had been installed—such as warnings and alerts, engine power
+settings, and main rotor rotation speed. Significantly, despite their single-pilot certification,
+aircraft in this category are often operated with two pilots due to insurance requirements or for
+other reasons, such as safety-of-flight, making the presence of a CVR even more valuable to
+Safety Board investigations.
+In a safety recommendation letter sent to the FAA on December 22, 2003, the Safety
+Board stated that it identified the need to install crash-protected recording devices on all turbine-
+powered aircraft. The Board stated that it recognizes the economic impact of requiring both a
+CVR and an FDR on smaller aircraft and consequently proposes that all smaller turbine-powered
+aircraft be equipped with a single crash-protected recorder: the video image recorder. Such
+recorders obtain not only audio information like that from CVRs and event data like that from
+FDRs, but also information about the environment outside the cockpit window. The Safety
+Board made the following recommendations to the FAA:
+• Require the installation of a crash-protected image recording system on all turbine-
+powered, nonexperimental, nonrestricted-category aircraft manufactured after January 1,
+2007, operating under 14 Code of Federal Regulations Parts 91, 135, and 121. (A-03-62)
+• Amend the current regulations for 14 Code of Federal Regulations Parts 91, 135, and 121
+operations to require all turbine-powered, nonexperimental, nonrestricted-category aircraft
+that have the capability of seating six or more passengers to be equipped with an approved
+2-hour cockpit voice recorder that is operated continuously from the start of the use of the
+checklist (before starting engines for the purpose of flight), to completion of the final
+checklist at the termination of the flight. (A-03-63)
+• Require all turbine-powered, nonexperimental, nonrestricted-category aircraft that are
+manufactured prior to January 1, 2007, that are not equipped with a cockpit voice recorder,
+and that are operating under 14 Code of Federal Regulations Parts 91, 135, and 121 to be
+retrofitted with a crash-protected image recording system by January 1, 2007. (A-03-64)
+NTSB/AAB-04/02
+
+4 7
+• Require all turbine-powered, nonexperimental, nonrestricted-category aircraft, that are
+equipped with a cockpit voice recorder, that are manufactured prior to January 1, 2007, and
+that are operating under 14 Code of Federal Regulations Parts 91, 135, and 121 to be
+retrofitted with a crash-protected image recording system by January 1, 2010. (A-03-65)

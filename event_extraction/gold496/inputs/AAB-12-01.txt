@@ -1,0 +1,1679 @@
+Pilot/Race 177, The Galloping Ghost
+North American P-51D, N79111
+Reno, Nevada
+September 16, 2011
+Accident Brief
+NTSB/AAB-12/01
+PB2012-102899
+National
+Transportation
+Safety Board
+
+NTSB/AAB-12/01
+PB2012-102899
+Notation 8349C
+Adopted August 27, 2012
+Aircraft Accident Brief
+Pilot/Race 177, The Galloping Ghost
+North American P-51D, N79111
+Reno, Nevada
+September 16, 2011
+National
+Transportation
+Safety Board
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+
+National Transportation Safety Board. 2012. Pilot/Race 177, The Galloping Ghost, North American
+P-51D, N79111, Reno, Nevada, September 16, 2011. NTSB/AAB-12/01. Washington, DC.
+The National Transportation Safety Board is an independent Federal agency dedicated to promoting aviation,
+railroad, highway, marine, pipeline, and hazardous materials safety. Established in 1967, the agency is mandated by
+Congress through the Independent Safety Board Act of 1974 to investigate transportation accidents, determine the
+probable causes of the accidents, issue safety recommendations, study transportation safety issues, and evaluate the
+safety effectiveness of government agencies involved in transportation. The Safety Board makes public its actions
+and decisions through accident reports, safety studies, special investigation reports, safety recommendations, and
+statistical reviews.
+Recent publications are available in their entirety on the Internet at <http://www.ntsb.gov>. Other information about
+available publications also may be obtained from the website or by contacting:
+National Transportation Safety Board
+Records Management Division, CIO-40
+490 L’Enfant Plaza, SW
+Washington, DC 20594
+(800) 877-6799 or (202) 314-6551
+NTSB publications may be purchased, by individual copy or by subscription, from the National Technical
+Information Service. To purchase this publication, order report number PB2012-916203 from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(800) 553-6847 or (703) 605-6000
+The Independent Safety Board Act, as codified at 49 U.S.C. Section 1154(b), precludes the admission into evidence
+or use of Board reports related to an incident or accident in a civil action for damages resulting from a matter
+mentioned in the report.
+
+Contents
+Figures ........................................................................................................................................... iii
+Acronyms and Abbreviations ...................................................................................................... iv
+Executive Summary ...................................................................................................................... v
+1. Factual Information .................................................................................................................. 1
+1.1 History of Flight ................................................................................................................. 1
+1.2 Personnel Information ........................................................................................................ 2
+1.3 Airplane Information .......................................................................................................... 3
+1.3.1 Racing Modifications ................................................................................................ 4
+1.3.2 Maintenance Records ................................................................................................ 6
+1.4 Meteorological Information ............................................................................................... 7
+1.5 Airport and Race Course Information ................................................................................ 7
+1.6 Flight Recorders ................................................................................................................. 8
+1.7 Wreckage and Impact Information ..................................................................................... 9
+1.8 Medical and Pathological Information ............................................................................... 9
+1.8.1 Autopsy and Toxicological Examination .................................................................. 9
+1.8.2 Effects of High-G Levels on Pilots ......................................................................... 10
+1.9 Survival Aspects ............................................................................................................... 10
+1.9.1 NCAR Ramp Area Layout ...................................................................................... 10
+1.9.2 Emergency Response ...............................................................................................11
+1.10 Tests and Research.......................................................................................................... 12
+1.10.1 Airplane Performance ............................................................................................ 12
+1.10.2 Examination of Elevator Trim Components ......................................................... 21
+1.10.3 In-Flight Fuselage Deformation ............................................................................ 23
+1.10.4 Wake Encounter Evaluation .................................................................................. 26
+1.11 Organizational and Management Information ................................................................ 26
+1.11.1 FAA Requirements ................................................................................................ 26
+1.11.2 NAG Unlimited Division Rules ............................................................................ 27
+1.11.3 RARA Rules .......................................................................................................... 28
+1.12 Additional Information ................................................................................................... 29
+i
+
+2. Analysis .................................................................................................................................... 30
+2.1 General ............................................................................................................................. 30
+2.2 Evidence of Elevator Trim Tab Looseness, Flutter .......................................................... 30
+2.3 Initiation of Left Roll Upset, Link Assembly Breakage Scenarios .................................. 31
+2.4 Maintenance of Trim Tab Attachment Screws, Locknuts................................................. 32
+2.5 Effects Of Modifications on Flight Characteristics .......................................................... 33
+2.6 Previously Issued Safety Recommendations Related to This Investigation .................... 34
+2.6.1 Race Eligibility Requirements for Aircraft With Major Modifications .................. 34
+2.6.2 Spectator Safety ...................................................................................................... 36
+2.6.3 Air Race and Course Design Guidance ................................................................... 37
+2.6.4 High-G Training and G-Suit Feasibility for Pilots .................................................. 38
+2.6.5 Prerace Technical Inspection Discrepancy Tracking .............................................. 39
+2.7 Other Identified Issues ...................................................................................................... 40
+2.7.1 Noncompliance With Operating Limitations, Flight Testing Requirements ........... 40
+2.7.2 Discrepancies in Pilot-Reported Information on Racing Entry Documents ........... 41
+2.8 Summary .......................................................................................................................... 42
+3. Probable Cause ........................................................................................................................ 43
+ii
+
+Figures
+Figure 1. Diagram of the NCAR unlimited class race course at RTS, showing
+relative locations of pylons and the accident site............................................................................ 2
+Figure 2. Illustration of the accident airplane with stock P-51D dimensions shown in red. ......... 5
+Figure 3. NCAR ramp area layout with accident site depicted. ....................................................11
+Figure 4. Left trim tab deflection of 8° trailing edge up during a previous flight. ...................... 13
+Figure 5. Airplane rounding pylon 8 during accident lap before the left
+roll upset at 1624:28.65................................................................................................................. 14
+Figure 6. Airplane during left roll upset at 1624:29.46, before it reached maximum left bank
+angle. Inset shows detail of left elevator trim tab and the cutout in the elevator for
+the trim tab link assembly. ............................................................................................................ 15
+Figure 7. Airplane rolling right and pitching up at 1624:30.20, about the time
+it sustained its maximum vertical load factor. .............................................................................. 16
+Figure 8. Airplane pitching up with left elevator trim tab trailing edge down at 1624:30.34,
+right elevator trim tab trailing edge up, and nearly full right-wing-down aileron deflection. ...... 17
+Figure 9. Inboard piece of left elevator trim tab detached from inboard hinge. .......................... 18
+Figure 10. Inboard piece of left elevator trim tab separated. ....................................................... 18
+Figure 11. Airplane’s vertical acceleration during upset over time. Times that correspond
+with specific photographs are noted. ............................................................................................ 20
+Figure 12. Left elevator showing the relative installed locations of the recovered trim
+tab pieces, trim tab hinges, trim tab rod assembly, and trim tab link assembly piece. ................. 21
+Figure 13. Section of right elevator trim tab (view of underside) showing the
+inboard hinge, attachment screw, and locknut. ............................................................................. 22
+Figure 14. Locknut in the left elevator trim tab outboard hinge. ................................................. 23
+Figure 15. Diagonal wrinkles on right side during accident race. ............................................... 24
+Figure 16. Diagonal wrinkles on left side during accident race. .................................................. 25
+Figure 17. Gap between canopy and windscreen in flight. .......................................................... 25
+iii
+
+Acronyms and Abbreviations
+AC advisory circular
+ADI anti-detonation injection
+agl above ground level
+CAMI Civil Aerospace Medical Institute
+CFR Code of Federal Regulations
+CG center of gravity
+DCU data collection unit
+EFIS electronic flight information system
+FAA Federal Aviation Administration
+FAR Federal Aviation Regulation
+FSDO flight standards district office
+G-LOC G-induced loss of consciousness
+GPS global positioning system
+NAG National Air-racing Group
+NCAR National Championship Air Races
+NTSB National Transportation Safety Board
+RARA Reno Air Racing Association
+REMSA Reno Emergency Medical Services Authority
+RF radio-frequency transmitter
+RTAA Reno Tahoe Airport Authority
+RTS Reno/Stead Airport, Reno, Nevada
+SD secure digital
+iv
+
+Executive Summary
+On September 16, 2011, about 1625 Pacific daylight time, an experimental, single-seat
+North American P-51D, N79111, collided with the airport ramp in the spectator box seating area
+following a loss of control during the National Championship Air Races unlimited class gold
+race at the Reno/Stead Airport (RTS), Reno, Nevada. The airplane was registered to Aero-Trans
+Corp (dba Leeward Aeronautical Sales), Ocala, Florida, and operated by the commercial pilot as
+Race 177, The Galloping Ghost, under the provisions of 14 Code of Federal Regulations Part 91.
+The pilot and 10 people on the ground sustained fatal injuries, and at least 64 people on the
+ground were injured (at least 16 of whom were reported to have sustained serious injuries). The
+airplane sustained substantial damage, fragmenting upon collision with the ramp. Visual
+meteorological conditions prevailed, and no flight plan had been filed for the local air race flight,
+which departed RTS about 10 minutes before the accident.
+The accident airplane was in third place during the third lap of the six-lap race and was
+traveling about 445 knots when it experienced a left roll upset and high-G pitch up.
+Subsequently, the airplane entered a right-rolling climb maneuver. During these events, the
+vertical acceleration peaked at 17.3 G, and, a few seconds later, a section of the left elevator trim
+tab separated in flight. The characteristics of the airplane’s pitch changes during the upset were
+such that the pilot’s time of useful consciousness was likely less than 1 second. As a result, the
+pilot soon became completely incapacitated, and the airplane’s continued climb and helical
+descent occurred without his control.
+The accident airplane had undergone many structural and flight control modifications that
+were undocumented and for which no flight testing or analysis had been performed to assess
+their effects on the airplane’s structural strength, performance, or flight characteristics. The
+investigation determined that some of these modifications had undesirable effects. For example,
+the use of a single, controllable elevator trim tab (installed on the left elevator) increased the
+aerodynamic load on the left trim tab (compared to a stock airplane, which has a controllable tab
+on each elevator). Also, filler material on the elevator trim tabs (both the controllable left tab and
+the fixed right tab) increased the potential for flutter because it increased the weight of the tabs
+and moved their center of gravity aft, and modifications to the elevator counterweights and
+inertia weight made the airplane more sensitive in pitch control. It is likely that, had engineering
+evaluations and diligent flight testing for the modifications been performed, many of the
+airplane’s undesirable structural and control characteristics could have been identified and
+corrected.
+The investigation determined that the looseness of the elevator trim tab attachment
+screws (for both the controllable left tab and the fixed right tab) and a fatigue crack in one of the
+screws caused a decrease in the structural stiffness of the elevator trim system. At racing speeds,
+the decreased stiffness was sufficient to allow aerodynamic flutter of the elevator trim tabs.
+Excitation of the flutter resulted in dynamic compressive loads in the left elevator trim tab’s link
+assembly that increased beyond its buckling strength, causing a bending fracture. The flutter and
+the failure of the left elevator trim tab’s link assembly excited the flutter of the right elevator trim
+tab, increasing the dynamic compressive loads in the right elevator trim tab’s fixed link assembly
+beyond its buckling strength, causing a bending fracture. The investigation found that the
+v
+
+condition of the trim tab attachment screws’ locknut inserts, which showed evidence of age and
+reuse, rendered them ineffective at providing sufficient clamping pressure on the trim tab
+attachment screws to keep the hinge surfaces tight.
+The National Transportation Safety Board (NTSB) determines that the probable cause of
+this accident was the reduced stiffness of the elevator trim tab system that allowed aerodynamic
+flutter to occur at racing speeds. The reduced stiffness was a result of deteriorated locknut inserts
+that allowed the trim tab attachment screws to become loose and to initiate fatigue cracking in
+one screw sometime before the accident flight. Aerodynamic flutter of the trim tabs resulted in a
+failure of the left trim tab link assembly, elevator movement, high flight loads, and a loss of
+control. Contributing to the accident were the undocumented and untested major modifications to
+the airplane and the pilot’s operation of the airplane in the unique air racing environment without
+adequate flight testing.
+As a result of this investigation and the NTSB’s January 10, 2012, investigative hearing
+on air race and air show safety, on April 10, 2012, the NTSB issued 10 safety recommendations
+to the Reno Air Racing Association, the National Air-racing Group Unlimited Division, and the
+Federal Aviation Administration (FAA) with the intent of improving the safety of air race
+operations. These recommendations addressed requiring engineering evaluations for aircraft with
+major modifications, raising the level of safety for spectators and personnel near the race course,
+improving FAA guidance for air races and course design, providing race pilots with high-G
+training, evaluating the feasibility of G-suit requirements for race pilots, and tracking the
+resolution of race aircraft discrepancies identified during prerace technical inspections. Each
+safety recommendation recipient has initiated or completed positive action in response to these
+safety recommendations.
+vi
+
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+I T Washington, D.C. 20594
+A T IO
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: WPR11MA454
+Operator/Flight Number: Pilot/Race 177, “The Galloping Ghost”
+Aircraft and Registration: North American P-51D, N79111
+Location: Reno, Nevada
+Date: September 16, 2011
+Adopted:
+1. FACTUAL INFORMATION
+1.1 HISTORY OF FLIGHT
+On September 16, 2011, about 1625 Pacific daylight time,1 an experimental, single-seat
+North American P-51D, N79111, collided with the airport ramp in the spectator box seating area
+following a loss of control during the National Championship Air Races (NCAR) unlimited
+class2 gold race at the Reno/Stead Airport (RTS), Reno, Nevada. The airplane was registered to
+Aero-Trans Corp (dba Leeward Aeronautical Sales), Ocala, Florida, and operated by the
+commercial pilot as Race 177,3 The Galloping Ghost, under the provisions of 14 Code of Federal
+Regulations (CFR) Part 91. The pilot and 10 people on the ground sustained fatal injuries, and at
+least 64 people on the ground were injured (at least 16 of whom were reported to have sustained
+serious injuries).4 The airplane sustained substantial damage, fragmenting upon collision with the
+ramp. Visual meteorological conditions prevailed, and no flight plan had been filed for the local
+air race flight, which departed RTS about 10 minutes before the accident.
+The accident airplane was in third place during the third lap of the six-lap race, trailing
+the second-place airplane (Voodoo, another experimental P-51D) by about 4.5 seconds and the
+lead airplane (Strega, also an experimental P-51D) by about 8.8 seconds. The accident airplane
+was traveling about 445 knots as it passed pylon 8 (see figure 1) and experienced a left roll upset
+1 Unless otherwise noted, all times in this brief are Pacific daylight time based on a 24-hour clock.
+2 The unlimited class, which is one of six NCAR race classes, includes several types of modified
+propeller-driven, reciprocating-engine-equipped airplanes that have an empty weight greater than 4,500 pounds. The
+unlimited class airplanes may operate at ground speeds in excess of 435 knots.
+3 NCAR race control identifies each participating airplane using its assigned race number, which is painted on
+the fuselage and wings.
+4 The precise number of injured persons could not be determined. Although three hospitals provided
+information about the number of patients treated and the extent of their injuries, a fourth hospital provided only
+limited information. Also, limited information was available about patients who were either treated only at the scene
+or sought medical treatment at other facilities.
+
+and high-G5 pitch-up. During the upset, in less than 1 second, the airplane rolled from its
+established approximate 73°-left-bank turn to about 93° left bank, and vertical acceleration
+reached about 11 G.6 After the left roll upset, the airplane entered a right-rolling climb maneuver.
+During these events, the vertical acceleration peaked at 17.3 G, and, a few seconds later, a
+section of the left elevator trim tab separated in flight. The airplane subsequently descended in a
+helical flightpath to the ground.
+Figure 1. Diagram of the NCAR unlimited class race course at RTS, showing relative locations
+of pylons and the accident site.
+1.2 PERSONNEL INFORMATION
+The pilot, age 74, held a commercial pilot certificate for airplane single-engine land,
+single-engine sea, and multi-engine land; instrument airplane; rotorcraft-helicopter; and glider.
+He held type ratings for numerous airplanes and was authorized to fly numerous experimental
+aircraft. His most recent Federal Aviation Administration (FAA) second-class medical certificate
+5 The term G is used as a dimensionless measure of acceleration or force. The value can be determined by the
+ratio of a particular acceleration (a) to the acceleration due to gravity (g) at sea level (in which G = a/g and
+g = 32.2 feet per second2), the ratio of a force on an object (F) to the weight (W) of the object being accelerated (in
+which G = F/W), or the ratio of the lift (L) of a wing to the weight (W) of an airplane (in which G = L/W). In
+accordance with common practice, this brief refers to accelerations or forces in terms of G. For example, it is
+customarily understood that “5 G” represents an acceleration of five times the acceleration of gravity at sea level
+(acceleration = 5 × 32.2 feet per second2 or 5 g), or that lift is five times the weight of the aircraft (L = 5 × W ),
+aircraft
+or that the restraint force holding an occupant in place is five times the weight of the occupant (seatbelt
+force = 5 × W ).
+occupant
+6 Information about the airplane’s vertical acceleration that is summarized throughout this brief was derived
+from the NTSB’s Video Study calculations (performed using video footage of the airplane provided by ground
+witnesses) and the airplane’s onboard accelerometer; for more information, see figure 11 in section 1.10.1.2 of this
+brief and the video study in the public docket for this accident. Information about the airplane’s bank angle, speed,
+and timing was derived from study calculations performed using photographs, video footage, and telemetry data for
+the airplane; for more information, see section 1.10.1 of this brief and the Image Study, Performance Study, and
+Data Recorders Report in the public docket for this accident.
+2
+NTSB/AAB-12/01
+
+was issued on March 2, 2010, with no limitations. The pilot’s 2011 NCAR entry form that was
+submitted to the Reno Air Racing Association (RARA) listed the pilot’s total flight time as
+“13,200±” hours, his time in the “entered race airplane” (the accident airplane) as
+“2,700±” hours, and his time in the airplane make and model as “2,700±” hours. There were
+some discrepancies between this information and the information provided on the pilot’s 2009
+and 2010 NCAR entry forms.7
+A review of the pilot’s FAA airman medical records revealed that his most recent
+application for an airman medical certificate indicated no history of medical, psychiatric, drug, or
+alcohol conditions. The aviation medical examiner noted on the application that the pilot used
+only one medication rarely and seemed to be in good health. A review of the pilot’s personal
+medical records revealed diagnoses in 2007 of elevated homocysteine (an independent risk factor
+for heart disease) and hyperlipidemia (elevated cholesterol), for which he was prescribed
+medications. During a February 27, 2012, telephone interview with the NTSB medical officer,
+the pilot’s physician described the accident pilot as being in good general health and fitness for
+his age. The physician stated that he found no evidence on physical examination or by
+electrocardiogram that the pilot had pulmonary hypertension (high blood pressure in lung
+vasculature) and that he saw no history of symptoms that might suggest that the pilot had
+pulmonary hypertension or chronic hypoxemia (low blood oxygen pressure).
+1.3 AIRPLANE INFORMATION
+The North American P-51D is an all-metal (with the exception of some control surfaces),
+low-wing, single-seat, single-engine, propeller-driven airplane with conventional landing gear.
+The first P-51 variant entered production in 1941 and was originally designed and built as a
+long-range military fighter airplane. The P-51D variant entered production in April 1944. The
+stock P-51D’s empty weight was 7,635 pounds, and its maximum gross weight was
+12,100 pounds. The accident airplane, serial number 44-15651, was delivered to the Army Air
+Forces on December 23, 1944, and, in July 1946, it was declared surplus and sold. The airplane
+was raced in the NCAR from 1969 through 1982 with various modifications for racing before
+being acquired by the accident pilot in July 1983.8
+The accident pilot raced the airplane in the NCAR from 1983 through 1989 before
+placing it in storage until 2007.9 Between 2007 and 2009, the airplane underwent overhaul and
+further modifications in Arizona, Texas, and Nevada. The configuration that the airplane had on
+the day of the accident was completed in the fall of 2009 in Minden, Nevada, where it remained
+when not being raced in the NCAR.
+7 The pilot’s 2009 and 2010 entry forms listed the pilot’s age as “59,” but the 2011 entry form accurately listed
+his age. In 2009, the pilot’s total flight time was listed as “13,700” hours, and, in 2010, it was listed as
+“13,000±” hours. On the 2009 and 2010 entry forms, the pilot’s total time in the “entered race airplane” was listed as
+“2,500+” hours and “2,500 hrs ±”, respectively.
+8 Before it was purchased by the accident pilot, the airplane had raced in the NCAR as Race 69, Miss Candace,
+and Race 69, Jeannie.
+9 The accident pilot previously raced the airplane as Race X, Spectre; Race 44, Leeward Air Ranch Special; and
+Race 9, Leeward Air Ranch Special.
+3
+NTSB/AAB-12/01
+
+1.3.1 Racing Modifications
+The airplane was equipped with a Rolls-Royce Merlin V-1650-9A engine, which was
+modified for racing, and an unmodified Hamilton Standard 24D50 propeller. Solid aluminum
+engine mounts were installed (instead of stock elastic mounts) to prevent the engine from
+moving at high race-power settings. The airplane was equipped with a racing canopy that had a
+smaller frontal area than the stock canopy and was hinged to open upward (rather than slide aft).
+The upper fuselage structure was modified with an aerodynamic turtle deck10 to accept the
+smaller racing canopy.
+The airplane’s boil-off engine cooling system (which a stock P-51D does not have)
+submerged the radiators in a water/methanol bath.11 The boiler was installed aft of the pilot’s seat
+in an area sealed off from the cockpit. The water/methanol mixture (which was used in both the
+boil-off cooling system and the engine’s anti-detonation injection [ADI] system12) was contained
+in a 150-gallon tank in the left wing that had been converted from the original left wing fuel
+tank. A custom-built fuselage structure was installed in place of the stock lower air scoop (which
+normally houses the stock radiators, one for the engine coolant and aftercooler, and the other for
+the engine oil) to provide an aerodynamic shape on the underside of the fuselage aft of the wing.
+No information, such as skin gauge or other details, was available for the modified turtle deck or
+lower fuselage structure.
+The outboard section of each wing was removed, and a new wingtip with an end plate
+was installed. The airplane’s modified wingspan was about 28 feet 10 inches (compared to the
+stock wingspan of 37 feet 5/16 inch), which was the shortest wingspan of any modified P-51D
+racing in 2011. Each aileron was shortened to about 3 feet (from a stock length of about 7 feet)
+and had two hinges (a stock aileron has three). The right aileron trim tab was removed, and the
+trim for the left aileron was run by an electric trim motor installed at the wing root (as opposed to
+the stock manual trim system). The horizontal stabilizer and elevators were equipped with
+modified flat end caps that reduced the horizontal stabilizer span to about 12 feet 1 inch (from a
+stock span of 13 feet 2 1/8 inches). (See figure 2.)
+10 The turtle deck is the upper fuselage structure located immediately aft of the cockpit and forward of the
+empennage.
+11 During engine operation, as the water/methanol mixture absorbs heat, it boils off and vents overboard as
+vapor.
+12 The ADI system functioned by injecting the water/methanol mixture in the fuel/air charge upstream of the
+supercharger to cool the mixture and prevent auto detonation.
+4
+NTSB/AAB-12/01
+
+Figure 2. Illustration of the accident airplane with stock P-51D dimensions shown in red.
+Modifications to the elevator counterweights, upper rudder counterweight, vertical
+stabilizer incidence, horizontal stabilizer incidence, and rudder were discovered during the
+postaccident wreckage examination. The horizontal stabilizer, elevators, and trim tabs were of
+all-metal construction but were modified with up to 1/8 inch of filler material on the upper and
+lower skins that smoothed the surfaces. The left elevator counterweight weighed 26 pounds, and
+the right elevator counterweight (with some of the elevator structure and outboard hinge
+assembly still attached) weighed 27.5 pounds. Available documentation for the stock elevator
+counterweight specified a maximum total weight of 13.75 pounds. The vertical stabilizer’s
+leading edge was offset to the right of the airplane’s longitudinal axis by means of a tapered shim
+installed between the vertical stabilizer rear spar and the empennage structure (the stock P-51D’s
+vertical stabilizer is offset to the left of the airplane’s longitudinal axis). The rudder was modified
+to remove the stock trim tab and its associated control cables and to cover the trim-tab cutout
+with fabric. The modified upper rudder counterweight weighed 25 pounds. Available
+documentation for the stock upper rudder counterweight specified a maximum total weight of
+16.6 pounds. The horizontal stabilizer incidence was increased from the stock value of
+0.5° leading edge up to 0.91° leading edge up through the installation of a shim between the
+forward attach points and the fuselage.
+The right elevator trim tab was modified such that it was fixed in place and faired with
+the right elevator by means of a steel rod installed between the elevator rear spar and the link
+assembly; the stock trim actuator had been removed from the right horizontal stabilizer. The left
+elevator trim tab, link assembly, and trim actuator remained installed as designed but had been
+converted from manual control to electric control through the installation of an electric trim
+5
+NTSB/AAB-12/01
+
+motor on the forward side of the horizontal stabilizer forward spar. The electric elevator (pitch)
+trim and aileron (roll) trim systems were controlled by the pilot via switches on the left side of
+the cockpit, and an indicator light provided a neutral elevator trim indication to the pilot.
+Members of the airplane’s ground crew stated that they believed that the airplane was typically
+raced with neutral elevator trim (0° left tab deflection). They stated that full travel of the left
+elevator trim tab (from full up to full down deflection) would take about 20 seconds.
+The reasons for many of the modifications could not be established. Neither the pilot’s
+family members nor the airplane’s ground crew were aware of any detailed drawings,
+engineering calculations, or other substantiating data for any of the modifications. A ground
+crewmember stated that the pilot had wanted the airplane to be set up like a former racing
+airplane, “Stiletto,”13 which was also a modified P-51D (some of the parts for the accident
+airplane were previously installed on Stiletto). According to the ground crewmembers, the
+accident pilot was the only person to fly the airplane from 2009 to the date of the accident.
+1.3.2 Maintenance Records
+An airframe logbook entry dated September 16, 2009, stated that the airplane was
+assembled in accordance with the P-51D&K Erection and Maintenance Manual (AN 01-60JE-2).
+The entry also stated that a boil-off cooling system was installed and a condition inspection14
+was accomplished in accordance with 14 CFR Part 43, Appendix D. A logbook entry dated
+September 22, 2009, and signed by the accident pilot stated the following:
+The prescribed flight test hours have been completed, and the aircraft is
+controllable throughout its normal range of speeds and throughout all
+manevers [sic] to be executed, has no hazardous operating characteristics or
+design features, and is safe for operation.
+The most recent airframe logbook entry was a condition inspection entry dated
+July 29, 2011, that listed an airframe total time of 1,447.2 hours.15
+The engine logbook contained two entries dated September 8, 2009, documenting that the
+engine was repaired and assembled in accordance with the U.S. Army Manual AN 02-55AC-3
+(Revision 07-15-1945) to the manufacturer tolerances listed in sections X-XI at an airframe total
+time of 1,428.9 hours. An engine condition inspection entry dated July 29, 2011, listed an
+13 Stiletto, which raced at the NCAR from 1984 to 1992, had shortened wings, horizontal stabilizers, and
+elevators (with dimensions similar to those of the accident airplane); a removed lower air scoop; and trim controls
+that used only the left elevator and left aileron trim tabs. An accomplished Lockheed Skunk Works test pilot who
+was involved in the Stiletto project published an article in 1985 that described a rigorous flight test program that was
+used to determine the flying qualities of the airplane, including flutter characteristics. See S. Holm, “How I Won
+Reno: Skip Holm Flies Stiletto,” Air Progress, vol. 47, no. 1 (1985), pp. 52-56.
+14 A condition inspection is a required inspection for experimental airplanes, as specified in the airplane’s
+operating limitations, that typically must be performed within the preceding 12 calendar months. It is similar in
+scope to an annual inspection that must be performed for certificated airplanes.
+15 The investigation determined that this airframe total time was off by 6.4 hours due to an error made in a
+September 16, 2009, entry that was carried forward. The correct airframe total time on July 29, 2011, was
+1,453.6 hours, which was accurately reflected in an engine logbook entry that listed the total airframe time on that
+date.
+6
+NTSB/AAB-12/01
+
+airframe total time of 1,453.6 hours. The propeller logbook contained a propeller condition
+inspection entry dated July 29, 2011, that listed a propeller total time of 24.7 hours. An entry
+dated September 4, 2011, indicated that a propeller dynamic balance was performed.
+According to an airplane weight and balance report dated September 14, 2009, the
+accident airplane’s empty weight was 6,474 pounds with an empty-weight center of gravity (CG)
+of 135.38 inches aft of the reference datum. The report indicated that the CG limits for the
+airplane were from 135.77 to 143.8 inches, which are the same values for the stock P-51D. There
+was no record of any testing performed to establish the forward and aft CG limits of the modified
+airplane. Postaccident calculations using conservative fuel and ADI fluid consumption rates for
+telemetry-derived engine power settings for the flight determined that, at the time of the upset,
+the airplane weighed about 7,760 pounds with a CG located about 140.2 inches aft of datum.
+According to one member of the airplane’s ground crew, work was done on the airplane
+to tighten up some “free-play” in the airplane’s trim control tabs before it arrived at the NCAR.
+The right elevator trim tab screws were also removed and reinstalled after the prerace technical
+inspection identified a discrepancy before the airplane flew on the course.16
+1.4 METEOROLOGICAL INFORMATION
+The automated weather observing system at RTS, elevation 5,050 feet, reported at 1620
+that wind was from 240° at 15 knots with gusts to 21 knots, visibility 10 miles, clear sky
+conditions below 12,000 feet above ground level (agl), temperature 22°C, dew point 0°C, and
+altimeter setting 29.99 inches of mercury. At 1630, wind was from 240° at 15 knots with gusts to
+20 knots, with the same visibility, sky conditions, temperature, dew point, and altimeter setting.
+A Weather Research and Forecasting Model simulation17 was run to simulate the weather
+conditions surrounding the accident site at the accident time. According to the simulation, at
+1620, the wind over the accident site about 100 feet agl was from 275° at 20 knots, and, at 1630,
+it was from 275° at 21 knots. At 1630 at higher altitudes (about 400 feet and 1,100 feet agl), the
+wind was from 280° at 24 knots and from 275° at 23 knots, respectively. Although the simulation
+indicated signatures of rapid wind changes within small distances both north-northwest and south
+of the accident site, the wind conditions above the surface at RTS remained laminar.
+1.5 AIRPORT AND RACE COURSE INFORMATION
+RTS is at an elevation of 5,050 feet above mean sea level and has two runways:
+runway 14/32, which is 9,000 feet long, and runway 8/26, which is 7,608 feet long. The FAA
+issued a certificate of waiver or authorization on September 2, 2011, to enable the NCAR to be
+held at RTS. Provisions of the waiver stated that all flights conducted at altitudes less than
+16 More information can be found in section 1.11.2 of this brief.
+17 The simulation was the Weather Research and Forecasting Model (WRF) Advanced Research WRF core
+version 3.2.1.5. For more information, see the Meteorological Factual Report in the NTSB’s public docket for this
+accident.
+7
+NTSB/AAB-12/01
+
+1,000 feet agl must remain north of the showline18 located on the south edge of runway 8/26 and
+within 1,000 feet horizontally of the depicted course. It also stated that race flight operations may
+be no closer than 500 feet horizontally from the primary spectator areas for all aircraft.
+The closed course design for the NCAR unlimited class race course at RTS featured
+10 pylons (plus 2 guide pylons), and the course distance was about 8.4 miles. FAA guidance for
+air races and course design was provided in two documents: FAA Order 8900.1, Flight Standards
+Information Management System (volume 3, chapter 6, section 1, paragraph 3-151) and Advisory
+Circular (AC) 91-45C, “Waivers: Aviation Events” (chapter 4). These documents specified the
+required distance between the spectators and the showline, formulas for calculating the minimum
+turn radius in evaluating the suitability of a race course design, and information about
+constructing safety areas.
+A comparison of the two FAA guidance documents revealed that FAA Order 8900.1
+stated that all racing classes “require a distance of 500 feet between the primary spectator area
+and the showline,” whereas AC 91-45C stated that the unlimited racing class (or other classes
+with “speeds in excess of 250 miles per hour”) “requires a spacing of 1,000 feet between the
+spectator area and the showline.” The order and the AC also differed in the specified formula for
+determining the minimum turn radius for race course designs. The two documents differed from
+RARA documents regarding aircraft operating speeds for the unlimited class and jet class, and
+AC 91-45C (which had not been revised since 1990) did not address the jet class. Further, the
+order’s discussion of race course safety areas provided a figure that illustrated information
+related to aerobatic maneuvers, not race course design.
+1.6 FLIGHT RECORDERS
+The airplane was not equipped (and was not required to be equipped) with a flight data
+recorder or cockpit voice recorder.19 However, the airplane had two onboard devices that,
+although not specifically designed for crashworthiness or accident investigation purposes, were
+capable of recording some flight data parameters. One of these devices was a Dynon electronic
+flight information system (EFIS) D10A, which integrates multiple flight instruments and can log
+certain EFIS and global positioning system (GPS) parameters to internal memory.20 Multiple
+pieces of the EFIS-D10A were identified in the wreckage, but the memory device was not
+located.
+The airplane was also equipped with an RCATS Systems telemetry system that included a
+data collection unit (DCU), radio-frequency (RF) transmitter, and sensor adapter board. The
+DCU is designed to collect data from various onboard sensors, an internal GPS receiver, and an
+18 FAA Advisory Circular 91-45C defines a showline as “a prominent, readily visible ground reference, such as
+a river, runway, taxiway…or any straight line that enhances pilot orientation during aerobatic routines…[that] also
+serves as the horizontal axis for the show.”
+19 Title 14 CFR 91.609 specifies flight data recorder and cockpit voice recorder requirements for aircraft
+operated under Part 91.
+20 According to the manufacturer, firmware versions 5.0 and later contain the ability to log certain EFIS and
+GPS parameters to internal memory. The data logging must be configured by the operator to enable logging and set
+the data log interval. The internal memory can store at least 2 hours of cumulative data at a 1-second recording
+interval or at least 120 hours at a 60-second recording interval.
+8
+NTSB/AAB-12/01
+
+internal accelerometer and is capable of both recording the data on an onboard secure digital
+(SD) card and transmitting it via data link (using the RF transmitter) to a ground station equipped
+with a receiver. These data include time, true course, magnetic course, latitude, longitude,
+GPS-derived altitude, GPS-derived velocity, vertical acceleration, engine rpm, engine manifold
+pressure, oil temperature, oil pressure, boiler pressure, ADI pressure, coolant temperature, fuel
+pressure, and other parameters. The ground station operator can monitor and store various
+airplane parameters in real time using the system’s virtual instrument panel software. The
+software can also be used to play back recorded data from the onboard SD card or from the
+ground station. The DCU, RF transmitter, and sensor adapter board were recovered damaged in
+the wreckage. Although attempts to recover data from the damaged SD card were unsuccessful,
+ground station telemetry data were available, including data from the accident flight and previous
+flights and ground runs dating back to September 21, 2009.21
+1.7 WRECKAGE AND IMPACT INFORMATION
+The airplane was fragmented by ground impact forces. Most of the empennage (with the
+vertical stabilizer and the inboard portions of the right horizontal stabilizer, right elevator, and
+left elevator attached) was recovered as one large piece of mangled wreckage. The elevator
+counterweights were located, but the elevator inertia weight (also commonly referred to as a bob
+weight) was not identified in the wreckage; preaccident photographs taken of the elevator inertia
+weight before its installation show that it appeared to be modified, such that the ends outboard of
+the attach brackets were removed. All of the airplane’s control cable fractures examined
+exhibited a splayed appearance, consistent with tension overload. A piece of the left elevator trim
+tab (from the center hinge outboard) was still attached to the left elevator in the wreckage. The
+inboard piece of the left elevator trim tab (which separated in flight) was recovered on the
+ground near the race course’s home pylon.
+The pilot’s portable oxygen bottle was not identified in the wreckage, but the valve was
+located.22 X-ray examination of the valve revealed that the end of the threaded section attached
+to the handle was not seated against the bottom of the opening, which indicates that the valve
+was open at the time of impact.
+1.8 MEDICAL AND PATHOLOGICAL INFORMATION
+1.8.1 Autopsy and Toxicological Examination
+The Washoe County Medical Examiner – Coroner’s Office, Reno, Nevada, performed an
+autopsy on the pilot. The autopsy report listed the pilot’s cause of death as “multiple blunt force
+injuries due to a single aircraft collision.” A muscle sample was positive for ethanol and
+methanol, which the medical examiner interpreted as having resulted from “contamination by
+21 More information about the telemetry data can be found in section 1.10.1 of this brief. A detailed report about
+the data can be found in the Data Recorders Report in the NTSB’s public docket for this accident.
+22 Members of the airplane’s ground crew reported that the pilot used 100 percent oxygen from a portable
+oxygen bottle (in accordance with race rules) and that a filled bottle would last for several races. It was not
+determined when the bottle was last filled. Photographs show that the pilot was wearing his oxygen mask during the
+race.
+9
+NTSB/AAB-12/01
+
+aviation fuel.”23 The FAA’s Civil Aerospace Medical Institute (CAMI), Oklahoma City,
+Oklahoma, performed forensic toxicology on muscle specimens from the pilot. Quantities of
+ethanol and methanol were detected; no other drugs or chemicals were detected.
+1.8.2 Effects of High-G Levels on Pilots
+Aeronautical publications have established that, when exposed to high-G levels, a pilot
+can experience a range of impairing effects, such as graying or complete loss of vision and loss
+of consciousness (commonly referred to as G-induced loss of consciousness, or G-LOC),
+because of decreased blood flow to the brain.24 Individual G tolerance varies depending on the
+rate of onset, G levels experienced, and the duration of exposure, as well as a person’s training
+and anthropometry.25
+1.9 SURVIVAL ASPECTS
+1.9.1 NCAR Ramp Area Layout
+Ten people on the ground were fatally injured and dozens of others sustained minor to
+serious injuries when the airplane collided with the airport ramp in the spectator box seating area
+and scattered wreckage debris in the box seating area, ramp, and grandstands. The edge of the
+box seating area was 874 feet south of the showline, the edge of the pit area (where many other
+spectators were located) was 748 feet south of the showline, and a fuel truck was parked on the
+ramp near the pits (see figure 3). Racing airplanes were expected to fly parallel to the showline
+on the north side.
+23 Although the medical examiner indicated that the airplane’s fuel was the source of the contamination, the
+airplane’s fuel did not contain any ethanol or methanol. The airplane’s ADI fluid contained methanol, and beverages
+containing alcohol (ethanol) were present in the box seat area of the viewing stands where the airplane impacted the
+ground. Ethanol can also develop naturally within the body postmortem.
+24 For more information, see (a) G Effects on the Pilot During Aerobatics, FAA Report FAA-AM-72-28
+(Washington, DC: Federal Aviation Administration, 1972); (b) AC 91-61, “A Hazard in Aeronautics: Effects of
+G-Forces on Pilots”; and (c) paragraph 8-1-7, “Aerobatic Flight,” in the Aeronautical Information Manual (AIM).
+Issuance of AC 91-61 and the inclusion of this topic in the AIM occurred as a result of NTSB Safety
+Recommendation A-81-48, which asked the FAA to revise the AIM to briefly discuss the physiology of aerobatic
+G levels as explained in FAA-AM-72-28.
+25 Anthropometry is the science that deals with the measurement of the size, weight, and proportions of the
+human body. Germane to the discussion of G tolerance is the heart-to-brain hydrostatic column length.
+10
+NTSB/AAB-12/01
+
+Figure 3. NCAR ramp area layout with accident site depicted.
+Low-level metal fencing was installed at the edge of the pit area between the crew pits
+and the ramp and between the box seating area and the grandstand. Metal piping fitted with
+curtains was installed at the edge of the box seating area between the box seats and the ramp.
+1.9.2 Emergency Response
+The Regional Emergency Medical Services Authority (REMSA) declared a mass-casualty
+incident at 1626. First responder vehicles immediately arrived on scene and remained on the
+outer perimeter of the wreckage debris. Within 62 minutes of the incident declaration, all critical
+patients had been triaged and were en route to hospitals, and initial treatment was provided to
+others needing care at the scene. The NCAR announcing team, despite being in the immediate
+proximity of the accident site, remained calm and provided clear evacuation procedures guidance
+to the crowd, assisted first responders, and requested additional help from medical staff on scene.
+During the initial response, cellular telephone communications were intermittent due to
+the extensive cellular telephone usage following the accident, with some loss of service for about
+15 to 20 minutes. According to the Reno Fire Department Battalion Chief, who was the incident
+commander, the loss of cellular service had no impact on emergency operations because the
+mass-casualty incident declaration was made within seconds of the accident, and all
+communication to field units was handled via the radio system. The incident commander
+reported that there was also a dedicated land line in the tower that was used to make necessary
+11
+NTSB/AAB-12/01
+
+calls. Trauma blankets were distributed from the Reno Tahoe Airport Authority (RTAA) vehicle,
+and spectators removed curtains from the box seating area and used them to assist the injured.26
+As part of the RARA’s emergency operations plan, a mass-casualty response tabletop
+exercise had been conducted on June 2, 2011, by representatives of the RARA, FAA, Washoe
+County fire agencies, Washoe County law enforcement agencies, Washoe County Medical
+Examiner – Coroner’s Office, Washoe County Emergency Management, Nevada Air and Army
+National Guard units, REMSA, and Washoe County hospitals. The scenario for the exercise had
+been for 23 fatalities with an additional 46 injured. As a result of the tabletop exercise and at the
+request of the incident commander, the Nevada Highway Patrol had decided that, in the event of
+a mass-casualty accident during the NCAR, State Highway 395 would be shut down to allow
+better travel time for multiple ambulances; this decision was put into practice for the accident
+response. In addition, many of the same local agencies that participated in the tabletop exercise
+had attended and participated in the Reno/Tahoe International Airport triennial full-scale
+emergency exercise on May 25, 2011.
+1.10 TESTS AND RESEARCH
+1.10.1 Airplane Performance
+An airplane performance study, video study, and image study were performed to gain
+insight into the accident airplane’s performance and movement during the accident flight. These
+studies examined the left roll upset (in which the airplane rolled from about 73° left bank to
+about 93° left bank in less than 1 second) and compared the performance of the airplane during
+the upset with its performance at earlier times. These studies correlated telemetry data and other
+data to supplement or refine the accuracy of findings. The following subsections summarize
+some of the studies’ findings.27
+1.10.1.1 Elevator Trim Tab and Aileron Positions
+Several high-resolution photographs28 of the airplane provided information about the
+in-flight positions of the airplane’s control surfaces and elevator trim tabs (both of which
+changed position during the upset sequence). The photographs also showed that the airplane was
+flown with little to no aileron trim input and that the left aileron always appeared slightly trailing
+26 The trauma blankets were yellow, and the curtains used by spectators were blue and red. The investigation
+found that the RARA’s plan for responding to a mass-casualty event (which followed the established Washoe
+County Multi-Casualty Incident Plan) included the use of the SMART Triage System, which incorporated the use of
+color-coded tags or tarps to ensure that patients are transported to hospitals appropriate for their medical needs. Red
+indicated that immediate response is required within 30 minutes, yellow denoted that care is needed in 30 minutes to
+several hours, green indicated that care may be delayed for several hours or days, and black indicated that the patient
+is fatally injured. The incident commander from the Reno Fire Department stated that the SMART Triage System’s
+color-coded tarps were very effective for rapidly categorizing the injured and that there was no indication that any
+responders were confused by the use of yellow trauma blankets in conjunction with the color-coded tarps. An RTAA
+representative reported that, within the months following the accident, the RTAA response vehicle was restocked
+with neutral-colored trauma blankets.
+27 Each study is available in the NTSB’s public docket for this accident.
+28 Compressed resolution copies are used in the figures in this brief. Full-resolution copies are available in the
+public docket for this accident.
+12
+NTSB/AAB-12/01
+
+edge down when the right aileron was faired with the wing. Photographs of the airplane during
+flights on the race course 3 days before the accident showed that the airplane’s left elevator trim
+tab was deflected trailing edge up; image study calculations determined that, in one photograph,
+the deflection was 5° trailing edge up, and in another photograph, it was 8° trailing edge up.
+Available telemetry data showed that, at the time that the photograph showing 8° trailing edge up
+was taken, the airplane was in a section of the race course between pylons 6 and 7 and had a
+ground speed of about 360 to 380 knots (see figure 4).
+Figure 4. Left trim tab deflection of 8° trailing edge up during a previous flight.
+Photograph courtesy of Bruce Croft.
+Trailing-edge-up left elevator trim tab deflection was also evident in photographs of the
+airplane during the accident race. One photograph showed that, as the airplane began to round
+pylon 8 at 1624:28.6529 during the accident lap, the left elevator trim tab was trailing edge up,
+consistent with the position observed during previous laps (see figure 5).
+29 Photographs and video times were correlated using available embedded timing data in the photographs, video
+image matching, and the airplane’s telemetry data. Timing precision differed among cameras.
+13
+NTSB/AAB-12/01
+
+Figure 5. Airplane rounding pylon 8 during accident lap before the left roll upset at 1624:28.65.
+Photograph courtesy of Jonathan Apfelbaum.
+The video and image studies established that the left roll upset began at 1624:28.9, and
+the performance study found evidence that the change in rolling moment began less than
+1 second earlier. Based on the available photographs that showed the airplane before the left roll
+upset, there was no evidence that any pilot control input initiated the left roll. According to the
+image study, right-wing-down aileron input to counter the left roll was first visible at 1624:29.17,
+and the vertical load factor on the airplane at that time was about 3 G (which is comparable to
+the load sustained during a normal turn around the pylon).
+A subsequent photograph showed the airplane at 1624:29.46, before it reached its
+maximum left bank angle. In the photograph, the left elevator trim tab was out of view of the
+camera and the cutout in the elevator for the link assembly was visible (see figure 6).
+Calculations performed using this photograph determined that, based on the camera angle, for
+the trim tab to be out of view, it would have to be deflected a minimum of 21° trailing edge up.30
+The trim tab system on the accident airplane would typically allow a maximum of 13°
+trailing-edge-up deflection.31 Tab deflection greater than 13° indicates a discontinuity in the left
+30 These values were determined by scaling the photographs based on known dimensions, measuring angles and
+deflections, and correcting them based on the airplane’s attitude with respect to the camera.
+31 According to available documentation, the stock P-51D elevator trim tab travel is limited to 10° trailing edge
+up. However, examination of the accident airplane found that the maximum trailing-edge-up travel was about 13°
+(due to variances in the system).
+14
+NTSB/AAB-12/01
+
+elevator trim tab control system, which the investigation determined to be a broken link
+assembly.32
+Figure 6. Airplane during left roll upset at 1624:29.46, before it reached maximum left bank
+angle. Inset shows detail of left elevator trim tab and the cutout in the elevator for the trim tab
+link assembly.
+Photograph courtesy of Jonathan Apfelbaum.
+A subsequent photograph showed the airplane at 1624:30.20 as it rolled back to the right
+and pitched up. Examination of the photograph showed that the left elevator trim tab was faired
+with the elevator, and the right elevator trim tab was trailing edge down (see figure 7). The
+deflection of the right trim tab from its fixed, faired position indicates that the right elevator trim
+tab link assembly had also broken by this time in the flight. This image, which was captured
+about the time that the airplane sustained its maximum vertical load factor of 17.3 G, also
+showed that the tailwheel had begun to extend from its housing.
+32 For more information, see section 1.10.2 of this brief.
+15
+NTSB/AAB-12/01
+
+Figure 7. Airplane rolling right and pitching up at 1624:30.20, about the time it sustained its
+maximum vertical load factor.
+Photograph courtesy of Jonathan Apfelbaum.
+A photograph captured about 0.14 second later, at 1624:30.34, showed that the left
+elevator trim tab was trailing edge down, and the right elevator trim tab was trailing edge up.
+Nearly full right-wing-down aileron deflection (right aileron trailing edge up, left aileron trailing
+edge down) was also evident (see figure 8).
+16
+NTSB/AAB-12/01
+
+Figure 8. Airplane pitching up with left elevator trim tab trailing edge down at 1624:30.34, right
+elevator trim tab trailing edge up, and nearly full right-wing-down aileron deflection.
+Photograph courtesy of Jonathan Apfelbaum.
+A photograph taken about 1624:32 showed that, as the airplane reached the apex of the
+climb, the left elevator trim tab was detached from its inboard hinge (see figure 9). Another
+photograph showed that, about 1624:33.5 (about 4.6 seconds after the left roll upset began), the
+inboard piece of the left elevator trim tab was separated from the airplane (see figure 10).
+17
+NTSB/AAB-12/01
+
+Figure 9. Inboard piece of left elevator trim tab detached from inboard hinge.
+Photograph courtesy of Frank Ranney.
+Figure 10. Inboard piece of left elevator trim tab separated.
+Photograph courtesy of Julia Kirchenbauer.
+18
+NTSB/AAB-12/01
+
+In figures 9 and 10 and other photographs showing the airplane’s climb, the pilot
+appeared to be slumped down, forward, and to the right in the cockpit (rather than seated in his
+typical racing posture). In subsequent photographs that showed side views of the airplane during
+its final descent, the pilot was no longer visible in the cockpit. The table below summarizes
+events in the sequence using video study, image study, and airplane performance study findings.
+Table. Summary of events.
+Time33 Elapsed Event
+Time
+(seconds)
+1624:28.9 0 Airplane rounds pylon 8, begins to roll through 73° left bank
+1624:29.17 0.27 Left elevator trim tab trailing edge up, right elevator trim tab faired with
+elevator, first right-wing-down aileron deflection visible to counter the
+left roll
+1624:29.46 0.56 Left elevator trim tab trailing-edge-up deflection at least 21°
+1624:29.73 0.83 Airplane reaches maximum left roll of about 93°
+1624:30.20 1.3 Airplane reaches maximum vertical acceleration, tailwheel extends,
+right elevator trim tab trailing edge down, left tab faired with elevator
+1624:30.34 1.44 Right elevator trim tab trailing edge up, left elevator trim tab trailing
+edge down, ailerons at or near full right-wing-down deflection
+1624:32 ~3.1 Airplane reaching apex of climb, piece of left elevator trim tab
+detached from inboard hinge
+1624:33.5 4.6 Inboard piece of left elevator trim tab is separated
+1624:38 ~9.1 Airplane impacts ground
+1.10.1.2 Airplane Motion and Vertical Load Factors
+Telemetry data were time-correlated with the results of the video study calculations that
+determined the airplane’s roll, pitch, and heading angles and vertical load factors throughout the
+upset event. During the roll upset and the onset of the pitch-up maneuver, the airplane’s onboard
+accelerometer recorded a greater than 5-G jump in vertical acceleration within about 0.3 second.
+The video study established that, during the pitch-up maneuver, the maximum vertical load
+factor reached about 17.3 G about 0.47 second after the airplane reached its maximum left bank
+angle. Figure 11 shows the vertical acceleration leading up to, during, and after the roll upset as
+33 The time precision for some events varies due to differences in timestamp precision of the various source
+cameras.
+19
+NTSB/AAB-12/01
+
+determined through the video study calculations and the telemetry data (the telemetry data were
+subject to the accelerometer’s limitations).34
+Figure 11. Airplane’s vertical acceleration during upset over time. Times that correspond with
+specific photographs are noted.
+A comparison of telemetry data and performance calculations for the accident lap with
+the previous two laps in the race showed that the accident airplane’s true airspeed and vertical
+load factor during its final turn around pylon 8 (immediately preceding the accident upset) were
+similar to its speeds and load factors during its previous two turns around that pylon.
+Calculations of the airplane’s lift coefficient showed that, throughout the accident race, the
+airplane’s lift remained below the Mach buffet boundary and was lower at the time of the upset
+than it was earlier in the race.35
+A comparison of information from the accident race, previous races, and qualification
+flights (all flown by the accident pilot) showed that the airplane’s maximum 458-knot GPS
+ground speed between pylons 6 and 7 during the accident flight was the fastest that the airplane
+had flown on the course by about 35 knots. The accident flight had the highest engine manifold
+pressure and rpm (compared with all previous flights for which there were data) by about 15 to
+20 inches of mercury and about 100 to 150 rpm, respectively. About 8 seconds before the
+beginning of the upset, there was a noticeable reduction in engine manifold pressure and rpm.
+34 The accident airplane’s accelerometer was specified as an 8-G gauge, but it can measure up to 10 G.
+However, due to electrical saturation issues as the measurements near 10 G, the data certainty is best below 8 G. The
+telemetry vertical acceleration data recorded a number of points greater than 8 G near the end of the data recording.
+35 Exceeding the Mach buffet boundary can result in airflow separation on an airfoil, resulting in a loss of lift.
+For example, Mach buffet that affects one wing can induce a roll.
+20
+NTSB/AAB-12/01
+
+The second-place airplane in the accident race, Voodoo, was also equipped with a
+telemetry system. The racing team for that airplane provided its data, which enabled a
+comparison of the accident airplane’s GPS-recorded ground speed and vertical load factor with
+those of Voodoo. A comparison of the data showed that the accident airplane’s ground speed and
+vertical load factor were generally similar to those of Voodoo throughout the race before the
+upset.
+1.10.1.3 Changes in Vibration Amplitude at Higher Racing Speeds
+The telemetry data for the accident race and previous races and qualification flights on
+the NCAR course in 2010 and 2011 showed that the accident airplane developed a distinctive
+change in the vibration amplitude of the load factor and an increase in maximum load factor each
+time that it neared and exceeded about 400 knots GPS ground speed. This change in the vibration
+amplitude appeared to be most pronounced at two places on the course, near pylons 4 and 8,
+which were situated at the ends of short, straight segments of the course and marked the entry to
+the curved segments that follow.
+1.10.2 Examination of Elevator Trim Components
+The outboard piece of the left elevator trim tab was still attached to the elevator at its
+outboard and center hinges; the left elevator trim tab rod assembly, link assembly pieces, and the
+inboard piece of the left trim tab (which separated in flight) were recovered (see figure 12).36 The
+right elevator trim tab was found attached to the elevator.
+Figure 12. Left elevator showing the relative installed locations of the recovered trim tab pieces,
+trim tab hinges, trim tab rod assembly, and trim tab link assembly piece.
+The blue arrow points to the piece of the tab that separated in flight, and the purple box shows a
+long, upward bulge in the upper elevator skin.
+36 Detailed information about the component examinations can be found in the Materials Laboratory Factual
+Report in the NTSB’s public docket for this accident.
+21
+NTSB/AAB-12/01
+
+Each elevator trim tab is attached to three hinges on the elevator, with one screw per
+hinge (see figure 13). Examination of the left elevator trim tab pieces and the right elevator trim
+tab revealed that each had two intact screws (the center and outboard screws for the left tab, and
+the inboard and outboard screws for the right tab).
+Figure 13. Section of right elevator trim tab (view of underside) showing the inboard hinge,
+attachment screw, and locknut.
+Note: the trim tab was cut and the attachment screw disassembled for examination.
+All of the intact elevator trim tab attachment screws were loose with negligible resistance
+from their respective locknuts. The locknuts showed evidence of yellow paint beneath the
+uppermost coat of paint; records show that the airplane had been painted yellow before the
+1985 NCAR. For each intact screw, the fiber locknut insert material applied little to no clamping
+pressure on the screw threads, and all of the inserts showed evidence of age and reuse37
+(see figure 14). The mating surfaces between each trim tab and its respective outboard, center,
+and inboard hinges displayed varying degrees of missing paint and exposure of bare metal,
+consistent with relative motion due to the loose screws. The left trim tab’s outboard trim tab
+screw was slightly shorter than specified, and the center trim tab screw was significantly shorter
+than specified and its tail was flush with the end of the locknut.
+37 Common maintenance guidance indicates that a locknut with a fiber or nylon insert should not be reused if it
+cannot meet the minimum prevailing torque values. See AC 43.13-1B, “Acceptable Methods, Techniques, and
+Practices – Aircraft Inspection and Repair,” chapter 7, paragraph 64 (f).
+22
+NTSB/AAB-12/01
+
+Figure 14. Locknut in the left elevator trim tab outboard hinge.
+Red arrow indicates red insert material (left) and an exemplar new locknut shows intact fiber
+insert material (right).
+The left elevator trim tab inboard hinge was found separated from the elevator. This
+hinge’s trim tab attachment screw was fractured flush with the locknut in the hinge, and a gap
+was evident between the screw threads and the locknut threads. Metallurgical examination of the
+screw’s fracture surface revealed features consistent with reverse bending fatigue with the fatigue
+fracture regions exhibiting mechanical damage and corrosion that obliterated most of the finer
+fracture features (indicative of the fracture propagating over a prolonged duration). The center
+portion of the fracture surface displayed features consistent with an overload failure.
+Examination of the skin at the outboard end of the separated inboard piece of the left elevator
+trim tab revealed fracture features consistent with an overload event.
+The left elevator trim tab link assembly was buckled and fractured in bending overload in
+the threaded portion of the clevis with the bending process producing an upward bulge in the
+upper skin of the elevator (indicated by the purple box in figure 12). Evidence of subsequent
+oscillations of the free trim tab was indicated by scoring on the elevator’s lower skin material,
+and on the fracture of the link assembly’s tubing section, which showed notched fracture faces
+from repeated contact.
+Examination of the right elevator trim tab revealed that the attachment screw for the
+center hinge was fractured. The fractured screw displayed evidence of directional bending
+(rearward deformation). The fracture surface displayed features consistent with an overload
+failure in shear. The threaded portion of the clevis in the right elevator trim tab link assembly
+was fractured in bending overload, and the link assembly exhibited a bend, consistent with
+compression buckling.
+1.10.3 In-Flight Fuselage Deformation
+Photographs of the airplane taken during the accident race showed that structural
+deformation was visible in flight. Figure 15, which was cropped from a photograph taken during
+the race’s second lap, shows that diagonal wrinkles were evident on the right side of the aft
+23
+NTSB/AAB-12/01
+
+fuselage. Figure 16, which is a photograph that was taken as the airplane passed pylon 2 during
+the accident lap, shows that similar (although less pronounced) diagonal wrinkles were evident
+on the airplane’s left side; photographs showed that this deformation was evident during all three
+laps of the accident race and during qualifying flights performed on September 13, 2011. Figure
+17, which was taken during the first lap of the accident race, shows that deformation was evident
+along the canopy and windscreen, such that a gap was visible; this deformation was also evident
+in photographs taken during the third lap of the accident race but was not evident in prerace
+photographs of the airplane on the ground.
+Figure 15. Diagonal wrinkles on right side during accident race.
+Photograph courtesy of Florian Schmehl.
+24
+NTSB/AAB-12/01
+
+Figure 16. Diagonal wrinkles on left side during accident race.
+Photograph courtesy of Doug Fisher.
+Figure 17. Gap between canopy and windscreen in flight.
+Photograph courtesy of Florian Schmehl.
+25
+NTSB/AAB-12/01
+
+1.10.4 Wake Encounter Evaluation
+Wake vortices that trail from the wingtips of an airplane have the potential to induce roll
+upsets in other airplanes that encounter them. Because the accident airplane was following two
+other airplanes (Voodoo and Strega, which were about 4.5 and 8.8 seconds ahead, respectively) at
+the time of its left roll upset, the possibility of a wake encounter was evaluated.
+Video footage and photographs that captured the positions of all three airplanes with
+reference to ground landmarks were examined to determine the relative altitude of each airplane
+as it traversed the location of the roll upset. The video examination showed that both Voodoo and
+Strega had about 70° left bank through the turn past the accident airplane’s upset point. The
+reported wind conditions would be expected to shift each airplane’s wake horizontally toward the
+accident airplane’s upset location along the wind heading. In still air conditions, the wakes would
+be expected to travel downward, perpendicular to each airplane’s wing (at 70° bank angle).
+Because of uncertainties in the GPS ground track data for Voodoo, it was not possible to
+determine Voodoo’s flightpath based on GPS data alone, and no data were available to determine
+Strega’s flightpath. Based on the available information, neither the examinations of the video
+footage and photographs nor the performance study could exclude the possibility that the
+accident airplane intercepted a wake vortex.
+1.11 ORGANIZATIONAL AND MANAGEMENT INFORMATION
+The accident pilot was the president of the company that owned the accident airplane. As
+a racing airplane competing in the NCAR, the airplane and its operation were subject to FAA,
+National Air-racing Group (NAG) Unlimited Division, and RARA rules.
+1.11.1 FAA Requirements
+FAA airworthiness and registration records show that, on August 17, 1983, the pilot
+applied for and received a special airworthiness certificate for the airplane from the FAA’s Long
+Beach, California, manufacturing inspection district office. The certificate listed the airplane in
+the experimental category for the purpose of air racing and exhibition, and operating limitations
+were issued with the same date.38 The airplane’s operating limitations specified that the airplane
+was to be based and maintained at Leeward Air Ranch Airport, Ocala, Florida, and that all
+proficiency flights were to be conducted within a 100-mile radius of that airport, with a special
+allowance for proficiency flights to be conducted en route to air shows or air races. According to
+14 CFR 91.319(b), an aircraft having an experimental certificate may not be operated outside the
+specific area defined by the FAA until it has been shown that it is controllable throughout its
+normal range of speeds and throughout all the maneuvers to be executed and has no hazardous
+operating characteristics or design features.
+38 The records show that the pilot requested a replacement certificate on July 16, 2010, stating that the old
+certificate had been lost. The FAA’s Reno, Nevada, flight standards district office issued a replacement certificate
+that showed the replaced certificate’s issuance date (August 17, 1983), listed the airplane in the experimental
+category for the purpose of air racing and exhibition, and retained the existing operating limitations.
+26
+NTSB/AAB-12/01
+
+The airplane’s operating limitations stated that, following major change to the airplane as
+defined by 14 CFR 21.93,39 the cognizant FAA flight standards district office (FSDO) must be
+notified and its response received in writing before the airplane can be flown. (In the case of the
+accident airplane, this would have been the FSDO with jurisdiction over the Ocala, Florida,
+area.) The operating limitations also required that the airplane undergo a condition inspection at
+least every 12 months in accordance with Part 43, Appendix D, and that such inspections be
+documented in the airplane logbook.
+FAA records show that the pilot notified the Reno, Nevada, FSDO of a major change
+involving the boil-off cooling system installation in 2009. Reno FSDO personnel responded that
+the flight testing to validate the installation should include 3 hours of flight time and three
+takeoffs and landings. In the correspondence, the Reno FSDO issued authorization for the pilot
+to conduct the tests in Minden, Nevada. Based on the photographic evidence and discussions
+with the airplane’s ground crew and other racers, the airplane’s first flight following the
+completion of its major modifications occurred on September 21, 2009. Ground crewmembers
+stated that a few test flights were performed on September 21 and 22, 2009, and that each flight
+lasted 15 to 20 minutes. Telemetry data showed that about 23 minutes of flight time was accrued
+on September 21 and 22, 2009, but the data were incomplete (the crew stated that, at the time,
+they had connection problems with the telemetry system).40 There are no records that the pilot
+notified any FSDO of any other major modifications to the airplane.
+1.11.2 NAG Unlimited Division Rules
+The NAG Unlimited Division is the governing body for the pilots and airplanes that race
+in the unlimited class at the NCAR. It developed the NAG Unlimited Division Official
+Competition Rules and Bylaws document that included aircraft specifications, pilot qualification
+specifications, and technical inspection requirements. Each airplane must qualify to establish
+eligibility and starting position for the races. A qualification run consisted of two laps on the
+NCAR race course with the best lap speed used for qualifying.
+The rules contained a provision for the RARA to add an aircraft to the qualified list, even
+if it had not successfully completed a qualification attempt, if “the pilot and aircraft have
+demonstrated their ability to perform at race speed.” The mechanism for demonstrating this was
+not detailed in the official competition rules document. The accident airplane was entered into
+the 2010 NCAR under this provision because it did not have a valid qualification run. The
+maximum official race speed41 for the airplane during the 2010 races was less than 325 knots.
+Appendix C to the official competition rules established the aircraft specifications.
+Specification III C, which applied to the accident airplane, specified that the airplane must
+39 Title 14 CFR 21.93 states that a minor change is one that has no appreciable effect on the weight, balance,
+structural strength, reliability, operational characteristics, or other characteristics affecting the airworthiness of the
+aircraft and that all other changes are major changes, with some exceptions.
+40 According to the telemetry data log, during the 2 days of flight testing, five flights were initiated, but data
+were recorded for only two flights. On September 21, 2009, about 19 minutes of data were recorded, but the
+recording ended about 4 minutes into the airplane’s flight. On September 22, 2009, about 4 minutes of data were
+recorded that could not be correlated to a flight.
+41 Official race speed is the average ground speed around the course calculated using the number of laps, the
+optimum race path distance, and the total elapsed time for the airplane to complete the race.
+27
+NTSB/AAB-12/01
+
+demonstrate adequate maneuverability (controllability) at racing speed, which could be
+determined during aircraft qualification.
+Appendix E established the technical inspection requirements. The technical inspection
+checks the aircraft for structural and functional integrity and for cleanliness and fire prevention
+before the aircraft is allowed to participate in the races. The document specified that the approval
+of the technical committee “does not constitute a representation…concerning the mechanical
+condition of the aircraft or whether or not it is airworthy.”
+The accident airplane underwent a NAG Unlimited Division technical inspection at the
+2011 NCAR. The “Remarks” section of the technical inspection form noted “elev trim tab screws
+too short, area washer in L/H wheel well.” According to technical inspectors and the airplane’s
+ground crew, the trim tab discrepancy was due to one or more screws on the right elevator trim
+tab not having enough threads protruding from the nut, and there was an area washer missing in
+the left main landing gear wheel well. Both noted discrepancies were reportedly addressed.
+Members of the airplane’s ground crew recalled that the trim tab screw issue was resolved by
+properly positioning a right trim tab screw that was found to be cross-threaded.42 The inspection
+was signed off and dated September 12, 2011, and the airplane was approved to race on the
+course. There was no procedure to specify in writing that the noted items were addressed.
+1.11.3 RARA Rules
+The RARA is the overall organizer of the NCAR and provided the Official Rules of
+Competition document for the 2011 event. Many of the RARA rules were similar to the NAG
+Unlimited Division specifications. The RARA rules required that any airplane that has had major
+changes or alterations since the last registration or within the 12 months before the races must
+register and that the airplane and all documentation of any modifications performed on the
+aircraft or engine must be made available to the technical inspection committee. The RARA rules
+specifically referenced 14 CFR 21.93 (changes in type design), 14 CFR 1.1 (major alterations),43
+and 14 CFR 91.9 (operating limitations).44
+The RARA aircraft entry forms included a question regarding the incorporation of any
+major changes or major alterations since the airplane last raced at the NCAR; on the 2009 entry
+documents for the accident airplane, “yes” was circled in response. The entry was subsequently
+cancelled because work being done on the airplane was not completed in time for the pilot to
+compete with it in the 2009 races. On the 2010 and 2011 entry documents, “no” was circled in
+response to the question about major changes or major alterations since the last time that the
+airplane raced at the NCAR.
+42 The NTSB Materials Laboratory examination noted that none of the right elevator trim tab attachment screws
+were found cross-threaded in their respective locknuts but that one right tab locknut showed damage consistent with
+previous cross-threading.
+43 Title 14 CFR 1.1 defines a major alteration as an alteration not listed in the aircraft, aircraft engine, or
+propeller specifications that might appreciably affect weight, balance, structural strength, performance, powerplant
+operation, flight characteristics, or other qualities affecting airworthiness or that is not done according to accepted
+practices (or cannot be done by elementary operations).
+44 Title 14 CFR 91.9 specifies that no person may operate a civil aircraft without complying with the operating
+limitations specified in the approved flight manual, markings, and placards, with some exceptions.
+28
+NTSB/AAB-12/01
+
+Because no qualifying speed was established for the airplane in 2010, it was entered in
+the 2010 races under RARA’s conditional entry process. Under the conditional entry process, the
+airplane started in the last place in the lowest heat in the class. The airplane won a series of races
+and qualified to run the unlimited class gold race in 2010, but that race was cancelled due to
+wind. In 2011, the accident airplane qualified in fourth place for the unlimited class gold race
+during a flight on September 13, 2011.
+1.12 ADDITIONAL INFORMATION
+As a result of this investigation and the NTSB’s January 10, 2012, investigative hearing
+on air race and air show safety, on April 10, 2012, the NTSB issued 10 safety recommendations
+to the RARA, the NAG Unlimited Division, and the FAA with the intent of improving the safety
+of air race operations. These recommendations addressed requiring engineering evaluations for
+aircraft with major modifications, raising the level of safety for spectators and personnel near the
+race course, improving FAA guidance for air races and course design, providing race pilots with
+high-G training, evaluating the feasibility of G-suit requirements for race pilots, and tracking the
+resolution of race aircraft discrepancies identified during prerace technical inspections. These
+safety recommendations are discussed in section 2.6 of this brief.
+In addition, on April 27, 2012, a blue ribbon review team that had been formed by the
+RARA completed its independent review of the NCAR and presented the RARA with its final
+report. The RARA has indicated that it is taking the report’s findings (some of which addressed
+subjects similar to the NTSB’s safety recommendations) into consideration.
+29
+NTSB/AAB-12/01
+
+2. ANALYSIS
+2.1 GENERAL
+The accident airplane, a highly modified P-51D, was in third place during the third lap of
+the six-lap unlimited class gold race at the 2011 NCAR when it experienced a rapid left roll
+upset, rolling from its established approximate 73°-left-bank turn to about 93° left bank in less
+than 1 second. The change in the left elevator trim tab deflection evident early in the left roll
+upset indicated that the left elevator trim tab’s link assembly was broken by that time. Following
+the onset of the left roll upset, substantial right-wing-down aileron deflection was evident, which
+likely resulted from pilot control inputs to counter the left roll, and the airplane responded with a
+right roll. However, during the roll events, the airplane also rapidly pitched up. The
+characteristics of the pitch changes were such that, within about 1 second, the vertical G levels
+rose from about 3 G to 17.3 G; both the rate of G onset and the high-G level exceeded human
+tolerance. Based on available guidance, the accident flight’s rapid rate of G onset and the high-G
+levels were such that the pilot’s time of useful consciousness was likely less than 1 second.
+During the brief interval before losing consciousness, the pilot’s physical performance would
+have been limited due to the increased load on his body and extremities and the decreased blood
+flow to his brain. As a result, the pilot soon became completely incapacitated (which is consistent
+with photographs showing that the pilot was slumped in the cockpit during the climb), and the
+airplane’s continued climb and helical descent occurred without his control. The pilot’s
+toxicological information and medical history revealed no evidence of impairing drugs or other
+physical conditions that would have adversely affected his performance. The quantities of
+methanol and ethanol detected in samples from the pilot were attributed to sample
+contamination; there was no evidence that the pilot had consumed any alcohol before the flight.
+The following analysis summarizes the extensive examination of the wreckage
+components and the analysis of the available videos, photographs, and telemetry data that were
+performed to determine the sequence of the elevator trim control system component failures. The
+analysis also discusses possible initiating events for the roll upset and summarizes other safety
+issues identified during the investigation. The investigation revealed significant concerns about
+the elevator trim system and other airplane structures regarding how they were modified,
+maintained, and operated in the racing environment.
+2.2 EVIDENCE OF ELEVATOR TRIM TAB LOOSENESS, FLUTTER
+The investigation focused on how the left elevator trim tab link assembly could buckle
+and fracture in bending overload in flight. Examination of the elevator trim tabs found that, of
+the three screws that attach each tab to its respective hinges, two screws in each tab were found
+intact. All of the intact screws could be rotated easily, even when fully engaged in their locknuts,
+and the locknuts’ insert material was badly deteriorated to the extent that screw-retaining torque
+could not be maintained. Examination of the remnants of the two fractured screws (one in each
+tab) and their hinges showed evidence that these screws also had been loose before fracturing.
+The overload fracture of the right trim tab’s center hinge screw showed evidence of directional
+bending occurring before a shearing action. The left trim tab’s inboard hinge screw showed
+evidence of reverse bending fatigue, and corrosion on the fatigue fracture features indicated that
+the fatigue cracking had been present for a prolonged time before the screw ultimately failed in
+30
+NTSB/AAB-12/01
+
+overload during the accident flight. The loose locknut connection allowed for larger load
+oscillations and the initiation and growth of fatigue cracks.
+The deteriorated locknuts, therefore, resulted in loose elevator trim tab attachment screws
+and fatigue cracking in one screw, which allowed for undesirable movement of the trim tabs and
+a reduction of stiffness in the elevator (pitch) trim control system. In-flight movement of the tabs
+was evident in the damage observed on the mating surfaces of all the hinges during the
+postaccident examination. Because the airplane’s elevator trim tab system was modified such
+that only the left tab was moveable, the left trim tab was subject to increased aerodynamic loads
+(compared to the stock system that uses two moveable trim tabs). Calculations showed that the
+static aerodynamic loads on the left elevator trim tab were higher at earlier times during the race
+(before the upset); therefore, the static loads at the time of upset would not have been sufficient
+to cause buckling and fracture of the link assembly. The looseness of the attachment screws and
+the fatigue crack in one of the screws would have allowed for reduced stiffness of the trim tab
+system that could have allowed a flutter condition to develop. Flutter would be capable of
+producing sufficient dynamic loads to buckle and fracture the link assembly.
+Flutter is an aeroelastic phenomenon that can occur when an airplane’s natural mode of
+structural vibration couples with the aerodynamic forces to produce a rapid periodic motion,
+oscillation, or vibration. The vibration can be somewhat stable if the natural damping of the
+structure prevents an increase in the vibratory forces and motions. The motion can become
+dynamically unstable if the damping is not adequate, resulting in increasing self-excited
+destructive forces being applied to the structure. Flutter can range from an annoying “buzz” of a
+flight control or aerodynamic surface to a violent destructive failure of the structure in a very
+short period of time. Aircraft speed and structural stiffness are two inputs that govern flutter; as
+speed increases or structural stiffness decreases, the susceptibility to flutter will increase.
+The investigation determined that the increasing looseness of the elevator trim tab screws
+at race speeds and the fatigue crack in one screw resulted in a decrease in the elevator trim
+system structural stiffness, which was conducive to allowing a flutter event to develop. The
+addition of filler material to the elevator trim tabs (which increased their weight and moved their
+CG aft) also increased the potential for flutter. Excitation of the flutter resulted in dynamic
+compressive loads in the left tab link assembly that increased beyond its buckling strength,
+causing a bending fracture. The flutter and failure of the left tab link assembly excited the flutter
+of the right tab, increasing the dynamic compressive loads in the right tab fixed link assembly
+beyond its buckling strength, causing a bending fracture.
+2.3 INITIATION OF LEFT ROLL UPSET, LINK ASSEMBLY BREAKAGE
+SCENARIOS
+Initially, as the airplane rounded pylon 8 during the accident lap, its motions were similar
+to its turns during previous laps and to those of other airplanes in the race. Based on the
+photographic evidence and the controlled motion of the airplane before its upset, there is no
+indication that any pilot control input initiated the left roll, and the left and right elevator trim
+tabs were positioned as they had been for the preceding race laps and during a previous
+qualification run (that is, left tab trailing edge up and right tab faired with the elevator). This left
+tab setting likely provided the pilot with comfortable (likely negligible) forces on the control
+31
+NTSB/AAB-12/01
+
+stick when racing. Although a photograph taken about 0.56 second after the onset of the left roll
+upset showed that the left trim tab had traveled beyond its trailing-edge-up limit (and, thus, the
+link assembly was broken at that time), no earlier photographs that clearly showed the trim tab
+were available. Other analytical methods were applied in an attempt to determine whether the
+left roll upset likely preceded the link assembly breakage or resulted from it. Neither a wind gust
+nor a trim runaway was a likely initiating scenario due to, respectively, the relatively consistent
+wind (in magnitude and direction) at the flight’s altitude and the slow rate of trim travel when
+controlled by the electric actuator. Also, the investigation determined that the airplane was never
+operating near the Mach buffet boundary during the race; therefore, Mach buffet was not a factor.
+One possible scenario that could have initiated the left roll upset was a wake vortex
+encounter, which is not uncommon during races and is typically countered by pilot control
+inputs. An evaluation determined that a wake encounter could not be ruled out. Another possible
+initiator of the left roll upset was the flutter-induced failure of the left elevator trim tab link
+assembly and the pilot’s reaction to the resulting rapid change in control stick forces. To hold the
+right-wing-down aileron input that was evident in photographs taken throughout the race (which
+is discussed further in section 2.4 of this brief), the pilot would have to hold the control stick to
+the right of center. The failure of the left trim tab link assembly would have produced a sudden
+and large stick force directed aft. The sudden application of the aft force would have likely
+reduced the pilot’s ability to precisely hold the right stick input, which resulted in a momentary
+left roll.
+Regardless of whether the link assembly failure or a wake vortex encounter initiated the
+roll upset, the loss of the left trim tab’s downward force on the elevator resulted in a concurrent
+sudden upward deflection of the elevator, a sudden and forceful aft movement of the control
+stick, the pitch-up of the airplane, and the rapid increase in G. The subsequent extension of the
+tailwheel from its housing is consistent with the progression of in-flight forces that acted on the
+airplane throughout the upset sequence. The separation of the inboard piece of the left elevator
+trim tab is consistent with the rapid oscillation of the tab after the linkage broke, causing a
+complete fracture of the fatigued screw.
+2.4 MAINTENANCE OF TRIM TAB ATTACHMENT SCREWS, LOCKNUTS
+There was no documentation for the last replacement of the trim tab attachment screws
+and locknuts, but the presence of yellow paint on the locknuts beneath their uppermost paint coat
+indicates that the locknuts had likely been installed for at least 26 years because the airplane’s
+trim tabs were painted yellow before the 1985 NCAR. The screws were likely tightened 4 days
+before the accident flight when the technical inspection found a discrepancy on the right trim tab
+attachment screws, and the airplane had accumulated only three flights (including the accident
+flight) since that time. The loosening of the trim tab attachment screws and the deteriorated
+condition of the locknut inserts should have been noticeable to the ground crew. Based on the
+condition of the locknut inserts, the screws likely needed to be tightened several times over the
+course of the airplane’s recent racing career, providing the ground crew with an indication of a
+recurrent problem and opportunities to identify and replace the deteriorated hardware.
+32
+NTSB/AAB-12/01
+
+2.5 EFFECTS OF MODIFICATIONS ON FLIGHT CHARACTERISTICS
+The accident airplane had undergone numerous structural and flight control modifications
+over its racing career, presumably in an effort to make it faster. Most of the airplane’s
+modifications were undocumented with no drawings, flight testing, or analysis related to their
+effects on the airplane’s structural strength, performance, or flight characteristics, and the current
+ground crewmembers did not know why the modifications were made. The investigation
+discovered the modifications through wreckage examination, review of photographic evidence,
+and interviews with the ground crewmembers. In some cases, the reasons for a modification
+could not be established, and the timing of the change was unknown.
+Some of the modifications likely had beneficial racing effects. For example, the
+airplane’s shortened wingspan and tailspan decreased the aspect ratio and allowed the airplane to
+fly faster and withstand greater loads. This increased load factor capability, combined with the
+short duration of the maximum load factor during the upset, would explain the absence of a
+catastrophic in-flight structural failure of the wing structure at the very high loads attained during
+the upset sequence. The effects of other modifications are unknown. For example, although the
+investigation’s weight and balance calculations determined that the airplane’s CG remained
+within the stock P-51D boundaries during the accident flight, it is possible that the characteristics
+of the airplane were changed to the extent that a change in the CG limits of the airplane would be
+necessary to better ensure adequate handling qualities. No such evaluation was performed to
+establish acceptable forward and aft CG limits of the modified airplane.
+The investigation found that some of the modifications likely had adverse effects. As
+mentioned previously, the elevator (pitch) trim control was modified such that the right elevator
+trim tab was fixed and faired, and all trim forces were applied through the left elevator trim tab,
+removing the system’s redundancy. Although the airplane’s ground crew believed that the
+airplane was raced with neutral trim (0° tab deflection), evidence showed that a significant
+amount of nose-down trim was input on the left trim tab during qualification flights and races.
+The investigation determined that, because of this significant trim input on one tab, the sudden
+breakage of the left trim tab link assembly during the accident race would have significantly
+increased the force needed for the pilot to hold the control stick in the original position, such that
+the pilot would have been unable to hold the control stick in position. It is possible that, had the
+airplane retained its original, redundant tab design, the pilot may have been able to maintain
+some control following a failure in only one tab. Losing one tab from a two-tab installation
+would have resulted in about half of the stick force required to hold the airplane steady. Although
+the pilot would not initially be able to maintain control of the airplane in such a scenario, the
+maximum G would have been much less than what the pilot experienced during the accident
+flight, and any stick force that the pilot could have provided would have further lessened the
+acceleration excursion. Therefore, it is conceivable that, in a scenario involving the failure of one
+tab in a two-tab system, the pilot could have maintained consciousness and regained control of
+the airplane.
+Other adverse effects were evident regarding the installation of a racing canopy and turtle
+deck and the removal of the air scoop from beneath the wing. These modifications likely
+decreased the rigidity of the aft fuselage because the modified structures were not as strong or
+stiff as the original structures; this was evident in the diagonal deformation or wrinkles that were
+33
+NTSB/AAB-12/01
+
+visible on the aft fuselage skin in photographs taken of the airplane during the accident race and
+during a qualifying flight a few days earlier. Such diagonal wrinkling is typical for
+semimonocoque structures45 that are loaded in bending or shear, causing the thin web of skin
+between the longerons and frames to locally buckle. Also, the telemetry data showed that the
+airplane exhibited a distinctive change in vibration amplitude each time its speed neared or
+exceeded 400 knots, providing further evidence of potential adverse flight characteristics at the
+higher racing speeds.
+The investigation determined that some of the adverse effects would have been noticeable
+to the pilot. For example, photographs showed that there was little to no aileron trim input in
+flight and that the left aileron was always slightly trailing edge down when the right aileron was
+faired with the wing. This indicates that the ailerons were not rigged properly and that the pilot
+maintained the airplane’s left roll angles (all turns on the race course are to the left) using
+constant right-stick input. Further, two major modifications to the elevators each made the
+airplane more sensitive in pitch control: the substantially increased elevator counterweights
+(about twice that of a stock P-51D) that overbalanced the elevators and the substantially
+decreased elevator inertia weight (less than half that of stock). In addition, the in-flight canopy
+deformation that resulted in a separation between the canopy and the windscreen during the
+accident flight provided the pilot with a strong clue that the airplane was being operated beyond
+its structural limits and that it should be examined. It is likely that, had engineering evaluations
+and diligent flight testing for the airplane’s modifications been performed, many of the airplane’s
+undesirable structural and control characteristics could have been identified and corrected.
+2.6 PREVIOUSLY ISSUED SAFETY RECOMMENDATIONS RELATED TO THIS
+INVESTIGATION
+As a result of this investigation and the NTSB’s January 10, 2012, investigative hearing
+on air race and air show safety, on April 10, 2012, the NTSB issued 10 safety recommendations
+to the RARA, the NAG Unlimited Division, and the FAA with the intent of improving the safety
+of air race operations.
+2.6.1 Race Eligibility Requirements for Aircraft With Major Modifications
+A review of RARA and NAG Unlimited Division eligibility conditions found that,
+because the accident airplane was a modified version of a previously designed and built fighter
+airplane, it was not subject to the more rigorous flight test and analysis that was required to be
+performed on custom-built airplanes to substantiate the structural loads, flutter characteristics,
+weight and balance limits, and flight envelope. The NTSB previously concluded that, because
+modifications to the structure or flight controls of aircraft may introduce unintended
+consequences, such aircraft should not be allowed to operate near spectators without a measured
+evaluation of whether they can do so safely. As a result, the NTSB issued Safety
+Recommendation A-12-13, which asked the RARA to do the following:
+45 A semimonocoque fuselage structure uses a combination of outer skin and internal structure to carry the
+applied bending, shear, and torsion load.
+34
+NTSB/AAB-12/01
+
+Require aircraft owners, as a condition of eligibility to participate in the Reno
+[NCAR], to provide an engineering evaluation that includes flight demonstrations
+and analysis within the anticipated flight envelope for aircraft with any major
+modification, such as to the structure or flight controls. (A-12-13)
+The RARA responded to Safety Recommendation A-12-13 in a July 9, 2012, letter and
+provided further comments in a July 12, 2012, letter. The RARA responded that, for years, it has
+worked closely with the Reno FSDO to identify those aircraft that have undergone major
+changes, repairs, or modifications as defined in 14 CFR 1.1 and 14 CFR 21.93 since the last time
+they raced in the NCAR or in the previous 12 months. The RARA stated that entries identified as
+having undergone such a change (based on information provided by the owner/operator in
+writing during the race entry process) are reviewed by both the RARA and the Reno FSDO to
+ensure that compliance with current FAA requirements has been met, that the operating
+limitations reflect the current aircraft configuration, and that all required flight testing is
+appropriately signed off in the aircraft logbook. The RARA also stated that it intends to work
+with the FAA and representatives of each of the classes of racing to make the review a special
+emphasis item in connection with the 2012 NCAR and that it is currently working with the FAA
+and race class representatives to review its existing processes and procedures to determine if they
+can be more effectively implemented in a manner consistent with the Federal Aviation
+Regulations (FARs). Also, in a July 12, 2012, letter to the NTSB, the RARA acknowledged its
+awareness of the FAA’s July 11, 2012, issuance of draft revisions to AC 43-209A,
+“Recommended Inspection Procedures for Former Military Aircraft.”46 The RARA stated that it
+will, as part of its ongoing review of its procedures and processes, consider the draft AC and
+evaluate the extent to which RARA should implement the information contained in the draft
+revisions.
+The NTSB notes that, although the RARA’s actions appear to be a step in the right
+direction, the process that the RARA described (which is designed to ensure compliance with
+current FAA requirements, operating limitations that reflect the current airplane configuration,
+and an appropriate logbook signoff for flight testing) does not inherently ensure that an
+engineering evaluation that includes flight demonstrations and analysis within the anticipated
+flight envelope has been performed. However, the NTSB notes that the RARA is still evaluating
+its role in establishing the eligibility requirements with regard to the FARs. Pending the receipt
+of further information that shows that the process proposed by the RARA specifically requires an
+owner of an aircraft with a major modification to provide an engineering evaluation that includes
+flight demonstrations and analysis within the anticipated flight envelope, the NTSB classifies
+Safety Recommendation A-12-13, “Open—Acceptable Response.”
+Similar to the RARA recommendation, the NTSB issued Safety
+Recommendation A-12-09, which asked the NAG Unlimited Division to do the following:
+46 The draft of AC 43-209A was open for public comments until August 9, 2012. The draft AC proposed
+recommendations for the development of inspection programs for certain former military aircraft that are certificated
+in the experimental category for the purpose of exhibition and air racing.
+35
+NTSB/AAB-12/01
+
+Require aircraft owners in the unlimited class to provide an engineering
+evaluation that includes flight demonstrations and analysis within the anticipated
+flight envelope for aircraft with any major modification, such as to the structure or
+flight controls.
+In a July 6, 2012, letter to the NTSB, the NAG Unlimited Division stated that it was not
+prepared to comment on or implement any NTSB recommendations (including A-12-10 through
+-12, which are discussed in sections 2.6.4 and 2.6.5 of this brief) until the NTSB’s final report on
+this accident investigation is issued. The NTSB was disappointed with this response and sought
+additional information. As a result, the NAG Unlimited Division explained in a subsequent letter
+on August 22, 2012, that it believed that the recommendation will improve safety for not only
+race fans but also the race pilots. The letter stated that the NAG Unlimited Division’s race
+committee concluded that it should require aircraft owner/operators to provide engineering data
+for any major change or major alteration (as defined by the FAA) made to their aircraft since
+their last participation in an air racing event and to provide all approvals by the FAA for any such
+change or alteration to the aircraft.
+The letter stated that, although the NAG Unlimited Division had not yet determined
+whether implementation will require a change in the organization’s rules (in which case, the new
+rule would become effective on January 1 of the year following approval), it believed that early
+adoption was warranted. The letter noted that, for the 2012 NCAR, the NAG Unlimited Division
+has asked the RARA to provide a list of all entries that indicates whether or not the
+owner/operator reported an aircraft major change or major alteration. For all aircraft for which a
+major change or major alteration is reported, the NAG Unlimited Division has asked the RARA
+officials to request evidence (if required by the FAA) supporting an engineering evaluation and a
+flight demonstration within the anticipated flight envelope of the aircraft and to provide that
+evidence to the NAG Unlimited Division’s class compliance team in a timely manner (as soon as
+it is received by the RARA but no later than the prerace inspection). The NTSB is pleased that
+the NAG Unlimited Division has taken steps to further scrutinize those aircraft entered in the
+2012 NCAR for which a major change or major alteration has been reported since its last air
+racing event, and the NTSB encourages the NAG Unlimited Division to expedite its review so
+that rulemaking can be incorporated before the 2013 NCAR. Pending further updates on the
+NAG Unlimited Division’s progress, Safety Recommendation A-12-09 is classified
+“Open—Acceptable Response.”
+2.6.2 Spectator Safety
+On an oval race course, it is inevitable that the racing airplanes will head toward the
+crowd on certain segments; however, the NTSB noted in its April 10, 2012, safety
+recommendation letter that there may be opportunities for improving the course design to
+minimize spectators’ exposure. As a result, the NTSB issued Safety Recommendation A-12-14,
+which asked the RARA to do the following:
+Evaluate the design of the unlimited class course and safety areas to minimize
+maneuvering near and potential conflicts with spectators; if warranted by the
+results of the evaluation, implement changes to the race course.
+36
+NTSB/AAB-12/01
+
+On July 9, 2012, the RARA responded that it evaluated the design of the unlimited class
+course and moved the racers and the race course further north than they were located during the
+2011 NCAR to create and maintain a greater distance from the racers to the primary spectator
+viewing area. It stated that it also established another showline 500 feet east of the west airport
+boundary because the area had become a secondary viewing area due to a large increase in
+spectators on the private property adjacent to the airport. The NTSB believes that the RARA’s
+actions are responsive to the recommendation’s intent and classifies Safety
+Recommendation A-12-14, “Closed—Acceptable Action.”
+Also related to spectator safety, the NTSB noted that, although the fuel truck parked on
+the ramp was not hit by any debris from the accident airplane, the outcome could easily have
+been different. Further, although the circumstances of this accident were such that the type of
+barriers in front of the box seating area and crew pits was not a factor in the injuries that
+occurred, the NTSB concluded that more substantial barriers would help mitigate risk to
+spectators and personnel in the event of a less serious accident or incident. As a result, Safety
+Recommendation A-12-15 asked the RARA to do the following:
+Take the following actions to raise the level of safety for spectators and personnel
+near the race course: (1) relocate the fuel truck away from the ramp area and
+(2) in front of any area where spectators are present, install barriers more
+substantial than those currently in place.
+On July 9, 2012, the RARA responded that, effective at the 2012 NCAR, the larger fuel
+tanker truck will be relocated away from the ramp area to the southeast side of the airfield, about
+1.5 miles from the primary spectator area. The RARA also stated that, in addition to the
+“K Rails” currently positioned to the north side of the taxiway on the west end of runway 8,
+additional and more substantial barriers will be located along the entire primary spectator
+viewing area, extending east from the west end of the pits, through the box seats, to the general
+admission grandstands. The NTSB believes that the RARA’s actions are responsive to the
+recommendation’s intent and classifies Safety Recommendation A-12-15, “Closed—Acceptable
+Action.”
+2.6.3 Air Race and Course Design Guidance
+FAA guidance for air races and course design is provided in FAA Order 8900.1 and
+AC 91-45C. A review of these documents revealed discrepancies, errors, and instances of
+outdated information. The NTSB previously concluded that these documents should contain
+current, accurate, and consistent information to support a thorough review of a race course and
+provide maximum safety for spectators and racers. As a result, the NTSB issued Safety
+Recommendation A-12-08, which asked the FAA to do the following:
+Revise [FAA] Order 8900.1, Flight Standards Information Management System,
+volume 3, chapter 6, section 1, paragraph 3-151 and [AC] 91-45C, “Waivers:
+Aviation Events,” to correct inaccurate and incomplete information and reconcile
+all differences and inconsistencies between the documents.
+37
+NTSB/AAB-12/01
+
+In a June 26, 2012, letter, the FAA stated that it agrees with the recommendation and that
+it began drafting a revision to FAA Order 8900.1 to contain a new section that will specifically
+address air racing. The FAA stated that the revision will correct any inaccuracies or omissions
+and that AC 91-45C will be revised accordingly. Pending completion of these actions, the NTSB
+classified Safety Recommendation A-12-08 “Open—Acceptable Response” on July 25, 2012.
+2.6.4 High-G Training and G-Suit Feasibility For Pilots
+Generally, air race pilots, including those participating in the NCAR, are not required to
+undergo training to increase tolerance to high-G exposure by learning practices that can mitigate
+the effects or by wearing a G suit. Repeated, progressive exposure to high-G loads (such as
+during regular practice sessions) can also increase tolerance, but it can be diminished after a few
+days or weeks without exposure. At the NTSB’s investigative hearing, a representative of Red
+Bull Air Race testified that his organization requires its pilots to take G-tolerance training and
+wear hydrostatic G suits. The NTSB found that the RARA and NAG Unlimited Division rules
+provided several opportunities to address high-G training, including mitigation techniques, with
+pilots. The NTSB concluded that providing high-G training to pilots racing at the NCAR will
+help them prepare for the potential effects of high-G exposure. As a result, the NTSB issued
+Safety Recommendations A-12-16 and -17, which asked the RARA to do the following:
+Provide [high-G] training to pilots, including techniques to mitigate the potential
+effects of [high-G] exposure, as part of preparations before the Reno [NCAR] and
+during daily briefs at the NCAR. (A-12-16)
+Evaluate the feasibility of requiring pilots to wear [G] suits when racing at the
+Reno [NCAR]; if the evaluation determines it is feasible, implement a
+requirement. (A-12-17)
+On July 9, 2012, in response to Safety Recommendation A-12-16, the RARA stated that,
+before racing, all pilots participating in the 2012 NCAR will receive formal G-awareness training
+that will include training packages, which will be mailed to the pilots before the race, and that a
+formal briefing will be provided by a qualified military flight surgeon before flight
+participations. Also, G awareness will be briefed in the Air Boss’ daily flight briefing, and pilots
+will be required to fly four to six laps on the course to improve G tolerance and awareness before
+attempting any qualification flights. The NTSB believes that the RARA’s actions are responsive
+to the recommendation’s intent and classifies Safety Recommendation A-12-16,
+“Closed―Acceptable Action.”
+In response to Safety Recommendation A-12-17, the RARA stated in its July 9 letter that
+it consulted with subject matter experts (including CAMI, the National Aeronautics and Space
+Administration, the Air Force Research Laboratory, flight surgeons, and current and former
+fighter pilots) to evaluate the feasibility of requiring pilots to wear G suits when racing at the
+NCAR. The RARA stated that, based on these discussions, it determined that, although a G suit
+provides aid to G tolerance in a sustained high-G environment, it does not enhance G tolerance
+on the NCAR race course, which is designed for short-duration, 3.5-G turns. Moreover, a G suit
+would be ineffective in an environment in which there is a virtually instantaneous buildup of G
+loads, such as those encountered by the rapid pitch-up of an airplane. Because the evaluation
+38
+NTSB/AAB-12/01
+
+determined that the benefit of a G suit is of limited, if any, value on the NCAR course, the RARA
+concluded that it will leave G-suit usage to the pilots’ discretion and that it will focus its efforts
+on educating pilots regarding G tolerance and awareness. The NTSB believes that the RARA has
+demonstrated that it has thoroughly evaluated the issue before concluding that it is not feasible to
+require G suits for NCAR pilots; therefore, the NTSB classifies Safety Recommendation
+A-12-17, “Closed—Acceptable Action.”
+Similar to the RARA recommendations, the NTSB issued Safety Recommendations
+A-12-11 and -12, which asked the NAG Unlimited Division to do the following:
+Provide [high-G] training to pilots, including techniques to mitigate the potential
+effects of [high-G] exposure, as part of preparations before the Reno [NCAR] and
+during daily briefs at the NCAR. (A-12-11)
+Evaluate the feasibility of requiring pilots to wear [G] suits when racing at the
+Reno [NCAR]; if the evaluation determines it is feasible, implement a
+requirement. (A-12-12)
+In its July 6, 2012, response, the NAG Unlimited Division stated that it was not yet
+prepared to comment on or implement these recommendations, but in a followup letter on
+August 22, 2012, the NAG Unlimited Division stated that all race pilots are required to attend
+daily briefings by RARA and that it was the NAG Unlimited Division’s understanding that the
+RARA will provide G-awareness training during the daily briefing and require all race pilots to
+fly four to six laps on the race course (to increase their G-tolerance level) prior to requesting a
+qualification time. The NTSB notes that this information is consistent with the actions reported
+by the RARA. Further, the NAG Unlimited Division stated that its pilots will follow the RARA
+rules and will discuss G awareness during its daily class-specific briefings.
+The letter also stated that the NAG Unlimited Division evaluated the feasibility of G-suit
+use in the NCAR race environment. The letter explained that the G loads sustained on the course
+are normally between 3 to 4 G, which would not require a G-suit to fly safely, and that the NAG
+Unlimited Division did not believe that the use of a G suit would have changed the outcome of
+the accident because the sudden and extreme G loads involved were far beyond any benefit of a
+G suit system. The letter also explained that it would be difficult to equip the very small cockpits
+of the race airplanes with G-suit capability and that a pilot’s use of a G suit in the very hot race
+cockpits could introduce heat-exhaustion problems and prevent pilots from using cool suits. The
+NAG Unlimited Division concluded that it did not believe that the use of G suits would improve
+safety for race pilots or spectators and that their use may actually have a negative effect. As a
+result of its evaluation, the NAG Unlimited Division stated that it will not recommend a rules
+change to require the use of G suits but that it will not prohibit owner/operators from using
+G suits if, in their judgment, their use is preferred. Based on these responsive actions, Safety
+Recommendations A-12-11 and -12 are classified “Closed—Acceptable Action.”
+2.6.5 Prerace Technical Inspection Discrepancy Tracking
+The NAG Unlimited Division technical inspection requirements are documented in
+Appendix E of the NAG Unlimited Division Official Competition Rules and Bylaws document.
+39
+NTSB/AAB-12/01
+
+The technical inspection of the accident airplane for the 2011 NCAR found two discrepancies.
+Although interviews established that the discrepancies had been addressed, the investigation
+found that there was no established procedure to confirm that noted discrepancies have been
+resolved. The NTSB previously concluded that developing a tracking mechanism for the
+resolution of discrepancies is important to ensuring that inspection items are addressed before a
+race. As a result, the NTSB issued Safety Recommendation A-12-10, which asked the NAG
+Unlimited Division to do the following:
+Develop a system that tracks any discrepancies noted during prerace technical
+inspections and verifies that they have been resolved.
+Although the NAG Unlimited Division stated on July 6, 2012, that it was not yet
+prepared to comment on or implement this recommendation, a followup letter on August 22,
+2012, stated that the NAG Unlimited Division had revised its prerace inspection form to include
+a written acknowledgement of discrepancies noted and corrective actions taken. The letter stated
+that an aircraft with noted discrepancies will not be allowed to enter the race course for any
+reason until this written acknowledgement by the aircraft owner/operator is received and the
+aircraft is reinspected by the inspection team. The NTSB notes that this revised form will be used
+at the 2012 NCAR. Based on the NAG Unlimited Division’s responsive action, Safety
+Recommendation A-12-10 is classified “Closed—Acceptable Action.”
+2.7 OTHER IDENTIFIED ISSUES
+2.7.1 Noncompliance with Operating Limitations, Flight Testing Requirements
+The airplane’s operating limitations specified that the airplane was to be based and
+maintained in Ocala, Florida, and that proficiency flights must be conducted there or en route to
+air shows and racing locations. However, the investigation found that the airplane had not been
+based in Ocala, Florida, since April 2007. The airplane was in Arizona and later Texas before it
+was moved to Nevada in 2009. After the completion of the modifications in 2009, the airplane
+remained based in Minden, Nevada, and all of the flights were conducted in the vicinity of the
+Minden airport or at the NCAR. Therefore, the airplane was not in compliance with this aspect of
+its operating limitations.
+The operating limitations also specified that the cognizant FSDO (the one with
+jurisdiction over the airplane’s specified base) must be notified of major changes. FAA records
+show that the pilot notified the Reno FSDO47 of the installation of the boil-off cooling system in
+2009 and that FSDO personnel responded that the flight testing to validate the installation should
+include 3 hours of flight time and three takeoffs and landings. Although the telemetry data
+(which recorded about 23 minutes of flight time during the 2 days of flight testing) were
+incomplete, there was no evidence that the airplane had accumulated 3 hours of flight time
+before the pilot signed off the testing as completed. For example, the telemetry log showed that
+five flights were initiated during the 2 days of testing, and ground crewmembers reported that the
+47 Per the airplane’s operating limitations that specified that it was to be based in Ocala, Florida, the FSDO
+responsible for that area should be the cognizant FSDO. However, because the airplane was actually based in
+Minden, Nevada, the pilot was correct in contacting the Reno FSDO.
+40
+NTSB/AAB-12/01
+
+test flights typically lasted 15 to 20 minutes. If it is assumed that all five flights were completed
+and each lasted 20 minutes, that would represent only 1 hour 40 minutes of flight time. Also,
+there was no record that any FSDO was ever notified of other major modifications, such as the
+lower air scoop removal, the elevator and rudder counterweight increases, the elevator inertia
+weight decrease, the right elevator trim tab change (from controllable to fixed and faired), and
+the horizontal and vertical stabilizer incidence changes. Had the FAA been notified, it likely
+would have required a more substantial flight testing program for the airplane.
+According to 14 CFR 91.319(b), the accident airplane should have had a flight test
+program performed in a specific area defined by the FAA to show that it was controllable
+throughout its normal range of speeds and throughout all the maneuvers to be executed and had
+no hazardous operating characteristics or design features. Before the race, the airplane had not
+been flown through its normal range of racing speeds under the unique load factor regime
+required to negotiate the course; therefore, the airplane was not in compliance with the flight test
+program requirements.
+On December 21, 2011, the FAA issued a deviation to FAA Order 8130.2G, chapter 4,
+section 10, which clarified the operating limitations placed on experimental airplanes being
+operated for the purposes of exhibition and air racing. The revised order contains revisions that
+would now apply to airplanes like the accident airplane; these revisions include requiring the
+owner/operator to submit an annual program letter to the geographically responsible FSDO
+where the aircraft is based. The revised order states that the program letter must specify the
+aircraft’s home base, the person responsible for its operation and maintenance, a list of events at
+which the aircraft will be exhibited, and a map or detailed description of the proficiency area. It
+also specifies procedures for a change of aircraft home base or ownership.
+2.7.2 Discrepancies in Pilot-Reported Information on Racing Entry Documents
+The NAG Unlimited Division official competition rules contain a provision for the
+RARA to add an aircraft to the qualified list, even if it has not successfully completed a
+qualification attempt. The rules allow for this if “the pilot and aircraft have demonstrated their
+ability to perform at race speed.” The accident airplane did not have a valid qualification run for
+the 2010 NCAR, so it was entered under this provision. However, there was no evidence that the
+pilot had demonstrated the ability to perform at race speeds in the accident airplane since the
+2009 modifications; therefore, he should not have been eligible to enter the 2010 race with the
+accident airplane.
+The RARA rules require that any airplane that has had major changes or alterations since
+the last registration or within the 12 months before the races must register and that the airplane
+and all documentation of any modifications performed on the aircraft or engine must be made
+available to the technical inspection committee. The 2009 entry documents for the accident
+airplane indicated that a major change or major alteration was made since the airplane last raced
+at the NCAR; however, the airplane was never inspected by the technical committee because it
+never arrived to race in 2009. On the 2010 entry documents, “no” was circled in response to the
+question about major changes or alterations since the last NCAR. It is possible that the pilot
+circled “no” on the 2010 form because he had previously registered the airplane with “yes”
+circled. However, because the airplane never raced in the 2009 NCAR, its major alterations
+41
+NTSB/AAB-12/01
+
+should have been reported in 2010. Therefore, the pilot was not in compliance with the RARA
+rules regarding documentation of major changes and should not have been eligible to race the
+airplane in the 2010 or 2011 NCAR.
+On the pilot’s 2009, 2010, and 2011 NCAR entry forms, he reported having flown at least
+1,000 more hours in the accident airplane than its logbooks showed it had ever accumulated, and
+he inexplicably underreported his age in 2009 and 2010. Also, although the airplane’s logbooks
+showed that it had accumulated only about 25 total hours between its assembly in 2009 and its
+July 2011 inspection, the pilot’s NCAR entry form for 2011 reported that he had accumulated
+about 200 flight hours in it since the previous year. Although there is no evidence that the pilot’s
+age or experience in the accident airplane had any role in the accident, it is unclear why he
+submitted such inaccurate information to RARA.
+2.8 SUMMARY
+During the third lap of the six-lap race, the accident airplane experienced a rapid left roll
+upset and high-G pitch-up. The change in the left elevator trim tab deflection evident early in the
+left roll upset indicated that the link assembly for the left elevator trim tab had broken. With the
+link assembly broken, the left elevator trim could no longer provide downward force on the
+elevator, and the high-G pitch-up caused the pilot to lose consciousness and control of the
+airplane. The investigation determined that the looseness of the elevator trim tab attachment
+screws and a fatigue crack in one of those screws caused a decrease in the structural stiffness of
+the elevator trim tab system. At racing speeds, the decreasing stiffness was sufficient to allow
+aerodynamic flutter of the elevator trim tabs. Excitation of the flutter resulted in dynamic
+compressive loads in the left elevator trim tab’s link assembly that increased beyond its buckling
+strength, causing a bending fracture. The flutter and the failure of the left elevator trim tab’s link
+assembly excited the flutter of the right elevator trim tab, increasing the dynamic compressive
+loads in the right elevator trim tab’s fixed link assembly beyond its buckling strength, causing a
+bending fracture. The condition of the trim tab attachment screws’ locknut inserts, which showed
+evidence of age and reuse, rendered them ineffective at providing sufficient clamping pressure
+on the trim tab attachment screws to keep the surfaces tight against their hinges.
+The accident airplane had undergone many structural and flight control modifications that
+were undocumented and for which no flight testing or analysis had been performed to assess
+their effects on the airplane’s structural strength, performance, or flight characteristics. The
+investigation determined that some of these modifications had undesirable effects. For example,
+the use of a single, controllable elevator trim tab (which was installed on the left elevator)
+increased the aerodynamic load on the left trim tab (compared to the stock airplane, which has
+one tab on each elevator). Also, filler material on the elevator trim tabs increased the potential for
+flutter because it increased the weight of the tabs and moved their CG aft, and modifications to
+the elevator counterweights and inertia weight made the airplane more sensitive in pitch control.
+It is likely that, had engineering evaluations and diligent flight testing for the modifications been
+performed, many of the airplane’s undesirable structural and control characteristics could have
+been identified and corrected.
+42
+NTSB/AAB-12/01
+
+3. PROBABLE CAUSE
+The National Transportation Safety Board determines that the probable cause of this
+accident was the reduced stiffness of the elevator trim tab system that allowed aerodynamic
+flutter to occur at racing speeds. The reduced stiffness was a result of deteriorated locknut inserts
+that allowed the trim tab attachment screws to become loose and to initiate fatigue cracking in
+one screw sometime before the accident flight. Aerodynamic flutter of the trim tabs resulted in a
+failure of the left trim tab link assembly, elevator movement, high flight loads, and a loss of
+control. Contributing to the accident were the undocumented and untested major modifications to
+the airplane and the pilot’s operation of the airplane in the unique air racing environment without
+adequate flight testing.
+BY THE NATIONAL TRANSPORTATION SAFETY BOARD
+DEBORAH A.P. HERSMAN ROBERT L. SUMWALT
+Chairman Member
+CHRISTOPHER A. HART MARK R. ROSEKIND
+Vice Chairman Member
+EARL F. WEENER
+Member
+Adopted: August 27, 2012
+43
+NTSB/AAB-12/01

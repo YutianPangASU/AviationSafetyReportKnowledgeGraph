@@ -1,0 +1,2678 @@
+Runway Overrun During Landing
+Pinnacle Airlines Flight 4712
+Bombardier/Canadair Regional Jet CL600-2B19, N8905F
+Traverse City, Michigan
+April 12, 2007
+aviation
+ACCIDENT REPORT
+NTSB/AAR-08/02
+PB2008-910402
+
+
+
+NTSB/AAR-08/02
+PB2008-910402
+Notation 8015A
+Adopted June 10, 2008
+Aircraft Accident Report
+Runway Overrun During Landing
+Pinnacle Airlines Flight 4712
+Bombardier/Canadair Regional Jet CL600-2B19, N8905F
+Traverse City, Michigan
+April 12, 2007
+National
+Transportation
+Safety Board
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+
+National Transportation Safety Board. 2008. Runway Overrun During Landing, Pinnacle Airlines, Inc.,
+Flight 4712, Bombardier/Canadair Regional Jet CL600-2B19, N8905F, Traverse City, Michigan, April 12,
+2007. Aircraft Accident Report NTSB/AAR-08/02. Washington, DC.
+Abstract: This report explains the accident involving a Bombardier/Canadair Regional Jet
+CL-600-2B19, N8905F, operated by Pinnacle Airlines, Inc., which ran off the departure end of
+runway 28 after landing at Cherry Capital Airport, Traverse City, Michigan. The safety issues
+discussed in this report include the pilots’ actions and decision-making during the approach,
+landing, and landing roll; pilot fatigue and line check airman duty time regulations; weather and
+field condition information and ground operations personnel communications; and criteria for
+runway closures in snow and ice conditions. Safety recommendations concerning these issues
+are addressed to the Federal Aviation Administration.
+The National Transportation Safety Board is an independent Federal agency dedicated to promoting aviation, railroad,
+highway, marine, pipeline, and hazardous materials safety. Established in 1967, the agency is mandated by Congress through
+the Independent Safety Board Act of 1974 to investigate transportation accidents, determine the probable causes of the accidents,
+issue safety recommendations, study transportation safety issues, and evaluate the safety effectiveness of government agencies
+involved in transportation. The Safety Board makes public its actions and decisions through accident reports, safety studies,
+special investigation reports, safety recommendations, and statistical reviews.
+Recent publications are available in their entirety on the Web at <http://www.ntsb.gov>. Other information about available
+publications also may be obtained from the Web site or by contacting:
+National Transportation Safety Board
+Records Management Division, CIO-40
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(800) 877-6799 or (202) 314-6551
+Safety Board publications may be purchased, by individual copy or by subscription, from the National Technical Information
+Service. To purchase this publication, order report number PB2008-910402 from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(800) 553-6847 or (703) 605-6000
+The Independent Safety Board Act, as codified at 49 U.S.C. Section 1154(b), precludes the admission into evidence or use of
+Board reports related to an incident or accident in a civil action for damages resulting from a matter mentioned in the report.
+
+A I R C R A F T
+Accident Report
+C
+ontents
+Abbreviations and Acronyms .......................................................................................v
+Executive Summary .......................................................................................................ix
+1. Factual Information.....................................................................................................1
+1.1 History of Flight ..............................................................................................................................1
+1.2 Injuries to Persons ...........................................................................................................................5
+1.3 Damage to Airplane .......................................................................................................................5
+1.4 Other Damage .................................................................................................................................5
+1.5 Personnel Information ...................................................................................................................6
+1.5.1 The Captain .............................................................................................................................6
+1.5.2 The First Officer ......................................................................................................................8
+1.6 Airplane Information .....................................................................................................................9
+1.6.1 General .....................................................................................................................................9
+1.6.2 Airplane Deceleration Device Information ......................................................................10
+1.7 Meteorological Information .......................................................................................................10
+1.7.1 Cherry Capital Airport Weather Forecast/Predispatch Information ..........................10
+1.7.2 Dispatch Weather Information ...........................................................................................12
+1.7.3 Updated Cherry Capital Airport Weather/Airport Information ..................................12
+1.8 Aids to Navigation .......................................................................................................................13
+1.9 Communications ...........................................................................................................................14
+1.10 Airport Information ....................................................................................................................14
+1.10.1 Cherry Capital Airport Closed Tower Operations ........................................................14
+1.10.2 Radio Phraseology Guidance and Training Requirements ..........................................15
+1.10.3 Cherry Capital Airport Winter Operations ....................................................................16
+1.10.4 Cherry Capital Airport Winter Operations the Night of the Accident ......................17
+1.11 Flight Recorders ..........................................................................................................................18
+1.11.1 Cockpit Voice Recorder .....................................................................................................18
+1.11.2 Flight Data Recorder ..........................................................................................................18
+1.12 Wreckage and Impact Information ..........................................................................................18
+1.13 Medical and Pathological Information ....................................................................................19
+1.14 Fire ................................................................................................................................................19
+1.15 Survival Aspects .........................................................................................................................19
+1.15.1 Aircraft Rescue and Firefighting Response ....................................................................19
+1.15.2 Airplane Egress ...................................................................................................................20
+1.16 Tests and Research ......................................................................................................................21
+1.16.1 Airplane Simulation and Study of Airplane Performance During
+the Accident Sequence ..........................................................................................................................21
+1.16.2 Airplane Simulations for Various V Speed Additives and Thrust Reverser
+ref
+Landing Scenarios .................................................................................................................................23
+1.16.3 Use of Braking Systems During Landing Roll ..............................................................24
+1.17 Organizational and Management Information ......................................................................24
+1.17.1 Pinnacle Airlines’ Landing Distance Assessment Guidance (Operations
+Specification C382) ................................................................................................................................25
+1.17.2 Pinnacle Airlines Guidance for Landing and Thrust Reverser Usage .......................27
+1.17.3 Pinnacle Airlines Expeditious Deplaning Guidance ....................................................28
+iii
+National Transportation Safety Board
+
+A I R C R A F T
+Contents Accident Report
+1.17.4 Recent Pinnacle Airlines Safety-Related Actions ...........................................................28
+1.17.4.1 Postaccident Procedural/Operational Changes ......................................................29
+1.17.4.2 Postaccident Staffing/Scheduling/Training Changes ...........................................30
+1.18 Additional Information ..............................................................................................................30
+1.18.1 Fatigue-Related Information .............................................................................................30
+1.18.2 Previously Issued Safety Recommendations .................................................................33
+1.18.2.1 Landing Distance Assessment ....................................................................................33
+1.18.2.2 Standardized Phraseology ...........................................................................................35
+1.18.2.3 Crash Detection and Location Technology ...............................................................35
+2. Analysis .......................................................................................................................37
+2.1 General ...........................................................................................................................................37
+2.1.1 Aircraft Rescue and Firefighting Crash Detection ...........................................................38
+2.1.2 Postaccident Alcohol Testing ..............................................................................................39
+2.2 Pilot Performance, Actions, and Decision-Making During the Flight ..................................39
+2.2.1 Pilot Actions and Decision-Making During the Approach ............................................40
+2.2.1.1 Landing Distance Assessments ....................................................................................40
+2.2.1.1.1 Landing Distance Assessment Training ..................................................................42
+2.2.1.2 “Nil” Braking Reports ....................................................................................................43
+2.2.2 Pilot Actions During the Landing and Landing Roll ......................................................44
+2.3 Pilot Fatigue Issues .......................................................................................................................45
+2.3.1 Accident Pilot Fatigue ..........................................................................................................46
+2.3.2 Line Check Airman Fatigue Issues ....................................................................................48
+2.4 Dissemination of Weather and Field Condition Reports ........................................................49
+2.4.1 Weather Information Available to the Flight Crew.........................................................49
+2.4.2 Airport and Runway Condition Reports and Ground Personnel Phraseology .........50
+2.4.3 Runway Closure Procedures in Snow and Ice Conditions ............................................52
+3. Conclusions ................................................................................................................53
+3.1 Findings ..........................................................................................................................................53
+3.2 Probable Cause ..............................................................................................................................55
+4. Recommendations .....................................................................................................56
+4.1 New Recommendations ...............................................................................................................56
+4.2 Previously Issued Recommendations Reiterated in This Report ..........................................56
+5. Appendixes .................................................................................................................59
+A: Investigation and Public Hearing ................................................................................................59
+B: Cockpit Voice Recorder Transcript ..............................................................................................60
+C: Pinnacle’s Operations Specification C382 (Landing Distance Assessment) .........................200
+iv
+National Transportation Safety Board
+
+A I R C R A F T
+Accident Report
+A A
+bbreviAtions And Cronyms
+AC advisory circular
+ACARS aircraft communications addressing and reporting system
+AFD airport facility directory
+agl above ground level
+AIM Aeronautical Information Manual
+ALPA Airline Pilots Association
+ARC aviation rulemaking committee
+ARFF aircraft rescue and firefighting
+ARTCC air route traffic control center
+ASAP aviation safety action program
+ASOS automated surface observing system
+ATC air traffic control
+ATCT air traffic control tower
+ATIS automatic terminal information service
+°C degrees Celsius
+v
+National Transportation Safety Board
+
+A I R C R A F T
+Abbreviations and Acronyms Accident Report
+CAMI Civil Aerospace Medical Institute
+CDT central daylight time
+CFM company flight manual
+CFR Code of Federal Regulations
+cg center of gravity
+CLE Cleveland-Hopkins International Airport
+CRJ Bombardier/Canadair Regional Jet
+CTAF common traffic advisory frequency
+CVR cockpit voice recorder
+DOT Department of Transportation
+DSM Des Moines International Airport
+DTW Detroit Metropolitan Wayne County Airport
+°F degrees Fahrenheit
+FAA Federal Aviation Administration
+FCTM flight crew training manual
+FDR flight data recorder
+FLIR forward-looking infrared device
+vi
+National Transportation Safety Board
+
+A I R C R A F T
+Abbreviations and Acronyms Accident Report
+FOM flight operations manual
+FOQA flight operational quality assurance
+GE General Electric
+Hg mercury
+IFR instrument flight rules
+ILS instrument landing system
+KIAS knots indicated airspeed
+MAC mean aerodynamic chord
+MDW Chicago Midway International Airport
+MEM Memphis International Airport
+METAR meteorological aerodrome report
+MLG main landing gear
+MSP Minneapolis-St. Paul International Airport
+MU coefficient of friction
+N1 engine fan speed
+NASA National Aeronautics and Space Administration
+NOTAM notice to airmen
+vii
+National Transportation Safety Board
+
+A I R C R A F T
+Abbreviations and Acronyms Accident Report
+NWA Northwest Airlines
+NWS National Weather Service
+OE operating experience
+OpSpec operations specification
+POI principal operations inspector
+RVR runway visual range
+S/N serial number
+SAFO safety alert for operators
+SOC system operations control
+SPECI special weather observation
+TAF terminal aerodrome forecast
+TR thrust reverser
+TVC Cherry Capital Airport
+Vapp approach landing speed (Vref + 5 knots)
+Vref reference landing speed
+WSFO National Weather Service forecast office
+viii
+National Transportation Safety Board
+
+A I R C R A F T
+Accident Report
+e s
+xeCutive ummAry
+On April 12, 2007, about 0043 eastern daylight time, a Bombardier/Canadair
+Regional Jet (CRJ) CL600-2B19, N8905F, operated as Pinnacle Airlines flight 4712, ran off
+the departure end of runway 28 after landing at Cherry Capital Airport (TVC), Traverse
+City, Michigan. There were no injuries among the 49 passengers (including 3 lap-held
+infants) and 3 crewmembers, and the aircraft was substantially damaged. Weather was
+reported as snowing. The airplane was being operated under the provisions of 14 Code of
+Federal Regulations Part 121 and had departed from Minneapolis-St. Paul International
+(Wold-Chamberlain) Airport, Minneapolis, Minnesota, about 2153 central daylight time.
+Instrument meteorological conditions prevailed at the time of the accident flight, which
+operated on an instrument flight rules flight plan.
+The National Transportation Safety Board determines that the probable cause of
+this accident was the pilots’ decision to land at TVC without performing a landing distance
+assessment, which was required by company policy because of runway contamination
+initially reported by TVC ground operations personnel and continuing reports of
+deteriorating weather and runway conditions during the approach. This poor decision-
+making likely reflected the effects of fatigue produced by a long, demanding duty day,
+and, for the captain, the duties associated with check airman functions. Contributing
+to the accident were 1) the Federal Aviation Administration pilot flight and duty time
+regulations that permitted the pilots’ long, demanding duty day and 2) the TVC operations
+supervisor’s use of ambiguous and unspecific radio phraseology in providing runway
+braking information.
+The safety issues discussed in this report include the pilots’ actions and
+decision-making during the approach, landing, and landing roll; pilot fatigue and line
+check airman duty time regulations; weather and field condition information and ground
+operations personnel communications; and criteria for runway closures in snow and ice
+conditions.
+ix
+National Transportation Safety Board
+
+A I R C R A F T
+Accident Report
+1. F i
+ACtuAl nFormAtion
+1.1 History of Flight
+On April 12, 2007, about 0043 eastern daylight time,1 a Bombardier/Canadair
+Regional Jet (CRJ) CL600-2B19, N8905F, operated as Pinnacle Airlines flight 4712, ran off
+the departure end of runway 28 after landing at Cherry Capital Airport (TVC), Traverse
+City, Michigan. There were no injuries among the 49 passengers (including 3 lap-held
+infants) and 3 crewmembers, and the aircraft was substantially damaged. Weather was
+reported as snowing. The airplane was being operated under the provisions of 14 Code of
+Federal Regulations (CFR) Part 121 and had departed from Minneapolis-St. Paul International
+(Wold-Chamberlain) Airport (MSP), Minneapolis, Minnesota, about 2153 central daylight
+time (CDT). Instrument meteorological conditions prevailed at the time of the accident
+flight, which operated on an instrument flight rules (IFR) flight plan.
+The accident occurred on the fifth and final scheduled flight segment on the first
+day of a scheduled 4-day trip for the flight crew. The flight was scheduled to depart MSP
+about 2030 CDT for a scheduled arrival time at TVC of 2251. However, when the pilots
+arrived at the gate for the accident flight, the gate agent advised them that the flight
+release paperwork was not available and that the flight might be cancelled. About 2022
+CDT (about 8 minutes before the accident flight was originally scheduled to depart), the
+Pinnacle dispatcher provided the captain with details, indicating that the flight could not
+be dispatched to TVC because the forecast winds at TVC resulted in a tailwind component
+that exceeded the CRJ’s 10-knot landing tailwind component limitation. However, about
+22 minutes later, the dispatcher advised the captain that the flight could be dispatched
+because a new forecast predicted a smaller tailwind component for the landing at TVC.
+Postaccident interviews indicate that Pinnacle’s system operations control (SOC) duty
+manager had reviewed the observed conditions and forecast for TVC (from Northwest
+Airline’s [NWA] meteorology department) and approved the release.
+The flight’s dispatch documentation, which listed Detroit Metropolitan Wayne
+County Airport (DTW) as a destination alternate airport, was subsequently issued about
+2043 CDT. However, because the flight was delayed, an update of the airplane’s flight
+management system database software was required before the airplane could depart.
+After installation of this software, the airplane was pushed back from the gate at MSP
+about 2144 CDT. The pilots taxied the airplane to the runway 30R deice pad, where it was
+deiced and the departure clearance was issued. About 2153 CDT, an MSP air traffic control
+tower (ATCT) controller issued a takeoff clearance, and the accident flight departed for
+TVC.
+Postaccident crew interviews and review of the cockpit voice recorder (CVR)
+transcript indicated that the departure, climb, and en route portion of the flight from MSP
+1 Unless otherwise indicated, all times are eastern daylight time, based on a 24-hour clock.
+1
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+to TVC was routine. The captain/check airman was the flying pilot and was overseeing
+the first officer’s initial operating experience (OE)2; the first officer performed the duties
+of the monitoring pilot. The CVR recorded several instances during the accident flight
+in which the pilots indicated that they were tired. For example, the CVR recorded the
+following statements on the captain’s channel: 1) about 2332:12, “yeah, just tired. Too late
+for this…;” 2) about 2341:53, “aw I’m tired dude, just (expletive) worn out;” and 3) about
+0018:43 “…a wet dog ready to go to sleep tonight dude.” Additionally, about 0020:41,
+the CVR recorded the first officer stating, “jeez, I’m tired.” Further, several yawns were
+recorded on the captain’s channel (about 2340:00, 0001:06, 0004:00, and 0009:47).
+Because the TVC ATCT had closed at 2200 the night of the accident (consistent
+with its normal operations), the captain briefed the first officer regarding landing at TVC
+at night, after the tower closed, in snowy windy weather conditions. Records indicate
+that the Pinnacle dispatch personnel who were providing flight-following services for the
+accident flight occasionally provided the pilots with updated TVC weather information
+during earlier portions of the flight. Specifically, the aircraft communications addressing
+and reporting system (ACARS) log showed that about 2354, dispatch personnel sent
+weather updates to the accident airplane indicating IFR conditions with restricted
+visibility in light snow. After reviewing the weather information (about 2357), the captain
+made a public address statement advising the passengers that the winds at TVC were
+“dying down significantly…so it looks like we’re gonna have no problems gettin’ in this
+evening.”
+About 0010, the pilots listened to the TVC automated surface observation system
+(ASOS) for updated airport weather information, which indicated, in part, that winds
+were out of 040º at 7 knots and visibility of 1 1/2 miles in light snow. About 0021, the MSP
+Air Route Traffic Control Center (ARTCC) controller confirmed that the accident pilots
+had received the current TVC weather and began to issue radar vectors for the instrument
+landing system (ILS) approach to runway 28 at TVC.3 About 0025, the captain sent a
+message to dispatch indicating that the TVC weather looked good for the approach, citing
+winds out of 040 degrees at 8 knots. Company dispatch personnel responded, stating,
+“[w]e show that too, looks like we should be good.”
+The weather data subsequently recorded by the TVC’s ASOS showed that the
+conditions at TVC began to deteriorate rapidly after 0025, with visibility of 1/2 mile in
+moderate snow, sky obscured, and vertical visibility of 400 feet. The pilots did not listen
+to the ASOS again as they continued to follow air traffic control (ATC)-provided radar
+vectors for the ILS approach to TVC; however, they did obtain information regarding
+runway conditions from TVC airport operations personnel. For example, beginning about
+0025, the CVR recorded a radio conversation between the captain and the TVC airport
+2 The first officer was hired by Pinnacle on January 3, 2007, and successfully completed his CRJ ground
+training and proficiency check in February and March 2007, respectively. For additional information, see
+section 1.5.2.
+3 The ILS approach to runway 28, with minimums of a 200-foot decision height and 1/2-mile visibility,
+was the only precision approach at TVC. Nonprecision approaches, with higher minimum requirements,
+were available to runway 36 (which was closed). Only circling approaches (which were also nonprecision
+approaches with higher minimum requirements) were available to runway 10.
+2
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+operations supervisor regarding the runway condition and ongoing snow removal
+operations. The airport operations supervisor indicated that he had “multiple pieces of
+[snow removal] equipment” on runway 28 and that he was “running numbers for you as
+we speak.” The captain indicated that they would be landing in about 13 minutes.
+According to the CVR, about 0026:56, the airport operations supervisor radioed
+the pilots, advising that the braking action on runway 28 was “40 plus,”4 with “thin wet
+snow [over] patchy thin ice…give us about [5 to 8] minutes to clear the runway…when
+you’re ready to land.” About 0029:10, the CVR recorded the captain stating, “there’s snow
+removal on the field yet they’re showing forty or better sounds like a contaminated…
+runway to me.” During the next 4+ minutes, the CVR recorded additional conversation
+between the pilots, TVC operations, and MSP ARTCC personnel regarding the status
+of the snow removal equipment on the runway and the timing of the approach. About
+0032:16 (about 6 minutes before the captain’s estimated arrival time), the airport operations
+supervisor contacted the pilots to indicate that the last snow plow was off the runway.
+The captain responded, advising that the accident flight would be turning inbound and
+requesting additional airport traffic advisories if applicable.
+About 0033, the captain advised the MSP ARTCC controller that the TVC runway
+was clear of snow removal equipment; the controller advised him that it would “be about
+another…2 minutes ‘til I get you out far enough to turn you back onto the ILS.” The
+pilots then discussed the length of the landing runway, and, about 0033:46, the captain
+stated, “…and at night it’ll feel short too...with contaminant…more than likely.” About
+0034, the airport operations supervisor contacted the accident pilots again regarding their
+proximity to the airport. The captain replied that they expected an inbound turn clearance
+from the controller in about 1 minute, and the airport operations supervisor responded,
+“okay, roger that…it’s comin’ down pretty good here so ahhh (guess) I’ll see you on the
+ground here.” About 1 minute later, the airport operations supervisor queried the pilots
+about their progress, indicating “it’s comin’ down pretty good guys, just to give you a
+heads up.” About 7 seconds later (about 0035:42), the controller issued the first of a series
+of heading changes, vectoring the accident pilots towards the approach to runway 28.
+About 0036:19, the captain commented to the first officer, “…says it’s comin’ down
+good, which means its snowing…and we probably won’t see the runway, so be ready for
+the missed [approach].” About 1 minute later, the airport operations supervisor contacted
+the pilots, stating “I need to know if [you] guys are gonna be landing soon ‘cause I gotta…
+this is fillin’ in pretty quick down here…so, ah, how far are you guys out?” The captain
+replied that they were intercepting the approach course inbound and anticipated landing
+in “4 1/2, 5 minutes at the most.”
+According to the CVR, at 0038:03.2, the airport operations supervisor stated, “…I
+don’t know what the ah conditions [are] like…the runway, but I’m gonna call braking
+4 The “40 plus” braking report was based on the runway coefficient of friction values (.40+) obtained
+by ground personnel using an electronic recording decelerometer. Federal Aviation Administration guidance
+indicates that an airplane’s braking performance starts to deteriorate and directional control begins to be less
+responsive at MU values of .40 or less.
+3
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+action nil now.[5] ‘Cause it’s fillin’ in real hard.” However, during that transmission,
+beginning at 0038:04.3, the controller also contacted the pilots, issuing another heading
+change for the approach. CVR information and postaccident interviews indicated that the
+pilots did not recognize or acknowledge the airport operations supervisor’s nil braking
+action report. About 0038:30, the controller cleared the pilots for the ILS runway 28
+approach at TVC. Postaccident evaluation of the CVR revealed that the first officer was
+initially monitoring both the common traffic advisory frequency (CTAF) and MSP ARTCC
+frequencies but turned down the volume on the CTAF to hear the ATC assignment. The
+captain acknowledged the approach clearance, and the pilots continued toward the airport.
+About 0039:21, the CVR recorded the captain saying, “I mean, what kind of report’s that,
+it’s fillin in? Ya know doesn’t tell me good, bad, fair, poor.” About 24 seconds later, the
+controller advised the pilots, “…show you joining the [approach course], radar services
+terminated, change to advisory frequency approved.”
+About 0040:46, the CVR recorded the captain advising TVC traffic on the CTAF that
+the flight was inbound from the final approach fix and about 2 minutes from the airport.
+The airport operations supervisor responded that all equipment was clear of the runway,
+adding, “…and again ah brakin’ actions probably nil on the runway.” About 0040:57, the
+captain asked, “Are you saying it’s nil?” and the airport operations supervisor responded,
+“…haven’t been out there to do a field report and it’s been ah 5, 10 minutes, so I don’t
+know what it’s doin’ now.” About 0041:05, the captain replied, “ok,” and then said to the
+first officer, “He’s not reporting it nil, he’s like he’s sayin’ it’s nil. Heh.”
+Beginning about 0041:15, the pilots performed the before landing checklist,
+confirming appropriate landing gear, flap, and thrust reverser settings. About 0041:31, as
+the airplane descended through about 1,000 feet above ground level (agl) on the approach,
+the captain asked TVC airport operations “how deep of a [contaminant] would you say
+it is?” and airport personnel responded, “…I’d say it’s probably close to half inch now.”
+The captain responded, “okay, that’s not bad, thank you” and explained to the first officer,
+“We’re allowed 3 inches[6]…if it looks ugly when we’re comin’ in I’ll go around…half
+inch is nothin’.” As the approach descent continued, about 0042:05, the captain continued
+to discuss issues relevant to a possible go-around with the first officer. About 0042:42,
+the captain announced that the runway was in sight and that they would continue to a
+landing.
+At 0042:42.9, about 1 second after the captain saw the runway, the CVR recorded
+an electronic voice stating, “minimums.” The airplane touched down at 0043:03.7.
+Review of flight data recorder (FDR) data indicated that the accident airplane crossed
+5 TVC ground operations personnel are qualified to judge runway surface conditions based on ground
+vehicle handling characteristics as well as runway friction measuring equipment. During postaccident
+interviews, the TVC airport operations supervisor stated that, because he did not have time to do a full field
+condition measurement and report before the accident airplane arrived, he based his nil braking action reports
+on tests he conducted with his vehicle on runway 28, during which he perceived “minimal to nonexistent”
+braking action and “uncertain” directional control.
+6 According to the CRJ airplane flight manual, operations on runways with up to 3.75 inches of loose
+snow contaminant are permitted if all other operational criteria (for example, runway length) are met. The CRJ
+flight manual included more restrictive limitations for other contaminant categories, including compacted snow,
+standing water/slush, and ice.
+4
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+the approach threshold of runway 28 at an airspeed of about 148 knots7 and touched
+down on the runway about 2,400 feet from the threshold at an airspeed of 123 knots. The
+FDR data showed that the brakes were applied and the spoilers deployed immediately
+after the airplane touched down and that the thrust reversers were fully deployed within
+4 seconds after touchdown. FDR information further showed that the thrust reversers
+were deployed and stowed twice during the landing roll. The first deployment occurred
+when the airplane was about 3,000 feet from the departure end of the runway, and the
+second deployment occurred when the airplane was about 1,100 feet from the departure
+end of the runway.
+The airplane ran off the end of runway 28 at a ground speed of about 47 knots, on
+a heading of about 254°. It came to a stop on a heading of about 250°, about 100 feet west
+of the end of the 200-foot-long, 190-foot-wide blast pad pavement located off the end of
+runway 28.
+1.2 Injuries to Persons
+Table 1. Injury chart.
+Injuries Flight Crew Cabin Crew Passengers Other Total
+Fatal 0 0 0 0 0
+Serious 0 0 0 0 0
+Minor 0 0 0 0 0
+None 2 1 49 0 52
+Total 2 1 49 0 52
+Note: Title 14 CFR 830.2 defines a serious injury as any injury that (1) requires hospitalization for more than 48 hours,
+starting within 7 days from the date that the injury was received; (2) results in a fracture of any bone, except simple fractures
+of fingers, toes, or the nose; (3) causes severe hemorrhages or nerve, muscle, or tendon damage; (4) involves any internal
+organ; or (5) involves second- or third-degree burns or any burns affecting more than 5 percent of the body surface. A minor
+injury is any injury that does not qualify as a fatal or serious injury.
+1.3 Damage to Airplane
+The airplane had substantial, but repairable, damage, primarily to the forward
+lower fuselage, including the nose gear well area.
+1.4 Other Damage
+No other damage was reported.
+7 Based on the airplane’s estimated landing weight of 46,473 pounds, the pilots decided to use the more
+conservative landing card information, which indicated a landing reference speed (V ) of 142 knots (with up
+ref
+to 5 knots added for gusty winds) for a landing weight of 47,000 pounds.
+5
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+1.5 Personnel Information
+1.5.1 The Captain
+The captain, age 27, was hired as a first officer by Pinnacle on May 11, 2001. He
+was upgraded to captain in April 2004 and to line check airman status in August 2006.
+The captain held a multiengine airline transport pilot certificate with a type rating in the
+CRJ. The captain held a first-class Federal Aviation Administration (FAA) airman medical
+certificate, dated February 14, 2007, with the limitation that he “must wear corrective
+lenses.” During postaccident interviews, the captain stated that he was wearing contact
+lenses at the time of the accident.
+The captain told investigators that he started flying in 1997, received his private
+pilot certificate in 1998, and his commercial pilot certificate, flight instructor certificates,
+instrument rating, and multiengine rating in 1999. He stated that he worked as a flight
+instructor at Henderson State University, Henderson, Arkansas, for about 2 years and
+also flew under contract with Arkansas Game and Fish Commission before he was hired
+by Pinnacle.
+According to the captain’s Pinnacle employment and flight records, he had flown
+about 5,600 hours total flight time, including about 4,200 hours in CRJs, of which about
+2,500 hours were flown as CRJ captain. He had flown about 220, 54, 28, and 8 hours in
+the 90, 30, and 7 days and 24 hours, respectively, before the accident. Company records
+showed that the captain obtained his initial CRJ type rating in March 2004. His most recent
+line check occurred in April 2006, and his most recent CRJ proficiency check and recurrent
+ground training occurred in March 2007. A search of FAA records revealed no accident
+or incident history or enforcement actions for the captain. A search of the National Driver
+Register found no record of driver’s license suspension or revocation.
+The captain was based at Memphis International Airport (MEM), Memphis,
+Tennessee, and commuted from his home near Pensacola, Florida. He was married, and,
+6 months before the accident, his wife had given birth to their first child. According to
+the captain, his personal and financial situations changed with the birth of his son and
+his wife quitting work. The captain characterized his health as good and indicated that
+there were no major health changes during the previous 6 months. The captain stated
+that when he was home without work demands, he typically went to bed about 2130
+and awakened about 0730. However, he further stated that when he was home his sleep
+could be interrupted because he tried to provide relief for his wife during the night by
+responding when his son awakened.
+About 2040 on April 6, the captain and the first officer completed a 2-day OE
+training trip.8 The captain commuted home from Minneapolis to Pensacola on April 7. He
+8 The captain told investigators that he initially tried to find another check airman to conduct the first
+officer’s OE because the accident pilots were personal friends. However, no other check airman was available.
+The captain stated that he attempted to perform the OE with the same strictness he would for any other
+candidate.
+6
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+told investigators that he followed normal activities at home on April 8 and 9, although
+his sleep was interrupted at night by his son. The captain was initially scheduled to be
+off duty on April 10 but instead was rescheduled (on 3-day notice) to fly that day. He
+stated that he awoke about 0305 on April 10 and performed a checkride on a flight from
+Pensacola to MEM and then conducted captain line training during a trip from MEM to
+MSP. Upon arrival at MSP, the captain learned that the scheduling office had assigned
+him a flight extension (that is, a round trip flight to Louisville, Kentucky). The captain
+stated that he was prepared to accept the flight extension (because company policies
+permit pilots to refuse only one extension per month), but another captain was assigned
+in his place. The accident captain returned to the crew lounge and, about 1645 CDT, met
+the accident first officer for dinner. The captain stated that he drank alcohol with dinner
+but, consistent with company requirements, ceased alcohol consumption at least 12 hours
+before his scheduled reporting time for duty. He went to the hotel about 2200 to 2230 CDT
+and said he slept soundly through the night.
+On April 11, the captain awoke about 0700 CDT and ate breakfast at the hotel. He
+and the accident first officer caught a shuttle to the airport about 0800 CDT and checked
+in for their day about 0900 CDT. (The pilots caught an earlier airport shuttle than they
+needed for their scheduled 0940 report time because they anticipated weather-related
+shuttle delays.) The pilots’ trip sequence began with a round trip from MSP to Cleveland-
+Hopkins International Airport (CLE), Cleveland, Ohio, with a 28-minute turnaround at
+CLE. During the 1-hour, 41-minute layover at MSP before their next flight, the captain
+ate lunch at an airport fast food outlet. The pilots then flew a round trip from MSP to Des
+Moines International Airport (DSM), Des Moines, Iowa, with a 22-minute turnaround
+at DSM. The pilots had a scheduled 30-minute turnaround at MSP before they were
+to depart for TVC, and the captain stated that he planned to eat a quick dinner during
+that time because he knew that all restaurants in Traverse City would be closed when
+they arrived. However, the flight from DSM to MSP arrived about 15 minutes later than
+scheduled. Upon the pilots’ arrival, Pinnacle ground personnel advised the captain that
+their departure for TVC was delayed and that the flight would likely be canceled because
+of forecast wind conditions at TVC. (For additional information regarding the weather
+at TVC and the flight’s dispatch, see section 1.7.) The captain stated that he was not sure
+when or if the flight to TVC would be released and was receiving updated information
+from Pinnacle dispatch, which resulted in a “rolling delay.” He and the first officer stopped
+briefly for a beverage at an MSP coffee shop but did not eat dinner at the airport.
+The captain stated that it was snowing and windy in MSP all day and that the trip
+sequence made them work. The first officer flew the legs from MSP to CLE and DSM,
+where the weather was better; the captain flew the return legs to MSP and landed in
+difficult crosswinds. The captain told investigators that, when they were en route to TVC,
+he realized that it had been a long day and that he was more tired than he had realized
+before the flight departed.
+7
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+Company pilots who had flown with the captain9 described him as professional,
+knowledgeable, approachable, and polite. The accident first officer described the captain
+as a good pilot with strong teaching abilities and a willingness to help.
+1.5.2 The First Officer
+The first officer, age 28, was hired as a first officer by Pinnacle on January 3, 2007.
+He held a commercial pilot certificate with a single-engine rating, issued in April 2000,
+a flight instructor certificate issued in July 2001, and a commercial pilot certificate with
+a multiengine rating issued in March 2002. Between April 2001 and his hire date with
+Pinnacle, the first officer was employed in various flight instructor and 14 CFR Part 135
+freight and charter pilot positions. The first officer held a first-class FAA airman medical
+certificate, dated November 3, 2006, with the limitation that he “must wear corrective
+lenses.” During postaccident interviews, the first officer stated that he was wearing glasses
+at the time of the accident. According to the first officer’s Pinnacle employment and flight
+records, he had flown about 2,600 hours total flight time, including 22 hours in CRJs. He
+had flown about 22, 22, 15, and 8 hours in the 90, 30, and 7 days, and 24 hours, respectively,
+before the accident. Company records showed that the first officer obtained his initial
+CRJ ground training and proficiency check in February and March 2007, respectively,
+and was accomplishing his OE training at the time of the accident.10 A search of FAA
+records revealed no accident or incident history or enforcement actions for the first officer.
+A search of the National Driver Register found no record of driver’s license suspension or
+revocation.
+The first officer was based at MEM and resided in the area, having relocated from
+California after he was hired by Pinnacle. The first officer was single and told investigators
+that his personal situation had changed when his mother died in November 2006. He
+reported that his financial situation had also changed and that he was having difficulty
+paying his bills because he was in training and earning a low starting salary at Pinnacle.
+The first officer characterized his health as good and indicated that there were no major
+health changes during the previous 6 months. The first officer told investigators that, when
+he did not have work demands, he typically went to bed about 2200 and awakened about
+0800; however, he described his schedule as “crazy” and indicated that he sometimes
+slept until noon.
+After the captain and the accident first officer completed their 2-day OE training
+trip on April 6, the first officer was off duty for several days, during which he visited
+relatives in San Diego, California. The first officer stated he went to bed about 2200 on
+April 9 and awakened between 0400 and 0430 on April 10 to catch a flight to MSP. The first
+officer told investigators that he arrived at MSP about midday, drank juice at an airport
+9 Five pilots were interviewed, including two first officers, a captain/check airman who had recently
+flown normal line trips with the captain, a captain who had completed a recent checkride administered by the
+accident captain, and the acting chief pilot, who had administered previous checkrides.
+10 Pinnacle records indicate that the first officer completed about 44 hours of CRJ simulator time and
+about 22 hours (of the minimum required 25 hours) of OE, consistent with the company’s standard new-hire
+first officer training.
+8
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+shop, then met with the accident captain to review the flight paperwork for the April
+11 trip sequence. The first officer stated that after reviewing the paperwork, he and the
+captain ate dinner together and socialized until about 2145 CDT. The first officer indicated
+that he had a beer with dinner and went to sleep that night at the hotel about 2200 CDT.
+He awakened on April 11 about 0630 CDT, and he and the captain caught the shuttle to
+the airport and checked in for the day.
+The first officer stated that he and the captain had fast food at MSP for lunch when
+they returned from CLE, then flew the round trip to DSM. The first officer indicated that
+the pilots were scheduled to have a 30-minute turnaround upon their return to MSP before
+departing for TVC. However, he stated that the MSP-TVC flight release was delayed, and
+the flight’s departure was further delayed because of deicing. The first officer stated that
+he was a little tired during the accident flight but felt okay.
+The first officer was described favorably by two company simulator instructors as
+a pleasant person and dedicated student with flying skills commensurate with his flight
+time. The accident captain described the first officer as progressing normally toward OE
+approval, with above average airplane handling skills but below average skills on airplane
+systems and company procedures.
+1.6 Airplane Information
+1.6.1 General
+The accident airplane, serial number (S/N) 7905, was manufactured by
+Bombardier and received its FAA airworthiness certificate in December 2003. According
+to the manufacturer, the CRJ was designed for use in regional airline operations and
+has swept-back wings with winglets and a T-tail.11 The airplane was equipped with two
+tail-mounted General Electric (GE) CF34-3B1 turbofan engines, which were installed
+new in December 2003. At the time of the accident, the airplane had accumulated about
+8,219 total flight hours and 6,462 cycles.12
+According to flight dispatch information, the airplane’s actual takeoff weight
+for the accident flight was 49,473 pounds; the estimated TVC landing weight was
+46,473 pounds. Airplane documentation indicates that the maximum structural takeoff
+and landing weights are 53,000 and 47,000 pounds, respectively. The calculated landing
+center of gravity (cg) was 13.7 percent mean aerodynamic chord (MAC), and the airplane’s
+cg range extended from 9 to 35 percent MAC.
+11 A T-tail is a design in which the airplane’s horizontal tail surfaces are mounted to the top of the vertical
+tail surfaces above the fuselage.
+12 An airplane cycle is one complete takeoff and landing sequence.
+9
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+1.6.2 Airplane Deceleration Device Information
+Each main landing gear (MLG) wheel assembly is equipped with inboard and
+outboard hydraulic disc brake assemblies. The brakes are applied when the pilot(s) apply
+pressure to the brake pedals, resulting in mechanical inputs to the dual brake control
+valves through the brake control push/pull mechanism. Resultant hydraulic pressure to
+the brake assemblies is modulated by the airplane’s antiskid control system, which is
+designed to provide optimum braking efficiency under all runway surface conditions.
+Pneumatically operated thrust reversers on the airplane’s engines are also used
+to slow the airplane after landing. When the thrust reversers are deployed, blocker doors
+change the direction of the engine fan air, moving it outward and forward to create reverse
+thrust. The thrust reversers are operated by levers located on the forward side of the thrust
+levers on the throttle quadrant.
+The National Transportation Safety Board’s postaccident examination of related
+FDR data and testing and examination of associated system components revealed
+no evidence of preimpact fault or anomaly in the braking, antiskid, or thrust reverser
+systems.
+1.7 Meteorological Information
+1.7.1 Cherry Capital Airport Weather Forecast/Predispatch
+Information
+According to National Weather Service (NWS) weather charts, on the day of the
+accident, a low pressure system and associated occluded front13 were approaching TVC
+from the south-southwest. The weather charts showed an extensive area of IFR conditions14
+extending throughout most of the Great Lakes region, including northern Michigan. Across
+the state of Michigan, the charts showed winds from the east-northeast about 15 knots,
+temperatures in the mid to low 30s (°Fahrenheit [F]), snow and freezing rain across the
+central and northern portions of the state, and rain over southern Michigan.
+About 1540 on April 11, the Gaylord, Michigan, NWS Forecast Office (WSFO)
+issued a winter weather message warning that a rapidly developing low pressure system
+would result in heavy snow across northern Michigan, with total snowfall accumulations
+of 6 to 8 inches and possible strong winds.
+About 1645 on April 11, the NWS Hydrometeorological Prediction Center Heavy
+Snow Discussion update/advisory highlighted the upper Great Lakes and northeastern
+United States (an area that included the accident region) for potential heavy snow and
+13 An occluded front is formed when a cold front overtakes a warm front.
+14 IFR conditions are defined as a ceiling or lowest layer of clouds reported as broken or overcast,
+or vertical visibility into a surface-based obscuration of less than 1,000 feet agl, and/or visibility less than
+3 statute miles.
+10
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+icing conditions. This advisory indicated that a major low pressure system producing an
+area of heavy wet snow15 was moving into the northern Great Lakes region (including
+northern Michigan) and was expected to produce continuous, frequently heavy snowfall
+in the area before gradually dissipating during the subsequent 24 hours. About 2337 on
+April 11, the Gaylord WSFO issued a short-term forecast for the northern Michigan region
+(including the TVC area) that warned that a winter storm warning was in effect for snow,
+which was expected to be heavy at times, and strong winds out of the northeast through
+early morning April 12.
+The NWS terminal aerodrome forecast (TAF)16 that was issued for TVC about 1929
+on April 11 predicted wind from 080º at 19 knots gusting to 30 knots, visibility 2 miles
+in light and blowing snow, and ceiling overcast at 2,500 feet; between 2000 and 0000,
+temporary conditions of visibility 3/4 mile in light and blowing snow, and ceiling overcast
+at 500 feet. From 0000 to 0600, the TVC TAF predicted wind from 040º at 18 knots gusting
+to 26 knots, visibility 1/2 mile in moderate and blowing snow, and sky obscured with a
+vertical visibility of 800 feet.
+Pinnacle dispatch personnel were not able to release the accident flight based on
+the NWS TAF because the winds at TVC exceeded the CRJ tailwind landing limitation
+of 10 knots. Dispatch personnel advised the company SOC of this dispatch problem.
+Upon review of updated weather information, the SOC contacted NWA’s meteorology
+department17 to request review and possible revision of the TVC forecast. About 2130
+on April 11, NWA meteorologists issued an amended TAF for TVC that predicted wind
+from 050º at 10 knots, winds gusting to 18 knots, visibility of 4 miles in light snow, ceiling
+overcast at 2,500 feet agl, with temporary conditions of visibility of 1 mile in light and
+blowing snow, and ceiling overcast at 1,000 feet agl.
+About 1 hour later, based on new weather satellite information, the NWS issued an
+amended forecast for TVC that predicted the following:
+Until 0200 on April 12: winds from 080 degrees at 11 knots, winds gusting
+to 20 knots; visibility 4 miles in light snow, ceiling overcast at 2,500 feet agl,
+with temporary conditions of visibility 1 mile in light snow, blowing snow,
+and ceiling overcast at 1,500 feet agl valid.
+The NWS amended TVC weather forecast was issued about the time the airplane
+was pushed back from the gate at MSP and was not included in the pilot’s dispatch
+information.
+15 According to meteorologists, snow is considered to be wet when it has a high liquid water content, and
+typically occurs at temperatures above 28° F. On surfaces, wet snow produces slush and rapidly deteriorating
+braking conditions.
+16 According to FAA Order 7110.10, TAFs are scheduled to be prepared and issued four times a day
+(about 1930, 0130, 0730, and 1330 eastern daylight time).
+17 The NWA meteorology department is an FAA-approved Enhanced Weather Information System
+provider that provides weather-related services to Pinnacle under contract. Its personnel continuously monitor
+applicable weather trends and are authorized to issue forecasts and advisories at any time as deemed
+appropriate.
+11
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+1.7.2 Dispatch Weather Information
+The weather information provided in the airplane’s dispatch release paperwork
+was based on information obtained from the NWA Worldflight system, which provided
+meteorological aerodrome reports (METARs),18 TAFs, pilot reports, notices to airmen
+(NOTAM), and NWA adverse weather advisories.
+About 2146, the dispatcher issued the flight’s dispatch documentation, which
+included the previously discussed NWA-amended TVC weather forecast information
+and 3 hours of alternate airport (DTW) weather observations. The 3 hours of DTW
+observations indicated strong easterly winds gusting to 26 knots, visibility of 1 1/4 to
+1 1/2 miles in light-to-moderate rain and mist, with ceilings between 600 and 800 feet.
+Published minimums for ILS approaches to DTW’s easterly runways were ceilings of
+200 feet and visibility of 1/2 mile.19
+1.7.3 Updated Cherry Capital Airport Weather/Airport Information
+While the flight was en route, the pilots had several possible sources of information
+regarding the TVC weather and airport/runway surface condition, including: 1) Pinnacle
+dispatch/flight-following personnel; 2) MSP ARTCC; 3) TVC ASOS; and 4) TVC ground
+operations personnel reports. Records showed that a Pinnacle dispatcher provided the
+pilots with updated TVC ASOS weather information at 2354 and 0023; on both occasions
+the information indicated winds within acceptable landing limits and visibility as low as
+1 1/2 miles in light snow. Additionally, the MSP ARTCC controller advised the pilots that
+he observed weather radar returns consistent with a snow squall in the TVC area on his
+en route radar display when the airplane was descending for the approach.
+Surface weather observations at TVC are made every minute by the ASOS, which
+is located near the glideslope antenna for runway 28. After the TVC ATCT closes, these
+ASOS weather observations are broadcast continuously over the automated terminal
+information system (ATIS) frequency and were, therefore, available to the pilots during the
+airplane’s descent, approach, and landing. CVR evidence shows that the pilots accessed
+the TVC ASOS weather information once during the accident flight, more than 30 minutes
+before the airplane landed. At that time, the ASOS broadcast indicated winds out of 040º
+at 7 knots and visibility of 1 1/2 miles in light snow.
+The ASOS system is augmented by FAA-contracted, NWS-certified weather
+observers located at the general aviation terminal north of runway 28. The METARs and
+special weather observations (SPECI) issued by the NWS around the time of the accident
+indicated the following conditions:
+18 METARs are generated by the airport’s ASOS and subsequently amended/augmented as needed by
+NWS observers.
+19 Subsequent DTW weather observations also showed conditions consistently above approach/landing
+minimums; however, technically, Pinnacle dispatch should have included a second alternate destination and
+corresponding additional fuel in the dispatch release.
+12
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+SPECI at 0030: wind from 040 degrees at 8 knots, visibility 1/2 mile in
+light[20] snow, sky obscured vertical visibility 400 feet, temperature 0° C,
+dew point temperature minus 1° C, altimeter 29.52 inches Hg [mercury].
+Remarks…hourly precipitation since 2353 at 0.03 inches.
+SPECI at 0045: wind from 020 degrees at 8 knots, visibility 1/4 mile in
+heavy snow, sky obscured vertical visibility 200 feet, temperature 0° C,
+dewpoint temperature minus 1° C, altimeter 29.52 inches Hg. Remarks…
+hourly precipitation since 2353 at 0.07 inches.
+METAR at 0053: wind from 020 degrees at 8 knots, visibility 1/4 mile in
+moderate snow,[21] sky obscured vertical visibility 200 feet, temperature 0° C,
+dewpoint temperature minus 1° C, altimeter 29.51 inches Hg. Remarks…
+hourly precipitation since 2353 at 0.08 inches.
+The pilots received some updated TVC weather (and runway surface condition)
+information during their radio communications with TVC ground operations personnel
+as they approached TVC. For example, about 18 minutes before the airplane landed, the
+pilots contacted TVC ground operations personnel and were advised that snow removal
+equipment was on the runway. About 2 minutes later, the TVC airport operations
+supervisor advised the pilots that the measured braking action on runway 28 was .40+
+with “thin wet snow [over] patchy thin ice.” During the next few minutes, the CVR
+recorded additional communications between the pilots and TVC ground personnel
+regarding the snow removal progress and runway condition. Then, about 9 minutes
+before the airplane landed, the TVC airport operations supervisor contacted the pilots
+for an updated position and told them, “it’s comin’ down pretty good here.” Less than
+2 minutes later, after the pilots advised that they were about 5 minutes from touchdown,
+the TVC airport operations supervisor stated, “…it’s comin’ down pretty good…just to
+give you a heads up.”22 The pilots did not listen to the ASOS 5-minute observation that was
+logged by the system about 3 minutes before the accident, which showed 1/4 mile visibility
+in heavy snow with sky-obscured vertical visibility of 200 feet.
+1.8 Aids to Navigation
+No problems with any navigational aids were reported.
+20 According to NWS guidance and the ASOS augmentation supervisor, the light snow reported in this
+SPECI should have been identified as moderate. The accident pilots did not obtain the erroneous snow
+intensity report.
+21 According to NWS guidance and the ASOS augmentation supervisor, the moderate snow reported in
+this weather observation should have been identified as heavy.
+22 Observations for TVC the morning after the accident indicated that a total of 4 inches of new wet snow
+fell overnight.
+13
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+1.9 Communications
+No technical communications problems were reported.
+1.10 Airport Information
+TVC is located about 2 miles south of Traverse City, Michigan, at an elevation
+of about 624 feet. The airport has two asphalt runways (10/28 and 18/36). Runway 28,
+the active runway at the time of the accident, is 6,501 feet long by 150 feet wide, with
+a 200-foot-long by 190-foot-wide blast pad, and is equipped with an ILS approach.23
+(Runway 18/36 was closed at the time of the accident.) All four TVC runway ends had
+standard, 500-foot-wide runway safety areas that extended 1,000 feet beyond the runway
+ends.
+The Safety Board examined the FAA’s airport certification inspection records for
+TVC from the years 2004, 2005, and 2006 and did not note any unresolved deficiencies
+related to winter operations.
+1.10.1 Cherry Capital Airport Closed Tower Operations
+According to FAA Order 7110.65, Air Traffic Control, “The primary purpose of the
+ATC system is to prevent a collision between aircraft operating in the system and to organize
+and expedite the flow of traffic…. In addition to its primary function, the ATC system
+has the capability to provide (within certain limitations) additional services.” Because the
+TVC ATCT was closed during the accident flight’s approach to the airport, the primary
+provider of ATC services for this flight was the MSP ARTCC. TVC airport diagrams and
+approach charts showed ASOS and airport ground/traffic contact information available
+for use when the TVC ATCT was not in operation.
+FAA policies dictate that the operating hours of ATCT facilities are determined
+based on the amount of traffic at the airport, specifically the number of flight operations
+per hour. Based on the FAA’s criteria, the published hours of operation for the TVC ATCT
+are 0700 to 2200. (The accident flight was originally scheduled to arrive at TVC about 2251,
+after the TVC ATCT was closed.) According to TVC policies, the ATCT will remain open
+longer than the designated hours if an inbound or outbound flight crew requests such
+staffing. The FAA indicated that such requests were not common, and no such request
+was made the night of the accident.
+FAA Order 7110.65 also states that, when ATC towers are open, controllers are
+required to provide arriving pilots with “airport traffic control service based only upon
+23 As previously mentioned, the ILS approach to runway 28 is the only precision approach at TVC.
+14
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+observed or known traffic and airport conditions.”24 The order states that controllers
+should provide pilots with useful airport and landing area conditions and braking action
+reports and advisories in a timely manner.
+According to published airport documents, when the TVC ATCT is closed, pilots
+are able to obtain current weather information through the TVC ASOS. TVC records
+indicate that, as part of the closing tower checklist on the night of the accident, the TVC
+ATCT controller turned off the ATIS recording then activated a switch transferring the TVC
+ASOS recorded weather information to be broadcast on the ATIS frequency. Additionally,
+current weather and runway surface condition information may be obtained from airport
+ground operations personnel over the CTAF. The accident pilots were in contact with
+ground operations personnel for about 18 minutes before landing and received weather
+and runway surface condition information from them.
+1.10.2 Radio Phraseology Guidance and Training Requirements
+When an airport’s ATCT is closed, direct communications between arriving
+pilots and airport ground operations personnel may be necessary. Information related to
+procedures and phraseology used by pilots when operating at an airport after its ATCT
+is closed is available in the Aeronautical Information Manual (AIM). Additional pertinent
+radio communication information is published and available to pilots in applicable airport
+facility directories (AFD) and airport instrument approach charts. Records showed that
+both pilots had experience operating at airports without operating control towers, and,
+during postaccident interviews, both pilots stated that they were aware of the procedures
+and communications required for such operations.
+According to Federal airport certification regulations (14 CFR Part 139,
+“Certification of Airports”), airport operations personnel are required to receive
+initial and annual recurrent training on airport communications that addresses radio
+communications with the ATCT during the tower’s hours of operation, communications
+on the CTAF when the ATCT is not operating, and procedures for reporting unsafe airport
+conditions. The FAA recommends that airports consult the AIM chapter titled, “Radio
+Communications, Phraseology, and Techniques,” (which emphasizes the importance of
+precision, conciseness, and proper radio technique in successful radio communication
+and provides examples of proper phraseology and technique) to develop their airport
+personnel training programs. Airport operators can also find information on the content
+and delivery of airfield condition reports in the AIM and in Advisory Circular (AC)
+150/5200-28C, “Notices to Airmen (NOTAMS) for Airport Operators.”
+TVC personnel stated that they referred to radio communication guidance in
+the AIM in the development of their airport operations personnel training and that all
+24 Records indicate that there was no other traffic operating around TVC when the accident airplane
+arrived. The most recent passenger-carrying air carrier flight (NWA Airlink/Mesaba flight 3721, a SF-34
+turboprop) arrived at 1441 on April 11. According to NWA representatives, two NWA flights that were scheduled
+to arrive at TVC later that day were cancelled because the predicted tailwind component at TVC exceeded the
+limitations in the company’s winter operations guidance. Two air carrier airplane-positioning flights landed at
+TVC later on April 11, the latest of which arrived about 2045.
+15
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+operations personnel working the night of the accident had completed the required
+training. In addition, the operations supervisor was also a licensed pilot and was therefore
+familiar with airport/ATC communications from a pilot’s perspective.
+1.10.3 Cherry Capital Airport Winter Operations
+AC 150/5200-30A, “Airport Winter Safety and Operations,” dated October 1, 1991,
+provides airport operators with guidance for the development of a snow and ice control
+plan, procedures for conducting and reporting the results of runway friction surveys and
+for snow removal and control. According to the AC, the guidance and standards provided
+“are recommended by the [FAA] for winter operations at all civil airports.” Therefore,
+the AC identifies “triggers” that an airport might use to begin snow removal operations,
+such as snow type and depth and runway surface condition reports. The AC does not
+identify thresholds that an airport might use to close a runway because of observed type
+and depth of contamination, adverse friction measurements, or limited braking action on
+that surface.25
+The TVC airport certification manual contains a section titled “Cherry Capital
+Airport Snow Plan,” which outlines the airport’s snow and ice removal procedures,
+consistent with the FAA’s guidance, for airport employees and tenants. The snow plan
+specifies that the airport is responsible for the following:
+• determining when snow removal operations begin;
+• making visual and mechanical checks of snow, ice, slush…bank height, and
+friction measurements26 on airport operational surfaces;
+• completing field condition reports after each check; and
+• disseminating related information as needed.
+TVC’s snow plan also specifies that snow removal operations are to be conducted
+from runway end to runway end to a minimum clearance width of 150 feet and should
+begin before about 2 inches of dry snow or 1/2 inch of wet snow has fallen. The latest
+revision of the TVC snow plan, issued in April 2006, differs from the previous version
+in that it reflects an increase in pertinent personnel and snow removal equipment and
+contains revised contact information.
+In November 2005, the FAA Office of Airports for the Great Lakes Region sent a
+letter to all Part 139 airport operators in the region reminding them of requirements for
+operations during snow and ice conditions. This letter stated, in part:
+25 Type and depth of contamination reports are based on visual observations made by ground personnel;
+runway friction measurements are taken by ground personnel using measurement equipment and reported in
+MU values; and runway braking action reports are based on subjective pilot reports (good, fair, poor, or nil).
+26 According to FAA guidance, airport personnel should conduct friction measurements on runways
+covered with compacted snow and/or ice to quantify the slipperiness of pavement surfaces.
+16
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+The airport must implement a standard operating procedure to close any
+pavement available to air carriers when braking action/friction values
+reach an equivalent level of nil braking based on the air carrier aircraft
+utilizing the airport. The airport can obtain the threshold for nil braking
+action by referencing aircraft operating manuals or contacting the airlines
+for an aircraft or airline specific correlation table.
+According to the TVC airport assistant manager, airport personnel discussed the
+content of the FAA’s letter at a snow plan meeting held September 22, 2006. The airport
+then contacted each air carrier operating into TVC and requested the necessary airplane
+operating criteria; however, at the time of the accident, no air carrier had provided the
+required information. Therefore, the TVC airport’s snow plan did not specify a type
+and/or depth of runway contaminant or coefficient of friction (MU) value27 that would
+automatically result in airport closure.28 According to a December 20, 2007, letter from
+the FAA airport certification inspector to the TVC airport director, no violation of 14 CFR
+Part 139 was noted during the investigation of this accident.
+1.10.4 Cherry Capital Airport Winter Operations the Night of the
+Accident
+On the night of the accident, TVC airport operations personnel coordinated with
+Pinnacle Airlines dispatch personnel and were advised to expect the arrival of flight 4712
+about 0037. About 2135, a TVC field condition report recorded no snow or ice on the
+runway and MU values of .40+ on all segments of the runway.29 Snow began to fall at
+TVC about 20 minutes after this report, and, about 0006, a TVC field condition report for
+runway 28 indicated “thin wet snow over patchy thin ice, MU values of .40/.37/.39.”30
+Snow removal operations were initiated shortly thereafter in preparation for the airplane’s
+arrival. TVC crews had cleared the full length and width of runway 28 by about 0029, and
+a TVC field condition report indicated “thin wet snow on runway 28, over patchy thin ice”
+and friction measurements resulting in MU values of .40+/.40+/.40+.31 A TVC field report
+entered about 0055 indicated that postaccident runway friction measurements taken on
+runway 28 indicated MU values of .17/.17/.17.
+27 MU values are obtained from runway friction measuring devices and reported in a range from 0.0 to
+1.0, where 0.0 is the lowest friction value, and 1.0 is the theoretical best friction value available. (Runway
+friction measurements are also sometimes reported in a range from 0 to 100.)
+28 After the accident, TVC received operational criteria information from the air carriers operating into the
+airport; as a result, the airport now restricts air carrier operations when MU values of .27 or less are measured
+or when nil braking action is reported by pilots or TVC ground operations personnel.
+29 Although this report indicated “no snow or ice on the runway,” runway friction surveys are only
+performed when there is contamination on airport surfaces. Friction testing devices provide MU values for the
+first, second, and third segments of a runway.
+30 A NOTAM was not issued for this MU reading because TVC ground personnel were not able to reach
+the nearest FAA automated flight service station when they tried to report it.
+31 Although FAA guidance indicates that an airplane’s braking performance starts to deteriorate and
+directional control begins to be less responsive at MU values of .40 or less, the FAA does not recognize a
+correlation between MU values and the descriptive terms (such as good, fair, poor, or nil) that are used in pilot
+braking action reports.
+17
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+1.11 Flight Recorders
+1.11.1 Cockpit Voice Recorder
+The accident airplane was equipped with an L-3 Communications Model FA
+2100-1020 CVR, S/N 263068. The CVR showed no signs of damage and was sent to the Safety
+Board’s laboratory in Washington, D.C., for readout and evaluation. The CVR was played
+back normally and without difficulty and contained good quality32 audio information. The
+recording started at 2252:01.3 and continued uninterrupted until 0055:44.8, when the pilots
+shut off electrical power on the airplane. A partial transcript was prepared for the 2-hour,
+4-minute, 8-second recording (see appendix B).
+1.11.2 Flight Data Recorder
+The accident airplane was equipped with an L-3 Communications Fairchild Model
+FA2100 solid-state FDR, S/N 000228080. The FDR was sent to the Safety Board’s laboratory
+for readout and evaluation; it was received in good condition, and the data were extracted
+normally from the recorder. The FDR recorded about 375 parameters of airplane flight
+information, including altitude, air and ground speed, heading, wind direction and speed,
+control wheel and column position, elevator/aileron/rudder position, engine fan speed,
+thrust reverser status (arm advisory/deployed/unlocked), acceleration (vertical, lateral,
+and longitudinal), spoiler and antiskid status, landing-gear weight on wheels, and brake
+pedal application and pressure.
+1.12 Wreckage and Impact Information
+The airplane came to rest on a southwesterly heading about 100 feet west of the
+end of the blast pad surface located off of runway 28 at TVC. Three tracks were found
+in the snow and ground, extending between the end of the runway and the airplane’s
+landing gear. The airplane was resting, right wing low, on the forward lower fuselage and
+the main landing gear; the nose landing gear was found separated from the fuselage. Most
+of the airplane damage observed was in the lower forward fuselage area. Specifically,
+the aft bulkhead of the nose gear bay, which is part of the airplane’s pressure bulkhead,
+exhibited substantial damage. Postaccident examination of the engine controls and the
+throttle quadrant (including the thrust levers) in the flight deck area, associated linkages
+below the cockpit floor level, and the powerplants and thrust reversers revealed no
+evidence of pre- or postimpact anomalies.
+32 The Safety Board uses the following categories to classify the levels of CVR recording quality: excellent,
+good, fair, poor, and unusable. A good quality recording is one in which most of the flight crew conversations
+could be accurately and easily understood.
+18
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+1.13 Medical and Pathological Information
+In accordance with Federal regulations, Pinnacle conducted postaccident drug
+testing on urine specimens obtained from the captain and first officer within 4 hours of
+the accident.33 The test results were negative. Required postaccident alcohol testing was
+not conducted. Pinnacle reported that this omission occurred because company officials
+initially believed that the event was classified as an incident (in which case such testing
+was not required by Federal regulation) rather than an accident. Title 14 CFR Part 121
+Appendix J, Section B1 states that a decision to forgo the administration of a postaccident
+alcohol test “shall be based on the employer’s determination, using the best available
+information at the time of the determination, that the covered employee’s performance
+could not have contributed to the accident.” Appendix J further states, “if a test required
+by this section is not administered within 2 hours following the accident, the employer
+shall prepare and maintain on file a record stating the reasons the test was not promptly
+administered…records shall be submitted to the FAA upon request of the Administrator
+or his or her designee.” A Pinnacle representative indicated that such a record was neither
+prepared nor requested by an FAA representative.
+1.14 Fire
+No evidence of an in-flight fire was found, and a postcrash fire did not occur.
+1.15 Survival Aspects
+1.15.1 Aircraft Rescue and Firefighting Response
+According to postaccident interviews, the TVC operations supervisor saw the
+airplane go off the end of the runway and telephoned the 911 central dispatch operator
+to initiate the emergency response. The 911 central dispatch operator then activated
+the crash alarm at the TVC aircraft rescue and firefighting (ARFF) station34 and notified
+other (off-airport) Traverse City fire stations and police via radio. Postaccident interviews
+indicated that the first responding TVC ARFF firefighter35 was delayed slightly in reaching
+the airplane because he was unsure of the airplane’s exact location on the airport. The
+firefighter could not see the accident airplane because of reduced visibility in falling snow
+and initially was unable to make radio contact with TVC operations personnel to get more
+information because of congestion on radio frequencies. During postaccident interviews,
+33 As required by the National Institute for Drug Abuse, the specimens were tested for the following
+drugs: marijuana, cocaine, opiates, phencyclidine, and amphetamines.
+34 TVC ARFF station personnel respond to the crash alarm and do not receive a verbal initial
+notification.
+35 The TVC ARFF schedule resulted in one on-duty airport firefighter between 2300 and 0700 the night
+of the accident. Off-airport firefighting personnel also responded to the accident site and arrived around the
+same time as the TVC firefighter.
+19
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+the TVC firefighter told investigators that he heard several references to runway 10 on the
+radio but that such references could refer to anywhere along the length of the runway;
+he did not know where the accident was until he heard a radio transmission indicating
+“we’re on the numbers of 10.”
+According to the TVC assistant airport manager, this communication difficulty
+likely occurred because the ARFF truck radio was set to automatically scan several
+frequencies, including city, airport, fire department, and police frequencies, and an off-
+airport multiple fire alarm occurred about the time of the accident. The assistant airport
+manager stated that the scan feature on the ARFF truck has been disabled since the
+accident so that the radio remains on the TVC fire frequency unless manually switched.
+TVC also revised its airport emergency plan, adding a requirement for verification of
+communication between ARFF and TVC operations personnel when an emergency occurs
+while the TVC ATCT is closed.
+In accordance with current FAA guidance (contained in AC 150/5200-10B), the
+TVC ARFF vehicle was equipped with a forward-looking infrared (FLIR) device that was
+designed to help drivers steer the vehicle at night and in fog and to detect warm objects
+under those conditions. The ARFF firefighter stated that he used the FLIR during the
+accident response but reported that it did not help him locate the airplane because of the
+heavy snowfall and because there was no fire (heat source) to detect.
+1.15.2 Airplane Egress
+Postaccident interviews with the flight crew indicated that the pilots promptly
+evaluated the condition of the airplane; the captain examined the cabin and checked
+for passenger/flight attendant injuries while the first officer inspected the outside of
+the airplane. Upon examination, the pilots determined that the fuselage was intact and
+that there were no injuries. The first officer reported that he did not smell any leaking
+fuel.36 The captain told investigators that because the airplane seemed secure with no
+apparent risk of fire and because of the severe winter weather conditions (including
+heavy blowing snow) outside the airplane, he decided to follow Pinnacle’s “expeditious
+deplaning” procedures37 for deplaning. He kept the passengers on board the airplane
+until the emergency responders arrived. After the first emergency responders arrived at
+the airplane, they coordinated with the pilots and assisted with the subsequent deplaning
+and passenger transportation to the airport terminal.
+All airplane occupants exited through the left front cabin door and stairs. The
+captain and first officer stood at the bottom of the airstairs to oversee and assist with
+the egress, while the flight attendant assisted in the cabin. Postaccident interviews with
+36 A small fuel leak from the bottom of the right wing was later detected and successfully stopped by
+emergency personnel.
+37 Pinnacle’s guidance concerning expeditious deplaning states, in part, “Some emergencies or abnormal
+situations may arise that are not… ‘life-or-death’ in nature….In these situations, an ‘expeditious deplaning’ is
+conducted. Passengers and crew would exit the aircraft in an orderly manner through the normal cabin exit.”
+See section 1.17.3 for more information about these procedures.
+20
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+the flight and cabin crewmembers and emergency response personnel indicated that the
+passengers deplaned in an orderly manner and were shuttled to the airport terminal in
+police cars and ambulances.
+1.16 Tests and Research
+1.16.1 Airplane Simulation and Study of Airplane Performance
+During the Accident Sequence
+The Safety Board reviewed available FDR, CVR, air route surveillance radar, and
+meteorological data to study the airplane’s performance during the approach to landing
+and landing roll. The airplane’s touchdown point and location of critical FDR events
+during the landing roll were determined, and an engineering simulation was conducted
+to estimate the airplane’s braking ability (braking coefficient).38 The performance study
+showed that the accident airplane’s braking ability was more than four times worse than
+that of a normal dry runway.
+The Safety Board’s study showed that, after a stabilized approach to runway 28,
+the airplane crossed the runway threshold at an airspeed of about 148 knots. The airplane
+subsequently touched down at an airspeed of 123 knots about 2,400 feet from the runway’s
+approach threshold. The calculated winds at touchdown were between 7 and 8 knots from
+030º to 035º, resulting in a calculated tailwind component of 3 knots. FDR data showed that,
+immediately after mainwheel touchdown, the spoilers deployed, and then—at nosewheel
+touchdown—the brake pressure was applied followed by thrust reverser deployment.
+As stated previously, the thrust reversers were deployed and stowed twice during
+the landing roll. The initial deployment occurred just after touchdown; after the reversers
+deployed, the engine fan speed increased from idle speed to about 45 percent. As the
+airplane decelerated through about 90 knots (with about 2,100 feet of landing distance
+remaining), the pilots stowed the thrust reversers and the engine fan speed reduced to
+idle. About 6 seconds after the pilots first stowed the thrust reversers, and as the airplane
+was decelerating with about 1,100 feet of landing distance remaining, the thrust reversers
+were again deployed. The engine fan speed rapidly increased to about 80 percent before
+the pilots stowed the reversers again. The airplane ran off the end of the runway, with
+thrust reversers stowed, at a ground speed of about 47 knots and reached the end of the
+200-foot-long runway 28 overrun pavement at a ground speed of about 45 knots.
+The FDR data showed that after the initial thrust reverser deployment, the airplane
+heading changed, moving about 3° airplane nose right, relative to the runway heading. A
+left rudder deflection was then recorded, and the airplane heading realigned with the
+38 Airplane braking coefficient is defined as the ratio of the retarding force due to braking relative to
+the normal force (that is, weight minus lift) acting on the airplane. The estimated airplane braking coefficient
+incorporates the effects of the runway surface, runway contaminants, and the condition of the airplane’s
+braking system (such as antiskid system efficiency, tire pressure, and brake wear).
+21
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+runway heading. The airplane heading changed again after the second thrust reverser
+deployment, moving about 7° airplane nose right, relative to the runway heading. The
+FDR recorded another left rudder deflection, and the airplane heading moved back nose
+left. As the airplane continued to decelerate and its heading moved farther nose left, the
+FDR recorded a maximum right rudder input and subsequent deflection. However, the
+airplane heading continued to move nose left, reaching about 25° nose left of the runway
+heading as it reached the end of the runway. (After it ran off the runway, the airplane
+reached a maximum deviation from the runway heading of about 55° nose left.)
+In a December 11, 2007, memorandum to the Safety Board, Bombardier, the
+airplane manufacturer, stated that its review of the accident FDR data was consistent with
+the Safety Board’s. Bombardier’s memorandum also stated that the data showed that,
+after the thrust reversers were deployed the second time and engine fan speed increased
+to about 80 percent, “the aircraft began to turn…(to the left)…the pilot reversed the rudder
+(to the right) as the…aircraft nose left yaw increased, full right rudder eventually being
+applied, but the aircraft continued to yaw left.” According to Bombardier, “[t]his aircraft
+response would be typical of a loss of directional stability and rudder effectiveness due to
+reverser deployment [on a contaminated/slippery runway] at low airspeed in a crosswind
+from the right.”
+The Bombardier memorandum further stated the following:
+…techniques used by the pilot during the landing are broadly consistent
+with the advice…for landing on possibly contaminated runways;
+specifically, the pilot did restrict the use of the thrust reversers at higher
+speeds to prioritize maintaining directional control…and maintained the
+use of the thrust reversers on the second deployment below the normal
+stow speed of 60 knots as advised for an emergency…The [behavior] of the
+aircraft in these circumstances was consistent with…expectation.
+Bombardier’s memorandum concluded, in part, the following:
+…above 60 knots…the aircraft can generally be controlled with aerodynamic
+controls [vertical fin and rudder] alone. Below 60 knots the rudder alone is
+generally insufficient for directional control and some differential braking
+is normally required for steering. The current aircraft limitations and
+advice to flight crews are based upon these characteristics, and when these
+are followed no handling difficulties are expected.
+According to the Safety Board’s airplane performance study, an airplane similarly
+configured and landing with conditions, touchdown point, and deceleration efforts
+similar to those of the accident flight would have required an additional 1,146 feet of
+unobstructed runway to stop.
+Pinnacle’s CRJ company flight manual (CFM) contained contaminated landing
+runway length charts that are based on Bombardier-provided landing data for four types/
+levels of runway contaminants: compacted snow, loose snow, standing water/slush, and
+22
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+ice. For these charts, the landing distance was considered the distance from crossing the
+runway threshold at 50 feet agl to the point at which the airplane comes to a full stop
+under the given conditions. These conditions included the airplane’s weight and speed
+and wind conditions and assumed that both thrust reversers are operating normally.
+The Pinnacle CRJ CFM stated that the landing distance charts were based on a standard
+touchdown point within the first 1,500 feet of the runway and incorporated the 15-percent
+safety margin recommended in Safety Alert For Operators (SAFO) 06012, “Landing
+Performance Assessments at the Time of Arrival (Turbojets)” (issued August 31, 2006).
+Based on the contaminated landing runway length charts in Pinnacle’s CRJ CFM,
+the Safety Board calculated the distances required for the accident airplane to come to
+a complete stop with an added 15-percent safety margin and runway contamination
+conditions of compacted snow, loose snow, standing water/slush, or ice. (Pinnacle
+Operations Specification [OpSpec] C382 requires pilots to perform a landing distance
+assessment incorporating a 15-percent safety margin when landing on a contaminated
+runway. These issues are further discussed in section 1.17.1.) Table 2 shows the calculated
+stopping margins for a Vref of 140 knots plus an 8-knot speed additive,39 a 3-knot tailwind,
+and a 15-percent safety margin, for the following runway surface contaminants: compacted
+snow, loose snow, standing water/slush, and ice.
+Table 2. Calculated stopping margins for a V of 140 knots plus an 8-knot speed additive, a
+ref
+3-knot tailwind, and an 15 percent safety margin, for the following runway surface contaminants:
+compacted snow, loose snow, standing water/slush, and ice.
+Stopping margin relative to the runway end, with
+Type of Contaminant
+added 15-percent safety margin
+Compacted snow 257 feet
+Loose snow -851 feet
+Standing water/slush -966 feet
+Ice -3,003 feet
+Note: negative numbers = distance beyond the end of the runway.
+The airplane performance study calculations indicated that the accident flight
+would have had a positive stopping margin with the added 15-percent safety margin for
+only the compacted snow conditions.
+1.16.2 Airplane Simulations for Various V Speed Additives and
+ref
+Thrust Reverser Landing Scenarios
+The Safety Board conducted additional simulations to calculate hypothetical
+landing distances for alternative landing scenarios involving various Vref speed additives
+39 The contaminated runway length charts for various runway contaminants (that is, slush, compacted
+snow, etc.) allow pilots to add a landing distance penalty to increase the landing runway length required for
+each knot over the V speed. Each chart’s speed additive is unique. For the accident flight, the chart V was
+ref ref
+142 knots (with up to 5 knots added for gusty winds), and the airplane’s actual speed was 148 knots.
+23
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+and thrust reverser usage.40 All test cases assumed that directional control was maintained
+throughout the landing roll and assumed the accident runway conditions.41
+The simulations showed that if the pilots landed using normal flight operations
+manual (FOM) procedures at the accident touchdown point and using deceleration
+devices as recorded by the accident FDR, the airplane would run off the departure end of
+the runway for all tested landing speeds. The simulations also showed that, if the airplane
+touched down within the 1,500-foot, company-designated standard touchdown zone, it
+would likely have not stopped before the end of the runway for the accident conditions.
+Likewise, the simulations showed that, if the pilots had applied and maintained full
+thrust reverser (at least 80 percent engine fan speed) deployment from touchdown until
+the airplane came to a stop (a practice permitted by Pinnacle in an emergency situation),
+and maintained directional control, the airplane would likely have stopped before the end
+of the runway for all tested landing speeds.
+1.16.3 Use of Braking Systems During Landing Roll
+The Safety Board examined FDR data from the accident landing and the previous
+landing (at MSP) to determine whether the accident pilots applied adequate brake pedal
+forces to obtain optimal braking pressures from the airplane’s braking/antiskid systems.
+The data showed that the pilots applied similar brake pedal forces during both landings.
+However, the resultant brake pressures were higher on the previous landing, which was
+made on an uncontaminated runway, than on the accident landing. Further, when the
+first officer applied additional force to the brake pedals late in the accident landing roll,
+the brake pressures did not increase. As previously discussed, the brake/antiskid system
+is designed such that the system modulates pressure to the wheel brakes in response to
+adverse runway conditions to ensure maximum braking effectiveness.
+1.17 Organizational and Management Information
+Pinnacle Airlines, Inc., is based in Memphis, Tennessee. The airline was established
+in 1985 as Express Airlines I. Between 1985 and 2000, Express Airlines I operated turboprop
+airplanes only. In 2001, Express Airlines I began integrating CRJ turbojet airplanes into
+its fleet and, in 2002, changed its name to Pinnacle Airlines. By 2003, Pinnacle had phased
+out turboprop airplanes from its operations and operated CRJ turbojet airplanes only.
+At the time of the accident, Pinnacle, operating as Northwest Airlink,42 flew more than
+700 flights daily to more than 100 cities in the United States and Canada; the company
+operated a fleet of 139 CRJs and employed more than 3,700 personnel.
+40 For specific information regarding these scenarios, see “Addendum 1 to Aircraft Performance Study”
+in the docket for this accident.
+41 Examination of the airplane’s FDR data and the accident runway conditions indicated that directional
+control was not assured during the accident landing.
+42 At the time of the accident, Pinnacle had an agreement with NWA to operate 123 CRJs as a Northwest
+Airlink carrier. Pinnacle was also gearing up for an agreement with Delta Airlines (announced April 30, 2007)
+to operate 16 CRJs as a Delta Connection carrier.
+24
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+1.17.1 Pinnacle Airlines’ Landing Distance Assessment Guidance
+(Operations Specification C382)
+On August 31, 2006, the FAA issued SAFO 06012, which urged operators of
+turbojet airplanes to develop procedures for flight crews to assess landing distances
+based on the actual conditions at the time of arrival, and to add a safety margin of at
+least 15 percent to that distance. The nonmandatory SAFO was issued as a result of an
+urgent recommendation issued by the Safety Board in January 2006,43 and was intended
+to ensure adequate safety margins for landings on contaminated runways while the FAA
+pursued formal rulemaking addressing these areas. (These issues are further discussed in
+section 1.18.2.)
+In December 2006, Pinnacle incorporated procedures consistent with the FAA’s
+SAFO guidance on contaminated runway calculations into its OpSpec C382.44 The
+procedures outlined in OpSpec C382 stated that Pinnacle pilots were to “assess the
+landing performance at time of arrival” accounting for, among other things, the “most
+adverse expected conditions” for the landing runway. OpSpec C382 specified that this
+landing distance assessment must be accomplished “…as close as practicable to the
+time of arrival consistent with the ability to obtain the most current meteorological and
+runway conditions considering pilot workload and traffic surveillance, but no later than
+the commencement of the approach procedure or visual approach pattern” and that all
+arrival landing distances will be increased by at least an additional 15 percent for all
+runway conditions.
+SAFO 06012, Section 3g also provides the following guidance for training flight
+crews on landing distance assessment procedures, stating that all flight crewmembers
+should be made aware of the procedures:
+…in a manner consistent with the operator’s methods for conveying
+similar knowledge to flight operations personnel. It may be conducted
+via operations/training bulletins or extended learning systems…all flight
+crewmembers should have hands on training and validate proficiency in
+these procedures during their next flight training event.
+According to Pinnacle’s CRJ program manager, in conjunction with the
+incorporation of OpSpec C382, the company provided its CRJ pilots with landing distance
+calculation charts in revisions to the CRJ CFM and guidance regarding the use of those
+43 SAFO 06012 was issued in response to Safety Recommendation A-06-16, which was issued as a
+result of the Safety Board’s investigation of the December 2005 accident involving Southwest Airlines flight
+1248, a 737 that ran off the end of a snow-contaminated runway. For additional information, see National
+Transportation Safety Board, Runway Overrun and Collision, Southwest Airlines Flight 1248, Boeing 737-7H4,
+N471WN, Chicago, Illinois, December 8, 2005, Aircraft Accident Report NTSB/AAR-07/06 (Washington, DC:
+NTSB, 2007).
+44 Pinnacle’s OpSpec C382 is attached in appendix C to this report.
+25
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+charts. In response to postaccident questions from the Safety Board, the CRJ program
+manager stated the following, in part:
+Pinnacle Airlines crews perform a runway assessment prior to every
+landing. Runway landing numbers for the conditions expected are always
+requested before initiating an approach. Crews are taught to use the SAFO
+charts provided as a tool in [their] decision process whenever there is a
+contaminant on a runway. The presence of a MU value reinforces the fact
+that there is some [contaminant] on a runway. The MU value given will give
+a crew additional information on which to base [a] landing decision. I have
+recently been made aware of a belief among some pilots/dispatchers that
+40+ MU equates to a clean runway. This is not taught….pilots are taught to
+evaluate all available information and use the charts accordingly.
+…Pilots must always apply their experience and judgment to their
+surroundings. The type of contaminant and any braking action reports will
+play into the pilot-in-command’s decision.
+Although Pinnacle had incorporated an arrival landing distance assessment
+requirement consistent with SAFO 06012 into its procedures about 4 months before the
+accident, the accident pilots did not perform an arrival landing distance assessment before
+the accident landing. The captain told investigators that he reviewed Pinnacle’s landing
+distance assessment procedures with the first officer during an earlier leg of the trip
+sequence but did not perform landing distance calculations before the approach to TVC.
+During postaccident interviews, the captain told investigators that he obtained
+landing data from the company but did not refer to the landing distance charts to do a
+landing distance calculation.45 He stated that he believed the runway conditions were okay
+based on the contamination depth, and he indicated that because he had been based at
+MSP for 3 1/2 years, he had landed on snowy runways many times. The captain estimated
+that, based on a planned touchdown zone of 1,000 to 1,500 feet down the runway and
+an expected 2,500-to-3,000-foot stopping distance on the runway, the airplane could be
+stopped using about 3,500 to 4,500 feet of the available 6,501-foot-long runway. The first
+officer stated that he thought that pilots were required to (and should) check landing
+distances with a contaminated runway. He said that he believed 4,000 feet was the required
+landing distance, but he stated that they did not check the landing distance charts before
+the approach to TVC.
+45 The captain told investigators that Pinnacle’s policies called for both ACARS transmission of landing
+data based on expected field conditions and pilot performance of manual chart calculations “when you receive
+a contaminated report.” He stated that during the flight between DSM and MSP on the day of the accident he
+showed the first officer how to use the contaminated landing and takeoff charts. However, he indicated that
+they did not perform pertinent landing distance calculations because “all legs [that day] had very light snow
+and all braking action reports made that day, including TVC, were 40 MU or better.”
+26
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+1.17.2 Pinnacle Airlines Guidance for Landing and Thrust Reverser
+Usage
+According to Pinnacle’s CRJ CFM, chapter 10, “Maneuvers and Profiles,” the
+CRJ should be configured with 45° of flaps and landing gear extended as the airplane
+approaches the runway. The airplane should cross the runway’s approach threshold at
+50 feet agl at the appropriate V for its weight (based on charts) and touchdownwithin
+ref
+1,000 to 1,500 feet of that threshold. Chapter 8 of Pinnacle’s FOM, “Flight Operations,”
+further states, “Normally, all landings touch down within the first 1,500 feet of available
+runway…[i]f a touchdown cannot be made within the Runway Touchdown Zone” (first
+3,000 feet or first third of available runway, whichever is less) a go-around is normally
+executed.” In the event of gusty winds, company guidance allowed pilots to add up to
+5 knots of additional airspeed to the V speed. Chapter 10 of the CFM further states:
+ref
+At touchdown, the ground spoilers should deploy automatically…The
+nose wheel is gently lowered onto the runway and thrust reversers are
+deployed. Wheel braking is to be smoothly applied by steadily increasing
+pedal pressure, adjusting for runway conditions and length available.
+Note: Do not wait for thrust reverser deployment before braking.
+Reverse thrust reduces the airplane stopping distance more efficiently than
+using brakes alone and is most effective at high speeds.
+Raise the thrust levers to the interlock/deploy position…after reverser
+interlocks release…the reverse levers can be raised as required.
+At 80 knots, start reducing reverse thrust. Idle reverse power is established
+by 60 knots.
+Note: During landing, application of maximum reverse thrust is not
+permitted…below 60 knots indicated airspeed (KIAS). Below 60 KIAS,
+reverse thrust must be reduced to idle (not above 30 [percent] N ). If reverse
+1
+thrust above idle reverse is used at speeds less than 60 KIAS, foreign object
+damage to the engines may occur.
+Pinnacle’s CRJ CFM, chapter 7, “Adverse Weather,” states that thrust reversers
+are most effective at high speed; however, when landing in a crosswind, directional
+control may be degraded when using full thrust reversers especially on a contaminated
+runway. (Bombardier, the CRJ manufacturer, also cautions about thrust reverser use on
+contaminated runways and/or in crosswind conditions.46) Pinnacle’s guidance also states
+that skidding and hydroplaning should be anticipated and pilots should be prepared to
+“reduce reverse thrust to idle reverse and, if necessary…to idle forward thrust” to recover
+46 Similar thrust reverser information was included in McDonnell Douglas DC-9/MD-82 manuals, as
+discussed in the Safety Board’s report on the June 1999 accident at Little Rock, Arkansas. For additional
+information, see National Transportation Safety Board, Runway Overrun During Landing, American Airlines
+Flight 1420, McDonnell Douglas MD-82, N215AA, Little Rock, Arkansas, June 1, 1999, Aircraft Accident
+Report NTSB/AAR-01/02 (Washington, DC: NTSB, 2001).
+27
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+from a skid. Pinnacle’s CRJ CFM further states that maximum reverse thrust may be used
+to a complete stop in an emergency situation.
+According to Pinnacle’s CRJ CFM, chapter 3, “Limitations,” the maximum depth
+of contaminant for landing on a runway with wet snow covering an appreciable part of
+the runway surface is 1 1/2 inches. Also, Pinnacle’s CRJ CFM states that the maximum
+tailwind component approved for landing is 10 knots and the maximum allowable
+crosswind component for landings on a contaminated runway is 15 knots.
+Pinnacle’s guidance further states that pilots should request a current runway or
+braking action report any time the weather conditions might be conducive to deteriorated
+braking performance/runway surface conditions, allowing at least 15 minutes for airport/
+ground officials to gather and report the requested information. Further, according to
+Pinnacle’s guidance, whenever braking action is reported as nil by a 14 CFR Part 121 air
+carrier, airport operations vehicle, or company vehicle, all operations should be suspended
+on that surface (unless a greater emergency exists).47
+1.17.3 Pinnacle Airlines Expeditious Deplaning Guidance
+Pinnacle’s FOM and flight attendant manuals contain guidance regarding a
+procedural alternative to emergency evacuation known as “expeditious deplaning.” This
+guidance states the following:
+Some emergencies or abnormal situations may arise that are not time-critical,
+“life-or-death” in nature….In these situations, an “expeditious deplaning”
+is conducted. Passengers and crew would exit the aircraft in an orderly
+manner through the normal cabin exit. In this case, the pilot-in-command
+would do the normal shutdown checklist. An emergency evacuation
+checklist would not be accomplished since you are not “evacuating.” After
+deplaning, gather the passengers together at a common location away from
+the aircraft.
+In considering if an expeditious deplaning is warranted, the crews evaluate
+all aspects including weather, outside temperature, location on the airfield,
+etc. Remember, removing the passengers from the aircraft may impose
+greater hazards on them than allowing them to remain on board.
+1.17.4 Recent Pinnacle Airlines Safety-Related Actions
+In 2004, Pinnacle Airlines experienced a fatal accident for which the Safety Board
+determined that the probable cause included “the pilots’ unprofessional behavior,
+47 This guidance was consistent with information contained in SAFO 06012. For example, one SAFO
+note stated, “[c]onditions specified as ‘nil’ braking action are not considered safe, therefore operations under
+conditions specified as such should not be conducted. Do not attempt to operate on surfaces reported or
+expected to have nil braking action.” Also, one table in the SAFO indicates that “landing is prohibited” when
+nil braking action is evident.
+28
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+deviation from standard operating procedures, and poor airmanship, which resulted in
+an in-flight emergency from which they were unable to recover, in part because of the
+pilots’ inadequate training.”48 In partial response to that accident (and consistent with
+Safety Board recommendations), Pinnacle subsequently instituted an aviation safety
+action program (ASAP) and flight operational quality assurance (FOQA) program to
+monitor and address in-flight safety issues. According to the company vice president of
+safety, Pinnacle Airlines was one of only two regional carriers in the United States to have
+implemented both ASAP and FOQA programs at the time of the TVC accident.
+Pinnacle Airlines had also hired a new senior management team in the 2 years
+before this accident that had instituted programs to increase safety and improve pilot
+morale. The company safety department, whose director reported directly to the company
+chief executive officer, had recently instituted FOQA, ASAP, internal evaluation programs,
+and risk management processes. The FAA principal operations inspector (POI) assigned
+to Pinnacle indicated that relations between the company and the FAA were positive and
+had improved dramatically with the hiring of the new management team.
+1.17.4.1 Postaccident Procedural/Operational Changes
+As a result of the TVC accident, Pinnacle revised its operational procedures,
+guidance, and training for pilots and dispatchers as follows:
+• Amended the landing technique outlined in the CFM to specify that pilots
+should fly the approach from a point at least 3 miles out to the runway threshold
+at V . Pinnacle’s FOM requires all airplanes to be fully configured for landing,
+ref
+at the proper speed, and on the required flight track for landing by 1,000 feet
+agl.
+• Retained existing FOM guidance reflecting Pinnacle’s standard touchdown
+zone (within the first 1,000 to 1,500 feet of the runway) and added FOM
+guidance indicating that if a touchdown cannot be made within the first 1,000
+to 1,500 feet of the runway, pilots should go-around.
+• Increased pilot training regarding landing distance assessments, use of
+performance charts incorporating an extra 15-percent safety margin, and most
+effective use of brakes and thrust reversers for stopping the CRJ.
+• Established a policy limiting check airmen performing OE training to 14-hour
+duty days.
+• Developed new winter airport operations procedures to mitigate the risks
+involved in landing at airports that were identified by the company as having
+more potential hazards during winter operations (based on runway length,
+climate, snowfall amount, airport elevation, and accident/incident history).
+48 For more information, see National Transportation Safety Board, Aviation Accident Report, Crash of
+Pinnacle Airlines Flight 3701, Bombardier CL-600-2B19, N8396A, Jefferson City, Missouri, October 14, 2004,
+Aircraft Accident Report NTSB/AAR-07/01 (Washington, DC: NTSB, 2007).
+29
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+The new procedures established the following constraints for landings on
+contaminated runways:
+No tailwind landings allowed;
+Vertical guidance required for the approach;
+Thrust reversers and other ground lift dumping devices must be
+operational;
+Captains perform all landings;
+Crew must have runway friction or braking action reports that reflect
+existing conditions; and
+Reports must reflect at least fair braking action.
+1.17.4.2 Postaccident Staffing/Scheduling/Training Changes
+Pinnacle representatives indicated that, at the time of the TVC accident, the
+company was experiencing difficulties related to pilot turnover and staffing issues. They
+reported that the company was losing about one pilot per day and was hiring younger
+pilots with less experience than in the past. Pinnacle was addressing these difficulties by:
+1) developing cooperative programs with pilot training centers; 2) adapting the company’s
+training procedures to less experienced pilots; and 3) initiating procedures to help address
+scheduling pressure.
+Additionally, Pinnacle representatives told investigators that the company was
+evaluating methods of reducing the potential for pilot fatigue49 and for providing food
+to pilots who miss regular meals because of operational issues. In addition, Pinnacle’s
+subsequent submission on this accident stated, “Pinnacle continues to look for ways to help
+reduce the possibility of fatigue” and reemphasized that check airmen performing OE are
+limited to 14-hour duty days. Subsequent correspondence from Pinnacle representatives
+indicates that check airmen performing OE are now also limited to 8 hours of “actual,” not
+“scheduled,” flight time per day.
+1.18 Additional Information
+1.18.1 Fatigue-Related Information50
+Research has shown that long duty days can be associated with pilot fatigue and
+degraded performance. Aviation accident data show that human-performance-related
+49 When asked whether pilot fatigue was a problem at Pinnacle, the FAA POI estimated that 60 to
+70 percent of Pinnacle pilots who voluntarily submitted event reports through the company’s ASAP cited
+fatigue as a factor in the events. In addition, several of the company pilots interviewed during this investigation
+indicated that company schedules could be exhausting.
+50 The Safety Board has long been concerned about operator fatigue in transportation and has issued
+115 human fatigue-related safety recommendations for all modes of transportation since 1972. Additionally,
+the Board has included human fatigue in transport operations on its annual Most Wanted List of Transportation
+Safety Improvements since the list’s inception in 1990.
+30
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+airline accidents are more likely to happen when pilots work long days. The Board’s
+1994 study of flight-crew-related major aviation accidents51 found that captains who had
+been awake for more than about 12 hours made significantly more errors than those who
+had been awake for fewer than 12 hours. Such errors included failing to recognize and
+discontinue a flawed approach; pilots often exhibited a tendency to continue the approach
+despite increasing evidence that it should be discontinued. Additionally, accident
+data showed that pilots flying schedules that involved 13 or more hours of duty time
+had accident rates several times higher than pilots flying schedules with shorter duty
+days.52 Research and accident history also show that fatigue can cause pilots to make
+risky, impulsive decisions; become fixated on one aspect of a situation; and react slowly
+to warnings or signs—any of which can result in an approach being continued despite
+evidence that it should be discontinued.53 Additionally, research shows that people who
+are fatigued become less able to consider options and are more likely to become fixated on
+a course of action or a desired outcome.54
+According to current FAA regulations, a two-person flight crew engaged in
+scheduled, domestic operations (such as the accident flight crew) would be limited to
+8 scheduled flight hours between required rest periods. (At the time of the accident, the
+pilots had flown 8.35 hours; however, Federal regulations permit, within limits, flight
+times that exceed the flight hour cap because of “circumstances beyond the [operator’s]
+control…such as adverse weather conditions.”) However, these regulations do not take
+into consideration the starting time of day, the length of the duty day, the number of flight
+segments, weather conditions, or other factors that might affect a pilot’s workload or the
+pilot’s fatigue.
+The Safety Board has previously noted that the aviation regulatory authorities of
+Great Britain have adopted flight and duty time regulations that take into consideration a
+pilot’s starting time and number of flight legs, as well as the total duty time.55 Despite the
+51 For additional information, see National Transportation Safety Board, A Review of Flightcrew-Involved
+Major Accidents of U.S. Carriers, 1978 through 1990. Safety Study NTSB/SS-94/01 (Washington, DC: NTSB,
+1994).
+52 See J.H. Goode, 2003, “Are Pilots at Risk of Accidents Due to Fatigue?” Journal of Safety Research,
+34, pp. 309-313.
+53 See M. R. Rosekind, K. B. Gregory, D. L. Miller, E. L. Co, J. V. Lebacqz, M. Brenner paper. 2005.
+Evaluating Fatigue Factors in Accident Investigations: Description and Application of a Structured Approach.
+Special Supplement of Aviation, Space Environmental Medicine, in preparation. For additional fatigue-related
+information, see a) National Transportation Safety Board, Evaluation of U.S. Department of Transportation
+Efforts in the 1990s to Address Operator Fatigue, Safety Report NTSB/SR-99/01 (Washington, DC: NTSB,
+1999); b) National Transportation Safety Board, Uncontrolled Collision With Terrain, American International
+Airways Flight 808, Douglas DC-8-61, N814CK, U.S. Naval Air Station, Guantanamo Bay, Cuba, August 18,
+1993, Aircraft Accident Report NTSB/AAR-94/04 (Washington, DC: NTSB, 1994); c) National Transportation
+Safety Board, Controlled Flight into Terrain, Korean Air Flight 801, Boeing 747-300, HL7468, Nimitz Hill, Guam,
+August 6, 1997, Aircraft Accident Report NTSB/AAR-00/01 (Washington, DC: NTSB, 2000); and d) National
+Transportation Safety Board, Runway Overrun During Landing, American Airlines Flight 1420, McDonnell
+Douglas MD-82, N215AA, Little Rock, Arkansas, June 1, 1999, Aircraft Accident Report NTSB/AAR-01/02
+(Washington, DC: NTSB, 2001).
+54 J.A. Caldwell, 1997. “Fatigue in the aviation environment: an overview of the causes and effect as well
+as recommended countermeasures.” Aviation, Space, and Environmental Medicine, 68, pp. 932-938.
+55 See Civil Aviation Authority of Great Britain (2004), The Avoidance of Fatigue in Aircrews: Guide to
+Requirements. Gatwick, England, CAP 371 (Section B, page 9).
+31
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+Board’s repeated efforts urging the FAA to revise and update the established Federal pilot
+flight and duty time regulations to reflect more recent research findings in fatigue and
+sleep issues, there have been no significant changes to those regulations since the Federal
+Aviation Regulations were recodified in 1964.
+The FAA has participated with other transportation modal administrations in a
+Department of Transportation (DOT) Human Factors Coordinating Committee, which was
+established in 1991, which led the DOT’s Operator Fatigue Management Program effort to
+develop practical tools for use by individuals and industries to better maintain vigilance
+and alertness on the job. This effort has resulted in several products that could potentially
+help companies and individuals to reduce fatigue-related problems in transportation,
+including: 1) a practical guide addressing fatigue management and countermeasure usage;
+2) fatigue modeling software tailored for transportation applications; and 3) work schedule
+representation and analysis software to aid managers and schedulers in evaluating and
+designing work schedules. According to DOT and industry personnel, although the
+Federal Railroad Administration has tested and incorporated some of these tools in the
+railroad industry,56 the FAA has not yet applied them in the aviation industry.
+In its 2008 annual report to Congress regarding the Safety Board’s Most Wanted
+List of Transportation Safety Improvements, the DOT indicated that the FAA is currently
+considering amendments to existing 14 CFR Part 135 pilot flight and duty time regulations.
+Additionally, the FAA is working with the International Civil Aviation Organization to
+develop a fatigue risk management system to regulate flight and duty time management
+to improve flight crew alertness.
+Because the FAA had not taken acceptable action regarding this issue, the Safety
+Board issued Safety Recommendation A-06-10 in February 2006 in connection with its
+investigation of the October 19, 2004, accident involving Corporate Airlines flight 5966.57
+Safety Recommendation A-06-10 superseded Safety Recommendation A-99-4558 (then
+classified, “Open—Unacceptable Response”) and asked the FAA to do the following:
+Modify and simplify the flight crew hours-of-service regulations to take into
+consideration factors such as length of duty day, starting time, workload,
+and other factors shown by recent research, scientific evidence, and current
+industry experience to affect crew alertness.
+56 For additional information, see Federal Railroad Administration, Validation and Calibration of a Fatigue
+Assessment Tool for Railroad Work Schedules, Summary Report DOT/FRA/ORD-06/21 (Washington, DC:
+DOT, 2006).
+57 The Board also issued Safety Recommendation A-06-11 as a result of this accident. Safety
+Recommendation A-06-11 asked the FAA to require Part 121 and 135 operators to incorporate fatigue-related
+information similar to that being developed by the Department of Transportation Operator Fatigue Management
+Program into their initial and recurrent training programs; such training should address the detrimental effects
+of fatigue and include strategies for avoiding fatigue and countering its effects. For additional information, see
+National Transportation Safety Board, Collision with Trees and Crash Short of the Runway, Corporate Airlines
+Flight 5966, BAE Systems BAE-J3201, N875JX, Kirksville, Missouri, October 19, 2004, Aircraft Accident
+Report NTSB/AAR-06/01 (Washington, DC: NTSB, 2006).
+58 Safety Recommendation A-99-45 asked the FAA to “establish within 2 years scientifically based hours-
+of-service regulations that set limits on hours of service, provide predictable work and rest schedules, and
+consider circadian rhythms and human sleep and rest requirements.”
+32
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+The FAA’s May 31, 2006, response to this recommendation did not describe any
+plans for addressing flight hours-of-service and fatigue issues in Part 121 operations;
+therefore, in November 2006, the Safety Board classified Safety Recommendation A-06-10
+as “Open—Unacceptable Response.”
+Although the Safety Board considers hours-of-service regulations to be essential,
+the Board also recognizes that the development and implementation of fatigue risk
+management systems is useful in mitigating fatigue-related events. The Board issued two
+related safety recommendations on June 10, 2008. Safety Recommendations A-08-44 and
+-45 asked the FAA to do the following:
+Develop guidance, based on empirical and scientific evidence, for operators
+to establish fatigue management systems, including information about the
+content and implementation of these systems. (A-08-44)59
+Develop and use a methodology that will continually assess the effectiveness
+of fatigue management systems implemented by operators, including their
+ability to improve sleep and alertness, mitigate performance errors, and
+prevent incidents and accidents. (A-08-45)
+The FAA has scheduled a forum on the subject of fatigue for June 17 to 19, 2008.
+1.18.2 Previously Issued Safety Recommendations
+1.18.2.1 Landing Distance Assessment
+Among the recommendations issued as a result of the Safety Board’s investigation
+of the Southwest Airlines flight 1248 accident60 were Safety Recommendations A-07-57
+and -61. Safety Recommendation A-07-61 was issued on October 16, 2007, and asked the
+FAA to do the following:
+Require all 14 Code of Federal Regulations Part 121, 135, and 91 subpart K[61]
+operators to accomplish arrival landing distance assessments before
+every landing based on a standardized methodology involving approved
+performance data, actual arrival conditions, a means of correlating the
+airplane’s braking ability with runway surface conditions using the most
+conservative interpretation available, and including a minimum safety
+margin of 15 percent.
+59 Safety Recommendation A-08-44 superseded Safety Recommendation A-06-11, which was
+classified “Closed—Acceptable Action/Superseded.” For further information, see <http://www.ntsb.gov/
+Recs/letters/2008/A08_44_45.pdf> on the Safety Board’s website.
+60 For additional information, see National Transportation Safety Board, Runway Overrun and Collision,
+Southwest Airlines Flight 1248, Boeing 737-7H4, N471WN, Chicago, Illinois, December 8, 2005, Aircraft
+Accident Report NTSB/AAR-07/06 (Washington, DC: NTSB, 2007).
+61 Title 14 CFR Part 91 subpart K applies to fractional ownership operations.
+33
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+The Safety Board recognized that the standardized methodology recommended
+in Safety Recommendation A-07-61 would take time to develop and issued Safety
+Recommendation A-07-57 as an urgent action, asking the FAA to do the following until
+such a standardized methodology could be developed:
+Immediately require all 14 Code of Federal Regulations Part 121, 135, and 91
+subpart K operators to conduct arrival landing distance assessments before
+every landing based on existing performance data, actual conditions, and
+incorporating a minimum safety margin of 15 percent. (Urgent)
+Because the intent of this recommendation was to restore safety margins for landing
+on contaminated runways, similar to urgent Safety Recommendation A-06-16 (which was
+issued on January 27, 2006, and was classified “Open—Unacceptable Response” on May 8,
+2007),62 the Safety Board classified A-06-16 “Closed—Unacceptable Action/Superseded.”
+Safety Recommendation A-07-57 maintained the previous recommendation’s classification
+of “Open—Unacceptable Response” because the Safety Board believed that the FAA has
+had adequate time to require landing distance assessments and implement a landing
+distance safety margin but had not yet done so. In November 2007, the Safety Board
+added the need for landing distance assessments with an adequate safety margin for
+every landing to its Most Wanted List of Transportation Safety Improvements.
+The FAA responded to Safety Recommendation A-07-57 on December 17, 2007,
+and A-07-61 on January 8, 2008. For both recommendations, the FAA stated that a survey
+of Part 121 operators indicated that 92 percent of U.S. airline passengers are now being
+carried by air carriers in full or partial compliance with the practices recommended in
+SAFO 06012. The FAA also stated that its POIs would continue to encourage their assigned
+air carriers to incorporate the SAFO elements in their procedures but did not describe
+the actions that it would take to encourage those operators that have not complied with
+the SAFO (as was noted during the investigation of the February 2007 Shuttle America
+accident at Cleveland, Ohio63) to do so. Because all operators have not fully complied with
+SAFO 06012 and rulemaking that requires arrival landing distance assessments with a
+15-percent minimum safety margin has not been implemented, Safety Recommendation
+A-07-57 (Urgent) remains classified “Open—Unacceptable Response.”
+The FAA further indicated that, on December 6, 2007, it announced the formation
+of an aviation rulemaking committee (ARC) to review regulations affecting certification
+and operation of airplanes and airports for airplane takeoff and landing operations on
+contaminated runways. The ARC kickoff meetings occurred on March 27 to 28, 2008. ARC
+subgroups are to provide their recommendations to the FAA by March 1, 2009. Pending
+the prompt completion of the aviation rulemaking committee’s work and the FAA’s
+62 Urgent Safety Recommendation A-06-16 asked the FAA to “immediately prohibit all 14 Code of Federal
+Regulations Part 121 operators from using the reverse thrust credit in landing performance calculations.”
+63 For additional information, see National Transportation Safety Board, Runway Overrun During
+Landing, Shuttle America, Inc., doing business as Delta Connection Flight 6448, Embraer ERJ-170, N862RW,
+Cleveland, Ohio, February 18, 2007, Aircraft Accident Report NTSB/AAR-08/01 (Washington, DC: NTSB,
+2008).
+34
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+timely action in response to the committee’s recommendations, the Board classified Safety
+Recommendation A-07-61 “Open—Acceptable Response” in April 2008.
+1.18.2.2 Standardized Phraseology
+Also as a result of the Southwest Airlines flight 1248 accident, the Safety Board
+issued Safety Recommendation A-07-62, which asked the FAA to do the following:
+Develop and issue formal guidance regarding standards and guidelines for
+the development, delivery, and interpretation of runway surface condition
+reports.
+The FAA responded to Safety Recommendation A-07-62 on January 8, 2008, stating
+that the ARC (development of which was announced by the FAA on December 6, 2007)
+would also provide the FAA with advice and recommendations regarding “establishment
+of standards for runway surface condition reporting and minimum surface conditions
+for continued operations.” Pending the FAA taking the recommended actions, the Safety
+Board classified Safety Recommendation A-07-62 “Open—Acceptable Response” on
+June 12, 2008.
+1.18.2.3 Crash Detection and Location Technology
+As a result of the June 1, 1999, accident at Little Rock, Arkansas, the Safety Board
+issued Safety Recommendation A-01-66, which asked the FAA to do the following:
+Evaluate crash detection and location technologies, select the most
+promising candidate(s) for ensuring that emergency responders could
+expeditiously arrive at an accident scene, and implement a requirement to
+install and use the equipment.
+The FAA’s February 19, 2002, response letter to the Safety Board cited guidance
+contained in AC 150/5220-10B, “Guide Specification for Water/Foam Aircraft Rescue
+and Firefighting Vehicles,” which dictates that “all new vehicles carrying 1,000 gallons
+or more of water and purchased with Federal funds” be equipped with FLIR equipment
+to allow ARFF vehicle drivers to maneuver in reduced visibility and “to locate, within
+certain limits, a specific object like an aircraft.” The FAA Administrator further stated the
+following:
+…between the [FLIR] system capabilities and the emergency response
+coordination with tower controllers, emergency responders are able
+to respond quickly to virtually every recent on-airport accident or
+incident. I believe that the FAA has addressed the full intent of this safety
+recommendation, and I consider the FAA’s action to be complete.
+In its October 17, 2002, response, the Safety Board stated that the intent of
+its recommendation was broader than the FAA’s interpretation, indicating that the
+recommendation asks the FAA to evaluate technology that would aid ARFF personnel
+35
+National Transportation Safety Board
+
+A I R C R A F T
+Factual Information Accident Report
+in “detecting and locating a crashed airplane in situations regardless of the weather or
+visibility.” The Board acknowledged that installation of FLIR devices was a positive step;
+however, the Board cited several accidents in which it believed that “FLIR would have
+been of little value in speeding the emergency response.” The Board again asked the
+FAA to evaluate crash detection and location technology; pending such an evaluation
+and implementation of a requirement for such equipment, the Board classified Safety
+Recommendation A-01-66 “Open—Unacceptable Response.”
+36
+National Transportation Safety Board
+
+A I R C R A F T
+Accident Report
+2. A
+nAlysis
+2.1 General
+The pilots were properly certificated and qualified under Federal regulations and
+Pinnacle Airlines training requirements. No evidence indicated any medical conditions
+that might have adversely affected the pilots’ performance during the accident flight.
+The accident airplane was properly certificated and was equipped and maintained
+in accordance with industry practices and was within weight and center of gravity
+limits.
+The investigation revealed no evidence of any failure or anomaly of the airplane’s
+powerplants, structures, or systems (including the airplane’s deceleration devices, such
+as brakes, antiskid devices, and thrust reversers) that would have affected the airplane’s
+performance during the accident landing. Although the airplane performance study
+showed that the airplane’s braking during the accident landing was less effective than
+during previous landings, the investigation indicated that the reduced effectiveness was
+likely the result of the antiskid system’s normal modulation of the output brake force
+on the contaminated runway. Therefore, the Safety Board concludes that, based on the
+system designs and runway conditions, it is likely that the airplane’s braking and antiskid
+systems were performing to their maximum effectiveness.
+Although, at its original departure time, Pinnacle dispatchers could not dispatch
+the accident flight because of strong winds in the TVC forecast, an amended forecast
+issued by NWA’s meteorology department (and reflected in a subsequent NWS-issued
+forecast) predicted more favorable wind conditions (as well as higher ceilings and
+improved visibility in light snow) at TVC and thus met the required criteria for the flight’s
+dispatch.
+The services provided by MSP ARTCC were in accordance with all FAA directives.
+Separation, instrument approach vectoring and clearance, and additional services were
+all complete and correct. The flight arrived after the TVC ATCT had closed for the night;
+however, the pilots required no ATC traffic information or separation services because
+there was no other traffic in the area at the time of arrival (records indicate that the most
+recent traffic in the area was about 3 hours earlier). The Safety Board concludes that the
+services provided by the ATC system did not affect the outcome of the flight. Information
+commonly provided by ATC (for example, weather and runway surface condition reports)
+was available to the flight crew, and its availability was unaffected by the ATCT’s closure
+before the flight’s arrival at TVC.
+TVC airport operations personnel performed and completed snow removal and
+deicing operations based on the accident airplane’s revised estimated arrival time of 0037.
+Friction measurements completed on runway 28 after those operations (about 15 minutes
+37
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+before the airplane touched down, as prescribed in the airport snow removal plan) were
+better than .40 MU. However, moderate-to-heavy snow fell after the snow removal
+operations were completed, and the runway conditions deteriorated. Ground personnel
+estimated that the snow depth had increased to nearly 1/2 inch before the airplane landed.
+Based on the airport’s snow and ice control plan, this depth of accumulation nearly, but did
+not quite, reach the 1/2-inch level needed to trigger additional snow removal activities.
+Therefore, the Safety Board concludes that TVC’s snow removal operations and runway
+surface condition assessment activities were conducted in accordance with the airport’s
+FAA-approved snow and ice control plan.
+Postaccident interviews and documentation indicated that after the airplane
+came to a stop, the captain evaluated its condition and considered various methods of
+deplaning the passengers. The captain recognized that if he commanded an immediate
+emergency evacuation, the passengers would be safely away from the airplane; however,
+they would have been exposed to severe winter weather conditions at night. Because the
+pilots’ postaccident evaluation of the airplane (which included an external inspection)
+revealed no indication of fire risk, the captain elected to follow Pinnacle’s “expeditious
+deplaning” procedures. He kept the passengers on board the airplane until emergency
+response/transport personnel arrived at the airplane. Postaccident reports indicate that
+the resultant egress through the left front cabin door and stairs was orderly; there were no
+injuries reported. The Safety Board concludes that, considering the severe winter weather
+and the relatively intact condition of the airplane, the captain’s decision to deplane the
+passengers using Pinnacle’s “expeditious deplaning” procedures was appropriate.
+2.1.1 Aircraft Rescue and Firefighting Crash Detection
+The TVC ARFF responder reported that, although he heard that the accident
+site was somewhere along runway 10/28, he initially had difficulty determining the
+airplane’s location along the length of that runway, despite his use of FLIR equipment,
+in part because of snow-restricted visibilities. Additionally, the ARFF vehicle radio was
+set to scan emergency radio frequencies, and transmissions about a concurrent, unrelated
+off-airport fire resulted in congestion on those radio frequencies, making it difficult for
+the ARFF responder to obtain clarifying information. (The investigation revealed that
+TVC personnel promptly addressed this frequency congestion issue after the accident.)
+The ARFF responder was able to drive directly to the accident site after he heard a radio
+transmission stating, “we’re on the numbers of 10,” and arrived at the site about 7 minutes
+after he was alerted to the accident. The Safety Board concludes that, although there were
+no reported injuries resulting from this accident, had a postaccident fire occurred, the
+delay in ARFF response could have adversely affected the safety of passengers after the
+accident. The Safety Board further concludes that the FLIR equipment installed in the
+ARFF vehicle did not help the firefighter locate the accident airplane; however, improved
+crash detection and location equipment would likely have facilitated a more timely ARFF
+response. Therefore, the Safety Board reiterates Safety Recommendation A-01-66.
+38
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+2.1.2 Postaccident Alcohol Testing
+Title 14 CFR Part 121 Appendix J, Section B1 states that a decision to forgo
+the administration of a postaccident alcohol test “shall be based on the employer’s
+determination, using the best available information at the time of the determination, that
+the covered employee’s performance could not have contributed to the accident.” The
+Safety Board is not aware of any information at the time of the accident that would have
+precluded alcohol testing. Pinnacle did conduct drug tests for the pilots 3 hours after the
+accident and both pilots tested negative for illicit drugs, but the pilots were not tested
+for alcohol. Although there is no reason to believe their performance was affected by
+alcohol, the failure of the airline to perform required postaccident alcohol tests prevents a
+definitive statement on the issue. Even though there was some uncertainty as to whether
+the runway overrun was an accident or an incident, it would have been prudent for
+Pinnacle to comply with the drug and alcohol testing regulations as if the overrun were
+to be classified as an accident.
+After another recent accident,64 pilots tested negative for alcohol and drugs.
+However, the alcohol testing was delayed until about 3 hours after the accident and
+no records stating the reasons for the delay were prepared by the air carrier—Shuttle
+America—(as required by 14 CFR Part 121 Appendix J) nor were such records requested
+by an FAA representative.
+Timely testing for alcohol after an accident is necessary to evaluate any safety
+factors related to alcohol impairment or to eliminate them from further consideration.
+Although there was no evidence that alcohol was a factor in either recent accident, it
+cannot be conclusively ruled out; further, there is evidence that administration of required
+testing was not conducted or enforced strictly. Therefore, the Safety Board believes that
+the FAA should emphasize with POIs the importance of conducting timely postaccident
+drug and alcohol testing.
+The safety issues discussed in this analysis include the pilots’ actions and decision-
+making during the approach, landing, and landing roll; pilot fatigue and line check airman
+duty time regulations; weather and field condition information and ground operations
+personnel communications; and criteria for runway closures in snow and ice conditions.
+2.2 Pilot Performance, Actions, and Decision-Making
+During the Flight
+During its investigation, the Safety Board evaluated the pilots’ actions and decisions
+during the flight, including their decision to land at TVC, their awareness of/attention
+to the weather conditions at TVC, and their actions during the landing roll. The Safety
+Board’s review of CVR evidence indicated that, consistent with the captain’s performing
+64 National Transportation Safety Board, Runway Overrun During Landing, Shuttle America, Inc., doing
+business as Delta Connection Flight 6448, Embraer ERJ-170, N862RW, Cleveland, Ohio, February 18, 2007,
+Aircraft Accident Report NTSB/AAR-08/01 (Washington, DC: NTSB, 2008).
+39
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+OE duties, the pilots’ conversation during the flight largely focused on operational and
+procedural issues, including the inclement weather (snow and strong winds). Postaccident
+interviews and CVR evidence showed that the pilots had been operating in inclement
+weather conditions with snow, wind, and turbulence all day and expected to encounter
+similar weather conditions at TVC. The pilots received updated weather information from
+the company via ACARS about 45 minutes before landing. This updated information
+indicated that the winds at TVC were still favorable for landing, and the captain advised
+the passengers that “it looks like we’re gonna have no problems gettin’ in [to TVC] this
+evening.”
+2.2.1 Pilot Actions and Decision-Making During the Approach
+2.2.1.1 Landing Distance Assessments
+CVR and postaccident interview evidence indicated that the pilots’ concerns
+during the flight appeared to be primarily related to the TVC wind conditions, perhaps
+because that was the critical factor in the airplane’s dispatch. Although the CVR recorded
+the captain mentioning the possibility of diverting to DTW late in the approach (about
+1 minute before touchdown), the pilots exhibited limited concern regarding the runway
+surface condition.
+About 37 minutes before they landed, the pilots listened to the TVC ASOS broadcast
+for updated weather information and runway surface condition information. This ASOS
+information indicated winds out of 040º at 7 knots and visibilities of 1 1/2 miles in light snow.
+This was the only TVC ASOS broadcast the pilots listened to before their arrival at TVC.
+However, TVC ground operations personnel provided the pilots with updated weather
+and runway surface condition information on several occasions as the airplane neared
+the airport. Evidence indicates that the runway surface conditions at TVC deteriorated
+further because of increasing snowfall during the last 15 minutes of the accident flight.
+The TVC airport operations supervisor provided runway surface condition information
+to the accident pilots both before (“forty plus MU”65 with “thin wet snow over patchy thin
+ice”) and during the vectoring stages of the approach (for example, “it’s comin’ down
+pretty good,” “this is fillin’ in pretty quick,” and “it’s fillin’ in real hard”). Consistent with
+this information, the CVR recorded the captain commenting that he expected to land on
+a contaminated runway. For example, the captain stated: “there’s snow removal on the
+field yet they’re showing forty or better sounds like a contaminated…runway to me”
+at 0029:10.5; “with contaminant, more than likely” at 0033:50.9; and “snowing hard” at
+0034:09.3. (ASOS reports, which the pilots had not obtained, also showed that light snow
+increased to moderate snow about 0030; then, about 0040, increased to heavy snow with
+visibility of 1/4 mile.)
+In December 2006, Pinnacle incorporated procedures into the company’s OpSpecs
+requiring its pilots to perform landing distance assessment procedures consistent with
+guidance contained in the FAA’s SAFO 06012. These procedures, which were in effect at
+65 Runway friction surveys are not conducted on uncontaminated runways; thus, no MU values would be
+obtained or reported for those surfaces.
+40
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+the time of the accident, required Pinnacle pilots to obtain the most current meteorological
+and runway surface condition estimates as close to landing as possible and perform landing
+distance assessments to determine whether adequate runway length was available before
+beginning an approach to a contaminated runway.
+However, CVR evidence revealed that the pilots did not perform such an
+assessment, and, during postaccident interviews, both pilots told investigators that they
+did not perform a landing distance assessment. The captain told investigators that he had
+landed on snowy runways many times and that he believed the runway conditions were
+okay based on the contamination depth. The first officer stated that he thought that pilots
+were required to (and should) check landing distances with a contaminated runway. He
+said that he believed 4,000 feet was the required landing distance but indicated that they
+did not check the landing distance charts.
+The Safety Board’s review of Pinnacle’s landing distance charts, based on the
+accident conditions and reports indicating that wet snow was on the runway, indicated
+that the airplane’s landing distance would exceed the available runway length. Further, the
+pilots had adequate information available to indicate that the runway was contaminated
+and that a landing distance assessment was required. To the company’s credit, Pinnacle
+voluntarily incorporated the procedures outlined in SAFO 06012; yet the pilots still did
+not perform the required landing distance assessment before this accident. The captain
+stated that he believed the runway was freshly plowed and that the conditions were such
+that a landing distance assessment was not required. The Safety Board concludes that the
+pilots failed to perform the landing distance assessment that was required by Pinnacle’s
+OpSpecs; had they done so, using current weather information, the results would have
+shown that the runway length was inadequate for the contaminated runway conditions
+described. This accident reinforces the need for pilots to perform landing distance
+assessments before every landing, taking into account conditions at the time of arrival and
+adding a safety margin of at least 15 percent to calculated landing distances. Therefore,
+the Safety Board reiterates Safety Recommendation A-07-57.
+Later in the approach, when advised by the TVC airport operations supervisor
+that snow had accumulated to nearly 1/2 inch, the captain told the first officer, “[w]e’re
+allowed 3 inches…half inch is nothing.” The captain’s comments indicated that he believed
+that company policies allowed them to land under any circumstances with up to 3 inches
+of contaminant on the runway.66 However, the captain ignored the company requirement
+for performance of a landing distance assessment demonstrating that sufficient runway
+exists for a safe landing in contaminated runway conditions regardless of contaminant
+depth. The TVC ground operations supervisor’s comments (including “it’s filling in” and
+his estimate that the snow was 1/2 inch deep) provided the pilots with ample information
+to recognize at least that the runway was contaminated and that a landing distance
+assessment should have been performed. Nonetheless, on the basis of the information
+provided by the TVC ground operations supervisor, the captain appeared satisfied that
+the ground cover was within Pinnacle’s limitations and continued the approach without
+performing a landing distance assessment. The Safety Board concludes that because the
+66 Pinnacle policies only permitted landings on runways with wet snow depths of 1 1/2 inches or less.
+41
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+pilots had ample evidence that wet snow was accumulating rapidly on the runway at
+TVC, they should have anticipated a landing on a contaminated runway and performed a
+landing distance assessment as required by the company’s OpSpec.
+The Safety Board’s review of ATC and CVR data and postaccident pilot statements
+indicated that as the approach continued, the pilots could have reassessed their decision
+and performed a landing distance assessment as they received additional information
+regarding TVC weather and runway conditions; their workload was relatively light during
+the approach to TVC. Further, if the pilots were concerned about the time and workload
+involved in conducting a landing distance assessment during the approach, they could
+have requested either a delayed turn-in for the approach or holding pattern instructions
+from MSP ARTCC.
+2.2.1.1.1 Landing Distance Assessment Training
+SAFO 06012, Section 3g also provides the following guidance for training flight
+crews on the landing distance assessment procedures, stating that all flight crewmembers
+should be made aware of the procedures:
+….in a manner consistent with the operator’s methods for conveying
+similar knowledge to flight operations personnel. It may be conducted
+via operations/training bulletins or extended learning systems…all flight
+crewmembers should have hands on training and validate proficiency in
+these procedures during their next flight training event.
+Pinnacle Airlines voluntarily adopted the guidance in SAFO 06012 and incorporated
+mandatory landing distance assessments for contaminated runways into both its flight
+manual and operations specifications, informing pilots via a revision to the flight manual,
+and teaching the procedure in ground school. The FAA POI indicated that he was satisfied
+with the company’s adoption of this SAFO. However, provisions for hands-on training
+and validation of proficiency were not put into place.
+Although both the captain and the first officer were familiar with the landing
+distance assessment procedure (in fact, as part of the first officer’s operating experience,
+the captain reviewed the landing distance assessment procedures during a previous
+flight), neither recognized the need to accomplish this procedure when they were briefed
+on the contaminated runway conditions at TVC. This deficiency may be explained by
+fatigue impairment, but more thorough training on the rationale behind conducting a
+landing distance assessment may have made the crew more cognizant of the need for
+such an assessment and of the benefits of conducting the assessment for contaminated
+runways before landing. After the accident, Pinnacle voluntarily increased its training
+on the landing distance assessment by providing pilots with an additional review of the
+charts and their proper use during semiannual training events, annual ground school
+training, and annual pilot check flights.
+When adopting new operational procedures, it is important to ensure that those who
+will be using the procedures have a thorough understanding of not only how to perform
+42
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+the procedure, but when to perform it. Because dispatch must perform a landing distance
+calculation before departure to ensure that the airplane can land at the destination airport
+within weight limits and in the available landing distance, pilots may not recognize the
+criticality of performing a landing distance assessment just before landing. The assessment
+is particularly critical when runway conditions may have changed over the length of the
+flight, as was the case at TVC. The primary purpose of conducting a landing distance
+assessment is to account for current runway conditions. The Safety Board is concerned that
+the introduction of a landing distance assessment in a manner similar to other, possibly
+less essential procedures followed by training up to 6 months later may not sufficiently
+communicate to pilots the importance of conducting a landing distance assessment before
+landing on a contaminated runway.
+The Safety Board supports the guidance of SAFO 06012 and recognizes that
+Pinnacle Airlines voluntarily adopted this procedure and enhanced its training after the
+accident. The Safety Board concludes that initial training for pilots on the rationale for and
+criticality of conducting a landing distance assessment before landing on a contaminated
+runway would reinforce the need to conduct such an assessment. The FAA’s Takeoff/
+Landing Performance Assessment Aviation Rulemaking Committee, convened to discuss
+the landing distance assessment methods provided in SAFO 06012, provides an ideal
+forum to address the training that is necessary for the implementation of landing distance
+assessment procedures. Therefore, the Safety Board believes that the FAA should, as
+part of the Takeoff/Landing Performance Assessment Aviation Rulemaking Committee,
+address the need for initial training on the rationale for and criticality of conducting
+landing distance assessments before landing on contaminated runways.
+2.2.1.2 “Nil” Braking Reports
+During the last 15 minutes of the flight, the TVC airport operations supervisor
+used the term “nil” twice describing the runway braking action in radio transmissions
+to the accident pilots. Review of ATC and CVR evidence indicated that the TVC airport
+operations supervisor’s first “nil” braking report (“…I’m gonna call braking action nil
+now…’cause it’s fillin’ in real hard”) was issued about the same time that the controller
+assigned the pilots a new heading and approved a frequency change to the TVC CTAF.
+The radio transmissions began about 0038:03 and 0038:04, respectively, and the pilots
+were monitoring both the TVC CTAF and MSP ARTCC radio frequencies as they neared
+TVC. CVR evidence shows that the first officer turned down the volume on the TVC CTAF
+to hear the heading and frequency instructions provided by the controller. The captain’s
+subsequent comment about the TVC airport operations supervisor’s transmission (“I mean,
+what kind of report’s that, ‘it’s filling in’…doesn’t tell me good bad fair poor”) indicated
+that he had not heard the nil braking report portion of that transmission. Therefore, the
+Safety Board concludes that it is likely that neither pilot heard the TVC airport operations
+supervisor’s first nil braking report because that transmission occurred simultaneously
+with critical approach instructions issued by the controller.
+The TVC airport operations supervisor used the term “nil” a second time in a
+transmission less than 3 minutes later (about 0040:53), when he stated, “…again…brakin’
+action’s probably nil on the runway.” This “probably nil” statement from the TVC airport
+43
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+operations supervisor was not definitive, nor was it standard phraseology for reporting
+runway conditions. The captain promptly requested clarification, asking, “are you saying
+it’s nil?” The TVC airport supervisor’s response to this question, however, was even more
+ambiguous than his “probably nil” statement; he stated that he had not been “out there to
+do a field report and it’s been 5, 10 minutes, so I don’t know what it’s doin’ now.” (The TVC
+airport operations supervisor stated during postaccident interviews that this assessment
+of the runway condition was based on tests he conducted in his vehicle on runway 28,
+during which he perceived “minimal to nonexistent” braking action and “uncertain”
+directional control; however, he did not provide the pilots with this detailed description
+of conditions.) The Safety Board concludes that, although Pinnacle procedures prohibit
+landing when runway braking action is reported as “nil,” the TVC airport operations
+supervisor’s description of “probably nil” (a term that has no clearly defined meaning
+with regard to runway braking action) and his subsequent failure to confirm a nil braking
+report when questioned further by the pilots likely led the pilots to believe that the runway
+braking action was not actually nil and therefore did not directly prohibit the landing.
+During subsequent communications, the captain further queried the airport
+operations supervisor about runway conditions, specifically asking about the depth of snow
+covering the runway, and the airport operations supervisor responded, estimating nearly
+1/2 inch of snow. When presented with ambiguous information, it is not unreasonable to
+expect the captain to request more information so that he can make a decision whether or
+not to land; that decision is ultimately the captain’s. While the subsequent information the
+captain received indicated that the snow depth was within the limits established by the
+company, he still did not perform a landing distance assessment, which was required for
+landing with the contamination on the runway.
+2.2.2 Pilot Actions During the Landing and Landing Roll
+The Safety Board evaluated the pilots’ actions during the touchdown and landing
+roll to determine whether those actions were a factor in the overrun. FDR data showed
+that the pilots flew the approach and crossed the runway 28 threshold at an airspeed of
+about 148 knots. This was consistent with existing Pinnacle guidance indicating that an
+airplane at the accident airplane’s landing weight and configuration should have flown
+the approach and crossed the threshold at the reference landing speed (V ) plus up to
+ref
+5 additional knots for gusty wind conditions. FDR data showed that the airplane was
+decelerating as it crossed the runway’s approach threshold and touched down on the
+landing runway at a speed of 123 knots, about 2,400 feet beyond that threshold. Pinnacle
+guidance dictates that the normal touchdown zone on a runway is 1,000 to 1,500 feet beyond
+the runway’s approach threshold and calls for a go-around if an airplane cannot land in
+the first 3,000 feet or the first third of the runway, whichever is less. Therefore, based on
+its review of FDR data and Pinnacle landing guidance, the Safety Board concludes that the
+accident airplane landed farther down the runway than the 1,500-foot touchdown point
+assumed by the landing distance calculations; however, even if the airplane had touched
+down within the 1,500-foot, company-designated standard touchdown zone, it would
+likely not have stopped before the end of the runway given the accident conditions.
+44
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+An airplane’s deceleration during the landing roll is a function of the runway
+surface condition and the application/use of deceleration mechanisms, including spoiler
+and thrust reverser deployment and associated engine fan speed setting and wheel
+brake/antiskid systems. According to the Safety Board’s airplane performance study and
+review of the FDR data, immediately after the airplane touched down, brake pressure was
+applied and the spoilers and thrust reversers were deployed. (The thrust reversers were
+deployed and then stowed twice during the landing roll.) The FDR recorded airplane
+heading changes during each thrust reverser deployment. During the first thrust reverser
+deployment, FDR data showed a 3° nose-right heading change that the pilots were able
+to compensate for with left rudder input. During the second thrust reverser deployment
+(which was initiated at a slower speed), FDR data showed a 7° nose-right heading change,
+followed by a left rudder input. The airplane heading then veered left to a maximum 25°
+nose-left-of-runway heading, despite the pilots’ attempts to counter with right rudder
+input, as the airplane ran off the end of the runway.
+These heading changes, which were simultaneous with thrust reverser
+deployment, were apparently consistent with Pinnacle and Bombardier guidance
+indicating that directional control/rudder effectiveness might be compromised when
+using thrust reversers while landing on contaminated runways and/or in crosswind
+conditions. (Pinnacle procedures prohibited the use of reverse thrust on contaminated
+surfaces at speeds of less than 60 knots, although company pilots were permitted to use
+maximum reverse thrust to a complete stop in emergency situations.) During postaccident
+interviews, the captain indicated that he did not immediately recognize the need for more
+aggressive thrust reverser application because the reduced visibility and the contaminated
+runway made it difficult to determine the airplane’s location along the runway. However,
+he stated that he was concerned about keeping the airplane aligned with the runway
+centerline during the landing roll. Therefore, the Safety Board concludes that the pilots’
+use of the thrust reversers during the landing roll was not inconsistent with company and
+manufacturer guidance related to thrust reverser usage in adverse weather conditions
+and company policies prohibiting thrust reverser use at speeds less than 60 knots except
+in emergency circumstances.
+2.3 Pilot Fatigue Issues
+When asked whether pilot fatigue was a problem at Pinnacle, the FAA POI estimated
+that 60 to 70 percent of Pinnacle pilots who voluntarily submitted event reports through
+the company’s ASAP cited fatigue as a factor in the event. In addition, several of the
+company pilots interviewed during this investigation indicated that company schedules
+could be exhausting. The Safety Board examined the pilots’ hours of rest, waking time,
+length of duty day, workload, personal sleep histories, and performance deficiencies to
+determine whether fatigue was a factor in the pilots’ performance and decision-making
+during the accident flight. In addition, the Board examined line check airman issues.
+45
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+2.3.1 Accident Pilot Fatigue
+The accident occurred well after midnight at the end of a demanding day during
+which the pilots had flown 8.35 hours,67 made five landings, been on duty more than
+14 hours, and been awake more than 16 hours.68 During the accident flight, the CVR
+recorded numerous yawns and comments that indicate that the pilots were fatigued.
+Specifically, the accident CVR recorded the captain yawning four times (at 2340:00.3,
+0001:06.6, 0004:00.4, and 0009:47.1). Additionally, the captain made references to being
+tired at 2332:12, 2341:53, and 0018:43, and the first officer stated, “jeez, I’m tired” at 0020:41.
+Additionally, the pilots’ high workload (flying in inclement weather conditions, and in
+the captain’s case, providing OE for the first officer) during their long day likely increased
+their fatigue.
+The Safety Board’s 1994 study of flight crew-related major aviation accidents
+indicated that fatigue related to lengthy periods of wakefulness can contribute to
+accidents. Specifically, the Board’s study found that captains who had been awake for
+more than about 12 hours made significantly more errors (including failure to recognize
+and discontinue an ill-advised or flawed approach) than those who had been awake for
+less than 12 hours.
+Accident data further show that long duty days significantly increase the likelihood
+of human factors-related accidents. Pilots who flew schedules involving 13 or more
+hours of duty time had accident rates several times higher than pilots who flew shorter
+schedules. In its investigations of two accidents in which fatigue was cited and the pilots
+continued an ill-advised and/or flawed approach (the June 1999 accident at Little Rock,
+Arkansas, and the October 2004 accident at Kirksville, Missouri),69 the Safety Board noted
+that the pilots had been continuously awake for at least 15 to 16 hours (as had the pilots in
+this accident). In addition, several other accidents have involved fatigued pilots, subject
+to long continuous wakefulness and late hours, who attempted to land despite evidence
+67 Although the pilots’ 8.35 hours of flight time exceeded the flight time cap, Federal regulations do allow
+for such exceedences when they are the result of “circumstances beyond the [operator’s] control…such as
+adverse weather conditions.”
+68 The captain stated that although he was off duty during the days before the accident, his sleep during
+that time was interrupted, in part because of a newborn child. He awoke about 0700 CDT on the day of the
+accident. The first officer was also off duty in the days before the accident, during which he made a personal
+trip to California. He awoke about 0630 CDT on the day of the accident.
+69 See National Transportation Safety Board, Runway Overrun During Landing, American Airlines
+Flight 1420, McDonnell Douglas MD-82, N215AA, Little Rock, Arkansas, June 1, 1999, Aircraft Accident Report
+NTSB/AAR-01/02 (Washington, DC: NTSB, 2001) and National Transportation Safety Board, Collision with
+Trees and Crash Short of the Runway, Corporate Airlines Flight 5966, BAE Systems BAE-J3201, N875JX,
+Kirksville, Missouri, October 19, 2004, Aircraft Accident Report NTSB/AAR-06/01 (Washington, DC: NTSB,
+2006).
+46
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+that the approach should be discontinued.70 Research also indicates that alertness suffers
+when a working day exceeds 14 to 16 hours.71
+Fatigue especially affects decision-making, and people who are fatigued become
+less likely to consider options and more likely to become fixated on a desired outcome.
+Among pilots, this may appear as errors such as failing to discontinue an ill-advised
+approach. In this case, the accident occurred during an instrument approach to a snow-
+and ice-contaminated runway in a snowstorm after the fifth flight segment of the day. The
+pilots had performed four previous landings and flown in challenging (windy, turbulent,
+snowy) weather conditions throughout the day, and it is unlikely that they wanted to
+extend their day further by diverting to an alternate airport. In this case, it is likely that
+fatigue and a desire to end the trip (and their day) influenced the pilots’ continuation of
+the approach despite evidence that they should either delay the approach or divert to an
+alternate airport.
+The Safety Board concludes that the poor decision-making shown by the accident
+pilots, including their failure to account for the changing weather and runway conditions
+during the approach; their failure to perform a landing distance calculation; and their
+failure to reassess or discontinue the approach accordingly, likely reflected the effects of
+fatigue.
+Scientific literature indicates that people typically underestimate their level of
+fatigue,72 especially when they are busy, as the pilots would have been when preparing for
+and departing on the accident flight. During postaccident interviews, both pilots indicated
+that they did not realize how tired they were until they reached cruise altitude during
+the accident flight. This is consistent with CVR evidence, which shows that complaints
+of fatigue and yawning began during this relatively low workload phase of the flight.
+Because the accident trip involved a series of delays because of dispatch, maintenance,
+and deicing issues, the pilots may have felt alert when they committed to the trip but
+found that they were tired as they set up for the approach into TVC (which occurred
+almost 2 hours later than scheduled). Pinnacle had a policy that allowed pilots to remove
+themselves from trips because of fatigue; however, the accident pilots did not elect to
+do so, possibly because they did not recognize their level of fatigue until they were en
+route.
+70 See a) National Transportation Safety Board, Uncontrolled Collision With Terrain, American International
+Airways Flight 808, Douglas DC-8-61, N814CK, U. S. Naval Air Station, Guantanamo Bay, Cuba, August 18,
+1993, Aircraft Accident Report NTSB/AAR-94/04 (Washington, DC; NTSB, 1994); b) National Transportation
+Safety Board, Controlled Flight into Terrain, Korean Air Flight 801, Boeing 747-300, HL7468, Nimitz Hill,
+Guam, August 6, 1997, Aircraft Accident Report NTSB/AAR-00/01 (Washington, DC: NTSB, 2000); and c)
+National Transportation Safety Board, Collision With Trees on Final Approach, Federal Express Flight 1478,
+Boeing 727-232, N497FE, Tallahassee, Florida, July 26, 2002, Aircraft Accident Report NTSB/AAR-04/02
+(Washington, DC: NTSB, 2004).
+71 G.P. Kruger (1989). “Sustained work, fatigue, sleep loss, and performance: a review of the issues.”
+Work and Stress, vol. 3, pp. 129-141.
+72 A. Itoi, R. Cilveti, M. Voth, B. Dantz, P. Hyde, A. Gupta, and W. Dement (1993). “Can Drivers Avoid
+Falling Asleep at the Wheel?” Washington, DC: AAA Foundation for Traffic Safety. For more information, see
+<http://www.aaafoundatoin.org/resources/index.cfm?button=asleep>.
+47
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+The pilots’ schedule for the accident sequence was consistent with existing FAA
+flight and duty time regulations. The Safety Board has long urged the FAA to review and
+update the hours-of-service regulations based on current scientific evidence. For example,
+in 2006, the Board issued Safety Recommendation A-06-10, which recommended that
+the FAA “modify and simplify the flight crew hours-of-service regulations to take into
+consideration factors such as length of duty day, starting time, workload, and other factors
+shown by recent research, scientific evidence, and current industry experience to affect
+crew alertness.” Despite this and other fatigue-related recommendations, the FAA has
+not updated or revised its pilot flight and duty time regulations. On the basis of the FAA’s
+continued inaction, in November 2006, the Safety Board classified Safety Recommendation
+A-06-10, “Open—Unacceptable Response.”
+This accident demonstrates again that fatigue-related issues continue to affect
+the safety of airline operations and that the airline industry could greatly benefit from
+hours-of-service rules that reflect current scientific understanding and industry experience
+to minimize the effects of fatigue on safety. The Safety Board concludes that existing FAA
+pilot flight and duty time regulations permitted the long and demanding day experienced
+by the accident pilots, which resulted in their fatigued condition and degraded pilot
+decision-making. Therefore, the Safety Board reiterates Safety Recommendation A-06-10.
+2.3.2 Line Check Airman Fatigue Issues
+Because the accident captain was serving as a line check airman during the accident
+flight, issues related to scheduling of check airmen were addressed in this investigation.
+In addition to regular line pilot duties, check airmen have the added responsibilities
+of providing OE to new hires73 while shouldering additional cockpit duties as needed,
+depending on the experience and competency of the new hire. In this case, the accident
+captain was subject to significant additional workload because of his check airman
+duties. Throughout the day, the captain was flying in challenging conditions without the
+assistance of an experienced colleague, continually monitoring the first officer’s actions
+and performance as the nonflying pilot, and providing guidance to the first officer. (CVR
+evidence showed that the captain actively provided instruction and monitoring of the first
+officer’s actions in support of his initial OE throughout the accident flight.)
+These additional responsibilities can result in a workload that is substantially
+more demanding and fatiguing than regular line flying and, in this case, would have
+almost certainly exacerbated the development of fatigue for the captain. Especially during
+a time of pilot shortages and high turnover rates, increased training demands could force
+line check airmen to spend the bulk of their flying time providing OE and flying with
+new pilots with less experience, resulting in greater demands on the check airmen. The
+captain indicated that most of his flying during the weeks before the accident involved
+OE and performing other check airman duties. Federal regulations do not address check
+airman hours of service apart from general flight and duty time limitations, and Pinnacle
+did not apply special duty-time limits to its line check airmen at the time of the accident.
+73 Other check airman duties include performing line and proficiency checks.
+48
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+Subsequent correspondence from Pinnacle representatives indicates that check airmen
+performing OE are now limited to 14 hours of duty and 8 hours of “actual” (rather than
+“scheduled”) flight time per day.
+The Safety Board concludes that the additional responsibilities and task demands
+involved in providing OE and performing related check airman functions likely
+aggravated the effects of fatigue for the captain/check airman. The Board recognizes that
+previously reiterated Safety Recommendation A-06-10 encompasses numerous factors
+that the FAA should consider in modifying flight crew flight and duty times and other
+limitations for pilots, including workload. The increased workload involved when a line
+check airman is providing OE and performing related check airman functions is another
+aspect of flight and duty time regulations and other limitations that need to be addressed
+as part of Safety Recommendation A-06-10. Further, on June 10, 2008, the Safety Board
+issued Safety Recommendations A-08-44 and -45 recommending the development and
+evaluation of fatigue management systems; the breadth of issues potentially addressed
+by these systems could include specific factors addressing check airman functions and the
+Safety Board urges the FAA to consider check airman workload in fatigue management
+system development and guidance.
+2.4 Dissemination of Weather and Field Condition Reports
+The Safety Board evaluated whether critical information regarding local weather
+and airport conditions was available to the flight crew during the approach. Because
+the flight arrived after the scheduled operating hours of the TVC ATCT, information
+was not relayed by the ATCT controller or available through controller-recorded (ATIS)
+transmissions. However, other sources of weather and field condition information, such
+as airport operations equipment and personnel and ASOS transmissions, provided
+information consistent with that which would be provided by ATCT controllers and the
+ATIS during operating hours. The Board evaluated the flight crew’s use of the weather
+information and the pilot/airport operations personnel communications during the
+flight’s approach to TVC.
+2.4.1 Weather Information Available to the Flight Crew
+Per standard operating procedure, when the TVC ATCT closed on the night of
+the accident, controllers selected the TVC ASOS weather information for continuous
+broadcast on the airport’s ATIS frequency. This information was updated at 1-minute
+intervals and was available to the pilots continuously—upon access—during the descent,
+approach, and landing. (During tower operating hours, the same ASOS observations
+were the source of weather data for the recorded ATIS broadcast or direct controller-pilot
+weather advisories.) The Safety Board’s review of the ASOS observations indicated that
+they reflected the rapidly deteriorating conditions and increased snowfall at the time of
+the accident. Review of the ASOS data indicated no interruption in the system’s weather
+observation broadcasts during the accident airplane’s approach to TVC.
+49
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+Published reference information regarding TVC weather observations in FAA
+and Pinnacle documents clearly indicated that the pilots were required to obtain weather
+information through the ASOS broadcast. Further, postaccident interviews and CVR
+evidence indicated that the pilots were aware of these required procedures. Among other
+OE procedural and operations issues discussed during the flight from MSP to TVC, the
+captain specifically reviewed uncontrolled airport operations and procedures with the
+first officer. However, CVR data showed that the crew monitored the TVC ASOS weather
+information on only one occasion, about 30 minutes before they landed. They did not
+obtain a more current observation as they neared the airport and heard transmissions
+from the airport operations supervisor indicating that the conditions were deteriorating.
+Therefore, the Safety Board concludes that the pilots could have made a more informed
+landing decision if they had monitored the current (updated every minute) and
+unambiguous TVC weather information that was continuously available to them through
+the TVC ASOS broadcast.
+2.4.2 Airport and Runway Condition Reports and Ground
+Personnel Phraseology
+In accordance with published procedures, after tower closing time the pilots
+communicated directly with TVC airport operations personnel on the CTAF regarding
+the timing of their arrival, snow removal activities, and the airport/runway conditions.
+The airport operations personnel are the source of runway and field condition reports
+issued by the control tower during operating hours, which are distributed via NOTAMs;
+therefore, the accident flight crew had direct access to equivalent runway and field
+condition information.
+The Safety Board notes that early in the airplane’s descent, the TVC airport
+operations supervisor provided the following precise runway condition report to the
+accident captain, “I’ve [.40+ on] runway two eight. I’ve got thin, wet snow [over] patchy
+thin ice.” However, subsequent phraseology used by the TVC airport operations supervisor
+during radio transmissions to the accident pilots was conversational and imprecise (for
+example, the phrases “comin’ down good,” “fillin’ in real hard,” and “probably nil”) and
+therefore subject to possible misinterpretation.
+During the last 20 minutes of the accident flight, the TVC airport operations
+supervisor made several radio transmissions to the accident pilots regarding snow removal
+operations, subsequent snowfall, and accumulation of snow on the landing runway.
+Additionally, about 0040:53, the pilots clearly heard the second of two transmissions
+issued by the TVC airport operations supervisor that described the braking action on
+runway 28 as “probably nil.”74 However, when the captain immediately asked, “are you
+saying it’s nil?” to confirm the nil braking report, the TVC airport operations supervisor
+vacillated and eventually downplayed his nil report, saying he had not performed a field
+report and did not know “what it’s doin’ now.” When queried by the captain, the TVC
+74 As previously stated, the pilots likely did not hear the first nil braking report because of a simultaneous
+radio transmission.
+50
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+airport operations supervisor estimated the runway snow depth to be “close to” 1/2 inch.
+CVR-recorded communications between the pilots indicated that the captain was initially
+concerned about the TVC airport operations supervisor’s “probably nil” braking report
+but felt more confident about landing after hearing the contaminant depth estimate of
+1/2 inch.
+The FAA recommends that airports use the AIM chapter titled, “Radio
+Communications, Phraseology, and Techniques” as a source for related airport training
+materials and procedures. This AIM chapter emphasizes the importance of precision,
+conciseness, and proper radio technique in successfully communicating by radio and
+includes examples of proper phraseology and radio techniques. A review of TVC training
+materials for operations personnel regarding communications and airport familiarity
+indicated that the materials were consistent with and referenced the AIM information.
+Further, TVC records indicate that all ground personnel on duty the night of the accident,
+including the airport operations supervisor, had successfully completed the required
+training.
+Because the airport operations supervisor had completed the required training
+and was also familiar with appropriate phraseology from his pilot training, it is not clear
+why he failed to provide specific and decisive information at all times on the night of
+the accident. However, it is likely that TVC airport operations supervisor’s reticence to
+confirm his “probably nil” braking report when the captain tried to confirm it was a factor
+in the pilots’ decision to continue the approach. The Safety Board concludes that the
+TVC airport operations supervisor’s use of ambiguous and unspecific radio phraseology
+when providing braking action information likely affected the captain’s decision to
+continue the approach; an unambiguous runway surface condition report would have
+provided the pilots with more accurate and useful information to factor into their landing
+decision. Therefore, the Safety Board believes that the FAA should issue a CertAlert to
+all 14 CFR Part 139 certificated airports that describes the circumstances of this accident,
+emphasizes the importance of specific and decisive radio communications, and urges
+airports to ensure that those criteria are being met in all airfield radio communications.
+In its report on the Southwest Airlines flight 1248 accident, the Safety Board issued
+Safety Recommendation A-07-62, asking the FAA to do the following:
+Develop and issue formal guidance regarding standards and guidelines for
+the development, delivery, and interpretation of runway surface condition
+reports.
+The FAA responded to Safety Recommendation A-07-62 on January 8, 2008,
+stating that the ARC (development of which was announced by the FAA on December 6,
+2007) would also provide the FAA with advice and recommendations regarding
+“establishment of standards for runway surface condition reporting and minimum surface
+conditions for continued operations.” On June 12, 2008, the Safety Board classified Safety
+Recommendation A-07-62 “Open—Acceptable Response.”
+51
+National Transportation Safety Board
+
+A I R C R A F T
+Analysis Accident Report
+2.4.3 Runway Closure Procedures in Snow and Ice Conditions
+In 2005, the FAA Great Lakes Region sent correspondence to all Part 139 airport
+operators in the region regarding operations during snow and ice conditions. This letter
+stated that airports must implement procedures for closing any pavement available to air
+carriers when braking action/friction values reach an unsafe value (the equivalent of nil
+braking action). TVC airport personnel discussed this issue at a snow plan meeting held
+September 22, 2006. However, at the time of the accident, TVC’s snow and ice control plan
+did not specify criteria that would result in airport personnel closing a runway and/or
+the airport. If TVC’s snow and ice control plan had incorporated such criteria, it is likely
+that the TVC airport operations supervisor would have, given his determination that the
+braking action was nil, closed the runway to air carrier operations before the accident
+flight arrived, forcing the pilots to take alternate action. (After the accident, TVC received
+operational criteria information from the air carriers, and the airport now restricts air
+carrier operations when MU values of .27 or less are measured or when nil braking action
+is reported by pilots or TVC ground operations personnel.)
+Therefore, the Safety Board concludes that incorporation of minimum safe
+operating limits for runway surface conditions into an airport’s snow and ice control plan
+would ensure that airport operations personnel prohibit air carrier operations on any
+runway if, in their estimation, the braking action on that runway is unsafe. Therefore,
+the Safety Board believes that the FAA should require all 14 CFR Part 139 certificated
+airport operators to include in their airport’s snow and ice control plan absolute criteria
+for type and depth of contamination and runway friction assessments that, when met,
+would trigger immediate closure of the affected runway to air carrier operations. Friction
+assessments should be based on pilot braking action reports, values obtained from ground
+friction measuring equipment, or estimates provided by airport ground personnel.
+52
+National Transportation Safety Board
+
+A I R C R A F T
+Accident Report
+3. C
+onClusions
+3.1 Findings
+1. The pilots were properly certificated and qualified under Federal regulations and
+Pinnacle Airlines training requirements. No evidence indicated any medical conditions
+that might have adversely affected the pilots’ performance during the accident flight.
+2. The accident airplane was properly certificated and was equipped and maintained
+in accordance with industry practices and was within weight and center of gravity
+limits.
+3. The investigation revealed no evidence of any failure or anomaly of the airplane’s
+powerplants, structures, or systems (including the airplane’s deceleration devices,
+such as brakes, antiskid devices, and thrust reversers) that would have affected the
+airplane’s performance during the accident landing.
+4. Based on the system designs and runway conditions, it is likely that the airplane’s
+braking and antiskid systems were performing to their maximum effectiveness.
+5. Although, at its original departure, time Pinnacle dispatchers could not dispatch the
+accident flight because of strong winds in the Cherry Capital Airport (TVC) forecast,
+an amended forecast issued by Northwest Airline’s meteorology department (and
+reflected in a subsequent National Weather Service-issued forecast) predicted more
+favorable wind conditions (as well as higher ceilings and improved visibility in light
+snow) at TVC and thus met the required criteria for the flight’s dispatch.
+6. The services provided by the air traffic control (ATC) system did not affect the outcome
+of the flight. Information commonly provided by ATC (for example, weather and
+runway surface condition reports) was available to the flight crew, and its availability
+was unaffected by the air traffic control tower’s closure before the flight’s arrival at
+Cherry Capital Airport.
+7. Cherry Capital Airport’s snow removal operations and runway surface condition
+assessment activities were conducted in accordance with the airport’s Federal Aviation
+Administration-approved snow and ice control plan.
+8. Considering the severe winter weather and the relatively intact condition of the
+airplane, the captain’s decision to deplane the passengers using Pinnacle’s “expeditious
+deplaning” procedures was appropriate.
+9. Although there were no reported injuries resulting from this accident, had a
+postaccident fire occurred, the delay in aircraft rescue and firefighting response could
+have adversely affected the safety of passengers after the accident.
+53
+National Transportation Safety Board
+
+A I R C R A F T
+Conclusions Accident Report
+10. The forward-looking infrared equipment installed in the aircraft rescue and firefighting
+(ARFF) vehicle did not help the firefighter locate the accident airplane; however,
+improved crash detection and location equipment would likely have facilitated a
+more timely ARFF response.
+11. Although there is no reason to believe the pilots’ performance was affected by alcohol,
+the failure of the airline to perform required postaccident alcohol tests prevents a
+definitive statement on the issue.
+12. Even though there was initially some uncertainty as to whether the Cherry Capital
+Airport runway overrun was an accident or an incident, it would have been prudent
+for Pinnacle to comply with the drug and alcohol testing regulations as if the overrun
+were to be classified as an accident.
+13. The pilots failed to perform the landing distance assessment that was required by
+Pinnacle’s Operations Specifications; had they done so, using current weather
+information, the results would have shown that the runway length was inadequate
+for the contaminated runway conditions described.
+14. Because the pilots had ample evidence that wet snow was accumulating rapidly on
+the runway at Cherry Capital Airport, they should have anticipated a landing on a
+contaminated runway and performed a landing distance assessment as required by
+the company’s Operations Specifications.
+15. Initial training for pilots on the rationale for and criticality of conducting a landing
+distance assessment before landing on a contaminated runway would reinforce the
+need to conduct such an assessment.
+16. It is likely that neither pilot heard the Cherry Capital Airport operations supervisor’s
+first “nil” braking report because that transmission occurred simultaneously with
+critical approach instructions issued by the controller.
+17. Although Pinnacle procedures prohibit landing when runway braking action is
+reported as “nil,” the Cherry Capital Airport operations supervisor’s description of
+“probably nil” (a term that has no clearly defined meaning with regard to runway
+braking action) and his subsequent failure to confirm a nil braking report when
+questioned further by the pilots likely led the pilots to believe that the runway braking
+action was not actually nil and therefore did not directly prohibit the landing.
+18. The accident airplane landed farther down the runway than the 1,500-foot touchdown
+point assumed by the landing distance calculations; however, even if the airplane had
+touched down within the 1,500-foot, company-designated standard touchdown zone,
+it would likely not have stopped before the end of the runway given the accident
+conditions.
+19. The pilots’ use of the thrust reversers during the landing roll was not inconsistent
+with company and manufacturer guidance related to thrust reverser usage in adverse
+54
+National Transportation Safety Board
+
+A I R C R A F T
+Conclusions Accident Report
+weather conditions and company policies prohibiting thrust reverser use at speeds
+less than 60 knots except in emergency circumstances.
+20. The poor decision-making shown by the accident pilots, including their failure
+to account for the changing weather and runway conditions during the approach;
+their failure to perform a landing distance calculation; and their failure to reassess or
+discontinue the approach accordingly, likely reflected the effects of fatigue.
+21. Existing Federal Aviation Administration pilot flight and duty time regulations
+permitted the long and demanding day experienced by the accident pilots, which
+resulted in their fatigued condition and degraded pilot decision-making.
+22. The additional responsibilities and task demands involved in providing operating
+experience and performing related check airman functions likely aggravated the
+effects of fatigue for the captain/check airman.
+23. The pilots could have made a more informed landing decision if they had monitored
+the current (updated every minute) and unambiguous Cherry Capital Airport (TVC)
+weather information that was continuously available to them through the TVC
+automated surface observing system broadcast.
+24. The Cherry Capital Airport operations supervisor’s use of ambiguous and unspecific
+radio phraseology when providing braking action information likely affected the
+captain’s decision to continue the approach; an unambiguous runway surface condition
+report would have provided the pilots with more accurate and useful information to
+factor into their landing decision.
+25. Incorporation of minimum safe operating limits for runway surface conditions into
+an airport’s snow and ice control plan would ensure that airport operations personnel
+prohibit air carrier operations on any runway if, in their estimation, the braking action
+on that runway is unsafe.

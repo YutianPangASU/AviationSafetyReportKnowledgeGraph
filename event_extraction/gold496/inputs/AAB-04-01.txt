@@ -1,0 +1,1306 @@
+National Transportation Safety Board
+Washington, D.C. 20594
+L
+T RA
+N
+SP
+O
+A R
+N T
+O E PLURIBUS UNUM A
+I T
+T I
+A O
+N N
+S A FETYBO A R D
+Aircraft Accident Brief
+____________________________________________________________________________
+Accident Number: CHI01MA006
+Aircraft and Registration: Bombardier CL-600-2B16 (CL-604), C-FTBZ
+Location: Mid-Continent Airport, Wichita, Kansas
+Date: October 10, 2000
+Adopted On: April 14, 2004
+HISTORY OF FLIGHT
+On October 10, 2000, at 1452 central daylight time,1 a Canadair Challenger CL-600-2B16
+(CL-604) (Canadian registration C-FTBZ and operated by Bombardier Incorporated) was
+destroyed on impact with terrain and postimpact fire during initial climb from runway 19R at
+Wichita Mid-Continent Airport (ICT), Wichita, Kansas. The flight was operating under the
+provisions of 14 Code of Federal Regulations (CFR) Part 91 as an experimental test flight.2 The
+pilot and flight test engineer were killed. The copilot was seriously injured and died 36 days
+later.3
+A review of air traffic control (ATC) and cockpit voice recorder (CVR) transcripts from
+the accident flight indicated that the pilot in the left seat was performing the pilot-in-command
+(PIC) and pilot-flying (PF) duties and that the copilot was performing the radio communications
+and other related pilot-not-flying (PNF) duties.4 The flight test engineer was to perform test
+flight configuration and monitoring duties at his workstation in the cabin. The flight crew was to
+initiate a standard takeoff and climb and conduct flight testing of modified pitch feel simulator
+1 Unless otherwise indicated, all times are central daylight time based on a 24-hour clock. The actual time of
+accident is approximate, based on flight data recorder (FDR) and air traffic control (ATC) information.
+2 Experimental and engineering test flights are flown to determine whether newly designed and experimental
+aircraft operate according to design standards. Based on these flights, test pilots make suggestions for
+improvements. Production test pilots test new airplanes for airworthiness after the airplanes come off the assembly
+line and before they are delivered to customers.
+3 According to 49 CFR Section 830.2, for classification purposes, a fatal injury is one in which death results
+within 30 days of the accident.
+4 The accident flight was also a training and orientation flight for the copilot.
+NTSB/AAB-04/01
+
+2
+(PFS) units5 above 8,000 feet above ground level (agl).6 The test required that the airplane be
+configured with an aft center of gravity (c.g.).7
+The accident flight was the second flight to collect data to obtain certification by the
+United Kingdom’s Civil Aviation Authority (CAA) for two customer airplanes in the United
+Kingdom. Following the first flight in 1999, the CAA provided a list of unacceptable items that
+Bombardier needed to correct before the Challenger 604 could obtain CAA certification,
+including modification of the PFS units.8
+On September 29, 2000, about 1806, the airplane returned to Wichita from other flight
+test operations in Fairbanks, Alaska, and was not flown for about 1 week in preparation for the
+flight testing of the modified PFS units. On October 6, 2000, the production PFS units were
+removed and the modified PFS units were installed. The airplane was loaded with 1,100 pounds
+of water ballast and 734 pounds of tail ballast for an aft c.g. test configuration.
+A ground test with the modified PFS units was performed to determine the control
+column travel needed for full elevator travel in both directions. The test also repeated the
+baseline tests that were previously conducted with the production PFS units. The ground tests
+were designed to measure and record force at the control column in pitch at different column
+positions and at different stabilizer positions. Two systems engineers from company headquarters
+in Montreal (who also attended the preflight briefing for the accident flight) were present during
+the static ground tests. Documentation indicated that no anomalies were noted with the PFS
+installations.
+About 1330 on October 10, 2000, a preflight briefing was held at the Bombardier Flight
+Test Center (BFTC) for the first flight with a modified PFS aboard the airplane. The preflight
+briefing was attended by the three flight crewmembers, a BFTC aircraft controller, a systems
+engineer, an avionics engineer, the project engineer, and the two systems engineers from
+5 PFS units replicate aspects of the aerodynamic loads (absent in hydraulically driven control systems) through
+artificial feel and centering units, allowing the pilots to feel control input resistance. The units increase control column,
+control wheel, and rudder pedal resistance as the flight control surfaces are moved from their neutral positions.
+6 The maneuver to be flown for the flight test is known as a wind-up turn. During this maneuver, the airplane is
+put into a bank and the control column is continually pulled back to maintain the indicated airspeed. Control column
+forces are evaluated throughout the maneuver. A Federal Aviation Administration (FAA) test pilot described the
+wind-up turn as “one of the hardest maneuvers to do in flight test.”
+7 The airplane was equipped with a combination of fixed weights and interconnected forward and aft ballast tanks.
+A water/glycol mixture could be moved forward or aft between the tanks, to change the c.g. for flight test purposes. The
+movement of the water/glycol mixture is controlled by an electric pump operated by the flight test engineer, or through
+gravity transfer (at an appropriate flight attitude). In addition, a lead ballast was located in the rear of the airplane.
+8 To comply with the PFS unit control force item listed by the CAA, Bombardier had the vendor (Lucas
+Aerospace Division of TRW Aeronautical Systems) modify the elevator control system’s PFS units to increase the
+second break out force. The first breakout force is the force necessary to move the control column, rudder, or other
+flight controls from the neutral position. The production PFS units provided initial movement of the control column
+from zero after the first breakout force was exceeded. The column force then increases linearly with column position
+until a second breakout force is reached, after which the column force continues to increase with column position at
+a reduced rate (to prevent excessive column movement). The modification on the accident airplane added shims at
+the end of an internal spring to increase preload for the second breakout. The change increased the second breakout
+point from the original 40 pounds to 50 pounds of force. According to Bombardier, the test flight was intended to
+demonstrate that the modified PFS units were sufficient to meet the CAA requirements in the heavy weight/aft c.g.
+configuration.
+NTSB/AAB-04/01
+
+3
+Montreal. The BFTC aircraft controller stated that the briefing had been postponed several times
+because the airplane was not ready. However, he added that there was no rush to fly that day and
+that the airplane had no outstanding maintenance items when it was released about 1330.
+Statements from briefing participants indicated that several minutes before the briefing,
+the accident pilot asked the accident flight test engineer to obtain a risk analysis from BFTC’s
+manager of flight test operations and safety. The manager of flight test operations and safety
+stated that he first learned about the test flight at this time. He stated that he assessed the flight’s
+risk level as low because the airplane was operating within its c.g. range and because “the
+modification was stabilizing.”
+The briefing began with a description of the airplane’s configuration and the presentation
+of load sheet information. The accident copilot reportedly asked, “why are we so far aft?”. The
+flight test engineer responded that this configuration (with the production PFS units) was
+previously flown on airplane number 5991 (the accident airplane) with the CAA test pilot during
+the 1999 flight test. The flight crew reportedly responded, “okay.” The briefing continued with a
+presentation comparing the characteristics of the production PFS and modified PFS units. The
+pilot reportedly stated that the airplane was going to “handle like a pig.” According to briefing
+participants, flight test maneuvers and procedures to address potential anomalies in the modified
+units were not discussed. The briefing concluded about 1400 and flight crewmembers boarded
+the airplane about 1415.
+At 1420:33, the CVR recorded a sound similar to several warning systems being checked,
+followed by the “before engine start” checklist items and conversations about the airplane’s
+systems. The right engine was started at 1432:07. The PIC performed two flight control sweeps
+at 1434:24. The first sweep included the aileron, rudder, and elevators. The second sweep was a
+slow control sweep of the elevators.9
+At 1448:45, the tower issued a takeoff clearance and instructed the flight crew to fly a
+heading of 230°.10 At 1449:21, the pilot stated, “okay, here we go,” and a sound similar to an
+increase in engine RPM was recorded 2 seconds later. At 1449:29, the pilot stated, “set thrust,”
+and the copilot responded, “thrust set” 6 seconds later. At 1449:37, the copilot called out
+“airspeed’s alive eighty knots.” At 1449:48 the copilot called out “V one” (takeoff decision
+speed) and “rotate”. The pilot responded, “okay, we’re flying,” followed by the copilot calling
+out “V two” (takeoff safety speed).
+At 1449:51, the CVR recorded a sound similar to stick shaker11 for 2.2 seconds, during
+which time the pilot stated “whew,” and the flight test engineer stated “what are you doing?”.
+The CVR then recorded the mechanical voice warning “bank angle”12 and a sound similar to stall
+aural warning for 1.1 seconds at 1449:53.. “Bank angle” was recorded at 1449:54 and again at
+9 The flight control sweeps were flight test checklist items to collect data.
+10 The pilot and copilot display control panels retained a selected heading of 230º in nonvolatile memory.
+11 The stick shaker, or control column shaker, is designed to warn pilots of an impending aerodynamic stall, and
+is accompanied by audible alerts and lights. For more information about the airplane’s stall warning system, see
+section 1.8.
+12 The CL-604 is equipped with an aural bank angle warning system. For more information about the airplanes
+aural warning systems, see section 1.8.
+NTSB/AAB-04/01
+
+4
+1449:55. A sound similar to stick shaker was recorded for 0.15 seconds beginning at 1449:57,
+followed by “bank angle” again at 1449:57.36.
+At 1449:58, and for the next 2 seconds, a sound similar to stick shaker was recorded for
+0.22 second, and the pilot stated, “hang on.” A sound similar to stick shaker” was recorded again
+for 0.3 seconds, the flight test engineer repeated “what are you doing?,” followed by a sound
+similar to stall aural warning for 0.82 seconds, and “bank angle” again. At 1449:59.59, the pilot
+stated, “hang on.” The recording ended at 1450:00.
+Witnesses reported seeing the airplane bank to the right after takeoff. They stated that the
+airplane’s right wing rolled and impacted the ground first and that the airplane exploded on
+impact. The airplane crashed through an airport perimeter fence and came to rest adjacent to a
+two-lane, north-south road.
+PILOT INFORMATION
+The pilots were certificated under Federal Aviation Administration (FAA) certification
+requirements and held Transport Canada exemptions from holding Canadian pilot certificates.
+The Pilot Flying
+The PF, age 33, was hired by Bombardier Aviation Services in Tucson, Arizona, in July 24,
+1995, as a flight test pilot, where he performed airplane modification and supplemental type
+certificate (STC)13 test flights on Learjet 31A, Learjet 60, and Challenger 604 aircraft. He also
+performed aerodynamic stall testing and system evaluation flights on Learjet customer service
+aircraft. He was hired at BFTC as an experimental test pilot on May 5, 1999.
+From August 1989 to October 1990, he performed avionics certification testing as a flight
+test engineer for an avionics manufacturer. He was employed as a captain on an Aero
+Commander 500 for 14 CFR Part 135 cargo operations from October 1990 to September 1993.
+From October 1993 to September 1995, he was employed as a captain on a Beechcraft Baron and
+Piper Chieftain and as a first officer on a North American Saberliner for an unscheduled Part 135
+cargo and passenger operator.
+He held an airline transport pilot (ATP) certificate issued on August 25, 1991, with type
+ratings in the CL-65 (Canadair Regional Jet), CL-604, Learjet-60, and Bombardier BD-700
+(Global Express). In addition, he was a certified flight and ground instructor. His first-class
+medical certificate was issued on May 16, 2000, with the limitation “holder shall wear corrective
+lenses.”
+According to FAA documents, the pilot received an order of suspension of his ATP
+certificate on July 19, 1996, for failure, as PIC, to ensure that cargo aboard a Part 135 cargo flight
+was secured to prevent shifting under anticipated flight and ground conditions. The suspension was
+later withdrawn and replaced with an order of assessment on September 27, 1996, fining the pilot
+$750.
+13 An STC authorizes alteration of an aircraft engine or other component that is operated under an approved
+type certificate.
+NTSB/AAB-04/01
+
+5
+According to company records, he had logged 6,159.3 hours flying time, including
+1,187 hours at Tucson Production Flight Test; 359.3 hours engineering flight test flying time at
+BFTC; 557.2 hours of production flight test PIC time at Tucson; and 126.4 hours of engineering
+flight test as PIC at BFTC. He had logged 189 flying hours in the Challenger 604, of which 94.6
+hours were as PIC. He received his initial type rating in the Challenger 604 on October 15, 1998.
+His last proficiency check was accomplished on March 24, 2000.14 According to BFTC’s manager
+of flight test operations and safety, there was no record that the pilot flying had received formal test
+pilot training. Bombardier’s vice president of flight tests stated that the PF was assigned to entry-
+level flying assignments as an experimental test pilot and flights typical of normal flight operations.
+The PF had a bachelor of science degree in aviation technology.
+The PF had flown a total of 95.7 hours, 55.2 hours, 4.6 hours and 1.9 hours in the last
+90 days, 30 days, 7 days and 24 hours, respectively. The pilot was off duty on October 8, 2000. He
+worked from 0800 to 1800 on October 9 and returned to work on the day of the accident at 0800.
+The Copilot
+The copilot, age 43, was hired by Bombardier on February 1, 1999. He was a former U.S.
+Air Force F-15 fighter pilot and instructor pilot. He was employed as a test pilot by Swearingen
+Aircraft Company, where he performed development and certification test flights on Metroliner
+airplane systems from August 1991 to January 1994. In addition, he was employed as an
+engineering test pilot on high-performance jet prototypes at Cessna Aircraft Company. He
+performed developmental and certification test flights involving performance and handling qualities,
+stalls, and envelope expansion on Cessna Citation and Excel airplanes in Wichita from January 12,
+1994, to January 29, 1999. He was also an FAA-designated engineering representative.
+He held an ATP certificate issued on June 10, 1990, with type ratings in the Cessna CE-
+500, CE-525S, CE-560XL, CE-650, CE-750, Bombardier CL-65 (Regional Jet), CL-604, and SA-
+227 Metro III. He was a certified flight instructor and held an airframe and powerplant certificate
+issued on January 4, 1979. His first class medical certificate was issued on September 27, 2000,
+with no limitations.
+According to company records, he had logged 6,540.7 hours of flying time,15 including
+463.7 hours at BFTC; of which 254.4 hours were as PIC at BFTC. He had logged 6,076 flying
+hours when he was hired by Bombardier, of which 2,123 hours were flight test. He had attended a 2-
+week test pilot short course, according to company records. He had 1.2 hours flying time in the
+Challenger 604, of which 0.4 hours were as second in command. He received his type rating in the
+CL-604 on June 23, 2000. This was also his last proficiency check. He had flown a total of 88.1
+hours and 17.1 hours in the last 90 and 30 days, respectively. He had logged no flying hours in the
+last 7 days or 24 hours.
+14 Recurrent simulator training was the only formal proficiency check performed by Bombardier at the
+company’s commercial training facility in Montreal.
+15 Pilot logbook information indicates a total time of 6,585.5 hours.
+NTSB/AAB-04/01
+
+6
+The copilot had returned from Amsterdam, Holland, on October 8, 2000, about 2230. On
+October 9, 2000, he worked from 0715 to 1630 and returned to work on the day of the accident
+at 0730.
+AIRPLANE INFORMATION
+The accident airplane, serial number 5991, was registered and owned by Bombardier Inc.,
+Canadair, and was equipped with two General Electric CF34 turbofan engines. Manufactured in
+1994, the airplane was used exclusively as an engineering development and sustaining program test
+airplane. The airplane was operated on a Canadian flight permit (experimental type certificate) and
+was not issued an airworthiness certificate. A special flight authorization (SFA)16 was issued by the
+FAA’s Wichita Manufacturing Inspection District Office (MIDO) on September 5, 2000. The SFA
+was issued to conduct flight test(s) required to obtain a U.S. type certificate. The SFA stipulated the
+operational conduct and limitations for the flight crew and airplane.
+The airplane fuel tank system comprised a left wing tank, right wing tank, auxiliary fuel
+tank and tail fuel tank (see figure 1). The auxiliary fuel tank system beneath the center cabin had
+a forward, center, and aft tank that were interconnected by pipes and that were not isolated from
+each other by shutoff valves or check valves. The tail fuel tank system had two saddle tanks and
+a third tank at the rear of the tail cone. (see figure 1).
+Figure 1. Airplane Fuel System Diagram
+The airplane was equipped with a ground proximity warning system, which provided voice
+message alerts. The “bank angle” voice message is based on the airplane’s roll attitude and radio
+16 A special flight authorization permits a foreign-registered civil aircraft that does not have the equivalent of a
+U.S. standard airworthiness certificate to be operated within the United States.
+NTSB/AAB-04/01
+
+7
+altitude. The roll angle limit ranges linearly from 10° at 30 feet agl to 40° at 150 feet agl. It ranges
+from 40° at 150 feet agl to 55º at 2,450 feet agl. When the airplane’s roll angle exceeds the alert
+threshold, the “bank angle, bank angle” aural alert activates. An additional “bank angle” alert is
+generated if the roll angle increases by another 20 percent of the threshold. If the roll angle exceeds
+140 percent of the threshold, an aural alert is issued every 3 seconds.
+The airplane’s stall warning system provided aural, visual, and tactile warning of an
+approaching stall. As the airplane’s vane angle of attack (AOA)17 increases, tactile warning is
+provided by a stick shaker. A further increase in vane AOA activates a stick pusher. Visual stall
+warnings are provided by flashing red “STALL” annunciators on the left and right glareshield and
+by a low-speed indicator on each of the primary flight displays. An aural warbler warning begins
+when either stall channel signals the pusher to fire. Both channels are required to activate the pusher.
+In addition to the warnings, the autopilot disconnects and continuous ignition is activated.
+The stick pusher forces the control columns forward to lower the nose (AOA) and are
+designed to prevent an aerodynamic stall. The system’s dual (left and right) channel stall protection
+computer (SPC) monitors the following inputs to calculate the AOA trip points:
+• AOA
+• Lateral acceleration
+• Flap position
+• Weight on wheels
+• Altitude
+• Weight on wheels fail
+In the event of an AOA rate increase greater than 1° per second, the SPC lowers the AOA
+trip points (phase advance) to prevent the airplane’s pitching momentum from carrying it
+through the stall warning/stick pusher sequence into the stall. An acceleration switch
+disconnects the stick pusher mechanism if less than 0.5 G is reached during the stick pusher
+activation. The stick pusher can also be de-activated by pressing and holding the autopilot/stick
+pusher disconnect switch located on the pilot’s and copilot’s control wheel. The stick pusher is
+capable of operating immediately once the autopilot/stick pusher switch is released. In case of
+malfunction, the stick pusher can be disabled by selecting the “PUSHER” switch to “OFF” on
+the pilot’s or copilot’s stall protection panel. Both the pilot’s and copilot’s switches must be in
+the “ON” position for stick pusher activation.
+The accident airplane’s SPC actuation could be modified for flight test purposes. After
+takeoff, and the removal of weight from the landing gear, the nominal design provides for a 2-
+second interruption (time out) of the phase advance for shaker and pusher activation. During this
+time, the SPC activation angles for the shaker and pusher are not phase advanced, and will
+activate only if the AOA threshold is exceeded. The accident airplane’s SPC could be adjusted to
+interrupt the phase advance to the AOA threshold. Examination of flight test data indicated that
+of the two SPC channels, the left timed out at 5.5 seconds on the airplane’s three previous flights
+17 Stall protection vanes are located on the left and right side of the fuselage. They measure the local airflow on
+the forward fuselage. The stall vane measured angles are used to derive the airflow over the airplane’s wings and
+provide stall warning and stall prevention. All AOA values in this report are vane AOA.
+NTSB/AAB-04/01
+
+8
+and the right channel timed out at 2.0 seconds, which is the production standard.18 According to
+Bombardier documents included in a November 5, 2001, letter to the National Transportation
+Safety Board, there was insufficient data to determine the timeouts for the accident flight. The
+letter stated that although the left shaker activation may have been delayed, the increased timeout
+would not have affected stick pusher activation.
+The following are normal production shaker and pusher activation vane angles:19
+Shaker 19.2º with a tolerance of +/- 0.35º
+Pusher 23.1º with a tolerance of +/- 0.35º
+Recorded test flight data indicated that the activation vane angles for the accident airplane
+were set at the following values:
+Shaker Left Channel 19.7º
+Shaker Right Channel 19.3º
+Pusher Left Channel 23.6º
+Pusher Right Channel 23.2º20
+No mechanical flight control system discrepancies were reported during the 30-day period
+before the accident.
+Airplane Limitations
+The Challenger 604 Operating Manual contains weight and balance information for a
+normal category, certificated CL-604. According to a restriction and/or special instruction, the
+accident airplane had an expanded weight and balance envelope for takeoff and landing. The c.g.
+range changes based on airplane configuration. According to the CL-604’s type certificate data
+sheet (No. A21EA), the airplane’s aft c.g. limit was 38 percent mean aerodynamic chord (MAC)
+between airplane weights of 43,000 and 47,700 pounds. The accident airplane’s weight at takeoff
+was 44,849 pounds.
+Weight and Balance and Performance Calculations
+The preflight weight and balance data for the accident flight were as follows:
+Zero Fuel Weight 29,254 lbs.
+Left Wing Fuel 4,850 lbs.
+Right Wing Fuel 4,850 lbs.
+Center Fuel 3,800 lbs.
+Aft Fuel 2,500 lbs.
+18 No SPC maintenance was recorded during the period that included the airplane’s final five flights.
+19 The non-phase advanced shaker and pusher angles are based on a flap setting of 20º and a pressure altitude of
+less than 2,000 feet.
+20 The stick pusher activates when each vane angle (on the left side and right side of the airplane’s nose) reaches
+the preset activation angle.
+NTSB/AAB-04/01
+
+9
+Ramp Weight 45,254 lbs.
+c.g. 37.4 percent MAC
+Flight test tolerances for the accident flight were as follows:
+• Stick Shaker/pusher set to nominal
+• Test weight tolerance: +5 percent to –1 percent
+• c.g. position tolerance: 7 percent of total travel
+• Airspeed tolerances are 3 knots
+• Non-turbulent conditions
+Postaccident Fuel Weight Calculations and Weight and Balance
+The CL-604 fuel computer uses a fixed constant fuel weight (density)21 of 6.75 pounds
+per U.S. gallon (variability of density due to nonstandard temperature was not considered in the
+equation).22 After the accident, Bombardier recalculated the airplane’s weight and balance based
+on a takeoff weight of 44,849 pounds and a fuel weight value of 6.75 pounds per gallon.23 In a
+December 13, 2000, memorandum to the Safety Board, Bombardier’s calculations indicated that
+the airplane’s c.g. was 37.9 percent MAC at the start of the takeoff roll.
+In addition, Bombardier recalculated the airplane’s c.g. estimating both the shift within
+the tanks and the amount of fuel transfer between fuel tanks during the takeoff roll and initial
+rotation. The transfer rates calculated between fuel tanks were as follows:
+Forward auxiliary tank to center auxiliary tank 0.735 gallons per second
+Center auxiliary tank to aft auxiliary tank 0.875 gallons per second
+Saddle tanks to tail cone tank 0.484 gallons per second
+The following table compares fuel tank quantity and transfer changes between the start of
+the airplane’s takeoff roll (zero pitch angle as the airplane accelerated down the runway before
+rotation) and 20 seconds later with an airplane pitch angle of 13.8°at rotation:24
+Table 2. Comparison of Fuel Tank Quantity and Transfer Changes
+Tank Before Acceleration, at Zero Pitch Angle 13.8° Pitch Angle, at Rotation
+Forward Auxiliary 41.5 gallons 26.8 gallons
+Center 491 gallons 488.2 gallons
+Aft Auxiliary 26 gallons 43.5 gallons
+Saddle Tanks 212.5 gallons 202.8 gallons
+Tail Cone 165 gallons 174.7 gallons
+21 FAA publication FAA-H-8083-1, Aircraft Weight and Balance Handbook, states that fuel weight is
+determined by its specific gravity and temperature.
+22 The standard day, sea level density for Jet A fuel is about 6.789 pounds per U.S. gallon.
+23 Fuel samples taken at the Bombardier facility on November 16, 2000, nearly matched the typical fuel density
+of 6.75 pounds per gallon.
+24 The 13.8° value was chosen as a minimum flow, or best-case scenario assuming fuel shifts near rotation.
+NTSB/AAB-04/01
+
+10
+In addition, Bombardier stated that fuel could also shift between rib bays in the airplane’s
+wing fuel tanks. Based on Bombardier fuel shift calculations evaluated by the Safety Board staff,
+the airplane’s c.g. increased to 40.5 percent MAC by the time it reached a 13.8° pitch angle
+20 seconds later.25
+Postaccident Center-of-Gravity Related Airworthiness Directives
+The fuel shift/c.g. issue was addressed by Bombardier, Transport Canada and the FAA
+following the accident. On February 1, 2001, Bombardier issued a temporary revision to the
+Challenger flight manual changing the airplane’s aft c.g. limit from 38 percent MAC to 34.5 or
+35.0 percent, depending on airplane weight. The same day, Transport Canada issued
+Airworthiness Directive (AD) CF-2001-07 to make the revision permanent. The FAA issued
+emergency AD 2001-03-52 on February 2. The FAA’s AD stated that the Challenger’s “fuel tanks
+are not baffled, which allows fuel to migrate when the airplane pitches up.” The AD added that
+“fuel migration under conditions of acceleration and/or climb, if not corrected, could result in the
+airplane exceeding the aft center of gravity limit, and consequent loss of control of the airplane.”
+The AD stated that the revision was intended to “prevent fuel migration from resulting in a
+rearward shift of the c.g. to the degree that will result in controllability problems.”
+METEOROLOGICAL INFORMATION
+The ICT automated surface observing system (located 4,500 feet from the approach end of
+runway 19R) recorded the following information at 1450:
+Wind 190° at 20 knots gusting to 26 knots; 10 statute mile visibility; few clouds at
+12,000 feet agl; scattered clouds at 20,000 feet agl; temperature 17° Celsius (C);
+dew point of –11° C; altimeter 30.21 inches of mercury. Peak wind of 29 knots
+from 170°occurred at 1400.
+No microburst or gust front activity was recorded between 1250 and 1450. According to the
+low-level wind shear alert system, centerfield winds were generally from the south/southwest with
+speeds from 15 to 22 knots.
+AIRPORT INFORMATION
+ICT is located about 5 miles southwest of Wichita. The airport has three concrete runways:
+01L/19R (10,300 feet by 150 feet, grooved concrete), runway 01R/19L (7,302 feet by 150 feet) and
+runway 14/32 (6,301 feet by 150 feet). The airport is equipped with aircraft rescue and firefighting
+(ARFF) units under provisions of 14 CFR Section 139.317 Index C.26
+25 The value of 40.5 percent MAC does not include tolerances for c.g. position or for changes in fuel density
+that could change this MAC value by more than 1 percent in either direction.
+26 Index C includes air carrier aircraft of at least 126 feet in length but less than 159 feet in length. According to
+14 CFR 139, a minimum of two or three ARFF vehicles must carry a total quantity of 3,000 gallons of water for
+foam production.
+NTSB/AAB-04/01
+
+11
+Twelve air carriers and three fixed base operators serve the airport. In addition to
+Bombardier, two other airplane manufacturers use the airport for flight test operations. The air
+traffic count from September 1999 to September 2000 was 180,878 flights.
+FLIGHT RECORDERS
+The airplane was equipped with an airborne data acquisition system (ADAS) capable of
+recording 1,780 flight test data parameters. The magnetic flight test data tape and the digital flight
+data recorder (FDR) tape, which recorded additional parameters, were recovered from the
+wreckage. Thermal damage destroyed ADAS flight test data recorded after takeoff rotation. Safety
+Board staff synchronized the instrumented data with the recovered FDR data.27
+The airplane was equipped with a Fairchild model A-100A CVR. The CVR exterior
+received some structural and fire damage. The interior and the tape were not damaged. The
+recording comprised four channels of good quality audio information.28 A transcript was
+prepared from the entire 31-minute recording.
+WRECKAGE AND IMPACT INFORMATION
+The airplane first impacted the ground 437 feet from the intersection of runway 19R’s
+centerline and the extended centerline of taxiway B. The airplane came to rest upright about
+1,174 feet from the initial ground impact scars and 850 feet to the right of the runway centerline.
+Wreckage was found along the entire path. Parts of the right wing, radome, and nose structure
+were found within the first 300 feet of the wreckage path. A large concentration of right engine
+structure was found just past the wreckage path’s midway point. The left wing was found largely
+intact and attached to the fuselage. The right wing was consumed by fire. The empennage
+separated from the fuselage and was heavily damaged by fire. It came to rest in a drainage ditch
+near the fuselage. Flight control cables were found in their approximate correct locations
+throughout the wreckage, but complete cable continuity could not be determined because of
+extensive right wing and empennage damage. Fuel system components in the fuselage and right
+wing were consumed by fire.
+Wreckage of both engines was recovered in the debris field. The left engine was found
+attached to the fuselage. The right engine was located on the road, about 30 feet behind the
+fuselage. An external examination did not reveal evidence of pre-impact anomalies.
+27 For more information on the synchronization of flight test and FDR data, see the Flight Data Correlation Study in
+the Safety Board’s docket for this accident.
+28 The Safety Board uses the following categories to classify the levels of CVR recording quality: excellent,
+good, fair, poor, and unusable. An excellent recording is one that is very clear and easily transcribed. A good
+recording is one in which most of the crew conversations can be accurately and easily understood. The transcript
+that is developed may indicate unintelligible words or phrases. Any loss in the transcript can be attributed to minor
+technical deficiencies or momentary dropouts in the recording system or to a large number of simultaneous
+cockpit/radio transmissions that obscure each other. A poor recording is one in which a transcription is nearly
+impossible because a large portion of the recording is unintelligible.
+NTSB/AAB-04/01
+
+12
+The flight spoiler power control units were found in the stowed position. The extensions
+of the flap actuator jackscrews were replicated on a similar airplane in the Challenger Service
+Center, and the flap setting was calculated to be about 20º.
+The cockpit’s left side was heavily sooted close to the floor and the multifunction
+displays (MFD) in the instrument panel were damaged by heat. The instrument panel was
+displaced aft and downward. The outboard edge of the instrument panel was separated from its
+structure and displaced aft, inboard, and downward. The control yoke was turned to the right.
+Both rudder pedals were jammed against the forward bulkhead. The windshield was crazed and
+sooted.
+The cockpit’s right side was crushed into the copilot’s seat. The outboard corner of the
+instrument panel was separated from the structure and displaced inboard about 3 inches. The
+floor beneath the copilot’s station was displaced upward about 6 inches and rearward about
+14 inches. The copilot’s MFDs were heat damaged. The floor forward of the seat was destroyed
+and displaced rearward with the rudder pedals visible from outside the airplane. The outboard
+lower side panel was displaced inboard and separated from the structure. The upper panel was
+displaced rearward. The circuit breaker panel bulkhead was displaced downward about 9 inches
+at its forward side and was free of its upper attachments.
+The right side wall and outer cabin floor structure in the forward-to-mid cabin, forward of
+the flight test engineer’s station, were destroyed by fire.29
+MEDICAL AND PATHOLOGICAL INFORMATION
+Autopsies of the PF and flight test engineer were conducted by the Sedgwick County
+Regional Forensic Science Center in Wichita, Kansas. According to the autopsy report, the pilot
+died at the scene of the accident after suffering blunt force trauma, smoke inhalation and burns.
+The cause of death was listed as “carbon monoxide toxicity and smoke inhalation.” The flight
+test engineer died at the scene of “blunt force trauma of head and neck.” The report added that he
+also suffered “postmortem thermal burns,” fractured vertebrae and cervical spinal cord
+lacerations. There was no evidence of carbon monoxide or soot in his airways or lungs,
+according to the autopsy report. The copilot, who sustained blunt force trauma and burns, was
+removed from the cockpit by rescuers and transported by ambulance to a local hospital, where he
+arrived about 1548 hours. He died on November 15, 2000, of “complications from thermal
+burns.”
+The Regional Forensic Science Center and the FAA’s Civil Aerospace Medical Institute
+performed toxicological testing of the pilot and flight test engineer. The tissue and blood
+specimens tested negative for a wide range of drugs, including major drugs of abuse.30
+29 For information about the cabin passenger door, emergency exit and the flight test engineer’s seat see the
+section titled, “Survival Aspects.”
+30 The five drugs of abuse tested in the postaccident analysis are marijuana, cocaine, opiates, phencyclidine, and
+amphetamines.
+NTSB/AAB-04/01
+
+13
+EMERGENCY RESPONSE
+Two ARFF vehicles arrived at the accident site within 90 seconds, according to ARFF
+dispatch logs and personnel statements.31 Wichita Fire Department (WFD) was notified about
+1452 and the first unit arrived about 1458, according to WFD dispatch logs. WFD responded
+with 48 personnel and 23 vehicles. Both pilots were reported to be conscious when the initial
+ARFF units arrived at the accident site.
+Access to the crash site from the airport was hampered by the damaged fence and by a
+ditch along the road. ARFF vehicles Safety 1 (S-1) and Safety 3 (S-3)32 responded first with
+three firefighters, all of who were wearing protective gear. S-3, manned by one driver, was first
+to arrive. ARFF vehicle S-1 arrived with a driver and the airport police captain. The ARFF
+training captain and the ARFF deputy chief followed in an airport pickup truck, along with ARFF
+vehicle S-2, which was manned by one driver. The ARFF chief arrived in his car.
+The drivers of vehicles S-1 and S-3 initially remained in their trucks and used foam to
+extinguish the fuselage fire and burning fuel under the airplane. The S-3 driver stated that, when
+he arrived, the fuselage was “engulfed in flames, even the roof.” He stated that he first used his
+roof turret to extinguish fires on the left wing and the airplane’s left side and top before moving
+into position to put out fires on the right wing and fuselage.
+After the S-2 vehicle arrived, the driver of S-3 exited his vehicle and assisted the training
+captain, who was attempting to break holes in the cockpit side windows to direct water from
+hand-held hoses into the cockpit and onto the pilots.33 ARFF personnel used fire axes,
+sledgehammers, and crowbars to break holes in the left and right side cockpit windows. A hole
+was first made in the cockpit’s left side window, and water was directed into the cockpit to
+suppress the fires and protect the flight crew. A second hole was also punched through the
+copilot’s window.34
+Upon their arrival, firefighters observed an impact-related hole on the top of the
+fuselage’s left side (located aft of the main passenger door and forward of the left wing) and
+directed fire extinguishing agent through the hole. After WFD personnel arrived, forced entry
+tools (hydraulic cutters and spreaders) were used in an unsuccessful attempt to force the
+31 ARFF officers and firefighters reported that they first heard a loud noise and saw black smoke at the west side
+of the airport. The crash alarm activated as personnel were running to their vehicles. The ARFF chief stated that,
+before he responded to the scene, he confirmed that the ARFF dispatcher had contacted 911 and had requested
+mutual assistance from Sedgwick County and the Wichita Fire Department (WFD).
+32 In addition to two police cars, the airport had four ARFF vehicles: S-1 was a 1997 quick response vehicle
+equipped with 300 gallons of water, 40 gallons of 3 percent aqueous film forming foam (AFFF) and 450 pounds of
+dry chemical agent. Safety 2 and 3 were Oshkosh T-1500 vehicles equipped with 1,585 gallons of water, 205 gallons
+of 3 percent AFFF and 700 pounds of dry chemical agent. S-4 was an Oshkosh M-1500 equipped with 1,500 gallons
+of water and 180 gallons of 3 percent AFFF; S-4 was undergoing maintenance and did not respond to the accident.
+33 According to the Federal Aviation Regulations (FAR), cockpit front and side windshield panes and the
+supporting structure for these panes must withstand, without penetration, the impact of a 4-pound bird when the
+velocity of the airplane (relative to the bird along the airplane’s flightpath) is equal to the value of V (design cruise
+c
+speed) at sea level, described in 14 CFR 25.335(a). V for the accident airplane is 300 knots indicated airspeed
+c
+below 8,000 feet.
+34 Several smaller holes were punched through the left and right front windows.
+NTSB/AAB-04/01
+
+14
+passenger door open. According to ARFF personnel statements, no attempts were made to open
+the emergency hatch over the right wing. ARFF personnel stated that they were aware of the
+hatch’s location and operation. ARFF personnel reported that the hole on the left side of the
+airplane provided sufficient access to the cabin and that entry through the hatch was not
+necessary.
+WFD assisted with additional forced entry tools to enlarge the holes in the side cockpit
+windows, and to enlarge another hole located on the left side of the fuselage and forward of the
+wing. Additional water spray was used to protect the WFD firefighters who entered this hole to
+rescue the flight crew. The copilot was extricated from the cockpit about 20 minutes after ARFF
+units arrived and was transported to a hospital about 1541. The PF died before he could be
+extricated. The flight test engineer was found dead in the cabin near the cockpit bulkhead.
+The ARFF S-2 truck was equipped with a penetrator nozzle, which can be used to pierce
+an airplane’s fuselage to deliver water or foam inside the airplane. ARFF personnel stated that
+two firefighters were needed to prepare and operate the nozzle and hose. The ARFF chief stated
+that “only three ARFF personnel [were] on scene in first arrivals and they concentrated on
+knocking down the fire that was on both sides of the airplane.” The chief stated that additional
+firefighters would have aided rescue efforts.
+An ARFF captain/supervisor stated that the “tower provided us with no information…in
+the first three, four, five minutes at the scene. We knew nothing that was on there. We didn’t even
+know if this was a commercial airplane, test airplane or whatever.”
+A fuel-fed vegetation fire was also extinguished. One ARFF officer was treated for smoke
+inhalation.
+Emergency Response Training
+At the time of the accident, multiagency drills at ICT were held quarterly and involved
+ARFF and law enforcement personnel, the Sedgwick County Fire and Sheriff’s departments, and
+the Wichita fire and police departments.
+ARFF personnel had received familiarization training on air carrier and military airplanes
+that use the airport. No similar training was provided for flight test airplanes based at the airport,
+which are frequently equipped with special features including ballistic-initiated spin recovery
+parachutes, forced entry locations, and pyrotechnic-operated emergency hatches.
+At the time of the accident the Airport Authority’s Airport Safety Division employed 24
+people, who received law enforcement and ARFF initial and yearly recurrent training. Four
+people were assigned to ARFF duties and two were assigned to airport law enforcement duties
+for each 8-hour shift.
+The Safety Board addressed ARFF staffing concerns when it issued Safety
+Recommendation A-01-65 to the FAA. Safety Recommendation A-01-65, issued on October 23,
+2001, asked the FAA to “amend 14 Code of Federal Regulations 139.319 (j) to require a
+minimum Aircraft Rescue and Fire Fighting staffing level that would allow exterior firefighting
+and rapid entry into an airplane to perform interior firefighting and rescue of passengers and
+NTSB/AAB-04/01
+
+15
+crewmembers.” In a February 19, 2002, letter to the Safety Board, the FAA stated that it had
+asked the Aviation Rulemaking Advisory Committee (ARAC) Airports Issue Group to create an
+ARFF Requirements Working Group to examine ARFF staffing levels as part of an overall
+ARAC review of 14 CFR Part 139. On October 17, 2002, Safety Recommendation A-01-65 was
+classified “Open—Acceptable Response,” pending results of the ARAC working group and
+implementation of the recommendation.
+SURVIVAL ASPECTS
+The airplane’s configuration comprised pilot and copilot seats, a cockpit jump seat, and a
+flight test engineer station in the airplane cabin. The flight test engineer’s station was located on
+the right side of the cabin. The seat was located adjacent to the emergency exit over the right
+wing. All crew seats were equipped with 5-point adjustable restraints. The pilots survived the
+impact sequence, but injuries and damage to the forward fuselage and cockpit prevented them
+from escaping unaided.
+A manually operated, downward-opening main passenger door (with integral stairs) was
+located on the left side of the fuselage, aft of the cockpit. The main passenger door was found
+fully closed and latched. Safety Board staff examination revealed that the fuselage had buckled
+into the door, with evidence of shear and/or compression overload (skin wrinkles) on the forward
+fuselage and cabin door. Attempts by Safety Board investigators to open the door manually
+(with the inside and outside releases) were unsuccessful. The exterior handle was found out of
+its stowed position in a horizontal position; the handle could be moved 1.5 inches
+counterclockwise from the horizontal. Further investigation revealed that the mechanical
+fasteners that attach the aft center latch cam to the torque tube were sheared. The door’s interior
+and latching mechanism exhibited evidence of a compressive overload to the door’s lower
+tension rod and buckling damage to the door intercostals. An internal inspection of the door
+structure revealed damage to the forward part of the door stairs.
+The airplane was equipped with an inward-opening, plug-type emergency exit hatch over
+the right wing. The exit can be opened from either inside or outside the airplane. The hatch was
+found in the closed and secured position. Postaccident examination determined that the exit was
+operational from the outside and inside.
+The cockpit was not equipped with egress hatches. The airplane’s windows were an
+integral part of the airframe structure and could not be opened. Pilot and passenger egress was
+through the forward passenger door or through the over wing hatch.
+The flight engineer’s station was located in the middle of the cabin near the right over-
+wing emergency hatch. Firefighters found the flight test engineer’s seat in the forward cabin near
+the flight test engineer’s body. The seat swivel adjustment was found locked in the forward
+facing position. The seat was separated by impact forces from its floor mounts and seatback
+vertical supports. The seat mounts were found attached to the floor seat track. No floor damage
+was found at the flight test engineer’s station. There was no evidence of fire damage or sooting
+on the floor mounts. The restraint system was found attached to the seat by the tie down strap on
+the forward frame of the seat pan. The five point restraint system end fittings were found latched
+inside the release buckle. The left and right seat belts and shoulder harness straps were burned
+NTSB/AAB-04/01
+
+16
+through. The seat was designed to withstand the following loads: 9 G forward, 4 G lateral, 4.65
+G up and 8.1 G down.
+TESTS AND OTHER RESEARCH
+Airplane Performance
+Safety Board staff conducted an airplane performance study as part of the accident
+investigation (see figure 2). According to FDR, CVR and flight test data, the nose gear strut was
+extended (before elevator input) as weight diminished on the nose gear about 0.5 second before
+rotation. Main gear liftoff occurred about 1449:50, as the airspeed reached 143 knots. FDR-
+derived data indicated that the PF used about 10° of nose-up elevator to initiate rotation, and
+main gear liftoff occurred about 1.2 seconds later, with a pitch angle of between 2.8° and 3.8°.
+The 10° nose-up elevator input was maintained for 0.8 second after liftoff until the pitch attitude
+reached 12°, according to FDR data. Pitch attitude continued to increase over the next 1.4
+seconds, peaking at 20°, while nose-up elevator input decreased from 9° to 1° nose up.
+According to the FDR, the vane AOA reached 23°about 3.4 seconds after start of rotation.
+According to Bombardier, the airplane enters the stall warning region after reaching an AOA of
+19°.
+FDR data indicated that the airplane began an uncommanded right roll just before
+reaching peak pitch attitude. The CVR recorded the sound of the stick shaker at 1449:51, and the
+stick shaker sound continued for 2.2 seconds. During this time, a nose-down elevator input of
+about 14° was recorded, followed by a 5.5° nose-up elevator control input, consistent with pilot
+control inputs to correct the airplane’s pitch and roll oscillations. The pitch attitude decreased to
+4.3° nose up and the bank angle increased to about 80° right-wing down. During the next
+3 seconds, the airplane rolled left to about wings level as the pitch attitude increased to 18° nose
+up. The vane AOA on the second pitch up was 26.4°. The second pitch up oscillation was
+followed by a second pitch down to -2°, and a right-wing down roll to 61°. This pitch down was
+followed immediately by a pitch up and roll back to wings level, reaching nearly level pitch
+attitude and 40° right-wing down at impact, according to FDR data. Peak nose-up elevator input
+at this time (1449:55) was about 16°.
+The CVR recorded the intermittent activation of stick shaker, aural stall, and bank angle
+warnings beginning with the first pitch up to 20° until about 1 second before impact. After initial
+rotation, all elevator, rudder, and aileron inputs by the pilot were consistent with inputs to
+counter pitch and roll oscillations, according to FDR information. FDR data indicated a peak
+pitch rate of 8.4° per second. (The airplane’s ADAS, which recorded test flight data at a higher
+sampling rate, indicated a pitch rate of 9.6° per second).
+According to FDR data and information derived from the Safety Board staff’s integration
+study of FDR data (flightpath integration), the airplane’s peak airspeed was 170 knots. The
+flightpath integration indicated that the airplane’s peak altitude was about 70 feet. FDR information
+indicated that the engines were operating at 90 percent fan speed until impact.
+NTSB/AAB-04/01
+
+17
+Figure 2.
+Review of the Pilot Flying’s Previous Takeoff Performance
+Safety Board staff reviewed flight data to determine the peak pitch (rotation) rates per
+second during previous takeoffs performed by the PF.
+Data showed a 7.2°-per-second rotation rate on a Challenger test flight on August 16, 2000.
+The airplane’s ramp weight was 41,511 pounds and the c.g. was 31.0 percent MAC. Data also
+showed a 6.5°-per-second rotation rate on takeoff on a Challenger ferry flight from Barrow, Alaska,
+to Fairbanks, Alaska, on September 14, 2000, and a 6.0º-per-second rotation rate on takeoff from
+Fairbanks to Wichita on September 29, 2000, about 2 weeks before the accident. For the Fairbanks-
+to-Wichita flight, the airplane’s ramp weight was 47,204 pounds and the c.g. was 35.5 percent
+MAC. The 35.5 percent MAC was the farthest aft c.g. that the PF had flown in the accident airplane,
+according to Bombardier flight test records. According to Bombardier flight test data, the stall
+protection system did not activate on these flights. The data indicated that the maximum pull control
+column force exerted by the PF during these operations was generally greater than 40 pounds.
+Bombardier stated that the stick force used by the accident pilot during the accident flight rotation
+NTSB/AAB-04/01
+
+18
+“was near and within the upper limit of the normal range of stick forces, based on results from other
+pilots.”
+The accident pilot also flew the Global Express in the weeks before the accident. Flight 592,
+a Global Express BD-700-1A10 flight on September 22, 2000, showed a 8.3º-per-second pitch rate.
+A week earlier, on September 15, flight 589 showed a 6.8° rotation rate. A 5.8°-per-second pitch rate
+was recorded for flight 599, another Global Express, on October 4, 2000. The takeoff c.g. range for
+the Global Express was between 23 percent and 35 percent MAC.
+Bombardier compiled additional takeoff data from 50 flights flown by other BFTC pilots,
+which included operational flights, certification test flights, and the accident flight (flight 535).
+According to Bombardier, the maximum pull control column force during normal operations was
+less than 40 pounds. The parameters examined were maximum pitch rate at rotation versus Mach
+number and c.g., and maximum control column forces at rotation versus c.g.
+Bombardier computed maximum AOA (alpha) measured by the alpha stall vane during
+rotation as a function of Mach number. According to Bombardier, the maximum alpha stall vane
+angles recorded during operational takeoffs were about 14°. The maximum alpha stall vane angle
+values during abused certification takeoffs (that is, nonstandard takeoffs conducted for flight test
+purposes) were between 14°and 19°. The maximum alpha stall vane angle values for the accident
+pilot’s operational takeoffs were between 15° and 17.5°. The maximum alpha stall vane angle for
+the accident flight was 23°. This angle was 4° above the normal setting for stick shaker activation,
+according to Bombardier.
+In addition, Bombardier data indicated that the maximum pitch rates during operational
+takeoffs were 3.4º to 6.1º per second. Maximum pitch rates during abused (or nonstandard)35
+takeoffs during certification were between 3.5º and 7.0º per second. The maximum pitch rates for
+certification performance takeoffs were between 4.8º and 7.5º per second. The maximum pitch rates
+for operational takeoffs performed by the accident pilot were between 6.0º and 7.6º per second. As
+noted previously, the maximum pitch rate for the accident flight recorded by the onboard ADAS
+was 9.6º per second, according to recorded data.
+Center of Gravity and Pitch Feel Sensitivity Studies
+The Safety Board staff conducted c.g. and PFS sensitivity studies in an engineering flight
+simulator at Bombardier Aerospace facilities in Montreal as part of the accident investigation.
+The first c.g. study was conducted without pilots and used elevator values derived from the
+accident flight’s FDR. The study indicated that with a c.g. of 37.9 percent MAC (the start of the
+takeoff roll), the alpha vane AOA did not reach the stick pusher value (for activation). At 40.5
+percent MAC (the c.g. after rotation), the alpha vane AOA peaked about 5° beyond stick pusher
+value (see figure 3).36
+35 The takeoff demonstrations included early rotation (V minus 5 knots) with one engine inoperative; early
+r
+rotation (V minus 10 knots, with a rapid rotation (or over rotation of 2º pitch) with all engines operating; and
+r
+maximum pitch mistrim within the takeoff trim band with all engines operating.
+36 Simulator fidelity diminishes after entry into the stall.
+NTSB/AAB-04/01
+
+19
+Challenger 604
+Simulation Data
+35 Effect of 37.9% to 40.5% cg shift
+30
+c.g. = 40.5% mac
+25
+Stick Pusher
+20
+Stick Shaker
+c.g. = 37.9% mac
+15
+10
+5
+Note: Dashed lines are 37.9% mac c.g.
+0
+Solid lines are 40.5% mac c.g.
+-5
+37 38 39 40 41 42 43 44 45 46 47 48 49
+q
+enav
+ahplA
+Time (sec)
+Figure 3. C.g. Sensitivity and Stick Shaker/Pusher Threshold Values
+In a second c.g. study, an FAA test pilot and a Transport Canada test pilot, who were rated
+in the CL-604, performed takeoffs in the Bombardier engineering flight simulator to determine
+the effects of c.g. location on rotation rate (and the ability to capture the prescribed takeoff pitch
+attitude) and to examine whether there were perceptible differences between the handling
+characteristics of the modified PFS and the production PFS installed on in-service CL-604
+airplanes. The pilots performed takeoffs with c.g. locations ranging from 35.0 percent MAC to
+42.0 percent MAC. The pilots reported that aft c.g. positions caused them to rotate at a
+somewhat higher rate. The pilots noted that these effects were more noticeable when they used
+increased rotation rates (about 6° instead of the normal 3° rotation rate). When increased rotation
+rates were used, the pilots noted that the stick shaker frequently activated but only briefly. The
+pilots also indicated that the simulator was controllable at all c.g. locations using both normal
+and increased rotation rates.
+In the PFS sensitivity study, each pilot performed takeoffs with either the modified or
+production PFS units. The c.g. was set at 40.5 percent MAC for each takeoff. The pilots reported
+no handling differences between the modified PFS and the production PFS units.
+Safety Board staff and Bombardier also conducted simulation studies to determine how
+the pilot’s elevator inputs during the accident would affect pitch rates at different c.g.
+NTSB/AAB-04/01
+
+20
+configurations. The simulations indicated that the pilot’s elevator inputs produced a pitch rate of
+5.5° per second at 35 percent MAC and a rate of 10.5° per second at 40.5 percent MAC (the c.g.
+the accident pilot encountered after rotation).
+PFS Unit Examinations
+The PFS units (model Nos. TY2614 and TY1741) recovered from the airplane were
+examined at TRW Aeronautical Systems, Lucas Aerospace, United Kingdom, under the
+supervision of the United Kingdom Air Accidents Investigation Branch. A visual and x-ray
+examination was performed and no anomalies were noted except for smoke discoloration. No
+anomalies were found during manufacturer-conducted tests before delivery, during acceptance
+tests in Wichita before installation of the units on the accident airplane, or during postaccident
+acceptance testing.
+COMPANY INFORMATION
+Company History and Organizational and Flight Test Structure
+Bombardier was a Canadian manufacturer of ground and water transportation equipment
+before it purchased Canadair on December 23, 1986. The company purchased Learjet Corporation
+on June 29, 1990. Test development activity for the Learjet line continues at the BFTC.
+At the time of the accident, Bombardier Aerospace comprised eight manufacturing plants
+located in five cities, two aircraft parts distributions centers, four approved maintenance
+organizations in four cities, and four approved training organizations in two cities.
+At the time of the accident, a manager of flight test operations and safety was assigned to
+BFTC operations. His duties included providing administrative operational support to engineering
+flight test personnel, ensuring compliance with U.S. Federal Aviation Regulations and Canadian
+Aviation Regulations for pilot currency and qualification tracking, managing flight logs,
+dispatching, and piloting test flights. The manager of flight test operations and safety was the only
+person assigned to the BFTC’s safety department.
+At the time of the accident, the manager of flight test operations and safety reported directly
+to the vice president of flight test at BFTC, who in turn reported to the vice president of engineering.
+The vice president of flight test at BFTC was on the same organizational level as the vice presidents
+of engineering at the Toronto, Belfast, Wichita, and Montreal operations. He was also on the same
+management level with the vice presidents of program management for product development in
+Montreal, the director of quality assurance in Montreal, and the vice president of the Tucson
+Completion Center.37 According to Bombardier, the manager of flight test operations and safety
+37 According to International Civil Aviation Organization Circular 247-AN/148, Section 3.10, a safety program
+“should be administered by an independent company safety officer who reports directly to the highest level of
+corporate management.” The Safety Board, the FAA, and industry safety groups have also recommended that the
+safety officer be independent and report directly to top management. Safety Recommendation A-94-201 asked the
+FAA to require all carriers operating under Part 121 and Part 135 to “establish a safety function, such as outlined in
+Advisory Circular (AC) 120-59, “Air Carrier Internal Evaluation Programs.” AC 120-59 stated that an evaluation
+program, which includes audits, inspections and evaluations, should be an “independent process that
+organizationally has straightline reporting responsibility to top management.” The AC added that “this management
+NTSB/AAB-04/01
+
+21
+currently reports to the vice president of flight test at BFTC and the executive vice president for
+engineering and product development at company headquarters in Montreal.
+Company Flight Test Accident and Incident History
+Before the accident flight, Bombardier and Learjet experienced two fatal accidents
+(including a 1980 accident involving a Canadair CL-600), two nonfatal accidents and one incident.
+On April 3, 1980, a Canadair Limited CL-600 was destroyed during stall testing near
+California City, California.38 The pilot was killed, and the copilot received minor injuries. The
+flight test engineer was not injured. According to statements from the surviving pilot and flight test
+engineer, the flight crew was troubleshooting a noise associated with stalls conducted during
+previous flight test activities. Airplane control was lost during the stall, and the emergency spin
+recovery parachute was deployed. According to the copilot and flight test engineer, who were able
+to bail out, attempts to jettison the parachute were not successful and airplane control was never
+recovered.
+On July 26, 1993, a Canadair CL-600-2B19 was destroyed during lateral and directional
+stability testing near Byers, Kansas.39 The two test pilots and flight test engineer were killed.
+The probable cause of the accident was determined to be the “captain’s failure to adhere to the
+agreed upon flight test plan for ending the test maneuver at the onset of pre-stall stick shaker, and
+the flight crew’s failure to assure that all required switches were properly positioned for anti-spin
+chute deployment. A factor which contributed to the accident was the inadequate design of the
+anti-spin chute system which allowed deployment of the chute with the hydraulic lock switch in
+the unlocked position.”40
+On April 25, 1997, a Canadair BD700-1A10 landed wheels-up following avionics testing at
+Toronto, Canada. The test crewmembers were not injured. A Canada Transportation Safety Board
+(TSB) investigation determined that the flight crew did not lower the landing gear and had not
+followed a landing checklist. The aural gear warning had been disarmed during the flight test and
+not re-armed by the pilots following the test.
+[safety] position should be above the level that directly supervises work accomplishment or procedural development
+and should have direct contact with the chief executive officer or equivalent.” Safety Recommendation A-94-201
+was listed “Closed—Acceptable Alternate Action” after the FAA issued Joint Flight Standards Bulletins (HBAT 99-
+19 and HBAW 99-16) to FAA principal inspectors that provided guidance for the development of a comprehensive
+safety department and the suggested functions, qualifications, and responsibilities for a director of safety position.
+38 The description for this accident, LAX80FA073, can be found on the Safety Board’s Web site at
+<http://www.ntsb.gov>.
+39 The description for this accident, CHI93MA276, can be found on the Safety Board’s Web site at
+<http://www.ntsb.gov>.
+40 As a result of this investigation and an unrelated flight test accident involving a Lockheed C-130, the Safety
+Board issued Safety Recommendation A-94-101, which asked the FAA to inform members of the flight test
+community about the circumstances of these accidents. Specific to the Byers, Kansas, accident, A-94-101 urged that
+“all companies involved in flight test of airplanes with anti-spin parachute systems … incorporate a design feature
+that would prevent the parachute from deploying if the jaws securing the parachute to the airplane are open.”
+According to Bombardier, the spin chute system has been redesigned to prevent the chute’s deployment before it is
+secured to the airplane.
+NTSB/AAB-04/01
+
+22
+On October 27, 1998, a Learjet 45 was destroyed after colliding with a pickup truck
+parked next to the runway during water ingestion testing near Wallops Island, Virginia.41 The
+copilot and flight test engineer received minor injuries. The probable cause of the accident was
+determined to be the “failure of the pilot to obtain/maintain alignment with the water pool, which
+resulted in a loss of control. Factors in the accident were the inadequate preflight planning of the
+flight test facility and the airplane manufacturer which resulted in hazards in the test area and the
+subsequent collision of the airplane with a vehicle.”
+Bombardier also reported a flight test-related incident that occurred on July 21, 2000, when
+a Global Express BD-700-1A10 experienced an elevator jam following its first production test
+flight. The flight crew used a combination of thrust and pitch trim to maintain airplane control. The
+flight crew managed to free the right-hand elevator and landed at Lester B. Pearson International
+Airport in Toronto, Canada. A company investigation revealed that an unflagged rigging pin was
+not removed before the flight.42
+Company Training
+At the time of the accident, Bombardier production and experimental test pilots attended
+initial and recurrent flight training at a company-owned or a commercial flight training facility that
+is structured for operational flying, such as charter and private operations. No test scenarios were
+presented during these courses. Three-week initial training comprised 2 weeks of ground school
+and 1 week of simulator training. One day of line-oriented flight training was provided during
+simulator training.
+Company flight test training is on-the-job, according to Bombardier’s senior engineering test
+pilot. Flight test maneuvers are demonstrated to pilots, and the maneuvers are then performed by the
+pilot in training. Bombardier sends its test pilots and flight test engineers to a 2-week flight test
+short course at a civilian flight test school. Between 33 percent and 40 percent of flight test
+personnel had received military training or had attended a civilian test pilot school before being
+hired.
+The company’s chief test pilot at the time of the 1993 Byers, Kansas, accident told Safety
+Board investigators that flight test training was conducted as an apprenticeship. He stated that pilots
+learned maneuvers and procedure by observing from the jumpseat or second pilot seat. The chief
+test pilot stated that pilots did not receive external test pilot training and that they did not use the
+company’s simulator for flight test training.
+Postaccident interviews with Bombardier flight test employees indicated that no formal
+safety training meetings were conducted. Safety issues were presented during all-hands
+meetings. Several test pilots stated that they were not familiar with details of previous
+Bombardier flight test accidents and would like to be provided flight test incident and accident
+information.
+41 The description for this accident, IAD99FA008, can be found on the Safety Board’s Web site at
+<http://www.ntsb.gov>.
+42 The description for this accident, TSB Occurrence No. A00O0150, can be found at the TSB Web site at
+<http://bst.gc.ca>.
+NTSB/AAB-04/01
+
+23
+Company Flight Test Procedures
+Bombardier’s flight test operational and safety policy manual, Bombardier Flight Test
+Standards and Procedures 3000 (BFTC 3000), was published on October 10, 1996, and revised
+(with revision A) on December 14, 1998. Parts of the manual were incorporated into FAA Order
+4040.26, “Aircraft Certification Service Flight Safety Program,43 which established flight test
+briefing, risk assessment, and risk management procedures. Neither FAA nor Transport Canada
+regulations required Bombardier to have a flight test policies and procedures manual.
+The 1996 BFTC 3000 manual did not require a test hazard analysis (THA) document, which
+addresses hazards, their causes, their effects, minimizing procedures, corrective action, and relevant
+remarks. Revision A contained provisions for hazard identification and risk reduction. Bombardier’s
+chief of flight test operations and safety stated that the document was not used in Bombardier’s
+sustaining programs at the time of the accident but that it was a phased-in program that had been
+implemented in the company’s developmental (experimental) programs, such as the RJ 700
+program.44
+Both documents list risk levels of high, medium, and low for flight maneuvers or flight
+conditions. A high risk level indicates a high probability of an incident or accident involving severe
+damage to equipment and/or injury to personnel. Approval for high risk flights must be received
+from Bombardier’s vice president for flight test or the engineering flight test director.
+High risk test flights include new prototype flight testing. The manual states that such tests
+will be defined high risk “until an operation envelope covering stability and control, engine
+operation…[has] been defined.” The tests included “all flight testing for the expansion or definition
+of limits appropriate to stability and control, flutter, performance, maximum airspeed and engine
+operation, testing that could result in loss of all engines, flight control failures, high speed ‘upset’
+tests, initial stall tests, [and] stall tests with adverse c.g., aerodynamic, configuration, or component
+changes.” High risk test flights also included “evaluation of unproven components in critical
+systems or the airplane in critical environments (e.g. high altitudes, high or low speeds, braking
+systems, flight controls, life support)…, structural demonstrations at limit values, … takeoff
+performance with actual engine shutdown, maximum brake energy test, maximum rudder sideslips,
+high altitude depressurization [or] any flight test, which, in the opinion of the test pilot-in-command
+and/or a representative of the engineering discipline responsible for the flight test to be conducted,
+warrants consideration as high risk.”
+A medium risk level indicates the probability of an incident or accident combined with
+moderate damage to equipment and/or injury to personnel. According to the manual, these tests
+“require more than routine supervision.” Such flights must be approved by the Lear/Canadair
+program manager or the chief of flight test operations and safety. Medium risk flights include, “loss
+of one engine, including fuel starvation due to negative or lateral G, extreme attitudes, testing where
+close visual chase is required, flight outside of the current normal flight and/or operational
+envelope…, operating at minimum usable fuel [and] intentional single engine shutdowns.”
+43 FAA Order 4040.26 was initially published in 1997 and was revised on March 23, 2001.
+44 The Challenger 604 was considered to be under the sustaining program because the airplane had been
+certified. The accident flight was considered experimental because it was to test an unproven change to the airplane.
+NTSB/AAB-04/01
+
+24
+A risk level of low indicates that there is a low probability of incident or accident combined
+with minimal damage to equipment and/or injury to personnel, according to the manual. The risk
+assessment authority for these flights is the PIC.
+Bombardier’s safety risk assessment process is described in BFTC 3000 Revision A as
+follows:
+8.5.2 Steps in Deliberate Safety Risk Management
+a. Hazard Identification: Hazard identification begins with the preparation
+of the test requirements document…and [conducting] a preliminary hazard
+analysis. This analysis is a list of hazards that could occur and result in
+mishaps/incidents/accidents. This preliminary hazard analysis is developed using
+experience, scenario thinking, archives, and similar techniques.
+8.5.5 The Safety Risk Assessment Process
+a. Aircraft Configuration: All test aircraft will be configured in accordance
+with Bombardier Aerospace, Transport Canada, or the Federal Aviation
+Administration directives as appropriate for the conduct of the test.
+b. Crew: All flight crews on the test or chase aircraft will be qualified and
+current IAW [in accordance with] BFTC 3000 prior to the start of the test.
+c. Briefings: All test personnel will participate in pre test briefings.
+d. The Completed Safety Risk Assessment will be briefed prior to each
+flight. The Safety Risk Assessment format will vary IAW program directives.
+However, each completed Safety Risk Assessment is required to contain the
+following information.
+1) Decision Authority Signature
+2) Risk Assessment
+3) Hazard Identification (Not required for low risk flights)45
+4) Risk Reduction (Not required for low risk test flights)46
+Surveillance of the Bombardier Flight Test Facility
+Under a bilateral agreement with the United States, Transport Canada has direct regulatory oversight
+of the BFTC facility. However, there are no Canadian or U.S. regulations specific to the conduct of
+flight test operations. The last Transport Canada inspection of the BFTC facility before the accident
+was conducted on November 5, 1999. A full-time, on-sight Transport Canada inspector was not
+assigned to the BFTC facility until after the accident.
+45 According to the BFTC 3000 manual, hazard identification “begins with the preparation of the test
+requirements document,” which includes “a preliminary hazard analysis.” The manual states that the preliminary
+hazard analysis “is developed using experience, scenario thinking, archives, and similar techniques.”
+46 The BFTC 3000 manual lists risk reduction measures to be conducted before the flight, including
+consideration of whether or not “this configuration (aerodynamic or systems) [has] been flight-tested.”
+NTSB/AAB-04/01
+
+25
+As part of initial certification and subsequent modification programs, Transport Canada test
+pilots and flight test engineers are involved with BFTC management and flight test crews during
+certification tests to validate company compliance. FAA and JAA flight test crews also fly with
+BFTC flight test crews to validate Transport Canada certification of new and modified airplanes.
+Although not defined as regulatory oversight of the operation, the activities provide and opportunity
+to observe company operations, according to Transport Canada.
+The FAA’s MIDO and Wichita Aircraft Certification Office (ACO), located at ICT, provide
+oversight for the manufacture and certification of Learjet airplanes manufactured at the Bombardier
+Learjet facility in Wichita. The Wichita MIDO also issues special flight authorizations for
+Bombardier-Canada airplanes based on limitations developed by Transport Canada. Although the
+FAA’s Wichita ACO is located at ICT, the FAA’s ACO in Valley Stream, New York, has certification
+oversight for the CL604 and other aircraft manufactured by Bombardier in Canada. The New York
+ACO has no direct regulatory oversight responsibility of Bombardier airplanes manufactured in
+Canada and test flown in Wichita. However, according to the manager of the New York ACO, FAA
+certification personnel are authorized to validate Canadian certification test points.
+Transport Canada Postaccident Audit of Bombardier’s Wichita Facility
+After the accident, Transport Canada conducted a Special Purpose Audit at the BFTC from
+October 25 to 27, 2000. The audit report commended Bombardier “for documenting procedures for
+the safe conduct of flight tests [the standards and procedures manual 3000]” but that “the audit
+revealed that the company management does not always enforce the provisions of the manual.” The
+audit report stated that Bombardier project directives authorize specific BFTC engineers to “develop
+and approve developmental and experimental modifications specific to the flight test aircraft that
+can have significant effects on safety.” The report noted that “documentation or specific procedures
+were unavailable to demonstrate that other engineering disciplines, potentially affected by the
+modification, provided sufficient analysis to support safe operation of the aircraft.”47
+In addition, the audit report stated that the “chief of flight operations and safety at BFTC is
+an unusual position in that it combines the ‘Safety Manager’ function with that of ‘Operations
+Manager, which due to their functions have conflicting or incompatible roles.”
+The audit report noted that BFTC has a “well documented safety risk management [SRM]
+process” but that the SRM process did not address several areas. According to the report, these areas
+included the following:
+a) The risk level of a particular flight test activity is assigned prior to the
+expected effect of the minimizing or mitigating procedures. The hazard
+associated with using a[n] SRM tool that assigns risk level without taking
+47 In a November 27, 2003, letter to the Transportation Safety Board of Canada (forwarded to the Safety Board),
+Bombardier challenged several conclusions and observations contained in Transport Canada’s postaccident audit.
+The company stated that it had “challenged Transport Canada … and provided substantial proof that the subject
+documentation and procedures were readily available and that the required engineering oversight for the safe
+conduct of flight testing was beyond reproach.” In addition, Bombardier claimed that the audit “lacked specifics”
+and that “many of its findings were refuted by Bombardier.” Corrective actions were also taken, according to
+Bombardier, including having the safety manager report directly to the executive vice president of engineering on
+safety issues and to the vice president of flight test on day-to-day issues.
+NTSB/AAB-04/01
+
+26
+into account the effectiveness of the risk reduction procedures is that the
+residual risk of a test could actually be higher than perceived;
+b) Low risk tests require no risk reduction, or identification of mitigation
+procedures. This is contrary to one of the basic principles of flight test
+safety, which is quoted in Section 8.5.1 of BFTC S&P 3000, ‘Accept no
+unnecessary risk’; and
+c) Low risk tests are defined as ‘all test flying not described as high or
+medium risk’. There are lists of what are considered high and medium risk
+tests. The implication is that if it is not listed in the high or medium lists,
+then it must be low, without any analysis being performed.
+d) The procedures in place have the potential, particularly in situations of
+time pressure, to over rely on the TDS [test definition sheet] generated risk
+analysis. Under such circumstances, further in-depth analysis of the risk
+associated with the particular test might be warranted.
+The audit report concluded that “it was evident that the level of activity at BFTC was very
+high and is predicted to continue at this pace. The tempo of operations continues to place working
+pressures that have the potential [to] affect flight safety.”
+ADDITIONAL INFORMATION
+The wreckage was released and all retained components were returned to Bombardier
+Incorporated. The FAA, Bombardier and General Electric were parties to the investigation. The
+TSB assigned a technical adviser to the investigation. Transport Canada provided technical
+personnel and resources throughout the investigation, including assistance in FDR/CVR readouts
+and Bombardier simulator tests.
+Normal Takeoff Procedures
+According to the Bombardier Aerospace Challenger 604 Operations Reference Manual, the
+PF rotates to 14° at 3º per second after the “rotate” call from the PNF. The same rotation rate is used
+for an abnormal takeoff (engine failure after V ) but with a reduced pitch attitude of 10°. The
+1
+rotation rate value listed in the Challenger 604 Operations Reference Manual is based on an
+industry average for transport-category aircraft takeoff profiles.
+Flight Test Safety Standards
+During the investigation, Safety Board staff examined flight test standards and programs
+developed by the FAA, the U.S. military, and the civilian National Test Pilot School. FAA
+certification test pilots attend an initial 6-week standardization course at a civilian test pilot school
+and receive 2 weeks of recurrent training. The course covers helicopter and fixed-wing flight test
+fundamentals, flight test safety, and flight test crew resource management (CRM). According to the
+FAA, the majority of FAA test pilots had received formal test pilot training from a military test pilot
+school before being hired, although the FAA also hires test pilots who have at least 1 year of
+NTSB/AAB-04/01
+
+27
+industry flight test experience. FAA test pilots validate test points that have already been performed
+by airplane manufacturers.
+The aircraft certification flight safety program established in FAA Order 4040.26 requires
+FAA management personnel who participate in safety management training to disseminate lessons
+learned to those involved in certification and to receive CRM training. The order also formalized
+procedures for the formal assessment of flight test risks and the acceptance of residual risks when
+signing the type inspection authorization or test plan. The order defined risk management as
+follows:
+The process by which an assessment is made of the risks involved during a flight
+test, the establishment of mitigating procedures to reduce or eliminate the risks,
+and a conscious acceptance of the residual risks. Risk assessment is normally
+done by a safety review process in which a flight test plan is reviewed by project
+and non-project personnel in order to draw out potential hazards and recommend
+mitigating (or minimizing) procedures. Experience has shown that knowledgeable
+non-project personnel who are similarly involved in other projects provide
+valuable contributions to this process. They can identify areas that may have been
+overlooked by the project team (aircraft manufacturer vs. limited flight test
+experience), and flight crew currency in both the test method(s) and aircraft type.
+U.S. Air Force Flight Test Center (AFFTC) Instruction 91-5, “AFFTC Test Safety Review
+Process,” directs the application of system safety principles to the planning and conduct of all
+AFFTC and other designated test programs. It states that safety planning and technical planning are
+integral and that a “smart test team” will interweave technical and safety issues throughout the
+project planning process. The document emphasizes the identification and elimination/control of test
+hazards, the preparation of safety-related forms that include a THA, and the importance of safety
+and technical reviews.
+The National Test Pilot School publication, “Flight Test Training: Luxury or Necessity?”
+addressed the benefits and efficiency of training for flight test pilots and engineers. This publication
+summarized an FAA test pilot’s views as follows:
+In general, on-the-job trained personnel are usually quite good at what they do;
+but their abilities are dependent on what they have been shown in the past. Flight
+testers who have learned on-the-job usually demonstrate very little capability to
+move into new areas of testing because they haven’t been taught the fundamental
+philosophy of flight test. This is particularly noticeable in the area of test safety
+and the incremental approach to test flying.
+NTSB/AAB-04/01
+
+28
+ANALYSIS
+General
+The captain and first officer were properly certificated and qualified in accordance with
+applicable Federal regulations and company requirements.
+The airplane was operating in accordance with a Canadian flight permit and a special use
+authorization issued by the FAA and was properly equipped to conduct flight tests. Examination of
+the flight controls, the modified PFS units, and the airplane’s engines and systems found no
+evidence of pre-impact malfunction.
+Visual meteorological conditions prevailed. Weather was not a factor in the accident.
+Pilot Actions and Weight and Balance Shift
+According to FDR information and calculated performance data, the airplane’s maximum
+pitch rate after rotation was 9.6° per second, an extremely rapid pitch rate which was
+approximately three times greater than the average 3° per second pitch rate recommended in the
+Challenger 604 Operations Reference Manual. Safety Board staff review of the PF’s previous
+takeoff performance indicated that he had commanded excessive pitch rates during several
+takeoffs in the months before the accident, including 6.5°- and 6°-per-second pitch rate takeoffs
+in the Challenger from Barrow and Fairbanks, Alaska, a month before the accident; a 7.2°-per-
+second rotation rate on a Challenger test flight on August 16, 2000; and a 8.3°-pitch-rate takeoff in
+a Global Express on September 22, 2000.
+The amounts of fuel in the airplane’s center, three-in-line auxiliary fuel tanks were not
+isolated from each other, which allowed fuel to move freely through pipes between tanks,
+especially during acceleration and rotation. Postaccident calculations determined that the c.g.
+moved aft as the airplane accelerated down the runway as fuel shifted rearward in the auxiliary
+fuel tanks, tail tanks, and wing tanks. By the time the airplane reached a pitch attitude of 13.8°
+20 seconds after the start of the takeoff roll, the airplane’s c.g. increased to at least 40.5 percent
+MAC, according to Safety Board staff calculations. Although fuel some migration is normal and
+expected in all airplanes, the CL-604’s center fuel tank design allowed for significant fuel
+migration above the range accounted for in the airplane’s certified c.g. range limits. Safety Board
+staff also considered a scenario that did not include fuel migration. Simulation testing indicated
+that without the fuel migration factor, the airplane’s c.g. would have been sufficiently forward to
+prevent the airplane from pitching up sufficiently to trigger the airplane’s stall protection system.
+Thus, the aft c.g., including the c.g. change during the takeoff phase, combined with the
+high pitch attitude and pitch rate commanded by the pilot, resulted in stall and loss of control.
+Moreover, the aft c.g. and the aggressive pitch control inputs by the pilot eliminated the safety
+margin that the c.g. limit and the lower pitch rate guidance of 3° per second were intended to
+provide. Safety Board staff and Bombardier simulation studies indicated that either restoring the
+c.g. margin or reducing the pitch rate to 3° per second would have provided an adequate safety
+margin.
+NTSB/AAB-04/01
+
+29
+Based on FDR data, flight data of the PF’s previous takeoffs, and postaccident fuel
+migration and shift calculations, it is evident that the pilot’s pitch control, combined with
+unanticipated aft c.g. (fuel) shift during acceleration, resulted in an excessive rotation rate and an
+unexpected and faster pitch rate after liftoff, which caused the airplane to stall. The FAA and
+Transport Canada issued ADs after the accident addressing the issue of fuel migration (lowering
+the aft c.g. limit) and the potential for exceeding the airplane’s aft c.g. limit during acceleration
+or climb.
+FDR data indicated that the stick pusher activated twice (following two pitch up
+oscillations) after the airplane’s pitch angle reached the stick shaker and stick pusher activation
+thresholds, and that the pilot made elevator inputs to counter the downward pitch angle induced
+by the stick pusher. During this time, the CVR recorded the sounds of stick shaker, aural stall and
+bank angle warnings. Based on this data, it is evident that the second combination of stall, stick
+pusher activation and subsequent up elevator inputs by the pilot occurred at an altitude too low
+for recovery when the airplane was experiencing wide excursions in pitch attitude and roll.
+As noted previously, postaccident examination determined that the modified PFS units,
+which were to be tested during the flight, were not a factor in the accident.
+Flight Test Oversight
+Safety Board staff examined Bombardier’s flight test operations, company procedures,
+and safeguards to minimize risk. At the time of the accident, Bombardier was phasing in a new
+flight test procedures manual, which included significant changes and additions in the areas of
+flight test preparation, hazard identification and analysis, and risk reduction. However, the
+changes had not yet been implemented in the Challenger sustaining program. Although the
+Challenger program was defined as a sustaining program because the airplane had received prior
+certification, the flight was nevertheless experimental because it was designed to test a
+component change that affected the airplane’s handling qualities.
+During the investigation, it was determined that the accident flight’s risk assessment was
+subject to several interpretations. For example, the accident flight was assessed as a low risk test
+flight by Bombardier’s manager of flight test operations and safety, who stated that the
+determination was made because the airplane was operating within its c.g. range and because
+“the modification was stabilizing.” A Transport Canada test pilot later came to the same
+conclusion. However, an FAA test pilot concluded that the flight was a medium risk flight
+because it involved the modification of a flight control system. This disparity in risk assessment
+underscores the importance of a formal safety review and THA standard, especially when there are
+competing assessments. Even if the changes to PFS units were considered minor and ultimately
+judged not to pose a medium risk, it is noted that the risk assessment was made minutes before the
+flight and did not take into account that the changes were to a flight control system that was to be
+tested in flight for the first time during a complex maneuver.
+Pilot selection and crew pairing are also part of the flight test safety equation. According
+to Bombardier, test flight training is on-the-job. Although on-the-job flight test training is a
+common industry practice, several airplane manufacturers (including Bombardier) and flight test
+NTSB/AAB-04/01
+
+30
+schools have implemented an incremental approach to flight test training. This approach includes
+a gradual increase in flight test complexity during on-the-job training and the pairing of newly
+hired flight test pilots with an experienced flight test pilot before the new hires are allowed to
+conduct test flights as PICs. It is noted that the accident pilot, whose experience was largely in
+routine, entry-level operational and production testing, rather than flight testing, was assigned as
+PIC to test airplane control performance and airplane handling qualities in a complex flight test
+maneuver that he had never flown. The copilot, who was an experienced test pilot in other
+airplanes, was assigned second-in-command duties to familiarize himself with the Challenger,
+not to demonstrate flight test procedures and maneuvers that were unfamiliar to the accident
+pilot.
+During its investigation, Safety Board staff reviewed test flight safety information from
+several sources, including the FAA, U.S. Air Force and the National Test Pilot School. The
+sources recommend developing THA worksheets for test flights, which include information on
+potential hazards, risk minimizing procedures, or emergency procedures. Briefing a test flight
+with a THA helps pilots focus on the specific risks involved in a test flight and helps to minimize
+the risk of complacency. Bombardier did not use these worksheets for preflight test briefings.
+Neither the flight test card nor the preflight briefing for the accident flight called for a
+“build-up” of the flight test maneuver to be flown. A typical build-up for such a maneuver would
+have called for a gradual entry into the maneuver, at lower speeds and at a more stable c.g.
+location, before executing the prescribed maneuver at higher speeds and G forces and aft c.g.
+configurations. The preflight briefing also did not include a discussion about test maneuver
+techniques or about what procedures to follow in the event of a problem or failure in the
+modified systems to be tested. Pitch rate targets were also not discussed in the context of an aft
+c.g. test flight. Although the accident flight was to be conducted within the airplane’s aft c.g.
+limit, the c.g. was near the aft limit and should have been briefed to increase awareness of pitch
+rate performance in this configuration.
+Safety Board staff review of Bombardier flight data from 50 flights flown by BFTC
+pilots, including several senior test flight and management pilots, indicated that pilots routinely
+commanded pitch rates that were more than double the recommended rate of 3° per second
+during operational takeoffs. Company flight operations data, collected from every Bombardier
+test flight and archived, is not reviewed as part of an overall company flight operations quality
+assurance program. Therefore, this high pitch rate practice, and its potential for hazard, was not
+identified by senior Bombardier management.
+Finally, despite experiencing three fatal and two nonfatal accidents during product
+development, Bombardier did not have a safety manager who reported directly to senior
+management at headquarters in Montreal, did not conduct regular safety meetings, and did not
+maintain a “lessons learned” safety database accessible to flight crews.
+Based on its review of Bombardier’s flight test operations and other relevant safety
+programs, the investigation determines that Bombardier’s oversight of its flight test program was
+inadequate because risk assessment procedures in place for the Challenger program were not
+followed and because a more comprehensive risk assessment program, which would have
+required a more timely and thorough risk assessment of the accident flight, had not been
+NTSB/AAB-04/01
+
+31
+implemented for the Challenger test program, although it had been used for 2 years in the
+company’s RJ 700 program. Further, it is evident from the investigation that Bombardier’s
+operation of its flight test program was deficient because the preflight briefing was inadequate,
+because a relatively inexperienced flight test pilot was chosen for a flight that involved a
+complex maneuver he had never flown (and in an aft c.g. configuration greater that he had ever
+flown), because a build-up for the accident flight was not considered, and because the company
+failed to identify a history of its pilots’ practice of high rotation rate takeoffs, which becomes
+even more critical in airplanes configured with aft c.g.’s. Finally, it is evident from the
+investigation that Bombardier’s safety program was deficient because the safety manager at the
+time of the accident did not report directly to senior management. However, it should be noted
+that the BFTC safety manager now reports directly to senior management in Montreal and that
+Revision A of BFTC 3000 is now used for the Challenger program.
+Transport Canada and FAA Oversight of Flight Test Programs
+Under the terms of a bilateral agreement, Transport Canada had direct regulatory
+oversight of Bombardier’s BFTC operations involving the company’s Canadian-manufactured
+airplanes, although the last inspection of the facility was conducted nearly a year before the
+accident. Although Transport Canada assigned a full-time inspector to the BFTC facility after the
+accident, there was very little surveillance of the facility’s flight test operations at the time of the
+accident. Further, there are no Canadian or U.S. regulations specific to the conduct of flight test
+operations. Neither FAA nor Transport Canada regulations require Bombardier, or other flight
+test operations, to have a flight test policies and procedures manual.
+It is evident from the investigation that Bombardier is developing and using its Flight Test
+Standards and Procedures 3000 manual, but Transport Canada’s audit observation indicated that
+the company did not always enforce the provisions of its own manual. Thus, Transport Canada
+and the FAA are only monitoring a largely voluntary program. The flight test operations and the
+corporate safety culture they require would benefit from the adoption of Transport Canada- and
+FAA-approved flight test standards and procedures. It should be noted that Transport Canada is
+currently considering regulations to require the use of an approved flight test operations manual
+and is implementing additional procedures to improve regulatory oversight of flight test
+operations, including those at BFTC.
+Survival Factors
+The emergency response to the accident site was timely, with two ARFF vehicles and
+three firefighters arriving at the scene within 90 seconds of the crash. However, there were not
+sufficient ARFF personnel equipped with protective gear in the immediate response to fight the
+fires and perform a rescue. The first responders to the scene, two ARFF fire trucks and three
+ARFF personnel, initiated a mass application of water and firefighting agent to extinguish the
+fuel-fed, exterior fire, which had engulfed the fuselage. The firefighters stated that they could
+hear the pilots calling for help after the large exterior fires had been extinguished. Two of the
+three personnel were occupied in their vehicles with firefighting activities, according to ARFF
+officials. Firefighters stated that additional personnel during the initial response would have
+allowed them to suppress the cockpit fire more quickly.
+NTSB/AAB-04/01
+
+32
+During its investigation of a runway overrun accident involving a McDonnell Douglas
+MD-82 in Little Rock, Arkansas, in 1999,48 the Safety Board examined whether a passenger who
+needed to be rescued from the wreckage would have survived if sufficient ARFF personnel had
+been available to perform a rescue. In a situation similar to the Challenger accident, rescue
+efforts could not be conducted effectively until off-airport firefighters arrived at the scene.
+Although the Safety Board could not determine whether the passenger would have survived if
+more ARFF personnel had been available, it expressed concern that Federal regulations did not
+ensure that ARFF units would be staffed at levels sufficient to conduct simultaneous firefighting
+and rescue activities.49 As a result, on October 23, 2001, the Safety Board issued Safety
+Recommendation A-01-65 to the FAA. Safety Recommendation A-01-65 asked the FAA to
+“amend 14 Code of Federal Regulations 139.319 (j) to require a minimum Aircraft Rescue and
+Fire Fighting staffing level that would allow exterior firefighting and rapid entry into an airplane
+to perform interior firefighting and rescue of passengers and crewmembers.”50
+The flight test engineer’s station was located in the middle of the cabin. The flight test
+engineer’s body was found forward near the cockpit bulkhead. He had suffered severe blunt
+force injuries. The flight test engineer’s seat frame was found near his body with the 5-point
+latch buckled. The lap belts were found burned through. Damage to the seat, the seat floor
+mounts and the injuries sustained by the flight test engineer indicate that scenario three, that the
+flight test engineer’s seat failed, is the most likely. Based on seat damage, evidence of seat frame
+separation in overload and the lack of similar separation of instrument racks near his seat, it is
+evident that the flight test engineer’s seat separated during the impact sequence, and that his
+injuries were consistent with a lack of restraint.

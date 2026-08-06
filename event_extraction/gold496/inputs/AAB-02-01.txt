@@ -1,0 +1,2595 @@
+PB2002-910401
+NTSB/AAB-02/01
+DCA00MA006
+National Transportation
+Safety Board
+Washington, DC 20594
+Aircraft Accident Brief
+EgyptAir Flight 990
+Boeing 767-366ER, SU-GAP
+60 Miles South of Nantucket, Massachusetts
+October 31, 1999
+
+THESE CORRECTIONS ARE INCLUDED
+IN THIS VERSION OF THE PUBLISHED REPORT:
+AIRCRAFT ACCIDENT BRIEF
+NTSB/AAB-02/01 (PB2002-910401)
+EgyptAir Flight 990, Boeing 767-366ER, SU-GAP
+60 Miles South of Nantucket, Massachusetts
+October 31, 1999
+•
+Page 39 has been updated to correct a reference to left and right outboard ailerons. (27 Mar 02)
+The original statement referred to both ailerons as “left”.
+
+Aircraft Accident Brief
+EgyptAir Flight 990
+Boeing 767-366ER, SU-GAP
+60 Miles South of Nantucket, Massachusetts
+October 31, 1999
+NTSB/AAB-02/0 1 National Transportation Safety Board
+PB2002-910401 490 L’Enfant Plaza, S.W.
+Adopted March 13, 2002 Washington, D.C. 20594
+
+National Transportation Safety Board. 2002. EgyptAir Flight 990, Boeing 767-366ER, SU-GAP,
+60 Miles South of Nantucket, Massachusetts, October 31, 1999. Aircraft Accident Brief
+NTSB/AAB-02/01. Washington, DC.
+The National Transportation Safety Board is an independent Federal agency dedicated to promoting aviation, railroad, highway, marine,
+pipeline, and hazardous materials safety. Established in 1967, the agency is mandated by Congress through the Independent Safety Board
+Act of 1974 to investigate transportation accidents, determine the probable causes of the accidents, issue safety recommendations, study
+transportation safety issues, and evaluate the safety effectiveness of government agencies involved in transportation. The Safety Board
+makes public its actions and decisions through accident reports, safety studies, special investigation reports, safety recommendations, and
+statistical reviews.
+Recent publications are available in their entirety on the Web at <http://www.ntsb.gov>. Other information about available publications also
+may be obtained from the Web site or by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(800) 877-6799 or (202) 314-6551
+Safety Board publications may be purchased, by individual copy or by subscription, from the National Technical Information Service. To
+purchase this publication, order report number PB2002-910401 from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(800) 553-6847 or (703) 605-6000
+The Independent Safety Board Act, as codified at 49 U.S.C. Section 1154(b), precludes the admission into evidence or use of Board reports
+related to an incident or accident in a civil action for damages resulting from a matter mentioned in the report.
+
+Contents
+Factual ...................................................................................................................................1
+Analysis ................................................................................................................................52
+Attachments
+A: EgyptAir Flight 990 Cockpit Voice Recorder Transcript
+B: Response of the Egyptian Civil Aviation Authority to the Draft Report of the
+National Transportation Safety Board
+
+
+
+L
+T RAN SPO National Transportation Safety Board
+A R
+N T
+O E PLURIBUS UNUM A
+I T
+A T IO Washington, D.C. 20594
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: DCA00MA006
+Operator/Flight Number: EgyptAir flight 990
+Aircraft and Registration: Boeing 767-366ER, SU-GAP
+Location: 60 miles south of Nantucket, Massachusetts
+Date: October 31, 1999
+Adopted On: March 13, 2002
+FACTUAL
+On October 31, 1999, about 0152 eastern standard time (EST), EgyptAir
+flight 990, a Boeing 767-366ER (767), SU-GAP, crashed into the Atlantic Ocean about
+60 miles south of Nantucket, Massachusetts. EgyptAir flight 990 was being operated
+under the provisions of Egyptian Civil Aviation Regulations (ECAR) Part 121 and
+U.S. 14 Code of Federal Regulations Part 129 as a scheduled, international flight from
+John F. Kennedy International Airport (JFK), New York, New York, to Cairo International
+Airport, Cairo, Egypt.1 The flight departed JFK about 0120, with 4 flight crewmembers,
+10 flight attendants, and 203 passengers on board. All 217 people on board were killed,
+and the airplane was destroyed. Visual meteorological conditions prevailed for the flight,
+which operated on an instrument flight rules (IFR) flight plan.
+1Under the provisions of Annex 13 to the Convention on International Civil Aviation, the investigation
+of an airplane crash occurring in international waters falls under the jurisdiction of the airplane’s country of
+registry (in this case, Egypt). At the request of the Egyptian Government, the National Transportation Safety
+Board assumed full responsibility for the investigation. Parties to the investigation included the Federal
+Aviation Administration (FAA), Boeing Aircraft Company, and Pratt & Whitney (P&W) Aircraft Engines.
+The Egyptian Civil Aviation Authority (ECAA) designated an accredited representative to the investigation
+on behalf of the Egyptian Government. EgyptAir provided a technical advisor to the ECAA and the
+investigation. The Federal Bureau of Investigation (FBI) also assisted in the investigation. The National
+Oceanic and Atmospheric Administration, U.S. Navy, and U.S. Coast Guard assisted in the search and
+recovery operations.
+NTSB/AAB-02/01
+
+2
+HISTORY OF FLIGHT
+On October 30, 1999, the accident airplane departed Los Angeles International
+Airport (LAX), Los Angeles, California, as EgyptAir flight 990, destined for Cairo, with a
+scheduled intermediate stop at JFK. EgyptAir flight 990 landed at JFK about 2348 eastern
+daylight time (EDT)2 and arrived at the gate about 0010 EDT on October 31, 1999.
+Because of the 10-hour scheduled en route flight time from JFK to Cairo, ECAR
+Part 121, Subpart Q, required that the accident flight have two designated flight crews
+(each crew consisting of a captain and first officer). According to the EgyptAir flight
+dispatcher who accompanied the two accident flight crews from their hotel in New York
+City to the airport, they departed the hotel about 2330 EDT on October 30 and arrived at
+JFK about 40 minutes later, about the same time as the airplane, inbound from LAX,
+arrived at the terminal gate.
+According to air traffic control (ATC) records, by 0101, the pilots of EgyptAir
+flight 990 had requested, received, and correctly read back an IFR clearance from ATC.
+ATC transcripts further indicated that between about 0112 and 0116, air traffic controllers
+issued a series of taxi instructions to EgyptAir flight 990. At 0117:56, the pilots advised
+the local controller that they were holding short of the departure runway (runway 22 right
+[22R]) and that they were ready for takeoff. The local controller instructed EgyptAir
+flight 990 to taxi into position and hold on runway 22R and, at 0119:22, cleared the
+accident flight for takeoff. The first officer acknowledged the takeoff clearance, and, about
+0120, the airplane lifted off runway 22R.
+Shortly after liftoff, the pilots of EgyptAir flight 990 contacted New York Terminal
+Radar Approach (and departure) Control (TRACON). New York TRACON issued a series
+of climb instructions and, at 0126:04, instructed the flight to climb to flight level
+(FL) 2303 and contact New York Air Route Traffic Control Center (ARTCC). According
+to ATC and cockpit voice recorder (CVR) records, at 0135:52, New York ARTCC
+instructed EgyptAir flight 990 to climb to FL 330 and proceed directly to DOVEY
+intersection.4
+According to the CVR transcript,5 about 0140 (20 minutes after takeoff), as the
+airplane was climbing to its assigned altitude, the relief first officer suggested that he
+relieve the command first officer at the controls,6 stating, “I’m not going to sleep at all. I
+might come and sit for two hours, and then…,” indicating that he wanted to fly his portion
+of the trip at that time. The command first officer stated, “But I…I slept. I slept,” and the
+2 At 0200 EDT on October 31, 1999, local time in the eastern United States changed from 0200 EDT
+to 0100EST. Unless otherwise indicated, all times in this document are EST, based on a 24-hour clock.
+3 FL 230 is 23,000 feet mean sea level (msl), based on an altimeter setting of 29.92 inches of mercury.
+4 This clearance resulted in EgyptAir flight 990 passing through a type of special-use airspace referred
+to as a “warning area.” New York ARTCC and U.S. Navy records indicated that the warning area was not in
+use by the U.S. Navy at the time of the accident. For additional information, see the Air Traffic Control
+Group Chairman’s Factual Report and its attachments.
+5A complete, English-language transcript of the CVR is attached to this report.
+NTSB/AAB-02/01
+
+3
+relief first officer stated, “You mean you’re not going to get up? You will get up, go and
+get some rest and come back.” The command first officer then stated, “You should have
+told me, you should have told me this, Captain [relief first officer’s surname].7 You should
+have said, ‘[command first officer’s first name]…I will work first.’ Just leave me a
+message. Now I am going to sit beside you. I mean, now, I’ll sit by you on the seat. I am
+not sleepy. Take your time sleeping and when you wake up, whenever you wake up, come
+back, Captain.”
+The relief first officer then stated, “I’ll come either way…come work the last few
+hours, and that’s all.” The command first officer responded, “No…that’s not the point, it’s
+not like that, if you want to sit here, there’s no problem.” The relief first officer stated, “I’ll
+come back to you, I mean, I will eat and come back, all right?” The command first officer
+responded, “Fine, look here, sir. Why don’t you come so that…you want them to bring
+your dinner here, and I’ll go to sleep [in the cabin]?” The relief first officer stated, “That’s
+good.” The command first officer then stated to the command captain, “With your
+permission, Captain?”
+At 0140:56, the CVR recorded the sound of the cockpit door operating. About
+1 second later, the command first officer stated in a soft voice, “Do you see how he does
+whatever he pleases?” At 0141:09, the command first officer stated, “No, he does
+whatever he pleases. Some days he doesn’t work at all.” At 0141:51, the CVR again
+recorded the sound of the cockpit door operating. Sounds recorded during the next minute
+by the CVR (including a whirring sound similar to an electric seat motor operating, a
+clicking sound similar to a seat belt operating, and some conversation) indicated that the
+command first officer vacated and the relief first officer moved into the first officer’s seat.
+Flight data recorder (FDR) and radar data indicated that the airplane leveled at its
+assigned altitude of FL 330 at 0144:27. At 0147:19, New York ARTCC instructed
+EgyptAir flight 990 to change radio frequencies for better communication coverage. The
+command captain of EgyptAir flight 990 acknowledged and reported on the new
+frequency at 0147:39.8
+At 0147:55, the relief first officer stated, “Look, here’s the new first officer’s pen.
+Give it to him please. God spare you,”9 and, at 0147:58, someone responded, “yeah.”
+6 When two flight crews are used, EgyptAir designates one crew as the command flight crew and the
+other as the relief flight crew. Although EgyptAir has no written or formal procedures for command/relief
+flight crew transitions, postaccident interviews with EgyptAir flight crewmembers indicated that the
+command and relief flight crews typically agreed upon transfer-of-control procedures for a flight before
+departure. The interviews indicated that the most common procedure involved the command flight crew
+flying the airplane for the first 3 or 4 hours of the flight, then the relief flight crew assuming control until
+about 1 to 2 hours before landing. The command flight crew would then resume control of the airplane and
+complete the flight.
+7Postaccident interviews with several EgyptAir pilots indicated that the relief first officer was often
+addressed as “captain” as a title of respect because he had instructed many of the EgyptAir pilots at the
+Egyptian flight training institute before he was hired by EgyptAir.
+8This was the last transmission to ATC from the accident airplane. Although some irregularities in
+ATC handling were noted during the investigation, they were not relevant to the accident. For additional
+information, see the Air Traffic Control Group Chairman’s Factual Report and its attachments and addenda.
+NTSB/AAB-02/01
+
+4
+At 0148:03, the command captain stated, “Excuse me, [nickname for relief first officer],
+while I take a quick trip to the toilet…before it gets crowded. While they are eating, and
+I’ll be back to you.” While the command captain was speaking, the relief first officer
+responded, “Go ahead please,” and the CVR recorded the sound of an electric seat motor
+as the captain maneuvered to leave his seat and the cockpit. At 0148:18.55, the CVR
+recorded a sound similar to the cockpit door operating.
+At 0148:30, about 11 seconds after the captain left the cockpit, the CVR recorded
+an unintelligible comment.10 Ten seconds later (about 0148:40), the relief first officer
+stated quietly, “I rely on God.”11 There were no sounds or events recorded by the flight
+recorders that would indicate that an airplane anomaly or other unusual circumstance
+preceded the relief first officer’s statement, “I rely on God.”
+At 0149:18, the CVR recorded the sound of an electric seat motor. FDR data
+indicated that, at 0149:45 (27 seconds later), the autopilot was disconnected.12 Aside from
+the very slight movement of both elevators (the left elevator moved from about a 0.7° to
+about a 0.5° nose-up deflection, and the right elevator moved from about a 0.35° nose-up
+to about a 0.3° nose-down deflection)13 and the airplane’s corresponding slight nose-down
+pitch change, which were recorded within the first second after autopilot disconnect, and a
+very slow (0.5° per second) left roll rate, the airplane remained essentially in level flight
+about FL 330 for about 8 seconds after the autopilot was disconnected. At 0149:48, the
+relief first officer again stated quietly, “I rely on God.” At 0149:53, the throttle levers were
+moved from their cruise power setting to idle, and, at 0149:54, the FDR recorded an
+abrupt nose-down elevator movement and a very slight movement of the inboard ailerons.
+Subsequently, the airplane began to rapidly pitch nose down and descend.
+9The context of this statement indicates that the relief first officer was talking to the command first
+officer and that the “new first officer” to whom the relief first officer was referring was a pilot who had been
+in the cockpit earlier in the flight and who was seated in the cabin at the time of this statement. (According to
+the Cockpit Voice Recorder Group Chairman’s Factual Report, an Arabic-speaking member of the Cockpit
+Voice Recorder Group identified the voices of six flight crewmembers and one flight attendant recorded in
+the cockpit at various times during the accident flight.)
+10According to the CVR transcript, “the five Arabic speaking members of the [CVR] group concur that
+they do not recognize this as an Arabic word, words, or phrase. The entire group agrees that three syllables
+are heard and the accent is on the second syllable. Four Arabic speaking group members believe that they
+heard words similar to ‘control it.’ One English speaking member believes that he heard a word similar to
+‘hydraulic.’ The five other members believe that the word(s) were unintelligible.” For additional
+information regarding the computer analysis of this comment, see the section titled, “Cockpit Voice
+Recorder.”
+11This phrase (recorded on the CVR in Arabic as “Tawakkalt Ala Allah”) was originally interpreted to
+mean “I place my fate in the hands of God.” The interpretation of this Arabic statement was later amended to
+“I rely on God.” According to an EgyptAir and ECAA presentation to Safety Board staff on April 28, 2000,
+this phrase “is very often used by the Egyptian layman in day to day activities to ask God’s assistance for the
+task at hand.”
+12No autopilot disconnect warning tone was heard on the CVR recording. According to the system
+design, an autopilot disconnect warning is generated unless the autopilot is disconnected manually, either by
+clicking the control yoke-mounted autopilot disconnect switch twice within 0.5 second or by moving the
+autopilot switch on the instrument panel.
+NTSB/AAB-02/01
+
+5
+Between 0149:57 and 0150:05, the relief first officer quietly repeated, “I rely on
+God,” seven additional times.14 During this time, as a result of the nose-down elevator
+movement, the airplane’s load factor15 decreased from about 1 to about 0.2 G.16 Between
+0150:04 and 0150:05 (about 10 to 11 seconds after the initial nose-down movement of the
+elevators), the FDR recorded additional, slightly larger inboard aileron movements, and
+the elevators started moving further in the nose-down direction. Immediately after the
+FDR recorded the increased nose-down elevator movement, the CVR recorded the sounds
+of the captain asking loudly (beginning at 0150:06), “What’s happening? What’s
+happening?,” as he returned to the cockpit.
+The airplane’s load factor decreased further as a result of the increased nose-down
+elevator deflection, reaching negative G loads (about -0.2 G) between 0150:06
+and0150:07. During this time (and while the captain was still speaking [at 0150:07]), the
+relief first officer stated for the tenth time, “I rely on God.” Additionally, the CVR
+transcript indicated that beginning at 0150:07, the CVR recorded the “sound of numerous
+thumps and clinks,” which continued for about 15 seconds.
+According to the CVR and FDR data, at 0150:08, as the airplane exceeded its
+maximum operating airspeed (0.86 Mach), a master warning alarm began to sound. (The
+warning continued until the FDR and CVR stopped recording at 0150:36.64
+and0150:38.47, respectively.)17 Also at 0150:08, the relief first officer stated quietly for
+the eleventh and final time, “I rely on God,” and the captain repeated his question,
+“What’s happening?” At 0150:15, the captain again asked, “What’s happening, [relief first
+officer’s first name]? What’s happening?” At this time, as the airplane was descending
+through about 27,300 feet msl, the FDR recorded both elevator surfaces beginning to
+move in the nose-up direction. Shortly thereafter, the airplane’s rate of descent began to
+decrease.18 At 0150:21, about 6 seconds after the airplane’s rate of descent began to
+decrease, the left and right elevator surfaces began to move in opposite directions; the left
+13Throughout the FDR data for the accident airplane (including data recorded during uneventful
+portions of the accident flight and during previous flights and ground operations), small (less than 1°)
+differences between the left and right elevator surface positions were observed. The left and right elevator
+surface movements were consistent (that is, moved in the same direction about the same time) where these
+offsets were observed. According to Boeing, there are several factors that could result in differences between
+the left and right elevator surfaces, including rigging of the elevator control system, tolerances within the
+system’s temperature compensation rods, routing differences between the left and right elevator control
+cables, friction distribution within the system, the accuracy of the sensors used to measure elevator position,
+and differences in FDR sampling times for the left and right elevator parameters.
+14Although earlier statements made by the relief first officer were recorded by the hot microphone at the
+first officer’s position, the “I rely on God” statements were not, which was consistent with these statements
+being spoken relatively quietly. For additional information, see the section titled, “Audio Information
+Recorded by First Officer’s Hot Microphone.”
+15 An airplane’s normal load factor is approximately perpendicular to the airplane’s wings. Although
+the terms “vertical load factor,” “vertical acceleration,” and “normal load factor” are often used
+interchangeably, for the purposes of this document, the term “load factor” is used.
+16 A G is a unit of measurement of force on a body undergoing acceleration as a multiple of its weight.
+The normal load factor for an airplane in straight and level flight is about 1 G. As the load factor decreases
+from 1 G, objects would become increasingly weightless, and at 0 G, those objects would float. At load
+factors less than 0 G (negative G), loose objects would float toward the ceiling, and, at -1 G, those objects
+would accelerate toward the ceiling.
+NTSB/AAB-02/01
+
+6
+surface continued to move in the nose-up direction, and the right surface reversed its
+motion and moved in the nose-down direction.
+The FDR data indicated that the engine start lever switches for both engines
+moved from the run to the cutoff position between 0150:21 and 0150:23.19
+Between0150:24 and 0150:27, the throttle levers moved from their idle position to full
+throttle, the speedbrake handle moved to its fully deployed position, and the left elevator
+surface moved from a 3º nose-up to a 1º nose-up position, then back to a 3º nose-up
+position.20 During this time, the CVR recorded the captain asking, “What is this? What is
+this? Did you shut the engine(s)?” Also, at 0150:26.55, the captain stated, “Get away in
+the engines,”21 and, at 0150:28.85, the captain stated, “shut the engines.” At 0150:29.66,
+the relief first officer stated, “It’s shut.”
+Between 0150:31 and 0150:37, the captain repeatedly stated, “Pull with me.”
+However, the FDR data indicated that the elevator surfaces remained in a split condition
+(with the left surface commanding nose up and the right surface commanding nose down)
+until the FDR and CVR stopped recording at 0150:36.64 and 0150:38.47, respectively.
+(The last transponder [secondary radar] return from the accident airplane was received at
+the radar site at Nantucket, Massachusetts, at 0150:34.)22
+Information about the remainder of the flight came from the airplane’s two debris
+fields and recorded primary radar data from long-range radar sites at Riverhead, New
+York, and North Truro, Massachusetts, and the short-range radar site at Nantucket. The
+height estimates based on primary radar data from the joint use FAA/U.S. Air Force
+(USAF) radar sites indicated that the airplane’s descent stopped about 0150:38 and that
+the airplane subsequently climbed to about 25,000 feet msl and changed heading from 80º
+to 140º before it started a second descent, which continued until the airplane impacted the
+ocean.
+17The cessation of the FDR and CVR recordings was consistent with the loss of electrical power to the
+recorders that resulted from the engines being shut off. Although the FDR recorded different parameters at
+different sampling rates and at slightly different times, the last subframe of recorded data was recorded
+at0150:36.64.
+18According to calculations based on FDR data, the airplane’s maximum rate of descent was
+about39,000 feet per minute (fpm); this rate was recorded at 0150:19.
+19The engine start lever switches control the flow of fuel to the engines and are located on the center
+console between the pilot positions. When these levers are moved to the cutoff position, fuel flow to the
+engines is stopped, and the engines stop operating within about 5 or 6 seconds. They are spring-loaded,
+lever-lock design switches that must be pulled up to release from one detent before they can be moved to the
+other position, where they will engage in another detent.
+20The Safety Board’s simulator tests demonstrated that an EgyptAir pilot similar in size to the
+command captain was able to occupy the captain’s seat without physical interference; brace himself against
+the center console or floor structure; readily apply back pressure on the control column; and reach the
+throttles, speedbrakes, and other controls on the central console with the seat in its aft position. (The Board
+recognizes that the simulations could not duplicate the near 0 G loads recorded by the FDR during the
+accident sequence; however, such near 0 G loads were present only momentarily after the recovery started
+and should not have substantially affected the fore-and-aft forces either pilot could generate once normally
+seated and effectively braced.)
+NTSB/AAB-02/01
+
+7
+Airplane wreckage was located in two debris fields, about 1,200 feet apart,
+centered at 40° 21' north latitude and 69° 46' west longitude. The accident occurred at
+night in dark lighting conditions.
+PERSONNEL INFORMATION
+The Safety Board reviewed the command and relief flight crew’s flight and duty
+times and found no evidence that they were outside the limits established by applicable
+regulations. Because the command captain and the relief first officer were identified as
+being the only two crewmembers in the cockpit during the accident sequence, information
+on only these two crewmembers is included in this section.23 The cabin crew comprised
+10 flight attendants. In addition, several nonduty EgyptAir flight crewmembers were on
+board the accident airplane.
+Command Captain Information
+The command captain, age 57, was hired by United Arab Airlines24 on July 13,
+1963. He held an Egyptian airline transport pilot certificate with Boeing 707, 737-200, and
+767-200 and -300 type ratings. The command captain’s most recent medical certificate
+was issued on October 21, 1999, and he was found to be medically fit to fly with glasses in
+accordance with the standards specified in ECAR Part 67, “Medical Standards and
+Certification.” According to his family, the command captain had suffered from chronic
+back problems but was addressing them and had no recent changes in his health.25
+The command captain’s most recent proficiency check was satisfactorily
+completed on March 9, 1999, and his most recent recurrent training was satisfactorily
+completed on August 14, 1999. According to EgyptAir records, at the time of the accident,
+the command captain had flown approximately 14,384 total flight hours, including
+6,356 hours in the 767. The Safety Board’s review of EgyptAir training records for the
+21According to participants in the Cockpit Voice Recorder Group (which included several
+Arabic/English speakers), occasionally the direct translation of Arabic words into English resulted in
+awkward or seemingly inappropriate phrases. Throughout the CVR transcript, the Cockpit Voice Recorder
+Group provided as direct a translation as possible; however, it did not attempt to interpret or analyze the
+words or the intent of the speaker.
+22Surveillance radars fall into two categories: primary (also known as “search”) and secondary (also
+known as “beacon”). Secondary radar broadcasts an interrogation signal to which equipment on board an
+airplane automatically responds by transmitting information to the ground-based site for processing and
+display. Secondary radar returns contain an identification code and altitude data. Primary radar broadcasts
+radio waves and detects the reflections of the waves off objects (including airplanes). Primary radar
+reflections do not contain any unique identification information. (For additional information, see the Aircraft
+Performance Group Chairman’s Aircraft Performance Study.)
+23For more detailed information regarding the background and recent activities of all EgyptAir
+flight990 crewmembers, see the Operational Factors Group Chairman’s Factual Report and its addendum
+and the Human Performance Group Chairman’s Factual Report and its addendum.
+24In 1971, United Arab Airlines was renamed EgyptAir.
+25There was no mention of treatment for chronic back problems in the captain’s records at EgyptAir.
+NTSB/AAB-02/01
+
+8
+command captain indicated that he had accomplished all required checkrides and
+satisfactorily performed all required maneuvers.
+The command captain arrived in New York the afternoon of October 28, 1999,
+after serving as a captain on EgyptAir flight 989 from Cairo to JFK. (Additional
+information about the command captain is contained in the public docket on this accident.)
+Relief First Officer Information
+The relief first officer, age 59, was hired by EgyptAir on September 8, 1987. He
+held an Egyptian commercial pilot certificate with 737-200 and 767-200 and -300 type
+ratings.26 The relief first officer’s most recent medical certificate was issued on July 28,
+1999, and he was found to be medically fit to fly with glasses in accordance with the
+standards specified in ECAR Part 67. According to a close friend, the relief first officer
+had no family history of major medical difficulties and did not complain of headaches,
+indigestion, or other medical problems before the accident.
+The relief first officer’s most recent proficiency check was satisfactorily
+completed on June 19, 1999, and his most recent recurrent training was satisfactorily
+completed on December 19, 1998. According to EgyptAir records, at the time of the
+accident, the relief first officer had flown approximately 12,538 total flight hours,
+including 5,191 hours in the 767. The Safety Board’s review of EgyptAir training records
+for the relief first officer indicated that he had accomplished all required checkrides and
+performed all required maneuvers.
+Before EgyptAir hired him, the relief first officer was a flight instructor, first for
+the Egyptian Air Force and later for a Government-operated civilian flight training
+institute in Egypt. The relief first officer became a Major in the Air Force before he
+transitioned to the flight training institute, where he eventually became the chief flight
+instructor.
+The relief first officer arrived in New York City the afternoon of October 28, 1999,
+after serving as a first officer on EgyptAir flight 990 from LAX to JFK. (Additional
+information about the relief first officer is contained in the public docket on this accident.)
+AIRPLANE INFORMATION
+The accident airplane, SU-GAP, a 767-300 series airplane27 (model 767-366ER
+[extended range]), serial number (S/N) 24542, was manufactured by Boeing and delivered
+new to EgyptAir on September 26, 1989. According to EgyptAir records, it had
+33,354 total hours of operation (7,594 flight cycles)28 at the time of the accident. It was
+26The relief first officer did not upgrade to captain even though he was eligible to do so in the
+early1990s. Colleagues stated that he did not upgrade because he preferred the benefits of seniority in the
+first officer position. According to EgyptAir, the relief first officer became ineligible to upgrade after his
+55thbirthday in February 1995.
+27The 767-300 is a low-wing, twin-engine, transport-category airplane.
+NTSB/AAB-02/01
+
+9
+configured to seat a maximum of 10 first-class, 22 business-class, and 185 economy-class
+passengers and to carry cargo.
+The accident airplane was equipped with two P&W 4060 turbofan engines.
+Company maintenance records indicated that the No. 1 (left) engine, S/N 724126, was
+installed on the accident airplane on April 19, 1998, and had operated about 25,708 hours
+since new and that the No. 2 (right) engine, S/N 724127, was installed on the accident
+airplane on June 3, 1998, and had operated about 19,316 hours since new.
+767 Longitudinal Control System Information
+Because the accident sequence involved a sustained unusual motion about the
+airplane’s pitch axis, the Safety Board examined the 767’s longitudinal flight control
+system. According to the Boeing 767 Maintenance Manual, the 767’s longitudinal flight
+control system includes two (left and right) sets of linked elevator surfaces (inboard and
+outboard), which are attached to the rear spar of the movable horizontal stabilizer by
+hinges. Each outboard elevator surface is driven by three power control actuators (PCA).
+Because the outboard and inboard surfaces are linked, the inboard elevator surfaces move
+when the outboard elevator surfaces are driven. Hydraulic power for elevator PCA
+movement is provided by the 767’s three independent hydraulic systems—each hydraulic
+system powers one of each elevator surface’s PCAs, which provides redundancy within
+the elevator control system. (Components in the elevator control system are shown in
+figures 1a and 1b.)
+Two parallel sets (one operated from the captain’s side, the other from the first
+officer’s side) of flight control components move the elevator surfaces. Control column
+inputs made at the captain’s position are linked directly to the actuators for the left
+elevator surface, whereas control column inputs made at the first officer’s position are
+linked directly to the actuators for the right elevator surfaces. The two parallel sets of
+flight control components are linked together at the forward and aft override
+mechanisms/linkages and slave cable interconnects. Flight control commands from the
+captain’s and first officer’s control columns are transmitted through linkages and cables29
+from the front of the airplane to the left and right aft quadrant assemblies, respectively.
+The aft quadrant assemblies then translate the inputs to the respective bellcrank
+assemblies and the input control rods for each of the three elevator PCAs for each
+outboard elevator surface.
+28A flight cycle is one complete takeoff and landing sequence.
+29The cables for the captain’s (left-side) system are routed below the floor boards, and the cables for the
+first officer’s (right-side) system are routed above the cabin ceiling.
+NTSB/AAB-02/01
+
+NTSB/AAB02/01
+10
+CAPTAIN’S FIRST OFFICER’S
+CONTROL COLUMN CONTROL COLUMN
+TENSION CONTROL
+REGULATOR COLUMNS FIRST OFFICER’S
+QUADRANT OVERRIDE ELEVATOR CONTROL
+(2 LOCATIONS) MECHANISM CABLES
+OVERRIDE MECHANISM
+STICK SHAKER FEEL AND
+(2 LOCATIONS) CENTERING
+UNIT
+AUTOPILOT
+CONTROL SERVO
+(3 LOCATIONS)
+CAPTAIN’S
+ELEVAT C O A R B L C E O S NTROL H ST O A R B IZ IL O IZ N E T R AL
+FEEL
+COMPUTER SLAVE CABLE
+INTERCONNECT
+POSITION
+AFT QUADRANT TRANSMITTER
+INTERCONNECT (2 LOCATIONS)
+ROD
+LEFT AFT QUADRANT
+OUTPUT ARM
+SLAVE (2 C L A O B C L A E T Q IO U N A S D ) RANT CONTROL ROD AFT QUADRANTS
+OVERRIDE
+MECHANISM
+RIGHT AFT QUADRANT OUT R P IG U H T T A A R F M T C Q O U N A T D R R O A L N R T OD
+LEFT AFT QUADRANT
+LOST MOTION POWER CONTROL ACTUATORS (PCA’S)
+DEVICE (3 LOCATIONS ON EACH OUTBOARD ELEVATOR)
+(2 LOCATIONS) FWD
+LEFT INBOARD ELEVATOR
+(RIGHT SIDE EQUIVALENT)
+LEFT OUTBOARD ELEVATOR
+(RIGHT SIDE EQUIVALENT) OUTBD
+NOTTOSCALE
+Figure 1a. Diagram of the components in the entire 767 elevator control system.
+
+NTSB/AAB-02/01
+11
+AUTOPILOT CONTROL SERVOS
+FEEL AND
+C CENTERING R
+UNIT
+POWER CONTROL
+ACTUATOR (PCA)
+L SLAVE INTERCONNECT CABLE
+(6 LOCATIONS)
+BELLCRANK
+ASSEMBLY LOST MOTION DEVICE
+SLAVE CABLE (6 LOCATIONS) (2 LOCATIONS)
+QUADRANT
+(2 LOCATIONS) STICK NUDGER
+STABILIZER
+AFT QUADRANTS
+POSITION
+C TRANSMITTER C
+R (2 LOCATIONS) R
+L L
+LEFT RIGHT
+INBOARD INBOARD
+ELEVATOR ELEVATOR
+LEFT OUTBOARD ELEVATOR
+RIGHT OUTBOARD ELEVATOR
+FWD
+PCA INPUT ARM
+(6 LOCATIONS)
+Figure 1b. Diagram of the aft 767 elevator control system components.
+
+12
+After control cable movement is translated to input control rod movement, the
+control rods move control valves inside the PCAs, allowing high-pressure hydraulic fluid
+to flow to one side or the other of the actuators’ pistons (depending on the direction of the
+input), resulting in elevator movements that correspond to the direction of the input. When
+the elevators reach the commanded position, feedback linkages move the control valves to
+a position in which the hydraulic fluid is blocked off, resulting in no further movement of
+the actuator piston or elevator.
+Testing, evaluation, and analysis of the 767 elevator system showed that any
+movement of the control columns (whether pilot-induced or not) would have resulted in
+concurrent, identifiable movements of the elevators, which would have been recorded on
+the FDR.
+An elevator feel-and-centering unit transmits hydraulic and mechanical feel forces
+to hold the elevator at the neutral (trimmed) position when no control column force is
+applied. It also provides feedback (or feel) force to the control column that increases as the
+control column is moved forward or aft. The feel forces provided are essentially equal at
+both pilot positions because of the connections between the left and right elevator systems.
+The captain’s and first officer’s control columns have authority to command full
+travel of the elevators under most flight conditions and normally work together as one
+system. However, the two sides of the system can be commanded independently because
+of override mechanisms at the control columns and aft quadrant. Therefore, if one side of
+the system becomes immobilized, control column inputs on the operational side can cause
+full travel of the nonfailed elevator. In addition, in many cases, control column inputs on
+the operational side can also result in nearly full travel of the elevator on the failed side
+through the override mechanisms. The elevator PCAs are installed with compressible
+links located between each bellcrank assembly and PCA input control rod to provide a
+means of isolating a jammed PCA, thus allowing the pilots to retain control of that
+elevator surface through its two remaining (unjammed) PCAs.
+767 Elevator Blowdown Information
+During ground operations, the 767 elevator PCAs can drive the elevators through a
+range of motion from 28.5° in the nose-up direction to 20.5° in the nose-down direction.
+However, in-flight elevator deflections can be limited by the aerodynamic forces acting on
+the elevator. The maximum position to which the elevator can move is that which balances
+the aerodynamic forces that are acting on the elevator surfaces against the force produced
+by the elevator PCAs and is referred to as its “blowdown” position. Thus, as the airplane’s
+airspeed increases (increasing the aerodynamic forces acting against the elevator PCAs),
+the elevators’ range of motion is increasingly limited.
+The maximum output force produced by the elevator PCAs is generated by the
+hydraulic system pressure acting on the PCAs’ piston area; if all three elevator PCAs are
+working properly, the total output force for each elevator surface is the sum of the forces
+produced by all three of that elevator’s PCAs. When a dual elevator PCA failure occurs,30
+NTSB/AAB-02/01
+
+13
+the forces produced by the two failed PCAs would overpower the opposing force
+produced by the one nonfailed PCA. The resultant initial force on the elevator surface in
+the failed direction would be equivalent to a single functioning PCA operating at
+100 percent of its maximum force. The failed PCAs would resist the backdriving force31
+with a force equivalent to about 130 percent of a single functioning PCA. The high
+internal pressures required for activation of the PCAs’ pressure relief valves allow the
+PCAs’ pistons to resist the aerodynamic backdriving movement with more force than
+normal operating pressures would allow. Therefore, if a dual PCA failure occurred in
+flight, the elevator would initially move to a position consistent with a single functioning
+PCA operating at 100 percent of its maximum force, balanced against the aerodynamic
+forces affecting the elevator surface. As the airspeed increases, the failed elevator surface
+would remain at this initial position until the backdriving forces exceeded those of a single
+PCA operating at 130 percent of its normal capability, at which point the deflection of the
+failed elevator surface would decrease.32 (Figure 2 is a comparison of the elevator
+positions recorded by the accident airplane’s FDR with failed and nonfailed elevator
+positions following a dual PCA failure.)
+767 Autoflight Systems Information
+The 767 autoflight systems include the autopilot/flight director, yaw damper,
+automatic stabilizer trim, Mach trim, maintenance monitoring, instrument landing system
+deviation monitor, and thrust management systems. The thrust management system
+includes autothrottle control.
+767 Autopilot Information
+The 767 autopilot/flight director system consists (in part) of three separate
+autopilot systems that can be used singly or in combination to provide automatic control
+of the ailerons, elevator, stabilizer, and rudder control systems when operating in selected
+flight modes. Any one of the three autopilot systems can control the airplane in the normal
+climb, cruise, descent, and approach modes.
+30The Safety Board thoroughly examined the dual elevator PCA failure scenarios during its
+investigation of this accident. For more information, see the section titled, “Potential Causes for Elevator
+Movements During the Accident Sequence.”
+31The term “backdriving” refers to the effect of aerodynamic forces that act on the elevator surface and
+move the surface in the direction opposite to that being commanded (by the two failed PCAs, in the case of
+a dual elevator PCA failure). This backdriving force increases as an airplane’s airspeed increases.
+32For additional information, see the section of this report titled, “Potential Causes for Elevator
+Movements During the Accident Sequence.”
+NTSB/AAB-02/01
+
+14
+Figure 2. Comparison of the elevator positions recorded by the accident airplane’s
+FDR with failed and nonfailed elevator positions following a dual PCA failure.
+The 767 autopilot system controls the airplane’s movement about the pitch axis by
+using the elevators for dynamic control of the airplane’s pitch and the horizontal stabilizer
+to trim out steady-state elevator deflections. When the autopilot is engaged and the
+airplane is in a steady-state flight condition, the autopilot is designed to keep the elevators
+near their neutral (or faired) position, using the elevators primarily for short-term dynamic
+adjustments (such as those necessitated by atmospheric disturbances). The elevators are
+also used for small trim adjustments, such as those necessitated by fuel consumption
+during flight. As these small elevator adjustments accumulate over time, the elevator
+deflections move further from their neutral (or faired) position. When the elevators’
+deflections reach a threshold value, the autopilot “retrims” the horizontal stabilizer and the
+elevator returns to a neutral (or faired) position. According to Boeing, when the autopilot
+system is disconnected, the force applied by the autopilot actuator to the elevator control
+system is removed, and, if the horizontal stabilizer has not been adjusted recently, small
+NTSB/AAB-02/01
+.
+
+15
+elevator movements result. Boeing representatives indicated that the following
+circumstances could result in elevator movements at the time of autopilot disconnect:
+• Differences between the neutral position recognized by the autopilot and the
+actual neutral position of the elevator feel-and-centering unit would result in
+the autopilot actuator holding a force that would be released when the system
+is disconnected.
+• The autopilot may have moved the elevators since it last trimmed the stabilizer,
+placing the elevators at a position other than their neutral position at the time of
+disconnect. When the autopilot is disconnected, the elevators would return to
+the neutral position commanded by the feel-and-centering unit. (During
+steady-state flight conditions, this situation occurs because of the effect of fuel
+consumption on the airplane’s center of gravity.) According to Boeing, “this
+type of elevator motion upon autopilot disconnect is inherent in the operation
+of the autopilot system.”
+• Pilot forces on the control column at the time of manual autopilot disconnect
+can affect the movement of the elevator. (The autopilot can be disconnected
+manually by double-clicking the control yoke-mounted autopilot disconnect
+switch.)
+• Mechanical aspects of the elevator control system (including friction, the
+effects of compliance in the system,33 variations among individual autopilot
+actuator units, and variations in the centering detent force) can cause elevator
+movement at the time of autopilot disconnect.
+Boeing’s 767 Maintenance Manual indicates that if the autopilot disconnects
+because of a system failure, the following cockpit warnings and annunciations would
+occur:
+• the red autopilot disconnect warning light illuminates,
+• the red master warning light illuminates,
+• the engine indication and crew alerting system computer displays an autopilot
+disconnect message, and
+• a siren alert sounds.
+Although these autopilot disconnect warnings and annunciations are also
+generated when the autopilot is disconnected by pressing the autopilot manual disconnect
+switch on the control wheel, pressing the manual disconnect switch a second time within
+0.5 second resets, and thus cancels, the system’s disconnect warnings and annunciations
+before they are displayed to the flight crew. The 767 autopilot warnings and annunciations
+system contains multiple redundancies. For example, two warning signals are generated
+33Compliance in the elevator system can occur as a result of cable stretch; yield, give, or elastic
+deformation in linkages (that does not damage the linkages but allows additional motion); and variations in
+tolerance buildups throughout the system.
+NTSB/AAB-02/01
+
+16
+for each of the warning functions listed above: one warning signal uses software logic that
+is powered by normal power (which would be inhibited by a loss of normal power or a
+computer failure), and the other uses hardware logic that is powered by 28-volt alternating
+current standby power.
+767 Autothrottle Information
+The 767’s thrust management system provides autothrottle control based on
+selected modes, existing conditions, and engine limitations. The autothrottle can be
+operated independently of or with the autopilot system. The autothrottle servomotor
+generator is connected to the throttle levers through a clutch pack assembly, which, when
+overridden,34 allows the pilots to make manual thrust inputs when the autothrottle is
+engaged. Movement of the throttle levers aft of the autothrottle commanded position for a
+given flight condition would require a manual force of about 9 lbs at the throttle levers to
+override the autothrottle servomotor clutch.
+When the autothrottle function is engaged, it controls throttle lever movement. The
+maximum autothrottle commanded throttle lever movement rate for a normally
+functioning autothrottle system is 10.5° per second. Manual throttle lever inputs can
+exceed this rate; for example, the accident airplane’s FDR recorded throttle lever
+movement at a rate of 25° per second at the beginning of the accident sequence. The
+minimum throttle lever position that the autothrottle can command varies as a function of
+the airplane’s speed and the autothrottle mode selected. For the accident airplane’s flight
+conditions and the selected autothrottle mode at the beginning of the accident sequence,
+this position would have been 40° to 50°. The FDR recorded a throttle lever position of
+about 33° at the beginning of the accident sequence.
+Reported Autopilot Anomalies in the Accident Airplane
+During interviews conducted at the request of the Egyptian Government on
+February 21, 2001, an EgyptAir captain who had flown the accident airplane from Newark
+International Airport (EWR), Newark, New Jersey,35 to LAX on October 30, 1999,
+reported that he had experienced difficulties with the autopilot during a portion of that
+flight.36 The captain told investigators that the autopilot was “hunting” for the glideslope
+at 8,000 to 10,000 feet msl during the approach to LAX and that, because he was
+uncomfortable with the autopilot’s performance, he disconnected it. The captain reported
+that his three subsequent attempts to reengage the autopilot to intercept the glideslope in
+34A manual force of about 9 pounds (lbs) is required to override the clutch.
+35The October 30, 1999, EgyptAir flight from Cairo was scheduled to land at JFK but diverted to EWR
+because of weather.
+36During interviews conducted 3 days after the accident, the captain that had flown the airplane from
+EWR to LAX on October 30, 1999, described several noncritical anomalies (a deactivated thrust reverser, an
+intermittent air conditioning pack “inoperative” light, a full aft lavatory holding tank, and the autopilot
+anomaly previously mentioned) but stated that the airplane was “almost perfect.” The first officer of the
+flight to LAX did not describe the autopilot anomaly.
+NTSB/AAB-02/01
+
+17
+flight were unsuccessful; therefore, he continued the approach and landed the airplane
+manually. This captain told investigators that the autopilot operated normally when he
+engaged it on the ground after landing at LAX. Examination of the accident airplane’s
+maintenance logbooks revealed no autopilot-related maintenance writeups, and no
+subsequent autopilot anomalies were verbally reported.
+Examination of the FDR data for the October 30th flight to LAX revealed that at
+the time the captain reported he disconnected the autopilot because it was “hunting” for
+the glideslope during the approach to LAX, the autopilot was operating in its LOC
+(localizer approach) mode, which does not have glideslope intercept capability. The FDR
+data indicated that, later in the approach to LAX, when the captain tried to reengage the
+autopilot using the APP (approach) mode, which has both localizer and glideslope
+intercept capability, the airplane had descended far enough below the glideslope that the
+autopilot system could not capture the glideslope signal.37
+The Safety Board’s review of the FDR data revealed that nine autopilot
+disconnects were recorded on the accident airplane’s 25-hour-long FDR tape: one just
+before landing at Cairo the day before the accident; one just before its next landing at
+EWR; four during the approach to LAX (during which the reported autopilot difficulties
+occurred); one on the ground at LAX; one just before landing at JFK the night of the
+accident flight; and one immediately preceding the accident sequence. No elevator
+movement was recorded after the autopilot disconnect that occurred on the ground at
+LAX. The elevator movements recorded following the other eight autopilot disconnects
+were primarily in the trailing-edge-down (TED) direction and were less than 0.88° in
+magnitude. According to Boeing, the elevator movements recorded by the accident
+airplane’s FDR were consistent with the movements that would be expected as a result of
+the normal operation of the autopilot on a properly rigged 767.
+Accident Airplane Maintenance Information
+During its investigation of the EgyptAir flight 990 accident, the Safety Board
+reviewed EgyptAir’s maintenance program and maintenance recordkeeping procedures
+and conducted a detailed examination of the accident airplane’s maintenance records. The
+Board’s review revealed that the accident airplane had been maintained in accordance
+with EgyptAir’s continuous airworthiness maintenance inspection program for its
+767 fleet. Additionally, the accident airplane’s maintenance records indicated that all
+applicable airworthiness directives (AD) had been complied with; no related discrepancies
+were noted. Further, the Board’s review of the accident airplane’s technical log sheets
+from July 29 to October 30, 1999, revealed no pertinent unresolved discrepancies.
+37According to Boeing, the autopilot is designed to capture the glideslope signal when the proper
+autopilot mode is selected if the airplane is within 80 feet of the glideslope.
+NTSB/AAB-02/01
+
+18
+FAA Service Difficulty Reports (SDR)38 and accident and incident data from all
+operators flying 767s between 1990 and 2000 were also reviewed by investigators.
+Although some elevator-related SDRs were noted,39 there were no documented
+maintenance trends or anomalies that were relevant to the circumstances of this accident.
+767 Bellcrank Anomalies
+On March 8, 2000, Boeing personnel reported to the Safety Board that Boeing had
+been informed of an air carrier incident involving a 767 in which failed bellcrank shear
+rivets were found in the left inboard and left center elevator PCA bellcrank assemblies.40
+The bellcrank shear rivets are designed to shear if an elevator PCA jam occurs, the
+compressible links between the bellcrank assemblies and the PCA input arms are
+bottomed out,41 and a force of about 50 lbs is applied to the control column. Research and
+testing indicated that sheared rivets in a bellcrank assembly could result in an elevator
+PCA disconnect. Such a failure is discussed briefly later in this section and in detail in the
+section titled, “Potential Causes for Elevator Movements During the Accident Sequence.”
+Boeing and the FAA conducted additional tests and research to further investigate
+why the rivets failed and what the possible repercussions of such a failure would be,
+including metallurgical examination of high-time bellcranks, material properties testing
+on old and new bellcranks, review of bellcrank failure rate data obtained from
+767operators, and examination of maintenance procedures to determine whether changes
+in procedures and/or intervals were warranted. The Safety Board monitored the FAA’s and
+Boeing’s tests and research into the bellcrank shear rivet failures.
+The research conducted by Boeing and the FAA revealed that single bellcrank
+shear rivet failures had occurred on other 767s, some of which might not have been
+detected during the single hydraulic system maintenance check that is to be conducted by
+767 operators every 400 flight hours.42 On August 17, 2000, Boeing issued Service
+Bulletin767-27A0166, which described methods by which failed bellcrank shear rivets
+that might not be detected during the single hydraulic system maintenance check could be
+identified. Subsequently, the FAA issued AD 00-17-05, effective September 11, 2000,
+which required all 767 operators to perform a one-time functional check of one shear rivet
+in all six elevator PCA bellcrank assemblies within 30 days, reworking or replacing the
+bellcrank assembly if needed. AD 00-17-05 indicates the following:
+[F]ailure of two [of the three] bellcrank assemblies on one side can result in that
+single elevator surface [but not both surfaces] moving to a hardover position
+independent of pilot command resulting in a significant pitch upset recoverable by
+the crew. Failure of [all] three bellcrank assemblies on one side can cause an
+elevator hardover that may result in loss of controllability of the airplane…the
+FAA has received no factual information that indicates that this incident is related
+to [the EgyptAir flight 990] accident….The cause of that accident is still under
+investigation.
+38Through its SDR program, the FAA collects information about mechanical failures from reports
+submitted by aircraft operators or maintenance facilities, as required by regulations.
+NTSB/AAB-02/01
+
+19
+Because the FAA received reports that the one-time functional check required by
+AD00-17-05 revealed failed shear rivets on several 767-300 airplanes, on March 5, 2001,
+the FAA issued AD 01-04-09, effective March 20, 2001, which required all 767 operators
+to perform repetitive functional testing of the elevator control system to determine
+whether the elevator PCAs are properly rigged and accomplish followup actions
+(including depth penetration inspection of the shear rivets),43 as necessary. AD01-04-09
+required operators to perform the repetitive testing of the elevator control system at least
+every 400 flight hours, beginning within 90 days of the AD’s effective date. Although the
+cause of the bellcrank shear rivet failures has not yet been determined, Boeing and the
+FAA are continuing to study the issue.
+One of the mechanical failure conditions evaluated by the Safety Board during the
+EgyptAir flight 990 investigation involved disconnection of the input linkages to two of
+the three PCAs on one elevator surface. This failure condition could be caused by the
+failure of any of the components that comprise the elevator PCAs’ input linkage systems,
+including the bellcranks. As further discussed in the section titled, “Potential Causes for
+Elevator Movements During the Accident Sequence,” the Board’s tests and simulations
+indicated that the nonfailed elevator and the airplane are controllable from either control
+column with a dual PCA disconnect on one elevator surface. Those tests showed that
+neither a dual disconnection nor a triple disconnection (such as would result from a triple
+bellcrank failure) on one elevator surface would produce elevator deflections that matched
+the FDR data from the accident sequence.
+39The SDRs included two reports of anomalous elevator behavior on the same United Airlines 767, the
+first incident occurred on September 12, 1994, and the second on June 20, 1996. Both incidents involved
+“stiff” or “frozen” elevator flight controls, and, in both cases, the pilots regained control of the elevator by
+applying higher-than-normal pressure on the control column. Postincident examination of the elevator
+system components revealed no discrepancies.
+The Safety Board is also aware of the following two similar, more recent incidents:
+1) On March 27, 2001, an American Airlines 767 experienced elevator control difficulties during
+an approach to land. The pilots landed safely using horizontal stabilizer trim for pitch control
+and reported that as they taxied to the gate, they “broke [the elevator] free” by applying a
+higher-than-normal force on the control column. Postincident examination revealed no
+discrepancies in the elevator’s mechanical flight control rigging, PCAs, pushrods, bellcranks,
+or shear rivets; however, during postincident examination, investigators observed water
+dripping directly on elevator system components in the empennage.
+2) On April 23, 2001, the pilots of another 767 experienced elevator control binding during the
+approach to land. The pilots applied additional force to the control column, and the elevator
+binding released. Postincident examination revealed no evidence of mechanical anomalies;
+however, investigators observed an accumulation of water and ice in the empennage around
+the elevator system components.
+Additional tests indicated that water could freeze on the elevator components and create the effects
+described by these flight crews and observed in the FDR data of the two recent incidents. (FDR data were
+not available for the two earlier incidents.) The Safety Board compared the FDR data from the two recent
+incidents with that from EgyptAir flight 990 and found no similarities. Boeing and the FAA are evaluating
+possible corrective actions related to preventing or limiting water from entering the 767 empennage,
+freezing at altitude, and impinging on elevator system components.
+NTSB/AAB-02/01
+
+20
+METEOROLOGICAL INFORMATION
+The Safety Board’s review of data from the National Climatic Data Center
+National Radar Mosaic (from about 0100 through 0230 on October 31, 1999) and other
+meteorological data revealed no record of significant meteorological conditions in the area
+at the time of the accident. No pilot reports indicating any significant meteorological event
+were transmitted in the accident area between about 2300 EDT on October 30 and 0700 on
+October 31, 1999.
+FLIGHT RECORDERS
+The FDR and CVR were recovered from the Atlantic Ocean by U.S. Navy
+remote-operated vehicles on November 9 and November 14, 1999, respectively. Upon
+recovery, they were immediately packed in water to prevent/delay the onset of corrosion
+and shipped to the Safety Board’s laboratory in Washington, D.C., for readout.
+Cockpit Voice Recorder
+The CVR installed on the accident airplane was a Fairchild model A-100,
+S/N3193. Although the CVR unit exhibited external and internal structural damage and
+the recording medium (magnetic tape) was wet, the tape was otherwise in good condition.
+The CVR recording consisted of four channels of audio information, the following three
+of which recorded usable audio information: the cockpit area microphone (CAM) and the
+hot microphones at the captain’s and first officer’s positions.44 The quality of the audio
+information recorded by the CAM was good, whereas the quality of the audio information
+recorded by the hot microphone at the first officer’s position was excellent until 0141:11,
+after which time it was poor.45 The audio information recorded by the hot microphone at
+the captain’s position was difficult or impossible to decipher throughout most of the
+recording.46
+40This anomalous condition was discovered when a drooping elevator surface was observed during a
+preflight inspection; there were no reports of in-flight anomalies before this discovery. The air carrier’s
+maintenance personnel found sheared rivets in the bellcranks, which they repaired. The system was
+functionally checked after the repair, and the airplane was returned to service. The air carrier reported the
+anomalous condition and repair to Boeing and has reported no further anomalies. FDR data were not
+available.
+41For the purposes of this report, the compressible links are described as “bottomed out” when they
+have been deflected to the full extent of their travel in either direction.
+42The single hydraulic system maintenance check tests the operation of each PCA individually by
+powering each of the airplane’s three hydraulic systems, one at a time. An inoperative elevator PCA will not
+operate the elevator when powered by its hydraulic system. A PCA with a failed bellcrank shear rivet will
+not operate the elevator properly.
+43Indications of an improperly rigged PCA can occur as a result of yielded or failed shear rivets in a
+bellcrank assembly.
+44The fourth channel of audio information recorded by the CVR is usually recorded through audio
+equipment at a cockpit jumpseat position. The FAA does not require a fourth channel to be installed/used on
+airplanes equipped with CVRs.
+NTSB/AAB-02/01
+
+21
+The CVR recording started at 0119:13, as the flight was cleared for takeoff from
+runway22R at JFK. As previously discussed, the cessation of the CVR recording at
+0150:38.47 (shortly after the FDR recorded the airplane’s loss of engine power) was
+consistent with the loss of electrical power to the recorder that occurred after the engines
+were shut off.
+Two transcripts were prepared of the entire 31-minute 30-second recording, one in
+Arabic/English words and phrases exactly as spoken on the accident flight and the other
+with Arabic words translated to English. As stated previously, throughout the CVR
+transcript, the Cockpit Voice Recorder Group provided as direct a translation as possible,
+without attempting to interpret the words or the intent of the speaker. According to
+participants in the Cockpit Voice Recorder Group (which included several Arabic/English
+speakers), occasionally the direct translation of Arabic words into English resulted in
+awkward or seemingly inappropriate phrases.
+Cockpit Voice Recorder Sound Spectrum and Speech Studies
+The Safety Board conducted CVR speech and sound spectrum studies to document
+any unknown sounds and to verify and expand on the information contained in the CVR
+transcript.47 The results of these studies are discussed in the following sections.
+Audio Information Recorded by First Officer’s Hot Microphone
+The Safety Board’s study of the CVR information recorded by the hot microphone
+at the first officer’s position during the accident flight revealed that, at 0141:03, the CVR
+recorded a decrease in the audio level of the first officer’s hot microphone system, and, at
+0141:11, the CVR recorded a rustling sound through the first officer’s hot microphone
+system. According to a member of the Speech Examination Study Group, this rustling
+sound resembled the sound of the headset being stowed as the command first officer
+45The Safety Board uses the following categories to classify the levels of CVR recording quality:
+excellent, good, fair, poor, and unusable.
+• An excellent recording is one that is very clear and easily transcribed.
+• A good recording is one in which most of the crew conversations can be accurately and easily
+understood. The transcript that is developed may indicate unintelligible several words or
+phrases. Any loss in the transcript can be attributed to minor technical deficiencies or
+momentary dropouts in the recording system or to a large number of simultaneous
+cockpit/radio transmissions that obscure each other.
+• A poor recording is one in which a transcription is nearly impossible because a large portion of
+the recording is unintelligible.
+The quality of audio information recorded by the hot microphone at the first officer’s position is
+discussed further later in this report.
+46The captain apparently did not use the hot microphone system; however, depending on the nature and
+volume of the captain’s communications, the sounds were recorded by the CAM.
+47For additional sound spectrum and speech study information, see the Cockpit Voice Recorder Group
+Chairman’s Factual Report/Sound Spectrum Study and the Speech Examination Study Factual Report.
+NTSB/AAB-02/01
+
+22
+prepared to leave the first officer’s position. Until this time, the hot microphone at the first
+officer’s position had recorded the first officer’s utterances clearly, as well as some
+additional cockpit noises and conversations; however, subsequently, this microphone
+(which is a part of the first officer’s headset assembly) provided muffled recordings of
+some, but not all, of the cockpit conversations. Command and relief first officer
+statements after 0141:11 were recorded more clearly by the CAM.
+The study concluded that the recording quality of the first officer’s hot microphone
+was excellent while the command first officer wore the headset/microphone and poor
+when the headset/microphone was believed to be stowed.48 After 0150:24, the first
+officer’s hot microphone stopped recording cockpit conversation and started recording a
+sudden increase in background noise. The speech evaluation study indicated that this most
+likely occurred because a pilot inadvertently activated the air-to-ground/interphone button
+on the back of the control wheel and thereby altered the amplitude of the recording to the
+amplitude level set at the individual pilot position.
+Speech Sample Information
+All speech samples analyzed in the speech study were captured through the CAM
+located in the overhead panel. Investigators identified recorded speech samples for six
+EgyptAir crewmembers that were in the cockpit at various times during the accident
+flight, including the command captain, the relief first officer, the command first officer,
+the EgyptAir 767 chief pilot, and two nonduty first officers on board the airplane.
+All utterances made after the captain departed the cockpit (at 0148:18) were
+analyzed to the extent possible; however, in part because of occasional loud background
+noise in the cockpit after that time, only 15 of the 23 utterances recorded by the CAM after
+such time were strong enough (relative to background noise) to be analyzed by computer
+for fundamental frequency (pitch) and formant dispersion49 information.
+Fundamental Frequency and Speech Duration Information
+Research50 has shown that fundamental frequency and speech duration vary
+characteristically among speakers and often convey information about the speaker’s
+psychological stress. The Safety Board has used the following guidelines51 with regard to
+fundamental frequency for evaluating the degree of psychological stress experienced by a
+speaker:
+48The study stated that the exact stowage location of the headset was unknown; however, according to
+an EgyptAir representative, it would normally be stowed in the storage console, which located at the first
+officer’s right side, or in his flight bag, which is located just aft of the storage console.
+49Formants, which determine many aspects of perceived speech, are frequencies at which the vocal
+tract above the larynx (acting as a filter because of its normal modes of vibration) will allow maximum
+energy to pass from the sound produced by the vocal cords. Formant dispersion refers to the relative spacing
+between successive formants.
+NTSB/AAB-02/01
+
+23
+• An increase in fundamental frequency of about 30 percent (compared with that
+individual’s speech in a relaxed condition) would be characteristic of a stage 1
+level of stress, which could result in the speaker’s focused attention and
+improved performance.
+• An increase in fundamental frequency of between 50 to 150 percent would be
+characteristic of a stage 2 level of stress, which could result in the speaker’s
+performance becoming hasty and abbreviated; however, the speaker’s
+performance would not display gross mistakes.
+• An increase in fundamental frequency of between 100 to 200 percent would be
+characteristic of a stage 3 level of stress, or panic, which could result in the
+speaker’s inability to think or function logically or productively.
+On the basis of these guidelines, the CVR speech study concluded that the relief
+first officer exhibited no more than a 25 percent increase in fundamental frequency,
+compared to what he exhibited during routine flight, when he made any of his “I rely on
+God” statements and when he stated, “it’s shut,” during the emergency sequence.
+However, the speech study concluded that the command captain exhibited an increase in
+fundamental frequency of 29 percent when he stated, “what’s happening?,” shortly after
+he returned to the cockpit and of between 47 and 65 percent when he stated, “get away in
+the engines,” “shut the engines,” “pull,” and “pull with me,” during the emergency
+sequence, compared to what he exhibited during routine flight.
+Previous research has also shown that speech duration often becomes shorter (that
+is, speaking rate becomes faster) when psychological stress increases. Speech duration
+measurements were performed on the phrase “I rely on God” (repeated by the relief first
+officer 11 times between 0148:39 and 0150:08). The CVR transcript indicated that the first
+utterance of the phrase “I rely on God” was spoken faintly, about 1 minute 6 seconds
+before the autopilot was disconnected, and had a duration of 1.02 seconds. The second
+utterance of this phrase, which occurred about 5 seconds before the throttle levers were
+moved to idle and while the airplane was still in level flight, had a duration of 0.81 second.
+The remaining nine utterances of this phrase, which began about 8 seconds later (as the
+airplane began its abrupt nose-down pitch and steep descent), varied in duration from 0.73
+to 0.87 seconds, with pauses of 0.51 and 0.70 seconds between successive utterances.
+50For additional information, see Williams, C. E. and Stevens, K. N. 1981. “Vocal Correlates of
+Emotional States.” Speech Evaluation in Psychiatry. Grune & Stratton. New York, New York; Ruiz, R.;
+Legros, C.; and Guell, A. 1990. “Voice Analysis to Predict the Psychological or Physical State of a Speaker.”
+Aviation, Space, and Environmental Medicine. Vol. 61. p. 266-71; Johannes, B.; Salnitski, V. P.; Gunga, H.;
+and Kirsch, K. 2000. “Voice Stress Monitoring in Space—Possibilities and Limits.” Aviation, Space, and
+Environmental Medicine. Vol.71. p. A58-65; Brenner, M.; Doherty, E. T.; and Shipp, T. 1994. “Speech
+Measures Indicating Workload Demand.” Aviation, Space, and Environmental Medicine. Vol. 65. p. 21-6;
+Brenner, M.; Mayer, D.; and Cash, J. 1996. “Speech Analysis in Russia.” Methods and Metrics of Voice
+Communications. Ed. B. G. Kanki and O. V. Prinzo. Department of Transportation, Federal Aviation
+Administration, and Office of Aviation Medicine. DOT/FAA/AM-96/10. Washington, DC; and National
+Transportation Safety Board. 1999. Uncontrolled Descent and Collision with Terrain, USAir Flight 427,
+Boeing 737-300, N513AU, near Aliquippa, Pennsylvania, September8, 1994. Aircraft Accident Report.
+NTSB/AAR-99/01. Washington, DC.
+51For additional information, see NTSB/AAR-99/01.
+NTSB/AAB-02/01
+
+24
+According to the speech study, the relief first officer’s rate of speech did not increase
+significantly when saying, “I rely on God,” during the pitchdown and descent.
+The Safety Board also examined the length of time between the relief first officer’s
+“I rely on God” statements for evidence of psychological stress. About 67seconds passed
+between the first and second utterances of the phrase, 8.1 seconds passed between the
+second and third, and 0.51 to 0.70 seconds passed between subsequent utterances of the
+phrase. According to the speech study, after the second utterance, the data suggested a
+“rhythmic repetition of the phrase rather than an accelerating trend, as might be expected
+with increased psychological stress.”
+The speech study concluded that, although the relief first officer’s speech
+displayed some evidence of increased psychological stress between the first and second
+utterance of “I rely on God” (when the airplane was still in level flight at cruise altitude),
+there was no evidence of increased psychological stress in the relief first officer’s speech
+after he uttered the phrase the second time. As previously discussed, after the second
+utterance of the phrase, the airplane departed level flight to a steep nose-down pitch
+attitude and experienced an increased nose-down pitch attitude and rate of descent and a
+decrease in its load factor (to negative Gs) while the relief first officer repeated, “I rely on
+God,” the last nine times.
+Unintelligible Comment
+The Safety Board’s audio examination and sound spectrum analysis of the
+unintelligible comment that was recorded by the CAM at 0148:30 showed that it appeared
+to have characteristics consistent with human speech. It consisted of three syllables, with
+the accent on the second syllable, and was probably spoken very softly (as shown by very
+poor speech signal definition). The speech examination study indicated that the comment
+was preceded by 19.2 seconds without speech and followed by 9.2 seconds without
+speech, suggesting that it was an isolated statement rather than part of a conversation.
+Unfortunately, the speech segment was not long or clear enough to determine what was
+said and who said it. However, two speech characteristics of the unintelligible comment—
+fundamental frequency and formant dispersion—displayed values that, of the six pilots’
+speech that had been recorded earlier on the CVR tape, most closely resembled the speech
+values displayed by the relief first officer.
+As previously discussed, and as noted as follows in the CVR transcript:
+The five Arabic speaking members of the [CVR] group concur that they do not
+recognize this as an Arabic word, words, or phrase. The entire group agrees that
+three syllables are heard and the accent is on the second syllable. Four Arabic
+speaking group members believe that they heard words similar to ‘control it.’ One
+English speaking member believes that he heard a word similar to ‘hydraulic.’
+The five other members believe that the word(s) were unintelligible.
+NTSB/AAB-02/01
+
+25
+Because the content of the comment (the word[s] and the language in which it was
+spoken) could not be positively identified, the members of the Cockpit Voice Recorder
+Group agreed to characterize the comment as “unintelligible.”
+Flight Data Recorder
+The FDR installed on the accident airplane was a Sundstrand Data Corporation
+(now named Honeywell Aerospace Electronic Systems) Universal Flight Data Recorder,
+S/N unknown. Although the FDR unit exhibited external and internal structural damage
+and the recording medium (magnetic tape) was wet, the tape was otherwise in good
+condition. After waveform recovery techniques were used to correct areas of weak FDR
+signals, a complete set of accident flight data, from takeoff through the last recorded FDR
+parameter (which was recorded at 0150:36.64),52 was prepared.
+Flight performance parameters recorded by the FDR included the following:
+pressure altitude; airspeed (computed); engine rpm; pitch; roll; heading; angle of attack;
+normal (vertical), longitudinal, and lateral acceleration (load factors); left and right
+elevator positions; left and right inboard and outboard aileron positions; left and right
+trailing edge flap positions; rudder position; and horizontal stabilizer position. In addition,
+the FDR recorded speedbrake handle position, throttle resolver angle, autopilot
+engagement/disengagement, engine low oil pressure, and engine fuel cut signals. The
+FDR was not required to and did not record control wheel, control column, or spoiler
+positions nor did it record control wheel and column forces.53 Excerpts from the FDR data
+plots and CVR transcript are shown in figures 3a through 3h.
+52As previously discussed, the last FDR parameter was recorded at 0150:36.64, and the cessation of the
+FDR data was consistent with the loss of electrical power that resulted from the engines being shut off.
+53Although control column position was not recorded by the FDR, the Safety Board’s testing and
+evaluation of the 767 elevator system showed that any movement occurring at the control columns would
+have resulted in concurrent, identifiable movements of the elevators, which would have been recorded on
+the FDR. For additional information, see Flight Data Recorder Group Chairman’s Factual Report and its
+attachments. Also, see the section of this report titled, “Tests and Research,” for a discussion of the
+airplane’s performance during the emergency/accident sequence, as determined by the Safety Board’s
+evaluation of the available FDR, radar, weather, and airplane performance data.
+NTSB/AAB-02/01
+
+NTSB/AAB02/01
+26
+Figure 3a. A graph depicting selected FDR data from 1:47.40 to 1:48.40.
+
+NTSB/AAB-02/01
+27
+Figure 3b. A graph depicting selected FDR data from 1:48.40 to 1:49.40.
+
+NTSB/AAB02/01
+28
+Figure 3c. A graph depicting selected FDR data from 1:49.40 to 1:50.40.
+
+NTSB/AAB-02/01
+29
+Figure 3d. A graph depicting selected FDR data from 1:49.40 to 1:50.40.
+
+NTSB/AAB02/01
+30
+Figure 3e. A graph depicting selected FDR data from 1:49.40 to 1:50.40.
+
+NTSB/AAB-02/01
+31
+Figure 3f. A graph depicting selected FDR data from 1:49.40 to 1:50.40.
+
+NTSB/AAB02/01
+32
+Figure 3g. A graph depicting selected FDR data from 1:49.40 to 1:50.40.
+
+NTSB/AAB-02/01
+33
+Figure 3h. A graph depicting selected FDR data from 1:49.40 to 1:50.40.
+
+34
+WRECKAGE INFORMATION
+About 70 percent of the airplane was recovered during the initial recovery
+operations, which began on the morning of October 31 and ended on December 22, 1999.
+Subsequent recovery efforts conducted between March 29 and April 3, 2000, resulted in
+the recovery of the left engine and additional pieces of airplane wreckage.
+Sonar mapping of the wreckage site depicted two distinct underwater debris fields,
+which were identified by recovery personnel and investigators as the western and eastern
+debris fields. These debris fields were about 366 meters (1,200 feet) apart from center
+point to center point. The western debris field, which was estimated to be 62meters by
+66 meters and was centered about 40°20' 57" north latitude, 69° 45' 40" west longitude,
+contained mainly parts associated with the left engine and various other small pieces of
+wreckage (including portions of two wing panels, fuselage skin, horizontal stabilizer skin,
+and the majority of the nose landing gear assembly). The eastern debris field, which was
+estimated to be 83 meters by 73 meters and was centered about 40° 20' 51" north latitude,
+69° 45' 24" west longitude, contained the bulk of the airplane’s fuselage, wings,
+empennage (including the outboard tips of the right and left elevators and all recovered
+elevator PCAs), right engine, main landing gear, and flight recorders. Many pieces of
+floating wreckage (including pieces of the right and left elevator surfaces)54 were
+recovered from the water’s surface in or near the eastern debris field shortly after the
+accident; specific recovery locations for some of these pieces were not noted. The small
+size of most of the recovered pieces of wreckage was consistent with the airplane
+impacting the water at a high speed. The locations of the two main wreckage debris fields
+were consistent with the accident airplane’s flightpath, as indicated by the primary radar
+data.55
+The Safety Board leased a commercial vessel to recover the wreckage that had
+settled on the ocean floor. Pieces of wreckage were recovered from a depth of about
+230feet using a clamshell scoop and a crane, loaded (using a front loader) into containers
+on the recovery vessel, and moved to shore. Upon reaching shore, the containers of
+wreckage were lifted off the recovery vessel and rinsed thoroughly twice. The containers
+were then moved into the hangar at Quonset Point, Rhode Island, where they were tipped
+onto their sides. The wreckage was then moved out of the containers onto the floor using
+rakes and shovels. Once on the hangar floor, the wreckage was spread evenly by a front
+loader to assist the drying process. During this process, FBI and Safety Board
+investigators examined the recovered wreckage for evidence of fire or explosion damage.
+The FBI placed identification tags on some of the debris; accident investigators then
+documented all of the debris.
+Four of the elevators’ six PCAs (the center and outboard right elevator PCAs and
+two elevator PCAs whose positions could not be determined)56 were recovered.
+Postaccident examination revealed that all four of the recovered PCAs exhibited
+54In total, about 37 percent of the total elevator surface area was recovered.
+55For additional information, see the section titled, “Review of Radar Data.”
+NTSB/AAB-02/01
+
+35
+impact-related damage. One of the four also exhibited the following two unusual
+characteristics on its internal mechanisms: (1) the pin that attaches the spring guide to the
+valve slide was sheared, and (2) a portion of the bias spring (about one full coil) was
+improperly positioned over the head portion of the spring guide. It could not be
+determined whether these conditions existed before impact or whether they were impact
+related. The Safety Board’s measurements of these components indicated that the inside
+diameter of the servo valve cap into which the bias spring and spring guide fit was
+0.872inch and that the outside diameter of the spring guide at its widest point was
+0.749 inch, leaving a clearance of 0.123 inch between the spring guide and the servo valve
+cap. Measurements indicated that the bias spring wire had a diameter of 0.031inch.
+Impact marks and damage were observed on other components in this PCA; however,
+there was no evidence of scraping, abrasion, or other marks on the improperly positioned
+bias spring or adjacent surfaces that would indicate that these metal parts had jammed in
+the PCA.57
+Five of the elevators’ six bellcranks (all three right elevator and two of the left
+elevator bellcrank assemblies) were recovered. Postaccident examination of the recovered
+bellcrank assemblies revealed that all of the shear rivets in the recovered bellcrank
+assemblies were sheared,58 with the sheared surfaces appearing consistent with shear
+overstress. However, the rivets in some of the bellcrank assemblies sheared in a direction
+opposite to others; shear rivets in the two recovered bellcrank assemblies from the left
+elevator surface and in the inboard bellcrank assembly from the right elevator surface
+were sheared as if the bellcrank arms were moving to a higher relative angle, whereas the
+shear rivets in the middle and outboard bellcrank assemblies from the right elevator
+surface were sheared as if the bellcrank arms were moving to a lower relative angle. Most
+of the recovered elevator control linkages were found broken or otherwise damaged.
+Examination of the fracture surfaces on the recovered pieces of wreckage revealed
+that the fractures were consistent with failures generated by a high-speed impact. None of
+the fracture surfaces examined exhibited any sign of preexisting fatigue or corrosion. No
+evidence of foreign object impact damage or pre- or postimpact explosion or fire damage
+was observed.59
+56The right elevator center PCA was identified as such because of its location in recovered horizontal
+stabilizer wreckage. The right elevator outboard PCA was identified as such by EgyptAir personnel, who
+matched the PCA’s S/N to their maintenance documents for the accident airplane. The condition of the other
+two recovered PCAs precluded identification of their location on the airplane.
+57The Safety Board recognizes that a jam between two surfaces can occur without leaving any physical
+evidence. However, as discussed in the Board’s report on the September 8, 1994, accident involving USAir
+flight 427, tests conducted in connection with that accident investigation showed that physical evidence of a
+jam was always observed after tests involving hardened steel chips jammed and/or sheared in a PCA.
+58As previously discussed, the shear rivets are designed to fail when they are subjected to about 50 lbs
+of force or more at the control column, the PCA is jammed, and the compressible links are bottomed out. In
+addition, shear rivets may fail as a result of impact or recovery-related forces.
+59For additional information, see Systems Group Chairman’s Factual Report and its appendixes and
+addendum, Materials Laboratory Factual Report, and Structures Group Chairman’s Factual Report and its
+appendixes and addendum.
+NTSB/AAB-02/01
+
+36
+Examination of the left engine (which was recovered relatively intact) revealed
+evidence of little, if any, rotation at the time of impact. The right engine was severely
+broken up, and only about 80 percent of it was recovered. Examination of the recovered
+portions of the right engine showed evidence of little, if any, rotation at the time of impact.
+The observed deformations on the right engine were consistent with a steep impact angle,
+whereas observed deformations on the left engine were consistent with an inverted,
+slightly aft-end-down impact angle. Although the recovery location of and damage to the
+left engine were consistent with it separating from the airplane before impact, no evidence
+of any preimpact catastrophic damage or fire was observed on either engine.60
+TESTS AND RESEARCH
+Review of Radar Data
+Five radar sites detected primary and/or secondary returns from EgyptAir
+flight 990. These sites are located at North Truro, Massachusetts; Riverhead, New York;
+Gibbsboro, New Jersey; Oceana, Virginia; and Nantucket, Massachusetts. The Safety
+Board’s examination of the available radar data revealed that four of the five radar sites
+recorded no sequence of primary or secondary radar returns that intersected EgyptAir
+flight 990’s position at any time nor did they reveal any radar returns consistent with a
+projectile or other object traveling toward the accident airplane. Although the Riverhead
+radar site recorded numerous radar returns near the flightpath of EgyptAir flight 990
+within 5 minutes of the accident, none of the radar sites with areas of coverage that
+overlapped this area of Riverhead’s coverage recorded similar radar returns. Consultation
+with the USAF Radar Evaluation Squadron revealed that the primary returns in question
+from the Riverhead radar site were caused by radio frequency interference from the Bucks
+Harbor, Maine, long-range radar site.
+No secondary radar returns were received from EgyptAir flight 990 after 0150:36
+(about the time the CVR and FDR stopped recording); however, after this time, several
+radar sites recorded primary radar returns that continued along the accident airplane’s
+extended flightpath from its last recorded radar position. As previously discussed, these
+primary radar data (with extrapolated FDR data and simulation results) indicated that after
+the airplane’s FDR and CVR stopped recording, the airplane descended to an altitude of
+about 16,000 feet msl, then climbed to about 25,000 feet msl and changed heading from
+80º to 140º before it began its second descent, which continued until it impacted the
+ocean.61
+60For additional information, see Powerplants Group Chairman’s Factual Report.
+61For additional information, see the Aircraft Performance Group Chairman’s Aircraft Performance
+Study.
+NTSB/AAB-02/01
+
+37
+Accident Sequence Study
+The Safety Board used the FDR, radar, winds aloft, and 767 performance data to
+determine the accident airplane’s motions and performance during the accident sequence.
+These data (and associated calculations) indicated the following:
+• Aside from the very slight movement of both elevators (the left elevator moved
+from a 0.7° to about a 0.5° nose-up deflection, and the right elevator moved
+from a 0.35° nose-up deflection to about a 0.3° nose-down deflection)62 and
+the airplane’s corresponding slight nose-down pitch change, which were
+recorded within the first second after autopilot disconnect at 0149:45, and a
+very slow (0.5º per second) left roll rate, the airplane remained essentially in
+level flight about FL 330 for about 8seconds after the autopilot was
+disconnected.
+• At 0149:53, the left and right throttles were retarded to the aft idle stop
+(equivalent to a throttle lever angle of about 33º) at a rate of about 25ºper
+second.63 About 1 second after the start of the throttle movement, the FDR
+recorded slight motion in the inboard ailerons, the left elevator surface moved
+to about a 3.4º TED position, and the right elevator surface moved to about a
+3.8º TED position.64
+• At 0149:54, the airplane began to pitch nose down, reaching a pitch attitude of
+about 40º nose down at0150:15. During the dive, the wings remained within
+about 10º of level and the heading remained about 80º, increasing to about 85º
+between0150:20 and 0150:33.
+• Between 0150:05 and 0150:06, the FDR recorded additional movements in the
+inboard ailerons, and the left and right elevators moved an additional 1.5º TED
+to about 5.5º TED. Before this time, the load factor had been about 0.2 G; after
+this time, the load factor decreased to about-0.1 G. Between 0150:06 and
+0150:10, the FDR began to record “Low Engine Oil Pressure” signals for both
+engines; the FDR recorded these signals until after the load factor increased to
+above 0 G between0150:17 and 0150:21.65
+62Throughout the FDR data for the accident airplane (including data recorded during uneventful
+portions of the accident flight and during previous flights and ground operations), small (generally less
+than1°) differences between the left and right elevator surface positions were observed. The elevator
+surface movements were consistent (that is, moved in the same direction about the same time) where these
+offsets were observed.
+63As previously mentioned, at the accident airplane’s flight conditions at the beginning of the accident
+sequence, the minimum autothrottle commanded throttle lever position would have been between 40º and
+50º; this value would have decreased as the airplane’s airspeed increased. The maximum autothrottle
+commanded throttle lever movement rate for a normally functioning autothrottle system is 10.5º per second.
+64Elevator movement in the TED direction would result in a decrease in the airplane’s lift and load
+factor and an increase in the airplane’s nose-down attitude.
+NTSB/AAB-02/01
+
+38
+• At 0150:08, as the airplane passed through about 30,800 feet msl, the airplane
+exceeded its maximum operating airspeed (0.86 Mach), and the Master
+Warning alarm sounded. The maximum rate of descent recorded during the
+dive was about 39,000 fpm at 0150:19, as the airplane descended through
+about 24,600 feet msl. At 0150:23, the airspeed reached its peak calculated
+value of 0.99 Mach, as the airplane descended through about 22,200 feet msl.
+• At 0150:15 and about 27,300 feet msl, the left and right elevator surfaces
+started to move slowly (about 0.6º per second) in the trailing-edge-up (TEU)
+direction, back toward their neutral position. The pitch angle, angle of attack,
+and load factor also started to increase at this point, so that when the FDR
+recorded the last data for the accident flight at0150:36.64, the pitch angle had
+increased to about 8º nose down, and the airplane was experiencing about
+2.4 Gs.
+• Between 0150:18 and 0150:27, the FDR recorded TEU movements of the left
+and right outboard ailerons and the left inboard aileron.66
+• At 0150:21, the left and right elevator surfaces started to split (that is, to move
+asymmetrically). The right elevator surface started to move TED, whereas the
+left elevator surface moved TEU. This split between the left and right elevator
+surface positions continued to the end of the FDR data, varying in magnitude
+but averaging about 4º difference between the surfaces (see figure 2).
+• Between 0150:21 and 0150:23, the engine start lever switches for both engines
+moved from the run to the cutoff position.
+• Between 0150:24 and 0150:25, both throttle handles moved full forward.
+• Between 0150:25 and 0150:26, the speedbrake handle moved to its fully
+deployed position. Coincident with this activity, between 0150:24 and
+0150:27, the left elevator surface moved briefly in the TED direction (from
+3º TEU to 1º TEU) before it returned to 3º TEU.
+• Almost immediately after the speedbrakes were deployed at 0150:26, the left
+elevator surface deflection increased further, reaching its maximum deflection
+of more than 3.8º nose up about 0150:30.67 After 0150:30, the left elevator’s
+nose-up deflection gradually reduced, until the data for that parameter ended at
+0150:36 with a left elevator deflection of about 2.3ºnose up.
+65The Safety Board’s examination of Boeing’s 767 certification flight test data revealed that the low oil
+pressure warnings for P&W 4060 engines would occur when the engine’s oil pressure drops below 70lbs
+per square inch, as occurred when the accident airplane was operating at low (near 0) load factors. (For
+additional information, see Powerplants Group Chairman’s Factual Report and appendixes 1 through8.)
+66According to Boeing, these movements were consistent with the effects of blowdown on those
+surfaces as documented during flight tests. However, the outboard aileron split recorded by the FDR after
+about 0150:27, which is discussed later in this section, was not consistent with the flight test data.
+67As previously discussed, Safety Board simulations demonstrated that a pilot in the left seat could have
+moved his right hand from the control wheel to the throttle, advanced the throttles, moved his hand a little to
+the left, and deployed the speedbrakes in the 3 to 4 seconds it took for these events to occur.
+NTSB/AAB-02/01
+
+39
+• Between 0150:21 and 0150:24, the right elevator surface’s nose-down
+deflection increased gradually, then increased rapidly until just after 0150:25,
+when the nose-down deflection briefly reduced from about 2.35º to about 1.9º
+nose down. Between 0150:21 and 0150:23, the engine start levers moved to the
+cutoff position. At 0150:26, the right elevator’s nose-down deflection began to
+increase again, reaching its maximum nose-down deflection of about 3.2º at
+0150:29. Subsequently, the right elevator’s deflection moved generally toward
+a nose-up position, with occasional movements in a nose-down direction;
+when the FDR data ended, the right elevator deflection was 0.2º nose down.
+• Between 0150:27 and 0150:32, the FDR recorded a split condition in the
+outboard ailerons (the left outboard aileron maintained its approximate presplit
+deflection, while the right outboard aileron began to move in a TED direction).68
+The outboard ailerons had been moving in a TEU direction since 0150:18.
+• During the elevator split, the larger movements of the left and right elevators
+individually corresponded with changes in the load factor (see figure 4). For
+example, between 0150:30 and 0150:36, the recorded movements of the right
+elevator (lower graph) are reflected in the load factor profile (upper graph).
+• No secondary radar returns were received from the accident airplane after the
+last data were recorded by the FDR at 0150:36.64.
+• Performance calculations based on primary radar returns indicated that the
+airplane’s rapid descent stopped at an altitude of about 16,000 feet msl. The
+primary radar returns indicated that the airplane then began to climb, reaching
+about 25,000 feet msl about 0151:15. During this climb, the airplane’s heading
+changed from about 80º to about 140º.
+• After 0151:15, the data indicated that the airplane began a second rapid descent
+that continued until it impacted the ocean.
+Seven primary radar returns from the airplane were recorded during the second
+dive; the altitude estimates from these returns are subject to potentially large errors, which
+introduces significant uncertainty into the performance calculations during the second
+dive. However, the data indicate that the airplane impacted the ocean about0152:30, with
+an average descent rate during the second dive of about 20,000 fpm.
+68Wind tunnel tests and computational fluid dynamics analyses show that a small sideslip angle and/or
+roll rate could produce large changes in the aerodynamic forces acting on the outboard ailerons at speeds
+approaching Mach 1.0, but these forces would not likely be strong enough to cause the split elevator
+condition recorded by the accident airplane’s FDR. For additional information, see Aircraft Performance –
+Addendum #1.1, Addendum to Group Chairman’s Aircraft Performance Study, including appendixes B and
+C (correspondence from Boeing, dated April 12 and 16, 2001).
+NTSB/AAB-02/01
+
+40
+8
+ELEVATOR & STAB TRAILING EDGE UP
+6
+4
+2
+0
+-2
+-4
+ELEVATOR & STAB TRAILING EDGE DOWN
+-6
+01:49:40 01:49:45 01:49:50 01:49:55 01:50:00 01:50:05 01:50:10 01:50:15 01:50:20 01:50:25 01:50:30 01:50:35 01:50:40
+Potential Causes for Elevator Movements During the Accident Sequence
+Investigators used Boeing’s six-degree-of-freedom, full-flight engineering
+simulator (which incorporated, to the maximum extent possible, the flight characteristics
+of the 767) to evaluate whether the accident airplane’s recorded pitch motions were
+consistent with the elevator position movements recorded on the FDR.69 The results
+showed that the elevator movements required to make the simulator duplicate the pitch
+motions and flightpath recorded on the FDR were consistent with the elevator movements
+recorded by the FDR throughout the recorded data, even during the time that the data
+69The simulator data are based on wind tunnel tests and updated with available flight test data. The
+maximum Mach number for which the simulator is programmed (Mach 0.91) corresponds to the airplane’s
+never-exceed airspeed. The maximum speed calculated for the accident airplane during the accident
+sequence was Mach 0.99 at 0150:23. To evaluate the performance of the airplane at Mach numbers greater
+than 0.91, the simulator’s database was adjusted to reflect extrapolations, based on 777 wind tunnel tests.
+(The 767 and 777 have aerodynamically similar horizontal stabilizers and elevators.)
+NTSB/AAB-02/01
+.ged
+,noitisoP
+ecafruS
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+-1.0
+Left Elevator
+Right Elevator
+Stabilizer (Units)
+ACK ASR-9 Time, HH:MM:SS EST
+s'g
+,rotcaF
+daoL
+lamroN
+Figure 4. Graphs depicting the accident airplane’s normal load factor response to
+elevator and stabilizer movement.
+
+41
+indicated a split between the left and right elevator surfaces. 70 The investigation attempted
+to determine if any mechanical failures could have caused these elevator movements.
+The Systems Group reviewed numerous potential failure scenarios to evaluate
+whether any of them might have been capable of causing the elevator surface movements
+recorded on the FDR during the accident sequence, including failures associated with the
+elevator system’s flight control cables,71 failures associated with elevator surface PCAs,72
+and other system-related failures.73 On the basis of the results of failure modes and effects
+analyses, the Safety Board ruled out all but four of these potential failure scenarios
+because they failed to reflect the accident flight’s elevator movements in obvious and
+significant ways.74 For example, it was determined that neither an autopilot malfunction
+nor EMI75 would have caused any elevator movements during the accident sequence.76
+Although some of the other scenarios could have caused some elevator movements, the
+nature and degree of those movements differed so greatly from the elevator movements
+recorded during the accident flight that they did not warrant further consideration.
+However, the failure modes and effects analyses showed that the following four
+elevator failure scenarios (each of which involves two failures) warranted further study
+because they could potentially cause nose-down elevator movements or a split elevator
+condition that might resemble some portions of the data recorded on the accident flight’s
+FDR:
+1. Disconnection of the input linkages to two of the three PCAs on the right
+elevator surface. This failure scenario could be caused by the failure of any of
+the components that comprise the actuator input linkage system, including the
+bellcranks.
+70For additional information, see Systems Group Chairman’s Factual Report and its appendixes and
+addendums, Flight Data Recorder Group Chairman’s Factual Report and its attachments, Cockpit Voice
+Recorder Group Chairman’s Factual Report and Sound Spectrum Study, and the Aircraft Performance
+Group Chairman’s Aircraft Performance Study and its attachments and addendum.
+71The cable-related failures considered included a single failed elevator body cable; a failed slave cable;
+a failed component or other object falling on elevator cables; a cable tension regulator failure; an aft pressure
+bulkhead failure, resulting in cable displacement; and a cable break combined with a jam in the same cable.
+72The elevator PCA-related failure scenarios considered included an input rod/cable jammed at an
+offset position (position jam), an input arm for a single PCA jammed at an offset position to command a
+specific control surface rate of movement (rate jam), failure of the bellcrank assemblies on all three of the
+PCAs on a single elevator surface, jam of the input linkage or servo valve of one PCA with a high breakout
+force compressible link (a high breakout force compressible link would allow more force to be transmitted
+to the input linkages of the nonfailed side before compressing and negating the jammed PCA),
+disconnection of the input linkages to two of the three PCAs on a single elevator surface, a jam of the input
+linkage or servo valve on one PCA and the disconnection of the input linkage to another PCA on a single
+elevator surface, and a jam of the input linkages or servo valves in two of the three PCAs on a single elevator
+surface.
+73The other system-related failures considered included erroneous stick nudger activation; air in the
+hydraulic system and elevated return pressure; hydraulic system failure to one surface; elevator position
+transducer disconnect, resulting in erroneous indications on the FDR of an elevator surface offset or split; a
+single linkage disconnect downstream of feel unit; a failure of the elevator feel unit’s attachment to aircraft
+structure; electromagnetic interference (EMI); and an autopilot malfunction such as a servo jam, resulting in
+a hardover autopilot output.
+NTSB/AAB-02/01
+
+42
+2. A jam of the input linkages or servo valves in two of the three PCAs on the
+right elevator surface. In order for this failure scenario to occur, the internal
+slides of the affected servo valve would first have to be moved (by manual or
+autopilot input) to an offset position and then jam. Although such jams could
+theoretically occur in either direction, all tests and simulations involving
+jammed elevator PCAs were intentionally configured to produce nose-down
+(rather than nose-up) elevator input.
+3. A jam of the input linkage or servo valve in one PCA and the disconnection of
+the input linkage to another PCA on the right elevator surface.
+4. A jam in the elevator flight control cable connecting the right-side control
+column to the right aft quadrant assembly combined with a break in the same
+cable. (Four variants of this scenario were studied. For additional information,
+see the Systems Group Chairman’s Factual Report and its addendum regarding
+the cable break/jam and PCA jam with high breakout force [compressible link]
+ground testing.)
+For further evaluation, the Systems Group conducted ground tests on an
+instrumented 767 to record the elevator system’s response to each of these failure
+scenarios. During the ground tests, the test airplane’s systems were configured to simulate
+the accident airplane’s altitude and airspeed. The Systems Group also studied the effect
+that each failure scenario would have on the elevator control system and calculated the
+effect on the elevators that each scenario would have had at the specific conditions of the
+accident flight at the time of the initial pitchdown. The results of the tests, studies, and
+calculations were as follows:
+1. Disconnection of the input linkages to two of the three PCAs on the right
+elevator surface.
+• During the ground tests, the failed elevator surface was driven to its full
+nose-down position and would not respond to nose-up flight control inputs
+from either control column. A study of the elevator control system indicated
+that if this scenario occurred in flight, it would result in an initial deflection of
+the failed surface to a position consistent with a single functioning elevator
+PCA operating at 100 percent of its maximum force (as limited by
+aerodynamic blowdown forces); the failed elevator surface would resist being
+74For additional information, see Systems Group Chairman’s Factual Report and its appendixes.
+75EMI is electromagnetic radiation that is emitted and/or received by an electronic device and adversely
+affects the performance of that device or other devices.
+76An autopilot malfunction was ruled out as a potential cause of the elevator movements because the
+autopilot was disconnected before the beginning of the nose-down elevator movements. Even assuming that
+the autopilot was engaged during the accident sequence, the elevator movements recorded by the FDR
+exceeded the maximum inputs that could be commanded by the autopilot. EMI was ruled out because
+elevator surface movements are not electrically actuated (and, therefore, are not susceptible to the effects of
+EMI) except through the autopilot. (When the autopilot is not engaged, elevator surface movements on the
+767 are mechanically signaled and hydraulically actuated.)
+NTSB/AAB-02/01
+
+43
+backdriven with a force equivalent to about 130 percent of a single functioning
+PCA.77 Calculations showed that at 280 knots (the accident airplane’s airspeed
+when the initial descent began), this position would initially have been about
+6º nose-down elevator deflection, and the degree of deflection would be
+reduced as the airplane’s speed increased above 290 knots. See figure 2 for
+additional elevator blowdown position information.78
+• During the ground tests, the nonfailed elevator surface remained in its
+prefailure position unless it received inputs from either control column. A
+study of the elevator control system’s force balance and calculations of the
+effect of this failure under the conditions of the accident flight indicated that
+the nonfailed surface would remain in its prefailure position.
+• During the ground tests, either control column could be used to control the
+nonfailed elevator surface and to command the full travel of that surface
+available at the existing flight condition. The Safety Board’s study of the
+elevator control system indicated that under the accident flight conditions,
+inputs from either control column would have resulted in corresponding
+movement of the nonfailed elevator surface.
+2. A jam of the input linkages or servo valves in two of the three PCAs on the
+right elevator surface.
+• During the ground tests, the failed elevator surface was driven to its full
+nose-down position and would not respond to nose-up flight control inputs
+from either control column. A study of the elevator control system indicated
+that if this scenario occurred in flight, it would result in an initial deflection of
+the failed surface to a position consistent with a single functioning elevator
+operating at 100 percent of its maximum force (as limited by aerodynamic
+blowdown forces); the failed elevator surface would resist being backdriven
+with a force equivalent to about 130 percent of a single functioning PCA. As
+discussed in connection with the previous failure scenario, calculations showed
+that, under the conditions of the accident flight, this position would initially
+have been about 6º nose-down elevator deflection, and the degree of deflection
+would be reduced as the airplane’s speed increased above 290 knots.
+• During the ground tests, the nonfailed elevator surface moved to about
+4º nose-down deflection in the same direction as the failed surface. A study of
+the elevator control system’s force balance and calculations of the effect of this
+failure under the conditions of the accident flight indicated that the nonfailed
+surface would move to a position corresponding to 30 lbs of feel force.79
+77For a detailed explanation of why a failed surface would deflect to this position, see the Aircraft
+Performance Group Chairman’s Factual Report and its addendum 1.1.
+78Elevator hinge moment data provided by Boeing were used to estimate the 767 elevator blowdown
+positions during the first three failure scenarios. Boeing extrapolated available elevator data based on
+Boeing777 wind tunnel data, which were available for Mach numbers 0.91, 0.94, and 0.96. (As previously
+stated, the 767 and 777 have aerodynamically similar horizontal stabilizers and elevators.)
+NTSB/AAB-02/01
+
+44
+Calculations showed that under the conditions of the accident flight when the
+initial descent began, the degree of deflection for the nonfailed surface would
+be the same as during the ground tests (about 4º).
+• During the ground tests, either control column could be used to control the
+nonfailed elevator surface and to command that surface in either the nose-up or
+the nose-down direction.80 The Safety Board’s study of the elevator control
+system indicated that under the accident flight conditions, inputs from either
+control column would have resulted in corresponding movement of the
+nonfailed elevator surface.
+3. A jam of the input linkage or servo valve in one PCA and the disconnection of
+the input linkage to another PCA on the right elevator surface.
+• During the ground tests, the failed elevator surface was driven to its full
+nose-down position and would not respond to nose-up flight control inputs
+from either control column. A study of the elevator control system indicated
+that if this scenario occurred in flight, it would result in an initial deflection of
+the failed surface to a position consistent with a single functioning elevator
+operating at 100percent of its maximum force (as limited by aerodynamic
+blowdown forces); the failed elevator surface would resist being backdriven
+with a force equivalent to about 130 percent of a single functioning PCA. As
+discussed in connection with the previous failure scenarios, calculations
+showed that, under the conditions of the accident flight, this position would
+initially have been about 6º nose-down elevator deflection, and the degree of
+deflection would be reduced as the airplane’s speed increased above 290 knots.
+• During the ground tests, the nonfailed elevator surface moved to about
+2.1ºnose-down deflection in the same direction as the failed surface. A study
+of the elevator control system’s force balance and calculations of the effect of
+this failure under the conditions of the accident flight indicated that the
+nonfailed surface would move to a position corresponding to 15 lbs of feel
+force. Calculations showed that under the conditions of the accident flight
+when the initial descent began, the degree of deflection for the nonfailed
+surface would be the same as during the ground tests (about 2.1º).
+79Feel force is the amount of force generated by the aircraft’s feel-and-centering unit. In normal
+operation, the feel force is a function of control column deflection and aircraft flight condition. If a jam of
+the input linkages or servo valves in two of the three PCAs on a single elevator surface occurred, the
+airplane’s feel-and-centering unit would provide a force to oppose the forces needed to deflect the
+compressible links on the input side of the failed elevator PCAs.
+80To avoid shearing the test airplane’s bellcrank rivets during the ground tests evaluating the two failure
+scenarios that involved jammed PCA linkages and/or servo valves, full travel of the elevator surface was not
+commanded. However, a study of the elevator control system indicated that full travel of the nonfailed
+surface could have been achieved under these two failure scenarios, if commanded.
+NTSB/AAB-02/01
+
+45
+• During the ground tests, either control column could be used to control the
+nonfailed elevator surface and to command that surface in either the nose-up or
+the nose-down direction. The Safety Board’s study of the elevator control
+system indicated that under the accident flight conditions, inputs from either
+control column would have resulted in corresponding movement of the
+nonfailed elevator surface.
+4. A jam in the elevator control cable connecting the right-side control column to
+the right aft quadrant assembly combined with a break in the same cable.
+• During the ground tests, the left elevator surface moved to nose-down
+deflections of 1.2º to 3.9º and the right elevator surface moved to nose-down
+deflections of 1.4º to 5.0º, depending on the scenario tested. Analysis of the
+elevator system indicated that if such failures occurred in flight, the resultant
+elevator surface positions would not have varied as a result of changes in the
+aerodynamic forces acting on the elevator in the same manner as the previous
+three failures because all three PCAs would still be functioning properly.
+• During the ground tests for all break/jam combinations, either control column
+could be used to control both elevator surfaces. Testing showed that a pull from
+either control column of 25 lbs would result in sufficient movement of both
+elevators in a nose-up direction to be evident on the FDR. A pull from either
+control column of 50 to 100 lbs would result in sufficient movement of both
+elevators in a nose-up direction to either reverse or significantly slow the
+airplane’s nose-down dive.
+Pilots from Boeing, EgyptAir, the FAA, and the Safety Board evaluated the
+controllability of the airplane following the first three of these failure scenarios in
+Boeing’s fixed-base engineering simulator. The simulations assumed that the right
+elevator was affected by the failure scenario being evaluated and duplicated the airplane’s
+response to the occurrence of that scenario. As previously mentioned, the simulator
+reflected the flight characteristics of the 767 to the maximum extent possible. Although all
+flight conditions (for example, airspeed, altitude, roll attitude, load factor, and pitch
+attitude) were calculated correctly in the simulator, the fixed-base simulator could not
+duplicate the physical sensations that would have resulted from these flight conditions.
+For example, the load factors that would be produced under actual flight conditions were
+not produced in Boeing’s fixed-base simulator nor were the actual attitude changes that
+would have occurred in flight.81 In addition, the simulator did not model the override
+mechanisms between the two control columns.
+Simulations of the three failure scenarios showed that it was possible to regain
+control of the airplane using either control column and return it to straight and level flight
+using normal piloting techniques and that the airplane could be trimmed to hands-off level
+flight after each of the three failure scenarios occurred.82 Further, for all three failure
+81The simulator’s cockpit displays did replicate the visual cues (cockpit instrument displays and
+out-the-window presentation) that would have been present during actual flight.
+NTSB/AAB-02/01
+
+46
+scenarios, full recovery was possible even when no efforts were made to recover the
+airplane until 20 seconds after the failure occurred. Although additional force beyond that
+required for recovery from a dive of this magnitude without a failure was necessary in all
+tested scenarios, the nonfailed surface responded immediately to nose-up inputs and
+recovery could be accomplished by a single pilot using either the left or right control
+column. Although the recovery was easier and the required control column force was
+reduced when stabilizer trim was used, it was not necessary to use stabilizer trim to
+recover from any of the three failure scenarios. Further, the simulations also demonstrated
+that the engines could have been restarted throughout most (if not all) of the recovery from
+the dive and/or the subsequent climb and that the airplane could have been returned to
+straight and level flight after the recorders stopped recording. The elevator deflections
+resulting from the fourth scenario were less extreme, and would therefore be easier to
+recover from, than those resulting from the first three failure scenarios.
+Additional Information
+Submissions
+The Safety Board received submissions from EgyptAir,83 Boeing, and P&W.84
+(Note: The fourth failure scenario [a cable jam with a break of the same cable] was studied
+after these submissions were received; therefore, these submissions do not reference this
+scenario.)
+EgyptAir’s April 28, 2000, Presentation
+During EgyptAir’s April 28, 2000, presentation to the Safety Board, its
+representatives stated, in part, the following:
+• The suicide scenario is not consistent with data and facts of [the EgyptAir
+flight 990] accident.
+82For additional information, see Systems Group Chairman’s Factual Report and its addendum
+regarding the ground and simulation testing.
+83EgyptAir provided the Safety Board with a presentation and several documents and letters that
+documented its position, including the following: a presentation, dated April 28, 2000; a formal submission,
+dated August 11, 2000; and a document, dated January 12, 2001, titled, “Response of EgyptAir to
+October 31, 2000, Submission of The Boeing Company Regarding the EgyptAir Flight 990 Investigation.”
+These documents and letters are available in the public docket for this accident.
+84The Egyptian Government also provided the Safety Board with additional documents, including the
+following: (1) the Egyptian Government’s comments regarding the Board’s draft report of this accident,
+(2)the Egyptian Government’s own report regarding this accident, and (3) the Egyptian Government’s
+addendum to its report regarding this accident. Although these documents are not submissions, and therefore
+are not discussed in this section, they are available for review. The Egyptian Government’s comments
+regarding the Board’s draft report are attached to this report, and the Egyptian Government’s accident report
+and its addendum are available in the public docket for this accident.
+NTSB/AAB-02/01
+
+47
+• [Left and right] elevator deflection as a result of right elevator dual PCA jam is
+consistent with the FDR data where Boeing data is valid.
+• In the area beyond the airplane normal design envelope where the data is not
+valid, all the flight control behavior is uncertain, control surfaces are subject to
+flutter.
+• The right elevator middle and outboard bellcrank rivets shear direction is
+consistent with a jammed PCA reacting against pilot input to move the elevator
+up.
+• Analysis revealed that there are a lot of [radar] returns forming continuous
+paths crossing the flightpath of [EgyptAir flight 990], which may reflect
+deliberate [evasive] action by one of the pilots.
+EgyptAir’s August 11, 2000, Submission
+In its August 11, 2000, submission, EgyptAir asserted that ground tests and
+simulations conducted during the investigation were flawed because simulations were
+conducted using Boeing’s published 767 data and “did not reflect the actual operation of
+the airplane”; steady-state values were used to calculate the control column forces in
+various dynamic flight conditions, thus invalidating conclusions; and extrapolation of data
+for calculated airplane speeds in excess of those for which test data existed (Mach0.91)
+“cannot produce accurate results.”
+EgyptAir also argued in its submission that the relief first officer did not
+deliberately cause the accident. According to the submission, “the deliberate act theory
+was based, in large part, on the initial inaccurate translation of an expression repeated
+several times by the [relief] first officer…[which] has been eliminated not only by credible
+evidence and analysis but also by accurate translation of the CVR.” EgyptAir further
+stated that (1) the relief first officer had no motive to kill himself or others aboard
+EgyptAir flight 990; (2) the relief first officer did not use his seniority to insist that he be
+allowed to fly the airplane; (3) the relief first officer may not have been alone in the
+cockpit at the onset of the dive; and (4) the captain returned to the cockpit almost
+immediately after the dive started, and there was no indication of a struggle or
+disagreement between the two flight crewmembers. EgyptAir further stated that “the
+cockpit conversations showed an effort at teamwork rather than a crew working at cross
+purposes.” Further, EgyptAir indicated that several of the relief first officer’s actions were
+not consistent with a deliberate attempt to crash the airplane. For example, it stated that
+the cockpit door was not closed and locked; the throttle levers were moved to idle,
+whereas engine power would have accelerated the descent; and more radical flight control
+inputs were available (more nose-down elevator deflection or aileron and rudder with
+elevator deflections) but not used.
+EgyptAir also contended in its submission that at least three flight crewmembers
+were in the cockpit during the descent, as evidenced “by the fact that if either the captain
+or [relief] first officer had let go of their control columns to shut the engines or to deploy
+NTSB/AAB-02/01
+
+48
+the speedbrake…the aircraft would have pitched down at the same time.” The EgyptAir
+submission further stated that the split elevators “do not support the conclusion that there
+was a struggle in the cockpit” because (1) the CVR provides no indication of a struggle,
+argument, or refusal to follow a command; (2) the FDR recorded control surface positions
+but did not record the control column position or forces—“accordingly, one cannot
+conclude from examining only the FDR data that pilot input to his control column caused
+the elevators to be in a given position”; and (3) “at the same moment the elevators split,
+both outboard ailerons moved upward…when this unusual aileron movement occurred
+during the dive, the aircraft’s speed was approaching Mach 1.0, and no published
+performance data is available to predict what will occur to ailerons at these high speeds. It
+is likely, however, that aerodynamic shocks or flutter were occurring at the control
+surfaces.”
+In its submission, EgyptAir summarized its position as follows:
+• Accordingly, from an impartial review of the factual evidence gathered during
+the investigation, it is clear that the [relief] first officer did not intentionally
+dive the aircraft into the ocean.
+• At this point in the investigation considering the factual evidence gathered, it is
+clear that the first officer did not commit suicide. Further investigation of the
+elevator control system’s design in conjunction with the other factual
+information available is necessary before a conclusion can be reached
+regarding the true cause of this accident. Specifically, further engineering
+analysis, including wind tunnel tests, is necessary to examine the dual actuator
+malfunction in the speed ranges for which current data is not available. In
+addition, further investigation of radar data is also necessary to completely rule
+out the possibility of conflicting traffic. Until this work is accomplished, the
+cause of this accident cannot be truly established.
+• An analysis of the facts and of the elevator control system’s design indicates
+that malfunctions in two PCAs on the right elevator may have precipitated the
+airplane’s dive. This dual PCA malfunction may have consisted of a latent or
+nearly latent failure in one PCA that may have existed for a period of time
+followed by a jam of a second PCA shortly before the dive.
+• The facts do not support the initial, and widely reported, theory that the [relief]
+first officer deliberately dove the plane toward the ocean.
+• Without further information concerning the data from military and FAA radar,
+one cannot rule out the possibility that the [relief] first officer may have been
+attempting to avoid or maneuver the aircraft out of a perceived dangerous
+situation at the time the dive occurred.
+Boeing’s Submission
+Boeing’s October 31, 2000, submission indicated that none of the mechanical
+failure modes examined during the investigation were consistent with the FDR data
+NTSB/AAB-02/01
+
+49
+because (1) “the FDR elevator positions did not displace to the positions [predicted by the
+failure mode and effects analysis] during the initial pitchover” and (2) “the elevator
+motions after the initial pitchover indicate that both surfaces were functioning normally.”
+Boeing also considered several operational scenarios, including collision
+avoidance, rapid descents, response to engine oil pressure lights, and loss of thrust on both
+engines. Boeing’s submission stated that, “EgyptAir 990 crew actions were determined to
+be inconsistent with the performance of standard Boeing recommended operating
+procedures and training for the 767 airplane.”
+In its submission, Boeing summarized its position as follows:
+• Flight control surface movements recorded on the [FDR] are capable of
+generating the airplane flight path recorded by the [FDR] and radar.
+• Based on the examination of the recovered wreckage, Boeing did not find any
+evidence of a failure condition within the airplane flight control system that
+could have caused or contributed to the initial pitchover, or prevented recovery
+from the dive.
+• Boeing participated in examining all potential failure conditions developed
+during the investigation and could not find a failure condition that: (1) matched
+the data recorded by the [FDR] or (2) resulted in a condition that was not
+recoverable by the pilot.
+• Therefore, Boeing does not believe that the loss of EgyptAir 990 was the result
+of a mechanical failure of the aircraft or aircraft systems.
+EgyptAir’s January 12, 2001, Response to Boeing’s Submission
+In its January 12, 2001, response to Boeing’s submission, EgyptAir stated that
+Boeing did not “account for or…comment on” the FAA’s ADs regarding bellcrank shear
+rivet failures in its submission. However, EgyptAir’s response to Boeing’s submission
+indicated that it could not determine whether the bellcrank shear rivet failures were
+involved in the accident, “[the FDR data were] remarkably consistent with test data of a
+jam of two right elevator servos in the trailing edge down position.” EgyptAir further
+stated that “the differences between the test data and the FDR can be adequately explained
+as either performance variances within normal limit or limitations of the test facilities and
+protocols.”
+Additionally, EgyptAir’s response to Boeing’s submission indicated that there was
+evidence of a mechanical malfunction of the elevator system; specifically, EgyptAir cited
+the reported autopilot difficulties during an approach to LAX the day before the accident
+and the downward elevator deflections recorded by the FDR at autopilot disconnect.
+EgyptAir stated the following:
+[This evidence] shows that an anomaly existed in the flight 990 elevator system
+even before the aircraft left New York for Cairo on October 31, 1999—a latent
+NTSB/AAB-02/01
+
+50
+defect that could not be detected by the crew. In light of these facts, it is plausible
+to believe that—just as [the captain of the flight into LAX] had done a day
+earlier—the [relief] first officer on flight 990 disconnected the autopilot after
+observing some unusual movement of the column.
+The EgyptAir response to Boeing’s submission also stated that examination of the
+recovered wreckage “indicated damage to the elevator system prior to impact.”
+Specifically, EgyptAir asserted that the damage to the right outboard PCA (sheared pin
+and improperly positioned bias spring) and right elevator bellcrank shear rivets (failed in
+opposite directions) likely occurred before the airplane impacted the ocean.
+Further, in its response to Boeing’s submission, EgyptAir reiterated its position
+that its analysis of the elevator’s motions85 indicated that the elevator split observed in the
+FDR data was not the result of a struggle between the captain and the relief first officer.
+The response stated that the split “may [have been] the result of the loss of the right
+elevator.” To support this statement, EgyptAir asserted that (1) there was no indication on
+the CVR transcript that a struggle occurred in the cockpit; (2) the uncommanded elevator
+positions might have resulted from unique aerodynamic phenomena as the airplane’s
+speed increased; (3) when an FDR records elevator position, it is actually recording the
+sensor position, which does not, by itself, indicate the position of the elevator or the
+control column; and (4) the pitch and roll motions recorded during the last 15 seconds of
+FDR operation were “much closer to the expected aircraft performance if the right
+elevator is missing.”
+EgyptAir’s response to Boeing’s submission also stated the following:
+EgyptAir has determined that the FDR flight profile after the split is consistent
+with the expected aircraft performance only if the right elevator has departed the
+airplane….this conclusion is based upon the absence of expected rolling moment
+that would have been induced by a differential deflection of the elevators…shown
+on the FDR.
+In addition, EgyptAir’s response stated the following:
+• Boeing’s engineering simulator did not provide an accurate model of real
+aircraft performance.
+• Boeing often ignored the more reliable ground test results.
+• Boeing’s selective use of test data resulted in inconsistent conclusions.
+• Boeing’s conclusions regarding crew actions are erroneous.
+85For its analysis of the elevator motions, EgyptAir used the methods of Roskam (Airplane Design,
+Part VI, Roskam Aviation and Engineering Corporation).
+NTSB/AAB-02/01
+
+51
+In its response to Boeing’s submission, EgyptAir summarized its position as
+follows:
+• Boeing’s submission to the NTSB [National Transportation Safety Board]
+dated October 31, 2000, contains many inaccuracies, omissions, and the
+selective use of evidence.
+• Boeing’s own ground test and simulator data does not support its conclusion
+that FDR data is inconsistent with a dual jam scenario.
+• A dual PCA control valve failure on the right elevator is consistent with the
+EgyptAir flight 990 FDR data.
+• There is physical evidence consistent with a malfunction in the elevator control
+system which might be a plausible cause for the accident.
+P&W’s Submission
+In an October 6, 2000, letter, P&W stated that it believed that “the facts, as
+gathered to date, sufficiently represent Pratt & Whitney’s perspective on this crash.
+Therefore, Pratt & Whitney will not be providing a further submission to be considered
+during the development of the final report.”
+NTSB/AAB-02/01
+
+52
+ANALYSIS
+General
+The command captain and relief first officer were properly certificated and
+qualified and had received the training and off-duty time prescribed by applicable
+regulations and company requirements. (For more detailed information regarding the
+background and recent activities of all EgyptAir flight 990 crewmembers, see the
+Operational Factors Group Chairman’s Factual Report and the Human Performance
+Group Chairman’s Factual Report and their addendums.)
+The accident airplane was properly certificated and was equipped, maintained, and
+dispatched in accordance with applicable regulations and industry practices.
+The Safety Board’s review of air traffic control (ATC) information revealed no
+evidence of any ATC problems or issues related to the accident. Further, examination of
+the recovered airplane wreckage and cockpit voice recorder (CVR), flight data recorder
+(FDR), ATC, weather, and radar data revealed no evidence that an encounter with other air
+traffic or any other airborne object was involved in the accident or that weather was a
+factor in the accident.
+Examination of the wreckage revealed no evidence of preexisting fatigue,
+corrosion, or mechanical damage that could have contributed to the airplane’s initial
+pitchover.86 (The condition of the recovered elevator power control actuators (PCA) and
+bellcrank shear rivets is discussed in the next section titled, “Mechanical Failure/Anomaly
+Scenarios.”) No evidence of explosion or fire damage or foreign object impact damage
+was found.
+Additionally, the Safety Board’s examination of the accident airplane’s
+maintenance records revealed no evidence of any mechanical problems that could have
+played a role in the accident sequence. Although during interviews conducted at the
+request of the Egyptian Government more than 1 year after the accident an EgyptAir 767
+captain reported that he had experienced autopilot difficulties in the accident airplane
+during the approach to Los Angeles International Airport (LAX), Los Angeles, California,
+the day before the accident, these difficulties were likely the result of improper autopilot
+approach mode selection. Additionally, as previously noted, neither the captain nor the
+first officer of the flight to LAX reported any autopilot anomalies in the airplane’s
+maintenance logbooks, and the first officer of that flight did not mention any autopilot
+difficulties during interviews conducted 3 days after the accident. Although the captain
+reported several minor anomalies during these interviews (including an autopilot
+86For additional information, see the Systems Group Chairman’s Factual Report and its addendum and
+the Materials Laboratory Factual Report.
+NTSB/AAB-02/01
+
+53
+anomaly), he told investigators that the airplane was “almost perfect.” No autopilot
+difficulties were reported by the flight crew that flew the airplane from LAX to John F.
+Kennedy International Airport (JFK), New York, New York, immediately before the
+accident flight nor did they report any autopilot anomalies in the airplane’s maintenance
+logbooks. Further, the Board’s examination of the FDR data before and after all recorded
+autopilot disconnects in the 25 hours of data recorded by the FDR (including the accident
+flight) revealed no evidence of abnormal autopilot or elevator surface behavior.
+The Safety Board’s review of ATC, FDR, CVR, and radar information indicated
+that the airplane’s movements during the accident flight were routine until about 0149:54
+(9 seconds after the autopilot disconnect occurred), when an abrupt sustained nose-down
+elevator motion occurred. A review of the FDR data indicated that the accident airplane’s
+pitch motion before and during the accident sequence was consistent with the elevators’
+recorded movements. Boeing’s full-flight engineering simulator was used to evaluate the
+consistency of the elevator positions with the pitch motions recorded on the FDR. During
+these evaluations, the elevator movements required to make the simulator duplicate the
+pitch motions recorded by the accident airplane’s FDR and the flightpath developed from
+the available data closely matched the elevator movements recorded by the FDR. Further,
+the recorded load factors were consistent with the recorded movements of both elevator
+surfaces throughout the recorded data, even during the time that the data indicated a split
+between the left and right elevator surfaces (see figure 4).87
+The results of the Safety Board’s examination of CVR, FDR, radar, airplane
+maintenance history, wreckage, trajectory study, and debris field information were not
+consistent with any portion of the airplane (including any part of the longitudinal flight
+controls) separating throughout the initial dive and subsequent climb to about 25,000 feet
+mean sea level (msl). It is apparent that the left engine and some small pieces of wreckage
+separated from the airplane at some point before water impact because they were located
+in the western debris field about 1,200 feet from the eastern debris field. Although no
+radar or FDR data indicated exactly when (at what altitude) the separation occurred, on the
+basis of aerodynamic evidence and the proximity of the two debris fields, it is apparent
+that the airplane remained intact until sometime during its final descent. Further, it is
+apparent that while the recorders were operating, both elevator surfaces were intact,
+attached to the airplane, and placed in the positions recorded by the FDR data and that the
+elevator movements were driving the airplane pitch motion, and all associated recorded
+parameters changed accordingly.
+Mechanical Failure/Anomaly Scenarios
+The Safety Board evaluated possible mechanical failure and pilot action scenarios
+in an attempt to determine whether they were consistent with the elevator movements
+made during the accident sequence. As previously discussed in the section titled,
+87The engineering simulator was modified to model the left and right elevator surfaces independently,
+and, using split elevator movements similar to those recorded on the FDR, the simulator was able to
+duplicate the FDR-recorded pitch history.
+NTSB/AAB-02/01
+
+54
+“Potential Causes for Elevator Movements During the Accident Sequence,” the
+investigation ruled out all but four possible anomalies and failure scenarios as potential
+factors in the accident because they diverged too far from what was reflected on the
+accident flight’s FDR to warrant further consideration.88 Analysis showed that the effects
+of four failure scenarios (each of which involves dual failures) bore some resemblance to
+some portions of the accident flight’s FDR data. Specifically, initially it appeared that each
+of these failure scenarios could potentially cause nose-down elevator movements or a split
+elevator condition that might resemble those recorded on the accident flight’s FDR. Those
+four failure scenarios were (1) disconnection of the input linkages to two of the three
+PCAs on the right elevator surface,89 (2) a jam of the input linkages or servo valves in two
+of the three PCAs on the right elevator surface,90 (3) a jam of the input linkage or servo
+valve in one PCA and the disconnection of the input linkage to another PCA on the right
+elevator surface,91 and (4) a jam in the elevator flight control cable connecting the
+right-side control column to the right aft quadrant assembly combined with a break in the
+same cable.92 Therefore, the wreckage from the accident airplane was examined for
+possible evidence of PCA anomalies, and the predicted elevator movements resulting
+from these failure scenarios were evaluated and compared with the data from the accident
+flight.
+As previously mentioned, one of the recovered PCAs was found with a pin (that
+attached the spring guide to the servo valve slide) sheared and one coil of the bias spring
+improperly positioned over the head portion of the spring guide. However, there were no
+marks on any of the surfaces or any deformation of the spring coil to suggest that the
+spring coil had become jammed between the servo cap and the spring guide, as would be
+expected if such a jam had occurred.93 Moreover, investigators measured the clearances
+between these components and determined that those clearances were large enough that
+even if a coil of the bias spring had become misplaced between the spring guide and the
+servo valve cap, no jam would have resulted.94 Further, the FDR data preceding the
+accident sequence do not show any evidence of a single jammed PCA.95
+88For additional information, see Systems Group Chairman’s Factual Report and its appendixes.
+89This would result in the failed surface moving to a nose-down deflection of about 6º and the nonfailed
+surface remaining at its prefailure position.
+90This would result in the failed surface moving to a nose-down deflection of about 6º and the nonfailed
+surface moving to a nose-down deflection of about 4º.
+91This would result in the failed surface moving to a nose-down deflection of about 6º and the nonfailed
+surface moving to a nose-down deflection of about 2.1º.
+92This would result in the left elevator moving to a nose-down deflection of between 1.2º and 3.9º and
+the right elevator moving to a nose-down deflection of between 1.4º and 5.0º (depending on which variation
+of this scenario is being tested).
+93As previously mentioned, the Safety Board recognizes that a jam between two surfaces can occur
+without leaving any physical evidence. However, as discussed in the Board’s report on the accident
+involving USAir flight 427, physical evidence of a jam would be expected if a hardened steel component
+(such as the bias spring in this case) were to become jammed between two surfaces because such evidence
+.
+was always observed after tests involving hardened steel chips jammed/sheared in a PCA
+94Even if two coils of the spring had somehow become displaced into the space between the spring
+guide and servo valve cap wall, there would still have been sufficient clearance to avoid a jam.
+NTSB/AAB-02/01
+
+55
+Most of the recovered elevator control linkages were broken; however, this type of
+damage is typical following a high-speed water impact and underwater wreckage recovery
+operations. The shear rivets in the recovered elevator bellcrank assemblies were sheared in
+different directions; however, the Safety Board considers it likely that the rivets sheared as
+a result of impact or recovery-related forces. Nonetheless, on the basis of the examination
+of the structure alone, the absence or presence of a jammed or disconnected input linkage
+or a jam in the servo valve in one of the accident airplane’s elevator PCAs could not be
+established.
+However, ground tests, studies, and calculations showed that each of the first three
+failure scenarios would have resulted in airplane and flight control movements that were
+inconsistent with the accident airplane’s elevator movements. Specifically, each of those
+three failure scenarios would have caused the failed elevator surface to move to, and
+remain at, a position consistent with a single functioning PCA operating at 100 percent of
+its maximum force. The failed elevator surface would resist being backdriven with a force
+equivalent to about 130 percent of a single functioning PCA and would not have
+responded to nose-up flight control inputs. If one of these scenarios occurred at the
+accident airplane’s indicated airspeed at the time of the initial dive (280 knots), the failed
+elevator surface would have initially moved from its prefailure position (close to neutral)
+to about a 6º nose-down position.96 However, the initial elevator movement (for both
+elevator surfaces) on the accident airplane recorded during the accident sequence was to a
+nose-down position of only about 3.6°.97
+The Safety Board also compared the recorded elevator movements following the
+initial upset to elevator movements resulting from the first three failure scenarios. As the
+airplane’s speed increased after the initial upset, the maximum deflection value associated
+with the three failure scenarios would have decreased in response to the increased
+aerodynamic forces on that surface. However, subsequent movements of both elevator
+surfaces on the accident airplane deviated repeatedly, for sustained periods of time in both
+the nose-up and nose-down directions,98 from the maximum deflection values that the
+failure scenarios would have produced, at times exceeding the maximum deflection values
+by several degrees. As shown in figure 2, the elevator movement profile from the accident
+95FDR and ground test data indicated that a single PCA failure would have resulted in much higher
+offsets between the two elevator surfaces than were recorded during the accident flight and on the ground
+before takeoff. During the accident flight, the slight offset that was recorded by the FDR was only 47percent
+of the offset that would be expected if a latent single PCA failure had occurred. On the ground before
+takeoff, the recorded offset was only 27 percent of what would be expected if a latent single PCA failure had
+occurred.
+96As previously discussed, failure scenarios resulting in nose-up motions of the elevators were also
+possible but were not considered relevant to this accident investigation.
+97As discussed in the section titled, “Accident Sequence Study,” the initial deflection for the left
+elevator surface was about 3.4º, and the initial deflection for the right elevator surface was about 3.8º. As
+shown in the graphical representations of the recorded elevator positions, a position of about 6º can be easily
+distinguished in the data from a position of either 3.4º or 3.8º.
+98The failure scenarios would not preclude additional commanded nose-down movement of the failed
+elevator surface. However, commanding additional nose-down movements would be inconsistent with an
+attempt to recover the airplane.
+NTSB/AAB-02/01
+
+56
+flight differs significantly throughout the accident sequence from the elevator movement
+profile that would have resulted from any of these three failure scenarios,99 indicating that
+neither elevator surface on the accident airplane was limited by a mechanical failure but,
+rather, that both surfaces were responding normally to flight control inputs. Therefore, the
+first three failure scenarios are inconsistent with the elevator movements recorded after
+the initial upset.
+Similarly, the elevator movements that would have followed any variant of the
+fourth failure scenario are also inconsistent with the accident airplane’s recorded elevator
+movements after the initial upset. The Safety Board notes that, in one of the four
+variations of this scenario (a jam in the aft portion of the elevator control cable combined
+with a cable break forward of the jam), the initial elevator positions match those on the
+accident airplane. However, this similarity between the failure scenario and the accident
+airplane’s elevator movements lasts only a few seconds. For the remainder of that
+variation of the scenario (and for the entire duration of the other three variations of this
+failure scenario), the elevator positions are inconsistent with those of the accident
+airplane.
+In addition, if one of the first three failure scenarios had occurred, the nonfailed
+surface would have responded immediately to any nose-up flight control inputs from
+either control column and would have resulted in an increase in the magnitude of the
+difference between the two elevator surface positions (because the failed surface would
+remain at its failure-induced position). If the fourth failure scenario had occurred, both
+elevator surfaces would have responded immediately to nose-up inputs from either control
+column. However, the FDR data from the accident flight showed that there was no
+significant nose-up elevator movement or difference between the two elevator surface
+positions for the first 28 seconds of the accident sequence—until the captain returned to
+the cockpit.100 If a failure had actually occurred, this would indicate that no attempts were
+made to recover the airplane for the first 28 seconds after the initial pitchdown. Further,
+after the captain returned to the cockpit, both elevator surfaces began moving together in
+the nose-up direction, indicating that neither surface was limited by a mechanical failure
+but, rather, that both surfaces were responding normally to flight control inputs. Similarly,
+later in the accident sequence, when the elevator split occurred, the right elevator
+deflected well beyond the maximum position possible for a failed elevator surface in any
+99The Safety Board recognizes that there was some uncertainty in the aerodynamic hinge moment data
+used to calculate the elevator movement profiles for the failure scenarios depicted in figure 2, especially at
+Mach speeds greater than 0.91. However, for the initial elevator movement on the accident flight to match
+the elevator deflections in response to the failure scenarios, the aerodynamic hinge moment data used to
+calculate the failure scenario profiles would have to have been about 79 percent greater than assumed. The
+Board considers this amount of error to be extremely unlikely, particularly because the initial elevator
+movement occurred below Mach 0.91, where hinge moment data were validated by certification flight tests.
+100As previously mentioned, throughout the FDR data for the accident airplane (including data recorded
+during uneventful portions of the accident flight and during previous flights and ground operations), small
+(less than 1°) differences between the left and right elevator surface positions were observed. Even where
+these offsets were observed, the elevator surfaces always moved in the same direction about the same time.
+However, beginning at 0150:21, the elevator surfaces moved in opposite directions and remained there until
+the FDR ceased recording.
+NTSB/AAB-02/01
+
+57
+of the first three failure scenarios. However, the elevator movements during the split are
+well within the limits of a pilot-commanded movement.
+After reviewing all of the inconsistencies between the effects of the four potential
+failure scenarios evaluated in depth, the actual behavior of the airplane, and the
+controllability of the airplane in the event of such failures, the Safety Board determined
+that none of these failure scenarios occurred during the accident sequence.101 Therefore,
+these four failure scenarios can be ruled out along with all of the other potential failure
+scenarios considered during this investigation.
+The Safety Board also conducted simulations in which pilots from Boeing,
+EgyptAir, the Federal Aviation Administration (FAA), and the Board evaluated the
+controllability of the airplane following an initial upset that might have been caused by
+any of these failure scenarios. During these simulations, the pilots were consistently able
+to regain control of the airplane and return it to straight and level flight using normal
+piloting techniques, and the airplane could be trimmed to hands-off level flight. In fact, the
+767’s redundant actuation system is designed to allow pilots to overcome dual failures
+such as these.
+Even though increased control forces were necessary, recovery could be
+accomplished by a single pilot using either the left or right control column.102 Further, the
+simulations also demonstrated that the airplane could climb to about 25,000 feet msl with
+the engines shut down, even with the speedbrakes extended. The simulation also
+documented that the engines could have been promptly restarted and (assuming there were
+no opposing pilot inputs) that the airplane could have been recovered during the climb
+after the recorders stopped recording. Although the Safety Board recognizes that the
+simulator did not duplicate the accident airplane’s actual flight conditions in every way,103
+such limitations are not uncommon in simulations, and the Board takes those limitations
+into account when evaluating simulator results. In this case, the Board determined that the
+differences were not significant and did not affect the validity of the results of the
+simulations.
+Immediately after the airplane’s initial nose-down dive, the relief first officer
+would have felt an immediate uncomfortable sensation as the airplane’s load factor
+decreased to near 0 Gs. He should also have noted sudden changes in the airplane’s pitch
+attitude, pitch rate, airspeed, and altitude. In response to these obvious cues, the relief first
+officer did not attempt to counter the dive by commanding nose-up elevator, a largely
+intuitive pilot response to initiate a recovery.
+101Further, although the first three failure scenarios evaluated in depth involved simultaneous dual PCA
+failures at the start of the accident sequence, as previously discussed, it is also clear from the FDR data that
+no latent jam of a single PCA occurred before the accident sequence.
+102As a former chief flight instructor with 5,191 hours in the 767, the relief first officer should have been
+readily able to regain control of the airplane.
+103For more information about the limitations of Boeing’s simulator, see the section titled, “Potential
+Causes for Elevator Movements During the Accident Sequence.”
+NTSB/AAB-02/01
+
+58
+Nor did the relief first officer exhibit any audible expression of anxiety or surprise
+or call for help during the airplane’s initial dive or at any time during the remainder of the
+recorded portions of the accident sequence. Further, the relief first officer did not respond
+to the captain’s repeated question, “What’s happening?” after the captain returned to the
+cockpit. Rather, he continued his calm repetitions of the phrase “I rely on God” (which
+began about 74 seconds before the airplane’s dive began) for 2 to 3 seconds, and then
+became silent, despite the captain’s repeated requests for information. The absence of any
+reaction from the relief first officer (such as anxiety or surprise, a nose-up elevator input to
+regain control of the airplane, or a request for assistance) to the airplane’s sudden
+departure from cruise flight to a steep descent is not consistent with his encountering an
+unexpected mechanical problem. Whereas the captain’s audible alarm and the content of
+his statements in reaction to the situation upon returning to the cockpit were consistent
+with the reaction of a pilot who has encountered an unexpected flight condition, the
+passive behavior of the relief first officer was not.
+The primary radar data indicated that the airplane climbed for about 40 seconds
+after the FDR stopped recording before it rapidly descended again and impacted the
+ocean. Therefore, the relief first officer and captain had about 83 and 69 seconds,
+respectively, from the time the airplane began its initial nose-down pitch until it began its
+second (final) descent, in which to regain control of the airplane; return it to level flight
+and restart the engines; or at least establish the airplane in a gradual, controlled glide while
+attempting an engine restart. (If control of the airplane had been regained during this time,
+the flight crew would have had several minutes in which to restart the engines.) However,
+a successful recovery—although possible—was not accomplished.
+In summary, the investigation did not reveal any evidence of a failure condition
+within the airplane’s elevator system that would have caused or contributed to the
+airplane’s initial pitchover or prevented the flight crew’s successful recovery from the
+airplane’s rapid descent. Further, the relief first officer’s reaction was inconsistent with his
+having encountered an unexpected airplane anomaly. Therefore, the investigation
+determined that neither the nose-down elevator movements nor the failure to recover from
+those movements could be explained by a mechanical failure.
+Pilot Action Scenario
+Simulations showed that certain combinations of pilot inputs could result in
+elevator motions consistent with those recorded by the accident airplane’s FDR and a
+flightpath consistent with the FDR and radar data for the accident airplane.104 Therefore,
+the Safety Board evaluated the actions of the pilots as recorded on the CVR, in the context
+of all of the evidence gathered in this investigation, to determine whether pilot action
+provided a possible explanation for the accident scenario.
+104For additional information, see Systems Group Chairman’s Factual Report and its appendixes and
+addendums, Flight Data Recorder Group Chairman’s Factual Report and its attachments, Cockpit Voice
+Recorder Group Chairman’s Factual Report and Sound Spectrum Study, and Aircraft Performance Group
+Chairman’s Aircraft Performance Study and its attachments and addendum.
+NTSB/AAB-02/01
+
+59
+Events Before and During the Initial Descent, While the Relief
+First Officer Was Alone in the Cockpit
+About 20 minutes after takeoff (about 0140), the relief first officer suggested that
+he relieve the command first officer. A transfer of control this early in the flight was
+contrary to the EgyptAir practice typically agreed-upon by flight crews of waiting until
+3or 4 hours into the flight before relieving the command crewmembers. The command
+first officer initially reacted with surprise and resistance to the relief first officer’s
+suggestion that he assume first officer duties at that time, indicating that the relief first
+officer’s suggestion was unexpected. However, after some discussion, the command first
+officer agreed to the change, and sounds recorded by the CVR indicated that, about 0142,
+the command first officer vacated and the relief first officer moved into the first officer’s
+seat.
+About 0147, the relief first officer asked an unidentified crewmember to return a
+pen to another first officer, who was in the cabin. The unidentified crewmember agreed
+and left the cockpit. At 0148:03, the command captain excused himself from the cockpit,
+saying that he wanted to “take a quick trip to the toilet…before it gets crowded.” While
+the command captain was excusing himself, the CVR recorded the sound of an electric
+seat motor, presumably the captain’s, as he maneuvered to leave his seat and the
+cockpit.105 At 0148:18.55, the CVR recorded a sound similar to the cockpit door
+operating.
+The Safety Board considered whether another flight crewmember might have been
+in the cockpit with the relief first officer during this time period. However, careful
+laboratory examination of the CVR recording indicated that the CVR did not record any
+speech or human sounds other than those attributed to the captain and relief first officer
+from 0148:30 until the end of the recording at 0150:38.47.106 The Board determined that
+the possibility that another person, especially a pilot, was present during the airplane’s
+sudden transition from cruise flight to steep descent and did not audibly express surprise at
+the abrupt change in the flight situation (as the captain did when he returned to the
+cockpit) or offer help/suggestions on how to deal with the emergency situation was
+extremely unlikely. Therefore, the evidence indicates that the relief first officer was alone
+in the cockpit from about 0148:19, when the command captain left the cockpit, to
+0150:06, when he returned to the cockpit.
+Ten seconds after the unintelligible comment was made (at 0148:40), the relief
+first officer stated quietly, “I rely on God.” At 0149:18, the CVR recorded a “whirring
+105This electric seat motor was recorded by the cockpit area microphone (CAM) but not by the hot
+microphone at the first officer’s position, which (as previously discussed) was likely stowed at the first
+officer’s side of the airplane. Because of its position on the right side of the airplane and its directionally
+sensitive nature, it is likely that all seat motions recorded by the hot microphone at the first officer’s position
+after 0141 represented motions of the right seat.
+106As previously discussed, about 0148:30, the CVR recorded an unintelligible comment that could not
+positively be attributed to any previously identified crewmember. Two speech characteristics of the
+unintelligible comment (fundamental frequency and formant dispersion) more closely resembled values
+displayed by the relief first officer than by the other voices evaluated.
+NTSB/AAB-02/01
+
+60
+sound similar to [the] electric seat motor operating.” Because the relief first officer’s seat
+was likely moved into an aft position because the command first officer had vacated the
+seat, and in light of the autopilot disconnect and subsequent flight control movements, the
+whirring sound is consistent with the relief first officer moving his seat forward into a
+position from which he could manually fly the airplane.107 Thus, all manual flight control
+inputs made after 0148:19, until the command captain’s return to the cockpit at 0150:06,
+must have been made by the relief first officer.
+The absence of an autopilot disconnect warning tone on the CVR recording when
+the autopilot disconnected at 0149:45 is consistent with the autopilot being manually
+disconnected by rapidly double-clicking on the control yoke-mounted autopilot
+disconnect switch. Because the relief first officer was alone in the cockpit, the evidence
+indicates that he manually disconnected the autopilot. The Safety Board’s examination
+revealed no evidence in the CVR, FDR, ATC, or radar data of any system malfunction,
+conflicting air traffic, or other event that might have prompted the relief first officer to
+disconnect the autopilot; therefore, there was no logical operational reason for the relief
+first officer to disconnect the autopilot while in cruise flight over the ocean. Further, as
+previously stated, the Board’s testing and evaluation of the 767 elevator system showed
+that none of the failure modes examined during this investigation would have resulted in
+control column movements without concurrent identifiable movements of the elevators,
+which would have been observed in the FDR data. The FDR did not record any unusual or
+alarming elevator movements before the autopilot was disconnected; therefore, it is
+unlikely that the relief first officer was prompted to disconnect the autopilot because he
+sensed unusual control column movements.
+Aside from some very slight elevator movements and a very gradual left roll, the
+airplane remained in level flight at flight level 330 for about 8 seconds after the autopilot
+was disconnected. As previously discussed in the section titled, “767 Autopilot
+Information,” such slight movements are normal and expected when the autopilot is
+disengaged and the pilot takes manual control of the airplane. There was no indication of
+an upset or loss of control at this time.
+At 0149:48, the relief first officer again quietly stated, “I rely on God.”
+At 0149:53, the throttle levers were retarded (moved from their cruise power setting to
+idle). This throttle lever movement occurred at a rate that was more than twice that which
+the autothrottle can command. Further, the throttle levers moved 10º to 15º beyond the
+minimum position that the autothrottle would have been able to command at the existing
+flight conditions to the throttle levers’ full aft idle stop, about 33º.108 Movement of the
+throttles aft of the autothrottle commanded position requires a manually applied force of
+about 9 pounds on the throttle levers to override the autothrottle servomotor clutch. Thus,
+it is apparent that the throttle lever movements at 0149:53 were caused by the relief first
+officer’s manual inputs and were not the result of autothrottle commands.109
+107This electric seat motor sound was recorded by both the CAM and the hot microphone at the first
+officer’s position, further confirming that this sound represented a motion of the relief first officer’s seat.
+108This throttle lever position was consistent with manually input throttle lever positions recorded by the
+FDR earlier in the accident flight.
+NTSB/AAB-02/01
+
+61
+At 0149:54, the FDR recorded a very slight movement of the inboard ailerons and
+both elevator surfaces beginning to rapidly pitch nose down (to about 3.6° nose-down
+deflection). The nose-down elevator movement began after the throttle levers started to
+move to idle; therefore, the relief first officer did not move the throttle levers to idle in
+response to the nose-down elevator movement. As previously noted, the relief first officer
+did not audibly express surprise or seem anxious or disturbed by the airplane’s sudden and
+extreme nose-down movement or the reduction in load factor to near 0 G, nor did he call
+for help during the accident sequence. Again, there was no evidence in the CVR, FDR,
+ATC, or radar data of any system malfunction, conflicting air traffic, or other event that
+would have prompted the relief first officer to adjust the throttle levers at all, let alone take
+an action as drastic as moving the throttle levers to the idle position while in cruise flight
+at night over the ocean or to then command a sustained nose-down elevator movement.
+About 11 seconds after the initial nose-down movement of the elevators, the FDR
+recorded additional (larger) movements of the inboard ailerons and the elevators started to
+move further in the nose-down direction, decreasing the airplane’s load factor to negative
+G loads. The relief first officer would have been gripping the control wheel with his
+hand(s) when he applied these significant nose-down elevator control column inputs. It is
+unlikely that he could make such significant control column inputs without (intentionally
+or unintentionally) also affecting the control wheel’s lateral position and thus providing
+some input to the ailerons. Therefore, these inboard aileron movements, and those that
+occurred at 0149:54 (both of which were coincident with changes in the relief first
+officer’s inputs to the control column), are consistent with evidence indicating that the
+relief first officer was providing manual inputs to the flight controls during the accident
+sequence.
+Events After the Command Captain Returned to the Cockpit
+Immediately after this increase in nose-down elevator movement, at 0150:06, the
+CVR recorded the command captain exclaiming, “What’s happening? What’s
+happening?,” as he returned to the cockpit.110 At 0150:08, the captain repeated his
+question. While the captain was still speaking and moving toward his seat in the forward
+portion of the cockpit (at 0150:07 and again at 0150:08), the relief first officer quietly
+repeated, “I rely on God.”111 However, the relief first officer did not answer the captain’s
+question. The Safety Board considers it unlikely that the captain—who was likely
+109The Safety Board notes that several of its incident and accident investigations (including EgyptAir
+flight 990) might have benefited from a visual record of cockpit images/events. On April 11, 2000, the
+Board issued Safety Recommendations A-00-30 and -31. Safety Recommendation A-00-30 asked the FAA
+to require that all aircraft operated under 14 Code of Federal Regulations (CFR) Part 121, 125, or 135 and
+currently required to be equipped with a CVR and FDR be retrofitted with a crash-protected cockpit image
+recording system by January 1, 2005. Safety Recommendation A-0-31 asked the FAA to require that all
+aircraft manufactured after January 1, 2003; operated under 14 CFR Part 121, 125, or 135; and required to
+be equipped with a CVR and FDR be equipped with two crash-protected cockpit image recording systems.
+The Board specified that the cockpit image recording system should have a 2-hour recording duration and be
+“capable of recording, in color, a view of the entire cockpit including each control position and each
+action…taken by people in the cockpit.” Safety Recommendations A-00-30 and-31 are currently classified
+“Open—Unacceptable Response.”
+NTSB/AAB-02/01
+
+62
+focusing on getting into his seat, troubleshooting the upset, and attempting to regain
+control of the airplane—would have suspected at this point that the relief first officer’s
+actions were directly contributing to the airplane’s dive.112 Rather, the captain likely would
+have assumed that the relief first officer was also attempting to regain control of the
+airplane and would work cooperatively with him.
+As previously discussed, the relief first officer’s passive behavior in response to
+the airplane’s nose-down movements and the captain’s questions is not consistent with
+what would be expected from a pilot who was dealing with an unexpected or undesired
+airplane problem. To the contrary, the timing of the increased nose-down elevator
+movement and the corresponding decrease in load factor was consistent with the relief
+first officer having increased the forward control column pressure when the captain
+returned to the cockpit.
+At 0150:15, as the airplane continued to descend rapidly in a 40° nose-down
+attitude, the captain again asked, “What’s happening, [relief first officer’s first name]?
+What’s happening?” Again, the relief first officer did not respond to the captain’s question.
+Although the relief first officer remained unresponsive to the captain’s queries, there is no
+specific evidence to indicate that the captain suspected at this point that the relief first
+officer’s actions were causing the airplane’s dive.
+At the same time, as the airplane was descending through about 27,300 feet msl,
+both elevator surfaces began moving to reduced nose-down deflections. Shortly thereafter,
+the airplane’s rate of descent began to decrease. Because there was no evidence that the
+relief first officer had attempted to regain control of the airplane before this, the Safety
+Board considers it likely that these movements were the result of nose-up flight control
+inputs made by the captain after he returned to the cockpit.113 Six seconds later
+110Although the CAM recorded all of the captain’s remarks, the “What’s happening? What’s
+happening?” comments at 0150:06 were of a poorer recording quality and less audible than similar remarks
+made at 0150:08 and 0150:15. The evidence from both microphones was consistent with the captain
+speaking from outside the cockpit or the rear portion of the cockpit when he made the earlier statement and
+from the forward portion of the cockpit when he made the later statements, suggesting that the captain was
+moving forward as he made these statements. Further, the content and tone of the captain’s statements were
+consistent with his trying to understand an unexpected situation upon his return to the cockpit.
+When the captain asked, “What’s happening? What’s happening?” at 0150:06, his words were not
+recorded by the hot microphone at the first officer’s position; however, the hot microphone recorded the
+captain’s subsequent remarks until it stopped recording cockpit conversation at 0150:25. (None of the relief
+first officer’s comments during the accident sequence were recorded by the hot microphone. For additional
+information, see the section titled, “Audio Information Recorded by First Officer’s Hot Microphone.”)
+111The Safety Board considers it likely that the captain never heard any of the relief first officer’s “I rely
+on God” statements. None of these statements were recorded by the hot microphone at the first officer’s
+position, suggesting that they were spoken very quietly. (By contrast, the hot microphone at the first officer’s
+position did record the captain’s statements of “What’s happening?” as he moved to his seat at the forward
+portion of the cockpit [at 0150:08] and again after he was seated in his seat [at 0150:15], despite the fact that
+the captain was farther from that hot microphone.)
+112The visual difference between pushing forward on the control column and pulling aft on the control
+column to create elevator movements of the magnitude recorded on the FDR would not have been readily
+apparent to the captain in the darkened cockpit during the unexplained crisis, especially when he was trying
+to understand the many abnormal events and sensations that were occurring during the dive.
+NTSB/AAB-02/01
+
+63
+(at 0150:21), both elevator surfaces passed through their neutral positions into nose-up
+deflections. However, less than 1 second later, the right surface reversed its motion and
+moved back in the nose-down direction, and the left surface continued to move in the
+nose-up direction.
+According to Boeing’s tests and research, with the elevator PCAs operating
+normally, the accident airplane’s elevators would have only been minimally affected by
+the aerodynamic forces that would have resulted from the small sideslip angle, roll rates,
+and the Mach numbers that existed during the accident sequence. Therefore, it follows that
+the elevator split recorded by the FDR was the result of flight control inputs to each
+elevator surface and not the result of aerodynamic forces on those surfaces.114 (In contrast,
+Boeing indicated that an outboard aileron split recorded between 0150:27 and 0150:32
+could be explained by the aerodynamic effects of the small sideslip angles and roll rates
+calculated to have been present at that time.)115
+Testing confirmed that the left and right elevator surfaces could be moved in
+different directions by differential column movements from the relief first officer and
+captain in the cockpit. As intended by the elevator control system design, the elevators
+would split, each surface following the movements of the control column on its side (the
+left elevator moving in response to the left column movement, and the right elevator
+moving in response to the right column movement). The opposing control column inputs
+likely existed during the 7 to 8 seconds before the elevator split (when both elevators were
+moving in a trailing-edge-up direction); however, the elevator split would not occur until
+the difference between the two control column forces was great enough to engage the
+override mechanism. Tests conducted in a 767 simulator and airplane (on the ground)
+demonstrated that pilots with heights and weights similar to those of the command captain
+and relief first officer could apply enough force on the control column to produce and
+maintain the split elevator condition recorded by the FDR.
+The captain’s actions just after the elevator split began were consistent with an
+attempt to recover the airplane and the relief first officer’s were not. In rapid sequence,
+113During the Safety Board’s tests and simulations, a pilot similar in height and weight to the EgyptAir
+flight 990 command captain was physically able to move from the aft cockpit into the captain’s seat, to brace
+himself against the control console or floor structure, and to apply enough back pressure on the control
+column to match the physical pulling forces computed to have been required to generate the split elevator
+condition recorded by the FDR. However, the pilot stated that it was physically difficult or uncomfortable
+for him to manipulate the control column while kneeling on the floor or standing behind the captain’s seat
+and suggested that, given his build and his need to manipulate the controls, the captain of EgyptAir
+flight 990 would almost certainly have attempted to enter his seat immediately upon his return to the
+cockpit.
+As previously discussed, the simulator did not duplicate the accident airplane’s actual flight
+conditions in every way; for example, the simulator did not duplicate the negative G loads recorded by the
+FDR. However, once the captain was normally seated and effectively braced, these forces should not have
+substantially affected the maximum fore-and-aft forces he could generate. Further, the G loads on the
+accident airplane did not remain negative for long; FDR data show that the G loads increased to greater than
+1/2 G within 2 to 3 seconds of the start of the recovery.
+114For additional information, see Boeing’s April 16, 2001, letter in the public docket for this accident.
+115For additional information, see Boeing’s April 12, 2001, letter in the public docket for this accident.
+NTSB/AAB-02/01
+
+64
+just after the elevator split began, the engine start lever switches were moved to the cutoff
+position, the throttle levers were advanced to full throttle, and the speedbrakes were
+deployed.116 After the throttle levers were advanced (but the engines did not respond), the
+captain reacted with surprise, asking the relief first officer, “What is this? What is this?
+Did you shut the engine(s)?”117 The timing and direction of the left elevator motions
+during this time suggest that the captain, who had likely been using both hands to pull aft
+on the left control column, released his right hand to advance the throttles and deploy the
+speedbrakes, resulting in a decrease in his total aft pressure on the control column, which
+was reflected in the decrease in the left elevator’s nose-up deflection that was recorded by
+the FDR at this time. Subsequently, when the captain likely had returned his right hand to
+the control column, the FDR recorded a corresponding increase in the left elevator’s
+nose-up deflection. As previously stated, tests and simulations demonstrated that a pilot
+seated in the captain’s position could easily have advanced the throttles, moved his hand a
+little to the left, and deployed the speedbrakes in the 3 to 4 seconds it took for these events
+to occur.
+Concurrent with the brief downward motion of the left elevator that was recorded
+when the throttles were advanced and the speedbrakes deployed, a brief downward motion
+of the right elevator was recorded. This movement of the right elevator suggests that when
+the captain’s aft pressure on the left control column decreased, the relief first officer’s
+sustained forward pressure on the right control column caused that column to move
+forward briefly. Although it would have been physically possible for the relief first officer
+to have advanced the throttles and deployed the speedbrakes, the evidence does not
+support the notion that the relief first officer performed these actions. Rather, the evidence
+indicates that the relief first officer moved the engine start lever switches to the cutoff
+position (a counterproductive action, in terms of recovery), whereas the captain deployed
+the speedbrakes in an attempt to arrest the airplane’s descent.
+Additionally, the surprised reaction from the captain when the engines did not
+respond to the throttle movement (“What is this? What is this? Did you shut the
+engine(s)?”) suggested that it was he (not the relief first officer) who advanced the throttle
+levers. This response clearly indicated that the captain was unaware that the engine start
+lever switches had been moved to the cutoff position, that such an action was at odds with
+his intentions, and that it was, therefore, not part of a mutual, cooperative troubleshooting
+exercise between the captain and relief first officer.
+At 0150:26.55, the captain stated, “Get away in the engines,” and at 0150:28.85,
+he stated, “shut the engines.”118 At 0150:29.66, the relief first officer responded for the
+first (and only) time after the captain returned to the cockpit, stating, “It’s shut.”
+116Tests and simulations demonstrated that the magnitude of the elevator split would vary, but a split
+could be maintained even when the pilot in the left seat temporarily removed his right hand from the control
+yoke to advance the throttles and deploy the speedbrakes and the pilot in the right seat temporarily removed
+his left hand from the control yoke to move the engine start lever switches to the cutoff position.
+117The Safety Board notes that the captain’s statement “What is this? What is this? Did you shut the
+engine(s)?” might reflect the beginning of a suspicion that the relief first officer’s actions were not
+appropriate for recovery.
+NTSB/AAB-02/01
+
+65
+Between 0150:31 and 0150:37, the captain repeatedly asked the relief first officer to “pull
+with me” on the control column. However, the FDR data indicated that the elevator
+surfaces remained in a split condition (with the left surface commanding nose up and the
+right surface commanding nose down) until the last data were recorded by the FDR at
+0150:36.64.
+As with the earlier portion of the accident sequence (before the captain’s return to
+the cockpit), the relief first officer’s responses during this portion of the accident sequence
+did not indicate that he was surprised or disturbed by the events. Similarly, his rate of
+speech and fundamental frequency when he repeated, “I rely on God,” and stated, “It’s
+shut,” did not indicate any significant increase in his level of psychological stress. In
+contrast, the captain’s fundamental frequency was about 65 percent higher when he
+repeatedly asked the relief first officer to “pull with me” during the elevator split period
+than it was during routine flight, reflecting an increased level of psychological stress.
+As previously discussed, simulations showed that even if a failure condition had
+affected the elevator system, it would have been possible to regain control of the airplane
+at any time during the recorded portion of the accident sequence and to have restarted the
+engines and recovered the airplane during the climb after the recorders stopped. However,
+those simulations assumed that there were no opposing pilot inputs. The captain’s failure
+to recover the airplane can be explained, in part, by the relief first officer’s opposing flight
+control inputs. It is possible that efforts to recover the airplane after the airplane lost
+electrical power were also complicated by the loss of electronic cockpit displays.
+In summary, the evidence establishes that the nose-down elevator movements were
+not the result of a failure in the elevator control system or any other airplane system but
+were the result of the relief first officer’s manipulation of the airplane controls. The
+evidence further indicates that the subsequent climb and elevator split were not the result
+of a mechanical failure but were the result of pilot inputs, including opposing pilot inputs
+where the relief first officer was commanding nose-down and the captain was
+commanding nose-up movement. The Safety Board considered possible reasons for the
+relief first officer’s actions; however, the Board did not reach a conclusion regarding the
+intent of or motivation for his actions.
+118This sentence, “Get away in the engines,” is an example of a phrase where direct translation of the
+Arabic words into English with no attempt to interpret or analyze the words resulted in an awkward or
+seemingly inappropriate phrase. In this case, it is possible that the captain, surprised to realize that the
+engines had been shut off, was trying to tell the relief first officer to leave the engines alone. However,
+research indicates that poor word choice, improper grammar, and the use of incomplete phrases can be
+symptomatic of high levels of psychological stress in a speaker.
+NTSB/AAB-02/01
+
+66
+Summary
+1. The accident airplane’s nose-down movements did not result from a failure in
+the elevator control system or any other airplane failure.
+There was no evidence of any failure condition within the elevator system of
+the accident airplane that would have caused or contributed to the initial
+pitchover or prevented a successful recovery.
+No mechanical failure scenario resulted in airplane movements that matched
+the flight data recorder data from the accident airplane.
+Even assuming that one of the four examined failure scenarios that the
+investigation evaluated in depth had occurred, the accident airplane would
+still have been recoverable because of the capabilities of the Boeing 767’s
+redundant elevator system.
+2. The accident airplane’s movements during the initial part of the accident
+sequence were the result of the relief first officer’s manipulation of the
+controls.
+At the relief first officer’s suggestion, a transfer of control at the first officer’s
+position occurred earlier than normal during the accident flight.
+The relief first officer was alone in the cockpit when he manually
+disconnected the autopilot and moved the throttle levers from cruise to idle;
+there was no evidence of any airplane system malfunction, conflicting air
+traffic, or other event that would have prompted these actions.
+The nature and degree of the subsequent nose-down elevator movements were
+not consistent with those that might have resulted from a mechanical failure
+but could be explained by pilot input.
+There was no apparent reason for the relief first officer’s nose-down elevator
+inputs.
+The relief first officer’s calm repetition of the phrase “I rely on God,”
+beginning about 74 seconds before the airplane’s dive began and continuing
+until just after the captain returned to the cockpit (about 14 seconds into the
+dive), without any call for help or other audible reaction of surprise or alarm
+from the relief first officer after the sudden dive is not consistent with the
+reaction that would be expected from a pilot who is encountering an
+unexpected or uncommanded flight condition.
+The absence of any attempt by the relief first officer to recover from the
+accident airplane’s sudden dive is also inconsistent with his having
+encountered an unexpected or uncommanded flight condition.
+The relief first officer’s failure to respond to the command captain’s questions
+(“What’s happening? What’s happening?”) upon the captain’s return to the
+cockpit is also inconsistent with the reaction that would be expected from a
+pilot who is encountering an uncommanded or undesired flight condition.
+NTSB/AAB-02/01
+
+67
+3. The accident airplane’s movements after the command captain returned to the
+cockpit were the result of both pilots’ inputs, including opposing elevator
+inputs where the relief first officer continued to command nose-down and the
+captain commanded nose-up elevator movements.
+Nose-up elevator movements began only after the captain returned to the
+cockpit.
+Testing showed that recovery of the airplane was possible but not
+accomplished.
+Seconds after the nose-up elevator movements began, the elevator surfaces
+began moving in different directions, with the captain’s control column
+commanding nose-up movement and the relief first officer’s control column
+commanding nose-down movement.
+After the elevator split began, the relief first officer shut down the engines.
+The captain repeatedly asked the relief first officer to “pull with me,” but the
+relief first officer continued to command nose-down elevator movement.
+The captain’s actions were consistent with an attempt to recover the accident
+airplane and the relief first officer’s were not.

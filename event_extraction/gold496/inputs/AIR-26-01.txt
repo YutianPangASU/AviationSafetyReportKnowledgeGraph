@@ -1,0 +1,596 @@
+Aviation Investigation Report
+AIR-26-01
+January 2, 2026 Aviation Investigation Report AIR-26-01
+Establish Pilot Training and Experience
+Qualification Criteria and Stall Test Plan for
+Postmaintenance Stall Test Flights in
+Certain Hawker Airplane Models
+Introduction
+The National Transportation Safety Board (NTSB) is providing the following
+information to urge Textron Aviation Inc. (the current type certificate holder for the
+airplane models), the Federal Aviation Administration (FAA), and the National
+Business Aviation Association (NBAA) to take immediate action on the safety
+recommendations in this report.1 We identified the need for action during our
+investigations of two fatal accidents in 2025 and 2024 that occurred during
+manufacturer-required postmaintenance stall test flights conducted in Hawker 800XP
+and 900XP airplanes after routine, 4-year inspections were performed.2
+Both accident flights were flown by the respective operator’s flight crews who,
+although qualified to fly the airplanes, were unprepared to safely address the adverse
+stall behavior they encountered during the stall test flights. We are concerned that,
+due to deficiencies we identified in the information available to airplane owners,
+operators, and pilots related to the training and procedures needed to safely perform
+manufacturer-required postmaintenance stall test flights in certain Hawker airplane
+models, other flight crews tasked to perform such flights may be similarly
+1 The NBAA is an organization that represents “companies that rely on general aviation aircraft
+to help make their businesses more efficient, productive, and successful.” The NBAA Safety Committee
+provides NBAA members with advice and guidance related to the safety of operations and identifies
+safety priorities intended to “promote safety-enhancing discussions and initiatives within flight
+departments and among owner-flown operations.” More information about NBAA’s safety activities,
+including safety information that is publicly available to nonmembers, can be found by searching the
+NBAA website at https://nbaa.org.
+2 Visit ntsb.gov to find additional information in the public docket for this NTSB safety
+recommendation report, case DCA26SR003. Use the CAROL Query to search the accident
+investigations discussed in this report, cases ANC26FA002 and WPR24FA083.
+1
+
+Aviation Investigation Report
+AIR-26-01
+unprepared. Based on the safety issues discussed in this report, the NTSB is issuing
+five urgent safety recommendations to Textron Aviation Inc., one urgent safety
+recommendation to the FAA, and one urgent safety recommendation to the NBAA.
+Background
+The purpose of the stall test flight required for certain Hawker airplanes is to
+ensure that the airplane’s stall behavior and the stall identification and warning
+system exhibit acceptable characteristics before the airplane is returned to service
+following certain maintenance actions involving the wing leading-edge assemblies,
+deicing distribution panels, or stall trigger assemblies. This is because the wing
+design for the specified airplanes is sensitive to minor wing component installation or
+condition defects, such as those that could be introduced inadvertently during
+maintenance activities, that could result in unacceptable stall characteristics (that is,
+any stall or stall identification and warning system behavior that is not in accordance
+with the type design standards for airworthiness).3 Per the respective airplane
+manuals, unacceptable behavior includes a stall that occurs before stick shaker or
+stick pusher activation or an uncommanded roll that exceeds 20° and cannot be
+limited by a pilot’s aileron control input.
+Per the Hawker Structural Repair Manual (SRM) that applies to the Hawker 750,
+800, 800XP, 850XP, and 900XP airplanes and specifies the stall flight test
+requirements, the range of acceptable tolerances for some wing component
+installations must be achieved within a few hundredths of an inch to avoid
+introducing unacceptable stall characteristics.4 Similarly, discontinuities or ridges in
+the sealant between the leading edge and upper wing skin can also result in
+unacceptable stall characteristics.
+The possibility of encountering unacceptable stall characteristics during the
+stall test flight is implied, as the SRM also provides additional maintenance actions to
+be taken to attempt to correct such behavior and states that a stall test flight recheck
+3 The Hawker 800XP, 900XP, and other airplanes on the same type certificate are designed
+such that, during normal operations, the flight crew should never experience an actual stall. The
+airplanes are equipped with a stall identification and warning system that includes a stick shaker and
+stick pusher. The stick shaker, which is designed to operate at an indicated airspeed of 7% to 9%
+above the stalling speed, warns the pilots when the airplane is approaching a stall. If the pilot does not
+respond appropriately by moving the control column forward (to command airplane-nose-down pitch)
+to decrease the airplane’s angle of attack, the stick pusher is designed to automatically activate and
+move the control column forward to lower the airplane’s nose and avoid the stall. Per the respective
+manuals for the airplanes, should a stall occur concurrent with the stick pusher activation, “acceptable”
+stall behavior can include roll behavior that the pilot can restrain to within 20° with normal use of
+aileron control.
+4 For example, when a wing leading edge is reinstalled, the gap between the leading-edge
+skin and wing skin must be between 0.02 and 0.15 inches, and the profile must be between -0.01 and
++0.02 inches.
+2
+
+Aviation Investigation Report
+AIR-26-01
+must be done. Further, should the airplane continue to exhibit unacceptable stall
+characteristics (such as excessive roll at stall onset) after all identified defects have
+been corrected, the SRM specifies adjusting the position of the leading edge spoiler
+(which is bolted into place) by no more than 0.05 inches to correct the behavior.5
+However, incorrect spoiler position adjustments can exacerbate unacceptable stall
+behavior.
+The SRM refers the airplane operator to the respective airplane manual for the
+“procedure and technique” for performing the stall test flight. For some airplane
+models, the SRM refers to the Pilot’s Operating Manual (POM); for others, it refers to
+the Airplane Flight Manual (AFM).6 The POM for the Hawker 800XP and 900XP
+accident airplanes, respectively, contains stall “conditions” and “techniques,” which
+include ensuring that the airplane external surface is free of ice; maintaining the
+specified minimum altitudes, airplane configuration, and target airspeeds; and
+allowing the airplane to pitch nose down until the stick pusher is canceled, among
+other specified information.
+Beyond the information in the SRM and the POM for each airplane, we
+identified no other current document from the airplane manufacturer specifying any
+additional experience, training, or qualification criteria for pilots tasked to perform a
+stall test flight or any additional plan or procedures for performing a stall test flight.
+As discussed in the next section, in addition to the two fatal accidents, we
+investigated an incident in 2006 and are aware of two previous events involving
+airplane models that are on the same type certificate as the Hawker 800XP and 900XP
+airplanes and that exhibited an excessive uncommanded roll or other adverse stall
+behavior during postmaintenance stall test flights.
+Fatal Accidents
+On October 16, 2025, a Hawker 800XP airplane, XA-JMR, crashed during a
+stall test flight near Bath Township, Michigan. The pilot, copilot, and the passenger (a
+company maintenance representative) were fatally injured. The pilot and copilot were
+the operator’s primary flight crew for the airplane, which had been down for
+maintenance for the preceding 7 months. The pilot held a pilot-in-command (PIC)
+type rating and the copilot held a second-in-command (SIC) type rating for airplanes
+that included the Hawker 800XP.
+5 The SRM refers to this component on each wing as “leading edge spoiler,” “spoiler,” “stall
+trigger,” and “wing spoiler.” It is different than the aerodynamic spoiler surfaces, such as speed brakes
+and ground spoilers, that can be deployed, as applicable, during different phases of flight.
+6 Although the SRM refers operators of Hawker 900XP airplanes to the AFM, we identified that
+the stall test information is actually contained in the POM. We discuss this issue in the “Manual
+Inconsistences” section of this report.
+3
+
+Aviation Investigation Report
+AIR-26-01
+The pilot’s and copilot’s logbooks showed that they flew the accident airplane
+exclusively, typically about 150 hours per year, and had completed their most recent
+training in a flight simulator at a commercial training facility about 5 months before
+the accident. Training records for the simulator sessions indicated that the pilot was
+trained to the equivalent of 14 Code of Federal Regulations (CFR) 61.58 PIC
+standards, and the copilot was trained to the equivalent of 14 CFR 61.55 SIC
+standards. Their stall training in the simulator covered stall prevention procedures in
+various airplane configurations, stall recovery with idle thrust procedures, and a stick
+pusher demonstration; the stall training sessions were focused on recognizing and
+avoiding stalls and were not graded. Maintenance facility personnel stated that they
+provided the flight crew with a list of experienced stall test pilots-for-hire, but the
+flight crew instead flew the accident stall test flight themselves.
+Preliminary information from our ongoing investigation included automatic
+dependent surveillance broadcast (ADS-B) flight track data, air traffic control (ATC)
+communications information, and weather data. The flight track data showed that the
+airplane departed from Battle Creek Executive Airport at Kellogg Field (BTL), Battle
+Creek, Michigan, about 1708 local time then climbed until it leveled off at 15,000 ft
+mean sea level (msl), which was within the flight crew’s requested and ATC-approved
+block altitude of 14,000 to 16,000 ft msl. Weather conditions at BTL about the time of
+the departure included clear skies, temperature 57° F, and dew point 39° F, which
+represents a relative humidity of 51%.
+At 1727, the airplane began a rapid descent from 14,000 ft msl, and a flight
+crewmember made an unintelligible transmission on the ATC frequency followed by
+a transmission in Spanish that translated to “in a stall, recovering, sorry.” There was no
+further communication from the flight crew.
+Examination of the accident site revealed that the airplane impacted terrain in
+a relatively flat attitude. A postimpact fire consumed a large portion of the main
+wreckage; however, all major structures were accounted for at the accident site. The
+cockpit voice recorder (CVR) and various components were recovered for additional
+examination and testing.
+Although our investigation of this accident is ongoing, the descent profile and
+other aspects of the flight are similar to those identified during our investigation of a
+stall test flight accident that occurred about 20 months earlier. In that accident, a
+Hawker 900XP airplane, N900VA, crashed near Westwater, Utah, on February 7,
+2024, fatally injuring the pilot and copilot.
+The Hawker 900XP accident flight crewmembers were the operator’s line
+pilots, and the PIC was the pilot flying during the accident flight. Both crewmembers
+had attended separate simulator training sessions during the previous year that
+covered the operation of the stall warning and identification system (stick shaker and
+4
+
+Aviation Investigation Report
+AIR-26-01
+stick pusher); the training was focused on recognizing and avoiding stalls.7 The pilot
+had participated in a stall test flight 4 years before the accident as SIC, and the
+copilot had never participated in a stall test flight.
+ADS-B data for the accident flight showed that the airplane departed from
+Grand Junction Regional Airport (GJT), Grand Junction, Colorado, about 1037 local
+time and climbed to near the top of the flight crew’s requested block altitude of flight
+level (FL) FL180 to FL200 before leveling off.8 Areas of clouds and precipitation were
+in the vicinity of the departure airport. About 1047, the airplane entered a rapid,
+vertical descent consistent with a flat spin from which the flight crew did not recover
+airplane control. The airplane rolled through 360° multiple times in a corkscrew
+descent (see figure 1).
+Data recovered from the airplane’s flight data recorder (FDR) indicated that the
+airplane was configured with the flaps retracted and the autopilot off. Before the
+airplane entered the spin, it decelerated and its pitch attitude increased, consistent
+with the flight crew preparing to perform the stall warning and identification system
+checks. The data showed that the airplane entered the stall at the same time the stick
+shaker activated and before the stick pusher activated, providing no indication to the
+flight crew that the stall was imminent. We determined that this stall identification and
+warning system activation sequence, with the stall occurring at the same time the stick
+shaker activated, was likely due to wing performance degradation from structural ice
+that accumulated as the airplane entered the clouds during part of its climb.
+7 According to an instructor at the simulator facility where the pilot and copilot completed their
+training, typical stall training consists of a demonstration of the features of the stall protection system.
+The trainees are instructed to slow the airplane on autopilot until the stick shaker activates so they can
+observe that the autopilot will disengage. The trainees are then instructed to wait before recovering
+the airplane so they can observe that the stick pusher will activate if recovery is not initiated in
+response to the stick shaker. The instructor stated that it’s a demonstration and that no proficiency is
+required. Per FAA Order 8900.1, Volume 3, Chapter 19, Section 6, the stall training provided during a
+Part 135 PIC and SIC initial new-hire, initial equipment, and recurrent training includes en route “Stall
+Prevention” simulator training events involving “approaches to stalls” in various specified
+configurations, such that, “the approved recovery procedure must be initiated at the first indication of
+a stall (buffet, stick shaker, aural warning).”
+8 A flight level is an aircraft’s altitude, expressed as three digits representing hundreds of feet,
+as determined by a barometric altimeter setting of the reference datum of 29.92 inches of mercury.
+Flight level references are used for operations conducted at or above 18,000 ft msl.
+5
+
+Aviation Investigation Report
+AIR-26-01
+Figure 1. Flight track showing corkscrew descent of the February 7, 2024, Hawker 900XP
+accident flight near Westwater, Utah.
+According to the stall technique guidance in the Hawker 900XP POM, “the stall
+is identified by a short forward movement of the control column provided by the stall
+identification system.” It states that “the airplane should be allowed to pitch nose
+down until the stick pusher is canceled and should then be recovered to normal
+controlled flight. Any tendency to roll should be corrected by the use of ailerons.”
+Although the POM contains a caution that references “unacceptable stall
+characteristics,” including a roll behavior that may result in an unusual attitude, it does
+not provide clear information or recovery procedures beyond a statement that the
+elevator control must be moved forward (airplane-nose-down pitch) to decrease the
+angle of attack and allow the return of normal aileron control (see figure 2).
+6
+
+Aviation Investigation Report
+AIR-26-01
+Figure 2. Hawker 900XP POM caution statement about unacceptable stall behavior.
+7
+
+Aviation Investigation Report
+AIR-26-01
+According to the FDR data for the accident flight, after the airplane entered the
+stall, it abruptly rolled to the right, and the flight crew responded with full
+left-wing-down aileron control input, full power, and full aft (airplane-nose-up pitch)
+elevator control input, which aggravated the aerodynamic stall and spin.
+Previous Incident and Other Uncommanded Roll Events
+We previously investigated a stall test flight incident and are aware of two
+other stall test flight events involving uncommanded roll behavior in airplane models
+that are on the same type certificate as the accident Hawker 800XP and 900XP
+airplanes. Type certificate A3EU, which has been held by numerous manufacturers
+before it was transferred to Textron Aviation Inc. in 2016, includes 51 unique airplane
+models that have been added over the years since the 1960s.9
+The incident, which occurred on May 4, 2006, involved a Corporate Jets
+Limited BAE 125-800A airplane that entered a stall without the expected stick shaker
+and stick pusher activation and rolled uncommanded through 360° during a stall test
+flight near Lincoln, Nebraska.10 The pilot (who was the PIC and pilot flying), copilot,
+and the four technicians on board sustained minor injuries. The flight crewmembers
+were pilots for Raytheon Aircraft Company, the airplane type certificate holder at the
+time.
+The flight crew reported that the stall test was conducted with the autopilot
+engaged and that the stall occurred at a higher airspeed than they had calculated.11
+The flight crew reported that the right wing dropped abruptly and that, during the
+uncontrolled descent, the airplane rolled through 360° multiple times, both to the
+right and the left. FDR data for the flight showed that the airplane became inverted
+4 seconds after the initial upset and lost about 11,000 ft of altitude within 30 seconds
+before the pilot regained control of it. During the incident, the airplane sustained a
+downward acceleration force that exceeded 6 g and received minor damage to seats,
+arm rests, and cabin interior panels.
+9 The type certificate indicates that it was transferred from Raytheon Corporate Jets Inc. (United
+Kingdom) to Raytheon Aircraft Company (United States) on August 1, 1995, at which time, the FAA
+accepted status as the state of design and manufacture. The type certificate was subsequently
+transferred to Hawker Beechcraft Corporation on March 26, 2007, and then Beechcraft Corporation on
+April 12, 2013, before it was transferred to Textron Aviation Inc. on October 12, 2016.
+10 See NTSB case CHI06IA127 for more information.
+11 The AFM stated that intentional stalls were to be performed with the autopilot off. However,
+the Raytheon maintenance test flight procedures required it be engaged to enable verification of
+autopilot disconnect at stick shaker before approving the airplane for return to service. Following this
+event, Raytheon discontinued the practice of approaching intentional stalls with the autopilot
+connected for in-service airplanes until the stall characteristics were ascertained.
+8
+
+Aviation Investigation Report
+AIR-26-01
+We found that, contrary to the guidance specified in the AFM, the flight crew
+initiated the stall test with ice contamination on the wings and that this contamination
+resulted in the airplane’s adverse stall behavior. The flight crew had activated the
+deice system after takeoff and did not observe any icing advisory light or any ice on
+the wings. However, a mechanic on board saw that frost was present on the wing
+surface near the root (which was out of the pilots’ field of view) and reported it to the
+flight crew, but they continued to perform the stall test.
+Following this incident, Raytheon Aircraft issued a stall training syllabus that
+outlined operational considerations for stall testing and clarified approved recovery
+procedures. However, Raytheon added this syllabus only to its internal Production
+Flight Test Procedure and did not include it in any AFM or POM.
+The NTSB is also aware of two previous events involving airplanes that
+exhibited unacceptable stall characteristics during stall test flights.12 On March 3,
+2005, a Raytheon Corporate Jets Hawker 800XP airplane entered an aerodynamic
+stall without stick shaker or stick pusher activation and rolled uncommanded three
+times to the right during a stall test flight in West Palm Beach, Florida. The airplane
+lost about 3,000 ft of altitude before the flight crew regained control of it. No flight
+crew injury or airplane damage was reported.
+Maintenance personnel identified that some of the airplane’s vortex generators
+were deformed and that this condition was likely present before the airplane
+departed on the stall test flight.13 All vortex generators were subsequently replaced,
+and the manufacturer’s test pilots performed a second stall test flight, which
+identified no discrepancies with the airplane’s stall characteristics.
+The potential adverse effect of deformed vortex generators resulting in
+unacceptable stall characteristics was identified after a previous event involving a
+Hawker 125-800 airplane and was the subject of Service Information Leaflet, SER No.
+180, issued December 14, 1993, by Raytheon Corporate Jets (the type certificate
+holder at the time). The leaflet reported that the subject airplane exhibited
+unsatisfactory stall characteristics during a stall test flight, which included stalling
+before activation of the stick shaker and stick pusher and rolling uncommanded to
+the right. The leaflet advised operators of Hawker 125-800 and -1000 series airplanes
+to exercise caution when cleaning wing top surfaces and to straighten or replace any
+distorted vortex generators.
+12 No information about the stall test flight procedures in effect at the time or flight crew
+training and experience was available for either event. The limited factual information we obtained for
+these events can be found in the public docket for this safety recommendation report, DCA26SR003.
+13 Vortex generators are small, fin-like structures located on the top of the wings that are
+designed to optimize airflow over the wing.
+9
+
+Aviation Investigation Report
+AIR-26-01
+Analysis
+We note that the current stall test requirements specified in the Hawker SRM
+for the Hawker 800XP and 900XP airplanes (the accident airplanes) also apply to the
+Hawker 750, 800, and 850XP model airplanes. Based on findings from our ongoing
+and completed investigations and the circumstances of other reported events, the
+NTSB is concerned that the pilots tasked to perform the postmaintenance stall test
+flights required for Hawker 750, 800, 800XP, 850XP, and 900XP airplanes may not
+have adequate training, experience, and procedures to safely perform the flights.
+Further, due to the similarity in wing design of other airplanes on the same type
+certificate, we are concerned about these issues for those airplanes as well.
+Need for Stall Test Pilot Qualification Criteria and Stall Test Plan
+The SRM that applies to the Hawker 750, 800, 800XP, 850XP, and 900XP
+airplanes provides only general information about stall test flights. It indicates that the
+stall test flight must be flown by a pilot “familiar” with the stall identification system
+and stall characteristics of the airplane and cautions that the pilots should have “prior
+experience” in performing stalls in the Hawker. Based on these broad, subjective
+criteria, pilot qualification to perform a stall test flight is open to interpretation.
+For example, the operator’s flight crew involved in the 2024 Hawker 900XP
+accident, who were line pilots fully qualified to conduct normal flight operations, had
+only simulator-based exposure to the airplane’s stall indication and warning system
+activation, and the pilot had only once acted as SIC during a stall test flight conducted
+years previously. Similarly, the operator’s flight crew involved in the 2025 Hawker
+800XP accident were line pilots who typically flew the airplane; our investigation into
+their training and experience is ongoing.
+Further, we identified that Hawker 900XP and 800XP POMs do not specify
+procedures or checklists for pilots on how to recover the airplane from the stall. Each
+POM advises that the airplane will exhibit no natural stall warning or aerodynamic
+buffet before the stall and contains vague information in a “caution” statement that
+advises that the pilot must be “prepared for unacceptable stall behavior” and
+“prepared to recover from an unusual attitude.” However, each POM’s emergency
+procedures and abnormal procedures contain no procedure for responding to
+unacceptable stall behavior or recovering from unusual attitudes.
+Although the flight crews involved in the 2024 Hawker 900XP accident and the
+2006 BAE 125-800A incident did not comply with the stall test flight condition for
+ensuring that the wing surfaces were free from ice, the circumstances of these events
+highlight the airplane control challenges that stall test flight crews may face when
+adverse stall behavior is encountered, regardless of the reason for the behavior.
+Although the BAE 125-800A flight crewmembers safely recovered the airplane, it
+10
+
+Aviation Investigation Report
+AIR-26-01
+rolled multiple times, lost about 11,000 ft of altitude, and sustained damage and
+forces exceeding 6 g before the pilot regained control of it.
+Thus, the NTSB concludes that, although the flight crew of the accident
+Hawker 900XP airplane was properly trained and qualified for normal operations,
+their remedial actions during the postmaintenance stall test flight suggest that their
+training, experience, and the procedures available in the applicable airplane manual
+were inadequate to prepare them to safely respond to the adverse stall behavior they
+encountered.
+FAA guidance has indicated that, “since operational pilots may not be
+required, or trained, to fly an angle of attack beyond that for stall warning, any
+exposure to the behavior of the airplane in an actual stall would be both unexpected
+and unfamiliar.”14 Further, longstanding industry safety guidance has highlighted risks
+associated with postmaintenance check flights and indicated that “it is not safe to
+assume that any pilot is qualified” to perform the flights.15
+According to information provided by a former Hawker production test pilot
+we interviewed during our investigation of the Hawker 900XP accident, there are no
+schools that provide training on performing stall test flights. He stated that he learned
+to perform stall test flights years ago while flying with other production test pilots and
+that the flights were performed by production flight test pilots in accordance with a
+production flight test procedure plan. However, we note that the airplanes on type
+certificate A3EU that are subject to the postmaintenance stall test flight requirement
+are no longer in production; therefore, there are no production test pilots for these
+airplanes.
+We are aware of at least one other airplane manufacturer that developed and
+currently uses a stall flight operations manual for its airplane models that requires a
+return-to-service stall test flight following certain maintenance activities to ensure that
+the airplane’s stall characteristics and stall warning behavior comply with the type
+design standards. This manufacturer’s manual specifies ground and flight training
+requirements for the manfuacturer-authorized pilots who perform the flights, stall test
+14 The guidance was issued in Advisory Circular 25-7D, “Flight Test Guide for Certification of
+Transport Category Airplanes.” We note that, although this guidance is intended for certification test
+flights, the statement about operational pilot training regarding stall encounters is a relevant
+consideration for postmaintenance stall test flights in certain Hawker airplanes.
+15 In 2011, a Flight Safety Foundation–led steering team held a symposium dedicated to
+addressing the higher risks associated with conducting functional check flights. Following the
+symposium, in 2012, the Flight Safety Foundation issued the “Functional Check Flight Compendium”
+document, which contains considerations (including the quoted statement) and best practices for
+conducting functional test flights. The document can be found by searching the Flight Safety
+Foundation website at https://flightsafety.org. Per the website, the Flight Safety Foundation is “an
+independent, nonprofit, international organization engaged in research, education, advocacy, and
+publishing to improve aviation safety.”
+11
+
+Aviation Investigation Report
+AIR-26-01
+flight standard operating procedures and checklists, recovery techniques, and safety
+considerations and precautions.16
+We believe that the safety of Hawker 700, 800, 800XP, 850XP, and 900XP
+postmaintenance stall test flights can be enhanced with defined,
+manufacturer-authorized pilot training and experience qualification criteria and a
+clear and thorough stall test plan that specifies, at a minimum, pilot and copilot
+assignments; preflight, flight, and postflight procedures and checklists; safety
+considerations; and stall recovery techniques. We believe that the pilot training must
+be manufacturer-authorized to mitigate the risk of a training flight accident.17
+Therefore, the NTSB recommends that Textron Aviation Inc. define
+manufacturer-authorized pilot training and experience qualification criteria for pilots
+who perform postmaintenance stall test flights in Hawker 700, 800, 800XP, 850XP,
+and 900XP airplanes to ensure that they are prepared with the competencies needed
+to safely respond to an encounter with unacceptable stall characteristics.
+Further, the NTSB also recommends that Textron Aviation Inc. develop a stall
+test plan that describes unacceptable stall characteristics, recovery procedures, and
+safety considerations needed to prepare manufacturer-authorized flight
+crewmembers to safely perform postmaintenance stall test flights in Hawker 750, 800,
+800XP, 850XP, and 900XP airplanes.
+We selected the subject airplanes for these two safety recommendations
+based on our investigative findings for the accidents involving airplane models with
+stall test flight requirements defined by the SRM that applies to Hawker 750, 800,
+800XP, 850XP, and 900XP airplanes. However, as stated previously, type certificate
+A3EU includes 51 unique airplane models. According to the FAA, type certificate
+A3EU represents about 1,188 airplanes in service worldwide, with the Hawker 750,
+800, 800XP, 850XP, and 900XP series airplanes alone comprising about 664 of those
+airplanes.
+As evidenced by the 2006 incident involving the Corporate Jets Limited BAE
+125-800A airplane and the previous event involving a Hawker 125-800 airplane
+(referenced in the 1993 service information leaflet), other airplanes on type certificate
+A3EU are subject to manufacturer-required postmaintenance stall test flights. We are
+16 For example, Bombardier Aerospace developed such a stall flight operations manual for
+specified Learjet models.
+17 In 2003, we investigated a fatal accident involving a training flight conducted in a Hawker
+Siddeley HS-125-700A, N45BP, that occurred in Beaumont, Texas. The flight instructor and the two
+pilot trainees, who were preparing for their Part 135 proficiency checks, received fatal injuries. The
+airplane stalled and entered a flat spin after the flight instructor asked a pilot trainee to demonstrate an
+approach-to-landing stall. See NTSB case DEN03FA155 for more information.
+12
+
+Aviation Investigation Report
+AIR-26-01
+concerned that, due to similarities in wing design, other airplane models may exhibit
+unacceptable stall behavior during stall test flights.
+Thus, the NTSB concludes that, due to similarities in wing design, other
+airplane models on type certificate A3EU that are subject to manufacturer-required
+postmaintenance stall test flights have the potential to exhibit unacceptable stall
+characteristics during such stall test flights.
+Therefore, the NTSB recommends that Textron Aviation Inc. review all other
+airplane models (besides the Hawker 750, 800, 800XP, 850XP, and 900XP) listed on
+type certificate A3EU, and, for each model that is subject to postmaintenance stall
+test flights, define stall test flight pilot training and experience qualification criteria
+and develop a stall test plan, as specified in Safety Recommendations A-26-1 and -2.
+Manual Inconsistencies
+As stated previously, during our ongoing investigation of the 2025 Hawker
+800XP accident, we identified that, although the applicable SRM refers the operator
+to the AFM (specifically, Section 4.10) for the applicable stall test plan procedure and
+technique, the information actually exists in the POM for the airplane. For 900XP
+airplanes, the SRM refers the operator to the POM (specifically, Section V).
+Although our review of these manuals is ongoing, we note that the stall
+test-related language in the Hawker 800XP POM appears to be based on Hawker
+800XP Temporary Revision (TR) No. 28, which the FAA approved on August 11, 2005.
+The purpose of TR 28 (which Raytheon developed after the 2005 uncommanded roll
+event involving the Raytheon Corporate Jets Hawker 800XP in West Palm Beach,
+Florida) was to “provide clarification and additional information” concerning stall
+flight checks.
+However, our ongoing investigation has identified that TR 28 contained both
+unclear and inaccurate instructions for incorporating the information. For example,
+TR 28 did not specify which publication or serial numbers to which it applied. The
+investigation identified that, for the Hawker 800XP, the manual location TR 28
+referenced, “Section 4.10, Normal Procedures, between pages 8 and 9,” exists in the
+AFM, but the AFM contains a different TR (related to after-takeoff checks) in that
+location. Further, all the other information in that section of the AFM is in checklist
+format, and the information provided by TR 28 is inconsistent with that format.
+Also, although TR 28 specified that “the stall information should be placed in
+the ‘Handling’ section” to replace “the existing procedure,” we identified that the
+AFM has no Handling section or an existing stall procedure in Section 4.10. Based on
+our ongoing investigation, we identified that the stall language from TR 28 appears to
+have been incorporated instead into the Hawker 800XP POM in “Section V, Normal
+Handling.” We note that the incorporated language also includes a reference to an
+13
+
+Aviation Investigation Report
+AIR-26-01
+unacceptable “aileron snatch” behavior but does not define it or provide detailed
+recovery procedures.18
+We also identified that the AFMs for the Hawker 750, 800, 800XP, 850XP, and
+900XP airplanes are FAA-approved manuals. Although the POMs for these airplanes
+do not indicate whether they are FAA-approved or FAA-accepted, each states that it
+is “incomplete without the current FAA-approved AFM.” We are aware that, for any
+inconsistencies between manuals, the FAA-approved AFM is the governing
+document.
+Although our investigative review of these manuals is ongoing, we are
+concerned that, since the purpose of the postmaintenance stall test flight is to assess
+the possibility of unacceptable stall characteristics (that is, airplane behavior that is
+not in accordance with its type design standards for airworthiness), the inclusion of
+“stall test flight” among the POM and AFM references may be inappropriate. For
+example, according to industry guidance, “functional check flights are not
+certification test flights. There should never be a situation where an airplane is
+flown…to meet certification performance specifications.”19
+Based on the inconsistencies we identified across the applicable Hawker SRM,
+POM, AFM, and TR publications, the NTSB is concerned about the adequacy of the
+FAA’s review and approval of previous manual revisions related to stall test flights.
+Thus, the NTSB concludes that the FAA’s review and approval of the stall test flight
+information referenced in the SRM applicable to Hawker 750, 800, 800XP, 850XP,
+and 900XP airplanes and the TR 28 document were inadequate because they did not
+ensure it provided clear and accurate instructions for incorporating the information
+into the appropriate airplane manual or document.
+Therefore, the NTSB recommends that the FAA require Textron Aviation Inc. to
+complete the actions specified in Safety Recommendations A-26-1 through -3, and
+ensure that the information is accurate and correctly incorporated into the
+appropriate FAA-approved manual or document for each airplane.
+Further, although we continue to investigate the appropriateness of including
+stall test references in the POM and AFM, we recognize the value of providing
+information about adverse stall behavior and recovery procedures in these manuals.
+We believe this information is needed because some conditions, such as wing
+component condition defects or wing ice accretion, can be encountered during
+18 The caution statement in the POM references the possibility that “aileron snatch” may occur
+and “may be strong enough to affect recovery using aileron input,” but it does not define the behavior
+or provide recovery information beyond stating that the elevator control must be moved forward to
+allow the return of normal aileron control. According to the SRM, aileron snatch behavior is indicative
+of a defect in the wing leading edge in front of the aileron.
+19 Flight Safety Foundation, “Functional Check Flight Compendium,” 20.
+14
+
+Aviation Investigation Report
+AIR-26-01
+normal operations and result in the airplane’s stall identification and warning system
+not activating in time to alert the flight crew of an imminent stall or to prevent a stall
+from occurring.
+For example, wing surface defects, such as bending deformation of some
+vortex generators reported for the two stall test flight events, could result from
+improper ground handling or other damaging contact and may be imperceptible to
+the flight crew during preflight inspection. Similarly, as evidenced in the 2006
+Corporate Jets Limited BAE 125-800A incident near Lincoln, Nebraska, the airplane
+accumulated frost near the wing root in an area where the flight crew could not see it.
+Although a mechanic on board informed them about the frost, they chose to perform
+the stall test flight anyway, suggesting that they did not understand the seriousness of
+such contamination.
+We are also concerned that, since operational flight crews should never
+experience an actual stall (due to stick shaker and stick pusher activation), they may
+be unprepared to respond to an inadvertent encounter with a stall, particularly one
+that exhibits adverse roll or other behavior.
+Thus, the NTSB concludes that the flight crews of certain Hawker airplanes may
+not fully understand that the wing is sensitive to surface anomalies, such as visually
+imperceptible wing component defects or light ice accretion, that can result in a stall
+before stick shaker and stick pusher activation, and they may be unprepared to
+recover the airplane from an inadvertent encounter with a stall and adverse stall
+behavior.
+Therefore, the NTSB recommends that Textron Aviation Inc. review the POM
+and AFM for the airplanes on type certificate A3EU and revise them, as necessary, to
+provide a description of the adverse effects of certain wing surface anomalies, such as
+visually imperceptible defects or light ice accretion, on the airplane’s stall behavior,
+including:
+• the possibility of stall before stick shaker or stick pusher activation;
+• a description of unacceptable stall characteristics; and
+• procedures for recovering the airplane from an inadvertent encounter with
+a stall and adverse stall behavior.
+Interim Safety Considerations for Owners, Operators, and Pilots
+The NTSB recognizes that, although the actions to establish
+manufacturer-authorized pilot training and qualification criteria and develop stall
+flight test plans can be completed in a timely manner, postmaintenance stall test
+flights continue to occur now. We believe that increasing owner, operator, and pilot
+15
+
+Aviation Investigation Report
+AIR-26-01
+awareness of the circumstances of these accidents can help mitigate the risk of
+accidents.
+We are aware that Textron Aviation Inc., as the holder of type certificate A3EU,
+has the ability to issue communications to the owners and operators of these
+airplanes. Further, the NBAA, an aviation industry group whose membership includes
+owners, operators, and pilots of these types of airplanes, can quickly and effectively
+disseminate information to its members and the public to increase awareness of this
+safety issue.
+Thus, the NTSB concludes that owners, operators, and pilots of certain Hawker
+airplanes subject to manufacturer-required postmaintenance stall test flights may not
+be aware of the severity of unacceptable stall behavior that flight crews may
+encounter and that the flight crew training and experience needed to safely recover
+airplane control exceeds that which is typically provided to operational line pilots.
+Therefore, the NTSB recommends that Textron Aviation Inc. inform owners and
+operators of the airplane models on type certificate A3EU that are subject to
+postmaintenance stall flight tests of the circumstances of these accidents to increase
+their awareness of the possibility of unacceptable stall behavior, such as an
+uncommanded roll through 360° and entry into a spin, and that the flight crew
+training and experience needed to ensure the safety of these flights exceeds that
+which is typically provided to operational line pilots.
+Additionally, the NTSB recommends that the NBAA inform its members about
+the recent accidents that occurred during postmaintenance stall flight tests required
+for certain Hawker airplanes, including the Hawker 750, 800, 800XP, 850XP, 900XP,
+and others on type certificate A3EU, to increase owner, operator, and pilot awareness
+that unacceptable stall behavior may occur and that the flight crew training and
+experience needed to ensure the safety of these flights exceeds that which is typically
+provided to operational line pilots.
+16
+
+Aviation Investigation Report
+AIR-26-01

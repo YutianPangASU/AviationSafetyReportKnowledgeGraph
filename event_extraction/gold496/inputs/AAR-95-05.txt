@@ -1,0 +1,1784 @@
+.
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+RUNWAY COLLISION INVOLVING
+TRANS WORLD AIRLINES FLIGHT 427
+AND SUPERIOR AVIATION CESSNA 441
+BRIDGETON, MISSOURI
+NOVEMBER 22,1994
+6519B
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety Board
+makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)382-6735
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSBIAAR-95105 PB95-91 0405
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+RUNWAY COLLISION INVOLVING
+TRANS WORLD AIRLINES FLIGHT 427
+AND SUPERIOR AVIATION CESSNA 441
+BRIDGETON, MISSOURI
+NOVEMBER 22,1994
+Adopted: August 30,1995
+Notation 6519B
+Abstract: This report explains the runway collision of Trans World Airlines flight 427, a
+McDonnell Douglas DC-9-82, and N441KM, a Cessna 441, at the intersection of runway 30R and
+taxiway Romeo at the Lambert-St. Louis International Airport in Bridgeton, Missouri. The safety
+issues discussed in the report include aircraft lighting and conspicuity; airport markings, signs, and
+lighting; runway 31 designation, utilization, displaced threshold; ATC and pilot phraseology
+(specifically, the term “back-taxi”); pilot training; runway incursion detection/prevention methods;
+and ASDE/AMASS development, Safety recommendations concerning some of these issues were
+made to the Federal Aviation Administration (FAA).
+
+
+
+CONTENTS
+EXECUTIVE SUMMARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. vi
+1. FACTUAL INFORMATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 1
+1.1 H i s t o r y o f t h e F l i g h ts . . 1
+1.2 Injuries to Persons . . . . . . . . . . . .. . 3
+1.3 Damage to Airplane . . . . . . . . . . .. 4
+1.4 Other Damage . . . . . . . . . . . . . . .. 4
+1.5 Personnel Information . . . . . . . . . .. 4
+1.5.1 Trans World Airlines Crewmembers 4
+1.5.2 Captain Information . . . . . . . . . . .. 4
+1.5.3 First Officer Information . . . . . . . .. . 4
+1.5.4 Cessna 441 Pilot . . . . . . . . . . . . . .. 5
+1.5.5 Cessna 441 Pilot-rated Passenger . .. 5
+1.5.6 STL Air Traffic Control Specialists 6
+1.5.7 STL Local Controller . . . . . . . . . .. 6
+1.5.8 STL Ground Controller . . . . . . . . .. 6
+1.6 Airplane Information . . . . . . . . . . .. 6
+1.6.1 McDonnell Douglas MD-82 . . . . . .. 6
+1.6.2 Superior Aviation Cessna 441 . . . .. 6
+1.7 Meteorological Information . . . . . .. . 7
+1.8 Aids to Navigation . . . . . . . . . . . .. 7
+1.9 Communications . . . . . . . . . . . . . .. 7
+1.10 Airport Information . . . . . . . . . . .. 8
+1.10.1 Airport Signs, Markings and Lighting . 11
+1.10.2 Runway 3 1 Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 11
+1.10.3 Postaccident Airport Changes . . . . . . . . . . . . . . . . . . . . . . . . . .. 13
+1.10.4 ATC Tower . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 13
+1.10.5 Postaccident ATC Scheduling Changes . . . . . . . . . . . . . . . . . . .. 14
+1.11 Flight Recorders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 14
+1.12 Wreckage and Impact Information . . . . . . . . . . . . . . . . . . . . . .. 15
+1.12.1 Cessna 441 Wreckage Information . . . . . . . . . . . . . . . . . . . . . .. 15
+1.12.2 MD-82 Wreckage Information . . . . . . . . . . . . . . . . . . . . . . . . .. 18
+1.13 Medical and Pathological Information . . . . . . . . . . . . . . . . . . . .. 18
+1.14 Fire.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 20
+1.15 Survival Aspects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 20
+1.15.1 Evacuation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 20
+1.15.2 Emergency Response . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 20
+1.15.3 Emergency Airport Closure . . . . . . . . . . . . . . . . . . . . . . . . . .. 21
+1.16 Tests and Research . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 21
+111
+
+1.16.1 Night Conspicuity Tests . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 21
+1.16.2 Runway Visibility Tests . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 22
+1.16.3 Recorded Radar Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 22
+1.16.4 Lighting Components, Cessna 441 . . . . . . . . . . . . . . . . . . . . . .. 23
+1.16.5 Communication Radios, Cessna 441 . . . . . . . . . . . . . . . . . . . . .. 23
+1.16.6 MD-82 Accelerate-Stop Data . . . . . . . . . . . . . . . . . . . . . . . . . .. 23
+1.17 Organizational and Management Information . . . . . . . . . . . . . . .. 23
+1.17.1 Superior Aviation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 23
+1.18 Additional Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 24
+1.18.1 Automatic Terminal Information Service (ATIS) . . . . . . . . . . . .. 24
+1.18.2 Air Traffic Handling/Interviews . . . . . . . . . . . . . . . . . . . . . . . .. 25
+1.18.3 ASDE-3 Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 25
+1.18.4 Airport Movement Area Safety System (AMASS) Information . .. 26
+1.18.5 Safety Board Actions -- Runway Incursion Issue . . . . . . . . . . . .. 26
+2. ANALYSIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+2.1 General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 29
+2.2 Cessna 441 Pilot Performance . . . . . . . . . . . . . . . . . . . . . . . . .. 30
+2.2.1 Scenario: Pilot Became Lost During Airport Ground Operations 30
+2.2.2 Alternate Scenario: Pilot’s Preconception that Runway 30R was
+his Departure Runway . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 30
+2.2.3 Communications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 32
+2.3 MD-82 Flightcrew Performance . . . . . . . . . . . . . . . . . . . . . . . .. 33
+2.3.1 Airport Traffic Awareness . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 33
+2.3.2 Conspicuity of Cessna 441 from the Runway 30R threshold . . . .. .34
+2.4 Role of Air Traffic Control . . . . . . . . . . . . . . . . . . . . . . . . . . .. 37
+2.4.1 Issuance of Taxi Clearance . . . . . . . . . . . . . . . . . . . . . . . . . . .. 37
+2.4.2 Visual Detection/Tracking of Cessna 441 . . . . . . . . . . . . . . . . .. 38
+2.4.3 ATC Staffing and Workload . . . . . . . . . . . . . . . . . . . . . . . . . .. 39
+2.5 Airport Factors - Designation of Runway 3 1 . . . . . . . . . . . . . . .. 40
+2.6 Prevention of Runway Incursions . . . . . . . . . . . . . . . . . . . . . . .. 41
+2.6.1 Pilot Training in Ground Operations . . . . . . . . . . . . . . . . . . . . .. 41
+2.6.2 ASDEIAMASS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 41
+2.6.3 Other Runway Incursion Prevention Technology . . . . . . . . . . . .. 43
+2.6.4 FAA Program Initiatives/Management . . . . . . . . . . . . . . . . . . .. 43
+2.7 Survivability Aspects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 45
+2.7.1 Airport Closure/Emergency Operations 45
+2.7.2 Evacuation of the MD-82 . . . . . . . . .. : : : : : : : : : : : : : : : : : : : 46
+3. CONCLUSIONS ................................................ 47
+3.1 Findings . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . .. 47
+3.2 Probable Cause. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 48
+4. RECOMMENDATIONS . . . . . 49
+iv
+
+5. APPENDIXES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 51
+APPENDIX A - INVESTIGATION INFORMATION . . . . . . . . . . . . . . .. 51
+APPENDIX B - ATC TRANSCRIPT . . . . . . . . . . . . . . . . . . . . . . . . . .. 53
+APPENDIX C - CVR TRANSCRIPT . . . . . . . . . . . . . . . . . . . . . . . . . .. 91
+APPENDIX D - FDR DATA PRINTOUT . . . . . . . . . . . . . . . . . . . . . . .. 115
+APPENDIX E - RADAR STUDY . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 121
+APPENDIX F - MD-82 ACCELERATED STOP DATA . . . . . . . . . . . . .. 127
+APPENDIX G - RUNWAY INCURSION/GROUND COLLISION SAFETY
+RECOMMENDATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 129
+APPENDIX H - FEBRUARY 28, 1995, RECOMMENDATIONS . . . . . .. 145
+APPENDIX I - AIRPORT CLOSURE RECOMMENDATION . . . . . . . . .. 153
+
+I
+I ’
+EXECUTIVE SUMMARY
+On November 22, 1994, at 2203 central standard time, Trams World Airlines flight
+427, a McDonnell Douglas DC-9-82 (MD-82) N954U, collided with a Cessna 441, N441KM,
+at the intersection of runway 30R and taxiway Romeo, at the Lambert-St. Louis International
+Airport (STL) in Bridgeton, Missouri. The MD-82 was operating as a regularly scheduled
+passenger flight from STL to Denver, Colorado. The flight was conducted under the provisions
+of Title 14 Code of Federal Regulations (CFR) Part 12 1. There were 132 passengers, five flight
+attendants, and three flightcrew members aboard the airplane. The MD-82 sustained substantial
+damage during the collision. The Cessna 441, operated by Superior Aviation, Inc., as a 14 CFR
+Part 91 positioning flight, was destroyed. The commercial pilot and the passenger, who was rated
+as a private pilot, were the sole occupants on board the Cessna and were killed. Of the 140
+persons on board the MD-82, eight passengers sustained minor injuries during the evacuation.
+The National Transportation Safety Board determines that the probable cause of
+this accident was: the Cessna 441 pilot’s mistaken belief that his assigned departure runway was
+runway 30R, which resulted in his undetected entrance onto runway 30R, which was being used
+by the MD-82 for its departure. Contributing to the accident was the lack of Automatic Terminal
+Information Service and other air traffic control (ATC) information regarding the occasional use
+of runway 3 1 for departure. The installation and utilization of Airport Surface Detection
+Equipment (ASDE-3) and particularly ASDE-3 enhanced with the Airport Movement Area Safety
+System (AMASS), could have prevented this accident.
+Safety issues discussed in the report include aircraft lighting and conspicuity;
+airport markings, signs, and lighting; runway 3 1 designation, utilization, displaced threshold; ATC
+and pilot phraseology (specifically, the term “back-taxi”); pilot training; runway incursion
+detection/prevention methods; and ASDE/AMASS development. Safety recommendations
+concerning some of these issues were made to the Federal Aviation Administration (FAA). Also
+as a result of the investigation of this accident, the Safety Board issued safety recommendations
+to the FAA on February 28, 1995, concerning the runway incursion issue.
+vi
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D. C. 20594
+AIRCRAFI’ ACCIDENT REPORT
+RUNWAY COLLISION INVOLVING
+TRANS WORLD AIRLINES FLIGHT 427
+AND SUPERIOR AVIATION CESSNA 441
+BRIDGETON, MISSOURI
+NOVEMBER 22,1994
+1. FACI’UAL INFORMATION
+1.1 History of the Flights
+On November 22, 1994, at 2203 central standard time,’ Trans World Airlines
+(TWA) flight 427, a McDonnell Douglas DC-9-82 (MD-82), N954U, collided with a Cessna 441,
+N441KM, at the intersection of runway 30R and taxiway Romeo, at the Lambert-St. Louis
+International Airport (STL) in Bridgeton, Missouri. The MD-82 was operating as a regularly
+scheduled passenger flight from STL to Denver, Colorado. The flight was conducted under the
+provisions of Title 14 Code of Federal Regulations (CFR) Part 12 1. There were 132 passengers,
+five flight attendants, and three flightcrew members aboard the airplane. The MD-82 sustained
+substantial damage during the collision. The Cessna 441, operated by Superior Aviation, Inc.,
+as a 14 CFR Part 91 positioning flight, was destroyed. The commercial pilot and the passenger,
+who was rated as a private pilot, were the sole occupants on board the Cessna and were killed.
+Of the 140 persons on board the MD-82, eight passengers sustained minor injuries during the
+evacuation.
+The accident occurred on the second day of a 3-day trip sequence for the MD-82
+flightcrew. The captain flew the first leg of the second day, from San Jose to STL. The
+flightcrew had a 2-hour layover before the accident flight. The first officer performed pilot flying
+duties for the accident leg of the trip sequence.
+The MD-82 was scheduled to depart STL for Denver at 2134, but there was a short
+gate delay that the flightcrew attributed to “overbooking.” According to the flightcrew, the
+airplane was pushed back about 15 minutes late, but otherwise ground operations were routine.
+They received instructions to taxi to runway 30R for departure. At 2201, as the MD-82 taxied
+southeastbound on taxiway Papa, the first officer advised local control that they were ready for
+takeoff on runway 30R.
+The Cessna 441 was registered to Garrett Aviation, Inc., and operated as a 14 CFR
+Part 13 5 on-demand charter aircraft by Superior Aviation, Inc., of Iron Mountain, Michigan. On
+‘All times herein are central standard time unless otherwise noted
+
+2
+the evening of the accident, the Cessna 441 had been scheduled to depart Iron Mountain between
+1800 and 1830 with a charter passenger who was to be dropped off at STL. The passenger was
+late for the proposed departure time because she encountered snowy roads while en route to the
+airport. She arrived at the airport about 1900, and the flight departed shortly thereafter. The
+passenger stated that she had flown with the pilot frequently before the night of the accident, but
+indicated that she did not recognize the passenger who occupied the right seat. She reported that
+the flight from Iron Mountain to STL went quickly and seemed routine. She did business
+paperwork during the flight, and did not notice anything out of the ordinary.
+Upon arrival in the St. Louis area, the pilot made a comment to the local controller
+about “. this radio .‘I The local controller responded that the pilot’s transmission was loud
+and clear. Several seconds later, the Cessna 441 pilot transmitted a garbled message, of which
+“I got you now switch radios here” was discernable. The local controller then issued
+instructions to land on runway 30R. The Cessna 441 pilot’s response was garbled.
+The airplane landed on runway 30R uneventfully, and the local controller
+instructed the pilot to turn right at the intersection of the runway and taxiway November, and
+then to contact the ground controller. The Cessna 441 pilot reported clearing the runway to the
+local controller instead of the ground controller. The local controller then reiterated instructions
+to contact the ground controller.
+At 2140:24, the pilot of the Cessna 441 contacted the ground controller and
+reported, ‘I. . clear goin to midwest.” The ground controller stated, “November one Kilo Mike
+St. Louis ground taxi to Midcoast ramp.” The Cessna 441 pilot replied “(unintelligible) one” and
+taxied to the Midcoast Aviation ramp. The airplane arrived at Midcoast Aviation to drop off the
+passenger about 2141. The pilot and the pilot-rated passenger helped the passenger with her
+bags, paid the landing fee at Midcoast, and prepared to depart for the positioning flight back to
+Iron Mountain. Midcoast personnel reported that the pilots appeared to be in a pleasant mood,
+but seemed eager to be on their way home.
+At 2158, the pilot of the Cessna 441 advised ground control that he was ready to
+taxi. The ground controller issued taxi instructions to I’. . back-taxi2 into position hold runway
+three one, let me know this frequency when you’re ready for departure.” The pilot acknowledged
+by stating “Kilo Mike.”
+At 2201:23, the local controller cleared the MD-82 for takeoff on runway 30R,
+with instructions to fly a heading of 335. The first officer confirmed the assigned heading, and
+the airplane taxied onto runway 30R. At 2202:29, the pilot of the Cessna 441 advised the local
+controller, ‘I. . . Kilo Mike’s ready to go on the right side.” (See Appendix B for a complete ATC
+*Although not formally defined, a clearance to “back-taxi” on an active runway generally means to
+use that runway to taxi in a direction opposite that of departing or landing traffic to reach the takeoff
+position.
+
+transcript.)
+As the MD-82 began its takeoff roll, the first officer operated the flight controls,
+while the captain advanced and set the throttles. As the airplane accelerated on the runway, the
+captain made the 80-knot callout. About 2 to 3 seconds after the 80-knot call, the additional
+crewmember (ACM) who occupied the cockpit jumpseat yelled “There’s an airplane!”
+The captain and first officer reported that they saw the airplane on the runway in
+front of them at almost the same instant that the ACM alerted them. Both pilots applied the
+brakes, and the captain applied left rudder in an attempt to steer the airplane left to avoid the
+Cessna 441. Approximately 2 to 3 seconds after the flightcrew saw the Cessna 441, they felt an
+impact on the right side of their airplane. The flightcrew members reported that the impact did
+not adversely affect their ability to maintain directional control of the airplane. They continued
+to abort the takeoff, and brought the airplane to a stop on the left side of runway 30R near the
+intersection of taxiway November.
+Ground scars and physical evidence indicated that the Cessna 441 was located
+almost directly on the runway centerline, and the MD-82 had veered slightly left of centerline
+when the collision occurred. The right wing of the MD-82 struck the tail cone and fuselage
+structure of the Cessna 441, separating the horizontal and vertical stabilizers from the fuselage
+and shearing the top of the fuselage/cockpit from the airplane. The Cessna 441 came to rest at
+the right side of runway 30R near taxiway Romeo, with the right engine still running. Airport
+Rescue and Fire Fighting (ARFF) personnel shut down the engine and secured the airplane.
+According to the flightcrew members and ACM on board the MD-82, they did not
+observe the airplane or airplane position lights at any point during their takeoff roll. They stated
+that they first saw the airplane when it was illuminated by the lights from the MD-82. The pilots
+reported that, in accordance with normal procedure, the MD-82 had all external lighting on at the
+time of the accident. They reported that the runway lighting was normal for runway 30R at STL,
+and included runway edge, centerline, and touchdown zone lighting. (See Section 1.10, Airport
+Information, for the specific settings of the lighting systems.)
+The accident occurred at N 38”44”9’, W 90”21”6’, during the hours of darkness.
+1.2 Injuries to Persons
+Injuries Crew Passengers Others Total
+Fatal 1* 1* 0 2
+Serious 0 0 0 0
+Minor 0 8*+ 0 8
+None A** &I** 9 J3J
+Total 9 133 0 142
+* On board Cessna 441
+** On board MD-82
+
+4
+1.3 Damage to Airplane
+The Cessna 441 was destroyed by the impact forces of the collision. The hull loss
+was approximately $1.2 million. The MD-82 received substantial damage to its right wing,
+landing gear, lower fuselage, and the right engine. The estimated cost to repair the airplane was
+$1.7 million.
+1.4 Other Damage
+There was no other damage.
+1.5 Penonnel Information
+1.5.1 Tmns World Airlines Clewmembers
+The flight and cabin crews of the MD-82 were qualified in accordance with
+applicable Federal Aviation Administration (FAA) and company regulations and procedures. The
+examination of crewmember training records did not reve*l anything remarkable. Further, the
+investigation of the background of the flightcrew die at reveal anything unusual. All
+crewmembers indicated that they felt well-rested on the evening of the. accident.
+1.5.2 Captain Information
+The captain of the MD-82, age 57, held Airline Transport Pilot (ATP) Certificate
+No ;21778 and was type-rated in fixed-wing (B727, B737, B747, DC-9, Learjet, and CE-500)
+aircraft. He also held a current FAA Class I Medical Certificate, issued in August 1994, with
+the limitation, “Holder shall wear corrective lenses while exercising the privileges of his airman
+certificate.” His vision was listed as 20000 in each eye corrected to 20/20 for distant vision, and
+20130 in each eye corrected to 20/20 for near vision. He was hired by TWA in October 1965.
+At the time of the accident, the captain had accumulated approximately 18,651 hours of total
+flight time, of which 3,178 hours were logged in the DC-9/MD-82 aircraf, He worked in the
+company training center from 1987 to 1993, and was involved in developing and instructing the
+crew resource management course. His last proficiency check was accomplished in July 1994,
+and his last line check was accomplished in November 1994. The captain had accrued about 34
+hours of flight time in November, and over 168 hours in the 90 days before the accident.
+1.5.3 First Offker Information
+The first officer of the MD-82, age 38, held ATP Certificate No. 2239191. He
+also held a current FAA Class I Medical Certificate issued in February 1994 with no limitations
+or waivers. His vision was listed as 20/20 without correction for both distant and near vision.
+At the time of the accident, the first officer had logged approximately 10,353 hours total flight
+time, of which 251 hours were logged as first officer in the DC-9/MD-82 aircraft. His last
+proficiency check was accomplished in June 1994, and his last line check was accomplished in
+
+E
+I
+5
+July 1994. The first officer had accrued about 56 hours of flight time in November, and
+approximately 153 hours in the 90 days before the accident.
+1.5.4 Cessna 441 Pilot
+The pilot of the Cessna 441 was qualified in accordance with applicable FAA and
+company regulations and procedures. Investigation of his background did not reveal anything
+remarkable. The pilot, age 56, held Commercial Pilot Certificate No. 1596566. He possessed
+a current FAA Class II Medical Certificate, issued in February 1994, with the stated limitation,
+“Holder will wear corrective lenses while exercising the privilege of his airman certificate.” His
+vision was listed as 20000 in each eye corrected to 20/20 for distant vision, and 20/20 in each
+eye without correction for near vision. According to logbook and company records, the pilot had
+accumulated 7,940 hours of total flight time, including 2,060 hours in the Cessna 441. His last
+proficiency check was accomplished in the Cessna 441 in November 1994. The pilot had
+accumulated about 64 hours in the preceding month, and approximately 155 hours in the 90 days
+before the accident.
+The Cessna 441 pilot’s flight logbook records indicated that he had flown into STL
+once before during the preceding 7 years. The previous flight into STL had been a daytime
+operation and had occurred in January 1994.
+The Safety Board conducted interviews with the pilot’s wife, Superior Aviation
+personnel, and the passenger who had chartered the Cessna 441 to STL before the accident
+flight. These interviews revealed that the Cessna 441 pilot was known as a conscientious, safety-
+oriented pilot. The passenger stated that the pilot had flown many of the flights that she had
+chartered. She stated that the pilot habitually held the airport diagrams on his lap for reference
+during ground operations. She described one charter flight during which the pilot became unsure
+of his position on an airport; he stopped the airplane, and did not proceed until he was sure
+where he was.
+The pilot’s wife stated that the pilot usually arose between 7 and 8 a.m., and went
+to bed between 10 and 11 p.m. She reported the pilot also frequently took a nap in the early
+afternoon. The pilot’s work/rest cycle for the 4 days before the accident, as described by his
+wife, conformed with this schedule. The pilot’s wife reported that on the day of the accident, the
+pilot had taken a nap early in the afternoon. On the evening of the accident, the pilot was
+observed to be in good humor, and accomplished his duties in a normal manner. The passenger
+and Midcoast personnel stated that although the pilot did not seem unduly rushed to leave STL,
+he mentioned that it was going to snow in Iron Mountain, and they needed to be on their way.
+1.5.5 Cessna 441 Pilot-rated Passenger
+The private pilot-rated passenger on board the Cessna 441, age 43, was a
+professional accountant with a private pilot certificate, whose wife worked as a receptionist at
+Superior Aviation. He was riding in the right seat of the Cessna 441 for unofficial familiarization.
+
+6
+His presence was not required for the flight.
+1.5.6 STL Air Tmffic Control Specialists
+The air traffic control (ATC) specialists who provided ATC services to the
+airplanes were qualified in accordance with current procedures.. Examination of their training
+records revealed nothing remarkable. In addition, the investigation of these controllers’
+backgrounds and their activities in the 3 days before the accident did not reveal anything
+extraordinary.
+1.5.7 STL Local Contmller
+The local controller, age 35, was hired by the FAA in January 1984 as an ATC
+specialist. She had served previously as an air traffic controller in the U.S. Air Force. Within
+the FAA, her initial assignment was to the St. Louis Downtown Parks Airport. In July 1990, she
+was transferred to STL, where she has remained employed as a controller. She achieved Full
+Performance Level status in May 1991. She held a current FAA Class II Medical Certificate,
+issued in April 1994, with no limitations or waivers noted.
+1.5.8 STL Gmund Contiller
+The ground controller, age 29, was hired by the FAA in July 1988 as an ATC
+specialist. He had served previously as an air traffic controller in the U.S. Air Force. Within
+the FAA, his initial assignment was to the Des Moines International Airport, where he achieved
+Full Performance Level status in October 1990. He transferred to STL in July 1993, where he
+achieved Full Performance Level status in April 1994. He held an FAA Class II Medical
+Certificate issued in June 1994 with no limitations or waivers noted.
+1.6 Airplane Information
+1.6.1 McDonnell Douglas MD-82
+The MD-82, N954U, was certificated for transport-category flight on January 15,
+1988, and was configured for two flightcrew members, with seats for five flight attendants and
+132 passngers. The airplane was powered by two Pratt and Whitney JT8D turbofan engines.
+Discrepancies noted in the airplane maintenance logs were either repaired or
+deferred to Minimum Equipment List/Cabin Discrepancy Listing (MEL/CDL). No noteworthy
+MEL discrepancies were found in the airplane maintenance log. No windshield deficiencies were
+noted during the postaccident inspection.
+l
+1.6.2 Superior Aviation Cessna 441
+The Cessna 441, N441KM, was certificated for flight on February 12, 1988. The
+
+7
+Cessna 441 airplane, which is certificated for single-pilot operations, is a mid-range, light-twin
+turboprop airplane. Cessna 44 1 s are powered by two Garrett Airesearch TPE-33 1 engines, which
+are mounted on the wings.
+The airplane’s maintenance log did not reveal any discrepancies. External lighting
+on the Cessna 441 consisted of wing-mounted retractable landing lights, a nose gear-mounted
+taxi light, strobe lights, red and green wing tip-mounted navigation lights, and a white tail cone-
+mounted navigation light. Superior Aviation procedures required that illumination of the strobe,
+taxi, and landing lights take place after receipt of a takeoff clearance.
+1.7 Meteorological Information
+The STL surface weather observation taken at 215 1 indicated clear skies, with 25
+miles visibility. The temperature was 33 “Fahrenheit (F), and the dew point was 22 “F. Winds
+were out of 270” at 8 knots, and the barometric pressure was 30.56” Hg.
+A special weather observation taken after the accident, at 2242, was identical to
+the 215 1 observation, except the temperature was recorded as 32 “F, and the remarks section
+stated “ACFT MISHAP.” The STL hourly surface weather observation taken at 2250 indicated
+that skies were clear, with visibility of 25 miles. The temperature was 32 “F, dew point was ’
+22 “F, and winds were out of 270” at 7 knots. Passengers from the MD-82, ARFF personnel,
+and pilots who operated in the STL area at the time of the’ accident reported that weather
+conditions and visibility were good.
+1.8 Aids to Navigation
+No navigational equipment outages or discrepancies were noted in the St. Louis
+facilities log that would have contributed to this accident.
+1.9 Communications
+Postaccident examination of the ATC very high frequency (VHF) transmitter and
+receiver equipment found that all equipment was operating within specifications.
+Ground and local controllers indicated that the workload was moderate at the time
+of the accident. The night of the accident, the ground controller was working four positions,’
+each of which is staffed by a separate controller when the tower is operating at full complement
+during peak traffic. When working these positions, the controller was monitoring seven different
+frequencies. These combined positions with multiple frequencies created a situation in which a
+pilot transmitted and received on a specific frequency, depending on the service required, while
+‘The ground controller was working ground control for both the north and south sides of the airport,
+clearance delivery, and flight data.
+
+3
+8
+the controller transmitted on all of the frequencies for which he was responsible.
+Interviews with the MD-82 flightcrew members indicated that the use of combined
+positions/multiple frequencies occasionally resulted in difficulties. These reported problems
+included incomplete communications due to pilots’ transmissions being “stepped on” by other
+pilots, increased controller workload, communication delays and confusion, and potential
+decreased pilot situational awareness. A review by the Safety Board of I 112 hours of ATC tapes
+from the evening of the accident revealed several instances of simultaneous transmissions.
+As the Cessna 441 was inbound to STL, there were several cases of garbled,
+unintelligible, or partial transmissions between the Cessna 441 and the ATC tower. At one
+point, the pilot of the Cessna 441 stated I’. . got you now . . . switch radios here . . . .‘I Several
+subsequent transmissions from the Cessna 441 were also distorted, but most of the Cessna’s
+outbound transmissions to ATC were clear. Postaccident examination of the Cessna 441
+communication radios revealed that they were capable of normal operation.
+1.10 Airport Information
+The STL airport is owned and operated by the City of St. Louis Airport Authority.
+The airport is located in Bridgeton, Missouri, approximately 12 miles northwest -of St. Louis, and
+has an airport elevation of 605 feet. (See Figure 1.)
+STL has five runways, three of which are parallel paved surfaces. Runways
+12R/3OL (11 ,019 feet x 200 feet) and 12L/3OR (9,003 feet x 150 feet, the accident runway) are
+grooved concrete surfaces, with high intensity runway lights (HIRL). Parallel taxiway Foxtrot
+was converted to a runway (13/3 1) in 1988. Runway 13/3 1 is a 6,289 feet x 75 feet paved
+surface located northeast of runway 12L/3OR. The first 3,989 feet of Runway 13 is asphalt, and
+the remaining 2,300 feet is concrete. It has medium intensity runway Iights (MRL), and is
+restricted to use by aircraft 12,500 pounds or less. Runway 31 is used as a “departure only”
+runway. However, runway markings indicate a 1,838-foot displaced threshold.
+The Midcoast Aviation general aviation ramp is located northeast of runway 13/3 1.
+Taxiway Whiskey is about 150 feet long, and extends perpendicular to runway 31 between the
+Midcoast Aviation ramp and runway 3 1. Taxiway Romeo is perpendicular to the parallel
+runways at the approach end of runway 31. The taxiway Romeo centerline is approximately
+2,500 feet from the approach end of runway 30R. Taxiway November is also perpendicular to
+the parallel runways, and its centerline is located approximately 4,500 feet from the approach end
+of runway 30R, about 2,000 feet from taxiway Romeo. (See Figure 2.)
+Tower personnel reported no known difficulties with runway and taxiway lighting
+systems before, or at the time of, the accident. They reported that the runway 30R HIRL,
+centerline lighting, and the Medium Intensity Approach Lighting System with Runway Alignment
+Indicator Lights (MALSR) system were illuminated at the Step 3 (of five) intensity level, while
+the runway 3 1 MIRL were iiluminated at the lower Step 1 (of three) intensity level. The tower
+
+Cessna 44 I
+Mb-=
+9
+ASR ANTENNA
+Q
+uu---
+nl ‘r- ‘; -- l’-h
+FIELD MAINI.-
+J ARRESTING CABLE 00 RVRSITES
+I
+0 LLWAS CENTERFIELD SITE flfl VASI REVISED 6-29-93
+
+t++l+ Cessna WI
+AIR CARGO
+t-f- MD-=
+l- J
+ASR 9 ANTENNA
+.N
+1
+94TM AERO.
+II
+
+11
+controller stated that at these settings, the runway 30R runway lights were brighter than the
+runway 31 lights.
+A review of airport facility maintenance and ATC tower logs found no reported
+difficulties with the runway/taxiway lighting systems before the accident. A search of the
+National Aeronautics and Space Administration’s Aviation Safety Reporting System runway
+incursion reports revealed no pertinent reported events at STL. No significant notices to airmen
+were issued for the airport during the accident time period.
+1.10.1 Airport Signs, Makings and Lighting
+The Safety Board’s examination of the airfield signs, markings, and lighting near
+and along the taxi route taken by the Cessna 441 revealed that they conformed to FAA standards.
+The Safety Board noted that upon exiting the Midcoast ramp area, there were .three signs
+indicating runway 3 1 on the left side of the entrance to taxiway Whiskey. The furthest sign on
+the left side of the taxiway was installed in compliance with the FAA’s revised (July 3 1, 1991)
+signage requirements, but was not yet in full service and was not lit. Behind this sign and
+slightly to its left was the in-service hold position sign. To the right of the two hold position
+signs was a wooden sign that read “ACTIVE RUNWAY CONTACT TOWER 121.9.” (See
+Figure 3.)
+Airport personnel told Safety Board investigators that the hold position signs for
+runway 13/3 1 were observed to be not internally illuminated during the hours following the
+accident: one sign had an inoperative light bulb, and one sign hadn’t been hooked up to power.
+To simulate the signage conditions that the pilot of the Cessna 441 may have encountered the
+night of the accident, the Safety Board observed the signs at night, without internal illumination.
+Investigators noted that the three signs were clearly visible in the ambient light from the Midcoast
+ramp flood lights.
+Investigators also noted that all taxiway markings, hold position markings, and
+displaced threshold markings for runway 3 1 were visible as they traveled from the Midcoast ramp
+to runway 3 OR, via taxiway Romeo. The yellow hold position markings on taxiways Whiskey
+and Romeo were highlighted in black to enhance the visibility of the markings. The runway
+12L/30R hold position sign at taxiway Romeo had one inoperative light bulb on the right side
+of the sign. Investigators noted that the sign was clearly visible.’
+1.10.2 Runway 31 Information
+In 1986, due to increased traffic activity and consequent delays, the STL Airport
+Authority temporarily established taxiway Foxtrot as runway 13/3 1, to be used for departures
+only. Despite this landing prohibition, an 1,838-foot displaced threshold was incorporated into
+the runway 3 1 marking scheme. Runway 13/3 1 was to be used for day, visual flight rules
+(VFR) operations by commuter and general aviation aircraft.
+
+- t
+I
+
+I
+3
+13
+The runway 13/3 1 trial program was successful at reducing delays, and in 1988,
+the STL airport moved to make the conversion permanent, Conversion was completed in 1989,
+and included the signage, surface markings, and lighting required to identify it as a runway for
+day and night use. Pavement markings for the displaced threshold remained in place on the
+runway, and the landing prohibition remained.
+In 1991, three incidents of air carrier aircraft mistaking runway 13 for runway 12L
+resulted in a plan to operate the runway 13/31 MIRL at an intensity setting lower than the
+runway 12L/3OR HIRL. According to the tower supervisor and the local controller, the tower
+procedure is to turn the runway 13/3 1 lights to a higher intensity when a departing aircraft begins
+its takeoff roll and to turn the lights back down to the dimmer setting as soon as the aircraft is
+airborne. The local controller stated that the runway 31 lights were not turned up on the night
+of the accident.
+According to STL ATC personnel, the majority of the time runway 13/3 1 is
+inactive, under the jurisdiction of the ground controller, and is used as a taxiway. This differs
+from most runways in that runways are usually under the jurisdiction of the local controller.
+1.10.3 Postaccident Airport Changes
+Following the accident, the STL Airport Authority installed taxi-holding position
+lights (“wig-wag” lights) at taxiway Whiskey to further enhance and delineate the presence of
+runway 13/31 for aircraft exiting the Midcoast ramp.
+The STL Airport Authority also petitioned for and received approval to eliminate
+the 1,838-foot displaced threshold on runway 3 1. The STL Airport Authority anticipates that all
+displaced threshold runway markings will be removed and that runway 31 will be reopened full
+length for use by September 1, 1995.
+1.10.4 ATC Tower
+The ATC tower, operated by the FAA, is a tower cab facility, collocated with a
+Terminal Radar Approach Control (TRACON) facility. FAA statistics rank the STL ATC facility
+as the 14th busiest in the country. The tower structure is located on the southwest side of the
+runway complex and terminal buildings, about 1 l/4 miles from the site of the collision (see
+Figure 1).
+During interviews, tower personnel stated that the Cessna 441 was visible while
+it was on the Midcoast ramp. They stated that when the airplane moved from the well-lighted
+ramp area toward runway 3 1, it was no longer visible. Tower personnel indicated that it was
+often difficult to see small airplanes operating on the north side of the airport, especially on the
+far end of runway 3 1, at night.
+The facility has Airport Surface Detection Equipment (ASDE-3) radar to monitor
+
+14
+airplane activity on the ground (also see Section 1.18.3). The ASDE-3 was installed at STL in
+, September 1994, and was going through its “proving period” before being commissioned. During
+this proving period, the equipment was occasionally used by controllers for familiarization when
+it was available. The ASDE-3 equipment was not available on the night of the accident because
+the computer hard drive had failed. Subsequent to the accident, the ASDE-3 at STL has been
+commissioned.
+The ATC tower has 10 positions of operation that may be combined or separated
+as traffic conditions permit. On the night of the accident, two controllers were in the cab: the
+local controller (LC) and the ground controller (GC). The ground controller was assuming the
+duties for positions of flight data clearance delivery as well as ground control for both the north
+and south sides of the airport. The controller was monitoring the frequencies normally used for
+these different positions. The supervisory air traffic controller’s scheduled shift ended at 10 p.m.
+He told investigators that he left the tower cab at 9:45 p.m. and went to a downstairs office to
+process paperwork. At the time of the accident, he was on his way home.
+1.10.5 Postaccident ATC Scheduling Changes
+At the time of the accident, it was standard staffing practice at STL to have two
+controllers on duty between 10 p.m. and midnight. ATC personnel stated that this was normally
+a period with little traffic, except for a “bank” of traffic between 9:45 and 10: 15 p.m. Subsequent
+to the accident, the STL ATC tower staffing schedule was changed to retain an additional
+controller until lo:30 p.m. The supervisor’s duty time has also been changed to have him remain
+in the facility until lo:30 p.m.
+1.11 Flight Recorders
+The Cessna 441 was not equipped with a cockpit voice recorder (CVR) or flight
+data recorder (FDR), nor was it required to be so equipped under current Federal Aviation
+Regulations.
+The MD-82 was equipped with a Fairchild Model A-100 CVR, S/N 3455. Its
+magnetic tape provided a record of ATC and intracockpit communications. A transcript of the
+CVR is provided in Appendix C.
+The MD-82 was also equipped with a Sundstrand Model 573 digital FDR, S/N
+2432. A printout of selected parameters is provided in Appendix D.
+Playback data indicated the following trends moments before the end of the
+recording:
+1. The data were consistent with a normal takeoff roll until 2202:45.
+Beginning at 2202:45, there were rudder, brake, heading, and vertical and
+longitudinal acceleration excursions.
+
+a
+I
+15
+2. The slat disagree sensor transitioned from “agree” to “disagree” at 2202:47.
+3. Peak airspeed value was 114.5 knots, recorded at 2202:50. Both thrust
+reversers were deployed at 2202:52.
+4. The airplane decelerated to a stop at 2203:lO.
+1.12 Wreckage and Impact Information
+All wreckage was located on runway 30R between taxiways Romeo and
+November. (See Figures 4 and 5.) The first item in the wreckage path was a 2-foot section of
+the rudder from the Cessna 441. Approximately 350 feet farther, the main portion of the
+Cessna 441 was located on the north edge of the runway on a heading of about 320”. Fragments
+of the upper cabin and empennage were scattered in the vicinity.
+Approximately 1,450 feet farther, the MD-82 was located on the south edge of the
+runway on a heading of about 300”. Black rubber skid marks started about 75 feet east of the
+Romeo intersection and led down the runway to the location of the MD-82. Another set of skid
+marks began at the intersection and led to the location of the Cessna 441.
+The physical evidence indicated that the collision occurred on runway 30R at its ’
+intersection with taxiway Romeo, approximately 2,500 feet from the approach end. Two pairs
+of airplane tire scuff marks were on the runway. The between-tire distances for each of the pairs
+corresponded to the distance between main landing gear on the MD-82 and Cessna 44 1. The
+geometry of the collision indicated that both airplanes were on the runway heading at impact.
+1.12.1 Cessna 441 Wreckage Information
+The airplane remained on its extended landing gear, with the two main gear tires
+inflated. The nose gear tire was deflated, and its strut was bent slightly aft. The left engine had
+pulled forward slightly from its mounts, and rested with its propeller blades and spinner on the
+pavement. Two of the engine’s propeller blades were bent forward and exhibited severe leading
+edge damage and chordwise scratches. The right engine remained in its normal position on the
+wing, and was still running when ARFF personnel arrived at the airplane after the collision.
+Jagged leading edge damage was evident on all three propeller’blades on the right engine, with
+two blades bent forward.
+The upper fuselage was sheared off approximately 2 inches above the bottom of
+the cabin windows from the tail section to the windscreen, The outboard 7 l/2 feet of the left
+wing had separated. Separations at the left wing, all window frames, and cabin structure
+exhibited forward bending. Scrapes and indentations across the upper surface of the left wing,
+the left engine nacelle, and the instrument panel were angled 14 to 15” from the longitudinal axis
+of the airplane.
+
+16
+WRECUAQI MAQRU
+I I
+Figure 4--Wreckage Diagram
+
+I
+17
+Wreckagr Distribution Diagram
+lop of rudder (two foot section)
+::
+Gray headrest
+3.
+Gear dour section (twatve inch foot by eigM inch section)
+4. Number two flap hinge mechanism cover (aft section)
+Tail se&ion (root faring)
+X:
+Tail cone wtth navigation light
+7. Riiht elevator (tive font outkant ssction)
+8.
+Top cabin door s&ion (upper half)
+9.
+~WwfP
+10. Vertical stabilii and rudder
+11. Cabin oxygen. outlet box
+12. Cabin section (one foot by two foot)
+13. LeR hortzontal stabilizer (two foot inboard secb’on)
+14. Overhead duct (twalve inch section)
+15. Cabin vent outiat
+16. Upper cabin section exhibiting adcurdion type budding
+17. Left elevator section (aft outboard ssction with Might)
+ia.
+Left elevator section (ait inboard SBCfjOn with two foot trim
+tab setting
+10. Cabin door actuator
+20. Magnetic compass
+21. Number three leading edge slat
+22.
+bft horizontal stabilii sac&n
+23. Left outboard wing 8edon (ftactwed 7.5 feet outboard of the
+number one angina nacalle) found wrapped around rfgM
+main gear of NO54U
+24. Wreckage from N441KM in NOS4U right wing leading edge
+uppercabtn structum
+;: vvlndowfmmes
+WTndscfwn~rpostandfmmedons
+: Numbartwoseatsunvizlor
+Windowautainsecbnns
+19 Tail section inspecUon plade
+Figure 5--Wreckage Distribution Diagram
+
+18
+The aft empennage was buckled and bent to the right; the entire empennage
+showed compression damage from the aft direction. The rudder was separated from the airplane.
+The vertical and horizontal stabilizers were fractured at their main attach points.
+During the initial on-scene examination, the two wing-mounted retractable landing
+lights were found in their stowed positions. The left navigation/strobe clear cover was missing,
+and the anticollision/strobe light was broken. The right navigation, right anticollision/strobe, tail
+navigation, and nose gear taxi lights were undamaged. All external lighting cockpit switches
+were found in their off (down) positions, except the nose gear taxi light, which was found in the
+on position. ARPF personnel stated that they altered switch positions during their attempt to shut
+off the right engine.
+Components of two headsets were in and around the airplane, and the cords were
+plugged into their respective receptacles. A pair of eyeglass frames were in the pilot’s seat.
+Several loose pages of Jeppesen approach charts were located in the cockpit area, including the
+current STL airport diagram (Copyright 1994 Jeppesen Sanderson, Inc.), dated June 3, 1994.
+(See Figure 6.)
+1.12.2 MD-82 Wreckage Information
+The MD-82 sustained damage to the right wing leading edge devices, flaps, upper
+surfaces, lower surfaces, and forward spar. The wing damage area included numerous lateral
+slashes, surface scratches, and red, white, and blue paint smears similar to the color scheme of
+the Cessna 441. Scratches and smears were parallel to the longitudinal axis of the airplane.
+Wing damage resulted in approximately 600 gallons of fuel spilled.
+The right main landing gear, the right lower fuselage, and the number two engine
+were also damaged. Plexiglass and metal debris from the Cessna was embedded in the MD-82.
+The largest piece of Cessna debris directly associated with the MD-82 was the outboard section
+of the left wing, which was wrapped around the right main landing gear strut.
+1.13 Medical and Pathological Information
+The MD-82 flightcrew submitted to toxicological tests in accordance with the
+FAA’s drug testing regulations and company policy. There was no evidence of alcohol or other
+major drugs of abuse in either crewmember.
+The pilot and pilot-rated passenger on board the Cessna 441 died of severe
+craniocerebral injuries. Blood and urine specimens obtained from the pilot-in-command and the
+pilot-rated passenger on board the Cessna 441 were examined by the FAA’s Civil Aeromedical
+Institute for toxicological analysis. All specimens tested negative for alcohol or drugs.
+Under the FAA drug testing program, the ATC local controller provided a urine
+sample for testing. No positive results were reported to the NTSB, as required by Federal
+
+I
+19
+m
+JZPPESEN
+KSTL ST LOUIS, MO
+5~1~sc~--lw) 119.5 LAMBERT-ST LOUlS INTL
+tr.m-dn.~r~ 127.55
+crud 121.9 13).7*/9.9 Fromsn 117.1 NM44.9wo90 21.6
+rrnlI&h120.05 Mb 118.5 VW OPE EIW 605’
+1
+I
+i
+a
+Figure 6-- Lambert-StLouis International Airport Diagram (Copyright 1994 Jeppesen
+Sanderson, Inc.)
+
+20
+statutes should positive results be found. The FAA did not perform drug testing on the ground
+controller. Both controllers declined to provide voluntary blood and urine samples for a more
+extensive drug screen as requested by the Safety Board.
+1.14 Filce
+Neither airplane was involved in a tire.
+1.15 Survival Aspects
+The headrests on cabin and cockpit seats on the Cessna 441 were separated or bent
+forward, at the same level that the upper cabin structure was sheared off. This accident was not
+survivable for the occupants of the Cessna. The MD-82 cockpit and cabin were not damaged,
+and no occupants of this airplane were injured during the collision.
+1.15.1 Evacuation
+As the MD-82 came to a stop on the south side of runway 30R after the collision,
+the captain shut down the engines, and advised ATC to, “. . roll the emergency equipment.
+TWA four hundred and twenty seven hit the other airplane on the uh, runway. Roll the
+emergency equipment.”
+The flightcrew stated their evaluation of the situation revealed no fire, or imminent
+danger of fire, but a substantial amount of fuel was leaking from the right wing. The captain
+exited the left front (Ll) door to further assess the situation. He noted that due to the slope of
+the runway, the fuel was running under the fuselage and pooling under the left side of the MD-
+82. He instructed the first officer to evacuate the passengers through the right front (RI) door
+to minimize passenger contact with the pooling fuel. The right overwing and aft exits were not
+used due to impact-related structural damage.
+The flight attendants told Safety Board investigators that during the 2 to 3 minute
+delay while the flightcrew evaluated the situation, they were able to reassure and calm most
+passengers, which smoothed the evacuation process. They described the evacuation through the
+single door as orderly and calm. The average estimate of the duration of the evacuation was 7
+minutes. After all’passengers were evacuated, the flight attendants exited, followed by the first
+officer.
+1.15.2 Emergency Response
+Seconds after the collision, ATC notified ARFF personnel that an accident had
+occurred on the airport. The first of the airport’s emergency vehicles arrived at the MD-82 within
+2 to 3 minutes of the collision. ARFF personnel stated that when they arrived at the MD-82,
+they evaluated the situation and began applying fire retardant foam to both sides of the airplane
+and to the pooling fuel on the ground. They estimated that approximately 30 seconds after the
+
+I
+21
+foam application was initiated, they saw the Rl door open, the emergency evacuation slide
+deploy, and the passenger evacuation begin. Several firefighters positioned themselves at the
+bottom of the Rl slide to catch and assist the passengers as they left the airplane. The captain
+and the ACM were also positioned near the bottom of the Rl slide directing passengers away
+from the airplane as they evacuated. About 35 minutes after the collision, buses arrived to
+transport the evacuated passengers back to the terminal area.
+ARFF personnel located the Cessna 441 about 1 to 2 minutes after their first
+vehicles arrived at the MD-82. ARFF personnel reported that when they reached the second
+airplane, the top portion of the airplane was missing, fuel was leaking from the wreckage, and
+the right engine was still operating. They applied fire retardant foam to the right engine until
+it shut down, and applied foam to the leaking fuel. They shut off electrical power to the airplane
+by disconnecting the battery in the nose compartment. One firefighter boarded the Cessna 441
+in an effort to assist the occupants.
+Ten ARFF vehicles responded to the two airplanes. They reported that a large
+amount of Jet A aviation fuel was spilled on the runway and the grassy area adjacent to it as a
+result of the collision. They stated that a real fire hazard existed, the evacuation of the MD-82
+was necessary, and the evacuation appeared orderly and timely.
+1.15.3 Emergency Airport Closulle
+In the minutes after the ground collision, several taxiing aircraft and numerous
+emergency rescue vehicles were moving on the airport surface. When the evacuation began,
+pilots of the taxiing airplanes told the ground controller that they saw passengers wandering in
+the vicinity of the intersection of runway 30R and taxiway November. These pilots expressed
+concern that the evacuated passengers might wander into other operating aircraft. About seven
+minutes after the collision, Federal Express flight 1283 landed on runway 30L without incident.
+About seventeen minutes after the accident, the ground controller told aircraft on his frequencies
+that operations at the airport were suspended. The STL Airport Authority, which has jurisdiction
+over airport operations, did not officially close the airport after the collision.
+1.16 Tests and Research
+Safety Board investigators conducted tests regarding the visibility and conspicuity
+of the Cessna 441 from the ATC tower and from the approach end of runway 30R.
+1.16.1 Night Conspicuity Tests
+On November 24, 1994, a lighting and conspicuity exercise was conducted to
+observe the ease or difficulty in visually acquiring a general aviation airplane from the cab of the
+ATC tower. This exercise took place at approximately the same time in the evening as the
+accident, under similar weather conditions. Two observers in the ATC tower cab occupied a
+position near the local control position. To simulate the Cessna 441, a (slightly larger) Beech
+
+22
+King Air 200 was towed from the Midcoast Aviation ramp, via runway 31 and taxiway Romeo,
+to a takeoff position on runway 30R at its intersection with taxiway Romeo. Observations were
+taken at different points along the route with the airplane using different combinations of lighting.
+Runway lighting was set at step 1 for runway 31, and step 3 for runway 30R, as it was on the
+night of the accident,
+During the airplane conspicuity test, observers noted that the airplane navigation
+lights were of little use for detection when viewed against other lights in the runway
+environment. When the airplane was positioned for takeoff, the single red navigation light visible
+from the tower blended into the other red lights in the environment. Even the taxi lights were
+only visible during the arc of movement as the airplane turned onto the runway. When the
+airplane was positioned for takeoff, the taxi light was slightly brighter, but still blended easily
+into other runway lights. Observers reported that the taxi light was of some value for visibility
+when the airplane was taxied quickly, but was of little value when the airplane taxied slowly.
+Only the wing-mounted high-energy anticollision/strobe lights were effective at improving
+airplane conspicuity.
+During conspicuity tests, observers noted that the landing lights were effective for
+visibility in any situation or with any combination of other lights. When the landing lights were
+turned off, the airplane was often difficult to observe, even to observers who knew its
+approximate position.
+1.16.2 Runway Visibility Tests
+A runway visibility test was conducted to examine the line-of-sight visibility the
+MD-82 pilots may have had to the Cessna 441 when both airplanes were positioned for takeoff
+on runway 30R. To simulate the view of the MD-82 pilots, an airport rescue vehicle with an
+adjustable platform arm was positioned on runway 30R, with the platform set at the approximate
+height and runway location of the MD-82 cockpit. A test airplane, similar in size to the Cessna
+441, was taxied from the Midcoast general aviation ramp, via back-taxi on runway 3 1 and
+taxiway Romeo to a takeoff position on the centerline of runway 30R at its intersection with
+taxiway Romeo. Visual observations were made during afternoon daylight and clear weather
+conditions.
+The observations revealed that the test airplane (substituted for the Cessna) was
+visible from the time it entered the runway 31 environment up to and including the time it was
+in position on runway 30R. While the test airplane was in takeoff position, it was visible from
+the point where the tires touched the pavement to the top of the tail. There were no apparent
+physical obstructions to visibility. Observers noted that the airplane presented a very small target
+on the runway because of the small cross section when it was oriented for takeoff.
+1.16.3 Recorded Radar Data
+Recorded radar data from the STL radar site was reviewed by the Safety Board.
+
+I
+23
+These data were used to produce a plot of the Cessna 441’s ground track between 2158: 14 and
+2204:43. Secondary data indicated that the Cessna 441’s transponder was turned off at 2143:06,
+and turned back on at 2156:24. The airplane taxied to the intersection of taxiway Romeo and
+runway 30R, where it remained for about 3 minutes before the collision. (See Appendix E.)
+1.16.4 Lighting Components, Cessna 441
+Selected external lighting components were retrieved from the wreckage of the
+Cessna 44 1 and examined by the Safety Board’s Materials Laboratory. The filaments of the bulbs
+removed from the left navigation and left landing lights, and the tail light positions were
+stretched. Brittle fractures were apparent from fragments of filaments from the right navigation
+and landing light positions. Emergency response personnel reported that the nosewheel taxi light
+was illuminated when they arrived at the airplane.
+1.16.5 Communication Radios, Cessna 441
+The two communication radios on the Cessna 441 were examined at the Collins
+Commercial Avionics facility in Melbourne, Florida. Both radios were operative and functioned
+within the prescribed limits described in the manufacturer’s production test procedure. Two
+discrepancies were noted:
+1. The number one communication radio transmit light was inoperative.
+2. The number two communication radio tune button was missing.
+No physical evidence of preimpact discrepancy was found in the remaining
+components of the Cessna’s communication radio installation. Impact damage precluded
+additional systems testing.
+1.16.6 MD-82 Accelerate-Stop Data
+Accelerate stop data provided by McDonnell Douglas indicate that the MD-82
+could have begun its takeoff roll, accelerated to 114 knots, aborted the takeoff, and come to a
+complete stop within 4,600 feet. (See Appendix F.)
+1.17 Organizational and Management Information
+1.17.1 Superior Aviation
+Superior Aviation began operations as a certificated Part 135 air taxi service on
+January 30, 1978. The company operation consisted primarily of “on-demand” cargo flights,
+feeding freight into hub airports for United Parcel Service, Federal Express, etc. These flights
+were bid and contracted, with schedul.ed route structures. The company also operated occasional
+on-demand air taxi passenger flights.
+
+24
+At the time of the accident, Superior Aviation owned 3 1 airplanes, ranging in size
+from the Beech 95 to the Swearingen (SA) 226. The company employed 38 pilots, used primarily
+for single-pilot operations. All of the pilots were qualified to fly as captains in one or more of
+the airplanes. Pilot turnover was characterized as low during the preceding 2 years.
+Most of the pilots and airplanes were based at one of the company’s two main
+bases of operation, in Iron Mountain and Lansing, Michigan. However, the company frequently
+shifted airplanes and pilots to other temporary duty locations to accommodate cargo contracts and
+schedules.
+The company officers included a President/Owner; a General Manager/Director of
+Operations; a Director of Maintenance; and a Chief Pilot. The company’s training facility and
+training records were located in Lansing, Michigan, while maintenance operations and documents
+were located in Iron Mountain. The FAA principal operations inspector (POI) reported that
+Superior Aviation had a good safety and training record, and reported that the company was
+responsive to FAA guidance.
+Superior Aviation required its pilots to either tile an IFR or VFR flight plan, or
+accomplish flight following by telephone contact with the company. The company provided its
+pilots with Jeppesen chart subscriptions/updates.
+1.18 Additional Information
+1.18.1 Automatic Terminal Information Setvice (ATIS)
+The ATIS is a recorded message repeatedly broadcast to provide noncontrol airport
+and terminal area information to aircraft. FAA Order 7110.65, “Air Traffic Control,” section 2-
+142, enumerates the required contents of the ATIS message. Paragraphs (c) and (d) state:
+c. Instrument/visual approach/s in use. Specify landing runway/s unless the
+runway is that to which the instrument approach is made.
+d. Departure runway/s (to be given only if different from landing runway/s or in
+the instance of a “departure only” ATIS).
+Arrival and departure information for STL is contained in a single ATIS. The
+broadcast in effect for the Cessna 441’s arrival and through the time of the accident was ATIS
+information “Delta.” No mention was made of the occasional use of runway 3 1 as a departure
+runway in this ATIS recording. Public hearing testimony from ATC personnel revealed that they
+did not normally include information about the use of runway 31 on the ATIS, because
+runway 31 was considered a secondary runway, and it was not active the entire time. The
+controllers testified that they limited the information included in the ATIS recordings in an
+attempt to keep the ATIS “brief and concise” as requested by airport user groups (i.e., TWA,
+ALPA, other air carriers).
+
+25
+1.18.2 Air Traffic Handling/Interviews
+The Cessna 441 landed on runway 30R at approximately 2140. The pilot made
+a right turn off the runway at taxiway November, and contacted ground control for taxi clearance.
+The ground controller cleared the pilot to “taxi to Midcoast ramp.” The pilot taxied across
+taxiway Foxtrot (runway 13/3 1) on the way to the ramp. After dropping off the passenger, the
+pilot contacted ground control at 2155, requesting clearance to Iron Mountain, and at 2158 he
+advised ground control that he was ready to taxi. The ground controller responded, “One Kilo
+Mike, roger, back-taxi into position hold runway three one, let me know this frequency when
+you’re ready for departure.” The pilot of the Cessna 441 acknowledged the instructions, stating,
+“Kilo Mike.”
+Both the ground and local controllers told Safety Board investigators that, although
+they were unfamiliar with the airplane’s call sign, the pilot of the Cessna 441 seemed to be
+competent, confident, and familiar with the airport. The ground controller stated that he believed
+the pilot of the Cessna 441 ‘I. knew where he was going.”
+Interviews with the ATC personnel revealed that runway 13/31 is used primarily _
+for taxi operations and secondarily as a “reliever” runway for general aviation and commuter ’
+operations. Because it is the only paved area for aircraft operations on the north side of the
+airport, runway 13/3 1 is the ground controller’s responsibility until an airplane requires a takeoff
+clearance.
+1.18.3 ASDE3 Information
+ASDE is a high resolution ground surveillance radar system that displays surface
+aircraft and vehicle traffic on one or more displays in the ATC tower. This system is designed
+to augment visual observations to enable ATC tower personnel to detect, locate, and track surface
+activity, to provide safe and efficient traffic flow. The FAA’s 1995 Runway Incursion Action
+Plan (RIAP) calls for the latest generation of this equipment, ASDE-3, to be commissioned at 37
+domestic airports.
+STL was originally scheduled to receive ASDE-3 by October 3 1, 1992. Due to
+multiple delays, including some site-specific difficulties, installation of the ASDE-3 equipment
+at STL was completed in September 1994. In accordance with FAA procedures, the equipment
+was subjected to a proving period, during which the equipment was calibrated, functions were
+verified, and hardware and interface problems were resolved. The ASDE-3 equipment was not
+available for controller reference on the night of the accident due to a computer hard drive
+failure.
+Since the accident, the STL ASDE-3 equipment difficulties have been resolved.
+The STL ASDE-3 equipment was commissioned in early 1995, and is currently operational and
+available for controller use 24 hours a day.
+
+26
+1.18.4 Airport Movement Area Safety System (AMASS) Information
+AMASS is a ground-based system that augments ASDE-3 by detecting and alerting
+controllers to potential collisions on airport surfaces. It uses ground and airborne radar data to
+predict conflicts, and provides controller alerts via aural warnings and graphic display on the
+ASDE-3 screen. According to the FAA’s IUAP, each of the 37 airports currently targeted for
+ASDE-3 installation will receive an AMASS. Although the production contract is still pending,
+the RIAP indicated that production AMASS units will become available in late 1996, and the 37
+currently planned units will be commissioned by mid-1999.
+1.18.5 Safety Board Actions -- Runway Incursion Issue
+The Safety Board’s concern about the hazard of runway incursions dates back to
+1972, following an accident at the Chicago O’Hare International Airport. Since that time, the
+Board has issued 79 safety recommendations relating to runway incursions. These
+recommendations addressed issues such as procedures, training, pilot and controller
+communications, and airport signage.
+Despite these efforts, runway incursion-related incidents and accidents continue
+to occur. Based on its concerns, the Safety Board included this safety issue when it adopted the
+“Most Wanted” Transportation Safety Improvements program in 1990. The issue continues to
+be a part of the “Most Wanted” list.
+In 1985, the Safety Board conducted a special investigation study of runway
+incursion incidents. During this special study, the Safety Board investigated 25 runway incursion
+incidents that were summarized in the special investigation report, which was adopted in May
+1986. The investigation revealed that runway incursions were typically the result of human
+performance issues that involved air traffic controllers and pilots of all levels of experience. The
+study also concluded that more uniform communication and verification of messages between
+pilots and controllers could serve to reduce the chance of ambiguous or erroneous
+commands/actions.
+The Safety Board’s concern about the runway incursion problem was heightened
+by three fatal accidents that preceded the STL accident. These accidents were the collision in
+Atlanta, k.;eorgia, on January 18, 1990;4 the collision in Romulus, Michigan, on December 3,
+1990;’ and the collision in Los Angeles, California, on February 1, 1991 .6 These accidents
+‘Eastern Airlines flight 111 and Epps Air Service King Air AlOO, Atlanta Hartsfield International
+Airport, Atlanta, Georgia, January 18, 1990. (NTSB/AAR-91/03.)
+‘Northwest Airlines flights 299 and 1482, Detroit Metropolitan Wayne County Airport, Romulus,
+Michigan, December 3, 1990. (NTSB/AAR-91/05.)
+
+I
+27
+highlighted the urgent need for improved preventive measures, and redundancy. The Safety
+Board is aware that, in addition to the more advanced ASDE-3 and AMASS airport surface traffic
+detection equipment, there are ongoing research and development efforts into alternative, cost-
+effective airport surface traffic detection systems, such as the ground induction loop.
+On May 29, 199 1, the Safety Board adopted the Aircraft Accident Report “Runway
+Collision of Eastern Airlines Boeing 727, Flight 111 and Epps Air Service Beechcraft King Air
+Al 00, Atlanta Hartsfield International Airport, Atlanta, Georgia, January 18, 1990” (NTSB/AAR-
+91/03). That report contained an appendix giving the history of Safety Board recommendation
+activity on runway incursions. The report also contained two new safety recommendations
+addressing the runway incursion issue, asking the FAA to:
+Expedite efforts to fund the development and implementation of an operational
+system analogous to the airborne conflict alert system to alert controllers to
+pending runway incursions at all terminal facilities that are scheduled to receive
+ASDE-3. (A-91-29)
+Conduct research and development efforts to provide airports that are not
+scheduled to receive ASDE-3 with an alternate, cost-effective system to bring
+controller and pilot attention to pending runway incursions in time to prevent
+ground collisions. (A-9 l-30)
+Based upon the FAA’s responses to these recommendations, which referred to the
+AMASS program, research and development activities, and the then-current schedule, the Safety
+Board classified these recommendations “Open--Acceptable Action” in 1994. As a result of a
+new recommendation being made in this report, Safety Recommendation A-91-30 is now
+classified “Closed--Acceptable Action/Superseded.”
+Since 1991, the Safety Board has issued 28 recommendations concerning the
+runway incursion issue. Twenty-three of those recommendations and the status of the FAA’s
+responses are listed in Appendix G. The most recent five recommendations, Safety
+Recommendations A-95-30 through -34, were issued on February 28, 1995, as a result of
+concerns discovered during the investigation of this accident (see Appendix H for
+recommendation letter). The recommendations asked the FAA to:
+Require, within 45 days of receipt of the recommendation letter, that the Air
+Traffic Service provide a firm, finalized mission needs and operational
+requirements document for the AMASS. Also, no further modifications should be
+implemented until after the first AMASS is commissioned. (A-95-30)
+%SAir flight 1493 and Skywest Airlines flight 5569, Los Angeles International Airport, Los Angeles,
+California, February 1, 199 1. (NTSBIAAR-9 l/08.)
+
+28
+Provide the Safety Board, within 60 days of receipt of the recommendation letter,
+with a firm schedule to commission those ASDE-3 radar systems that have been
+installed and adhere to that schedule. (A-95-31)
+Require, for those ATC terminal facilities that commission the ASDE-3, that it be
+operational between sunset and sunrise. When the AMASS is commissioned,
+require it to be operational 24 hours a day. (A-95-32)
+Issue an Administrator’s Letter to Airmen that directs pilots to read back, in full,
+their runway assignment upon receiving taxi clearance when operating at airports
+that employ more than one runway. Revise the AIM [Airmen’s Information
+Manual] to reflect this procedure. (A-95-33)
+Amend FAA Order 7110.65, “Air Traffic Control,” to require that air traffic
+controllers receive confirmation of runway assignment from pilots after issuing
+taxi instructions. Require that this procedure be used at those airports that employ
+more than one runway during operations. (A-95-34)
+The FAA responded to these recommendations on April 14, 1995, and based on
+the FAA’s response, the Safety Board classified Safety Recommendations A-95-30, -33, and -34
+“Closed--Acceptable Action,” and Safety Recommendations A-95-3 1 and -32, “Open--Acceptable
+Response,” on August 1, 1995.
+
+29
+2. ANALYSIS
+2.1 General
+The MD-82 flight and cabin crews were certificated, trained, and qualified for their
+duties. No physiological factors or unusual cockpit distractions existed that would have
+precluded the flightcrew from seeing the Cessna 441 on the runway. However, environmental
+factors, such as the darkness and poor conspicuity of the Cessna 441, contributed to the
+flightcrew’s failure to see the Cessna 441 on runway 30R.
+The pilot-in-command of the Cessna 441 was certificated, trained, and qualified
+for the charter flight.
+The local controller and ground controller were certificated, trained, and qualified
+for their duties. No physiological disabilities were apparent that would have detracted from their
+ability to perform at an acceptable level on the evening of the accident. However, the darkness,
+poor conspicuity of the Cessna 441, and physical distance between the ATC tower cab and the
+northeast portion of the STL airport contributed to the controller’s failure to see the Cessna 441
+on runway 30R.
+STL airport markings, signs, and lighting near and along the taxi route of the
+Cessna 441 conformed to FAA standards.
+Both airplanes were maintained in accordance with the applicable directives, and
+there was no evidence of any deficiency or malfunction that would have contributed to the
+collision.
+Weather conditions were well above the criteria for VFR. In postaccident
+interviews, neither the flightcrew of the MD-82 nor the air traffic controllers identified
+environmental factors, other than darkness, as a constraint to the normal performance of their
+duties.
+The air traffic volume in the St. Louis area during the time of the accident was
+moderate, and traffic complexity was routine. However, the ground controller was working seven
+frequencies at the time of the accident, and several instances of simultaneous transmissions
+occurred in the 1 l/2 hours before the accident.
+The ASDE-3 airport surface detection equipment was installed at STL, but had not
+yet been commissioned and was not operational on the night of the accident. Although the
+equipment had not yet been commissioned, it would have been available to controllers except that
+there had been a computer hard drive failure. Had the equipment been operational, it would have
+displayed the Cessna 441’s position at the intersection of taxiway Romeo and runway 30R for
+about 3 minutes before the collision.
+
+3
+30
+The circumstances of this accident indicate that the pilot of the Cessna 441
+unintentionally deviated from the taxi clearance he received from the ground controller and taxied
+onto the active runway being used by the MD-82. The Safety Board’s investigation examined
+possible reasons why the Cessna pilot might have believed that runway 30R was his departure
+runway.
+2.2 Cessna 441 Pilot Performance
+The Safety Board believes that several personal factors may have contributed to
+the Cessna 441 pilot’s deviation from ATC instructions. According to the pilot’s wife, the
+accident occurred at a time of night when the pilot normally went to sleep, and he may have been
+tired. Company personnel reported that such late trips were unusual. Although the pilot’s work-
+rest cycle is not consistent with chronic sleep loss, the fact that he was operating during a period
+in which he was normally at rest may have had some effect on his performance and level of
+attentiveness.
+Additionally, the pilot of the Cessna 441 had commented that it was going to snow
+in Iron Mountain that night. Midcoast personnel stated that the pilot seemed anxious to go home,
+a behavior that they considered normal among pilots at that time of night. The combination of
+the time of day and his desire to return home before the weather deteriorated may have
+contributed to the mistaken actions of the Cessna 441 pilot, who was generally described in
+positive terms for his cautious and safe attitude.
+2.2.1 Scenario: Pilot Became Lost During Airport Ground Operations
+The Safety Board considered the possibility that the pilot intended to take off from
+runway 3 1, as directed, but became lost on the airport and ended up in position to take off on
+the wrong runway. However, the pilot did not indicate confusion in his radio responses to the
+taxi clearance, and radar data indicated no hesitation in his taxi route. (See Appendix E.) The
+passenger who chartered the Cessna 441 to STL before the accident flight reported that on a
+previous flight when the pilot of the Cessna 441 had become uncertain of his position at an
+airport, he had stopped taxiing until he determined his location. She also indicated that it was
+the pilot’s habit to taxi with the airport diagram in front of him. The current STL airport diagram
+approach chart was located in the cockpit area of the Cessna 441 wreckage. Additionally, the
+pilot’s flight logbook revealed that he had landed once before at STL. The previous flight was
+a daytime operation and occurred approximately 10 months before the accident.
+2.2.2 Alternate Scenario: Pilot’sP leconceplion that Runway 30R was his Ihparture Runway
+The evidence indicates that it was unlikely that the pilot was lost, but rather that
+he had a preconception that he would be departing on runway 30R and thus did not register the
+ground controlle.-‘s clearance to runway 3 1. Several situational cues may have reinforcec ‘ie
+Cessna 441 pilot s preconception that runway 30R was his assigned departure runway. ? he
+Cessna 441 pilot had landed on runway 30R about 18 minutes before he received the taxi
+
+31
+clearance to runway 3 1 for his departure. The “quick turnaround” nature of the flight may have
+added to the Cessna pilot’s belief that he would be departing on runway 30R. Also, from the
+time he approached STL for landing until he taxied out for takeoff, all traffic had landed and
+departed on runways 30R and 30L.
+The ATIS that was current during the time the pilot operated in the STL area listed
+runways 30R and 30L as the active runways for arrivals and departures at STL. The STL
+controllers did not typically list runway 31 as an active runway on the ATIS, as runway 31 was
+only occasionally used as a departure-only runway. Also, the STL controllers did not typically
+treat runway 3 1 as if it were an active runway; for example, when the Cessna 44 1 pilot cleared
+runway 30R on his inbound flight, his taxi clearance to the Midcoast ramp did not include a
+clearance to cross runway 31. The Safety Board believes that if runway 31 had been referenced
+as a runway for occasional general aviation departures on the ATIS broadcast, the pilot may have
+been more attentive to the controller’s taxi clearance and runway assignment.
+Another situational cue that could have reinforced the Cessna 441 pilot’s notion
+that runway 30R was his departure runway was the fact that when he began to taxi outbound
+from the Midcoast ramp on taxiway Whiskey (150 feet long), he almost immediately encountered
+runway 3 1, unlike the more typical airport layout in which a ramp exit leads to a parallel taxiway
+en route to the runway. During the on-scene investigation, several local pilots acknowledged
+that the proximity of runway 31 to the Midcoast ramp created a situation where pilots could
+inadvertently enter onto runway 3 1 without recognizing that they were on a runway.
+The Cessna 441 pilot had an airport diagram available in the cockpit, and may
+have referred to it during his outbound taxi. However, it is also possible that he believed the taxi
+route to runway 30R was obvious and thus did not pay much attention to the diagram. Even if
+he had referred to the airport diagram, he may have had difficulty discerning runway 31 on it,
+due to dim lighting in the cockpit, and the competing tasks that included taxiing the airplane and
+performing checklists.
+While runway 3 1 had markings, signage, and lighting consistent with FAA airport
+certification requirements, had several elements been slightly different, they might have triggered
+the pilot to question his notion that runway 30R was the assigned departure runway. These
+elements include runway width, displaced threshold, and runway markings and lighting.
+Runway 31 is 75 feet wide, which is typical of taxiways at STL. In contrast,
+runways 30R and 30L are 150 and 200 feet wide, respectively.
+At the time of the accident, a 1,838-foot displaced threshold was incorporated into
+the runway 3 1 marking/lighting scheme. The markings on the approximately 800-foot-long
+portion of runway 3 1 on which the Cessna pilot back-taxied consisted of a series of white arrows
+pointing toward the numbers. The runway 3 1 numbers were located at the end of the displaced
+threshold, near the intersection of runway 3 1 and taxiway November. The Cessna pilot’s taxi
+route did not go past the numbers.
+
+I
+32
+Along the displaced threshold, the runway lights had split red and white lenses,
+situated so that the white side of the lens was presented to the Cessna pilot as he back-taxied.
+This would have been a clue to the pilot that he was on a runway. However, the red side of the
+lens would have been visible to an airplane on approach for the runway, or to a pilot holding in
+position on runway 31 for departure. Because of the displaced threshold marking scheme, the
+Cessna pilot could not have seen the numbers for runway 3 1. Had he seen the numbers, the pilot
+might have been cued to question the controller as to the controller’s intentions. The Safety
+Board acknowledges that the runway marking and lighting were in accordance with FAA
+requirements, and does not consider them to be factors in this accident, except to the extent that
+they may not have provided the pilot with sufficient cues to cause him to be more attentive to
+the controller’s clearance.
+Runways 30R and 30L have complex approach lighting systems, which are
+especially visible at night. At the time of the accident, the white runway edge lights of runway
+31 were operating at a dimmer setting than those of runways 30R and 3OL, which is standard
+practice at STL. The Safety Board believes that the dimmer lights on runway 31 were not
+sufficient to distract the pilot from his preconception that runway 30R was his intended departure
+runway.
+Finally, as the Cessna 441 pilot proceeded from taxiway Romeo into position on
+runway 30R, he entered the runway at an intersection 2,500 feet from the threshold. According
+to the AIM, an intersection clearance can be requested by the pilot or initiated by the controller.
+The Cessna pilot did not request an intersection takeoff, nor did the ground controller indicate
+that the pilot should expect an intersection departure, and the pilot should not have entered the
+runway at an intersection, without specific clearance to do so. While the Cessna 441 pilot’s entry
+onto the runway at an intersection should have been a final cue that his notion of being cleared
+to runway 30R was incorrect, the cue was apparently not sufficient to cause him to question his
+perception that he had been cleared to runway 30R.
+2.2.3 Communications
+Effective radio communications between the Cessna 441 pilot and ATC were
+critical to establishing a mutual understanding of intentions. The ground controller’s multiple
+frequencies were congested with almost continuous communication, which resulted in several
+simultaneous transmissions in the 20 minutes before the accident. Additionally, there was some
+indication that the Cessna 441 pilot might have experienced communication radio difficulty.
+Specifically, the pilot complained about his communication radios during the inbound flight to
+STL, and several subsequent transmissions were garbled. Under these circumstances, it was
+especially critical for the pilot to ensure that effective communications were taking place.
+The Safety Board noted that the Cessna pilot did not sta!e the departure runway
+in any of his clearance readbacks. Although critical item readbacks have always been considered
+important in airborne operations, until recently, there was no requirement for critical item
+clearance readbacks for surface operz:ons. This omission was addressed in Safety
+
+33
+Recommendations A-95-33 and -34, which were issued, as mentioned in Section 1.18.5 of this
+report, during this investigation. In response to the recommendations, the FAA stated that it
+anticipates changing the AIM and Advisory Circulars 61-2 1 A, “Flight Training Handbook,” and
+21-23B, “Pilots Handbook of Aeronautical Knowledge,” urging pilots to read back in full their
+runway assignment when operating at airports with more than one runway. Also, the FAA has
+developed a change to FAA Order 7110.65, “Air Traffic Control,” to require air traffic controllers
+to obtain confirmation of runway assignment from pilots after issuing taxi instructions. The
+Safety Board believes that, had this change been in effect, this accident might not have occurred.
+The occasionally nonstandard radio communications between the Cessna 441 pilot and the
+controllers did not serve to effectively clarify intentions or expectations on either side.
+There is no current FAA requirement for pilots to use standard terminology in their
+communications with ATC. However, the AIM provides a pilot/controller glossary that presents
+standard terminology. The Safety Board concludes that airport ground operations, have become
+sufficiently complicated, that incomplete or colloquial communications are inadequate, and that
+more rigorous adherence to standard phraseology--by pilots as well as controllers--is essential.
+2.3 MD-82 Flightcrew Perfommnce
+The Safety Board examined the ATC communications and CVR records and
+concludes that the actions of the MD-82 flightcrew were typical of normal airline operations and
+did not contribute to the accident. However, the Safety Board was interested in the extent to
+which the flightcrew might have been aware of the taxi operations of other airplanes.
+2.3.1 Airport Traffic Awareness
+The AIM and other pilot guidance material stress the need for pilots to be alert and
+vigilant in monitoring air traffic communications during ground operations so that they can detect
+situations that can lead to conflict with other aircraft or vehicles. However, at STL, as with
+many other airports, there are multiple ground control and local control frequencies used by
+different controllers to communicate with aircraft taxiing, landing, or taking off on different parts
+of the airport. This is necessary during busy traffic periods to distribute controller workload and
+reduce radio frequency congestion. At STL, there are separate ground control positions in the
+tower and separate radio frequencies for the north and south operations on the airport. Thus
+when the tower is fully staffed, air carrier pilots taxiing from the south side of the airport would
+normally be unable to hear tower communications with, and would thus be unaware of, aircraft
+taxiing from the general aviation ramp on the north side.
+During periods when the traffic count permits, it is a common practice to reduce
+the staffing in the tower cab and assign a single controller the responsibility of multiple
+operations normally handled by separate controllers. This was the case on the night of the
+accident when a single controller was staffing both the north and south ground control positions
+in addition to the clearance delivery and flight data positions. When operating in this position-
+combined mode, the controller can assign aircraft operating from the north and south sides of the
+
+I
+34
+airport the same communications frequency, or as on the night of the accident, the controller can
+monitor different frequencies while transmitting simultaneously on all. Thus, while the pilot of
+the MD-82 would have been able to hear the ground controller clear the Cessna 441 to taxi, he
+could not hear the Cessna pilot’s acknowledgement.
+It is not surprising that the MD-82 flightcrew reported that they were not aware
+of the Cessna 441 operation from the north side of the airport. In his testimony at the public
+hearing after the accident, the MD-82 captain reported, “We, as pilots, only hear part of the
+conversation [two-way ATC dialogue] and don’t know where other aircraft are . . . .That
+effectively destroys our situational awareness . . . eliminates the double check on . . . safety
+procedures.” He also testified that he believed that reduction/elimination of multiple frequencies
+would help pilots’ situational awareness and I’. . . greatly enhance safety . . . .”
+While the Safety Board agrees that, when controller positions are combined, the
+use of a common frequency for all aircraft being worked by the controller could enhance the
+opportunity for pilots to be aware of potential traffic conflicts, it does not consider the use of
+multiple frequencies to be a factor in this accident. Had the MD-82 flightcrew been attentive to
+the taxi clearance issued to the Cessna 441, they would have believed that the Cessna was taxiing
+to runway 31 and it is not likely that they would have considered the Cessna as a potential
+danger to their operation. Since the Cessna pilot did not read back his runway assignment, the
+flightcrew of the MD-82 would not have been able to detect the possible mistake in clearance
+in any event.
+The Safety Board concludes that the use of combined positions with multiple
+frequencies was not a factor in this accident. However, the Safety Board does not believe it is
+in the interest of safety to create a situation in which there can be simultaneous transmissions and
+potentially decreased pilot awareness. The Safety Board believes that, when positions are
+combined, ATC personnel should make every effort to use as few frequencies as possible. Those
+frequencies in use should be broadcast on the ATIS to enable flightcrews to communicate with
+the controllers.
+2.3.2 Conspicuity of Cessna 441 from the Runway 30R dueshold
+The Safety Board conducted a test to establish the line-of-sight visibility from the
+MD-82 pilots to the Cessna 441 when both airplanes were positioned for takeoff on runway 30R.
+The purpose was to establish whether any physical obstruction to the visibility of the Cessna was
+caused by runway 30R gradation. Visual observations were made during afternoon daylight and
+clear weather conditions. Under these conditions, the Cessna was visible from the approximate
+vantage point of the MD-82 flightcrew, but it presented a very small target.
+During the initial on-scene examination of the Cessna 441, the external lighting
+cockpit switches were 10~ .ited in their off (down) positions, except the nose gear taxi light, which
+was found in the on position. Additionally, during the initial examination, the two wing-mounted
+retractable landing lights were found in their stowed positions. However, based on ARFF
+
+3
+35
+personnel reports of their activities during the emergency response, the Safety Board does not
+believe that these positions are necessarily an accurate depiction of switch and light positions at
+the time of the collision.
+The Safety Board’s laboratory examination of the light bulbs from the Cessna 441
+indicated that filaments were stretched on the left wing tip-mounted navigation, white tail cone-
+mounted navigation, nose gear-mounted taxi, and the left wing-mounted landing lights. Filament
+stretch indicates that the filament was hot at the time of impact (an illuminated bulb). The Safety
+Board believes that the right wing tip-mounted navigation light and the right wing-mounted
+landing light filaments were not stretched because the right side of the airplane was subject to
+lesser impact forces. The Safety Board concludes that the Cessna 441 taxied from the Midcoast
+ramp with the nosewheel taxi, white tail cone-mounted navigation, and red and green wing tip-
+mounted navigation lights illuminated. Based on Superior Aviation company policy and
+common pilot practice, the Safety Board believes that the Cessna 441 wing-mounted landing
+lights were not illuminated until the airplane was in position on runway 30R at its intersection
+with taxiway Romeo.
+The Cessna 441 was not equipped with a rotating red anticollision light, which on
+many other aircraft types is visible from behind the airplane. Wing tip-mounted
+anticollision/strobe lights satisfied the certification requirement for anticollision lighting. It could
+not be determined whether the wing tip-mounted anticollision/strobe lights were operating at the
+time of the collision. Based on the controllers’ inability to maintain visual contact with the
+Cessna 441, and the common procedure among pilots to delay use of anticollision/strobe lights
+until takeoff clearance is received (out of consideration for the night vision of other pilots), the
+Safety Board considers it unlikely that the wing tip-mounted anticollision/strobe lights were
+operating at the time of the collision. Although the navigational lights on the Cessna met
+Federal standards, FAA specialists testified that the Federal standards for aircraft external lighting
+are primarily intended to serve in-flight conspicuity needs rather than conspicuity of aircraft on
+airport surfaces.
+External lighting tests had been conducted during the Safety Board’s investigation
+into the ground collision accident involving a Boeing 737 and an SA-227, in Los Angeles,
+California, in February, 1991.’ These tests revealed that when the SA-227 was viewed from
+behind, at night, with navigation lights on, it was difficult to differentiate between an airplane
+in position on the runway and the lighted runway environment, especially on a runway with
+centerline lighting. The tests also revealed that airplane conspicuity on an active runway was
+increased if the airplane used anticollision/strobe lights, and was positioned offset from the
+runway centerline. The Safety Board issued several safety recommendations to the FAA that
+addressed aircraft conspicuity as a result of this investigation. Among these recommendations
+were:
+‘NTSB/AAR-91/08.
+
+P
+3
+36
+Redefine the airplane certification coverage compliance standards for anticollision
+light installations to ensure that the anticollision light(s) of an aircraft in position
+on a runway are clearly visible to the pilot of another aircraft preparing to land or
+take off on that runway. (Class II, Priority Action) (A-91-1 11)
+Evaluate and implement, as appropriate, suitable means for enhancing the
+conspicuity of aircraft on airport surfaces during night or periods of reduced
+visibility. Include in this effort, measures such as the displacement of an aircraft
+away from the runway centerline, where applicable, and the use of conspicuity
+enhancements, such as high-intensity strobe lighting and logo lighting by aircraft
+on active runways, and encourage operators of airplanes certificated prior to
+September 1, 1977, to upgrade their airplanes to the present higher intensity
+standards for anticollision light installations. (Class II, Priority Action) (A-91-1 12)
+The current status of Safety Recommendation A-91-1 11 is “Open--Unacceptable
+Action.” Although the FAA’s initial response in March 1992 indicated that it had reviewed
+applicable design standards and found them to be adequate, almost 3 years after the
+recommendation was issued the FAA responded to an NTSB followup letter stating that it was
+continuing its effort to revise the regulations to comply with the Safety Board’s recommendation,
+and that it was referring the matter to the Aviation Rulemaking Advisory Committee. The most
+recent Safety Board correspondence is dated April 27, 1995.
+The current status of Safety Recommendation A-9 1 - 112 is “Closed--Unacceptable
+Action,” also dated April 27, 1995. The FAA’s response indicated that it believed that its effort
+to revise the regulations concerning anticollision light design standards to comply with Safety
+Recommendation A-91 -111 would completely address the concerns raised in Safety
+Recommendation A-91 -112. However, the Safety Board received no indication that the FAA
+evaluated or implemented methods to enhance the conspicuity of aircraft, or encourage operators
+to upgrade the lighting systems of aircraft certificated before September 1, 1977.
+The Safety Board believes that the use of strobe lighting and the practice of
+displacing the airplane off the centerline lighting would significantly enhance the ability of other
+pilots and air traffic controllers to visually detect traffic conflict situations. Specifically, the
+Safety Board believes that, had the pilot of the Cessna 441 used anticollision/strobe lights and
+positioned the airplane so that it was offset from the runway centerline lighting, it would have
+increased the likelihood that the MD-82 flightcrew would have detected the runway incursion in
+time to avoid the collision.
+Although Safety Recommendations A-9 l-1 11 and - 112 address conspicuity issues,
+they do not address the evaluation of requiring pilots to use anticollision/strobe lights while in
+position on active runways. Therefore, the Safety Board believes that the FAA should examine
+the feasibility of requiring pilots to turn on anticollision/strobe lights while holding in position
+on active runways.
+
+I
+3
+37
+With the wing tip-mounted anticollision/strobe lights turned off, the white tail
+. cone-mounted navigation light would have been the only light visible to the MD-82 flightcrew.
+The other navigational lights would have been obscured by the structure of the Cessna. The
+Safety Board believes that the white tail cone-mounted navigation light would have blended in
+with the runway centerline lighting system and that it would not be reasonable to expect that the
+MD-82 flightcrew could have seen the Cessna 441 in time to prevent the accident.
+2.4 Role of Air Traffic Contml
+The Safety Board also evaluated the performance of the ATC personnel involved
+in this accident.
+2.4.1 Issuance of Taxi Cleamnce
+The ground controller failed to use standard phraseology in his initial taxi
+clearance transmission. The initial taxi clearance that the Cessna pilot received from the ground
+controller was, “One Kilo Mike, roger, back-taxi into position hold runway three one, let me
+know this frequency when you’re ready for departure.”
+Text in the AIM that was in effect at the time of the accident, section 4-67 ,
+“TAXIING #7,” tells pilots to expect ATC to first specify the runway, then issue taxi instructions,
+and to state any required hold short instructions. This information is also contained in FAA
+Order 7110.65, “Air Traffic Control,” which directs controllers to issue clearances in the same
+manner. An example of a correct clearance would be: “Taxi to runway 3 1. Turn left on runway
+1313 1, proceed to the end, position and hold. Let me know this frequency when you’re ready for
+departure.” In effect, the pilot of the Cessna 441 received a nonstandard clearance, in which the
+phrase “taxi to,” and the departure runway had been eliminated. Instead, the controller simply
+issued taxi instructions followed by more detailed instructions regarding a communications
+frequency. Had the taxi clearance been in accordance with prescribed phraseology, it might have
+altered the pilot’s preconception of departing on runway 30R.
+Although the initial taxi clearance included technically improper phraseology, the
+ground controller gave the Cessna pilot another cue that runway 3 1 was his assigned departure
+runway when he referenced runway 3 1 in a second transmission. When the Cessna 441 pilot
+advised the ground controller, ‘I. . . we’re ready to go,” the ground controller replied, I’. . hold
+on position on runway three one and monitor the tower on one two zero point zero.” The Cessna
+441 pilot responded, I’. . understand position and hold, monitor the tower . . . .”
+The ground controller had no indication that the pilot was not familiar with surface
+operations at STL. Although the pilot did not read back the departure runway when he
+acknowledged his taxi clearance, he gave no indication that he was uncertain about the
+instructions he received from the ground controller. This resulted in an illusion of effective
+communication, when in fact the pilot misunderstood the ground controller’s intentions. Although
+there was no requirement at the time of this accident, the controller, could have requested the
+
+38
+Cessna 441 pilot to read back the runway assignment. However, the controller’s communication
+. workload was heavy (as described in Section 2.4.3), and the Safety Board does not fault the
+controller’s action in this regard. The Safety Board strongly supports the FAA’s change to Order
+7110.65, “Air Traffic Control,” requiring that controllers obtain confirmation of runway
+assignment.
+Additionally, the Safety Board has noted that the term “back-taxi,” while
+commonly used, and apparently understood, by pilots and controllers, is not officially defined in
+either the AIM or FAA Order 7110.65, “Air Traffic Control.” The Safety Board believes that
+the FAA should officially define the commonly used term “back-taxi” in the Pilot-Controller
+Glossary, and provide an explanation of the use of the term and application of the procedure in
+the AIM and FAA Order 7110.65, “Air Traffic Control.”
+2.4.2 Visual Detection/Tracking of Cessna 441
+The ATC tower structure is located on the southwest side of the runway complex
+and terminal buildings, about 1 l/4 miles from the site of the collision. ATC tower personnel
+indicated that it was often difficult to see small airplanes operating on the north side of the
+airport, especially on the far end of runway 3 1, at night.
+Given the known difficulty of visually acquiring general aviation airplanes at night
+in that area of the airport, the ground and local controllers might have heightened their vigilance
+when they lost visual contact with the Cessna 441. However, based on the pilot’s radio
+communications, the controllers perceived the pilot of the Cessna 441 to be confident and
+familiar. Additionally, the ground controller was working the clearance delivery position at the
+time of the accident, which required that he intermittently have his head down to read and issue
+clearances. This made it less likely that the ground controller would be able to effectively
+visually monitor the Cessna 441.
+Concerning aircraft visibility, the STL ground and local controllers reported that
+they did not observe any exterior lights illuminated on the Cessna 441. They stated that from
+the time the Cessna 441 taxied from the well-lighted Midcoast ramp, they were unable to
+maintain visual contact. ATC personnel acknowledged that it was not unusual to lose visual
+contact with general aviation airplanes operating on that part of the airport at night.
+Since ATC personnel did not observe the Cessna 441 in position on runway 30R,
+they assumed that the airplane did not have its landing lights illuminated. However, postaccident
+examination of the landing light bulbs indicated that they were illuminated at impact. The Safety
+Board believes that the Cessna pilot may have turned the landing lights on seconds before impact
+in anticipation of a takeoff clearance.
+The Safety Board concludes that, given the Cessna 44 l’s lighting as it departed the
+Midcoast ramp, the ground and local controllers could not have reasonably been expected to
+visually .detect the Cessna pilot’s deviation irom the taxi instructions. When it became apparent
+
+39
+to the controller that he could not follow or determine the position of the Cessna, he could have
+requested the pilot to turn on his landing lights and/or anticollision/strobe lights to enhance the
+airplane’s conspicuity. However, the Safety Board acknowledges that there are no procedures
+requiring controllers to make such a request and thus cannot fault the controllers for not doing
+so. Nevertheless, if the Cessna pilot had enhanced the airplane’s conspicuity by using additional
+lighting, especially during the 3 minutes that the airplane was in position at the intersection of
+taxiway Romeo and runway 30R, it would have increased the likelihood that the controllers could
+have detected the airplane’s improper position in time to avoid the collision.
+The need to enhance conspicuity for controllers as well as other pilots reinforces
+the Safety Board’s belief that the FAA should revise the Federal Aviation Regulations to require
+pilots to illuminate all taxi, landing, and logo lights, or otherwise enhance the conspicuity of their
+aircraft when operating on an active runway (including runway crossing and position-and-hold
+operations). Further, the Safety Board notes that requiring pilots to turn on aircraft
+anticollision/strobe lights when holding in position on active runways, as discussed in Section
+2.3.2, would assist air traffic controllers, as well as pilots of other aircraft in detecting runway
+incursions.
+2.4.3 ATC Staffing and Wotidoad
+The Safety Board acknowledges that the efficient use of resources requires FAA
+facilities to adjust on-duty staffing levels to the traffic flow expected during different times. On
+the night of the accident, the ground controller was working four positions and monitoring seven
+radio frequencies. Although the controllers characterized the workload as moderate rather than
+heavy, the Safety Board believes that the higher-than-normal traffic level, as a result of the
+Thanksgiving Day holiday, and the continual communication on the clearance delivery and
+ground control frequencies, may have resulted in the controller being less attentive to the position
+of the Cessna than he would have been under lesser workload conditions.
+The Safety Board is particularly concerned that the controller’s communications
+workload may have been exacerbated by the difficulties of contending with blocked or garbled
+transmissions as two or more aircraft attempted to communicate on separate radio frequencies.
+Under such circumstances, the controller may have been less apt to request verbal communication
+confirmation from the Cessna pilot of the initial runway assignment or his subsequent position
+on the airport.
+The Safety Board believes that, considering the workload at the time of the
+collision, the clearance delivery position should have been manned rather than being combined
+at the ground control position. The Safety Board also believes that, had the clearance delivery
+position been staffed, rather than combined at the ground control position, the ground controller
+would have had more time for other functions, such as tracking the Cessna 44 1.
+Subsequent to the accident, the STL ATC tower staffing schedule was changed to
+retain an additional controller and supervisor until lo:30 p.m. The Safety Board believes that this
+
+40
+staffing change provides an additional level of safety.
+The Safety Board is aware of several procedures and services that are being
+developed and used at airports throughout the country in an attempt to reduce radio frequency
+congestion. These procedures include standard coded taxi routes (currently in effect only at
+O’Hare International Airport, in Chicago, Illinois), and automated flight clearance delivery. At
+the time of this accident, the STL airport had the capability to deliver automated flight clearances,
+but the MD-82 did not have the onboard equipment to use the service. Since,the accident, TWA
+has acquired the capability to receive automated flight clearances. Had the automated clearance
+delivery service been used the night of the accident, the ground controller’s workload would have
+been significantly reduced. Thus, the Safety Board believes that the FAA should continue to
+develop, publish, and encourage the implementation of procedures such as automated flight
+clearances and standard taxi routes to reduce radio frequency congestion during ground
+operations.
+2.5 Airport Factors - Designation of Runway 31
+The Safety Board reviewed the significance of runway 1313 1 being designated with
+a 10” offset instead of being designated as 12L/3OR (with the other two parallel runways
+redesignated as 12C/3OC and 12R/3OL) as is standard for three parallel runway configurations
+at other airports. The Safety Board believes that had the runways been designated as 30R, 3OC,
+and 3OL, the pilot of the Cessna 441 may have discerned the significance of the taxi clearance.
+However, the Safety Board also acknowledges that such designation could confuse arriving pilots,
+who would view the two larger parallel runways as a normal right and left configuration. The
+Safety Board is aware that the FAA is currently studying the feasibility of redesignating these
+runways.
+The Safety Board concludes the marking and lighting for runway 13/3 1 was clear,
+well defined, and in accordance with FAA standards, which the Safety Board believes are
+adequate. However, the runway 3 1 threshold displacement could have been a source of confusion
+to pilots if they were unfamiliar and/or inexperienced with displaced threshold marking and
+lighting. Additionally, since runway 31 was not open to landing traffic, the displacement was,
+in effect, superfluous. However, as mentioned previously, the STL Airport Authority petitioned
+for and received FAA approval to eliminate the displaced threshold on runway 3 1; the displaced
+threshold runway markings will be removed and the runway will appear full length by
+September 1, 1995. Runway 3 1 will still be restricted to departures only.
+The Safety Board has noted that following the accident the airport installed taxi-
+holding position lights (“wig-wag” lights) at taxiway Whiskey to further enhance and delineate
+the presence of runway 13/3 1 for aircraft exiting from the Midcoast ramp. Although the Safety
+Board concludes that markings, signs, and lighting in that area were adequate, it also believes that
+this enhancement is worthwhile and provides an additional safety redundancy.
+
+3
+41
+2.6 Pllevention of Runway Incursions
+2.6.1 Pilot Training in Gnwnd Operations
+During the Safety Board’s April 19-20, 1995, public hearing on this accident, the
+Safety Board heard testimony from ATC personnel and air carrier pilots indicating that additional
+training should be undertaken to ensure that pilots are familiar with airport ground operations,
+including airfield markings, signs, and lighting.
+A study/survey of pilots entitled, “Reports by Airline Pilots on Airport Surface
+Operations”8 indicated a need for pilot training on surface operations. A solution proposed in that
+study recommends “That the airlines develop and implement training in cockpit procedures and
+communications for surface operations, emphasizing the timing and integration of all, cockpit
+tasks and the requirement for structured verbal coordination on surface orientation, and
+navigation.”
+Currently, pilot initial and recurrent training programs are directed primarily at
+airborne operations. However, public hearing testimony indicated that many pilots believed the
+most difficult part of any trip occurred between the runway turnoff and the gate. This accident
+reinforced the need for pilot training on surface operations, including airfield markings, signs, and
+lighting. Although air carrier training was not a factor in this accident, the Safety Board believes
+that initial and recurrent air carrier pilot training programs should include training in airport
+surface movement operations and familiarization with airport markings, signs, and lighting. The
+Safety Board also believes that similar training on airfield surface operations, including airport
+markings, signs, and lighting should be provided for all general aviation pilots during initial
+training and biennial flight reviews.
+As a result of the previously mentioned runway incursion accidents that occurred
+in Atlanta, Georgia; Romulus, Michigan; and Los Angeles, California;‘. the FAA generated
+several informational/educational handouts and flyers, which it’ intended to distribute to
+certificated pilots through a variety of methods (i.e., safety seminars, operations bulletins, etc.).
+The Safety Board notes that this distribution has not reached its entire intended audience. The
+Safety Board believes that the FAA should mass-mail all currently certificated pilots FAA
+publications on reducing runway incursions and airport improvement information, such as airport
+signage changes.
+2.6.2 ASDEIAMASS
+ASDE-3 was installed at STL in September 1994, and subjected to a proving
+*Docket No. SA-5 13, Exhibit No. 14B, MITRE Corporation Report on Airport Surface Operations --
+May, 1994; pg xxvi, Exhibit Pg. 28.
+%TSB/AAR-91/03; NTSBJAAR-91105; and NTSBJAAR-91J08, respectively.
+
+42
+period, during which the equipment was calibrated, functions were verified, and hardware and
+interface problems were resolved. During the proving period, controllers had ASDE-3 available
+periodically, and were encouraged to use the equipment at those times. As mentioned previously,
+STL controllers reported difficulty visually distinguishing general aviation airplanes operating on
+the northeast portion of the airport at night. An operational ASDE-3 would supplement visual
+scan of the airport surface. However, on the night of the accident, the ASDE-3 equipment was
+not available for controller use, due to the computer hard drive failure.
+The Safety Board believes that had the ASDE-3 equipment been available for
+controller use on the night of the accident, the ground and local controllers would have had a
+higher probability of identifying the Cessna 441 at runway 30R. The Cessna 441’s position
+at the intersection of taxiway Romeo and runway 30R for 3 minutes before the collision would
+have allowed ample time for the local controller to have identified the airplane during his routine
+ASDE-3 scan of the runway before issuing takeoff clearance to the MD-82.
+The Safety Board is also aware of several advanced concepts in airport surface
+traffic detection and automation that, when perfected and combined with the correct hardware and
+location-specific software, could provide automated warnings to preclude accidents of a nature
+similar to the collision at STL. The Safety Board fully supports the early development and
+installation of such systems at airports where the volume and complexity of traffic flow warrant
+their use.
+AMASS manufacturer Westinghouse-Norden Systems produced a video simulation
+that portrays how AMASS could have performed at STL during the accident scenario. In this
+simulation, the AMASS provided controllers with an aural and visual warning about 17 seconds
+before the collision. Adjustments of the many variables in the AMASS software, typically
+accomplished when the system is customized for the particular airport installation, can alter this
+warning time.
+For AMASS to prevent or reduce the severity of a collision, the system warning
+must be converted into action by a minimum of two persons. The controller must recognize the
+warning, comprehend the situation, determine which aircraft and/or vehicles are involved,
+determine a preventive course of action, and relay appropriate instructions to the subject aircraft
+and/or vehicles. The aircraft and/or vehicle operator(s) must then comprehend those instructions,
+and determine and execute an appropriate response.
+An operational ASDE-3 system could have compensated for the Cessna 441’s poor
+conspicuity while operating at night on the northeast portion of the STL airport, and an
+operational AMASS could have provided an automated warning of the impending collision.
+Thus, the Safety Board believes that the installation and utilization of ASDE-3, and particularly
+ASDE-3 enhanced with AMASS, could have prevented this accident.
+
+E
+43
+. 2.6.3 Other Runway Incursion Prcevention Technology
+Following the runway incursion accident at the Atlanta Hartsfield International
+Airport on January 18, 1990, the Safety Board recommended that the FAA:
+Conduct research and development efforts to provide airports that are not
+scheduled to receive Airport Surface Detection Equipment with an alternate, cost
+effective system to bring controller and pilot attention to pending runway incursion
+in time to prevent ground collisions.
+The Safety Board remained concerned that the problem of runway incursions is
+not confined to the 37 major airports that are slated to receive the ASDE-3 and its associated
+AMASS. The Safety Board is aware that during June 1991, the FAA conducted a Broad,Agency
+Announcement that allowed for the demonstration of alternative technologies for surface
+movement, These demonstration programs are outlined in the FAA’s 1995 RIAP. A review of
+the milestones established for the development of a low-cost alternative for runway incursion
+prevention indicates that an evaluation of these alternatives will continue through 1996.
+The Safety Board is aware of a draft FAA document entitled, “Operational
+Concepts for Surface Movement in the 21st Century.” During an FAA-sponsored surface
+movement technology forum attended by Safety Board staff during March 1995, over 115
+participants, comprising a cross-section of users and industry, endorsed this document with only
+minor changes. This comprehensive document outlines the application of future technologies and
+operational concepts for operating on airports within the National Airspace System. The Safety
+Board supports the intent of this type of advance planning and urges the FAA to embrace this
+document and use it as the blueprint and cornerstone for the development, implementation, and
+evolution of safer surface operations.
+2.6.4 FAA Pmgmm Initiatives/Management
+The Safety Board was encouraged by many of the FAA’s actions in the aftermath
+of a series of runway incursion accidents during the early 1990s. These actions included new
+airport markings, signs, and lighting, coded taxi routes at the O’Hare International Airport, and
+low visibility operational initiatives at the Seattle/Tacoma International Airport. The Safety
+Board believes that since 1991, there has been limited action to address the runway incursion
+issues until the FAA’s 1995 RIAP.
+Public hearing testimony by MITRE Corporation personnel indicated that the FAA
+should consider addressing the runway incursion problem in two arenas. One suggested arena
+was the basic surface system in which human performance issues require corrective action on a
+near-term basis; the other arena was surface technology, which is more long term. It was also
+disclosed that MITRE’s “Reports by Airline Pilots on Airport Surface Operations” study contained
+40 proposed solutions for the reduction of pilot error during airport surface operations.
+According to the testimony, most of these solutions were not costly and were “doable”-- for
+
+3
+44
+example, pilot and controller communications. The Safety Board believes that the FAA, in
+conjunction with industry, should now develop working groups tasked with developing
+mechanisms to implement these solutions.
+The second part of the MITRE report is expected to be completed during
+September 1995. The Safety Board believes that the FAA should employ an independent source
+to conduct a survey, similar to that conducted by MITRE, of its terminal ATC staff to determine
+their concerns and views of the scope and magnitude of the runway incursion problem and their
+recommendations for the reduction of runway incursions.
+As a longer-term measure, the Safety Board notes that the FAA has developed a
+working draft document entitled, “Annotated Regulatory, Procedural, and Recommended Practices
+for Surface Movement of Aircraft by Pilots and Ground Vehicles by Operators.” This document,
+prepared by the FAA’s Systems Architecture and Integration Division, is described as “a
+discussion paper and baseline document to discuss changes in roles and responsibilities on the
+[airport] surface.” It sets forth procedures for operating aircraft and ground vehicles, emphasizes
+communications and interactions between the control tower and pilots of aircraft on the ground,
+and sets forth what might be considered “rules of the road” as a standard applicable to all pilots,
+both foreign and domestic. The Safety Board believes that the FAA should finalize this
+document to establish a blueprint for improved operations on the airport surface.
+The Safety Board believes that there is a lack of accountability and stability in the
+FAA’s long-term program management process. Statements made by principal witnesses at the
+public hearing indicated that since the initial development of AMASS, numerous personnel
+changes occurred in key offices. The Safety Board believes that the process of familiarizing new
+management personnel with the program may have led to unnecessary revisions in program
+requirements and priorities that resulted in delays in the AMASS development. The Safety
+Board understands that past programs have been delayed beyond initial schedule targets because
+the different organizations involved in establishing and accepting the criteria for equipment
+performance have been unable to resolve those differences quickly.
+The Safety Board notes that before the public hearing on the accident, the FAA,
+in a formal press release, announced that AMASS would be deployed at the San Francisco
+International Airport in May 1996. Testimony at the public hearing indicated that a “zero bucket”
+[base-line] AMASS would be installed at San Francisco. The Safety Board notes that the FAA
+plans a validation phase for the AMASS following the planned May 1996 deployment. The
+Safety Board hopes that validation of the system will not result in further unnecessary delays.
+The Safety Board believes that the ATC procedures for the use of AMASS should
+be reviewed. While acknowledging that AMASS should provide the controller an alert only after
+other redundancies have failed, the Safety Board does not believe that controllers should be
+permitted to inhibit targets that would otherwise qualify to generate an alert. In addition, the
+FAA should assure that the ATC procedures that relate to interface with the ASDE-3 and
+AMA: .j system are not so demanding that they will divert the controller’s attention away from
+
+45
+his/her primary duty of separating aircraft.
+The Safety Board encourages the FAA to continue the research effort in Airport
+Surface Traffic Automation (ASTA), which is intended to develop automation tools and more
+complete automation for controlling the flow of aircraft on the airport surface. In addition to
+reducing the frequency of runway incursions, design goals of the program should include a
+reduction in taxiway incursions and improvements in ATC operational efficiency. This
+automation, including Departure Flow Management (DFM) and Terminal Air Traffic Control
+Automation (TATCA), is intended to support interactions among the various aircraft on the
+airport surface and on the approach path.
+Although the Safety Board fully supports and encourages these efforts, it
+nevertheless recognizes that these programs are intended for a limited number of high-density air
+carrier airports, and that the operational benefits will not be available until the late 1990s. The
+Safety Board encourages the FAA’s efforts to fund, support, and implement an operational
+system, such as the induction loop in-ground sensor system, analogous to the airborne conflict
+alert system, to prevent runway incursions at all U.S.-certificated airports.
+2.7 Survivability Aspects
+2.7.1 Airport Closure/Emergency Operations
+STL airport management, which has the authority to close the airport after an
+accident, did not close the airport after this col,lrsion. STL remained open, and aircraft and
+ground vehicle movement continued near the afcident sites. Several radio transmissions from
+pilots of taxiing airplanes to the ground controller indicated that the pilots were concerned about
+the possibility of passengers from the MD-82 wandering in front of their airplanes. Seven
+minutes after the collision, Federal Express flight 1283 landed on runway 30L. About 17 minutes
+after the accident, the air traffic controllers temporarily suspended airport operations.
+The Safety Board believes that, because the airport was not closed immediately
+following the accident, the evacuated passengers were put in danger of being injured by taxiing
+aircraft. While the airport authority has jurisdiction over the physical operation of the airport,
+air traffic controllers still have a responsibility for the safe operation of airplanes on and around
+the airport. Closing the airport would allow controllers and/or airport authority personnel to
+assess the situation and to redirect both airborne and surface traffic to areas remote from the
+accident site. The assessment period could have been brief, and the airport could have been
+reopened after safe conditions were confirmed by the airport operator.
+As a result of this unsafe situation, on July 17, 1995, the Safety Board issued
+Safety Recommendation A-95-78 asking the FAA to:
+Provide guidance to all 14 CFR Part 139 certificated airports that in the event of
+an accident or significant incident, the airport be closed immediately by either the
+
+46
+airport operator and/or the appropriate FAA air traffic control facilities through
+letters of agreement with airport operators. Also, specify that the airport, or
+portions thereof, should not be reopened until the airport operator has ensured that:
+(1) aircraft operating areas are secure; (2) aircraft movement areas that are to be
+reopened have been properly inspected; and (3) adequate aircraft rescue and fire
+fighting protection is available for aircraft operations.
+The FAA has not yet responded to this recommendation. (The recommendation letter containing
+this recommendation is in Appendix I.)
+2.7.2 Evacuation of the MD-82
+The MD-82 flightcrew took an estimated 2 to 3 minutes to evaluate the emergency
+situation before deciding on the safest method of evacuation. They indicated that the delay
+afforded the cabin crew some time to calm frightened passengers, and the subsequent evacuation
+through the single door (Rl) was described as orderly. Estimates as to the duration of the
+evacuation varied widely, but the average was 7 minutes. The shortest estimate was 4 minutes,
+the longest was 15 minutes. Several passengers, especially those seated farthest aft in the
+airplane, complained that the evacuation took too long, because only one exit was used. The
+FAA certification standard requires that a full airplane must be evacuated within 90 seconds, with
+half of the exits blocked. The Safety Board believes that the flightcrew’s evacuation decision,
+based on the large quantity of pooling fuel on the left side of the airplane, and the spilling fuel
+and impact-related physical damage on the right side of the airplane, was a safe, sound judgment.
+The Board also believes that the average estimate of evacuation duration was not excessively
+slow given absence of critical urgency.
+
+47

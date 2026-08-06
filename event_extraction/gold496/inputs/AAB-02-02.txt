@@ -1,0 +1,1238 @@
+L
+T RAN SPO National Transportation Safety Board
+A R
+N T
+O E PLURIBUS UNUM A
+A
+TI T
+IO Washington, D.C. 20594
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: CHI01MA011
+Operator/Flight Number: N/A
+Aircraft and Registration: Cessna 335, N8354N
+Location: Hillsboro, Missouri
+Date: October 16, 2000
+SUMMARY
+On October 16, 2000, about 1933 central daylight time (CDT),1 a Cessna 335,
+N8354N, crashed near Hillsboro, Missouri. The pilot and two passengers were killed, and
+the airplane was destroyed. The airplane was being operated under the provisions of
+14 Code of Federal Regulations (CFR) Part 91 from the St. Louis Downtown Airport
+(CPS), Cahokia, Illinois, to County Memorial Airport (EIW), New Madrid, Missouri.
+Instrument meteorological conditions (IMC) prevailed for the flight, which departed CPS
+about 1915 on an instrument flight rules (IFR) flight plan.
+HISTORY OF FLIGHT
+During postaccident interviews, a St. Louis police officer who had provided
+security to one of the passengers on the accident airplane2 stated that the pilot and two
+passengers arrived at CPS about 1140 on the day of the accident and then spent the day
+attending four campaign functions. Later that day, the pilot asked this security officer to
+take him back to the airport early so that he could prepare for the flight to EIW. The
+security officer stated that the pilot contacted the St. Louis Automated Flight Service
+Station (AFSS) to obtain a weather briefing during the drive back to CPS.3 The security
+officer also stated that the pilot then contacted the fixed-base operator (FBO) at CPS and
+asked to have the airplane’s wing tanks topped off with fuel.
+1 Unless otherwise indicated, all times are CDT, based on a 24-hour clock.
+2 The passenger was the Governor of Missouri and was running for the U.S. Senate, and the purpose of
+the flight was to transport him to and from campaign functions.
+3 For more information about the content of this briefing and the weather conditions that existed at and
+around the time of the accident, see the section titled, “Meteorological Information.”
+NTSB/AAB-02/02
+
+2
+The security officer reported that after arriving at CPS about 1835, the pilot went
+into the FBO to check the weather on the computer and pay for the fuel. The security
+officer stated that when he asked the pilot if they were going to be able to make the flight
+to EIW, the pilot indicated that he did not anticipate that the weather would cause any
+problems with the flight and stated, “I’ve seen better days, but I’ve seen a lot worse.” The
+security officer stated that the two passengers arrived at the airport about 1845 and then
+boarded the airplane. He stated that the pilot was seated in the left front seat but that he
+could not tell where the two passengers were seated.
+According to Federal Aviation Administration (FAA) air traffic control (ATC)
+transcripts, at 1902:10, the pilot contacted the East St. Louis Air Traffic Control Tower
+(ATCT), Ground Control, and requested an IFR clearance to EIW. At 1902:17, the ground
+controller cleared N8354N as filed, instructed the pilot to climb to and maintain 2,100 feet
+and to expect 7,000 feet 10 minutes after takeoff, and issued a transponder code4 and
+departure frequency. At 1902:43, the ground controller cleared N8354N to taxi to runway
+30L.5 At 1915:20, the pilot contacted the East St. Louis ATCT, Local Control, and stated
+that he was ready to depart from runway 30L. At 1915:24, the local controller issued
+N8354N a heading of 200° and cleared it for takeoff. At 1917:10, the local controller
+again instructed the pilot to turn left to a heading of 200° and to contact St. Louis Terminal
+Radar Approach (and departure) Control (TRACON). Eight seconds later, the pilot
+acknowledged the instruction.
+At 1918:19, the pilot contacted St. Louis TRACON. At 1918:48, when the
+airplane was at approximately 2,200 feet, the St. Louis TRACON Low West (LW)
+controller informed the pilot of N8354N that he had radar contact with the airplane and
+instructed the pilot to turn left to a heading of 180° and climb to 2,600 feet. The pilot
+acknowledged these instructions. At 1920:00, the controller instructed the pilot to turn left
+to a heading of 150° and maintain 2,600feet.6
+At 1920:07, the pilot stated, “five four November we’re having some problems uh
+with primary attitude indicator we’d like uh little bit…higher climb.”7 The LW controller
+responded that he would be able to issue him a higher altitude “in about twomiles.”
+At 1920:51, the controller asked the pilot to state the airplane’s altitude. The pilot replied,
+“we’re at three thousand six hundred.” The controller responded, “okay the uh assigned
+altitude was two thousand six hundred but climb and maintain four thousand.” The pilot
+responded, “we got our hands full right now.” At 1921:08, the controller stated, “uh roger
+4 The airplane’s transponder transmits aircraft information in response to interrogations by ATC
+secondary radar, including the aircraft’s altitude, for processing and display.
+5 According to the ATC transcript, the pilot asked the ground controller if he could depart from runway
+12R instead of runway 30L. Although the controller responded that he could, she indicated that there would
+be a significant delay because of three inbound airplanes. The pilot replied that he would “go ahead and take
+three zero left” for takeoff.
+6 ATC radar data indicate that at this time, the airplane was flying a course of about 250° at
+approximately 3,100feet and climbing.
+7 A review of the ATC recording revealed that when the pilot stated, “we’re having some problems uh
+with primary attitude indicator,” a great deal of background noise was recorded, which obscured the pilot’s
+words.
+NTSB/AAB-02/02
+
+3
+you in some sort of difficulty.” The pilot responded, “we got a primary attitude indicator
+that’s not uh reading properly having to try and fly off of copilot [the right-side attitude
+indicator].” At 1921:20, the controller advised the pilot to try and fly the airplane level on
+any heading and told him that he would try to get him to as high an altitude as possible.
+The pilot responded, “appreciate it.”
+At 1921:35, the LW controller told the pilot to fly “straight ahead” and stated that
+he would get him to visual flight rules (VFR) conditions. At 1921:52, the controller
+instructed the pilot to climb to and maintain 4,000 feet and to “let me know when you get
+on top [of the clouds].”8 The pilot acknowledged the instruction. At 1922:00, the
+controller asked another pilot, whose airplane was at 5,000 feet, if he was on top of the
+clouds, and the pilot responded that he was not.9 At 1922:33, the controller reported to
+N8354N, “I don’t have much hope for getting you on top uh people say it’s like about
+twelve five [12,500 feet].” At 1922:50, the pilot stated that he wanted to head toward
+Jefferson City Memorial Airport (JEF), Jefferson City, Missouri, because he understood
+that the weather conditions were better there. The controller then asked the pilot if his
+“instrument” was showing a heading of 150°, and the pilot responded “well the compass is
+showing due south one eight zero [180°].”10 At 1923:12, the controller instructed the pilot
+to turn to a heading of 120°, and the pilot acknowledged the instruction.11
+At 1923:39, the LW controller told the pilot to “climb and maintain seven thousand
+[feet] at pilot discretion.” The pilot acknowledged the instruction and added “we would
+like to go direct to jefferson city if possible.” The controller responded, “say jefferson
+city.”12 The pilot responded, “that’s right jefferson city.” At 1923:55, the controller
+stated, “in that case turn right heading two seven zero.” The pilot then acknowledged the
+turn instruction and confirmed the assigned altitude.13
+At 1925:12, the LW controller informed the pilot that “it appears you’re heading
+northwest but uh you’re basically in a good direction.” At 1928:36, the LW controller
+asked the pilot if he was still having “attitude problems.” The pilot replied, “the attitude
+problems are continuing.” ATC radar data indicate that at this time, the airplane’s altitude
+had reached 7,400 feet and that the airplane had entered a left turn to the southeast.14 The
+8 ATC radar data indicate that when the LW controller issued this instruction, the airplane was at
+approximately 3,700 feet.
+9 During postaccident interviews, the LW controller stated that he also asked other controllers at
+adjacent sectors if they had any reports of cloud tops and that the supervisor came over to his position to help
+him get weather reports.
+10 ATC radar data show that the airplane had just turned south from a more southeasterly heading.
+11 In a written statement to the FAA, the LW controller indicated that he thought the pilot was asking
+for assistance in getting to his original destination (EIW) and that this was the reason he issued the
+120° heading.
+12 During postaccident interviews, the LW controller stated that he was surprised when the pilot stated
+that he wanted to go to Jefferson City. He stated that he asked the pilot to confirm his request to go to
+Jefferson City because he thought the pilot wanted assistance continuing to EIW.
+13 ATC radar data show that after this transmission, the airplane continued to climb and entered a right
+turn to the northwest.
+14 The Safety Board could not determine why the airplane turned at this point.
+NTSB/AAB-02/02
+
+4
+data show that the airplane then descended slightly and that its altitude varied between
+7,000 and 7,200 feet. At 1929:31, the pilot stated, “we’re gonna need some vectors
+somewhere where we can get down [to] VFR [conditions].”15 The LW controller stated
+that he would check around for other weather conditions and that, in the meantime, the
+pilot should “just go straight ahead…doesn’t make any difference what direction that is
+just go straight ahead.” At 1930:17, the controller told the pilot that the weather at
+Columbia Regional Airport, Columbia, Missouri, was 7,000 feet overcast with 7miles
+visibility and light rain. The controller told the pilot that the further west he went the
+better the weather was going to be. He then asked the pilot if he wanted to head west.
+At 1930:35, the pilot responded, “that would be great.” This was the pilot’s last
+transmission.
+At 1930:37, the LW controller told the pilot to “make a slow right turn as much as
+you can the standard rate...as much as you can to make this a stabilized affair.”16 ATC
+radar data show that after this instruction was issued, the airplane entered a right turn.
+ATC radar data further show that at 1931:17, the airplane had descended to approximately
+6,500 feet. At 1931:22, the controller told the pilot to stop the turn and to fly straight
+ahead.17 At 1932:28, the controller unsuccessfully tried to contact N8354N. At 1932:34,
+the controller transmitted, “november three five uh five four november radar contact
+lost.”18
+The accident occurred at night in dark lighting conditions. The location of the
+accident site was 38° 18.653' north latitude, 90° 30.125' west longitude at an elevation of
+about 826 feet mean sea level.
+PERSONNEL INFORMATION
+Pilot
+The pilot, age 44, held a commercial pilot certificate with airplane multiengine
+land and instrument airplane ratings and a private pilot certificate with airplane
+single-engine and multiengine land19 and single-engine sea ratings. The pilot’s most
+15 During postaccident interviews, the controller stated that he became concerned when the pilot
+requested vectors to VFR conditions and that, in his opinion, this was the first time that the pilot conveyed a
+sense of urgency regarding his situation.
+16 According to the “Pilot/Controller Glossary,” a standard rate turn is a turn of 3° of heading change
+per second.
+17 ATC radar show that after this instruction, the airplane climbed for the next several seconds,
+reaching its maximum altitude of 7,700 feet, and then descended rapidly.
+18 The last radar contact with the airplane was at 1931:57, at which time, the airplane was at an altitude
+of 2,700feet.
+19 On January 14, 1993, the pilot was denied a private pilot multiengine land rating because he
+followed improper single-engine go-around procedures. On January 16, 1993, the pilot passed a subsequent
+checkride, and he received a private pilot multiengine land rating.
+NTSB/AAB-02/02
+
+5
+recent FAA second-class airman medical certificate was issued on January 21, 2000, and
+contained the limitation that he wear corrective lenses.
+The last entry in the pilot’s logbooks was dated April 27, 2000. Investigators used
+the pilot’s logbooks, campaign flight logs, and flight logs from other airplanes the pilot
+had flown20 to estimate the pilot’s total flight experience. The pilot’s estimated total flight
+time at the time of the accident was about 1,829.7 hours, including about 735 hours of
+multiengine flight time, of which 513 hours were in a Cessna 335. The pilot’s estimated
+total night flight time was about 460.5 hours, of which 157.4 hours were in a Cessna 335.
+The pilot’s estimated total actual instrument flight time was about 87.6hours, of
+which 22.4 hours were in a Cessna 335.21 His estimated total simulated instrument flight
+time was about 65.2 hours, of which 1hour was in a Cessna 335. Records indicate that the
+pilot’s most recent instrument proficiency checkride was on September 21, 1999. Flights
+recorded in the pilot’s logbook that contained the remark “partial panel flight” totaled to
+about 12.3 hours,22 none of which were in a Cessna 335.
+The pilot’s estimated flight time in the 90 days before the accident flight was about
+93.6hours, of which 81.3 hours were in a Cessna 335. The pilot’s estimated flight time in
+the 30days before the accident flight was about 38 hours, of which 32.4 hours were in a
+Cessna 335.
+According to the pilot’s personal physician, the pilot was in “excellent health”
+during the 12 months before the accident. He reported that the pilot had no acute illnesses;
+did not take any medications; and did not use alcohol, tobacco, or caffeine. Family and
+friends reported that the pilot exercised on a regular basis, preferring to run or walk in the
+mornings. Friends also reported that he would not have flown if he were tired. Further,
+they stated that he had been known to cancel trips when the weather conditions were
+unfavorable.
+Pilot’s Training
+A review of training records shows that the pilot received an insurance “checkout”
+from a flight instructor in the accident airplane between November 21 and December 6,
+1997. The checkout consisted of 15 hours of flight time, during which the pilot was
+20 The pilot had been co-owner of a Piper PA-28-181 Archer since February 1, 1989, and had also
+flown a Beechcraft B33 Debonair registered to one of the passengers.
+21 The last entry in the pilot’s logbook that shows that he flew in IMC was on March 15, 2000, at
+which time he logged 1.5hours of instrument flight time. The Safety Board could not determine how much
+of the flight time that the pilot had accumulated since his last logbook entry on April 27, 2000, was in IMC
+nor could the Board determine if the pilot had met the flight experience required by CFR Section 61.57 to
+act as pilot-in-command (PIC) in IMC.
+22 Partial panel flight refers to flight training in which it is simulated that some of an airplane’s
+instruments (for example, the attitude indicator) have failed by either covering them up or removing power
+from them. All of the flight time documented as partial panel flight time by the pilot was simulated during
+training flights with an instructor. The Safety Board could not determine how much of each flight’s total
+time was devoted to partial panel instruction.
+NTSB/AAB-02/02
+
+6
+exposed to systems training and IMC, normal, and emergency procedures. The pilot
+logged 2.5 hours of this flight time as instrument training and 7.5 hours as night flight
+time.
+From May 15 through 17, 1998, the pilot attended and completed a Systems and
+Operational Procedures Training Seminar held by Twin Cessna Flyer, Defiance, Ohio.
+According to the course materials, the course’s primary purpose was to “help the
+pilot/owner of twin Cessna aircraft prevent emergencies and accidents through increased
+knowledge of aircraft systems and operational procedures.” The course included 3 days of
+classroom and lab instruction. The instruction covered the following information:
+systems—knowledge, operation, and maintenance; normal and emergency procedures;
+decision-making and judgment; and proficiency flying. A portion of the course manual
+titled, “Normal and Emergency Operating Procedures,” covered the twin Cessna’s vacuum
+system.23 The course manual also contained a Twin Cessna Checklist, which included
+performing a vacuum system check as part of the engine start and shutdown procedures.
+Further, a copy of the Pilot Operating Handbook Supplement that outlined the engine start
+and shutdown procedures, which includes the performance of a vacuum system check,
+was distributed to and discussed with the attendees as they were reviewing the vacuum
+system.
+Pilot’s 72-Hour History
+Coworkers, friends, and the pilot’s sister provided information to Safety Board
+investigators about the pilot’s activities during the 72 hours before the accident. On
+October 13, 2000, the pilot was reported to have arrived at his office in Rolla, Missouri,
+sometime between 1430 and 1600 and to have departed about 1800. From about 2000
+to 2200, the pilot was reportedly at his home visiting with the caretakers of his farm. The
+pilot reportedly drove the caretakers and their family back to their house and arrived back
+home between 2230 and 2300.
+On October 14th, the pilot was seen at his home between 0930 and 1000, where he
+was getting ready for a trip. According to the pilot’s sister, he flew N8354N from Rolla to
+Columbia, Missouri, where he attended a football game. According to a campaign
+schedule, the pilot was scheduled to depart Columbia at 1405 and arrive in Creve Coeur,
+Missouri, at 1450. According to the pilot’s sister, after arriving at Creve Coeur, the pilot
+departed for Cuba, Missouri, and then continued on to Rolla.
+On October 15th, the pilot attended church in Rolla. About 1208, the pilot sent an
+e-mail to a friend stating that he had flown for the campaign almost every day recently,
+that he had slept soundly at home the night before, that he was over a cold, that he had run
+the day before after not having run in over a week, that he was heading for Kansas City
+that afternoon, and that he was returning to Jefferson City that night. The caretaker’s wife
+reported that the pilot called her from his office between 1000 and 1300. The pilot’s sister
+reported the he departed Rolla about 1400 to pick up their parents in St. Louis to fly them
+23 A review of the course manual did not reveal to what extent vacuum pump failures were discussed
+during the training.
+NTSB/AAB-02/02
+
+7
+to Kansas City. According to a campaign schedule, the pilot was scheduled to depart
+Creve Coeur at 1445 and arrive in Kansas City at 1615. The pilot was then scheduled to
+depart Kansas City at 2045 and arrive in Jefferson City at 2135, where he was expected to
+spend the night.
+On October 16th, the pilot was scheduled to depart JEF at 1025 and arrive at CPS
+at 1110. According to a security officer, the airplane actually arrived at CPS about 1140.
+Both the pilot and passengers proceeded to scheduled campaign events. That afternoon
+the pilot called his office and stated that he was running behind schedule and that he
+would not be in the office that day as he had previously planned. The pilot’s sister
+reported that the pilot visited the campaign office in the afternoon where he checked the
+weather on a computer before leaving for the next campaign event about 1645.
+About 1815, the pilot asked one of the security officers to take him back to the airport
+early so that he could prepare for the flight to EIW.
+Pilot-rated Passenger
+One of the accident airplane’s passengers was a licensed pilot. On August 25,
+1997, he obtained a private pilot certificate with an airplane single-engine land rating. On
+May 16, 1999, he obtained an instrument airplane rating. He held a third-class medical
+certificate with the limitation that he must wear lenses for distant vision and possess
+glasses for near vision. He owned and flew a Beechcraft B33 Debonair. Members of the
+security detail and other pilots who had traveled previously with this passenger stated that
+although he was a licensed pilot, he normally sat in the back of the airplane when there
+were other passengers on board or when he needed to prepare for his next campaign event.
+Air Traffic Controller
+The St. Louis TRACON LW controller, age 54, was hired by the FAA in 1968.
+Before being hired by the FAA, he was an air traffic controller in the U.S. Air Force for
+3 1/2 years. The controller’s first assignment with the FAA was at the Chicago O’Hare
+International Airport (ORD), Chicago, Illinois, ATCT. He worked at the ORD ATCT from
+1968 until 1970 or 1971.24 The controller then went to work at the Rockford, Illinois,
+ATCT until 1977. He then worked at the ORD TRACON until 1980, at which time, he left
+to work at the St. Louis TRACON. The controller held an airline transport pilot certificate
+with an airplane multiengine land rating, a commercial glider certificate, and a certified
+flight instructor glider certificate. He held type ratings for Falcon-20, -50, and -900 series
+airplanes. He reported that his total flight time was approximately 6,800 hours. On the
+day of the accident, he was assigned to work from 1550 to 2355; however, he arrived at
+the facility about 1520. The controller had been working at the LW position for about
+45 minutes before handling the accident airplane.
+The controller stated that after starting his shift, during his briefing, he was
+informed that level 1 through level 3 weather existed in the area.25 He reported that he
+24 The controller could not remember the exact date that he left the ORD ATCT.
+NTSB/AAB-02/02
+
+8
+selected level 2 and level 3 on his computer display and that it indicated that only level 2
+weather existed in the area. The controller reported that air traffic in his area of
+responsibility was “typical and routine.”
+AIRPLANE INFORMATION
+General
+The accident airplane, N8354N, a Cessna 335,26 serial number (S/N) 335-0063,
+was manufactured by the Cessna Aircraft Company in 1980. Airplane records show that
+the pilot’s business (a law firm) purchased the airplane on November 27, 1997. The
+airplane had six previous owners. The last entry in the Airframe Maintenance Record
+(logbook), dated September 28, 2000, shows that, at that time, the airplane had
+2,299.4 total hours of operation.
+The accident airplane was equipped with two Continental TSIO-520-EB8 engines
+(left engine S/N 271477-R and right engine S/N 271478-R), which the Rebuilt Engine
+Logs indicate were zero-time, factory-rebuilt engines that were installed on the airplane on
+August 27, 1997. The last entry in the Rebuilt Engine Logs, also dated September 28,
+2000, shows that, at that time, the left engine had operated about 489.7 hours and the right
+engine had operated about 475.5 hours since remanufacture. The accident airplane was
+equipped with a 400B Nav-o-matic Autopilot system. Maintenance records show that a
+WX-11 Stormscope system was installed in the airplane on December 31, 1991, and that
+on November 19, 1998, it was repaired and reinstalled.
+According to airplane maintenance records, the last transponder, altimeter, static
+system check was performed on May 22, 2000, and the last annual inspection was
+accomplished on August 21, 2000, at a total airframe time of 2,257hours.
+Assuming that about 30 pounds of baggage were on board27 and that the airplane’s
+main fuel tanks were full, the airplane did not exceed its operational weight and balance
+limitations.
+25 Level 1 weather conditions include very light precipitation measuring between about 0.01 and
+0.04 inch per hour with a reflectivity of between 15 and 29 decibels. Level 2 weather conditions include
+light to moderate precipitation measuring between about 0.09 and .21 inch per hour with a reflectivity of
+between 30 and 39 decibels. Level 3 weather conditions include strong precipitation measuring about
+.48 inch per hour with a reflectivity of between 40 and 44 decibels. Reflectivity is the measure of the
+efficiency of a target in intercepting and returning radio energy.
+26 The Cessna 335 is a twin-engine, low-wing airplane with retractable landing gear.
+27 Witnesses on the ground indicated that the passengers were carrying what appeared to be brief
+cases. On the basis of this information and the fact that the passengers were not expected to spend the night
+in New Madrid and, therefore, would not have needed overnight luggage, the Safety Board estimated that
+the amount of baggage on board the airplane was about 30 pounds.
+NTSB/AAB-02/02
+
+9
+Cessna 335 Vacuum System
+According to the Cessna 335 Maintenance Manual, the Cessna 335 vacuum system
+consists of a dry vacuum pump28 on each engine, two pressure relief valves, a manifold air
+filter,29 vacuum-operated instruments, and necessary plumbing. The pump outlets
+(pressure sides) are routed to deicing equipment and primarily exhausted into the engine
+nacelle. Vacuum lines are routed from the vacuum pumps through the nacelles to the
+relief valves mounted in each wing root area. From the relief valves, additional vacuum
+lines are routed through the inboard portion of the wing then through the cabin to the
+vacuum manifold (located on the left side of the forward cabin bulkhead), which has
+check valves to prevent reverse flow in the event that either vacuum pump fails.
+Hoses are routed from the vacuum manifold to the vacuum system instruments,
+which include a heading indicator, an attitude indicator, and a vacuum gage for the
+standard installation. The heading indicator is an air-driven, gyro-controlled directional
+indicator designed to provide stable heading references. The attitude indicator has a
+fixed-airplane silhouette and a pitch-and-roll display that moves behind the airplane.30
+The movement of the display is guided by the attitude of the actual airplane in relation to a
+single air-driven gyroscope. The vacuum gage indicates the amount of vacuum in the
+system and the operational status of each pump and has red indicator buttons that will
+extend in the event of a pump failure.
+The Cessna 335 Pilot’s Information Manual states the following about the vacuum
+system:
+Each vacuum pump pulls a vacuum on the common manifold; exhausting
+the air overboard. The maximum amount of vacuum pulled on the manifold
+by each vacuum pump is controlled to a preset level by each pressure relief
+valve. Should either of the pumps fail, a check valve is provided in each
+end of the manifold to isolate the inoperative vacuum pump from the
+system…The vacuum pressure being applied to the gyros is constantly
+presented on the suction gage. This gage also provides failure indicators for
+the left and right vacuum pumps. These indicators are small red buttons
+located in the lower portion of the suction gage which are spring-loaded to
+the extended (failed) position. When normal vacuum is applied in the
+manifold, the failure buttons are pulled flush with the gage face. Should
+insufficient vacuum occur on either side, the respective red button will
+extend. No corrective action is required by the pilot, as the system will
+automatically isolate the failed vacuum source, allowing normal operation
+on the remaining operative vacuum pump.
+28 The dry vacuum pumps, which require no lubrication, are located on the aft left accessory mount
+pad on each engine. For a diagram of a Cessna 335 vacuum pump, see the section titled, “Component
+Examination.”
+29 The manifold air filter is mounted behind the cockpit instrument panel.
+30 For a photograph of an exemplar attitude indicator and its components, see the section titled,
+“Component Examination.”
+NTSB/AAB-02/02
+
+10
+According to Cessna delivery documents, the airplane was manufactured and
+delivered to the first owner with complete left-side flight instrumentation.31 The
+vacuum-driven instruments installed on the left side of the instrument panel consisted of a
+horizontal situation indicator that incorporated a heading indicator (S/N W7153B) and an
+attitude indicator (S/N A4118K). The pitot-static instruments installed on the left side of
+the instrument panel included an encoding altimeter, an airspeed indicator, and a vertical
+speed indicator. The only electrically driven navigation instrument on the left panel was
+the turn and bank indicator.
+Cessna’s delivery documents show that the only flight instrument installed on the
+right side of the instrument panel at the time of manufacture was a pitot-static altimeter.
+Before the pilot’s business purchased the airplane, a second attitude indicator and its
+respective vacuum system plumbing and fittings were installed on the right side of the
+instrument panel.32
+Accident Airplane Maintenance History
+Sigma-Tek records show that the attitude indicator/flight director33 installed in the
+airplane at the time of the accident was an overhauled unit that it had shipped to the most
+recent previous owner in 1996.34 According to airplane maintenance records, in
+December 1999, this instrument was removed to clean the pitch slip rings and was then
+reinstalled in the airplane.
+According to airplane maintenance records, the factory-new vacuum pumps were
+installed on the left and right engines on March 28 and April 10, 1997, respectively.35
+According to an airframe and powerplants mechanic who worked on the airplane, the pilot
+contacted him on September 25, 2000, and stated that he thought his left engine vacuum
+pump had failed. The mechanic stated that he discussed the issue with the pilot and
+requested that he bring the airplane in for repairs. The mechanic stated that the pilot
+brought the airplane in on September 27th and that on September 28th, he removed and
+31 According to 14 CFR Section 91.205, the following instruments are required to be installed on an
+airplane for instrument flight: an airspeed indicator; an altimeter; a magnetic direction indicator (compass); a
+gyroscopic rate of turn indicator; a slip-skid indicator; a clock that displays hours, minutes, and seconds; an
+attitude indicator; and a heading indicator.
+32 A review of maintenance records and work orders did not reveal when the right-side attitude
+indicator was installed; however, the mechanic who performed the prebuy inspection of the airplane for the
+pilot’s business reported that it was already installed when the business purchased the airplane. During
+postaccident interviews, the most recent previous owner of N8354N stated that he only remembered having
+flight instruments on the left side of the instrument panel. However, according to the manufacturer of the
+instrument, Sigma-Tek, the S/N on the right-side attitude indicator matched the S/N of an attitude indicator
+that it had shipped to this owner in 1996.
+33 Airplane maintenance records indicate that in 1985, the left-side attitude indicator was replaced with
+an attitude indicator/flight director manufactured by Sigma-Tek.
+34 A fragment of an instrument case recovered from the accident site had a Sigma-Tek sticker dated
+April 10, 1996, marking it as an exchange part.
+35 Maintenance records also indicate that the vacuum relief valve filter elements were replaced in
+October 1999.
+NTSB/AAB-02/02
+
+11
+replaced the left engine vacuum pump.36 The mechanic reported that he performed a
+postmaintenance operational check on both vacuum pumps and that the pumps operated
+normally.
+The mechanic also reported that on September 29, 2000, he removed the right side
+attitude indicator for overhaul37 and installed a placard on the instrument panel that stated,
+“CO-PILOTS HORIZON GYRO REMOVED FOR O/H 9/29/00.” The mechanic stated
+that the pilot had called him on October 9th or 10th to check on the status of the right-side
+attitude indicator (referred to here as the “co-pilot’s horizon gyro”). According to the
+mechanic, during this conversation, the pilot told him that since the removal of the part,
+the vacuum gage had been reading lower than “what he was accustomed to seeing.” The
+mechanic stated that he explained to the pilot that “the removed instrument is a restriction
+on the vacuum system and since it had been removed, that was the most likely reason for
+the lower reading.”
+The mechanic stated that he reinstalled the right-side attitude indicator on
+October 11th and checked its and the vacuum system’s operation. He reported that he was
+satisfied with the operation of both and that he removed the placard for the attitude
+indicator. The mechanic reported that he informed the pilot of the work that had been
+done and told him to monitor the vacuum gage reading on his next flight to see if the lower
+than usual reading he had reported earlier had been corrected by reinstalling the
+overhauled attitude indicator. The mechanic stated that the pilot did not inform him if the
+lower than usual vacuum gage reading had been corrected by the reinstallation of the
+overhauled attitude indicator.
+The mechanic also reported that on September 29, 2000, he removed the electric
+pitch trim servo for overhaul and installed a placard on the instrument panel that stated,
+“PITCH TRIM SERVO REMOVED FOR O/H 9/29/00.” The mechanic reported that the
+pilot questioned whether or not he could use the autopilot with the servo removed. The
+mechanic stated that to answer the pilot he called an autopilot repair station and was
+informed that “the system could be used but it would put more load on the pitch servo
+itself.”38 The mechanic reported that on October 11th, he reinstalled the electric pitch trim
+servo and determined that it was still inoperative. He reported that he contacted the
+overhaul facility and was instructed to return the unit for further repairs. The mechanic
+reported that he again installed a placard on the instrument panel stating, “PITCH TRIM
+SERVO REMOVED FOR REPAIR 10/11/00.”
+36 The manifold air filter was recovered in the wreckage. The recovered air filter had an ink-stamped
+manufacturing date of May 2000, and “9/29/00” was hand-written on the cover, which indicates the date that
+it was installed on the airplane.
+37 The right-side attitude indicator was shipped to Mid-Continent Instrument Company for overhaul.
+A Work Order and Inspection Sheet for the attitude indicator noted, “Filter contaminated Rotor Noisy. All
+bearings sluggish. Threads on vacuum fitting crossfeed causing vac[uum] port to get chewed up.”
+38 With the electric pitch trim motor removed, elevator pressure could be applied by the electrically
+driven autopilot pitch servo if the autopilot were engaged and the pilot was not continuously retrimming the
+airplane manually.
+NTSB/AAB-02/02
+
+12
+Cessna Service Bulletins
+Service Bulletin MEB99-19
+On October 4, 1999, the Cessna Aircraft Company issued Service Bulletin (SB)
+MEB99-19 to do the following:
+Add vacuum system check procedures for the Pilots Operating Handbook,
+Owners Manual and Aircraft Flight Manual. These procedures are being
+added to the existing Engine Start and Shutdown procedures to detect for a
+possible defective vacuum system check valve or failed vacuum pump
+prior to flight. Non-compliance with this Service Bulletin may allow a
+defective vacuum system check valve or failed vacuum pump to go
+unnoticed which could result in a pilot using instruments for flight that are
+not providing proper information due to a malfunctioning and/or failed
+vacuum system.…the revisions shall be reviewed and incorporated as soon
+as possible, but no later than the next 100 hours of operation or 4 months,
+whichever occurs first.
+In part, SB MEB99-19 describes the engine start and shutdown procedures as
+follows:
+STARTING ENGINES
+AFTER FIRST ENGINE IS STARTED:
+With throttles set at 1000 RPM or higher:
+1. Suction Gage – CHECK (reading in green arc)
+2. Check that the red vacuum failure button in the suction gage for
+that engine is flush with the gage face, prior to starting the opposite
+engine.
+a. If failure button remains extended (not flush with gage face), a
+vacuum source failure has occurred.
+b. If both failure buttons are flush with face of gage, a vacuum
+system check valve is defective.
+AFTER SECOND ENGINE IS STARTED:
+With throttles set at 1000 RPM or higher:
+1. Suction Gage – CHECK (reading in green arc)
+2. Check that the red vacuum failure button in the suction gage
+for the engine is flush with the gage face.
+a. If failure button remains extended (not flush with gage face), a
+vacuum source failure has occurred.
+NTSB/AAB-02/02
+
+13
+SHUTDOWN
+ENGINES:
+1. Shut down engine that was started first.
+a. The red vacuum failure button for that engine in the suction gage
+should extend.
+b. If the failure button for the shutdown engine remains flush with
+the face of the gage, a vacuum system check valve is defective.
+2. With throttle set at 1000 RPM or lower on the running engine,
+check that the red vacuum failure button in the suction gage for that
+engine is flush with the gage face.
+a. If the red vacuum failure button for the running engine extended
+when the first engine was shutdown, a vacuum system check
+valve and/or pump is defective.
+Cessna Aircraft Company records indicate that SB MEB99-19 was mailed to the
+registered owner of N8354N on October 4, 1999. During postaccident interviews, pilots
+who had flown with the accident pilot reported that he used these procedures routinely. A
+portion of the procedures outlined in the SB was found in the wreckage.
+Service Bulletin MEB00-5
+On October 2, 2000, the Cessna Aircraft Company issued SB MEB00-5 to do the
+following:
+Provide inspection and replacement intervals for the vacuum system
+manifold check valve. Non-compliance with this Service Bulletin may
+allow a defective vacuum manifold check valve to go unnoticed which
+could result in: a pilot using instruments for flight that are not providing
+proper information, and/or a de-ice system not properly inflating the boots
+due to a malfunctioning and/or failed manifold check valve….shall be
+accomplished within the next 100 hours of operation or 12 months,
+whichever occurs first. Refer to Airborne Product Reference Memo No. 39
+(or latest revision) for possible subsequent inspections and valve
+replacement intervals.
+Airborne Product Reference Memo No. 39 applied to N8354N because it had a
+1H5 Series vacuum check valve manifold installed in it. The memo states the following:
+The…components supplied by Airborne for use in aircraft pneumatic
+systems are manufactured with elastomeric components that deteriorate
+with age. As these components age, it is increasingly important to
+periodically assure their proper operation, thus avoiding unscheduled
+system problems and aircraft downtime...It is recommended that beginning
+five years from date of manufacture, the serviceability of these components
+NTSB/AAB-02/02
+
+14
+be verified every twelve months in accordance with the procedure provided
+on the applicable Airborne Technical Service Instruction. It is further
+recommended that these pneumatic system check valve manifolds and
+check valves be replaced ten years from date of manufacture...The 1H5
+series check valve manifold provides a means of coupling dual vacuum
+sources. More importantly, the 1H5 check manifold provides a means of
+isolating these dual vacuum sources in the event that one of the sources is
+not in operation….The ‘flapper-type’ check valves are spring loaded in the
+closed position. As airflow is pulled through the manifold, the check valves
+open allowing airflow through the instruments. If airflow through a check
+valve is stopped (i.e., vacuum source taken out of operation), the check
+valve will close in order to allow the pneumatic system to properly
+function utilizing the lone operating vacuum source.
+Cessna Aircraft Company records indicate that SB MEB00-5 was mailed to the
+registered owner of N8354N on October 2, 2000. It is unknown if the pilot/owner of
+N8354N received this SB. The mechanics that routinely performed maintenance on
+N8354N stated that they did not have any discussions with the pilot regarding
+SB MEB00-5.
+METEOROLOGICAL INFORMATION
+About 1602 on the day of the accident, the pilot contacted the St. Louis AFSS for a
+weather briefing. According to a recording of the conversation, the pilot requested the
+weather for the first leg of the planned flight (from CPS to EIW) with a scheduled
+departure time of 1730 and a planned cruising altitude of between 5,000 and 9,000 feet.
+He also requested weather for the second leg of the proposed flight (from EIW to JEF)
+with a scheduled departure time of 2030. The briefer indicated that there was a
+low-pressure system and a stationary front over southern Missouri. The briefer also
+indicated that there was an extensive area of IFR conditions north of the front, that an
+AIRMET (airmen’s meteorological information)39 was current for the area, and that a
+large band of rain showers extended over the area. The briefing included the current
+conditions for airports along the route of flight, the forecast for southern Missouri, winds
+aloft data, and available pilot reports. The briefer reported that the cloud tops were
+expected to be at approximately 25,000 feet. After receiving this information, the pilot
+stated that he would call back for an update and to file his flight plans.
+About 1811, the pilot contacted the St. Louis AFSS for an updated weather
+briefing and to file his IFR flight plans. The pilot told the briefer that the first leg of the
+flight would take 1hour and that there were 4.5 hours of fuel and three people on board.
+The briefer informed the pilot that the current weather conditions at CPS were wind 010°
+at 9 knots; visibility 2 miles with rain and mist; broken cloud ceiling at 600 and 1,000 feet,
+39 AIRMET Zulu update 3 was issued at 1431 and was valid until 2100 on the day of the accident. The
+AIRMET called for moderate rime to mixed icing in clouds and in precipitation between 12,000 and
+22,000 feet. This AIRMET covered portions of Illinois, Indiana, Missouri, and Kentucky.
+NTSB/AAB-02/02
+
+15
+2,500 feet overcast; temperature 15° Celsius (C); and dew point 14° C. The briefer
+reported that an area of low pressure was moving into New Madrid along with a stationary
+front. The briefer further reported that there was a chance of moderate rime or mixed
+icing above 12,500 feet and that there were several thunderstorms along and around the
+pilot’s intended route of flight. The briefer then informed the pilot that the St. Louis winds
+aloft for 3,000 feet were 050° at 10 knots and that the winds at 6,000 feet were light and
+variable. The briefer informed the pilot that near New Madrid, the winds aloft were light
+and variable at 3,000 feet and 200° at 12 knots for 6,000 feet.
+The briefer asked the pilot if he wanted to file an altitude for the flight plan, and
+the pilot responded, “7,000 feet.” The pilot then changed his previous estimated departure
+time from 1830 to 1845 and stated that he wanted to fly directly to EIW. The pilot then
+filed a flight plan for the flight from EIW to JEF. The briefer then informed the pilot that
+he would be flying too low for ice but that it was “naturally gonna be a little bumpy in that
+semi cumulus type form stuff ah so ah you know maybe bases and tops if you happen to
+find em.” The weather briefing ended about 1827.
+A National Weather Service National Center for Environmental Prediction
+regional surface analysis chart showed that the main weather features at the surface within
+the hour of the accident included a low-pressure system over southern Missouri, a cold
+front to the southwest of the low-pressure system, a stationary front to the east of the
+low-pressure system, and a trough40 of low pressure to the south of the low pressure
+system, extending southward into Arkansas. A second weather system, identified as a
+trough of low pressure, was approaching the area to the northwest. A high-pressure
+system was identified over Wisconsin, with a ridge of high-pressure extending over Iowa,
+northern Missouri, and eastern Kansas.
+The CPS (located 28 miles northeast of the accident site) special surface weather
+observation for 1920 was as follows:
+wind from 020 degrees at 12 knots gusting to 16 knots, visibility 2 miles in
+light rain and mist, ceiling broken at 600 feet, broken at 1,200 feet, and
+overcast at 3,200 feet, temperature 15 degrees C (59 degrees [Fahrenheit]
+F), dew point 14 degrees C (57 degrees F), altimeter 30.06 inches
+[mercury] Hg. Remarks; automated observation, precipitation since 1853
+was reported at 0.04 of an inch.
+The CPS special surface weather observation for 1953 was as follows:
+wind from 030 degrees at 11 knots, visibility 2 1/2 miles in moderate rain
+and mist, ceiling broken at 800 feet, overcast at 1,200 feet, temperature
+15degrees C (59 degrees F), dew point 14 degrees C (57 degrees F),
+altimeter 30.06 inches Hg. Remarks; automated observation…precipitation
+since 1853 was reported at 0.14 of an inch.
+40 In meteorology, a trough is an elongated region of relatively low atmospheric pressure, often
+associated with a front.
+NTSB/AAB-02/02
+
+16
+The Spirit of St. Louis Airport (SUS), Chesterfield, Missouri (located 23 miles
+north-northwest of the accident site), special surface weather observation for 1854 was as
+follows:
+wind from 030 degrees at 7 knots, tower visibility 3/4 mile in moderate rain
+and mist, ceiling broken at 800 feet, temperature 15 degrees C (59degrees
+F), dew point 14 degrees C (57 degrees F), altimeter 30.05inches Hg.
+Remarks; automated observation, surface visibility 3 miles, ceiling 50 feet
+variable to 1,300 feet…precipitation since last hour 0.08inches, 6-hour
+precipitation 0.79 of an inch.
+The SUS special surface weather observation for 1946 was as follows:
+wind from 040 degrees at 11 knots, tower visibility 2 mile in light rain and
+mist, ceiling broken at 800 feet, overcast at 1,400 feet, temperature and
+dew point 14 degrees C (57 degrees F), altimeter 30.05 inches Hg.
+Remarks; automated observation, surface visibility 5 miles, ceiling
+600 feet variable to 1,100 feet, precipitation since last hourly observation
+0.08inches.
+Weather stations surrounding the destination airport (EIW) and the airport to
+which the pilot asked to be diverted (JEF) were reporting visual meteorological conditions
+around the time of the accident.
+The closest upper air data site was in Springfield, Missouri, located 136 miles
+southwest of the accident site. The sounding41 from this site indicated a low-level
+inversion about 3,500 feet to 5,000 feet, which was saturated up to 8,700 feet with drier air
+above. The sounding showed a northeast wind flow of 10 to 30 knots from the surface to
+below the inversion, with winds backing to the north and northwest above the inversion at
+speeds of 20 to 25 knots. The sounding indicated that the freezing level was 12,654 feet.
+WRECKAGE AND IMPACT INFORMATION
+The accident site was located in a heavily wooded area near Hillsboro, Missouri.
+The initial terrain impact occurred along the slope of a heavily wooded hillside. The
+impact resulted in a crater that measured approximately 10feet long by 5 feet wide and
+was approximately 4 feet deep at the center.
+Sixteen trees were struck, including a stand of trees that were completely severed
+along the airplane’s path. The remaining trunk of each severed tree was splintered toward
+the southwest, about 240°. Several trees were contacted before the airplane severed the
+stand of trees, and the first identifiable tree strike occurred about 144 feet east-northeast of
+41 A sounding is a plot of the vertical profile of temperature and dew point (and often winds) above a
+fixed location. Soundings are used extensively in severe weather forecasting to determine weather
+instability, locate temperature inversions, measure the strength of the cap, and obtain convective
+temperatures.
+NTSB/AAB-02/02
+
+17
+the impact crater. The distance from the first tree strike to the stand of trees was about
+64 feet, and the distance from the stand of trees to the impact crater was about 80 feet.
+The distance between the impact crater and the furthest piece of wreckage was about 900
+feet. An aerial search of the accident site did not reveal any aircraft parts in the area of the
+flightpath leading to the initial tree impact or in the area beyond the furthest piece of
+recovered wreckage.
+The wing tips, nose, tail, and some or all of the flight control surfaces were found
+at the wreckage site. The first piece of fuselage wreckage (nose gear door) was located
+near the first trees in the stand of trees. Pieces of the right wing tip fuel tank were located
+120 feet east-northeast of the impact crater in the area of the initial tree strike; pieces of
+the left wing tip fuel tank were located 45 feet southwest of (past) the impact crater.
+Portions of the right wing structure were located in line with the flightpath, slightly to the
+right of the impact crater. Most of the left wing structure was found further southwest of
+the crater than the right wing structure. A large portion of the left engine was located
+approximately 300 feet southwest of the impact crater, and it was suspended in a tree
+about 60 feet from the ground. The right engine crankshaft was located approximately
+900 feet southwest of the crater, in the area that marked the southwestern boundary of the
+debris field.
+The wreckage field was divided into 30 zones of various sizes, depending on the
+aircraft wreckage density. The wreckage was surveyed, documented, and then moved to
+the Missouri National Guard Armory in Festus, Missouri, for further examination.
+Approximately 70 to 80percent of the airplane was recovered. With the exception of the
+horizontal stabilizers and the aft upper fuselage skin, the airframe structure separated into
+small (between 6 inches by 6 inches and 12 inches by 12 inches) and medium (between
+12 inches by 12 inches and 24 inches by 24 inches) size pieces of debris.
+A laser-based measuring device was used to document the accident site. Data
+from the laser survey were used to create a three-dimensional model of the airplane’s
+flightpath through the trees. The model and the inspection of the accident site revealed that
+the airplane was in a 16° to 18° right-wing-down attitude during its entry into the trees.
+(See figure 1.)
+No evidence of an in-flight fire or in-flight structural failure was noted. All of the
+examined fracture surfaces exhibited evidence of overload failure.
+NTSB/AAB-02/02
+
+18
+---111222oooPPPIIITTTCCCHHH (((LLLeeefffttt pppaaattthhh))) ---222333oooPPPIIITTTCCCHHH (((LLLeeefffttt pppaaattthhh)))
+---222999oooPPPIIITTTCCCHHH (((RRRiiiggghhhttt pppaaattthhh)))
+---222111ooo
+---333555ooo SSSTTTAAANNNDDD 111888oooRRRTTT...
+---222555oooPPPIIITTTCCCHHH (((RRRiiiggghhhttt pppaaattthhh))) OOOFFF RRROOOLLLLLL
+TTTRRREEEEEESSS 111666oooRRRTTT... TTTRRREEEEEE
+RRROOOLLLLLL ###111
+111666oooRRRTTT...
+RRROOOLLLLLL
+666444 FFFEEEEEETTT
+NNNOOOSSSEEE GGGEEEAAARRR DDDOOOOOORRR WWWIIINNNGGG
+&&& PPPLLLEEEXXXIIIGGGLLLAAASSSSSS DDDEEEBBBRRRIIISSS DDDEEEBBBRRRIIISSS
+DDDIIIRRREEECCCTTTIIIOOONNN OOOFFF TTTRRRAAAVVVEEELLL
+Figure 1. Diagram showing the side-view of the broken tree tops, construction lines that
+connect the trees along the direction of travel, and attitude lines with respect to a
+horizontal plane. Each vertical line represents the base and top of a remaining tree.
+MEDICAL AND PATHOLOGICAL INFORMATION
+Because of the condition of the pilot’s remains, no autopsy was performed.
+Toxicological samples (muscle tissue) from the pilot were sent to the FAA’s Toxicology
+and Accident Research Laboratory, Oklahoma City, Oklahoma, for examination. The
+pilot’s toxicological results were negative for alcohol and drugs.
+SURVIVAL ASPECTS
+The accident was not survivable.
+Emergency Response
+A person who lives near the accident site reported the accident to the Jefferson
+County 911 Dispatch shortly after it occurred.42 Members of the Goldman Fire District,
+the Jefferson County Sheriff’s Department, and the Missouri State Highway Patrol
+responded to the site of the accident. After which time, a search of the local area was
+NTSB/AAB-02/02
+
+19
+initiated. Because of the condition of the wreckage, the poor weather conditions, the rough
+terrain, and dark lighting, emergency response efforts were suspended until the next
+morning.
+TESTS AND RESEARCH
+Vacuum System and Cockpit Instrument Component
+Examination
+Components and pieces of wreckage identified as being part of the accident
+airplane’s vacuum system and cockpit instrumentation were inspected at the Safety
+Board’s Materials Laboratory in Washington,DC.
+Vacuum Gage System Failure Indicator Buttons
+Both the left and right vacuum gage system failure indicator buttons (a red plastic
+spherical cap inside a 1.25-inch-long brass tube) were located. The indicator buttons did
+not have any markings to indicate with which vacuum pump they were associated. The tip
+of the end of the red cap on one of the indicators was slightly recessed (.029 inch) from the
+end of the brass tube, and this position is at almost the fully retracted position. The
+midportion of the brass tube was slightly flattened, and one side of the tube was bent over
+the end of the cap. The red cap of the second indicator tube was protruding 0.082 inch
+beyond the edge of the brass, which is in the midportion of its full extension range. The
+central portion of the second indicator tube and cap was flattened at almost the same
+position as the first tube.
+Vacuum Check Valve Manifold
+Three pieces of the vacuum check valve manifold were found. Two of the pieces
+were the end caps of the manifold, both of which had B-nuts attached to them. One of the
+B-nuts was found with a flattened aluminum tube attached. The third piece was the center
+portion of the manifold. The portion of the data plate that remained on the center section
+contained no useful markings. Both end caps are normally attached to the center section
+with rivets; pieces of the rivets were found in the end caps. The internal “flapper-type”
+check valves and springs were not located.
+Left Engine Vacuum Pump
+Three pieces of the left engine vacuum pump were found: the mounting
+flange/pump base, which remained attached to the engine accessory case; the pump
+housing; and the pump housing back flange. (See figure 2 for a diagram of a Cessna 335
+vacuum pump.) Fragments of rotor pieces, between 1 and 2 inches long, were recovered.
+42 Jefferson County 911 Dispatch received several calls after the accident from people in the area who
+reported hearing the airplane and/or seeing a fire.
+NTSB/AAB-02/02
+
+NTSB/AAB-02/02
+20
+Figure 2. Diagram of a Cessna 335 vacuum pump.
+
+21
+The pieces contained short scratches and gouges in the direction of rotor rotation and other
+scuff marks and scratches in random directions.
+No intact rotor vanes were recovered.
+The pump mounting was removed from a fragment of the engine case. The drive
+shaft end coupling did not rotate when light manual force was applied. After it was
+disassembled, it was determined that the coupling did not rotate because of a fractured
+braze43 joint between the shaft assembly and the shaft disc. Examination of the braze joint
+revealed no evidence of rotational scoring. The drive shaft/coupling assembly was further
+disassembled. The drive coupling, flex coupling (shear coupling), and driven coupling
+were intact. Four of the six pin shaft drive pins were bent toward one side (not in the
+direction of rotation) at varying angles. The pump housing was slightly flattened, and no
+internal rotational score marks were visible around the circumference. The base of the
+pump housing contained three marks, which encompassed one half of the circumference.
+All three marks showed metal dislocation toward the same side of the housing. Once the
+coupling was removed, the carbon bearing under the base of the pump was found broken
+on the same side. The outside of the pump housing contained numerous impact marks.
+Wood and dirt were found embedded within the cooling fins.
+Right Engine Vacuum Pump
+The right engine vacuum pump was found in two main pieces: the mounting flange
+and the pump. The drive coupling was found loose from the other components, and two of
+its pins were missing. The flex coupling (shear coupling) was not recovered. The driven
+coupling remained attached to the pump assembly and was found intact with pieces of
+wood embedded between the coupling driven end and the mounting flange. The pump
+was opened and an even distribution of wear was noted. The interior surface of the drive
+cap showed no evidence of complete circumferential or lateral marks. Short scratches and
+gouges were found in the direction of rotation. The rotor was found broken into five major
+pieces with smaller fragments. The periphery of the rotor was not damaged. The six
+vanes were found intact with slight chips missing from the outboard corner at the driven
+end of two of the vanes. The cooling fins sustained impact damage on the side of the
+pump opposite the OUT port.
+Left-Side Attitude Indicator
+The following components from the left-side attitude indicator/flight director were
+identified in the wreckage: the gyroscopic rotor, the rotor case cap, two pieces of the rotor
+case, the instrument face display (including the roll ring), and pieces of the instrument
+case frame. (See figure 3 for a photograph of an exemplar attitude indicator and its
+components.) The model of the attitude indicator installed on the accident airplane
+contained an arm that provides mechanical linkage from the rotor housing to the pilot’s
+display. This arm was located on a fragment of the instrument case frame.
+43 A braze joint is formed by distributing filler metal between closely fitted surfaces through capillary
+action.
+NTSB/AAB-02/02
+
+22
+Figure 3. Photograph of an exemplar attitude indicator and its components.
+Examination of the interior diameter of the rotor case revealed faint, unevenly
+spaced diagonal scratches. The measured angle between the scratches and the direction of
+rotation was between 4.0° and 5.2°. The scratches were consistent with the direction of
+rotation of the rotor and with the direction the rotor was moving when it exited the case.
+No other circumferential score marks were found on the inner surface of the case that
+paralleled the direction of rotation.
+Diagonal marks were found on the end of the rotor. Nearly all of the other
+scratches on the cap were oriented across the direction of rotation at various angles. The
+center fastener hole on the cap was ripped, with more than half of the periphery remaining.
+The width of the tears matched the width of the gouges in the rotor. The exterior of the
+cap contained scratches that resembled the width and approximate locations of the
+motion-limiting stop wires mounted on an exemplar instrument.
+Damage on the facial roll ring resembled the shape of the triangular airplane
+support housing and the roll index that had been fixed to the instrument case. The relative
+positions of the damage resembling the triangular support and roll index were on the top
+and bottom of the ring, respectively, when it was placed at an inverted display of attitude.
+The face of the instrument was placed behind that of an exemplar instrument and, using
+the damage on the roll ring for alignment, the marks were within 2° of a wings-level
+inverted attitude. (See figure 4.)
+NTSB/AAB-02/02
+
+23
+Ground
+(brown)
+Horizon
+Line
+Sky
+(blue)
+Figure 4. Photograph showing the face of the accident airplane’s primary attitude
+indicator behind that of an exemplar instrument.
+Right-Side Attitude Indicator
+The following components from the right-side attitude indicator were found: the
+gyroscopic rotor, the rotor case cap, two pieces of the rotor case, the instrument face
+display, and portions of the instrument case frame. The instrument display was found
+separated into three pieces: the football-shaped facial card, the background horizon, and
+the roll ring.
+Two pieces of the rotor case contained light diagonal surface scratches that
+measured between 2.0° and 5.1° from the direction of rotation. The scratches were
+consistent with the direction of rotation of the rotor and with the direction the rotor was
+moving when it exited the case. The lower left corner of the surface contained heavier
+scuff marks, and the lower edges of the scuff marks were at an angle of about 6°, right end
+up, from the direction of rotation. A scratch located over the scuffed area was
+perpendicular to the direction of rotation.
+The end of the gyroscopic rotor and the rotor case cap contained light diagonal
+marks. No complete circumferential marks were found around the surface of the rotor.
+The interior of the rotor case cap did not contain an imprint of the rotor like the one
+observed on the cap from the left-side attitude indicator. The material from around the
+central fastener hole was found displaced to one side, and the cap had an impression on
+one edge.
+NTSB/AAB-02/02
+
+24
+Marks on the facial card were matched up with the airplane silhouette in both pitch
+and roll. Depending on the placement of the airplane, the marks ranged between a 8.4° to
+11.8° right-wing-down position at between a -11° to -13° (nose-down) pitch. A paper
+tracing of the airplane housing cover was moved along the ring. When lined up, one set of
+marks indicated a 5° right-wing-down position. A second set of pitch-and-roll markings
+were found on other fragments. The other set of marks were offset to the right of the path
+that the pitch display would normally travel, and alignment in this plane could only have
+occurred if the parts had been released from the normal assembly.
+Fuel Testing
+After the accident, fuel samples were taken from the truck that refueled the
+accident airplane before its departure from CPS and from the airplane’s fuel supply tank.
+Fuel testing conducted by the Missouri State Highway Patrol Crime Laboratory and
+Phillips 66 Company revealed no problems with the fuel.44
+AIRPLANE PERFORMANCE
+An aircraft performance study was conducted by the Safety Board using FAA
+airport surveillance radar data obtained from the St. Louis Lambert International Airport,
+St. Louis, Missouri, and from the Scott Air Force Base, Belleville, Illinois. Air route
+surveillance radar data from the FAA’s St. Louis Air Route Traffic Control Center and
+weather data, including winds aloft information, were also used.
+At 1920:07, when the pilot first declared that he was having a problem with the
+airplane’s primary attitude indicator, the airplane was climbing through an altitude of
+3,000 feet. (See figure 5 for a plot of the ground track for the accident airplane’s last
+12 minutes of flight.) The calculated indicated airspeed of the airplane during the climb
+was between 140 and 150 knots. The airplane leveled off slightly and then continued to
+climb at a slower climb rate as it turned left to a heading of approximately 150°
+by 1921:10. The airplane remained on this heading for about 2minutes.
+At 1923:55, the St. Louis LW controller instructed the pilot to turn right to a
+heading of270°, and, at 1924:04, the controller instructed the pilot to climb to and
+maintain 7,000 feet. The airplane began the climb and turned right maintaining about a
+3.5°-per-second heading change. Calculations show that this turn required an airplane
+bank angle of 30° and that the airspeed increased to greater than 150 knots. The turn was
+completed at an altitude of about 5,000 feet, and the airplane continued the climb at
+120 knots. By 1928:00, the airplane reached 7,000feet at a heading of about 300° as the
+airspeed accelerated to 150 knots. At 1928:30, the airplane began a left turn to the
+southeast to a heading of about 140° at an altitude that varied between 7,100 and
+7,400 feet. The calculated bank angle in the turn was about 25°.
+44 For more information about the fuel test results, see the Fuel Report in the public docket for this
+accident.
+NTSB/AAB-02/02
+
+25
+Figure 5. Ground track of the accident airplane’s last 12 minutes of flight.
+Following the LW controller’s instruction to make a slow right turn at 1930:37, the
+airplane began turning to the right. Calculations reveal that, during the turn, the airplane
+descended to about 6,800 feet while maintaining an airspeed of about 150 knots. The
+airplane then descended to about 6,500 feet and then climbed at over 3,000 feet per minute
+(fpm) for the next several seconds. The airspeed was calculated to be about 120 knots
+during the climb, with a bank angle of approximately 25°. At 1931:31, the airplane
+reached its maximum altitude of 7,700 feet.
+After reaching 7,700 feet with a calculated pitch angle of 15.5° nose up with a
+25° right bank, the airplane began a steep descent. The last radar return occurred at
+1931:57, when the airplane was at 2,700 feet. At this point, the calculated descent rate
+was about 26,000 fpm, the calculated airspeed was greater than 300 knots, and the airplane
+was at approximately a 60° nose-down attitude.
+NTSB/AAB-02/02
+
+26
+ADDITIONAL INFORMATION
+Spatial Disorientation
+One purpose for instrument training and maintaining instrument proficiency is to
+prevent a pilot from being misled by several types of hazardous illusions that are peculiar
+to flight. Under IFR conditions, an aircraft’s attitude can only be determined accurately by
+observing and interpreting the flight instruments and rejecting the bodily sensations
+associated with the aircraft’s movement, which can be exacerbated by head movements.
+Practice and experience in instrument flying are necessary to help pilots ignore or
+overcome false sensations.
+The FAA Instrument Flying Handbook (FAA-H-8083-15) describes one of the
+major illusions leading to spatial disorientation as follows:
+Coriolis Illusion
+The pilot has been in a turn long enough for the fluid in the ear canal to
+move at the same speed as the canal. A movement of the head in a different
+plane, such as looking at something in a different part of the cockpit, may
+set the fluid moving, thereby creating the strong illusion of turning or
+accelerating on an entirely different axis…This action causes the pilot to
+think the aircraft is doing a maneuver that it is not. The disoriented pilot
+may maneuver the aircraft into a dangerous attitude in an attempt to correct
+the aircraft’s perceived attitude.
+For this reason, it is important that pilots develop an instrument
+cross-check or scan that involves minimal head movement.
+The Aeronautical Information Manual (AIM) describes the coriolis illusion as the
+“most overwhelming of all illusions in flight” and states that it “may be prevented by not
+making sudden, extreme head movements, particularly while making prolonged constant
+rate turns under IFR conditions.”45
+Partial Panel and Instrument Meteorological Conditions Flight
+Training Requirements
+The Instrument Airplane Rating Practical Test Standard for 2000 requires that the
+instrument rating applicant do the following:
+• exhibit the knowledge of recognizing whether an attitude indicator and/or
+heading indicator is inaccurate or inoperative,
+• advise anytime the aircraft is unable to comply with a clearance, and
+45 For more information about illusions leading to spatial disorientation, see AIM, Chapter 8-1-5(b).
+NTSB/AAB-02/02
+
+27
+• demonstrate a nonprecision instrument approach without gyro attitude and
+heading indicators.
+Title 14 CFR Section 61.57, “Recent Flight Experience: Pilot in Command [PIC],”
+Paragraph (c), “Instrument Experience,” states that to act as PIC under IFR, or in weather
+conditions less than the minimums prescribed for VFR, the person must have
+accomplished the following, within the preceding 6 months:
+performed and logged under actual or simulated instrument conditions, either
+in flight in the appropriate category of aircraft for the instrument privileges
+sought or in a flight simulator or flight training device that is representative of
+the aircraft category for the instrument privileges sought --:
+• at least six instrument approaches;
+• holding procedures; and
+• intercepting and tracking courses through the use of navigation systems.[46]
+FAA Procedures and Guidance Regarding ATC Handling of
+Aircraft in Emergency Situations
+FAA Order 7110.65, “Air Traffic Control,” Chapter 10, “Emergencies,” provides
+controllers with the following guidance on recognizing and handling emergency
+situations:
+10-1-1 Emergency Determinations
+An emergency can be either a Distress[47] or an Urgency[48] condition as
+defined in the “Pilot/Controller Glossary.”…If…you are in doubt that a
+situation constitutes an emergency or potential emergency, handle it as
+though it were an emergency.…Because of the infinite variety of possible
+emergency situations, specific procedures cannot be prescribed. However,
+when you believe an emergency exists or is imminent, select and pursue a
+course of action which appears to be most appropriate under the
+circumstances and which most nearly conforms to the instructions in this
+manual.
+10-1-2 Obtaining Information
+Obtain enough information to handle the emergency intelligently. Base
+your decision as to what type of assistance is needed on information and
+46 As stated previously, the Safety Board could not determine if the pilot had met the requirements of
+14 CFR Section 61.57.
+47 The “Pilot/Controller Glossary” defines distress as a condition of being threatened by serious and/or
+imminent danger and of requiring immediate assistance.
+48 The “Pilot/Controller Glossary” defines urgency as a condition of being concerned about safety and
+of requiring timely but not immediate assistance; a potential distress condition.
+NTSB/AAB-02/02
+
+28
+requests received from the pilot because he/she is authorized by 14 [CFR]
+Part 91 to determine a course of action.
+10-1-3 Providing Assistance
+Provide maximum assistance to aircraft in distress. Enlist the services of
+available radar facilities...as well as their emergency services and facilities,
+when the pilot requests or when you deem necessary.
+Further, FAA Order 7110.65 contains procedures that enable ATC to render
+assistance by minimizing pilot workload during inadvertent operation in IMC.
+Specifically, Paragraph 10-2-9, “Radar Assistance Techniques,”49 states the following:
+Use the following techniques to the extent possible when you provide radar
+assistance to a pilot not qualified to operate in IFR conditions:
+a. Avoid radio frequency changes except when necessary to provide a clear
+communications channel.
+b. Make turns while the aircraft is in VFR conditions so it will be in a
+position to fly a straight course while in IFR conditions.
+c. Have pilot lower gear and slow aircraft to approach speed while in VFR
+conditions.
+d. Avoid requiring a climb or descent while in a turn if in IFR conditions.
+e. Avoid abrupt maneuvers.
+f. Vector aircraft to VFR conditions.
+FAA Order 7110.65 also specifies other procedures and techniques for assisting
+pilots in difficulty, including “no-gyro” vector procedures, which provide a defined
+method for controllers to issue heading changes to aircraft that have a defective
+gyroscopic instrument, such as an attitude indicator. The procedure entails the pilot
+making turns at no greater than the standard rate when instructed to do so by the controller.
+Further, instead of providing the pilot with headings to be flown, the controller should
+observe the radar track and issue control instructions “turn right/left” or “stop turn” as
+appropriate.
+49 Although the procedures in FAA Order 7110.65, Paragraph 10-2-9, do not directly apply to
+situations in which IFR aircraft experience instrument failures, a reasonable and prudent controller would be
+expected to use such procedures in these situations.
+NTSB/AAB-02/02
+
+29
+ANALYSIS
+General
+The pilot received current and adequate weather information before conducting the
+accident flight.
+Instrument meteorological conditions (IMC) prevailed at the time of the accident,
+which occurred at night in dark lighting conditions, turbulence, and rain.
+The pilot was properly certificated and qualified to operate a multiengine airplane
+in IMC in accordance with applicable Federal regulations. However, because the pilot
+made no pilot logbook entries during the 6months preceding the accident, it could not be
+determined if he met the instrument currency requirements to act as pilot-in-command in
+IMC.
+The airplane was properly certificated and equipped in accordance with Federal
+regulations and approved procedures.
+The pilot remained in contact with air traffic control (ATC) facilities and a
+transponder code was transmitted to ground-based radar sites throughout the flight,
+indicating that the airplane did not experience an in-flight electrical failure.
+Examination of the airframe and engines did not reveal any preexisting mechanical
+failures or malfunctions in the structure or powerplants.
+There was no evidence that medical issues or pilot fatigue contributed to the
+accident.
+Radar data, ATC transmissions, and other evidence indicate that the pilot lost
+control of the airplane at 7,700 feet as he was making a climbing right turn.
+Examination and distribution of the wreckage revealed that the airplane remained
+intact and was in an upright attitude when it contacted trees at a velocity of over 300 knots
+and then impacted rocky terrain.
+Role of Malfunctioning Attitude Indicator
+The pilot indicated to ATC several times that he was having problems with the
+airplane’s primary attitude indicator. He also told ATC that he was trying to use the
+right-side attitude indicator, which indicates that the airplane did not experience a total
+vacuum system failure. Examination of the wreckage revealed rotational marks in the left
+and right engine vacuum pumps, which indicates that they were most likely functioning at
+NTSB/AAB-02/02
+
+30
+the time of impact. Further, one of the vacuum gage system failure indicator buttons
+exhibited evidence of having been in almost the fully retracted position (the other
+indicator button was found in the partially retracted position), which indicates that
+adequate vacuum existed for the airplane’s instruments to operate.50
+On the basis of the examination of the left-side (primary) attitude indicator, it was
+determined that the rotor was most likely spinning, but not at a high enough rpm to keep
+the display erect (the wreckage fragments of the left-side attitude indicator clearly aligned
+in an inverted attitude), indicating that this attitude indicator was not displaying properly
+at the time of impact. Although the pilot reported that his primary attitude indicator had
+failed and examination of the attitude indicator supported that such a failure had occurred,
+the investigation could not determine the cause of the failure in that instrument.
+On the basis of the examination of the right-side attitude indicator, it was
+determined that the rotor was spinning, the display was erect when the airplane made
+initial contact with the trees, and the attitude it displayed was consistent with the airplane’s
+attitude when it struck the trees (as determined by an inspection of the accident site and a
+three-dimensional model of the airplane’s flightpath through the trees), indicating that this
+attitude indicator was functioning properly until the time of impact.
+After first reporting that the primary attitude indicator was malfunctioning, the
+pilot continued flight for about 11 minutes, including two controlled heading changes,
+indicating that the pilot had functioning cockpit instruments and that he could control the
+airplane. Further, in the event that an instrument malfunction occurs, instrument flight
+rules (IFR)-qualified pilots are trained to use other relevant instruments, which evidence
+indicates were operating on the accident airplane (the right-side attitude indicator).
+Therefore, the loss of the primary attitude indicator alone does not explain why the pilot
+lost control of the airplane and crashed.
+However, the right-side attitude indicator was not large and would have been
+several feet to the right of the pilot. Therefore, using the right-side attitude indicator would
+have resulted in the pilot making frequent, rapid head movements to cross-check that
+instrument with the other instruments. The pilot’s head movements most likely caused him
+to experience spatial disorientation. Further, the rain conditions in which the pilot was
+maneuvering would have increased the noise level in the cockpit, and the presence of
+turbulence would have made it more difficult to control the airplane with failed
+instrumentation, both of which would likely have exacerbated the pilot’s spatial
+disorientation.
+50 Pump tests show that a single vacuum pump can provide adequate pressure and flow capacity if the
+other pump has become inoperative and the flapper valve has failed in the open position. For more
+information, see the January 9, 2002, addendum to the Systems Group Chairman’s Factual Report.
+NTSB/AAB-02/02
+
+31
+Air Traffic Controller Actions
+The procedures in FAA Order 7110.65, “Air Traffic Control,” Paragraph 10-2-9,
+“Radar Assistance Techniques,” do not directly apply to situations in which IFR aircraft
+experience instrument failures. However, a reasonable and prudent controller would be
+expected to use such procedures in these situations.51 Pilots who conduct flights under IFR
+compensate for the absence of visual cues by using aircraft attitude information obtained
+from instruments such as a heading indicator, an attitude indicator, and a turn coordinator.
+If these instruments or their power sources fail, it can be difficult for the pilot to maintain
+control of the aircraft. Services provided by a radar ATC facility can replace some of the
+information provided by gyroscopic instruments, such as course and turn trend
+information.
+A review of the ATC recording revealed that when the pilot first stated that he was
+having some problems with the airplane’s primary attitude indicator at 1920:07, a great
+deal of background noise was also recorded, which made the pilot’s comment unclear and
+likely prevented the controller from hearing this portion of the pilot’s transmission. During
+that transmission, the pilot also asked to be assigned a higher altitude, which could be
+heard clearly on the ATC recording. At 1920:16, the controller responded to this request,
+stating, “I’ll have a higher climb in about two miles.”
+At 1920:11, the pilot again indicated that he was having a problem with the
+airplane’s primary attitude indicator. At 1921:20, the controller advised the pilot to try and
+fly the airplane level on any heading and told him that he would try to get him to as high
+an altitude as possible. The controller’s instructions were prudent for handling an airplane
+in this situation.
+At 1922:50, the pilot made his first request to be diverted to Jefferson City
+Memorial Airport (JEF). In response, the controller issued the pilot a heading of 120°,52
+which would not have directed the airplane toward JEF, rather it would have directed the
+airplane toward EIW. This action and the controller’s postaccident statement that he was
+surprised when the pilot asked to be diverted the second time (at 1923:46) because he
+thought the pilot wanted assistance to continue to EIW indicates that the controller did not
+understand or hear the pilot’s first request. At 1923:39, the controller issued a climb
+clearance to the pilot, stating, “climb and maintain seven thousand at pilot discretion.”
+The controller’s use of the phrase, “at pilot discretion,” allowed the pilot to initiate a climb
+51 Specifically, these procedures advise air traffic controllers to avoid requiring an airplane to climb or
+descend while in a turn if in IFR conditions, avoid issuing abrupt maneuvers, and vector aircraft to visual
+flight rules (VFR) conditions. Further, FAA Order 7110.65 contains “no-gyro” vector procedures for
+assisting pilots in difficulty, which state that the air traffic controller should observe the radar track and issue
+control instructions “turn right/left” or “stop turn” instead of issuing headings to be flown. The procedures
+also state that the pilot should make turns at the standard rate (3° of heading change per second). Such
+procedures help minimize the pilot’s workload and head movements (which, as stated previously, can
+aggravate spatial disorientation).
+52 The controller’s issuance of a specific compass heading was not an optimal response for assisting an
+airplane with a gyroscopic instrument problem. However, ATC radar indicate that the airplane continued in a
+steady, straight climb for several minutes after the controller made this instruction.
+NTSB/AAB-02/02
+
+32
+at any point or rate that he wished to help prevent him from having to make a climbing
+turn, which indicates that the controller recognized the seriousness of the situation and
+used good operating practices for assisting a pilot flying an airplane with instrument
+difficulty. Radar data indicate that the pilot elected to initiate the climb immediately after
+receiving the clearance from the controller.
+After the pilot’s second request (at 1923:46) that he wanted to divert to JEF, the
+controller responded, stating, “in that case turn right heading two seven zero.”53 At
+1924:00, the pilot asked the controller to confirm the assigned altitude, and, the controller
+responded, “climb and maintain seven thousand.” Radar data indicate that the airplane
+continued to climb after this transmission and started the turn that the pilot had requested.
+After this exchange, the controller directed his attention to another airplane for
+about 1minute. At 1925:12, the controller informed the pilot of N8354N that “you’re
+basically going in a good direction.” ATC radar indicate that for about 3 1/2 minutes after
+this transmission, the airplane flew on a course and at an altitude consistent with the
+controller’s instructions.
+At 1928:36, the controller asked the pilot, “you have any more attitude problems,”
+and the pilot responded, “the attitude problems are continuing.” ATC radar show that the
+airplane entered a left turn to the southeast as the pilot was making this statement. At
+1929:31, the pilot requested “vectors…[to] get down VFR.” During postaccident
+interviews, the controller stated that he became concerned when the pilot requested
+vectors to VFR conditions and that, in his opinion, the pilot did not convey a sense of
+urgency until he made this request. Further, the controller stated that after the pilot made
+this request, he observed N8354N’s target on the radar turn left back into “weather,” at
+which point, he became very concerned.
+At 1929:41, the controller instructed the pilot of N8354N to “just go straight
+ahead…doesn’t make any difference what direction that is just go straight ahead.”
+Although the controller did not advise the pilot of the southeasterly turn or attempt to
+determine why the pilot was deviating from his intended destination (JEF), he did start
+applying no-gyro vector procedures, which was an appropriate and prudent response. ATC
+radar show that after the controller made this instruction, the airplane appeared to be
+stabilized on the southeasterly course at a level altitude for about 1 minute. While on this
+course, the controller continued to issue no-gyro vector instructions, stating, “make a slow
+right turn as as much as you can the standard rate.” ATC radar data indicate that the
+airplane started to make a slow right turn after this instruction. At 1931:22, the controller
+continued issuing no-gyro vector instructions, stating, “just stop your turn and go straight
+ahead you’re doing fine.” ATC radar show that, shortly thereafter, the airplane began its
+rapid descent.
+53 Again, the controller’s issuance of a specific compass heading was not an optimal response in this
+situation. However, ATC radar again indicate that the airplane continued in steady, straight flight after the
+controller made this turn instruction.
+NTSB/AAB-02/02
+
+33
+In summary, although the controller continued to issue specific compass heading
+instructions to the pilot after he determined that the airplane’s primary attitude indicator
+was malfunctioning at 1920:11, ATC radar data show that the pilot made the turns as
+instructed and flew straight and level for several minutes after making the turns.
+Therefore, the Safety Board determined that these turn instructions did not cause or
+contribute to the pilot’s spatial disorientation. Further, although the controller did not give
+the pilot the information about his southeasterly heading or try to determine why the pilot
+made the turn and given that the pilot responded to the controller’s instructions, the Board
+determined that this omission did not cause or exacerbate the pilot’s spatial disorientation.
+Therefore, the controller’s actions were not considered to be a contributing factor.

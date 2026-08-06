@@ -1,0 +1,1062 @@
+L T RAN SPO National Transportation Safety Board
+A R
+N T
+I O E PLURIBUS UNUM A T Washington, D.C. 20594
+A T OI
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: DCA98MA023
+Operator/Flight Number: American Airlines 1340
+Aircraft and Registration: Boeing 727-223, N845AA
+Location: Chicago, Illinois
+Date: February 9, 1998
+HISTORY OF FLIGHT
+On February 9, 1998, about 0954 central standard time (CST),1 a Boeing 727-223 (727),
+N845AA, operated by American Airlines as flight 1340, impacted the ground short of the runway
+14R threshold at Chicago O’Hare International Airport (ORD) while conducting a Category II
+(CAT II) instrument landing system (ILS) coupled approach.2 Twenty-two passengers and one
+flight attendant received minor injuries, and the airplane was substantially damaged. The
+airplane, being operated by American Airlines as a scheduled domestic passenger flight under the
+provisions of 14 Code of Federal Regulations (CFR) Part 121, with 116 passengers, 3 flight
+crewmembers, and 3 flight attendants on board, was destined for Chicago, Illinois, from Kansas
+City International Airport (MCI), Kansas City, Missouri. Daylight instrument meteorological
+conditions prevailed at the time of the accident.
+The flight crew checked in at ORD about 1344 on February 8, 1998, for a scheduled 1444
+departure to MCI, the first leg of a 3-day trip sequence. The flight arrived at MCI about 1551,
+and the crew remained in Kansas City overnight. The flight crew checked in at MCI about 0700
+on February 9 for the scheduled 0759 return leg to ORD. After the passengers had boarded, the
+flight crew was advised by air traffic control (ATC) to expect a 1-hour gate hold because of poor
+weather conditions at ORD. The flight departed MCI about 0843.
+1 Unless otherwise indicated, all times are CST, based on a 24-hour clock.
+2 The ILS is a precision approach system that provides lateral alignment (localizer) and vertical guidance
+(glideslope) with the runway. According to the American Airlines Category II Operations Study Guide, CAT II
+approaches are “straight-in ILS approaches conducted to decision heights [DH] as low as 100 feet above the highest
+elevation in the touchdown zone, with runway visual range [RVR] less than 1,800 feet, but not less than 1,200 feet.”
+A coupled approach is flown using the autopilot to control the airplane to either a predetermined DH or to a landing,
+depending on the capabilities of the airplane and the autopilot system. According to the American Airlines 727
+Operating Manual, the use of the autopilot to DH is required, and the captain is required to land the airplane after
+monitoring the first officer’s approach and descent to DH. The manual also states that “a good autopilot should fly
+the airplane down the ILS course with significant precision and smoothness so that the airplane is ‘in the slot’ at
+breakout and in trim upon disengagement so that it can be landed without excessive maneuvering.”
+NTSB/AAB-01/01
+
+2
+At 0923:55, while at 33,000 feet, the captain briefed the approach. The briefing included
+the ORD runway 14R navigation radio frequencies, approach fixes, altimeter settings, crew
+callouts, and the missed approach procedure. According to the cockpit voice recorder (CVR)
+transcript, at 0925:22, the captain stated that, after 100 feet, he would “keep it on autopilot just a
+few seconds and then...and then disconnect.” At 0925:42, a Chicago Air Route Traffic Control
+Center (ARTCC) controller told flight 1340 to descend and maintain 24,000 feet. At 0928:10, the
+Chicago ARTCC controller instructed flight 1340 to “cross four five [45 nautical miles]
+southwest of O’Hare one one, eleven thousand.”
+The flight crew made initial contact with the west arrival controller at the Chicago
+Terminal Radar Approach Control (TRACON) facility at 0936:51 and advised that they had
+automatic terminal information service information X-ray, the most current airport weather
+advisory. The west arrival controller instructed flight 1340 to expect the runway 14R ILS
+approach and advised the flight crew that the current RVR3 for runway 14R was 1,600 feet at the
+runway touchdown point.
+The west arrival controller vectored flight 1340 southwest of ORD on a right downwind
+for runway 14R. At 0948:01, the west arrival controller instructed flight 1340 to intercept the
+final approach course at an altitude of 5,000 feet. At 0948:32, when flight 1340 was about
+18 miles from the airport, the west arrival controller cleared the airplane for the ILS approach to
+runway 14R and directed the flight crew to maintain an airspeed of 170 knots until reaching
+ROAMY, the outer marker, located 5.2 distance measuring equipment (DME) miles from the
+runway threshold. At 0948:39, the flight crew acknowledged the approach clearance.
+At 0948:49, the west arrival controller again advised the flight crew that the RVR was 1,600 feet
+at the runway touchdown point. At 0949:08, the west arrival controller advised flight 1340 to
+contact the ORD tower and to report its position at ROAMY.
+At 0952:15, the flight crew contacted the ORD south local tower controller and advised
+that they were at ROAMY inbound. The controller cleared flight 1340 to land 2 seconds later
+and advised the flight crew that the winds at runway 14R were calm, with a touchdown RVR of
+1,600 feet.4 At 0952:29, the flight crew acknowledged the landing clearance; this was the last
+transmission received from the flight crew.
+3 According to the Aeronautical Information Manual (AIM), RVR “represents the horizontal distance a pilot
+will see down the runway from the approach end. It is based on the sighting of either high intensity runway lights or
+on the visual contrast of other targets, whichever yields the greater visual range. RVR, in contrast to prevailing or
+runway visibility, is based on what a pilot in a moving aircraft should see looking down the runway. RVR is
+horizontal visual range, not slant visual range.” The AIM further states that touchdown RVR “is a visibility
+readout...obtained from RVR equipment serving the runway touchdown zone.” The touchdown RVR is a
+determining factor for CAT II approaches; the minimum touchdown RVR for a CAT II approach to runway 14R was
+1,200 feet.
+4 The south local tower controller did not instruct flight 1340 to contact the ground controller after landing, as
+required by Federal Aviation Administration (FAA) Order 7110.65M, “Air Traffic Control Handbook,” Section
+2-1-17, “Radio Communications Transfer,” which states that controllers should “transfer radio communications
+before an aircraft enters the receiving controller’s area of jurisdiction unless otherwise coordinated or specified.”
+NTSB/AAB-01/01
+
+3
+According to the CVR and postaccident pilot statements, the flight crew was executing a
+monitored approach, which required the first officer to fly the approach and descent to DH and
+the captain to take the controls at DH and land the airplane. The first officer stated that when
+flight 1340 was cleared to intercept the localizer (at 0947:44), he selected NAV/LOC on the
+autopilot. He stated that when they were cleared for the approach (at an altitude of about
+5,000 feet), he selected AUTO/G/S (glideslope) on the autopilot and on the flight director. He
+stated that the autopilot system was tracking the localizer and glideslope normally and that the
+airplane was configured at 170 knots, with flaps set at 15º until ROAMY, when flaps were
+extended to 30º, and the airplane was slowed to 143 knots.
+During postaccident interviews, the captain told National Transportation Safety Board
+investigators that at an altitude of 200 feet, the glideslope and localizer were “wired,” and that
+after an instrument scan, he concluded that “everything appeared solid.” He stated that he then
+concentrated his attention outside the cockpit to locate the runway environment. He stated that he
+saw the lead-in lights “somewhere between 200 feet and DH” and checked his instruments. The
+captain stated that the lead-in lights were faint but that he could see that the airplane was lined up
+on the runway centerline. He also stated that when he took control of the airplane, he “wriggled
+up” in his seat to see the lights better.
+The first officer continued to fly the approach until 0953:49, when the captain stated, “I
+got it,” as the airplane descended through 140 feet above ground level (agl). The first officer
+acknowledged the transfer of control 1 second later. In postaccident interviews, the first officer
+stated that the captain “clearly took control” of the airplane. The first officer stated that after he
+made the 200-foot call, and sometime before reaching DH, he felt “a pitch down.” He stated that
+he was concentrating his instrument scan on the radio altimeter and that the autopilot was
+engaged at this time. He stated that he then looked out the window and saw the approach lights
+and the “nose pointed short of the runway.”
+The captain stated that in a “heartbeat” the lead-in lights went from normal to “all around
+us.” According to the captain, he was holding the control column yoke “lightly,” and one of his
+fingers was next to the autopilot disconnect button. He stated that he did not think he pushed the
+control column forward and that he thought the autopilot “pushed the airplane over.” The
+captain stated that the autopilot remained engaged throughout the cruise and descent phases of
+flight. He told Safety Board investigators that a lack of horizon cues and what he described as a
+“low runway light intensity setting” delayed his visual acquisition of the runway environment,
+and he noted that he wore his sunglasses throughout the descent and approach until touchdown.5
+According to the CVR, at 0953:51, the flight engineer stated, “ooh nose uh.” At 0953:52,
+the CVR recorded the “sound of a click,” consistent with the sound of the autopilot
+disconnecting, as the airplane was at an altitude of about 80 feet. The captain stated that he did
+not recall disengaging the autopilot and, that if it was disengaged, it was not done intentionally.
+At the same time, the CVR recorded the first officer call out, “one hundred [feet]”; a ground
+5 The first officer stated that he removed his sunglasses as the airplane descended through 500 feet.
+NTSB/AAB-01/01
+
+4
+proximity warning system (GPWS)6 aural “sink rate” alert; and the flight engineer state, “nose
+up, nose up.” The captain stated that he then pulled back on the control column. At 0953:54, the
+CVR recorded a GPWS aural “thirty [foot]” alert and sounds of impact.
+The first officer stated that he did not recall hearing a missed approach call; however, he
+stated that the captain added power and pulled back on the control column to arrest the sink. The
+flight engineer stated that the captain did not call for a missed approach or advance the throttles
+to go-around power before impact. He added that he thought that the captain’s actions brought
+the airplane out of the nose-down attitude and prevented a “solid nose-first strike.” The first
+officer stated that the airplane “hit harder than a hard landing,” bounced, and hit again. The
+captain stated that after the first impact he thought, “keep what you got, let’s see if she’ll fly.” He
+stated that he then felt the airplane bounce, realized that the airplane was on the right side of the
+runway, and briefly applied left rudder as the airplane skidded down the runway.
+Postaccident Landing on Runway 14R and Air Traffic Control Crash Notification
+At 0953:44, as flight 1340 was on final approach, the flight crew of a United Airlines
+(UAL) 737, operating as flight 702, advised the ORD south local tower controller that they were
+at ROAMY inbound to runway 14R. At 0953:47, the controller cleared flight 702 to land, noting
+that it was following a 727 (the accident airplane) on 1-mile final. At 0953:55, flight 702
+acknowledged the landing clearance.7 At 0956:17, the tower controller transmitted, “seven oh
+two [702] United left turn when able ground one two one point nine clear,” and the flight crew
+acknowledged. At 0957:06, the flight crew of a UAL Boeing 737, operating as flight 754,
+advised the controller that they were at ROAMY inbound. At 0957:09, the controller cleared
+flight 754 to land.8
+According to a transcript of ATC transmissions at the time of the accident, a City of
+Chicago Department of Aviation vehicle (radio call sign City 149) radioed the tower at 0958:55.
+City 149 told the tower that “there’s an emergency. There’s a plane down...at fourteen ah right,
+thirty two left...[and that] there’s debris on the runway at this time.” At 0959:09, the tower
+controller asked, “on which runway is debris?” At 0959:11, City 149 stated, “fourteen left thirty
+ah fourteen right thirty two left sir I’m at [taxiway] tee one right now.” At 0959:17, the tower
+supervisor advised, “ok hold short there’s traffic touching down.” At 0959:21, City 149 replied,
+6 The GPWS warns of a potentially dangerous flightpath relative to terrain. According to the American Airlines
+727 Operating Manual, the GPWS installed on the accident airplane operated in the following seven modes:
+excessive descent rate, excessive terrain closure rate, altitude loss after takeoff or go-around, unsafe terrain
+clearance, below glideslope deviation, altitude callouts/excessive bank angle callout, and windshear detection. The
+sink rate alert is a function of the excessive descent rate mode. According to the 727 Operating Manual, this mode
+“warns of excessive descent rate as a function of radio altitude. Penetrating the sink rate envelope causes the GPWS
+light to illuminate and a repeated aural alert of ‘SINK RATE’ to be generated.”
+7 The flight crew of UAL flight 702 stated in a National Aeronautics and Space Administration (NASA)
+Aviation Safety Reporting System (ASRS) report that they flew a monitored CAT II coupled approach to runway
+14R and that “the autopilot performed to perfection.” The flight crew report stated that they did not experience any
+localizer or glideslope anomalies during the approach and that the landing phase after DH and autopilot disconnect
+was normal.
+8 The flight crew of UAL 754 stated in a NASA ASRS report that their monitored CAT II coupled approach to
+runway 14R was normal and that they had the runway in sight before they executed a missed approach.
+NTSB/AAB-01/01
+
+5
+“they can’t touch down there’s debris all over the place.” At 0959:26, the tower supervisor
+transmitted, “united seven oh two [702] go around ah...united seven fifty four [754] go around.”
+At 0959:43, City 149 inquired, “can I get on the runway at this time?” At 0959:45 the tower
+transmitted, “no hold short for right now.” The City 149 foreman stated that he then witnessed a
+UAL 737 (flight 754) execute a touch-and-go on the runway. City 149 was subsequently given
+permission to cross runway 14R and was the first vehicle to arrive at the accident site.
+At 0959:50, the flight crew of another UAL airplane, operating as flight 400, informed the tower
+that they were inside ROAMY inbound. The controller advised them to continue inbound on the
+localizer but to expect to go around.
+According to ATC transcripts, UAL flight 702, which landed behind the accident
+airplane, had contacted the inbound ground controller (IGC) at 0956:49 and was instructed to
+“turn right on [taxiway] tango alpha seven [TA7] to the ramp.” The IGC attempted to contact
+flight 1340 at 1002:13 and again at 1002:40 but received no response. At 1005:41, the IGC
+asked the flight crew of UAL flight 49, which was on a taxiway near runway 14R, if they saw
+“vehicles and an aircraft off [their] right on fourteen right,” and the flight crew replied, “yeah
+there’s all kinds of vehicles out here...we don’t know the problem out here.” At 1005:52, the IGC
+asked, “you see an aircraft out there?” At 1005:54, an unidentified responder replied, “yeah.”
+DAMAGE TO AIRPLANE
+The airplane was substantially damaged and was later declared a hull loss by the
+airplane’s insurer. According to American Airlines and insurance records, the airplane was
+valued at $2.3 million.
+PERSONNEL INFORMATION
+The Captain
+The captain, age 42, was hired by American Airlines on June 29, 1984, as a 727 flight
+engineer. He held an airline transport pilot (ATP) certificate with type ratings in the 727,
+Douglas DC-9, Fokker-100, and the L-382 (C-130 Hercules). A year later, he transitioned to first
+officer on the 727. He accumulated about 1,000 hours in the 727 during the next 2 years. He
+then transitioned to the MD-80, in which he flew as a first officer, and later as captain,
+accumulating about 2,700 flight hours (1,600 hours as captain) over 4 years. He then became a
+captain on the Fokker-100, accumulating about 4,000 hours over 6 years. He transitioned to
+captain on the 727 in April 1997. According to American Airlines records, at the time of the
+accident, the captain had flown approximately 11,000 total flight hours, of which 424 hours were
+as a 727 pilot-in-command (PIC).
+His most recent FAA first-class medical certificate was issued on January 23, 1998, with
+no limitations. After completing his 727 initial training, which included crew resource
+management and unusual attitudes training, he received a type rating on April 10, 1997. His last
+727 line check was on April 25, 1997, when he completed his initial operating experience. He
+also requested and received voluntary recurrent training on September 14, 1997, which included
+NTSB/AAB-01/01
+
+6
+a CAT II approach. According to the captain, he had flown about 10 CAT II approaches in his
+flying career (or about “once or twice a year”). He stated that the accident flight was his first
+nonsimulator CAT II approach in a 727.
+After the accident, on March 2, 1998, the captain flew CAT II scenarios in a simulator at
+an American Airlines flight training center. An FAA inspector was present at that time, and the
+captain was authorized for line operations after the CAT II simulator sessions.
+The First Officer
+The first officer, age 40, was hired by American Airlines on August 19, 1988. He held an
+ATP certificate and a type rating for the L-188 (Lockheed Electra). His most recent FAA
+second-class medical certificate was issued on February 6, 1997, with no limitations. He
+completed his initial 727 training on November 24, 1990, and his 727 initial operating
+experience on December 6, 1990. His last proficiency check and recurrent training was
+completed on October 17, 1997. According to American Airlines records, at the time of the
+accident, the first officer had flown approximately 5,638 total flight hours, of which 3,731 hours
+were as a 727 first officer.
+The Flight Engineer
+The flight engineer, age 40, was hired by American Airlines on November 24, 1992. He
+held an ATP certificate and a flight engineer certificate with a turbojet-powered rating. His most
+recent FAA first-class medical certificate was issued on June 24, 1997, with no limitations. His
+last 727 flight engineer proficiency check was completed on November 4, 1997. His last 727
+flight engineer line check was completed on November 22, 1996. According to American
+Airlines records, at the time of the accident, the flight engineer had flown approximately 1,550
+total flight hours as a flight engineer.
+The Flight Attendants
+The three flight attendants on board flight 1340 had received recurrent training in the 727
+in 1997. Flight attendant No. 1, who was assigned to the forward jumpseat and the forward left
+exit, was hired by American Airlines in 1990 after completing initial training. Flight attendant
+No. 2, who was assigned to the aft left jumpseat and aft left exit, was hired in 1977 after
+completing initial training. Flight attendant No. 3, who was assigned to the aft right jumpseat and
+aft right exit, was hired in 1987 after completing initial training.
+The Air Traffic Controllers
+The ORD south local tower controller,9 age 49, was hired by the FAA in 1974 and was
+first assigned to an FAA facility in Oshkosh, Wisconsin. He transferred to ORD in 1976 as a full
+9 According to FAA Order 7110.65M, Section 3-1-3, “Use of Active Runways,” the “local controller has
+primary responsibility for operations conducted on the active runway” and, therefore, is responsible for determining
+that the runway will be clear before clearing another aircraft to take off or land. Section 3-10-3, “Same Runway
+NTSB/AAB-01/01
+
+7
+performance level (FPL) controller, where he worked until resigning from the FAA in 1981. He
+was rehired by the FAA in 1996 and worked at the Chicago ARTCC for 3 months before
+transferring to the ORD tower. He received an ORD facility rating in September 1997 and
+completed a local control checkout on September 10, 1997. In postaccident interviews, he stated
+that he was assigned to work the south local position for additional facility-required training,
+which was monitored by the tower operations supervisor.
+The ORD tower operations supervisor, age 50, was hired by the FAA in 1976 after
+attending the FAA training academy. He received FPL status at Palwaukee Airport near Chicago
+and had FPL status and currency at all positions at the ORD tower. At the time of the accident, he
+had been a tower operations supervisor for 11 years. He received his ORD facility rating in 1979
+and his TRACON rating in 1985.
+The tower operations supervisor was monitoring the south local controller in accordance
+with ORD ATC facility directives, which require that even fully qualified controllers receive a
+minimum of 10 hours of direct supervision during low-visibility weather conditions. The
+additional supervision is intended to ensure that controllers can demonstrate the proper use of the
+airport surface detection equipment (ASDE)-3 surface radar system.10 According to ATC
+guidelines, supervisors monitoring controllers during this direct supervision period are
+responsible for the operation of the controller position and for ensuring that controllers perform
+their position responsibilities properly. The operations supervisor is also responsible for overall
+tower operations.11
+Immediately after the accident, the FAA reassigned the tower operations supervisor to a
+regional office, decertified the south local controller for a skills check (he successfully completed
+the skills check and was returned to duty in the tower), and implemented new procedures for
+low-visibility operations. Among these new procedures was a requirement that controllers cannot
+permit an airplane to land until they observe the preceding arriving aircraft’s “ASDE target” or
+until “the preceding arriving aircraft has reported clear of the runway.”
+AIRPLANE INFORMATION
+N845AA, a Boeing 727-223, serial number (S/N) 20986, was delivered new to American
+Airlines on May 15, 1975, and was equipped with three Pratt & Whitney JT8D-9A engines. At
+the time of the accident, the airplane had accumulated 59,069 flight hours (38,164 flight
+cycles).12
+Separation,” states that controllers must ensure that an “arriving aircraft does not cross the landing threshold” until
+the “other aircraft has landed and is clear of the runway.”
+10 FAA Order 7110.65M, Section 3-6-1, “Equipment Usage,” requires the use of ASDE radar to “augment visual
+observation of aircraft and/or vehicular movements on runways and taxiways” when visibility is less than “the most
+distant point in the active movement area.” The order adds that controllers should use ASDE surface radar to
+determine “when the runway is clear of aircraft and vehicles prior to a landing or departure [even after a landing
+clearance has been issued].”
+11 An FAA memorandum issued after the accident concluded that the supervisor “has been determined to have
+been responsible for all local actions with regard to the subject accident.”
+12 A flight cycle is one complete takeoff and landing sequence.
+NTSB/AAB-01/01
+
+8
+According to American Airlines maintenance records, a heavy maintenance check (HC)
+was completed on the airplane on October 23, 1996, at 56,064 flight hours and 36,569 cycles.
+Three functional flight checks were performed after the HC, and the airplane was released for
+service on December 11, 1996. One of these functional flight checks included a coupled
+approach to CAT II minimums, which was the last flight check of the airplane’s CAT II system.13
+According to maintenance records, a periodic service (PS) check was completed on the airplane
+on February 7, 1998. According to the records, no discrepancies involving autopilot, navigation,
+or flight control systems were found.
+According to Safety Board and American Airlines records, the accident airplane was
+damaged on January 6, 1998, while taxiing. The records stated that the airplane received
+“substantial damage” after being struck by a moving baggage tug and cart. The collision
+damaged the airplane’s lower left wing, left main landing gear door and wheel well area, left air
+conditioning bay, lower antennas, left lower fuselage, and several left-wing-trailing-edge and
+wing-to-body panels. On January 10, 1998, the airplane was ferried to an American Airlines
+repair facility in Tulsa, Oklahoma, where repairs were completed on January 28, 1998. A
+functional flight check, which did not include a CAT II check, was performed, and the airplane
+was released for service.
+According to American Airlines maintenance records, N845AA’s CAT II status
+authorization was downgraded 10 times between February 8 and October 21, 1997, because of
+maintenance discrepancies. No additional CAT II downgrades were logged between
+October 1997 and the accident date.
+Autopilot Information
+The airplane was equipped with a Sperry Aerospace14 autopilot system, which included
+an SP-50 roll computer, S/N 0681232, and an SP-150 pitch computer, S/N 80060947. The
+autopilot system controls pitch and roll in all modes of flight. The roll computer receives
+information from the No. 2 vertical gyro or the navigational system and sends controlling inputs
+to the airplane’s aileron hydraulic servos. The autopilot pitch computer also receives information
+from the No. 2 gyro and sends signals to the hydraulically powered elevator power control unit.
+Elevator (aerodynamic) loads commanded by the autopilot are automatically trimmed by the
+stabilizer trim servo. Autopilot inputs can be overpowered by either pilot (with 20 to 35 pounds
+of force); however, overpowering the aileron or elevator channels does not cause autopilot
+disengagement. Pilots can disengage the autopilot electrically by depressing switches on either
+control yoke.
+The autopilot installed on the airplane had not been modified in accordance with changes
+specified in two Sperry Service Bulletins (SB), SBs 21-1132-121 and 21-1132-122, issued in
+1982 and 1983, respectively. The SBs were applicable to SP-50 and SP-150 autopilots and
+13 CAT II landings are not routinely recorded between HC checks and are not required to be recorded as part of
+the airplane’s maintenance program unless there is an anomaly or discrepancy.
+14 Sperry Aerospace was purchased by Honeywell, Inc., in 1988.
+NTSB/AAB-01/01
+
+9
+recommended a change to the sensitivity schedule of the autopilot while in approach mode to
+accommodate new, higher approach airspeeds currently in use.15
+METEOROLOGICAL INFORMATION
+Weather observations at ORD were made by an automated surface observing system
+(ASOS) and augmented by a weather observer. The ASOS for runway 14R was located near the
+touchdown zone. The weather observer was required to add RVR information to the ASOS
+observation because of the system’s limitations. The weather observer also conducted visibility
+checks to ensure that the ASOS observations were accurate.
+Weather conditions reported at 0956, 2 minutes after the accident, were the following:
+wind from 180º at 4 knots, visibility 1/2 statute mile in freezing fog, ceiling
+overcast at 100 feet agl, temperature and dew point 28º Fahrenheit, altimeter
+30.10 inches of mercury, RVR on runway 14R of 1,400 feet variable to
+1,800 feet.
+Weather conditions were influenced by a ridge of high pressure over Michigan and a
+weak pressure gradient over Illinois. A southerly flow of warm moist air prevailed over the cold
+surface, creating an extensive area of low stratus clouds and fog. The National Weather Service
+Aviation Weather Center issued an airmen’s meteorological information bulletin for an extensive
+area of instrument flight rules (IFR) conditions throughout the Chicago area because of low
+ceilings and visibilities. In addition, the Chicago Center Weather Service Unit issued a
+meteorological impact statement (MIS) at 0715. The MIS called for low IFR conditions with
+ceilings ranging from 100 feet to 500 feet, improving to higher IFR and marginal visual flight
+rules conditions after 0900. Conditions began improving at 0938, when visibility increased from
+1/4 mile to 1/2 mile.
+AIRPORT INFORMATION
+ORD is located in Cook and Dupage Counties about 20 miles from downtown Chicago.
+The airport, owned and operated by the city of Chicago, has 7 runways and 162 gates. The airport
+has three sets of parallel runways and one nonparallel runway. The parallel runways are
+4L-22R/4R-22L, 9L-27R/9R-27L, and 14L-32R/14R-32L. The nonparallel runway is 18-36.
+Airport elevation is 668 feet mean sea level (msl). The airport has an FAA-approved emergency
+plan and is certificated as an Aircraft Rescue and Firefighting (ARFF) Index E airport under 14
+CFR Part 139.
+15 For more information, see the section titled, “Autopilot Pitch Sensitivity on Coupled Instrument Landing
+System Approaches.”
+NTSB/AAB-01/01
+
+10
+Runway 14R General Information
+Runway 14R is 13,000 feet long and 200 feet wide. It is the longest runway at ORD, and
+the approach end is located about 1.71 miles from the control tower. The touchdown zone
+elevation at runway 14R published on the instrument approach chart was 667 feet msl. The
+runway threshold elevation was 666 feet msl.
+At the time of the accident, runway 14R was equipped with approach light system with
+sequence flashing lights (ALSF) II, touchdown zone lights, high-intensity runway lights (HIRL),
+and centerline lights.16 The ALSF II system includes sequential flashing white lights, rows of
+high-intensity white lights pointing in the direction of the runway, steady-burning red lights on
+each side, bars of high-intensity white lights located 1,000 feet and 500 feet from the runway
+threshold, and threshold lights. The intensities of the ALSF II lights and HIRLs are adjustable.17
+Runway 14R also had runway pavement aiming point markings, comprising two broad, white
+stripes on each side of the runway centerline, located about 1,000 feet from the landing threshold.
+Runway 14R’s Instrument Landing System Equipment and Inspections
+Runway 14R’s ILS/DME instrument approach system comprised a glideslope, localizer,18
+DME, approach lighting system, marker beacons, and compass locators and was approved for
+CAT I, II, and III approaches. An outer compass locator was collocated with ROAMY.
+According to an FAA flight inspection report, a postaccident flight test of runway 14R’s
+Mark 3 ILS system was conducted on February 11, 1998. The test determined that all
+navigational components, including the glideslope, localizer, and lighting system, were
+functioning properly. The FAA flight inspection report stated that “glideslope alignment...[and]
+facility operation [were] found satisfactory.”
+16 According to ATC tower personnel, the intensity of 14R’s runway lights was set in accordance with FAA
+procedures. ATC records indicated that the runway lights were set at Step 5, which is the highest intensity possible
+and is required for CAT II approaches.
+17 Tower controllers adjust the intensities of the lights based on weather conditions. Pilots can also request that
+adjustments be made to intensity settings.
+18 The localizer course is usually aligned with the runway. The localizer signal provides electronic angular
+horizontal displacement information to receivers on the airplane. The glideslope is usually a 3º flightpath to a point
+about 1,000 feet down the runway from the approach end. The glideslope signal provides electronic angular vertical
+displacement from the design flightpath angle. The information provided to the pilot on the instrument panel, or
+directly to the autopilot, indicates whether the airplane should continue on course or fly up, down, left, or right to get
+back on course. Needle deflections (commonly measured in “dots”) on the instruments show how far the airplane has
+deviated from the localizer or glideslope. For example, 1 dot of needle displacement indicates that the airplane is
+about 0.32º offset from the 3º glideslope. At the runway threshold, 1-dot fly down would indicate that the airplane
+was about 6 feet above the glideslope. At the outer marker, 1-dot fly-down would indicate that the airplane was
+about 200 feet above the glideslope; however, the angular displacement would be the same in both cases. If the
+airplane were at the outer marker, the pilot or autopilot would have to provide a certain level of elevator input to
+move the airplane from 1-dot fly down to being “on” the glideslope. However, at the runway threshold, the autopilot
+would have to provide much less elevator correction for the same 1-dot indication because the actual vertical
+distance to be corrected is much less.
+NTSB/AAB-01/01
+
+11
+FAA flight inspection reports indicated that nine flight inspections of the runway 14R ILS
+were conducted between January 23, 1995, and January 12, 1998; of these, four were periodic
+inspections and five were special inspections. The flight inspection reports indicated that the
+localizer was out of service for CAT III operations on November 17, 1997, and that the localizer
+and the glideslope were out of service for CAT II and III operations on November 18, 1997,
+because of the presence of heavy construction equipment along the side of the runway (in the ILS
+critical areas). Normal operations resumed when the equipment was moved away from the
+runway.
+In addition, FAA flight inspection reports indicated that runway 14R’s localizer,
+glideslope, beacon markers, and lighting systems were inspected on January 12, 1998. The
+inspection included the placement of heavy ground equipment and aircraft at several locations
+along the left side of the runway and along a parallel taxiway. No anomalies were noted during
+eight test flights, and the ILS equipment was found to be operating within tolerances.
+According to FAA records, the ILS system for runway 14R was taken out of service on
+September 14, 1998, and replaced with Wilcox Mark 20 ILS equipment, which was operational
+on September 18, 1998. According to the FAA, the Mark 20 system is based on “a new
+generation of microprocessors and software,” provides “higher reliability and easier
+maintenance,” and has a signal “less susceptible to interference.” The replacement project
+comprised new shelters for the electronic equipment; new glideslope, localizer outer marker,
+middle marker, and inner marker antennas; and “new electronic equipment for the glideslope,
+localizer, outer marker, middle marker, inner marker and far field monitors.”
+After the accident, the FAA also analyzed radio frequency transmissions from a nearby
+television broadcasting station and transmissions from railroad equipment at a marshalling yard
+near the end of runway 14R. According to a November 26, 1999, FAA memorandum provided
+to the Safety Board, its Volpe National Transportation Systems Center’s Surveillance and
+Sensors Division, Office of Traffic and Operations Management, examined the transmissions and
+concluded the following:
+these signals do not cause radio frequency interference (RFI) to aircraft glideslope
+receivers using O’Hare runway 14R. In addition, [FAA] Airway Facilities
+personnel at O’Hare have monitored the glideslope spectrum for approximately
+one year and have not observed any RFI problems…based on
+the...information...[RFI] did not and does not exist at…runway 14R’s glideslope.
+Reported Runway 14R Anomalies
+Safety Board investigators examined information from several sources reporting
+anomalies at runway 14R, including seven pilot debrief records provided by American Airlines.
+In addition, the Board interviewed several flight crewmembers that reported experiencing
+glideslope anomalies. For example, an American Airlines captain told Safety Board investigators
+that he had experienced an anomaly while flying a 727 on an ILS coupled approach to runway
+14R at ORD on November 29, 1997. According to the captain and an American Airlines debrief
+NTSB/AAB-01/01
+
+12
+record of the event, he felt a “slight bump” at an altitude of 250 feet. According to the captain,
+the airplane pitched up slightly when it was slightly below the glideslope, and the glideslope
+rapidly moved downward, followed by “a fairly severe airplane pitch-over to capture the
+glideslope.” The captain called, “go-around, go-around,” added power, and executed the
+go-around manually. The captain stated that they were in a high rate of descent and that the
+airplane would have contacted the ground at a high rate of descent and at an extremely nose-low
+attitude if he had not executed a go-around.
+According to the captain, the glideslope deviation was reported to ATC. The captain
+stated that he thought the anomaly might have been caused by an infringement on the ILS critical
+area; therefore, he attempted another approach. After experiencing a similar bump at the same
+altitude, the captain stated that an autopilot go-around was initiated, and the flight diverted to an
+alternate airport. The debrief record provided by American Airlines did not state what, if any,
+followup investigation was accomplished, and the cause of this anomaly could not be
+determined.
+Safety Board investigators also interviewed the flight crew of a UAL 737 flight that
+experienced an anomaly while flying an ILS coupled approach to runway 14R on February 22,
+1998. The flight crew stated that they advised approach control that they were going to do an
+autoland and that approach control stated that it would advise the tower. The flight crew stated
+that the weather was good but that they were advised by the tower that the ILS critical area was
+not “clean” (protected) and that a 747 was “rolling.” According to the flight crew, the approach
+was continued until DH (110 feet), when the captain experienced a feeling of sinking
+accompanied by increased pitch down. The captain stated that he disconnected the autopilot and
+autothrottles, increased the airplane’s pitch attitude to a shallow climb, eased the power back,
+and landed the airplane manually. The captain stated that he did not note the anomaly in the
+airplane’s maintenance log.
+Flight crewmembers from a UAL 737 flight that landed before the accident flight and the
+flight crews of the two UAL 737 flights that landed after the accident flight were also
+interviewed by Safety Board investigators. All six flight crewmembers reported stable
+approaches with no ILS anomalies.
+Safety Board investigators also requested data from NASA’s ASRS database. The ASRS
+database search of runway 14R incident reports from January 1, 1988, to the time of the accident
+found 14 flight crew-reported anomalies. None of the 14 ASRS-reported anomalies indicated
+glideslope deviations or problems associated with runway 14R’s ILS system.
+Additional pilot reports of problems (both before and after the accident) with runway
+14R’s ILS system were received and reviewed by the Safety Board. Most of the reports stated
+that after the aircraft was established on the glideslope, some sort of disturbance was observed in
+an otherwise stable glideslope. The disturbances were noticed at various places along the
+glideslope. Some disturbances were large enough or the aircraft was low enough to the ground
+that they required the pilots to take immediate corrective action. Some of the reported
+occurrences could be attributed to aircraft or vehicles moving around the ILS critical area;
+NTSB/AAB-01/01
+
+13
+however, several of the incidents could not be attributed to any known aircraft or vehicle
+movement. No pattern to any of the unexplained occurrences was found.
+Several of the pilot reports were severe enough that the FAA had requested that a flight
+check be flown on the ILS 14R to make sure that the system was operating normally. In all of
+the normal and special flight checks, the ILS system was found to be within normal limits;
+therefore, the FAA concluded that the pilot-reported incidents were transient events.19
+Additionally, data, such as signal strength, alignment, and symmetry, collected from the FAA
+flight check aircraft were plotted in real time on a strip chart recorder and analyzed by the Safety
+Board. Most of the plots show that the aircraft intercepted the glideslope from below. The plots
+show that once the aircraft became stabilized on the glideslope, minor deviations of the signal
+occurred. Most of the plots also show a “bump” in the glideslope signal about 2,000 to 3,000
+feet from the antenna. The bump is about 15 microamps of signal deviation. This minor
+deviation of the ideal glidepath is well within the flight check standards used to certify an
+operational system (75 microamps is required to generate 1 dot of deviation).20
+FLIGHT RECORDERS
+Cockpit Voice Recorder
+The airplane was equipped with a Fairchild A-100A CVR, S/N 58463. The CVR’s
+exterior showed no evidence of structural damage, and the interior sustained no heat or impact
+damage. The recording consisted of four channels of good quality audio information, including
+the captain’s, first officer’s, flight engineer’s, and cockpit area microphone. The recording
+started at 0923:12 as the flight crew was preparing to descend from cruise altitude, continued
+through the approach, and ended at 0954, shortly after the airplane impacted the runway and lost
+electrical power. A transcript was prepared of the 31-minute recording.
+Flight Data Recorder
+The airplane was equipped with a Sundstrand Universal flight data recorder (FDR)
+model 980-4100-GXUS, S/N 4699. The 11-parameter FDR was configured to record 15 channels
+of information, including pressure altitude, calibrated airspeed, pitch angle, roll angle, magnetic
+heading, longitudinal acceleration, vertical (and/or normal) acceleration, elevator position, engine
+pressure ratio (EPR) for all three engines, and very high frequency radio microphone keying.
+The readout of elevator position sensor data and longitudinal load factor data determined
+that the data were not representative of typical or expected values and were considered erroneous.
+The elevator sensor was removed from the airplane, tested, and found to be operating normally.
+The FDR signal outputs for the longitudinal acceleration and elevator position sensors were
+tested and found to be operating normally. No other FDR discrepancies were found.
+19 Additionally, when a pilot would report an anomaly, the aircraft that flew the approaches before and after the
+incident aircraft had normal ILS indications.
+20 This deviation of the glideslope signal would be measured by the sensitive flight check instrumentation but
+would not be discernable to the pilots during the approach.
+NTSB/AAB-01/01
+
+14
+A subsequent Safety Board examination of the airplane’s FDR maintenance history
+determined that a supplemental type certificate (STC) used to modify the FDR in 1993 contained
+a wiring anomaly. The STC modified the FDR to add five parameters, including elevator
+position, roll attitude, pitch attitude, engine EPRs, and longitudinal acceleration. It was
+determined that the STC wiring requirements did not properly differentiate elevator position
+parameters generated by two independent hydraulic power units (system A and system B), which
+were part of the autopilot control system.
+The FDR received elevator position signals from the system that was selected by the
+flight crew on the cockpit autopilot control panel. The accident flight crew had selected system
+B. Examination of the wiring determined that when system A was selected, elevator data were
+recorded correctly and that when system B was selected, the data were erroneous. A review of
+maintenance records determined that American Airlines maintenance work card 5404 called for
+system A to be selected during ground tests using a data signal display unit (DSDU).
+According to American Airlines’ FAA-approved maintenance program, a functional
+check of the FDR system is required every 3,200 flight hours. The accident airplane’s FDR
+system was checked during a maintenance check on November 7, 1997.21 Maintenance records
+indicated that all FDR parameters were working properly. The DSDU displays recorded FDR
+data in binary and octal formats. Because the STC assumed that display tolerances would be the
+same for both systems, no ground tests were conducted for system B.22
+In addition, a Safety Board examination of the FDR’s biaxial accelerometer, which
+measures vertical and longitudinal acceleration, determined that the unit had been incorrectly
+mounted and was not recording expected data values. The examination determined that labels
+indicating correct positive y-axis (longitudinal) and positive z-axis (vertical) unit positioning
+were affixed to the top of the unit 90º from their proper position. The incorrect label positioning
+resulted in the unit, which is mounted in the left main landing gear wheel well, being mounted
+90º from its proper position, causing the longitudinal acceleration sensor (y-axis) to measure
+lateral acceleration rather than longitudinal acceleration. Longitudinal data would have yielded
+information about the airplane’s deceleration at impact.23 Further testing determined that the
+accelerometer unit functioned properly when positioned correctly. The mislabeling and
+subsequent incorrect mounting did not affect the vertical accelerometer parameter.24
+21 According to American Airlines maintenance records, the FDR was overhauled on February 6, 1997, and
+installed on the accident airplane on May 18, 1997.
+22 The STC holder, Flight Systems Engineering, Miami, Florida, issued an SB on August 8, 1998, to correct the
+wiring anomaly, and modifications were made to 56 American Airlines 727s to correct the problem.
+23 A Safety Board examination of the 5404 work card from the accident airplane’s November 7, 1997,
+maintenance check indicated that the FDR display reading for longitudinal acceleration was not in the required
+display tolerance range for the DSDU test and that this discrepancy was not noted.
+24 The Safety Board has issued several safety recommendations related to FDR maintenance checks, FDR
+systems documentation, and FDR maintenance recordkeeping. For example, as a result of its investigation into the
+crash of a Douglas DC-8-61 in Miami, Florida, in 1997, the Board issued Safety Recommendations A-98-53 and -54.
+Safety Recommendation A-98-53 asked the FAA to require “an immediate readout of all 11-parameter retrofitted
+FDRs to ensure that all mandatory parameters are being recorded properly”; to ensure that the FDR system
+NTSB/AAB-01/01
+
+15
+WRECKAGE AND IMPACT INFORMATION
+Ground scars indicated that the airplane touched down 160 feet short of the runway
+pavement (314 feet from the runway’s displaced threshold), became airborne, touched down
+again on the runway, and then slid about 2,350 feet down the runway until coming to rest in an
+upright position in the mud about 250 feet to the right (west) of the runway. The two main
+landing gears and parts of the airplane’s lower aft section and left and right wings were found
+along a 2,670-foot debris path, beginning before the runway threshold and ending where the
+airplane came to rest. The nose landing gear was found rotated aft into the electrical/electronics
+(E/E) compartment. The pneumatic start connection door and the lower tail skid assembly from
+the aft fuselage were found 180 feet from the runway threshold. The airstairs, airstairs door, right
+spoiler panels, flap surfaces and control assemblies, landing gear fairings, access doors, and
+landing gear parts from all three landing gears were found along the debris path. The bottom of
+the fuselage sustained substantial damage from the nose to the empennage. The bottom of the left
+and right wing surfaces, including the flight control surfaces, were found torn, dented, or
+scratched. The fuselage skin was torn from the nose landing gear wheel through the E/E
+compartment, and the nose gear strut assembly was found rotated into the E/E compartment. The
+airplane’s main electrical wiring bundles were found torn and loose in the E/E compartment, and
+the electronics (avionics) racks were dislodged from their attach points.
+The airplane was found configured for a normal approach in instrument conditions. The
+gear was extended, flaps were set at 30º, and the leading-edge slats were extended. The right
+inboard flaps and right inboard spoiler were fractured at their attach points on the inboard side
+near the fuselage. Vertical tears and dents in the fuselage were found above the right wing root
+and over the attachment points of the right main landing gear. Multiple scrapes, bends, and dents
+were found on the flaps and slats. Earthen debris was embedded in the slats. The trailing-edge
+flaps were found with scrapes and bends along their trailing edges. The ailerons were found
+intact with minor damage, with the left aileron trailing edge up and the right aileron trailing edge
+down. The cockpit column yokes were in the left-roll position. The horizontal stabilizer was in
+the 6º nose-up position and matched the setting position in the cockpit. The elevators were found
+intact with no damage. The lower rudder was fully deflected to the left, and the upper and lower
+trim surfaces were deflected to the left. All of the airplane’s systems positions matched the
+cockpit command positions. Safety Board investigators documented the following autopilot
+documentation “is in compliance with the range, accuracy, resolution, and recording interval specified in 14 [CFR]
+Part 121, Appendix B”; and to require that the “readout be retained with each airplane’s records.” Safety
+Recommendation A-98-54 asked the FAA to require maintenance checks of FDRs on transport-category aircraft
+“every 12 months or after any maintenance affecting the performance of the FDR system, until the effectiveness of a
+proposed advisory circular and new FAA inspector guidance on continuing FDR airworthiness (maintenance and
+inspections) is proven” and to require that air carriers attach to the maintenance job card “a computer printout, or
+equivalent document, showing recorded data, verifying that the parameters were functioning properly during the
+FDR maintenance check and [to] require that this document be part of the permanent reporting and record-keeping
+maintenance system.” On January 11, 2000, the Board classified Safety Recommendations A-98-53 and -54
+“Open—Acceptable Response.”
+NTSB/AAB-01/01
+
+16
+settings on the autopilot console in the cockpit: MAN, roll knob centered, AIL and ELEV OFF,
+B Mode, ALT and HDG OFF.25
+Examinations of the left (No. 1), center (No. 2), and right (No. 3) engines revealed no
+evidence of an in-flight fire or a fuel leak. FDR data indicated that the engines were operating
+normally throughout the approach until they impacted terrain.
+SURVIVAL ASPECTS
+An emergency evacuation was initiated after the airplane came to a complete stop.
+During the impact sequence, a ceiling stowage compartment door26 dropped down and blocked
+the forward entry door and partially blocked the forward galley door, preventing passengers and
+crewmembers from exiting the airplane through the forward left exit. Passengers and
+crewmembers evacuated the airplane through the forward right, aft right, and aft left exit doors
+and also through the four overwing exits. Twenty-two passengers and one flight attendant
+reported that they received minor injuries during the accident27 and subsequent emergency
+evacuation.28
+Emergency Response
+A UAL van driver who had stopped on a service road near runway 14R witnessed
+flight 1340 veer off the side of runway 14R. He drove to nearby airport gate security post No. 2
+to report the accident. He stated that he arrived at the post about 0958 and informed a security
+officer, who called the Operations Command Center (OCC). About the same time, City 149,
+which was also near the No. 2 security post, called the south tower frequency about the accident.
+The OCC immediately dispatched police and ARFF units to the scene and paged the
+deputy commissioner of airport operations, who stated that he arrived at the accident about
+3 minutes after receiving the page. The Chicago Fire Department Airports Emergency Medical
+Systems field officer stated that he was not notified by the tower, as was customary, but heard the
+OCC notification over “the firehouse speaker.” He stated that fire department personnel arrived
+at the accident scene 2 minutes after receiving notification, about 1000.
+25 When the autopilot is engaged, the switches are held in position electrically. If electrical power is interrupted
+or lost, the switches move to the OFF position.
+26 The ceiling stowage compartment door was installed directly above the center aisle on the ceiling of the cabin
+and was normally used to store liferafts.
+27 Two passenger seat belt attachments became unhooked at impact for undetermined reasons, causing minor
+injuries to one passenger.
+28 As a result of this investigation, on February 19, 1999, the Safety Board issued Safety Recommendations
+A-99-10 and -11 to the FAA. Safety Recommendation A-99-10 asked the FAA to “identify all airplanes operated
+under Title 14 [CFR] Part 121 with liferaft ceiling stowage compartments or compartments that formerly stored
+liferafts that open downward and issue an airworthiness directive to limit the distance that those compartments can
+open.” Safety Recommendation A-99-11 asked the FAA to “reexamine the design of seatbelts installed on passenger
+seats on air carrier, air taxi, and commercial airplanes to determine the reason some have become unhooked from
+their seat attachments during turbulence or a hard landing and establish a suitable means of ensuring that the
+seatbelts remain attached to their shackles during all modes of flight.” On June 2, 1999, the Board classified Safety
+Recommendations A-99-10 and -11 “Open—Acceptable Response.”
+NTSB/AAB-01/01
+
+17
+ORD’s assistant chief operations supervisor stated that he received notification of the
+accident at 0958 and that he immediately dispatched operations personnel to the accident scene.
+The airport operations supervisor, who was on patrol on the north end of the airport, was notified
+and arrived at the accident site about 0959, followed by additional operations personnel
+about 1000.
+A Chicago Fire Department vehicle (CFD 299) attempted to contact the tower at 1000:08
+but did not receive an immediate response because the tower controller was issuing missed
+approach instructions to the flight crew of UAL flight 754. The lead Chicago Fire Department
+vehicle, call sign CFD 655, contacted the tower at 1000:53 and requested permission to access
+runway 14R. The south local controller approved the request 2 seconds later. ATC transcripts
+also indicated that CFD 655 and another ARFF vehicle, CFD 298, made several calls on
+frequency 119.25 but were not successful.29 ATC logs indicated that CFD 655 attempted to
+reach the ground controller on this frequency until 1000:37, when CFD 655 switched to the south
+local tower frequency. According to ATC logs, there was no communication between the ground
+controller and ARFF units on frequency 119.25 until 1011:25.
+TESTS AND RESEARCH
+Airplane Performance
+The Safety Board conducted an airplane performance study based on the following
+combined data and evidence: ground impact scars and markings, airport surveillance radar data,
+FDR and CVR information, and weather data.
+FDR data indicated that the approach was normal until about 9 seconds before impact,
+when the airplane pitched up from about 0.5º to about 3.5º. About 5 seconds before impact, the
+pitch attitude was about -2º. The airplane’s pitch attitude continued to decrease to -6º 2 seconds
+before impact, coincident with a full-scale, below glideslope instrument deflection about 60 feet
+agl.
+According to FDR data, at the time of impact, the airplane’s pitch angle was about 5º
+nose up, and the airplane’s bank angle was about 5º right wing down. The pitch and bank angles
+were consistent with ground impact markings that indicated that the right main landing gear
+struck the ground first. The Safety Board’s airplane performance study indicated that the
+airplane’s flightpath angle was about -5º and that the angle-of-attack was between 10º and 11º at
+the time of impact. FDR data indicated a descent rate of 1,350 feet per minute, a ground speed of
+133 knots, and a true airspeed of 142 knots at the time of impact.
+29 Frequency 119.25 is a tower frequency dedicated to ARFF services. The tower operations supervisor told
+Safety Board investigators that the frequency was not being monitored at the time of the accident, although tower
+procedures require it to be monitored. After the accident, ground controllers were instructed to monitor the
+frequency.
+NTSB/AAB-01/01
+
+18
+FDR data indicated that vertical acceleration values were about 1.0 g30 for most of the
+5 minutes before the data ended. Values began increasing at 0953:46 to a maximum of 1.183 g’s
+and then decreased to 0.732 g, before increasing to 1.618 g’s by 0953:53. A 3.8-g spike also
+occurred at a time that is consistent with the airplane’s impact with the ground.
+Because FDR data did not record stabilizer positions and because the recorded elevator
+positions were unusable, it was not possible for the performance study to examine elevator and
+stabilizer control surface deflections that influenced the airplane’s performance during the final
+approach.
+Postaccident Autopilot and Navigation Equipment Testing
+The accident airplane’s autopilot and navigational equipment (including the air data
+computer, yaw damper coupler, roll computer, pitch computer, very high frequency
+omnidirectional radio range/ILS navigational receivers, radio altimeter, autopilot accessory unit,
+and marker beacon receiver) were reinstalled in the E/E compartment of a similar 727 and tested
+at an American Airlines maintenance facility in Tulsa, Oklahoma, on May 14, 1998. A complete
+American Airlines 727 autopilot maintenance test was performed and was similar to a check
+designed to qualify the airplane for the lower minimums program (LMP) that allowed the
+airplane to be flown to CAT II minimums. All LMP checks used test ILS and marker beacon
+signals generated outside the airplane and followed normal test checklist procedures. The
+autopilot system was tested throughout a coupled CAT II approach procedure, including
+desensitization of the glideslope gain from 100 percent to about 25 percent and to about 5 percent
+after the middle marker. The timing of the desensitization was consistent with the design
+requirements of the original, unmodified version of the SP-150 autopilot.
+The testing indicated that the airplane’s navigational and autopilot control systems
+functioned normally and met test parameters for CAT II approaches. The Sperry SP-150 autopilot
+components were also bench tested at Honeywell’s facility in Seattle, Washington, and were
+found to be operating properly and within prescribed tolerances.
+Autopilot Pitch Sensitivity on Coupled Instrument Landing System Approaches
+On a coupled ILS approach, the autopilot issues pitch and roll control commands to keep
+the airplane centered on the glideslope and localizer beams. The magnitude of the pitch and roll
+commands depends on the magnitude of the deviation from the center of the beams (that is, the
+error signal) and autopilot sensitivity. The appropriate autopilot sensitivity is determined by the
+distance from the runway, but there is no direct way to measure this distance if the ILS does not
+provide DME information. Therefore, to properly set, or schedule, the sensitivity, the distance
+from the runway must be estimated based on other measurable parameters. One method of
+estimating distance from the runway is to continually use radio altitude and the geometrical
+relationship between altitude and distance for an approximately 3º glideslope. As the radio
+altitude decreases, the airplane is assumed to be closer to the runway, and the autopilot sensitivity
+30 A g is a measure of force on a body undergoing acceleration as a multiple of the force imposed by its mass.
+NTSB/AAB-01/01
+
+19
+is reduced appropriately. This method will be in error when the terrain preceding the threshold
+has significant peaks or valleys or if the glideslope differs significantly from the 3º or other angle
+assumed by the method. However, the method is not affected by the ground speed of the
+airplane.
+Another method to estimate the distance from the threshold is to measure the time
+elapsed since passing a point of known distance from the runway and then to calculate the
+distance traveled from that point by multiplying the measured time by an assumed ground speed.
+This time-based method was used by the Sperry SP-150 autopilot installed on the accident
+airplane. Although the SP-150 was capable of scheduling the sensitivity based on radio altitude,
+the accident airplane’s autopilot system was configured to start desensitizing over a 150-second
+period after passing through 1,500 feet radio altitude on the approach. During the 150 seconds,
+the autopilot sensitivity, or gain, would be reduced from a value of 1.0 to a value of .22 (or about
+78 percent). After receiving the signal from the middle marker (located about .5 nautical mile
+from the runway threshold), the gain further reduced to a value of .055 over 30 seconds (or
+another 75 percent). If the middle marker signal is received before the gain reaches a value of
+.22 (that is, before the 150 seconds elapse), the gain will decrease at twice the original rate until
+reaching .22 and then continue to decrease to .055 over 30 seconds.
+A characteristic of the time-based method of desensitizing the autopilot is that the gain
+will be scheduled properly only if the distance from the runway at 1,500 feet radio altitude is
+consistent with a 3º glideslope and if the actual ground speed is relatively close to the ground
+speed the autopilot designers assumed when selecting the time period required for
+desensitization. If the actual ground speed is higher than the ground speed assumed in the
+autopilot design, the airplane will approach the runway before the desensitization period expires,
+and the sensitivity will be higher than that intended by the design. If the actual ground speed is
+lower than the ground speed assumed in the design, the autopilot will be desensitized while the
+airplane is still far from the runway, and the sensitivity will be lower than that intended by the
+design. The ground speed in the SP-150 autopilot design assumed that an airplane on a 3º
+glideslope would travel from 1,500 feet agl to the middle marker in 150 seconds. Calculations
+based on FDR data indicated that the accident airplane actually traveled this distance in about
+100 seconds. As a result, during the approach, the autopilot sensitivity was consistently higher
+than its intended design value.
+As previously mentioned, during the investigation of this accident, Safety Board
+investigators determined that the accident airplane’s autopilot had not been modified in
+accordance with changes specified in two Sperry SBs applicable to SP-50 and SP-150 autopilots
+that recommended a change to the sensitivity schedule of the autopilot while in approach mode to
+accommodate new, higher approach airspeeds currently in use. The 150-second desensitization
+period used by the Sperry SP-50 and SP-150 autopilots was originally optimized for approach
+airspeeds corresponding to a 40º-flap setting. However, in the early 1980s, operators began using
+a 30º-flap setting and correspondingly higher airspeeds to improve the maneuverability of the
+NTSB/AAB-01/01
+
+20
+airplane during the approach. The changes outlined by these SBs were designed to reduce the
+time required for autopilot desensitization from 150 seconds to 105 seconds.31
+Engineering Simulations of Autopilot Pitch Sensitivity
+Safety Board investigators conducted 727 engineering simulator studies at Boeing
+Company facilities in Renton, Washington, to determine the stabilizer and elevator movements
+required to reproduce the motions of the accident airplane and to evaluate autopilot performance
+during a coupled ILS approach using the 150-second and 105-second sensitivity schedules in
+conditions similar to those of the accident flight.
+The 727 engineering simulator uses mathematical models of the airplane’s aerodynamics,
+mass properties, and propulsion and flight control systems, together with models of the earth’s
+gravity and atmosphere, to compute the trajectory and orientation of the airplane and its response
+to engine and flight control inputs. The simulator also contains mathematical models of the
+airplane’s autopilot systems, which duplicate actual autopilot commands. The simulation
+incorporates these commands into its flight control models to compute control surface deflections
+and the resulting airplane motion.
+Safety Board investigators estimated the stabilizer and elevator movements during the
+accident scenario using information from the 727 engineering simulator and trim-in-motion
+sounds from the accident airplane’s CVR. To examine how the autopilot responded in returning
+to and maintaining the glideslope, several methods, such as initially trimming to glideslope
+angles other than 3º and inducing turbulence or vertical wind gusts, were used to “disturb” the
+airplane from the glideslope centerline.
+31 As a result of these findings, on June 1, 2000, the Safety Board issued Safety Recommendations A-00-41
+through -45 to the FAA. Safety Recommendation A-00-41 asked the FAA to “require operators of…727 aircraft
+equipped with Sperry SP-50 and SP-150 autopilots to perform the modifications described in Sperry
+SBs 21-1132-121 and 21-1132-122 if these 727 aircraft are used for coupled ILS CAT II approaches at flap settings
+less than 4º.” Safety Recommendation A-00-42 asked the FAA to “develop sets of operating limitations for the
+SP-50 and SP-150 autopilots on coupled ILS approaches that are appropriate for the desensitization schedules used
+by these autopilots so that every possible desensitization schedule has a corresponding set of operating limitations.
+The limitations should address approach flap settings and airspeeds specifically, and should also consider tolerances
+on winds, capture altitudes, glide slope angles, and/or other parameters that could adversely affect autopilot
+performance and safety of flight.” Safety Recommendation A-00-43 asked the FAA to “advise all operators of
+…727 aircraft equipped with SP-50 and SP-150 autopilots to inform their pilots, maintenance, and engineering
+personnel of the dangers of conducting coupled ILS approaches at airspeeds that are not consistent with the
+desensitization schedule of the autopilots, and notify the operators that the FAA has been asked to develop operating
+limitations for the use of these autopilots on coupled approaches that will ensure that the approaches are conducted
+in a manner consistent with the autopilot design.” Safety Recommendation A-00-44 asked the FAA to “review the
+certification of all autopilot systems that use time-based desensitization schedules and develop operating limitations,
+as necessary, for the use of these autopilots on coupled ILS approaches. The limitations should address approach
+flap settings and airspeeds specifically, and should also consider tolerances on winds, capture altitudes, glideslope
+angles, and/or other parameters that could adversely affect autopilot performance and safety of flight.” Safety
+Recommendation A-00-45 asked the FAA to “advise all operators of aircraft equipped with autopilot systems that
+use time-based desensitization schedules to inform their pilots, maintenance, and engineering personnel of the
+dangers of conducting coupled ILS approaches at airspeeds that are not consistent with the autopilot desensitization
+schedule, and notify the operators that the FAA has been asked to develop operating limitations for the use of these
+autopilots on coupled approaches that will ensure that the approaches are conducted in a manner consistent with the
+design of the autopilot.”
+NTSB/AAB-01/01
+
+21
+The simulator results indicated that at the approach speeds of the accident flight, the
+autopilot with the 150-second desensitization period responded to the disturbances by
+commanding oscillatory pitch changes that increased over time and resulted in significant
+deviations from the desired flightpath. The altitude response computed by the simulator in these
+cases was similar to that recorded by the accident airplane’s FDR. The engineering simulator
+tests also indicated that autopilots with the 105-second desensitization period also commanded
+divergent oscillatory pitch changes, although these diverged at a slower rate and with less
+magnitude than those produced during the 150-second period. The simulations also determined
+that resulting altitude deviations with the 105-second period were smaller than those produced
+with the 150-second period.
+ADDITIONAL INFORMATION
+American Airlines Pilot Experience and Training Requirements for CAT II Approaches
+American Airlines requires pilots to have completed a CAT II training program and to
+have accumulated 300 hours as PIC with the airline and 100 hours as PIC in the airplane type to
+conduct CAT II approaches. Pilots must also be certified by an FAA inspector or designated
+company check airman to conduct CAT II approaches.
+The FAA-approved CAT II training program conducted by American Airlines includes
+ground and flight training for captains and first officers. The ground training includes
+information on airborne and ground-based CAT II equipment (including runway lighting and
+markings), operational rules and limitations (including missed approaches, determination of DH,
+visual cues, and windshear, as outlined in the American Airlines Flight Manual Part 1, Approach
+and Landing), and minimum equipment list requirements. The flight training includes initial
+proficiency requirements, and captains must demonstrate one ILS coupled approach to 100 feet
+followed by a landing and one ILS coupled approach to 100 feet followed by a missed approach.
+Captains and first officers must also demonstrate proficiency in CAT II maneuvers during annual
+recurrent training.
+American Airlines Autopilot Procedures
+American Airlines 727 Operating Manual requires flight crews to “closely monitor the
+autopilot system for proper operation and to ensure that proper altitudes are being maintained.
+Caution must also be exercised at low altitudes to prevent airplane malfunctions from distracting
+crewmembers’ attention from the primary duty of flying the airplane and monitoring flight
+instruments and the flight profile.” The Operating Manual also states that the minimum altitude
+for the use of the autopilot on ILS coupled approaches is 80 feet and, that on final approach, a
+callout should be made by the flight engineer, or any crewmember, who at any time observes a
+“LOC displacement greater than 1/3-dot, and/or GS displacement greater than 1/2-dot” on the
+captain’s and first officer’s course deviation indicators (CDI). According to the manual, the pilot
+flying “will acknowledge this deviation.” The glideslope pointer on each CDI points to a fixed
+scale delineated with a horizontal line and dots. The horizontal line represents the airplane’s
+NTSB/AAB-01/01
+
+22
+position relative to the glideslope, and 2 dots above the line and 2 dots below the line indicate the
+magnitude of the airplane’s deviation below or above the glideslope, respectively. A similar
+pointer is on the horizon director indicator on each instrument panel.
+American Airlines CAT II Approach Procedures
+According to the American Airlines 727 Operating Manual, CAT II approaches are to be
+flown with the autopilot coupled to the ILS until DH, and the CAT II procedure requires the
+captain and the first officer to monitor the autopilot and flight instruments, with the first officer
+as the flying pilot. The first officer “remains on instruments throughout the approach and
+landing, and makes all normal callouts below 1,000 feet.” Crew coordination procedures cited in
+the Operating Manual also require the pilots to “monitor marker beacon receiver to verify middle
+marker for G/S [glideslope] desensitization.”
+The Operating Manual states that when the captain is ready to take control of the airplane
+and complete the approach visually, he will “push the first officer’s hand from throttles and call
+out, ‘I’ve got it,’ indicating intention to land.” If visual contact with the runway is lost or a
+missed approach is required, “the captain will execute the missed approach procedure. If the
+approach is continued, the first officer will continue to make all standard callouts (altitudes, sink
+rate, and localizer/glideslope deviations).”
+According to the Operating Manual, if any of the following conditions occur before DH, a
+missed approach is required:
+• Any of the required airplane or ground equipment fails.
+• [By DH] The captain has not established sufficient visual references with the CAT II
+lighting system to safely continue the approach by visual reference alone.
+• The captain has not assumed control (first officer executes go-around).
+• [Below DH] The captain loses visual reference with the CAT II lighting system or a
+reduction in visual reference occurs, which prevents the captain from safely continuing
+the approach by visual reference alone.
+• The captain determines that a landing cannot be safely accomplished within the
+touchdown zone.
+Further, according to the Operating Manual, the following procedures should be followed
+to execute a missed approach:
+• Push throttles forward and call out - “Go Around.”
+• Check GO-AROUND annunciator illuminated green and rotate to a minimum of
+10º nose-up attitude with A/P [autopilot] turn knob.
+NTSB/AAB-01/01
+
+23
+• Execute missed approach procedure.
+Stabilized Approach Concept
+According to the American Airlines 727 Operating Manual, the stabilized approach
+concept requires that “before descending below the specified minimum stabilized approach
+altitude, the airplane should be in the final landing configuration (gear down and final flaps) on
+approach speed, on the proper flight path and at the proper sink rate, and at stabilized thrust.”
+The Operating Manual adds that “these conditions should then be maintained throughout the rest
+of the approach.”
+Information on Visual Cues/Illusions
+According to the FAA AIM, Section 8-1-5, “Illusions in Flight,” dated February 24, 2000,
+many different visual illusions experienced in flight can lead to spatial disorientation, landing
+errors, and accidents. For example, section 8-1-5, Subsection 3, “Illusions Leading to Landing
+Errors,” states the following:
+Various surface features and atmospheric conditions encountered in landing can
+create illusions of incorrect height above and distance from the runway threshold.
+Landing errors from these illusions can be prevented by anticipating them during
+approaches, aerial visual inspection of unfamiliar airports before landing, using
+electronic glide slope or VASI [visual approach slope indicator] systems when
+available, and maintaining optimum proficiency in landing procedures.
+Section 8-1-5, subsection 3, describes atmospheric illusions as follows:
+Rain on the windscreen can create the illusion of greater height, and atmospheric
+haze the illusion of being at a greater distance from the runway. The pilot who
+does not recognize these illusions will fly a lower approach. Penetration of fog
+can create the illusion of pitching up. The pilot who does not recognize this
+illusion will steepen the approach, often quite abruptly.
+NTSB/AAB-01/01
+
+24
+ANALYSIS
+The flight crew was properly certificated and qualified in accordance with applicable
+Federal regulations and company requirements.
+The flight crew had received current and adequate weather information before conducting
+a Category II (CAT II) instrument landing system (ILS) coupled approach, without autoland
+capability, to runway 14R.
+Daylight instrument meteorological weather conditions prevailed at the time of the
+accident, and, during the approach, were at or above published Federal Aviation Administration
+(FAA) and airline weather minimums and included a visibility of 1/2 statute mile in freezing fog,
+an overcast ceiling of 100 feet above ground level (agl), and a runway visual range on runway
+14R of 1,400 feet variable to 1,800 feet.
+The airplane was properly certificated and equipped in accordance with Federal
+regulations and approved procedures.
+The captain, who was the flying pilot during the final approach, left his sunglasses on
+during the approach and landing, increasing the potential for visual illusions as a result of
+reduced visibility.
+Analysis of the flight data recorder (FDR) data indicates that the initial portion of the
+approach (until about 9 seconds before impact) was uneventful and stabilized down to the middle
+marker. The flaps were set at 30º, and the autopilot was engaged. Two seconds after passing
+over the middle marker, at an altitude of about 170 feet agl, the airplane deviated to about 1/2 dot
+below the glideslope before the autopilot corrected it back toward the glideslope. The airplane
+pitched up from about 1º nose up over the middle marker to about 3.5º nose up 3 seconds later.
+During the next 3 seconds, the airplane descended to about 140 feet agl and deviated to about 1/2
+dot above the glideslope while pitching down to -2º. Immediately after this, the captain stated, “I
+got it.” During the next 2 seconds, the airplane continued to pitch down to about -6º and
+descended well below the glideslope. During this period, the flight engineer stated, “ooh nose
+uh,” and the captain did not disengage the autopilot or take any action to adjust the pitch attitude.
+While flying inside of the middle marker during the most critical phase of the approach at
+the decision height, the flight crew did not react in a proper and timely manner to excessive pitch
+deviations and descent rates by either initiating a go-around or adjusting the pitch attitude and
+thrust to ensure a successful landing, as required by the CAT II procedures outlined in the
+American Airlines 727 Operating Manual.
+As the airplane continued to descend through about 80 feet agl at a nose-down pitch
+attitude of about -6º, the captain disengaged the autopilot; the first officer called out, “one
+hundred [feet]”; the ground proximity warning system made an aural “sink rate” alert; and the
+flight engineer stated, “nose up nose up.” These actions all occurred within 1 second as the
+NTSB/AAB-01/01
+
+25
+descent rate rapidly increased to about 1,900 feet per minute. The captain immediately pitched
+the airplane up to about 6º and added a substantial amount of power. These actions were not
+sufficient or timely enough to arrest the descent, and the airplane continued to descend until it
+impacted the ground 314 feet short of the runway threshold, resulting in the separation of the
+main landing gear. The airplane then became airborne, touched down again on the runway, and
+then slid about 2,350 feet down the runway until coming to rest in an upright position in the mud
+about 250 feet to the right (west) of the runway.
+Examination of the airframe, engines, and systems did not reveal any preexisting
+mechanical or electrical malfunctions. FAA flight checks flown on the ILS 14R, analyses of
+pilot debrief records, and its long-term monitoring of the ILS and surrounding radio frequency
+transmissions did not reveal any evidence of radio frequency interference (RFI) to aircraft
+glideslope receivers using the accident runway. The Safety Board also conducted a dedicated
+study of the 14R ILS and found no evidence of RFI or other system anomalies that would have
+significantly affected the glideslope receiver and autopilot. According to air traffic control
+(ATC) records and personnel statements, the runway lights were set at the highest intensity
+possible, and no evidence was found to suggest otherwise.
+The Sperry Aerospace SP-150 autopilot installed on the accident airplane used a
+time-based method to reduce the autopilot’s sensitivity to localizer and glideslope deviations as
+the airplane approached the runway threshold on the ILS. However, the time-based method used
+by the SP-150 autopilot assumed that an airplane on a 3º glideslope would travel from 1,500 feet
+agl to the middle marker in 150 seconds. This time period was based on approach airspeeds
+corresponding to a 40º-flap setting; however, in the early 1980s, operators began landing
+Boeing 727s at a 30º-flap setting and correspondingly higher airspeeds to improve
+maneuverability during the approach. The accident airplane’s autopilot had not been modified in
+accordance with changes specified in two Sperry Service Bulletins (SB), SBs 21-1132-121 and
+21-1132-122, issued in 1982 and 1983, respectively, which recommended reducing the time
+required for autopilot desensitization from 150 seconds to 105 seconds to accommodate higher
+approach airspeeds.
+Calculations based on FDR data indicated that the accident airplane traveled from
+1,500 feet agl to the middle marker in about 100 seconds. As a result, during the approach, the
+autopilot sensitivity was consistently higher than its intended design value. Engineering
+simulator studies revealed that at the approach speeds of the accident flight, the autopilot (with
+the 150-second desensitization period) commanded oscillatory pitch changes that increased over
+time and resulted in significant deviations from the desired flightpath. The investigation revealed
+that the accident airplane’s autopilot was functioning within its design tolerances; however, the
+autopilot’s 150-second desensitization rate was too slow for the accident airplane’s approach
+speed, resulting in divergent pitch deviations at a low altitude at a critical time during the
+approach.32
+32 As a result of this investigation, on June 1, 2000, the Safety Board issued Safety Recommendations A-00-41
+through -45 to the FAA. For more information, see the section titled, “Autopilot Pitch Sensitivity on Coupled
+Instrument Landing System Approaches.”
+NTSB/AAB-01/01
+
+26
+The two main landing gear and parts of the airplane’s lower aft section and left and right
+wings were strewn across the runway and along the debris path. Although ground visibility was
+poor, the south local tower air traffic controller did not instruct the flight crew to contact the
+ground controller after landing nor did he monitor the progress of the airplane after it was cleared
+to land, as required by FAA Order 7110.65M, “Air Traffic Control Handbook.” For the first
+5 minutes after the accident, the south local controller and his supervisor were unaware that the
+airplane had crashed. As a result, the south local controller cleared two air carrier flights to land
+on the debris-strewn runway after the accident. One of the airplanes landed uneventfully, and the
+other performed a touch-and-go, as directed by the south local controller after the driver of an
+airport ground vehicle observed debris on the runway and contacted the tower.
+The aisle to the forward entry door was blocked by a ceiling stowage compartment door
+that had opened during impact; however, passengers and crewmembers evacuated the airplane
+without serious injury through the forward right, aft right, and aft left exit door and also through
+the four overwing exits. Additionally, two passenger seat belt attachments became unhooked at
+impact for undetermined reasons, causing minor injuries to one passenger.33
+The investigation of the emergency response to the accident revealed that once the
+accident was reported to the airport Operations Command Center by a security officer, the
+dispatch of rescue personnel was timely; however, ATC failed to monitor a dedicated airport
+rescue frequency (119.25), as required by airport policy, which caused about a 1-minute delay for
+two emergency vehicles to obtain permission to access runway 14R.

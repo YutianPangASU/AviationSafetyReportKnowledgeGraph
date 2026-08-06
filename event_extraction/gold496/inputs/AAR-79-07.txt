@@ -1,0 +1,1349 @@
+NATKDNAL
+AIRCRAm ACCIDENT REPORT
+pz-9 -- “‘1:, - .-1!. -- Fe 1; --
+.- ‘.. ,- c. 7 !; 7 -+. :,-:,: -. ‘.’ I’
+,L
+-A.. . i ‘,,- .-’
+*
+UNITED AIRLINES, INC.
+M DONNELL-DOUGLAS, DC-8-61,
+C
+N8082U
+PORTLAND, OREGON
+. .
+DECEkER 28, 1978
+NTSB-AAR-79y7e.
+_ _
+--yp .
+UNITED STATES GOVERiWENT ’
+w
+- _. _-.---__-- - . ..-- : --___ -
+
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+Page 15 , Sectic’:: 1.16.1, link2 5: c:‘1.3:1gt’ “Cause” to “caust2d .‘I
+Page 25, second fu! 1 paragrapll, 1 ir,e 9: c h ,‘ .n g e “first office-r”
+to “flir:ht engineer.”
+UNITED STATES GOVERNMENT
+
+20594
+AiRCRAFT ACCIDENT REPORT
+lr.b:g --
+I:-- p:.p\ ,:r 2 Fe’; : -
+I .- *- ._- .-’ .‘. <. : .- 1: r : : --*::“; -. ..‘ , :.. z:
+*’
+-+r.. ...I : ..,~ _..
+*_*.;_ .’
+UNITED AIRLINES, INC.
+M DONNELL-DOUGLAS, DC-8-61,
+C
+N8082U
+PORTLAND, OREGON
+DECEMBER 28,19!8
+NTSB-AAR-79-7 .
+-- 4._ c
+,‘/.? * .
+UNITED STATiSGOVERNMENT !
+.
+-. -_. _--_-- . .- ._-_. -- __.
+
+. .-
+w ,. -
+.YZ- _. .,,_ .- ___-- -..- -.a,.... _.---_ _. _)_
+t
+b
+NATIONAL
+TRANSPORTATION
+SAFETY
+1
+BOARD
+WASHINGTON, D.C. 20594
+ERRahTA
+I
+-
+I’ngc 12, Secti‘c-\:? 1 . 1 6 . 1 , line j: Ch2:ll;e "cause" to "caustzd."
+I
+Page 25, second fu! 1 paragraph, 1ir.e 9: ChJZ&C “first officer”
+to “flight engineer.”
+UNITED STATES GOVERNMENT
+
+TECHNICAL' REPORT DOCUMENTATION PAGE
+1 .Report No. 2.Covernment Accession No. 3.Recipient’s Catalog NO. 1
+NTSB-BBR
+-
+7 9
+-7
+4. Title and Subtitle -5.Report Date
+Aircraft Accident Report - United Airlines, Inc., 7. 1979
+McDonnell-Douglas DC-8-61, N8082U, Portland, rforming Organization
+8 Code
+8.Performing Organization
+Report No.
+9. Performing Organization Name and Address lO.Work Unit No.
+National Transportation Safety Board
+Bureau of Accident Investigation
+Washington, D.C. 20594
+Period Covered
+12.Sponsoring Agency Name and Address
+NAT IONAL TRAKSPORTAT I ON SAFETY BOARD
+Washington, 0. C. 20504
+IS.Supplenentary f;oles
+16.Abstract
+About 1815 Pacific standard time on December 28, 1978, United Airlines, Inc., Flight
+173 crashed into a wooded, populated area of suburban Portland, Oregon, during an approach
+to the Portland International Airport. The aircraft had delayed southeast of the airport
+a1 a low altitude for about 1 hour while the flightcrew coped with a landing gear malfunction
+and prepared the passengers for the possibility of a landing gear failure upon landing.
+The plane crashed about 6 nmi southeast of the airport. The aircraft was destroyed; there
+was no fire. Of the 181 passengers and 8 crPwmembers aboard, 8 passengers, the flight
+engineer, and a flight attendant were killed and 21 passengers and 2 crewmembers were
+injured seriously.
+The National Transportation Safety Board determined that the probable cause of
+the accident was the failure of the captain to monitor properly the aircraft’s fuel state
+and to properly respond to the low fuel state and the crewmember’s advisories regarding
+fuel state. This resulted in fuel exhaustion to all engines. His inattention resulted from
+preoccupation with a landing gear malfunction and preparations for a possible landing
+emergency. :I
+Contributing to the accident was the failure of the other two flight &wmembers
+?ither to fully comprehend the criticality of the fuel state or to successfully communicate
+their concern to the captain.
+7. Key Words 118.Oistribution Statement
+?uel exhaustion, fuel state, preoccupation, landing
+This document is available
+rear malfunction, yaw, retract cylinder assembly, fuel
+through the National
+Iages, to talker.
+Technical Information
+Service, Springfield, VA 22151
+dentifier: McDonnell-Douglas DC-a-61 Accident
+I
+Y.Security Classification 1 20.Security Classification 2l.No. of Pages 122.Price
+(of this report) (of this page) ( 62 1 j
+UNCLASSIFIED UNCLASSIFIED
+‘KSB Form 1765.2 (Rev. 9/74)
+\
+
+\\ -- . *_ -., .
+TABLE OF CONTENTS
+Synopsis . . . . . . . . . . . . . . . . . . . . . . . . .. 1
+1. Fat tual Information . . . . . . . . . . . . . . . . . . . .. 2
+1.1 History of the Flight . . . . . . . . . . . . . . . . . . .. 2
+1.2 Injuries to Persons . . . . . . . . . . . . . . . . . . . .. 8
+1.3 Damage to Aircraft . . . . . . . . . . . . . . . . . . . .. 8
+1.4 Other Damage . . . . . . . . . . . . . . . . . . . . . .. 8
+1.5 Personnel Information . . . . . . . . . . . . . . . . . . .. 8
+1.6 Aircraft Information . . . . . . . . . . . . . . . . . . .. 8
+1.7 hleteorological Information. . . . . . . . . . . . . . . . .. 10
+1.8 Aids to Savigation . . . . . . . . . . . . . . . . . . . .. 10
+! 1 . . . . . . . . . . . . . . . . . . . . .. 10
+1.9 Communications
+ii 1.10 Aerodrome Information . . . . . . . . . . . . . . . . . .. 10
+1.11 Flight Recorders . . . . . . . . . . . . . . . .. : .. . .. 11
+1.12 \Vreckage and Impact Information. . . . . . . . . . . . . .. 11
+1.13 hiedical and Pathological Information . . . . . . . . . . . . .. 12
+13
+1.14 Fire . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+1.15 Survival :1spects . . . . . . . . . . . . . . . . . . . . .. 13
+1.16 Tests and Research . . . . . . . . . . . . . . . . . . . .. 14
+1.16.1 Retract Cylinder Assembly. . . . . . . . .. ........ 14
+1.16.2 Fuel Control Test . . . . . . . . . . . . .. ........ 15
+1.16.3 Aircraft Systems Examinations . . . . . . .. ........ 15
+1.16.4 Fuel Quantity System Error . . . . . . . .. ........ 16
+1.16.5 Fuel Burn Time History . . . . . . . . . .. ........ 17
+1.17 Other Information. . . . . . . . . . . . .. ........ 18
+1.17.1 Kesponsibility of the Crew . . . . . . . . .. ........ 18
+1.17.2 United :1irlines Flight Operations Bulletin 22-76,
+Fuel Policy-Domestic . . . . . . . . . .. ........ 18
+1.17.3 Excerpts from DC-8 Flight Jlanual . . . . .. ........ 18
+1.17.4 Excerpts from Xaintenance/Overhaul Handbook. ........ 20
+1.17.5 hlain Landing Gear Retract Cylinder Assembly . ........ 20
+1.17.6 Dispatch Responsibility and Authority . . . .. ........ 21
+1.18 New Investigation Techniques. . . . . . . .. ........ 21
+2. Analysis . . . . . . . . . . . . . . . . .. ........ 22
+3. Cone Ius ions . . . . . . . . . . . . . . .. ........ 27
+3.1 Findings . . . . . . . . . . . . . . . . .. ........ 27
+3.2 Probable quse . . . . . . . . . . . . . .. ........ 28
+4. Safety Reborn.mendations . . . . . . . . . . .. ........ 29
+. . . . . . . . . . . . . . . . . . . . . . . .. 30
+5. Appendixes.
+Appendix .. - Investigation and Hearmg . . . . . . . . . . .. 30
+. . . . . . . . . . . .. 31
+Appendix B - Personnel Information.
+Appendix C - Aircraft Information .. 33
+. . . . . . . . . . . . . . . . . . .. 34
+Appendix D - Cockpit Voice Recorder Transcript
+ii
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+Adopted: June 7, 1979
+UNITED AIR LINES, INC.
+MCDONNELL-DOUGLAS DC-8-61, N8082U
+:
+PORTLAND, OREGON
+DECEMBER 28, 1978
+SYNOPSIS
+About 1815 Pacific standard time on December 28, 1978, United Airlines,
+Inc., Flight 173 crashed into e wooded, populated area of suburban Portland,
+Oregon, during an approach to the Portland International Airport. The aircraft had
+delayed southeast of the airport at a low altitude for about 1 hour while the
+flightcrew coped with a landing gear malfunction and prepared the passengers for a
+possible emergency landing. The plane crashed about 6 nmi southeast of the
+airport. The aircraft was destroyed; there was no fire. Of the 181 passengers end
+8 crewmembers aboard, 8 passengers, the flight engineer, end a flight attendant
+were killed and 21 passengers and 2 crewmembers were injured seriously.
+* The National Transportation Safety Board determined that the probable cause
+of the accident was the failure of the captain to monitor properly the aircraft’s
+fuel state and to properly respond to the low fuel state and the crewmember’s
+advisories regarding fuel state. This resulted in fuel exhaustion to all engines.’ tiis
+inattention resulted from preo&upation with a landing gear malfunction end
+preparations for a possible landing emergency.
+Contributing to the accident was the failure of the other two flight
+crewmembers either to fully comprehend the criticality of the fuel state or to
+successfully communicate their concern to the captain.
+. .
+
+I’:
+I
+/
+1. FACTUAL INFORMATION
+;
+1.1 History of the Flight
+Ii
+I’ On December 28, 1978, United Airlines, Inc., Flight 173, a McDon-
+!.
+nell-Douglas DC-8-61 (N8082U), was a scheduled flight from John F.
+Kennedy International Airport, New York, to Portland International
+Airport, Portland, Oregon, with an en route stop at Denver, Colorado.
+l/
+Flight 173 departed from Denver about 1447- with 189 persons on
+board, including 6 infants, and 8 crewmembers. The flight was cleared to
+Portland on an instrument flight rules (IFR) flight plan. The planned time
+en route was 2 hrs 26 min. The planned arrival time at Portland was 1713.
+21
+x According to the automatic flight plan and monitoring system- the
+total amount of fuel required for the flight to Portland was’31,900 lbs.
+There was 46,700 lbs of fuel on board the aircraft when it departed the
+ga te at Denver. This fuel included the Federal Aviation Regulation
+requirement for fuel to destination plus 45 min and the company contin-
+gency fuel of about 20 min. During a postaccident interview, the captain
+stated that he was very close to his predicted fuel for the entire flight to
+Portland ‘I... or there would have been some discussion of it.” The captain
+also explained that his flight from Denver to Portland wes normal. ’
+I’
+At 1705:47, Flight 173 celled Portland .\pproech end advised that its
+altitude was lO!OOO ft 3/ end its airspeed was being reduced. Portland
+responded and told the fGght to maintain its heeding for e visual approach
+to runway 28’. Flight 173 ecknowledged the approach instructions and
+stated, “. . . we have the field in sight.”
+At 1707:55, Portland Approach instructed the flight to descend and
+maintain 8,000 ft. Flight 173 acknowledged the instructions end advised
+that it wes “leaving ten.” At 1709:40, Flight 173 received and
+acknowlec@ed a clearance to continue its descent to 6,000 ft.
+During e postaccident interview, the captain stated that, when
+Flight 173 was descending through about 8,000 ft, the first officer, who
+was flying the aircraft, requested the wing flaps be extended to 15’, then
+asked that the landing gear be lowered. The captain stated that he
+complied with both requests. However, he further-stated that, as the
+landing gear extended, ‘I. . . it was noticeably unusual and (I) feel it
+seemed to go down more rapidly. As (it is) my recollection, it was a
+thump, thump in sound end feel. I don’t recall getting the red and
+transient gear door light. The thump was much out of the ordinary for
+this airplane. It was noticeably different and we got the nose gear green
+l&W times herein are Pacific standard, based on the 24-hour clock.
+j/ A computer printout which predicted the amount of fuel that would be used
+between several identifiable en route points. The flightcrew was able to check the
+actual fuel used against the predicted fuel use at each of these points.
+3/ All altitudes are mean sea level unless otherwise indicated.
+. . . . _ . . . . . r‘.’ _ _. . ._ . -. . -. - ____., .-. .-.-.-. _ .I .._- - _ .-_ -. --. .- _- -. .._ . ._ ___
+“--?-~~~;~~~
+
+-3-
+light but no other lights.” The captain also said the first officer remarked
+that the aircraft “yawed to the right. . . .‘I Flight attendant and
+passenger statements also indicate that there was a loud noise and a
+severe jolt when the landing gear was lowered.
+d At 1712:20, Portland Approach requested, “United one seven three
+‘heavy, contact the tower (Portland), one one eight point seven.” The
+flight responded, “negative, well stay with you. Well stay at’ five. Well
+maintain about a hundred and seventy knots. We got a gear problem.
+Well let you know.” This was the first indication to anyone on the ground
+that Flight 173 had a problem. At 1712:28, Portland Approach replied,
+“United one seventy-three heavy roger, maintain five thousand. Turn left
+heading two zero zero.” The flight acknowleged the instructions. . _
+At 1714:43, Portland Approach advised, “United one seventy three
+heavy, turn left heading, one zero zero and I’ll just orbit you out there“ti1
+you get your problem.” Flight 173 acknowledged the instructions.
+For the next 23 min, while Portland Approach was vectoring the
+aircraft in a holding pattern south and east of the airport, the flightcrew
+discussed and accomplished all of the emergency and precautionary
+actions available to them to assure the l,yF3tJt$&l landing gear leas
+locked in the full down position. The cer checked the visual
+-3
+indicators on top of both wings, which’ ex?end ‘above the wing surface
+when the landing ge,ar is down-and-locked.
+The captain stated that during this same time period, the first flight
+attendant came forward and he discussed the situation with her. He told
+her that after they ran a few more checks, he would let her know ivhat he
+intended to do.
+3 About 1738, Flight 173 contacted the United Airlines Systems Line
+Maintenance Control Center in San Francisco, California, through Aero-
+nautical Radio, Inc. 4/ According to recordings, at 1740:47 the captain
+explained to company dispatch and maintenance personnel the landing
+gear problem and what the flightcrew had done to assure that the.landing
+gear was fully extended. He reported about 7,000 lbs of fuel on board and
+stated his intention to hold for another 15 or 20 minutes. He stated that
+he was going to have the flight attendants prepare the passengers for
+emergency evacuation.
+At 1744:03, United San Francisco asked, “okay, United one seventy
+three . . . You estimate that you’ll make a landing about five minutes past
+the hour. Is that okay?” The captain responded, “Ya, that’s good ball
+park. I’m not gonna hurry the girls. We got about a hundred sixty five
+people on board and we . . .want to . . .take our time and get everybody
+ready and then we’ll go. It’s clear as a bell and no problem.”
+s/ Aeronautical Radio, Inc., an air-to-ground radio service which provides a
+communication system for commercial aircraft.
+
+The aircraft continued to circle under the direction of Portland
+Approach in a triangular pattern southeast of the airport at 5,000 ft. The
+pattern kept that aircraft within about 20 nmi of the airport. (See Figure
+1.1
+#a From about 1744:30 until about 1745:23, the cockpit voice recorder
+(CVR) contained conversation between the captain and the first flight
+attendant concerning passenger preparation, crash landing procedures, and
+evacuation procedures. During his initial interview, the captain indicated
+that he neither designated a time limit to the flight attendant, nor asked
+her how long it would take to prepare the cabin. He stated that he
+assumed 10 or 15 minutes would be reasonable and that some preparations
+could be made on the final approach to the airport.
+At
+-c 1746:52, the first officer asked the flight engineer,“‘How much
+fuel we got . . . ?” The flight engineer responded, “Five thousand.” The
+first officer acknowledged the response.
+At 1748:38, Portland Approach advised Flight 173 that there was
+another aircraft in its vicinity. The first officer edvised Portland
+Approach that he had the aircraft in sight.
+% At 1748:54, the first officer asked the captain, “. . .what’s the fuel
+show now . . . ?I’ The captain replied, “Five.” The first officer repeated,
+“Five.” .-It 1749, after a partially unintelligible comment by the flight
+engineer concerning fuel pump lights, the captain stated, “That’s about
+right, the feed pumps are starting to blink.” According lo data received
+from the manufacturer, the total usable fuel remaining ivhen the inboard
+feed pump lights illuminate is 5,000 Ibs. .?t this time, according to flight
+data recorder (FDR) and air traffic control data, the nircraft was about
+13 nmi south of the airport on a west south;qesterly heading.
+From just after 1749 until 17-19:15, the flightcrew engaged in
+further conversation about the status of the landing gear. This conversa-
+tion was interrupted by a heading change from Portland Approach and was
+followed by a traffic advisory from Portland Approach.
+b About 1750:20, the captain asked the flight engineer to “Give us a
+current card on yeight. Figure about another fiftee.n minutes.” The first
+officer responded, “Fifteen minutes?” To which the captain replied,
+“Yeah, give us three or four thousand pounds on top of zero fuel weight.”
+The flight engineer then said, “Not enough. Fifteen minutes is gonna-
+really run us low on fuel here.” At 1750:47, the flight engineer gave the
+following information for the landing data card: “...Okay. Take three
+thousands pounds, two hundred and four.” At this time the aircraft was
+about 18 nmi south of the airport in a turn to the,northeast.
+9 At 1751:35, the captain instructed the flight engineer to contact the
+company representative at Portland and apprise him of the situation and
+tell him that Flight 173 would land with about 4,000 lbs of fuel. From
+‘. *
+---_ _
+. --~. ._ _ . . -- _ . - _ _ .__ -_.. .- _-_- _-._+-- ‘-
+
+, ’ _-. . ’
+f
+i
+
+‘V’
+\\ -_ ’ ’ -- _. . ,
+1752:17 until about 1753:30, the flight engineer talked to Portland and
+discussed the aircraft’s fuel state, the number of persons on board the
+aircraft, and the emergency landing preparations at the airport. At
+1753:30, because of an inquiry from the company representative at
+Portland, the flight engineer told the captain, “He wants to know if we’ll
+be landing about five after.” The captain replied, 1’Yes.ff The flight
+engineer relayed the captain’s reply to the company representative. At
+this time the aircraft was about 17 nmi south of the airport heading
+northeast.
+-r At 1755:04, the flight engineer reported the “...approach descent
+check is complete.” At 1756:53, the first officer asked, “How much fuel
+you got now?” The flight engineer responded that 3,000 lbs remained,
+1,000 lbs in each tank.
+At 1757:21, the captain sent the flight engineer to the cabin to
+“...kinda see how things are going. . . .” From 1757:30 until 1800:50, the
+captain and the first officer engaged in a conversation which included
+discussions of-giving..the.. __flight attendants ample time to prepare for the
+emergency, cockpit proced-ucre’s- -in-the event of an evacuation after
+landing, whether the brakes would have antiskid protection after landing,
+and the procedures the captain would be using during the approach and
+landing.
+At 1801:12bPortland Approach requested that the flight turn left to
+a heading of 195 . The first oifice; acknowledged and complied ;vith the
+request.
+At 1801:34, the flight engineer returned to the cockpit and reported
+that the cabin would be ready in “another Iv.*o or three minutes.” The
+aircraft was about 5 nmi southeast of the airport turning to a south\Acest-
+erly heading. Until about 1802:10, the captain and the flight engineer
+discussed the passengers and their attitudes toward the emergency.
+.-,
+‘1 At 1802:22, the flight engineer advised, “We got about three on the
+fuel and that’s it.” The aircraft was then about 5 nmi south of the airport
+on a southwest heading. The captain responded, “Okay. On touchdown, if
+the gear folds or something really jumps the track, get those boost pumps
+off so that. . .you might even get the valves open.”
+At 1802344, Portland Approach asked Flight 173 for a status report.
+The first officer replied, “Yeah, we have indication our gear is abnormal.
+It’ll be our intention, in about five minutes, to land on two eight left. We
+would like the equipment standing by. Our indications are the gear is
+down and locked. We’ve got our people prepared for an evacuation in the
+event that should become necessary.”
+At 1803:14 Portland Approach asked that Flight 173 advise them
+when the approach would begin. The captain responded, I’. . . They’ve
+about finished in the cabin. I’d guess about another three, four, five
+
+-7 -
+minutes.” At this time the aircraft was about 8 nmi south of the airport
+on a southwesterly heading.
+)rr
+At 1803:23, Portland Approach asked Flight 173 for the number
+of persons on board and the amount of fuel remaining.- The captain
+replied, “. . . about four thousand, well, make it three thousand, pounds
+of fuel,” and “you can add to that one-seventy-two plus six laps-
+infants.”
+From 1803:38 until 1806:10, the flightcrew engaged in a conversa-
+tion which concerned (1) checking the landing gear warning horn as
+further evidence that the landing gear was fully down and locked and (2)
+whether automatic spoilers and antiskid would operate normally with
+. .
+the landing gear circuit breakers out,
+gr) At 1806:19, the first flight attendant entered the cockpit. The
+captain asked, “How you doing?” She responded, “Nell, I think we’re
+ready.” At this time the aircraft was about 17 nmi south of the airport
+on a southwesterly heading. The conversation between the first flight
+attendant and the captain continued until about 1806:40 when the
+captain said, “Okay. \$e’re going to go in noIf*. \\‘e should be landing in
+about five minutes.” Almost simultaneous with this comment, the first
+officer said, “I think you just lost number four . . . ,” followed
+immediately by advice to the flight engineer, “. . . better get some
+crossfeeds open there or something.”
+,& At 1806:46, the first officer told the captain, “We’re going to lose
+an engine. . . .‘I The captain replied, “\t’hy?” At 1806:49, the first
+officer again stated, “We’re losing an engine.” Again the captain asked,
+” 1% hy 3.” The first officer responded, “Fuel.”
+p Between 1806:52 and 1807:06, the CVR revealed conflicting and
+confusing conversation between flight crewmembers as to the aircraft’s
+fuel state. At 1807106, the first officer said, “it’s flamed out.”
+At 1807:12, the captain called Portland Approach and requested,
+II
+. . . would like clearance for an approach into two eight left, nowl” The
+aircraft was about 19 nmi south southwest of the airport and-turning
+left. This was the first request for an approach clearance from Flight
+173 since the landing gear problem began. Port land Approach
+immediately gave the flight vectors for a visual approach to
+runway 28L. The flight turned toward the vector heading of 010’.
+4 F r o m 1807:27 until 1809:16, the following intracockpit
+conversation took place:
+1807:27 - Flight Engineer: “We’re going to lose number three in
+a minute, too.”
+1807:31 - Flight Engineer: “It’s showing zero.”
+Captain: “You got a thousand pounds. You got to.”
+
+N -. ’ 0 _._. . ,
+Flight Engineer: “Five thousand in there . . .but we lost it.”
+Captain: “Alrigh t.”
+1807:38 - Flight Engineer: “Are you getting it back?”
+1807~40 - First Officer: “No number four. You got that crossfeed
+open?”
+1807:41 - Flight Engineer: “No, I haven’t got it open. Which one?”
+1807:42 - Captain: “Open ‘em both--get some fuel in there. Got
+some fuel pressure?”
+Flight Engineer: “Yes, sir.”
+1807:48 - Captain: “Rotation. Now she’s coming.”
+1807:52 - Captain: “Okay, watch one and two. We’re showing
+down to zero or a thousand.”
+Flight Engineer: “Yeah”
+Captain: “On number one?”
+Flight Engineer: “Righx”
+1808:08 - First Officer: “Still not getting it.”
+1808:ll - Captain: “\i’ell, open aII four crossfeeds.”
+Flight Engineer: “All four?”
+Captain: “Yeah.”
+1808:14 - First Officer: “.Alright, no1.i it’s coming.”
+1808:19 - First Officer: “It’s going to be --on approach though.”
+Unknown Voice: “Yeah.”
+1808:42 - Captain: “You gotta keep ‘em running. . . .”
+Flight Engineer: “Yes, sir.”
+1808:45 - First Officer: “Get this. . .on the ground.”
+Flight Engineer: “Y’cah. It’s sho\\*ing not L’ery much more fueL”
+1809:16 - Flight Engineer: “i\‘e’re do;vn to one on the totalizer.
+[dumber two is erzpty.”
+rit 1809:21, the captain advised Portland Approach, “United, seven
+three is going to turn to\\‘ard the airport and come on in.” ..I f t e r
+confirming Flight 173’s intentions, PortIand :Jpproach cleared the flight
+for the visual approach to runii’ay 281,.
+At 1810:17, the captain requested that the flight engineer “reset
+that circuit breaker momentarily. See if we get gear lights.” The flight
+engineer complied with the request.
+At 1810:47, the captain requested the flight’s distance from the
+airport. Portland approach responded, “I’d calI it eighteen flying miles.”
+At 1812:42, the captain made another request for distance. Portland
+Approach responded, “Twelve flying miles.” The flight was then cleared
+to contact Portland tower.
+At 1813:21, the flight engineer stated, “We’ve lost two engines,
+guys.” At 1813:25, he stated, “We just lost two engines - one and two,”
+At 1813:38, the captain said, “They’re all going. We can’t make
+Troutdale.” 5/ The first officer said, “We can’t make anything.”
+5/ A small airport on the final approach path to runway 28L.
+
+-g- +A - . ’ _ -. . .
+At 1813:46, the captain told the first officer, “Okay. Declare a
+mayday.” At 1813:50, the first officer called Portland International
+Airport tower and declared, “Portland tower, United one seventy three
+heavy, Mayday. We’re--the engines are flaming out. ,We’re going down.
+We’re not going to be able to make the airport.” This was the last radio
+transmission from Flight 173.
+About 1815, the aircraft crashed into a wooded set tion of a
+populated area of suburban Portland about 6 nmi east southeast of the
+airport. There was no fire. The wreckage path was about 1,554 ft long
+and about 130 ft wide.
+The accident occurred during the hours of darkness at latitude
+45’31’21”N and longitude 122’29’59”W. The elevation of the accident site
+was 285 ft.
+1.2 Injuries to Persons
+Injuries Crew Passengers Others
+Fatal 2 8 0
+Serious 2 21 0
+lMinor/None 4 152 0
+. I ;
+1.3 Damage to Aircraft
+The aircraft was destroyed.
+1.4 Other Damase
+Two unoccupied homes were destroyed. Telephone lines were cut
+and high-tension electrical powerlines were damaged.
+1.5 Personnel In for ma tion
+The crewmembers were properly certificated and qualified for the
+flight. (See Appendix B.)
+. .
+1.6 K Aircraft Information
+The aircraft was certificated and maintained in accordance with
+Federal Aviation Administration (FAA) requirements. The gross weight
+and center of gravity were within prescribed limits for the approach and
+landing. There was no usable fuel in the aircraft when it crashed.
+The figures below illustrate the aircraft’s approximate takeoff gross
+weight, approximate landing weight, and the approximate pounds of fuel
+remaining upon arrival in the vicinity of the Portland International
+Airport; these figures are based on normal operations.
+
+lbs
+Zero fuel weight from weight manifest 200 27
+Total fuel on board from fuel service form +46,7 00
+Aircraft weight before departure from gate at Denver 248,627
+Fuel consumption on taxi - 1,000
+Takeoff gross weight 247,6 27
+Fuel consumption en route to Portland, based on flight plan -31,900
+Landing weight at Portland 215,727
+Zero fuel weight from weight manifest -2oi,927
+Fuel remaining at Portland 13,800 /9
+fl Throughout the landing delay, slight 173 remained at 5,000 ft with
+landing gear down and flaps set at 15 . Under these conditions, the Safety
+Board estimated that the flight would have been burning fuel at the rate of
+about 13,209 lb.spe,r_-hour--220 lbs per min. At the beginning of the landing
+delay,?here were about 13,332 lbs-df fuel on board.
+X new type of fuel quantity indicating system was retrofitted to this
+aircraft on Slav 12, 1978. The retrofit was authorized by Change Order
+Authorization ko. 2-1849. \iith the new system installed, there are eight
+individual tank quantity gages. Each of these gages has three digits which
+are seven-segment incandescent lamps. On these individual tank gages, the
+digital reading is multiplied by 100 to obtain the total amount of fuel in the
+tank.
+The totalizer gage receives input from each individual tank gage and
+displays the total fuel available on three digital readouts. However, this
+digital reading must be multiplied by 1,000 to obtain the value of the total
+amount of fuel on board. The smallest increment of change that can be
+indicated on the individual tank gages is 100 lbs. The smallest increment of
+change on the totalizer is 1,000 lbs.
+Before the implementation of the change order, each individual tank
+gage displayed five digits which were read directly to obtain the amount of
+fuel in each tank.
+The change order also replaced the flight engineer’s totalizer
+gage,
+which had displayed six digits read directly for total fuel on board.
+-_
+According to United Airlines, the primary purposes of installing the fuel
+quantity indicating system were (1) to reduce erroneous system indications
+because of stray pickup of 400 Hz signals in the fuel quantity indicating
+system wiring, and (2) to reduce indication errors from current leaks across
+the elements of the capacitive probes and compensators.
+After the accident, United Airlines determined that the aircraft was
+burning fuel in accordance with the automatic flight plan and monitoring
+system. In October 1978, fuel burnoff examination indicated that the
+aircraft was not consuming fuel as fast as predicted; it was 1.04 percent
+
+.’ __. ,.
+-=a
+-110
+less than predicted. In addition, another method for determining burnout
+was begun by United engineers. Each trip’s total burnout was divided by
+total time. For December 1978 these aggregate values verified that this
+aircraft’s fuel consumption was within 1 percent of the plan.
+The aircraft was also equipped with a fuel flow indicator for each ;
+engine which displayed, in hundreds of pounds, the hourly rate of fuel{
+being used by the engine. These indicators were located on the pilot’s/
+forward engine instrument panel along with other engine monitoring:
+tzeges.
+1.7 Meteorological Information
+Surface weather observations taken before and after the accident at
+Portland International Airport by National Weather Service personnel
+were:
+1655 - 4,500 ft scattered; visibiljty - 30 mi; temperature - 30’F;
+dewpoint - 13’F; wind - 340 at 8 kns; altimeter setting - 30.16
+inHg.
+17z5 - Clear; visitoility - 15 mi; temperature - 29’F; dewpoint--
+13 F; wind - 010 at 11 kns; altimeter setting - 30.17 inHg.
+1829 Local - Clear; visibility - 15 mi; temperature - 28’F;
+dewpoint--12’F; wind - 35O’at 11 kns; altimeter setting - 30.19
+inHg; AIRCRAFT MISHAP.
+1.8 Aids to Navipation
+During his deposit ion, the captain stated that he had set the
+Portland VORTAC, which is located 9.2 nmi north-northeast of Portland
+International Airport, in both of his VOR receivers. He stated also that
+he was receiving distance measuring equipment information.
+1.9 Communications
+. .
+No communications difficulties were reported.
+1.10 Aerodrome Infor mat ion
+Runway 28L at Portland International Airport is hard surfaced and is
+11, 014 ft long and 150 ft wide. The published touchdown zone elevation
+and field elevation are 19 ft and 26 ft, respectively. The runway is
+equipped with high intensity runway edge lights, centerline lights, and
+visual approach slope’indicator lights. The airport has two other runways.
+Runway lOL/28R, which is parallel to runway 28L, is 8,004 ft long and 150
+ft wide. It is the primary instrument runway. Runway 02/20 is 7,000 ft
+long and 150 ft wide. It is used mainly as a crosswind runway.
+/fm-YT&h&e fairport is located near the south shore of the Columbia River
+o Portland. The terrain southeast of the airport is characteri-
+zed by low.rolling hills, which rise from the river valley.
+
+’ I ___ . (
+1.11 Flight Recorders
+N8082U was equipped with a Fairchild model 5424 flight data
+recorder (FDR), serial No. 6043. The recorder showed no outward
+evidence of damage. The foil recording mediu.m was not damaged; all
+parameter and binary traces were present and active with no evidence of
+recorder malfunction or recording abnormalities. Electrical power to the
+recorder was terminated about 44 set before the aircraft crashed. A
+readout was made of the final 15 min 44.7 set of the recorded traces.
+This readout covers the 15 min of flight before all parameter traces -
+altitude, airspeed, magnetic heading, and vertical acceleration - ceased
+to be recorded and continues for an additional 44.7 set where all binary
+traces became atypical.
+N8082U was also equipped with a Sundstrand model V557 CVR,
+serial No. 1427. The recorder was removed from the aircraft and the
+entire tape was transcribed. The quality of the recording. was good. (See
+Appendix D.)
+1.12 Wreckage and Impact In for ma tion
+The aircraft first struck two trees about 100 ft above the ground.
+These trees were about 1,554 ft from the point where the wreckage came
+to rest. About 541 ft farther along the flightpath on a heading of about
+345’, the aircraft struck two trees about 85 ft above the ground. rIbout
+400 ft farther, the right wing struck a tree about 45 it above the ground.
+About 225 ft beyond that point, the left outer wing struck a tree about 8
+ft above the ground. The aircraft then struck and destroyed an unoccu-
+pied house which was located about 1,230 ft from the first tree. Pieces of
+the aircraft’s left wing structure were located just beyond the house.
+The two main landing gear and the nose section of the aircraft first
+struck a 5-ft embankment next to a city street about 1,275 ft from the
+first tree. TheRircraft continued across the street and came to rest on a
+heading of 330 between some trees and on top of another unoccupied
+house. The tail of the aircraft came to rest about 1,350 ft from the first
+tree. Just after crossing the street, the verticle stabilizer struck a series
+of high tension cables, which ran parallel to the street.
+The fuselage, from about the fifth row of passenger seats forward,
+sustained severe, extensive impact damage in a generally rearward
+direction. The cockpit upper structure, which included the cockpit
+forward windows, had separated and was found to the right of the fuselage
+just forward of the inboard end of the right wing. The cockpit floor
+structure, which included portions of the crew seats, sections of the
+instrument panel, and the nose tunnel structure with the nose gear
+assembly partially attached, had separated and rotated to the right and
+aft; This structure was in a partially inverted position. All portions of
+the fuselage structure were accounted for and all of the structural
+damage was caused by impact with the ground and the numerous large
+trees in the immediate area.
+
+r
++ .- . , _-- ;
+-130
+The lower left side of the fuselage, between the fourth and sixth
+rows of passenger seats and below window level, had been torn away. The
+remainder of the underside of the fuselage sustained heavy damage from
+contact with several large trees and tree stumps. The passenger cabin
+interior, from row 6 to the aft bulkhead, was relatively intact. At several
+points along the fuselage, windows were smashed and the fuselage had
+been dented by large trees and separated portions of the main landing
+gear.
+The empennage showed moderate impact damage. The vertical
+stabilizer leading edge had been damaged by high tension cables at three
+points just forward of the upper three rudder-tostabilizer hinge points.
+The left wing had separated from the fuselage about 3 ft outboard
+from the fuselage attachment point. The No. 2 engine had separated from
+its pylon and was located adjacent to the wing trailing edge. The No. 1
+engine remained attached to a section of left wing structure. A 7-ft-long
+section of the left wingtip had been sheared off and was found near the
+first house.
+The right wing separated about 5 ft from the fuselage. x Z-it
+opening was evident between the fuselage and wing leading edge struc-
+ture. The wing leading edge, from a point about 5 ft outboard from the
+leading edge inboard end, was cut and torn aft to the front spar assembly.
+A large section of right wing leading edge structure had separated during
+the impact sequence and was also found near the first house.
+A section of right wing with the So. 3 engine and pylon attached
+was located just forward of the right horizontal stabilizer. The outboard
+wing set tion, which included the No. 4 engine, was to the right of the
+fuselage.
+All four engines were inspected and found to be! capable of opera-
+tion. None showed signs of rotation at impact.
+Both main landing gear were fully extended but were torn from their
+mounting strut tures. They were located near main wreckage. Inspection
+of the right main landing gear retraction mechanism showed corrosion in
+the threads of an attachment eyebolt. The eyebolt was pulled out of the
+actuator cylinder piston. The nose landing gear was fully extended and
+remained attached to the nose tunnel structure.
+1.13 Jj’ Medical and Pathological Information
+A review of the flightcrew’s medical records revealed no evidence
+of medical problems that might have affected their performance.
+AThe 10 persons who were killed in the crash died from impact
+trauma. Toxicological analyses showed no acidic, neutral, or basic drugs
+or ethanol in the blood taken from the flight engineer and first flight
+at tendant.
+
+1.14 Fire
+There was no fire.
+1.15 Survival Aspects
+The accident was partially survivable. The 10 occupants killed in
+the crash were located between the flight engineer’s station in the cockpit
+and row 5 in the passenger cabin. All of the passengers who were killed
+had been located on the right side of the cabin. That section of the
+aircraft was destroyed during the accident sequence.
+The most seriously injured passengers were seated in the right
+forward portion of the cabin near an area of the fuselage which appeared
+to have been penetrated by a large tree. These persons were s2ated near
+those passengers who were injured fatally. Some seriously injured
+passengers were seated in the rear cabin near the trailing- edge of the
+wings. The fuselage in this area had been penetrated and the floor and
+seats had been disrupted.
+Some passengers sustained serious injuries during the evacuation.
+Two passengers sustained fractut-es and others sustained lacerations and
+abrasions when they either fell from exits or as they climbed through
+debris outside the aircraft in order to reach the ground. As a result of the
+accident, 22 persons were admitted to hospitals with serious injuries
+ranging from multiple fractures of extremities and fractures of cervical
+vertebrae, to observations for possible injuries.
+J& The plane crashed in the jurisdiction of Multnomah County Rural
+Fire Protection District No. 10. Three fire departments sent personnel
+and equipment to the scene: The Port of Portland (Airport) Fire
+Depart men t; Jlultnomah RFPD No. 10, and the City of Portland Fire
+Bureau. A total of 39 fire units and 108 on-duty fire personnel responded
+to the scene. Numerous off-duty fire personnel from all fire departments
+also responded to the scene. Because there was no fire, the basic fire
+service functions were search and rescue, extrication, triage, emergency
+medical care, precautionary foaming of some aircraft parts and surround-
+ing area, laying standby firefighting water supply lines, transporting or
+assisting ambulatory.victims to a nearby church, setting.up area lighting,
+providing some interagency radio communications, and setting up the on-
+scene command post.
+Although there were many occupied houses and apartment
+complexes in the immediate vicinity of the accident, there were no
+ground casualties and no postcrash fire. Injured persons were transported
+to nearby hospitals by helicopter and ambulance.
+The aircraft was equipped with 10 floor level exits, each provided
+with automatically inflatable emergency escape slides. h addition to
+slides at the boarding doors (1L and 5L) and at the two galley service
+
+doors (2R and 5R), slides were located at the six “‘jet escape” floor level
+exits (lR, 2L, 3L, 3R, 4L, 4R). The ‘Ijet escape” doors were hinged at the
+bottom and were designed to swing down and outward when opened.
+Movement of the door actuated the automatic inflation of the escape
+slide.
+The slide from exit 1L was found wrapped around a tree at the left
+wing. The slides from exits 3L and 3R were found packed and uninflated.
+These exits were reportedly blocked by debris outside the aircraft. The
+slide at exit 1R reportedly inflated inside the cabin and extended across
+the aisle and lodged against seat 8C. The door was prevented from
+l
+opening fully because of cockpit and forward cabin debris outside the
+aircraft. The slide at exit 2R also reportedly inflated inside the cabin and
+blocked the cabin aisle. The exit door was displaced inward when the
+plane hit a tree.
+The slide at exit 4R reportedly inflated inside the cabin when the
+door was opened by a passenger. The slide inflated upward and partially
+blocked the exit opening. Because of debris outside the fuselage, the exit
+door was prevented from opening fully. The passenger who opened the
+door reported that about 10 persons used this exit before the slide was
+pushed out the exit and onto debris. The remaining escape slides
+reportedly deployed outside the aircraft and inflated but were punctured
+or torn by debris during the evacuation.
+The escape slides were removed from the accident site and were
+examined on January 3, and on January 9, 1979. No discrepancies were
+found in the installation, maintenance, manufacture, or design of the
+escape slides.
+The evacuation was completed in about 2 min. Except for seats at
+rows 20 through 22 which were torn loose from the floor attachments,
+there was only minor disruption of the cabin furnishings aft of row 6. The
+emergency lights provided adequate illumination during the evacuation.
+1.16 Tests and Research -.
+1.16.1 Retract Cylinder Assembly
+The Safety Board examined the piston rod and the mating end from
+the right main landing gear retract cylinder assembly at its metallurgical
+labora tory in Washington, D.C. The examination showed that the primary
+cause of the se aration of the rod end from the piston rod was severe
+corrosion causJby moisture on to the mating threads of both components.
+As a result of the corrosion, the joint was weakened to such an extent
+that only a comparatively low tensile load was required to pull the rod end
+out of the piston rod. The pattern of mechanical damage indicated that
+all of the rod threads had been engaged and that the rod end had been
+pulled straight out of the piston rod without any significant rotation.
+
+.
+‘LO’
+’ . -.__ ’ ,
+\ --
+1.16.2 Fuel Control Test
+Functional testing of the fuel controllers from each of the four
+engines was conducted at the company’s maintenance base. No discrepan-
+cies or out-of’tolerance conditions were found.
+1.16.3 Aircraft Systems Examinations
+*
+During the week of January 8, 1979, the following examinations
+were conducted at the company’s maintenance facility:
+(1) Fuel Flow Indiiators
+The shop examinations confirmed that the four indicators
+were indicating zero fuel flow. The front face, case, and electrical
+connections were all damaged and none could be opera ted or testeb before
+being repaired. After minor repairs to the electrical connections only the
+flow meter for the No. 2 engine became operable, and it met the linearity
+specifications.
+(2) Fuel Quantity Gages
+During the wreckage salvage, the eight fuel quantity gages
+were recovered. All units were damaged and repairs were attempted on
+each. Three gages could be repaired sufficiently to allow functional
+testing.
+The No. 4 main tank gage was given a lamp check, segment
+check, and self-test check and all were within specification. In addition,
+a linearity check was made at full, at 1,000 lbs, at 500 lbs, and at ernpt;;.
+The results were within specifications. The No. 4 alternate tank gage and
+the No. 2 main tank gage were tested in the same manner, and the results
+were within specifications. The other tank gages were not operable
+because of damage and, therefore, could not be tested.
+(3) Totalizer Gage
+The glass face was broken, the electrical connector bent, and
+the case punt tured. The damage was too extensive to enable repair for
+testing.
+(4) No. 1 Nlain Fuel Tank Capacitance Probes
+The five capacitance probes from the No. 1 main fuel tank
+were examined according to company specification. All units were within
+specification except probe No. MR 28062, serial No. 525856-31X. This
+unit did not meet resistance tolerance specification when wet.
+--Y. . -. ./s.. ,.-1__-.. ----r-----.--.7-,- r__ -
+
+k
+’ ’ _.-_ * ,
+-17-
+(5) Tank Reference Capacitors
+One of these units is located in each main tank. All four units
+were recovered and, when tested, met specifications.
+(6 Right Main Landing Gear Down-Lock Switch
+Y )
+This switch is activated when the gear reaches a down-and-
+locked position. A similar switch was installed on the left main landing
+gear. A comparison of the damage to the two switch cases showed that
+the switch from the right landing gear had been damaged apparently by an
+internal part that pushed the case outward and had distorted it. Electri-
+cal tests of the switch and attached wiring indicated an intermittent short’
+circuit when the switch was shaken. X-rays of the switch showed that’s
+large spring had become free of its mounts within the switch case.
+Normally this spring returns the down-lock switch to the gear-not:-down
+posit ion when the landing gear is retracted. The switch case was cut open
+and several coils of the spring \vere found spread apart When the spring
+and switch case damages were matched, one end of the spring fit into the
+distorted portion of the case. The other end of the spring touched wiring
+terminal No. 8 of the nicroyV\.itch and marks indicative of electrical
+arcing were found on the spring where it contacted terminal No. 8.
+(7) Left Main Landing Gear Down-Lock Switch
+The spring of the left main landing gear down lock switch was
+free of its mounts. The coils of this spring were not bent and no marks
+similar to electrical arcing were found.
+(8) Landing Gear Warning and Interlock Circuit Breaker
+When examined in the field, this circuit breaker appeared to
+be mechanically extended or electrically open. There was some mechani-
+cal damage. Later, shop tests verified that the circuit breaker was open.
+It could be operated mechanically and it opened and closed the electrical
+circuit properly.
+(9) Distance Measuring Equipment -.
+Two distance measuring equipment units, Collins Model 860E-
+2, serial No. 3954 (No. 1) and serial No. 617 (No. 2), were opened in the
+company maintenance shops and the distance modules were removed.
+When connected to a test panel, the mileage readouts were 16.05 nmi for
+the No. 1 unit and 16.0 nmi for the No. 2 unit. Both units were selected
+to channel 113X, which corresponds to a VOR frequency of 116.66 MHz.
+1.16.4 Fuel Quantity System Error
+Upon request, United Airlines provided the Safety Board with an
+error analysis of the fuel quantity indicating system for the accident
+aircraft. Analyses were prepared for three different assumptions The
+
+-A.”
+\\ .- ’ ’ _.-. , *
+first analysis asumed that all errors were at their limits and in the same
+direction. The second analysis assumed that all errors were at their limits
+but were distributed randomly with respect to sign (rootsum-square
+analysis). The third analysis was a probable error analysis. All errors in
+this analysis were those asociated with empty or near empty tanks.
+These analyses indicated the following:
+Sum of Indicators Totalizer
+Analysis Method High Error Low Error High Error Low Error
+lbs. lbs. lbs. lbs.
+,
+Worst-Case Error 2,283 High 1,482 Low 3,961 High 3,606 Low
+Root-Square-Sum Error 828 High 28 Low 1,312 High, I 957 Low
+Probable Error 685 High 185 High 1,239 High 885 Low
+1.16.5 Fuel Burn Time History
+At the request of the Safety Board, Douglas Aircraft Company and
+United Airlines studied fuel burn performance for the accident flight. Ln
+both studies, the fuel on board at the gate in Denver was 46,700 lbs. The
+fuel remaining at cruise at 35,000 ft was almost identical in both studies.
+United’s calculations of fuel burn rate for the descent from 35,000 ft to
+the 5,000-ft holding altitude were 13 percent lower than Douglas’.
+IIowever, United’s fuel burn rate while in the holding pattern was 1-I
+percent higher than Douglas’. This disparity was a result of different
+interpretations of meteorological and FDR data which resulted in
+differing math values. Both studies had similar fuel remaining values
+when both flight recorders ceased operation; Douglas had calculated 178
+lbs and United had calculated 73 lbs. Both studies compared favorably to
+the fuel burn time history computed by the Safety Board using
+information from the automatic flight plan and monitoring system and
+CVR data.
+A correlation of CVR information with both fuel burn studies shows
+the observed and calculated fuel remaining values to be in Agreement.
+The CVR transcript indicated an observed fuel remaining value of 5,000
+lbs about 1749. The Douglas figure for that time was 5,250 lbs and
+United’s was about 6,000 Ibs. if the totalizer accumulated probable error
+of 885 lbs was applied, the calculated and observed fuel remaining values
+would be in agreement. In addition, the two studies indicated that the
+accident aircraft’s fuel consumption was normal during the accident
+flight.
+Although both studies had similar fuel remaining values when the
+aircraft lost its engine power, the Safety Board believes that the Douglas’
+study more closely approximates the fuel burn during the 5,000-ft hold
+period. Therefore, fuel remaining computations for this period are
+predicated on the manufacturer’s figures of a calculated fuel burn of
+13,209 lbs per hour (220 lbs per min). According to the manufacturer’s
+study, the aircraft entered into the hold with about 13,334 lbs of fueL
+,
+
++ -- I ’ _. -. , .
+-19.
+1.17 Other Information
+$\
+1.17.1 Responsibility of the Crew
+Excerpt from United Airlines Flight Operations Manual,
+paragraph 6.2, June 30, 1978:
+“16. Except as otherwise specifically directed by the captain, all crew
+members noting a departure from prescribed procedures and safe
+practices should immediately advise the captain so that he is aware of and
+understands the particular situation and may take appropriate action.”
+1.17.2 United Airlines Flight Operations Bulletin 22-76, Fuel Policy Domestic
+FAR 45 Minute and Overwater/International 30 Minute Reserve Fuel.
+“FAR 121.639 (C) does not specify in detail how the aforementioned
+requirements are to be calculated. United Airlines has established the
+following criteria for computing required fuel.
+a. \Veight - The operating weight empty of the airplane plus maximum
+structural payload or maximum space payload, whichever is smaller, plus
+the weight of the 45 minutes of reserve fuel.
+b. Speed - Long range cruise speed.
+C. Altitude - 25,000 Feet.
+d. The ability to loiter at 5,000-feet at clean holding speed for 45 I
+m inu tes.”
+"From the aforementioned criteria is derived the following DC-8-61
+fuel requirements.
+1. Fuel required for 45 minutes cruising at long range cruise at
+25,000 feet is 8,300 pounds.
+2. Fuel required for 45 minutes holding clean at 5,000 feet is 7,800
+pounds.
+3. FAR 45 minute reserve: 8,400 pounds.”
+. .
+Excerpts From United Airlines DC-8 Flight Manual
+“Landing Gear Lever Down and Gear Unsafe Light On
+If the visual down-lock indicators indicate the gear is down then a
+landing can be made at the captain’s discretion.” (Dated January 1, 1974,
+pg. I-44.)
+“Landing Gear Apparently But Not Conclusively Down
+If possible, have tower visually check. If there is reasonable indica-
+tion that the gear is down then the landing can be made asuming gear is
+down. Do not taxi the airplane until gear locks have been installed.”
+(Dated January 2, 1974, pg I-44-59.)
+
+.’ _-- , ’
+-?jyj- --
+“Preparation For Evacuation
+1. Notify ground station of emergency.
+2. Advise the First Flight Attendant as to:
+a. nature of emergency and expected landing conditions,
+b. time available for preparation,
+c. signal for taking protective position,
+d. signal to be used if evacuation is not necessary,
+e. other special instructions.
+3. Determine from the First Flight Attendant:
+:.
+the passenger load,
+:: number of infants, invalids, and other passengers who would be
+given -special consideration.
+4. Direct all nonessential cockpit members to move to the cabin
+and assist Flight Attendants as requested.
+5. Review the EVACL’XTION Emergency procedure.
+6. slake an announcement to the passengers as appropriate.
+7. Accomplish the CABIN INSPECTIOS CHECKLIST below when
+advised by the First Flight Attendant that cabin preparations are
+completed.
+a. Depressurize the airplane when below 10,000 feet.
+9. Insure that the emergency exit lights switch is in the armed
+posit ion.
+10. Avoid landing, if possible, until emergency equipment and crews
+are standing by.
+11. Advise the First Flight Attendant when approximately five minutes
+. .
+from landing.
+12. Advise the passengers and Flight Attendants when to assume the
+protective posit ion.
+13. If evacuation is necessary, accomplish the EVACUATION
+Emergency Procedure.”
+(Dated September 27, 1975, page I-19.)
+“Cabin Inspect ion Checklist
+1. All Flight Attendants briefed on station, duties, and signals.
+2. Passengers reseated as required and seats to be used by crew
+vacated.
+
+E
+N -- I . --. ,a
+-21-
+3. Helper passengers briefed on station, duties, and exit operation.
+4. Passengers briefed on:
+a. Protective position and signal to assume position.
+b. Seat belts tight and low.
+c. How to unfasten seat belts.
+d. Assigned exits and when and how to leave the airplane.
+5. Passengers’ glasses, dentures, high heels, and other possible hazar-
+dous items removed and stowed. Loose objects stowed in secure
+stowage areas.
+6. Internal doors and curtains secured open.
+7. Meal service furnishings in appropriate secure area.
+a. Seat backs upright and tables stowed.
+9. Pillows and blankets distributed for impact protection.”
+(Dated September 27, 1975, page I-20)
+1.17.4 ExcerDts From United Airlines Maintenance/Overhaul blanual
+“Fuel Quantity Indicator System - Tolerance
+a. All tanks at empty, + 150 pounds.
+b. Tank at full #l & $4 Main + 400 pounds
+# 1 6r #4 Alt f 225 pounds
+#2 &. #3 Main + 400 pounds
+#2 & #3 Alt + 250 pounds”
+(Dated January 19, 1976, page 201.)
+1.17.5 hlain Landing Gear Retract Cylinder Assembly
+Although the purpose of the main landing gear retract cylinder
+._ assembly is to raise the landing gear during the retract cycle, the
+hydraulic action of the cylinder acts as a buffer during the extend cycle
+to moderate the rate of extension and prohibit the landing gear from free
+falling to the down-and-locked position.
+McDonnell-Douglas Corporation issued an AR-Operator Letter, AOL
+8-141, in July 1967, Main Landing Gear Retract Cylinder Assemblies, DC-
+8 Aircraft. The letter advised all DC-8 operators that several cylinder
+end fittings had been found with fractures in the thread roots. To
+alleviate this condition, the eyebolt threads were changed from machined
+to rolled-type threads. The letter also recommended sealing the threads
+with a corrosion resistant compound.
+
+&
+.
+i -2 2 1’ 1’ _-. ,.
+I
+On March 27, 1968, McDonnell-Douglas issued Service Bulletin No.
+: !
+, 32-131, DC-8 SC 1681, Landing Gear Extension and Retraction -Replace
+Main Landing Gear Retract Rod Assemblies. This bulletin provided
+information on the replacement of the retract cylinder rod end assemblies
+with machined threads with rod end assemblies with rolled-type threads.
+In 1973, United Airlines instituted a gamma ray inspection program
+for the main landing gear retract actuating cylinder and rod ends on the
+DC-8 aircraft. The purpose of inspection was to detect thread corrosion
+in the cylinder. The cylinder threads on the main landing gear retract
+actuators of the accident aircraft were last inspected using the gamma
+ray inspection on April 2, 1977.
+In order to provide additional threads and a longer eyebolt on
+actuator cylinders found with corrosion damage, the retract cylinder was
+to have been modified as provided for in the United Airlines Maintenance
+.Ilanual dated January 2, 197-I. The right main landing gear retract
+actuator on the accident aircraft had not been modified.
+1.17.6 Dispatcher Responsibilitv and Authoritv
+Under the provisions of United Airlines Flight Operations llanual,
+the flight dispatcher responsibility after the aircraft is airborne is limited
+to computation of fuel estimate under only two conditons-when contact
+is not established within 20 min and during a hijacking.
+1.18 Sew Investigation Techniques
+Sone
+.
+
+Ic..Y__.. _ _ ._ _ - ..- .-..__._.. _...-.__ . .
+2. ANALYSIS
+The flightcrew was properly certificated and each crewmember had received
+the training and the off-duty time prescribed by applicable regulations. There was
+no evidence of medical problems that might have affected their performance.
+4 The aircraft was certificated and maintained according to applicable regula-
+t ions. The gross weight and c.g. were within prescribed limits. Except for the
+failure of the piston rod on the right main landing gear retrac_t cylinder assembly
+and the failure of the landing gear position indicating system, the aircraft’s
+airframe, systems, structures, and powerplants were not factors in this accident.
+A The investigation revealed that fuel was burned at a normal rate between
+Denver and Portland, The aircraft arrived in the Portland area with the preplanned
+13,800 lbs of fuel and began its delay at 5,000 ft with about 13,334 lbs.
+The first problem which faced the captain of Flight 173 was the unsafe
+landing gear indication during the initial approach to Portland international
+Airport. This unsafe indication followed a loud thump, an abnormal vibration, and
+an abnormal aircraft yaw as the landing gear was loksered. The Safety Board’s *
+investbation revealed that the l~ing._gear_pr_ob!e-~_-is.as ca_used by severe
+corrosion in the matmg threadswhere therig_h-t -m--ai n- -.landing gear
+-
+re
+.
+tr
+-
+ac
+-
+t cylinder
+9tsse mbly~as-connec&zd o the rod end. The c-Grosion -low
+the two parts to pull apart and the right main landing gear to fall free when the
+flightcrew lowered the landing gear. This rapid fall disabled the microswitch for
+the right main landing gear which completes an electrical clrcult to the gear--
+Qosition indicators in the cockpit. The XIterence between lhmfinem.-for the
+right maln landing gear to free fall and the time it took for the the left main
+landing gear to extend normally, probably created a difference in aerodynamic drag
+for a short time. This difference in drag produced a transient yaw as the landing
+gear dropped.
+Although the landing gear malfunction precipitated a series of events which
+culminated in the accident, the established company procedures for dealing with
+landing gear system failure(s) on the DC-8-61 are adequate to permit the safest
+possible operation and landing of the aircraft. Training procedures, including
+ground school, flight training, and proficiency and recurrent training, direct the
+fligh’tcrew to the Irregular Procedures section of the DC-8 Flight--Manual, which
+must be in the possession of crewmembers while in flight. The Irregular
+Procedures section instructed the crew to determine the position of both the main
+and nose landing gear visual indicators. “If the visual indicators indicate the gear
+is down, then a landing can be made at the captain’s discretion.” The flight
+engineer’s check of the visual indicators for both main landing gear showed that
+they were down and locked. A visual check of the nose landing gear could not be
+made because the light which would have illuminated that down-and-locked visual
+indicator was not operating. However, unlike the main landing gear cockpit
+indicators, the cockpit indicator for the nose gear gave the proper “green gear-
+down” indication.
+
+Admittedly, the abnormal gear extension was cause for concern and a
+flightcrew should asses the situation before communic’ating with the dispatch or
+maintenance personnel, However, aside from the crew’s discussing the problem and
+adhering to the DC-8 Flight Manual, the only remaining step was to contact
+company dispatch and line maintenance. From the time the captain informed
+Portland Approach of the gear problem until contact with company dispatch and
+line maintenance, about 28 min had elapsed. The irregular gear check procedures
+contained in their manual were brief, the weather was good, the area was void of
+heavy traffic, and there were no additional problems experienced by the flight that
+would have delayed-the captain’s communicating with the company. The company
+maintenance staff verified that everything possible had been done to assure the
+integrity of the landing gear. Therefore, upon termination of corn municationstith-
+company dispatch and maintenance personnel, whi$h was about 30 min before-the
+crash, the captain could have mad&%%6~~g~~ttemp~. TJe SafeZ&&a&bf&zs
+----.
+that Hlght 173 C~!il!!-a.-v-e-. .landed-saf.ely..+thin 30 to 40 min after th&&ing.gear
+rIXI~~!on. --.--
+--
+Upon completing communications with company line maintenance and
+dispatch, the captain called the first flight attendant to the cockpit to instruct her
+to prepare the cabin for a possible abnormal landing. During the ensuing
+dmUseraptain did not assign the first flight attend&t a specified t.lm’e
+within Irhichta_prepareth~a~i~-~eequirbby-the-fiightm~~~TTTn~e
+.----. -__ _
+*Such timP cQfstraint. the first fli&-_a_tt-e_n_da_n t- _w-a _s. -p&ably-left- with the
+impression that time efficiency was-not net.essarily as important asthe assurance
+----_-_. .- _._- -----
+of thorough pre$%&on.
+__
+The Safety Board believes that any time a flight deviates from a flight plan,
+the flightcrew should evaluate the potential effect of such deviation on the
+aircraft fuel status. This flightcrew knew that the evaluation of the landing gear
+problem and preparation for an emergency landing would require extended holding
+before landing.
+The flightcrew should have been aware that there were 46,700 lbs of fuel
+aboard the aircraft when it left Denver at 1433 and that there was about 45,650 lbs
+at takeoff at 1447. Regardless of whether they were aware of the actual fuel
+quantities, they certainly should have been aware that the initial fuel load was
+predicated on fuel consumption for the planned 2 hr 26 min en route flight, plus a
+reserve which includes sufficient -fuel for 45 min at normal cruise and a contin-
+gency margin of about 20 min.additional flight.
+‘QTherefore, the crew should have known and should have been concerned that
+fuel could become critical after holding. Proper crew management includes i
+constant awareness of fuel remaining as it relates to time. In fat t, the Safety
+Board believes that proper planning would provide for enough fuel on landing for a
+,) go-around should it become necessary. Such planning should also consider possible
+’ fuel-quantity indication inaccuracies. This would necessitate establishing a dead-
+< line time for initiating the approach and constant monitoring of time, as well as
+4: the aircraft’s position relative to the active runway. Such procedures
+
+I
++ -- a’ _-- ,*
+a-
+l
+should be routine for all flightcrews. However, based on available evidence, this
+flightcrew did not adhere to such procedures. On the contrary, the ssx9q-k
+period of ku9ding. The other two flight crewmembers, although they made several
+hg time to fuel exhaustion would have been voiced. However, there was none until
+after the aircraft was already in a position from which recovery was not possib$
+In analyzing the flightcrew’s actions, the Safety Board considered that the
+crew could have been misled by inaccuracies within the fuel-quantity meatiiing
+system. However, those intracockpit comments and radio transmissions in which
+fuel quantity was’mentioned indicate that the fuel-quantity indicating system wa.s
+accurate. A
+A Had the flightcrew reld&my 91. thc>$--&el qk_an_tit&s-.to fuel flow, -they
+should have been aware_that fuel exhaustion wouldxcur at oa~~t.l815f Other p-”
+--
+evidence that the captain had failed to assess the effect of continued holding on
+fuel state was provided by his stated intentions to land about 1805 with 4,000 Ibs of
+fuel on board. Just minutes earlier, at 1748:56, he was made aware that only 5,000
+lhs remained. During the 16 min between the observation of 5,000 lbs and 1805,
+the aircraft would consume at least 3,000 Ibs of fuel. Further evidence of .the
+flightcrew’s lack of concern or aivareness was provided when
+observations of 4,000 lbs remaining about 17 min before the crash, the
+left the cockpit at the captain’s request to check on the cabin
+evacuation preparations. Upon his return, about 4 min later, he gave the captain
+an estimate of another 2 or 3 min for the completion of the cabin preparation. At
+this time;‘.the aircraft was in the general vicinity of the airport. In the initial
+interview with the captain, he stated that he felt the cabin preparatmd be
+ea m rrom IO-0 mm and fiat the “taiIXiaafif’~could‘be accomplish;;d
+roach to the airport. Certain1
+eCK prdc
+nd r ecom mended byminv- li
+a 7.t e.e nmed and had alehrteed Portlw1 of
+pr-oblei *n--g.
+C
+Under these.qircumstances, there appears to have been no valid reamn not ts,-.
+discontinue their heading the airport in order to make theii:
+previb%l$ ‘ksti&k&d &tiding ‘.tim&$. However, about ‘15101:12, the first officqr
+accepted a’nd the”‘&$tiin“did n&t q don a vet t$ heading which would take them >
+away-.from-thecairpdtit -kind de@‘*their landing time.eppreciably. Moreover, after
+the’;turn’;-w~Sti~~,~le’t~d “non4 df the. flightcrew suggested turning toward the \
+airport.fihus, it was at this time that the crew’s continuing preoccupation with the 1
+landing g&r -@+oblem ad i&&g ‘preparations: t&a&$ ‘crucial and an accident
+:.
+became’ ~eyitabl&~S y i
+
+- _ ’ . -. _ . .
+The Safety Board also considerzthe possibility that the captain was aware
+of the fuel quantity on board, but failed to relate the fuel state to time and
+distance from the airport and intentionally extended. the flight to reduce the fuel
+load in order to reduce the potential of fire should the landing gear fail upon
+landing. The Safety Board could find no evidence, however, to support such a
+theory and believes that ,had he so intended, the captain would have advised the
+first officer and the flight engineer. Therefore, the Safety Board can only
+conclude that the flightcrew failed to relate the fuel remaining and the rate of fuel
+flow to the time and distance from the airport, because their attention was
+directed almost entirely toward diagnosing the landing gear problem. Although on
+two occasions the captain confirmed with the company that he intended to land
+about 1805 and that he would be landing with about 4,000 lbs of fuel, this estimated
+time of arrival and landing fuel load were not adhered to, nor was the expected
+approach time given to Portland Approach. This failure to adhere to the estimated
+time of arrival and landing fuel loads strengthens the Board’s belief that the
+landing gear problem had a seemingly disorganizing effect on the flightcrew’s
+per for mance. Evidence indicates that their scan of the instruments probably
+narrowed as their thinking fixed on the gear. After the So. A engine had flamed
+out and with the fuel totalizer indicating 1,000 lbs, the captain was still involved in
+resetting circuit breakers to recheck landing gear light indications.
+It \vas not until after it became apparent to the crew that tolli engine flame
+out is’as imminent that the captain was concerned and, in fact, mny have been
+confused as to the amount of fuel which actually remained. About G min before all
+engines stopped, the captain stated that there was 1,000 lbs of fuel in the So. 1
+main tank, and the flight engineer agreed with him. .4t this same time, the captain
+began to describe the gage indication as changing from 1,000 ibs to zero 15s. Since
+the No. 1 main tank gage does not change its indication from 1,000 105 to zero ibs
+directly, but decreases in increments of 100 lbs, the captain must have read the
+gage indication incorrectly. Actually, the action he described was ttrrt of a gage
+changing from 100 Ibs to zero lbs.
+The company had recently changed the fuel quantity gpzcs
+01 t!lls n~rcmft
+from a direct reading digital-type to a three-figure indicator tturt hrtd to be
+multiplied by a factor of 100 to get the actual individual tank vnlucs. In nddit ion,
+the new totalizer gage, of the same three-figure presentation as the indivldunl tank
+gages, had to be multiplied by a factor of 1,000 to get the actual totol fuel. During
+the stressed situation, the captain and the flight engineer may have mixed
+up these multipliers and used 1,000 when reading the individual.tank glgees instead
+of 100. However, there is no evidence from previous comments that such a
+mistake was made: By the .time such confusion was indicated;- the nccident was
+inevitable.
+The Safety Board believes that this accident exemplifies a recurring
+problem--a breakdown in cockpit management and teamwork during a situation
+involving malfunctions of aircraft systems in flight. To combat this problem,
+responsibilities must be divided among members of the flightcrew while a malfunc-
+tion is being resolved. In this case, apparently no one was specifically delegated
+the responsibility of monitoring fuel state.
+--.----_- -.
+
+Although the captain is in command and responsible for the performance of
+his crew, the actions or inactions of the other two flight crewmembers must be
+analyzed.
+Admittedly, the stature of a captain and his management style may exert
+subtle pressure on his crew to conform to his way of thinking. It may hinder .-$!
+interaction and adequate monitoring and force another crewmember to yield his
+right to express an opinion.
+__c -e.. - -_.. _.-. - ..-.. __
+The first officer’s main responsibiIity is to monitor the captain. In particular,
+he provides feedback for the captain. If the captain infers from the first officer’s
+actions or inactions that his judgment is correct, the captain could receive
+reinforcement for an error or poor judgment. Although the first officer did, in-
+fact, make several subtle comments questioning or discussing the aircraft’s fuel
+state, it was not until after the No. 4 engine flamed out that he expressed a direct
+view, “Get this . . . on the ground.” Before that time, the comments were not
+given in a positive or direct tone. If the first officer recognized the criticality of
+the situation, he failed to convey these thoughts to the captain in a timely manner.
+The flight engineer’s responsibility, aside from management of the aircraft
+systems, is to monitor the captain’s and first officer’s actions as they pertain to the
+performance of the aircraft, that is, takeoff, landing, holding speeds, and range of
+the aircraft considering time and fuel flow. Although he informed the captain at
+1750:30 that an additional “fifteen minutes is really gonna run us low on fuel here,”
+there is no indication that he took affirmative action to insure that the captain was
+fully aware of the time to fuel exhaustion. Neither is there an indication that,
+upon returning to the cockpit at 1801:39, he relayed any concern about the
+aircraft’s fuel state to the captain. Although he commented that 3,000 lbs of fuel
+remained, he failed to indicate time remaining or his views regarding the need to
+expedite the landing.
+The first officer’s and the flight engineer’s inputs on the flight deck are
+important because they provide redundancy. The Safety Board believes that, in
+training of all airline cockpit and cabin crewmembers, assertiveness training should
+be a part of the standard curricula, including the need for individual in_i t_iat.iv-e ._a. nd
+effecti-v-e. expression of concern.
+- - ------ --_.___
+In order to determine.’ whether the captain had received all available
+assistance during the emergency, the Safety Board evaluated the actions of the
+company dispatcher and his role relative to the accident sequence. According to
+the tape of the conversation between the captain, the company dispatcher, and
+company line maintenance personnel, the captain had advised the dispatcher that
+he had 7,000 lbs of fuel aboard and that he intended to land in 15 or 20 min. The
+dispatcher then checked with the captain to ascertain a specific time for the
+landing and the captain agreed that 1805 was Ita good ballpark.” The dispatcher,
+according to his interview after the accident, then relayed this landing time and
+the aircraft’s status to the company personnel in Portland. He also stated that his
+assessment of the situation was that of the fuel remaining upon landing would be
+low but the landing could be made successfully at 1805. The Safety Board believes
+that, with the information given to him by the captain, the dispatcher acted
+properly and in accordance with company procedures.
+
+P

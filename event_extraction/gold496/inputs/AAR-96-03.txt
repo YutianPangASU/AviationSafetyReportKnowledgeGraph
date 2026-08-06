@@ -1,0 +1,2135 @@
+PB96-910403
+NTSB/AAR-96/03
+. I
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+I
+AIRCRAFT ACCIDENT REPORT
+UNCONTAINED ENGINE FAILURE/FIRE
+VALUJET AIRLINES FLIGHT 597
+DOUGLAS DC-9-32, N908VJ
+ATLANTA, GEORGIA
+JUNE 8, 1995
+I
+I
+6579A
+I
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety
+Board makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(202)382-6735
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSB/AAR-96/03 PB96-910403
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+UNCONTAINED ENGINE FAILURE/FIRE
+VALUJET AIRLINES FLIGHT 597
+DOUGLAS DC-9-32, N908VJ
+ATLANTA, GEORGIA
+JUNE 8,1995
+Adopted: July 30, 1996
+Notation 6579A
+Abstract: This report explains the uncontained engine failure/fire on ValuJet Airlines flight 597, a
+Douglas DC-9-32, N908VJ, at Atlanta, Georgia, on June 8, 1995. The safety issues discussed in the
+report include the clarity of operations specifications for repair stations, recordkeeping requirements
+for foreign repair stations, regulatory guidance concerning maintenance documentation, intent of
+“serviceable tags,” independently powered public address systems on all transport-category
+airplanes, flight attendant training programs and manuals, enforcement of occupant restraint
+requirements, notification of flightcrew of cabin fire, cabin material/fire safety standards, flight
+attendant attire, and quality of cockpit voice recordings. Safety recommendations concerning these
+issues were made to the Federal Aviation Administration (FAA).
+
+
+
+CONTENTS
+EXECUTIVE SUMMARY............................................................................................................vi
+1. FACTUAL INFORMATION.....................................................................................................1
+1.1 History of the Flight..............................................................................................................1
+1.2 Injuries to Persons.................................................................................................................3
+1.3 Damage to Aircraft................................................................................................................3
+1.4 Other Damage........................................................................................................................3
+1.5 Personnel Information...........................................................................................................3
+1.5.1 The Captain....................................................................................................................3
+1.5.2 The First Officer.............................................................................................................4
+1.5.3 Flight Attendants............................................................................................................4
+1.6 Aircraft Information..............................................................................................................4
+1.6.1 Aircraft Origin and Configuration..................................................................................4
+1.6.2 Emergency Lighting and Power.....................................................................................5
+1.7 Meteorological Information..................................................................................................7
+1.8 Aids to Navigation................................................................................................................7
+1.9 Communications...................................................................................................................7
+1.10 Airport Information.............................................................................................................8
+1.11 Flight Recorders..................................................................................................................8
+1.12 Wreckage and Impact Information......................................................................................9
+1.12.1 Right Engine.................................................................................................................9
+1.12.2 Left Engine.................................................................................................................11
+1.12.3 Fuselage......................................................................................................................11
+1.13 Medical and Pathological Information..............................................................................12
+iii
+
+1.14 Fire....................................................................................................................................14
+1.14.1 Emergency Response..................................................................................................14
+1.15 Survival Aspects................................................................................................................14
+1.16 Tests and Research............................................................................................................16
+1.16.1 Metallurgical Examinations.......................................................................................16
+1.16.2 Burn Tests of Cabin Furnishings................................................................................20
+1.17 Additional Information......................................................................................................21
+1.17.1 ValuJet’s Purchase of Turk Hava Yollari (THY) Aircraft, Engines, and Spare Parts21
+1.17.1.1 Pre-delivery Activities in Turkey............................................................................21
+1.17.1.2 Post-delivery Activities in the United States...........................................................25
+1.17.2 1991 Overhaul/Inspection of 7th Stage HPC Disk by THY........................................26
+1.17.3 Pratt & Whitney Guidance on Engine Overhaul/Inspection......................................28
+1.17.4 FAA Regulations Regarding the Return to Service of the Spare Engines.................30
+1.17.5 THY Repair Station....................................................................................................32
+1.17.5.1 Pratt & Whitney Engine Shop Maintenance Review..............................................34
+1.17.5.2 FAA Inspections of THY Repair Station................................................................35
+1.17.6 ValuJet’s Flight Attendant Training Program............................................................37
+1.17.7 Safety Board Recommendations Subsequent to the Accident...................................38
+2. ANALYSIS..............................................................................................................................41
+2.1 General................................................................................................................................41
+2.2 Uncontained Engine Failure................................................................................................41
+2.3 Overhaul Procedures by THY.............................................................................................42
+2.4 Adequacy of FAA Recordkeeping Requirements...............................................................45
+iv
+
+2.5 Maintenance Release and “Serviceable” Tags for Aircraft Components............................47
+2.6 THY’s Authority to Overhaul JT8D Engines......................................................................47
+2.7 Emergency Lighting and Public Address System...............................................................48
+2.8 ValuJet’s Flight Attendant Training Program.....................................................................50
+2.9 In-Lap Children over 2 Years Old.......................................................................................51
+2.10 Notification of Flightcrew of Cabin Fire...........................................................................52
+2.11 Fire Retardant Cabin Furnishings......................................................................................53
+2.12 ValuJet Flight Attendant Uniforms...................................................................................55
+2.13 Quality of CVR Recording................................................................................................55
+3. CONCLUSIONS......................................................................................................................57
+3.1 Findings...............................................................................................................................57
+3.2 Probable Cause....................................................................................................................59
+4. RECOMMENDATIONS.........................................................................................................60
+5. APPENDIXES.........................................................................................................................63
+APPENDIX A - Investigation And Hearing..................................................................................63
+APPENDIX B - CVR Transcript...................................................................................................65
+APPENDIX C - Example of a “Process Sheet”............................................................................91
+APPENDIX D - Pratt &Whitney Plating Requirements for #7 HPC Disk.................................102
+APPENDIX E - Examples of THY Repair Station Operations Specifications...........................118
+APPENDIX F - Examples of ValuJet’s Flight Attendant Manual Emergency Equipment—Before
+and After Revision in November 11, 1995.................................................................................126
+APPENDIX G - Comparison of Requirements for Domestic and Foreign Repair Stations
+Certificated Under FAR Part 145................................................................................................128
+v
+
+EXECUTIVE SUMMARY
+On June 8, 1995, a Douglas DC-9-32, N908VJ, was being operated by ValuJet
+Airlines as a scheduled, domestic passenger flight under the provisions of Title 14 Code of
+Federal Regulations (CFR) Part 121. Flight 597, destined for Miami, Florida, departed gate C25
+at the William B. Hartsfield Atlanta International Airport, Atlanta, Georgia, at 1855, and was
+cleared for takeoff on runway 27R at 1908. Five crewmembers and 57 passengers were on
+board.
+As flight 597 began its takeoff roll, a "loud bang" was heard by the airplane occupants
+and air traffic control personnel. The right engine fire warning light illuminated, the flightcrew
+of a following airplane reported to the ValuJet crew that the right engine was on fire, and the
+takeoff was rejected. Shrapnel from the right engine penetrated the fuselage and the right engine
+main fuel line, and a cabin fire erupted. The airplane was stopped on the runway, and the captain
+ordered the evacuation of the airplane.
+The flight attendant seated in the aft flight attendant jumpseat received serious
+puncture wounds from shrapnel and thermal injuries. Another flight attendant and five
+passengers received minor injuries. The pilots, the third flight attendant, and 52 passengers were
+not injured. The airplane’s fuselage was destroyed.
+The National Transportation Safety Board determines that the probable cause of this
+accident was the failure of Turk Hava Yollari maintenance and inspection personnel to perform a
+proper inspection of a 7th stage high compressor disk, thus allowing the detectable crack to grow
+to a length at which the disk ruptured, under normal operating conditions, propelling engine
+fragments into the fuselage; the fragments severed the right engine main fuel line, which resulted
+in a fire that rapidly engulfed the cabin area. The lack of an adequate recordkeeping system and
+the failure to use “process sheets” to document the step-by-step overhaul/inspection procedures
+contributed to the failure to detect the crack and, thus, to the accident.
+The safety issues in this report include the clarity of operations specifications for repair
+stations, recordkeeping requirements for foreign repair stations, regulatory guidance concerning
+maintenance documentation, intent of “serviceable tags,” independently powered public address
+systems on all transport-category airplanes, flight attendant training programs and manuals,
+enforcement of occupant restraint requirements, and cabin material/fire safety standards.
+Safety recommendations concerning these issues were addressed to the Federal
+Aviation Administration.
+vi
+
+UNCONTAINED ENGINE FAILURE/FIRE
+VALUJET AIRLINES FLIGHT 597
+DOUGLAS DC-9-32, N908VJ
+ATLANTA, GEORGIA
+JUNE 8, 1995
+1. FACTUAL INFORMATION
+1.1 History of the Flight
+On June 8, 1995, a Douglas DC-9-32, N908VJ, was being operated by ValuJet Airlines
+as a scheduled, domestic passenger flight under the provisions of Title 14 Code of Federal
+Regulations (CFR) Part 121. Flight 597, destined for Miami, Florida, departed gate C25 at the
+William B. Hartsfield Atlanta International Airport, Atlanta, Georgia, at 1855,1 and was cleared
+for takeoff on runway 27R at 1908. Five crewmembers and 57 passengers were on board.
+As flight 597 began its takeoff roll, a "loud bang" was heard by the airplane occupants
+and air traffic control personnel. The right engine fire warning light illuminated, the flightcrew of
+a following airplane reported to the ValuJet crew that the right engine was on fire, and the takeoff
+was rejected. Shrapnel from the right engine penetrated the fuselage and the right engine main
+fuel line, and a cabin fire erupted. The airplane was stopped on the runway, and the captain
+ordered the evacuation of the airplane.
+After the airplane came to a stop, the forward flight attendants opened the forward
+passenger boarding door and the service door exits, and the airplane was evacuated. The flight
+attendant at the service door exit stated that when the door was opened, the cabin filled with
+smoke from about waist level up to the ceiling.
+The flight attendant seated in the aft flight attendant jumpseat received serious puncture
+wounds from shrapnel and thermal injuries and evacuated herself from the airplane through an
+overwing exit. Another flight attendant and five passengers received minor injuries. The pilots,
+the third flight attendant, and 52 passengers were not injured. The airplane’s fuselage was
+destroyed.
+The accident occurred at dusk. The airplane came to a stop about 1,500 feet down
+runway 27R, before taxiway M18, approximately 33° 38’04” North latitude and 84° 24’50” West
+longitude (see figure 1).
+1 Unless otherwise indicated, all times are eastern standard time, based on a 24-hour clock.
+
+Figure
+l—Location
+of
+flight
+597
+at
+Hartsfield
+Atlanta
+i
+.
+.
+.
+i
+.
+1.
+. . .
+--. ..- -u--
+-.
+—
+I
+9R
+Ju
+,
+lflL
+nnH
+fll lL
+-nr
+lUUL
+1
+. . .
+IJ ULZ —
+.,-
+-—
+.-
+.
+.
+.
+-
+. . .
+2
+
+3
+1.2 Injuries to Persons
+Cockpit Flight
+Injuries crew attendants Passengers Other Total
+Fatal 0 0 0 0 0
+Serious 0 1 0 0 1
+Minor 0 1 5 0 6
+None 2 1 52 0 55
+Total 2 3 57 0 62
+1.3 Damage to Aircraft
+The fuselage was destroyed by fire, which gutted the interior, burned through the roof of
+the forward cabin area of the airplane, and consumed most of the cabin overhead. There was
+substantial exterior damage with circumferential outward tearing of the right engine cowl and
+engine case in the plane of rotation of the right engine 7th stage high pressure compressor (HPC)
+disk. There was also shrapnel damage to the fuselage and left engine cowl.
+1.4 Other Damage
+No other property damage resulted from this accident.
+1.5 Personnel Information
+The flightcrew consisted of the captain and the first officer. Three flight attendants
+were aboard the airplane.
+1.5.1 The Captain
+The captain, age 45, was hired by ValuJet Airlines on November 25, 1993, as a captain
+on DC-9 airplanes. He held an airline transport pilot (ATP) certificate, with an airplane
+multiengine land rating, and DC-9, Boeing 737, and Lear Jet type ratings. He had commercial
+pilot privileges for airplane single-engine land. He was a certified flight instructor with airplane
+multiengine and instrument airplane ratings.
+The captain’s first-class medical certificate was issued on March 21, 1995, with no
+restrictions or limitations.
+The captain was a designated pilot examiner for Boeing 737 airplane type ratings. His
+last proficiency check was completed on May 7, 1995, in the DC-9 airplane. According to
+company records, the captain had accumulated about 9,500 total flight hours, with about 3,500
+hours in the DC-9, and 2,500 hours as a DC-9 captain. The captain had about 11 years previous
+experience with Eastern Airlines as a DC-9 captain and first officer, a Boeing 727 first officer, and
+a Lockheed L-1011 second officer.
+
+4
+The captain reported for duty on the day of the accident at 1332, following 3 days off
+duty.
+1.5.2 The First Officer
+The first officer, age 43, was hired by ValuJet Airlines on October 28, 1994, as a first
+officer on the DC-9 airplane. He held an ATP certificate with airplane single-engine and
+multiengine land ratings.
+His first-class medical certificate was issued on September 14, 1994, with no
+restrictions or limitations. The first officer’s last proficiency check was completed on May 29,
+1995, in the DC-9 airplane. According to company records, he had accumulated about 3,800 total
+flight hours with 552 hours in the DC-9, all as first officer. The first officer had previous flight
+experience in a Lockheed P-32 with the United States Navy, between 1982 and 1991.
+The first officer reported for duty on the day of the accident at 1328, following 2 days
+off duty.
+1.5.3 Flight Attendants
+Two flight attendants occupied the aft-facing double-occupancy jumpseat in the forward
+cabin at the time of the accident. One of the flight attendants had completed her initial ValuJet
+training on November 15, 1994. She had been previously employed as a flight attendant with
+Eastern Airlines for 7½ years and with Private Jet for 1½ years. She was scheduled for her first
+recurrent training in November 1995.
+The other flight attendant in the forward section of the cabin had completed her initial
+training on December 15, 1994. She had no prior flight attendant experience. She was scheduled
+for her first recurrent training in December 1995.
+The flight attendant who occupied the jumpseat in the rear cabin had completed her
+initial training on December 23, 1993. She had no prior flight attendant experience. Her most
+recent recurrent training before the accident was completed in November 1994.
+1.6 Aircraft Information
+1.6.1 Aircraft Origin and Configuration
+N908VJ, a Douglas DC-9-32, serial number (SN) 47321, was registered to ValuJet
+Airlines. The airplane was purchased from the Douglas Aircraft Company and was put into
+service as part of ValuJet’s fleet on February 4, 1994. It had previously been operated by Delta Air
+Lines. The airplane was powered by two Pratt & Whitney (P&W) JT8D-9A turbofan engines.
+2 The Lockheed P-3 is a Navy antisubmarine patrol plane equipped with four turbopropeller engines.
+
+5
+The right engine, SN 666966, was installed on the airplane in March 1995. It had been obtained
+by ValuJet from Turk Hava Yollari (THY) A.O., Turkish Airlines, in a large equipment purchase
+on October 3, 1994, that included a total of 23 engines.3 THY is a Turkish domestic and
+international airline that also operates an airframe and engine repair station.
+At the time of the accident, flight 597 had a basic operating weight of 61,564 pounds
+and a takeoff weight of 96,374 pounds; maximum takeoff weight for this DC-9-32 was 102,900
+pounds. The center of gravity was at 23 percent mean aerodynamic chord, which was within
+limits. During the pre-departure preparations, the flightcrew noted that the traffic collision and
+avoidance system (TCAS) fail light remained illuminated. The minimum equipment list for the
+accident aircraft indicated that the TCAS was not required for flight, and at the time of the
+accident, this discrepancy could be left uncorrected for up to 10 days.
+The airplane was configured with 108 passenger seats. Supplemental oxygen for both
+the flightcrew and the passengers was provided by compressed oxygen-filled bottles.
+Two floor-level exits were located in the forward cabin, four overwing exits were
+located at rows 14 and 16, and a tailcone exit was located at the rear of the cabin. (See figure 2.)
+Two cockpit windows could be used as emergency exits.
+1.6.2 Emergency Lighting and Power
+The airplane was equipped with a cabin floor path emergency lighting system, which,
+along with other emergency lights, provides illumination in the main cabin when the normal
+electrical power is interrupted. The emergency lighting system was installed in accordance with a
+supplemental type certificate.4 The emergency lighting system is powered by either the
+Emergency direct current (DC) Bus or dedicated rechargeable battery packs and is controlled by a
+three-position emergency lighting switch with positions “ON,” “OFF,” and “ARMED” located in
+the cockpit overhead panel. The Emergency DC Bus is normally powered by engine-driven
+generators. It can also be activated by manually selecting emergency electrical power. Placing the
+emergency lighting switch to “ON” illuminates the emergency lights when the Emergency DC Bus
+is powered. The “ARMED” position is the normal flight position, which turns off the emergency
+lights and causes the battery packs to be charged. The “OFF” position extinguishes the lights and
+discontinues the charging of the batteries.
+If electrical power to the Emergency DC Bus is interrupted, the emergency lights
+automatically illuminate (if the emergency lighting switch is in the “ARMED” position), with the
+electrical power provided by the battery packs. The manual selection of emergency electrical
+3 See section 1.17.1 discussed later in this report.
+4 An emergency floor path proximity lighting system was not required when the DC-9 was introduced into service.
+Subsequently, Federal regulations required transport-category airplanes in commercial passenger service to be so
+equipped. Therefore, emergency lighting systems were installed in accordance with supplemental type certificates that
+were approved by the Federal Aviation Administration (FAA).
+
+Figure
+2—DC9-32
+cabin
+configuration
+u =7 -=
+=
+=E
+A
+I i
+6
+
+7
+power restores power to the Emergency DC Bus from the aircraft’s batteries; however, unless the
+emergency light switch is first moved from the “ARMED” to the “ON” position, this action will
+also extinguish the emergency lights and resume charging of the battery packs. Placing the cabin
+emergency lighting switch to the “ON” position was the fourth item on the ValuJet Emergency
+Evacuation Checklist.5
+The airplane was equipped with a public address (PA) system that enabled the
+flightcrew and flight attendants to address occupants through loudspeakers located throughout the
+cabin. The PA system is also powered by the Emergency DC Bus. An interruption of electrical
+power to the Emergency DC Bus disables the PA system. Manual selection of emergency
+electrical power restores power to the PA system.
+1.7 Meteorological Information
+Visual meteorological conditions prevailed at the time of the accident.
+The Hartsfield Atlanta International Airport hourly weather observation at 1850 was:
+sky—scattered clouds, ceiling at 5,500 feet; visibility—12 miles; temperature—93 °F; dew
+point—71 °F; wind—290° at 8 knots; and altimeter setting—29.99. The weather was essentially
+the same at the next hourly observation.
+1.8 Aids to Navigation
+There were no known difficulties with aids to navigation.
+1.9 Communications
+There were no known external communication difficulties involving the airplane. The
+flightcrew of Delta flight 846, which had been cleared to “position and hold” behind flight 597,
+advised the ValuJet crew of a fire in the right engine, prompting the captain to reject the takeoff
+and stop the airplane on the runway.
+After the captain stopped the airplane and the engines were shut down, he attempted to
+communicate to the passengers using the PA system but was unable to do so. After the captain
+selected emergency electrical power, the power was restored to the PA system, and the captain
+successfully communicated the evacuation order.
+One of the flight attendants in the forward section of the cabin saw flames around the
+flight attendant in the aft jumpseat and tried to notify the flightcrew of the fire by opening the
+cockpit door. As required by FAA regulations, the cockpit door was locked. While one of the
+forward flight attendants reached for the cockpit door key, which had been stored in the galley per
+5 The first three items on the checklist are (1) setting the parking brakes, (2) retracting the spoilers, and
+(3) lowering the flap handle.
+
+8
+ValuJet procedures, the other flight attendant successfully opened the cockpit door with her own
+key and informed the flightcrew of the fire. The captain then ordered an evacuation through the
+forward exits.
+According to ValuJet’s flight attendant manual in effect at the time of the accident:
+If life threatening conditions exist inside the cabin, the first crewmember
+aware of the situation shall notify the pilots via the interphone using the
+emergency signal (six chimes).6 If no response, unlock the cockpit door and
+evaluate conditions. If able, the captain will evaluate the situation and, if
+necessary, initiate an evacuation with the PA announcement of Evacuate,
+Evacuate, Evacuate.
+The flight attendant manual further provides that “If a life threatening situation exists
+inside the cabin, and you are unable to contact the cockpit, begin shouting the appropriate
+commands. Once the aircraft comes to a complete stop, initiate the evacuation. Note: An
+evacuation should not be initiated until the aircraft has come to a complete stop.”
+1.10 Airport Information
+The William B. Hartsfield Atlanta International Airport is located 6 miles south of
+Atlanta, Georgia. It is served by four parallel runways oriented east/west. The terminal building
+and passenger loading concourses are situated between the two innermost parallel runways.
+Runway 27R, used by ValuJet flight 597, is the runway closest to the terminal on the south side of
+the terminal/concourse area. Departure operations are normally conducted from the inner
+runways, with landing operations normally conducted on the outer runways. Runway 27R is
+11,889 feet long and 150 feet wide. The approach threshold elevation is 978 feet mean sea level.
+Hartsfield International Airport is fully certificated under 14 CFR Part 139 and is an
+Index E Aircraft Rescue and Fire Fighting (ARFF) facility.7
+1.11 Flight Recorders
+Digital flight data (DFDR) and cockpit voice (CVR) recorders were installed in the
+airplane. The DFDR was a Fairchild Model F800, SN 05466, with an 11-parameter recorder, with
+two channels that were not recording properly. The CVR was a Fairchild Model A-100A, SN
+53333. Both recorders were removed from the airplane and sent to the Safety Board’s laboratory
+in Washington, D.C., for readout.
+6 No chimes were recorded on the CVR. A review of available information, including the CVR transcript and
+maintenance records, provided no evidence that the interphone was inoperative.
+7 Title 14 CFR Part 139 requires, for scheduled air carrier service with aircraft at least 200 feet in length, that at a
+minimum the airport be equipped with at least three ARFF vehicles with at least 6,000 gallons of water for foam
+production.
+
+9
+The cases of both recorders were intact and covered with a light sooting. An excellent
+recording was obtained from the DFDR, and a recording of fair quality8 was obtained from the
+CVR. There was no apparent interior heat or impact damage to the CVR.
+Data from the DFDR indicated that the engine pressure ratio (EPR) on both engines
+began increasing shortly after flight 597 was cleared for takeoff. The airplane accelerated for
+about 14 seconds, reaching an indicated airspeed of about 31 knots when the right engine EPR
+decreased from about 1.57 to about 0.91 within 1 second.
+The CVR recording consisted of three channels: the cockpit area microphone, the pilot
+audio panel, and the interphone/PA system. The cockpit area microphone channel recording
+contained background noise that nearly obliterated the pilots’ voices and made them difficult to
+understand. A transcript was prepared of the entire 31-minute, 16-second recording. The
+transcript of the CVR is contained in appendix B of this report.
+The CVR recording started at 1838:03, with the airplane at the gate being prepared for
+departure. It continued through the flightcrew’s preparations for departure, taxi, and takeoff. The
+recording ended after engine shutdown with the airplane stopped on the departure runway.
+1.12 Wreckage and Impact Information
+The airplane stopped on the centerline of runway 27R, about 1,500 feet west of the
+approach end of the runway. Debris from the right engine was found on the runway, from about
+100 feet west of the runway threshold to the stopped airplane. Additional engine debris was found
+in the grass areas on either side of the runway. The overwing exit hatch from the right side of
+passenger seat row 14 was found on the runway, about 1,200 feet west of the runway threshold.
+1.12.1 Right Engine
+The right engine, SN 666966, remained attached to the pylon structure. The nacelle
+doors were closed, and all four latches were locked. A circumferential tear of the engine nacelle
+encompassed the upper and lower nacelle doors from approximately the 9 o’clock position
+clockwise to the 6 o’clock position.9 The circumferential opening was approximately 14 inches
+wide and about 67 inches aft of the engine inlet flange. The circumferential tear of the right
+engine nacelle was aligned with the rotational plane of the 7th stage HPC disk. The torn edges
+8 The Safety Board generally uses the following criteria to assess the quality of a CVR recording: a “poor”
+recording is one in which a transcription is nearly impossible given that a large portion of the recording is
+unintelligible; a “fair” recording is one in which a transcription is possible, but the recording is difficult to understand;
+a “good” recording is one in which few words are unintelligible; and an “excellent” recording is very clear and easily
+transcribed.
+9 All clock references to the engine or the airplane are as viewed from aft, looking forward.
+
+10
+were ragged and curled outboard, away from the center of the engine. The forward edges of the
+hole were burned, with the paint blistered and charred. The nacelle was heat damaged from about
+the 1 to 6 o’clock position, to about 15 inches forward of the circumferential opening. The nacelle
+lower half was covered with soot aft of the circumferential opening.
+The fan discharge outer rear duct and the compressor case were also circumferentially
+ripped open through 360° and about 8 inches wide, directly behind the intermediate case (G
+flange). A 1-inch-wide strip of fan duct skin remained at the 6 o’clock position.
+All of the 1st stage fan blades were in place in the fan disk with varying degrees of hard
+body impact damage to the airfoil leading and trailing edges, outboard of the midspan shrouds.
+The airfoil trailing edge tips were bent forward.
+Only two pieces of the fractured 7th stage HPC disk, SN G78851, were recovered.10
+One piece, about half of the disk, was found resting on the accessory gearbox, visible through the
+circumferential tear in the cowling. The section of disk, which previously formed the bore for the
+missing half of disk, was straight and extended tangentially from the inner diameter of the disk.
+The straightened section of disk bore protruded radially out through the circumferential opening in
+the compressor case and nacelle at the 5 o’clock position. The 7th stage compressor blades retained
+in the disk were bent opposite the direction of rotation.
+The 6th stage airseal was separated from the 7th stage disk. The airseal was bent and
+fragmented. About 60 percent of the airseal was recovered. The largest fragment, comprising
+about 150° of arc, was found lodged in the nacelle, against the pylon. Additional pieces were
+recovered from the accident runway and adjacent area.
+The 8th stage compressor disk and hub were visible through the circumferential opening
+in the fan duct and compressor case. Several 8th stage compressor blades were missing from their
+respective blade slots. The remaining blades had hard body damage on the leading edges. All of
+the compressor tierods were fractured at the 8th stage disk. Most of the tierod fractured ends
+protruded out of the 8th stage disk and were bent radially outward from their respective holes.
+The thrust reverser and turbine exhaust case appeared undamaged by the event. The
+turbine exhaust case had metal fragments lying on the bottom of the case.
+The forward, upper portion of the gearbox case, behind the fuel pump and control
+mount pad, was fractured, exposing the internal drive gears. The gearbox mounting lugs were
+fractured, and the gearbox was below the running position. The radial driveshaft from the gearbox
+to the intermediate case was disengaged. Oil and fuel lines to the gearbox and its associated
+accessories were intact. The hydraulic pump housing and main fuel pump separated from their
+respective gearbox mount pads.
+10 A substantial portion of the disk was not recovered.
+
+11
+The two pylon vibration absorbers and their respective attachment bolts, aft of “G”
+flange, were fractured. The pylon vibration absorbers are in the plane of rotation of the 7th stage
+disk.
+Thirty-three 7th stage compressor blades were retained in the larger piece of the 7th stage
+disk, which was found inside the engine. An arc of 8 and an arc of 11 adjacent blades were bent
+opposite the direction of rotation. An arc of 14 blades was transversely fractured, adjacent to the
+blade platform.
+The smaller piece of the 7th stage disk was recovered from runway 27R, left of the
+centerline. The smaller piece of the 7th stage disk had six blades retained in the rim. The blades
+were transversely fractured adjacent to the blade platforms.
+The two pieces of the 7th stage HPC disk were shipped to the Safety Board’s materials
+laboratory in Washington, D.C., for examination. (See section 1.16.1 of this report for details of
+the disk examination.)
+1.12.2 Left Engine
+The left engine (SN 666055) nacelle had a dent and a ¼-inch-diameter puncture at about
+the 4 o’clock position in line with a series of holes through the fuselage. Inspection of the engine
+inlet, inlet guide vanes, fan, and 4th stage blades did not reveal any damage. There was no fire
+damage. The examination of the left engine and data from the DFDR provided no evidence of
+problems with the left engine. The left engine was not disassembled or tested.
+1.12.3 Fuselage
+Several punctures were observed in the fuselage above and below the right engine
+pylon. The largest puncture was adjacent to the right engine main fuel line. A 6-inch section of
+the fuel line was severed where it passed through the aft lavatory sidewall, about 1 foot above the
+cabin floor. The lavatory door had an approximate 1-foot-diameter puncture hole adjacent to the
+forward door frame. The galley’s forward frame had a piece of the corner post missing with the
+metal smeared to the left side of the airplane. The galley cooler box11 had grooves across its front
+side. The left side of the fuselage under the engine pylon had a puncture hole with outward bent
+edges, consistent with a projectile penetrating the left side of the fuselage from inside to outside.
+A rope was used to establish that the hole in the right side of the fuselage, the hole in the lavatory
+door, damage to the galley cooler and frame, the exit hole in the left side of the fuselage, and the
+dent in the left engine cowling were all aligned.
+Fire damage inside the aft lavatory was less severe than the fire damage elsewhere in the
+passenger cabin. The cabin floor support beam at the forward edge of the lavatory, which
+11 The cooler box, which is a cube-shaped metal container that has an insulated plastic liner, holds canned
+beverages in ice cubes. It is located on the forward side of the galley at floor level.
+
+12
+extended from sidewall to sidewall, was nearly burned through at the center. The section of cabin
+floor surrounding the beam was partially melted and burned. The cargo bay liner beneath the aft
+lavatory was charred on the top and sides. Wire bundles and conduits between the cabin floor and
+the cargo bay liner in the same area as the damaged floor beam were more severely burned than in
+adjacent areas. The injured flight attendant’s jumpseat was immediately aft of the center aisle
+section that was nearly burned through. The jumpseat was also just aft of the path made by the
+rope used to establish the relationship between the right side fuselage hole and the dent in the left
+engine cowling.
+The top of the cabin, above the cabin windows, was consumed by fire from the
+2nd window rearward to about the 15th window. There was severe interior fire damage to the entire
+passenger cabin, with sooting and blackening of the interior of the cockpit. The seat fabric, carpet,
+and cabin interior material were nearly consumed by the fire.
+The evacuation slides at both forward floor-level exits were found deployed and
+inflated. All overwing exit hatches were absent. One overwing exit hatch was found on the
+runway along the debris trail. The passenger seated in 14E stated that he opened the right
+overwing exit hatch located by his seat and threw it from the airplane. His companion seated in
+14C confirmed that account. The passenger seated in 20C stated that when he moved to the right
+side overwing exits, another passenger removed one of the exit hatches and handed it to him, and
+he laid it in the adjacent seat. A third hatch was found adjacent to the aft window frame forward
+of row 16, on the left side of the airplane. It was not determined how the left overwing exit
+hatches were removed. Soot trails on the exterior of the aircraft extended up and aft from the
+overwing exits and the forward doors. Photographs taken by a passenger and provided to the
+Safety Board showed flames visible at the overwing exit and smoke at the forward and overwing
+exits. (See figure 3.) The tailcone, aft of the rear pressure bulkhead, was in place and not burned.
+In the cockpit, the emergency power switch was found in the “ON” position, and the
+emergency lighting switch was in the “ARMED” position. The left and right engine fire handles
+were in the aft, or activated position.12 Both fuel shutoff valves were in the closed position and
+both fire suppression bottles had been discharged into the right engine.
+1.13 Medical and Pathological Information
+Five passengers sustained minor lacerations and contusions during the evacuation. They
+were treated at the scene, transported to local medical facilities for hyperventilation and smoke
+inhalation, and released the same day. The aft flight attendant sustained second degree burns on
+her legs, and two puncture wounds above and below the inside of her left knee. She was wearing
+shorts and a short-sleeved polo shirt—ValuJet’s flight attendant manual in effect at the time listed
+standard uniform items for ValuJet flight attendants as trousers, shorts (optional), polo
+12 Activation of the engine fire handles will silence the fire warning bell, secure fluid supply valves to the engines,
+and select the fire suppression bottles. Subsequently turning the handles either clockwise or counterclockwise will
+discharge the respective bottles.
+
+
+
+14
+shirt (short or long sleeve), sweater (optional), a jacket, white socks, and white shoes.
+Unidentified pieces of the airplane debris were removed from the flight attendant’s leg by medical
+personnel.
+In accordance with ValuJet’s FAA-approved program, the flightcrew provided
+postaccident toxicological samples for analysis. The samples were analyzed and found to be
+negative for ethanol and other drugs of abuse. In addition, samples were requested from and
+provided by the two flight attendants who were not injured. These were likewise negative.
+Although a sample was requested from the flight attendant who had been injured, the request was
+received after she had been hospitalized and treated for her injuries. Consequently, no
+toxicological sample was obtained.
+1.14 Fire
+According to passenger statements, within seconds after the takeoff roll began, a sound
+was heard that was described as a loud bang or explosion. Passengers reported looking rearward
+in the direction of the sound and observing flames and fuel around the aft flight attendant. The
+flight attendant seated in the forward jumpseat stated that within a few seconds after the takeoff
+began, she heard a loud bang, saw flashes, and could clearly see smoke and flames around the feet
+of the flight attendant seated in the aft cabin. The fire that began in the aft fuselage rapidly spread
+through the airplane and consumed the fuselage.
+1.14.1 Emergency Response
+At 1908, the local control supervisor in the Atlanta Air Traffic Control Tower notified
+the Atlanta Fire Department at the airport of the ValuJet emergency. Battalion 7 of the Atlanta
+Fire Department was dispatched and arrived at the scene at 1911. Additional firefighting units
+arrived on the scene at 1913. When the Atlanta Fire Department units arrived, all occupants had
+evacuated the airplane. The two flight attendants in the forward section of the airplane and the
+first officer reported that shortly after they exited the airplane following the passengers, the
+firefighting vehicles arrived on scene. According to the Atlanta Fire Department report, arriving
+units could see fire near the No. 2 (right) engine and heavy smoke emanating from all exits.
+Firefighting personnel reported that the fire was spreading rapidly through the airplane from rear to
+front. An interior attack was initiated on the cabin fire. According to firefighting personnel, after
+noting the rapid progress of the fire along the overhead area and because the evacuation had been
+completed, the firefighters retreated and continued fire suppression efforts from outside the
+airplane. The fire was brought under control about 1922 and extinguished about 1925.
+1.15 Survival Aspects
+The cockpit was configured conventionally with two flight crewmember seats and an
+observer jumpseat. No one occupied the observer jumpseat. The two flight attendants in the
+forward section were seated on an aft-facing double-occupancy jumpseat attached to the cockpit
+bulkhead, adjacent to the forward entry door. The flight attendant in the aft cabin was seated in a
+forward-facing jumpseat attached to the aft cabin exit door.
+
+15
+About ½ of the available cabin seats were occupied. The ValuJet passenger manifest
+listed one lap child. That lap child (a female) was older than 24 months old. Title 14 CFR Part
+121.311(b) requires that all passengers more than 24 months of age be restrained during takeoff
+and landing. According to passenger interviews, the child was seated on the lap of a female adult
+in the 21-E window seat. During the evacuation, the adult handed the child to a male passenger
+who carried the child through the right overwing emergency exit to another passenger who carried
+the child across the wing and, holding the child, jumped off the trailing edge of the wing to the
+runway without injury.
+All exits and evacuation slides, except the tailcone exit (which was blocked by the aft
+cabin fire), were unobstructed and were used during the evacuation. Some passengers who saw
+the fire in the aft section of the cabin released their seat belts and moved toward exits before the
+airplane came to a stop.
+The captain reported that as he and the first officer were accomplishing the evacuation
+checklist, the smoke in the cockpit became thick, black, and acrid, and was lowering rapidly. The
+first officer reported that he was reading the evacuation checklist and had verified that the brakes
+were set and that the spoilers were retracted, had lowered the flap handle, and had pulled the No. 1
+engine fire handle (the captain had pulled the No. 2 handle), after which he could hardly breathe.
+The first officer stated that he then yelled to the captain that “we’ve got to get out of here,” before
+they were able to place the emergency light switch (the fourth, and next, item in the evacuation
+checklist) in the “ON” position.
+The captain reported that as the first officer stood up, he could not see him from the
+chest up. According to the first officer, when he exited the cockpit into the cabin, he could feel
+people walking past him but could see them only from the waist down. He stated that when he no
+longer felt anyone passing by, he exited through the front left door of the airplane. The captain
+stated that when he exited the cockpit, he dropped to the floor and could see “some distance down
+the aisle, but only within about 3 to 4 inches of the floor.” According to passengers, the fire
+spread rapidly and fully engulfed the cabin area within about 3 minutes after the engine failure.
+Passengers reported that during the evacuation, the emergency floor track lighting
+illuminated briefly but then extinguished. Also, as mentioned previously, the captain reported that
+his initial attempt to broadcast the evacuation announcement over the PA system had not been
+successful; he then moved the emergency power switch to the “ON” position (which caused the
+emergency lights to turn off) and repeated the announcement.
+One passenger reported that the injured flight attendant in the aft jumpseat was
+struggling to release her seat belt and that as he moved aft to assist her, she released the belt and
+moved forward to escape through a left overwing exit.
+Several passengers described difficulty with visibility because of the smoke.
+
+16
+1.16 Tests and Research
+1.16.1 Metallurgical Examinations
+The Safety Board disassembled the failed engine at the AeroThrust Corporation in
+Miami, Florida.13 Following the disassembly, parts, including the recovered portions of the failed
+7th stage HPC disk, SN G78851, were taken to the Safety Board’s materials laboratory for further
+examination. Maintenance records for the engine indicated that the disk had accumulated 24,101
+hours and 16,340 cycles. It had a life limit of 30,000 hours or 18,932 cycles.14
+The larger piece of the recovered disk was fractured circumferentially (see arrows “c,”
+figure 4), which is typical of overstress. About ¼ of the disk outward (toward the rim) of the bore
+was separated and not recovered. There was a radial fracture of the disk bore at the position
+shown by arrows “h1” and “h2” in figure 4. Examination of these fractures showed that they were
+matching overstress separations and therefore accounted for the complete separation of the bore
+section of the disk.
+Twenty-four evenly spaced holes are machined in the web area of the disk. Twelve of
+these holes are known as stress redistribution (SR) holes,15 also referred to as shielding holes in the
+engine manual. Alternating with these SR holes are 12 slightly larger holes known as tierod holes,
+through which the tierods are put to clamp the disk to the mating disks and spacers in the complete
+engine assembly.
+Figure 5 shows the aft face of the two recovered pieces situated relative to each other by
+fracture matching. The SR holes are shown by arrows “1” through “9” and arrow “12” in figure 5.
+The SR hole numbering was arbitrarily begun at the radial fracture plane indicated by arrows “A1”
+and “A2” in figure 5 and progressed sequentially counterclockwise looking forward around the
+disk (as shown in figure 5). The missing section of web would have contained SR holes “10” and
+“11” in the above numbering sequence, and three tierod holes.
+Scanning electron microscope (SEM) examination established that fatigue cracking
+originated from numerous pits in the hole wall and progressed radially inboard (toward the center
+of the disk) from SR hole “1,” approximately 6.9 millimeters (mm) (0.27 inch). SEM examination
+also showed evidence of fatigue cracking outboard (toward the rim) from SR hole “1” that
+measured 22.25 mm (0.88 inch). Figure 6 shows the fracture surface containing the primary
+fatigue crack.
+13 AeroThrust Corporation is an FAA-certificated repair station, and was one of the vendors used by ValuJet at
+that time for the repair and overhaul of JT8D engines. Air New Zealand, (located in New Zealand) also an FAA-
+certificated repair station, was another vendor used by ValuJet for engine repair and overhaul of its JT8D engines.
+14 The cycle life limit for the 7th stage disk SN G78851 was prorated from 20,000 cycles to 18,932 cycles, per
+P&W procedures, because it had been previously operated in a higher-rated JT8D-15 engine.
+15 Holes placed midway between the tierod holes to redistribute the stress in the web area between the tierod
+holes.
+
+
+
+
+
+19
+Energy dispersive x-ray analysis of the pits on the hole wall revealed cadmium-rich
+deposits16 with some nickel. Cadmium-rich deposits were also found on the fracture surface
+adjacent to the pits and hole wall.
+Visual and SEM examinations of the outboard fracture surface from SR hole “1”
+showed extensive post-fracture smearing that obliterated most of the microscopic fracture features
+on the fracture surface. However, some undamaged fracture areas were found that indicated an
+origin area at the outboard wall of SR hole “1.” Features outside of the smeared region up to a
+distance of about 3 mm (0.12 inch) showed a granular appearance with no evidence of striation
+development. At this point, fatigue striation development was noted that continued outboard
+approximately 22.25 mm (0.88 inch) from SR hole “1.”
+Striation spacing measurements of the fracture surface of SR hole "1" were attempted but
+hampered by the smearing in the fracture surface. The striation spacing in the granular type
+fracture regions near the origin were possibly unresolvable or nonexistent. Striation spacings
+outside of the granular fracture regions and smearing for the outboard fatigue crack from SR hole
+“1” averaged about 2 microns (0.002 mm) from about 3 mm to the terminus at 22.25 mm. This
+indicated that at least 9,500 striations (19 mm/0.002 mm per striation) were present along this
+fatigue region.
+Fatigue cracking was also evident radiating outboard from other SR holes, indicated by
+arrows “4,” “6,” “8,” “9,” and “12” in figure 5. The largest of these fatigue cracks was 5 mm (0.20
+inch) outboard from its respective hole. Most of the secondary cracks appeared to initiate at well-
+defined corrosion pits in the hole wall with the largest and deepest pit measuring 0.01-inch wide at
+the hole wall and being about 0.003-inch deep. Magnified examination of the cross section of the
+crack disclosed a surface deposit on the pit cavity wall and hole wall surfaces indicative of the
+nickel-cadmium plating.
+Fatigue striations with a fairly uniform striation density of approximately 2.5 microns
+were clearly apparent near the terminus of the crack from SR hole “4” as well as near the termini
+of the fatigue cracks from SR hole “1.” A P&W metallurgist indicated that spacings between 10
+and 100 microinches (0.254 to 2.54 microns) are realistic spacings expected for low-cycle fatigue
+cracking in the disk. Low-cycle fatigue cracking propagates from engine operation stresses that
+occur in flight between each engine start and shutdown (flight cycle), and one striation is created
+by one flight cycle.
+The 0.88-inch fatigue crack outboard from SR hole “1” was the longest fatigue region at
+any of the SR holes. The crack lengths from each side of the hole combined with the diameter of
+the SR hole (0.410 inch) gave a calculated overall crack length of 1.56 inch for SR hole “1” at the
+time of disk separation.
+16 The disk is plated with a nickel cadmium (Ni-Cad) coating for corrosion protection during original manufacture.
+It is also required to be chemically stripped and re-plated during certain inspections and repairs.
+
+20
+The only evidence of fatigue cracking inboard from an SR hole on the recovered pieces of
+the 7th stage disk was that at SR hole “1.”
+The 12th stage HPC disk from the accident engine (which was not damaged in the
+accident) was examined at the P&W Metallurgical Laboratory in East Hartford, Connecticut, by
+P&W and Safety Board metallurgists. Several tierod holes in that disk were found with corrosion
+pits. Examination of a cross section through the pits confirmed that nickel and cadmium had been
+plated onto the pitted surfaces of these tierod holes.
+Two additional engines previously owned by THY and sold to ValuJet were available
+for disassembly and examination of their 7th stage HPC disks by the Safety Board. Both 7th stage
+HPC disks appeared in serviceable condition with no plating over pitting noted.
+Three other engines also previously owned by THY and sold to ValuJet had been sent
+by ValuJet to Air New Zealand for repair. The 7th stage HPC disks on these engines were
+examined by Air New Zealand engineering for the Safety Board under the supervision and control
+of the Civil Aviation Authority (CAA), New Zealand, and later at the P&W Metallurgical
+Laboratory. Each of these disks had been retired because the total time and cycles were near the
+hour and cycle life limit, and it would have been uneconomical to reinstall the disks and operate
+them for the remaining hours or cycles before they had to be removed from service. Nickel and
+cadmium plating over corrosion pitting in tierod and SR holes was confirmed on two of the disks,
+and not found on the third.
+No failures of the 7th stage HPC disk on any P&W JT8D engine have been reported
+since 1975; however, on August 30, 1985, one failure was reported in Cameroon during taxi to
+takeoff. The cause was never determined because the disk fragments could not be recovered.
+1.16.2 Burn Tests of Cabin Furnishings
+The need for fire retardant cabin furnishings on transport-category aircraft was first
+addressed by the FAA in 1947. By 1972, FAA regulations required carpets, seats, and interior
+panels to undergo Bunsen burner flammability tests. Subsequently, the FAA conducted additional
+research and proposed upgrading these standards by adding toxicity, smoke, and improved
+flammability criteria.
+By 1977, there were still no full-scale burn tests to support the proposed rule and
+standards, and the proposed rule was withdrawn. As a result, the FAA formed the Committee on
+Special Aviation Fire and Explosion Reduction (SAFER), which conducted full-scale tests and
+research and made recommendations for fire safety improvements. The technical information
+developed as a result of these tests provided a standardized method of evaluating the suitability of
+cabin materials.
+On April 16, 1985, the FAA issued a notice of proposed rulemaking (NPRM) entitled
+“Improved Flammability Standards for Materials Used in the Interiors of Transport Category
+Airplane Cabins,” which became a final rule in 1985. The regulation established new fire test
+
+21
+criteria for type certification, required that the cabin interiors of airplanes manufactured after 1985
+and used in air carrier service comply with these new criteria, and required that cabin interiors of
+all other airplanes type certified after January 1, 1958, and used in air carrier service, comply with
+these new criteria upon the first “general retrofit” of the cabin interior.
+The accident DC-9 was manufactured before the effective date of the 1985 regulation and
+therefore any retrofit of fire retardant cabin furnishings was required only in the event of a "general
+retrofit" by the carrier. Piecemeal replacements of cabin furnishings, except for fire-blocked seat
+covers, are not required to meet the new flammability standards. The FAA stated that this was
+based on the adverse economic effect on the airline industry if the industry had to comply with the
+new standard. Thus, it is reasonable to expect that if an air carrier applied this regulation, as
+written, an airplane in service for 20 or more years might never be subjected to a “general retrofit.”
+On August 15, 1995, burn tests of selected pieces of cabin furnishings from the accident
+airplane were conducted at the Fire Safety Branch of the FAA’s Technical Center in Atlantic City,
+New Jersey. A relatively undamaged carpet sample, sidewall panel sample, and a seat cover that
+were collected from the rear of the accident airplane were tested. Testing was conducted in
+accordance with the standard in effect before 1985, which required the Bunsen burner
+flammability test. All of the components were directly exposed to the FAA’s Bunsen burner test
+flame of 1,650 °F (1,500 °F is the minimum requirement) for 60 seconds. No ignition of the
+materials occurred. Thus, all of the samples met the applicable (pre-1985) FAA test requirements
+for flammability.
+1.17 Additional Information
+1.17.1 ValuJet’s Purchase of Turk Hava Yollari (THY) Aircraft, Engines, and Spare
+Parts
+1.17.1.1 Pre-delivery Activities in Turkey
+In July 1994, ValuJet Airlines became aware that THY had several DC-9-32 aircraft and
+engines for sale. ValuJet contracted with two independent consultants, who went to Turkey to
+evaluate the aircraft and related equipment and their records, and to provide information that
+would assist ValuJet in deciding whether to purchase the aircraft. After receiving input from the
+consultants, ValuJet decided to execute the purchase.
+In September 1994, ValuJet contracted with Avionics and Aircraft Systems Engineering
+Services, Inc. (AAS), to provide aircraft and maintenance engineering assistance, on-site
+management of the aircraft delivery program, and technical publication services in connection with
+the acquisition and refurbishment of the THY aircraft. One of the original consultants, who was a
+vice president at AAS, became the primary manager of the purchase and importation
+
+22
+process.17 On October 3, 1994, a formal sales agreement was executed between ValuJet Airlines
+and THY for the purchase of nine aircraft, five spare engines (including the accident engine, SN
+666966), and 4,400 spare parts.
+Before ValuJet’s acceptance of any engine or aircraft, each was subjected to a ground
+inspection that included the following:
+• verification that all records and manuals were being delivered, and
+that they were complete and current,
+• a borescope inspection of all mounted and spare engines,
+• verification that any structural damage had been repaired in full
+compliance with the Aircraft DC-9 Structural Repair Manual or
+approved McDonnell Douglas data,
+• verification of aircraft airworthiness, and currency of U.S. FAA
+airworthiness directives (ADs) on all aircraft,
+• verification that cabin configuration changes requested by ValuJet
+were accomplished by THY before removing aircraft from service
+by Turkish Airlines,
+• verification that all mounted engines were “serviceable” in
+accordance with P&W engine manuals,
+• verification that P&W Service Bulletins 4127 (noise attenuation)
+and 2141 (oil dampened No.1 bearing) had been complied with on
+certain engines,
+• verification that the aircraft had been on a program in which the fuel
+tank area was inspected for corrosion and microbiological
+contamination, and
+• inspection of the cabin for excessive wear or lack of cleanliness.
+17 The consultant who became the primary manager had worked either as an employee or consultant for several
+operators in the past. While working for these operators, he had at different times been responsible for writing FAA-
+approved maintenance programs, developing/managing a Part 121 aircraft acceptance program, directing a passenger-
+to-freighter aircraft configuration conversion program, directing a cockpit/avionics standardization program,
+developing several large aircraft FAA-approved supplemental type certificates, and developing the guidelines for the
+DC-9 Structural Inspection Document program for the Douglas Aircraft Company.
+
+23
+In addition, each aircraft and the engines mounted on them for their ferry flight to the
+United States were subjected to a regimented flight test program. According to the consultant, the
+test flights, which were conducted by a ValuJet-contracted pilot, the AAS representative, and a
+THY employee, were performed in accordance with the Douglas DC-9-32 Used Production Flight
+Procedures Manual.18
+The sales agreement between ValuJet and THY called for five of the airplanes to be
+delivered with specific engines installed in specified positions. The remaining four airplanes could
+be delivered with any of the remaining 13 engines installed in any location. Five of the engines
+would then be delivered as spares.
+The borescope inspection, which was conducted as part of the pre-sales agreement
+discussed above, found that three of the spare engines and one mounted engine needed either
+turbine blade or guide vane repair before they would be accepted by ValuJet. These four engines
+were repaired and then tested. Because a test cell was not available, some of the engines in service
+were removed from operating airplanes so that the repaired engines could be tested on an airplane.
+Thus, engine SN 666966, which was being operated in line service at the time the consultant
+arrived in Turkey, was removed from an airplane and became one of the five “spare” engines.
+According to the AAS representative, the five spare engines were subsequently preserved by THY
+in accordance with the P&W JT8D engine manual requirements.19
+According to the sales agreement between ValuJet and THY, all spare engines were to
+be certified as serviceable by an FAA-certificated Part 145 repair station before acceptance by
+ValuJet. ValuJet and THY agreed that the spare engines would be certified as serviceable by the
+THY repair station and then shipped to the United States with “serviceable tags.”20 According to
+the consultant, the repair station prepared one of these tags for each spare engine. Entries on the
+tag for engine SN 666966 describing the work done indicated that it had been removed from an
+aircraft so that another engine could be installed and that it had been preserved for up to 90 days.
+The consultant stated that as part of the preshipping process, he cross-checked the SN of each
+spare engine with its associated tag.
+According to the technical control director of THY’s repair station engine shop, THY
+intended that the statement of serviceability and release for return to service on the “serviceable
+tag” apply to more than just the work listed on the tag (in the case of engine SN 666966, removed
+from aircraft and preserved), and represented a “full” statement of serviceability. He stated that in
+18 This manual provides guidance on performing flight tests in a manner to demonstrate that the aircraft are
+airworthy and that their systems are fully operational in accordance with their intended use.
+19 This preservation process included purging the fuel system with mineral oil, installing desiccant and humidity
+indicators inside the engine, and covering the intake, exhaust, and exhaust breather outlet with appropriate covers.
+20 “Serviceable tags” are a commonly used method for repair stations to attach a written maintenance release
+containing the information specified in FAR 43.9 to an aviation product to show that it is approved for return to
+service.
+
+24
+his opinion, engine SN 666966 was able to be installed by ValuJet with no further inspections
+needed, except for a depreservation inspection and any in-house inspections required by ValuJet.
+According to THY’s technical control director, the tags that had been prepared for all
+five spare engines were placed into a single large brown envelope and shipped to ValuJet along
+with the remainder of the aircraft and engine records. The inspector stated that no tags were
+attached to the engines for fear that they would be lost during shipment. The spare engines were
+then air shipped to the United States and trucked to ValuJet’s facilities in Atlanta.
+The AAS consultant stated that because the aircraft had been operated by a foreign
+carrier, he evaluated the THY maintenance scheduling and recordkeeping system to confirm the
+validity of the aircraft records and conformity with FAA requirements.21 As part of this process,
+AAS reviewed all entries in the Aircraft Maintenance Log of each airplane for the last 2 years, or
+since the last “D” check, whichever came last. AAS also reviewed the records of all mounted
+engines, spare engines, and major components for the last 2 years, or since the last overhaul.
+During this review, any entries that could not be accurately determined were translated into
+English. In addition, other applicable records, such as FAA Forms 337 (Major Repair or
+Alteration), AD and engine disk status records, and certain shop records associated with the repair
+of spare parts, were translated into English.
+According to the AAS representative, during this process, he reviewed the records to
+verify a history of compliance, and compared compliance statements recorded in the maintenance
+records to process documents executed at the time of the compliance action. As part of this
+process, and in accordance with the guidance provided in FAA Order 8300.10, the accuracy of AD
+compliance records was verified by spot checks of the aircraft. According to the AAS
+representative, all requested documentation was provided, and he determined that the
+recordkeeping system was valid.
+The consultant also confirmed that the THY aircraft had been maintained in accordance
+with the following documents/programs: McDonnell Douglas Aircraft Maintenance Planning
+Document, DC-9/MD-80 Corrosion Prevention and Control Document, DC-9/MD-80 Aging
+Aircraft Service Requirements Documents, and DC-9/MD-80 Life Limited Parts Document. At
+the time of the purchase, these documents/programs were being used to maintain DC-9 aircraft
+already operating in the ValuJet Airlines fleet; and these documents/programs became the basis for
+phasing the THY aircraft into the ValuJet maintenance program.
+When all pre-acceptance inspections were completed on an aircraft, it was deregistered
+in Turkey22 and issued a “Certificate of Airworthiness For Export” by the Republic of Turkey
+21FAA Order 8300.10 (Airworthiness Inspector’s Handbook), Bulletin A-92-04 (Current FAA Policy Regarding
+Aircraft Records), dated 7/17/92, states that if an aircraft is being transferred from a foreign airline, it may be
+necessary to evaluate the foreign operator’s maintenance and recordkeeping system to ensure the source validity of the
+records. The bulletin provides a number of recommendations for determining the validity of the records, which then
+become the basis for confidence in the current status of life-limited parts and AD compliance.
+22 Deregistration is required by FAR 47.37. See also FAA Order 8130.2C, Chapter 6, Section 2.
+
+25
+Ministry of Transport and Communications. Each aircraft was then issued an FAA Temporary
+Registration and an FAA Ferry/Environmental Permit by the ValuJet FAA principal maintenance
+inspector (PMI). Each of the nine aircraft was then flown to Lake City Municipal Airport, Lake
+City, Florida, where Aero Corporation began the process necessary for the aircraft’s return to
+service in the United States.
+1.17.1.2 Post-delivery Activities in the United States
+A designated airworthiness representative (DAR) was contracted by ValuJet’s
+consultant to issue the U.S. Standard Airworthiness Certificate for the nine aircraft. The DAR had
+no involvement with the inspection, acceptance, delivery, or return to service of the five spare
+engines and the approximately 4,400 spare parts purchased by ValuJet.23
+While at ValuJet’s facility in Atlanta, engine SN 666966 was stored inside but did not
+undergo humidity inspections at 30-day intervals as required by the P&W engine manual.
+According to ValuJet’s Manager of Engineering, the inspections were not performed because
+ValuJet’s general maintenance manual at the time did not include specific instructions for
+conducting humidity inspections of stored engines. Since this accident, stored-engine inspection
+procedures, consistent with P&W’s instructions, have been incorporated into ValuJet’s powerplant
+and maintenance specifications.
+Engine SN 666966 was subsequently shipped to the AeroThrust Corporation in Miami,
+Florida, where P&W Service Bulletin 4127 (installation of noise attenuation equipment) was
+complied with on January 21, 1995. The engine was then shipped to the Dee Howard Corporation
+in San Antonio, Texas, on January 27, 1995, for installation on an aircraft.
+According to the receiving and tagging instructions contained in ValuJet’s general
+maintenance manual, when a serial-numbered component is received by ValuJet, the component is
+to be tagged with the company’s equipment transfer record (ETR). Applicable information
+regarding the item’s serviceability from the vendor’s tag or manufacturer’s certification is
+transferred to the ETR, and copies of the ETR, along with the original vendor’s tag, are forwarded
+to ValuJet’s Aircraft Records Department. One copy of the ETR remains attached to the
+component, and installation and removal data are entered on this record when the component is
+installed on an aircraft.
+According to ValuJet’s general maintenance manual, Dee Howard’s inspection
+procedures manual, and the aircraft maintenance agreement between ValuJet and Dee Howard,
+engine SN 666966 should have been shipped to Dee Howard with a partially executed ETR
+attached. The serviceable component tag would remain in ValuJet’s Aircraft Records Department.
+The engine could then be installed by Dee Howard based upon the certification of airworthiness
+inherent in the signature in block #10 of the ETR. However, according to Dee Howard’s manager
+23 Title 14 CFR Part 21.175 requires airworthiness certificates for aircraft. An airworthiness certificate is not
+required for unmounted engines or spare parts.
+
+26
+of quality assurance, engine SN 666966 arrived at Dee Howard without a ValuJet ETR or a
+vendor’s tag from THY. The only document that arrived with the engine was the “Partial Repair
+Item” tag executed by AeroThrust Corporation during the completion of P&W Service Bulletin
+4127 (installation of noise attenuation equipment).
+According to the manager of Dee Howard’s quality assurance, because the engine
+arrived without documentation of its serviceability, Dee Howard requested that the on-site ValuJet
+quality control inspector provide certification for the engine. Dee Howard was informed by this
+inspector that a serviceable component tag had been issued by an FAA Part 145 foreign repair
+station. The ValuJet quality control inspector on site (at Dee Howard) then executed ETR #14419
+certifying the airworthiness of the engine. The investigation revealed that he did not review engine
+records or a serviceable tag before doing so.
+On February 9, 1995, after 106 days in preservation, engine SN 666966 was removed
+from preservation to be installed in the No. 2 (right) position on N908VJ, the accident airplane, on
+March 5, 1995. The engine and airplane were subsequently operated by ValuJet until the accident
+on June 8, 1995.
+1.17.2 1991 Overhaul/Inspection of 7th Stage HPC Disk by THY
+Maintenance records obtained from ValuJet indicated that the 7th stage HPC disk had
+been overhauled by THY during the time period from March 1991 to August 1991, and that the
+disk had accumulated 18,477 hours and 11,907 cycles at that time. The records obtained from
+ValuJet pertaining to the 1991 overhaul were limited to build records24 and logbooks documenting
+the times and cycles of the engine, including the accident disk. However, no records were found
+documenting each step of the overhaul of each individual disk, including what kind of an
+inspection was performed on the 7th stage disk.25 (See appendix C for an example of this sort of
+documentation, typically used in the industry.) THY personnel stated that all of the records that
+pertained to the airplanes and engines purchased by ValuJet were transferred to ValuJet.
+The Director of THY’s overhaul shop26 stated in a meeting with Safety Board staff that
+the repair facility had performed a magnetic particle inspection (MPI)27 on the disk but during that
+24 Build records are documents specific to each engine in which all component part numbers, SNs, certain
+measurements, fits, and clearances or other special requirements are recorded in order of assembly.
+25 Such documents, typically known as “shop travelers” or “process sheets,” break down the overhaul and
+inspection process of a component into individual tasks, which include excerpts or references to the appropriate
+manual, service bulletin, or job instruction card and a signature block for the technician or inspector performing the
+task. (Hereinafter referred to as “process sheets” or similar documentation.)
+26 The Director of THY’s overhaul shop was contacted by the Safety Board after the Safety Board obtained
+information that P&W had conducted an engine shop maintenance review of THY in December 1991. See Section
+1.17.5.1 later in this report for more details regarding that review
+27 Magnetic particle inspection (MPI) is a nondestructive method of detecting cracks and other defects in
+ferromagnetic materials such as iron or steel. The inspection consists of magnetizing the part with high amperage DC
+electricity thus creating magnetic lines of flux, then applying or immersing the part in a liquid containing
+
+27
+time had only inspected the tierod holes, not the SR holes, because the P&W engine manual only
+required the tierod holes to be inspected. (See section 1.17.3 for more discussion on this.)
+In response to the Safety Board’s inquiry about whether THY’s repair facility had
+documented each step of the inspection and overhaul process, the Director of THY’s overhaul
+shop provided the Safety Board, as a sample, a small card (slightly larger than a 3" by 5" card) that
+had been used during the overhaul of a disk in 1995. The card had part identification and
+operation data on one side, and handwritten notes about the repairs that had been done on the other
+side. The card listed repairs for removing and replacing the nickel cadmium plating; however, it
+did not list fluorescent magnetic particle inspection (FMPI),28 which is a required inspection
+during disk overhaul, according to the P&W JT8D engine manual (see next section of this report).
+The type of card displayed by the Director of THY’s overhaul shop was not found in any engine
+record package for the failed engine.
+In a letter to Safety Board staff dated June 18, 1996, the Director of THY’s overhaul
+shop stated that an FMPI inspection had been used in July 1991 to inspect the 7th stage HPC disks
+in JT8D engines. He stated that Turkish Airlines has had FMPI capability since the early 1970s
+and improved the capability in 1978 and 1985.
+He further stated that per Turkish Airlines’ procedures in 1991, nickel cadmium plating
+would not have been removed from a JT8D HPC disk if there were 0.003-inch (or less) deep
+corrosion pits on the surface of the disk, provided such pits were not located in the tierod/pin
+holes, the bore area, and/or snap diameters. He further stated that it was necessary, in July 1991,
+to inspect for and remove surface corrosion pits from within the SR holes only if their depth was
+over 0.003 inch, based on the fact that the P&W engine manual did not list SR holes as a critical
+inspection area and “it did not even show them in Figures 801 and 802 of the referenced section,
+until subject section of the Manual was revised after June 1995.”
+ferromagnetic particles in suspension. The ferromagnetic particles align themselves with the magnetic lines of flux on
+the surface of the part forming a pattern. If a discontinuity is present in the material on or near the surface, opposing
+magnetic poles form on either side of the discontinuity and the pattern is disrupted, forming an “indication.” The
+indication assumes the approximate shape of the surface projection of the discontinuity; however, indications are more
+visible when the defects are approximately perpendicular to the magnetic lines of flux. As a result, it may be necessary
+to magnetize in more than one direction to reveal defects aligned parallel to the magnetic lines of flux.
+The effectiveness of the MPI also depends on the flux density or field strength at the surface of the part when
+the indicating medium is applied. As the flux density is increased, the sensitivity increased. However, excessively
+high flux densities may form non-relevant indications.
+28 FMPI is similar to an MPI except the ferromagnetic particles held in suspension are fluorescent such that
+surface flaw indications luminesce under black light inspection.
+
+28
+1.17.3 Pratt & Whitney Guidance on Engine Overhaul/Inspection
+The 7th stage compressor disk inspection instructions from the P&W JT8D Engine
+Manual, Section 72-36-41, revision dated February 1, 1991, state that the following disk features
+must be inspected very carefully: bore, tierod holes, snap diameter (front and rear) fillet radius,
+pin holes, areas on the rim that touch blades, and for very early disks, balance flanges and balance
+flange rivet holes. Graphic illustrations in the instructions (listed as figure 801 in the P&W
+instructions) show the various features of the disk that were named in the text. (See figure 7.)
+The P&W engine manual specifies that for area 7 of the P&W figure 802 (see
+appendix D), which is depicted as a tierod hole, no unrepaired damage can be allowed in any hole,
+or within 0.125 inch of the edge of the hole on adjacent surfaces, and that damage can be repaired
+to a depth of 0.005 inch by blending. The instructions further indicate that damage up to 0.003
+inch is acceptable in the web area of the disk without blending. The cross-section of the 7th stage
+disk in P&W figure 802 depicts the tierod holes, but does not have the hidden lines,29 which would
+depict the smaller diameter SR holes behind the tierod holes, or a separate cross-section of the
+disk, just through the SR holes.
+P&W JT8D Engine Manual Section 72-36-41, lists steps for overhauling the 7th stage
+HPC disk (see appendix D) (steps that are incorporated onto “process sheets” or similar
+documentation provided by airlines and Part 145 repair stations). The following summarizes the
+overhaul steps:
+1. Measure and record front and rear snap diameters, tierod hole
+centerline in relation to rear snap diameter, and web thickness in
+area contacted by spacers.
+2. Strip existing nickel-cadmium plate.
+3. Remove any residual rust after stripping nickel-cadmium.
+4. Dimensionally inspect after removing old nickel-cadmium plate and
+any previous plating repairs, measure front and rear snap diameters
+and tierod holes.
+5. Visually inspect all areas of each disk for pitting, galling, and other
+defects.
+6. Magnetic particle inspect per Task 72-36-00-24-000, Section 72-36-
+00, Inspection 02. [This section and inspection refers to
+29 Hidden lines, which depict the edges of a smaller feature located behind the larger feature, are shown on
+orthographic projections as dashed lines.
+
+29
+Pratt & Whitney
+JT8D ENGINE (PN 481672 - RESTRUCTURED)
+COMPRESSOR DISK, STAGE 7 - INSPECTION-01
+PIN HOLES
+TIEROD HOLES
+~i.pws,91.E,,T.i:.-
+RIM
+/
+EXAMINE THE AREAS
+THAT TOUCH THE
+BLADE FOR GALLING
+P FILLET \
+T RADIUS
+R
+T
+R FILLET
+RADIUS
+2
+1’
+RIM AREA ADJACENT
+TO PIN HOLES ‘ \ BORE
+L–H0206
+1. 0.125 Inch Maximum.
+2. Electrical Contact Permissible Only In This Area. No
+Burning, Pitting, or Selective Attack Permitted.
+Important Inspection And
+R Electrical Contact Areas 72-36-41
+R Figure 801
+(Task 72-36-41-22-000) INSP-01
+Page 803
+EFF : -ALL FEB 1/93
+000
+Figure 7—P&W JT8D Engine Manual -- Compressor disk, stage 7-Inspection 01
+
+30
+fluorescent magnetic particle inspection.] Note: Inspection is
+necessary after stripping even though disk may have been inspected
+previously.
+7. Make all necessary blending and machining repairs prior to plating.
+8. Mask areas not to be plated leaving areas exposed that require
+restoration or new plating.
+9. Nickel plate areas not masked.
+10. Machine nickel plated areas as required.
+11. Nickel-cadmium plate entire disk.
+1.17.4 FAA Regulations Regarding the Return to Service of the Spare Engines
+Federal regulations require that the following specific information be entered in the
+maintenance record of any item on which work has been performed: a description of the work
+performed; the date the work was completed; the name of the person who performed the work; and
+the signature, certificate number, and kind of certificate held by the person who approved the
+work. The signature constitutes the approval for return to service only for the work performed,
+and this maintenance record entry must be made before any person can return an engine to service.
+The regulations further state that the holder of a repair station certificate may approve an
+aircraft, airframe, engine…for return to service.30 The regulations also provide that before an
+engine can be returned to service it must have been inspected by a qualified inspector and that the
+maintenance facility must certify in the maintenance record that it is airworthy with respect to the
+maintenance performed. The qualified inspector must be an individual who has shown by
+experience as a journeyman that he or she understands the inspection methods, techniques, and
+equipment used in determining the airworthiness of the article concerned.31
+Common industry practice is to include the following statement, or words to this effect,
+on the serviceable tag:32
+30 See 14 CFR Section 43.5 (Approval for return to service after maintenance, preventative maintenance,
+rebuilding, or alteration.); Section 43.9 (Content, form, and disposition of maintenance, preventative maintenance
+rebuilding, and alteration records.); and Section 43.7 (Persons authorized to approve aircraft, airframes, aircraft
+engines, propellers, appliances, or component parts for return to service after maintenance, preventative maintenance,
+rebuilding, or alteration.); and Section 145.51 (Privileges of repair station certificate.).
+31 Title 14 CFR Part 145.59 (a) and (b) (Inspection of work performed.).
+32 This language is required in maintenance entries for major repairs or alterations. (See Appendix B to FAR Part
+43, Par. (b)(4).) Not all serviceable tags document major repairs or alterations.
+
+31
+The aircraft, airframe, aircraft engine, propeller, or appliance identified above
+was repaired and inspected in accordance with current FAA regulations, and
+is approved for return to service. Pertinent details of the repair are on file at
+this repair station under Order No.____.
+FAA Advisory Circular 145-3 (Guide for Developing and Evaluating Repair Station
+Inspection Procedure Manuals (IPMs)) Appendix F, Figure 34 (Final Inspection and Release to
+Service) provides this sample language for a repair station IPM: “Aircraft components, appliances,
+and other items, other than complete aircraft, repaired or overhauled as authorized by the repair
+station specifications, will be returned to service through the use of a maintenance release
+preprinted on the serviceable parts tag described by this section of the manual.”
+With respect to the scope of work authorized by foreign repair stations, the regulations
+state that a certified repair station may, with respect to U.S.-registered aircraft, maintain or alter
+aircraft, airframes, powerplants, propellers, or component parts. The regulations further state that
+after major repair or alteration, a certified repair station (domestic or foreign) can return to service
+only articles that have been worked on according to technical data approved by the FAA
+Administrator.33
+Federal regulations require that domestic repair stations keep records of work performed
+for at least 2 years; foreign repair stations are exempt from these recordkeeping requirements.34
+However, foreign repair stations are required to keep records of maintenance performed on U.S.-
+registered aircraft containing basic details and whatever additional information the FAA
+Administrator finds necessary regarding U.S.-registered aircraft.35 The regulations do not specify
+how long such records must be kept. However, the FAA generally specifies a time period in the
+repair station’s inspection procedures manual.
+FAA Order 8130.2C (Airworthiness certification of aircraft and related products)
+Section 3 (aircraft engines, propellers, materials, parts and appliances), paragraph 220, states that
+the person who returns an imported product to service (in accordance with 14 CFR Part 43.5) must
+ensure that the product:
+• has not been modified, changed, or damaged subsequent to the time
+of export certification;
+• complies with all FAA ADs;
+33 Title 14 CFR Part 145.73 (Foreign repair stations—scope of work authorized.) and Part 145.51 (Privileges of
+certificates.).
+34 Title 14 CFR Part 145, Subpart B and C.
+35 Title 14 CFR Section 145.79.
+
+32
+• is installed in accordance with FAA-approved design data;
+• is found to be in condition for safe operation; and
+• is accompanied by the necessary maintenance documentation.
+1.17.5 THY Repair Station
+THY operates a repair station that is certified by both the FAA and the Director General
+of Civil Aviation (DGCA) in Turkey. The repair station maintains and overhauls airplanes that are
+part of the Turkish Airlines fleet as well as airplanes and engines operated by foreign and domestic
+operators. Authority granted by the Turkish DGCA allows the repair station to overhaul JT8D
+engines for the THY fleet. THY receives its authority to overhaul JT8D engines for U.S.-
+registered airlines from the FAA.
+According to its FAA Air Agency Certificate, first issued in 1974, and its Repair Station
+Operations Specifications, which are periodically reissued and revised by the FAA, THY has been
+an FAA-certificated 14 CFR Part 145 Subpart C repair station since March 8, 1974, with the
+following ratings: airframe, powerplant, instrument, accessory, radio, and limited specialized
+service. Before 1986, its operations specification limitations listed Airframe Class 4 (all-metal
+large aircraft) and Powerplant Class 3 (turbine engines), without further limitation to specific
+airframes or engines.
+The revised operations specification issued on November 21, 1986,36 listed “Limited
+Ratings”37 for Airframe to include: Airbus Industries A300 and A310 series, Boeing B707/720,
+and B727 series, Fokker F28 series, McDonnell Douglas DC-9 and DC-10 series, and other
+airplanes; and for Powerplant to include: General Electric CF6 series, P&W JT3D, JT8D, JT9D,
+and PT6A series, and various Rolls Royce engines. A note under the powerplant limited ratings
+stated the following:
+LINE MAINTENANCE FOR OTHER ENGINES IN THE CLASS 3 CATEGORY.
+AUTHORIZATION IS LIMITED TO MINOR INSPECTIONS, REMOVAL/ INSTALLATION
+OF ACCESSORIES AND COMPONENTS, ADJUSTMENTS, MINOR REPAIRS, MINOR
+ALTERATIONS ONLY. WORK TO BE ACCOMPLISHED IN ACCORDANCE WITH THE
+MANUFACTURER’S TECHNICAL DATA OR OTHER PROCEDURES ACCEPTABLE TO
+THE [FAA] ADMINISTRATOR.
+36 See appendix E for examples of THY’s repair station operations specifications.
+37 Limited ratings are ratings issued to repair stations for the performance of maintenance on particular makes and
+models of airframes, powerplants, propellers, radios, instruments, accessories, and/or parts. (8300.10 (Chapter 161,
+Section 1, paragraph (8) FAR 145.33.))
+
+33
+The Safety Board was unable to obtain the THY Repair Station Operations
+Specifications that were applicable between November 1989 and October 1991. The Board did
+examine the operations specifications in force for the period ending November 23, 1989, and the
+period beginning October 29, 1991. Both of those operations specifications included limited
+ratings for P&W JT8D and other engines and contained the same note, quoted above: “Line
+maintenance for other engines in the Class 3 category. Authorization is limited to minor
+inspections….”
+The statement addressing line maintenance of other engines in the Class 3 category
+remained unchanged until August 4, 1994, when the entire note under powerplant limited ratings
+was revised to read:
+POWERPLANT AUTHORIZATION FOR THE AFOREMENTIONED ENGINES INCLUDES
+MAINTENANCE AT ALL LEVELS UP TO AND INCLUDING OVERHAUL IN
+ACCORDANCE WITH CURRENT MANUFACTURER’S MAINTENANCE MANUALS OR
+OTHER FAA APPROVED DATA. MAINTENANCE (EXCLUDING OVERHAUL) IS
+LIMITED TO ENGINES INSTALLED ON AIRCRAFT LISTED IN THE AIRFRAME
+RATINGS AND FURTHER LIMITED TO THOSE MAINTENANCE FUNCTIONS AS
+AUTHORIZED BY THE CURRENT MANUFACTURER’S MAINTENANCE OR FAA
+APPROVED DATA.
+Under “Specialized Service,” the October 29, 1991, Repair Station Operations
+Specifications listed the following nondestructive testing methods: ultrasonic; magnetic particle
+per MIL-I-25135 and MIL-SAD-6868, as revised; eddy current per MIL-SAD-1537A, as revised;
+penetrant-visible dye and fluorescent dye per MIL-SAD-6866, as revised; and radiographic x-ray
+per MIL-SAD-453C, as revised.
+THY maintains that it was authorized by the Turkish DGCA to operate a turbine-engine
+repair station and to overhaul P&W JT8D and other engines. However, THY maintained that it
+“…clearly understood from operations specifications of Turkish Airlines that THY [was]
+authorized to make any kind of repair and overhaul of JT8D engines. Turkish Airlines
+repair/overhaul certification for JT8D engines has never been discontinued between 1974 and
+1996.”
+Following the accident, by memorandum dated November 16, 1995, the Safety Board
+was advised by the FAA’s Director of Flight Standards Service (AFS-1) that the THY repair
+station had not been decertified at any time since the 1974 issuance of its original repair station
+certificate. However, he reported that THY’s Class 3 powerplant rating had been changed to
+limited powerplant, excluding overhaul, on November 21, 1986, and that the FAA’s “files do not
+contain any information relative to this change other than the certificates themselves.” AFS-1
+reported that THY was again authorized to overhaul JT8D engines on August 4, 1994.
+The PMI who was assigned surveillance responsibilities at THY from 1992 to 1995
+stated that although THY retained the capability to conduct JT8D overhauls after 1986, THY had
+no need for FAA-granted overhaul authority from the FAA until 1994, because of inactivity
+involving U.S.-registered airplanes. Reauthorization of foreign operations specifications was, at
+that time, dependent on annual activity in support of U.S.-registered airplanes. He stated that he
+
+34
+was confident that THY understood its 1986-1994 limitation because he received a phone call
+from THY in 1994 requesting that THY’s FAA repair station authority be expanded to include
+overhauls on various engines.
+According to the PMI, the PMI, along with a three-man team, subsequently conducted a
+3-day inspection that resulted in the amended THY repair station operations specifications dated
+August 4, 1994, which authorized overhauls of CF6, JT3D, JT8D, JT9D, and PT6A series engines.
+The amended operations specifications also added D-check authorizations for Airbus Industries
+A310, A340, Boeing 707/720, 727, 737, Fokker F28, McDonnell Douglas DC-9 and DC-10, and
+other airplanes.
+THY maintains that the FAA never informed it of any change to its authority to
+overhaul JT8D or other engines and that THY has never requested such a change to its operations
+specifications. THY reported to the Safety Board that it has always maintained and overhauled
+P&W engines in accordance with manufacturer maintenance and overhaul manuals and standards
+and that this is also a requirement for certification as a repair station by the Turkish DGCA.
+1.17.5.1 Pratt & Whitney Engine Shop Maintenance Review
+During the investigation, the Safety Board discovered that P&W engineering personnel
+had conducted a Turkish Airlines JT8D Engine Shop Maintenance Review in December 1991.
+THY provided a copy of the review to the Safety Board. The report noted that the THY shop had
+been set up to handle a maximum of 50 JT8D shop visits per year and that it was averaging
+approximately 35 shop visits per year. The P&W review contained conclusions/
+recommendations, including the following:
+• Conclusion: Turkish Airlines’ shop personnel are experienced and
+know the procedures for cleaning, stripping, plating, and other
+repairs; however, new personnel sometimes enter the shop, and
+procedures are sometimes revised. Because the Engine Manual is
+written in English and presents a generic view of each procedure,
+Turkish Airlines should prepare process sheets that 1) describe the
+specific processes and repair procedures in Turkish, 2) describe
+actual shop equipment used at Turkish Airlines, and 3) require shop
+personnel to sign each significant step of the procedure as that
+procedure is completed. Process sheets will help avoid many repair
+problems and will confirm that the complete, up-to-date procedure
+has been accomplished. These sheets can also be used in a
+computerized parts tracking system.
+• Recommendation: Prepare specific, Turkish-language process sheets
+for parts sent into the shop.
+• Conclusion: Many of the parts racks are dirty. Clean parts can
+become dirty enroute to the FPI [fluorescent particle
+
+35
+inspection]/FMPI area, which can lead to contamination of the
+expensive FPI penetrants.
+• Recommendation: Periodically steam clean the parts racks.
+• Conclusion: The job card that routes the parts through FPI and FMPI
+does not specify the process or have a sign-off line for the inspectors
+to see that the work has been done. The only indication that the
+parts have been FPI inspected is a green wire attached to the parts.
+Several parts were found with green wires attached without any
+evidence of background fluorescence that is typical of parts that
+have been processed through the FPI line.
+• Recommendation: Specify the FPI or FMPI SPOP on the work order
+with a sign-off line for the inspector to permit the inspection process
+to be verified and the inspector for that part to be identified.
+1.17.5.2 FAA Inspections of THY Repair Station
+The Safety Board staff reviewed FAA Program Tracking and Reporting System (PTRS)
+records and correspondence between the FAA and THY to determine the frequency and level of FAA
+oversight of the THY repair station. The PTRS records, which were only available from June 1993
+to the present, typically reflected one to three visits per year with mostly favorable but some adverse
+comments that required corrective action. These records were not as detailed as the 1991 P&W
+JT8D Engine Shop Maintenance Review, but included checklists and indicated relatively
+comprehensive inspections of the facility.
+Additional correspondence pertaining to FAA oversight and recertification of THY
+addressed the periodic renewals of the THY Air Agency Certificate and Repair Station Operations
+Specifications and provided the results of FAA inspections in connection with those renewals. The
+Safety Board found that the renewals followed FAA inspections of the THY facility after 1- or 2-year
+intervals. The FAA required correction of the listed inspection discrepancies in advance of
+reissuance of repair station certificates. For example, in its September 5, 1991, letter to THY, the
+FAA PMI advised the repair station:
+Turkish Airlines NDT [non-destructive testing] area must be audited by the company
+and new procedures implemented. Calibration of black lights and calibration meter
+must have records of calibration by Mil-Std. Also X-ray must have a means of
+checking the film after X-ray by use of the penetrameters or by using a densitometer
+to measure density. This office recommends the supervisor of the NDT shop receive
+addition[al] factory training in all areas of NDT to update personnel assigned. Eye
+examination per Mil-Std-410 are (sic) required for all NDT personnel.
+
+36
+Corrective action of these discrepancies was required within 60 days and, according to FAA
+correspondence, was accomplished by THY in advance of the reauthorization of the operations
+specifications, which occurred on October 29, 1991.
+The FAA PMI with oversight responsibility for THY from 1992-1995 stated that renewals
+were sometimes extended to 2-year intervals because of FAA staffing shortages; he reported that in
+1992, his office (International Field Office, Frankfurt, Germany) had only six persons to inspect,
+certify, and surveil all of the Part 145 Repair Stations in Europe; as the number of such stations grew,
+his office grew to its 1995 staffing level of 20 inspectors. He stated that he was personally
+responsible for 21 repair stations in 1992.
+The FAA correspondence indicated that reauthorization of the operations specifications
+was in part dependent on annual activity in support of U.S.-registered airplanes. The application
+dated August 31, 1991, stated that the specifications were to be reauthorized despite no such work in
+the previous 3 years. The correspondence indicated that the THY repair station activity involving
+U.S.-registered airplanes was quite limited in other years as well, although contracts with two U.S.
+air carriers have increased that activity since 1992.
+A four-person FAA team performed an inspection of the THY repair station from
+June 27 through 29, 1995. This inspection, which, according to the FAA, had been planned before
+the accident, was to recertify Turkish Airlines’ Part 145 repair station certificate. As a result of the
+accident, the team assigned two personnel to focus on areas relating to the accident investigation.
+A memorandum documenting the inspection indicated that the inspection team included the PMI,
+another maintenance inspector, an avionics inspector, and an engineer from the Aircraft
+Certification Office in Brussels, Belgium.
+According to the memorandum, the inspection team focused on two issues: (1) FAA
+recertification of THY’s Part 145 certificate, and (2) information regarding turbine engine
+maintenance. The memorandum stated that based on the audit reports of the engineer and one of
+the maintenance inspectors, it appeared that the repair station’s methods, techniques, and practices
+were satisfactory at the time of the inspection.
+In the maintenance inspector’s report, which was attached to the memorandum, the
+inspector commented about THY’s compressor disk repair capabilities. He stated that the correct
+P&W maintenance manual was available and that the disk repair procedures used were P&W’s
+instructions. According to the inspector’s report, the technicians could read and speak English and
+were familiar with the process for corrosion identification and removal. The work station in the
+visual inspection area was reported to be well lighted and the tools for blending surface damage
+were appropriate. The report also stated that in the plating shop, the procedures were available in
+both English and Turkish.
+The engineer’s report, which was also attached to the memorandum, indicated that THY
+overhauled its own engine compressor disks after a maximum of 4 years, compared with the FAA
+Airworthiness Directive (AD) 94-20-01 requirement for overhaul at a maximum of 10 years.
+According to the report, this action was taken because THY had purposely left a plated tiebolt, of
+
+37
+the same material and plating as a disk, outside for 1 year and found that it developed corrosion
+under the plating.
+One of the inspectors’ reports attached to the memorandum stated that none of the
+overhaul records for the failed engine were available at THY at the time of the FAA inspection.
+1.17.6 ValuJet’s Flight Attendant Training Program
+Federal regulations38 require that certain emergency drills be conducted by
+crewmembers, including flight crewmembers, during initial training and recurrent training at 24-
+month intervals. The regulations state, in part, that crewmembers shall perform emergency exit
+drills, operating each type of emergency exit in both normal and emergency modes and that the
+drills shall replicate the actions and forces required in the deployment of the emergency evacuation
+slides.
+FAA Air Carrier Operations Bulletin (ACOB) 8-76-6, “Guidelines for Crewmember
+Training on Aircraft Tailcones and Approval of Tailcone Training Devices,” dated July 13, 1992,
+allowed air carriers to train their DC-9/MD-80 crewmembers by having an instructor or trainee
+operate the tailcone release handle while other trainees observed. ACOB 8-76-6 was current at the
+time that ValuJet was certificated on October 21, 1993, and it was current on August 30, 1995,
+when the FAA was queried by Safety Board investigators regarding the ACOB’s status.
+On January 26, 1996, the FAA issued Flight Standards Handbook Bulletin 96-02,
+“Guidelines for Crewmember Training on Aircraft Tailcones and Approval of Tailcone Training
+Devices.” This bulletin set forth acceptable means of approving tailcone training devices and
+required that each trainee actually operate the appropriate mechanisms to ensure evacuation
+through the tailcone exit.
+ValuJet Airlines’ flight attendant training program, which included crewmember exit
+drills, was approved by the FAA in a letter dated September 23, 1993, to ValuJet’s Vice President
+of Marketing. ValuJet’s flight attendant training syllabus in effect at the time of the accident, and
+which also was approved by the FAA, did not address tailcone exit drills. However, ValuJet’s
+Manager of Inflight Training stated that exit drills were conducted on an actual airplane, during
+which crewmembers simulated pulling the tailcone release handle, rather than actually operating
+the tailcone exit. Additionally, passenger entry door and service door training was conducted on
+ValuJet airplanes, during which bungee chords were attached to the doors to simulate the forces of
+the emergency evacuation slide being pulled from its bustle. According to ValuJet, pilots
+participated in the same drills as the flight attendants. After this accident, ValuJet acquired a
+tailcone exit training device and trained all active flight attendants with the use of this device by
+the end of August 1995.
+38 Title 14 CFR Section 121.417.
+
+38
+Several errors in ValuJet’s DC-9 flight attendant manual were noted by Safety Board
+investigators. For example, although the correct operation of the tailcone exit was described, an
+illustration for an MD-80 aft entrance door was used rather than an illustration for the DC-9-32
+airplane operated by ValuJet. Also, a diagram for the tailcone interior jettison handle stated “Note
+Tailcone is normally jettisoned using the passenger aft entrance door emergency handle.” This
+referred to MD-80 aircraft and not the DC-9-32 airplane. Another diagram depicted ValuJet’s
+airplanes as having both a tailcone exit door and an exit hatch, although ValuJet does not operate
+any DC-9 aircraft with a hatch.
+The flight attendant manual also contained incorrect information, or lack of information,
+regarding flight attendant flotation equipment, passenger safety announcements, flight attendant
+operation of the cabin emergency lighting switch, and use of the water fire extinguisher. The
+Manager of Inflight Training, who was hired in March 1995, stated that the flight attendant manual
+was in the process of being revised at the time of the accident. ValuJet issued a new flight
+attendant manual on November 11, 1995. (See Appendix F.) The new manual does not contain
+the errors found in the previous version.
+1.17.7 Safety Board Recommendations Subsequent to the Accident
+Following the accident, on July 6, 1995, the Safety Board issued three safety
+recommendations to the FAA regarding the failure of the accident engine, the wording of P&W
+repair guidance, and FAA guidance to maintenance personnel. The Safety Board stated in its
+recommendation letter that the metallurgical examination of the 7th stage HPC disk from the
+ValuJet engine showed that the failure was caused by fatigue cracking that had originated at a
+corrosion pit in an SR hole. The letter stated that there was evidence that the corrosion pit had
+been plated over during an overhaul of the disk in 1991, and that, additionally, it appeared that the
+size of the corrosion pit exceeded the allowable limits at the time of the overhaul.
+The letter further stated that examination of the fatigue crack revealed a minimum of
+7,000 to 8,000 fatigue striations. The letter concluded that, assuming that each striation
+represented one “flight cycle,” based on the 4,433 flight cycles accumulated since the last
+inspection, the crack would probably have been detectable by non-destructive testing or by visual
+inspection at the time that the engine was last overhauled.
+As a result, the Safety Board issued the following urgent Safety Recommendation A-95-
+71 to the FAA:
+Issue an Airworthiness Directive to require the inspection of Pratt & Whitney
+JT8D engine high pressure compressor steel disks that were last overhauled
+and maintained by Turk Hava Yollari of Turkey prior to reaching 3,000
+cycles since that last overhaul and inspection. Special attention should be
+given to the potential for corrosion pitting or cracks in the shielding [SR]
+holes in 7th stage high pressure compressor disks.
+
+39
+On September 14, 1995, the FAA reported that on July 10, 1995, a Telegraphic
+Airworthiness Directive (AD), T95-15-51, was issued that was applicable to certain P&W JT8D
+engines containing HPCs that had been inspected by THY. The AD required that those engines
+containing any 7th through 12th stage HPC disks that had accumulated 2,900 or more cycles on the
+effective date of the AD or 100 cycles in service after the effective date of the AD, whichever
+occurred first, be inspected in accordance with the P&W JT8D engine manual for evidence of
+corrosion pitting and cracks. According to P&W, no cracks were found in any of the inspected
+disks. The Safety Board responded that the action satisfied the intent of the recommendation,
+which was then classified “Closed—Acceptable Action.”
+The Safety Board also stated in its recommendation letter that it noted that P&W engine
+manuals provided overhaul facilities with inspection guidance, allowable limits for damage, and
+repair procedures. The Safety Board stated that the inspection material was quite detailed but that
+it could be difficult to understand. It was noted that such misunderstandings could be magnified
+when translating the instructions from English into another language. Consequently, the Safety
+Board issued Safety Recommendation A-95-72, asking the FAA to:
+Modify the wording of the inspection and damage limits provided in the Pratt
+& Whitney manuals and service bulletins for JT8D high pressure compressor
+steel disks to prevent any misunderstanding of the amount of damage allowed
+and the procedures required for the repair and return to service of the disks.
+On September 14, 1995, the FAA reported that it was working with P&W to modify the
+engine manual as requested. On November 20, 1995, the Safety Board classified this
+recommendation “Open—Acceptable Response.” By letter dated June 4, 1996, the FAA reported
+that the JT8D engine manual was revised to clarify the amount of damage that is allowed and the
+procedures required for the repair and return to service of the disks.
+However, the Safety Board has noted that the revised inspection sections for the 10th,
+11th, and 12th stage HPC disks incorrectly show those disks as having SR holes. In addition, the
+inspection section for the 13th stage HPC disk, which is made of a non-magnetic nickel alloy, was
+revised to add an FMPI, which would only be appropriate for parts made of alloys that can be
+magnetized. Consequently, pending further modifications of the JT8D engine manual to correct
+these inaccuracies, Safety Recommendation A-95-72 remains in an “Open—Acceptable
+Response” status.
+The Board also issued Safety Recommendation A-95-73, which asked the FAA to:
+Provide additional guidance to designated airworthiness representatives and
+aviation maintenance personnel to ascertain whether facilities that have
+repaired or overhauled aircraft, aircraft engines, and aircraft equipment
+submitted for acceptance in the United States held the proper Federal
+Aviation Administration certificates at the time the work was accomplished.
+
+40
+In either event, the guidance should include the actions to be taken to ensure
+compliance with the Federal Aviation Regulations.
+On September 14, 1995, the FAA reported that a flight standards information bulletin
+(FSIB) would be issued. The FSIB would remind FAA inspectors and designees of their
+responsibility to ensure that aircraft, aircraft engines, propellers, and other parts imported or
+accepted into the United States meet the requirements of the FAA regulations and follow
+established FAA policy and guidance. The FAA subsequently issued FSIB for Airworthiness
+(FSAW) 96-14, effective July 5, 1996. The Safety Board found the FSAW responsive to the intent
+of Safety Recommendation A-95-73, and the recommendation has been classified “Closed—
+Acceptable Action.”
+
+41
+2. ANALYSIS
+2.1 General
+The flightcrew was properly certified and trained for the flight, and was in compliance
+with the Federal regulations on flight and duty time. The flight attendants had completed
+ValuJet’s FAA approved flight attendant training program in existence at the time of the accident.
+The airplane was properly certificated and operated in accordance with applicable Federal
+regulations. The aircraft certification process followed by the DAR was thorough and complete in
+that all required aircraft and record inspections were performed. The DAR’s airplane certification
+process was not considered relevant to the accident sequence. Visual meteorological conditions
+prevailed, and weather was not a factor in the accident.
+2.2 Uncontained Engine Failure
+An uncontained failure of the right engine occurred at low speed, early in the takeoff
+roll. The rapid decrease in the EPR of the right engine recorded on the DFDR was the result of the
+uncontained failure of the right engine. As a result of the uncontained failure, engine shrapnel
+penetrated the fuselage, severing the right engine main fuel line. Pressurized fuel sprayed into the
+cabin near the aft lavatory and was most likely ignited by sparks generated by steel engine
+fragments contacting steel galley equipment in the cabin.
+Postaccident examination of the failed right engine revealed that the 7th stage HPC disk
+was fractured. Metallurgical examination of the two major pieces of the disk that were recovered
+revealed fatigue cracking in the SR hole “1” location in the larger piece of the 7th stage disk. The
+combined fatigue crack lengths and hole diameter accounted for an overall crack length of 1.56
+inches at SR hole “1.” Also, the crack at SR hole “1” contained the largest outboard propagating
+fatigue crack and the only inboard propagating fatigue crack found on the disk. This combined
+fatigue crack length is consistent with a critical crack length expected to produce separation of the
+disk under normal operating conditions. Also, because this fatigue crack was the only one on a
+radial fracture plane that went completely through the section between the bore and rim, it was
+likely the primary fracture initiation area.
+Although the fracture was heavily damaged, analysis of fatigue striation measurements
+in the outboard fatigue region from SR hole “1” indicated that a crack of about 12 mm
+(approximately ½ inch) existed in the disk at the last reported overhaul in 1991, or 4,430 engine
+cycles before the disk failure.39 Thus, the Safety Board concludes that a detectable crack40 existed
+39 Fatigue striation measurements in the outboard fatigue region from SR hole “1” gave estimated uniform
+spacings of 2 microns between 10.5 mm and 15.5 mm crack lengths and an estimated uniform 2.5 micron spacing from
+15.5 mm crack length to the fatigue terminus at 22.25 mm from the hole. These measurements were used to estimate
+the approximate crack length at the last inspection reported as 4,430 engine cycles before disk failure. The fatigue
+striation spacings of 2.5 microns and less were consistent with fatigue striation development from low cycle fatigue,
+which equates to one striation for each flight cycle. The final stages of fatigue cracking were used to calculate the
+amount of cracking to account for the last 4,430 striations, as follows: (22.25 mm minus 15.5 mm) or 6.75 mm of
+crack propagating at 0.0025 mm (equivalent to 2.5 microns) per cycle yields 2,700 cycles for this region; (4,430 cycles
+
+42
+in an SR hole in the 7th stage HPC disk of engine SN 666966 when the disk was overhauled by
+THY in 1991, and therefore detectable by FMPI or MPI.
+Fatigue crack initiation at SR hole “1” and others was linked to corrosion pits, some as
+deep as .003 inch, in the SR holes that were shown to be plated over with nickel cadmium (see
+figure 8). Although the investigation could not determine when the pits were plated over, the
+plating over of the pits indicates that they existed in the disk during the overhaul inspection by
+THY in 1991, as that would have been the last time before the accident that the disk would have
+been off the engine. Plating over pitted surfaces also existed in several tiebolt holes on the 12th
+stage disk of the accident engine.
+2.3 Overhaul Procedures by THY
+The size of the fatigue crack and the plating over corrosion pits in the SR holes indicate
+that during the overhaul of the 7th stage disk by THY in 1991, a proper inspection was not
+performed. The Director of THY’s overhaul shop initially contended that because the P&W
+engine manual did not specifically refer to the SR holes, only the tierod holes needed to be
+addressed in the overhaul inspection. Later in the investigation, the Director indicated that an
+inspection41 of the SR holes had been performed but to a different standard than that for the tierod
+holes--one that permitted scattered surface damage up to 0.003-inch deep to go unrepaired.
+If the THY repair station did perform an inspection of the disk, including the SR hole
+“1,” but did not repair the damage or reject the part because the damage was limited to corrosion
+pits of 0.003 inch or less as the Director of the THY overhaul shop contends, this raises some
+concerns. First, the P&W engine manual states that no unrepaired surface damage is allowed in
+any hole or within 0.125 inch of the edge of a hole on adjacent surfaces. If THY was uncertain
+about how this statement applied to the SR holes, THY should have discussed this with P&W
+technical representatives to clarify any uncertainties.
+More importantly, however, a properly performed inspection should have detected a
+crack estimated to be ½-inch long at the time of the THY overhaul in 1991. During an MPI
+inspection, the entire disk is magnetized, and magnetic particles are applied to the disk. The SR
+holes would inescapably be included in this type of inspection because of their proximity to the
+minus 2,700 cycles) or 1,730 cycles at 0.002 mm (2 microns) per cycle yields 3.46 mm; therefore, a crack of 6.75 mm
+plus 3.46 mm equals 10.21 mm to propagate the last 4,430 cycles. Because this crack had an overall length of 22.25
+mm at failure of which the last 10.21 mm occurred since last inspection, then approximately (22.25 mm minus 10.21
+mm) or 12.04 mm of crack length existed at the last inspection.
+40 A 12-mm crack extending the depth of SR hole “1,” and extending to the front and rear faces of the disk would
+have a probability of detection of 100 percent when inspected with either FMPI or MPI according to the current
+Nondestructive Testing Information Analysis Center nondestructive evaluation capabilities data book.
+41 It is unclear what type of inspection THY performed, based on conflicting statements by the Director of THY’s
+overhaul shop. In a meeting with Safety Board officials, he claimed that an MPI inspection was performed. However,
+subsequently, in a letter dated June 18, 1996, he stated that an FMPI was performed.
+
+
+
+44
+tierod holes, and the ½-inch crack would have been readily visible, not only inside the SR hole, but
+along the surface of the disk. During an FMPI inspection, the entire disk is not only magnetized,
+but is also covered in a solution containing fluorescent iron particles that would further highlight
+any defects. Accordingly, the Safety Board concludes that THY did not perform a proper
+inspection when the disk was overhauled in 1991. Had the THY repair station accomplished a
+proper inspection of the 7th stage high compressor disk of engine SN 666966, the crack would
+probably have been detected, the part rejected, and consequently, the accident may have been
+avoided.
+Because of the Director of THY's overhaul shop’s earlier comments that the SR holes
+were not inspected because the P&W engine manual did not specifically reference the SR holes,
+the Board examined the manner in which the manual addressed the inspection of the holes in the
+disk. The P&W engine manual presents a figure of the 7th stage disk, that shows only 12 holes
+(rather than the 24 holes that actually exist) and refers to them as tierod holes; the figure does not
+show the 12 SR holes. However, the 24 holes on an actual disk are placed so close together that it
+is virtually impossible to inspect tierod holes without noticing the SR holes. Textual material in
+the manual does indicate that 0.003-inch damage can be left without blending. However, the
+manual also states that no damage can exist in or near any hole. As previously noted, the FAA is
+working with P&W to revise P&W’s JT8D engine manual in response to the Board’s Safety
+Recommendation A-95-72.
+The Safety Board concludes that although the P&W engine manual could have
+presented this information in a way that would have made it clearer that the SR holes in the 7th
+stage disk had to be inspected and could not contain any damage, the lack of clarity was not a
+contributing factor in the failure of the disk because the manual did clearly state that no damage
+was permissible in or near any hole.
+The Safety Board attempted to determine why a proper inspection was not performed
+on the 7th stage disk. In the report of its 1991 shop review of the THY repair facility, P&W
+indicated that because the engine manual was written in English, THY should prepare “process
+sheets” in Turkish that describe the specific process and repair procedures and actual shop
+equipment to be used, and that require signatures of appropriate shop personnel for each
+significant step of the procedure as that procedure is completed. P&W indicated such
+documentation was not then being used by the THY repair station, and following the 1995 engine
+failure, none has been located for the 1991 inspection/overhaul of the 7th stage disk. Further, the
+report of the 1991 P&W shop review also pointed out that the job card that purportedly routed the
+parts through the FMPI inspection did not specify the process or have a signoff line. Also, the
+review indicated that several parts had been tagged with green wires indicating that the parts had
+been subjected to an FPI when they could not have received such an inspection, as no residual
+fluorescent background material was present on the parts. From this evidence, the Board
+concludes that the THY repair station was not using detailed documentation to provide step-by-
+step guidance at the time of the 1991 overhaul and inspection of the 7th stage disk.
+The fact that the disk in this accident had plating over pitting and numerous cracks
+suggests that it had not received a proper overhaul or proper inspection for some time. Given that
+
+45
+there is no historical evidence that the 7th stage HPC disk of the JT8D has been prone to
+developing cracks and ruptures, it is likely that a low or even zero rate of detection of cracks in
+this disk would create an expectation that no cracks would be detected. This could lead to
+complacency in the inspection process. This potential for complacency in the FPI/FMPI process,
+coupled with the failure to detect the crack in this case, raises questions regarding the adequacy of
+training procedures for such inspections. The 1991 P&W shop audit noted that THY’s FPI/FMPI
+inspectors were trained by one another, and recommended that THY develop a formal training
+program or send the inspectors to a nondestructive testing school to become qualified and that they
+be retested every 1 to 2 years to ensure that they maintained their practical knowledge and theory.
+Because no additional information about THY’s FPI/FMPI training was available for that time
+period (1991 and prior), the Safety Board was unable to further investigate or analyze this issue.
+However, the adequacy of FPI/FMPI training procedures will be thoroughly investigated and
+addressed in the Safety Board’s ongoing investigation of the Delta Air Lines MD-88 uncontained
+engine failure in Pensacola, Florida.42
+Nonetheless, despite the possibility that there may have been deficiencies in THY’s
+training for FPI/FMPI, detailed documentation that specified each individual step in the inspection
+and overhaul process and required signatures could have instilled in THY personnel a greater
+sense of accountability and increased the likelihood that each step would be accomplished.
+Further, if the disk was inspected only on one side, or if it was not inspected at all, it is likely that
+detailed documentation that was required to be signed would have increased the likelihood that
+these failures would not have occurred. The Safety Board concludes that use of such detailed
+documentation would have increased the likelihood that the disk would have received a proper
+inspection and that the crack would have been detected; thus, the absence of such detailed
+documentation contributed to the accident.
+Although detailed documentation would have increased the likelihood of the
+performance of a proper inspection, the Board is concerned that because of the dependency on
+human performance, a visual inspection, even enhanced (such as an MPI, FMPI, or FPI), may be
+an inappropriate inspection procedure when there is a low probability (expectation) of detecting a
+crack. The Board is examining this issue in its ongoing investigation of other uncontained engine
+failures and will address this issue further in its reports on those investigations.
+2.4 Adequacy of FAA Recordkeeping Requirements.
+The Safety Board’s review of applicable regulations addressing the type and detail of
+records that are required to be retained by all repair stations indicates that FAA guidance in this
+area is insufficient and vague. Regulations governing maintenance practices in general (FAR
+43.3) require that maintenance record entries contain only “a description (or reference to data
+acceptable to the [FAA] Administrator) of work performed.” Regulations governing repair
+stations (FAR 145.61) require that repair stations keep “adequate records of all work [that they
+do]” but do not define what constitutes “adequate records.” Regulations governing air carrier
+42 DCA-96-MA-068, MD-88, Pensacola, Florida, 7/6/96.
+
+46
+maintenance programs (FAR 121.380) require carriers to keep certain “records” (including records
+of the last complete overhaul of each airframe, engine, propeller, rotor, and appliance until the
+work is superseded by work of equivalent scope and detail) but do not define what sort of
+information, and what degree of detail, those “records” should contain. FAA Order 8130.2C,
+paragraph 220, indicates that “necessary maintenance documentation” must accompany an
+imported product before it can be returned to service, but there is no definition or clarification in
+paragraph 220 of what is considered “necessary maintenance documentation.” Although it is
+possible that this is intended to refer to the maintenance records required to be kept by an owner or
+operator, as specified in FAR 91.417,43 paragraph 219, “Identification and Marking,” no such
+intention is explicitly stated in paragraph 220. In any event, because the records specified in FAR
+91.417 are general maintenance records containing only very basic information, they are an
+insufficient basis on which to conclude that an item is airworthy, even assuming that is what is
+meant by “necessary maintenance documentation.”
+Although THY was alerted by P&W in 1991 that the lack of “process sheets” in the
+Turkish language represented a deficiency in its operation, it was not until June 1995 that such
+documentation (referred to as “traveler forms” by the Director of the THY overhaul shop) was
+used by the repair station. Further, although the documentation that the THY repair station began
+to use in June 1995 represents a significant improvement, those forms do not contain the level of
+detail contained in similar documentation used by some U.S. repair facilities. For example, the
+new THY “traveler forms” are generic to any disk and are not specific to any engine; that is, there
+is no form specific to the 7th stage HPC disk of a JT8D engine. Further, there is no reference on
+the form to specific sections of the engine maintenance manuals (or more detailed job instruction
+cards) that describe detailed instructions or references needed to complete the task. This type of
+information would not only help to ensure a proper overhaul or prevent a missed inspection, but
+would also help to assure the proper application of the overhaul and inspection procedures.
+Another advantage to detailed documentation is that, if retained, it provides a much
+better basis for verifying the serviceability (or airworthiness) of engines/components being
+returned to service. The Safety Board concludes that “process sheets” or similar documentation of
+sufficient detail to permit a complete determination of the work needed to be done and of the work
+that has been done is necessary for a comprehensive maintenance program to ensure the continued
+airworthiness of aircraft, engines, and components. Such a system of documentation could be
+described in an advisory circular that sets forth one acceptable method for complying with the
+maintenance recordkeeping requirements. Therefore, the Safety Board believes that the FAA
+should revise the applicable regulations and provide specific guidance on the documentation to be
+used and kept during inspections and overhauls, including “process sheets” or similar detailed
+documentation for all certificated repair stations.
+43 FAR 91.417 requires each owner or operator to keep certain records, including records of maintenance,
+alteration, and inspections (including a description of the work performed, the date of completion, and the signature
+and certificate number of the person approving the aircraft for return to service); total time in service of airframes,
+engines, propellers, and rotors; records showing current status of life-limited parts; time since last overhaul of items
+required to be overhauled on a specified time basis; inspection status of the aircraft; status of airworthiness directives,
+including method of compliance; and copies of forms required for major alterations.
+
+47
+Although foreign repair stations are not subject to the same recordkeeping requirements
+as domestic repair stations, the Safety Board recognizes that most repair stations will voluntarily
+keep adequate records of work done and believes that the records available in this case met the
+minimum standards in existence at this time and were adequate for the consultant to conclude that
+the recordkeeping system was valid. Moreover, the Safety Board recognizes that even if THY had
+been subject to the same recordkeeping requirements as domestic repair stations, it still would not
+have been required to keep records of the 1991 disk overhauls because the engine was installed on
+a non-U.S. (Turkish) registered aircraft. Nonetheless, the Safety Board concludes that foreign
+repair stations should be subject to at least the same recordkeeping requirements as domestic repair
+stations and believes that the FAA should revise 14 CFR Part 145 to require Subpart C foreign
+repair stations to adhere to the same recordkeeping requirements of 14 CFR Part 145.61.
+2.5 Maintenance Release and “Serviceable” Tags for Aircraft Components
+Although the tag on engine SN 666966 described only that the engine had been
+preserved for up to 90 days, and FAA regulations state that the signature on a maintenance record
+entry constitutes approval for return to service only for the work performed, the technical control
+director of THY’s repair station engine shop indicated that THY intended that the tag act as a full
+statement of serviceability and release for return to service based on a complete records review,
+rather than just the last maintenance action.
+The Safety Board is aware that “serviceable” tags are routinely used by industry, vary
+considerably in format, and are sometimes relied upon as assurance of overall airworthiness.
+However, there appears to be no clear regulatory basis for such an assurance. The Safety Board
+concludes that the industry practice of using serviceable tags without a clear understanding of their
+purpose can result in the misinterpretation of the intent of these tags. The Safety Board believes
+that the FAA should require that “serviceable tags” be used to return engines and other component
+parts to service, that they be in a prescribed format (perhaps in the format of FAA Form 8130-3)
+and that when there is a change of ownership, and certainly upon importation, the approval for
+return to service attest to the overall airworthiness of the part. The tag should reflect that a
+complete and thorough review of records, including “process sheets” of the last overhaul, has
+taken place. In the absence of such records, an overhaul of the part should be required when there
+is a change in ownership.
+2.6 THY’s Authority to Overhaul JT8D Engines
+The Safety Board received conflicting interpretations of THY’s authority to overhaul
+JT8D engines. (Clearly, the engine involved in this accident was not overhauled under U.S.
+authority, but under Turkish authority.) In a memorandum dated November 16, 1995, responding
+to a Safety Board inquiry, the Director of the FAA’s Flight Standards Service (AFS-1) stated that
+THY did not have JT8D engine overhaul authority from 1986-1994. However, THY maintains
+that its Air Agency Certificates and associated Repair Station Operations Specifications authorized
+THY to overhaul JT8D and other engines during those years.
+
+48
+In the Safety Board’s view, the FAA 1986 Repair Station Operations Specifications can
+reasonably be read to indicate that THY’s Limited Class 3 powerplant rating (authorizing all levels
+of maintenance, including overhaul) permitted overhaul of certain engines, including the JT8D,
+and that only line maintenance was authorized for Class 3 engines that were not listed on the
+operations specifications.
+Because of the Safety Board’s difficulty in understanding the FAA’s contrary
+interpretation of this authorization, the Safety Board requested, in a letter to the FAA dated
+May 23, 1996, a clarification of the FAA’s position on this issue. In a meeting with Safety Board
+staff on July 10, 1996, the FAA reiterated its position that THY did not have authority to overhaul
+JT8D engines for U.S.-certificated operations from 1986-1994. The FAA cited a phone call from
+THY in 1994 that requested expansion of the operations specifications to include engine
+overhauls. The Board remains convinced that the language of THY’s operations specifications
+does not readily comport with the FAA’s position, and the Safety Board is concerned that
+confusion about the extent of the authority of other repair stations may exist. Thus, the Safety
+Board believes that the FAA should review the Air Agency Certificates and Repair Station
+Operations Specifications of all repair stations and ensure that language in the operations
+specifications clearly indicates the extent of the repair stations' authority.
+2.7 Emergency Lighting and Public Address System
+When the airplane quickly filled with smoke after the engine failure, the pilots were able
+to complete only the first three items on the evacuation checklist before they exited the airplane.
+Further attempts by the pilots to complete the checklist could have exposed them to unnecessary
+risk. Because the fourth item on the checklist was not completed—moving the emergency light
+switch to the “ON” position—emergency lights in the cabin were not illuminated during a portion
+of the evacuation. Fortunately, in this accident, the lack of emergency lights in the cabin did not
+preclude a successful evacuation.
+Several factors affected the timely and successful evacuation. Perhaps the most
+important was the ratio of exits to occupants. Six of the seven emergency exits were opened
+quickly (two floor-level exits at the front of the cabin and four overwing exits) and used by all 57
+passengers. Additionally, the airplane had about half of its full compliment of passengers, and
+except for the aft flight attendant, no occupants were injured or incapacitated, which would have
+slowed the evacuation. Finally, the cabin interior remained intact and no debris hampered access
+to the exits.
+The pilot’s first attempt to order an evacuation was not successful because electrical
+power to the PA system was lost when the engines were shut down. After the captain selected
+emergency electrical power (which caused the emergency lights to turn off), power was restored to
+the PA system and the captain successfully communicated the evacuation order. Although the
+delay in communicating the evacuation order did not adversely affect the evacuation, this accident
+again highlights the need for an independent power source for PA systems in transport-category
+airplanes.
+
+49
+The Safety Board has issued three safety recommendations over the years advocating an
+independent power source for PA systems. The first recommendation (A-74-111) was issued
+following a 1974 Safety Board special study44 that examined 10 U.S. carrier accidents in which
+emergency evacuations occurred. The Board concluded in that study that PA systems are often
+used to initiate emergency evacuations but that they are not always available when aircraft power
+is interrupted. From 1974 to 1982, the FAA informed the Safety Board on several occasions that
+the issue was being evaluated for consideration in rulemaking action. However, in a letter dated
+August 18, 1982, the FAA indicated that it had determined that the cost of compliance with such a
+rule would outweigh any identifiable safety benefits. In a letter dated February 14, 1983, the
+Safety Board classified Safety Recommendation A-74-111 “Closed—Unacceptable Action.”
+In 1979, the Safety Board issued Safety Recommendation A-79-64 as a result of its
+investigation of a DC-8 accident in Portland, Oregon.45 The recommendation urged the FAA to
+expedite the release of an operations review program notice that contained the 1974
+recommendation for an independent power source for the PA system. The FAA subsequently
+issued an NPRM that contained the recommendation for an independent power source. Shortly
+thereafter, as a result of its investigation of a DC-8 evacuation in Phoenix, Arizona, on
+December 29, 1980,46 the Board issued Safety Recommendation A-81-130, urging the FAA to
+adopt promptly the rule proposed in the NPRM. The FAA, however, subsequently determined that
+the cost of the proposed rule would outweigh the safety benefits and withdrew the NPRM. Safety
+Recommendation A-81-130 was therefore classified “Closed—Unacceptable Action.”47
+In May 1986, the FAA published an NPRM that would require an independent power
+source for PA systems in newly manufactured transport-category airplanes. In its comments on
+that rulemaking activity, the Safety Board supported the intent of the proposed rule but noted that
+the rule should also provide for the retrofit of all airplanes currently in service. On October 27,
+1989, the FAA amended 14 CFR Part 121.318(g) to require that transport-category airplanes
+manufactured on or after November 27, 1990, be equipped with an independent power source for
+the PA system. The FAA did not include a provision for the retrofit of airplanes currently in
+service, as requested by the Safety Board.
+Following the accident, the Douglas Aircraft Company modified the evacuation
+checklist by placing the activation of the emergency light switch at the beginning of the checklist.
+However, the Board is concerned that given the importance of the first three items on the
+44 National Transportation Safety Board. 1974. Safety Aspects of Emergency Evacuations from Air Carrier
+Aircraft. Special Study NTSB/AAS-74/3. Washington, DC.
+45 National Transportation Safety Board. 1979. United Airlines, Inc., N80820, Portland, Oregon, December 28,
+1978. Aircraft Accident Report NTSB/AAR/79/7.
+46 National Transportation Safety Board. 1981. Evacuation of United Airlines DC-8-61, Sky Harbor International
+Airport, Phoenix, Arizona.
+47 Safety Recommendation A-79-64 had been classified “Closed—Acceptable Action” on April 6, 1981, based on
+the FAA’s issuance of an NPRM.
+
+50
+checklist, placing the emergency light switch first may not be the safest course of action. Further,
+had the PA system had its own independent source of power as the Board has asked for in the past,
+then the pilots would not have had to select emergency power, and the emergency lights would
+have remained lighted during the evacuation of the airplane.
+Communication is vital to a successful evacuation of any transport-category airplane,
+regardless of the date of manufacture. This accident again highlights the need for pilots to be able
+to communicate with passengers via the PA system without first turning off power to emergency
+lights. The Safety Board therefore believes that the FAA should require that all transport-category
+aircraft manufactured before November 27, 1990, be retrofitted with a PA system capable of
+operating on an independent power source.
+2.8 ValuJet’s Flight Attendant Training Program
+The investigation of this accident disclosed deficiencies in ValuJet’s flight attendant
+training program, including emergency drills training, and the FAA’s inadequate oversight of this
+program. Although these deficiencies did not affect occupant survivability in this accident, they
+could adversely affect the outcome of future emergency situations.
+ValuJet’s flight attendant training program had been approved and the flight attendant
+manual had been accepted by the FAA principal operations inspector (POI) for ValuJet in
+September 1993. However, contrary to the requirements of 14 CFR Part 121, which require, in
+part, that crewmembers operate each type of emergency exit in its normal and emergency modes,
+ValuJet’s flight attendant training syllabus did not include hands-on operation of a tailcone release
+handle.
+The Safety Board has previously addressed this specific issue. Following the ground
+collision of a DC-9 and a B-727, and the subsequent fire on the DC-9 at Romulus, Michigan, on
+December 3, 1990,48 a flight attendant and a passenger, both of whom died of smoke inhalation,
+were found inside the DC-9 tailcone. As a result of its investigation of that accident, the Safety
+Board issued Safety Recommendation A-91-6 , which asked the FAA to immediately require
+operators of DC-9/MD-80 series airplanes to include in their flightcrew and flight attendant
+training programs hands-on training on the operation of the tailcone release handle in
+DC-9/MD-80 airplanes using actual airplanes or FAA-approved simulators.
+In response to this recommendation, the FAA issued Air Carrier Operations Bulletin
+(ACOB) 8-76-6, “Guidelines for Crewmember Training on Aircraft Tailcones and Approval of
+Tailcone Training Devices,” on July 13, 1992. The ACOB allowed air carriers to train their
+DC-9/MD-80 crewmembers by having an instructor or a trainee operate the tailcone release handle
+while other trainees observed. On January 6, 1993, the Safety Board classified Safety
+48 National Transportation Safety Board. 1991. Northwest Airlines, Inc. Flights 1482 and 299 Runway Incursion
+and Collision at Detroit Metropolitan Airport/Wayne County Airport in Romulus, Michigan, on December 3, 1990.
+Aircraft Accident Report NTSB/AAR-91/05. Washington, D.C.
+
+51
+Recommendation A-91-6 “Closed—Unacceptable Action” because the Safety Board continued to
+believe that it was necessary for flightcrews and flight attendants to receive hands-on experience
+with every exit that they may be required to operate during an emergency evacuation.
+Following this accident, the FAA, on January 26, 1996, issued Flight Standards
+Handbook Bulletin No. 96-02, “Guidelines for Crewmember Training on Aircraft Tailcones and
+Approval of Tailcone Training Devices.” This bulletin sets forth acceptable means of approving
+tailcone training devices and ensures that trainees operate the mechanisms needed to ready the
+equipment for emergency evacuation, i.e., “each trainee must actually operate the appropriate
+mechanism to ensure evacuation through the tailcone exit.”
+As a result of the Safety Board’s accident investigation, ValuJet purchased a tailcone
+training device to ensure that flight attendants receive the required training. As of August 31,
+1995, all active ValuJet flight attendants had completed the Tailcone Mock-up Drill exercise.
+The Safety Board is concerned, however, that the deficiencies in the flight attendant
+training program and the flight attendant manual raise serious questions about the adequacy of the
+FAA’s review of the program and the manual before approval and acceptance by the FAA in
+September 1993. Although the deficiencies noted in this accident were subsequently addressed by
+the air carrier, the Safety Board believes that the FAA should emphasize to its POIs the importance
+of thoroughly reviewing flight attendant training programs before approving them and manuals
+before accepting them.
+The investigation revealed that all four overwing exits were opened by passengers
+before the aircraft came to a complete stop. This is contrary to the ValuJet flight attendant training
+manual, which states that an evacuation should not be initiated until the aircraft has come to a
+complete stop. However, there is no indication that the flight attendants would have been able to
+prevent the passengers from opening the exit. Although the Safety Board concludes that there
+were no negative consequences in this case, the Safety Board is concerned that such premature
+actions may adversely affect safety and will continue to monitor this issue.
+2.9 In-Lap Children over 2 Years Old
+The investigation determined that one child more than 24 months old was listed as a lap
+child, despite Federal regulations that require all passengers more than 24 months old to be
+restrained during takeoffs and landings. The Safety Board has long been concerned about the
+inadequacy and enforcement of this regulation and, in the last several years, has identified at least
+six accidents and one enforcement action in which children more than 2 years old were
+unrestrained because they were held in someone’s lap. The ages of these children ranged from 26
+months to 5 years old.
+During the Safety Board’s public hearing following the 1989 DC-10 accident in Sioux
+City, Iowa, the Safety Board questioned the Air Transport Association (ATA) about the methods
+used by air carriers to ensure that all occupants are properly restrained. The ATA representative
+stated that it was “an uncertain art” and that because airlines were a “service industry,” airline
+
+52
+representatives would only question a passenger “if they felt that the casual observer could
+determine that the child was much larger and probably over two.” According to FAA testimony at
+that public hearing, enforcement of this regulation depends on an FAA inspector observing that the
+child is more than 2 years old. One inspector discovered a child who was 5 years old being held
+on a lap; the inspector initiated enforcement actions.49 The available evidence suggests that the
+FAA may only be enforcing this regulation when an egregious violation occurs.
+The Safety Board continues to strongly believe that restraints should be available for all
+occupants, regardless of age. However, although the Safety Board does not agree with the existing
+regulation, until such time as restraints are required for all occupants, the Safety Board believes
+that the FAA needs to provide guidance on how to implement its requirement that occupants who
+are older than 2 years of age be restrained during takeoffs and landings.
+2.10 Notification of Flightcrew of Cabin Fire
+Although the right engine fire warning light illuminated, pilots received information that
+they had an engine fire from other pilots, and air traffic control personnel asked if emergency
+equipment was needed, the most timely and unambiguous information that there was a fire inside
+the airplane was provided by the flight attendants. The flight attendants, however, did not follow
+ValuJet’s procedure that required the use of the interphone six-chime emergency signal to inform
+the cockpit of the fire. Because of the need for a flight attendant to retrieve a cockpit key from its
+storage area in the galley before being able to unlock the cockpit door, use of the six-chime signal
+would probably have been the faster way to notify the cockpit about the fire. However, the Safety
+Board has some concerns regarding the use of the interphone as the sole means of notifying the
+cockpit of an onboard fire. In an emergency situation, the cockpit crew may be too busy with other
+emergency tasks to immediately answer the interphone. In fact, the Safety Board has investigated
+accidents in which the flight attendant’s interphone calls were not answered.50 In this particular
+instance, however, it was fortunate that one of the flight attendants had her own cockpit key and
+thus was able to quickly notify the flightcrew about the fire.
+The Safety Board is concerned that having only one cockpit key available and stored in
+the galley may not allow a key to be readily accessible to all flight attendants in an emergency.
+Also, relying solely on the six-chime emergency signal to be answered by the flightcrew in the
+cockpit when they may be preoccupied with other emergency procedures and tasks could result in
+the flightcrew not becoming aware as soon as possible that a fire exists in the cabin. The Safety
+Board concludes that all flight attendants should be able to quickly access the cockpit when
+appropriate.51 Therefore, the Safety Board believes that the FAA should require that each flight
+attendant have a cockpit key in his/her possession at all times while on duty.
+49 The FAA has advised the Safety Board of only one enforcement action in response to the Safety Board’s
+5/29/96 request to the FAA to provide a list of all enforcement actions related to in-lap infants.
+50 NYC-86-FA-076, L-1011, Jamaica, New York, 2/15/86; DCA-96-MA-029, B-747, Jamaica, New York,
+12/20/95.
+51 Subsequent to this accident, ValuJet provided a cockpit key to all of its flight attendants.
+
+53
+2.11 Fire Retardant Cabin Furnishings
+The aircraft involved in this accident did not meet current regulations regarding
+flammability standards for materials used in the interiors of transport-category airplane cabins nor
+was it required to do so.
+The Safety Board has long been concerned with the FAA’s interpretation that new
+standard fire retardant cabin furnishing materials should be only required in the case of a “general
+retrofit.” Airplane owners and operators are allowed to continue to perform piece-meal
+replacement of cabin furnishings using existing stocks of fire retardant parts that do not meet the
+1985 standards. As the regulation is currently worded, an airplane in service for 20 or more years
+might never be subject to a “general retrofit.”
+During the Safety Board’s investigation of the 1991 runway collision of a B-737 and a
+Metroliner at the Los Angeles International Airport,52 it was documented that the B-737, which
+was manufactured before the effective date of the FAA 1985 standards, was not required to be, nor
+was it, equipped with upgraded fire retardant cabin furnishings. Of the 22 killed on board the B-
+737, 20 succumbed as a result of the inhalation of toxic smoke that was generated by the burning
+cabin furnishings.
+The Safety Board subsequently issued Safety Recommendation A-91-116, which asked
+the FAA to “Prohibit the use, after a specified date, of cabin materials in all transport-category
+airplanes that do not comply with the improved fire safety standards contained in 14 CFR 25.853.”
+On March 2, 1992, the FAA responded that it had evaluated this safety issue and had determined
+that in the case of the Los Angeles accident, it was unlikely that improved materials would have
+resulted in improved survivability. The FAA letter further indicated that it was not economically
+feasible to implement such a requirement. No further action was taken by the FAA, and the Safety
+Board ultimately classified the recommendation “Closed—Unacceptable Action” on September
+19, 1994.
+On January 6, 1993, the Government Accounting Office (GAO) submitted to the Congress
+a report on the status of how the airlines were progressing with installing more fire-resistant cabin
+materials in in-service airplanes. 53 The GAO report, stated the following, in part:
+In establishing the stricter flammability standards, FAA anticipated that almost 85
+percent of the fleet would comply by 2000 and indicated that it would consider
+proposing a mandatory retrofit requirement if all airlines did not meet the standards
+52 National Transportation Safety Board. 1991. Runway Collision of USAir Flight 1493, Boeing 737, and
+Skywest Flight 5569, Fairchild Metroliner, Los Angeles International Airport, Los Angeles, California, February 1,
+1991. Aircraft Accident Report NTSB/AAR-91/08. Washington, D.C.
+53 “Slow Progress in Making Aircraft Cabin Interiors Fireproof” Report to Congressional Requesters. General
+Accounting Office, GAO/RCED-93-37, January 6, 1993.
+
+54
+as anticipated. At the beginning of 1992, about 11 percent of the over 4,200 aircraft
+in the fleet complied with the standards. Although the number of newly
+manufactured aircraft meeting the standards will increase each year, no airline has
+replaced or plans to completely replace the interior components of aircraft that were
+in-service on August 19, 1990 (in service aircraft). As a result, 45 percent of the
+aircraft fleet is expected to be operating with cabin interiors not meeting the latest
+flammability standards by the end of the decade. In fact, under the current practice
+of replacing aircraft, the entire fleet is not expected to comply with the stricter
+flammability standards until 2018.
+The total cost to the airlines to modify aircraft not meeting the standards would be
+several billion dollars and average over $1 million per aircraft. Although costs can
+be reliably estimated, more uncertainty exists in reliably estimating the potential
+lives saved and their value because airline accidents occur infrequently and
+unpredictably, and no consensus exists on the value of a human life. FAA
+estimated that 9 to 16 lives could be saved each year if all aircraft met the stricter
+flammability standards. If the Department of Transportation’s (DOT) current value
+of $1.5 million for a human life were used to extrapolate a value for the potential
+fatalities avoided, then up to $110 million could potentially be saved by modifying
+aircraft to meet the standards. However, one or two significant accidents could
+result in the loss of hundreds of lives and, depending on how high a value was used
+for a human life, the potential savings could be much higher.
+Almost all aircraft that currently do not meet the flammability standards will
+undergo some type of routine heavy maintenance inspection by the end of the
+decade, providing airlines the opportunity to modify cabin interiors. However,
+airlines infrequently replace entire cabin interiors. Although a portion of the
+interior components is removed during a heavy maintenance inspection, airline
+officials told GAO that the components not meeting the standards are usually
+refurbished and reinstalled, rather than replaced with components that meet the
+standards. Industry practice is to replace a worn-out component with one that
+meets the standards if it is necessary to purchase a new component. However, this
+piecemeal replacement of individual components will likely not significantly reduce
+the hazards posed by a post-crash fire.
+As a result of its report, the GAO recommended that the Secretary of Transportation direct
+the FAA Administrator to reassess whether to issue a regulatory requirement mandating a specific
+date for all aircraft in the fleet to comply with the latest flammability standards for cabin interiors.
+Such a reassessment should compare the cost-effectiveness of retrofitting aircraft to meet the
+standards with other actions that could improve the overall safety of the U.S. aircraft fleet.
+In response to this recommendation, the FAA reassessed its earlier cost-benefit analysis
+and again concluded that mandatory retrofit of improved cabin materials would not be cost
+beneficial, and thus, mandatory retrofit was not warranted.
+
+55
+The Safety Board concludes that the ValuJet accident in Atlanta again illustrates the
+merit of the Board’s 1991 recommendation. This accident demonstrates the importance of the
+current standards and the need for existing aircraft to be brought up to these standards as quickly
+as possible. Consequently, the Safety Board believes that the FAA should prohibit the use during
+any type of replacement, after 1997, of cabin materials in all transport-category airplanes that do
+not comply with the current fire safety standards contained in 14 CFR 25.853. Furthermore, the
+FAA should amend 14 CFR Part 121 to prohibit, upon a transfer of the aircraft from one certificate
+holder to another, or by January 1, 2001, whichever occurs first, the operation of airplanes with
+cabin materials that do not meet the requirements of 14 CFR Part 25.853.
+2.12 ValuJet Flight Attendant Uniforms
+The FAA provides guidance to airline passengers in a brochure titled, “Fly Smart” (U.S.
+Department of Transportation, Federal Aviation Administration, ASP-200, 94/002). This
+brochure, among other things, addresses appropriate attire for passengers when flying. The
+brochure instructs travelers to wear “sensible” clothing, such as clothes made of natural fabrics,
+and recommends long sleeves and trousers that fully cover arms and legs.
+The aft flight attendant who received the most serious injuries was wearing shorts and a
+short-sleeved shirt. Had she been wearing attire similar to that recommended in “Fly Smart,” she
+may not have been burned. Therefore, the Safety Board believes that the FAA should issue an
+operations bulletin recommending that POIs advise their air carriers to disseminate FAA safety
+guidance on airline passenger attire to their flight attendants.
+2.13 Quality of CVR Recording
+The recording of the CVR installed on the accident airplane was considered to be a
+recording of only fair quality, in that many words were unintelligible, primarily because of the
+ambient noise in the cockpit. Although the quality of recording did not affect the determination of
+the causal factors in this accident, the Safety Board is concerned that the investigation of future
+accidents involving airplanes with similarly equipped CVRs could be impeded by unintelligible
+dialogue on the recording. The Safety Board has long been concerned about the quality of CVR
+recordings, as reflected in the following safety recommendation, which the Board issued to the
+FAA in June 1987:
+Amend 14 CFR Parts 23 and 25 to require that all newly manufactured aircraft and
+new cockpit voice recorder installations be designed such that an uninterrupted
+recording from the boom or mask microphones and headphones for each flight
+crewmember’s position and from an area microphone can be made on dedicated
+channels of the CVR. On those aircraft requiring only two flight crewmembers, the
+unused channel should record the passenger address audio signal when available. A
+sidetone shall be produced only when the transmitter or interphone is selected, and,
+in addition, all audio signals received by hand-held microphones shall be
+
+56
+recorded on the respective crewmember’s channel when keyed to the “ON”
+position. (A-87-88) 54
+In support of that recommendation, the Safety Board noted in its letter to the FAA that
+the Board had found the performance of CVR installations in which the audio signal from the
+boom microphone of each flight crewmember is continuously recorded on a dedicated channel,
+often referred to as a “hot mic,” to be far superior to the standard cockpit area microphone (CAM),
+which is typically mounted on the cockpit overhead panel and picks up ambient noise. A CAM
+was installed on the ValuJet accident airplane. The Safety Board reached that conclusion after the
+investigation of several accidents/incidents involving both U.S.-registered and foreign-registered
+airplanes equipped with CVR “hot mics.”55 The Safety Board stated in its letter to the FAA that,
+in fact, the “hot mic” has proven to be a most significant technological improvement in CVRs and
+that the level of improvement far surpasses any technological improvement that could be achieved
+by state-of-the-art recording or signal processing equipment.
+In contrast, the Safety Board noted that the quality of the audio signal recorded by the
+standard CAM can generally be described as fair, which requires considerable time and effort to
+produce a transcript, and which frequently can result in unintelligible dialogue.
+Recent Safety Board accident investigations have continued to highlight the improved
+quality in recordings from CVR “hot mics.” 56 These improvements have long been recognized by
+other aviation authorities. The Civil Aviation Authority of the United Kingdom has required CVR
+“hot mics” since 1974 on all aircraft registered in the United Kingdom. The adoption of CVR “hot
+mic” standards (not requirements) by the ICAO and EUROCAE was prompted, in part, by the
+United Kingdom’s many years of experience in analyzing CVR “hot mic” recordings.
+The Board’s investigation of the ValuJet accident in Atlanta again raises concerns about
+the adequacy of CVRs equipped with the standard CAM. Given the numerous benefits of CVR
+“hot mics” and the slight cost of these installations, the Safety Board believes that the FAA should
+require all airplanes currently required to be installed with a CVR to be retrofitted within 2 years
+with a CVR “hot mic.”
+54 Safety Recommendation A-87-88 was classified “Closed—Acceptable Action” on December 23, 1988,
+following rulemaking by the FAA.
+55 DCA84IA029--June 23, 1984, Chicago O'Hare Airport; Tradewinds Airways Ltd., Flight 11, Boeing 707, G-
+SAIL; ANC85MA183--September 25,1985, Dutch Harbor, Alaska, Mark Air B737, N674MA; DEN86FA080--
+February 20, 1986, Denver, Colorado, Continental Airlines, B737-300; DCA87IA015--December 18, 1986, Simmons
+Airlines, Flight 2860, ATR-42, N423MQ.
+56 (1) National Transportation Safety Board. 1994. Stall and loss of control on final approach of Atlantic Coast
+Airlines, Inc., United Express Flight 6291, Jetstream 4101, N304UE, at Columbus, Ohio, on January 7, 1994. Aircraft
+Accident Report NTSB/AAR-94/07. Washington, D.C. (2) National Transportation Safety Board. 1995.
+Uncontrolled collision with terrain of Flagship Airlines Inc., doing business as American Eagle Flight 3379, BAe
+Jetstream 3201, N918AE, near Morrisville, North Carolina, on December 13, 1994. Aircraft Accident Report
+NTSB/AAR-95/07. Washington, D.C.
+
+57

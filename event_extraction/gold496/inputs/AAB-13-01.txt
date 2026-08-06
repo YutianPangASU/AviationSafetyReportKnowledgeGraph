@@ -1,0 +1,614 @@
+CORRECTED COPY: Removed incorrect adopted date from final page
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+I T Washington, D.C. 20594
+A T IO
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: DCA11PA075
+Operator/Flight Number: Omega Aerial Refueling Services, Flight 70
+Aircraft and Registration: Boeing 707, N707AR
+Location: Point Mugu Naval Air Station, California
+Date: May 18, 2011
+Adopted: January 2, 2013
+HISTORY OF FLIGHT
+On May 18, 2011, about 1727 Pacific daylight time,1 a modified Boeing 707, registration
+N707AR, operating as Omega Aerial Refueling Services (Omega) flight 70 crashed on takeoff
+from runway 21 at Point Mugu Naval Air Station, California (KNTD). The airplane collided with
+a marsh area to the left side beyond the departure end of the runway and was substantially
+damaged by postimpact fire. The three flight crewmembers sustained minor injuries. The flight
+was conducted under the provisions of a contract between Omega and the US Naval Air Systems
+Command (NAVAIR) to provide aerial refueling of Navy F/A-18s in offshore warning area
+airspace. According to the Federal Aviation Administration (FAA), Omega, and the US Navy, the
+airplane was operating as a nonmilitary public aircraft under the provisions of 49 United States
+Code Sections 40102 and 40125.
+The accident flight crew consisted of a captain, first officer, and flight engineer who had
+flown with each other many times previously. The crewmembers reported conducting a normal
+preflight inspection. As the airplane taxied toward the runway, the reported wind was from 280º
+magnetic at 24 knots, gusting to 34 knots; the flight crew reported that the windsock showed
+very little change in the wind direction and a slight amount of gust. The crew had calculated a
+takeoff decision speed (V ) of 141 knots and a rotation speed (V) of 147 knots. The crew elected
+1 r
+to add 5 knots to the rotation speed to compensate for the wind gusts and briefed a maximum
+power takeoff. The first officer, who was the pilot monitoring, stated that he advised the captain,
+who was the pilot flying, about advancing the power relatively smoothly to avoid a compressor
+stall with the crosswind, and the captain agreed.
+About 1723, air traffic control cleared the flight for takeoff from runway 21 and
+instructed the crew to turn left to a heading of 160º after departure. The captain applied takeoff
+thrust, and the first officer told investigators that, as the pilot in the right seat, he applied forward
+1 Unless otherwise noted, all times in this brief are Pacific daylight time based on a 24-hour clock.
+
+2
+pressure on the yoke and right aileron input to compensate for the right crosswind. According to
+the crew, the takeoff roll was normal. At rotation speed, the captain rotated the airplane to an
+initial target pitch attitude of 11º airplane nose up. Shortly after liftoff, when the airplane was
+about 20 feet above the runway and about 7,000 feet down the runway, all three crewmembers
+heard a loud noise and observed the thrust lever for the No. 2 (left inboard) engine rapidly retard
+to the aft limit of the throttle quadrant. The captain stated that he applied full right rudder and
+near full right aileron to maintain directional control and level the wings, but the airplane
+continued to drift to the left. The captain reported that he perceived the airplane would not
+continue to climb and decided to “put it back on the ground.”
+Witnesses and a cell phone video from another Omega 707 crewmember observing the
+takeoff indicated that the No. 2 (left inboard) engine separated and traveled up above the left
+wing as the airplane was passing abeam taxiway A2. The inlet cowling for the No. 1 (left
+outboard) engine separated immediately thereafter, consistent with being struck by the No. 2
+engine nacelle.
+The airplane began to descend with the remaining three engine power levers at maximum
+power, and the left wing dipped slightly (Pratt & Whitney indicated that loss of the inlet cowling
+on the No. 1 engine would increase drag, effectively resulting in less than zero thrust output).
+The captain said he lowered the nose and leveled the wings just as the airplane touched down on
+the runway between taxiway A2 and A1. The airplane made multiple contacts with the runway
+before drifting left and departing the runway surface before the airplane reached taxiway A1. The
+airplane crossed taxiway A and came to rest in the marsh area.
+According to the flight crewmembers, they observed flames in the cabin area and did not
+have time to perform an engine shutdown or evacuation checklist. The crew reported difficulty
+exiting the cockpit due to mud and debris blocking the cockpit door. All three crewmembers
+successfully evacuated through the left forward entrance via the escape slide.
+INJURIES TO PERSONS
+The three crewmembers sustained minor injuries.
+DAMAGE TO AIRCRAFT
+The airplane sustained substantial damage due to impact forces and was partially
+consumed by a postcrash fire. See the Wreckage and Impact Information section in this brief for
+more information.
+OTHER DAMAGE
+Minor gouges were observed in the runway surface. The runway arresting gear and
+runway signage also sustained minor damage.
+FLIGHT CREW INFORMATION
+The captain, age 41, was hired by Omega in September 2008 and qualified as captain on
+the Boeing 707 shortly after being hired. At the time of the accident, he held an airline transport
+NTSB/AAB-13/01
+
+3
+pilot certificate with type ratings on the Boeing 707 and 720, BE-200, and A320. He held a
+current first-class medical certificate. He reported a total pilot time of 5,117 hours with 2,730 in
+the Boeing 707. He was formerly a Navy pilot and flew the Boeing 707 and E6A (a Navy
+electronic and reconnaissance airplane based on the Boeing 707 airframe) based in Pensacola,
+Florida, and Corpus Christi, Texas. He also flew Beechcraft King Air twin-turboprop aircraft in
+Europe, where he was the head Naval Air Training and Operating Procedures Standardization
+(NATOPS) instructor on King Air 200s and was an assistant NATOPS instructor on Boeing 707s.
+He was a McDonnell Douglas T45 Goshawk instructor in Kingsville, Texas, and worked for
+United Airlines as a first officer flying Airbus A320s based in Chicago before being furloughed
+in January 2009. He reported flying a few trips on Boeing 707s with Principal Air but had not
+flown for that company since October 2010. He flew both internationally and domestically with
+Omega. The captain stated he had no major changes in his personal life or financial situation, and
+he characterized his overall health as “excellent.” Review of the captain’s preaccident activities
+revealed no abnormalities. The accident flight was his first of the day. The captain was current
+and qualified under FAA Part 91 and Part 61 requirements. A review of FAA records revealed no
+prior accidents, incidents, or enforcement actions.
+The first officer, age 45, was hired by Omega in October 2008. He was qualified as
+captain, with his time in the Boeing 707 split about equally between serving as captain or first
+officer. He reported that, because the majority of pilots at Omega were qualified as captains, they
+would take turns flying in that role. The first officer began his flight training with the Navy in
+1995, flying Raytheon T-1 Jayhawks, Boeing E6s, and Beechcraft C12s. He had been an
+instructor pilot in the E6 and the NATOPS instructor for the C12 in Rota, Spain. The first officer
+reported 4,052 hours total time, with 2,900 hours in the Boeing 707. He was dual-qualified for
+the McDonnell Douglas DC-10 and the Boeing 707 at Omega, with about 300 hours in the
+McDonnell Douglas DC-10. At the time of the accident, the first officer held an FAA airline
+transport pilot certificate, with type ratings in the BE-200, 707, 720, and DC-10. He held a
+current first-class medical certificate and classified his overall health as “outstanding.” Review
+of the first officer’s preaccident activities revealed no abnormalities. The accident flight was his
+first of the day. The first officer was current and qualified under FAA Part 91 and Part 61
+requirements. A review of FAA records revealed no prior accidents, incidents, or enforcement
+actions.
+The flight engineer, age 50, was hired by Omega in November 2002. His flight training
+began in the US Air Force. He became a flight engineer in 1983 on Lockheed C141Bs at
+Andrews Air Force Base and flew Boeing 707s and 747s from 1992 until his retirement in 2002.
+At the time of the accident, he was the chief flight engineer at Omega, as well as the acting
+assistant facilities security officer; he was previously the facilities security officer. He did not
+perform ground or flight training but was dual-qualified on the Boeing 707 and
+McDonnell Douglas DC-10. His total time was around 9,000 hours, with 6,500 hours in the
+Boeing 707, all of which was as an engineer. He had a private pilot license, with single-engine
+instrument rating. He held a current second-class medical certificate. Review of the flight
+engineer’s preaccident activities revealed no abnormalities. The accident flight was his first of
+the day. The flight engineer was current and qualified under FAA Part 91 and Part 61
+requirements. A review of FAA records revealed no prior accidents, incidents, or enforcement
+actions.
+NTSB/AAB-13/01
+
+4
+The flight crewmembers received annual recurrent ground school and simulator training
+on the Boeing 707 from Pan Am International Flight Academy in Miami, Florida, and were
+trained under 14 Code of Federal Regulations (CFR) Parts 61 (captain and first officer) and 63
+(flight engineer).
+AIRCRAFT INFORMATION
+The accident airplane was a modified Boeing 707-321B, registration number N707AR,
+serial number 20029. It was originally constructed in 1969 as a passenger-transport airplane. At
+the time of the accident, the airplane had 47,856 total hours with 15,186 total cycles. The
+airplane was powered by four Pratt & Whitney JT3D-3B engines. The No. 2 engine (the first to
+separate) had accumulated 48,119 hours and 14,576 cycles. Five operators owned the airplane
+before Omega acquired it on July 29, 1994.
+In 1996, Omega initiated the tanker conversion process in conjunction with BAE Systems
+and TRACOR. The tanker conversion employed a centerline refueling station located in the aft
+fuselage with dual redundant hoses capable of probe and drogue refueling.2 None of the tanker
+conversion changes was in the area of the engine nacelle struts. The US Navy conducted
+qualification tests on the modified airplane in 1999 and accepted it as meeting the requirements
+for the proposed contract. Omega had flown the airplane a total of 9,811 hours and 2,656 cycles
+since purchase, most of which were flown for developing the tanker modification and operating
+under the provisions of the US Navy contract.
+The weight and balance data for the accident flight were destroyed by the postimpact fire.
+National Transportation Safety Board (NTSB) investigators determined estimated weight and
+balance information for the accident airplane using the onboard computer of an identical
+Boeing 707 (N707MQ) and the weights associated with the accident airplane. The estimated
+takeoff weight of the airplane was 304,179 pounds (lbs), with a center of gravity (CG) at
+21.5 percent mean aerodynamic chord (MAC). Maximum takeoff weight specified for the
+airplane was 331,600 lbs, with a CG range of 17 to 35 percent MAC.
+Boeing 707 Engine Nacelle Strut and Previous Events
+The No. 2 engine nacelle strut attaches to the wing at four primary locations: an upper
+connection, which consists of the overwing support fitting and the front spar fitting; lower
+connections, which consist of the lower spar fitting, diagonal brace (thrust link), and the wing aft
+drag fitting; and two middle connections, which consist of the midspar and wing drag support
+fittings and the vertical attach fittings. As shown in figure 1, the midspar fitting is of a
+right-angle configuration in which the vertical tang attaches to the pylon bulkhead and the
+horizontal upper and lower tangs sandwich the midspar of the pylon. The lug at the center of the
+fitting is attached to the forward drag support fitting on the underside of the wing. Fractures of
+the midspar fitting were observed at the upper and lower horizontal tangs (as indicated by the red
+and green lines in figure 1) at the radius (indicated by the red arrows), where the tangs merge
+with the lug at the fitting’s center.
+2 A drogue is a conical basket that is attached to a flexible hose that extends from the tanker; a fixed probe is
+inserted into the basket to transfer fuel.
+NTSB/AAB-13/01
+
+5
+Figure 1. Diagram of a Boeing 707 engine nacelle strut, showing the fracture area on the
+midspar fitting.
+According to Boeing, before the accident involving N707AR, operators had reported
+cracks on more than 45 midspar fittings. The fitting cracks occurred either vertically at the lug
+hole or across the double horizontal tangs at the radius where the tangs merge with the lug. At
+least three accidents have occurred in which the fatigue cracking led to failure of the fittings and
+engine separations.
+In March 1992, the No. 3 engine nacelle strut on a Nigeria-registered Trans-Air
+Service Boeing 707 separated from the airplane near the top of climb and contacted the No. 4
+engine nacelle strut, which also separated from the airplane. The flight crew performed an
+emergency landing in France, and the five occupants evacuated the airplane, which was
+substantially damaged by fire. One month later, the No. 3 engine nacelle strut on a
+Colombia-registered Trans Aeros Mercan Pan Am (TAMPA) Boeing 707 separated from the
+airplane and contacted the No. 4 engine nacelle during takeoff. The flight crew was able to
+return to the airport and safely land the airplane, which was subsequently repaired and
+returned to service.3 Laboratory analysis of the midspar fittings from the 1992 events indicated
+that the cracks resulted from stress corrosion and/or fatigue at the lug and tangs. On
+November 14, 1998, the No. 3 engine separated from an IAT Cargo Boeing 707 after the airplane
+encountered turbulence at 24,000 feet. The flight crew returned to Ostend Airport,
+Ostend, Belgium, for an emergency landing during which the airplane overran the runway by
+328 feet. The five occupants evacuated the airplane, which was substantially damaged.
+3 More information about this accident, NTSB case number MIA92FA115, can be accessed at
+http://www.ntsb.gov/aviationquery/index.aspx.
+NTSB/AAB-13/01
+
+6
+Laboratory analysis revealed a fatigue crack on the inner midspar fitting of the No. 3 engine. The
+investigation determined that the No. 3 pylon fittings that failed were of an older design, contrary
+to an applicable directive in effect at the time (see the next section).
+Service Bulletins and Airworthiness Directives
+To address the midspar cracking issue, a series of Boeing service bulletins (SB) and FAA
+airworthiness directives (AD) were published between 1975 and 1993, beginning with Boeing
+SB 707-3183 (dated June 27, 1975). Subsequently revised and updated (revision 1, dated
+May 13, 1977), SB 707-3183 called for an initial inspection of inboard and outboard midspar
+fittings on the No. 2 and No. 3 engines, followed by repetitive close visual inspections at varying
+flight cycles (depending on airplane configuration) and eventual replacement of the fittings with
+an improved design that incorporated larger radii of 1.0 inch in critical areas. Replacing the
+fittings was a terminating action for the repetitive inspections. The bulletin also included
+instructions to enlarge the pylon access cover over the fitting for better access (for both
+inspection and cleaning). Revision 2 of SB 707-3183 (dated January 28, 1988) incorporated
+SB 707-3377 (dated November 21, 1979), which gave instructions for the installation of nacelle
+droop stripes to facilitate visual detection of broken nacelle support structures, such as midspar
+or overwing fittings, by indicating a misalignment between the nacelle strut skin and the
+fairing skin. The FAA required the actions recommended in SB 707-3183 and its revisions via
+ADs 77-09-03, 88-24-10, 92-19-15,4 and 93-11-02.
+Omega records indicated that the company conducted the first visual inspection in 1996,
+shortly after the conversion. Omega observed that the AD list for the airplane indicated that
+AD 93-11-02 was completed, but inspections per the Boeing SB were entered into the
+maintenance program and continued until 2003, when a records review found that, in 1983, a
+previous owner/operator had marked the compliance status of the AD in effect at the time
+(77-09-03) with “C” (meaning complete).5 This status reconfirmed to Omega that the records
+showed the fittings had been replaced and inspections were no longer necessary, and Omega
+deleted the inspection requirement from its maintenance plan.6 Following the accident involving
+Omega flight 70, an examination of the No. 2 and 3 nacelle struts confirmed that both the
+inboard and outboard midspar fittings were of the older design and had not been replaced with
+the improved design in accordance with the AD. The examination also noted that droop stripes
+had been installed on the accident airplane nacelles, as required by the AD.
+Maintenance Program
+Omega maintained the airplane to an FAA-approved Boeing maintenance program. In
+accordance with FAA Advisory Circular 20-76, “Maintenance Inspection Notes for
+4 AD 92-19-15 was issued in response to NTSB Safety Recommendation A-92-38, which asked the FAA to
+revise AD 88-24-10 to significantly decrease the times between inspection intervals and require an improved means
+of inspection to detect small cracks.
+5 According to the status codes in the previous owner/operators records and the requirements in AD 77-09-03,
+the compliance status for the AD should have been recorded as “REP” for repetitive. Section 91.417 requires that an
+owner selling an aircraft provide the new owner/operator a list of the current status of applicable ADs, including the
+dates and methods of compliance, whether a recurring action is involved, and, if so, when the next action is required.
+6 Federal regulations do not require an owner/operator acquiring an aircraft to physically verify the compliance
+of every AD for which compliance has been recorded.
+NTSB/AAB-13/01
+
+7
+Boeing B-707/720 Series Aircraft” (dated October 21, 1971), the Omega structural inspection
+program consolidated “Boeing 707 Maintenance Planning Document D6-7552 Dec 80”;
+“Corrosion Prevention and Control Program D6-54928 Rev E”; “Aging Airframe Service Action
+Requirement, Model 707/720 D6-54996 Rev E (Inspection Only)”; and “Supplemental Structural
+Inspection Program D6-44860 Rev P.” Compliance with ADs and manufacturer SBs was written
+into the program, as applicable. Written records of major repairs did not indicate any work on the
+pylons performed by Omega.
+Airworthiness Certificate
+Due to the nature of the tanker conversions performed on the accident airplane, the FAA
+determined that the original airplane transport-category airworthiness certificate was no longer
+valid. During the tanker conversion development process, the FAA granted Omega a
+supplemental type certificate (STC) for the airplane with the initial part of the tanker
+modification, termed the “A-kit,” which comprised certain components permanently installed in
+the airplane that have no ability to activate the refueling equipment. Once critical refueling
+components, such as control panels, hoses, drogues, and pumps were installed, the provisions of
+the airplane’s type certificate and STC no longer applied, and the airplane was given a Special
+Airworthiness Certificate, Experimental – Market Surveys. The certificate operating limitations
+stated that the airplane’s logbook must note “public aircraft” for any government contract flights
+and that operations for compensation or hire are prohibited unless they are conducted under the
+public aircraft declaration. Further, the operating limitations authorized air-to-air refueling,
+detailed the recording requirements for configuration changes, and specified logbook entries for
+changing to and changing back from research and development operations.
+Omega used the provisions of the certificate for flight training, demonstrating compliance
+for international operations, and maintaining compliance with the provisions of the Navy
+contract. A designated airworthiness representative (DAR) renewed the certificate every 90 days
+on each of Omega’s contracted airplanes, although, at the time of the accident, FAA regulations
+required an annual renewal only. Each renewal required the DAR to visit the airplane and assess
+aircraft serviceability and maintenance status. Omega also supplied the status of inspection
+items, such as ADs, to the DAR every 90 days for review. Omega was obliged to inform the
+Navy of any noncompliance that would prevent the issuance of the certificate. A total of 95 hours
+56 minutes (34 cycles) of the airplane’s recorded time was operated solely under the provisions
+of the experimental certificate of airworthiness; the remainder of the time was under the
+provisions of the Navy contract and public aircraft operations. NAVAIR, which managed the
+Omega contract, noted that it understood that the experimental airworthiness certificate did not
+hold any regulatory status during the conduct of public aircraft operations but that NAVAIR
+would use the provisions of the certificate as part of its oversight program (see Public Aircraft
+Operation in the Organizational and Management Information section of this brief for more
+information).
+NTSB/AAB-13/01
+
+8
+METEOROLOGICAL INFORMATION
+The KNTD weather observation for 1654 indicated wind from 270º at 22 knots, gusts to
+33 knots, visibility at 7 statute miles with scattered clouds at 4,000 feet and 20,000 feet.
+Recorded temperature was 16ºC, dew point 9ºC, and sea level barometric pressure was 29.76 Hg.
+The automated observation included a remark indicating peak wind of 280º at 36 knots at 1559.
+A special observation taken 3 minutes after the accident indicated wind from 280º at
+24 knots, gusts to 34 knots, visibility at 7 statute miles with scattered clouds at 5,000 feet.
+Temperature was 15ºC, dew point was 9ºC, and sea level barometric pressure was 29.75 Hg.
+AIDS TO NAVIGATION
+No problems with any navigational aids were reported.
+COMMUNICATIONS
+No communications problems were noted at any time during the accident sequence.
+AERODROME INFORMATION
+KNTD is part of Naval Base Ventura County, which also includes Port Hueneme and
+San Nicholas Island. The base is about 35 miles west-northwest of Los Angeles, California.
+Runway 21 is 11,102 feet long and 200 feet wide, with an asphalt surface and a 900-foot
+paved overrun area. The heading for runway 21 is 210º magnetic and 224º true. Runway 21
+departures are restricted from turning after departure until reaching an altitude of 500 feet and
+0.5 mile offshore.
+FLIGHT RECORDERS
+Cockpit Voice Recorder
+The airplane was equipped with a Sundstrand model V-557 cockpit voice recorder
+(CVR), serial number 2942, which can record 30 minutes of analog audio on a continuous loop
+tape in a four-channel format: one channel for each flight crewmember and one channel for the
+cockpit area microphone. The CVR did not sustain any heat or structural damage. Removal of
+the magnetic recording tape from the unit revealed that the tape was broken where it exits the
+transport reservoir, before it enters the erase/record head area. The tape was removed from the
+transport mechanism and played back on a commercial-grade, reel-to-reel recorder. The audio
+information recorded on the tape was extracted from the recorder normally, without difficulty.
+None of the audio was pertinent to the accident investigation. The audio was consistent with the
+airplane being stationary on the ground at a location other than the accident flight location;
+therefore, no transcript was created.
+NTSB/AAB-13/01
+
+9
+Flight Data Recorder
+The flight data recorder (FDR) on board the accident airplane was an LAS 109-C
+oscillographic foil-type recorder. Typically for this recorder type, the foil medium is spooled on a
+supply reel, spanned over an open strip where styli inscribe data traces, then wound by a take-up
+reel. No exposed foil medium was observed when the cartridge was examined in the NTSB
+Vehicle Recorder Laboratory. Removal of the top cover revealed that one reel was full of foil and
+the other was empty. The full reel had been secured with clear adhesive tape, which indicated
+that the recorder was not operating at the time of the accident flight and for an undetermined
+time beforehand. Thus, no accident data were recorded on the unit.
+Applicable Directives
+Certain portions of the Federal Aviation Regulations (FARs) do not apply to public
+aircraft operations. Omega’s contract with NAVAIR did not make any mention of voice or data
+recorders; however, section C14 stated that “the aircraft must be maintained in accordance with
+a[n] FAA approved Maintenance and Inspection Program” and “Each aircraft utilized under this
+contract must possess and maintain a[n]…FAA airworthiness certificate.” Certified in the
+experimental category, the accident airplane would be operated in accordance with the certificate
+and applicable FAA operating regulations, principally 14 CFR Part 91, when not operating under
+the NAVAIR contract as a public aircraft operation. Omega did not operate the airplane under the
+provisions of 14 CFR Parts 135 or 121.
+In accordance with 14 CFR 91.213,7 Omega had a letter of authorization for the accident
+aircraft authorizing use of a master minimum equipment list, which stated that the FDR or CVR
+may be inoperative provided that the other recorder operates normally and repairs to the
+inoperative recorder are made within 3 flight days. On the basis of 14 CFR 91.6098 and the
+airplane’s date of manufacture, Omega did not consider the FDR to be a required item on the
+airplane. Nonetheless, a recorder operational test consistent with the Boeing Maintenance
+Manual was included on the preflight/transit checklist and called for a maintenance check of the
+circuit breakers to ensure that the recorder was powered. The maintenance manual for N707AR
+also describes a system test that inputs certain parameters and calls for the recorder to be opened
+and the foil media observed. According to Omega, this test was never performed on N707AR.
+Maintenance records indicate that an FDR check occurred during the last C-check maintenance
+in August 2009. The flight engineer checks the CVR during the preflight inspection by activating
+7 Title 14 CFR 91.213 states, in part, that “…no person may take off an aircraft with inoperative instruments or
+equipment installed unless … The aircraft has within it a letter of authorization (LOA), issued by the FAA Flight
+Standards district office having jurisdiction over the area in which the operator is located, authorizing operation of
+the aircraft under the Minimum Equipment List.”
+8 Title 14 CFR 91.609(c)(1) states that “No person may operate a U.S. civil registered, multiengine,
+turbine-powered airplane or rotorcraft having a passenger seating configuration, excluding any pilot seats of 10 or
+more that has been manufactured after October 11, 1991, unless it is equipped with one or more approved flight
+recorders that utilize a digital method of recording and storing data and a method of readily retrieving that data from
+the storage medium.” Section 91.609(e) states that “Unless otherwise authorized by the Administrator, after
+October 11, 1991, no person may operate a U.S. civil registered multiengine, turbine-powered airplane or rotorcraft
+having a passenger seating configuration of six passengers or more and for which two pilots are required by type
+certification or operating rule unless it is equipped with an approved cockpit voice recorder.” The accident airplane
+had 24 seats.
+NTSB/AAB-13/01
+
+10
+an audio test button to observe the volume meter motion. The check does not test the recording
+media.
+WRECKAGE AND IMPACT INFORMATION
+As shown in figure 2, a 4,120-foot debris field began about 7,500 feet from the approach
+end of runway 21, near taxiway A2. Main landing gear tire marks indicated that the airplane
+regained contact with the runway about 900 feet into the debris field, departed the runway on a
+218º heading near taxiway A1, and continued across the grass infield and taxiway A before
+coming to rest in a saltwater marsh where it caught fire. The first pieces of wreckage found along
+the debris path were a fragment of the No. 2 engine pylon torque bulkhead and a piece of the
+No. 2 pylon overwing fitting, located just past taxiway A2. The No. 1 engine nose cowl was
+found in the grass infield near taxiway A about 450 feet further into the debris field and left of
+the runway surface; it exhibited crush damage consistent with contact with the No. 2 engine. The
+No. 2 engine nose cowl was located near the runway arresting gear on the left side of the runway
+at the 8,500 foot point. The No. 2 engine was found about 230 feet further, on the left side of the
+runway surface. Intermittent scrape marks leading to the No. 2 engine were observed on the
+runway beginning about 7,800 feet, consistent with the engine tumbling after separating from the
+wing.
+Figure 2. Aerial photograph of the debris field.
+NTSB/AAB-13/01
+
+11
+Fire consumed the top of the cabin and the cockpit (see figure 3). The main wreckage,
+which came to rest in the wetland marsh, consisted of the cockpit and cabin; the right wing with
+the No. 3 (right inboard) engine partially attached; the empennage; and the inboard half of the
+left wing, which sustained thermal damage and was submerged in water. Scattered debris aft of
+the main wreckage included the nose gear, remnants of the burned outboard left wing, right main
+landing gear truck, and No. 4 (right outboard) engine.
+Figure 3. Aerial photograph of airplane wreckage.
+The No. 2 pylon separated from the wing at the overwing fitting, the midspar fittings, and
+the lower spar fitting. The No. 2 engine remained attached to the pylon. The fracture face on the
+upper tang of the inboard midspar fitting displayed a flat smooth surface at the transition from
+the upper and lower tangs to the lug. Located in one corner of the rectangular-shaped fracture
+face was a dark colored area with a smooth appearance and an arced terminus (thumbnail),
+consistent with fatigue propagation. The fatigue region was located at the upper inboard corner
+of the upper tang. A portion of the pylon containing all of the midspar fitting fracture faces and
+the mating section of the inboard midspar fitting, including the fatigue region, was recovered for
+detailed examination at the NTSB’s Materials Laboratory (see the Tests and Research section of
+this brief for more information).
+The No. 1 pylon separated from the wing at the forward end of the overwing fitting, the
+midspar fittings, and the lower spar fitting. The No. 1 engine separated from the pylon at the
+NTSB/AAB-13/01
+
+12
+forward and aft mounting points. All of the examined fracture surfaces had features consistent
+with overstress, with no evidence of fatigue.
+The No. 4 (right outboard) engine was found attached to its pylon. The cowlings, except
+for the inlet cowl, appeared intact. The No. 3 engine was found with the airplane fuselage at the
+main wreckage site, partially attached to the airplane’s right wing.
+MEDICAL AND PATHOLOGICAL INFORMATION
+The accident flight crew was transported to Ventura County Hospital following the
+accident. According to a statement provided by the attending physician, no postaccident drug or
+alcohol screening was conducted on the flight crew. Federal regulations do not require such
+testing for public aircraft operations.
+SURVIVAL ASPECTS
+The flight crew observed flames in the cabin area and reported that they did not have time
+to perform an engine shutdown or evacuation checklist. They exited the cockpit with difficulty
+due to mud and debris blocking the cockpit door and evacuated through the left forward entrance
+via the escape slide. Airport rescue and firefighting personnel arrived after the crew had exited
+and proceeded to suppress the postcrash fire.
+TESTS AND RESEARCH
+Metallurgy
+The Nos. 1 and 2 engine pylon fitting components were brought to the NTSB Materials
+Laboratory for examination. Metallurgical examination revealed that the No. 1 pylon-to-engine
+bolts, the No. 1 engine pylon-to-wing fittings, and the No. 2 engine pylon-to-wing fittings all
+failed in an overload event with the exception of the upper and lower tangs of the inboard
+midspar fitting on the No 2. pylon, which failed due to fatigue.
+The upper tang of the No. 2 pylon inboard midspar fitting failed in the reduced section
+between the lug where the drag support fitting was normally attached and the chromium-coated
+radius, with the fatigue initiating at its upper inboard corner and occupying approximately
+15 percent of the fracture surface. Corrosion product covered the fatigue fracture surface,
+consistent with it being exposed to the atmosphere for a significant time. Chemical cleaning of
+the fatigue fracture surface revealed that mechanical damage had obliterated any fatigue fracture
+features that may have been generated in the upper inboard corner and the corrosion product had
+obliterated any fine fatigue features, such as striations, leaving only vestiges of crack arrest
+marks. The lack of striations prevented a striation count analysis. The cleaning procedure also
+revealed surface fissures on the fatigue fracture surface that were oriented parallel to arc-shaped
+crack arrest marks and are consistent with high-stress, low-cycle fatigue propagation.
+Chromium electroplated coating had been applied to the upper tang radii, and machining
+marks in the coating adjacent to the fracture face indicated that a machining operation had been
+performed after the electroplating. It is probable that the machining operation was intended to
+remove any excess coating that might have interfered with the fit of the lug in the drag support
+NTSB/AAB-13/01
+
+13
+fitting. The examination noted that machining marks would have intersected with the inner edge
+of the fracture face at the inboard upper corner and may have been the fatigue initiator, but
+mechanical damage in the corner prevented a determination.
+The lower tang of the No. 2 pylon inboard midspar fitting failed in the inboard
+chromium-plated radius with the fatigue initiating at multiple locations in the upper portion of
+the inboard edge and occupying approximately 1 percent of the fracture face.
+The plated radii in the No. 2 pylon midspar fittings were measured at a nominal
+0.38 inch, identifying them as the older style fittings that should have been replaced in
+accordance with the effective AD. The new midspar fittings have radii of 1.0 inch.
+ORGANIZATIONAL AND MANAGEMENT INFORMATION
+The Company
+Omega Aerial Refueling Services is headquartered in Alexandria, Virginia, and conducts
+commercial in-flight refueling services under contract to the US Navy. Omega Air Inc.,
+headquartered in San Antonio, Texas, owns the accident airplane and associated support
+equipment and has a contractual agreement with Omega to supply the equipment in support of
+the Navy contract.
+At the time of the accident, Omega used two Boeing 707-300s and a McDonnell Douglas
+DC-10 specially converted for probe and drogue air-to-air refueling, which is the method most
+used by Navy tactical aircraft.
+Navy Contract
+From 2001 to 2004, Omega operated tankers for the US Navy as a subcontractor to Flight
+International/L-3Com, which had an existing Navy contract flying Learjets. In 2004, Omega was
+created to manage most aspects of the refueling program and to enable future growth in the
+market. The Department of the Navy was the main customer for Omega via a commercial air
+services (CAS) contract managed by NAVAIR. According to the contract work performance
+statement, CAS
+[P]rovides contractor owned and operated aircraft to United States Navy (USN)
+Fleet customers and other Department of Defense (DoD) agencies for tanking of
+USN and other US Government agencies, in support of Foreign Military Sales
+(FMS) cases, Government contractors and other CAS aircraft capable of in air
+refueling.
+The Navy contract was also expanded or amended as necessary to cover Omega refueling
+activity in support of joint training with Royal Australian Air Force F/A-18 Hornets, UK Royal
+Air Force GR-4A Tornadoes, and Canadian Air Force CF-18s. The contract specified that “each
+aircraft utilized under this contract must possess and maintain a Federal Aviation Administration
+(FAA) airworthiness certificate” and the “aircraft must be maintained in accordance with a FAA
+approved Maintenance and Inspection Program.”
+NTSB/AAB-13/01
+
+14
+Public Aircraft Operation
+Omega and NAVAIR representatives indicated during the NTSB’s investigation that the
+accident airplane was operated as a public aircraft at all times when operating under the
+provisions of the Navy contract. NAVAIR recognized that the airplane was not on an exclusive
+use lease and could be operated outside the contract under the FAA experimental certificate and
+civil FAA regulations. After qualification in 1999 and receipt of the Experimental–Market
+Surveys airworthiness certificate, Omega finalized the Navy contract. Omega understood that the
+FAA’s position at that time was that aerial refueling flights could not be operated in accordance
+with FARs and, therefore, had to be flown under the provisions of the public aircraft statute. The
+Navy also understood that a commercial operation with an experimental certificate could not be
+conducted within the provisions of the FARs. Subsequent meetings and discussions in the
+mid-2000s between the FAA, Navy, and others, concluded that the Omega operation could
+continue unchanged, although various parties expressed concern over the division of oversight
+and use of the “Market Surveys” certificate type.
+On March 23, 2011, the FAA published a proposed rules notice in the Federal Register
+stating its policy that “ALL contracted operations [are presumed] to be civil aircraft operations,
+unless the contracting government entity provides the operator with a written declaration (from
+the contracting officer or higher-level official) of public aircraft status for designated, qualified
+flights.” In July and September 2011, in response to FAA requests, NAVAIR provided letters
+stating that the Omega tankers were operated as public aircraft when operating under the Navy
+contract.
+Safety Oversight
+The FAA noted that public aircraft operations are “generally exempt from compliance
+with the Federal Aviation Regulations” and that “the status of an aircraft as ‘public aircraft’ or
+‘civil aircraft’ depends on its use in government service and the type of operation that the aircraft
+is conducting at the time.” In response to an NTSB request, the FAA concluded that the N707AR
+operation was “a public aircraft operation within the meaning of the statute, the positions of the
+parties, and…FAA guidance material.”
+NAVAIR confirmed that it assumes safety oversight responsibility for contracted aircraft
+engaging in public aircraft operations. To exercise an appropriate level of safety oversight,
+NAVAIR stated it had been “leveraging the processes identified and defined in the DoD Defense
+Contract Management Agency Instruction 8210.1,”9 as well as the FAA engineering, inspection,
+and oversight standards associated with the experimental certificate, which NAVAIR requires by
+contract. Both NAVAIR and Omega acknowledged that the experimental certificate was not
+binding in a legal or regulatory manner under public aircraft operations but that they used it as
+part of the overall oversight program. Further, NAVAIR stated that it performed a gap analysis in
+safety provisions related to refueling and added additional operational guidelines and
+requirements as deemed appropriate to ensure the public aspects of the refueling mission were
+adequately addressed through the contract with Omega.
+9 Defense Contract Management Agency Instruction 8210.1 “establishes requirements for ground and flight
+operations involving all contracted work performed on aircraft where [the] instruction is incorporated as a contract
+requirement, as well as procedures to be followed by government flight representatives.”
+NTSB/AAB-13/01
+
+15
+ADDITIONAL INFORMATION
+Boeing 707 Accident History
+The first flight of the Boeing 707 occurred in 1954. In all, 858 Boeing 707s were
+produced (-100, -200, -300, and E3 series), and production ended in 1991. There have been
+145 fatal hull-loss accidents involving the Boeing 707, and 11 nonfatal hull-loss accidents.
+Boeing reported five previous occurrences of pylon separation; on two of those occasions, an
+inboard engine separated and collided with the outboard nacelle, as was the case in this accident.
+Safety Changes
+Boeing Alert Service Bulletin (ASB) 707-00A3537-00, issued on January 30, 2012, gives
+instructions to inspect for the correct engine No. 2 and 3 nacelle strut midspar fittings and to
+perform immediate replacement if the wrong fitting is found. The ASB also calls for application
+of a droop stripe, inspection of the engine Nos. 1, 2, 3, and 4 nacelle struts for droop, and a
+high-frequency eddy current inspection for any crack of the visible lug area of the inboard and
+outboard strut midspar fittings (new design) on the No. 2 and 3 engines. A drooped nacelle strut
+indicates that a midspar fitting may have fractured. Installation of an incorrect midspar fitting
+can result in a fatigue crack, which can cause the fitting to fracture. A fractured midspar fitting
+can result in a separation of the nacelle strut and engine from the airplane in flight. On
+August 17, 2012, the FAA published AD 2012-16-12, effective September 21, 2012, requiring
+the provisions of ASB 707-00A3537-00.
+NTSB/AAB-13/01
+
+16
+ANALYSIS
+There were no relevant anomalies during the preflight check and taxi of the accident
+airplane. On the takeoff roll, shortly after liftoff, the No. 2 engine pylon separated from the left
+wing. The No. 2 engine nacelle and pylon assembly struck the No. 1 engine nacelle, causing the
+No. 1 engine inlet cowl to separate, which degraded the engine’s ability to produce thrust and
+resulted in a significant loss of thrust on the left side of the airplane. The captain decided to reject
+the takeoff and attempt to land on the remaining runway. The loss of thrust from both left engines
+made it highly unlikely that the airplane would be able to continue with a successful takeoff and,
+considering the possibility of serious structural damage, the pilot’s decision to reject the takeoff
+was appropriate and properly executed.
+The No. 2 engine pylon midspar fitting had a preexisting fatigue crack that had propagated
+to a critical length before or during the accident flight takeoff. The fatigue crack initiated at the
+upper inboard corner of the reduced section between the lug where the drag support fitting is
+normally attached and the chromium-coated radius. Corrosion product covered the fatigue
+fracture surface, consistent with it being exposed to the atmosphere for a significant time. The
+reduced section radius was measured and found to be a nominal 0.38 inch. The 0.38-inch radius
+is consistent with an older fitting design that was subject to a series of Boeing SBs and FAA ADs
+calling for repetitive visual inspections and eventual replacement with a more fatigue-resistant
+design incorporating a 1.0-inch radius. Replacing the older fitting design was a terminating
+action for the repetitive inspections.
+Omega records indicated that the company conducted visual inspections in 1996 shortly
+after the conversion. Omega observed that the AD list for the airplane indicated that
+AD 93-11-02 was completed, but inspections per the Boeing SB were entered into the
+maintenance program. Omega continued to conduct the inspections until 2003, when a records
+review found that, in 1983, a previous owner/operator had marked the compliance status of the
+effective AD with “C” (meaning complete). This status reconfirmed to Omega that the records
+showed the fittings had been replaced and inspections were no longer necessary, and Omega
+deleted the inspection requirement from its maintenance plan. The records review and
+termination of the repetitive inspections based on the completion entry were in accordance with
+applicable practice and regulations. If the erroneous entries had not been made, Omega would
+have either continued its inspections of the midspar fitting or noted the termination requirement
+in AD 93-11-02 and replaced the older design fittings, thereby avoiding the accident. Although
+an experimental airworthiness certificate had been issued for the airplane and it mostly operated
+under the statute governing public aircraft operations, there were no additional or different civil
+airworthiness or operating requirements that would have led to a specific inspection of the
+fittings to verify compliance with the AD once the maintenance record reflected the completed
+status for the AD.
+At least three accidents have been associated with failures of the 0.38-inch-radius fitting.
+Failure due to a fatigue crack in the midspar fittings on the No. 3 engine nacelle strut was noted
+in the investigation of the November 14, 1998, accident involving an IAT cargo Boeing 707 at
+Ostend, Belgium. The investigation revealed that the No. 3 pylon fittings that failed were the
+older design, contrary to the applicable AD (93-11-02) in effect at the time. The April 25, 1992,
+accident involving a Colombia-registered TAMPA Boeing 707 was attributed partly to “the
+NTSB/AAB-13/01
+
+17
+inadequate inspection requirements of the manufacturer and the FAA to detect cracks in the
+midspar fitting.” The Bureau d’Enquêtes et d’Analyses pour la Sécurité de l’Aviation Civile
+investigation of a March 1992 engine separation accident involving a Trans-Air Service
+Boeing 707 also noted that the required “periodic monitoring of the midspar fitting proved to be
+insufficiently effective” and recommended redesigned fittings.

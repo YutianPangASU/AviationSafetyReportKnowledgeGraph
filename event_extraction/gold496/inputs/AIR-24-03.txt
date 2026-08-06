@@ -1,0 +1,1866 @@
+July 24, 2024 Aviation Investigation Report AIR-24-03
+Special Investigation Report
+Safety and Industry Data Improvements for Part 135
+Operations
+Abstract: This report discusses the National Transportation Safety Board’s review of
+the investigation reports for the 116 fatal accidents and 460 nonfatal accidents
+involving flights operated under Title 14 Code of Federal Regulations Part 135 that
+occurred from 2010 to 2022. The safety issues identified in this report include
+operational control and flight-locating deficiencies that can be addressed by using
+certificated dispatchers; weight and balance concerns with single-engine aircraft
+operations that can be addressed by using a load manifest; and the importance of
+organizational risk management strategies, such as an appropriately scaled safety
+management system and a flight data monitoring program. This report also
+addresses needed improvements in the collection and reporting of aircraft accident
+and flight activity data. Three recommendations are made to the Federal Aviation
+Administration (FAA). In addition, two previously issued recommendations to the FAA
+are reiterated, and two previously issued recommendations to the FAA are classified
+Closed—Acceptable Action.
+
+Aviation Investigation Report
+AIR-24-03
+Contents
+Figures and Table ................................................................................................. iii
+Acronyms and Abbreviations ................................................................................iv
+Executive Summary ............................................................................................... v
+What We Found ................................................................................................................ v
+What We Recommended .............................................................................................. vii
+1. Introduction .................................................................................................... 1
+2. Operational Control and Flight-Locating Issues ............................................. 6
+2.1 Related Accidents .................................................................................................... 8
+2.1.1 Pilot-in-Command Authority .......................................................................... 9
+2.1.2 Joint Authority: Pilot-in-Command and Other Support
+Personnel ................................................................................................................. 10
+2.1.3 Joint Authority: Pilot-in-Command and Operations Control
+Center ....................................................................................................................... 12
+2.1.4 Flight Locating ............................................................................................... 16
+2.2 Safety Recommendation History .......................................................................... 17
+3. Aircraft Weight and Balance Issues ............................................................... 21
+3.1 Related Accidents .................................................................................................. 21
+3.2 Safety Recommendation History .......................................................................... 23
+4. Organizational Risk Management Strategies ............................................... 29
+4.1 Safety Management System ................................................................................. 30
+4.2 Flight Data Monitoring .......................................................................................... 33
+5. Accident and Flight Activity Data Needs ...................................................... 37
+5.1 NTSB Data Collection Improvements .................................................................. 38
+5.2 Flight Activity Data Needs ..................................................................................... 40
+6. Conclusions ................................................................................................... 44
+6.1 Findings ................................................................................................................... 44
+7. Recommendations ........................................................................................ 46
+7.1 New Recommendations ........................................................................................ 46
+7.2 Previously Issued Recommendations Reiterated in This Report ...................... 46
+7.3 Previously Issued Recommendations Classified in This Report ................ 47
+i
+
+Aviation Investigation Report
+AIR-24-03
+Appendixes ......................................................................................................... 48
+Appendix A: Referenced Accidents ............................................................................ 48
+Operational Control and Flight-Locating Issues ................................................. 48
+Aircraft Weight and Balance Issues ...................................................................... 54
+Need for Organizational Risk Management Strategies ..................................... 55
+Single-Pilot or Single-Pilot-in-Command Operators .......................................... 58
+Appendix B: Previously Issued Safety Recommendations ....................................... 60
+Operational Control and Flight Locating ............................................................ 60
+Aircraft Weight and Balance .................................................................................. 60
+Safety Management System and Flight Data Monitoring .................................. 61
+Flight Activity and Other Data Collection ............................................................ 62
+Emergency Medical Services Operations ............................................................ 63
+Additional Open Recommendations ................................................................... 64
+References ........................................................................................................... 66
+ii
+
+Aviation Investigation Report
+AIR-24-03
+Figures and Table
+Figure 1. General characteristics and limitations of most Part 135 operations based
+on certificate type, operating authority, and scope (FAA 2023e and 2023g, 1–4). ....... 2
+Figure 2. Accident rate comparison for Part 121, Part 135 commuter, and Part 135
+on-demand operations for years 2010 through 2022. ...................................................... 3
+Table A1. Accidents involving operational control and flight-locating issues
+referenced in this report. ..................................................................................................... 48
+iii
+
+Aviation Investigation Report
+AIR-24-03
+Acronyms and Abbreviations
+AC advisory circular
+CAROL Case Analysis and Reporting Online
+CFR Code of Federal Regulations
+CG center of gravity
+FAA Federal Aviation Administration
+FDM flight data monitoring
+HAA helicopter air ambulance
+IFR instrument flight rules
+IMC instrument meteorological conditions
+NPRM notice of proposed rulemaking
+NTSB National Transportation Safety Board
+PIC pilot-in-command
+SAFTI System for Analysis of Federal Transportation Investigations
+SAS safety assurance system
+SMS safety management system
+TAWS terrain awareness and warning systems
+VFR visual flight rules
+iv
+
+Aviation Investigation Report
+AIR-24-03
+Executive Summary
+Title 14 Code of Federal Regulations (CFR) Part 135 applies to a wide variety of
+commercial aviation operations of all sizes providing diverse types of services for hire.
+These range from single-pilot operators that conduct limited operations using one
+single-engine airplane, to small fleet air tour operators, to larger and more complex
+operations, such as commuter air carriers, air ambulance services, jet charters, and
+essential passenger, cargo, and mail-carrying operations for remote areas. Different
+limitations and requirements apply to different segments of the industry based on the
+Part 135 operator’s certificate type, operating authority, and scope.
+Historically, accident rates for Part 135 operations have remained higher than
+the accident rates for commercial airline operations operated under 14 CFR Part 121,
+which are subject to the Federal Aviation Administration’s (FAA’s) highest level of
+regulation and oversight. However, the diverse mission demands of some segments
+of the Part 135 industry may inherently involve unique risks that typically do not exist
+for Part 121 operations. Closing the safety gap for these segments of Part 135 must
+involve targeted solutions that effectively mitigate unique risks without hindering
+operators’ ability to provide their services.
+In December 2022, the National Transportation Safety Board (NTSB) initiated
+this special investigation of Part 135 operations after our investigations of several
+accidents in recent years highlighted similar deficiencies, suggesting a need for a
+more comprehensive review of the industry. This special investigation identified
+116 fatal accidents and 460 nonfatal accidents involving flights operated under Part
+135 that occurred from 2010 to 2022. We sought to identify any trends or similarities
+in the types of deficiencies that led to the accidents; evaluate the circumstances of
+each accident in the context of applicable regulations and potential mitigations that
+could prevent similar accidents; and review accident and flight activity data to
+determine whether those data could support an assessment of any trends in the
+historic accident rates for different industry segments based on certificate type,
+operating authority, and scope.
+What We Found
+We identified 12 accidents involving Part 135 operators that highlighted
+operational control or flight-locating deficiencies and resulted in 45 fatalities and
+13 serious injuries. These deficiencies could all be addressed through the required
+use of certificated dispatchers. The defined operational control responsibilities and
+the standardized certification criteria, initial and recurrent training, and competency
+checks required of certificated dispatchers can help ensure that dispatchers, as part
+of their joint responsibility for the safety of the flight, would effectively support pilots
+v
+
+Aviation Investigation Report
+AIR-24-03
+with their preflight and in-flight decision-making, including recognizing and avoiding
+high-risk situations.
+We identified 5 accidents that involved Part 135 operations of single-engine
+aircraft with weight and balance concerns, which resulted in 11 fatalities and 6 serious
+injuries. These accidents suggest persistent, systemic operational pressures or
+deficiencies related to single-engine aircraft loading. Requiring load manifests and
+record-keeping for single-engine aircraft operated under Part 135 would not only
+help pilots detect and correct unsafe loading conditions but also provide operators
+and FAA inspectors the information needed to support proactive, comprehensive
+assessments to identify any related operational risk areas that may influence improper
+aircraft loading and mitigate them before an accident occurs.
+We identified additional accidents that further support requiring Part 135
+operators to implement a safety management system (SMS), as we recommended to
+the FAA in 2016. SMS provides a process by which operators can incorporate a
+formal, organization-wide approach to managing safety risk and assuring the
+effectiveness of safety risk controls. On April 26, 2024, the FAA issued a final rule to
+require SMS for all Part 135 operators, which is responsive to our safety
+recommendation. In the final rule, single-pilot and single-pilot-in-command (PIC)
+operators, which have the most limited size and scope, were excepted from certain
+requirements that the FAA determined would be impractical for their operations. In
+2022, we recommended that the FAA develop guidance to help operators of limited
+size and scope implement an appropriately scaled SMS. On May 21, 2024, the FAA
+issued a revised advisory circular that provided such guidance, which is responsive to
+our safety recommendation.
+We also identified accidents that further support requiring Part 135 operators
+to establish a flight data monitoring (FDM) program and install recording devices
+capable of supporting it, as we recommended to the FAA in 2016. FDM programs
+(which are often incorporated into an SMS) can provide Part 135 operators with
+objective information regarding how their pilots conduct flights and assist operators
+in detecting and correcting unsafe deviations from standard operating procedures
+before an accident occurs.
+In addition, when performing our review of accidents for this special
+investigation report, we found that neither the accident and incident data within our
+own database nor the flight activity data compiled by the FAA could fully support a
+comprehensive assessment of the safety of the Part 135 industry, highlighting the
+need for improved data collection and reporting methods. We believe that accident
+data and flight activity data for Part 135 operations that identify accidents and activity
+for different segments of the industry based on certificate type, operating authority,
+and scope are necessary to determine the accident rate for each segment, support
+vi
+
+Aviation Investigation Report
+AIR-24-03
+evaluations of the suitability of the varied regulatory standards and levels of oversight
+applied to each segment, and develop targeted safety initiatives, as needed.
+What We Recommended
+We issued three recommendations to the FAA. We recommended that the
+FAA require all Part 135 operators, except single-pilot and single-PIC operators, to
+use certificated dispatchers who hold joint responsibility with the PIC for the safety
+and operational control of flights and whose responsibilities include preflight
+planning; flight dispatch, release, and cancellation decisions; and flight monitoring;
+consistent with the requirements for Part 121 domestic and flag operations.
+We recommended that the FAA expand the applicability of the load manifest
+and recordkeeping requirements of 14 CFR 135.63(c) to include Part 135
+single-engine aircraft operations.
+We also recommended that the FAA develop, validate, and implement a
+single, unbiased method for generating activity data for all Part 135 certificate
+holders to include the identification of activity by certificate type (air carrier or
+operating), operating authority (on-demand or commuter), and scope (standard,
+basic, single-pilot, or single-PIC).
+We also reiterated the following safety recommendations made previously to
+the FAA:
+Require all Part 135 operators to install flight data recording devices capable
+of supporting an FDM program. (A-16-34)
+After the action in Safety Recommendation A-16-34 is completed, require all
+Part 135 operators to establish a structured FDM program that reviews all
+available data sources to identify deviations from established norms and
+procedures and other potential safety issues. (A-16-35)
+We also classified the following safety recommendations made previously to
+the FAA as Closed—Acceptable Action:
+Require all Part 135 operators to establish SMS programs. (A-16-36)
+Develop guidance for small operators for scaling an SMS that includes
+methods and techniques for implementation and specific examples applicable
+to several operational sectors, including air tours. (A-22-15)
+vii
+
+Aviation Investigation Report
+AIR-24-03
+1. Introduction
+Title 14 Code of Federal Regulations (CFR) Part 135 applies to a wide variety of
+commercial aviation operations of all sizes providing diverse types of services for hire.
+These range from single-pilot operators that conduct limited operations using one
+single-engine airplane, to small fleet air tour operators, to larger and more complex
+operations, such as commuter air carriers, air ambulance services, jet charters, and
+essential passenger, cargo, and mail-carrying operations for remote areas that lack
+the infrastructure to support scheduled service by air carriers operated under
+14 CFR Part 121. Industrywide, in 2024, about 1,850 Part 135 certificate holders
+operated about 11,760 aircraft to provide these types of services (FAA 2024b and
+2024c, 33096).
+Generally, for most Part 135 certificate holders, different levels of regulatory
+requirements and oversight apply based on certificate type (air carrier or operating),
+operating authority (commuter, sometimes referred to as “scheduled,” or
+on-demand, sometimes referred to as “nonscheduled”), and scope (standard, basic,
+single-pilot, or single-pilot-in-command [PIC]). About 550 Part 135 certificate holders
+(about 30%) are single-pilot or single-PIC operators, which have the most limited
+scope, inherently fly only limited hours annually (using only one authorized PIC), and
+are subject to the lowest levels of regulatory requirements and oversight compared
+to other Part 135 operations (FAA 2024c, 33096) (see figure 1).
+In December 2022, the National Transportation Safety Board (NTSB) initiated
+this special investigation of Part 135 operations after our investigations of several
+accidents in recent years highlighted similar deficiencies, suggesting a need for a
+more comprehensive review of the industry. This special investigation reviewed the
+investigation reports for the 116 fatal accidents and 460 nonfatal accidents involving
+flights operated under Part 135 that occurred from 2010 to 2022 to identify any
+trends or similarities in the types of deficiencies that led to the accidents.1
+Historically, accident rates for Part 135 operations have fluctuated from year to year
+but have remained higher than the accident rates for Part 121 commercial airline
+operations, which are subject to the Federal Aviation Administration’s (FAA’s) highest
+level of regulation and oversight (see figure 2).
+1 (a) These totals reflect all accidents involving flights operated under Part 135 during these
+years. Flights operated under Part 91 by Part 135 certificate holders were not included. At the time of
+this report, the investigations for seven accidents (two fatal and five nonfatal) were not yet completed.
+Thus, only preliminary information for these accidents was available for review. Further, six accidents
+(two fatal and four nonfatal) occurred in other countries, and the investigations were performed by
+their respective authorities. (b) Visit ntsb.gov to find additional information in the public docket for this
+NTSB investigation (case DCA23SR001). Use the CAROL Query to search investigations and safety
+recommendations.
+1
+
+Aviation Investigation Report
+AIR-24-03
+Figure 1. General characteristics and limitations of most Part 135 operations based
+on certificate type, operating authority, and scope (FAA 2023e and 2023g, 1–4).
+2
+
+Aviation Investigation Report
+AIR-24-03
+Figure 2. Accident rate comparison for Part 121, Part 135 commuter, and Part 135
+on-demand operations for years 2010 through 2022.2
+2 The NTSB computed these accident rates using annual flight activity estimates provided by
+the FAA. No data for Part 135 on-demand operations were available for calendar year 2011 (NTSB
+2023). The FAA does not provide flight hour estimates for Part 135 operations by scope. Accident
+rates per 100,000 flight hours are calculated by dividing the number of accidents (the numerator) by
+the number of hours flown (the denominator) and multiplying the result by 100,000.
+3
+
+Aviation Investigation Report
+AIR-24-03
+Although the NTSB has long believed that the traveling public deserves one
+level of safety across all parts of commercial aviation, we also recognize that the
+diverse mission demands of some segments of the Part 135 industry may inherently
+involve unique risks that typically do not exist for Part 121 operations. For example,
+emergency medical services operators provide time-critical, life-saving transport for
+patients or donor organs, and such services may be requested at any time of day or
+night and during all types of weather conditions. Further, helicopter air ambulance
+(HAA) operations may be exposed to additional risks when providing services for
+destinations that may be remote, unfamiliar, or unimproved.3
+Also, many passenger, cargo, and mail-carrying operations in Alaska operate
+in areas of challenging weather and terrain and serve remote areas that lack the
+communications, weather-reporting, and other infrastructure needed to support
+instrument flight rules (IFR) operations.4 Closing the safety gap for these and other
+segments of Part 135 must involve targeted solutions that effectively mitigate the
+unique risks without hindering operators’ ability to provide their services.
+Our review of completed investigation reports identified 12 accidents that
+support the need for improving operational control and flight-locating procedures.
+Summaries of these accidents and our history of related safety recommendations are
+discussed in section 2. We also identified four accidents characterized by aircraft
+weight and balance issues that support expanding the load manifest and
+recordkeeping requirements (which already apply for multiengine aircraft operations)
+3 In 2006, the NTSB issued Safety Recommendations A-06-12 through A-06-15 to the FAA that
+sought to improve protections for passengers, pilots, and other personnel on board without
+burdening emergency medical services operators with undue requirements (NTSB 2006, vii). In 2014,
+the FAA implemented rulemaking for HAA operations that was mostly responsive to our
+recommendations (FAA 2014b). As a result, we classified Safety Recommendations A-06-12, A-06-13,
+and A-06-15 Closed—Acceptable Action and Safety Recommendation A-06-14 Closed—Acceptable
+Alternate Action on September 11, 2014. See appendix B for more information.
+4 In 2018, the NTSB issued Safety Recommendations A-18-16 and A-18-17 to ask the FAA to
+install communications equipment and weather-reporting capabilities to allow increased IFR
+operations for Part 135 operators in Alaska (NTSB 2018). These recommendations, which resulted
+from our investigation of a 2016 fatal accident involving a Part 135 commuter operation in Togiak,
+Alaska, are classified Open—Acceptable Response. The NTSB also performed Alaska-specific safety
+studies in 1980 and 1995, hosted a roundtable discussion with Alaska Part 135 operators and other
+industry stakeholders in 2019, and issued an Alaska air tour-specific safety recommendation report in
+2022, as part of our longstanding interest in addressing the unique safety challenges faced by aviation
+operations in Alaska (NTSB 1980, 1995, 2019, and 2022c).
+4
+
+Aviation Investigation Report
+AIR-24-03
+to include single-engine aircraft operations; these accidents and our history of safety
+recommendations on this topic are discussed in section 3.5
+Also, some of the safety tools and strategies that have proven effective over
+time at enhancing the safety of Part 121 operations are adaptable and appropriate for
+Part 135 operations. These include requirements for implementing proactive,
+organizational risk management strategies, such as a safety management system
+(SMS), which has been required for Part 121 operators since 2018, and a flight data
+monitoring (FDM) program, which can be incorporated into and support an SMS. In
+2016, we issued one recommendation to the FAA to require SMS and two
+recommendations for FDM equipment and program requirements for Part 135
+operators. Further, in 2022, we issued one recommendation to the FAA to develop
+guidance for small operators for scaling an SMS. On April 26, 2024, the FAA issued a
+final rule to require SMS for all Part 135 operators, and, on May 21, 2024, it issued a
+revised advisory circular (AC) containing SMS scalabilty guidance; these actions are
+responsive to two safety recommendations. However, the FAAhas not yet completed
+acceptable action regarding FDM equipment and programs. Section 4 discusses our
+safety recommendations concerning SMS and FDM programs and how these
+processes may be used to help Part 135 operators formalize and scale organizational
+risk management strategies to prevent accidents.
+When performing our review of accidents for this special investigation, we
+sought to categorize each accident based on Part 135 certificate type, operating
+authority, and scope; evaluate the circumstances of each accident in the context of
+applicable regulations and potential mitigations that could prevent similar accidents;
+and assess any trends in the historic accident rates for each industry segment.
+However, we found that neither the accident and incident data within our own
+database nor the flight activity data compiled by the FAA could fully support such an
+assessment, highlighting the need for improved data collection and reporting
+methods. Section 5 discusses measures for addressing these accident data collection
+and flight activity data needs.
+5 Although our accident review for this report extended back to 2010, all four accidents that
+support the load manifest requirements occurred since 2015, after we issued our last safety
+recommendation on the subject.
+5
+
+Aviation Investigation Report
+AIR-24-03
+2. Operational Control and Flight-Locating Issues
+All Part 135 operators are required to maintain operational control, which is
+defined (per 14 CFR 1.1) as the “authority over initiating, conducting, or terminating a
+flight.” This requirement includes specifying who is authorized to exercise operational
+control and the conditions under which a flight may be operated (for example, certain
+weather minimums and fuel requirements). Operators are also required to have
+procedures for ensuring that, “when safety conditions specified for a flight cannot be
+met, the flight is canceled, delayed, rerouted or diverted,” as well as flight-locating
+procedures that provide for the timely notification of an FAA or search and rescue
+facility if an aircraft is overdue or missing (FAA 2016c, 7–9).6
+Generally, for Part 135 operations of standard scope, a company manager,
+such as the director of operations, the chief pilot, or both, exercises the first tier of
+operational control, which includes assigning flight crewmembers and aircraft. For
+most Part 135 operators, the authority for second-tier operational control, which
+involves decisions related to the day-to-day conduct of operations and is more
+tactical than the first tier, is held by the PIC. Depending on company policy, the PIC
+may exercise that authority either alone or jointly with other designated and trained
+company personnel, such as those who provide preflight planning support or
+perform required flight-locating duties (FAA 2016c, 13).
+According to the FAA, due to the diversity of Part 135 operations, the methods
+by which operators perform their operational control functions are not defined by
+regulation; the intent is to allow each operator the flexibility to develop a system that
+fits its particular operation. FAA guidance for its inspectors has noted that PIC
+operational control authority is typically adequate for general-purpose, on-demand
+operations but may be inappropriate for “commuter operations, air ambulance
+services, jet transport operations, operations conducted beyond the contiguous
+states, extended overwater operations, and complex operations requiring extensive
+planning or coordination” (FAA 2016c, 1).
+The FAA has recognized that certain operators with operational control
+systems that require joint concurrence between the pilot and other authorized
+personnel for flight release decisions have significantly better safety records than
+6 Part 135 operators are required to list company personnel authorized to exercise operational
+control and to have flight-locating procedures for flights not operating on a flight plan filed with the
+FAA (per 14 CFR 135.77 and 135.79, respectively). Flight-locating procedures must provide the
+operator with the location, date, and estimated time for reestablishing communications if the flight will
+operate in an area where communications cannot be maintained.
+6
+
+Aviation Investigation Report
+AIR-24-03
+comparable operators without such systems (FAA 2016c, 1).7 Although FAA guidance
+states that principal operations inspectors “should strongly recommend” such
+systems for the Part 135 operators they oversee, the FAA does not require them,
+except for the operations control center requirement for HAA operators with a fleet of
+10 or more helicopters (FAA 2016c, 1 and 18).8 For Part 135 operators that electively
+incorporate joint operational control support, the regulations do not specify any
+training or qualification standards for the personnel who perform these tasks (other
+than what applies for pilots and certain managers); each operator determines the
+level of training, knowledge, and skills that the company considers appropriate for
+these individuals.
+In contrast, Part 121 domestic and flag operators meet their operational
+control and flight-locating requirements using certificated dispatchers.9 Dispatcher
+certification requires the completion of an approved training course (or
+documentation of acceptable experience) and passing scores on knowledge and
+practical tests.10 Certificated dispatchers required for Part 121 operations hold joint
+7 Specifically, the FAA cited data for law enforcement and air ambulance service operators that
+had such systems versus those that did not.
+8 Title 14 CFR 135.619 established the operations control center requirement, effective
+April 22, 2016, for HAA operators with 10 or more helicopters. The regulation includes initial and
+recurrent training requirements for operations control center personnel and specifies training topics,
+including aviation weather and flight monitoring, that must be covered during their training. We note
+that, although the FAA implemented these requirements in response to our Safety Recommendation
+A-06-14, the regulation did not apply to all emergency medical services operators, as we had
+recommended, and the FAA did not include certification requirements for the operations control
+center personnel, as we had intended (NTSB 2011, 4). We classified Safety Recommendation A-06-14
+Closed—Acceptable Alternate Action on September 11, 2014. See section 2.2 and appendix B for
+more information.
+9 Domestic and flag operations involve scheduled operations, with domestic operations
+conducted (generally) between points within the United States, whereas flag operations may include
+one or more points outside the United States. Another subset of Part 121, supplemental operations, is
+not subject to the certificated dispatcher requirement but must have a flight-following system, per
+14 CFR 121.125. Flight followers used in Part 121 supplemental operations may have certain
+operational control authority (as delegated by the director of operations), and the operator must
+define their qualifications, guidance, and procedures in its manuals (FAA 2016c, 11–12 and
+Appendix 4, 1). Supplemental operations are not scheduled and involve flights for which the departure
+time, departure location, and arrival location are specifically negotiated with the customer; all-cargo
+operations; or certain public charter operations, as specified in 14 CFR 110.2.
+10 An approved dispatcher course (per 14 CFR 65.61 and Part 65, appendix A) involves a
+minimum of 200 hours of training on regulations, meteorology, navigation, aircraft, communications,
+air traffic control, emergency and abnormal procedures, and practical dispatch applications.
+Alternatively, acceptable experience (per 14 CFR 65.57[a]) includes having worked at least 2 years (in
+the preceding 3 years) as a military pilot, flight navigator, or meteorologist; a Part 121 pilot, flight
+engineer, meteorologist, or assistant dispatcher; an air traffic controller or a flight service specialist; or
+7
+
+Aviation Investigation Report
+AIR-24-03
+responsibility with the PIC for the safety and operational control of flights, including
+preflight planning, flight delays, and flight dispatch releases. Dispatchers’
+responsibilities include monitoring the progress of each flight, issuing necessary
+information for the safety of the flight (such as meteorological information to identify
+potential hazards and the most desirable route of flight), and canceling or
+redispatching the flight if either the dispatcher or the PIC determines that the flight
+cannot be operated safely as planned or released.11
+Certificated dispatchers in Part 121 operations are part of an operational
+control system in which operational control responsibilities, authority, and
+procedures for flight planning, aircraft dispatch and release, flight monitoring, and
+other functions must be defined in company manuals for not only the dispatchers but
+also others within the system (FAA 2016c). Further, certificated dispatchers required
+for Part 121 operations are subject to initial and recurrent training requirements and
+competency checks, and they have inherent accountability for their performance, as
+their certificate can be suspended or revoked if they perform in an unsafe manner.12
+However, unlike the standardized requirements and procedures for
+dispatchers used in Part 121 operations, the operational control and flight-locating
+methods used by Part 135 operators, as well as the training and qualifications of the
+personnel who perform such tasks, can vary widely. Although Part 135 operators may
+commonly use terms like “dispatcher,” “flight follower,” “flight monitor,” “flight
+coordinator,” “operational control agent,“ “flight locator,” or “specialist” to refer to
+various personnel who perform various flight support duties, such personnel are not
+required to hold a dispatcher certificate, and their duties are not defined by
+regulation for Part 135 operations (except for the flight-locating requirement
+specified in 14 CFR 135.79).13
+2.1 Related Accidents
+We identified 12 accidents involving Part 135 operators that highlighted
+operational control or flight-locating deficiencies and resulted in 45 fatalities and
+while performing other duties that the FAA considers equivalent. The knowledge and skill
+requirements covered by the computer-based knowledge test and the evaluator-administered
+practical test are described in 14 CFR 65.55 and 65.59, respectively.
+11 These responsibilities are specified in 14 CFR 121.533 and 121.535.
+12 The training and competency check requirements are specified in 14 CFR 121.415, 121.422,
+121.427, and 121.463).
+13 These personnel may or may not have delegated operational control authority; if they do,
+such authority must be defined in the company’s general operations manual or operations
+specifications.
+8
+
+Aviation Investigation Report
+AIR-24-03
+13 serious injuries. (None of these accidents involved single-pilot or single-PIC
+operators, which are discussed further in section 4.1.) The following sections discuss
+these accidents in order of complexity of the operators’ operational control methods,
+which ranged from allowing the PIC authority over the flight (with little or no support
+from other company personnel) to using joint authority between the PIC and other
+personnel or operations control center specialists. Accidents involving flight-locating
+deficiencies are discussed last.
+Our investigations found that, for each Part 135 operator, essential operational
+control functions, such as preflight weather and fuel planning, flight release, flight
+monitoring, or flight locating, were performed without adequate company
+procedures or by individuals who lacked the training, knowledge, or experience to
+effectively perform such critical safety duties.
+2.1.1 Pilot-in-Command Authority
+Three accidents involved Part 135 operators whose procedures were such that
+the PIC conducted the flight under their own authority with little or no preflight risk
+management or tactical decision-making support.
+One accident occurred on November 28, 2011, when an airplane operated
+under IFR as an emergency medical services flight lost engine power due to fuel
+exhaustion and crashed near Riverwoods, Illinois.14 The pilot and two passengers
+were fatally injured, the pilot-rated passenger sustained serious injuries, and the
+medical crewmember sustained minor injuries. Our investigation found that the
+director of operations (who was responsible for first-tier operational control) was also
+responsible for monitoring all flights and approving all departures (typically
+second-tier personnel duties) for the company, which operated four airplanes from
+bases in in Wisconsin, Illinois, and South Carolina and employed three pilots and one
+mechanic. Although the company had a fuel log, the director of operations (who was
+also the company president) did not review it or designate anyone to do so. Further,
+the accident pilot’s time on duty exceeded the regulatory 14-hour maximum; thus, he
+should not have been assigned to the accident flight.15
+Another accident involved an on-demand charter airplane that was operated
+under visual flight rules (VFR) but encountered poor visibility conditions and crashed
+into mountainous terrain near Angoon, Alaska, on April 8, 2016. The pilot and two
+passengers were fatally injured, and one passenger was seriously injured.16 The
+14 See NTSB case CEN12FA086 in appendix A for more information.
+15 Assigning flight crews is a first-tier operational control function.
+16 See NTSB case ANC16FA017 in appendix A for more information.
+9
+
+Aviation Investigation Report
+AIR-24-03
+accident pilot and the director of operations were partners in the company and its
+only employees.
+Flight-tracking data for the airplane showed that the pilot made several turns in
+various locations where the investigation determined the mountain peaks were
+obscured by clouds, and the last turn ended near the accident site. The director of
+operations had been flying at the time that the accident pilot contacted him (while en
+route) via radio to report his plans to divert over lower terrain due to poor visibility.
+Thus, the director of operations did not see the actual routing of the accident flight
+(using the company’s flight-tracking system) until after he completed his own flight.
+Our investigation determined that, at the time of the accident, the pilot likely
+mistakenly believed that he chose alternate routing over lower terrain when, actually,
+he had flown into a different valley surrounded by much higher terrain and was
+unsuccessful in his attempt to clear it.
+Another accident occurred on August 4, 2018, when an airplane operated as
+an air tour flight under VFR likely encountered reduced visibility weather conditions
+before it struck steep, snow-covered terrain near Talkeetna, Alaska.17 The pilot and
+the four passengers were fatally injured. The company operated 23 airplanes and
+employed about 30 pilots and 5 flight followers. The director of operations, chief
+pilot, and 12 airplanes were based in Anchorage, Alaska, and a base chief pilot and
+11 airplanes were based in Talkeetna. Our investigation found that, although the
+flight followers’ duties could include discussing weather conditions with the pilots,
+the company had no formal, written, preflight risk assessment process by which pilots
+or flight followers assessed actual risk associated with a particular flight route and
+weather conditions. Also, the company had no standard tour routes, and its pilots
+were able to change the routes at their discretion based on their in-flight assessment
+of the weather conditions.
+2.1.2 Joint Authority: Pilot-in-Command and Other Support
+Personnel
+Three accidents involved Part 135 operators whose pilots shared operational
+control (that is, the authority over initiating, conducting, or terminating a flight) with
+other support personnel. These accidents involved an air tour flight and two
+commuter flights.
+On June 25, 2015, an airplane operated as an air tour under VFR encountered
+instrument meteorological conditions (IMC) and crashed into mountainous terrain
+17 See NTSB case ANC18FA063 in appendix A for more information.
+10
+
+Aviation Investigation Report
+AIR-24-03
+near Ketchikan, Alaska, fatally injuring the pilot and the eight passengers.18 The
+company employed about 30 to 40 people and operated 11 airplanes, with
+9 airplanes based in Alaska and 2 in Florida. Employees included management
+personnel, nine seasonal pilots, and a few flight schedulers. Flight schedulers’ duties
+(as defined in the company’s general operating manual) included monitoring,
+assessing, and reassessing weather conditions and jointly agreeing with the pilot that
+the flight can be conducted safely.
+However, on the day of the accident, the flight scheduler on duty and the
+accident pilot did not discuss the weather conditions or an agreement about the
+safety of the flight. As a result, the decision to initiate the accident flight rested solely
+with the accident pilot, who had less than 2 months’ experience flying air tours in
+southeast Alaska and had previously demonstrated difficulty calibrating his own risk
+tolerance for conducting tour flights in weather that was marginal or below
+minimums.
+Our investigation found that the company had not provided sufficient training
+and supervision to ensure that the flight scheduler was qualified per 14 CFR 119.69
+and able to work effectively with the pilots to make safe and appropriate operational
+control decisions. We concluded that a flight scheduler with more in-depth
+operational control training might have played a more influential role in ensuring that
+flights conducted on the morning of the accident were safe for pilots to initiate and
+complete (NTSB 2017, 57).19
+On November 29, 2013, an airplane operated as a commuter flight under VFR
+encountered IMC at night and struck terrain about 1 mile from the destination airport
+in Saint Mary’s, Alaska.20 The pilot and three passengers were fatally injured, and six
+passengers were seriously injured. The company operated 56 airplanes and had
+12 bases throughout Alaska. Company employees included management personnel,
+about 130 pilots, and about 80 flight coordinators.
+Our investigation found that the company’s procedures for operational control
+and flight release and its training and oversight of operational control personnel were
+inadequate and contributed to the accident. For example, on the day of the accident,
+neither of the flight coordinators assigned to the accident flight discussed the flight
+18 See NTSB case ANC15MA041 (Report No. AAR-17/02) in appendix A for more information.
+19 As a result of our investigation, we issued nine recommendations to the FAA, including
+Safety Recommendation A-17-39, which recommended that the FAA establish minimum initial and
+recurrent training requirements for personnel authorized to exercise operational control. Safety
+Recommendation A-17-39 is classified Open—Unacceptable Response. See appendix B for more
+information.
+20 See NTSB case ANC14MA008 in appendix A for more information.
+11
+
+Aviation Investigation Report
+AIR-24-03
+risks with the accident pilot (as required by company procedures), and neither had
+received any company training on the risk assessment program. Further, a review of
+FAA surveillance records for the company revealed that FAA inspectors had
+repeatedly noted deficiencies with the company’s training, risk management, and
+operational control procedures (similar to the deficiencies identified in the NTSB’s
+accident investigation) but did not hold the operator sufficiently accountable for
+correcting them.
+Another airplane operated as a commuter flight under VFR encountered IMC
+and crashed near Juneau, Alaska, on July 17, 2015.21 The pilot was fatally injured, and
+the four passengers were seriously injured. The company operated 21 airplanes and
+had bases in Alaska, Oregon, Tennessee, and California. Company employees
+included management personnel, about 80 pilots, and about 7 flight coordinators.
+Our investigation found that, although company procedures required pilots
+and flight coordinators (whose duties and operational control authority were defined
+in the general operations manual) to jointly perform preflight planning and flight
+release, the company’s flight risk assessment form was not completed for the
+accident flight. Also, neither the accident pilot nor the flight coordinator checked the
+weather for the accident flight route, and the accident flight departed into weather
+conditions that were below VFR and would not enable the flight to be operated at an
+altitude in compliance with the Part 135 power-off glide distance requirements (for
+the part of the flight conducted over open water). Further, the company lacked a
+method for determining and documenting how its flight coordinators met the
+qualification requirements specified by 14 CFR 119.69.22
+2.1.3 Joint Authority: Pilot-in-Command and Operations Control
+Center
+Four accidents involved Part 135 operators that had operations control centers
+staffed with personnel authorized to exercise operational control. Three involved
+HAA flights, and one involved a commuter flight.23 None of the personnel who
+21 See NTSB case ANC15FA049 in appendix A for more information.
+22 Title 14 CFR 119.69(d) states that anyone in a position to exercise control over Part 135
+operations must be “qualified through training, experience, and expertise” and have a full
+understanding of applicable aviation safety standards, safe operating practices, company operations
+specifications, specified aircraft maintenance and airworthiness requirements, and company policies
+and procedures, as contained in the manual required by 14 CFR 135.21.
+23 Two of these accidents occurred before the HAA operations control center requirements
+took effect on April 22, 2016, and one occurred after.
+12
+
+Aviation Investigation Report
+AIR-24-03
+engaged in operational control decisions for any of the accident flights were
+certificated dispatchers.
+On August 26, 2011, a helicopter operated as an HAA lost engine power due
+to fuel exhaustion and crashed near Mosby, Missouri, fatally injuring the pilot, the
+flight nurse, the flight paramedic, and the patient.24 The company had about 4,000
+employees and operated 404 helicopters and 20 airplanes from 310 bases serving
+48 states. Flight support personnel included communication specialists based in
+Nebraska, and operations control center personnel (who were experienced
+emergency medical services pilots) based in Colorado.25
+Our investigation found that the pilot departed knowing that the helicopter did
+not have the required 20-minute fuel reserve on board. Although the pilot informed
+the communication specialist before takeoff that he did not have enough fuel to
+reach the hospital and requested help locating a nearby fueling location, company
+communications specialists were not qualified for or tasked with providing such
+operational guidance. Further, neither the communication specialist nor the accident
+pilot contacted a company manager or the operations control center (which met
+company qualifications for providing operational guidance) for guidance about the
+fuel situation (NTSB 2013).
+Our investigation determined that, if an operationally qualified individual had
+been involved in the predeparture decision-making process, such an individual
+would likely have asked the accident pilot how much fuel was aboard the helicopter,
+understood that there was insufficient fuel aboard to meet minimum fuel
+requirements, and proposed delaying or canceling the mission and having fuel
+brought to the helicopter. However, even if this had occurred, operations control
+center personnel did not share responsibility for “go/no go” decisions, which were
+solely the responsibility of the PIC.26
+Another HAA accident occurred on March 26, 2016, when the flight, which was
+operated under VFR, encountered night IMC and struck trees and terrain shortly after
+picking up a patient at a motor vehicle accident site near Enterprise, Alabama.27 The
+24 See NTSB case CEN11FA599 (Report No. AAR-13/02) in appendix A for more information.
+25 Communication specialists were tasked with notifying pilots of patient transport requests,
+entering flight plans, and coordinating patient transfers with the requesting agency and the receiving
+hospital. Operations control center staff received flight plan notifications, monitored aircraft position as
+flights progressed, and provided ongoing risk assessment, including weather advisories, as needed.
+26 As a result of our investigation, we reiterated Safety Recommendation A-06-14, which, at the
+time, was classified Open—Acceptable Response. See section 2.2 and appendix B for more
+information.
+27 See NTSB case ERA16FA140 in appendix A for more information.
+13
+
+Aviation Investigation Report
+AIR-24-03
+pilot, the flight nurse, and the patient were fatally injured. The company operated
+more than 130 helicopters out of 98 bases serving 18 states and had an operations
+control center in Louisiana. Operations control center personnel were responsible for
+confirming whether flights could be conducted safely, which included verifying that
+flights were conducted in accordance with the applicable VFR weather minimums.
+Before the flight departed to pick up the patient, the company’s operations
+control center personnel used a computer program to provide weather information
+to the pilot but failed to notice that the location coordinates for the destination were
+entered in an incorrect format. As a result, the system provided the weather
+information for an erroneous destination, showing visual meteorological conditions
+for that location when the weather at the actual destination was IMC. The flight would
+not have been cleared to depart if the correct weather information had been used.
+Although operations control center personnel became aware of the error after
+the helicopter departed, they did not alert the pilot about the IMC at the destination.
+Despite the adverse weather, the pilot successfully landed the helicopter at the
+destination and boarded the patient. However, because the weather conditions were
+below the company’s VFR minimums, the pilot should have canceled the return flight
+or at least contacted the operations control center personnel for updated weather
+information and guidance. Instead, the pilot chose to depart, and the helicopter
+crashed about 1 minute later. Our investigation found that the lack of flight
+monitoring by the operations control center personnel and overreliance on
+mission-support software and other automated aids resulted in a loss of operational
+control.
+A third HAA accident occurred on January 29, 2019, when the flight, which was
+operated under VFR, encountered IMC and crashed near Zaleski, Ohio, fatally
+injuring the pilot and the two medical personnel.28 The company employed 70 pilots
+and operated 16 helicopters and 1 airplane from 15 bases in 6 states and had an
+operations control center staffed by 12 operations control specialists at company
+headquarters in Arkansas. The duties of an operations control specialist included
+analyzing weather information to determine marginal and hazardous conditions for
+each flight and ensuring that the pilot completed the company’s risk assessment
+worksheet.
+Our investigation found that the company’s risk assessment form did not
+include such elements as en route weather risks or refusal of previous requests for a
+flight (known as weather turndowns) and that company personnel routinely failed to
+complete the assessment before flights. In addition, the operations control specialist
+who handled the accident flight understood some aspects of aviation weather
+28 See NTSB case CEN19FA072 (Report No. AAR-20/01) in appendix A for more information.
+14
+
+Aviation Investigation Report
+AIR-24-03
+planning but did not fully use the weather tool available for preflight and in-flight
+planning. Also, the company pilot who accepted the flight for the accident pilot spent
+only about 28 seconds reviewing the weather information.
+As a result, crucial meteorological risks for the accident flight, including the
+potential for snow, icing, and reduced visibility along the accident flight route, were
+not identified before the flight departed (NTSB 2020b, 32, 36, 47, and 49). Further,
+although the company had an operations control center (as required by
+14 CFR 135.619 for an HAA fleet of its size), the operations control specialists were
+not (and were not required to be) certificated dispatchers, did not share operational
+control authority with the pilots, and could not override a pilot’s decision to take a
+flight, even if hazards were identified.
+In another accident, an airplane operated as a commuter flight under VFR
+encountered IMC and crashed into mountainous terrain near Togiak, Alaska, on
+October 2, 2016.29 The two pilots and the passenger were fatally injured. The
+company operated 56 airplanes and employed about 120 pilots based at various
+airports throughout Alaska. The company had more than 6,000 flight routes and
+released about 55,000 flights (with an average of 2.5 destinations per flight) each
+year. More than two thirds of the company’s destinations did not have the
+infrastructure to support IFR operations.
+Our investigation determined that the operational control agent (who was
+jointly responsible with the PIC for preflight planning) performed the preflight risk
+assessment for the flight and initially recommended that the PIC conduct the flight on
+an IFR flight plan due to rain and clouds along the planned route. However, the agent
+subsequently agreed with the pilot that the flight could depart under VFR; as a result,
+the routing and altitudes of the VFR accident flight could be changed at the pilot’s
+discretion. The PIC chose a routing in which the flight encountered an area of
+deteriorating visibility while at altitudes below the elevation of the adjacent mountain
+peaks, and the airplane crashed in a manner consistent with controlled flight into
+terrain (NTSB 2018). If the flight had been operated under IFR, as the operational
+control agent originally suggested, the prescribed route altitudes would have
+provided adequate clearance above the terrain.30
+29 See NTSB case ANC17MA001 (Report No. AAR-18/02) in appendix A for more information.
+30 Our investigation also determined that, although the accident flight’s departure under VFR
+was consistent with regulations and company policy, the conservative approach that the operational
+control agent used when initially recommending an IFR flight should be encouraged. We concluded
+that incorporating the operational control agents into crew resource management training for flight
+crews would better facilitate teamwork during the risk assessment process and other communications
+with flight crews. We issued Safety Recommendation A-18-20 to recommend that the operator
+15
+
+Aviation Investigation Report
+AIR-24-03
+2.1.4 Flight Locating
+Two accidents involved flight-locating deficiencies such that each operator was
+unaware that its aircraft was missing until hours after the accident or upon notification
+by another entity. In one case, these deficiencies resulted in search and rescue delays
+that prolonged the survivor’s exposure to adverse environmental conditions.
+In the first accident, the operator of a charter flight helicopter involved in a
+March 27, 2021, accident near Palmer, Alaska, was unaware that the helicopter was
+missing until nearly 2 hours after it had crashed.31 The pilot and four passengers
+sustained fatal injuries, and the surviving passenger sustained severe frostbite injuries
+due to the prolonged exposure to subfreezing temperatures while waiting almost
+6 hours for help to arrive. The company operated 17 helicopters and employed
+management personnel and about 20 pilots, some of whom were seasonal.
+The operator had delegated responsibility for flight locating to a lodge that
+had contracted the flight for heli-ski passenger operations; however, this delegation
+was not documented in the operator’s operations specifications or general operating
+manual as required by Part 135. Further, lodge personnel who were monitoring the
+flight’s progress did not comply with their own emergency response plan after losing
+communication with the helicopter. Our investigation determined that the delayed
+notification of search and rescue organizations contributed to the severity of the
+surviving passenger’s injuries.
+The second accident involved an airplane cargo flight that crashed shortly after
+takeoff near Sioux Falls, South Dakota, on June 7, 2020, fatally injuring the pilot. The
+company, which had headquarters in Arkansas, operated 8 airplanes, and employed
+management personnel (including the director of operations, who was the accident
+pilot), about 12 to 14 pilots, and 3 flight followers.
+The accident occurred before dawn, and the flight follower who handled the
+accident flight was asleep at the time of the accident and unaware that the airplane
+had crashed until about 1 hour later when she received a phone call from the airport
+personnel who found the wreckage.32 Our investigation found that, during weekends,
+the company flight follower performed the task as a 24-hour “on call” duty from home
+implement such training; however, we classified this recommendation Closed—No Longer Applicable
+on August 23, 2022, after the company ceased operations.
+31 See NTSB case WPR21FA143 in appendix A for more information.
+32 See the Operations/Human Performance Specialist’s Report in the docket for NTSB case
+CEN20LA215 for more information. The flight follower had also been asleep during the pilot’s
+previous flight leg and had been unaware that the pilot had diverted to Sioux Falls until awakened by a
+call from someone at the original destination inquiring about the flight.
+16
+
+Aviation Investigation Report
+AIR-24-03
+and was often asleep while the night flights were airborne. The flight follower would
+either set an alarm or wait for pilots to call her when their aircraft were inbound. The
+flight follower had received initial training for that position about 25 years before the
+accident with no recurrent training thereafter.
+2.2 Safety Recommendation History
+Since 2011, the NTSB has issued several safety recommendations related to
+improving the training and procedures for operational control personnel in various
+segments of Part 135. However, the FAA has repeatedly expressed reluctance to
+impose any such requirements.
+For example, in response to NTSB Safety Recommendation A-11-41, which
+recommended (in part) standardized training and procedures for Part 135 personnel
+involved in certain flight-following or dispatch-related functions, the FAA stated on
+September 22, 2011, that it did not plan to require Part 135 operators to have an
+FAA-approved dispatcher program or flight-following system.33 On September 14,
+2015, the FAA also expressed concerns about the cost of such a program to the
+operators, noting that some Part 135 certificate holders operate only one aircraft.
+Also, as a result of our investigation of the 2015 accident in Ketchikan, we
+issued Safety Recommendation A-17-39, which asked the FAA to establish minimum
+initial and recurrent training requirements for personnel authorized to exercise
+operational control; however, on March 8, 2022, the FAA informed us that it was not
+planning to introduce rulemaking to establish training requirements for operational
+control personnel.34 Later that year, the FAA provided a similar response to Safety
+Recommendation A-22-14, which recommended that air tour operators (operating
+33 Safety Recommendation A-11-41 asked the FAA to improve pilot, dispatcher, and
+flight-follower training and procedures to address the dangers of flight operations in freezing
+precipitation for all Part 121, Part 135, and Part 91 subpart K operators. We classified this
+recommendation Closed—Unacceptable Action on December 8, 2015. See appendix B for more
+information.
+34 We classified Safety Recommendation A-17-39 Closed—Unacceptable Action on May 23,
+2024. In addition, Safety Recommendation A-17-40, which asked the FAA to publish guidance for
+operational control best practices, is classified Open—Unacceptable Response. Also, we classified
+Safety Recommendation A-17-41, which asked the FAA to develop guidance for FAA inspector
+oversight of operational control training program subject areas, including, but not limited to, the
+criteria for a qualification module, Closed—Unacceptable Action on May 23, 2024. See appendix B for
+more information.
+17
+
+Aviation Investigation Report
+AIR-24-03
+under either Part 135 or Part 91) be required to have flight support personnel who
+are trained to exercise operational control authority.35
+Further, although the FAA issued a final rule in 2014 that established the
+operations control center requirement for HAA operators with 10 or more helicopters
+(effective April 22, 2016), the requirement did not fully address Safety
+Recommendation A-06-14, as we had intended.36 We had previously informed the
+FAA in 2011 (after it issued a notice of proposed rulemaking [NPRM]) that HAA
+operators with a fleet size fewer than 10, if omitted from the final rule, would transport
+about 100,000 patients or more per year without the benefit of an operations control
+center (NTSB 2011, 3).37 We also informed the FAA that, given the level of
+responsibility assigned to operational control personnel, we believed that each
+operations control specialist “should be required to earn FAA certification” because
+“an FAA certificate will ensure that the FAA has oversight over training, testing, and
+certification, which is key, from the NTSB’s perspective, to ensuring quality control”
+(NTSB 2011, 4).
+However, as reflected in the final rule, the FAA chose to keep the fleet size
+criteria at 10 or more helicopters and did not include certification requirements for
+operations control specialists. Although the HAA operations control center
+requirements and guidance that the FAA implemented represented a marked safety
+improvement for mitigating hazards and preventing accidents, the HAA accident in
+Zaleski, Ohio (which occurred after those actions were taken), highlighted the
+continued deficiencies that can persist when operations control specialists are not
+required to be certificated dispatchers.38 We continue to believe that the safety of all
+35 Safety Recommendation A-22-14, which we issued as a result of our investigation of 2019
+accident involving an air tour helicopter in Hawaii, is classified Open-Unacceptable Response. See
+appendix B for more information.
+36 We classified Safety Recommendation A-06-14 Closed—Acceptable Alternate Action on
+September 11, 2014. See appendix B for more information.
+37 We provided this estimate in our January 10, 2011, comments on the FAA’s
+October 12, 2010, NPRM, “Air Ambulance and Commercial Helicopter Operations, Part 91 Helicopter
+Operations, and Part 135 Aircraft Operations; Safety Initiatives and Miscellaneous Amendments”
+(FAA 2010b). Our estimate was based on HAA fleet data provided by the FAA and 2007 HAA activity
+data provided in testimony during our 2009 hearing on HAA safety. According to FAA data, as of
+February 2009, most HAA operators had fewer than 10 helicopters in their fleet (50 of the 74
+operators) and operated 30% of the helicopters dedicated to HAA at that time (264 of 884
+helicopters). In our comments on the NPRM, we noted that testimony from our hearing indicated that,
+in 2007, each HAA flew annually, on average, 580 hours and transported 420 patients (NTSB 2011, 3).
+38 Improvements introduced in the final rule included requirements for operations control
+center specialists to receive initial and recurrent training on specified topics and to perform defined
+minimum duties, per 14 CFR 135.619.
+18
+
+Aviation Investigation Report
+AIR-24-03
+HAA operations, regardless of operator fleet size, would be enhanced through the
+use of certificated dispatchers.
+The operational control deficiencies identified in the accident investigations
+discussed in section 2.1 of this report (related to Part 135 operators’ preflight
+weather, route, and fuel planning; training for operational control personnel; or
+flight-locating procedures that either contributed to the circumstances of the accident
+or delayed the initiation of search and rescue operations) could all be addressed
+using certificated dispatchers.
+We note that most of the described accidents involved pilots’ improper
+decision-making concerning weather-related hazards and that the requirements for
+dispatcher certification include knowledge testing on a variety of meteorology topics
+that are more extensive than those specified for airline transport pilot and
+commercial pilot certification.39 We believe that the defined operational control
+responsibilities and the standardized certification criteria, initial and recurrent
+training, and competency checks required of certificated dispatchers can help ensure
+that dispatchers, as part of their joint responsibility for the safety of the flight,
+effectively support pilots with their preflight and in-flight decision-making, including
+recognizing and avoiding high-risk situations.
+Although we believe that a requirement for certificated dispatchers would
+enhance the safety of all Part 135 operations, we recognize that requiring certificated
+dispatchers for operators of the most limited size and scope, such as the holders of
+single-pilot and single-PIC operator certificates, may not be feasible or practical. For
+these operators, implementing an SMS scaled to their operations may be a practical
+approach for reducing risks associated with initiating, conducting, or terminating a
+flight. (See section 4.1 for more information.)
+The NTSB concludes that the safety of Part 135 operations would be enhanced
+by the required use of certificated dispatchers, which would allow for improved
+quality control over the functions such as preflight weather, fuel, and route planning;
+active monitoring of in-flight aircraft position and conditions along the route of flight;
+and timely notification of emergency response organizations if an aircraft becomes
+overdue. The NTSB further concludes that requiring joint operational control
+responsibility between a certificated dispatcher and a PIC can minimize the likelihood
+of a single-point failure that could affect the safety of Part 135 operations.
+39 The training, knowledge, and skills requirements for dispatchers specified in 14 CFR 65.55,
+65.59, and 65.61 include testing on all meteorology topics listed in Part 65, appendix A. The
+meteorology topics specified for airline transport and commercial pilots in 14 CFR 61.156 and 61.125,
+respectively, are much more general.
+19
+
+Aviation Investigation Report
+AIR-24-03
+Therefore, the NTSB recommends that the FAA require all Part 135 operators,
+except single-pilot and single-PIC operators, to use certificated dispatchers who hold
+joint responsibility with the PIC for the safety and operational control of flights and
+whose responsibilities include preflight planning; flight dispatch, release, and
+cancellation decisions; and flight monitoring, consistent with the requirements for
+14 CFR Part 121 domestic and flag operations.
+20
+
+Aviation Investigation Report
+AIR-24-03
+3. Aircraft Weight and Balance Issues
+Title 14 CFR 135.63(c) requires Part 135 operators of multiengine aircraft to
+prepare a load manifest for each flight, which includes computing an accurate weight
+and balance for the aircraft and preserving the documentation onboard the aircraft
+during the flight and for at least 30 days after. Although the NTSB previously issued
+three safety recommendations to the FAA (beginning in 1989) to require manifests
+and recordkeeping for single-engine aircraft operated under Part 135, the FAA has
+repeatedly declined to take the recommended action. (These recommendations and
+the FAA’s responses are discussed in section 3.2.)
+Since issuing our most recent recommendation on this topic in 2015, we have
+investigated four additional single-engine airplane accidents involving Part 135
+operators that highlighted aircraft weight and balance concerns.40 These accidents,
+which collectively exposed 21 persons to unsafe conditions, resulted in 1 fatality and
+6 serious injuries. Although the identified weight and balance issues were not causal
+or contributing in all the accidents, we are concerned that these repeated examples
+suggest persistent, systemic operational pressures or deficiencies that neither the
+operators nor the FAA have adequately identified and mitigated for the operation of
+single-engine aircraft carrying persons and cargo for hire.
+3.1 Related Accidents
+One accident occurred on July 18, 2018, near Willow, Alaska, when a
+single-engine, float-equipped airplane operated as an on-demand flight entered an
+aerodynamic stall and crashed shortly after takeoff from a lake; the pilot sustained
+fatal injuries, and the two passengers (an adult and child) sustained serious injuries.41
+Before the pilot departed from the company base to pick up the passengers
+and cargo, the director of operations reviewed the route and fuel load with the pilot,
+and the company vice president told the pilot that the passenger said the cargo
+weight would be 600 lbs. However, after the pilot arrived at the lake to pick up the
+passengers and load the cargo, the actual cargo consisted of 800 lbs of masonry
+mortar bags, three totes full of food and stores, two propane tanks, a utility sink, and
+miscellaneous bags and supplies. Postaccident weight and balance calculations
+40 Although the accident that supported our 2015 safety recommendation occurred within the
+date range of accidents reviewed for this special investigation report, we discuss this accident
+separately in section 3.2 in the context of our safety recommendation history.
+41 See NTSB case ANC18FA055 in appendix A for more information.
+21
+
+Aviation Investigation Report
+AIR-24-03
+estimated that the airplane was loaded about 76 lbs over the maximum gross takeoff
+weight with a center of gravity (CG) aft of the rear limit.
+Two witnesses who helped push the airplane off the shore after loading
+reported that the airplane appeared very aft-heavy and that the pilot told them he
+would offload some of the cargo if he could not take off. A review of witnesses’ videos
+and statements revealed that the pilot’s first takeoff attempt was unsuccessful and
+that, when he taxied the airplane back across the lake, the floats’ aft ends were deep
+under the water; however, the pilot did not offload any cargo. During the pilot’s
+second takeoff attempt, the airplane slowly lifted off, attained a nose-high attitude,
+and cleared the trees at the end of the lake before it turned left, rolled left, and
+crashed. Our investigation determined that, although the airplane was able to lift off,
+its out-of-limit weight-and-balance condition increased its stall speed and degraded
+its climb performance, stability, and slow-flight characteristics.
+Another accident occurred on May 24, 2022, when a single-engine,
+turbine-powered airplane operated as an on-demand flight entered an aerodynamic
+stall and crashed while on final approach to an airport near Yakutat, Alaska; the pilot
+and the three passengers sustained serious injuries.42 According to the pilot, during
+the takeoff roll, he noticed that he had to apply an unusual amount of forward
+elevator control input to raise the airplane’s tail; the pilot also applied additional
+nose-down trim and departed without incident. En route, the pilot noticed that the tail
+of the airplane seemed to move up and down, and he attributed this to turbulence.
+Later, while the pilot was slowing and configuring the airplane during the approach at
+the destination airport, the airplane exhibited nose-up pitch behavior such that the
+pilot first applied full nose-down trim and eventually full nose-down elevator control
+input to try to counter it.
+Our investigation determined that the airplane’s loading exceeded its aft CG
+limit such that the airplane’s elevator control authority was insufficient to overcome
+the nose-up pitching moment generated by the loading and the aircraft
+configuration, and the airplane entered an aerodynamic stall. Further, although the
+company’s operations specifications contained aircraft loading procedures that
+addressed determining weight and balance for its single-engine aircraft, the accident
+flight was not conducted in compliance with these procedures.
+A third accident occurred on August 16, 2021, when a single-engine,
+turbine-powered airplane operated as a commuter flight sustained substantial
+damage following an in-flight loss of control due to an accumulation of airframe icing
+42 See NTSB case ANC22LA035 in appendix A for more information.
+22
+
+Aviation Investigation Report
+AIR-24-03
+near Fairbanks, Alaska; the pilot and the eight passengers were not injured.43 Our
+investigation determined that, among several factors that contributed to the accident,
+the airplane’s loading exceeded the maximum weight limit by about 300 lbs and the
+maximum weight limit for flight in known icing conditions by about 800 lbs. The
+company’s operations specifications did not require pilots of its single-engine aircraft
+to document any weight and balance calculations. We believe that, had the pilot
+been required to record such calculations, she may have been more aware of the
+airplane’s limitations and its overweight condition.
+Another accident occurred August 5, 2020, when the pilot of a single-engine
+airplane operated as an on-demand flight lost directional control of the airplane
+during landing in Kenai, Alaska, resulting in a ground loop. 44 The pilot and the four
+passengers—one of whom occupied the rear baggage compartment with multiple
+bags and without a seat—were not injured. Our investigation determined that the
+airplane was loaded with an aft CG, which increased its directional instability during
+the landing roll and adversely affected the pilot’s ability to maintain directional
+control.
+3.2 Safety Recommendation History
+Since 1989, the NTSB has issued three safety recommendations to the FAA to
+expand the recordkeeping requirements of 14 CFR 135.63(c) (which applies only to
+multiengine aircraft) to include single-engine aircraft. These recommendations, which
+were issued in 1989, 1999, and 2015, were based on our investigations of fatal
+accidents relevant to this safety issue area; however, the FAA repeatedly declined to
+take responsive action.45
+The FAA’s April 5, 1990, response to our first recommendation (Safety
+Recommendation A-89-135) disagreed with our belief that manifest and
+recordkeeping requirements would provide an incentive for operators to conduct
+accurate weight and balance calculations and enable more effective FAA surveillance
+of single-engine aircraft loading operations.46 The FAA noted that all operators were
+already required to determine before takeoff that the aircraft is within its specified
+43 See NTSB case ANC21LA073 in appendix A for more information.
+44 See NTSB case ANC20LA077 in appendix A for more information.
+45 We classified Safety Recommendations A-89-135, A-99-61, and A-15-29
+Closed—Unacceptable Action on July 2, 1990; September 11, 2014; and May 18, 2021; respectively.
+See appendix B for more information.
+46 Our December 7, 1989, recommendation letter referenced 43 accidents since 1967 that
+involved Part 135 operations of single-engine aircraft for which our investigations determined that the
+weight and balance condition of the aircraft was causal or a contributing factor.
+23
+
+Aviation Investigation Report
+AIR-24-03
+weight and balance limitations (as required by 14 CFR 91.9[a]); all pilots received
+required training on the principles and methods for determining aircraft weight and
+balance; and (then-current) AC 120-27B, “Aircraft Weight and Balance Control,”
+included additional guidance for Part 135 operators.47 The FAA concluded that
+single-engine aircraft manifest and recordkeeping requirements were not “warranted
+based on safety considerations” and “would not enhance the effectiveness or the
+efficiency of Part 135 weight and balance programs.”
+However, the FAA’s view of the potential safety benefits changed after we
+issued our second recommendation (Safety Recommendation A-99-61). In its initial
+responses in 2000 and 2003, the FAA stated that it agreed with the intent of the
+recommendation and intended to consider rulemaking. As part of our rationale for
+again recommending manifest and recordkeeping requirements, we informed the
+FAA on February 8, 2000, that, since 14 CFR 135.63(c) became effective in 1978, “the
+weight and loading characteristics of single-engine aircraft have changed to include a
+turbine-powered fleet with larger cabin volume and cargo load zones.” We noted, for
+example, that the single-engine airplane model involved in the fatal accident
+referenced in our recommendation letter could “exceed its certificated gross weight
+and cg limit with full fuel tanks and either a full complement of passengers or cargo
+load zones filled to the maximum capacity.”48
+In its October 12, 2010, NPRM, the FAA proposed revising the requirements of
+14 CFR 135.63(c) to apply to all aircraft operated under Part 135 and to allow for the
+electronic transmission of manifest copies (FAA 2010b, 62660). The FAA stated that:
+In the past, multiengine airplanes were the predominant means of
+transportation under Part 135. Recently, single-engine passenger
+carrying aircraft have increased in size and capacity and, therefore their
+use in on-demand operations has increased…. The FAA finds that all
+operators carrying passengers for hire must generate a manifest,
+regardless of the type of aircraft operated…. In addition, the FAA is
+proposing to eliminate the requirement that the load manifest be
+prepared in duplicate for certificate holders who elect to electronically
+47 Advisory Circular 120-27F (the current version of the advisory circular, issued in 2019)
+includes guidance for developing a loading schedule, which “is used to document compliance with
+the certificated [weight and balance] limitations” contained in the applicable airplane or rotorcraft
+flight manual. The advisory circular states that a loading schedule “can provide more loading flexibility
+by requiring more detailed inputs, or it can be made easier to us by adjusting the operational limits to
+account for the uncertainty caused by the less detailed inputs…. Several types of loading schedules
+are commonly used, including computer programs as well as ‘paper’ schedules” (FAA 2019a, 2-4 and
+2-5).
+48 See NTSB case DCA98MA002 in appendix A for more information.
+24
+
+Aviation Investigation Report
+AIR-24-03
+transmit the information…to their operations base before takeoff (FAA
+2010b, 62660-1).
+In the NPRM, the FAA stated that “the safety of commercial air operations
+could be enhanced by requiring a load manifest for all Part 135 operations and [that
+it] is proposing to amend its rules accordingly.” However, when the FAA issued the
+final rule on February 21, 2014, it did not include the proposed load manifest and
+recordkeeping requirements.
+In the FAA’s regulatory evaluation for the final rule, the FAA stated that it
+withdrew the proposed requirement based on its additional review of the NPRM and
+comments from industry stakeholders that expressed concerns about the cost,
+justification, and operational impact of the proposed requirement (FAA 2014a, 51—
+52). When the FAA prepared the NPRM, its cost estimates were based on the value of
+5 minutes of a pilot’s time per flight to prepare the proposed manifest, and the
+benefits were based on the statistical value of fatalities, injuries, and aircraft hull
+losses that may be averted by the implementation of the proposed rule. We note that,
+generally, the FAA determined that the then-present value of the 10-year costs
+associated with the requirement were about quadruple the value of the benefits.49
+The FAA’s final regulatory evaluation determined that the proposed requirement did
+not have sufficient benefits to be included in the final rule (FAA 2014a, 85).50
+The following year, as a result of our investigation of yet another fatal accident
+that was caused by a Part 135 operator’s improper loading and operation of a
+single-engine airplane, we issued our third recommendation (Safety
+Recommendation A-15-29); in this accident, 10 people lost their lives.51 In the FAA’s
+October 30, 2015, initial response to us, it repeated its cost-benefit concerns and its
+49 According to the FAA’s regulatory evaluation for the NPRM, the costs represented the value
+of 5 minutes of a pilot’s time per takeoff to prepare the proposed manifest (using a presumed value for
+a single-engine pilot’s salary) and assumed an average of three takeoffs daily for a commercial
+single-engine fleet total of 3,860 aircraft. The FAA calculated that the total cost over 10 years would be
+$134 million, or $82 million present value (year 2009). The FAA’s benefits estimate represented the
+statistical value of fatalities and injuries that may be averted by implementation of the proposed rule
+and included the application of an assumed effectiveness value. The FAA’s benefits estimate was
+based on seven weight and balance-related accidents that occurred from 1997 through 2009 and
+resulted in 11 fatalities and 10 minor injuries. The FAA calculated that the present value (year 2009)
+benefits over 10 years would be about $20 million (FAA 2010a, 30–32; FAA 2010b, 62660).
+50 The FAA’s regulatory evaluation for the final rule did not provide an updated cost-benefit
+analysis for the load manifest provision.
+51 See NTSB case DCA13MA121 in appendix A for more information.
+25
+
+Aviation Investigation Report
+AIR-24-03
+belief in the adequacy of existing regulations, pilot training, and pilot testing.52
+However, the FAA also indicated that it would review its safety assurance system
+(SAS) data collection tools to determine whether the tools adequately assess Part 135
+operators’ single-engine weight and balance procedures, training, and checking.53
+In 2020, the FAA completed its review, identified no systemic issues with
+Part 135 operators’ single-engine weight and balance procedures, and planned no
+regulatory action. On October 7, 2020, the FAA informed us that the applicable SAS
+tools required FAA inspectors to conduct comprehensive assessments of operators’
+weight and balance calculations, policies, procedures, controls, monitoring,
+evaluating, and correcting of deficiencies and that these assessments allowed
+inspectors to recognize areas of risk and provided operators the opportunity to
+mitigate those risks. The FAA stated that it believed these assessments presented an
+equal, more immediate, and positive impact on safety than a load manifest and
+recordkeeping requirement for single-engine aircraft operations.
+We recognize the value of the FAA’s system safety approach to oversight of
+operators’ weight and balance practices; however, we believe its effectiveness in
+detecting and correcting deficiencies—for both operators and inspectors—would be
+enhanced by the availability of current and past load manifests. Currently, although
+14 CFR 91.9(a) requires all operators to comply with an aircraft’s weight and balance
+limitations, they are not required to document the input data (such as passenger and
+cargo weights and locations) and resulting weight and CG indicating that the aircraft
+was loaded in compliance with the limitations. We believe that requirements for such
+documentation would not only help pilots detect unsafe loading conditions and
+correct them before takeoff but also provide operators and inspectors the
+information needed to support proactive, comprehensive assessments to identify any
+related operational risk areas—including factors that may influence intentional
+misloading—and mitigate them before an accident occurs.
+Further, we reviewed the public comments the FAA received on the 2010
+NPRM and found that, at the time, many commenters who objected to the proposed
+rule “as written” indicated that they were not opposed to requiring single-engine
+52 Specifically, the FAA referenced 14 CFR 135.23(b), which requires operators to have
+procedures for ensuring compliance with aircraft weight and balance limitations, and 14 CFR 135.293,
+which requires initial and recurrent pilot testing on determining compliance with aircraft weight and
+balance limitations for each type of aircraft the pilot flies.
+53 SAS is the FAA’s oversight tool that includes the policy, processes, and software for
+performing certification, surveillance, and continued operational safety. SAS was developed to support
+the evolution of a system safety approach to a single oversight system; build connections between
+policy content and purpose; allow for the use of consistent, risk-based, and data-supported
+approaches; provide tools for collecting recording, and analyzing data; and allow inspectors to be
+more effective in their role by focusing their work on the highest area of risk (FAA 2023i).
+26
+
+Aviation Investigation Report
+AIR-24-03
+aircraft operators to calculate weight and balance before each flight. Most
+commenters who objected to the proposed requirement cited two primary concerns:
+1) the perception that the manifests would require them to include the passengers’
+names, and 2) the operational feasibility of electronically transmitting manifests from
+remote locations with no cellular or satellite coverage.54
+However, we note that the manifest provisions of 14 CFR 135.63(c) do not
+require passenger names and that the NPRM stated that “the proposal would not
+change the required content of the load manifest” (FAA 2010b, 62661). We note that,
+beyond the information that operators would already use when determining
+compliance with an aircraft’s weight and balance limitations in accordance with
+14 CFR 91.9(a), the load manifest requirement would add only origin, destination,
+and crew name and position information.
+The NTSB also notes that, in the 14 years since the NPRM was issued, simple,
+web-based weight and balance applications for use on personal electronic devices
+have become common; these applications can collect, compute, and store such
+information then send it as soon as connectivity is available, making the preparation,
+submission, and 30-day retention of manifests more feasible today than when the
+FAA first considered the requirement.55 The FAA has acknowledged that the safety of
+commercial air operations could be enhanced by requiring a load manifest for all
+aircraft operated under Part 135 operations. We believe that excluding single-engine
+aircraft operations from this requirement unjustifiably applies a different level of
+safety to these operations.
+Thus, the NTSB concludes that manifest and recordkeeping requirements for
+all aircraft that are operated under Part 135 would not only help pilots detect and
+correct unsafe loading conditions but also provide operators and inspectors the
+54 The NPRM included a statement that, “in the event of an emergency, the operator must be
+able to account for aircraft occupants and, in the case of a fatal or serious accident, contact next of kin”
+(FAA 2010b, 62660). The public docket for the NPRM contained concerns from many commenters who
+interpreted this statement to mean that the proposed rule would require passenger names on the
+manifests. Most of these commenters worked for HAA operators and noted that, during emergency
+transports, they often did not know the name of a patient, and, even if they did, federal patient privacy
+regulations would preclude transmitting it through discoverable means. Several other commenters
+worked for a commercial operator that provided passenger service in remote locations and noted that
+their customers were in a hurry and did not want to stand around in harsh weather conditions waiting
+for them to fill out paperwork; these commenters stated that preparing a load manifest would need to
+be kept simple and manageable by a single-pilot crew.
+55 Customizable, aircraft-specific weight and balance calculation profiles are provided with
+some popular web-based, flight-planning software and related mobile applications for personal
+electronic devices. For pilots that use only paper forms, the features of even the most basic personal
+electronic devices have improved such that most can capture a scan or image of a completed form
+and send it when connectivity is available.
+27
+
+Aviation Investigation Report
+AIR-24-03
+information needed to support proactive, comprehensive assessments to identify any
+related operational risk areas that may influence improper aircraft loading and
+mitigate them before an accident occurs. Therefore, the NTSB recommends that the
+FAA expand the applicability of the load manifest and recordkeeping requirements
+of 14 CFR 135.63(c) to include Part 135 single-engine aircraft operations.
+28
+
+Aviation Investigation Report
+AIR-24-03
+4. Organizational Risk Management Strategies
+The NTSB has long believed that the safety of commercial aviation can be
+improved using strategies that enable operators to proactively address in a
+nonpunitive way underlying organizational issues before they result in accidents. One
+such process is an SMS, which is the formal, top-down, organization-wide approach
+to managing safety risk and assuring the effectiveness of safety risk controls.56 SMS
+incorporates proactive safety methods for operators to identify hazards, mitigate risk,
+and monitor the extent to which they are meeting their objectives.
+Further, the effectiveness of the safety assurance component of SMS can be
+enhanced through safety performance monitoring and measurement tools, such as
+an FDM program. FDM involves the recording and analysis of flight-related data to
+provide vital information regarding trends in operational deviations that may
+adversely affect safety during flights. These objective data can help operators
+develop mitigations, such as improvements in training and procedures, to address
+such deviations before they lead to an accident.57
+SMS for Part 121 operations has been required since 2018, following a long
+history of both international and domestic support, including a 2007 NTSB safety
+recommendation.58 In 2016, we issued three recommendations to the FAA regarding
+requiring SMS and FDM equipment and programs for Part 135, and, in 2022, we
+56 The goal of an SMS is to identify safety hazards, ensure necessary remedial action is
+implemented to maintain an acceptable level of safety, provide continuous monitoring and regular
+assessment of the safety level achieved, and continuously improve an organization’s overall level of
+safety. The four main components of an SMS are 1) safety policy, which establishes senior
+management’s commitment to continually improve safety; 2) safety risk management, which
+determines the need for new or revised risk controls; 3) safety assurance, which evaluates the
+effectiveness of implemented risk control strategies; and 4) safety promotion, which includes training,
+communications, and other actions to create a positive safety culture (FAA 2015b).
+57 An FDM program typically involves the use of an onboard device that can record various
+flight parameters installed on each aircraft in an operator’s fleet. Periodic review of the recorded data
+enables an operator to identify operational exceedances, deviations from company procedures, and
+other potential safety issues and then explore—in a nonpunitive way—the reasons why these events
+occurred and what can be done to avoid them in the future.
+58 In 2006, the International Civil Aviation Organization established a standard for mandatory
+implementation of SMS, requesting member compliance by 2009. In 2007, the NTSB issued Safety
+Recommendation A-07-10, which asked the FAA to require SMS for Part 121, and, in 2010, Congress
+directed the FAA to issued proposed rulemaking (NTSB 2007, 65; FAA 2015a, 1308). When the FAA
+issued its final rule in 2015 to require SMS for Part 121 (allowing operators until March 9, 2018, to
+develop and implement their programs), it established a uniform standard that could be extended to
+apply to Part 135 certificate holders, but it did not require SMS for Part 135 (FAA 2015a, 1313). We
+classified Safety Recommendation A-07-10 Closed—Acceptable Action on December 1, 2015. See
+appendix B for more information.
+29
+
+Aviation Investigation Report
+AIR-24-03
+issued one recommendation to the FAA to develop guidance for small operators for
+scaling an SMS. The following sections discuss these open safety recommendations
+to the FAA.
+4.1 Safety Management System
+The NTSB has long advocated that the FAA require various Part 135 operations
+to implement an SMS, having issued the first associated safety recommendation,
+which applied to HAA operators, in 2009.59 Subsequently, as a result of our
+investigation into the 2015 crash of a Part 135 on-demand charter flight in which all
+nine persons on board sustained fatal injuries, we recommended that the FAA
+expand the applicability of SMS requirements, as follows:
+Require all 14 Code of Federal Regulations Part 135 operators to
+establish safety management system programs. (A-16-36)[60]
+In the 7 years since we issued this recommendation, we reiterated it in the final
+reports of seven fatal accidents involving Part 135 operators that resulted in
+39 fatalities and 9 serious injuries.61 Most of these accidents were also on the FAA’s
+list of 35 serious- and fatal-injury accidents involving Part 135 operators from 2015 to
+2019 that the FAA determined could have been mitigated through the
+implementation of SMS (FAA 2023a, 1936).62
+In addition to engaging in ongoing discussions with the FAA regarding the
+importance of an SMS requirement for Part 135 operations, the NTSB conducted
+outreach to increase industrywide awareness. On March 2, 2020, we hosted a panel
+59 Although the FAA published a final rule in 2014 that required HAA operators to implement
+tools and procedures that the FAA believed contained elements of an effective SMS, the rule did not
+require the complete SMS that we recommended. We classified Safety Recommendation A-09-89
+Closed—Unacceptable Action on September 11, 2014. See appendix B for more information.
+60 See NTSB case CEN16MA036 in appendix A. We classified Safety Recommendation A-16-36
+Open—Acceptable Response on October 2, 2023. See appendix B for more information.
+61 See NTSB cases ANC15MA041, ANC17MA001, CEN17MA183, CEN19FA072,
+DCA20MA059, CEN19MA141, and ANC20MA010 in appendix A for more information.
+62 The FAA’s regulatory impact assessment for the proposed rule provided its evaluation of
+how SMS would have mitigated each accident, which included 23 fatal accidents (NTSB cases
+ANC15FA049, CEN16MA036, ANC15MA041, ANC16FA017, ANC17MA001, ANC18FA055,
+ANC18FA063, CEN18FA215, CEN19FA072, DCA17FA109, CEN15FA171, WPR16FA037,
+ERA17FA066, ERA16FA215, CEN18FA033, ANC17FA039, ERA17FA195, ANC17FA021, CEN17FA168,
+CEN17FA100, ERA18FA264, CEN18FA386, ANC18FA045, ANC18LA027) and 11 nonfatal accidents
+(NTSB cases CEN15LA288, WPR15LA198, ANC15LA033, WPR16LA189, CEN16LA386, CEN16FA372,
+ANC16LA012, ANC17TA015, ANC18FA053, CEN18FA259, and ANC18LA046) (FAA 2022c, 47 and
+54-62). Select cases from this list are summarized in appendix A.
+30
+
+Aviation Investigation Report
+AIR-24-03
+of representatives from various-sized Part 135 operators to discuss improving the
+safety of the industry, and panel participants shared their perspectives on SMS.63 On
+May 11, 2023, we hosted a webinar that included a roundtable discussion with
+several small and midsized operators to explore how they implemented an SMS, the
+challenges they overcame, and the safety and economic benefits they were seeing
+(NTSB 2023b).
+On January 11, 2023, the FAA issued an NPRM proposing to require an SMS
+for all Part 135 certificate holders (FAA 2023a, 1932). In our March 10, 2023,
+comments on the NPRM, we stated that we strongly supported the proposed
+expansion of SMS requirements to include Part 135 operations and noted that our
+investigations have consistently shown the need for aviation service providers to
+implement an SMS to ensure its benefits to the industry and the public are realized
+(NTSB 2023a, 3–4).
+On April 26, 2024, the FAA issued its final rule to require all Part 135 operators
+to have an SMS, which is responsive to our recommendation. Thus, the NTSB
+concludes that the FAA’s SMS final rule, which requires all Part 135 operators to
+incorporate formal system safety methods into their internal oversight programs, will
+help these operators proactively identify and mitigate risks to prevent accidents.
+Therefore, the NTSB classifies Safety Recommendation A-16-36 Closed—Acceptable
+Action in this report.
+The FAA has noted that, by design, SMS is scalable to allow the integration of
+safety management practices into a unique business model for operators of any size
+(FAA 2015b, 21–46). However, during our investigation of the 2019 accident involving
+the air tour helicopter that encountered IMC and crashed in Kekaha, Hawaii, fatally
+injuring seven people, we found that the operator’s president (who was also the
+director of operations) mistakenly believed that the operation was too small to
+maintain an SMS (NTSB 2022a, 73). As a result of our investigation and to help ensure
+that small operators can successfully implement SMS, we recommended that the FAA
+do the following:
+Develop guidance for small operators for scaling a safety management
+system that includes methods and techniques for implementation and
+63 The discussions included participant experiences with gaining organization-wide employee
+engagement in and ownership of the program, continuously improving safety reporting and risk
+management processes, and cultivating a just safety culture (NTSB 2020a).
+31
+
+Aviation Investigation Report
+AIR-24-03
+specific examples applicable to several operational sectors, including air
+tours. (A-22-15)[64]
+In its 2023 NPRM, the FAA acknowledged that smaller operators (because they
+have fewer people) have fewer opportunities for checks and balances on decisions
+that can affect safety and that SMS can help mitigate this by creating a structure for
+proactively monitoring decision-making processes and addressing deficiencies.65 The
+FAA stated that, with SMS, “a one-person operator would have a system for
+documenting their own hazard information, actions, mitigations, safety performance,
+etc., for future reference” (FAA 2023a, 1940).
+The FAA has also acknowledged that implementing an SMS could help
+single-pilot and single-PIC operators identify and mitigate such issues as operational
+control deficiencies (FAA 2023a, 1953–4; FAA 2016b, 3). We believe this is an
+important observation because, as described in section 1, nearly one-third of Part 135
+certificate holders are single-pilot or single-PIC operators. Further, as discussed in
+section 2.2, although we believe that a certificated dispatcher could enhance the
+safety of all Part 135 operations, we are aware that hiring additional personnel may
+not be practical for single-pilot and single-PIC operators due to their limited size and
+scope. Thus, the NTSB concludes that, for Part 135 operators of limited size and
+scope for which the hiring of a certificated dispatcher may not be practical (such as
+single-pilot and single-PIC operators), implementation of an appropriately scaled
+SMS that includes planning tools to analyze and assess the inherent risks in
+operations can help in the development of effective operational control strategies,
+including methods for ensuring adequate preflight weather, route, and fuel planning.
+In the NPRM, the FAA stated that it was revising AC 120-92, “Safety
+Management Systems for Aviation Service Providers,” to include guidance and
+numerous examples for small operators on how to scale an SMS (FAA 2015b; FAA
+2023a, 1953-4). However, in our comments on the NPRM, we noted that the FAA’s
+proposed revisions in the draft AC were too general.
+In the SMS final rule, the FAA excepted “certain single-pilot operators” from
+requirements that would be impractical for their operations, such as certain
+recordkeeping, communication, and disciplinary action requirements that would not
+64 We classified Safety Recommendation A-22-15 Open—Unacceptable Response on October
+2, 2023. See appendix B for more information.
+65 In addition, during our May 11, 2023, roundtable webinar, the FAA’s SMS program office
+manager provided insight on the scalability of SMS and right-sizing sustainable processes to an
+organization, including adapting existing practices in ways that can meet the intent of the proposed
+rule. The SMS program office manager noted that, even for a single-pilot operator, adding structure to
+their system will yield more reliable outcomes (NTSB 2023b, 14:30).
+32
+
+Aviation Investigation Report
+AIR-24-03
+be applicable in organizations of their size (FAA 2024c, 33076). The FAA’s final rule
+stated that guidance (including ACs) to help single-pilot organizations navigate the
+exceptions would be available about 30 days after publication of the final rule in the
+Federal Register (FAA 2024c, 33075).
+We note that, in section 308 of the FAA Reauthorization Act of 2024, which was
+signed into law on May 16, 2024, Congress directed the FAA to consider the
+scalability of SMS in any regulation requiring SMS implementation, regardless of the
+size or complexity of the operation. On May 21, 2024, the FAA issued revised
+AC 120-92D, which included an appendix that provided potential methods that
+smaller aviation organizations, including single-pilot and single-PIC operators, could
+use when developing an SMS scaled to the size and complexity of their organization.
+The appendix included a table that discussed various SMS implementation strategies
+and provided examples of how practices such as performance monitoring and
+documenting and managing hazards can be scaled and applied by smaller operators
+(FAA 2024d). The NTSB believes that the inventory of methods and techniques
+contained in this guidance will help operators of all sizes implement an effective SMS.
+Therefore, the NTSB classifies Safety Recommendation A-22-15 Closed—Acceptable
+Action in this report.
+4.2 Flight Data Monitoring
+The NTSB has long recognized the value of an FDM program for various
+Part 135 operations. In 2009, we recommended that the FAA require HAA operators
+to establish a structured FDM program and install recording devices capable of
+supporting it. 66 Subsequently, as a result of our investigation of a 2015 fatal accident
+involving a jet airplane (operated as a Part 135 on-demand charter flight) that crashed
+while on an approach to an airport in Akron, Ohio, we expanded the recommended
+action to apply to all Part 135 operations and asked the FAA to do the following:
+Require all 14 Code of Federal Regulations Part 135 operators to install
+flight data recording devices capable of supporting a flight data
+monitoring program. (A-16-34)
+After the action in Safety Recommendation A-16-34 is completed,
+require all 14 Code of Federal Regulations Part 135 operators to
+establish a structured flight data monitoring program that reviews all
+available data sources to identify deviations from established norms and
+procedures and other potential safety issues. (A-16-35)
+66 We classified Safety Recommendation A-09-90 Closed—Unacceptable Action on
+January 25, 2018. See appendix B for more information.
+33
+
+Aviation Investigation Report
+AIR-24-03
+In response to these recommendations, the FAA informed us that, although it
+agreed with the benefits that additional flight data can provide, it encountered
+challenges in achieving a favorable cost-benefit analysis. On April 6, 2017, we replied
+that we disagreed with the FAA’s previous determination that a mandate for FDM
+equipment and programs would provide no quantifiable benefits, and we cited seven
+accidents that occurred from 2000 through 2015 that were relevant to this safety
+issue.67 These accidents, which involved Part 135 operators, resulted in fatal injuries
+to 53 people and serious injuries to 4 people (NTSB 2022a, 74–75).
+In the 7 years since we issued these recommendations, we reiterated them four
+and five times, respectively, based on the findings from our investigations of other
+fatal accidents involving Part 135 operators relevant to this issue area.68 The FAA
+identified monitoring-related mitigations for 12 of the 35 accidents it cited in its
+evaluation to support SMS rulemaking for Part 135 (as discussed in section 4.1).69 We
+believe that implementation of an FDM program is one method by which operators
+can acquire and analyze the data necessary to support the safety assurance
+monitoring requirements of an SMS.
+For example, one of the fatal accidents cited by the FAA involved a Part 135
+cargo flight that crashed in Charleston, West Virginia, during an unstable instrument
+approach in IMC in 2017.70 Our investigation of that accident found evidence that,
+during the 3 months before the accident, the accident flight crew routinely performed
+visual approaches in a manner inconsistent with the operator’s standard operating
+procedures.71 The operator, which employed 38 pilots and operated 18 airplanes
+67 When the FAA told us in 2017 that it would conduct a review to determine the feasibility of
+requiring all Part 135 certificate holders to install FDM recording devices, it referenced the cost-benefit
+analysis it performed in 2014 when considering such a mandate for HAA operators. The FAA’s
+regulatory evaluation for the proposed HAA rule showed costs of about $20.4 million and a benefit of
+$0 for a 10-year period. As discussed in section 3.2, typically, benefits estimates represent the
+statistical value of fatalities and injuries that may be averted by implementation of a proposed rule.
+68 We reiterated Safety Recommendations A-16-34 and A-16-35 four and five times,
+respectively; both recommendations are classified Open—Unacceptable Response. See appendix A for
+more information about NTSB reports AAR-18/02, AAR-19/02, AAR-21/01, and AIR-22/05 (which
+supported the reiterations of both recommendations) and NTSB report AAR-20/01 (which supported
+the reiteration of A-16-35).
+69 The FAA’s evaluation of accidents cited the safety assurance monitoring aspect of
+14 CFR 5.71 for NTSB cases ANC18LA027, CEN18FA215, ANC18FA045, ANC17FA021, DCA17FA109,
+ANC16FA017, ERA16FA215, CEN16LA386, ANC17MA001, ANC15MA041, CEN16MA036, and
+WPR16FA037 (FAA 2022c, 54–62).
+70 See NTSB case DCA17FA109 in appendix A for more information.
+71 The accident airplane was not equipped with a recording device capable of supporting an
+FDM program. During our investigation, we reviewed archived air traffic control data and airport
+34
+
+Aviation Investigation Report
+AIR-24-03
+from 12 crew bases in the United States and Puerto Rico, had no formal safety and
+oversight program to assess compliance with procedures or monitor pilots with
+previous performance issues. An effective FDM program with appropriately
+equipped aircraft (ideally implemented as part of an SMS) can enable an operator to
+proactively identify and mitigate these types of deviations in a nonpunitive way
+before an accident occurs.
+While the NTSB has continued to engage in discussions with the FAA
+regarding the importance of an FDM requirement for Part 135 operations, we have
+also included this topic in our industry outreach. During our 2020 panel for improving
+the safety of Part 135 (referenced in section 4.1), we asked participants to share their
+perspectives on the benefits and challenges of implementing FDM.
+Participants discussed such experiences as proactively identifying and
+managing hazards and reducing maintenance and fuel costs by identifying and
+correcting nonstandard operations (such as flap overspeed events and sloppy
+approaches) and improving the efficiency of operations. One participant described
+the value of external sources of data, such as online flight tracking software and air
+traffic control communications recordings, to obtain objective data about how crews
+are conducting flights. However, representatives from some smaller operators on the
+panel discussed challenges, including the costs of equipping smaller aircraft in their
+fleet or how to equip aircraft that they manage but do not own (NTSB 2020a).
+To help address such concerns and other perceived impediments to FDM
+adoption, on October 20, 2022, the NTSB hosted a roundtable focused on practical
+FDM solutions for smaller operators.72 Participants from the NTSB, FAA, small
+operators, and other relevant stakeholders discussed FDM equipment solutions and
+other sources of data and provided best-practices examples of how an FDM program
+has benefitted the safety of their operations, improved pilots’ performance, and
+reduced maintenance and operations costs.
+Further, we note that lightweight flight recording systems are increasingly
+becoming standard equipment or available as retrofit options for new production
+general aviation and business aircraft. According to a General Aviation Manufacturers
+Association representative, about 70% to 80% of new production turbine-powered
+business airplanes were equipped with a lightweight flight data recording system,
+security camera videos to determine that the flight crew repeatedly executed nonstandard
+approaches.
+72 Participants included representatives from the NTSB, FAA, the General Aviation
+Manufacturers Association, the National Business Aviation Association, the Air Charter Safety
+Foundation, and small operators of Part 135 charter, Part 91 corporate, and Part 141 training flights
+(NTSB 2022b).
+35
+
+Aviation Investigation Report
+AIR-24-03
+and about 10% to 20% had at least some data recording and download capability,
+such as through the avionics or other systems. The representative stated that
+standard and retrofit recorder equipment options for new production
+piston-powered airplanes have increased, driven, in part, by demand from customers
+wanting to participate in an FDM program (NTSB 2022b).
+The NTSB continues to believe that an effective FDM program can help all
+Part 135 operators identify and correct in a nonpunitive way issues with pilot
+performance and support mitigations that can prevent future accidents, particularly
+when incorporated into an SMS. Further, although the FAA has not yet pursued
+rulemaking to address Safety Recommendations A-16-34 and A-16-35, we are
+encouraged that, in the FAA Reauthorization Act of 2024, Congress directed the FAA
+to task an aviation rulemaking committee to review and assess the need for changes
+to the safety requirements related to FDM for certain aircraft and operations and, in
+doing so, consider any applicable NTSB safety recommendations and the
+recommendations of previous aviation rulemaking committees that reviewed FDM
+requirements for Part 135 operators.73 We continue to believe the need for the
+recommended action is well justified based on the findings of our investigations.
+Thus, the NTSB concludes that operational FDM programs can provide Part
+135 operators with objective information regarding the manner in which their pilots
+conduct flights, and a periodic review of such information could assist operators in
+detecting and correcting unsafe deviations from standard operating procedures.
+Therefore, the NTSB reiterates Safety Recommendations A-16-34 and A-16-35.
+73 Specifically, section 333 of the Act directed the FAA to task a rulemaking advisory committee
+to review and assess FDM requirements for certain helicopters, and section 363 addressed FDM for
+commercial air tour operations.
+36
+
+Aviation Investigation Report
+AIR-24-03
+5. Accident and Flight Activity Data Needs
+The NTSB maintains an aviation accident database that contains the probable
+cause statements and other data for all civil aviation accidents occurring in the United
+States and its territories, accidents occurring in foreign states involving a US-based
+operator or aircraft of US registry or manufacture, public aircraft operations, and
+certain other accidents, incidents, and events relevant to US aviation safety. In 2020,
+upgrades to both our internal investigations management system, System for Analysis
+of Federal Transportation Investigations (SAFTI), and our publicly available database
+query tool, Case Analysis and Reporting Online (CAROL), enabled us to streamline
+our reporting processes and improve the way we share the data we collect (NTSB
+2020c).74
+We use the accident and injury data from our database and flight activity data
+from the FAA to develop and publish annual statistical reviews of accident and injury
+data for various segments of commercial aviation, including accident rates for
+Part 135 commuter and on-demand operations. Congress, other federal agencies,
+and industry stakeholders often use our statistical reviews when assessing the safety
+of US civil aviation operations.
+Searchable accident data and valid flight activity data for different segments of
+Part 135 are essential for enabling comparisons of accident rates for different types of
+operations and tracking industry growth. These data can help support evaluations of
+the appropriateness of the different regulatory standards that apply to different
+segments of commercial aviation, estimates of the costs and benefits associated with
+proposed rulemaking, and the development of targeted safety initiatives, as needed,
+as segments of the industry grow and change.75
+When we initiated our review of accidents for this special investigation report,
+we were interested in categorizing each accident based on the operator’s Part 135
+certificate type (air carrier or operating), operating authority (commuter or
+74 These improvements to our data collection processes and data query tool resulted from a
+mandate and funding from Congress in the NTSB’s reauthorization, where Congress charged the
+NTSB to develop and maintain a multimodal accident database management system to improve the
+quality of accident data we make available to the public. CAROL enables users to conduct queries for
+all transportation modes we investigate, as well as all of the safety recommendations we have issued
+since our inception in 1967 (NTSB 2020c).
+75 For example, the FAA cited industry growth when considering whether a regulatory change
+may be appropriate for managing the level of safety for 14 CFR Part 380 public charter operations that,
+per a historic regulatory exception, are allowed to be conducted under Part 135 on-demand rules. The
+FAA noted that that the size, scope, frequency, and complexity of these operations “has grown
+significantly over the past 10 years” such that, were it not for the exception, the operations would
+otherwise be subject to the provisions of Part 121 (FAA 2023f, 59480).
+37
+
+Aviation Investigation Report
+AIR-24-03
+on-demand), and scope (standard, basic, single-pilot, or single-PIC) and assessing
+any trends in the historic accident rates for each of these industry segments.
+However, we found that neither the accident and incident data within our own
+database nor the flight activity data compiled by the FAA could fully support such
+assessments, highlighting the need for improved data collection and reporting
+methods.
+5.1 NTSB Data Collection Improvements
+Currently, the NTSB’s internal accident database contains fields to capture
+parameters such as the certificate holder’s name, address, and unique certificate
+designator; operating authority (commuter or on-demand); regulation under which
+the flight was conducted (such as Part 91 or Part 135); whether the flight was
+scheduled or nonscheduled; and the type of service (such as passenger, cargo, or
+mail). Available search parameters for the NTSB’s accident database can enable both
+internal and external uses to readily produce lists of fatal and nonfatal accidents
+involving Part 135 certificate holders and sort them based on such criteria as
+operating authority (commuter or on-demand) aircraft category, and type of
+operation (including air medical, commercial sightseeing, passenger, cargo, or
+passenger/cargo).76
+However, our database does not contain searchable data fields that capture
+operating certificate type (air carrier or operating) or scope information (standard,
+basic, single-pilot, or single-PIC) in a way that would enable us (or other industry
+stakeholders) to easily search and group accidents based on certificate type or scope.
+For example, when attempting to identify for this report which accidents involved Part
+135 flights operated by certificate holders of single-pilot and single-PIC scope, we
+had to manually review the contents of each investigation’s docket, including the
+pilot- or operator-reported certificate information, interviews, operations
+specifications excerpts, and other documents and apply deductive reasoning to
+determine the operators’ certificate scope.77
+76 Searches can be refined to include a specified date range, aircraft type, injury severity, or
+other parameters; CAROL will produce a list of accidents (with hyperlinks to the investigation reports
+and dockets) that meet the user-selected criteria. Although our database enables searches to be
+conducted based on “scheduled” (currently known as commuter) or “nonscheduled” (currently known
+as on-demand) criteria, these criteria reflect the operation of the accident flight and not necessarily the
+operating authority of the certificate holder. For example, as described in section 1, certificate holders
+with commuter operating authority may also conduct on-demand operations, and certificate holders
+with on-demand operating authority may conduct limited scheduled operations.
+77 For each accident, the certificate holder’s name, certificate designator, and address were
+recorded in the data fields, but no fields existed for recording certificate type or scope.
+38
+
+Aviation Investigation Report
+AIR-24-03
+Further, we determined that any historical accidents for which we had
+documentation for operator training programs, a director of operations, chief pilot,
+director of maintenance, or multiple PICs likely did not involve single-pilot or single-
+PIC operators.78 However, we were unable to categorize all of the accidents based on
+all of the desired criteria with certainty.
+The NTSB concludes that our collection of operating certificate type, operating
+authority, and scope parameters when investigating accidents, incidents, and other
+reportable events involving Part 135 certificate holders and the updated searchability
+of our aviation accident database based on these parameters will enhance the
+database’s usefulness for government and industry stakeholders when assessing the
+safety of the industry, such as the suitability of the varied regulatory standards applied
+to different segments of commercial aviation, and developing targeted safety
+initiatives to prevent future accidents. To accomplish this, we implemented
+immediate measures and initiated ongoing plans for improving our aviation accident
+database, investigative processes, and investigator training to ensure that we
+consistently capture the data needed to effectively support such assessments.
+For example, in May 2023, the NTSB’s Office of Aviation Safety updated its
+internal guidance for investigators to standardize the collection of certain certificate
+and operational information when investigating accidents or incidents involving
+Part 135 certificate holders. The updated guidance states that, when investigating an
+accident or incident involving a Part 135 operation, investigators should enter the
+certificate holder’s scope of operations into a notes field in SAFTI. We implemented
+this guidance as an interim measure while we pursued an update to our database that
+could provide separate fields for capturing these data. We completed this update in
+June 2024, effectively allowing us to search our database based on operating
+certificate type, operating authority, and scope parameters.
+The revised guidance for investigators also includes procedures for ensuring
+we capture relevant information from the operations specifications and other details,
+as appropriate for the circumstances of the accident or incident. We implemented
+this guidance as an interim process while we develop the final revisions to our
+standard operating procedures for conducting investigations involving Part 135
+operations to ensure we capture sufficient details to further support data-driven
+analyses of the safety of the industry and targeted safety interventions.
+78 We used this process to determine that none of the operational control- and
+flight-locating-related accidents discussed in section 2 involved single-pilot or single-PIC operators.
+39
+
+Aviation Investigation Report
+AIR-24-03
+5.2 Flight Activity Data Needs
+More than 50 years ago, the NTSB conducted a study of what was then called
+the “air taxi” industry and determined that the available flight activity data for the
+various on-demand and commuter operations did not provide for “a meaningful
+comparison of the relative safety levels” between different segments of the industry
+or between the industry and other operations, such as Part 121 (NTSB 1972, 12–13).79
+Based on that study and others, we issued several safety recommendations between
+1972 and 2003 seeking mandatory flight activity reporting; however, the
+recommended mandates were not fully implemented.80
+During our ongoing correspondence with the FAA to advocate for our
+recommendations for mandatory reporting, the FAA stated that it needed to discuss
+the subject both internally with other stakeholders (including the Bureau of
+Transportation Statistics and an aviation rulemaking committee), gain insight into the
+relative costs and benefits from the industry’s viewpoint, and understand the options
+for collecting and processing the data. However, the FAA never provided us with any
+information about the outcomes of any such discussions. By 2011, the FAA had
+neither taken the recommended action nor indicated any intention to do so.81 As a
+result, few Part 135 operators today are subject to mandatory flight activity reporting,
+and some of the general data problems we identified half a century ago have
+persisted.
+In a recent report to Congress, the FAA acknowledged that “no single source
+of integrated data on Part 135 operations exists” (FAA 2023d, 5). As a result, when
+attempting to develop a profile of the Part 135 industry, the FAA (and other
+79 We noted that the data collection methods differed depending on the type of operation and
+included a mix of mandatory reports (from commuter operators) and FAA estimates derived from a
+voluntary reporting system (from subset of on-demand operators). Further, the collected data did not
+identify and separate flight hours for certain industry segments to enable the determination of
+accident rates for those segments (NTSB 1972, 4–5).
+80 Safety Recommendations A-72-191 and A-72-192, which were addressed to the Civil
+Aeronautics Board, asked for (in part) mandatory flight activity data reporting for operations generally
+equivalent to today’s Part 135 operations. We classified Safety Recommendations A-72-191 and
+A-72-192 Closed—No Longer Applicable on September 16, 1976. Safety Recommendation A-03-37
+asked the FAA to require (in part) flight activity data reporting for Part 135 on-demand operators. We
+classified Safety Recommendation A-03-37 Closed—Unacceptable Action on March 29, 2011. See
+appendix B for more information.
+81 In our March 29, 2011, correspondence with the FAA regarding Safety Recommendation
+A-03-37, we informed the FAA that a mandatory reporting requirement would not be burdensome for
+Part 135 on-demand operators because the operational and recordkeeping requirements that already
+exist for these operators allow for more comprehensive activity reporting than the methods the FAA
+used to survey the activity of these operations.
+40
+
+Aviation Investigation Report
+AIR-24-03
+stakeholders) must compile information from a variety of databases, some of which
+have differences in reporting and other conventions (FAA 2023d, 5–7). These types of
+differences continue to present challenges for identifying and comparing accident
+rates for various industry segments.
+For example, most Part 135 certificate holders (93% in 2012) conduct
+on-demand passenger or passenger and cargo operations, with only a small
+percentage conducting commuter (scheduled) operations or on-demand all-cargo
+operations (2% and 3%, respectively) (FAA 2016a, 1–6). The FAA estimates flight
+activity data for Part 135 on-demand operations based on the voluntary responses to
+its annual General Aviation and Part 135 Activity Survey.
+In contrast, Part 135 commuter operators are subject to mandatory reporting
+of flight activity and other information to the Bureau of Transportation Statistics per
+14 CFR 298.60, an economic regulation. However, the bureau aggregates these data
+with the data from the mandatory reports it collects for Part 121 scheduled
+operations, such that the FAA must apply some methodology when using these data
+as the basis for developing its annual flight activity report for Part 135 commuter
+operations.82 In addition, in 2012, Congress mandated flight activity reporting for
+HAA operations (a segment of Part 135 on-demand operations), and the FAA began
+collecting and reporting these data in 2015, independent of its annual survey-based
+estimates of HAA flight activity (discussed further below).83
+During the past few decades, the NTSB has worked with the FAA and industry
+stakeholders to improve the flight activity estimates derived from the FAA’s voluntary
+survey.84 Some of the implemented improvements to the survey and data validation
+were responsive to safety recommendations we issued in 2001 and 2005.85 When the
+82 The bureau also collects mandatory flight activity reports for Part 121 nonscheduled
+operations, per economic regulation 14 CFR Part 241 (NTSB 2003, 1).
+83 As part of the FAA Modernization and Reform Act of 2012, Congress mandated that HAA
+operators report annual activity data to the FAA. The FAA began collecting these data in April 2015
+and has since provided Congress with data reports for calendar years 2016 through 2022 (FAA 2017,
+2; FAA 2018, 2019b, 2020a, 2020b, 2022a, 2022b, and 2023h).
+84 In 2000, the then-General Aviation Joint Steering Committee (now known as the General
+Aviation Joint Safety Committee) formed the General Aviation Data Improvement Team, which was
+jointly chaired by the FAA, NTSB, and industry representatives and sought to recommend ways to
+improve estimates of flight activity for Part 135 on-demand operations (GADIT 2001, 18).
+85 Safety Recommendations A-01-74, A-01-77, and A-05-11 addressed methods for improving
+the survey and the accuracy of flight activity estimates, and the FAA took responsive action. We
+classified Safety Recommendation A-01-74 Closed—Acceptable Action on July 16, 2013, and classified
+Safety Recommendations A-01-77 and A-05-11 Closed—Acceptable Action on March 29, 2011. See
+appendix B for more information.
+41
+
+Aviation Investigation Report
+AIR-24-03
+survey was introduced in 1978, it relied exclusively on the FAA’s civil aircraft registry,
+selecting the survey sample from the population of aircraft owners.
+Since 2004, survey methods have included the option of using a “large fleet”
+summary form to simplify reporting for owners or operators of multiple aircraft (cross-
+referencing the FAA’s Operations Safety System database to identify which aircraft
+are operated under a Part 135 certificate) and sampling 100% of all aircraft used in
+Part 135 on-demand operations (FAA 2023b, A-4, A-6, and A-15). Other
+improvements included strategies to reduce survey nonresponse, minimize
+measurement and coding errors, and improve the weighting of the data from
+completed surveys to better reflect population characteristics (FAA 2023b, A-10
+through A-12).
+However, we note that the survey does not identify the scope of the certificate
+for which activity data are collected, precluding the determination of accident rates
+for such Part 135 on-demand operations as single-pilot and single-PIC, which
+comprise about 30% of certificate holders. Although our review of accidents for this
+report identified five accidents that likely involved single-pilot or single-PIC
+operators, without flight activity data for these industry segments, it is not possible to
+determine the accident rates to support an assessment of the relative safety of these
+operations.86
+Further, although the FAA continues to provide estimated flight activity for
+HAA operations based on survey responses, differences between these estimates
+and mandatory flight activity data that the FAA reports to Congress can affect the
+calculated accident rate for this part of the industry, depending on which data are
+referenced. For example, the FAA-reported annual flight activity data collected from
+HAA operators’ mandatory reports have been lower than the FAA’s survey-based
+activity estimates, and, in some cases, the differences are substantial. For calendar
+year 2022, the FAA’s report to Congress indicated that HAA operators reported
+518,251 hours flown and had 11 accidents, resulting in an accident rate of 2.1 per
+100,000 flight hours; however, the FAA’s published survey-based activity estimate for
+the same year was 679,997 hours flown, which results in an accident rate of 1.6 per
+100,000 flight hours (FAA 2023h, 3; and FAA 2024a).87 The differences between
+survey-derived flight activity estimates and the data collected from mandatory
+86 See NTSB cases CEN14FA122, ERA15FA313, WPR17FA035, CEN18FA215, and
+ANC20LA046 in appendix A for more information.
+87 Also, for calendar year 2021, the FAA’s report to Congress indicated 500,691 hours flown
+and an accident rate of 1.0 per 100,000 flight hours (based on five accidents), but its survey-based
+activity estimate was 703,464 hours flown, which results in an accident rate of 0.7 per 100,000 flight
+hours (FAA 2022b, 3; and FAA 2023c).
+42
+
+Aviation Investigation Report
+AIR-24-03
+reporting operations suggest potential problems, either with the survey-based
+estimates, the mandatory reporting, or both.
+As stated in section 5.1, we believe that the measures we have implemented
+and the ongoing changes we have planned for improving the NTSB’s accident and
+incident data collection for Part 135 operations will be useful for both government
+and industry stakeholders by including the certificate type (air carrier certificate or
+operating certificate), operating authority (on-demand or commuter operations), and
+scope of the operation (standard, basic, single-pilot, or single-PIC) and enabling
+users to easily search our database on those parameters. However, without
+corresponding—and accurate—activity data for the same parameters, the accident
+rates for these operations cannot be determined.
+As we indicated in our previous discussions with the FAA, we continue to
+believe that mandatory reporting is the best way to ensure that valid activity data are
+available for all Part 135 operations, and we believe that such a requirement would
+not be burdensome to these operators due to existing operational and
+recordkeeping requirements. However, because the FAA never fully explained the
+rationale for its previous refusal to require mandatory reporting, we have no insight
+as to whether any perceived constraints that may have precluded responsive action
+years ago still exist today. We recognize that, should any such constraints still exist,
+other solutions, such as expansion of or enhancements to voluntary surveys and data
+collection methods, may be able to produce flight activity data of sufficient quality
+and detail to effectively support safety assessments for various industry segments.
+Thus, the NTSB concludes that the collection and validation of flight activity
+data for Part 135 operations that identify activity for different segments of the industry
+are fundamental to determine the accident rate for each segment, support
+evaluations of the suitability of the varied regulatory standards and levels of oversight
+applied to each segment, and develop targeted safety initiatives, as needed.
+Therefore, the NTSB recommends that the FAA develop, validate, and implement a
+single, unbiased method for generating activity data for all Part 135 certificate
+holders, either through mandatory reporting or some other means, to include the
+identification of activity by certificate type (air carrier or operating), operating
+authority (on-demand or commuter), and scope (standard, basic, single-pilot, or
+single-PIC).
+43
+
+Aviation Investigation Report
+AIR-24-03

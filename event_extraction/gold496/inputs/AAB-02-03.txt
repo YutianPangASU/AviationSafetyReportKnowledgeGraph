@@ -1,0 +1,1724 @@
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+A
+TI T
+IO
+Washington, D.C. 20594
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: DCA01MA034
+Operator: Avjet Corporation
+Aircraft and Registration: Gulfstream III, N303GA
+Location: Aspen, Colorado
+Date: March 29, 2001
+HISTORY OF FLIGHT
+On March 29, 2001, about 1901:57 mountain standard time,1 a Gulfstream III,
+N303GA, owned by Airbourne Charter, Inc., and operated by Avjet Corporation of
+Burbank, California, crashed while on final approach to runway 15 at Aspen-Pitkin
+County Airport (ASE), Aspen, Colorado. The charter flight had departed Los Angeles
+International Airport (LAX) about 1711 with 2 pilots, 1 flight attendant, and
+15 passengers. The airplane crashed into sloping terrain about 2,400 feet short of the
+runway threshold. All of the passengers and crewmembers were killed, and the airplane
+was destroyed. The flight was being operated on an instrument flight rules (IFR) flight
+plan under 14 Code of Federal Regulations (CFR) Part 135.
+The captain and first officer for the charter flight reported to the Avjet facility at
+the Burbank-Glendale Pasadena Airport (BUR), Burbank, California, sometime before
+1300 (1200 Pacific standard time) on the day of the accident.2 An Avjet captain stated, in
+a postaccident interview, that he saw the captain checking the ASE weather on a
+computer display and discussing the ASE weather with an Avjet charter department
+scheduler while at BUR. Another Avjet captain stated, in a postaccident interview, that
+he saw the first officer performing what appeared to be a routine airplane preflight
+inspection on N303GA on the ramp at BUR.
+About 1200 (1100 Pacific standard time), the first officer contacted the
+Hawthorne, California, Automated Flight Service Station (AFSS) specialist for a weather
+briefing. A review of the audiotape indicated that the specialist informed the first officer
+of three National Weather Service (NWS) AIRMETs [Airman’s Meteorological
+1 Unless otherwise indicated, all times are mountain standard time, based on a 24-hour clock.
+2 The exact times that the flight crewmembers reported for duty could not be determined because
+Avjet does not use sign-in sheets for its pilots. The time frame for crew check-in was based on information
+from postaccident interviews and, for the first officer, the time that he contacted the Hawthorne, California,
+Automated Flight Service Station for a weather briefing.
+NTSB/AAB-02/03
+
+2
+Information]3 pertinent to the flight to ASE, an 1141 weather observation for ASE, and
+the ASE forecast for 1300 to 1900.4 The specialist also informed the first officer that the
+approach procedure had been updated and that circling minimums were no longer
+authorized at night.5 During the briefing, the first officer filed the flight plan, identifying
+Garfield County Regional Airport in Rifle, Colorado, as the alternate airport.
+The captain and first officer departed BUR at 1538 (1438 Pacific standard time)
+for a positioning flight to LAX, arriving there 11 minutes later. While at LAX, the
+captain and a charter department scheduler discussed the status of the passengers’ arrivals
+(none were at the airport when the airplane arrived) and the weather currently being
+forecast for the flight’s arrival time at ASE. Also, the captain and another Avjet captain
+discussed the nighttime landing restriction at ASE that required the airplane to land
+within 30 minutes after sunset.6 ASE’s nighttime airport operating hours, according to an
+airport chart dated November 1, 1994, indicated that aircraft that did not meet FAA
+stage III noise criteria were not authorized to land at the airport on March 29 after 1858.
+The airplane’s departure from LAX at 1711 (1611 Pacific standard time) was
+41 minutes later than originally scheduled because of the late arrival of the passengers,
+including the charter customer. The flight was planned for 1 hour 35 minutes, so the
+estimated arrival time at ASE was 1846—12 minutes before the airport’s nighttime
+landing curfew.
+Statements early in the cockpit voice recorder (CVR) recording indicated that the
+flight crew was aware of the nighttime landing restriction at ASE. The CVR transcript
+indicated that, about 1831:06, the captain stated, “well, there’s the edge of night right
+here.” About 1831:24, the first officer asked the captain about the time of official sunset
+for ASE. The captain replied “six twenty eight” and then stated, “so we get thirty
+minutes after sunset. so six fifty eight…about…seven o’clock.”
+About 1837:04, the first officer called for the approach briefing.7 The captain
+then stated, “we’re…probably gonna make it a visual…if we don’t get the airport over
+here we’ll go ahead and shoot that approach” and “we’re not going to have a bunch of
+extra gas so we only get to shoot it once and then we’re going to Rifle.”8 The first officer
+3 An AIRMET is an in-flight weather advisory issued by the NWS Aviation Weather Center in
+Kansas City, Missouri. An AIRMET advisory indicates weather that may be hazardous to single-engine
+and other light aircraft and visual flight rules (VFR) pilots. Operators of large aircraft may also be
+concerned with the information included in an AIRMET.
+4 For more information on this weather briefing, see the section of this brief titled, “Automated
+Flight Service Station Briefing,” under the heading titled, “Meteorological Information.”
+5 For more information on the updated approach procedure, see the section of this brief titled,
+“Notice to Airmen,” under the heading titled, “Airport Information.”
+6 ASE is closed from 2300 to 0700. Aircraft that do not meet FAA stage III noise criteria must
+land within 30 minutes after sunset because of local noise restrictions. N303GA was a stage II aircraft.
+7 According to Avjet’s Operations Manual, the captain is required to conduct an approach briefing
+as part of the descent checklist. For more information on this briefing, see the section of this brief titled,
+“Flight Manual,” under the heading titled, “Additional Information.”
+8 N303GA’s flight log indicated that, between March 26 and 29, 2001, the airplane was on the
+ramp at BUR with 4,000 pounds of fuel. The airplane received an additional 8,710 pounds of fuel before
+NTSB/AAB-02/03
+
+3
+acknowledged this information. About 1839:56, the flight crew began to receive
+automated terminal information service (ATIS) information Hotel.9 Afterward, the first
+officer read back the wind, visibility, sky condition, and temperature information, and the
+captain acknowledged this information.
+About 1844:22, the first officer made initial contact with ASE approach control.
+About 1844:43, the flight crew heard, over the ASE approach control frequency, the
+request of a Canadair Challenger 600 airplane, N527JA, for another approach to ASE.
+The approach controller then cleared N527JA to continue on the published missed
+approach procedure. About 1845:00, the first officer stated, “I hope he’s doing practice
+approaches.” About 3 seconds later, the captain asked the controller whether the pilot of
+N527JA was practicing or had actually missed the approach. The controller replied that
+the pilot had missed the approach and indicated that he had seen the airplane at
+10,400 feet.10 The controller also informed the captain that two other airplanes were on
+approach to ASE. About 1845:32, the controller instructed the flight crew to turn to a
+360º heading for vectors for the approach sequence.
+While the airplane was descending into the terminal area, the CVR recorded the
+flight crew discussing the location of a highway near the airport. About 1845:45, the
+captain stated, “where’s that…highway? can we get down in there?” About 11 seconds
+later, the captain stated, “can you see?” and the first officer stated, “I’m looking I’m
+looking…no.” About 1846:26, the captain indicated, “I got it,” and, about 2 seconds
+later, he asked the first officer, “can’t really see up there can ya?” The first officer
+replied, over the next several seconds, “nope not really” and “I see a river but I don’t see
+nothing else.” About 1847:19, the first officer stated, “I see…some towns over here and
+the highway’s leading that way but I’m not sure.”
+About 1847:30, the approach controller made a blanket broadcast that the pilot of
+an airplane (a Cessna Citation, N900MF) saw the airport at 10,400 feet and was making a
+straight-in approach, to which the first officer stated, “ah, that’s good.” (This airplane
+landed without incident at the airport about 10 minutes before the accident.) About
+1847:41, the captain informed the controller that, “I can almost see up the canyon from
+here but I don’t know the terrain well enough or I’d take the visual.” About 1847:51, the
+departing for LAX. A page from N303GA’s flight log that was found in the wreckage indicated that, on
+March 29, the airplane landed at LAX with 10,700 pounds of fuel remaining. The airplane received an
+additional 1,750 pounds of fuel before departing for ASE. After the accident, Gulfstream generated sample
+flight plans that were based on the accident airplane’s cruising altitude, historical winds, and known fuel
+quantity. The sample flight plans showed that the amount of fuel aboard the accident airplane would have
+exceeded the amount required by 14 CFR 135.223 (that is, IFR aircraft must carry enough fuel to complete
+the flight to the destination airport, a flight from the destination airport to the alternate airport, and
+45 additional minutes of flight at normal cruising speed).
+9 ATIS information Hotel was based on the 1753 local weather observation and stated that the
+wind was from 030º at 4 knots, visibility was 10 miles, sky condition was scattered clouds at 2,000 feet
+with a ceiling of 5,500 feet broken and 9,000 feet broken, temperature was 2º C, dew point was -3º C, and
+altimeter setting was 29.86 inches of mercury (Hg). Visibility is expressed in statute miles; all other
+references to miles in this brief are expressed in nautical miles.
+10 Unless otherwise indicated, all altitudes are mean sea level (msl). According to air traffic
+control (ATC) radar data, N527JA did not descend below 10,300 feet.
+NTSB/AAB-02/03
+
+4
+first officer stated, “could do a contact[11] but…I don’t know,” followed by his statement,
+“probably we could not….” The first officer also stated, about 1848:04, “remember that
+crazy guy in this Lear[jet] when we were…on the ground in Aspen last time and he
+[stated that he could] see the airport but he couldn’t see it.” The captain did not respond
+to either of the first officer’s statements.
+About 1848:51, the captain stated, “there’s the highway right there.” The first
+officer then asked the captain if he wanted to be set up on the approach, and the captain
+indicated that he was ready. About 1849:28, the captain asked the first officer whether he
+could see the highway, to which the first officer replied, “no it’s clouds over here on this
+area I don’t see it.” About 1850:42, the captain stated, “but it’s right there.” About
+6 seconds later, he stated, “oh I mean we’ll shoot it from here I mean we’re here but we
+only get to do it once.” About 1850:54, the captain indicated to the flight attendant that,
+if the attempt to execute the approach was not successful, they would have to go to Rifle
+because “it’s too late in the evening then to come around.”
+About 1851:54, the approach controller instructed the flight crew to turn to a
+heading of 050º. About 1853:09, the approach controller instructed the flight crew to
+turn to a heading of 140º to intercept the final approach course and maintain an altitude of
+16,000 feet. Afterward, the controller made a blanket broadcast that the last airplane
+(a Canadair Challenger 600, N898R) had missed the approach, to which the first officer
+remarked, “that’s…not…good.”
+About 1853:57, the flight attendant asked whether a male passenger could sit on
+the jumpseat in the cockpit. About 11 seconds later, the flight attendant instructed that
+passenger to make sure his seatbelt was on, and the CVR recorded a sound consistent
+with a seatbelt buckle. About 1855:05, the flight crew heard, over the approach control
+frequency, the pilot of N898R transmit his intention to execute a missed approach.
+Afterward, the captain stated, “the weather’s gone down they’re not making it in,” and an
+unidentified male voice in the cockpit stated, “oh really.”12 The approach controller
+subsequently cleared N898R to continue on the missed approach procedure.
+About 1856:06, the approach controller cleared the flight crew for the
+VOR/DME-C approach,13 advised the crew that the airplane was 5 miles from the Red
+11 A contact approach is a procedure in which an aircraft on an IFR flight plan proceeds to the
+destination airport by visual reference with the surface. ATC only authorizes this approach when requested
+by the pilot and when the reported ground visibility at the airport is at least 1 mile. The pilot must remain
+clear of clouds and have a reasonable expectation of continuing to the destination airport under this
+condition.
+12 According to 14 CFR 135.100, flight crewmembers cannot engage in any activity that could
+distract them from their duties or interfere in any way with the proper conduct of those duties once the
+airplane has descended below 10,000 feet msl, including engaging in nonessential conversations within the
+cockpit. N303GA was above that altitude at the time.
+13 The VOR/DME [very high frequency omnidirectional radio range/distance measuring
+equipment]-C approach is the only public use standard instrument approach procedure at ASE. The
+“C” part of the approach title indicates that the approach does not have straight-in landing minimums
+because it does not meet the criteria for the maximum descent gradient. This approach is also referred to as
+the VOR/DME or GPS-C procedure, which indicates that the approach procedure is included in approved
+NTSB/AAB-02/03
+
+5
+Table VOR (the initial approach fix), and instructed the crew to cross the VOR at or
+above an altitude of 14,000 feet. The first officer acknowledged this information.
+Figure 1 shows the ASE approach plate, dated February 18, 2000, that was in effect at the
+time of the accident.
+About 1856:23, the first officer said, “after VOR you are cleared to twelve
+thousand seven hundred.” About 1856:42, the approach controller made a blanket
+broadcast that ATIS information India14 was current and that the visibility north of the
+airport was 2 miles.15 The approach controller then instructed the flight crew to contact
+ASE local control, and the crew established contact with the local controller about
+1857:28. The local controller informed the flight crewmembers that they were following
+a Challenger airplane (N527JA) that was 2 miles from the runway, reported the wind at
+240º at 5 knots, and cleared the airplane to land on runway 15. About 1857:55, the first
+officer acknowledged the clearance to land. The captain then asked the first officer for
+the DME16 at the 12,700-foot step-down fix. The first officer replied, 3 DME (south of
+the Red Table VOR).
+About 1858:00, the local controller asked the pilot of N527JA whether he had the
+airport in sight, to which he replied, “negative, going around.” About 1858:13, an
+unidentified male voice in the cockpit asked, “are we clear?” The captain replied, “not
+yet” and “the guy in front of us didn’t make it either.” About 1858:27, the captain asked
+the first officer about the next step-down altitude, and he answered that it was
+12,200 feet. The first officer also indicated that the next step-down fix was at 6 DME
+(south of the Red Table VOR). (This step-down fix, ALLIX, is the final approach fix and
+the beginning of the final approach segment.) About 1859:11, the captain asked the first
+officer about the next step-down altitude, and the first officer answered, 10,400 feet.
+About 1859:30, the captain called for the landing gear, and the CVR recorded the
+sound of two “clunks” and an increase in background noise immediately afterward. The
+captain called for landing flaps about 1859:34, and the CVR recorded a “click” and a
+“clunk” sound about 2 seconds later. About 1859:39, the first officer indicated that the
+step-down fix at 10,400 feet was 9.5 DME (south of the Red Table VOR). About
+1859:46, the first officer stated, “three greens.” About 1900:04, the first officer indicated
+that the missed approach point was 11 DME (south of the Red Table VOR). About
+1900:08, an unidentified male voice in the cockpit stated, “snow.” About 1900:22, when
+global positioning system (GPS) receiver databases. Minimum visibility is 3 statute miles for category C
+aircraft, such as the Gulfstream III. (Aircraft in category C have approach speeds of 121 knots or greater
+but less than 141 knots. These speeds are based on 1.3 times the power-off stall speed at the aircraft’s
+maximum certificated landing weight in the landing configuration. According to Gulfstream Aerospace’s
+GIII Flight Manual, the Gulfstream III has a stall speed of 106 knots in this configuration; 1.3 times this
+stall speed is 138 knots.)
+14 ATIS information India, which was mostly based on the 1853 local weather observation,
+indicated that the wind was from 250º at 3 knots, visibility was 10 miles in light snow, sky condition was a
+few clouds at 1,500 feet with a ceiling of 2,500 feet broken and 5,000 feet broken, temperature was 1º C,
+dew point was -3º C, and altimeter setting was 29.89 inches of Hg.
+15 The Safety Board notes that the 3-mile category C minimum visibility requirement was met
+because the controlling visibility for the approach was 10 miles, as reported in ATIS information India.
+16 DME is expressed in nautical miles.
+NTSB/AAB-02/03
+
+6
+Figure 1. Jeppesen approach plate for ASE.
+NTSB/AAB-02/03
+
+7
+the airplane was at an altitude of 10,400 feet, the captain stated, “okay…I’m breaking
+out,” and asked the local controller, about 5 seconds later, whether the runway lights
+were all the way up. The controller indicated, “affirmative they’re on high.” About
+1900:30, the first officer said, “okay you can go…ten thousand two hundred [the
+minimum descent altitude].”17
+About 1900:43, the captain asked the first officer whether he could see the
+runway, and the CVR recorded an unintelligible statement made by the first officer about
+2 seconds later. About 1900:46, when the airplane was at an altitude of 10,000 feet, the
+captain asked the first officer whether he could see the highway, and he replied, about
+1 second later, “see highway.” The local controller asked the flight crewmembers, about
+1900:49, whether they had the runway in sight. About 2 seconds later, the first officer
+stated, “affirmative,” and the captain stated, “yes now yeah we do.” About 1 second
+afterward, the first officer advised the controller that the runway was in sight. About
+1901:13, the first officer stated, “…to the right is good.” According to radar data, the
+airport was to the left of the airplane at this time.
+About 1901:21, the CVR recorded a sound consistent with the airplane’s
+configuration alarm, which continued for 9 seconds. About 1901:28, the CVR recorded
+the airplane’s flight profile advisory (FPA) unit announce the 1,000-foot callout,18 and
+the first officer stated, “one thousand to go.” About 1901:31 and 1901:34, the CVR
+recorded the sound of the FPA’s 900- and 800-foot callouts, respectively. About
+1901:36, the captain stated, “where’s it at?” The CVR recorded the FPA’s 700- and
+600-foot callouts about 1901:38 and 1901:42, respectively. About 1901:42, the first
+officer stated, “to the right,” which the captain repeated about 1 second later. Radar data
+indicated that the airport was still to the left of the airplane at this point.
+About 1901:45, the CVR recorded the airplane’s GPWS and FPA unit
+simultaneously announce the 500-foot callout. According to radar data, the airplane
+started a turn to the left about 1901:47. About 1901:49, the GPWS announced a sink rate
+alert,19 and the FPA announced the 400-foot callout. About 1901:52, the CVR again
+recorded a GPWS sink rate alert and the FPA 400-foot callout. Also, the CVR recorded a
+rumbling noise that continued until the end of the recording.20 According to the CVR
+Sound Spectrum Study performed for this accident, the engines increased to maximum
+power about 1901:53. The FPA 300-foot callout was recorded about 1901:54, and the
+GPWS and FPA 200-foot callouts were recorded about 1 and 2 seconds later,
+respectively. About 1901:57, the CVR recorded the GPWS bank angle alert when the
+airplane was banked about 40º left wing down.21
+17 This altitude is 2,385 feet above airport elevation.
+18 All FPA and ground proximity warning system (GPWS) altitude callouts are expressed as feet
+above ground level.
+19 The sink rate alert indicates a rate of descent that exceeds predetermined thresholds.
+20 For more information on this noise, see the section of this brief titled, “Cockpit Voice Recorder
+Sound Spectrum Study,” under the heading titled, “Tests and Research.”
+21 The bank angle alert occurs when the airplane enters a steep bank angle; the threshold for the
+alert ranges from 50º of bank at 190 feet above ground level to 15º of bank at ground level.
+NTSB/AAB-02/03
+
+8
+The airplane crashed into terrain while in a steep left bank about 2,400 feet short
+of the runway 15 threshold, 300 feet to the right (west) of the runway centerline and
+100 feet above the runway threshold elevation.22 The accident occurred at 39º
+14.315 minutes north latitude and 106º 52.637 minutes west longitude. The time of the
+accident was 34 minutes after official sunset. The CVR stopped recording about
+1901:58.
+DAMAGE TO AIRPLANE
+The airplane was destroyed by impact forces and, in isolated areas, postcrash fire.
+According to Avjet, the airplane was valued at $10 million.
+PERSONNEL INFORMATION
+The Captain
+The captain, age 44, was hired by Avjet in October 2000. He held a Federal
+Aviation Administration (FAA) Airline Transport Pilot certificate and a first-class
+medical certificate dated October 16, 2000, with a limitation that required lenses to
+correct for near vision. The captain received his initial Gulfstream III type rating in
+January 1990.
+According to Avjet employment records, the captain had accumulated 9,900 hours
+total flying time, including 7,900 hours as pilot-in-command and 1,475 hours in the
+Gulfstream III (175 of which were with Avjet as a pilot-in-command). He had flown
+approximately 87, 21, and 2 hours in the 90 days, 30 days, and 24 hours, respectively,
+before the accident. According to FAA records, the captain’s last recurrent ground
+training occurred on November 9, 2000, and his last proficiency check occurred on
+December 8, 2000. FAA records also indicated no accident history23 or enforcement
+action, and a search of the National Driver Register database indicated no record of
+driver’s license suspension or revocation.
+In a postaccident interview, the captain’s fiancée indicated that he was in good
+health and was not taking any medications. She also indicated that he was a “light”
+smoker who was in the process of quitting and that he consumed alcoholic beverages
+occasionally. Further, the captain’s fiancée stated that, on the morning of the accident, he
+awoke about 0700 (Pacific standard time) and that he had no sleeping difficulties.
+According to the Avjet Director of Operations, the captain had been paired with
+the first officer for 5 months, and they had flown to ASE two times before the accident
+flight. These flights were reported to have occurred during daylight conditions.
+22 The approach end of runway 15 is at an elevation of 7,674 feet, and its opposite end is at an
+elevation of 7,815 feet, which gives the runway an upward slope.
+23 FAA records indicated that the captain had been involved in an incident on January 20, 1999.
+The captain was landing a Gulfstream 1159-series airplane at Chino, California, but the airplane departed
+the end of the runway and went 150 feet into the paved overrun area. No action was taken against the
+captain.
+NTSB/AAB-02/03
+
+9
+The First Officer
+The first officer, age 38, was hired by Avjet in November 2000. He held an FAA
+Airline Transport Pilot certificate and a first-class medical certificate dated December 8,
+2000, with no limitations. He received his initial Gulfstream III type rating on
+February 9, 2001.
+According to Avjet employment records, the first officer had accumulated
+5,500 hours total flying time, including 4,612 hours as pilot-in-command and 913 hours
+in the Gulfstream II and III (110 of which were with Avjet as a Gulfstream III second-in-
+command). He had flown approximately 49, 10, and 2 hours in the 90 days, 30 days, and
+24 hours, respectively, before the accident. According to FAA records, the first officer’s
+initial ground training occurred on November 9, 2000, and his last proficiency check
+occurred on February 9, 2001.24 FAA records also indicated no accident or incident
+history or enforcement action, and a search of the National Driver Register database
+indicated no record of driver’s license suspension or revocation.
+In a postaccident interview, the first officer’s wife indicated that he was in good
+health and was not taking any medications. She also indicated that he was a nonsmoker
+and consumed alcoholic beverages infrequently. Further, the first officer’s wife stated
+that, on the night before the accident, he went to sleep about 2330 (Pacific standard time)
+and that, on the morning of the accident, he awoke about 0745 (Pacific standard time).
+AIRPLANE INFORMATION
+The accident airplane, serial number 303, was manufactured in 1980 by
+Gulfstream Aerospace Corporation and was issued an Export Airworthiness Certificate
+and Ivory Coast registration number TU-VAF. The airplane’s records indicated that it
+had been substantially damaged in Africa in 1988,25 shipped to the manufacturer for
+repairs, and placed back in service in October 1989 with a U.S. airworthiness certificate
+and registration number N1716W. In April 1990, Gulfstream sold the airplane to
+Airbourne Charter, Inc., which changed the registration number to N303GA. At the time
+of the accident, the airplane had accumulated 7,266 flight hours and 3,507 cycles.26
+24 FAA records for the first officer indicated the following information: On June 2, 1993, the first
+officer failed his first check ride for an instrument rating in the areas of ATC and navigation systems; he
+passed his second check ride the next day. On June 27, 1994, the first officer failed his first check ride for
+a flight instructor rating in the areas of ground reference maneuvers and approach and landing; he passed
+his second check ride on June 30, 1994. On May 24, 1998, the first officer failed his first check ride for an
+Airline Transport Pilot certificate in the area of VOR and circling approaches; he passed his second check
+ride on June 13, 1998. On March 25, 1999, the first officer was performing a GIII simulator competency
+check ride, during which time it was determined that he needed additional training to gain proficiency in
+normal takeoff, takeoff with engine failure, and nonprecision approaches.
+25 According to Gulfstream, the airplane’s landing gear was torn off and its wings were damaged
+after landing on a closed runway and going through a ditch.
+26 A cycle is one complete takeoff and landing sequence.
+NTSB/AAB-02/03
+
+1 0
+The airplane was equipped with two Rolls-Royce Spey MK 511-8 turbofan
+engines. These two-shaft engines have a 5-stage low-pressure compressor driven by a
+2-stage low-pressure turbine and a 12-stage high-pressure compressor driven by a 2-stage
+high-pressure turbine. The left engine, serial number 11005, had a time since new of
+7,116 hours (3,499 cycles). The right engine, serial number 11006, had a time since new
+of 7,563 hours (3,822 cycles). Both engines had a time since overhaul (in December
+1995) of 2,368 hours (2,572 cycles). The airplane was also equipped with a Garrett
+Model GTCP36-100 auxiliary power unit, which had accumulated 3,942 hours time since
+new.
+The airplane was equipped with a Collins FPA-80 unit. The FPA unit was
+designed to announce radio altitudes every 100 feet between 1,000 and 100 feet above the
+ground and deviations from a selected altitude. The airplane was also equipped with an
+AlliedSignal Mark VI GPWS computer. The GPWS was designed to announce the 500-
+and 200-foot radio altitude callouts and alerts for excessive descent rate, excessive
+closure rate to terrain, insufficient terrain clearance, and excessive bank angle. The CVR
+indicated that the FPA and the GPWS provided overlapping callouts at the 500- and
+200-foot altitudes.
+Maintenance Records
+The airplane was maintained in accordance with an FAA-approved program that
+consisted of four regularly scheduled operations inspections. Operations inspection
+number 1 was to be accomplished every 150 flight hours; it was last accomplished when
+the accident airplane had accumulated 7,176 flight hours (90 flight hours before the time
+of the accident). Operations inspection number 2 was to be accomplished every
+12 months; it was last accomplished on the accident airplane on March 23, 2001.
+Operations inspections numbers 3 and 4 were to be accomplished every 24 months; they
+were last accomplished on the accident airplane on February 11, 2000, and March 23,
+2001, respectively. A review of the scheduled maintenance items revealed that no
+inspections were overdue.
+The airplane’s maintenance records for scheduled maintenance for January
+through March 2001 and unscheduled maintenance for March 2001 showed no
+discrepancies. The maintenance records also showed that all of the airplane’s applicable
+FAA airworthiness directives had been accomplished.
+The airplane’s interior was refurbished on March 24, 2001. According to the
+maintenance records, the airplane’s weight and balance and center of gravity were
+recalculated and found to be within limits.
+METEROLOGICAL INFORMATION
+Weather observations at ASE are made by an Automated Surface Observing
+System (ASOS), which is maintained by the NWS. The ASOS anemometers are located
+east of the approach end of runway 15. The ASOS continuously measures wind,
+NTSB/AAB-02/03
+
+1 1
+visibility, precipitation and obstructions to vision, cloud height, sky cover, dew point, and
+altimeter setting. The measurements are backed up and augmented by air traffic
+controllers who have been certified in weather observation. These controllers can
+provide observations for any other operationally significant information. The controllers
+can also override the automated mode if it malfunctions or provides unrepresentative
+values.
+The ASOS transmits an official Meteorological Aerodrome Report (known as a
+METAR) about 53 minutes past each hour and a special weather observation (known as a
+SPECI) as conditions warrant. The ASOS hourly observations for 1753:26 and 1853:26
+were the source for ATIS information Hotel and India, respectively (see the History of
+Flight section).27 The ASOS transmitted a SPECI at 1912:26 (10 ½ minutes after the
+accident), indicating that the visibility had decreased to 1 ¾ miles in light snow. At
+1920:26 (18 ½ minutes after the accident), the ASOS transmitted another SPECI,
+indicating that the visibility had increased to 3 miles in light snow and mist. The ASOS
+5-minute observations surrounding the time of the accident (1900:31 and 1905:31)
+indicated that the visibility was 9 and 6 miles in light snow, respectively. The ASOS
+1-minute visibility value about the time of the accident was 8 miles. In addition, at 1902
+the ASOS reported that the wind was 277º at 1 knot.
+Weather observations at the airport at Rifle (the alternate destination airport) are
+also made by an ASOS—but only in the automated mode. The ASOS observation for
+1853 indicated that the wind was from 190º at 5 knots, sky condition was clear at or
+below 12,000 feet, visibility was 10 miles, temperature was 4º C, dew point was 2º C, and
+altimeter setting was 29.86 inches of Hg.
+The NWS office in Grand Junction, Colorado, operates a Weather Surveillance
+Radar 1988 Doppler (WSR-88D) system. The WSR-88D’s 0.5º elevation angle at 1857
+and 1902 showed weak weather radar echoes at or near the Red Table VOR and along the
+accident airplane’s flight track from about 8 to 4 miles from the approach end of runway
+15. These images also indicated that the weak weather echoes in the airport area were
+moving to the southeast.
+Two AIRMETs were issued by the NWS Aviation Weather Center on March 29,
+2001, at 1345 and were valid until 2000 for an area that included ASE. One AIRMET
+indicated the following: “mountains occasionally obscured in clouds and precipitation.”
+The other AIRMET warned of “occasional moderate rime or mixed icing in cloud and in
+precipitation above the freezing level to FL [flight level] 180.”
+In addition, the NWS Aviation Weather Center issued an area forecast for
+Colorado (mountains and west section) on March 29, 2001, at 1345 that was valid until
+March 30, 2001, at 0200. The area forecast indicated the following:
+27 The 1753:26 METAR indicated that a trace of precipitation (less than 0.01 inch) had been
+recorded since the time of the preceding hourly observation. The 1853:26 METAR indicated that snow had
+begun at 1851 and that a trace of precipitation had been recorded since the time of the preceding hourly
+observation.
+NTSB/AAB-02/03
+
+1 2
+Clouds 8,000 to 10,000 broken to overcast. Tops to FL 180. Broken cirrus. Widely
+scattered light rain and snow showers. Isolated thunderstorms, light rain, lowering
+ceilings/visibilities 1,500 feet overcast to 2,500 feet overcast with visibility 3 to 5
+miles. Becoming March 29, 2001 at 2000 to March 30, 2001 at 0200, isolated light
+rain and snow showers. Cumulonimbus tops to FL 310.
+Automated Flight Service Station Briefing
+Three NWS AIRMETs pertinent to the flight to ASE were provided to the first
+officer during the AFSS weather briefing. These AIRMETs were issued on the day of the
+accident at 0745 and were valid until 1400. One AIRMET warned of “occasional
+moderate turbulence below 15,000 feet. Another AIRMET warned of “occasional
+moderate rime or mixed icing in cloud and in precipitation above the freezing level to
+FL 180.” The last AIRMET indicated the following: “mountains occasionally obscured
+in clouds and precipitation.”
+The 1141 ASE weather observation indicated that the wind was variable at
+3 knots; visibility was 7 miles in light snow; sky condition was a few clouds at 1,100 feet,
+scattered clouds at 1,600 feet, and a ceiling of 3,000 feet overcast; temperature was 1º C;
+dew point was -2º C; and altimeter setting was 29.85 inches of Hg. The AFSS specialist
+informed the first officer that the visibility reported in this observation had recently
+increased from 1 mile in heavier snow showers.
+The ASE forecast for 1300 to 1900 indicated that the wind was 330º at 10 knots,
+visibility was greater than 6 miles with showers in the vicinity, and sky condition was
+scattered clouds at 3,000 feet with a ceiling of 5,000 feet broken. This forecast also
+included a report of temporary conditions (known as a TEMPO), indicating that the wind
+was variable at 10 knots with gusts to 15 knots, visibility was 3 miles in light snow
+showers, and sky condition was a ceiling of 2,500 feet broken and 5,000 feet overcast.
+AIRPORT INFORMATION
+ASE, also known as Sardy Field, is owned and operated by Pitkin County,
+Colorado. The airport is located about 3 miles northwest of the city of Aspen at an
+elevation of 7,815 feet msl and is surrounded on all sides by high terrain. The airport has
+only one runway, 15/33. Figure 2 shows the final approach course to runway 15 and the
+surrounding terrain.
+Runway 15/33 is constructed of asphalt with a porous friction course overlay.
+The runway is 7,006 feet long and 100 feet wide and is equipped with medium intensity
+runway lights (MIRL) and threshold lights. Runway end identifier lights (REIL) are
+installed at the threshold of runway 15.28 Also, runway 15 is painted with nonprecision
+28 The three intensity settings for the MIRL and REIL are controlled in the tower by a single
+switch. The ASE air traffic control tower’s (ATCT) standard operating procedure manual indicates that the
+lights are to be operated in accordance with FAA Order 7110.65, “Air Traffic Control.” Paragraph 3-4-1-3
+NTSB/AAB-02/03
+
+1 3
+instrument runway markings and is equipped with a precision approach path indicator
+system for visual glideslope guidance.
+The airport is certified by the FAA as an aircraft rescue and fire fighting (ARFF)
+index B facility.29 ASE has one four-wheel-drive ARFF vehicle (radio call sign “ARFF
+699”) with the capacity to carry 1,500 gallons of water and 205 gallons of aqueous film
+forming foam (AFFF). It also carries 500 pounds of Purple-K dry chemical fire-fighting
+agent.
+The most recent FAA annual airport certification inspection before the accident
+occurred on July 26 and 27, 2000. The most recent triennial full-scale disaster drill was
+held on September 23, 2000.
+NOT TO BE USED FOR NAVIGATION.
+Figure 2. Airborne view of runway 15.
+of the FAA order states that the MIRL should be set at step 3 (the highest intensity) when visibility is less
+than 2 miles or when the pilot requests this setting.
+29 According to 14 CFR 139.315, the index determination of an airport is derived from the number
+of daily departures of aircraft of a certain size. Because ASE has an average of five or more daily
+departures of air carrier aircraft that are at least 90 feet but less than 126 feet in length, the airport meets the
+criteria for an index B facility. Title 14 CFR 139.317 requires index B facilities to have one or two ARFF
+vehicles carrying a combined minimum of 1,500 gallons of water and AFFF, and one of these vehicles is
+required to carry a minimum of 500 pounds of sodium-based dry chemical or halon 1211.
+NTSB/AAB-02/03
+
+1 4
+Instrument Approach Procedure
+According to FAA file information, the VOR/DME-C instrument approach does
+not include straight-in minimums because of excessive descent gradients. However, the
+approach does meet the FAA’s straight-in alignment criteria.
+Change 17 to FAA Order 8260.3B, “Terminal and Enroute Procedures” (also
+known as TERPS), states that, to establish straight-in minimums, the final approach
+course must be aligned within 30º of the runway extended centerline and intercept it no
+more than 3,000 feet from the threshold. ASE’s final approach course for runway 15 is
+aligned within 16º of the runway extended centerline and intercepts it 2,912 feet from the
+threshold. However, TERPS paragraph 252 indicates that, for straight-in minimums, the
+maximum gradient between the final approach fix minimum altitude and the runway
+threshold crossing height must be no more than 400 feet per mile and that, if this value is
+exceeded, only circling minimums may be established regardless of the course alignment.
+The descent gradient between ALLIX (the final approach fix at an altitude of 12,200 feet)
+and the threshold crossing height at the end of runway 15 (55 feet above ground level, or
+7,729 feet msl) is 700 feet per mile. Thus, straight-in minimums cannot be included as
+part of the instrument approach procedure.
+The FAA’s Aeronautical Information Manual, paragraph 5-4-18d, states the
+following:
+The fact that a straight-in minimum is not published does not preclude pilots
+from landing straight-in if they have the active runway in sight and have
+sufficient time to make a normal approach for landing. Under such conditions
+and when ATC [air traffic control] has cleared them for landing on that runway,
+pilots are not expected to circle even though only circling minimums are
+published. If they decide to circle, they should advise ATC.
+Notice to Airmen
+On March 21, 2001, a flight inspection crew from the FAA’s Oklahoma City,
+Oklahoma, Flight Inspection Field Office performed a commissioning flight check at
+ASE to support a proposed GPS standard instrument approach procedure to runway 15.
+After the inspection, the flight inspection crew noted, on the procedural control form, that
+circling should not be allowed at night30 because areas of unlighted terrain conflicted
+with traffic patterns and circling descent maneuvers near the airport. Afterward, the
+flight inspection crew provided its comments to FAA staff at the National Flight
+Procedures Office in Oklahoma City.
+The National Flight Procedures Office decided to add a restriction on nighttime
+operations to the VOR/DME-C procedure and issued a permanent Notice to Airmen
+30 When the ASE VOR/DME-C approach was first established in December 1988, the procedure
+was not authorized at night. According to postaccident interviews with staff from the FAA’s Flight
+Standards Service, the night restriction on the approach was removed in October 1994 because of
+complaints from user groups.
+NTSB/AAB-02/03
+
+1 5
+(NOTAM) that stated, “circling NA [not authorized] at night.” According to FAA flight
+procedures specialists, the NOTAM eliminated all circling minimums at night and
+therefore implied that the entire procedure was not authorized because no straight-in
+minimums are published.31 The NOTAM was sent to the U.S. NOTAM Office in
+Herndon, Virginia; the National Flight Data Center in Washington, D.C.; and the Seattle,
+Washington, Flight Procedures Office on March 27, 2001. The Denver Air Route Traffic
+Control Center (ARTCC) Flight Data Communications position received the NOTAM
+the same day. The specialist at this position was responsible for distributing NOTAMs to
+affected ARTCC sectors and associated towers and facilities, including the ASE ATCT.
+The Denver ARTCC specialist did not send this particular NOTAM to the ASE ATCT
+(because of human error), but the NOTAM was received at the Hawthorne, California,
+AFSS and was included in the first officer’s preflight briefing.
+After the accident, the FAA became concerned about potential pilot confusion
+regarding the wording of the NOTAM issued on March 27, 2001. Specifically, the FAA
+was concerned that pilots might infer that straight-in landings to runway 15 were
+authorized at night. As a result, a revised NOTAM was issued on March 30, 2001, which
+stated, “procedure NA at night.”
+Title 14 CFR 1.1 defines “night” as “the time between the end of evening civil
+twilight and the beginning of morning civil twilight.” The U.S. Naval Observatory
+explains “evening civil twilight” as follows: “to end in the evening when the center of
+the Sun is geometrically 6 degrees below the horizon. This is the limit at which twilight
+illumination is sufficient, under good weather conditions, for terrestrial objects to be
+clearly distinguished…. Complete darkness, however…begins sometime after the end of
+evening civil twilight.” On the night of the accident, evening civil twilight officially
+ended at ASE at 1855, 27 minutes after sunset and about 7 minutes before the accident.
+Air Traffic Control Tower Information
+The ASE ATCT is a combined tower cab and terminal radar approach control
+(TRACON). The ATCT is located about 2,500 feet southeast of the approach end of
+runway 15.
+The ATCT is equipped with a BI-5 beacon radar system (also known as
+secondary radar); transponder equipment on board aircraft actively replies to signals from
+the ground station with a four-digit code. (No primary radar coverage is available.) The
+beacon interrogator is located about 2,000 feet west of the approach end of runway 15.
+Coverage exists out to about 50 miles from the airport, but low-altitude coverage is
+masked in many areas because of the high terrain. The beacon information is processed
+by an Automated Radar Terminal Systems 2E system and is displayed on two Digital
+Bright Radar Indicator Tower Equipment units in the tower. A Minimum Safe Altitude
+31 FAA Order 8260.19C, “Flight Procedures and Airspace,” paragraph 226b, states that the
+NOTAM text should use “plain language” and that “specialists must keep in mind that the NOTAM is
+directed to the pilot, and should be worded so that the intended change will not be misinterpreted.”
+NTSB/AAB-02/03
+
+1 6
+Warning System is not installed at the ATCT because of the high number of false alarms
+that would be created by the high terrain surrounding ASE.
+The ATCT operates between 0700 and 2300 each day, corresponding with the
+airport’s hours of operation. The Denver ARTCC assumes responsibility for ATC
+services for the airspace surrounding ASE during the time that the ATCT and airport are
+not in operation.
+The air traffic controllers are trained to closely monitor the progress of airplanes
+executing the VOR/DME-C approach. The training concentrates on ensuring that the
+controllers pay close attention to an airplane’s proximity to the required minimum
+step-down fix altitudes published in the approach procedure. Controllers are trained to
+advise pilots immediately when they see an aircraft pass below a required step-down
+minimum altitude. In postaccident interviews, controllers at the ATCT indicated that,
+when they observe an airplane’s altitude about 200 feet lower than the published altitude
+(to account for altimeter or transponder error), they ask the pilot whether the runway is in
+sight. If the pilot does not report the runway in sight, the controller issues a low-altitude
+alert and may issue missed approach instructions.
+Four controllers were on duty on the night of the accident—the local controller,
+the radar approach controller, a ground controller, and a controller-in-charge. The local
+controller was certified in all positions except radar approach control. (She was in
+training for that position.) She began her ATC career in 1981 at Elmendorf Air Force
+Base in Alaska and started work with the FAA in March 1986 as an air traffic assistant at
+the ATCT at Anchorage International Airport, Alaska. Between 1990 and 1997, she
+worked at various flight service stations in Alaska and, in October 1997, began working
+at the Denver Flight Service Station. She started as a terminal controller at ASE in
+August 1999.
+During a postaccident interview, the local controller stated that her first
+interaction with N303GA was when one of its pilots reported on frequency. (She
+indicated that the airplane was near the Red Table VOR about that time.) The local
+controller also stated that, after clearing the airplane to land, she saw it descend below a
+step-down altitude. (Radar data indicated that this altitude was 10,400 feet). During the
+exchange with the pilots regarding whether they had the runway in sight, the local
+controller was not able to see the airplane. About 1 minute later, she saw the airplane
+“come out of the snow, pointed at Shale [Bluffs].” (Shale Bluffs is located northwest of
+ASE and the runway.) The local controller said that the airplane appeared low and to the
+right of the centerline. She indicated that the pilot then apparently “got the runway and
+turned toward it.” She noted that the airplane looked as if it were accelerating, with its
+lights pointed directly at the tower, and that the airplane was rolling rapidly to its left.
+The local controller thought the airplane was going to crash and immediately reached for
+the crash phone. As she saw the explosion, she immediately hit the emergency siren
+switch to alert ARFF.
+NTSB/AAB-02/03
+
+1 7
+FLIGHT RECORDERS
+The accident airplane was equipped with a Fairchild A100A CVR, serial number
+54667. The exterior CVR case was slightly dented but was intact. The crash-survivable
+interior box did not appear to have sustained any structural damage, but the tape
+assembly unit within it had detached. The tape was contained on its spool and was intact.
+The CVR exterior, interior, and tape did not exhibit heat or fire damage.
+The CVR was sent to the Safety Board’s audio laboratory in Washington, D.C.,
+for readout and evaluation. The CVR recording started about 1830:18 and continued
+until 1901:58. A transcript was prepared for the entire 31-minute 40-second recording.
+The recording consisted of three channels of “good quality” audio information.32 The
+three channels contained the captain’s audio panel information, the cockpit area
+microphone (CAM), and the first officer’s audio panel information.
+The airplane was not equipped with a flight data recorder. Title 14 CFR Parts 91
+and 135 did not require the airplane to be so equipped.
+WRECKAGE AND IMPACT INFORMATION
+A ground scar indicated that the left wing tip made the initial impact with the
+terrain. Measurements obtained from tree strikes near the ground scar showed that the
+airplane initially impacted terrain in a 49º left-wing-down attitude, with a flightpath angle
+of -15º. The ground scar was about 72 feet long.
+Airplane debris was spread over a 300-foot-long path that began at the initial
+impact point, continued through a 40-foot ravine, and ended with the airplane’s tail
+section.33 The debris path followed a 147º heading. The impact subjected the airplane to
+severe accordion-type crushing, causing components to separate and structure to fracture.
+The fuselage was destroyed by impact forces.
+The left wing was fractured about 9 feet from the wingtip. The left wing was also
+fractured from the separated tip inboard to the main portion of the wing box, but the wing
+was intact from the fractured tip to the wing box. The right wing was fractured about
+30 feet inboard from the wing tip. About 12 feet of the right wing and its inboard wing
+root were attached to the wing box. Both airplane flaps were separated from the wing in
+the full-down (39º) position.34 Both ailerons had separated from the wing.35
+32 The Safety Board ranks the quality of CVR recordings in five categories: excellent, good, fair,
+poor, and unusable. For a recording to be considered good quality, most of the crew conversations need to
+be accurately and easily understood. The transcript developed from the recording might indicate several
+words or phrases that were not intelligible; such losses are attributed to minor technical deficiencies or
+momentary dropouts in the recording system or simultaneous cockpit/radio transmissions that obscure one
+another.
+33 The location of the main wreckage was 39º 14.278 minutes north latitude and 106º 52.621
+minutes west longitude.
+34 The Gulfstream III has one single-slotted trailing flap on each wing. Each flap can be moved to
+one of four positions: 0º (up), 10º (takeoff), 20º (approach), and 39º (down).
+NTSB/AAB-02/03
+
+1 8
+The airplane’s left and right engines had separated from their pylons, and neither
+engine showed any signs of any uncontainments or fires. The fan and compressor blades
+were bent opposite the direction of rotation of the compressor rotor. The second-stage
+low-pressure turbine blades and second-stage low-pressure turbine nozzles were all intact
+and undamaged with metal spray on the blades and nozzles.
+The horizontal stabilizer remained attached to the vertical stabilizer and was in an
+approximately 6º leading-edge-down position.36 Both elevators were attached to the
+horizontal stabilizer, and the rudder was attached to the vertical stabilizer. The trailing
+edges of the elevators and rudder sustained minor damage.
+The left and right main landing gear were mostly undamaged and were found in
+their wheel wells. The nose gear fractured in two places: the shock strut piston fractured
+below the steering unit, and the steering shock strut cylinder fractured near the upper
+trunnion attachment point. The landing gear handle was not located. The landing gear
+handle knob, which contains lights that illuminate when the landing gear is in transit, was
+located. However, examination by the Safety Board did not provide conclusive evidence
+whether the lights were illuminated at the time of impact.
+MEDICAL AND PATHOLOGICAL INFORMATION
+Fluid specimens from the captain and the first officer were sent to the FAA’s
+Civil Aerospace Medical Institute in Oklahoma City, Oklahoma, for toxicological
+analysis. The specimens tested negative for major drugs of abuse and prescription and
+over-the-counter medications. The specimens also tested negative for ethanol.
+SURVIVAL ASPECTS
+Autopsy results for the captain, first officer, and flight attendant indicated that all
+died from multiple blunt force injuries. According to the Pitkin County Coroner, the
+cause of death for all of the passengers was massive blunt force trauma.
+EMERGENCY RESPONSE
+As previously stated, the local controller indicated that she immediately reached
+for the crash phone as she saw the airplane roll to the left and that she hit the emergency
+siren switch after she saw the explosion. The crash phone simultaneously connects the
+ATCT with the ARFF communications center, the airport operations office, and the
+Aspen-Pitkin County Communications Center. The emergency siren is located atop the
+ARFF building and is activated by a toggle switch in the tower cab.
+35 The Gulfstream III has one aileron on each wing located just outboard of the flap.
+36 The Gulfstream III’s horizontal stabilizer moves only as a function of flap position. With the
+flaps in the full-down position, the horizontal stabilizer moves to 6º leading edge down (±¼º).
+NTSB/AAB-02/03
+
+1 9
+According to a timed audiotape from the Aspen-Pitkin County Communications
+Center, the initial Alert 3 notification37 was received from the tower cab at 1901:53.38
+The audiotape also indicated that a radio call from the dispatch office to all Aspen fire
+and ambulance units (including ARFF 699) occurred at 1903:41.
+The ARFF crew chief at the time of the accident stated that she immediately
+departed the station in ARFF 699 and proceeded toward the standard staging site. An
+off-duty airport firefighter, who was working in the main terminal building when the
+alarm sounded, was also aboard ARFF 699. About 1903:28, the crew chief contacted the
+ATCT ground controller, asking for emergency information. She was provided with the
+Alert 3 status, the airplane type and registration number, and an approximate location of
+the accident site (the Shale Bluffs area). About 1904:22, the crew chief stated, “ARFF
+699, roger, we will respond.” The crew chief proceeded to a perimeter gate, rather than
+continuing to the staging area, after learning that the accident site was north of the airport
+area.
+The on-duty ASE Airport Operations Officer was in the ARFF station when the
+crash alarm sounded. He followed ARFF 699 in a separate airport vehicle. About
+1904:57, the on-duty airport operations officer radioed that ARFF 699 should “stand
+down” because the accident site, although on airport property, was outside of the airport
+operations area (the portion of the airport that is contained within the perimeter fencing
+and considered a controlled access area).39 The crew chief stated that she then asked the
+on-duty airport operations officer to call the ASE Director of Aviation for authorization
+for ARFF 699 to leave the airport. She reported that, about 3 minutes later, ARFF 699
+received clearance to proceed to the accident site.40
+The Aspen Fire Protection District maintains a four-wheel-drive vehicle (radio
+call sign “Tender One”) at the airport with a capacity to carry 3,000 gallons of water and
+30 gallons of AFFF. The vehicle is staffed by members of the all-volunteer force. Two
+Aspen volunteer firefighters staffed Tender One on the night of the accident. The ASE
+Airside Operations Supervisor/Fire Chief stated that the second firefighter aboard ARFF
+699 reported that he observed Tender One traveling toward the accident scene at the time
+that ARFF 699 was awaiting permission to leave the airport. About 1908:28, ARFF 699
+radioed ATCT ground control, stating that the vehicle was off the airport. When ARFF
+699 arrived at the accident site, Tender One was the only other fire truck on scene.
+37 “Alert 3” indicates that an aircraft has been or is expected to be involved in an accident near or
+on the airport. It is the most serious of the three alert categories.
+38 The times in this section could not be correlated with ATC and CVR transcript times and radar
+data information.
+39 The ASE Airside Operations Supervisor/Fire Chief stated that ARFF crews had been trained to
+respond to off-airport emergencies but that, about October 2000, the Pitkin County Sheriff’s Office notified
+airport officials that the airport had no jurisdiction beyond the airport perimeter. As a result, the airport
+began instructing ARFF crews that they were not to leave the airport without first receiving permission
+from the airport director.
+40 On April 5, 2001, the ARFF Fire Chief issued a memorandum to all ARFF staff. The
+memorandum stated that, “effective immediately, ARFF 699 may leave the Airport Operations Area for
+downed aircraft emergencies at the discretion of the Crew Chief, with permission of the on-duty Operations
+Officer (Airport Director approval is not required).”
+NTSB/AAB-02/03
+
+2 0
+The fire was extinguished about 10 minutes after ARFF 699 arrived on scene.
+According to Aspen Fire Protection District records and Aspen-Pitkin County
+Communications Center transcripts, 5 fire-fighting units, 2 rescue vehicles, 1 jeep, at
+least 2 medical units, and 30 Aspen Fire Protection District personnel responded to the
+accident.
+TESTS AND RESEARCH
+Airplane Performance Study
+The Safety Board conducted an airplane performance study to develop the time
+history of the airplane’s motion and to calculate various performance and orientation
+parameters. To perform the study, several sources of information were used, including
+information from the CVR and ATC transcripts, Airport Surveillance Radar (ASR) radar
+data from the ASE TRACON, National Track Analysis Program (NTAP) radar data from
+the Denver ARTCC, aerodynamic data from the airplane’s manufacturer, and upper-level
+wind data from Grand Junction (located about 77 miles west of the accident site). The
+times for the ASR and NTAP data and the CVR and ATC transcript information were
+correlated. Figure 3 shows a profile view of the airplane’s approach to ASE.
+14000
+13000
+12000
+11000
+10000
+9000
+8000
+12 10 8 6 4 2 0
+NTSB/AAB-02/03
+)lsm
+tf(
+edutitlA
+MDA
+deraelc
+evif
+eno"
+ODR
+40:8581
+"ahpla
+flog
+eerht
+dnal
+ot
+"?thgis
+ni
+yawnur
+eht evah
+uoy..."
+RWT
+94:0091
+ni yawnuR"
+ODR
+25:0091
+".regoR
+usiv
+deraelc
+ahplA
+floG
+eerht
+maertsfluG"
+RWT
+45:0091
+"ahplA
+floG
+eerht
+thgis
+"doog
+si
+thgir
+eht
+ot
+haey..."
+2-TOH
+31:1091
+"?ta
+ti
+s'erehw..."
+1-TOH
+63:1091
+D11.0
+MAP
+Red D3.0
+Table ALLIX
+VOR D6.0
+D9.5
+North Range (nm)
+RDO, radio communication transmitted to and from N303GA; TWR, radio transmission from
+ASE local controller; HOT-2, first officer’s audio panel information; MAP, missed approach
+point; HOT-1, captain’s audio panel information; MDA, minimum descent altitude.
+Figure 3. Profile view of N303GA’s approach to ASE.
+
+2 1
+According to the study, N303GA crossed the Red Table VOR (the initial
+approach fix) about 1857:49 at an altitude of 14,000 feet, a magnetic heading of 168º, and
+an airspeed of about 160 knots.41 The airplane crossed the step-down fix located 3 DME
+south of the Red Table VOR about 1858:40 at an altitude of 12,700 feet and an airspeed
+of about 150 knots. About 1859:00, the airplane started to level off near 12,200 feet, and
+the airplane’s speed decreased to approximately 125 knots by about 1859:30. About
+10 seconds later, the airplane crossed ALLIX (the final approach fix) at an altitude of
+12,100 feet (about 100 feet below the minimum altitude for ALLIX).
+After passing ALLIX, N303GA maintained a descent rate of about 2,200 feet per
+minute and an airspeed of about 125 knots. (The reference airspeed for landing [V ] for
+ref
+the airplane’s weight was 123 knots indicated airspeed.) The airplane leveled off at an
+altitude of 10,100 feet (about 300 feet below the minimum specified altitude for the
+9.5 DME step-down fix) about 1900:39 but began to descend again about 10 seconds
+later. At that point, the airplane’s heading increased about 15º as the airplane turned
+slightly to the right. (About that time, the CVR recorded the exchange between the
+controller and the flight crewmembers regarding whether they had the runway in sight.)
+The airplane continued its descent at a rate of about 2,200 feet per minute and an
+airspeed of about 125 knots. The airplane passed the step-down fix located 9.5 DME
+south of the Red Table VOR about 1901:00 at an altitude of 9,500 feet (900 feet below
+the minimum specified altitude). About 1901:13, the airplane’s heading started to
+decrease slightly while the airplane was at an altitude of 9,000 feet. (At this time, the
+CVR recorded the first officer’s comment, “…to the right is good.”) Radar data showed
+that, at this time, the airport was to the left of the airplane.
+The FPA’s 1,000-foot callout (about 1901:28) occurred when the airplane was at
+an altitude of 8,600 feet. At the time of the FPA’s 800-foot callout (about 6 seconds
+later), the airplane’s bank angle started to increase in the right-wing-down direction, and
+the airplane’s magnetic heading of about 185º started to increase. When the CVR
+recorded the captain asking, “where’s it at?” about 1901:36, the airplane was banked to
+the right with its heading increasing. When the first officer’s response “to the right” was
+recorded by the CVR about 6 seconds later, the airplane was still banked to the right, but
+the bank angle was decreasing.
+N303GA was flying on a 200º magnetic heading when the 500-foot callout was
+announced by both the FPA and GPWS about 1901:45. The airplane started to turn to the
+left about 1901:47. At the time of the FPA’s 400-foot callout about 1901:49, the airplane
+was banked 10º left wing down with its heading starting to decrease. The last recorded
+radar return occurred at 1901:50 when the airplane was at an altitude of 8,000 feet. The
+GPWS’ 200-foot callout was recorded about 1901:55 when the airplane was at an altitude
+of about 7,900 feet. At the time of the GPWS’ bank angle alert (about 1901:57), the
+airplane’s bank angle exceeded 40º left wing down, consistent with the ground scar and
+tree strike evidence found at the accident scene.
+41 The airspeeds in this section are calibrated airspeeds that were calculated from radar
+groundspeed and track data, wind data, magnetic variation, and atmospheric data.
+NTSB/AAB-02/03
+
+2 2
+As indicated in the History of Flight section, the CVR recorded two 400-foot
+callouts about 1901:48 and 1901:52. The Airplane Performance Study determined that,
+during this part of the approach, the airplane’s descent rate was mostly constant, but the
+terrain below the airplane changed. Specifically, at the time of the second 400-foot
+callout, the airplane was crossing a riverbed, and the terrain dropped 140 feet in elevation
+from the bank to the lowest point in the riverbed. The terrain rose again as the airplane
+crossed the riverbed, during which time the 300- and 200-foot callouts were recorded on
+the CVR. After the FPA’s 200-foot callout (recorded 1 second after the GPWS’ 200-foot
+callout), the terrain rose another 25 feet (the elevation of the accident site).
+Cockpit Voice Recorder Sound Spectrum Study
+A CVR sound spectrum study was performed to (1) determine if sounds similar to
+landing gear retraction could be heard toward the end of the CVR recording, (2) confirm
+the cockpit aural advisories and warnings that were transcribed from the CVR recording,
+(3) investigate the unidentified rumbling noise at the end of the CVR recording, and
+(4) document the recorded engine signatures. The results of this study are discussed in
+the following paragraphs.
+First, as stated in the History of Flight section, the captain called for the landing
+gear about 1859:30, and the sound of two clunks and an increase in background noise
+followed immediately. Two sections of the CAM channel recording were reviewed: the
+landing gear movement series of noises and the time of the FPA’s 1,000-foot callout
+through the end of the recording (from about 1901:28 to about 1901:58). An aural and
+spectral comparison of the two sections of the recording indicated the last 30 seconds of
+the recording did not contain any acoustic evidence of landing gear movement or
+operation.
+Second, the Gulfstream III aural advisories and warnings were identified, and
+the aural advisories and warnings recorded on the accident airplane’s CVR were
+confirmed. The GPWS and FPA unit aural advisories and warnings recorded by the CVR
+were distinctly identifiable: the GPWS voice gender was male, whereas the FPA unit
+voice gender was female. The GPWS’ advisories and warnings were consistently
+recorded on the CAM channel only, and the FPA unit’s advisories and warnings were
+consistently recorded on the captain’s and first officer’s channels and the CAM channel
+until the 500-foot callout. At that point, the GPWS’ 500-foot callout was recorded on the
+CAM channel, and the FPA’s 500-foot callout was recorded only on the flight crew
+channels. The FPA’s 400-foot callouts were not recorded on the CAM channel but
+continued to be recorded on the flight crew channels, the 300-foot callout was partially
+recorded on the captain’s channel (recorded as “three hun” and followed by sounds
+indicative of a microphone key that continued to the end of the recording) and fully
+recorded on the first officer’s channel, and the 200-foot callout was recorded only on the
+first officer’s channel. In addition, the frequencies of the system tones recorded by the
+accident airplane’s CVR were confirmed.
+NTSB/AAB-02/03
+
+2 3
+Third, the CVR transcript indicated that a rumbling noise began about 1901:52,
+blended into the background about 1901:57, and continued until the end of the
+recording.42 A spectrogram (a graphic depiction of signal frequency and energy versus
+time) of the last 7 seconds of the CAM channel recording indicated a broadband noise
+with a cycle of 16.5 Hertz (Hz). The stick shakers from a similar Gulfstream III stall
+warning system were recorded during a ground test. Spectrograms of the two stick
+shaker systems from the test airplane’s CAM channel recording contained characteristics
+similar to the rumbling noise on the accident airplane’s recording. Specifically, one stick
+shaker system produced a broadband noise with a cycle of 16.1 Hz, and the other stick
+shaker system produced the same noise but with a cycle of 17.2 Hz. (The stick shaker
+motor operates between 13.3 and 23.3 Hz.)
+Fourth, the spectrogram of the last 6 minutes of the CAM channel recording
+indicated a signature that ranged between about 260 and 510 Hz. According to the
+airplane and engine manufacturers, such a signature recorded by the CAM channel is
+typically associated with the engine-driven hydraulic pump; as a result, it was possible to
+determine the corresponding engine speeds (N ).43 A spectrogram of the last 6 minutes
+2
+of the CAM channel recording showed two separate signatures, which indicated that the
+two engines were operating independently. Also, the spectrogram indicated that the
+engine speeds ranged from about 53 to 102 percent N , with both engines indicating
+2
+102 percent N at the end of the CVR recording.
+2
+ADDITIONAL INFORMATION
+Company Information
+According to Avjet’s Director of Operations, the company was formed in 1977.
+All of the airplanes managed by Avjet are privately owned. When the owners are not
+using the airplanes under 14 CFR Part 91, they are available for on-demand charter
+flights conducted under 14 CFR Part 135. The Director of Operations also stated that all
+cockpit crews are assigned to a specific airplane and owner and that most pilots are
+certified under both Parts 91 and 135. The director further stated that, at the time of the
+accident, the company employed 55 pilots and 4 check airmen, all of whom were
+full-time employees. At the time of the accident, the company’s Part 135 certificate
+listed 18 airplanes, 15 of which were Gulfstream airplanes.
+According to Avjet’s Director of Operations, the company considered ASE to be
+a special airport. He explained that, for operations into special airports, the charter
+manager would discuss the flight crew’s qualifications with upper managers and might
+not assign a captain to an airport with which he/she was not familiar.
+42 Calculated airspeeds between 1901:52 and 1901:57 ranged from 120 to 127 knots. At 40º of
+bank and the airplane’s weight at the time of the accident, the stall speed was about 134 knots.
+43 N is the rotational speed of the high-pressure spool in a gas turbine engine.
+2
+NTSB/AAB-02/03
+
+2 4
+Operations Manual
+The Avjet Operations Manual in effect at the time of the accident was dated
+July 15, 2000. Page 3-6 states that the pilot-in-command “will ensure that the flight is
+conducted in complete compliance with all Federal, Local, and Company regulations and
+policies.”
+Page 4-4 indicates that, during the descent, the captain is responsible for
+conducting an approach briefing after leaving 18,000 feet but before reaching
+10,000 feet. The manual instructs the captain to emphasize the following: configuration;
+approach speed; final approach fix altitude; decision height/minimum descent altitude;
+visual descent point; circling maneuver; missed approach heading, altitude, and
+intentions; runway information; and abnormal conditions. The manual indicates that the
+first officer is responsible for calling “one thousand to go” at 1,000 feet above the
+assigned altitude.
+Pages 4-4 and 4-5 indicate the flight crew callouts that are required during the
+final approach segment of an instrument approach. The captain is responsible for
+announcing his intentions at the decision height or missed approach point. The first
+officer is responsible for the following:
+• When intercepting the final approach course: call “Needle alive.”
+• At initial downward movement of the glideslope indicator: call
+“Glideslope alive.”
+• At FAF [final approach fix]: Call “Outer marker” or “Final fix.” Start
+timing. Visually cross-check altimeters. Then call “Altimeters check,
+no flags.”
+• At 1000 feet above minimums: Call “1000 to go, no flags.”
+• At 500 feet above minimums: Call “500 to go.”
+• At 100 feet above minimums: Call “Approaching minimums.”
+• At MDA (Non-precision): Call “At minimums (time) (distance) to
+go.”
+• At MAP (Non-precision): Call “Missed approach point, runway in
+sight” or “Missed approach point, runway not in sight.”
+Training Manual
+The Avjet Part 135 Training Manual that was in effect at the time of the accident
+was dated November 30, 2000. Appendix C of the manual, pages C-53 through C-67,
+describes the Gulfstream G1159 series recurrent training program. According to the
+manual, the recurrent ground training consists of 13 general operational subjects, aircraft
+systems, and systems integration. The manual also states that the recurrent flight training
+consists of aircraft orientation and normal procedures, abnormal and emergency
+procedures, and an instrument proficiency and competency check in the flight simulator
+and/or the airplane. (These same areas are covered during initial ground and flight
+NTSB/AAB-02/03
+
+2 5
+training but in more detail.) Avjet requires its pilots to receive recurrent flight training
+every 12 months.
+Section 2 of the manual, pages 2-32 and 2-33, describes the company’s controlled
+flight into terrain (CFIT) training module. The manual lists the following CFIT ground
+training module items: CFIT hazards, enhancement of situational awareness, recognition
+and evaluation of potential dangers, risk assessment/reduction factors, and GPWS. Also,
+the manual states that the CFIT flight simulator module consists of the ground proximity
+escape maneuver. Avjet pilots receive 3 hours of initial CFIT training. Pilots receive
+recurrent CFIT training as required, but the manual stipulates that the ground proximity
+escape maneuver must be practiced every 24 months. Simuflite—one of Avjet’s
+FAA-approved contractors for pilot training—provided the captain with his most recent
+recurrent training and the first officer with his initial company training. Simuflite’s
+training form indicated numerous curriculum segments that were covered during ground
+and flight training, but CFIT training was not specifically cited on this list.
+In addition, Appendix C of the Avjet Training Manual, pages C-56 and C-58,
+indicates that crew resource management (CRM) is 1 of 13 general operational subjects
+addressed during Gulfstream G1159 series initial and recurrent ground training. The
+manual did not indicate any stand-alone CRM module. Although the FAA mandated
+CRM training in 1997 for 14 CFR Part 121 operators and 14 CFR Part 135 commuter
+operators that conduct scheduled operations with aircraft requiring 2 pilots or having
+10 or more passenger seats, CRM training is currently not required for pilots conducting
+14 CFR Part 135 on-demand operations.44 As a result, Avjet was not required to
+establish an FAA-approved CRM training program for its pilots.
+Postaccident Actions
+On April 10, 2001, Avjet’s Director of Operations issued a memorandum to all
+company flight crews and charter department schedulers, informing them that airport
+operations at ASE and three other mountain airports were now prohibited between sunset
+and sunrise.45 This prohibition applies to all Part 91 and 135 IFR and VFR operations.
+The memorandum states that
+if you cannot accomplish a landing and be on the ground at one of these airports
+before sunset you must divert to a suitable alternate. All passengers for one of these
+destinations must be informed of this policy. Flight crew members must report any
+violation of this policy or pressure from passengers to violate this policy to the
+Director of Operations or Chief Pilot.
+44 To address this issue, the Safety Board adopted Safety Recommendation A-02-12 on June 11,
+2002. Safety Recommendation A-02-12 asked the FAA to “revise 14 CFR Part 135 to require on-demand
+charter operators that conduct operations with aircraft requiring two or more pilots to establish an
+FAA-approved crew resource management training program for its flight crews in accordance with 14 CFR
+Part 121, subparts N and O.”
+45 The three other mountain airports are Telluride, Colorado; Eagle, Colorado; and Hailey (Sun
+Valley), Idaho.
+NTSB/AAB-02/03
+
+2 6
+According to the memorandum, its contents and additional guidance regarding
+weather minimums for mountain operations would be incorporated in the next revision of
+the Avjet Operations Manual. This revision has not yet been issued.
+On October 10, 2001, the Van Nuys, California, Flight Standards District Office
+revised the Operations Specifications of the 12 turbojet air carriers for which the office
+provides oversight (one of which was Avjet). The revised Operations Specifications
+dealt specifically with ASE and indicated that, “before beginning the VOR-DME
+approach, reported weather must be at least ceiling 4400 feet and visibility 5 miles.” The
+specifications also indicated that “the flying pilot must be type rated in the aircraft and
+have made a takeoff and landing at this airport within the previous twelve (12) calendar
+months in a turbojet airplane.”
+On December 19, 2001, Avjet issued revisions to its Standard Operating
+Procedures. Page 4-1 of the Avjet Operations Manual was revised to state the following:
+Sterile Cockpit
+Whenever the aircraft is moving on the ground or during flight below 10,000 feet
+msl, the crew shall limit conversation to matters concerning the operation of the
+aircraft only. At airports with a field elevation of 5,000 feet or higher, sterile cockpit
+procedures shall apply from 18,000 feet msl to the ground.
+Cockpit Observers Seat (Jump Seat)
+Only an Avjet assigned crewmember, check airman, or FAA observer may occupy
+the observer’s seat (jump seat) in any Avjet aircraft. Charter passengers shall never
+be allowed to occupy the observer’s seat at any time.
+Manufacturer Information
+Gulfstream Aerospace’s GIII Flight Manual, section 1, “Limitations,” page 1-16,
+dated December 3, 1991, indicates that, “speed brakes [spoilers] may be extended with
+flaps at 10º and 20º but may not be extended with flaps at 39º or with landing gear
+extended.” Section 2, “Normal Procedures,” page 2-22, dated October 14, 1999, states
+that, for high-pressure rpm, “maintain power levers at or above the minimum approach
+high pressure RPM (64%) until crossing runway threshold in order to obtain prompt
+engine acceleration and thrust used in landing climb performance should a go-around be
+necessary.”
+Federal Aviation Administration Oversight
+The FAA Principal Operations Inspector (POI) assigned to the Avjet certificate
+had been in that position since December 1999. At the time of the accident, he had
+oversight responsibilities for 7 operators (including Avjet), which had a total of
+85 airplanes, 270 pilots, and 19 check airmen. He had an assistant until the fall of 2000.
+NTSB/AAB-02/03
+
+2 7
+Records provided by the POI indicated that, in the 2 years before the accident, he
+performed 6 surveillance inspections of Avjet and 23 technical or administrative
+activities for the company, including evaluating initial training and technical documents
+and approving minimum equipment lists and revisions to operations specifications. FAA
+records indicated that other FAA operations inspectors performed 4 surveillance
+inspections of Avjet and 18 technical and administrative activities for the company,
+including check rides and line checks, in the 2 years before the accident.
+Landing Minimums
+According to 14 CFR 91.175(c), “Operating Below DH or MDA,” no pilot may
+operate an aircraft at any airport below the authorized MDA (or continue an approach
+below the DH) unless the following requirements are met:
+(1) The aircraft is continuously in a position from which a descent to a landing on the
+intended runway can be made at a normal rate of descent using normal maneuvers,
+and for approaches conducted under part 121 or part 135 unless that descent rate will
+allow touchdown to occur within the touchdown zone of the runway of intended
+landing;
+(2) The flight visibility is not less than the visibility prescribed in the standard
+instrument approach being used; and
+(3) Except for a Category II or Category III approach where any necessary visual
+reference requirements are specified by the [FAA] Administrator, at least one of the
+following visual references for the intended runway is distinctly visible and
+identifiable to the pilot:
+(i) The approach light system, except that the pilot may not descend below
+100 feet above the touchdown zone elevation using the approach lights
+as reference unless the red terminating bars or the red side row bars are
+also distinctly visible and identifiable.
+(ii) The threshold.
+(iii) The threshold markings.
+(iv) The threshold lights.
+(v) The runway end identifier lights.
+(vi) The visual approach slope indicator.
+(vii) The touchdown zone or touchdown zone markings.
+(viii) The touchdown zone lights.
+(ix) The runway or runway markings.
+(x) The runway lights.
+Charter Information
+The business assistant of the client who chartered N303GA stated, in a
+postaccident interview, that his employer had chartered the airplane because he was
+hosting a party in Aspen. The business assistant indicated that Avjet called him about
+1630 and informed him that the passengers were not at the airport and that the latest time
+the airplane could depart was 1655. He stated that he immediately began to track down
+the passengers and found out that all but two (including his employer) were in the airport
+parking lot. The charter department scheduler who handled N303GA on the day of the
+NTSB/AAB-02/03
+
+2 8
+accident indicated that she told the business assistant that the flight would instead have to
+go to the airport at Rifle if the two passengers did not arrive shortly.
+According to the business assistant, the passengers that had arrived boarded the
+airplane. The business assistant indicated that one of the pilots had spoken to one or
+more passengers and stated that the airplane might not be able to land at ASE because of
+the nighttime landing curfew. The charter customer, upon learning about this
+conversation, instructed his business assistant to call Avjet and relay a message to the
+pilot that he should “keep his comments to himself.”
+The business assistant stated that, when he told his employer about the possibility
+that the flight might have to divert, his employer became “irate.” According to the
+business assistant, he was told to call Avjet and tell the company that the airplane was not
+going to be redirected.46 Specifically, he was told to say that his employer had flown into
+ASE at night and was going to do it again. The business assistant stated that he called
+Avjet to express his employer’s displeasure about the possibility of not landing in ASE.
+The charter department scheduler who handled N303GA on the day of the
+accident indicated that the captain stated, during an en route conversation about 1830,
+that it was important to land at ASE because “the customer spent a substantial amount of
+money on dinner.”
+46 In a postaccident interview, an Avjet pilot stated that the company would have placed no
+pressure on the captain to land at ASE.
+NTSB/AAB-02/03
+
+2 9
+ANALYSIS
+General
+The captain and the first officer were properly certificated and qualified under
+Federal and company requirements. No evidence indicates any preexisting medical or
+behavioral conditions that might have adversely affected the flight crew’s performance
+during the accident flight. Also, no evidence indicates that fatigue was a factor in this
+accident.
+The accident airplane was properly certified, equipped, and maintained in
+accordance with Federal regulations. No evidence indicated any preexisting engine or
+system failures. The substantial damage to the airplane’s structure that resulted from a
+1988 landing accident in Africa was not a factor in this accident.
+Navigational aids (the VOR and DME) and airport lighting systems (the runway
+end identifier lights, the medium intensity runway lights, and the precision approach path
+indicator) were also not factors in this accident. The accident was not survivable for any
+of the airplane occupants because they were subjected to impact forces that exceeded the
+limits of human tolerance.
+This analysis focuses on the flight crew’s performance in conducting the
+instrument approach procedure to Aspen-Pitkin County Airport (ASE), including
+operational and human factors that may have played a role in the flight crew’s decision to
+continue the approach to an intended landing. This analysis also discusses visual factors
+that affected the flight crew’s ability to see and safely avoid the mountainous terrain.
+Accident Sequence
+The accident airplane was required to land at ASE no later than 30 minutes after
+sunset because of a local regulation regarding noise restrictions. Sunset on the day of the
+accident occurred at 1828, so the airplane had to land by 1858 to comply with the
+regulation. CVR evidence early in the recording and postaccident interviews indicated
+that the flight crew was aware of the landing restriction.
+The FAA issued a Notice to Airmen (NOTAM) on March 27, 2001, stating
+“circling NA [not authorized] at night” for runway 15 at ASE. The NOTAM was
+intended to mean that the instrument approach procedure was no longer authorized at
+night because only circling minimums were authorized for that procedure. Thus, the
+NOTAM was vaguely worded because pilots could infer that an approach without a
+circle-to-land maneuver to runway 15 was still authorized. The first officer received the
+NOTAM during his preflight briefing with a specialist at the Hawthorne, California,
+NTSB/AAB-02/03
+
+3 0
+Automated Flight Service Station (AFSS).47 The first officer did not ask for further
+clarification of the NOTAM. According to the Federal Aviation Regulations, night
+begins at the end of evening civil twilight (when the center of the sun is geometrically 6º
+below the horizon), which occurred at 1855 on the day of the accident. The U.S. Naval
+Observatory publishes the precise times for the end of evening civil twilight; however,
+flight crews do not have a practical method for accessing this information. As a result,
+many flight crews estimate the end of evening civil twilight as 30 minutes after sunset.
+CVR evidence early in the recording indicated that the flight crew expected to
+encounter visual conditions during the approach and to have only one attempt to execute
+the approach. For example, the captain’s approach briefing indicated, “we’re…probably
+gonna make it a visual…if we don’t get the airport over here we’ll go ahead and shoot
+that approach” and “we’re not going to have a bunch of extra gas so we only get to shoot
+it once and then we’re going to Rifle.”48 Also, the captain later indicated to the flight
+attendant that, if the attempt to execute the approach was not successful, the airplane
+would have to go to Rifle because it was too late in the evening.
+The CVR indicated that the captain did not discuss the instrument approach
+procedure during his approach briefing, as required by the Avjet Operations Manual. The
+CVR also indicated that the captain did not brief the missed approach procedure, even
+though he discussed the possibility that the airplane might have to go to the alternate
+airport because of the landing restriction and the fuel status. Thus, the flight crew was
+not adequately prepared to perform ASE’s instrument and missed approach procedures.
+In addition, Avjet’s manual indicates that the captain was to brief the airplane’s
+configuration and approach speed, final approach fix altitude, minimum descent altitude
+(MDA), visual descent point, circling maneuver, runway information, and abnormal
+conditions. The CVR did not record the captain briefing any of this information.
+While the airplane was descending into the terminal area, the flight crew
+attempted to locate a specific highway because a visual approach to the airport follows
+parallel to this highway, but that effort was mostly unsuccessful. Afterward, the captain
+informed the approach controller, “I can almost see up the canyon from here but I don’t
+know the terrain well enough or I’d take the visual.” The controller acknowledged this
+information and provided the flight crew with instructions for intercepting the final
+approach course.
+According to Doppler weather radar and weather satellite information, the cloud
+tops were near 16,000 feet while the airplane was on approach to ASE. After descending
+through this altitude, the airplane was in and out of the clouds.
+47 The AFSS specialist did not read the NOTAM verbatim and told the first officer that circling
+minimums were not authorized at night. The addition of the word “minimums” made the information
+conform somewhat closer to the intent of the NOTAM because the NOTAM modified the VOR/DME-C
+procedure and not the landing maneuver.
+48 As stated in the “History of Flight” section, the sample flight plans provided by Gulfstream
+showed that the amount of fuel aboard the accident airplane would have exceeded the amount required by
+the Federal Aviation Regulations.
+NTSB/AAB-02/03
+
+3 1
+Execution of the Instrument Approach Procedure
+According to the intent of the NOTAM, the instrument approach procedure to
+ASE was not authorized after 1855. As a result, the flight crew should not have been
+attempting this procedure to the airport. The CVR did not record any discussion between
+the flight crewmembers about the NOTAM. However, the flight crew was likely not
+aware that official nighttime began 3 minutes before the 1858 landing restriction at ASE.
+Also, the flight crewmembers might have believed that the NOTAM, because of its
+unclear wording, did not apply to a flight that would not have to execute a circling
+maneuver to runway 15. If the FAA had worded the NOTAM more clearly (as in the
+revision issued the day after the accident), it might have made more of an impression on
+the first officer when he received the preflight briefing from the Hawthorne AFSS and
+might have affected the conduct of the flight. Finally, it is also possible that the first
+officer did not brief the captain about the NOTAM and, therefore, that the captain might
+not have been aware of the NOTAM.
+About 1856:06, the approach controller cleared the flight crew for the
+VOR/DME-C instrument approach procedure. The controller did not know about the
+NOTAM because the Denver Center had not sent a copy to the ASE tower. If the tower
+had received the NOTAM, the controller would have been required to notify the flight
+crew of the NOTAM either verbally or on the ATIS broadcast.49 About 1856:42, the
+controller informed all airplanes on frequency that the visibility north of the airport was
+2 miles.
+The VOR/DME-C instrument approach procedure required the flight crew to
+maintain at least 14,000 feet until passing the Red Table VOR, the initial approach fix,
+and 12,700 feet until passing the intermediate step-down fix located 3 DME miles south
+of the Red Table VOR. (See figure 1.) The Airplane Performance Study for this accident
+indicated that N303GA crossed the Red Table VOR and the intermediate step-down fix at
+the altitudes specified by the approach procedure. (See figure 3.) The airplane crossed
+the Red Table VOR about 1857:49 at an airspeed of 160 knots and then crossed the
+step-down fix about 1858:40 at an airspeed of 150 knots. However, by this time, the
+flight crew could no longer comply with the local regulation that required the airplane to
+be on the ground by 1858. In addition, the captain was no longer in compliance with
+Avjet’s policy that required the pilot-in-command to ensure that the flight was conducted
+“in complete compliance” with local regulations.
+About 1858:03, the pilot of N527JA (a Canadair Challenger 600 airplane, which
+was preceding the accident airplane into ASE) reported that he did not have the airport in
+sight and that he would be going around. (Two previous reports of missed approaches
+had been transmitted over the ASE approach control frequency, one about 1844:43 and
+one about 1853:35.) The three reports of missed approaches and the deteriorating
+49 FAA Order 7110.65, paragraph 4-7-12(b), states that, “on first contact or as soon as possible
+thereafter, and subsequently as changes occur, inform an aircraft…of destination airport conditions that you
+know of which might restrict an approach or landing. This information may be omitted if it is contained in
+the ATIS broadcast and the pilot states the appropriate ATIS code.”
+NTSB/AAB-02/03
+
+3 2
+visibility to the north should have alerted the flight crewmembers that they might also
+need to execute a missed approach because of the weather. However, the CVR did not
+record any discussion between the crewmembers at this point regarding a possible missed
+approach.
+The final approach segment required the flight crew to maintain 12,200 feet until
+passing ALLIX, the final approach fix located 6 DME south of the Red Table VOR;
+10,400 feet until passing a step-down fix located 9.5 DME south of the Red Table VOR;
+and 10,200 feet until passing the missed approach point located 11 DME south of the Red
+Table VOR. (See figure 1.) The Airplane Performance Study indicated that the airplane
+crossed ALLIX about 1859:40 at an altitude of 12,100 feet, 100 feet below the minimum
+specified altitude (see figure 3), and at a speed of about 125 knots.
+After passing ALLIX, the airplane maintained a descent rate of about 2,200 feet
+per minute and an airspeed of about 125 knots. When the airplane reached altitudes of
+11,200, 10,700, and 10,300 feet, Avjet’s Operations Manual required the first officer to
+call out, “1000 to go [until landing minimums],” “500 to go,” and “approaching
+minimums,” respectively. However, the CVR did not record any of these callouts.
+About 1900:22, when the airplane was at an altitude of 10,400 feet and was about
+4.4 miles north of the airport, the captain stated, “okay…I’m breaking out,” which was
+the first indication that the captain might have made visual contact with the ground.
+About 5 seconds later, the captain asked the controller whether the lights were all the way
+up. Postaccident interviews and CVR evidence determined that, by this time, the ground
+controller had set the airport lights at their highest intensity; thus, the captain’s query
+could suggest that he did not have the runway or its environment in sight. It is also
+possible that the captain could have perceived the lights as dim because of an obscuration
+and wanted to make sure the lights remained visible.
+The airplane leveled off about 1900:39 at an altitude of 10,100 feet and about
+3.7 miles north of the airport. The CVR did not record any announcement by the first
+officer that the airplane was 300 feet below the minimum step-down altitude of
+10,400 feet. Also, the airplane was now operating below the 10,200-foot MDA without
+any indication, according to the CVR, that either pilot had made visual contact with the
+runway or its environment. The CVR indicated that the first officer did not verbally
+challenge the captain, and radar data showed that the captain did not correct the descent
+or initiate a missed approach.
+About 1900:43, the captain asked the first officer whether he could see the
+runway, but the CVR recorded an unintelligible statement made by the first officer about
+2 seconds later. About 1900:46, the captain asked the first officer whether he could see
+the highway. (The highway, as viewed from the approach, was located slightly to the
+right of the runway extended centerline and thus would have been more easily visible on
+the first officer’s side of the cockpit.) The CVR recorded the first officer’s statement
+“see highway” 1 second later, but this statement does not clearly indicate whether he
+actually had the highway in sight. Because the first officer provided no specific
+NTSB/AAB-02/03
+
+3 3
+information about the highway’s location, it is possible that he was repeating the
+captain’s words while looking for the highway. The captain made no statements about
+this time to indicate that he had established visual reference with either the runway or the
+highway.
+The airplane began to descend again about 1900:49 at a rate of 2,200 feet per
+minute. The local controller noticed that the airplane had prematurely descended below
+the 10,400-foot step-down altitude and asked the flight crewmembers whether they had
+the runway in sight. About 1900:51, the first officer and the captain stated, almost
+simultaneously, “affirmative” and “yes now yeah we do,” respectively. These statements
+were communicated only to the other pilot, but, about 1 second later, the first officer
+informed the controller that the runway was in sight. Radar data indicated that the
+airplane was at an altitude of 9,750 feet at the time but that it had not started maneuvering
+toward the airport.
+Evidence indicated that, at that point, the flight crew probably did not have the
+runway in sight or had it in sight only briefly. Specifically, the CVR did not record any
+previous independent indication from either flight crewmember that he had visually
+identified the runway; both pilots stated that they saw the runway only after being queried
+by the controller. Also, the CVR did not record any further discussion throughout the
+rest of the flight that would be consistent with a flight crew that could see a runway.
+Neither flight crewmember commented about the threshold or its markings or lights; the
+runway end identifier lights; the precision approach path indicator; the touchdown zone
+or its markings or lights; or the runway or its markings or lights—one of which needed to
+be in sight to make a landing in accordance with 14 CFR 91.175(c)(3). In addition, the
+local controller stated that she did not see the airplane when the pilot reported the runway
+in sight. Further, the airplane would have had to make a left turn to align with the
+runway, but radar data showed that the airplane was turning slightly to the right (2.5º
+right wing down).
+The airplane passed the step-down fix located 9.5 DME south of the Red Table
+VOR about 1901:00 at an altitude of 9,500 feet, 900 feet below the specified minimum
+altitude (see figure 3). Because the airplane was still in instrument meteorological
+conditions, the first officer should have announced this altitude deviation to the captain,
+but the CVR did not record any such callout.
+The 1853 Automated Surface Observing System hourly observation indicated that
+the lowest cloud base was near 9,315 feet. Once the airplane had descended below this
+altitude, the pilots were likely encountering visibilities of about 2 miles in light snow
+showers. The airplane was 2.7 miles from the airport at this time.
+About 1901:13, the CVR recorded the first officer’s statement, “…to the right is
+good.” Radar data indicated that the airplane was at an altitude of 9,000 feet. It is not
+apparent what the first officer could see from the cockpit when he made his statement
+because the runway would have been to the left of the nose of the airplane. It is possible
+that the first officer could have seen the runway at this point; however, the captain did not
+NTSB/AAB-02/03
+
+3 4
+verbally acknowledge the first officer’s directional guidance, and radar data indicated that
+the airplane did not make a turn to the right. The airplane continued on its heading,
+which would have still positioned the airplane to the right of the runway.
+About 1901:21, the CVR recorded a sound, which continued for 9 seconds, that
+was consistent with the airplane’s configuration alarm. This warning indicated that the
+captain had deployed the spoilers after the landing gear had been extended and the final
+landing flaps had been selected.50 Also, the CVR Sound Spectrum Study determined
+that, while the spoilers were deployed, engine power was set to 55 percent N . The
+2
+captain likely extended the spoilers and reduced engine power to increase the airplane’s
+rate of descent to get below the snow showers and visually acquire the runway.
+However, these actions were contrary to spoiler information in the Gulfstream GIII Flight
+Manual, which indicates that the spoilers are not to be extended with flaps in the landing
+configuration (39º) or with the landing gear extended and that the high-pressure rpm
+power setting on final approach should not be below 64 percent N to meet FAA-required
+2
+go-around standards.
+About 1901:34, the airplane’s attitude started to increase in the right-wing-down
+direction. (The airplane should have been turning to the left to align with the runway.)
+The airplane passed the missed approach point about 1901:36 at an altitude of about
+8,300 feet, 485 feet above field elevation rather than the specified 2,385 feet above field
+elevation (see figure 3). The first officer was required to call out, “missed approach
+point, runway in sight” or “missed approach point, runway not in sight,” and the captain
+was required to announce his intentions. However, the CVR did not record either of
+these callouts.
+About the same time as the airplane passed the missed approach point, the captain
+asked, “where’s it at?” This statement suggests that the captain had not identified, or had
+lost visual contact with, the runway. At this point, the captain should have abandoned the
+approach, especially because the airplane was close to the ground in mountainous
+terrain.51 The first officer stated, “to the right,” about 6 seconds after the captain’s
+query.52 Again, it is not apparent what the first officer could see from the cockpit when
+he made this statement. After the first officer’s response, the captain stated, “to the
+right,” but calculations from radar data indicated that the airplane’s right bank angle was
+50 The CVR indicated that the captain had called for the landing gear and landing flaps about
+1859:30 and 1859:34, respectively. (The airplane was at an altitude of 12,200 feet when the captain called
+for the landing gear.) The first officer’s statement, “three greens,” about 1859:46 indicated that the landing
+gear was in the down and locked position.
+51 The captain and the first officer should have realized the proximity of the airplane to the ground
+because the flight profile advisory (FPA) unit had announced the 1,000-, 900-, and 800-foot callouts before
+the captain’s question about the location of the runway. Although the airplane was less than 500 feet above
+airport elevation at the time of the captain’s question, the ground proximity warning system (GPWS) and
+FPA 500-foot altitude were not announced then because, according to the Airplane Performance Study, the
+airplane was flying over a river valley at that point and the terrain elevation directly below the aircraft was
+7,600 feet—over 700 feet lower than the airport elevation. The terrain below the airplane dropped some
+more and then rose slightly as the airplane continued its descent.
+52 The FPA announced the 700- and 600-foot callouts before the first officer’s response.
+NTSB/AAB-02/03
+
+3 5
+decreasing.53 At this point, the airplane was at an altitude of 8,100 feet and was 1.2 miles
+from the runway.
+Title 14 CFR 91.175(c)(3) states that at least one specified visual reference for the
+intended runway needs to be “distinctly visible and identifiable to the pilot” for the
+airplane to operate below the MDA. The captain’s statement “where’s it at?” indicated
+that he did not see any of these visual references. Even if the first officer had the runway
+in sight at this point, the captain, as the flying pilot, should not have been relying on the
+first officer for directional guidance during the visual transition from the instrument
+approach to the landing.
+Radar data indicated that, about 1901:47, the airplane stopped turning to the right
+and began turning to the left. The Safety Board regards this maneuver as the first clear
+indication that the captain may have seen the runway after the MDA. About 1901:49, the
+airplane was at an altitude of 8,000 feet, was about 0.9 miles north of the runway, and
+was descending at a rate of 900 feet per minute. At that point, the airplane was banked
+10º left wing down. The airplane’s bank angle continued to increase.54 The local
+controller saw the airplane emerge from a snow shower (at a low altitude and west of the
+runway extended centerline) and rapidly enter a steep left bank. On the basis of the ATC
+voice recordings and information from a postaccident interview, the Board estimates that
+the airplane crashed about 5 seconds after the controller saw the airplane.
+At the time of the accident (1901:57), the airplane was banked more than 40º left
+wing down, and the left wing tip was the first airplane part that struck the terrain. The
+CVR contained no indication regarding why the airplane was turning so steeply to the
+left. It is possible that the captain saw the runway or the highway and was making a
+steep turn to align the airplane with the runway without a substantial overshoot.55 It is
+also possible that the captain was starting to see terrain that had been obscured by the
+darkness and the weather conditions and was banking the airplane to avoid the terrain.
+The left and right main landing gear were found in their wheel wells. However,
+no evidence on the CVR and from the CVR Sound Spectrum Study indicated that the
+gear was being raised for a missed approach. In addition, the airplane manufacturer
+stated that a warning horn would sound if the gear were being raised while the flaps were
+in the landing configuration. The CVR did not record the sound of this warning horn.
+53 While the airplane was still banked to the right, the GPWS and FPA announced the 500-foot
+altitude callout.
+54 As the airplane’s left bank angle was increasing, the FPA announced the 400-, 300- and 200-
+foot altitude callouts, and the GPWS announced the 200-foot callout, two sink rate alerts, and one bank
+angle alert.
+55 Radar data showed that the airplane was substantially to the right of the runway extended
+centerline.
+NTSB/AAB-02/03
+
+3 6
+Summary of the Flight Crew’s Performance
+During the final 2 minutes of the approach, the flight crewmembers were
+apparently focusing more of their attention outside, rather than inside, the cockpit as they
+tried to locate the runway and the highway. As a result, the captain continued flight
+below the authorized MDA after failing to establish or maintain visual contact with the
+runway. The first officer did not challenge the captain’s actions.
+In addition to their numerous errors during the instrument approach procedure, the
+flight crewmembers demonstrated poor crew coordination during the accident flight.
+Specifically, the captain and the first officer did not make required instrument approach
+callouts,56 the captain provided an incomplete approach briefing, and he did not follow
+Gulfstream’s procedures regarding in-flight spoiler operation and minimum engine power
+during an approach.
+The flight crewmembers should have abandoned the approach because the
+airplane descended below the MDA without an adequate visual reference of the runway.
+Also, the flight crew should have considered diverting to an alternate airport after
+receiving information about the deteriorating visibility along the approach course and the
+three reports of missed approaches. Operational and human factors that may have played
+a role in the flight crew’s decision to continue the approach to an intended landing are
+discussed in the next section. Visual factors affecting the flight crew’s ability to see and
+avoid the terrain are discussed later.
+Operational and Human Factors
+The flight crew was dealing with various sources of operational pressure during
+the accident flight. These sources were the airplane’s late departure from LAX, the ASE
+nighttime landing curfew, and the charter customer’s strong desire to land at ASE.
+Because of the late arrival of the passengers (including the charter customer), the
+airplane was not able to depart LAX until 1711—41 minutes later than scheduled. The
+late departure delayed the flight’s estimated arrival at ASE to 1846—only 12 minutes
+before the airport’s landing curfew. These factors would not have allowed the flight crew
+to perform a second approach if the first one had to be abandoned. (The captain
+recognized this fact, as demonstrated by his approach briefing to the first officer.) As a
+result, the flight crewmembers initially tried to establish and maintain contact with
+ground references so that they would be able to fly visually to the airport.
+After the captain informed the controller that he did not know the terrain well
+enough to “take the visual,” the first officer indicated, “could do a contact but…I don’t
+know,” but then stated, “probably we could not.” A contact approach would have
+exposed the flight to greater risk because of that approach’s 1-mile visibility requirement
+56 In addition to the callouts previously discussed in the “Execution of the Instrument Approach
+Procedure” section, the first officer also did not call out required course, fix, and altimeter information.
+NTSB/AAB-02/03
+
+3 7
+and the mountainous terrain surrounding ASE. However, the first officer likely
+considered this approach as an option, albeit briefly, because of the limited time available
+to arrive at the airport.
+The charter customer’s communications both before and during the flight,
+stressing the importance of landing at ASE, most likely heightened the pressure on the
+flight crew. According to the charter customer’s business assistant, his employer became
+“irate” when he was informed about the possible diversion to an alternate airport. The
+business assistant also stated that he was told to call Avjet and emphasize that the
+airplane was not going to be redirected. The Avjet charter department scheduler
+indicated that the captain felt that it was important to land at ASE because of the
+substantial amount of money that the customer spent for a dinner party.
+In addition, the CVR indicated that, about 1853:57, the flight attendant escorted
+an unidentified male passenger to the jumpseat, which he occupied for the remainder of
+the flight. Comments by the captain indicated that he likely felt the need to explain the
+status of the approach to the passenger.57 For example, about 1855:14, the captain stated,
+“the weather’s gone down they’re not making it in,” to which this passenger replied, “oh
+really.” Also, when this passenger asked “are we clear?” about 1858:13, the captain
+responded, “not yet” and “the guy in front of us [N898R] didn’t make it in either.” This
+passenger again replied, “oh really.” The CVR did not record any other comments by
+this passenger, except for an unintelligible comment about 1900:08 regarding the snow.
+However, the presence of this passenger in the cockpit, especially if it were the charter
+customer, most likely further heightened the pressure on the flight crew to land at ASE.
+The operational pressure on the flight crew probably resulted in the crew’s intent
+to continue with its original plan to land at ASE. FAA Advisory Circular 60-22,
+“Aeronautical Decision Making,” indicates that pilots, particularly those with
+considerable experience, try to complete flights as planned, please passengers, and meet
+schedules, which can compromise safety and impose an unrealistic assessment of piloting
+skills under stressful conditions. Also, human performance researchers have noted that
+pilots tend to adhere to their original plan of action, which interferes with critical analysis
+processes that are needed to adequately reevaluate the suitability of the original plan and
+explore an alternate course of action. As a result, “plan continuation errors” occur; that
+is, pilots elect to continue with an original plan of action despite the presence of cues
+suggesting that the course of action needs to be modified.58 In addition, research has
+demonstrated that individuals, when faced with a choice between alternatives, generally
+seek out information that confirms a chosen hypothesis and ignore or fail to fully
+57 As previously indicated, 14 CFR 135.100 did not prohibit the captain from allowing this
+passenger to sit on the jumpseat and from conversing with him because the airplane had not yet reached the
+sterile cockpit altitude of 10,000 feet msl.
+58 J. Orasanu, “Plan Continuation Errors: A Factor in Aviation Accidents?” Proceedings of the
+Fourteenth Triennial Congress of the International Ergonomics Association and Forty-forth Annual
+Meeting of the Human Factors and Ergonomics Society (Santa Monica, CA: Human Factors and
+Ergonomics Society, 2000).
+NTSB/AAB-02/03
+
+3 8
+consider contradictory information, particularly when workload is high and time
+constraints are imposed.59
+In this accident, the flight crew focused on cues that supported the goal of landing
+at ASE, such as occasional breaks in the clouds and the report of one airplane (N900MF)
+that had landed at the airport without incident. By focusing on such cues, the crew did
+not adequately consider information that supported a change of plans, such as the
+deteriorating visibility, the three reports of missed approaches (the last of which,
+involving N527JA, occurred after the accident airplane passed the Red Table VOR), and
+the failure to establish and maintain visual contact with the runway environment as the
+approach proceeded. Instead, the flight crewmembers might have viewed this
+information as a barrier to achieving their intended goal of landing at ASE, causing them
+not to recognize the increasing evidence supporting the need for an alternate course of
+action.
+Visual Factors
+When the VOR/DME-C instrument approach procedure was first established at
+ASE in December 1988, the procedure was not authorized at night. The FAA removed
+the night restriction from the procedure in October 1994 because of complaints from user
+groups. In March 2001, the instrument approach procedure was again restricted at night
+after an FAA flight inspection determined that areas of unlighted terrain conflicted with
+traffic patterns and circling descent maneuvers near the airport.
+The night restriction on the VOR/DME-C instrument approach procedure did not
+restrict the procedure during evening civil twilight. However, the decrease in ambient
+illumination during civil twilight results in a decrease in contrast between objects and the
+background scene, which diminishes a pilot’s ability to visually distinguish between
+terrain features and the sky and to visually detect unlighted objects.
+The amount of ambient light decreases by two orders of magnitude (that is, about
+100 times) from the beginning to the end of evening civil twilight. Also, the sky during
+civil twilight can be much brighter than terrain features, and pilots may be exposed to
+higher ambient light levels at altitude before descent. Pilots may also experience rapid
+decreases in ambient illumination during approach and descent, especially in
+mountainous areas where terrain features may rise above the horizon and reduce the
+amount of ambient illumination at lower elevations. The mountainous terrain
+surrounding ASE reduces the amount of ambient lighting during evening civil twilight at
+lower elevations, including positions on and near the airfield.
+Although this accident occurred only 7 minutes after the end of evening civil
+twilight and the beginning of night, the mountainous terrain created twilight and
+nighttime conditions much earlier. The controller-in-charge stated, in a postaccident
+interview, that the sky was “very dark” in the minutes before the accident. In fact, the
+59 C.D. Wickens, Engineering Psychology and Human Performance, 2nd ed. New York: Harper
+Collins, 1992.
+NTSB/AAB-02/03
+
+3 9
+Safety Board calculated that the sun had set below the mountainous terrain about
+25 minutes before the official sunset time60 and that evening civil twilight ended about
+1830 rather than 1855. Also, the shadow for the ridge immediately to the west of the
+accident site would have crossed the accident site 79 minutes earlier than official sunset.
+As a result, the dark conditions would have significantly degraded the flight crew’s
+ability to see and safely avoid terrain while making the visual transition from the
+instrument approach to an intended landing. The reduced visibility and light snow
+showers near the airport would have further degraded the flight crew’s ability to see and
+safely avoid the terrain.
+This accident reveals that the aeronautical definition of night does not adequately
+take into account darkness in mountainous terrain. Specifically, because pilots do not
+have sufficient ambient lighting to see and safely avoid unlighted terrain during periods
+of darkness before official night, the night restriction on the VOR/DME-C approach is
+not enough to ensure safety of flight. Thus, nighttime restrictions may not sufficiently
+mitigate potential hazards associated with flight operations into ASE and other airports
+with mountainous terrain during periods of darkness.61
+60 On February 21, 2002, an ASE tower controller observed the sun fully set behind the terrain
+about 1725. At that time, the elevation of the sun was 4.2º, resulting in a visible sunset that was about 26
+minutes earlier than the official sunset of 1751. On the night of the accident, the sun was at an elevation of
+4.2º about 1803, resulting in a visible sunset that was about 25 minutes earlier than official sunset.
+61 To address this issue, the Safety Board issued Safety Recommendation A-02-08 on April 15,
+2002. Safety Recommendation A-02-08 asked the FAA to “revise any restrictions and prohibitions that
+currently reference or address ‘night’ or ‘nighttime’ flight operations in mountainous terrain so that those
+restrictions and prohibitions account for the entire potential period of darkness or insufficient ambient light
+conditions, and establish a method to clearly communicate to flight crews when such restrictions and
+prohibitions apply.”
+NTSB/AAB-02/03
+
+4 0
+SUMMARY
+1. The flight crew made numerous procedural errors and deviations during
+the final approach segment of the VOR/DME approach to Aspen (ASE).
+• The flight crew crossed step-down fixes below the minimum specified
+altitudes.
+• The flight crew descended below the minimum descent altitude (MDA),
+even though airplane maneuvers and comments on the cockpit voice
+recorder (CVR) indicated that neither pilot had established or maintained
+visual contact with the runway or its environment.
+• Contrary to the airplane manufacturer’s procedures, the captain deployed
+the spoilers after the landing gear had been extended and the final landing
+flaps had been selected, and he set engine power to 55 percent N rather
+2
+than 64 percent N .
+2
+• When the airplane was 1.4 miles from the runway (about 21 seconds
+before the accident), the captain asked, “where’s it at?” but did not
+abandon the approach, even though he had not identified, or had lost
+visual contact with, the runway.
+• Radar data and CVR comments indicated that, until the airplane began
+turning to the left about 10 seconds before the accident, the flight crew
+probably did not have the runway or its environment in sight.
+2. The crew demonstrated poor crew coordination during the accident
+flight.
+• The captain did not discuss the instrument approach procedure, the missed
+approach procedure, and other required elements during his approach
+briefing because he expected to execute a visual approach to the airport.
+• The captain and the first officer did not make required instrument
+approach callouts, and the first officer did not call out required course, fix,
+and altimeter information.
+• The flight crew did not discuss a missed approach after receiving a third
+report of a missed approach to the airport and a report of deteriorating
+visibility in the direction of the approach course.
+3. The flight crew was under pressure to land at ASE.
+• Because of the flight’s delayed departure from Los Angeles International
+Airport and the landing curfew at ASE, the flight crew could attempt only
+one approach to the airport before having to divert to the alternate airport.
+• The charter customer had a strong desire to land at ASE, and his
+communications before and during the flight most likely heightened the
+pressure on the flight crew.
+NTSB/AAB-02/03
+
+4 1
+• The presence of a passenger on the jumpseat, especially if it were the
+charter customer, most likely further heightened the pressure on the flight
+crew to land at ASE.
+4. Darkness, reduced visibility, and light snow showers near the airport at
+the time of the accident significantly degraded the flight crew’s ability to
+see and safely avoid terrain.
+5. The March 27, 2001, Notice to Airmen (NOTAM) regarding the
+nighttime restriction on the VOR/DME-C approach was vaguely worded
+and ineffectively distributed.
+• The NOTAM stated, “circling NA [not authorized] at night,” but the
+intended meaning of the NOTAM was to prohibit the entire instrument
+approach procedure at night.
+• Pilots might have inferred that an approach without a circle-to-land
+maneuver to runway 15 was still authorized.
+• If the FAA had worded the first NOTAM more clearly, it might have
+made more of an impression on the first officer when he received the
+preflight briefing from the Automated Flight Service Station and might
+have affected the conduct of the flight.
+• The local controller could not notify the flight crew of the NOTAM
+because the Denver Center had not sent a copy to the ASE tower.

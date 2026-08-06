@@ -1,0 +1,455 @@
+L
+T RAN SPO National Transportation Safety Board
+A R
+N T
+O E PLURIBUS UNUM A
+I T
+A T IO
+N N Washington, D.C. 20594
+SAFETYBO
+AR
+D
+Accident Number: DCA11MA039
+Operator/Flight Number: Southwest Airlines, Flight 812
+Aircraft and Registration: Boeing 737-3H4, N632SW
+Location: Yuma, Arizona
+Date: April 1, 2011
+Adopted: September 24, 2013
+HISTORY OF FLIGHT
+On April 1, 2011, about 1558 mountain standard time (MST),1 a Boeing 737-3H4,
+N632SW, operating as Southwest Airlines flight 812 experienced a rapid decompression while
+climbing through flight level 340. The flight crew conducted an emergency descent and diverted
+to Yuma International Airport (NYL), Yuma, Arizona. Of the 5 crewmembers and 117 passengers
+on board, one crewmember and one nonrevenue off-duty airline employee passenger sustained
+minor injuries. The airplane sustained substantial damage; postaccident inspection revealed that a
+section of fuselage skin about 60 inches long by 8 inches wide had fractured and flapped open on
+the upper left side above the wing. The flight was conducted under the provisions of 14 Code of
+Federal Regulations (CFR) Part 121 as a regularly scheduled domestic passenger flight from
+Phoenix Sky Harbor International Airport, Phoenix, Arizona, to Sacramento International
+Airport, Sacramento, California.
+According to the flight crew and recorded data, the takeoff and initial climb were normal.
+At 1558:05, an unidentified sound was recorded on the cockpit area microphone. About
+2 seconds later, the captain announced that the airplane had lost cabin pressurization and called
+for oxygen masks on; sounds consistent with increased wind noise were heard on the cockpit
+voice recording. The captain declared an emergency with air traffic control and requested a lower
+altitude. The air traffic controller provided lower altitude clearances, and the flight crew
+descended the airplane to 11,000 feet within 5 minutes. Cabin oxygen masks deployed, and about
+1605, the cabin crew began relaying condition reports to the flight crew describing a 2-foot hole
+in the fuselage and one broken-nose injury of a cabin crewmember. The airplane was cleared for
+further descent to 9,000 feet, and the captain requested radar vectors to the nearest suitable
+airport (NYL). The airplane landed about 1629 on runway 21R at NYL without further incident.
+The passengers deplaned via airstairs.
+1 Unless otherwise noted, all times in this brief are MST based on a 24-hour clock.
+
+2
+INJURIES TO PERSONS
+One cabin crewmember (flight attendant A) and one nonrevenue off-duty airline
+employee passenger sustained minor injuries. Flight attendant A lost consciousness while
+attempting to make an interphone call or P/A announcement to passengers, struck the forward
+partition, and sustained a laceration and fracture of his nose. The employee passenger lost
+consciousness and fell while attempting to assist flight attendant A. He sustained a laceration
+above his eye during the fall. Both flight attendant A and the employee passenger regained
+consciousness as the airplane descended.
+DAMAGE TO AIRCRAFT
+Postaccident inspection of the airplane revealed that a section of fuselage skin about
+60 inches long by 8 inches wide had fractured and flapped open on the upper left side above the
+wing (see figure 1). The damaged section of fuselage side skin was bounded by body station2
+(BS) 663 and BS 727 in the fore-aft direction and stringer3 (S)-4L and S-5L in the
+circumferential direction (see figure 2). S-4L is the location of a lap joint with three rivet rows.
+The entire section of skin remained attached along the lower edge and was deformed outward.
+There were some abrasion marks on the fuselage skin below the forward edge of the hole that
+matched the shape of the forward edge of the attached section. The fracture along the upper edge
+was through the lower rivet row of the lap joint. The forward edge was fractured about 1/2 inch
+aft of the edge of the bonded doubler at BS 663. The aft edge was fractured along the forward
+rivet row of the BS 727 butt joint. There was some deformation to the intercostal installed
+between the BS 663 and BS 685 frames. There was no visible damage to the surrounding frames,
+stringers, and stringer clips. Some insulation was missing from the location around the hole.
+During the postaccident skin repair, two cracked stringer clips were found along S-4L (at BS 685
+and at BS 706).
+2 Body station numbers represent the number of inches measured along the length of the airplane from a set
+datum point at the forward end of the airplane.
+3 Stringers are numbered from stringer 1 at the top center of the fuselage sequentially down the left and right
+sides of the airplane as viewed from the tail of the airplane looking forward.
+NTSB/AAB-13/02
+
+3
+Figure 1. Photograph of N632SW with the hole in upper left fuselage.
+Figure 2. Close-up photograph of hole in fuselage side skin on N632SW.
+NTSB/AAB-13/02
+
+4
+OTHER DAMAGE
+None.
+PERSONNEL INFORMATION
+The captain, age 56, held an airline transport pilot certificate with type ratings in the
+Boeing 737, 757, and 767. He held a valid Federal Aviation Administration (FAA) first-class
+medical certificate with a requirement that he wear glasses for near vision. He reported
+17,000 hours total flight time in the Boeing 737. The first officer, age 51, held an airline transport
+pilot certificate with a type rating in the Boeing 737. He held a valid FAA first-class medical
+certificate with no restrictions. He reported 6,350 hours total flight time in the Boeing 737.
+The cabin crew consisted of three flight attendants. Flight attendant A, age 49, held a
+valid flight attendant certificate and had 12 years of experience on the Boeing 737 at Southwest
+Airlines. Flight attendant B, age 64, held a valid flight attendant certificate and had 14 years of
+experience on the Boeing 737 at Southwest Airlines. Flight attendant C, age 32, held a valid
+flight attendant certificate and had 10 years of experience on the Boeing 737 at Southwest
+Airlines.
+AIRCRAFT INFORMATION
+The accident airplane, a Boeing 737-3H4, N632SW (serial number 27707 and
+line number 2799), was manufactured on May 22, 1996, and delivered new to Southwest Airlines
+on June 13, 1996. At the time of the accident, the airplane had 48,748 total hours with
+39,786 total cycles. The airplane was powered by two General Electric/SNECMA CFM-56-3B1
+engines.
+The accident airplane fuselage was manufactured by the Boeing Company at its facility
+in Wichita, Kansas, and left Wichita on April 1, 1996. The fuselage sections were shipped in two
+pieces by rail to the final assembly facility in Renton, Washington, and were delivered on
+April 8, 1996. At the time of manufacture, the fuselage sections were drilled and riveted
+manually at the lap splices.
+The Wichita facility was divested in 2005 and is currently known as Spirit
+AeroSystems. Spirit AeroSystems was able to provide some documentation regarding the generic
+work planning documents that the mechanics used for building the fuselage sections of the
+airplane. However, the fuselage section build paperwork for the accident airplane was not
+available at Spirit AeroSystems, nor was it required to be retained. (Although not required by the
+FAA, at the time, the Boeing Operations and Inspections record policy was to keep the
+documention for the current year plus 6 years.)
+The Boeing Renton facility joined the forward and aft fuselage sections at BS 727. Some
+of the drilling and riveting around the BS 727 joint was intentionally left incomplete by Boeing
+Wichita to allow for ease of production that Renton would finish later. The installation of the
+accident airplane crown skin panel above the hole was a split installation where the work was
+partially performed at the Wichita site and finished at the Renton site. The actual completed job
+records for the accident airplane were no longer available at Renton and were not required to be
+NTSB/AAB-13/02
+
+5
+retained. Any configuration changes that would have occurred on the factory floor should have
+been documented by a rejection tag. None of the Renton rejection tags associated with the
+accident airplane line number showed any changes to the accident skin panel. The Wichita
+rejection tags were not available for review and were not required to be retained. Further, the
+Southwest Airlines maintenance records for the accident airplane were examined and contained
+no evidence of any major repairs or alterations performed on the accident crown skin or side skin
+panels.
+At the time of manufacture, the Boeing quality assurance (QA) processes for in-factory
+skin panel re-work and factory production skin panel installation were similar. Inspections would
+be conducted on holes after drilling and after separating the skins for de-burring. A QA stamp
+would be required for “ok to seal” before fastener installation, and another QA acceptance would
+be required of the installed fasteners and other components. Boeing noted that the QA process
+was the same at the time of the accident as at the time of manufacture, but the current production
+variant of 737 (next generation, or “NG,” as opposed to the accident airplane, a -300 variant, part
+of the “classic” series) has a different design at the lap joint that has an improved fatigue life;
+more modern manufacturing techniques are used, such as 3D computer design, machine-driven
+rivets, and laser alignment.
+FLIGHT RECORDERS
+The solid-state cockpit voice recorder (CVR) was a Honeywell 6022 SSCVR 120 that
+recorded 2 hours of digital cockpit audio. The audio information was extracted from the CVR
+normally, without difficulty. The quality of the audio was characterized as good to excellent. No
+CVR group was convened, and a summary was prepared by the National Transportation Safety
+Board (NTSB) recorders lab.
+The solid-state flight data recorder (FDR), a Honeywell SSFDR, model 980-4700,
+records a minimum of 25 hours of airplane flight information in a digital format. The FDR was
+in good condition, and the data were extracted normally from the FDR.
+The times used in this report are expressed as MST. Timing was established by
+correlating the CVR events to common events on the FDR; time was also recorded as a
+parameter on the FDR in this airplane. This resulted in a fixed relationship between FDR
+subframe reference number, MST, and CVR elapsed time.
+SURVIVAL ASPECTS
+All of the passenger oxygen mask doors were found open, and all of the passenger
+oxygen generation cylinders had heat indication tape that indicated activation. The forward and
+aft flight attendant oxygen generation cylinders had heat indication tape that indicated activation.
+The forward flight attendant station had no oxygen masks present. There was one oxygen mask
+on the floor at row 1-DEF that had blood on it. The aft flight attendant station had two oxygen
+masks present.
+After the decompression, flight attendant A stated that there were two “high priority”
+tasks: ensuring that the passengers put on their oxygen masks and establishing communication
+with the flight crew. He recalled that he went to the forward galley and was about to either call
+NTSB/AAB-13/02
+
+6
+the captain on the interphone or make a P/A announcement to the passengers when he lost
+consciousness, fell, and struck his nose on the forward partition. Although Southwest Airlines
+training materials indicated that the first action a flight attendant should take after a
+decompression was to take oxygen from the nearest mask immediately, he stated that he thought
+he “could get a lot more done” before getting his oxygen mask on.
+Southwest Airlines provided its flight attendants with initial and recurrent training as well
+as information in the flight attendant manual regarding decompressions. All of the materials
+reviewed were consistent in their guidance to flight attendants. The first two steps to be taken
+following a decompression were to (1) take oxygen from the nearest mask immediately and
+(2) “secure yourself.” Only when the airplane had reached a safe walking attitude or after contact
+with the flight crew had been made were the flight attendants trained to attempt a P/A
+announcement to passengers. Further, Southwest Airlines training materials indicated that “at any
+cruise altitude, pressurization maintains cabin altitude of 6,000-8,000 feet. If pressure is lost,
+prompt action is required to maintain occupant consciousness. The time of useful consciousness
+ranges from as much as 90 seconds (in a mechanical failure) at 30,000 feet, to as little as six
+seconds (in a rapid decompression) at 41,000 feet.”4 Flight attendant A received his initial
+training in September 1998 and his last recurrent training in September 2010.
+TESTS AND RESEARCH
+After the accident, all of the airplane’s interior components and insulation were removed,
+allowing examination of the interior surface of the fuselage skins. The visible markings on the
+skin panels5 surrounding the crown skin panel (BS 540 to BS 727, S-4L to S-4R) immediately
+above the fractured skin panel were documented. Typically, a skin panel should have two
+markings: one for the manufacture of the skin panel itself and one for the manufacture of the
+built-up panel assembly. Additionally, the built-up panel assembly should have a marking to
+indicate that the assembly had been approved by the QA process. Figure 3 shows the markings
+on the accident airplane. The three-panel crown assembly from S-10L and S-10R that included
+the fracture had QA stamps dated February 16, 1996, with the exception of the grey panel in
+figure 2. The panel assemblies aft of the accident crown panel had QA stamps dated February 27,
+1996. One of the three panel assemblies forward of the accident crown panel had a QA stamp
+dated February 23, 1996, while the other two markings were obstructed. The accident crown skin
+panel above the fracture and coincident with the lap joint where the fracture occurred only had a
+stamp for the skin panel manufacture and was dated March 5, 1996.
+4 This information is based on FAA Advisory Circular (AC) 61-107, “Operations of Aircraft at Altitudes Above
+25,000 Feet MSL [mean sea level] and/or MACH Numbers…Greater Than .75,” dated January 23, 1991.
+5 The skin panel is a flat piece of aluminum with a doubler bonded to it. The stringers, frames, and other internal
+structures are installed, creating the built-up panel assembly.
+NTSB/AAB-13/02
+
+7
+Figure 3. Documented markings on the accident airplane skin panels.
+Note: The pink shaded boxes represent the skin panel manufacturing information (metal bond
+assembly number), the unshaded boxes represent the built-up panel assembly information (assembly
+number), the green circles represent the QA stamp for Boeing Wichita, and the grey shaded box in the
+center represents the crown skin panel above the fractured skin panel.
+The area of the accident airplane skin panels containing the hole was excised from the
+airplane and sent to the NTSB materials laboratory for detailed examination, which revealed that
+the longitudinal fracture extended through the lower skin portion of the lap joint at S-4L. The
+fracture extended between BS 666 and BS 725 and through the lower row of rivets of the lap
+joint, intersecting 58 consecutive rivet holes at approximately 1-inch intervals. (A cross section
+of the lap joint on the accident airplane is shown in figure 4.)
+During manufacture, the bond assembly for a skin panel is created by hot bonding an
+internal doubler to the upper skin. The inner surfaces of the upper and lower skin panels are
+anodized and primed. The outer surface of the lower skin panel is unfinished clad aluminum in
+the area where it will fay with the upper skin internal doubler. During installation, the upper skin
+and internal doubler assembly overlaps the lower skin assembly, forming a lap joint. BMS5-95
+polysulfide sealant is applied between the doubler bonded to the upper skin and the lower skin
+faying (adjoining) surfaces. The joint is then fastened with three rows of rivets. The stringer is
+attached along the middle rivet row. The rivet holes were sequentially numbered from 1 to 112
+on the accident skin panel for identification purposes. The airplane was delivered with the outer
+NTSB/AAB-13/02
+
+8
+top surface of the fuselage painted tan (the original Southwest Airlines paint scheme). In
+January 2011, blue paint was applied to the outer top portion of the airplane.
+Figure 4. Diagram of a Boeing 737 lap joint in the fracture area (not to scale).
+The inner surface of the doubler was exposed when the lower skin fractured along the
+lower rivet row. The exposed inner surface was coated with a dark gray deposit consistent with
+BMS5-95 sealant. Evidence of blue exterior paint and green primer was found on the surface of
+the sealant. The exposed surface at the lower edge of the doubler and in the areas that
+corresponded with the length of the longitudinal fracture contained minor rubbing (fretting)
+damage. The areas within the fretting damage area showed evidence of bare metal. The mating
+NTSB/AAB-13/02
+
+9
+surface (outer surface of the lower skin) showed a mirror image of the sealant, paint, and bare
+metal features that were found on the exposed face of the doubler. The fretting damage areas
+were consistent with contact and relative motion between the lower edge of the doubler and the
+lower skin.
+Microscopic examination of the longitudinal portion of the fracture surfaces revealed
+thumbnail fracture features consistent with fatigue cracking that originated from 54 out of 58
+rivet holes. The fatigue cracks emanated from the outer surface of the lower skin. This surface is
+not visible from the interior or exterior of the airplane. In nine adjoining rivet holes (81 through
+89), fatigue cracking occurred through 100% of the skin thickness. The depth of each fatigue
+crack varied along its length. The two longest fatigue cracks were found on the forward and aft
+side of rivet hole 85. The crack on the forward side of the rivet hole measured 0.55 inch, and the
+crack on the aft side measured 0.60 inch. The fatigue cracks propagated forward and aft with
+respect to each rivet hole. Figure 5 shows a drawing of the fuselage skin in the area of the
+fracture. As the distance from rivet hole 85 was increased, the length of a fatigue crack on each
+side of a rivet hole for each successive rivet hole decreased. The fracture face in the areas located
+outside of the fatigue crack regions showed rough texture features consistent with overstress
+separation. The remaining 4 of the 58 rivet holes (69, 71, 97, and 98) contained no evidence of
+fatigue cracking. The fracture intersected two tear straps6 at BS 685 and BS 706. The face of the
+fracture for the tear straps contained no evidence of fatigue cracking.
+Figure 5. Drawing of the lap joint in the area of fracture (blue line represents the fracture).
+Examination of the rivets in the fracture area revealed that 10 of the 58 lower-row rivets
+were oversized, while the upper-row rivets were standard sized. Numerous bucked tails on the
+lower-row rivets exhibited a finish that was different than rivets elsewhere on the panel, ranging
+anywhere from exposed bare aluminum to partially covered with primer to fully covered with
+primer coating. Additionally, many rivets in the lap joint were under driven, and areas around the
+driven heads exhibited curled metal consistent with metal burrs. Microscopic examination of the
+disassembled rivets revealed the diameter of the shank portion in the area adjacent to the bucked
+tail portion for a majority of the rivets was larger (expanded) compared to the diameter of the
+shank. The expanded diameter portion in the shank coincided with the thickness and larger hole
+in the lower skin. Figure 6 shows the side profile view of rivet 85 with its corresponding rivet
+hole. At the inner surface of the lap joint, the rivet holes in the upper and lower skins were found
+to be slightly offset relative to each other, and many of the rivet holes on the lower skin were not
+6 Tear straps are fail-safe elements of the skin assembly. They are vertical straps created by the retained portions
+of the hot-bonded doubler after chemical milling.
+NTSB/AAB-13/02
+
+10
+circular but slightly oval. Many of the rivet holes appeared similar to a figure 8 or a
+double-drilled hole. The fracture (fatigue cracks) intersected the lower portion of a majority of
+the lower-row rivet holes. The corresponding area located at the underside of the expanded
+portion of the rivets also showed fretting damage consistent with the underside of the expanded
+portion of the shank rubbing against the doubler. The bore of many rivet holes contained deposits
+of dark gray material consistent with BMS5-95 sealant.
+Figure 6. Rivet hole 85L when viewed from inner face of the skin panel (left side) and side view
+of corresponding rivet that was removed from the rivet hole (right side).
+The material composition, hardness, electrical conductivity, and thickness of the upper
+skin, lower skin, and doubler were examined along with several rivet samples. All of the
+materials examined corresponded to their respective Boeing specifications.
+The NTSB materials laboratory performed a fatigue striation count on the longest fatigue
+crack located on the aft side of rivet hole 85. Boeing also performed fatigue striation counts on
+several other smaller fatigue crack areas. The data for all of the cracks examined showed
+reasonable agreement in the crack growth rates. The calculated total number of cycles for the
+longest fatigue crack located on the aft side of rivet hole 85 was 38,261 cycles. (The airplane had
+39,786 total cycles at the time of the accident.)
+ORGANIZATIONAL AND MANAGEMENT INFORMATION
+Southwest Airlines was certificated as a 49 CFR Part 121 air carrier and was
+headquartered in Dallas, Texas. As of March 31, 2011, the company’s fleet consisted of
+553 Boeing 737 airplanes, including 171 Boeing 737-300s, 25 Boeing 737-500s, and 357
+Boeing 737-700s. The accident airplane was owned and operated by Southwest Airlines for
+common carrier passenger operations.
+NTSB/AAB-13/02
+
+11
+ADDITIONAL INFORMATION
+Time of Useful Consciousness
+On December 20, 2000, as a result of an October 25, 1999, LearJet 35 decompression
+accident near Aberdeen, South Dakota,7 the NTSB issued Safety Recommendation A-00-109,
+which asked the FAA to do the following:
+(1) Revise existing guidance and information about high-altitude operations to
+accurately reflect the time of useful consciousness and rate of performance
+degradation following decompression and to highlight the effect of hypoxia on an
+individual’s ability to perform complex tasks in a changing environment and
+(2) incorporate this revised information into both the required general emergency
+training conducted under 14 [CFR] Parts 121 and 135 and training and flight
+manuals provided to all pilots operating pressurized aircraft.
+In response, the FAA issued AC 61-107A in 2003; however, on June 24, 2004, the NTSB
+expressed its concern that the time of useful consciousness may be a much shorter period of time
+than was indicated in the AC. The NTSB indicated that the information provided in AC 61-107A
+is misleading and needs to be revised to emphasize that time is of the essence in a
+depressurization. On December 27, 2005, the NTSB again expressed its concern that the time of
+useful consciousness data do not represent actual pilot performance under realistic
+decompression conditions The NTSB evaluated AC 61-107B, which was issued on March 29,
+.
+2013, and determined that the revisions made to the AC did not address the NTSB’s concerns
+about the time of useful consciousness. As a result, Safety Recommendation A-00-109 was
+classified “Closed—Unacceptable Action” on September 18, 2013.
+Postaccident Boeing and FAA Actions
+On April 4, 2011, Boeing released Alert Service Bulletin (ASB) 737-53A1319 instructing
+operators to inspect the lower row of fasteners at S-4L and S-4R, from BS 360 to BS 908, for
+cracking in the lower skin of the lap joint. The ASB was effective for all Boeing 737 airplanes
+with line numbers 2553 through 3132 and called for an external dual frequency eddy current
+(DFEC) inspection8 of the lap joint. As an alternative, the operator could perform an internal
+eddy current inspection of the lower lap joint fastener row. The ASB recommended that the
+initial inspection occur before an airplane had 30,000 total flight cycles or within 20 days of the
+original issue date of the ASB, whichever occurred later. For airplanes with 30,000 to 34,999
+total flight cycles, the ASB recommended compliance within 20 days of the original issue date,
+and for airplanes that had 35,000 total flight cycles or more, the ASB recommended compliance
+7 More information about this accident, NTSB case number DCA00MA005, can be found at
+http://www.ntsb.gov/aviationquery/index.aspx.
+8 An external DFEC inspection uses electromagnetic induction principle to detect cracks in areas where the
+cracks would not be visible due to the presence of other structure (such as under the upper skin).
+NTSB/AAB-13/02
+
+12
+within 5 days of the original issue date. The inspections were recommended to be repeated at
+intervals not to exceed 500 flight cycles.9
+On April 5, 2011, the FAA issued emergency airworthiness directive (AD) 2011-01-15
+requiring inspections of the S-4L and S-4R lap joints per the details presented in the original
+Boeing ASB. The AD was effective immediately. As a result of the AD inspections, several other
+Boeing 737 airplanes were found with one to five small fatigue cracks at various locations along
+the lower rivet row at S-4. None of the airplanes had the extensive fatigue cracking or
+double-drilled (figure 8) holes evident on the accident airplane.
+Boeing’s record retention requirements for manufacturing records related to build and
+assembly processes were for the current production year plus the previous 6 years at the time the
+accident airplane was in production. A search for completed manufacturing records did not return
+any results, as record storage requirements indicated that any records older than 7 years should
+be destroyed.
+On April 16, 2011, the FAA promulgated the first regulatory requirement for the retention
+of manufacturing records, 14 CFR 21.137, which required the retention of quality control
+records. The rule states, in part, that a production approval holder must retain these records for at
+least 5 years “for the products and articles manufactured under the approval” and at least
+10 years for critical components. Before 14 CFR 21.137 was issued, there were no regulatory
+requirements for the retention of manufacturing records, just a policy agreed upon between the
+manufacturer and the FAA. In April 2011, Boeing increased its retention requirements for all
+manufacturing records to 10 years.
+9 On April 8, 2011, Boeing released Revision 1 to the ASB that clarified some of the figures but did not change
+the details of the inspection.
+NTSB/AAB-13/02
+
+13
+ANALYSIS
+There were no relevant anomalies during the preflight check, taxi, and initial portions of
+the accident flight. No crew actions or inactions affected the separation of the portion of crown
+skin from the fuselage. The NTSB concludes that flight crew response to the decompression was
+timely and effective.
+Time of Useful Consciousness
+Flight attendant A attempted to make either an interphone call or a P/A announcement to
+passengers before obtaining oxygen, leading to his loss of consciousness and fractured nose. His
+decision to make the call or P/A announcement before obtaining oxygen was inconsistent with
+Southwest Airlines training materials, which clearly indicated that flight attendants should first
+obtain oxygen and secure themselves in the event of a decompression. In a postaccident
+interview, the flight attendant stated that he thought he “could get a lot more done” before
+getting his oxygen mask on. The NTSB concludes that flight attendant A attempted to perform
+actions before obtaining oxygen and lost consciousness, likely due to an incorrect assessment of
+his time of useful consciousness.
+Structural and Manufacturing Aspects of the Accident Airplane
+Detailed laboratory examination of the removed skin piece revealed that the fracture
+occurred along the lower rivet row and intersected 58 rivet holes (numbered 55 through 112).
+The fatigue fracture area was not visible from either the exterior or the interior of the airplane.
+The two longest fatigue cracks were almost twice as long as the next longest and were located
+forward and aft of rivet hole 85. These cracks and others in the area had propagated entirely
+through the skin thickness. The NTSB concludes that fatigue cracking initiated at rivet hole 85
+located at BS 697. The material properties for the skins, doubler, and rivets were all checked and
+satisfied the Boeing specification requirements. Thus, the NTSB concludes that material
+properties did not contribute to the skin fatigue crack.
+The mating outer surface of the lower skin and the inner surface of the upper doubler had
+evidence of green primer and blue exterior paint on the surface of the sealant, indicating a
+breakdown in the lap joint sealant before the blue paint was applied. There was also rubbing
+(fretting) damage and areas of exposed bare metal adjacent to the areas where the fatigue
+cracking was located, which was caused by the relative movement of the lower skin and doubler.
+Thus, the fatigue cracking and breakdown in the lap joint had been present for a prolonged
+period of time.
+The NTSB materials laboratory and Boeing both performed fatigue striation counts on
+several areas of the fatigue cracking. The data for all of the cracks examined showed reasonable
+agreement in the crack growth rates. The calculated total number of cycles for the longest fatigue
+crack located on the aft side of rivet hole 85 was 38,261 cycles, which was within about
+1,500 cycles of the total cycles on the airplane. The NTSB concludes that the fatigue cracking at
+rivet hole 85 began approximately when the airplane entered service.
+Examination of the rivets in the fracture area revealed numerous anomalies, including
+oversized rivets, variations in finish, under-driven conditions, expanded shank areas, and
+NTSB/AAB-13/02
+
+14
+crank-shafting. Most of the lower-row holes in the lower skin had discrepancies including
+ovalized holes, double-drilled holes, gaps between the buck tail and the hole, sealant in the rivet
+hole, and burrs protruding from under the buck tail. Examination of the lap joint before it was
+separated revealed that almost all of the lower-row holes in the lower skin were offset from the
+holes in the upper skin and attached doubler. The hole quality in the crown and left side skin
+panels was not in accordance with Boeing specifications or standard manufacturing practices and
+showed a lack of attention to detail and extremely poor manufacturing technique.
+The fuselage barrel section that included the fracture area left Boeing Wichita on April 1,
+1996, and was delivered to the factory in Renton on April 8, 1996. Southwest Airlines had not
+replaced the crown skin or upper skin panel in the fracture area. All of the skin panels
+surrounding the crown skin panel had markings consistent with the drawings, had an inspection
+stamp from Boeing Wichita, and were dated January 18, 1996, through February 27, 1996. The
+crown skin panel from BS 540 to BS 727 only had a chemical conversion coating stamp, no
+inspection stamp, and was dated March 5, 1996. There were no records or associated rejection
+tags documenting replacement of the crown skin panel at either Boeing Wichita (currently Spirit
+Aerosystems) or Boeing Renton. The NTSB concludes that the panel markings indicate that the
+crown skin panel from BS 540 to BS 727 was replaced during manufacture; however, it could
+not be determined if this occurred at the Boeing Wichita or Renton facilities. The Boeing QA
+process for an in-factory re-work followed the same steps as factory production, requiring
+multiple inspections and approvals.
+Because the accident occurred beyond the manufacturing records retention period, the
+investigation could not determine why the crown skin panel was replaced or how the poor repair
+was not identified in the QA process. However, evidence indicates that during drilling of the
+S-4L lap joint, the crown skin panel and the upper left fuselage panel were misaligned, so most
+of the lower rivet row holes were misdrilled. Many of the installed rivets did not completely fill
+the holes in the lower skin panel, which significantly reduced the fatigue life of the panel. The
+pressurization loads on the fuselage skin initiated fatigue cracking at rivet hole 85 almost
+immediately after manufacture. Fatigue cracking subsequently initiated in adjacent rivets along
+the skin panel and grew over time with each application of pressurization loads. The NTSB
+concludes that on the accident flight, the cumulative amount of fatigue cracking reached a
+critical length, and the panel’s residual strength was not sufficient to carry the loads, which
+resulted in the hole flapping open and rapid depressurization of the airplane.
+The fatigue cracking in the lower rivet row can be characterized as multiple site damage
+where small individual fatigue cracks grow slowly over time to a point where they link up,
+causing failure. The FAA issued AD 2011-01-15 to require compliance with Boeing ASB
+737-53A1319 to inspect the S-4L and S-4R lap joints on all Boeing 737 classic airplanes from
+line numbers 2553 to 3132. There were no similar findings of multiple site damage in the lap
+joints of the Boeing 737 classic airplanes as was found on the accident airplane; thus, the NTSB
+concludes that it is unlikely that there was a systemic QA error at the Boeing facilities in Wichita
+or Renton at the time of manufacture.
+NTSB/AAB-13/02
+
+15

@@ -1,0 +1,2405 @@
+National Transportation Safety Board
+Washington, D.C. 20594
+September 5, 2000
+Mr. Ed Voorhis, Petitioner
+Aircraft Accident
+Quincy, Illinois
+November 19, 1996
+File No. 1930, Accident No. DCA97MA009A/B
+RESPONSE TO PETITION FOR RECONSIDERATION
+In accordance with 49 Code of Federal Regulations (CFR) Section 845.41, the National
+Transportation Safety Board has reviewed the May 6, 1998, petition for reconsideration and
+modification of its findings and probable cause in the runway collision accident involving
+United Express flight 5925, a Beechcraft l 900C, N87GL, and a Beechcraft King Air A90,
+Nl 1270, at Quincy Municipal Airport, Quincy, Illinois, on November 19, 1996. On the basis of
+this review, the Safety Board has denied the petition to amend findings 6, 7, 13, 14, 19, and 20.
+The Board, however, has deleted findings 16 through 18 and has amended part of the probable
+cause statement based on its reevaluation of the factual evidence in this accident. In addition, the
+Board has amended finding 15, even though that finding was not specifically challenged by the
+petitioner.
+Background Information
+On November 19, 1996, about 1701 central standard time, United Express flight 5925,
+a Beechcraft 1900C, N87GL, and a Beechcraft King Air A90, Nl 127O, collided at Quincy
+Municipal Airport, Quincy, Illinois. The Beech l 900C was in its landing roll on runway 13, and
+the King Air A90 was in its takeoff roll on runway 4. The collision occurred at the intersection
+of the two runways. The 2 flight crewmembers and all 10 passengers aboard the 1900C were
+killed, and the 2 occupants aboard the King Air A90 were killed. A Piper Cherokee, N7646J,
+with a pilot and passenger aboard, was taxiing to runway 4 behind the King Air A90.
+On July l, 1997, the Safety Board determined that the probable cause of this accident was
+the failure of the pilots in the King Air A90 to effectively monitor the common
+traffic advisory frequency or to properly scan for traffic, resulting in their
+commencing a takeoff roll when the Beech l 900C (United Express flight 5925)
+was landing on an intersecting runway. Contributing to the cause of the accident
+was the Cherokee pilot's interrupted radio transmission, which led to the
+6793E
+
+2
+Beech 1900C pilot's misunderstanding of the transmission as an indication from
+the King Air that it would not take off until after flight 5925 had cleared the
+runway. Contributing to the severity of the accident and the loss of life were the
+lack of adequate aircraft rescue and firefighting services, and the failure of the air
+stair door on the Beech l 900C to open.1
+Raytheon Aircraft Company, which acquired Beech Aircraft Corporation in
+February 1980, was a party to the Safety Board's investigation in accordance with
+49 CFR Section 831.12. In support of its petition, Raytheon provided affidavits from company
+employees and consultants retained by the company to assist in the investigation of the accident.
+The petition states that "important new evidence has been discovered which deserves the Board's
+evaluation. The Affidavits ... identify in detail this new evidence and discuss its impact on the
+Board's findings." In particular, the petitioner challenges nine of the Board's findings (6, 7, 13,
+14, and 16 through 20) and urges the Board to adopt the following revised probable cause:
+... (1) the failure of both flight crews to effectively monitor the traffic advisory
+frequency and to properly scan for traffic was a probable cause of the collision;
+and (2) the severity of the impact from the collision and the intensity of the
+immediately resulting fire caused the deaths. Neither the airstair door nor the
+availability of airport rescue and fire fighting services played a role in the cause of
+death.
+The Safety Board's response follows the petition's format.
+Finding 6
+The Safety Board concluded that
+Given the Beech 1900C flight crew's frequent radio broadcasts of the airplane's
+position during the approach, and the lack of any prohibition on straight-in
+approaches to uncontrolled airports, the flight crew's decision to fly a straight-in
+approach to runway 13 was not inappropriate.
+Raytheon's petition stated that
+... the crew violated FAR [Federal Aviation Regulation] 91.117(a) by operating in
+excess of 250 KIAS [knots indicated airspeed] below 10,000 feet MSL [mean sea
+level]. They also chose the non active runway and admittedly "fudged in there a
+little" to complete their approach before the departure of the King Air. These
+actions by the 1900 crew were inappropriate; it appears the 1900 crew was
+operating in a hurry-up mode and cutting corners on prudent traffic pattern
+procedures.
+1 For more information, see National Transportation Safety Board. 1997. Runway Collision, United Express
+Flight 5925 and Beechcraft King Air A90, Quincy Municipal Airport, Quincy, Illinois, November 19, 1996. Aircraft
+Accident Report NTSB/AAR-97/04. Washington, DC.
+
+3
+The Federal Aviation Administration (FAA) encourages pilots, through Advisory Circular
+(AC) 90-66A, "Recommended Standard Traffic Patterns and Practices for Aeronautical
+Operations at Airports Without Control Towers," to use the standard traffic pattern, rather than a
+straight-in approach, for uncontrolled airports (such as Quincy Municipal Airport). However,
+AC 90-66A recognizes that some pilots may choose to execute a straight-in approach and
+therefore urges that all pilots operating in the traffic pattern be alert to aircraft executing such an
+approach.
+The petitioner does not offer any contrary evidence toward the prohibition of a straight-in
+approach. Although the petitioner presents information suggesting that the 1900C flight crew
+erred in other respects, these issues are not relevant to the finding. Therefore, the Safety Board
+has denied the petitioner's request to modify finding 6.
+Finding 7
+The Safety Board concluded that
+The flight crew of flight 5925 made appropriate efforts to coordinate the approach
+and landing through radio communications and visual monitoring; however, they
+mistook the Cherokee pilot's transmission (that he was holding for departure on
+runway 4) as a response from the King Air to their request for the King Air's
+intentions and therefore mistakenly believed that the King Air was not planning to
+take off until after flight 5925 had cleared the runway.
+Raytheon's petition stated that
+The conspicuity tests performed by RAC [Raytheon Aircraft Company] ... clearly
+establish that the King Air was in the field of view of the 1900 flight crew for
+more than the last minute of flight, including the King Air's entire ground roll.
+Therefore, the 1900 flight crew's visual monitoring efforts were anything but
+appropriate.
+The petitioner's challenge of this finding focused solely on visual monitoring. The Safety
+Board notes that the petitioner did not challenge the parts of the finding regarding the 1900C
+flight crew's radio communications and the radio transmission from the pilot of the Piper
+Cherokee.2
+The Safety Board recognizes that, in this case, the "see and be seen" concept of traffic
+separation was unsuccessful. The Board also recognizes that the flight crew of each airplane had
+an opportunity to see the other airplane during the last minute of flight. However, the petitioner
+ignores the appropriate efforts of the l 900C flight crew to coordinate the approach and landing
+2 The Safety Board notes that the petitioner also did not challenge finding 11, which stated that "the Cherokee pilot's
+transmission in response to flight 5925's request was unnecessary and inappropriate and, combined with the lack of
+any correction to the flight crew's misunderstanding, misled the flight crew into believing that it had been
+communicating with the King Air, and that the King Air would continue holding."
+
+4
+through radio communications, in accordance with the FAA's Aeronautical Information Manual
+(AIM), paragraph 4-1-9, and AC 90-66A. Specifically, the cockpit voice recorder indicated that
+the I 900C flight crew made radio transmissions about 30, 10, and 5 miles out and on short final.
+These transmissions included position location information and requests to be advised of any
+other traffic in the area.
+According to 14 CFR Section 91.113, "Right-of-way rules," the landing airplane (the
+1900C) had priority over the departing airplane (the King Air A90). Also, the l 900C flight
+crew's attention during the last minute of the final approach could reasonably be expected to
+focus on runway alignment and the descending flightpath into the touchdown zone. In addition,
+air traffic control transcripts indicated that the King Air A90 flight crew failed to announce its
+takeoff intentions on the common traffic advisory frequency, which was required by the AIM,
+paragraph 4-1-9. 3
+Because the 1900C pilots mistakenly believed that they had received assurance from the
+King Air A90 pilots that the airplane would hold on the runway, the 1900C pilots may have been
+less concerned about continuing to watch the King Air A90 during their landing. However, the
+evidence gathered during this investigation continues to support that the 1900C flight crew made
+appropriate efforts to coordinate the approach. Therefore, the Safety Board has denied the
+petitioner's request to modify finding 7.
+Finding 13
+The Safety Board concluded that
+The impact forces were at a survivable level for the occupants of both airplanes.
+Raytheon's petition stated that
+... the 1900's peak deceleration [was shown] to be in excess of 19G's and the
+King Air's more than 30G's, resulting in a severe (not mild) impact.
+The autopsy results determined that the cause of death for the occupants of both airplanes
+was either "carbon monoxide intoxication from inhalation of smoke and soot" from the
+postimpact fire or "inhalation of products of combustion." Also, two on-scene witnesses
+indicated that they heard sounds of life from within the 1900C cabin and that the captain had
+spoken with them from the cockpit.
+According to the autopsy results, the occupants of both airplanes did not sustain blunt
+force trauma injuries that would have impeded their mobility or ability to evacuate. The bodies
+of the King Air A90's occupants were found behind their seats, and the body of the 1900C first
+3 The Safety Board notes that the petitioner did not challenge finding 8, which stated that "the failure of the King
+Air pilot to announce over a common traffic advisory frequency his intention to take off created a potential for
+collision between the two airplanes."
+
+5
+officer was found between the air stair (main boarding) door and the forward right overwing exit.
+The bodies of seven passengers were found forward of row 4, and the bodies of three passengers
+were found near rows 7 and 8.4 (The body of the 1900C captain was found in the cockpit area.)
+The petitioner stated that finding 13 was reached without an impact analysis. However,
+no analysis of the severity of this accident was required to support the Safety Board's conclusion
+that the impact forces were survivable. The Board based its conclusion on autopsy findings,
+body locations, and eyewitness accounts, which clearly indicated that the l 900C occupants were
+alive and mobile after the collision. The petitioner offered the Board no reason to alter this
+finding. Therefore, the Board has denied the petitioner's request to modify finding 13.
+Finding 14
+The Safety Board concluded that
+The speed with which the fire enveloped the King Air and the intensity of the fire
+precluded survivability for the occupants of the King Air.
+Raytheon's petition stated that
+... this conclusion applies equally to the l900's passengers. The 1900 passengers
+and co-pilot were subjected to severe fire conditions both inside the cabin at the
+moment of impact and externally.
+The Safety Board formed its conclusion based on the position of the King Air A90
+cockpit/fuselage within the pool fire in the final wreckage scene. The Board determined that the
+King Air A90 occupants initially attempted to escape but were overcome by the effects of the fire
+before reaching an exit. The Board did not make a similar conclusion for the l 900C because it
+did not have sufficient evidence to determine the amount of time that was available for the
+occupants to have escaped the airplane in the presence of smoke and soot from the fire.
+Because the petitioner offered a different conclusion from the same evidence, the Safety
+Board considered it appropriate to seek outside assistance to review the survivability issue and
+ensure that no relevant forensic evidence was overlooked. Thus, the Board requested that the
+Assistant Medical Examiner at the Armed Forces Institute of Pathology (AFIP) conduct a review
+of the survivability and crash forces of this accident. In a July 15, 1999, letter, the medical
+examiner stated the following:
+Many documents were submitted by Raytheon Aircraft supporting the hypothesis
+that the [ l 900C] aircraft interior was ignited by burning fuel vapor at the time of
+the initial impact and was totally involved by fire almost immediately with all
+4 The forward section of the airplane included rows I through 5, and the aft section included rows 6 through 9.
+According to the load manifest, at least four passengers were seated in rows 6 through 9, and at least five passengers
+were seated in rows I through 5. The 10th passenger was not listed on the manifest.
+
+6
+occupants, except the pilot, dead within the first 30 seconds after the initial
+impact. An alternate hypothesis is that there was minimal or no interior fire
+associated with the initial fire-ball of burning fuel and the occupants' fatal injuries
+were associated with the pool fire which ultimately ignited the interior. The
+alternate hypothesis would allow some occupants to survive 120 seconds or more
+after the impact.
+The hypotheses represent extreme limits of the occupant survival time in this
+mishap. The actual fire dynamics are within the spectrum defined by the two
+hypotheses. Occupant survival time ranged from 30 to more than 120 seconds. I
+am not aware of any cientific means to define exactly when the occupants were
+incapacitated or when they died. The following observations suggest that the
+survivability impact of the pool fire was more important than the initial external
+fire ball.
+a. The pilot was alive and conscious at least 120 seconds after the impact.
+The pilot had a source of fresh air and was partially separated from the
+main cabin. Despite these special circumstances, it is very difficult to
+imagine a single individual remaining alive and alert for over 2 minutes
+when all other occupants were dead within the first 30 seconds [according
+to Raytheon's hypothesis].
+b. The fire and toxicological modeling studies are consistent with death
+within 20 to 30 seconds after full involvement of the cabin interior by fire.
+Unfortunately this is a final common pathway and does not distinguish
+whether the cabin fire was primarily from entry of the initial fireball or
+from burn-through by the pool fire.
+c. The wreckage and kinematics analyses indicate that there were
+openings in the fuselage exposed to the fuel droplet cloud and fireball
+associated with initial impact. It is possible that this burning cloud entered
+and rapidly consumed the cabin and its occupants. It is also possible that
+very little, if any, of the burning fuel cloud entered the cabin, despite
+significant defects in the fuselage of the B 1900. Post-impact movement of
+the airplanes away from the fuel cloud, temporary occlusion of fuselage
+defects during the crash sequence, lack of significant cabin ventilation, and
+relative positive pressure in the cabin at the time of impact could limit
+initial entry of burning fuel.
+d. Data cited by Raytheon consultants suggests fuselage burn-through
+within approximately 30 seconds of exposure to a fully developed fire.
+Since the entire left side of the fuselage was intact when the first witnesses
+arrived approximately 2 minutes after the crash, it seems unlikely that a
+significant fire had been burning inside the cabin since initial impact.
+
+7
+The locations of the remains of the B 1900 occupants suggest that at least some of
+[the] passengers moved out of their seats and forward in the aircraft after the
+crash. Only three of the twelve occupants were found behind the wings while
+achieving proper weight and balance would require seating of five to six
+passengers aft of the center of gravity. Despite some movement after the crash,
+there is no evidence of any effective escape attempts on the part of any of the
+occupants. The left over-wing exit and the main door were the only viable exit
+routes due to the pool fire on the right side of the aircraft. The B 1900 occupants
+had opened neither exit. This suggests that the relatively uninjured occupants
+were incapacitated by the post-crash fire before they could open the window or
+door.
+The hypothesis presented by the AFIP Assistant Medical Examiner supports the Safety
+Board's decision not to include the l 900C as part of this conclusion. Specifically, the Board
+found that the fire did not initially preclude survivability for the l 900C occupants because the
+first officer and the passengers were able to move from their seats and on-scene witnesses heard
+sounds of life inside the cabin and spoke with the captain. The petitioner did not offer any new
+evidence to support modifying the Board's conclusion. Therefore, the Board has denied the
+petitioner's request to modify finding 14.
+Finding 16
+The Safety Board concluded that
+The most likely reason that the air stair door could not be opened is that the
+accident caused deformation of the door/frame system and created slack in the
+door control cable.
+Raytheon's petition stated that
+... the internal operability of the 1900 airstair door is irrelevant in light of the fact
+that the King Air engine penetrated the 1900 fuselage opposite that door
+disrupting the floor and immediately depositing fuel and fire in that area. In
+addition, the kinematics of the door, on scene witness statements, and the remains
+of the airstair door itself, do not support a finding that the door was jammed.
+As previously stated, the autopsy results indicated that the l 900C occupants did not
+sustain blunt force trauma injuries that would have impeded their mobility or ability to evacuate.
+Thus, it is possible that the occupants were in the cabin for a period of time sufficient to have
+opened an available exit. However, the investigation determined that the air stair door, which
+was located on the left side of the airplane, and the left overwing exit hatch were not opened in
+an escape attempt. (On-scene witnesses indicated that, when they approached the airplanes after
+the accident, the right side of the l 900C was engulfed in fire.)
+
+8
+The 1900C captain told the two potential rescuers outside of the airplane ( one of which
+was a 1900C-qualified United Express pilot) to "get the door open," but neither was able to open
+the door. Also, the first potential rescuer found the air stair door handle in the 6 o'clock
+(unlocked) position. This finding, along with the location of the first officer's body, suggested
+that the first officer was following company evacuation procedures and tried to open the air stair
+door but was unable to do so. The Safety Board does not have specific evidence to indicate why
+the air stair door was not opened because most of the door and its frame were destroyed by fire.
+The Safety Board does not agree with Raytheon's statement that "the internal operability
+of the 1900 airstair door is irrelevant in light of the fact that the King Air engine penetrated the
+1900 fuselage opposite that door disrupting the floor and immediately depositing fuel and fire in
+that area." The internal operability of the air stair door is extremely relevant because the impact
+forces were survivable and the air stair door was accessible despite the fire on the right side of
+the airplane. The 1900C flight crew and passengers should have been able to get out of the
+airplane using the air stair door, yet they did not open the door to escape the airplane. Also, the
+two potential rescuers could not open the door from the outside. The first potential rescuer stated
+that he found the handle in the 6 o'clock position, pulled on the handle, and turned it up. The
+second potential rescuer (a United Express I 900C pilot, who was familiar with the operation of
+the door) stated that he intervened and then depressed the release button above the door handle
+while rotating the handle downward from the 3 o'clock to the 6 o'clock position but was also
+unable to open the door.5 Nonetheless, the Board reevaluated the factual evidence from this
+accident and could not determine the most likely reason that the air stair door was not opened.6
+Therefore, the Board has granted the petitioner's request to modify finding 16 by deleting it from
+the findings list and amending the corresponding text in the accident report.
+The Safety Board notes that the petitioner did not challenge finding 15, which states that
+"the occupants of the Beech 1900C did not escape because the air stair door could not be opened
+and the left overwing exit hatch was not opened." However, because the reevaluation of the
+factual evidence from this accident could not determine the specific reason that the air stair door
+or the left overwing exit hatch were not opened, the Board has revised finding 15 and the
+corresponding text in the accident report to indicate that the air stair door and the left overwing
+exit hatch were not opened for undetermined reasons.
+5 The Beechcraft I 900C maintenance manual stated that "when unlocking the door from the outside or inside, the
+release button adjacent to the door handle must be held depressed before the handle can be rotated to unlock the
+door."
+6 The Safety Board's final report on this accident indicated that "according to Raytheon, the introduction of as little
+as 1/4 inch of slack in the [door control] cable could prevent the cams from fully rotating." However, the Board's
+reevaluation did not determine that the slack in the cable was the reason that the air stair door was not opened. Other
+possible reasons include a right wing low attitude, which shifted the door's center of gravity inward and increased
+the force necessary to open the door, and damage to the door.
+
+9
+Finding 17
+The Safety Board concluded that
+The methods for showing compliance with the FAA's certification requirement
+that external doors be reasonably free from jamming as a result of fuselage
+deformation are not clearly defined.
+Raytheon's petition stated that
+... although FAA regulatory clarity might be helpful, current testing of the fuselage
+to ultimate shear and bending loads are adequate and appropriate.
+The l 900C was certificated by the FAA as having met the freedom from jamming
+requirements. However, the Safety Board's investigation did not find clear written guidance
+from the FAA indicating how a manufacturer should demonstrate compliance with the freedom
+from jamming requirements. Specifically, there appeared to be no clear guidance specifying the
+degree of fuselage deformation contemplated by the applicable regulations in 14 CFR Part 23 and
+the meaning of "reasonably free" from jamming. This finding provided the basis for Safety
+Recommendation A-97-104, whjch recommended that the FAA "establish clear and specific
+methods for showing compliance with the freedom from jamming certification requirements."
+In its June 23, 1998, letter to the Safety Board, the FAA stated that it received proposed
+text from Raytheon for a new airworthiness standard for a fuselage door per
+14 CFR Section 23.783(c)(5). The proposed text stated the following:
+The door and emergency exit should be free from jamming and operate properly
+after fuselage deformation resulting from the ultimate load factors of
+14 CFR 23.56l(b)(2) and the requirements of 14 CFR 23.307(a). It should also be
+demonstrated by tests that each door and emergency exit can be opened after
+exposure to each critical loading condition. Those conditions should include at
+least the following: the ultimate static tests loads that result from 14 CFR 23.321
+through 14 CFR 23.341, and 14 CFR 23.365(a)(b); or ultimate landing design
+load requirements of 14 CFR 23.365(a)(c), and 14 CFR 23.471 through
+14 CFR 23.485, provided they are equal to or exceed the ultimate load
+requirements of 14 CFR 23.561(b)(2).
+The FAA indicated that it reviewed Raytheon's proposed text and determined that it
+would provide no new substantial airworthiness standards beyond those contained in existing
+guidance (AC 25.783-1). However, the FAA stated that Raytheon's proposal did provide
+"excellent policy material." The FAA reported that it would convert the text into policy guidance
+for use by aircraft certification offices in future certification projects. The FAA also indicated
+that this information would appear as guidance information in the forthcoming Systems Guide for
+Certification of Part 23 Airplanes.
+
+10
+In its September 5, 2000, response, the Safety Board stated that it had reevaluated the
+factual information regarding the inability of the flight crew and passengers of the l 900C to exit
+the airplane after the collision with the King Air A90. Because the Board was unable to
+determine the circumstances that prevented the occupants from evacuating the airplane (even
+with the efforts of two potential rescuers to open the door) and the investigation did not identify
+any specific evidence that the door jammed, the Board classified Safety Recommendation
+A-97-104 "Closed- Reconsidered."
+The Safety Board's reevaluation of the factual evidence from thi accident did not
+conclusively determine that the air stair door had jammed. Therefore, the Board has granted the
+petitioner's request to modify finding 17 by deleting it from the findings list and amending the
+corresponding text in the accident report.
+Finding 18
+The Safety Board concluded that
+The FAA's freedom from jamming certification standards may be inadequate.
+Raytheon's petition stated that
+... the known severity of this accident, including impact forces of 169,385 pounds
+acting over a period of only approximately 0.115 seconds, is equivalent to a
+passenger bus traveling at 60 mph and being struck at a right angle by a UPS
+[United Parcel Service] truck traveling 70 mph. No transportation vehicle is
+designed to withstand such loads.
+On June 25, 1998 (almost I year after the accident report was adopted), the Safety Board
+issued a study, titled "Momentum Reconstruction and Door Tests," to determine, among other
+things, the physics of the collision. The Board's study determined that the damage from the nose
+of the King Air A90 and the damage to the 1900C in the front part of the fuselage were not
+equivalent to a right angle impact at 60 mph. The study also determined that the main impact of
+this accident lasted as long a 0.133 second. The e findings do not support the claims made by
+Raytheon regarding the severity of this accident. In addition, forensic evidence indicated that the
+impact forces in this accident were survivable, and eyewitnesses stated that the occupants of the
+I 900C did, in fact, survive the collision.
+Finding 18 resulted in the issuance of Safety Recommendation A-97-105, which asked
+the FAA to "consider the circumstances of the November 19, 1996, Quincy, Illinois, accident
+when developing methods for showing compliance with freedom from jamming requirements,
+and determine whether it is feasible to require that doors be shown to be free from jamming after
+an impact of similar everity." In its June 23, 1998, letter to the Safety Board, the FAA stated
+that it was not feasible to show freedom from jammjng for the door of the l 900C because of the
+impact forces that were present in this accident.
+
+11
+In its September 5, 2000, response, the Safety Board stated that its reevaluation of the
+factual evidence in this accident continued to support that the impact forces from the accident
+were survivable and that the 1900C occupants should have been able to open the air stair door
+and escape from the airplane. The Board remained concerned that, in this survivable accident,
+none of the 1900C occupants survived; all succumbed to smoke inhalation and thermal injuries
+because they were unable to exit the airplane. However, the Board was unable to determine the
+circumstances that prevented the occupants from evacuating the airplane (even with the efforts of
+two potential rescuers to open the door). Because the investigation did not identify any specific
+evidence to indicate that the air stair door had jammed, the Board classified Safety
+Recommendation A-97-105 "Closed-Reconsidered."
+The Safety Board's reevaluation of the factual evidence from this accident did not
+conclusively determine that the air stair door had jammed. Therefore, the Board has granted the
+petitioner's request to modify finding 18 by deleting it from the findings list and amending the
+corresponding text in the accident report.
+Finding 19
+The Safety Board concluded that
+Formal training for maintenance personnel in specific tasks they are assigned to
+accomplish is critical for the proper, sustained operation of aircraft.
+Raytheon's petition stated that
+... nothing in the record reflects any maintenance discrepancy in the 1900 external
+door prior to this accident. Without a maintenance discrepancy, additional formal
+training of maintenance personnel is unnecessary.
+As part of its investigation, the Safety Board considered whether a Great Lakes Aviation
+mechanic improperly routed the air stair door's cable, which could have led to a binding or
+loosening of the cable over time and might have prevented the door from operating properly.
+Although, in this case, no evidence indicated that the cable was misrouted, the Board believed
+that it would be beneficial to safety to issue Safety Recommendation A-97-106, which asked the
+FAA to "review and improve, as necessary, guidance for principal maintenance inspectors to use
+in ensuring that maintenance personnel are properly trained in accomplishing the maintenance
+tasks that they are assigned."
+In its June 23, 1998, letter to the Safety Board, the FAA indicated that it reviewed the
+guidance available to principal maintenance inspectors (PMI) to use in ensuring that maintenance
+personnel are properly trained in accomplishing assigned maintenance tasks. Specifically, the
+FAA reviewed FAA Order 8300.10, "Airworthiness Inspector's Handbook," and determined that
+the guidance available to PMis was adequate. The FAA stated that, on November 17, 1997, it
+sent a letter to all PMis to reinforce the importance of proper maintenance training. Because the
+
+12
+FAA's actions satisfied the intent of Safety Recommendation A-97-106, it was classified
+"Closed-Acceptable Action" on October 6, 1998.
+The petitioner indicated that, before this accident, there was no maintenance discrepancy
+concerning the air stair door. However, this statement, regardless of its validity, is not relevant to
+the conclusion and resulting safety recommendation. Therefore, the Safety Board has denied the
+petitioner's request to modify finding 19.
+Finding 20
+The Safety Board concluded that
+If on-airport aircraft rescue and firefighting equipment protection had been
+required for this operation at Quincy Airport, lives might have been saved.
+Raytheon's petition stated that
+... the presence of such equipment would have been no assistance to the
+passengers and co-pilot of the 1900 due to: (1) the intense fire inside the
+1900 fuselage, which ignited immediately upon impact; and (2) the large external
+pool fire. Rescue and fire fighting equipment could not have reached the accident
+site in time to save these people.
+The investigation determined that on-airport aircraft rescue and firefighting (ARFF)
+services would have been able to reach the accident scene in no more than 1 minute (in contrast
+to the 14-minute response time from the Quincy Fire Department).7 Thus, ARFF personnel
+might have been able to extinguish or control the fire, thereby extending the survival time for at
+least some of the 1900C occupants. Because the impact of the collision did not result in blunt
+force trauma injuries to the occupants, some might have had time to escape.
+The petitioner's response did not acknowledge the possibility that the captain might have
+survived if rescue personnel had arrived sooner. As stated previously, the captain was observed
+by witnesses to have survived for some time (estimated to be 120 seconds), and she was
+sufficiently coherent to tell potential rescuers to open the door. Also, the AFIP As istant Medical
+Examiner determined that the captain "had a source of fresh air and was partially separated from
+the main cabin."
+In addition, the AFIP Assistant Medical Examiner stated that "since the entire left side of
+the [1900C] fuselage was intact when the first witnesses arrived approximately 2 minutes after
+the crash, it seems unlikely that a significant fire had been burning inside the cabin since initial
+7 Title 14 CFR Part 139 requires that a certificated airport be capable of an immediate response time of 3 minutes by
+an on-site ARFF truck. However, this requirement only applies when the airport is serving air carrier aircraft with a
+seating capacity of more than 30 passengers. Although Quincy Municipal Airport had an ARFF truck, it was not
+staffed at the time of the accident because no air carrier aircraft with more than 30 passenger seats were taking off or
+landing. The I 900C had 19 passenger seats.
+
+13
+impact." As a result, the Safety Board continues to believe that on-airport ARFF equipment
+would have reached the accident site in time to save the lives of at least some of those aboard the
+1900C. Therefore, the Board has denied the petitioner's request to modify finding 20.
+Probable Cause Statement
+As previously indicated, the Safety Board determjned that the probable cause of this
+accident was
+the failure of the pilots in the Kjng Air A90 to effectively monitor the common
+traffic advisory frequency or to properly scan for traffic, resulting in their
+commencing a takeoff roll when the Beech 1900C (United Express flight 5925)
+was landing on an intersecting runway. Contributing to the cause of the accident
+was the Cherokee pilot's interrupted radio transmission, which led to the
+Beech l 900C pilot's misunderstanding of the transrrussion as an indication from
+the King Air that it would not take off until after flight 5925 had cleared the
+runway. Contributing to the severity of the accident and the loss of life were the
+lack of adequate aircraft rescue and fire fighting services, and the failure of the air
+stair door on the Beech l 900C to open.
+Raytheon's petition stated that
+... (!) the failure of both flight crews to effectively monitor the traffic advisory
+frequency and to properly scan for traffic was a probable cause of the collision;
+and (2) the severity of the impact from the collision and the intensity of the
+immediately resulting fire caused the deaths. Neither the airstair door nor the
+availability of airport rescue and fire fighting services played a role in the cause of
+death.
+The Safety Board continues to believe that the 1900C flight crew made appropriate
+efforts to coordinate the approach and landing (see the discussion of finding 7). The Board also
+continues to believe that that the Kjng Air A90 pilots' failure to announce the airplane's takeoff
+over the common traffic advisory frequency and yield to the landing airplane (which had the right
+of way) led to the accident.
+The petitioner claimed that the cause of death for the occupants of both airplanes was the
+severity of the impact from the collision and the fire that resulted immediately afterward.
+Although the petitioner presented impact analysis data to support his claim regarding the severity
+of the impact, the Safety Board's deterrrunation of the survivability of the accident was not
+dependent on a determination of the specific levels of force within each airplane. Regarding the
+immediate intensity of the cabin fire, the petitioner stated that survival time in the 1900C cabin
+was less than 30 seconds because the Kjng Air A90 penetrated the cabin and immediately
+deposited fuel and fire in that area. However, the AFIP Assistant Medical Examiner offered the
+possibility that the 1900C occupants' deaths were associated with the pool fire that ultimately
+
+14
+ignited the interior but could have allowed some occupants to survive 120 seconds or more after
+the impact (see the discussion of finding 14).
+The petitioner suggested that the air stair door did not play a role in the cause of death for
+the 1900C occupants. The impact forces of the collision were survivable, and evidence indicated
+that the 1900C occupants were able to move inside the cabin after the accident. However, the air
+stair door was not opened in any escape attempt, and the door could not be opened from the
+outside of the airplane by the two potential rescuers. Raytheon presented evidence to indicate
+that an air stair door could be opened with slack in the door cable, but this evidence does not
+change the fact that the 1900C occupants succumbed to inhalation and thermal injuries because
+they did not escape from the airplane using the two available exits-one of which was the air
+stair door.
+The petitioner also stated that the lack of on-airport ARFF services did not play a role in
+the cause of death. Because the captain of the 1900C likely survived for at least 120 seconds
+after the accident (according to eyewitness estimates) and had a source of fresh air, the Safety
+Board continues to believe that her life could have been saved by the presence of on-airport
+ARFF equipment, which would have been able to reach the accident scene in 60 seconds or less.
+The Board cannot precisely determine when the I 900C first officer and passengers were
+incapacitated to the point that they could not escape or when they died. However, the Board
+continues to believe that at least some of the remaining occupants mjght have been saved by the
+presence and use of ARFF equipment.
+After evaluating the evidence provided by the petitioner, the Safety Board has determined
+that none of this evidence is sufficient to support a change to the original probable cause for this
+accident. However, because its reevaluation of the factual information in this accident did not
+identify any specific evidence to indicate that the air stair door had jammed (even with the efforts
+of two potential rescuers to open the door), the Board has modified the probable cause language
+to indicate that "the failure of the air stair door on the Beech 1900C to be opened" was a
+contributing factor to the severity of the accident and the loss of life.
+Conclusion
+After review of the evidence submitted by Raytheon, the Safety Board has found no basis
+to grant any modification to findings 6, 7, 13, 14, 19, and 20. The Board, however, has taken the
+following actions for findings 15 through 18, the corresponding accident report text, and the
+probable cause statement:
+Finding 15
+In the findings list and the accident report text (Section 2.5, "Survival Aspects," on
+page 48, sixth paragraph), replaced "the occupants of the Beech 1900C did not escape
+because the air stair door could not be opened and the left overwing exit hatch was not
+opened" with "the occupants of the Beech 1900C did not escape because the air stair door
+and the left overwing exit hatch were not opened for undetermined reasons."
+
+15
+Finding 16
+In the findings list, deleted "the most likely reason that the air stair door could not be
+opened is that the accident caused deformation of the door/frame system and created
+slack in the door control cable." Renumbered the remaining findings accordingly.
+In the accident report text (Section 2.5.1, "Air Stair Door," on page 49, fifth paragraph),
+deleted "the Safety Board concludes that the most likely reason that the air stair door
+could not be opened is that the accident caused deformation of the door/frame system and
+created slack in the door control cable. The Safety Board is concerned that the design and
+testing of the door did not account for minimal permanent deformation that could
+introduce slack into the door control system and ultimately disable the door."
+In the accident report text (Section 2.5. l, "Air Stair Door," on page 49, sixth paragraph),
+replaced "the Safety Board is further concerned that even though the impact forces from
+the accident were so mild that both airplanes came to rest on their landing gear and the
+occupants of the Beech 1900C sustained little or no injuries as a result, those same forces
+were apparently sufficient to cause the Beech 1900C's air stair door to jam, preventing
+the occupants from using it to escape" with "the Safety Board is further concerned that,
+even though the impact forces from the accident were such that both airplanes came to
+rest on their landing gear and the occupants of the Beech 1900C did not sustain blunt
+force trauma injuries as a result, the door was not opened by any of the occupants for
+undetermined reasons."
+Finding 17
+In the findings list, deleted "the methods for showing compliance with the FAA's
+certification requirement that external doors be reasonably free from jamming as a result
+of fuselage deformation are not clearly defined." Renumbered the remaining findings
+accordingly.
+In the accident report text (Section 2.5. l, "Air Stair Door," on page 50, second complete
+paragraph), deleted "the Safety Board concludes that the methods for showing
+compliance with the FAA's certification requirement that external doors be reasonably
+free from jamming as a result of fuselage deformation are not clearly defined."
+Finding 18
+In the findings list, deleted "the FAA's freedom from jamming certification standards
+may be inadequate." Renumbered the remaining findings accordingly.
+In the accident report text (Section 2.5.1, "Air Stair Door," on page 50, third complete
+paragraph), deleted "further, because the air stair door on the accident airplane jammed as
+a result of an impact that caused little or no injury to the occupants of the airplane, the
+
+16
+Safety Board concludes that the FAA's freedom from jamming certification standards
+may be inadequate."
+Probable Cause
+Replaced "contributing to the severity of the accident and the loss of life were the lack of
+adequate aircraft rescue and firefighting services, and the failure of the air stair door on
+the Beech 1900C to open" with "contributing to the severity of the accident and the loss
+of life were the lack of adequate aircraft rescue and firefighting services and the failure of
+the air stair door on the Beech 1900C to be opened."
+Revised Briefs of Accident are enclosed.
+Members HAMMERSCHMIDT, BLACK, GOGLIA, and CARMODY concurred in this
+petition for reconsideration. Chairman HALL did not participate.
+Enclosures
+
+PB97-910404
+NTSB/A AR-97/ 04
+DCA97MA009A/B
+NATIONAL
+TRANSPORTATION
+SAFETY
+BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+RUNWAY COLLISION
+UNITED EXPRESS FLIGHT 5925
+AND BEECHCRAFT KING AIR A90
+QUINCY MUNICIPAL AIRPORT
+QUINCY, ILLINOIS
+NOVEMBER 19,1996
+--
+----
+6793C
+
+The National Transportation Safety Board is an independent Federal agency dedicated to
+promoting aviation, railroad, highway, marine, pipeline, and hazardous materials safety.
+Established in 1967, the agency is mandated by Congress through the Independent Safety
+Board Act of 1974 to investigate transportation accidents, determine the probable causes of
+the accidents, issue safety recommendations, study transportation safety issues, and evaluate
+the safety effectiveness of government agencies involved in transportation. The Safety Board
+makes public its actions and decisions through accident reports, safety studies, special
+investigation reports, safety recommendations, and statistical reviews.
+Information about available publications may be obtained by contacting:
+National Transportation Safety Board
+Public Inquiries Section, RE-51
+490 L'Enfant Plaza, S.WJ
+Washington, D.C. 20594
+(202)314-6551
+(800)877-6799
+Safety Board publications may be purchased, by individual copy or by subscription, from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(703)487-4600
+
+NTSB/A AR-97 /04 PB97-910404
+NATIONAL TRANSPORTATION
+SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+RUNWAY COLLISION
+UNITED EXPRESS FLIGHT 5925
+AND BEECHCRAFT KING AIR A90
+QUINCY MUNICIPAL AIRPORT
+QUINCY, ILLINOIS
+NOVEMBER 19, 1996
+Adopted: July 1, 1997
+Notation 6793C
+Abstract: This report explains the accident involving United Express flight 5925, a
+Beechcraft 1900C, and a Beechcraft King Air A90 that collided at the intersection of
+runway 13 and runway 04 at Quincy Municipal Airport, near Quincy, Illinois, on November
+19, 1996. Safety issues in the report include the importance of emphasizing careful
+scanning techniques during flight training, Beech 1900C certification standards and
+compliance with requirements on door jamming, the certification of small airports used by
+scheduled commuter airlines, and aircraft rescue and fire fighting protection on scheduled
+commuter aircraft having 10 seats or more. Safety recommendations concerning these
+issues were made to the Federal Aviation Administration.
+
+This page intentionally left blank
+
+CONTENTS
+EXECUTIVE SUMMARY ............................................................................................................ vi
+1. FACTUAL INFORMATION ..................................................................................................... 1
+1.1 History of Flight .................................................................................................................... 1
+1.2 Injuries to Persons ................................................................................................................. 4
+1.3 Damage to Airplane ............................................................................................................... 4
+1.4 Other Damage ........................................................................................................................ 4
+1.5 Personnel Information ........................................................................................................... 4
+1.5.1 Flight 5925 Flightcrew ....................................................................................................... 4
+1.5.1.1 Captain Information ........................................................................................................ 4
+1.5.1.2 First Officer Information ................................................................................................. 7
+1.5.2 King Air Occupants ...............................................................................~ ............................ 7
+1.5.2.1 King Air Pilot-in-Command ............ .-............................................................................... 7
+1.5 .2.2 King Air Pilot/Passenger ................................................................................................. 8
+1.6 Airplane Information ............................................................................................................. 9
+1.6.1 Beech 1900C ...................................................................................................................... 9
+1.6.1.1 Beech 1900C Emergency Exit Door Certification - Freedom from Jamming .............. 10
+1.6.2 King Air A90 .................................................................................................................... 13
+1.7 Meteorological Information ................................................................................................ 14
+1.8 Aids to Navigation .............................................................................................................. 14
+1.9 Communications ................................................................................................................. 14
+1.10 Airport Information ........................................................................................................... 15
+1.11 Flight Recorders ................................................................................................................ 15
+1.12 Wreckage and Impact Information ...................................... :. ............................................ 18
+1.12.1 Beech 1900CWreckagelnformation ............................................................................. 18
+1.12.2 King Air A90 Wreckage Information ............................................................................. 18
+1.13 Medical and Pathological Information .............................................................................. 19
+111
+
+1.14 Fire .................................................................................................................................... 19
+1.15 Survival Aspects ................................................................................................................ 19
+1.15 .1 Rescue Attempts ............................................................................................................. 20
+1.15.2 Passenger Briefing .......................................................................................................... 21
+1.15.3 Beech 1900C Exits ......................................................................................................... 22
+1.15.3.1 Air Stair Door .............................................................................................................. 22
+1.15.3.2 Overwing Exit Hatches ............................................................................................... 24
+1. 15.4 Pilot Evacuation Procedures and Training ..................................................................... 24
+1.15.5 Previous Safety Board Recommendations on Emergency Exits .................................... 26
+1.15.6 Emergency Response ...................................................................................................... 27
+1.15.7 Commuter Airline Study ................................................................................................ 28
+1.16 Tests and Research ............................................................................................................ 30
+1.16.1 Takeoff Distance and Accelerate and Stop Distance for King Air A90 ......................... 30
+1.16.2 Visibility Tests and Study .............................................................................................. 30
+1.16.2.1 ConspicuityNisibility Tests ........................................................................................ 30
+1.16.2.2 Photographic Visibility Study ..................................................................................... 31
+1.17 Organizational and Management Information ................................................................... 32
+1.17 .1 Great Lakes Aviation, Ltd .............................................................................................. 32
+1.18 Additional Information ...................................................................................................... 37
+1.18 .1 Operating Procedures at Uncontrolled Airports ............................................................. 37
+1.18.2 Previous Safety Board Recommendation on Scanning Techniques ............................... 40
+1.18.3 Postaccident Actions by the FAA .................................................................................. 40
+2. ANALYSIS .............................................................................................................................. 42
+2.1 General ................................................................................................................................ 42
+2.2 United Express Flightcrew Performance ............................................................................. 42
+2.3 King Air Pilot and Pilot/Passenger Performance ................................................................ 44
+2.4 Cherokee Pilot Performance ................................................................................................ 4 7
+IV
+
+2.5 Survival Aspects ................................................................................................................... 48
+2.5.1 Air Stair Door ................................................................................................................... 49
+2.5.2 Emergency Response ........................................................................................................ 51
+3. CONCLUSIONS ...................................................................................................................... 52
+3.1 Findings ............................................................................................................................... 52
+3.2 Probable Cause .................................................................................................................... 54
+4. RECOMMENDATIONS ......................................................................................................... 55
+5. APPENDIXES ......................................................................................................................... 57
+APPENDIX A-INVESTIGATION AND HEARING ................................................................ 57
+APPENDIX B-COCKPIT VOICE RECORDER TRANSCRIPT .............................................. 58
+V
+
+EXECUTIVE SUMMARY
+On November 19, 1996, at 1701 central standard time, United Express flight
+5925, a Beechcraft 1900C, N87GL, collided with a Beechcraft King Air A90, N1127D, at
+Quincy Municipal Airport, near Quincy, Illinois. Flight 5925 was completing its landing roll on
+runway 13, and the King Air was in its takeoff roll on runway 04. The collision occurred at the
+intersection of the two runways. All 10 passengers and two crewmembers aboard flight 5925 and
+the two occupants aboard the King Air were killed. Flight 5925 was a scheduled passenger flight
+operating under 14 Code of Federal Regulations Part 135. The flight was operated by Great
+Lakes Aviation, Ltd., doing business as United Express. The King Air was operating under 14
+Code of Federal Regulations Part 91.
+The National Transportation Safety Board determines that the probable cause of
+this accident was the failure of the pilots in the King Air A90 to effectively monitor the common
+traffic advisory frequency or to properly scan for traffic, resulting in their commencing a takeoff
+roll when the Beech 1900C (United Express flight 5925) was landing on an intersecting runway.
+Contributing to the cause of the accident was the Cherokee pilot's interrupted
+radio transmission, which led to the Beech 1900C pilots' misunderstanding of the transmission
+as an indication from the King Air that it would not take off until after flight 5925 had cleared
+the runway.
+Contributing to the severity of the accident and the loss of life were the lack of
+adequate aircraft rescue and fire fighting services, and the failure of the air stair door on the
+Beech 1900C to open.
+Safety issues discussed in the report include the importance of emphasizing
+careful scanning techniques during flight training, Beech 1900C certification standards and
+compliance with requirements on door jamming, the certification of small airports used by
+scheduled commuter airlines, and aircraft rescue and fire fighting protection on scheduled
+commuter aircraft having 10 seats or more. Safety recommendations concerning these issues
+were made to the Federal Aviation Administration.
+vi
+
+NATIONAL TRANSPORTATION SAFETY BOARD
+WASHINGTON, D.C. 20594
+AIRCRAFT ACCIDENT REPORT
+RUNWAY COLLISION
+UNITED EXPRESS FLIGHT 5925
+AND BEECHCRAFT KING AIR A90
+QUINCY MUNICIPAL AIRPORT
+QUINCY, ILLINOIS
+NOVEMBER 19, 1996
+1. FACTUAL INFORMATION
+1.1 History of Flight
+On November 19, 1996, at 1701 central standard time,1 United Express flight
+5925, a Beechcraft 1900C, N87GL, collided with a Beechcraft King Air A90, Nl127D, at
+Quincy Municipal Airport, near Quincy, Illinois. Flight 5925 was completing its landing roll on
+runway 13, and the King Air was in its takeoff roll on runway 04. The collision occurred at the
+intersection of the two runways. All 10 passengers and two crewmembers aboard flight 5925 and
+the two occupants aboard the King Air were killed. Flight 5925 was a scheduled passenger flight
+operating under the provisions of Title 14 Code of Federal Regulations (CFR) Part 135. The
+flight was operated by Great Lakes Aviation, Ltd., doing business as United Express. The King
+Air was operating under 14 CFR Part 91.
+On the day of the accident, the flightcrew of United Express flight 5925 checked
+in for duty at Quincy Municipal Airport at 0415 for a 1-day trip, which was to consist of 8 legs
+for a total of 5.36 flight hours. According to company records, the flightcrew performed routine
+preflight duties and departed the gate at 0512 for the first leg to Burlington, Iowa. After the fifth
+leg (Bloomington, Indiana, to Terre Haute), a mechanical problem required the flightcrew to
+ferry the airplane to O'Hare, where the flightcrew changed to the accident airplane, N87GL, for
+the remaining legs to Burlington and Quincy.
+At 1500, the flightcrew departed O'Hare in N87GL as United Express flight
+5925.2 The flight departed 2 hours and 45 minutes late because of the earlier maintenance
+problem at Terre Haute. According to flightcrew-reported times, the airplane landed at
+Burlington at 1625 and departed at 1637 as combined flights 5925/5926 to Quincy.3
+1A ll times are central standard time, based on a 24-hour clock, unless otherwise noted.
+2The flight operated under a code-sharing agreement with United Airlines but used the
+call sign "Lakes Air 251."
+3Flight 5926 was scheduled to operate from Quincy by way of Burlington to O'Hare.
+Because of flight 5925's late departure from O'Hare, the decision was made to eliminate the Burlington
+
+2
+According to the cockpit voice recorder (CVR), at 1652:07, a female voice
+identified as the captain4 of flight 5925 stated on the Quincy common traffic advisory frequency
+(CT AF)5 that the airplane was about 30 miles north of the airport and that they would be landing
+on runway 13; she also asked that "any traffic in the area please advise." (See appendix B for a
+complete transcript of the CVR recording.) No replies were received to this request.
+At 1655:19, a female voice, identified as one of the occupants in the King Air,
+announced, "Quincy traffic, King Air one one two seven Delta's taxiing out.. .takeoff on runway
+four, Quincy." At 1655:40, the CVR recorded the voice of the male pilot of a Piper Cherokee,6
+which was taxiing behind the King Air, announcing, "Quincy traffic, Cherokee seven six four six
+Juliet back-taxi ... taxiing to runway four, Quincy." At 1655:48, the captain of flight 5925
+commented to the first officer, "They're both using [runway] four." The captain then asked,
+"you're planning on one three still, right?" The first officer replied, "yeah, unless it doesn't look
+good then we'll just do a downwind for four but. .. right now plan one three."
+At 1656:56, the captain of flight 5925 announced over the CTAF, "Quincy area
+traffic, Lakes Air two fifty one is a Beech airliner currently ten miles to the north of the field.
+We'll be inbound to enter on a left base for runway one three at Quincy any other traffic please
+advise." There was no response.7
+At 1659:03, the female occupant of the King Air announced, "Quincy traffic,
+King Air one one two seven Delta holding short of runway four. Be ... takin' the runway for
+departure and heading ... southeast, Quincy." At 1659:19, the captain of flight 5925 commented,
+"she's takin' runway four right now?" The first officer replied, "yeah." According to the
+Cherokee pilot, the King Air pulled up far enough on runway 04 to allow the Cherokee access to
+runway 36, and when the King Air went into position on runway 04, he taxied the Cherokee into
+the runup area short of the runway.
+At 1659:29, the captain of flight 5925 announced, "Quincy area traffic, Lakes Air
+two fifty one is a Beech airliner currently ...j ust about to turn, about a six mile final for
+stop of flight 5926. Therefore, passengers scheduled on flight 5926 from Burlington to O'Hare were
+included on flight 5925 to Quincy from where they would have taken flight 5926.
+4Company personnel who listened to the CVR recording reported that all of the
+communications were being made by the captain. Company practice is for the pilot not flying to handle
+radio communications.
+5CT AF is a radio frequency designated for use by pilots operating near uncontrolled
+airports. Pilots use this frequency to broadcast their positions or intended flight activities or ground
+operations.
+6The pilot of the Cherokee received his private pilot's license in February I 996, and had
+80 hours of flight time in the Cherokee. His passenger had received a private pilot's license about 2
+weeks before the accident and had 44 hours of flight time.
+7In a postaccident interview, the Cherokee pilot indicated that when he heard this
+broadcast, he saw the airplane. He also said that he remembered seeing lights on each wing of the
+airplane on its final approach.
+
+3
+runway ... one three, more like a five mile final for runway one three at Quincy."8 At 1700:16, the
+captain of flight 5925 reported that the airplane was "on short final for runway one three" and
+asked, "the aircraft gonna hold in position on runway four or you guys gonna take off?"
+The King Air did not respond to this request. However, at 1700:28, the pilot of
+the Cherokee stated, "seven six four six Juliet. .. holding ... for departure on runway four." The
+CVR then recorded an interruption in this transmission by a mechanical "two hundred" alert
+announcement from the ground proximity warning system (GPWS)9 in the Beech 1900C. The
+CVR then recorded the last part of the transmission from the Cherokee as "* on the uh, King
+Air."10 At 1700:37, the captain of flight 5925 replied, "OK, we'll get through your intersection
+in just a second sir * we appreciate that." 11
+According to the Cherokee pilot and his passenger, as well as a pilot who saw the
+approach and landing of flight 5925 as he was driving to the airport, flight 5925 had its landing
+lights on. The passenger in the Cherokee said the airplane made a normal landing on runway 13.
+Time and distance data from an Aircraft Performance and Visibility Study
+conducted by the Safety Board indicated that the King Air began its takeoff roll about 13 seconds
+before flight 5925 touched down on the runway at 1700:59. According to the occupants of the
+Cherokee, the King Air had been in position on the runway for about 1 minute before beginning
+the takeoff roll. The Cherokee pilot stated that he heard no takeoff announcement from the King
+Air over the CTAF, and none was recorded on the Beech 1900C CVR.12
+8The Cherokee pilot indicated that he remembered hearing a call from the captain of
+flight 5925 while he was waiting in the runup area. However, he recalled her saying that the airplane was
+2 miles out on final.
+9The GPWS provides cautions, alerts, and warnings that indicate potentially hazardous
+proximity to terrain. Callouts include "five hundred," "two hundred," and "minimums" above the terrain.
+These callouts refer to feet above the terrain.
+10The asterisk from the CVR recordings found in this report indicates an unintelligible
+word. According to the CVR transcript, this was the Cherokee pilot's second radio call on the CT AF. In
+a postaccident interview, the Cherokee pilot indicated that his recollection was that his second radio call
+before departing Quincy followed a transmission that included the words "King Air ... taxiing and
+holding." He stated that he did not hear the whole transmission but that at the time, he thought it came
+from the King Air, and he thought that the King Air pilot might have been talking to him. He said that
+after he asked his passenger whether he understood the transmission, and his passenger said that he did
+not, he transmitted "King Air this is Cherokee 7646J .. .I am right behind you and am holding for your
+departure."
+11The Cherokee pilot indicated that he did not recall hearing any transmission concerning
+an intersection.
+12 A pilot waiting inside the FBO said he thought he remembered hearing a male voice
+"stepping on" (transmitting at the same time as) a female voice shortly before the accident. None of the
+other witnesses who were listening to the CT AF at the time reported hearing such a "stepped on"
+transmission.
+
+4
+At 1701, during flight 5925's landing rollout, the airplane collided with the King
+Air at the intersection of runways 13 and 04. (See diagrams of accident site in figures 1 and 3
+and photographs of accident site in figures 2a and 2b.) Rescuers reported that they heard signs of
+life when they first reached the Beech 1900C, but they were unsuccessful in their attempts to
+open the air stair door.
+The Cherokee pilot later indicated that he did not know the two runways
+intersected. The passenger in the Cherokee said he was watching the two airplanes, but he
+thought they would miss each other.
+The collision occurred in visual meteorological conditions about 15 minutes after
+sunset at 39° and 56 minutes north latitude, and 91 ° and 11 minutes west longitude.
+1.2 Injuries to Persons
+Injuries Flightcrew Cabin Crew Passengers Other Total
+Fatal 4 0 10 0 14
+Serious 0 0 0 0 0
+Minor 0 0 0 0 0
+None Q Q 0 Q 0
+Total 4 0 10 0 14
+1.3 Damage to Airplane
+Both aircraft were destroyed by the impact and postcrash fire. The estimated
+value of the Beech 1900C was $3 million. The estimated value of the King Air was $225,000.
+1.4 Other Damage
+The cost of repairs to the runway, runway light and turf, and environmental
+decontamination of the area was $1,898.88.
+1.5 Personnel Information
+1.5.1 Flight 5925 Flightcrew
+1.5.1.1 Captain Information
+The captain, age 30, held an airline transport pilot (ATP) certificate, airplane
+multiengine land, and was type rated in the Beech 1900. She held a first-class medical
+certificate, with no limitations, dated September 26, 1996. She was hired by Great Lakes
+Aviation on September 23, 1993, as a first officer, and_s he upgraded to captain on February 13,
+1996. At the time of the accident, the captain had accumulated about 4,000 hours of flight time,
+of which 700 hours were as pilot-in-command of the Beech 1900. Her last proficiency check
+
+0
+$CAl.t 1• • ICIII'
+lA lllUO[ Jtl~•l7.1•1$" M
+~oo,i;,1\JOC·t1,1'31,,e2a, w
+QUINCY MUNICIPAL AIRPORT
+BALDWIN FIELD CRASH SITE
+OU1NCY, ILLINOIS
+Figure I .-Diagram of accident site.
+
+6
+2a. View looking aft of the Beeeb 1900C
+. 1gm:e · a mKI b.-Photographs of nccidl".nt . iu.-e.
+
+7
+was in September 1996, and her last line check was in February 1996. Her total flying time in
+the 30 and 90 days before the accident was 91 hours and 235 hours, respectively. A review of
+Federal Aviation Administration (FAA) records revealed no prior accidents/incidents or
+enforcement actions.
+1.5.1.2 First Officer Information
+The first officer, age 24, held a commercial pilot certificate with instrument
+ratings for single-engine and multiengine airplanes. He held a first-class medical certificate, with
+no limitations, dated June 18, 1996. According to his family, he had been hired and furloughed
+by another commuter airline before he was hired by Great Lakes Aviation on September 27,
+1995, as a first officer. At the time of the accident, the first officer had accumulated about 1,950
+hours of flight time, of which 800 hours were as second-in-command of the Beech 1900. His last
+proficiency check was in September 1996. His total flying time in the 30 and 90 days before the
+accident was 103 hours and 223 hours, respectively. A review of FAA records revealed no prior
+accidents/incidents or enforcement actions.
+1.5.2 King Air Occupants
+1.5.2.1 King Air Pilot-in-Command
+The pilot of the King Air, age 63, was a retired Trans World Airlines (TWA)
+captain. He was employed by TWA from 1965 until 1992, and was also a pilot in the U.S. Air
+Force Reserves. From 1993 until the time of the accident, he was a part-time flight instructor at
+the Scott Air Force Base Aero Club, Belleville, Illinois. In addition, he flew part-time as an on
+demand, air taxi pilot for Prestige Air, Cape Girardeau, Missouri, and did some commercial
+flying in a Beechcraft Baron BE-58P, based at Spirit of St. Louis Airport, Chesterfield, Missouri.
+The pilot held an ATP certificate, with ratings for airplane multiengine land, and
+commercial privileges for airplane single-engine land and sea. He was type rated in the B-377,
+B-707, B-720, B-747, DC-9, L-382, L-1011, and N-B25. He also held a flight engineer
+certificate for turbojet and reciprocating engine-powered airplanes. In addition, he was a
+certified flight instructor for single-engine and multiengine airplanes with instrument ratings. 13
+He held a first-class medical certificate, dated June 11, 1996, with the restriction that he wear
+corrective lenses. He was seen wearing glasses when he boarded the airplane before the accident.
+According to the FAA, he had a waiver allowing him to use the tranquilizer/sedative, Ativan, (a
+benzodiazepine that is generically known as lorazepam), so long as he used it no more than 2 to 4
+times per month for sleep, and not within 18 hours of flying.
+13 A logbook entry dated January 20, 1996, revealed that he received a multiengine
+instructor endorsement from the female occupant on the accident flight.
+
+8
+The pilot had a total of 25,647.8 hours of flight time at the time of the accident, of
+which 22 hours were in the accident airplane. His last Part 135 instrument proficiency check was
+in July 1996. His logbook indicated that he was current in accordance with 14 CFR Part 91.
+The pilot had been involved in a gear-up landing incident in a Cessna 172RG on
+May 26, 1996, while giving instruction to a student commercial pilot. As a result of that
+incident, the FAA initiated an enforcement action against him, but subsequently allowed him to
+take remedial training in place of the enforcement action. That training had not been completed
+at the time of this accident. The FAA inspector who investigated the gear-up incident said in a
+written statement to the Safety Board that the pilot "expressed an extremely negative attitude
+toward the FAA's questioning him about this landing. His statements were to the effect that he
+was a retired U.S. Air Force Colonel with almost 30,000 hour[s] of flying time and that landing
+gear up did not mean anything."
+Safety Board investigators interviewed several pilots who had received flight
+instruction from the King Air pilot, including the student who was involved in the gear-up
+landing. This student indicated that in his opinion, a shortcoming of the instructor was that he
+"seemed to be in a hurry when time was a factor," and the student sometimes felt that the
+instructor was rushing him. Two of the passengers who had flown with the King Air pilot just
+before the accident14 commented that he seemed "to be in a hurry" or "anxious to get home"
+when he left them after the return flight to Quincy.
+TWA records indicated that on October 7, 1991, the pilot was transferred from the
+status of captain to that of flight engineer. A TWA instructor involved in that action told Safety
+Board investigators that the transfer was made because of flying deficiencies observed in the
+pilot's training, which resulted in a failed proficiency check and a failed special line check.
+According to the pilot's wife, he slept normally in the days before the accident but
+awoke "at an early hour" to fly on the day of the accident. She said that she expected him to
+return home that evening about 1745.
+1.5.2.2 King Air Pilot/Passenger
+The pilot-rated passenger, age 34, was employed by Flight Safety International
+Airline Center, St. Louis, Missouri, as a ground instructor. She primarily taught orientation and
+indoctrination classes to airline customers. She was also a part-time flight instructor at the Scott
+Air Force Base Aero Club, Belleville, Illinois.
+She held a commercial pilot certificate with ratings for airplane single-engine land
+and sea, airplane multiengine land, instrument airplane. She also held a certified flight instructor
+certificate for airplane single-engine and multiengine, instrument airplane; and a ground
+14On the day of the accident, beginning about 0830, the King Air occupants flew four
+prospective buyers of the King Air on a demonstration flight from Quincy to Tulsa, Oklahoma, and back
+to Quincy.
+
+9
+instructor certificate, with an advanced and instrument rating. Her first-class medical certificate
+was issued on July 1, 1996, with no restrictions. Her logbook indicated that she had a total of
+1,462.2 flying hours, and her last proficiency check was on June 28, 1996.
+According to an acquaintance, who was also a flight instructor at Scott Air Force
+Base Aero Club, the accident flight was the first time the pilot/passenger had flown in a King
+Air. This flight instructor, and a passenger who had flown on the King Air before the accident,
+stated that the pilot/passenger came along on the flight to increase her multiengine time. · A
+student pilot from the Scott Air Force Base Aero Club indicated that he understood the pilot had
+instructed the pilot/passenger in multiengine airplanes, and had provided opportunities for her
+and another flight instructor at the Aero Club to fly them. The pilot/passenger's former husband
+said that she wanted to become a commercial pilot with a commuter airline, and that she was
+attempting to.build her flying hours toward obtaining an ATP rating.
+One of the passengers on the King Air's earlier flight to Tulsa and back noted that
+both the pilot and pilot/passenger had their hands on the controls when they left Tulsa, 15 and
+another passenger indicated that the pilot and the pilot/passenger appeared to have "an excellent
+teacher/student relationship with [the pilot] as the teacher." A third passenger stated that "[the
+pilot] seemed to be telling [the pilot/passenger] how to fly the plane when we were in flight."
+1.6 Airplane Information
+1.6.1 Beech 1900C
+The accident airplane, N87GL, was owned by Raytheon Aircraft Credit
+Association and was leased to Great Lakes Aviation on December 28, 1989. The airplane, which
+contained 19 passenger seats, was manufactured by Beech Aircraft (now Raytheon Aircraft
+Company) and received its airworthiness certificate on December 20, 1989. The airplane was
+powered by two Pratt & Whitney (P&W) Model PT6A-65B turbopropeller engines. The two
+Model HC-B4MP-3A engine propellers were manufactured by Hartzell. The airplane had four
+emergency exits (viewed from the aft looking forward): the forward air stair door on the left,
+which is the main boarding door, the overwing hatch on the left, and two overwing hatches on
+the right.
+At the time of the accident, the airframe had 18,446 hours total time and 26,797
+total cycles. The left engine had 16,821.2 hours total time and 18,701 total cycles. The right
+engine had 14,534.8 hours total time and 19,291 total cycles. No noteworthy discrepancies were
+found in the airplane's maintenance logs.
+According to maintenance records, on April 27, 1996, Great Lakes performed a
+detailed inspection (including opening) of the air stair door, the overwing exits, and the cargo
+15One of the passengers said that the pilot/passenger did some of the flying and that
+around 50 feet above ground level (agl), she returned control to the pilot.
+
+10
+door. No discrepancies were noted. The air stair door was replaced by Great Lakes on
+September 25, 1996, at its maintenance base in Spencer, Iowa, because of rivets pulling through
+the door near the hinge attach areas. The records indicated that the door annunciator light (FWD
+DOOR), which alerts the flightcrew of a possible unlocked door, had illuminated on October 1,
+1996, October 10, 1996, and on November 7, 1996. Great Lakes maintenance personnel
+reportedly fixed the illumination problem by adjusting the door's microswitches.
+According to Great Lakes, its maintenance department stocked about four air stair
+door shells to support its fleet of 44 Beech 1900s. As air stair doors were needed, maintenance
+personnel placed the rollers, locking mechanisms, and stops in the door shell, then secured the
+door to the airplane, trimming the sheet metal around the door to ensure a proper fit. The
+company's records revealed that the air stair door was replaced by its maintenance personnel.
+The person who inspected the door was a certified airframe and powerplant mechanic16 who had
+attended formal Beech 1900 training. The mechanic who had assembled the locking mechanism
+in the door shell was a certified mechanic who had not attended any formal Beech 1900 training.
+A review of the inspection checklist for the air stair door did not indicate that there had been any
+internal inspection of the door for the proper installation of the cable, routing, or other anomalies
+associated with internal locking mechanisms.
+1.6.1.1 Beech 1900C Emergency Exit Door Certification - Freedom from Jamming
+The Beech 1900C received its initial type certification on November 22, 1983.
+According to the FAA, the Beechcraft 1900C was type certificated under Part 23, Amendment
+23-9, effective June 17, 1970, and Special Federal Aviation Regulation (SFAR) 41C, effective
+September 13, 1982. According to the FAA, the emergency exits also complied with 14 CFR
+23.807, Amendment 23-7, effective September 14, 1969.
+According to the FAA, the Beech 1900C was type certificated pursuant to a
+delegated option authorization (DOA), a process under which a type certificate is issued based in
+part on the manufacturer's self-certification that all applicable regulations have been met. (See
+14 CFR Part 21, Subpart J).17 However, the FAA may choose to participate in and make specific
+16 A mechanic who has been issued an airframe and powerplant certificate by the FAA
+under 14 CFR Part 65.
+1714 CFR 21.253 states that to obtain a type certificate for a new product under the DOA,
+the manufacturer must submit to the FAA:
+(1) An application for a type certificate ... ;
+(2) A statement listing the airworthiness requirements ...t hat the manufacturer considers
+applicable;
+(3) After determining that the type design meets the applicable requirements, a statement
+certifying that this determination has been made;
+( 4) After placing the required technical data and type inspection report in the technical
+data file required by 21.293(a)(l)(i), a statement certifying that this has been done;
+(5) A proposed type certificate data sheet; and
+
+11
+findings of compliance with regard to certain regulatory requirements. As discussed below, in
+certifying the Beech 1900C, the FAA observed testing and made a specific finding of compliance
+with regard to the freedom from jamming certification requirement.
+Regulatory requirements pertaining to door jamming applicable to the certification
+of the Beech 1900C were set forth in 23.807(b)(4), which stated that each emergency exit must
+"[h]ave reasonable provisions against jamming by fuselage deformation;" and SPAR 41,
+subsection 5(e)(c), which stated that "[e]ach external door must be reasonably free from jamming
+as a result of fuselage deformation in a minor crash." Subsequent to the Beech 1900C's
+certification, the FAA promulgated a similar requirement in section 23.783(c)(5), stating that
+each external passenger or crew door "must be reasonably free from jamming as a result of
+fuselage deformation in an emergency landing."18 (See 53 Federal Register 30802, 30807,
+August 15, 1988).
+Safety Board investigators reviewed the Beech Model 1900/1900C Engineering
+Structural Test reports, issued on September 3 and November 3, 1983, which detailed testing that
+Beechcraft used for the type certification of the 1900C airplane. According to the reports,
+fuselage static tests were conducted at Beech Aircraft in Wichita, Kansas, between December 14,
+1982, and September 6, 1983, as part of the overall structural static test certification program for
+the Beech Model 1900C forward fuselage and standard version 1900 fuselage. According to
+(6) An Aircraft Flight Manual (if required) or a summary of required operating
+limitations and other information necessary for safe operation of the product.
+Section 21.257 provides:
+An applicant is entitled to a type certificate for a product manufactured under a
+DOA if the Administrator finds that the product meets the applicable airworthiness,
+noise, fuel venting, and exhaust emission requirements (including applicable acoustical
+change or emissions change requirements in the case of changes in type design).
+18Emergency landing conditions are set forth in 14 CFR 23.561(b), which requires, in
+part, that the airplane structure be designed to protect each occupant during emergency landing
+conditions when "proper use is made of the seats, safety belts, and shoulder harnesses provided for in the
+design" and,
+(2) The occupant experiences the static inertia loads corresponding to the following
+ultimate load factors -
+(i) Upward, 3.0 G for normal, utility, and commuter category airplanes, ...
+(ii) Forward, 9.0 G;
+(iii) Sideward, 1.5 G; and
+(iv) Downward, 6.0 G when certification to the emergency exit provisions of
+23.807(d)(4) is requested; and
+(3) The items of mass within the cabin, that could injure an occupant, experience the
+static inertia loads corresponding to the following ultimate load factors -
+(i) Upward, 3.0 G;
+(ii) Forward, 18.0 G; and
+(iii) Sideward, 4.5 G.
+
+12
+Raytheon officials, Beech personnel at that time asked the FAA's Aircraft Certification Office
+(ACO) in Wichita for guidance on how to show compliance with the freedom from jamming
+requirements of SFAR 41, paragraph 5 (e)(c).
+According to Raytheon, the ACO did not provide Beech with specific test criteria,
+but indicated that compliance could be shown by demonstrating that the doors were free from
+jamming after undergoing the tests that were already established as part of the Beech structural
+static test certification program. Under that program, side loads were applied during the side
+shear and side bending torque tests. (Other tests involved up bending and up shear; down
+bending and down shear; shear between spars; side shear between spars; and ultimate fuselage
+pressure.) According to Beech's test data, 2,970 pounds of static side pressure were applied for 3
+seconds at 90° at fuselage station 30.13, and water line 34.48, near the right and left sides of the
+nose gear. The tests measured 194,592 inch pounds of torque and 430,264 inch pounds of
+bending moment at fuselage station 175.0 with the following results: a 3.70-inch crack in the
+lower aft corner of the air stair frame at fuselage station 175; buckling of the aft lower comer of
+the right-hand nose door, door frame, and floor frame at fuselage station [1]82;19 wrinkling of the
+fuselage skin at fuselage station 290; loosening of the sealer, the forward spar; and the shearing
+of two raised rivet heads at the forward spar.
+In a letter to Beech dated April 25, 1983,20 the FAA indicated that "Beech must
+show that application of the inertia loads in FAR 23.561 to the stair/door combination, while
+closed, will not prevent subsequent opening of the door." The FAA also asked that Beech
+"provide ...a ny information or data which you consider appropriate" to assure that a landing with
+both main gears collapsed and the airplane resting on its nose gear and aft fuselage would not
+result in an "unsafe feature."21
+After the completion of fuselage static tests which included the side shear and side
+bending torque tests described above (but did not simulate loads resulting from a landing with
+both main gears collapsed and the airplane resting on its nose gear and aft fuselage), FAA
+representatives visited the Beech test facility and witnessed the opening of the forward air stair
+door and overwing emergency hatches on the two test fuselages ( a 1900 and a 1900C). The
+doors opened without jamming or structural failure.
+19 According to Raytheon, the test data entry for fuselage station 182 was written in error.
+The right-hand nose door on the Beech 1900C is located at fuselage station 82 rather than 182.
+20The letter primarily addressed Beech's proposed methods for showing compliance with
+SFAR 41, paragraph 5(e)(g), relating to design of the stair installed on the door, and did not specifically
+refer to the freedom from jamming requirement in paragraph 5(e)(c). However, Beech's correspondence
+to the FAA discussing its proposed means for showing compliance, to which the FAA's April 25 letter
+responded, also referenced the freedom from jamming requirement in paragraph 5(e)(c).
+21In an earlier letter, Beech had indicated that in this emergency landing configuration
+(both main gear collapsed and nose gear extended) it "would definitely expect at least nonpermanent
+fuselage deformation." In an internal memorandum dated April 20, 1983, the FAA Aircraft Certification
+Division indicated concern that such deformation might result in door jamming, and recommended that
+the ACO "investigate the condition ... and assure that no unsafe condition will result."
+
+13
+In a letter to Beech Aircraft Corporation dated September 12, 1983, the ACO
+stated that the findings from this demonstration showed compliance with SFAR 41, section
+5(e)(c). It further stated that, based on the results of an "unofficial static test conducted at Beech
+on January 25, 1983, ... [which] show the entry door to be reasonably free from jamming when
+the fuselage is loaded corresponding to the most critical condition of landing gear collapse (both
+mains collapsed)," the ACO "is satisfied that no unsafe condition is identified with regard to
+entry door jamming."
+After the Beech 1900C had been certificated, the FAA set forth guidance in
+Advisory Circular (AC) 25.783-1 (dated December 10, 1986) for complying with the door design
+standards in 14 CFR 25.783. In 1988, in connection with its promulgation of section
+23.783(c)(5), the FAA indicated that the guidance in AC 25.783-1 for complying with the
+freedom from jamming requirement of 25.783 could also be used to demonstrate compliance
+with what the FAA referred to as the "substantively equivalent" freedom from jamming
+requirements of 23.783.22 Specifically, the AC states the following:
+8. Door Jam Condition.
+An external door, exit, or hatch which may be used for emergency exit in a
+crash should be designed to allow for fuselage distortion likely to result
+from a minor crash. This is usually achieved by allowing sufficient
+clearance between the door and surrounding fuselage support structure to
+accommodate likely distortions. Also, the possibility of distortion in the
+door cutout should be minimized by designing the door cutout frame with
+more strength than that of the surrounding structure.
+1.6.2 King Air A90
+The King Air A90 was manufactured by Beech Aircraft on January 16, 1967. The
+airplane was powered by two P&W Model PT6A-20 turbine engines. The two Model HC
+B3TN-3B engine propellers were manufactured by Hartzell. The airplane had two exits (viewed
+from the aft looking forward): the air stair door in the aft cabin on the left, and the overwing
+emergency exit on the right.
+The airplane's maintenance records revealed 11,391.8 total flight hours. A 150-
+hour primary inspection was made on July 15, 1996, and the total airframe time was noted as
+11,359.4 hours at that time. On that date, the left engine had accumulated 9,278.4 hours total
+time and 2,809.9 hours since the engine was overhauled in March 1978; and the right engine had
+9,368.3 hours total time and 2,932.7 hours since that engine was overhauled in March 1978. The
+engine cycles were not recorded in the maintenance records.
+22
+53 Federal Register 30802, 30807 (August 15, 1988).
+
+14
+The examination of the airframe logbooks did not reveal any abnormalities or
+entries concerning the airplane's communication equipment. However, the last transponder and
+pitot static inspections reflected in the airplane maintenance records were on July 1, 1992. Such
+inspections are required every 2 years under 14 CPR Parts 91.411 and .413.23
+1.7 Meteorological Information
+An FAA contract weather observing station is located at the Quincy Municipal
+Airport. Weather observations are made each hour by contract weather observers employed by
+Midwest Weather. An automated weather observing system at the airport automatically
+generates visibility, pressure, ceiling, wind, temperature, and dew point values. The surface
+weather observations are recorded by the weather observers and transmitted on the voice channel
+of the local nondirectional beacon.
+The following surface weather observation for Quincy was provided on the day of
+the accident at 1650:
+Winds 060° at 10 knots; visibility 12 miles; ceiling 13,000 feet broken,
+15,000 feet broken, 20,000 feet overcast; temperature 2°. C; dew point -3°
+C; altimeter setting 30.00 inches of Hg.
+After seeing the smoke and flames from the accident, the surface weather observer
+made the following special surface weather observation for Quincy at 1709:
+Winds 070° at 9 knots; visibility 12 miles; few clouds near the surface,
+ceiling 14,000 feet broken, 20,000 feet overcast; temperature 2° C; dew
+point -3° C; altimeter setting 29.99 inches of Hg.; smoke near the ground;
+aircraft mishap.
+The weather observer stated that at the time of the accident, all weather equipment
+was operating satisfactorily, and the visibility was uniform.
+1.8 Aids to Navigation
+There were no known difficulties with aids to navigation.
+1.9 Communications
+On the King Air's earlier flight from Tulsa to Quincy, the ground controller at
+Tulsa reportedly commented about the quality of one of the King Air's radios, and the clearance
+delivery controller was unable to receive transmissions made by the pilot/passenger. However,
+23The mechanic who performed the last annual inspection on the airplane reported that
+he had placed a piece of paper in the logbook indicating that the pitot-static system had recently been
+inspected. No such piece of paper was found in the airplane's records recovered at the crash site.
+
+15
+communications with the air traffic controllers at the Kansas City air route traffic control center
+(ARTCC), who were responsible for aircraft in the Quincy area, did not indicate any difficulties
+with radio communications. The ARTCC was in contact with the King Air from about 1443 to
+1620.
+One of the airplane's passengers on the previous flight for the prospective buyers
+of the airplane stated that he recalled the pilot and pilot/passenger had exchanged headsets at one
+point because of difficulty hearing out of one of them. Another passenger recalled that the pi lot
+and pilot/passenger had exchanged microphones because the pilot/passenger's microphone would
+not transmit. This passenger also remembered the King Air pilot saying that the airplane was in
+"great shape," and that the only thing the airplane needed was "a small piece of avionics."
+1.10 Airport Information
+Quincy Municipal Airport is an uncontrolled airport owned and operated by the
+City of Quincy, Illinois, which is located about 10 miles away from the airport. The airport has
+an elevation of 769 feet mean sea level, and it has three runways: 18/36, which is concrete, 5,397
+feet long, and 150 feet wide; 13/31, which is asphalt, grooved, 5,398 feet long, and 150 feet
+wide; and 04/22, which is asphalt, grooved, 7,097 feet long, and 150 feet wide. (See figure 3,
+Airport Diagram.) Runway 18/36 is equipped with low intensity runway lights; runway 13/31
+with medium intensity runway edge lights; and runway 04/22 with high intensity runway lights.
+The airport holds an FAA-issued limited airport operating certificate.24 Although
+a 500-gallon capacity airport aircraft rescue and fire fighting (ARFF) truck was located at the
+airport, full-time ARFF services were not present or required at the time of the accident. (See
+section 1.15.6, "Emergency Response," for more information on ARFF services.)
+1.11 Flight Recorders
+The Beech 1900C was not equipped with a flight data recorder (FDR), nor was it
+required to be. It was equipped with a Fairchild Model AlO0A CVR. The King Air was not
+equipped with either an FDR or a CVR, nor was it required to be.
+The Beech 1900C CVR included a "G switch," which was designed to activate
+and stop the CVR recording if the aircraft experienced forces of at least 2.5 G along its
+longitudinal axis or lateral axis. The CVR recording stopped about the time of the impact.
+24Under 14 CFR Part 139, a limited airport operating certificate is issued to an airport
+serving unscheduled (but not scheduled) operations of air carrier aircraft with a seating capacity of more
+than 30 passengers.
+
+J
+I..
+•
+JI 9 .,090
+11'11a\
+' f}tJ6 C '611 .IJ(il(lttHl!1'0:lil I
+PP!.!ll UlM.P(llf! • S!Oam1 •,1fou:~n{')
+8/V600VWL6V;)(l
+91
+
+17
+The Beech 1900C's CVR recording of the outgoing radio transmissions was faint
+and of poor quality.25 As a result, the Board had difficulty determining the content of all
+transrmss1ons. The quality of the recorded voice communications between the flightcrew
+members became noticeably poorer during radio transmissions; at other times, they were
+generally adequate for readout.
+The Safety Board addressed this issue in a May 22, 1997, recommendation letter
+to the FAA. The letter noted that in the past 2 years, the Safety Board has investigated five other
+accidents/incidents involving Beech 1900 airplanes in which the CVR poorly recorded the
+incoming or outgoing radio transmissions.26 Four of these occurrences did not involve serious
+injuries or fatalities, and the poor quality of the recordings was not a factor in the Board's
+determination of the circumstances surrounding the occurrences. The investigations revealed
+that the problem originated in the isolation amplifiers installed in the airplanes rather than in the
+actual CVR units.
+The recommendation letter further noted that Raytheon had modified the audio
+amplifier to correct the circuitry problem on later-model airplanes. However, more than 250
+Beech 1900 airplanes are in service, and more than 170 of them may not have had the audio
+amplifier modified. The company told Safety Board investigators that it plans to make a retrofit
+kit available to the owners of these airplanes.
+Accordingly, in its May 22, 1997, letter to the FAA, the Safety Board issued
+Safety Recommendation A-97-36, which asked the FAA to do the following:
+Promptly require the inspection of the CVR and associated equipment on.
+all Beech 1900 aircraft and ensure that operators take corrective action to
+repair deficient CVR systems so that the intelligibility of recorded
+communications, including radio transmissions to and from the airplane, is
+as high as practicable.
+The Safety Board has not yet received a response to this recommendation.
+25The Safety Board generally uses the following criteria to assess the quality of a CVR
+recording: a "poor" recording is -one in which a transcription is nearly impossible given that a large
+portion of the recording is unintelligible; a "fair" recording is one in which a transcription is possible, but
+the recording is difficult to understand; a "good" recording is one in which a few words are
+unintelligible; and an "excellent" recording is very clear and easily understood.
+26See Safety Board accident briefs FfW95FA004, Denver, Colorado, October 1, 1994;
+FfW96FA198, Denver, Colorado, May 2, 1996 (preliminary report); NYC97FA045, Bangor, Maine,
+January 10, 1997 (preliminary report); and incident briefs FfW97IA003, Pueblo, Colorado, October 3,
+1996 (preliminary report): and CHI95IA066, Williston, North Dakota, January 12, 1995.
+
+18
+1.12 Wreckage and Impact Information
+Both airplanes came to rest with their wings interlocked, along the east edge of
+runway 13, approximately 110 feet east of where the skid marks converged near the intersection
+of runways 04 and 13. According to witnesses, both airplanes came to rest on their landing gear
+after the impact.
+1.12.1 Beech 1900C Wreckage Information
+The Beech 1900C's continuous tire skid marks were 475 feet long leading up to
+the point where they converged with the scuff marks made by the King Air's tires. The majority
+of the airplane's upper fuselage, including the cockpit area and both wings, was destroyed by fire.
+The nose of the fuselage was intact, but it had separated at the forward cockpit
+area and was resting on its right side with the nose gear extended. The right side of the nose
+section was compressed inward about 10 inches, and blue paint transfer was found along the
+right side of the nose assembly that matched the color of the paint trim on the King Air. The tail
+assembly remained intact and was resting on the left horizontal stabilizer.
+The engine and propeller assembly remained attached to the left wing. All four
+right engine propeller blades had fractured at the blade root and had separated from the hub. One
+of the propeller blades was found along the east edge of runway 04 at the intersection with
+runway 13. The blade's leading edge had blue paint transfer that matched the color of the paint
+trim on the King Air. The leading edge of another torn propeller blade exhibited white paint
+transfer that matched the color of paint on the King Air's fuselage and wing surface.
+Examination of the control cables to the fuel controls of both engines revealed positions
+consistent with normal engine shutdown.
+The forward air stair door was destroyed by fire. The door latches, latch mounts,
+control cable, and control handle assemblies were recovered from the wreckage. Examination of
+the latches revealed that they were all partially or fully latched.
+1.12.2 King Air A90 Wreckage Information
+The King Air's tire scuff marks veered continually to the right on runway 04 for
+about 260 feet before they converged with the skid marks from the Beech 1900C. A dark area
+with an odor consistent with that of jet fuel was found on the runway near the converging skid
+marks. The grass next to the airplane wreckage was burned and dark and also had an odor
+consistent with jet fuel.
+Except for the outboard sections of the right wing and the right horizontal
+stabilizer, the King Air was consumed by the postcrash fire. No evidence of the main cabin door
+or the emergency exit hatch could be found. The nose gear was folded forward in the down-and
+locked position. The radome and a small section of the airplane's left wing leading edge were
+found on the runway next to the wreckage. The radome was torn and exhibited chipped paint
+
+19
+and abrasive marks on its exterior, and the section of the left wing's leading edge showed black
+paint transfer that matched the color of paint on the Beech 1900C's propellers. Examination of
+the control cables to the fuel controls of both engines revealed positions consistent with normal
+engine shutdown. The cockpit-mounted radio controls were consumed by the postcrash fire. The
+nose-mounted communication radio units were found crushed and partially burned. No
+information about the radio's functioning or its settings at the time of the accident could be
+obtained from the wreckage.
+1.13 Medical and Pathological Information
+Autopsies were performed on the occupants of both airplanes. According to the
+Coroner, Adams County, lliinois, the cause of death for 10 occupants was "carbon monoxide
+intoxication from inhalation of smoke and soot." The cause of death for four occupants was
+"inhalation of products of combustion."
+Toxicological tests were conducted on fluid and tissue samples of all four pilots.
+Tests conducted on urine samples for benzodiazepines, alcohol, and other drugs were negative
+for all of them except the King Air pilot. Lorazepam (a benzodiazepine)27 was detected in the
+King Air pilot's urine sample, but it was not detected in his blood or liver fluid samples.
+1.14 Fire
+At the accident site, investigators observed that the grass was burned for
+approximately 10 feet beyond the perimeter of the wreckage, and that fuel had saturated the grass
+for about 40 feet beyond the perimeter. A 5- by 8-foot area of fuel residue was observed on the
+runway area where the aircraft skid marks converged.
+1.15 Survival Aspects
+The bodies of the King Air pilot and pilot/passenger were found behind the seats
+in the cockpit.
+The bodies of seven of the passengers on the Beech 1900C were found forward of
+row 4, and the bodies of three passengers were found near rows 7 and 8. The captain's body was
+found in the cockpit area, and the first officer's body was found between the air stair door and the
+forward right overwing exit.28
+27 As indicated in section 1.5.2.1, the King Air pilot had a waiver from the FAA allowing
+him to use this tranquilizer/sedative.
+28Great Lakes Aviation told Safety Board investigators that passengers aboard flight
+5925 were given seat assignments but was unable to provide the Safety Board with a record of those seat
+assignments. The company's load manifest divided the cabin into forward and aft sections. The forward
+section included seat rows 1 through 5, and the aft section included rows 6 through 9. According to the
+load manifest, at least four passengers were seated in rows 6 through 9 and at least 5 passengers were
+seated in rows 1 through 5. The 10th passenger was not listed on the load manifest.
+
+20
+1.15.1 Rescue Attempts
+A pilot employed by the airport's fixed-base operator (FBO) and two Beech
+1900C-qualified United Express pilots who had been waiting for flight 5925 to arrive were the
+first people to reach the accident scene. One of the United Express pilots remained some
+distance from the airplanes while the other United Express pilot and the FBO pilot approached
+the airplanes. They saw that the King Air and the right side of the Beech 1900C were engulfed in
+fire. The United Express pilot said that he opened the left aft cargo door of the Beech 1900C and
+black smoke poured out. The FBO pilot said that he could not see the interior of the cabin
+through the passenger windows because the cabin appeared to be filled with dark smoke. They
+then ran to the forward left side of the Beech 1900C fuselage where the FBO pilot said he saw
+the captain's head and arm protruding from her window on the left. She asked them to "get the
+door open."
+The FBO pilot stated that he found the forward air stair door handle in the 6
+o'clock (unlocked) position.29 He said that he attempted unsuccessfully to open the door by
+moving the handle in all directions and pulling on the door. He said that he did not see any
+instructions for opening the door, but he was able to rotate the handle upward to the 5 o'clock
+position but no further. The United Express pilot stated that he then intervened because he
+believed that the FBO pilot probably did not know how to open the door. The United Express
+pilot stated that he depressed the button above the handle while rotating the handle from the 3
+o'clock position downward to the unlocked position. He stated that the handle felt "normal" as
+he rotated it. However, he was unable to open the door. The FBO pilot then tried again to open
+the door by rotating the handle upward, but he was again unsuccessful.
+According to the manufacturer, to unlock the air stair door from the outside, a
+release button above the door handle must be depressed while the handle is simultaneously
+rotated downward. The following instructions for operating the air stair door were printed on a
+small placard, with black letters 2/10-inch high on a white background, that was located aft and
+slightly lower than the door handle on the exterior of the airplane: "PUSH BUTTON AND
+TURN HANDLE TO OPEN." No further instructions were posted on the exterior of the
+airplane. The button above the handle was black, and it was located on a background color
+scheme of medium-hued blue. The button was not outlined. The FBO pilot said that he did not
+know that the proper procedure for opening the door involved depressing the button above the
+handle while simultaneously turning the handle.
+On January 3, 1997, the Safety Board issued urgent Safety Recommendation
+A-97-1, which asked the FAA to do the following:
+29 According to the manufacturer, when the handle is in the 6 o'clock position, the door is
+unlocked, and when it is in the 3 o'clock position, it is locked.
+
+21
+Immediately issue a telegraphic [Airworthiness Directive] (AD) directing
+all Beechcraft 1900 operators to (1) conspicuously identify the external air
+stair exit door button with highly visible markings, (2) indicate that the
+button must be depressed while the handle is rotated, and (3) include an
+arrow to show the direction that the handle must be moved to open the
+door.
+In February 1997, Raytheon Aircraft Company issued Service Bulletin (SB) No.
+2741 requiring, within the next 200 flight hours, new exterior operating instruction placards for
+the air stair and cargo doors for the Beech 1900 and 1900C and new exterior operating
+instruction placards for the air stair, cargo, and emergency exits for the 1900D.
+On February 24, 1997, the FAA responded to Safety Recommendation A-97-1,
+stating that it had issued Priority Letter AD 97-04-02, which refers to Raytheon's SB No. 2741,
+to require the installation of new exterior operating instructions, markings, and placards for the
+air stair door, cargo door and emergency exits. Based on the FAA's action, the Safety Board
+classified Safety Recommendation A-97-1 "Closed- Acceptable Action" on April 25, 1997.
+1.15.2 Passenger Briefing
+At 1638:12, the CVR recorded a flightcrew-activated, prerecorded passenger
+briefing as flight 5925 departed Burlington for Quincy. The prerecorded briefing stated the
+following, in part:
+Please remove the passenger briefing card located in the seat pocket in
+front of you. We suggest that you follow along as we explain the location
+and operation of the aircraft's safety equipment.
+Passengers seated in 4C, 6A, or 6C should review the information card
+explaining exit row seating requirements. If you feel you would be unable
+to carry out these instructions or wish to be re-seated, please notify a
+crewmember.
+There are four exits aboard this aircraft. There are three clearly marked
+overwing exits, two over the right wing and one over the left wing. To
+open, pull down on the handle and pull the exit inward. The main cabin
+door through which you entered is also an emergency exit. To open, push
+the button next to the handle then rotate the handle counter-clockwise and
+push the door open.
+
+22
+1.15.3 Beech 1900C Exits
+1.15.3.1 Air Stair Door
+The Beechcraft 1900 maintenance manual describes the operation of the air stair
+exit door as follows:
+The air stair door has six cam locks positioned around the exterior of the
+door, with three cams on each side. A continuous cable connects the
+exterior and interior door handle assemblies and the six cams. During
+operation of either door handle, the cable rotates each cam approximately
+150° to lock or unlock the air stair door. The air stair door weighs 58
+pounds, and the center of gravity for the door is 3 inches inside the hinge
+line.
+Whether unlocking the door from the outside or inside, the release button
+adjacent to the door handle must be held depressed before the handle can
+be rotated to unlock the door. The release button acts as a safety device to
+help prevent accidental opening of the door.
+See figure 4 for a diagram of the Beech 1900/1900C air stair door and latching
+mechanism.
+According to representatives of Raytheon, if there is more than ¼ inch of slack in
+the cable, the cam locks may not fully rotate when the handle is rotated.
+The air stair door parts from the accident airplane were examined at the Safety
+Board's Materials Laboratory on January 30, 1997. The findings of the examination were as
+follows:
+1. All cams were either fully or partially latched;
+2. The exterior door handle was frozen in the latched position with aluminum
+melted around it;
+3. The position of the interior door handle assembly could not be determined
+because there was no frame of reference to compare it to surrounding
+structure;
+4. The door control cable was attached at both handle assemblies and was
+fractured at both turnbuckles. The metallurgical examination of the
+turnbuckle fracture surfaces revealed a topography typical of copper alloys
+subject to static failure influenced by high temperatures and steady state
+strain rates.
+
+23
+~ft
+1900/1900C AIRLINER
+MAINTENANCE MANUAL
+•
+A
+DETAIL
+INSI0E HANDLE
+IN CLOSED POSITION
+RIG PIN HOLE ·,
+DETAIL B
+Figure 4.-Beech 1900/1900C air stair door and latching mechanism.
+
+24
+1.15.3.2 Overwing Exit Hatches
+Two overwing exit hatches are located on the right side and one on the left side of
+the Beech 1900C passenger cabin. From the inside, the doors are released with a pull-down
+handle, placarded "EXIT - PULL." From the outside, the doors are released with a flush
+mounted, pull-out handle. The exit hatches are nonhinged, plug-type doors that completely
+remove from the fuselage frame into the cabin when the latches are released. (See figure 5.)
+Windows at the overwing exits have a placard with instructions to "push seat backs to clear exit."
+During the investigation, Safety Board investigators opened a Beech l 900C
+overwing exit while two persons were in the seats next to the hatch. An investigator was able to
+pull the exit into the cabin even though the seats were occupied and the seat backs were not
+pushed forward to clear the exit.
+During wreckage recovery, the overwing exit hatch release latches and
+turnbuckles were examined. No conclusion could be drawn regarding their positions before the
+postcrash fire because the release latch secured to the airframe could have fallen from its latched
+position when the surrounding structure burned away.
+1.15.4 Pilot Evacuation Procedures and Training
+Great Lakes Aviation's General Operating Manual, Volume 3, Chapter 7, dated
+August 25, 1994, includes a section for "Unplanned Immediate Action." The instructions call for
+immediate action when an obvious emergency has occurred. Crewmembers are instructed to
+shout "Unfasten Seat Belts and Get Out" when the airplane has come to a complete stop. The
+manual indicates that a "crewmember will then open a usable exit (main cabin door) and direct
+opening of other exits." The manual includes the following instructions for an unusable exit:
+Do not waste time at an exit that will not open and is not going to get
+anyone out. Assign an able-bodied person (ABP) to redirect everyone to
+an appropriate alternate exit. With the ABP redirecting by saying "go that
+way," it is easier for you to direct passengers toward you by using the
+verbal command, "come this way" to the alternate exit.
+The manual instructs the first officer to leave the airplane as quickly as possible,
+preferably through one of the forward exits. It also states that the first officer should be one of
+the first out and should ensure that all usable exits have been opened.
+The most recent emergency training of the captain of flight 5925 was completed
+during her captain upgrade training on February 5, 1996. It included ground evacuation and
+drills on emergency exits.
+The frrst officer's most recent emergency training and emergency drills were
+completed on August 6, 1996.
+
+25
+<Deechcraft
+1900/1900C AIRLINER
+MAINTENANCE MANUAL
+OUTSIDE HANDLE
+Figure 5.-Diagram of overwing exit hatch.
+
+26
+1.15.5 Previous Safety Board Recommendations on Emergency Exits
+The Safety Board has issued two previous safety recommendations related to the
+external operation of emergency exits.
+Safety Recommendation A-81-28 was issued to the FAA on March 20, 1981,
+following a series of Piper PA-28 accidents in which repeated attempts to open cabin doors and
+break windows to rescue surviving occupants were unsuccessful. The safety recommendation
+urged the FAA to do the following:
+Amend 14 CFR 23.783, 14 CFR 23.807(b)(3), and 14 CFR Part 91 to
+require external doors and emergency exits of aircraft to be conspicuously
+marked on the outside with directions for opening the door.
+Based on the Safety Board's later recommendation of A-82-94 (discussed below)
+and on the FAA's airworthiness review of 14 CFR 23, which included the issue of external
+markings of exits openable from the outside, on June 12, 1984, the Safety Board classified Safety
+Recommendation A-81-28 "Closed-Superseded."
+On March 27, 1980, a Beechcraft 200, Super King Air, crashed and burned in a
+field near Parker, Colorado. The pilot and four of the eight passengers survived the crash, but
+they died from smoke or fire-related injuries because they were unable to escape through the
+emergency exits. On August 20, 1982, the Safety Board issued Safety Recommendation
+A-82-94, which asked the FAA to do the following:
+Issue an [AD] directing all operators of airplanes equipped with
+emergency exits openable from the outside to mark the exits and their
+means of operation on the airplane fuselage in the manner described by 14
+CFR 25.811(f)(l), (2), and (3) irrespective of the rules under which the
+aircraft are being operated.
+In a letter to the FAA, dated May 22, 1984, the Safety Board classified Safety
+Recommendation A-82-94 "Closed-Acceptable Alternate Action," after the FAA issued AC
+23.807-3, "Emergency Exits Openable from Outside for Small Airplanes," on January 20, 1984.
+AC 23.807-3 recommended that "all manufacturers, operators and owners of
+small airplanes, with emergency exits openable from the outside of the airplane, add external
+markings to these exits." The AC gave guidance for methods to improve the visibility and
+identity of exits; and recommended that a decal be installed on the outside of the emergency exit
+or on the outside of the airplane next to the exit showing how to open the emergency exit,
+including special instructions, if applicable. Four methods to visually identify the exit were
+suggested: (1) outline the exit with a band of such color contrast as to be readily distinguishable
+from the surrounding fuselage surface, (2) mark the corners of the emergency exit in a
+conspicuous manner, (3) outline the emergency exit handle with a band of contrasting color, and
+(4 ) mark the emergency exit with any other conspicuous visual identification scheme.
+
+27
+At the time of this accident, United Express Beech 1900 exits were not marked
+using any of the methods suggested in AC 23.807-3.
+On December 20, 1995, the FAA issued regulations requiring commuter operators
+that conduct scheduled passenger-carrying operations in airplanes with 10 to 30 seats to comply
+by March 20, 1997, with the requirements for exterior exit markings outlined in 14 CFR Part
+121.310 (g), which states the following, in part:
+Exterior exit markings. Each passenger emergency exit and the means of
+opening that exit from the outside must be marked on the outside of the
+airplane. There must be a 2-inch colored band outlining each passenger
+emergency exit on the side of the fuselage. Each outside marking,
+including the band, must be readily distinguishable from the surrounding
+fuselage area by contrast in color ....
+United Express is now in compliance with the new requirement.
+1.15.6 Emergency Response
+The Quincy Fire Department's (QFD) 911 dispatch records showed that the initial
+notification of the airplane crash was received at 1701, and that units, consisting of two engines,
+seven firefighters, and two other vehicles, were dispatched to the scene at 1702. At 1714, 30 after
+traveling a distance of about 10 miles, the first units arrived at the scene and observed that both
+airplanes were engulfed in flames. The firefighters from the two engines used 1¾ -inch hose lines
+to extinguish the fire with water, and other firefighters activated the Quincy Airport 500-gallon
+ARFF truck. Shortly after the QFD units arrived, units from the Central Adams County Fire
+Department arrived and supplied additional water for the ARFF truck. The incident commander
+reported that the fire was under control within 10 minutes after the QFD's arrival and that only
+spot fires remained.
+The Quincy Airport has an ARFF truck, which is staffed by QFD firefighters 15
+minutes before and 15 minutes after the arrival and/or departure of an air carrier aircraft with
+more than 30 passenger seats.31 The truck at the airport was not staffed at the time of the accident
+because no air carrier aircraft with more than 30 passenger seats were landing or taking off.
+According to the fire chief, after the accident, the QFD and the City of Quincy began to
+investigate ways to staff the ARFF truck at the airport during periods beyond that required by the
+FAA.
+30The time reference is according to the QFD incident commander's report supplement.
+3114 CFR Part 139.3 defines air carrier operations as "the takeoff or landing of an air
+carrier aircraft [with a seating capacity of more than 30 passengers] and includes the period of time from
+15 minutes before and until 15 minutes after the takeoff or landing."
+
+28
+1.15.7 Commuter Airline Study
+In November 1994, the Safety Board issued a safety study entitled Commuter
+Airline Safety32 that states the following, in part:
+The National Transportation Safety Board has had a longstanding interest
+in commuter airline safety and has issued safety recommendations in the
+past seeking various actions by government and industry to address
+needed safety improvements. The recommendations followed the Board's
+1972 study of air taxi safety, its 1980 study of commuter airline safety,
+and investigations of accidents involving commuter airline operations. In
+response to the recommendations and through other initiatives taken by
+government and industry, regulatory revisions and other actions have
+resulted in a greatly improved safety record for scheduled Part 135
+airlines: the accident rate per 100,000 departures in 1993 was one-fourth
+the accident rate observed in 1980.
+Included in this safety study were two airport-related safety recommendations
+addressed to the FAA to enhance the level of safety at airports served by commuter airlines:
+Seek[ ] legislative action within 6 months to include in the Airport
+Certification Program all airports served by air carriers that provide
+scheduled passenger service. (A-94-203)
+Revis[e] and expand[] 14 CFR 135, following enactment of the legislative
+action described in Safety Recommendation A-94-203, to permit
+scheduled passenger operation only at airports certificated under the
+standards contained in Part 139, "Certifications and Operations: Land
+Airports Serving Certain Air Carriers." (A-94-204)
+In its February 23, 1995, response to the Safety Board, the FAA stated that it was
+"undertaking a process which will lead to a legislative proposal to amend 14 CFR Part 139 to
+include airports servicing scheduled aircraft with more than 10 passenger seats."
+In its April 7, 1995, reply to the FAA, the Safety Board stated that although it
+was:
+pleased that the FAA has initiated a request for legislative act1v1ty to
+revise the airport certification standards, the Board is concerned that the
+proposal is restricted to airports servicing aircraft with 10 or more
+passenger seats. Recommendations A-94-203 and -204 did not specify a
+minimum number of passenger seats for which Part 139 certification
+should be required, and reflect the Board's strong belief that Part 139
+32See NTSB/SS-94/02.
+
+29
+certification provides a safety standard that should be applied to all
+scheduled passenger operations, regardless of aircraft size. However, the
+Board also recognizes that eliminating the passenger seat restriction may
+have the greatest economic impact on small airports located •i n remote
+communities that rely heavily on small aircraft operations for basic
+necessities. If the FAA has determined that the airport improvements
+required under Part 139 represent an excessive economic hardship on
+airports receiving scheduled service in aircraft with fewer than 10 seats,
+the Board would like to review the analysis that supports this position.
+Pending review of that information, the Board classifies Safety
+Recommendations A-94-203 and -204 "Open-Acceptable Response."
+In its May 6, 1997, response to the Safety Board concerning Safety
+Recommendations A-94-203 and -204, the FAA stated:
+The Federal Aviation Reauthorization Act of 1996 provides requirements for
+the Federal Aviation Administration (FAA) to issue airport operating
+certificates for airports that (1) serve an air carrier operating aircraft designed
+for at least 31 passenger seats, (2) are not located in the State of Alaska and
+serve any scheduled passenger operation of an air carrier operating aircraft
+designed for more than 9 passenger seats but less than 31 passenger seats, and
+(3) the Administrator determines a certificate is required. The A via ti on
+Rulemaking Advisory Committee (ARAC) developed recommendations on
+what requirements should be applicable to the certification of airports that
+serve scheduled air carrier aircraft with 10 to 30 seats. The FAA is preparing
+a notice of proposed rulemaking to revise 14 CFR Part 139. The FAA
+proposal will include a revision to 14 CFR Part 121 to reflect the revisions to
+14 CFR Part 139.
+In February 1997, an Aviation Rulemaking Advisory Committee (ARAC)
+addressed the issue of establishing standards for smaller, currently noncertificated airports that
+receive commuter airline service in aircraft having 10 or more seats. It recommended the
+following, in part, to the F AA:33
+more emphasis on education directed at accident prevention rather than
+accident mitigation and upon developing a comprehensive plan for
+responding to an emergency and for ensuring airfield safety. The Working
+Group majority clearly feels that the limited funds available to these small
+airports would be better spent on accident prevention rather than on
+accident mitigation.
+33 ARAC Executive Summary, dated December 30, 1996.
+
+30
+A minority position was taken by the Air Line Pilots Association members
+of the group, mostly with regard to [advocating] ARFF equipment and
+personnel available on or adjacent [to] the airport in order to meet a 3-
+minute response time.
+The FAA is currently reviewing the ARAC recommendations, and the Safety
+Board is currently reviewing the FAA's letter of May 6, 1997. The Safety Board has not received
+any communication from the FAA concerning its intentions with regard to certification of
+airports serving smaller air carrier aircraft.
+In December 1996, the FAA reported that at that time 70 airports m the
+contiguous states, 150 airports in Alaska, 2 in American Samoa, and 2 in Hawaii were not
+certificated under Title 14 CFR Part 139 but were served by commuter airlines.
+1.16 Tests and Research
+1.16.1 Takeoff Distance and Accelerate and Stop Distance for King Air A90
+Based on the weather at the time of the accident and the estimated weight of the
+King Air A90 (8,117 pounds), and manufacturer's airplane performance data, the normal takeoff
+distance34 for the airplane was calculated to be about 1,500 feet. The King Air's main gear tires
+left 260 feet of scuff marks (consistent with hard turning) immediately preceding the impact
+point at the intersection. Assuming, as reported by the Cherokee pilot, that the King Air was
+positioned on runway 04 so that enough clearance remained behind him for the Cherokee to have
+access to runway 36, the distance from the King Air to the intersection of runway 04 and 13 was
+approximately 1,900 feet.
+1.16.2 Visibility Tests and Study
+Safety Board investigators performed tests at the accident site to determine the
+line of sight visibility and conspicuity of the Beech 1900C in sunset/dusk conditions. The Safety
+Board also conducted a photographic visibility study to determine the locations of the airplanes
+as they would have appeared in the pilots' fields of vision.
+1.16.2.1 ConspicuityNisibility Tests
+On November 22, 1996, between 1637 and 1708, at dusk in weather conditions
+similar to those at the time of the accident, and with the sunset behind them, two investigators
+positioned themselves in an airport service truck in the runup area at the approach end of runway
+04 facing the direction of the King Air's takeoff roll. At 1648, they observed an airplane (a King
+34A normal takeoff is defined as one using takeoff power, flaps up, and a level, dry
+surface. The normal takeoff procedure is to accelerate with both engines at takeoff power to 101 knots
+CAS, take off, retract the landing gear, and climb at 101 knots CAS. Takeoff distance is defined as that
+necessary to clear a 50-foot obstacle.
+
+31
+Air C90) fly overhead, make a downwind entry, and land on runway 13. The strobe and landing
+lights of the airplane were observed to be conspicuous during the sequence, and there were no
+obstructions to visibility. At 1645, they observed another airplane (a Cessna Conquest) and, at
+1653, another (a Dassault Falcon) taxi out and take off on runway 13. The strobe lights of both
+these airplanes appeared to be conspicuous during taxi, and the strobe and landing lights
+appeared to be conspicuous during takeoff. No obstructions to visibility were observed.
+Additional visibility tests involving a Beech 1900 were conducted on November
+22, 1996, between 1800 and 1930. The Beech 1900, carrying two test pilots and an investigator
+seated in the jumpseat, took off, performed a left pattern, and landed on runway 13, while another
+investigator observed from the left seat of a King Air B90 positioned on runway 04 in the
+approximate takeoff position of the accident airplane. During the Beech 1900's landing
+sequence on final approach and touchdown, the investigator in the King Air observed
+obstructions to his direct view of the Beech 1900 caused by the rear side window post in the
+King Air for most of the landing sequence on short final. In a second and third test, an
+investigator observer sat in the right seat (second test) and then in the left seat (third test) of the
+King Air B90, which was positioned about 100 feet forward of its previous position on the
+runway, and a test pilot sat in the remaining seat. When the Beech 1900 was about 200 feet agl
+on final approach, the test pilot began a fast taxi along the runway toward the accident site. Ln
+both tests, the Beech 1900 appeared close to the King Air captain's forward window post. No
+surface obstructions to visibility were observed in either test.
+1.16.2.2 Photographic Visibility Study
+Photographs provided by the manufacturer representing the view from within the
+cockpits of both aircraft are shown as figures 6 through 9. Two superimposed photographs
+represent the visual image for each eye and show the aircraft windshield visibility angles. The
+camera used for these photographs is located at the captain's35 cockpit eye zero reference point,
+and the photographs are a panorama of what the pilot would see as the head was rotated. The
+photographs do not account for any movement of the torso, or head movement forward,
+backward, up or down. Because the cockpit is symmetrical, the captain's view of the first
+officer's side window is the same as the first officer's side view of the captain's side window, but
+on opposite sides of their respective fields of view.
+As shown in figure 6, the Safety Board's study using its VIZPC computer
+program indicated that the view of the King Air from the Beech 1900C captain's position would
+have been partially obstructed by the center post and windshield wipers during the airplane's
+final approach and would have been totally obscured by the center post for 6 seconds, starting
+about 17:00:43. Approximately 10 seconds before touchdown,36 at 1700:49, until the time of the
+35For the purposes of this study, the captain's eye position refers to the view from the left
+seat position, and the first officer's eye position refers to the view from the right seat position.
+36Although a precise touchdown point and impact speed could not be determined. a
+touchdown at 1,000 feet, with typical braking for 5.5 seconds and hard skidding braking for 4.5 seconds.
+
+32
+collision, the captain would have had a partially obscured view of the King Air through the first
+officer's front windshield.
+As shown in figure 7, the view from the Beech 1900C first officer's position
+would have been partially obstructed by the first officer's side posts for nearly 30 seconds before
+touchdown until impact, including 6 seconds starting at 17 :00:42 when the first officer's view of
+the King Air would have been totally obstructed by the front windshield side post.
+The VIZPC study also indicates that while the King Air was stationary near the
+end of runway 04, the left seat occupant' s37 view of the Beech 1900C would have been
+unobstructed at nearly 72° to the left, as viewed through the side window of the King Air. (See
+figure 8). About 17:00:40, 4 seconds before the King Air began its takeoff roll, the view of the
+Beech 1900C from the left seat occupant's position would have become partially obstructed at
+nearly 68° to the left, and fully obstructed at 17:00:54, about 55° to the left, when the King Air
+would have been accelerating during the roll; this time is immediately before the touchdown of
+the Beech 1900C. The view of the Beech 1900C from the left seat occupant's position would
+have been fully obstructed from 17:00:54 until impact at 17:01:09, except for 2 seconds at
+17:01:02 when the view would have been partially obstructed.
+As shown in figure 9, the King Air right seat occupant's view of the Beech l 900C
+would have been partially obstructed by the left seat occupant's side posts until just before the
+start of the King Air's takeoff roll. At 17:00:39, the Beech 1900C would have emerged into clear
+view in the left front windshield. It was noted that when the right seat occupant's view would
+have been obstructed, the left seat occupant's view would have been clear, and vice versa. At the
+start of engine throttle back by the King Air pilot, the Beech 1900C would have been about 50°
+to the left of the King Air. This position would have been fully obstructed from the King Air left
+seat occupant's position, but in clear view from the right seat occupant's position.
+1.17 Organizational and Management Information
+1.17.1 Great Lakes A via ti on, Ltd.
+Founded in 1977, Great Lakes Aviation is a regional airline that holds a commuter
+air carrier operating certificate issued by the FAA under 14 CFR Part 135. It operates under the
+following marketing identities: United Express, under a cooperative marketing agreement with
+United Airlines, Inc.; Midway Connection, under a cooperative marketing agreement with
+Midway Airlines, Inc.; Great Lakes Airlines; and Arizona Airways Express.
+consistent with the CVR recording, could result in the collision occurring where it did, with residual
+speed and sufficient momentum to carry the airplane to its final resting point.
+37Traditionally, the flying pilot would be in the left seat and the passenger in the right
+seat. However, because the bodies of the King Air pilot and pilot/passenger were found out of their
+seats, the Safety Board was unable to determine which seats the pilot and pilot/passenger occupied.
+
+
+
+-
+~:~.:.,} L( : t:," TL', \ l .• --:: 1 '<'. ;'.;.1) ,;. •1:·; ·1:,T q
+Jc~;.:_ I 1 7 * i . ,, I. i" ., I I \ t ', - , •
+om
+Figure 1.- Bcec l 9 lJS1 r's vie,;.' King . lf.
+
+- ~-~~- -
+• - ' ' • • • ~ ' • I ' ~ : ' : ' ~ ~ • I
+, \. ' : ' - . '. I \'
+-✓ • l \ I ! -' • "
+Figu~ 8 --King A'r left . cupam v1e of B ech 1900C
+
+
+
+37
+At the time of the accident, the company employed more than 1,200 employees,
+including 382 pilots. According to company documents, the airline operated a combined fleet of
+44 Beechcraft 1900s and 12 Embraer EMB-120s and provided scheduled service to 87
+destinations in 20 states and Mexico.
+Crew resource management (CRM) training consisted of an initial 12 hours for
+newly hired pilots and 2 hours for recurrent CRM training. The company reported that traffic
+pattern procedures for uncontrolled airports are reviewed during both initial and recurrent
+training.
+The FAA principal operations inspector for Great Lakes stated that her
+relationship with the company was good and that she was unaware of any complaints by pilots.
+She stated that a National Aviation Safety Inspection Program review of the company was
+conducted in June 1995 and that there were no major findings. She noted that when she had
+conduced type rating check rides en route to Quincy, company pilots had used appropriate calls
+and procedures for landing, and that the carrier served a high number of uncontrolled airports.
+She stated that she had personally observed a recurrent training class that addressed the issues of
+uncontrolled airports and procedures.
+Great Lakes Aviation voluntarily suspended flight operations on May 16, 1997,
+after the FAA identified discrepancies in the airline's maintenance operations. According to the
+FAA, the suspension was unrelated to this accident. On June 23, 1997, the company resumed
+limited service; and, according to the FAA, as of July 1, 1997, it was operating 18 of its airplanes
+on 18 routes into 26 cities.
+1.18 Additional Information
+1.18.1 Operating Procedures at Uncontrolled Airports
+Guidance Regarding Radio Communications
+Paragraph 4-1-9, a. 1., of the Aeronautical Information Manual (AIM) states the
+following:
+There is no substitute for alertness while in the v1c1mty of an
+[u ncontrolled] airport. It is essential that pilots be alert and look for other
+traffic and exchange traffic information when approaching or departing an
+airport without an operating control tower. This is of particular
+importance since other aircraft may not have communication capability or,
+in some cases, pilots may not communicate their presence or intentions
+when operating into or out of such airports. To achieve the greatest degree
+of safety, it is essential that all radio-equipped aircraft transmit/receive on
+a common frequency identified for the purpose of airport advisories.
+Paragraph 4-1-9, c. 1., of the AIM, also states that at uncontrolled airports:
+
+38
+[p ]ilots of inbound traffic should monitor and communicate as appropriate
+on the designated CT AF from 10 miles to landing. Pilots of departing
+aircraft should monitor/communicate on the appropriate frequency from
+start-up, during taxi, and until 10 miles from the airport unless the FARs
+or local procedures require otherwise.
+Table 4-1-1 of the AIM, "Summary of Recommended Communication
+Procedures," specifies the following recommended broadcasts:
+for outbound aircraft -before taxiing, and before taxiing on the runway for
+departure;
+for inbound aircraft - 10 miles out, entering downwind, base, final, and
+leaving the runway.
+In addition, the AIM provides general guidance regarding proper radio
+communication phraseology and techniques. Paragraph 4-2-4, "Aircraft Call Signs," states,
+"[c]ivil aircraft pilots should state the aircraft type, model or manufacturer's name followed by
+the digits/letters of the registration number. When the aircraft manufacturer's name or model is
+stated, the prefix "N" is dropped; e.g., Aztec Two Four Six Four Alpha."
+Guidance Regarding Traffic Patterns
+AC 90-66A, "Recommended Standard Traffic Patterns and Practices for
+Aeronautical Operations at Airports Without Operating Control Towers," describes regulatory
+requirements and recommended operating procedures at airports without control towers.
+AC 90-66A states the following, in part:
+7. General Operating Practices.
+b. The use of any traffic pattern procedure does not alter the responsibility
+of each pilot to see and avoid other aircraft. Pilots are encouraged to
+participate in "Operation Lights On," which is a voluntary pilot safety
+program described in the AIM designed to enhance the "see and avoid"
+requirement.
+e. The FAA encourages pilots to use the standard traffic pattern.
+However, for those pilots who choose to execute a straight-in approach,
+maneuvering for and execution of the approach should be completed so as
+not to disrupt the flow of arriving and departing traffic. Therefore, pilots
+operating in the traffic pattern should be alert at all times to aircraft
+executing straight-in approaches.
+
+39
+In addition, Title 14, CPR Part 91, Subpart B -Flight Rules, section 91.113, states
+the following, in part:
+91.113 Right-of-way rules: Except water operations.
+(b) General. When weather conditions permit, regardless of whether an
+operation is conducted under instrument flight rules or visual flight rules,
+vigilance shall be maintained by each person operating an aircraft so as to
+see and avoid other aircraft. ...
+(g) Landing. Aircraft, while on final approach to land or while landing,
+have the right-of-way over other aircraft in flight or operating on the
+surface ....
+Guidance Regarding Scanning for Other Traffic
+AC 90-48C, "Pilots' Role in Collision Avoidance," describes how to scan for
+traffic and states the fqllowing, in part:
+Pilots are reminded of the requirement to move one's head in order to
+search around the physical obstructions, such as door and window posts.
+The doorpost can cover a considerable amount of sky, but a small head
+movement may uncover an area which might be concealing a threat. ...
+Prior to taxiing onto a runway or landing area for takeoff, scan the
+approach areas for possible landing traffic by maneuvering the
+aircraft to provide a clear view of such areas ....
+AC 90-42F, "Traffic Advisory Practices at Airports Without Operating Control
+Towers," contains the same guidance provided in the AIM and states, in part, "Departing aircraft
+should always be alert for arrival aircraft that are [coming from the] opposite direction."
+As a result of this accident and at the request of the FAA, which asked for help in
+reinforcing pilot education, the Air Safety Foundation of the Aircraft Owners and Pilots
+Association distributed a poster to more than 5,000 FBOs and flight schools about uncontrolled
+airport operations. The poster includes the message, "Don't let a collision ruin your day
+REACT." REACT is an acronym for Radio, Eyes, Announce, Courtesy, and Traffic pattern. The
+poster also includes this list:
+• Radio - Listen for traffic and form a mental picture of the position and
+movement of all aircraft;
+• Eyes - Look for all traffic-including no-radio aircraft-and tum on
+landing lights when within 10 miles of the airport to make it easier to
+be seen;
+
+40
+• Announce - Broadcast position on taking the active runway and on
+pattern entry, crosswind, downwind, base, and final;
+• Courtesy - Be courteous in the pattern. Discuss conflicts on the
+ground, not on the radio;
+• Traffic Pattern - Fly a standard traffic pattern at the recommended
+altitude.
+In addition, the Foundation published a "Safety Advisor" booklet on uncontrolled
+airport operations, is providing more information at Flight Instructor Refresher Clinics, and has
+published the pamphlet "Pilot Operations at Nontowered Airports" and other safety articles on
+the Internet (http://www.aopa.org).38
+1.18.2 Previous Safety Board Recommendation on Scanning Techniques
+In its report adopted on September 13, 1993, concerning the midair collision of a
+Mitsubishi MU-2B-60 and a Piper PA-32-301 in Greenwood, Indiana, on September 11, 1992,39
+the Safety Board issued Safety Recommendation A-93-130, which asked the FAA to do Lhe
+following:
+Inform flight instructors about the necessity for emphasizing scanning
+techniques during training and biennial flight reviews.
+On January 24, 1994, the FAA responded to the Safety Board stating that
+scanning techniques would be emphasized in the FAA's flight instructor refresher clinics and
+designated pilot examiner standardization courses. On April 1, 1994, the Safety Board classified
+Safety Recommendation A-93-130 "Closed-Acceptable Action."
+1.18.3 Postaccident Actions by the FAA
+As a result of this accident, the FAA prepared a report, dated January 3, 1997,
+entitled "Comparison of Accidents and Incidents Between Towered and Nontowered Airports."
+The report, which evaluated accidents involving at least one Part 121 or scheduled Part 135
+operation at airports receiving commercial airline service, found that for the years between 1983
+and 1996, the number of airport accidents (occurring within a 5 mile radius of the airport)
+declined for both types of airports. Also, using the same timeframe, the accident rate per 100,000
+operations for towered airports indicated a downward trend. The report stated that an accident
+38For more detailed information on AOPA's actions since the accident, see the February
+1997 issue of AOPA Pilot.
+39See Aircraft Accident Report, "Midair Collision, Mitsubishi MU-2B-60, N74FB, and
+Piper PA-32-301, N82419, Greenwood Municipal Airport, Greenwood, Indiana, September 11, I 992"
+(NTSB/A AR-93/05)
+
+41
+rate for nontowered airports was not calculated because "activity data for nontowered airports are
+unreliable."
+According to the report:
+Accidents involving high-speed runway collisions in which at least one of
+the aircraft were engaged in commercial service are extremely rare events.
+Only two such accidents occurred during the last five full year period, and
+those accidents occurred at airports with an operating tower. The data
+does not indicate that the recommended practices, procedures and services
+currently being used to prevent aircraft collisions in the airport
+environment are systematically inadequate.
+In addition, on December 2, 1996, the FAA issued a letter to all pilots referring to
+this accident. The letter encouraged pilots to review the AIM relating to operations at
+uncontrolled airports and cited the three ACs discussed in section 1.18.1. The letter also stated
+the following, in part:
+As pilots you have been trained to "see and avoid," and there is no need to
+remind you of that duty. We need to take stock of our traffic scanning and
+radio communications techniques, particularly when operating at
+nontowered airports. Transmitting on UNICOM or on the Common
+Traffic Advisory Frequency while operating at nontowered airports
+particularly during busy periods of operation or during early morning or
+dusk--can mean the difference between a safe operation and an accident
+or incident. For aircraft without radios, of course, a pilot's scanning
+technique at nontowered airports is a necessity and his or her best
+insurance against involvement in a collision on the ground or in the air.
+
+42
+2. ANALYSIS
+2.1 General
+The pilots of flight 5925 were properly certificated, trained, and qualified for their
+duties in accordance with 14 CFR Parts 61 and 135 and company requirements.
+The pilot of the King Air was properly certificated under 14 CFR Part 61.
+The Beech 1900C was equipped and maintained in accordance with applicable
+rules and directives.
+No records were found to indicate that the King Air had undergone the required
+transponder and pitot static inspections within the past 2 years. Other than this possible
+maintenance deficiency, which was not a factor in the accident, the King Air was maintained in
+accordance with applicable rules and directives.
+Weather was not a factor in the accident.
+2.2 United Express Flightcrew Performance
+The Safety Board analyzed the flightcrew's use of a straight-in approach to
+runway 13, radio communications, and post-touchdown actions, to determine whether they were
+factors in the accident.
+The flightcrew of flight 5925 made a straight-in approach, rather than using the
+standard traffic pattern as recommended in AC 90-66A and the AIM for uncontrolled airports.
+Although the FAA encourages pilots to use the standard traffic pattern, it recognizes in AC 90-
+66A that some pilots may choose to execute a straight-in approach, and therefore urges all pilots
+operating in the pattern to be alert to such approaches.
+Although the wind direction and speed did not favor the use of either runway in
+this case, the flightcrew of 5925 probably chose the straight-in approach to runway 13 rather than
+a downwind or base leg entry to runway 04 to save time because they had been delayed
+previously and because it was easier to accomplish than maneuvering in a pattern.
+The Beech 1900C was visible to other airport traffic during its approach.
+Witnesses, including the occupants of the Cherokee taxiing behind the King Air, said that they
+could see the airplane and that it had its landing lights on. Further, the Beech 1900C flightcrew
+discussed the fact that two airplanes were planning to take off on runway 04, and they had an
+alternate plan to use runway 04 if necessary. The captain's request at 10 miles out for other
+traffic to "please advise" gave them sufficient time to revert to this alternate plan if needed. The
+pilots observed when the King Air entered runway 04, and later attempted to ensure that runway
+13 would remain clear for their landing by asking whether the airplane on the runway (i.e., the
+King Air) intended to hold or take off.
+
+43
+The Safety Board concludes that given the Beech 1900 flightcrew's frequent radio
+broadcasts of the airplane's position during the approach, and the lack of any prohibition on
+straight-in approaches to uncontrolled airports, the flightcrew's decision to fly a straight-in
+approach to runway 13 was not inappropriate.
+The flightcrew made radio transmissions about 30 miles out, at 1652:07, ("any
+traffic in the area please advise"); 10 miles out, at 1656:56, ("we'll be inbound to enter on a left
+base for runway one three at Quincy any other traffic please advise"); 5 miles out, at 1659:29,
+("just about to turn, about a six mile final for runway ... one three, more like a five mile final for
+runway one three at Quincy;"); and on short final, at 1700: 16, ("aircraft gonna hold in position on
+runway four or you guys gonna take off?") Although these callouts did not exactly match those
+recommended in the All\1 and AC 90-42F, they were appropriate for the straight-in approach
+being flown.40 Even though under 14 CFR Part 91.113, flight 5925, as a landing aircraft, had the
+right of way over aircraft on the surface, the captain took the precaution of asking whether the
+airplane on the runway was going to hold or take off. It would have been prudent for the captain
+to refer specifically to the "King Air," to leave no doubt about which airplane she was
+addressing; however, her transmission was sufficiently specific that she could reasonably expect
+to be understood.
+The Cherokee pilot's transmission, at 1700:28, ("seven six four six Juliet uh,
+holding uh, for departure on runway four .... * on the uh, King Air") immediately followed the
+captain's inquiry, and appeared to be in response to her question. The transmission was
+interrupted by the GPWS alarm in the Beech 1900C. Although it would have been prudent for
+the captain to ask that the transmission be repeated, her reply, at 1700:37, ("OK, we'll get
+through your intersection in just a second sir * we appreciate that") made it clear that she
+believed she was communicating with the airplane that was to take off next on the runway, and it
+would have been reasonable for her to expect a clarification if that was not the case.
+Subtle cues indicated that the transmission did not come from the King Air.
+Specifically, the speaker gave a different "N" number, and the voice and gender of the speaker
+were different than heard in previous transmissions from the King Air. However, because the
+pilots were most likely preoccupied with landing the airplane, and because the speaker said
+"King Air" but did not say "Cherokee" and the pilots had no reason to expect a response from
+any aircraft other than the King Air, they probably did not notice or focus on those cues. Having
+received what they believed was an assurance from the airplane on the runway that it was going
+to hold, the pilots may have become less concerned about continuing to watch the King Air
+during their landing.
+The airplane touched down at 1700:59. The captain was recorded as calling for
+"Max reverse" at 1701:01; expletives from the flightcrew were also recorded beginning at
+40
+Recommended broadcasts in AIM and AC (10 miles out; entering downwind; base; and
+final) assume the inbound plane is flying a pattern approach. Because flight 5925 was flying a straight-in
+approach, it did not enter a downwind leg and, therefore, such a call would have been inappropriate.
+
+44
+1701 :01, indicating that the flightcrew saw the King Air at that time. Skid marks indicate that
+they applied maximum braking beginning 3 seconds later until the time of impact at 1701 :09.
+The Safety Board concludes that the flightcrew of flight 5925 made appropriate
+efforts to coordinate the approach and landing through radio communications and visual
+monitoring; however, they mistook the Cherokee pilot's transmission (that he was holding for
+departure on runway 04) as a response from the King Air to their request for the King Air's
+intentions, and therefore mistakenly believed that the King Air was not planning to take off until
+after flight 5925 had cleared the runway.
+2.3 King Air Pilot and Pilot/Passenger Performance
+There were several indications suggesting that the pilot may have been g1vmg
+instruction to the pilot/passenger on the accident flight. The pilot/passenger's former husband
+indicated that she was building hours towards obtaining her ATP certificate and that she wanted
+eventually to fly for an air carrier. The pilot had instructed her in the past, and this was the first
+time the pilot/passenger had flown a King Air. Observations made by the passengers on the King
+Air's earlier flight to Tulsa and back were consistent with the pilot instructing the
+pilot/passenger.
+After the passengers had departed, the King Air pilot would have had a good
+opportunity to demonstrate the systems of the King Air to the pilot/passenger. The King Air's I -
+minute delay after taxiing onto the runway before power was applied for takeoff is consistent
+with instruction. The presence of scuff marks associated with hard turning farther down the
+runway indicates that the occupants of the King Air may not have seen the Beech l 900C until
+just before the collision,41 suggesting that they may have been preoccupied with instructional
+activities inside the cockpit.
+Although he had been sitting on runway 04 for about 1 minute, the King Air pilot
+began the takeoff without making a takeoff announcement over the CTAF.42 Because of the
+delay between the announcement from the King Air that the King Air was taking the runway and
+the commencement of its takeoff roll, an additional takeoff announcement would have been
+41Witnesses said they heard the King Air throttle back just before the collision.
+42
+A pilot inside the FBO stated that shortly before the accident, he thought he heard a
+male pilot transmitting at the same time as a female pilot, timed so that the female pilot would not have
+known her transmission had been "stepped on." The Safety Board considered whether this could indicate
+that the King Air pilot made a takeoff announcement simultaneously with the Beech 1900C captain's
+request (at 1700: 16) for the intentions of the airplane holding on runway 04, and that the announcement
+was therefore not recorded on the Beech 1900C's CVR. However, this potential scenario was
+contradicted by the recollections of an employee of the FBO who also heard the CT AF transmissions.
+The employee remembered the entire content of the Beech l 900C captain's transmission, which indicates
+it was not overridden by another transmission. Further, the Cherokee pilot stated that all the
+transmissions from both the Beech 1900C and the King Air were in female voices. Therefore, it is likely
+that the pilot was mistaken in his belief that he heard a "stepped on" transmission.
+
+45
+prudent, and would have been consistent with common and expected practice at uncontrolled
+airports. Such an announcement would have afforded the Beech 1900C flightcrew the
+opportunity to take evasive action. Because no pilot would take off knowing that another
+airplane was about to land on an intersecting runway, the occupants of the King Air must have
+been unaware at the time they began their takeoff roll that an airplane was about to land. The
+Safety Board concludes that the failure of the King Air pilot to announce over the CTA F his
+intention to take off created a potential for a collision between the two airplanes.
+Had the occupants of the King Air been monitoring the CTA F, they should have
+heard the four announcements from flight 5925 indicating that the airplane was inbound to
+Quincy and was planning to land on runway 13. Also, they would most likely have answered the
+question that was directed at them, or corrected the misunderstanding resulting from the
+Cherokee pilot's transmission. Therefore, the Safety Board concludes that the occupants of the
+King Air did not hear the transmissions from flight 5925 on the CTA F.
+The Safety Board considered whether their failure to hear the transmissions made
+over the CTAF could have been a result of mechanical radio problems. On the previous flight.
+Tulsa ground control indicated a problem receiving outgoing transmissions from the airplane.
+Although a passenger recalled the pilots exchanging headsets, indicating that one of the headsets
+might have had some trouble receiving incoming transmissions, subsequent communications
+with the Kansas City ARTCC did not indicate that the pilot of the King Air, who was then
+handling the radios, had any trouble receiving incoming transmissions. The Safety Board could
+not determine from the wreckage whether the radio equipment was working properly. However,
+problems with outgoing transmissions would not have affected the occupants' ability to hear
+incoming transmissions over the CTAF. And if there had been previous problems with incoming
+transmissions, they apparently affected only one of the headsets and would not have prevented
+both occupants from hearing incoming transmissions on the CTA F.
+The Safety Board also considered whether the occupants might have
+unintentionally set the radio controls so they could transmit but not receive over the CTAF; or
+that they might have tuned the receiver to a different frequency (such as the first anticipated air
+traffic control frequency), or turned the volume down. However, because of the extensive fire
+damage, the settings on the radios at the time of the accident could not be determined.
+The Safety Board concludes that it is likely that either the King Air occupants did
+not properly configure the radio receiver switches to the CTAF, or that they were preoccupied,
+distracted, or inattentive.
+Witnesses indicated that the approaching Beech 1900C was visible from at least
+10 miles out, 4 minutes before it landed. Although the Safety Board's visibility study indicated
+that the view of the landing airplane from the cockpit of the King Air would have been partially
+or momentarily fully obstructed by the cockpit side posts during much of the Beech l 900C' s
+final approach to landing and during the King Air's takeoff roll, those obstructions could have
+been easily overcome if the King Air's occupants had moved their heads and bodies while
+scanning. ff they had done so at any point during the last 4 minutes of the airplane's approach,
+
+46
+they would have been able to see the incoming airplane and would not have commenced their
+takeoff roll when they did. Therefore, it is clear that neither occupant of the King Air properly
+scanned for traffic.
+It is conceivable that the King Air pilot assumed that the absence of CTAF
+transmissions from incoming aircraft indicated that there was no traffic in the area and therefore
+no need to scan for traffic. However, even if the pilot thought that they were properly tuned to
+the CTAF, it would not have been reasonable or prudent for him to assume that the absence of
+any transmissions would mean that no traffic was in the area because that absence would not
+preclude the presence of non-radio-equipped aircraft in the area.
+The King Air pilot's flying history suggests that he may not have placed sufficient
+importance on the basics of safe flying. His previous gear-up incident during an instructional
+flight suggests carelessness, and his subsequent comments to the FAA indicate that he did not
+consider the incident significant. The fact that he sat on an active runway for an extended time
+and comments from students indicating that he seemed to be rushing them are consistent with a
+careless attitude. Further, during his last year as a TWA pilot, the pilot had been downgraded
+from captain to flight engineer because of poor performance during recurrent training.
+The accident occurred at 1701, a time often associated with fatigue. According to
+the pilot's wife, he slept normally in the days before the accident but awoke earlier than his usual
+time of 0800 on the day of the accident. The detection of lorazepam in the pilot's urine indicates
+that he ingested the medication in the previous days or weeks. However, the absence of the
+medication in his blood indicates that he was not impaired by the medication at the time of the
+accident. Nevertheless, his potentially recent use of the medication suggests that he may have
+had some difficulty sleeping. Based on his early wake-up time, the time of day that the accident
+occurred, and the possibility that he had difficulty sleeping recently, he was most likely not at his
+peak alertness at the time of the accident. However, the Safety Board could not determine the
+extent to which this may have affected his performance.
+The King Air pilot might have been in a hurry to get home after a long day of
+flying potential purchasers of the King Air on a demonstration flight to Tulsa. After the King Air
+pilot returned to Quincy, two of the passengers said that he seemed to be "ii:i a hurry" or "anxious
+to get home."
+A combination of these factors (preoccupation with providing instruction to the
+pilot/passenger, careless habits, possible fatigue, and rushing) could explain why the King Air
+pilot did not properly scan for traffic.
+The pilot/passenger was a ground instructor with Flight Safety International and
+had instructed commuter pilots on proper procedures at uncontrolled airports. She would have
+known the importance of scanning for traffic before taking off. The fact that she did not do so in
+this case suggests that she may have been preoccupied with the instruction, focusing solely on the
+cockpit instruments, and she may have assumed that the pilot had already scanned for traffic
+before taking off.
+
+47
+The Safety Board concludes that the occupants of the King Air were inattentive to
+or distracted from their duty to "see and avoid" other traffic. In light of the circumstances of this
+accident, the Safety Board believes that the FAA should reiterate to flight instructors the
+importance of emphasizing careful scanning techniques during pilot training and biennial flight
+reviews.
+2.4 Cherokee Pilot Performance
+The Cherokee pilot had accumulated only 80 hours of flight time, and his radio
+communications reflected his inexperience. In his first communication, a taxi announcement at
+1655:40, "Quincy traffic, Cherokee seven six four six Juliet back-taxi uh, taxiing to runway four,
+Quincy," he used the term "back-taxi" inappropriately. The term refers to taxiing on a runway
+opposite the traffic flow. Further, at 1700:16, he responded to the transmission from the captain
+of flight 5925, which was clearly not directed at his airplane. He then failed to correct the
+resulting misunderstanding.
+The Cherokee pilot's response to flight 5925's question (directed to the airplane
+"in position on runway four") was unnecessary and inappropriate because he was not the first in
+line for takeoff. If he did not understand the transmission and thought a pilot from the King Air
+was talking to him,43 which they would have had no apparent reason to do, he should have asked
+for clarification before answering. In any event, even if the Cherokee pilot did not know he was
+responding to the Beech 1900C flightcrew's request, he should have realized that his
+transmission could be misinterpreted or could create confusion.
+In addition, the Cherokee pilot's transmission created the potential for confusion
+and misunderstanding because he failed to precede his N number with his airplane model
+("Cherokee"), as recommended in the AIM. He should have been alerted by flight 5925's
+response that such a misunderstanding had occurred. But he then reinforced the
+misunderstanding by not correcting it.
+The Safety Board concludes that the Cherokee pilot's transmission in response to
+flight 5925's request was unnecessary and inappropriate and, combined with the lack of any
+correction to the flightcrew's misunderstanding, misled the flightcrew into believing that it had
+been communicating with the King Air, and that the King Air would continue holding.
+43 After the accident, the Cherokee pilot claimed that he responded to a transmission
+because he thought the King Air pilot was talking to him. However, because the Cherokee pilot's
+recollection was not consistent with the sequence of events as recorded on the Beech 1900's CVR, it was
+not clear whether this explanation related to his transmission following flight 5925's question, or his
+earlier broadcast at 1655:40 ("Quincy traffic, Cherokee seven six four six Juliet back-taxi uh, taxiing to
+runway four, Quincy"), which followed the King Air's broadcast that he was taxiing to runway four.
+
+48
+Both the Cherokee pilot and the passenger saw the two airplanes converging. The
+Cherokee pilot had the opportunity to alert the pilots in the Beech 1900C to the situation, and it
+would have been prudent for him to do so. It should have been apparent from the Beech 1900C' s
+approach path, which would have been about a 90-degree angle to runway 04, that the runways
+intersected. Nonetheless, the Cherokee pilot stated that he did not realize the runways
+intersected. The Cherokee passenger said that he thought the airplanes would miss each other.
+The Safety Board concludes that because of the Cherokee pilot's inexperience, he probably did
+not realize that a collision between the two airplanes was imminent, and therefore he did not
+broadcast a warning.
+2.5 Survival Aspects
+The autopsy reports revealed that the occupants of both airplanes died of carbon
+monoxide intoxication from the inhalation of smoke and soot from the postimpact fire or
+inhalation of products of combustion. They did not sustain blunt force trauma injuries that would
+have impeded their mobility or ability to evacuate.
+The bodies of the King Air's occupants were found behind the seats in the
+cockpit, indicating that they were overcome by the effects of the fire before reaching an exit.
+Witnesses who ran to the scene immediately after the collision stated that they
+heard sounds of life from within the cabin of the Beech 1900C and that the captain talked to them
+from the cockpit.
+Because Great Lakes Aviation was unable to provide the Safety Board with a
+record of passenger seat assignments, the Safety Board was unable to determine the distance or
+direction that the passengers on the Beech 1900C moved from their seats toward an exit. The
+Safety Board could not determine the time that was available for the occupants of that airplane to
+have escaped in the presence of the smoke and soot of the fire.
+The body of flight 5925' s first officer was found between the air stair door and the
+forward right overwing exit. The exterior air stair door handle was in the unlocked position
+when the first people reached the accident scene, suggesting that the first officer followed
+company evacuation procedures and initially tried to open the air stair door but was unable to do
+so. Because the right overwing exits were near the fire on the right side of the cabin, he most
+likely proceeded toward the left overwing exit but was overcome by the effects of the smoke and
+fire before he could reach it. The rescuers did not observe any smoke coming from the left
+overwing exit, indicating that it was not opened.
+The Safety Board concludes that the impact forces were at a survivable level for
+the occupants of both airplanes. The Safety Board further concludes that the speed with which
+the frre enveloped the King Air and the intensity of the fire precluded survivability for the
+occupants of the King Air; however, the occupants of the Beech 1900C did not escape because
+the air stair door could not be opened and the left overwing exit hatch was not opened.
+
+49
+2.5.1 Air Stair Door
+The FBO pilot found the exterior air stair door handle in the 6 o'clock (unlocked)
+position. He stated that he tried to pull on the door and move the handle in all directions in an
+attempt to open the door. Although he recollected that he was unable to rotate the handle any
+farther than the 5 o'clock position, he probably rotated the handle to the 3 o'clock (locked)
+position, where the United Express pilot subsequently found it. Because he did not under tand
+how the door handle worked, and he had initially been unable to open the door with the handle in
+the 6 o'clock (unlocked) position, it is understandable why the FBO pilot would have attempted
+to open the door by rotating the handle to a different position. The United Express pilot pushed
+the button and rotated the handle back to the unlocked position but was also unable to open the
+door. The FBO pilot then made another unsucessful attempt to open the door and probably
+rotated the handle back to the locked position.
+All six of the air stair's cam locks were recovered from the wreckage and were
+determined to be in locked positions. The exterior door handle lock plate was also found in the
+locked position.
+If the impact caused deformation of the door and/or the fuselage that prevented
+one or more of the cam locks from moving, it would not have been possible for the exterior door
+control handle to be moved from the closed position to the open position as easily as it was
+described to have been done by the United Express pilot who tried to open the air stair door from
+the outside.
+However, if the impact caused deformation of the door/frame system that
+introduced slack into the cable system, the exterior handle could have been moved from the
+closed to the open position, but the cable would not necessarily simultaneously rotate all the cam
+locks to the completely open position. This would explain why the FBO pilot found the door
+handle in the unlocked position when he first arrived but could not open the door. According to
+Raytheon, the introduction of as little as ¼ inch of slack in the cable could prevent the cams from
+fully rotating.
+The Safety Board concludes that the most likely reason that the air stair door
+could not be opened is that the accident caused deformation of the door/frame system and created
+slack in the door control cable. The Safety Board is concerned that the design and testing of the
+door did not account for minimal permanent deformation that could introduce slack into the door
+control system and ultimately disable the door. Therefore, the Safety Board believes that the
+FAA should evaluate the propensity of the Beech 1900C door/frame system to jam when it
+sustains minimal permanent door deformation and, based on the results of that evaluation,
+require appropriate design changes.
+The Safety Board is further concerned that even though the impact forces from the
+accident were so mild that both airplanes came to rest on their landing gear and the occupant of
+the Beech 1900C sustained little or no injuries as a result, those same forces were apparently
+sufficient to cause the Beech 1900C's air stair door to jam, preventing the occupants from using
+
+50
+it to escape. Because the airplane was certificated by the FAA as having met the freedom from
+jamming requirements, the Safety Board attempted to analyze the adequacy of those
+requirements.
+Although the requirement that doors be reasonably free from jamming as a result
+of fuselage deformation is stated in at least three applicable regulations relevant to certification
+under 14 CFR Part 23,44 two of which existed at the time the Beech 1900C was certificated, there
+is apparently no clear guidance indicating how a manufacturer should demonstrate compliance
+with these requirements. Specifically, there appears to be no clear written guidance from the
+FAA specifying the degree of fuselage deformation contemplated by those regulations, or
+explaining what is meant by "reasonably free" from jamming. Although Beech requested and
+received FAA approval of the specific tests it used to show compliance and conducted additional
+"unofficial" tests to demonstrate freedom from jamming in a particular accident configuration
+over which the FAA had expressed concern (both main gears collapsed), there is apparently no
+specific written FAA standard against which a manufacturer's compliance is to be measured.
+The Safety Board concludes that the methods for showing compliance with the
+FAA's certification requirement that external doors be reasonably free from jamming as a result
+of fuselage deformation are not clearly defined. Therefore, the Safety Board believes that the
+FAA should establish clear and specific methods for showing compliance with the freedom from
+jamming certification requirements.
+Further, because the air stair door on the accident airplane jammed as a result of
+an impact that caused little or no injury to the occupants of the airplane, the Safety Board
+concludes that the FAA's freedom from jamming certification process may be inadequate.
+Therefore, the Safety Board believes that the FAA should consider the circumstances of this
+accident when developing methods for showing compliance with freedom from jamming
+requirements, and determine whether it is feasible to require that doors be shown to be free from
+jamming after an impact of similar severity.
+In addition, in light of Great Lakes Aviation's maintenance practices for the air
+stair door, the Safety Board considered the possibility that a mechanic improperly routed the
+door's cable, a situation that might not have been evident immediately after installation, which
+could have led to a binding or loosening of the cable over long periods of use. Such a condition
+might have prevented the door from operating properly after the collision. However, the Safety
+Board was unable to find any evidence that the cable was misrouted.
+The Safety Board concludes that formal training for maintenance personnel in
+specific tasks they are assigned to accomplish is critical for the proper, sustained operation of
+aircraft. Therefore, the Safety Board believes that the FAA should review and improve, as
+necessary, guidance for principal maintenance inspectors to use in ensuring that maintenance
+personnel are properly trained in accomplishing the maintenance tasks that they are assigned.
+44Sirnilar requirements also appear several times in Part 25.
+
+51
+2.5.2 Emergency Response
+The Quincy Fire Department was 10 miles away, and it took about 14 minutes for
+its fire fighting units to arrive. In contrast, 14 CFR Part 139 requires that a certificated airport be
+capable of an immediate response time of 3 minutes by an on-site ARFF truck equipped with
+extrication tools and carrying extinguishing agent and properly trained firefighters. However,
+this requirement applies only when the airport is serving air carrier aircraft with a seating
+capacity of more than 30 passengers.
+Witnesses observed that the fire was burning on the right side of the Beech
+1900C, about 1,800 feet from the airport's ARFF truck. If properly staffed, that truck should
+have been able to reach the accident site in no more than 1 minute. Fire fighters might then have
+been able to extinguish or control the fire, thereby extending the survival time for at least some
+of the occupants of the Beech 1900C. Those occupants might then have had time to escape
+through the overwing exit hatch. Accordingly, the Safety Board concludes that if on-airport
+ARFF protection had been required for this operation at Quincy Airport, lives might have been
+saved.
+Therefore, the Safety Board reiterates Safety Recommendation A-94-204, which
+urges the FAA to do the following:
+Permit scheduled passenger operation only at airports certificated under
+the standards contained in Part 139, "Certification and Operations: Land
+Airports Serving Certain Air Carriers."
+The Safety Board concludes that although some communities may lack adequate
+funds to provide ARFF protection for small airports served by commuter airlines, commuter
+airline passengers deserve the same degree of protection from postcrash fires as air carrier
+passengers on aircraft with more than 30 passenger seats. Accordingly, the Safety Board believes
+that the FAA should develop ways to fund airports that are served by scheduled passenger
+operations on aircraft having 10 or more passenger seats, and require these airports to ensure that
+ARFF units with trained personnel are available during commuter flight operations and are
+capable of timely response.
+Further, in an effort to inform commuter airline passengers about airports that do
+not have ARFF capabilities, the Safety Board believes that the FAA should add to the Safety
+Information Section of the FAA's Internet Home Page a list of airports that have scheduled air
+service but do not have aircraft rescue and fire fighting capabilities.
+
+52

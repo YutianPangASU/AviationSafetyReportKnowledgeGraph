@@ -1,0 +1,1077 @@
+Runway Overrun
+American Airlines Flight 2253
+Boeing 757-200, N668AA
+Jackson Hole, Wyoming
+December 29, 2010
+Incident Report
+NTSB/AAR-12/01
+PB2012-910401
+National
+Transportation
+Safety Board
+
+NTSB/AAR-12/01
+PB2012-910401
+Notation 8416
+Adopted June 18, 2012
+Aircraft Incident Report
+Runway Overrun
+American Airlines Flight 2253
+Boeing 757-200, N668AA
+Jackson Hole, Wyoming
+December 29, 2010
+National
+Transportation
+Safety Board
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+
+National Transportation Safety Board. 2012. Runway Overrun, American Airlines Flight 2253,
+Boeing 757-200, N668AA, Jackson Hole, Wyoming, December 29, 2010. Aircraft Incident Report
+NTSB/AAR-12/01. Washington, DC.
+Abstract: This report discusses the December 29, 2010, incident involving American Airlines
+flight 2253, a Boeing 757-200, N668AA, which ran off the departure end of runway 19 and came
+to a stop in deep snow after landing at Jackson Hole Airport, Jackson Hole, Wyoming. The
+occupants were not injured, and the airplane sustained minor damage.
+Safety issues identified in this incident include the following: inadequate pilot training for
+recognition of a situation in which the speedbrakes do not automatically deploy as expected after
+landing, lack of an alert to warn pilots when speedbrakes have not automatically deployed during
+the landing roll, lack of guidance for pilots of certain Boeing airplanes to follow when an
+unintended thrust reverser lockout occurs, lack of pilot training for multiple emergency and
+abnormal situations, and lack of pilot training emphasizing monitoring skills and workload
+management. As a result of this investigation, three new safety recommendations are issued and
+three existing safety recommendations are reiterated to the Federal Aviation Administration.
+The National Transportation Safety Board is an independent Federal agency dedicated to promoting aviation,
+railroad, highway, marine, pipeline, and hazardous materials safety. Established in 1967, the agency is mandated by
+Congress through the Independent Safety Board Act of 1974 to investigate transportation accidents, determine the
+probable causes of the accidents, issue safety recommendations, study transportation safety issues, and evaluate the
+safety effectiveness of government agencies involved in transportation. The Safety Board makes public its actions
+and decisions through accident reports, safety studies, special investigation reports, safety recommendations, and
+statistical reviews.
+Recent publications are available in their entirety on the Internet at <http://www.ntsb.gov>. Other information about
+available publications also may be obtained from the website or by contacting:
+National Transportation Safety Board
+Records Management Division, CIO-40
+490 L’Enfant Plaza, SW
+Washington, DC 20594
+(800) 877-6799 or (202) 314-6551
+Safety Board publications may be purchased, by individual copy or by subscription, from the National Technical
+Information Service. To purchase this publication, order report number PB2012-910401 from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(800) 553-6847 or (703) 605-6000
+The Independent Safety Board Act, as codified at 49 U.S.C. Section 1154(b), precludes the admission into evidence
+or use of Board reports related to an incident or accident in a civil action for damages resulting from a matter
+mentioned in the report.
+
+NTSB Aircraft Incident Report
+Contents
+Figures ............................................................................................................................................ ii
+Abbreviations and Acronyms ..................................................................................................... iii
+Executive Summary ..................................................................................................................... iv
+1. The Incident ................................................................................................................................1
+2. Investigation and Analysis ........................................................................................................5
+2.1 Pilot Performance/Operational Issues ........................................................................................5
+2.1.1 Pilot Actions in Preparation for Landing at Jackson Hole Airport ..................................5
+2.1.2 Pilot Actions During the Landing at Jackson Hole Airport .............................................6
+2.2 Airplane Systems .......................................................................................................................9
+2.2.1 Air/Ground Sensing System ............................................................................................9
+2.2.2 Thrust Reversers ..............................................................................................................9
+2.2.3 Automatic Speedbrake System ......................................................................................11
+2.2.4 Airplane System Summary ............................................................................................14
+2.3 Flight Data Recorder Maintenance and Documentation ..........................................................14
+3. Safety Issues ..............................................................................................................................16
+3.1 Pilot Performance/Operational Issues ......................................................................................16
+3.1.1 Deployment of the Thrust Reversers and Speedbrakes .................................................16
+3.1.2 Pilot Responsibilities After Landing .............................................................................21
+4. Conclusions ...............................................................................................................................24
+4.1 Findings....................................................................................................................................24
+4.2 Probable Cause.........................................................................................................................25
+5. Recommendations ....................................................................................................................26
+5.1 New Recommendations ...........................................................................................................26
+5.2 Previous Recommendations Reiterated in this Report .............................................................26
+Board Member Statements .........................................................................................................28
+6. Appendix: Cockpit Voice Recorder Transcript ....................................................................32
+i
+
+NTSB Aircraft Incident Report
+Figures
+Figure 1. A photograph of the incident airplane, viewed from behind, where it came to a stop in
+the snow off the departure end of runway 19 at JAC. .................................................................... 3
+Figure 2. A photograph of the front of the incident airplane where it came to a stop in the snow
+off the departure end of runway 19 at JAC. .................................................................................... 4
+Figure 3. A photograph of the center console in the incident airplane‘s cockpit, with the reverse
+thrust lever and speedbrake levers marked. .................................................................................... 7
+Figure 4. Two diagrams showing the cockpit center console, the speedbrake lever and its
+linkages, and components of the automatic speedbrake system. The no-back clutch mechanism
+has been highlighted in the side view diagram on the left. A photograph of the speedbrake
+actuator and no-back clutch mechanisms has been superimposed on the front view to show those
+components‘ relative positions within the center console. ........................................................... 13
+ii
+
+NTSB Aircraft Incident Report
+Abbreviations and Acronyms
+AC advisory circular
+CFR Code of Federal Regulations
+CVR cockpit voice recorder
+EICAS engine indication and crew alerting system
+FAA Federal Aviation Administration
+FDR flight data recorder
+JAC Jackson Hole Airport
+MLG main landing gear
+MU unit used to designate a friction value representing runway surface conditions
+NPRM notice of proposed rulemaking
+NTSB National Transportation Safety Board
+ORD Chicago O‘Hare International Airport
+SAFO Safety Alert for Operators
+SNPRM supplemental notice of proposed rulemaking
+SOP standard operating procedure
+iii
+
+NTSB Aircraft Incident Report
+Executive Summary
+This report discusses the December 29, 2010, incident involving American Airlines
+flight 2253, a Boeing 757-200, N668AA, which ran off the departure end of runway 19 and came
+to a stop in deep snow after landing at Jackson Hole Airport (JAC), Jackson Hole,
+Wyoming. The occupants were not injured, and the airplane sustained minor damage.
+The National Transportation Safety Board determines that the probable cause of this
+incident was a manufacturing defect in a clutch mechanism that prevented the speedbrakes from
+automatically deploying after touchdown and the captain‘s failure to monitor and extend the
+speedbrakes manually. Also causal was the failure of the thrust reversers to deploy when initially
+commanded. Contributing to the incident was the captain‘s failure to confirm speedbrake
+extension before announcing their deployment and his distraction caused by the thrust reversers‘
+failure to initially deploy after landing.
+This report addresses increased pilot awareness of and focus on speedbrake and thrust
+reverser deployment during landing. The incident pilots were familiar with winter operations at
+JAC and thoroughly assessed the pertinent weather, airport, and airplane performance
+information while en route to JAC. The pilots determined that they could land safely at JAC
+using normal deceleration procedures (thrust reversers, speedbrakes, and wheel brakes).
+However, the precise timing of the unloading of the main landing gear just after touchdown that
+coincided with the deployment of the thrust reversers resulted in a rare mechanical/hydraulic
+interaction in the thrust reverser system, and the thrust reversers were locked in transit instead of
+continuing to deploy. Further, an unrelated defect in the automatic speedbrake mechanism
+prevented the speedbrakes from automatically deploying. Although the pilots could have
+manually deployed the speedbrakes at any time during the landing roll, neither pilot recognized
+that the speedbrakes had not automatically deployed (as selected) because they were both
+distracted by, confused by, and trying to resolve the thrust reverser nondeployment.
+Safety issues identified in this incident include the following:
+Inadequate pilot training for recognition of a situation in which the speedbrakes
+do not automatically deploy as expected after landing. As stated above, the
+incident pilots did not recognize that the speedbrakes had not automatically deployed
+after touchdown. This report cites three other events in which the pilots were
+distracted and did not ensure deployment of the speedbrakes. Prompt speedbrake
+deployment after touchdown and monitoring of the speedbrake system during the
+landing roll is especially critical for increased braking effectiveness when landing on
+short and/or contaminated runways.
+Lack of an alert to warn pilots when speedbrakes have not automatically
+deployed during the landing roll. Although American Airlines had a company
+requirement for a callout confirming automatic speedbrake deployment after
+touchdown, the pilots still became distracted from ensuring that the speedbrakes
+deployed properly. A clearly distinguishable and intelligible alarm would help bring
+iv
+
+NTSB Aircraft Incident Report
+the monitoring pilot‘s attention back to the speedbrakes and enable him to manually
+deploy them in case they do not automatically deploy.
+Lack of guidance for pilots of certain Boeing airplanes to follow when an
+unintended thrust reverser lockout occurs. Because of the lockout condition that
+was created in the thrust reverser system during the incident landing, the flight crew
+needed to stow the reverse thrust lever to unlock the system before attempting to
+redeploy the thrust reversers. However, postincident interviews with American
+Airlines pilots indicated that company pilots were not aware of this technique, and
+moving the reverse thrust levers to the stow position during the landing roll would not
+be an intuitive action.
+Lack of pilot training for multiple emergency and abnormal situations. About the
+time that the speedbrakes did not deploy, the thrust reverser system also did not
+deploy. In this incident, the pilots encountered an abnormal situation when both the
+speedbrake and thrust reverser systems did not deploy as expected. Although the
+pilots were not aware of the specific solution to the thrust reverser abnormality, the
+pilots were aware that they could manually deploy the speedbrakes at any time.
+However, because of the pilots‘ focus on and efforts to resolve the thrust reverser
+anomaly, neither pilot noticed the abnormal speedbrake situation until the airplane
+had come to a stop off the end of the runway. If the incident pilots had received
+training on the handling of multiple emergency or abnormal situations, they might not
+have focused exclusively on the thrust reverser nondeployment and may have
+recognized the speedbrake nondeployment earlier.
+Lack of pilot training emphasizing monitoring skills and workload management.
+After the first officer attempted to deploy the thrust reversers, the captain took
+command of the reverse thrust levers. By doing this, the captain deviated from normal
+company procedures regarding the pilot flying/pilot monitoring responsibilities
+during the landing roll. If the captain had adhered to his monitoring responsibilities
+during the landing roll, it is more likely that he would have recognized that the
+speedbrakes had not automatically deployed and corrected the situation by manually
+deploying them.
+As a result of this investigation, three new safety recommendations are issued and three
+existing safety recommendations are reiterated to the Federal Aviation Administration.
+v
+
+NTSB Aircraft Incident Report
+1. The Incident
+On December 29, 2010, about 1138 mountain standard time,1 American Airlines
+flight 2253, a Boeing 757-200, N668AA, ran off the departure end of runway 19 after landing at
+Jackson Hole Airport (JAC),2 Jackson Hole, Wyoming. The airplane came to rest about 730 feet
+past the departure end of the runway in deep snow. The 179 passengers, 2 pilots, and 4 flight
+attendants on board were not injured, and the airplane sustained minor damage. The airplane was
+registered to and operated by American Airlines as a scheduled domestic flight under the
+provisions of 14 Code of Federal Regulations (CFR) Part 121. Instrument meteorological
+conditions in light snow prevailed at JAC at the time of the landing, and the flight operated on an
+instrument flight rules flight plan. The flight originated from Chicago O‘Hare International
+Airport (ORD), Chicago, Illinois, about 0941 central standard time.
+Pilot statements and cockpit voice recorder (CVR) data3 indicated that the first officer
+was the pilot flying and the captain was the pilot monitoring during the flight from ORD to JAC.
+During postincident interviews, both pilots stated that they were familiar with the challenging
+landing conditions that could exist at JAC in the winter (for example, slippery runway conditions
+and relatively high landing weights,4 which were common during the ski season). As a result,
+they said they were especially vigilant and began preparing for the approach and landing at JAC
+early during what they described as an uneventful flight from ORD to JAC.
+According to American Airlines‘ 757/767 Performance Manual, pilots should confirm
+landing performance limits just before landing, using the actual runway conditions at the time. If
+the runway braking action is determined to be less than good,5 pilots are required to use the
+company-provided landing charts to confirm that the runway length is adequate for the landing.6
+American Airlines‘ 757/767 Performance Manual further states that pilots ―must use the most
+adverse reliable and appropriate braking action report or the most adverse expected conditions
+for the runway, or portion of the runway, that will be used for landing when assessing the
+required landing distance.‖
+1 All times in this report are mountain standard time, unless otherwise noted, based on a 24-hour clock.
+2 The airport is located at an elevation of 6,491 feet. Runway 01/19, the only runway surface at JAC, is
+6,300 feet long and 150 feet wide, with runway safety areas at both ends that comply with Federal Aviation
+Administration (FAA) standards. The runway is paved with porous friction course asphalt and has a -0.6 percent
+downward slope from north to south, with a drop in elevation of 38 feet.
+3 A partial transcript of the CVR recording is appended.
+4 According to American Airlines‘ 757/767 Operating Manual, the incident airplane‘s maximum landing weight
+was 198,000 pounds. The airplane‘s actual landing weight for the incident landing was 194,055 pounds.
+5 According to American Airlines‘ 757/767 Performance Manual, if the landing conditions upon arrival indicate
+dry or wet/good braking action conditions, no further assessment is required because the company‘s dispatch
+requirements ―are sufficient to assure adequate performance at the time of landing.‖
+6 American Airlines requires its pilots to ensure that they will not exceed the runway available, interpolating
+when using the landing distance charts if needed; however, exact calculations are not required.
+1
+
+NTSB Aircraft Incident Report
+The captain gathered the most current information about the JAC weather7 and runway
+conditions, including wind, MU8 runway friction values, and pilot braking action reports.
+Although the pilot of a corporate jet that landed on runway 19 about 1 hour before the incident
+airplane reported ―poor‖ braking action on the last one-third of the runway, he also reported
+―good‖ braking action on the first two-thirds of the runway.9 The most current MU friction
+values for the runway were obtained about 18 minutes before the incident airplane‘s landing and
+indicated values of 0.43, 0.43, and 0.39 for the first, second, and third sections of the runway,
+respectively. The incident pilots also reviewed information about potential delays and/or
+alternate airports for various circumstances. In addition, the pilots specifically discussed the
+airplane‘s performance at high density altitude airports.
+After reviewing this information and American Airlines‘ 757 landing charts for JAC, the
+pilots determined that they were legal and safe to land on runway 19 based on the airplane‘s
+landing weight, the existing wind, the weather, and the ―good‖ braking action that was reported
+on the first two-thirds of the runway, and they continued preparations to land at JAC. A review
+of the CVR data revealed that the pilots discussed landing within the first 1,000 feet of the
+runway and then making efforts to slow the airplane using automatic wheel brakes10 and thrust
+reversers11 as promptly as possible to maximize braking effectiveness while on the ―good‖
+braking action portion of the runway. To this end, during their preparations for landing, the pilots
+armed the speedbrakes12 for automatic deployment after touchdown and selected the automatic
+wheel brakes ―MAX AUTO‖ setting.
+The pilots‘ statements, CVR data, and National Transportation Safety Board (NTSB)
+airplane performance study indicated that the approach to the runway was normal and that the
+airplane‘s touchdown was ―firm‖ and about 600 feet beyond the approach threshold. The first
+officer (the pilot flying) reported that he tried to deploy the thrust reversers promptly after
+7 The most recent JAC automatic terminal information service weather observation received by the captain
+indicated, in part, the following conditions: a broken layer of clouds at 400 feet above the ground and an overcast
+layer of clouds at 1,000 feet above ground level; wind out of 190° at 6 knots; and 3/4-mile visibility in light snow.
+8 The FAA Aeronautical Information Manual defines MU as a unit ―used to designate a friction value
+representing runway surface conditions.‖ MU friction values range from 0.0 to 1.0, with 0.0 as the lowest friction
+value and 1.0 as the theoretical best friction value available. Friction testing devices provide MU values for the first,
+second, and third sections of the runway length.
+9 The CVR recorded the incident pilots discussing this pilot report and the captain describing the corporate jet as
+a ―Challenger thirty, so little light guy...it‘s a light airplane.‖
+10 The airplane‘s wheel brake system is intended to slow and/or stop the airplane after landing and during taxi
+operations. It consists of brakes installed on each of the main landing gear wheels that are hydraulically-actuated
+manually (by the pilots‘ application of pressure to the brake/rudder pedals) or automatically when autobrakes are
+selected before touchdown.
+11 The airplane‘s thrust reversers help the airplane decelerate after landing by diverting the flow of the engine
+thrust and are generally more effective at higher ground speeds. The airplane‘s thrust reverser system is further
+discussed in section 2.2.2 of this report.
+12 The airplane‘s speedbrakes are used to help the airplane decelerate after landing by disrupting the airflow
+over the wings, maximizing the airplane‘s weight on its landing gear and increasing the wheel brakes‘ effectiveness.
+The speedbrakes are generally more effective at higher ground speeds. The NTSB notes that although the terms
+―speedbrakes‖ and ―spoilers‖ are commonly used interchangeably by manufacturers, operators, and pilots, this
+report uses the term ―speedbrakes‖ because Boeing and American Airlines predominantly use that term when
+referring to 757 landing procedures. The airplane‘s speedbrake system is further discussed in section 2.2.3 of this
+report.
+2
+
+NTSB Aircraft Incident Report
+touchdown, but they did not initially deploy. After the first officer made several attempts to
+deploy the thrust reversers, the captain took over the thrust reverser controls and eventually
+succeeded in deploying the thrust reversers with about 2,100 feet of runway remaining.13
+Subsequently, the airplane continued off the departure end of the runway, coming to a stop in
+deep snow off the end of the paved surface. Both pilots stated that they were unaware until after
+the airplane came to a stop that the speedbrakes, which they had armed for automatic
+deployment, had not automatically deployed after touchdown as they expected. (The NTSB notes
+that the pilots could have manually extended the speedbrakes at any time during the landing roll
+had they recognized the nondeployment.)
+When the airplane was stopped in the snow, the captain told the flight attendants not to
+evacuate immediately; he checked on the condition of the passengers and the airplane and
+determined that it was safer to remain in the airplane until help arrived. In the meantime, the first
+officer advised JAC air traffic control and American Airlines operations personnel that they had
+run off the end of the runway and would need assistance. All occupants remained on board the
+airplane until JAC ground personnel reached the airplane to assist in the occupants‘ egress.
+Postincident examination of the airplane revealed minor damage to the airplane. Figures 1 and 2
+show the incident airplane where it came to a stop in the snow off the departure end of
+runway 19 at JAC.
+Figure 1. A photograph of the incident airplane, viewed from behind, where it came to a stop in
+the snow off the departure end of runway 19 at JAC.
+13 Flight data recorder data indicated that the thrust reversers deployed about 18 seconds after the airplane‘s
+initial touchdown and reached full reverse power about 10 seconds later.
+3
+
+NTSB Aircraft Incident Report
+Figure 2. A photograph of the front of the incident airplane where it came to a stop in the snow
+off the departure end of runway 19 at JAC.
+4
+
+NTSB Aircraft Incident Report
+2. Investigation and Analysis
+2.1 Pilot Performance/Operational Issues
+Postincident interviews and American Airlines‘ records indicated that the incident pilots
+were certificated in accordance with federal regulations and were current and qualified in the
+incident airplane in accordance with American Airlines‘ training requirements. Records also
+showed that the captain had 19,645 hours of total flight time, including 10,779 hours in the 757,
+and the first officer had about 11,800 hours of total flight time, including 3,582 hours in the 757.
+Additionally, company records showed that both pilots had completed American Airlines‘ JAC
+special airport training14 and had recent (and, in the captain‘s case, extensive) experience flying
+into JAC.15
+Company records showed that both pilots had 3 days off before starting duty the day
+before the incident. During postincident interviews, both pilots described normal activities and
+sleep patterns: the captain indicated that he received his normal 7 1/2 to 8 hours of sleep per
+night and needed no special rest breaks, and the first officer described a schedule that included
+about 8 1/2 to 9 1/2 hours of sleep per night and stated that he was well rested for the incident
+flight. Neither pilot reported any recent changes in their health, financial, or personal
+circumstances. The NTSB‘s review of company records, postincident pilot interviews, and
+work/sleep/wake and medical histories revealed no evidence of fatigue or any medical or
+behavioral conditions that might have adversely affected the pilots‘ performance during the
+incident flight.
+2.1.1 Pilot Actions in Preparation for Landing at Jackson Hole Airport
+A National Weather Service winter weather advisory indicating heavy snowfall, gusty
+wind, and possible blowing snow conditions was in effect for the JAC area the morning of the
+incident. However, the JAC automated weather observing system reports logged immediately
+before and after the incident landing indicated relatively benign conditions, with wind out of the
+southwest at 8 to 10 knots. In addition, other ground observations at JAC around the time of the
+incident indicated only light snow. The captain obtained numerous updates on JAC weather and
+runway conditions throughout the flight, including a braking action report from the pilot of the
+corporate jet that landed on runway 19 at JAC ahead of them. The corporate jet pilot reported
+―good‖ braking action on the first two-thirds of the runway, with ―poor‖ braking action on the
+14 American Airlines requires special airport training for its pilots who are operating into airports with
+challenging landing conditions. The company‘s JAC-related special airport training required pilots to (1) review the
+approved photo and Ops Advisory pages in the company flight manual and (2) review the software-based airport
+familiarization program for JAC. The familiarization program for JAC involved a 5-minute computer animation
+with narration that showed an instrument approach to a visual landing on runway 19 and instructed pilots to land in
+the first 1,000 feet of the runway. The video also cautioned that the last 1,500 feet of runway 19 might be ―slick‖
+due to frozen snow melt.
+15 The captain estimated that he had flown into JAC 300 to 400 times in his career, and the first officer stated
+that he had flown into JAC frequently, including 4 times with the captain during the month of the incident.
+5
+
+NTSB Aircraft Incident Report
+last one-third of the runway. This runway condition assessment was supported by the most recent
+reported MU values, which translated to ―wet/good‖ on the first two-thirds of the runway.16
+The pilots‘ before-landing calculations accounted for the weather and reported runway
+conditions as well as the airplane‘s loading and performance capabilities17 and indicated that,
+based on the reported ―wet/good‖ runway braking action, the airplane could land and be stopped
+safely on the runway using normal techniques (including a combination of speedbrakes, wheel
+brakes, and thrust reversers, as needed, after touchdown). In preparation for this landing, the
+pilots had moved the speedbrake lever to the ―armed‖ position. Consistent with American
+Airlines‘ before-landing guidance for such a landing, they selected the ―MAX AUTO‖
+deceleration option for the main landing gear (MLG) autobrake system.
+The NTSB concludes that the pilots had the pertinent weather, airport, and airplane
+performance information necessary to determine whether a safe landing could be made at JAC,
+and they had taken all appropriate before-landing actions; based on that information, the pilots
+appropriately decided that a landing at JAC was in accordance with company and performance
+guidelines.
+2.1.2 Pilot Actions During the Landing at Jackson Hole Airport
+According to the NTSB‘s airplane performance study, the airplane approached runway 19
+at JAC at a standard glidepath of about 3° and touched down about 600 feet beyond the runway‘s
+approach threshold. After the airplane touched down, the pilots had about 5,700 feet of runway
+surface remaining on which to stop the airplane. According to the pilots‘ prelanding calculations
+and the NTSB‘s postincident airplane performance study, this available runway surface should
+have been sufficient for the airplane to come to a complete stop.
+Flight data recorder (FDR) data indicated that the signal from the air/ground sensing
+system transitioned from ―air‖ mode to ―ground‖ mode at 1137:43.5.18 FDR data also showed
+that, about 1 second later, the airplane‘s air/ground signal temporarily transitioned back to ―air‖
+mode before transitioning back to ―ground‖ mode for the remainder of the landing roll.19 This
+brief cycling of the air/ground signal during a landing is not uncommon; however, in this case, it
+coincided with the first officer‘s attempt to deploy the thrust reversers immediately after
+touchdown. The first officer‘s rapid deployment of the thrust reversers was understandable and
+consistent with his awareness of the runway conditions at JAC and his intention to stop the
+airplane in the first two-thirds of the runway. However, because of the precise timing of these
+events, a rare mechanical/hydraulic interaction occurred in the thrust reverser system, and the
+16 About 1051, the pilots sent a message to the dispatcher saying that they would stop in the first two-thirds of
+the runway, indicating that they were aware that the last one-third of the runway was more slippery than the first
+two-thirds of the runway.
+17 Among other documents, the pilots reviewed American Airlines‘ 757/767 Performance Manual (including the
+braking action chart) and the company‘s 757 Special Landing Analysis chart for JAC.
+18 For the purpose of this report, this time will be considered the time of initial touchdown at JAC. The NTSB
+normally confirms the time of touchdown by examining the normal acceleration parameter; however, this parameter
+was not operating properly during the incident landing.
+19 This cycling of the air/ground sensing system is discussed further in section 2.2.1 of this report.
+6
+
+NTSB Aircraft Incident Report
+thrust reversers were locked in transit instead of continuing to deploy. Although the pilots
+reported multiple movements of the reverse thrust levers after the air/ground sensing system
+returned to ―ground‖ mode, the thrust reversers did not begin to redeploy until about 18 seconds
+after touchdown.20
+American Airlines‘ procedures indicate that the pilot monitoring is to monitor the
+speedbrake lever and the thrust reverser and autobrake systems during the landing roll.
+Specifically with regard to the speedbrake lever, the procedures indicate that the pilot monitoring
+should observe and call out the position of the speedbrake lever after landing and that, if the
+speedbrakes do not automatically deploy, the captain should manually deploy the speedbrakes
+(regardless of which pilot had monitoring responsibilities). American Airlines‘ 757/767
+Operating Manual states, ―Pilot awareness of the speedbrake lever during the landing phase is
+important in the prevention of overrun.‖ Further, American Airlines‘ 757/767 Operating Manual
+also states, ―Without speedbrakes deployed after touchdown, braking effectiveness may be
+reduced initially by as much as 60 [percent].‖ Figure 3 shows the throttle console in the incident
+airplane‘s cockpit, with the reverse thrust lever and speedbrake levers marked.
+Figure 3. A photograph of the center console in the incident airplane’s cockpit, with the reverse
+thrust lever and speedbrake levers marked.
+The incident airplane‘s CVR transcript showed that, about 2.8 seconds after the airplane‘s
+initial touchdown, the captain stated, ―deployed,‖ likely referring to deployment of the
+speedbrakes, and then, about 1.2 seconds later, ―two in reverse,‖ likely referring to thrust
+reversers.21 According to the CVR, at 1137:48.0 (about 0.5 seconds after the captain called out
+―two in reverse‖), the first officer stated, ―no reverse‖ in a strained voice. About 0.8 second later,
+20 The thrust reversers‘ operation is discussed further in section 2.2.2 of this report.
+21 The captain‘s callouts were erroneous, as neither system had deployed.
+7
+
+NTSB Aircraft Incident Report
+the CVR recorded the captain stating, ―I got it‖; then, about 0.6 second later, the captain stated,
+―get the...reverse.‖ At 1137:51.1, the CVR simultaneously recorded the captain stating, ―I got it
+you steer‖ and the first officer stating, ―I can‘t get it.‖ About 1.8 seconds later, the CVR recorded
+the first officer responding, ―I‘m steerin‘.‖
+According to American Airlines‘ 757/767 Operating Manual, the pilot monitoring is to
+call out ―deployed‖ when speedbrakes deploy or ―no spoilers‖ if the speedbrakes do not deploy.
+Regarding reverse thrust operation, American Airlines‘ 757/767 Operating Manual states that if
+the green ―REV‖ annunciation light is not illuminated on either engine, the pilot monitoring is to
+call out ―no reverse [pertinent engine]‖; the Operating Manual does not specify language for a
+positive reverse thrust deployment callout. (American Airlines lists the pilot flying‘s tasks during
+landings as moving the thrust reverser levers to reverse ―smoothly and without delay‖ after
+landing, using brakes as needed, and then stowing the thrust reversers as the airplane decelerates
+through about 60 knots.)
+At the NTSB‘s request, Boeing completed a 757-200 landing performance analysis using
+criteria obtained from the incident airplane‘s FDR and assuming a variety of runway braking
+action and speedbrake and manual thrust reverser deployment conditions consistent with the
+incident landing. Boeing‘s calculations confirmed that, under the landing conditions the pilots
+anticipated (touchdown about 800 feet from the end of the runway with ―wet/good‖ braking
+action and with prompt automatic deployment of speedbrakes and manual deployment of thrust
+reversers after touchdown), the airplane would have stopped about 3,800 feet down the
+6,300-foot-long runway. The calculations also showed that, under similar touchdown and runway
+conditions, with thrust reverser deployment delayed until 21.8 seconds22 after initial touchdown
+but prompt speedbrake deployment, the airplane would have stopped about 4,500 feet down the
+runway, still on the runway surface. Finally, the performance calculations support that the
+runway surface conditions were consistent with ―wet/good‖ conditions as expected by the flight
+crew. A stopping distance of about 6,800 feet, about 500 feet beyond the end of the paved
+runway surface, was calculated for ―wet/good‖ runway conditions, delayed thrust reverser
+deployment, and no speedbrake deployment. It is apparent that the immediate deployment of the
+speedbrakes after landing is critical for situations in which stopping distance is a prime concern
+(as was the case at JAC on the day of the incident). American Airlines recognizes this in its
+757/767 Operating Manual, which states that braking effectiveness may be reduced by as much
+as 60 percent when speedbrakes are not deployed.
+The NTSB concludes that if either pilot had observed that the speedbrakes had not
+automatically deployed and subsequently corrected the situation by manually deploying them,
+the airplane‘s stopping distance would have been greatly decreased.
+22 During the incident landing, the thrust reversers deployed about 18 seconds after landing but did not reach
+full power until about 10 seconds later. Because Boeing‘s analysis tool cannot factor in this gradual engine spool-up
+after thrust reverser deployment, the analysis has the thrust reversers deploying at full power 21.8 seconds after
+landing.
+8
+
+NTSB Aircraft Incident Report
+2.2 Airplane Systems
+This section will further discuss the operation and postincident testing of the airplane‘s
+air/ground sensing system, thrust reversers, and automatic speedbrakes. (The pilots‘ monitoring
+of these systems during the landing roll is further discussed in section 3 of this report.)
+2.2.1 Air/Ground Sensing System
+The 757‘s air/ground sensing system provides air/ground status information to various
+airplane systems, including the automatic speedbrake and thrust reverser control systems. Two
+proximity sensors on each of the airplane‘s two MLG assemblies provide ―ground‖ signals to the
+air/ground sensing system when both MLG assembly tilt angles reduce from about
+9.6° rear-wheels-down when the gear is extended during flight to less than about
+5.4° rear-wheels-down during touchdown. When all four proximity sensors sense that this has
+occurred, ―ground‖ signals are sent to pertinent airplane systems, allowing their activation. The
+air/ground signal will cycle from ―ground‖ mode to ―air‖ mode and back to ―ground‖ mode
+again if any one of the four proximity sensors on the MLG assemblies momentarily ―unloads‖
+(fails to meet the specified tilt angle) after touchdown.
+Postincident inspections and testing of the incident airplane‘s air/ground sensing system
+components (including all proximity sensors, switches, and relays) revealed that the system was
+fully functional. No failures were detected that would have affected the system‘s operation
+during the landing at JAC. Although FDR data showed that, about 1 second after initial
+touchdown, the ―ground‖ signal transitioned back to ―air‖ mode for about 0.5 second before
+transitioning back to ―ground‖ mode for the remainder of the landing roll, the air/ground sensing
+system was capable of normal operation; therefore, this brief interruption of the ―ground‖ signal
+most likely resulted from a momentary unloading of one or both of the MLG assemblies. (The
+NTSB did not have data to verify that an ―unloading event‖ occurred because the normal
+acceleration parameter on the FDR was not operating properly during the incident landing.)
+During its investigation of this incident, the NTSB reviewed the air/ground data from the
+previous 13 landings performed in the incident airplane and identified 2 additional landings
+during which intermittent air/ground signals similar to those observed in the JAC incident data
+occurred. Neither of these events prevented the deployment of the thrust reversers as occurred
+during the incident landing because the relative timing of the MLG unloadings and the thrust
+reverser lever movements were different from the incident landing. The operation of these
+systems during the incident landing is discussed below.
+2.2.2 Thrust Reversers
+The airplane‘s thrust reverser system is designed to help the airplane decelerate after
+landing by diverting the direction of the engine exhaust gas stream. Although use of thrust
+reversers is not required during landing, when they are deployed early in the landing roll, thrust
+reversers help reduce the airplane‘s stopping distance. To initiate thrust reverser extension, the
+airplane must detect that it is on the ground, and the pilot flying must lift the reverse thrust levers
+9
+
+NTSB Aircraft Incident Report
+up and rearward to their interlock position. The thrust reversers would begin to deploy,23 and,
+after they reach their mid-travel positions, the pilot must move the reverse thrust levers further
+aft to apply reverse thrust, increasing engine power as required to help stop the airplane.
+Each engine has its own thrust reverser control system that hydraulically deploys the
+thrust reversers based on electrical and mechanical commands it receives from the following
+sources: pilot inputs; the air/ground sensing system; the thrust reverser auto restow system;24 and
+multiple thrust reverser system sensors, relays, and feedback signals. The thrust reverser systems
+function independently except for the common signal they receive from the air/ground system.
+Because a thrust reverser extension command is a function of several system inputs, an
+intermittent loss of any one of these inputs could briefly interrupt continuous deployment.
+During the incident landing, a momentary interruption in the ―ground‖ signal from the
+air/ground sensing system occurred almost immediately after the thrust reversers began to
+extend.25 Such interruptions in the ―ground‖ signal are not unusual (commonly occurring during
+bounced landings, for example). Under normal circumstances, such interruptions are benign and
+go undetected by pilots because the thrust reversers continue to deploy automatically when the
+air/ground ―ground‖ signal resumes with no further pilot action required. However, during the
+incident landing, the thrust reversers locked in transit and did not continue to deploy. The pilots
+made multiple attempts to deploy the thrust reversers after the air/ground sensing system
+returned to ―ground‖ mode; however, the thrust reversers did not deploy until about 18 seconds
+after touchdown.
+Postincident testing of the thrust reverser control system verified that each engine‘s thrust
+reverser system was fully operational and that each engine‘s thrust reverser translating sleeve
+extended and retracted per the specified maintenance requirements. A detailed review of the
+thrust reverser control system design identified one potential scenario in which the momentary
+change from ―ground‖ mode to ―air‖ mode could cause each engine‘s thrust reverser sync-lock26
+mechanism to lock in transit. Such a lockout could only occur if a momentary change from the
+―ground‖ mode to the ―air‖ mode occurs in the instant (1) immediately after the thrust reversers
+begin to extend after touchdown and (2) in the split second before the thrust reverser‘s auto
+restow system is activated. This lockout would prevent movement of the thrust reversers until
+about 5 seconds after a pilot moves the reverse thrust levers back to their stowed position,
+allowing the thrust reverser system to deactivate and begin deployment again when commanded.
+23 The thrust reverser control system is designed to deploy the thrust reversers when the air/ground sensing
+system sends a ―ground‖ signal and the thrust reverser levers are in their interlock position. Each reverse thrust lever
+is restricted to an intermediate or interlock position until its respective thrust reverser reaches its mid-travel position.
+24 This system is activated when sensors detect that the thrust reverser‘s translating sleeves are no longer in their
+stowed positions. Its main design purpose is to automatically return the translating sleeves to their stowed positions
+if they move from the stowed position when the aircraft is airborne.
+25 FDR data showed that the thrust reversers began to deploy about 1 second after the airplane touched down,
+and, while the reversers were deploying, the air/ground sensing system transitioned back to ―air‖ mode for about
+0.5 second before it transitioned back to ―ground‖ mode for the remainder of the landing roll.
+26 The sync-lock mechanism is intended to prevent the thrust reverser translating sleeves from accidentally
+extending due to failures within the thrust reverser system.
+10
+
+NTSB Aircraft Incident Report
+FDR data showed that one of the pilots (likely the captain, based on postincident
+statements and CVR data) briefly moved the reverse thrust levers to the stowed position and then
+back to the interlock position about 10 seconds after touchdown. The data further showed that
+the reverse thrust levers were moved forward of their interlock position allowing the full
+deployment of the thrust reversers about 18 seconds after touchdown.27 During postincident
+interviews, both incident pilots indicated that they were unaware of a circumstance in which the
+thrust reversers could be locked in transit and were unaware of the actions needed to correct the
+situation. (Further, American Airlines‘ personnel in general, including the company‘s 757/767
+fleet manager, were unaware of this rare event or its resolution.) It is likely that, during their
+postlanding manipulations of the reverse thrust levers, the pilots moved the levers forward
+enough to deactivate the system because when the levers returned to their interlock position, the
+system was properly configured, and the thrust reversers deployed normally.
+The NTSB concludes that, although the momentary interruption of the air/ground
+system‘s ―ground‖ signal after touchdown would not normally adversely affect the deployment
+of thrust reversers, in this case it coincided almost precisely with the initial deployment of the
+thrust reversers and resulted in the thrust reversers locking in transit instead of continuing to
+deploy.
+2.2.3 Automatic Speedbrake System
+The airplane‘s automatic speedbrake system consists of six panels on the upper surface of
+each wing that can be automatically or manually deployed at touchdown to disrupt the airflow
+over the wings, maximizing the weight on the landing gear and increasing the wheel brakes‘
+effectiveness.28 Although automatic speedbrakes are not generally required for landings29
+(because pilots can manually deploy the speedbrakes at any time), use of the automatic
+speedbrakes can ensure prompt deployment of the speedbrakes after touchdown and optimize the
+airplane‘s deceleration during the landing roll.30
+To deploy the speedbrakes automatically, the pilots should move the speedbrake lever to
+its ―armed‖ detent before touchdown.31 By design, when the speedbrake lever is ―armed,‖ the
+speedbrake actuator automatically drives the speedbrake lever to its full aft position after the
+airplane touches down (indicated by the air/ground sensing system signal‘s transition from
+―air‖ mode to ―ground‖ mode). This normally results in the deployment of the speedbrake panels
+to their fully deployed position. However, if the air/ground sensing system reverts back to
+27 Consistent with the FDR data, a video taken through a left-side window by a passenger during the landing
+showed that the left thrust reverser began to deploy shortly after touchdown, then stopped moving and remained in a
+partially deployed position for about 10 seconds. The video then showed the left thrust reverser closing for about
+6 seconds before finally fully extending.
+28 These panels are also used when the airplane is in flight to assist the ailerons in lateral control and to increase
+drag and reduce lift. Boeing refers to these panels as ―spoilers‖ when referring to their lateral control function.
+29 According to American Airlines‘ 757/767 Minimum Equipment List, the automatic speedbrake function is
+required to be operable at the time of dispatch for flights into JAC.
+30 As previously noted, an airplane‘s braking effectiveness may be reduced by as much as 60 percent when
+speedbrakes are not deployed promptly after landing.
+31 If the pilots do not move the speedbrake lever to its armed detent before touchdown, the system will normally
+automatically deploy the speedbrakes when the thrust reversers are deployed.
+11
+
+NTSB Aircraft Incident Report
+―air‖ mode after the automatic speedbrake actuator has begun to extend, the speedbrake actuator
+will retract automatically and retract the speedbrake lever. If the air/ground sensing system signal
+subsequently transitions back to ―ground‖ mode, the speedbrake system is designed to again
+automatically drive the speedbrake lever to extend the speedbrakes.
+Review of FDR and CVR data confirmed that the pilots positioned the speedbrake lever
+to its armed detent at 1130:29, about 7 minutes before landing at JAC. FDR data further indicated
+that, after the airplane touched down, the speedbrake lever initially remained in its armed
+position, and then briefly moved from, and then returned to, its armed position where it remained
+for the duration of the landing. This movement of the speedbrake lever coincided with the
+air/ground sensing system cycling from ―ground‖ mode to ―air‖ mode and then back to
+―ground‖ mode. The speedbrake lever‘s movement from its ―armed‖ position indicated that the
+automatic speedbrake actuator had partially extended upon initial touchdown.32 Normally, when
+the air/ground signal indicated ―ground‖ a second time, the automatic speedbrake system would
+have driven the speedbrake lever beyond its ―armed‖ position to fully deploy the speedbrakes.
+The NTSB concludes that, although the pilots had armed the automatic speedbrake system
+during the approach to JAC, the automatic speedbrakes failed to automatically deploy as
+designed after touchdown.
+Initial examination and testing of the incident airplane‘s automatic speedbrake system
+and its components revealed no evidence of a malfunction that would have prevented normal
+operation during the incident landing.33 However, the automatic speedbrake mechanism was
+removed and examined after the incident airplane experienced another automatic speedbrake
+system nondeployment on March 31, 2011.34 This examination revealed a latent assembly defect
+in the no-back clutch mechanism35 that intermittently prevented the speedbrake actuator from
+automatically driving the speedbrake lever beyond its armed detent to extend the speedbrakes.
+Specifically, one of the four speedbrake lever braking pins was improperly secured, which
+allowed it to intermittently rotate within its assembly and prevented the no-back clutch from
+transmitting the torque from the automatic speedbrake actuator to the speedbrake lever.
+Additional testing showed that this condition would only occur when the actuator was attempting
+to drive the speedbrake lever towards the ―up‖ (speedbrakes extended) position and would not
+occur when the actuator was retracting the speedbrake lever. Further, it was noted that this defect
+only affected the speedbrakes‘ automatic deployment function and would not have prevented the
+pilots from manually deploying the speedbrakes. Figure 4 contains two diagrams showing the
+cockpit center console, the speedbrake lever and its linkages, and components of the automatic
+speedbrake system. The no-back clutch mechanism has been highlighted in the side view
+32 If the automatic speedbrake actuator had not begun to extend the speedbrakes at touchdown, the system‘s
+temporary retraction of the speedbrake lever could not have occurred.
+33 During postincident examination, the NTSB discovered that a bushing had not been installed in the automatic
+speedbrake actuator‘s aft mounting attachment. This defect would not have prevented the automatic speedbrake
+actuator from operating.
+34 The NTSB notes that the pilots involved in the March 31, 2011, event noted the automatic speedbrake
+system‘s nondeployment and manually extended the speedbrakes; the airplane stopped on the available runway
+surface.
+35 The no-back clutch mechanism allows the speedbrake lever to be moved freely (independently) from the
+automatic speedbrake actuator and allows an input (extend/retract) from the automatic speedbrake actuator to drive
+the speedbrake lever.
+12
+
+NTSB Aircraft Incident Report
+diagram on the left. A photograph of the speedbrake actuator and no-back clutch mechanisms
+has been superimposed on the front view to show those components‘ relative positions within the
+center console.
+Figure 4. Two diagrams showing the cockpit center console, the speedbrake lever and its
+linkages, and components of the automatic speedbrake system. The no-back clutch mechanism
+has been highlighted in the side view diagram on the left. A photograph of the speedbrake
+actuator and no-back clutch mechanisms has been superimposed on the front view to show
+those components’ relative positions within the center console.
+Because the effects of this defect were intermittent and the defect‘s visual detection
+would require disassembly of the no-back clutch mechanism (a function usually performed by
+the manufacturer or another external facility, not the operator), an operator would not likely have
+detected the defect during normal maintenance testing. When this assembly defect in the no-back
+clutch was identified, the manufacturer of the no-back clutch told NTSB investigators that the
+company was not aware of any instances involving similar anomalies in other no-back clutch
+units.36 As a result of this investigation, the manufacturer clarified its documentation to ensure
+proper assembly of the no-back clutch units. In addition, in its March 7, 2012, submission for
+36 Since this anomaly was identified, the company has received 32 no-back clutch assembly units from operators
+for repair. Although 2 of these units were returned with complaints of ―auto speedbrake failed to deploy,‖
+disassembly and repair of all 32 units revealed no similar anomalies.
+13
+
+NTSB Aircraft Incident Report
+this incident, Boeing indicated that it is ―currently writing a Fleet Team Digest[37] article that will
+contain the information concerning the no-back clutch and its possible intermittent anomaly.‖
+The NTSB concludes that a manufacturing defect in the incident airplane‘s speedbrake
+no-back clutch mechanism prevented the speedbrakes from automatically deploying during the
+incident landing.
+2.2.4 Airplane System Summary
+In summary, the NTSB‘s postincident examination and testing of the airplane‘s systems
+revealed no evidence of any failures of the air/ground sensing system during the incident
+landing, indicating that the intermittent air/ground signal occurred when the MLG unloaded just
+after touchdown. The investigation also showed that the thrust reverser system and its
+components were capable of normal operation during the incident landing. In addition, although
+an intermittent mechanical defect in the automatic speedbrake system intermittently prevented
+the speedbrakes from automatically deploying, the defect would not have prevented the pilots
+from manually deploying the speedbrakes, if they had noted that the speedbrakes did not deploy.
+2.3 Flight Data Recorder Maintenance and Documentation
+The incident airplane was equipped with an L-3/Fairchild FA2100 FDR, which contained
+about 44 hours of data, including the incident flight. The FDR was removed from the incident
+airplane and transported to NTSB headquarters in Washington, D.C., for downloading and data
+evaluation.38 The NTSB‘s readout of the incident airplane‘s FDR revealed that several of the
+parameters (including normal acceleration, a mandatory parameter) were not functioning
+properly.
+In addition, during its investigation, the NTSB identified issues with American Airlines‘
+FDR system-related documentation, its FDR-related maintenance program, and the Federal
+Aviation Administration‘s (FAA) oversight of that maintenance program. Specifically, although
+operators are required by federal regulations to maintain accurate documentation of their FDR
+configurations, American Airlines personnel could not provide appropriate documentation and/or
+wiring diagrams for the incident airplane‘s FDR installation. In addition, the investigation
+showed that American Airlines‘ improper performance of the two tests intended to ensure that
+37 Boeing‘s Fleet Team Digest is a publication the company uses to provide model-specific maintenance updates
+and other fleet-specific information that its operators can access through Boeing‘s customer service website at
+<http://www.boeing.com/commercial/aviationservices/myboeingfleet/index.htm> (accessed May 3, 2012).
+38 While acting as a party to the investigation and before transporting the FDR to NTSB headquarters, the FDR
+was flown to Tulsa, Oklahoma, where American Airlines personnel downloaded the FDR data. Because this
+unauthorized downloading of FDR data was not consistent with its signed commitment to the party system and
+could have destroyed evidence critical to the investigation, American Airlines was removed as a party to this
+investigation.
+14
+
+NTSB Aircraft Incident Report
+the FDR system is operating properly39 allowed numerous FDR discrepancies to go undetected,
+which hampered FDR data collection and evaluation during this investigation.
+Since 1972, the NTSB has made numerous recommendations to address problems
+regarding installation and maintenance of FDR systems, inaccurate or incomplete
+documentation, and inadequate oversight of the maintenance programs that should have
+identified these problems.40 These FDR-related issues, although not factors related to the cause
+of this incident, did affect the NTSB‘s ability to evaluate the available data.
+39 A reasonableness check is performed every 4,000 flight hours and involves downloading and
+evaluating/auditing FDR data. A system functional check is performed by maintenance personnel every 72 months
+to ensure that all FDR system components and interfaces are working properly.
+40 For additional information, see (a) Uncontrolled Impact With Terrain, Fine Airlines Flight 101, Douglas
+DC-8-61, N27UA, Miami, Florida, August 7, 1997, Aircraft Accident Report NTSB/AAR-98/02 (Washington, D.C.:
+National Transportation Safety Board, 1998); (b) Loss of Pitch Control on Takeoff, Emery Worldwide Airlines,
+Flight 17, McDonnell Douglas DC-8-71F, N8079U, Rancho Cordova, California, February 16, 2000, Aircraft
+Accident Report NTSB/AAR-03/02 (Washington, D.C.: National Transportation Safety Board, 2003); and (c) Crash
+During Landing, Executive Airlines (doing business as American Eagle) Flight 5401, Avions de Transport
+Regional 72-212, N438AT, San Juan, Puerto Rico, May 9, 2004, Aircraft Accident Report NTSB/AAR-05/02
+(Washington, D.C.: National Transportation Safety Board, 2005), which are available at <http://www.ntsb.gov>.
+15
+
+NTSB Aircraft Incident Report
+3. Safety Issues
+3.1 Pilot Performance/Operational Issues
+3.1.1 Deployment of the Thrust Reversers and Speedbrakes
+The NTSB evaluated possible explanations for the captain‘s erroneous and premature
+speedbrake and thrust reverser callouts and his failure to monitor and notice that the speedbrakes
+had not automatically deployed as expected. The only positive indication available to the captain
+to verify extension of the speedbrakes would have been the aft position of the handle, which was
+visible from and within reach of both pilots‘ seating positions. FDR data showed that the
+speedbrake handle was in the armed position for landing and began to move within 1 second of
+landing but did not continue to move to the aft (extended) position as expected. The NTSB
+concludes that the captain‘s erroneous speedbrakes ―deployed‖ callout was likely made in
+anticipation (not in confirmation) of speedbrake deployment after he observed the speedbrake
+handle‘s initial movement; after the ―deployed‖ callout was made, both pilots likely presumed
+that the reliable automatic speedbrakes were functioning normally and focused on the thrust
+reverser problem.
+About the same time that the speedbrake handle started to move, the amber annunciation
+lights on the engine indication and crew alerting system (EICAS) display would have provided
+the captain with a cue that the thrust reversers were in transition.41 Although the captain called
+out ―two in reverse,‖ this callout was not based on the illumination of the green annunciation
+since the air/ground sensing system cycling to ―air‖ mode prevented the reversers from
+deploying at that time. (Immediately following the captain‘s ―two in reverse‖ callout, the CVR
+recorded the first officer stating, ―no reverse‖ in a voice that sounded strained.) Given the typical
+reliability of the thrust reverser system,42 it is likely that the captain made the callout because he
+expected normal thrust reverser deployment after seeing the amber EICAS annunciation.
+The NTSB considered whether operational stress during the approach and landing might
+have resulted in the captain‘s erroneous callouts, his failure to monitor, and both pilots‘ failure to
+notice that the speedbrakes had not deployed. Under normal circumstances, landing at JAC can
+be challenging; it is located at an elevation of 6,451 feet, it is surrounded by mountainous terrain,
+and runway 19 is relatively short (6,300 feet) and has a downward slope of 0.6 percent. On the
+day of the incident, additional challenges were present; there was snow on the runway, the
+approach was flown to published minimums, and the airplane was near its maximum landing
+weight. Although operating into JAC in such conditions can be demanding and requires pilots to
+maintain a heightened alertness throughout the approach and landing, the operational conditions
+encountered by the incident pilots were typical for JAC in winter. CVR data showed that the
+incident pilots had prepared thoroughly for the landing and accurately determined they had
+sufficient performance to land safely on the runway. Despite the challenges of the approach and
+41 Green annunciations would illuminate when the thrust reversers are fully deployed.
+42 As previously stated, in normal bounced landing circumstances, the thrust reversers would redeploy when the
+air/ground ―ground‖ signal resumes (as would the automatic speedbrakes) with no further pilot action required.
+16
+
+NTSB Aircraft Incident Report
+landing, the pilots seemed alert but not stressed. During postincident interviews, the pilots stated
+they had no concerns about landing at JAC as they were both experienced flying into the airport,
+they were familiar with the conditions that existed, and they felt comfortable with the approach.
+Therefore, the NTSB considers it unlikely that those challenges created operational stress during
+the incident landing.
+However, despite their experience flying into JAC and their adequate preparation for the
+landing, the flight crew tunneled their attention on deploying the thrust reversers. Although the
+CVR recorded both pilots commenting that the airplane was not slowing on the runway, the
+captain did not return to his monitoring duties. Neither pilot was able to broaden his focus
+enough to look at the big picture and notice that the speedbrakes (the more crucial deceleration
+tool) had not deployed.
+The NTSB notes that the captain‘s expectation that the speedbrake and thrust reverser
+systems would function reliably and routinely as the pilots had observed them function during
+multiple previous landings might have led to less vigilant monitoring of those systems. Research
+has shown that reliable automated systems can lead pilots to have trust and confidence that the
+system will function as designed. In some cases, this expectation of proper system functioning
+can lead to poor system monitoring and failure to detect automation malfunctions.43
+Further, pilots are often required to divide their attention between multiple tasks in
+routine flight operations, and the challenges involved in managing multiple tasks is heightened
+during unexpected or abnormal situations. In this incident, the pilots encountered an abnormal
+situation when both the speedbrake and thrust reverser systems did not deploy as expected. The
+NTSB has previously issued safety recommendations addressing issues related to pilots handling
+multiple emergency and/or abnormal situations. For example, Safety Recommendations A-09-24
+and -2544 asked the FAA to do the following:
+Establish best practices for conducting both single and multiple emergency and abnormal
+situations training. (A-09-24)
+Once the best practices for both single and multiple emergency and abnormal situations
+training asked for in Safety Recommendation A-09-24 have been established, require that
+these best practices be incorporated into all operators‘ approved training programs.
+(A-09-25)
+On August 11, 2009, the FAA indicated that it published a notice of proposed rulemaking
+(NPRM), titled ―Qualifications, Service, and Use of Crewmembers and Aircraft Dispatchers,‖ on
+January 12, 2009 (74 Federal Register 1280). The FAA stated that the NPRM addressed these
+recommendations by requiring the inclusion of scenario-based training. The FAA indicated its
+43 See (a) J.D. Lee and N. Moray, ―Trust and the Allocation of Function in the Control of Automatic Systems,‖
+Ergonomics, vol. 35 (1992), pp. 1243-1270; (b) J.D. Lee and N. Moray, ―Trust, Self-Confidence, and Operators‘
+Adaptation to Automation,‖ International Journal of Human-Computer Studies, vol. 40 (1994), pp. 153-184; and
+(c) R. Parasuraman, R. Molloy, and I.L. Singh, ―Performance Consequences of Automation-Induced
+‗Complacency,‘‖ The International Journal of Aviation Psychology, vol. 3(1) (1993), pp. 1-23.
+44 For additional information, see In-Flight Left Engine Fire, American Airlines Flight 1400, McDonnell
+Douglas DC-9-82, N454AA, St. Louis, Missouri, September 28, 2007, Aircraft Accident Report NTSB/AAR-09/03
+(Washington, D.C.: National Transportation Safety Board, 2009), which is available at <http://www.ntsb.gov>.
+17
+
+NTSB Aircraft Incident Report
+belief that these scenario-based training events constituted the establishment of industry best
+practices for single and multiple emergency and abnormal situations training. The FAA also
+planned to revise FAA Order 8900.1 and/or issue a notice to require FAA inspectors to withdraw
+approval of 14 CFR Part 121 training programs that do not incorporate scenario-based training
+and practices. The FAA further indicated that training programs conducted under its Advanced
+Qualification Program45 were already required to make use of scenario-based line operational
+evaluations. Finally, the FAA stated that it planned to review the existing and proposed
+regulatory and policy framework to determine whether additional guidance or requirements were
+necessary.
+On April 2, 2010, the NTSB replied that the use of scenario-based training would address
+the intent of Safety Recommendations A-09-24 and -25 but asked how the training scenarios will
+be developed, noting that the collection of best practices related to such scenarios would remain
+necessary. The NTSB noted that issuance of the final rule proposed in the January 12, 2009,
+NPRM would give the FAA the regulatory framework to require such training but that, without a
+guide to best practices, inspectors and operators would have difficulty creating effective
+programs. The NTSB stated that the FAA‘s planned review of the regulatory and policy
+framework to determine whether additional guidance or requirements were necessary might
+include the collection and dissemination of the recommended best practices. Pending the
+outcome of that review and issuance of the final rule proposed in the NPRM,46 Safety
+Recommendations A-09-24 and-25 were classified ―Open—Acceptable Response.‖
+Although pilots are typically trained to handle a single emergency, the reality is that
+pilots are sometimes faced with situations that include multiple abnormalities or emergencies.
+Training for multiple emergency and abnormal situations would provide pilots the opportunity to
+practice the processes and skills needed to handle such events so that the pilots would be better
+prepared to handle them in flight. Trained pilots would have better situational awareness and
+would be better equipped to adapt a learned process to the specific circumstances and time
+constraints of the event they encounter. This increased situational awareness is even more
+important in time-critical situations when pilots must respond quickly.
+The NTSB has investigated a number of accidents and incidents in which pilots have
+focused their attention on one emergency or abnormal situation at the exclusion of another,
+which ultimately resulted in an accident.47 The incident at JAC shows that even experienced
+45 The FAA‘s Advanced Qualification Program is a voluntary alternative to the traditional regulatory
+requirements for pilot training and checking that was designed to (1) increase aviation safety through improved
+training and evaluation and (2) be responsive to changes in aircraft technology, operations, and training
+methodologies.
+46 A related supplemental notice of proposed rulemaking (SNPRM), published May 20, 2011 (76 Federal
+Register 29336), contained the relevant portions of the NPRM. The SNPRM is further discussed in section 3.1.2 of
+this report.
+47 Two examples of such accidents are the accidents involving Southwest Airlines flight 1248 at Chicago,
+Illinois, and Empire Airlines flight 8284 at Lubbock, Texas. For additional information, see Runway Overrun and
+Collision, Southwest Airlines Flight 1248, Boeing 737-7H4, N471WN, Chicago Midway International Airport,
+Chicago, Illinois, December 8, 2005, Aircraft Accident Report NTSB/AAR-07/06 (Washington, D.C.: National
+Transportation Safety Board, 2007) and Crash During Approach to Landing, Empire Airlines Flight 8284, Avions de
+Transport Regional, Aerospatiale Alenia ATR 42-320, N902FX, Lubbock, Texas, January 27, 2009, Aircraft
+Accident Report NTSB/AAR-11/02 (Washington, D.C.: National Transportation Safety Board, 2011), both of which
+are available at <http://www.ntsb.gov>.
+18
+
+NTSB Aircraft Incident Report
+pilots with adequate preparation for a given situation (in this case, landing) can become
+distracted and narrow their attention when multiple abnormal situations occur. If the incident
+pilots had received training for multiple emergency or abnormal events, they likely would have
+evaluated the situation as a whole rather than focusing on the most salient cue, which was the
+thrust reversers not deploying.
+During the landing at JAC, two qualified, experienced pilots encountered simultaneous
+system abnormalities when neither the thrust reversers nor the automatic speedbrakes deployed
+as expected. Although the pilots were not aware of the specific solution to the thrust reverser
+abnormality (which they only resolved through persistent efforts and luck), all pilots know that
+they could manually deploy the speedbrakes at any time during a landing. However, because of
+their focus on and efforts to resolve the thrust reverser anomaly, neither pilot noticed the
+abnormal speedbrake situation until the airplane had come to a stop off the end of the runway.
+The NTSB concludes that if the incident pilots had received specific pilot training on the
+handling of multiple emergency or abnormal situations, they might not have focused exclusively
+on the thrust reverser nondeployment and might have been more likely to recognize and properly
+resolve the speedbrake nondeployment during the landing. Therefore, the NTSB reiterates Safety
+Recommendations A-09-24 and -25.
+Research has shown that abnormal and emergency situations increase pilot workload,
+require additional effort to manage effectively, and can result in task fixation and narrowing of
+attention.48 In addition, the NTSB‘s review of accident and incident data shows that unexpected
+events or anomalies during approach and landing have the potential to distract pilots‘ attention
+from routine actions and cues, which, in some cases, has resulted in runway overruns. In one
+such case (the June 1, 1999, accident involving American Airlines flight 1420 at Little Rock,
+Arkansas),49 the NTSB concluded that the pilots were focused on expediting the landing because
+of impending weather and did not ensure that the automatic speedbrakes were armed before
+landing, nor did they detect this omission and manually extend the speedbrakes while they were
+struggling to stop the airplane and maintain directional control during the landing roll. In another
+such case (the December 8, 2005, accident involving Southwest Airlines flight 1248 at Chicago,
+Illinois),50 the NTSB concluded that the pilots‘ first use of the airplane‘s autobrake system
+during a challenging landing distracted them from the otherwise routine task of thrust reverser
+deployment. In addition, the NTSB is currently investigating the April 26, 2011, runway overrun
+incident involving Southwest Airlines flight 1919, a 737, at Chicago Midway International
+Airport, Chicago, Illinois.51 Postincident interviews indicate that these pilots were distracted by a
+series of events during the approach, did not arm the automatic speedbrake system before
+landing, and did not recognize that the speedbrakes had not deployed, as they were focused on
+braking performance.
+48 R.K. Dismukes, G.E. Young, and R.L. Sumwalt, ―Cockpit Interruptions and Distractions: Effective
+Management Requires a Careful Balancing Act,‖ ASRS Directline, vol. 10 (1998) pp 4-9.
+49 For additional information, see Runway Overrun During Landing, American Airlines Flight 1420, McDonnell
+Douglas MD-82, N215AA, Little Rock, Arkansas, June 1, 1999, Aircraft Accident Report NTSB/AAR-01/02
+(Washington, D.C.: National Transportation Safety Board, 2001), which is available at <http://www.ntsb.gov>.
+50 For additional information, see NTSB/AAR-07/06.
+51 Preliminary information about this incident, NTSB case number DCA11IA047, can be found online at
+<http://www.ntsb.gov/aviationquery/index.aspx>.
+19
+
+NTSB Aircraft Incident Report
+Prompt speedbrake deployment after touchdown and monitoring of the speedbrake
+system during the landing roll is especially critical for increased braking effectiveness when
+landing on short and/or contaminated runways. Although the CVR only recorded the pilots
+discussing thrust reverser deployment during their preparations for landing at JAC, American
+Airlines‘ 757/767 Operating Manual states that braking effectiveness may be reduced by as
+much as 60 percent when speedbrakes are not deployed; therefore, both pilots were aware that
+the timely deployment of the speedbrakes was critical in reducing stopping distance after
+landing. In addition, based on the captain‘s training and American Airlines‘ procedures, he
+should have been aware of his responsibility for monitoring the speedbrake system during the
+landing roll.
+According to CVR data, rather than confirming the speedbrake deployment using the
+available cues, both pilots were focused on the thrust reversers‘ nondeployment and became
+preoccupied with attempting to deploy them. The NTSB concludes that, although American
+Airlines‘ manuals and procedures emphasized the importance of prompt speedbrake deployment
+and monitoring of the speedbrake lever after landing, the pilots did not recognize that the
+speedbrakes had not automatically deployed because both pilots were distracted by, confused by,
+and trying to resolve the thrust reversers‘ nondeployment. Therefore, because timely deployment
+and monitoring of speedbrakes is so critical to landing safely, the NTSB recommends that the
+FAA require all operators of existing speedbrake-equipped transport-category airplanes to
+develop and incorporate training to specifically address recognition of a situation in which the
+speedbrakes do not deploy as expected after landing.
+As a result of the June 1, 1999, American Airlines flight 1420 accident at Little Rock,
+Arkansas, the NTSB issued Safety Recommendation A-01-50, which asked the FAA to do the
+following:
+For all 14 [CFR] Part 121 and 135 operators, require a callout if the spoilers
+[speedbrakes] do not automatically or manually deploy during landing and a callout when
+the spoilers [speedbrakes] have deployed, and verify that these operators include these
+procedures in their flight manuals, checklists, and training programs. The procedures
+should clearly identify which pilot is responsible for making these callouts and which
+pilot is responsible for deploying the spoilers [speedbrakes] if they do not automatically
+or manually deploy.
+In response, the FAA amended Advisory Circular (AC) 120-71, ―Standard Operating Procedures
+for Flightdeck Crew Members,‖ Appendix 1, to include more explicit language regarding the use
+of spoiler/speedbrake systems. The AC now contains, as recommended standard operating
+procedures (SOP), dual pilot confirmation that the automatic speedbrakes have been armed
+before landing and a callout by the pilot monitoring to verify that the speedbrakes deployed (or
+failed to deploy) after landing.52
+American Airlines had incorporated the speedbrake-related SOPs into its operations,
+manuals, and training, and the incident pilots were aware of them. Further, CVR data and
+postincident interviews confirmed that both pilots were aware of and focused on the need for
+52 As a result of the FAA‘s actions, on December 10, 2003, the NTSB classified Safety
+Recommendation A-01-50 ―Closed—Acceptable Action.‖
+20
+
+NTSB Aircraft Incident Report
+rapid deceleration during the incident landing. However, despite the captain‘s callout confirming
+that the speedbrakes had deployed, both pilots were too distracted by the thrust reversers‘
+nondeployment to notice that the speedbrakes had not deployed.
+This incident shows that, even with a company requirement for a callout confirming
+automatic speedbrake deployment after touchdown and with pilots who have a heightened
+awareness of the need for prompt speedbrake deployment during a landing, pilots can still
+become distracted from ensuring that the speedbrakes deploy properly. In addition, the pilot
+monitoring in the December 8, 2005, Southwest Airlines flight 1248 accident at Chicago,
+Illinois, was also required to call out the absence of speedbrake deployment (and manually
+deploy speedbrakes), and he did not notice the speedbrakes‘ nondeployment either, as both pilots
+quickly focused their attention on braking performance after touchdown. The NTSB concludes
+that a clearly distinguishable and intelligible alert that activates when the speedbrakes do not
+automatically deploy after landing would have provided the pilots with a salient warning that the
+speedbrakes did not function as expected and would likely have brought the captain‘s attention
+back to the speedbrakes and resulted in manual speedbrake deployment. Although previously
+type-certificated airplanes may not be equipped for installation of an aural alert system,53 with
+more modern technology such a system could easily be designed into newly type-certificated
+airplanes. Therefore, the NTSB recommends that the FAA require all newly type-certificated
+14 CFR Part 25 airplanes to have a clearly distinguishable and intelligible alert that warns pilots
+when the speedbrakes have not deployed during the landing roll.
+Because of the rare mechanical/hydraulic interaction that locked the thrust reversers in
+transit during the incident landing, the pilots needed to stow the reverse thrust lever to unlock the
+system before attempting to redeploy the thrust reversers. However, postincident interviews with
+American Airlines pilots indicated that company pilots were not aware of this technique,54 and
+moving the reverse thrust levers to the stowed position during the landing roll would not be an
+intuitive action. The NTSB concludes that if the incident pilots had known that when the thrust
+reversers locked in-transit they needed to move the reverse thrust levers to the stowed position
+before attempting to deploy them again, the deployment of the thrust reversers could have
+occurred much earlier in the landing roll. Therefore, the NTSB recommends that the FAA
+require Boeing to establish guidance for pilots of all relevant airplanes to follow when an
+unintended thrust reverser lockout occurs and to provide that guidance to all operators of those
+airplanes.
+3.1.2 Pilot Responsibilities After Landing
+American Airlines‘ procedures indicate that the pilot monitoring (in this case, the
+captain) is to monitor the automatic speedbrake and thrust reverser deployment during the
+landing roll, whereas the pilot flying (in this case, the first officer) is to deploy the thrust
+reversers, apply manual brakes as required, and stow the thrust reversers as the airplane
+53 The NTSB notes that the previously issued safety recommendation regarding pilot training to address
+nondeployment of speedbrakes could address this issue for crews in previously type-certificated airplanes.
+54 The potential for this type of event had not been identified before this incident; as a result, Boeing‘s 757/767
+guidance did not contain related guidance. According to Boeing, its Pratt and Whitney engine-equipped 757/767
+airplanes are the only Boeing-manufactured airplanes that have the potential for this type of event.
+21
+
+NTSB Aircraft Incident Report
+decelerates. However, in this case, CVR data showed that about 0.8 second after the first officer
+stated ―no reverse,‖ the captain was taking command of the thrust reverser levers. By assuming
+control of the thrust reversers before the first officer could attempt to resolve the situation, the
+captain deviated from normal company procedures regarding the pilot flying/pilot monitoring
+responsibilities during the landing roll. Specifically, if the captain had adhered to his monitoring
+responsibilities during the landing roll, it is more likely that he would have recognized that the
+speedbrakes had not automatically deployed and corrected the situation by manually deploying
+them, increasing the airplane‘s braking effectiveness significantly.
+The NTSB has previously issued safety recommendations related to pilot workload
+management and monitoring skills, including Safety Recommendation A-07-13,55 which asked
+the FAA to do the following:
+Require that all pilot training programs be modified to contain modules that teach and
+emphasize monitoring skills and workload management and include opportunities to
+practice and demonstrate proficiency in these areas.
+On January 12, 2009, the FAA published an NPRM titled ―Qualifications, Service and
+Use of Crewmembers and Aircraft Dispatchers.‖ Based on comments that the FAA received on
+this NPRM, on May 20, 2011, the FAA published a supplemental notice of proposed rulemaking
+(SNPRM) that proposed additional training requirements for flight crewmembers, including the
+use of flight simulators for training of flight crewmembers.
+On July 15, 2011, the NTSB submitted comments to the FAA on the SNPRM and noted
+its general support for the requirements proposed in the SNPRM. In its comments, the NTSB
+noted that proposed section 121.1213 partially addressed Safety Recommendation A-07-13 by
+requiring that pilot training include opportunities to practice and demonstrate proficiency in
+monitoring skills and workload management. However, the SNPRM did not propose a
+requirement for modules that teach and emphasize these subjects. The NTSB indicated that the
+FAA would need to require pilot training programs to include appropriate training modules on
+these subjects during which crews would be required to practice and demonstrate proficiency.
+On November 7, 2011, the FAA published Safety Alert for Operators (SAFO) 11011,
+―Runway Excursions at Jackson Hole Airport (JAC),‖ which ―emphasizes the importance of
+implementing and following SOPs and training for flightcrews.‖56 The related supplement
+provided best practices and mitigation strategies that include emphasis on pilot monitoring
+responsibilities and the manual deployment of speedbrakes if they do not automatically deploy.
+However, the information in the SAFO is only guidance, and this incident demonstrates the need
+for the changes proposed in the SNPRM.
+55 For additional information, see Crash During Approach to Landing, Circuit City Stores, Inc., Cessna
+Citation 560, N500AT, Pueblo, Colorado, February 16, 2005, Aircraft Accident Report NTSB/AAR-07/02
+(Washington, D.C.: National Transportation Safety Board, 2007), which is available at <http://www.ntsb.gov>.
+Also, see Northwest Airlines, Inc., [Flight 255], McDonnell Douglas DC-9-82, N312RC, Detroit Metropolitan
+Wayne County Airport, Romulus, Michigan, August 16, 1987, Aircraft Accident Report NTSB/AAR-88/05
+(Washington, D.C.: National Transportation Safety Board, 1988) and Delta Air Lines, Inc., [Flight 1141],
+Boeing 727-232, N473DA, Dallas-Fort Worth International Airport, Dallas, Texas, August 31, 1988, Aircraft
+Accident Report NTSB/AAR-89/04 (Washington, D.C.: National Transportation Safety Board, 1989).
+56 American Airlines provides its pilots with 757 Special Landing Analysis charts for JAC.
+22
+
+NTSB Aircraft Incident Report
+The NTSB concludes that, if the importance of adhering to pilot monitoring
+responsibilities were included in flight crew training, the incident captain would have been less
+likely to assume control of the reverse thrust levers (a pilot flying responsibility) during the
+landing roll and remained focused on his pilot monitoring duties; as a result, he most likely
+would have observed that the speedbrakes had not automatically deployed. This incident
+reinforces the need for the FAA to move as quickly as possible to issue a final rule based on the
+SNPRM. Thus, the NTSB reiterates Safety Recommendation A-07-13.
+23
+
+NTSB Aircraft Incident Report

@@ -1,0 +1,1024 @@
+National Transportation
+Safety Board
+PRSRT STD
+Washington, D.C. 20594
+Postage & Fees Paid
+OFFICIAL BUSINESS
+Penalty for Private Use, $300
+NTSB
+Permit No. G-200
+Crash During Takeoff in Icing Conditions
+Canadair, Ltd., CL-600-2A12, N873G
+Montrose, Colorado
+November 28, 2004
+Aircraft Accident Brief
+NTSB/AAB-06/03
+PB2006-108497
+National National
+Transportation Transportation
+Safety Board Safety Board
+Washington, D.C. Washington, D.C.
+
+
+
+Aircraft Accident Brief
+Crash During Takeoff in Icing Conditions
+Canadair, Ltd., CL-600-2A12, N873G
+Montrose, Colorado
+November 28, 2004
+NTSB/AAB-06/03 National Transportation Safety Board
+PB2006-108497 490 L’Enfant Plaza, S.W.
+Adopted May 2, 2006 Washington, D.C. 20594
+
+National Transportation Safety Board. 2006. Crash During Takeoff in Icing Conditions,
+Canadair, Ltd., CL-600-2A12, N873G, Montrose, Colorado, November 28, 2004. Aircraft
+Accident Brief NTSB/AAB-06/03. Washington, DC.
+The National Transportation Safety Board is an independent Federal agency dedicated to promoting
+aviation, railroad, highway, marine, pipeline, and hazardous materials safety. Established in 1967, the
+agency is mandated by Congress through the Independent Safety Board Act of 1974 to investigate
+transportation accidents, determine the probable causes of the accidents, issue safety recommendations,
+study transportation safety issues, and evaluate the safety effectiveness of government agencies involved in
+transportation. The Safety Board makes public its actions and decisions through accident reports, safety
+studies, special investigation reports, safety recommendations, and statistical reviews.
+Recent publications are available in their entirety on the Web at <http://www.ntsb.gov>. Other information
+about available publications also may be obtained from the Web site or by contacting:
+National Transportation Safety Board
+Records Management Division, CIO-40
+490 L’Enfant Plaza, S.W.
+Washington, D.C. 20594
+(800) 877-6799 or (202) 314-6551
+Safety Board publications may be purchased, by individual copy or by subscription, from the National
+Technical Information Service. To purchase this publication, order report number PB2006-108497 from:
+National Technical Information Service
+5285 Port Royal Road
+Springfield, Virginia 22161
+(800) 553-6847 or (703) 605-6000
+The Independent Safety Board Act, as codified at 49 U.S.C. Section 1154(b), precludes the admission into
+evidence or use of Board reports related to an incident or accident in a civil action for damages resulting
+from a matter mentioned in the report.
+
+Contents
+History Of Flight..................................................................................................................1
+Pilot Information..................................................................................................................4
+The Captain......................................................................................................................4
+The First Officer..............................................................................................................5
+Captain and First Officer’s 72-Hour Duty History..........................................................5
+The Flight Attendant........................................................................................................6
+Airplane Information...........................................................................................................6
+Meteorological Information................................................................................................7
+Airport Information.............................................................................................................8
+Flight Recorders...................................................................................................................8
+Wreckage And Impact Information...................................................................................9
+Medical And Pathological Information.............................................................................10
+Survival Aspects...................................................................................................................10
+Tests And Research..............................................................................................................11
+Airplane Operations.........................................................................................................11
+Airplane Performance......................................................................................................13
+Effect of Wing Surface Contamination on Airplane Performance..................................14
+Organizational And Management Information................................................................14
+Air Taxi Organization......................................................................................................14
+Airworthiness Directives.................................................................................................14
+Additional Information.......................................................................................................15
+Supercritical Wing...........................................................................................................15
+Previous CL-600-2B16 Accident.....................................................................................15
+Stall Protection System....................................................................................................16
+Anti-Icing Systems...........................................................................................................16
+Wet Wing Fuel Tank Design...........................................................................................17
+Analysis.................................................................................................................................18
+Probable Cause.....................................................................................................................22
+Recommendations................................................................................................................22
+Board Member Statement...................................................................................................24
+
+
+
+1
+A L
+T RAN SPO
+R National Transportation Safety Board
+N T
+O E PLURIBUS UNUM A
+I T Washington, D.C. 20594
+A T IO
+N N
+SAFETYBO
+AR
+D
+Aircraft Accident Brief
+Accident Number: DEN05MA029
+Operator/Flight Number: Air Castle Corporation, Glo-Air flight 73
+Aircraft and Registration: Canadair, Ltd., CL-600-2A12, N873G
+Location: Montrose, Colorado
+Date: November 28, 2004
+Adopted on: May 2, 2006
+HISTORY OF FLIGHT
+On November 28, 2004, about 0958 mountain standard time,1 a Canadair, Ltd., CL-600-
+2A12, N873G, registered to Hop-a-Jet, Inc., and operated by Air Castle Corporation doing
+business as Global Aviation Glo-Air flight 73, collided with the ground during takeoff at
+Montrose Regional Airport (MTJ), Montrose, Colorado. The on-demand charter flight was
+operated under the provisions of 14 Code of Federal Regulations (CFR) Part 135 on an
+instrument flight rules (IFR) flight plan. Instrument meteorological conditions prevailed, and
+snow was falling. Of the six occupants on board, the captain, the flight attendant, and one
+passenger were killed, and the first officer and two passengers were seriously injured. The
+airplane was destroyed by impact forces and postcrash fire. The flight was en route to South
+Bend Regional Airport (SBN), South Bend, Indiana.
+Before the accident flight, the airplane had arrived at MTJ from Van Nuys Airport
+(VNY), Van Nuys, California, about 0910.2 Witnesses observed that the airplane had landed on
+runway 17, taxied to the ramp for fuel, and remained parked on the ramp at the fixed-base
+operator (FBO) for about 40 to 45 minutes with its auxiliary power unit (APU) running.
+According to a passenger, one of the pilots remained on board the airplane the entire time.
+A pilot-certificated witness who was on the FBO ramp preparing his airplane for flight
+stated that he saw the accident airplane on the ramp. He stated that there appeared to be snow on
+the accident airplane’s wings, but he could not tell how much. He made a comment about the
+contamination to his own co-pilot, and his co-pilot remarked to him that both the snow and the
+airplane’s paint scheme were white. The pilot-certificated witness further stated he did not
+observe either the captain or the first officer conduct a tactile examination of the wing surfaces.
+A lineman fueled the accident airplane at its single-point fuel filler port, which is located
+at the right-wing root, with 400 gallons of Jet A fuel; the fuel was pumped from a fuel truck that
+1 All times are mountain standard time unless otherwise noted.
+2 The same flight crewmembers and passengers who were on board the accident flight were also on the previous
+flight from VNY. The flight from VNY had five passengers, two of whom got off the airplane at MTJ.
+
+2
+was kept outside and unheated. The lineman stated that he noticed ice on the airplane’s nose
+landing gear area and slush-type ice on the wheels but did not look at the airplane’s wings. The
+lineman stated that, while he fueled the airplane, one of its pilots stood near the wingtip. The
+lineman noted that the pilot seemed to be looking at the underside of the airplane near the right
+main landing gear but remained near the wingtip and then walked away when the fueling was
+completed. The lineman assumed the pilot left to go someplace warm because it was cold and
+“miserable” on the ramp. The lineman stated that fluffy, wet, snow flurries were falling and that
+he could see to only about the midfield point of the airport due to reduced visibility.
+Personnel in the FBO office and a lineman who was on the ramp deicing other airplanes
+stated that the accident flight crewmembers did not request deicing services for the airplane and
+that none were provided. The FBO line service manager observed moderate snow was falling and
+melting upon contact with the ground.
+According to the first officer’s legal representative, due to the extent of his injuries, the
+first officer did not recall any of the circumstances or events regarding the accident flight and
+was unable to provide any information.
+According to the cockpit voice recorder (CVR) transcript, while the airplane was parked
+on the ramp, at 0942:15, the captain asked the first officer, “how do you see the wings?” The first
+officer stated, “good,” and the captain replied, “looks clear to me.”
+At 0949:02, during engine start procedures, the first officer asked the captain if he wanted
+engine bleeds open (on) or closed (off), and the captain replied that he wanted them open.3 The
+first officer stated, “yup. Okay so we need to a [sic] eight thousand foot of runway.” The captain
+stated, “so it means [runway] three five.”4
+The first officer announced over the airport’s common traffic advisory frequency (CTAF)
+the crew’s intention to taxi the airplane to runway 35. The airport operations manager, who was
+monitoring the frequency while operating a radio-equipped snowplow on that runway, advised
+the flight crew over the CTAF that snow removal was in progress on runway 35. The first officer
+asked how long it would take for the snow removal equipment to exit the runway, and the CVR
+recorded no reply. He repeated the question, and, again, no reply was recorded.5
+At 0953:31, the first officer stated, “oh well we gotta get out there anyway,” and the
+captain replied, “well runway three one is here.” According to the airport configuration diagram,
+the airplane was parked on the ramp adjacent to runway 31; the taxi distance from the airplane’s
+parked location to runway 35 was approximately 1 mile.
+3 Various systems in the airplane use engine bleed air, and a pilot can turn certain systems “on” or “off” based
+on the configuration desired for the takeoff. The airplane’s anti-icing system uses 14th-stage engine bleed air that
+can be selected to flow to the wing leading edges and/or the engine cowl inlets to heat the surfaces to prevent the
+formation of ice. Other systems, such as the cabin pressurization system, use 10th-stage engine bleed air. The
+selection of engine bleed air systems reduces the available engine power for takeoff, and, therefore, has an effect on
+the length of runway required for takeoff (see the Airplane Operations and Airplane Performance sections in this
+report for more information). The airplane’s Federal Aviation Administration-approved Airplane Flight Manual
+(AFM) contains performance tables that provide takeoff runway length requirements for various engine bleed air
+system configurations at various airplane gross weights.
+4 Runway 35 was 10,000 feet long; runway 31 was 7,500 feet long.
+5 According to the airport operations manager, he had replied, “momentarily,” to the first officer’s question.
+NTSB/AAB-06/03
+
+3
+At 0953:35, the first officer stated to the captain that runway 31 was 7,500 feet long, and
+the captain asked what length of runway would be needed for takeoff, “…let’s say with the
+bleeds off.” The first officer replied, “…that’s seventy eight hundred [feet], I think…tenth [stage]
+closed.” The captain asked, “six thousand [feet]?” The first officer replied, “seventy five
+ninety…seventy eight [hundred feet].”
+The captain stated, “well we are between we are forty one thousand [pounds] so.” The
+first officer replied, “sixty eight seventy five so right at seven thousand [feet], I guess. seventy
+two hundred [feet]?” The captain stated, “okay we can do that….okay. okay we’ll go for
+[runway] three one, then. you agree?” The first officer then stated, “these number [sic] are
+always conservative anyway.”6
+At 0954:54, the first officer contacted the Denver Air Route Traffic Control Center
+controller and received the flight’s IFR clearance to SBN. The controller instructed the first
+officer to report back on his frequency after departure, the first officer acknowledged, and the
+controller received no further radio communication from the flight.
+According to the passenger seated on the right side of the cabin, while the airplane taxied
+for takeoff, slushy clumps of snow and water slid down from the top of the fuselage and across
+his window. Another passenger stated he noticed water ran off the airplane’s skin, “like it had
+taken a shower.”
+At 0957:32, the captain stated to the first officer, “you know what lets [sic] have the
+(engine) cowls7 and ah do a performance takeoff.”8 At 0958:09, the captain stated, “set power.”
+Ten seconds later, the first officer reported, “eighty knots.” At 0958:32, the first officer stated,
+“there’s vee one,”9 followed by, “rotate.” At 0958:39, the first officer asked, “want the gear up?”
+Immediately thereafter, the CVR recorded the sound of the stickpusher horn10 and the
+mechanical voice “bank angle” warning, followed by mechanical voice “five hundred” warning.
+The recording ended at 0958:46 with the sound of a loud rumble.
+The passenger seated on the right side of the cabin stated that the airplane lifted off and
+climbed to about 20 to 50 feet, then the left wing dropped abruptly and banked to an angle he
+6 The takeoff runway lengths discussed by the captain and the first officer corresponded with the dry runway (as
+opposed to a slush- or snow-contaminated runway) performance data contained in the SimuFlite Canadair
+Challenger Quick Reference Handbook that was on board the airplane. The presence of runway contamination
+increases the takeoff runway lengths required (see the Airplane Operations section in this report for more
+information).
+7 Engine cowl inlet anti-ice can be selected independently of the wing leading-edge anti-ice. The AFM contains
+performance tables that provide takeoff runway length requirements with the engine cowl inlet anti-ice “on.” The
+captain did not discuss these data after making the comment regarding the system.
+8 Generally, to perform a maximum performance takeoff, the pilot aligns the airplane on the runway, holds the
+brakes, then sets the takeoff power and allows the engines to achieve takeoff thrust before the brakes are released. A
+maximum performance takeoff enables the airplane to achieve rotation and liftoff within the shortest possible
+runway distance.
+9 Title 14 CFR 1.2 defines V as the maximum speed in the takeoff at which, in the event of an aborted takeoff,
+1
+the pilot must take the first action to stop the airplane within the accelerate-stop distance. V also refers to the
+1
+minimum speed in the takeoff at which, following a failure of the critical engine, the pilot can continue takeoff and
+achieve the required height above the surface within the takeoff distance.
+10 The sounding of the stickpusher horn is one event in a series of events that occurs as part of the airplane’s
+stall protection system, which is designed to prevent the airplane from entering an aerodynamic stall. See the
+“Additional Information, Stall Protection System” section in this report for more information.
+NTSB/AAB-06/03
+
+4
+described as greater than the 7 o’clock position. He indicated that the right wing then dropped to
+about the 5:30 position, then the left wing dropped again. He stated that he heard a loud thump,
+his upper body was knocked into the aisle, and he was hanging by the seatbelt. He stated the
+airplane then fell straight onto its nose. Another passenger, who was seated on the left side of the
+cabin, estimated that the airplane had climbed to about 20 to 25 feet when the left wing initially
+“fell” as if “bricks had been dropped” on it, then it “violently slammed back to the right.” He
+stated the left wing then banked back down and struck the ground, and the airplane’s nose was
+down. He stated an explosion of dirt then came through the cabin from the front of the airplane.
+One witness, who was west of the airport driving northbound on Highway 50, stated that
+he saw the airplane off to his right as it rolled on the runway. He indicated that the airplane was
+headed north but that the nose of the airplane turned sideways toward the right side of the
+runway and he then saw a flash of flame. He stated that the nose of the airplane faced east
+perpendicular to the direction of the runway and that the airplane slid along the ground in a
+northerly direction while smoke and flames came up behind it. Witnesses in a building near the
+departure end of the runway reported that they heard a loud “boom” and “whooshing” noise and
+that they looked out the window and saw the airplane on the ground in flames.
+PILOT INFORMATION
+The Captain
+The captain, age 50, held an airline transport pilot (ATP) certificate with a rating for
+airplane multiengine land and type ratings for Canadair CL-600,11 Canadair CL-604, Hawker
+Siddeley HS-125, Cessna CE-500, Cessna CE-650, and Beech BE-300 airplanes. He also held
+commercial pilot privileges for airplane single-engine land and rotorcraft-helicopter and a type
+rating for Agusta A-109 helicopters. He held a flight instructor certificate with a rating for
+airplane single-engine. His most recent Federal Aviation Administration (FAA) first-class airman
+medical certificate was issued May 25, 2004, with the restriction, “Holder shall possess glasses
+that correct for near vision while flying.” He was hired by Air Castle on May 19, 2004.
+According to Air Castle records, the captain had accumulated 12,396 total flight hours,
+which included 10,851 hours pilot-in-command, 5,644 hours in turbine-powered airplanes,
+913 hours in Canadair CL-60112 airplanes, and 28 hours in Canadair CL-604 airplanes. He had
+flown 165 hours, 87 hours, and 1.7 hours in the last 90 days, 30 days, and 24 hours, respectively.
+All of those hours were accumulated in Canadair CL-600-2A12 airplanes.
+The captain’s most recent Part 135 pilot-in-command competency/proficiency check was
+accomplished June 7, 2004, in a Canadair CL-601 airplane. Air Castle assigned him as captain of
+Canadair CL-601 airplanes on July 29, 2004.
+A review of entries in the captain’s logbook from January 2000 to November 2004 was
+performed to determine the captain’s recent flight experience in winter weather conditions. The
+review revealed that, during that timeframe, the captain was a flight crewmember on 18 flights in
+which takeoffs were performed from airports in the northern half of the United States and
+11 With respect to airmen, the CL-600 type rating included Canadair CL-600-2A12 airplanes.
+12 With respect to airplanes, the CL-601 variant included Canadair CL-600-2A12 airplanes.
+NTSB/AAB-06/03
+
+5
+Canada during the months of November through March. A review of archived weather data for
+all 18 flights revealed that none of the flights were performed in winter weather conditions
+similar to the conditions that prevailed for the accident flight.
+The First Officer
+The first officer, age 30, held an ATP certificate with a rating for airplane multiengine
+land and a type rating for Hawker Siddeley HS-125 airplanes. He also held commercial pilot
+privileges for airplane single-engine land. His most recent FAA first-class airman medical
+certificate was issued April 22, 2004, with the restriction, “Must wear corrective lenses.” He was
+hired by Air Castle on September 1, 2004.
+According to Air Castle records, the first officer had accumulated 1,586 total flight hours,
+which included 1,300 hours pilot-in-command, 56 hours in turbine-powered airplanes, and
+30 hours in Canadair CL-601 airplanes. He had flown 76 hours, 30 hours, and 1.7 hours in the
+last 90 days, 30 days, and 24 hours, respectively. All of the hours within the last 30 days were
+accumulated in Canadair CL-600-2A12 airplanes.
+The first officer’s most recent Part 135 second-in-command competency/proficiency
+check was accomplished November 19, 2004, in a flight simulator. Air Castle assigned him as a
+first officer of Canadair CL-601 airplanes on November 20, 2004.
+The first officer’s logbook was not recovered for examination. A review of training and
+employment records indicated that his training and previous employment experience were in
+Florida.
+Captain and First Officer’s 72-Hour Duty History
+The captain and the first officer each resided within the eastern time zone. According to
+Air Castle records, both the captain and the first officer flew the same schedule from
+November 23, 2004, until the time of the accident.13 Although the flight crewmembers’ multiple
+arrivals and departures occurred in various time zones, all times reported for their 72-hour duty
+history have been converted to eastern standard time to illustrate the times relative to the time
+zone in which the captain and the first officer lived.
+On November 24, 2004, the captain and the first officer traveled as passengers on a flight
+from Fort Lauderdale, Florida, which departed about 1600, to Nice, France, and arrived there
+about 0230 the following morning.14 They checked into a local hotel for about 20 hours.
+On November 26, 2004, about 0130, the captain and the first officer began a trip
+sequence with a departure from Cote d’Azur Airport (LFMN) in Nice.15 The flight was en route
+13 According to Air Castle records, the captain went on duty on November 18, 2004, and served each day until
+the accident as either pilot or as a commercial passenger being repositioned. The captain slept in a different time
+zone every night from November 18 to November 23, 2004, alternating nightly between the east and west coasts of
+the United States. The first officer was off duty on November 22, 2004, before he was paired with the captain the
+next day.
+14 The local time in Nice (central European time) was 6 hours ahead of eastern standard time.
+15 An international relief officer was also on board during this trip sequence to assist in the flying duties.
+NTSB/AAB-06/03
+
+6
+to Millville Municipal Airport (MIV), Millville, New Jersey, with intermediate stops at Keflavik
+Airport, Keflavik, Iceland, and Bangor International Airport, Bangor, Maine. They arrived at
+MIV about 1705, having each accumulated 17 hours 5 minutes of duty time16 during the three-
+leg trip. According to Air Castle records, the captain left the airport hangar about 1805 to drive to
+his local apartment, and the first officer stayed at a local hotel. A review of the captain’s cellular
+telephone records showed multiple calls, either placed or received, from about 1830 to 2058.
+According to Air Castle records, a ground transportation vehicle picked up the
+crewmembers the next morning between 0630 to 0645 at MIV and transported them to
+Philadelphia, Pennsylvania, to catch a flight on which they traveled as passengers to Los
+Angeles. They arrived in Los Angeles about 1513.17 They then traveled by ground transportation
+to Van Nuys and checked into a local hotel about 1630. The captain’s cellular telephone records
+showed multiple calls from 1514 to 2332.
+According to Air Castle records, the next morning, the day of the accident, the captain
+and the first officer went on duty at VNY at 0830. They departed from VNY in the accident
+airplane at 0944, and arrived at MTJ at 1110, which was 0910 local time.
+The Flight Attendant
+The flight attendant, age 36, was hired by Air Castle on November 26, 2004, after having
+worked for about 1 month as a contract employee. He completed flight attendant ground training
+on November 10, 2004, and was company-certified for Gulfstream G-1159 airplanes and
+Canadair CL-600 airplanes. He was formerly a flight attendant with US Airways, Inc.
+AIRPLANE INFORMATION
+The CL-600-2A12 airplane, serial number (S/N) 3009, was manufactured by Canadair
+(now Bombardier) in 1983. It was equipped with two General Electric CF34-3A2 turbofan
+engines (S/N 350485, left; S/N 350486, right), each rated at 8,729 pounds of thrust. The airplane
+was certificated as a transport-category airplane and was approved for flight into known icing
+conditions. According to the airplane’s weight and balance data sheet, dated February 27, 2002,
+the airplane was configured with a pilot seat, a copilot seat, a jumpseat, six individual passengers
+seats, and a couch-style bench with four passenger positions (each position had a seat belt).
+The airplane was maintained under an FAA-approved continuous airworthiness program.
+According to the operator, the most recent inspection, a 100-hour airframe inspection, was
+accomplished November 26, 2004, at an airframe total time of 14,317 hours and 8,910 landings.
+Each engine had accumulated 9,087 hours total time, 3,056 hours since overhaul, and
+6,072 cycles.
+16 According to Air Castle company procedures, flight crewmembers were on duty from 1 hour before departure
+until 30 minutes after arrival.
+17 The local time in Van Nuys (Pacific standard time) was 3 hours behind eastern standard time.
+NTSB/AAB-06/03
+
+7
+METEOROLOGICAL INFORMATION
+MTJ is equipped with an automated surface observing system (ASOS) that automatically
+records routine aviation weather reports (METARs) and special reports (SPECI).18 The METAR
+observations recorded immediately before and after the time of the accident included the
+following:
+At 0953, reported conditions included calm wind, visibility 1 1/4 miles in light
+snow and mist, few clouds at 500 feet, ceiling overcast at 900 feet, temperature -
+1º Celsius (C), and dew point -2º C. Remarks: automated observation system,
+hourly precipitation less than 0.01 inches (trace), and freezing rain sensor not
+operating.
+At 1004, reported conditions included wind from 340º at 5 knots, visibility 1 mile
+in light snow and mist, ceiling overcast at 700 feet, temperature -2º C, and dew
+point -2º C. Remarks: automated observation system, hourly precipitation less
+than 0.01 inches (trace), and freezing rain sensor not operating.
+The surface analysis chart for 1100 depicted a low-pressure system over central
+Colorado. An occluded front extended from the low in central Colorado to southeast Colorado,
+where the occluded front split into a cold front. The cold front extended from southeast Colorado
+to New Mexico and Mexico. Another low-pressure system was located over southeast Colorado
+and was along a warm front that extended east-southeast from the low-pressure system. MTJ was
+located on the cold-air side of the occluded front to the west and southwest of the surface low-
+pressure systems.
+The radar mosaic of all regional weather surveillance radars at 0958 depicted several
+areas of “very light” intensity echoes surrounding MTJ, with reflectivities ranging from 5 to
+20 decibels.
+An upper air data sounding obtained from an observation site in Grand Junction,
+Colorado, approximately 45 miles northwest of the accident site, depicted a moist low-level
+environment with a relative humidity of 75 percent or greater from the surface to 22,000 feet
+mean sea level (msl).
+The National Weather Service (NWS) issued an airmen’s meteorological information
+(AIRMET) Zulu update 2 at 0745, and it was valid until 1400 for a region that included MTJ.
+The AIRMET indicated occasional moderate rime or mixed icing conditions in clouds and in
+precipitation from the freezing level, which was identified as from the surface to 8,000 feet msl,
+up to 24,000 feet msl.
+A review of the CVR transcript indicated that, before takeoff, the flight crew listened to
+the airport’s automated weather observation. The CVR recorded that the weather observation
+included, “light snow, mist…temperature minus zero two celsius, dew point minus zero three
+celsius.”
+18 SPECI reports are issued under certain criteria, which include but are not limited to: wind shift, visibility
+changes, runway visual range changes, freezing precipitation, and ice pellets. Details and specific issuance criteria
+can be found in the National Weather Service Federal Meteorological Handbook Number 1.
+NTSB/AAB-06/03
+
+8
+According to records obtained from the DynCorp direct user access terminal service
+(DUATS), the captain logged into the system at 0637 and accessed the area forecast and
+AIRMET information for the flight from VNY to MTJ. He filed a flight plan for that flight,
+which included an estimated time en route of 1 hour 16 minutes at flight level 330 (33,000 feet
+pressure altitude). A review of soundings across the region indicated that, at that cruise altitude,
+the airplane would be exposed to a temperature of about -47º C.
+A review of air traffic control transcripts indicated that the captain telephoned the Denver
+automated flight service station (AFSS) about 0920 to file the IFR flight plan from MTJ to SBN.
+The Denver AFSS briefer asked the captain if he would like information on “…the latest in
+adverse conditions for this route of flight or anything else I can get for you or do for you,” and
+the captain replied, “…I have that.”
+In postaccident interviews, two passengers stated snow was falling while the airplane was
+parked at MTJ. One of the passengers, who had briefly exited the airplane and walked to the
+FBO building, stated that his shoes became soaked by what he estimated to be 2 to 2 1/2 inches
+of slush on the ground. The other passenger estimated there was about 1 inch of slush on the
+ground.
+The airport operations manager stated heavy snow was falling when the airplane landed
+at MTJ, and snow showers with fog were present at the time it departed.
+AIRPORT INFORMATION
+MTJ is located about 2 miles west of Montrose at an elevation of 5,759 feet msl. It has
+two asphalt runways: runway 17-35 is 10,000 feet long and 150 feet wide, and runway 13-31 is
+7,500 feet long and 100 feet wide.
+According to the airport operations manager, snow removal operations had been in effect
+at the airport from 0200 to 0700. He stated that, about 0730, snow began to fall again, and a
+notice to airmen (NOTAM) was issued that stated, “all surfaces 1/4 inch wet snow.” He stated
+that, about 0830, braking action measurements were taken, recorded, and reported to inbound
+flights, which included the accident flight when it arrived at MTJ that morning. The airport
+operations manager stated that, after the accident airplane landed, one of the pilots reported that
+the braking action was “fair.”
+The airport operations manager stated that snow removal operations on both runways
+resumed about 0950. He stated that, at the time the accident airplane departed, a snowplow had
+cleared a 40-foot swath down the center of the runway 31 along its entire length, which left a
+3-inch ridge of wet snow along the borders of the cleared area. Outside the cleared area, the
+runway had about 1/4 inch of snow on its surface.
+FLIGHT RECORDERS
+The airplane was equipped with a Fairchild A-100 CVR. There was extensive fire
+damage to the exterior of the unit. The tape inside the unit was intact, and “fair”-to-“excellent”19
+19 The National Transportation Safety Board uses the following categories to classify the levels of CVR
+recording quality: excellent, good, fair, poor, and unusable. An excellent quality recording is one in which virtually
+NTSB/AAB-06/03
+
+9
+quality analog audio data were preserved on the tape. A CVR group was convened on
+December 7, 2004, and a transcript was prepared covering the period from 09:41:44 to
+09:58:46.20
+The airplane was not equipped, and was not required to be equipped, with a flight data
+recorder.21
+WRECKAGE AND IMPACT INFORMATION
+The main wreckage, which included the fuselage, empennage, sections of both wings,
+and both engines, was at the northwest end of a 1,390-foot debris path that originated off the
+right side of runway 31. Both engine cowls were consumed by fire, the engine mounts were fire-
+damaged, and the engines were separated at the damaged mounts.
+The initial impact ground scar was observed in the grass off the east side of runway 31;
+the scar originated 44 feet from the runway’s east edge about 636 feet from the north end of the
+runway (about 6,864 feet from the runway threshold). The ground scar was 5 inches wide and
+extended 16 feet along a 310º magnetic heading. An impact crater 62 inches long, 20 inches
+wide, and 10 inches deep was observed about 10 feet 6 inches northwest of the initial impact
+scar; the east side of the crater was inclined 31º. The debris field, which was 300 feet across at its
+widest point, continued northwest to the main wreckage.
+The outboard 60 inches of the left wing and the left winglet were separated and located
+within the first 219 feet of the debris field; the left-wing, leading-edge skin was separated along
+the seams with dirt and grass embedded between the seams. The left aileron quadrant and the
+nose fuselage radome were also separated and found within the debris field. The nosewheel, the
+nose landing gear strut, the cockpit windshield and glareshield, the main cabin door and stairs,
+and the left outboard main landing gear brake assembly and wheel were also separated.
+Examination of all flap jackscrew actuator positions (four on the left side and four on the
+right side) showed the configuration was consistent with a flap setting of 20º. Damage precluded
+the determination of the pre-crash configuration of the 14th-stage engine bleed air engine cowl
+inlet anti-ice and wing leading-edge anti-ice systems.
+all of the crew conversations can be accurately and easily understood. A fair quality recording is one in which the
+majority of the crew conversations are intelligible, but cockpit noise or minor electrical or mechanical failure of the
+CVR may have obscured or distorted portions of the audio information. For additional information on the CVR
+transcript, see the docket for this accident.
+20 The first 20 minutes of the recording was not transcribed. During this period, the CVR recorded sounds
+similar to movement and low-level (unintelligible) background conversation, as well as sounds from the radio
+similar to the captain filing a flight plan, ground-based reports of the snow removal progress on runway 31, and a
+takeoff announcement from the pilot of another aircraft.
+21 According to 14 CFR 135.152, an approved flight recorder is required for a multiengine, turbine-powered
+airplane or rotorcraft that has a passenger seating configuration (excluding any required crewmember seat) of 10 to
+19 seats, and that was brought onto the U.S. register (or was registered outside the United States and added to the
+operator’s U.S. operations specifications) after October 11, 1991. The accident airplane was U.S.-registered before
+1991.
+NTSB/AAB-06/03
+
+10
+MEDICAL AND PATHOLOGICAL INFORMATION
+Autopsies were performed on the captain and the flight attendant by a medical examiner
+under the authority of the Montrose County Coroner’s Office, Montrose Memorial Hospital,
+Division of Forensic Pathology. The autopsy reports stated the cause of death for the captain and
+flight attendant was “impact injuries.”
+Forensic toxicology examination of specimens from the captain, first officer, and flight
+attendant were performed by the FAA Bioaeronautical Sciences Research Laboratory, Oklahoma
+City, Oklahoma. For the captain, the report stated that no carbon monoxide or cyanide was
+detected in the blood and that no ethanol or drugs were detected in the urine. For the first officer,
+the report stated that lidocaine, an anesthetic, was detected in the blood; the blood sample was
+taken after medical treatment. For the flight attendant, the report stated that no carbon monoxide
+or cyanide was detected in the blood and that no ethanol or drugs were detected in the urine. The
+report stated that diphenhydramine was detected in the liver and that 0.297 (ug/ml, ug/g)
+diphenhydramine (found in common over-the-counter medications) was detected in the blood.
+The Montrose County Coroner determined that the cause of death for the fatally injured
+passenger was “multiple traumatic injuries.”
+SURVIVAL ASPECTS
+The two surviving passengers stated that neither the pilots nor the flight attendant
+provided a pretakeoff safety briefing22 before the accident flight or before the previous flight
+from VNY to MTJ.
+The passenger who was seated on the right side of the cabin in a forward-facing seat
+stated he had his seatbelt fastened with about 5 or 6 inches of slack. He stated that the passenger
+who sustained fatal injuries was seated across the aisle from him with his seatbelt fastened.
+The passenger who was seated in the left rear forward-facing seat initially stated to
+investigators in a telephone interview that he had his seatbelt fastened; he subsequently stated
+that he did not have it fastened. He stated that, when the airplane came to a stop after the crash
+sequence, he observed a breach in the vicinity of the cabin door. He also observed that the
+passenger who had been seated on the right side of the cabin was completely buried under cabin
+debris; he dug that passenger out of the debris and dragged him out of the airplane. He noticed
+fire had erupted, and he tried to re-enter the cabin to attempt to locate the other passenger but
+was forced to retreat by the rapidly growing and intense fire. The other passenger’s body was
+later found beneath the wreckage.
+22 According to 14 CFR 135.117, “Briefing of passengers before flight,” each pilot in command must ensure
+before each takeoff that passengers have been orally briefed (either by a qualified person or by an approved
+recording) on certain safety information, including the requirements for the use of safety belts, the location and
+operation of doors and emergency exits, the location and operation of fire extinguishers, and other safety
+information.
+NTSB/AAB-06/03
+
+11
+TESTS AND RESEARCH
+Airplane Operations
+The airplane’s maximum permitted gross takeoff weight was 44,600 pounds, and the
+airplane’s estimated takeoff weight for the accident flight was 41,600 pounds. The airplane’s
+takeoff center of gravity (CG) was estimated to be 20.6 percent mean aerodynamic chord
+(MAC). According to the airplane’s AFM, the CG limits for the airplane were from 16 to 35
+percent MAC.
+According to the AFM’s Operating Limitations section, “during cold weather operations,
+the flight crew must ensure that the airplane fuselage, wings and tail surfaces are free from ice,
+snow or frost.” The AFM also stated that, during ground operations, the engine cowl inlet anti-
+ice and the wing leading-edge anti-ice must be “on” when the outside air temperature is 10º C or
+lower and visible moisture in any form is present.23
+The diversion of 14th-stage engine bleed air for the engine cowl inlet anti-ice and the
+wing leading-edge anti-ice reduces the available engine power for takeoff, and the AFM
+contained data tables for pilots to use when determining the dry runway takeoff length24 required
+with the systems in various configurations. According to the AFM tables, an airplane25 at
+40,000 pounds gross weight with only the engine cowl inlet anti-ice “on” required a dry runway
+takeoff length of about 7,150 feet. An airplane with the same gross weight with both the engine
+cowl inlet anti-ice and the wing leading-edge anti-ice “on” required a dry runway takeoff length
+of about 7,900 feet. The AFM tables indicated that an airplane at 42,000 pounds gross weight
+with only the engine cowl inlet anti-ice “on” required a dry runway takeoff length of about
+8,000 feet and that an airplane with a gross weight of 42,000 pounds and both the engine cowl
+inlet anti-ice and the wing leading-edge anti-ice “on” required a dry runway takeoff length of
+about 8,800 feet.
+The AFM for the accident airplane did not contain, and was not required to contain,26
+FAA-approved operational planning tables with data for operations on a contaminated runway.27
+According to Air Castle personnel, the accident airplane’s AFM contained a section labeled
+“unapproved supplements”28 that contained performance-planning tables that were not FAA-
+23 The AFM also stated that, when the airplane is operated on runways, ramps, or taxiways on which surface
+snow, ice, standing water, or slush is present, the engine cowl inlet anti-ice must be “on” when the outside air
+temperature is 10º C or lower, and the wing leading edge anti-ice must be “on” when the outside air temperature is
+5º C or lower.
+24 For operational planning purposes, takeoff runway length is the greater of the distance required to accelerate
+to V and then come to a full stop, or the distance required to accelerate to V and then continue acceleration with an
+1 1
+engine failed, to rotate, and to climb to a height of 35 feet above the runway surface.
+25 These data are for an airplane configured with the appropriate takeoff flap setting, the appropriate horizontal
+stabilizer trim setting, CG at 20.6 percent MAC, and 10th-stage engine bleed air “off.”
+26 According to 14 CFR 25.1, which prescribes airworthiness standards for the certification of transport-
+category airplanes, “the landing distance on land must be determined on a level, smooth, dry, hard-surfaced
+runway.” There are no requirements for the determination of landing distances on a wet or contaminated runway.
+27 The presence of runway contamination increases the takeoff runway lengths required due to reduced
+acceleration during the takeoff ground roll, as well as reduced braking effectiveness during an aborted takeoff.
+28The supplements were not approved by the FAA, and, according to the AFM, were to have been kept separate
+from the FAA-approved contents of the AFM. According to the Canadair CL-600-2A12 Airplane Operating
+NTSB/AAB-06/03
+
+12
+approved (commonly referred to as “blue charts” because they are printed on blue paper) that
+included data for operations on contaminated runways. According to Air Castle personnel, the
+company required that pilots obtain performance data for operations on contaminated runways
+from the blue charts or from the SimuFlite Canadair Challenger Quick Reference Handbook
+(QRH) that was on board the airplane.29
+Air Castle did not have, and was not required to have, a specific winter operations
+manual. Air Castle had an FAA-approved ground deicing and anti-icing program, which was
+contained in the company’s General Operations Manual. According to the General Operations
+Manual, “No pilot-in-command will take off an aircraft that has frost, ice, or snow adhering to
+any windshield, wing, stabilizing or control surface…except under the conditions listed
+in…[14 CFR] 135.227,” which states, in part:
+…no pilot may take off an airplane any time conditions are such that frost, ice, or
+snow may reasonably be expected to adhere to the airplane unless the pilot has
+completed all applicable training as required by [14 CFR] 135.341 and unless one
+of the following requirements is met: (1) A pretakeoff contamination check, that
+has been established by the certificate holder and approved by the Administrator
+for the specific airplane type, has been completed within 5 minutes prior to
+beginning takeoff. A pretakeoff contamination check is a check to make sure the
+wings and control surfaces are free of frost, ice, or snow. (2) The certificate holder
+has an approved alternative procedure and under that procedure the airplane is
+determined to be free of frost, ice, or snow. (3) The certificate holder has an
+approved deicing/anti-icing program that complies with [14 CFR] 121.629(c)[30]
+of this chapter and the takeoff complies with that program.
+Air Castle pilots received instruction regarding winter operations during initial company
+training via the General Operations Manual and Operations Specifications and during airplane-
+specific training provided by outside vendors. The training addressed the following: types and
+characteristics of deicing/anti-icing fluids; the use of holdover times when using deicing/anti-
+icing fluids; deicing/anti-icing procedures, including inspection and check procedures and
+responsibilities; surface contamination, critical area identification, and knowledge of how the
+adherence of frost, ice, or snow adversely affects performance and flight characteristics; cold
+weather preflight inspection procedures; and techniques for recognizing contamination.
+As an on-demand Part 135 operator, Air Castle did not provide, and was not required to
+provide, a formal crew resource management (CRM) training program. The FAA currently
+Manual, Supplementary Procedures, Section 1, when runway contamination is present, takeoff distance and V1 must
+be determined with reference to the data shown in the AFM Unapproved Supplement 2, “Operation On
+Contaminated Runways.” Canadair also recommended that pilots should not attempt a takeoff on a runway
+contaminated with more than 1/4 inch of standing water or slush.
+29 The data in the QRH were also not FAA-approved and, therefore, were kept separate from the approved
+contents of the AFM. According to these data, an airplane at 40,000 pounds gross weight with the anti-ice systems
+“on” required a contaminated runway takeoff length of about 10,800 feet. An airplane at 42,000 pounds gross
+weight with the anti-ice systems “on” required a contaminated runway takeoff length of about 12,100 feet.
+30 Title 14 CFR 121.629 outlines the requirements for an approved ground deicing/anti-icing program,
+procedures, and training, among other requirements.
+NTSB/AAB-06/03
+
+13
+requires formal CRM training programs for Part 121 operators only.31 Air Castle pilots received
+some CRM training during the company’s initial, transition, upgrade, recurrent, and/or
+qualification training, as well as during airplane-specific training conducted by outside vendors.
+Airplane Performance
+An airplane performance study32 was conducted using weather data, runway and ground
+scar information, the manufacturer’s performance models, and elapsed time data obtained from
+the CVR to calculate the accident airplane’s performance and location during key events, such as
+rotation and liftoff. The calculated performance was then compared with model data that were
+based upon the takeoff roll for an aerodynamically clean (that is, free of wing surface
+contamination, such as ice or frost), normally operating airplane with a comparable weight, CG,
+and flap setting as estimated for the accident airplane, as well as the same elevation, atmospheric
+conditions, and runway conditions present at the time of the accident.
+The study included a model of the airplane’s performance with the 14th-stage engine
+bleed air anti-icing systems “off,” as well as with both the engine cowl inlet anti-ice and the wing
+leading-edge anti-ice “on.” Because the diversion of 14th-stage engine bleed air for the anti-ice
+systems reduces the available engine power for takeoff and the configuration of the bleed air
+system on the accident airplane could not be determined from the wreckage, the configurations
+depicted in the study provided upper and lower boundaries for the airplane’s performance during
+takeoff roll.
+According to the performance model, the takeoff configuration with the 14th-stage
+engine bleed air anti-ice systems “off” would require about 3,500 feet of runway to accelerate to
+V (rotation speed) and about 3,900 feet of runway to achieve liftoff. The takeoff configuration
+R
+with both the engine cowl inlet anti-ice and wing anti-ice “on” would require about 4,000 feet of
+runway to accelerate to V and about 4,500 feet of runway to achieve liftoff. The study results
+R
+showed that the accident airplane’s acceleration and takeoff roll were reasonably correlated to a
+normal takeoff. In particular, the elapsed estimated timing of the events recorded by the CVR
+was within the upper and lower boundaries provided by the model’s calculated range of
+performance for the airplane’s takeoff roll in both engine bleed air configurations.
+The study also correlated the calculated takeoff roll distances with the location of the
+initial ground scar and concluded that, on the basis of the performance model data, rotation and
+liftoff of the accident airplane occurred when the airplane was between 3,900 to 4,500 feet from
+the threshold of runway 31. The CVR recording of the stickpusher horn indicated that the
+accident airplane reached a high angle of attack (AOA) but did not establish a positive climb
+rate. The study showed that an aerodynamically clean airplane at a similar calculated airspeed
+would have begun establishing a positive climb rate after rotation at an AOA lower than that
+required for activation of the stickshaker or stickpusher.
+31 Between 1980 and 2003, the Safety Board repeatedly recommended that the FAA revise Part 135 to require
+on-demand charter operators that conduct operations with aircraft requiring two or more pilots to establish an FAA-
+approved CRM training program for their flight crews in accordance with Part 121, subparts N and O. For more
+information, see Safety Recommendations A-80-42, A-94-196, A-02-12, and A-03-52, which are available on the
+Safety Board’s Web site at <http://www.ntsb.gov>.
+32 For more information about this study, see the Aircraft Performance Study in the docket for this accident.
+NTSB/AAB-06/03
+
+14
+Previous airplane accident investigations have shown that large rolling motions are often
+caused by local separation of airflow on the wing. Local airflow separation, the occurrence of
+aerodynamic stall before the activation of the stickpusher, and a greater-than-expected stall
+airspeed are consistent with upper wing surface contamination.33 The study conducted for this
+investigation concluded that the accident airplane’s performance just before the accident (that is,
+large roll excursions as reported by the surviving passengers, high AOA accompanied by
+activation of the stickpusher horn, and failure to establish a positive climb rate) is consistent with
+upper wing surface contamination.
+Effect of Wing Surface Contamination on Airplane Performance
+Previous Safety Board investigations of takeoff accidents involving airplanes with
+contaminated upper wing surfaces34 have found that the presence of a small amount of surface
+roughness on the upper wing surface can reduce maximum lift by as much as 33 percent,
+depending upon the extent and level of roughness. Wind tunnel and flight-testing by the accident
+airplane manufacturer indicated that the presence of surface roughness equivalent to 40-grit
+sandpaper on a CL-600-2A12-type wing can reduce the stall AOA up to 7º compared to the stall
+AOA of an uncontaminated wing. Once localized airflow separation begins on a portion of a
+contaminated wing, that wing can stall before the other one, which results in lift asymmetry and
+large roll rates that are not responsive to control inputs.
+ORGANIZATIONAL AND MANAGEMENT INFORMATION
+Air Taxi Organization
+Air Castle Corporation was founded in 1990, and its corporate headquarters were located
+in Millville. It was one of several companies that were part of the Winfair Aviation Group,
+headquartered in Delaware. Air Castle held a Part 135 operating certificate issued September 23,
+2003, and was authorized to perform on-demand operations with Gulfstream G-1159A airplanes
+and CL-600-2A12 airplanes under the business names of California Airways, Global Airways,
+and Global Aviation. Air Castle leased the accident airplane from Hop-a-Jet.
+Airworthiness Directives
+On February 8, 2005, Transport Canada issued Airworthiness Directive (AD) CF-2005-
+03, applicable to Bombardier model CL-600-1A11 (600), -2A12 (601 variant), and -2B16 (601-
+3A, 601-3R, and 604 variants) airplanes; the FAA issued AD 2005-04-07, applicable to the same
+airplane models, on February 17, 2005. Both ADs require that the AFM be revised to include a
+33 Upper wing contamination refers to contamination that accumulates generally on the entire upper surfaces of
+the wing; such contamination is usually accumulated while the airplane is on the ground. In contrast, wing leading-
+edge contamination typically accretes while the airplane is in flight.
+34 See a) National Transportation Safety Board, Takeoff Stall in Icing Conditions, USAir flight 405, Fokker
+F-28, N485US, LaGuardia Airport, Flushing, New York, March 22, 1992, Aircraft Accident Report NTSB/AAR-
+93/02 (Washington, DC: NTSB, 1993), and b) National Transportation Safety Board, Loss of Control on Takeoff,
+Cleveland-Hopkins International Airport, Cleveland, Ohio, February 17, 1991, Aircraft Accident Report
+NTSB/AAR91-09 (Washington, DC: NTSB, 1991).
+NTSB/AAB-06/03
+
+15
+new cold-weather operations limitation. AD 2005-04-07 states, “Even small amounts of frost,
+ice, snow, or slush on the wing surfaces can cause an adverse change in the stall speeds, stall
+characteristics, and the protection provided by the stall protection system. We are issuing this AD
+to prevent possible loss of control on takeoff resulting from even small amounts of frost, ice,
+snow, or slush on the wing leading edges or forward upper wing surfaces.”35 The ADs also
+require compliance with temporary revisions to the airplanes’ AFMs, which specify that, “in
+addition to a visual check, a tactile check must be done to determine that the wing is free from
+frost, ice, snow, or slush.”
+Additionally, in October 2005, Bombardier Aerospace developed an airplane icing
+awareness program, titled “Icing Awareness, Preflight Considerations,” and distributed copies of
+it to operators of Bombardier regional jets and business jets. The topics covered by the program
+included low-speed aerodynamics, effects of contamination, contamination formation, and
+contamination removal and protection.
+ADDITIONAL INFORMATION
+Supercritical Wing
+The accident airplane’s wing design uses what is known as a supercritical airfoil, which
+is designed to reduce drag at the airplane’s cruise airspeed. This airfoil design, when contrasted
+with more conventional airfoils, is characterized by a larger leading-edge radius, reduced
+upper-surface camber, and a concavity in the lower aft surface. These features provide a reduced
+drag at high airspeeds, yet the airfoil behaves much like a conventional airfoil at lower airspeeds.
+At lower airspeeds, the pressure distribution on the upper surface of the wing is peaked near the
+leading edge, and this peak increases with increasing AOA. As the AOA increases beyond the
+natural stall AOA, the pressure gradient in the leading-edge region reaches a critical value, and
+flow separation initiates. Depending on the spanwise location of the separation onset, the region
+of separated flow can grow rapidly to adjacent spanwise locations, eventually stalling the entire
+wing and resulting in a large drop in lift and an increase in drag.
+According to the manufacturer, during natural aerodynamic stall of the CL-600-2A12
+airplane, one wing typically stalls before the other once the natural stall angle of attack is
+exceeded, resulting in asymmetrical lift. Large roll rates and roll angles can then develop,
+depending upon pilot action.
+Previous CL-600-2B16 Accident
+The Air Accidents Investigation Branch (AAIB) of the United Kingdom investigated the
+January 4, 200236 crash of an FDR- and CVR-equipped Bombardier CL-600-2B16 at
+Birmingham Airport. The investigation showed that the airplane’s takeoff roll was normal up to
+35 At the time this accident occurred, these ADs were already under development in response to a January 4,
+2002, accident in Birmingham, England, involving a Canadair CL-604. The information contained in the ADs was a
+reiteration and expansion of the information already available to the accident flight crew in the AFM.
+36 For more information, see AAIB Aircraft Accident Report No: 5/2004 (EW/C2002/1/2), which is available
+on the AAIB Web site at <http://www.aaib.dft.gov.uk/cms_resources/dft_avsafety_pdf_030576.pdf>.
+NTSB/AAB-06/03
+
+16
+the time of liftoff. Immediately after liftoff, however, the airplane rolled to the left despite
+full-right-aileron and right-rudder application by the flight crew. Within 3.5 seconds after liftoff,
+the bank angle aural warning and the stickshaker activated, and the airplane struck the ground
+about 5.5 seconds after liftoff at a bank angle of 111º left-wing down and a pitch angle of 13º
+airplane-nose down. The AAIB investigation concluded the following:
+The roll had resulted from the left wing stalling at an abnormally low angle of attack due
+to flow disturbance resulting from frost contamination of the wing. A relatively small degree of
+wing surface roughness had a major adverse effect on the wing stall characteristics and the stall
+protection system was ineffective in this situation.
+Stall Protection System
+The natural aerodynamic stall characteristics of the CL-600-2A12 airplane do not
+inherently meet the airworthiness standards specified under 14 CFR 25.203, “Stall
+characteristics;” the airplane achieves its airworthiness compliance for stall characteristics under
+the provisions of 14 CFR 25.21, which allow for “a stability augmentation system or another
+automatic or power-operated system” to be used.
+To prevent the airplane from entering a natural aerodynamic stall, the CL-600-2A12
+airplane was equipped with a stall protection system that uses AOA sensor vanes that activate the
+system at an AOA lower than that at which a natural aerodynamic stall occurs. In the event that
+the airplane achieves an AOA sufficient to activate the system, the system responds with a series
+of progressive reactions. For example, as the AOA increases, the system first responds by
+activating the engine autoignition, then it activates the artificial stall identification (stickshaker),
+and, lastly, it engages the stickpusher (concurrent with the stickpusher horn) to decrease the
+airplane’s AOA and prevent the onset of stall. Because the stickpusher is designed to activate
+before a stall condition can develop, it is described as a pre-stall pusher.
+According to system design information from the manufacturer, stall protection system
+activation angles are a function of the flap setting and altitude.37 For the accident aircraft flaps
+setting of 20º and the elevation at MTJ, the stickshaker activation occurs when either of the AOA
+sensor vanes reaches 20º, the stall horn and "STALL PUSH" warning lights in the cockpit
+activate when either of the AOA sensor vanes reaches 24º, and the stickpusher activates when
+both sensor vanes exceed 24º.
+Anti-Icing Systems
+According to the accident airplane’s AFM, the airplane was equipped with thermal and
+electrical anti-icing systems. The electrical anti-icing system was installed for the windshields
+and various air data system sensors, including the stall protection system AOA sensor vanes. The
+thermal anti-icing system, which uses 14th-stage engine bleed air, was installed for the wing
+leading edges and the engine cowl inlets. The wing leading-edge anti-ice and the engine cowl
+inlet anti-ice could be operated independently of each other, and either or both could be turned
+37 Stall protection system activation angles are not changed when the ice protection system for the engine cowl
+inlets or wing leading edges are in use.
+NTSB/AAB-06/03
+
+17
+“off.” In the “normal” mode, the wing leading-edge anti-ice functions automatically by
+monitoring the temperature of the wing leading edges and controlling the flow of 14th-stage
+engine bleed air to heat the leading edges to prevent the formation of ice.
+Wet Wing Fuel Tank Design
+Conforming to a wet wing design concept, the airplane’s entire wing box structure was
+sealed to form three fuel tanks: the left and right main tanks and the primary auxiliary tank. The
+left and right main tanks were formed by the wing box structure outboard of the wing root area.
+Thus, if the main tanks were filled to maximum capacity, the fuel would come in contact with the
+sealed upper wing skin area. According to the AFM, “takeoff with more than 500 pounds of fuel
+in the auxiliary tank is permitted, provided that both wing tanks are full.”
+NTSB/AAB-06/03
+
+18
+ANALYSIS
+During takeoff from MTJ in snowing conditions, the Canadair CL-600-2A12 airplane
+climbed to about 20 to 50 feet, banked abruptly to the left, right, and finally to the left; the left
+wingtip then collided with the ground followed by the fuselage. The airplane slid along the
+ground for about 1,390 feet, and a postcrash fire ensued. The on-demand charter flight was
+operated under Part 135 with an IFR flight plan filed.
+According to witnesses, the airplane was parked on the ramp in snowing conditions for
+about 40 to 45 minutes before taxiing for takeoff. Weather observations for that period of time
+indicated “wet snow,” or snow with high moisture content, and temperatures between freezing
+and -2º C. A pilot-certificated witness on the ramp observed contamination on the airplane’s wing
+surfaces while it was parked on the ramp, but he was uncertain of the extent of the
+contamination. The witness stated that he did not observe either the captain or the first officer
+conduct a tactile examination of the wing surfaces. FBO personnel reported that the flight
+crewmembers did not request ground deicing services and that none were provided.
+The CVR recorded that, before engine start, the captain asked the first officer, “how do
+you see the wings?” The first officer stated, “good,” and the captain replied, “looks clear to me.”
+The airplane’s takeoff roll did not begin until about 16 minutes later. According to
+14 CFR 135.227, a pretakeoff contamination check must be completed within 5 minutes before
+takeoff any time conditions are such that contamination may reasonably be expected to adhere to
+the airplane. While the airplane was being taxied for takeoff, a passenger on board observed that
+slushy clumps of snow and water slid down from the top of the fuselage and across his window.
+For an airplane to lift off and transition to a positive climb angle, its flight controls must
+be configured for takeoff, it must achieve sufficient airspeed during the ground roll, and it must
+pitch up to a sufficient angle to allow the wings to achieve an acceptable AOA. In addition, the
+wings must be free of contamination to generate the expected lift at the appropriate airspeed and
+AOA.
+The investigation found that the airplane was configured with the flaps in the takeoff
+position. An airplane performance study conducted using weather data, runway and ground scar
+information, the airplane manufacturer’s performance models, and elapsed estimated time data
+obtained from the CVR showed that the accident airplane’s performance and acceleration during
+the takeoff roll were normal and that rotation and liftoff occurred about the expected elapsed
+time and airspeed. The accident airplane’s performance after liftoff, however, was severely
+impaired. Although the airplane achieved the appropriate liftoff airspeed, pitched up, and lifted
+off the runway, it was airborne only 8 to 9 seconds and did not transition to a climb. The study
+showed that an aerodynamically clean airplane at the same airspeed and liftoff would have
+transitioned to a positive climb. The accident airplane instead remained near the ground and
+rolled abruptly several times before it collided with the ground.
+There was no indication that the flight crew noticed any abnormal airplane performance
+before it failed to establish a positive climb. About 4 seconds after the airplane’s estimated liftoff,
+the CVR recorded the first officer ask the captain if he wanted the landing gear raised, which
+indicates that the airplane had lifted off and that the first officer expected it would transition to a
+normal climb. Within 1/2 second of the first officer’s question, however, the airplane’s
+
+19
+stickpusher horn activated, indicating that the airplane had achieved a sufficiently high AOA to
+activate the stall protection system sequence. Under normal circumstances (that is, with an
+aerodynamically clean wing) and at the airspeed the accident airplane achieved, it should have
+begun generating excess lift and accelerating into a climb at an AOA lower than that required for
+activation of the stickshaker or stickpusher.
+Within 1 second of the stickpusher horn (about 5 seconds after the estimated liftoff), the
+CVR recorded a “bank angle” (mechanical voice) warning, which indicated that the bank angle
+had exceeded 17º. Within a period of only 3.5 seconds, the airplane rolled abruptly left, right, and
+left, consistent with the passengers’ statements, and the crash occurred within only 3.7 seconds of
+the “bank angle” warning.
+Safety Board findings during previous airplane accident investigations38 have shown that
+large rolling motions are often caused by local separation of airflow from the wing due to upper
+wing surface contamination, and the AAIB noted similar findings during its investigation of an
+accident involving an FDR-equipped CL-600-2B16, which crashed in January 2002 as result of
+wing contamination. Wind tunnel and flight testing conducted by the manufacturer indicated that
+the presence of wing surface roughness equivalent to 40-grit sandpaper can reduce the stall AOA
+up to 7º compared to the stall AOA of an uncontaminated wing. Once localized airflow
+separation begins on a portion of a contaminated wing, that wing can stall before the other one,
+which results in lift asymmetry and large roll rates that are not responsive to control inputs.
+The airplane’s large roll excursions and its achievement of an AOA high enough to
+activate the stickpusher horn without establishing a positive climb rate, even though the airspeed
+was appropriate, are consistent with local separation of airflow from the wing due to upper wing
+surface contamination. The Safety Board concludes that the accident airplane failed to establish a
+positive rate of climb shortly after liftoff and began to roll because of localized airflow
+separation on the wing due to upper wing surface contamination.
+The presence of upper wing surface contamination is likely because the airplane was
+parked on the ground for about 40 to 45 minutes during freezing precipitation and it was not
+deiced. A witness observation of upper wing surface contamination while the airplane was
+parked, as well as a passenger’s observation of slush sliding from the top of the fuselage before
+takeoff, further confirm the presence of contamination. This type of contamination can easily
+accumulate while an airplane is parked and exposed to freezing precipitation and it accumulates
+on upper surface areas that cannot be protected by the wing leading-edge anti-ice system (ice on
+the wing leading edge, which the anti-ice system is designed to prevent, typically accumulates
+during flight in icing conditions).
+Additionally, the airplane had arrived at MTJ after having flown about 1 hour at flight
+level 330 (where temperatures were about -47º C) and 400 gallons of cold Jet A fuel were
+subsequently added to the airplane’s main fuel tanks (which were of the wet-wing design). As a
+result, precipitation that may have come in contact with the upper wing skin would have a strong
+tendency to freeze because the main tanks were filled to capacity with fuel that was no warmer
+38 See a) National Transportation Safety Board, Takeoff Stall in Icing Conditions, USAir flight 405, Fokker
+F-28, N485US, LaGuardia Airport, Flushing, New York, March 22, 1992, Aircraft Accident Report
+NTSB/AAR-93/02 (Washington, DC: NTSB, 1993), and b) National Transportation Safety Board, Loss of Control
+on Takeoff, Cleveland-Hopkins International Airport, Cleveland, Ohio, February 17, 1991, Aircraft Accident Report
+NTSB/AAR-91/09 (Washington, DC: NTSB, 1991).
+NTSB/AAB-06/03
+
+20
+than the outside air temperature of -3º to -1º C. The upper wing skin area that forms the top of
+the main fuel tanks is not within the wing area protected by wing leading-edge anti-ice because
+ice would not typically form there in flight. Moreover, ice accumulation in this area would likely
+have been difficult to visually detect from the cockpit because the airplane’s wing paint color
+was white.
+Following the accident, the Safety Board published a safety alert39 that summarized the
+Board’s previous findings regarding the hazards of even “almost visually imperceptible
+amounts” of upper wing surface contamination. In addition, shortly after the accident, Transport
+Canada issued AD CF-2005-03, applicable to Bombardier model CL-600-1A11 (600), -2A12
+(601 variant), and -2B16 (601-3A, 601-3R, and 604 variants) airplanes, and the FAA issued
+AD 2005-04-07, applicable to the same airplane models, to revise the AFMs to include
+requirements for visual and tactile inspections of the upper wing surfaces to identify potential
+contamination during certain cold weather operations.40 Additionally, in October 2005,
+Bombardier Aerospace developed and distributed copies of a DVD-based icing awareness
+program, titled “Icing Awareness, Preflight Considerations,” that it distributed to operators of
+Bombardier regional jets and business jets.
+Although it is evident that the upper wing surface contamination accumulated while the
+airplane was on the ground at MTJ, it is also reasonable to conclude that, on the basis of the
+passenger and witness statements, the flight crewmembers would have seen the contamination if
+they had carefully visually examined the airplane’s upper wing surfaces. Regardless, the ADs
+issued by Transport Canada and the FAA that require the tactile inspection of the upper wing
+surfaces for almost imperceptible amounts of ice are appropriate because the tactile requirement
+in particular may reinforce the seriousness of upper wing surface contamination. The Safety
+Board concludes that, had the flight crewmembers conducted a visual and tactile examination of
+the wings, they likely would have detected accumulated contamination.
+The flight crew also failed to recognize the presence of runway contamination as a
+consideration in determining the runway length required for takeoff. As recorded by the CVR,
+the captain initially planned to take off from runway 35, which is 10,000 feet long, but a
+snowplow was operating on that runway, and he did not know how long it would take for it to
+finish. He instead elected to depart from runway 31, which is 7,500 feet long and adjacent to the
+ramp where the airplane was parked (the taxi distance to runway 35 was about 1 mile).
+The captain’s pretakeoff discussions with the first officer indicated that they consulted
+the performance planning tables for dry runway conditions only. Although it was not determined
+whether the airplane’s anti-icing systems were “on” or “off, ” the CVR indicates that the captain
+initially chose to turn the systems “off” because the use of anti-ice systems reduces the available
+engine power for takeoff, thus increasing the runway length required for takeoff. The captain’s
+decision to take off from runway 31 was inappropriate because, according to the AFM, the
+prevailing weather conditions required that the systems be turned “on” and the corresponding
+runway 31 length was less than required by the AFM for even a noncontaminated runway. The
+presence of runway contamination increases the takeoff runway lengths required due to the
+39 The safety alert is available on the Safety Board’s Web site at <http://www.ntsb.gov/alerts/SA_006.pdf>.
+40 At the time this accident occurred, these ADs were under already under development in response to the
+January 4, 2002, accident in Birmingham, England, involving a Canadair CL-604. The information contained in the
+ADs was a reiteration and expansion of the information already available to the accident flight crew in the AFM.
+NTSB/AAB-06/03
+
+21
+reduced acceleration during the takeoff ground roll, as well as the reduced braking effectiveness
+during an aborted takeoff.
+The AFM for the accident airplane did not contain, and was not required to contain,
+FAA-approved operational planning tables with data for operations on a contaminated runway.
+According to Air Castle personnel, it required its pilots to obtain contaminated runway
+performance planning data from the “blue charts” and the SimuFlite Canadair Challenger QRH,
+which were informational supplements that were not FAA-approved.41 According to the QRH
+available to the flight crew, the required takeoff runway length for the airplane given the runway
+conditions and the use of anti-ice systems was greater than 11,000 feet. If the flight
+crewmembers had consulted the contaminated runway charts, they should have properly
+determined not to attempt such a takeoff, regardless of whether the aircraft was contaminated,
+because the required runway length was longer than either runway at MTJ. However, because the
+airplane achieved liftoff speed within an appropriate amount of time within an appropriate
+runway distance, the issues related to the effects of bleed air system use on takeoff performance
+are not directly pertinent to the cause of this accident.
+However, the takeoff runway planning issues further illustrate that the flight crew did not
+act with proper regard for the serious hazards posed by the winter weather conditions and did not
+adhere to company procedures that would have addressed these hazards. Specifically, neither the
+captain nor the first officer recognized that specific performance planning tables must be
+consulted for contaminated runway operations; the captain failed to confirm that a proper
+preflight inspection was conducted of the skin surfaces of the airplane for ice contamination; the
+captain failed to have the airplane deiced prior for takeoff; and the captain failed to provide a
+takeoff briefing as required by Air Castle, thus not maintaining the safety margins built into the
+briefing procedures that reinforce crew coordination and awareness of operational hazards.
+Neither the captain nor the first officer had operational experience in significant winter
+weather conditions. No record was found that would suggest that the captain had any experience
+flying in the conditions that existed at MTJ on the day of the accident involving frost, ice, or
+snow conditions producing adherence of contamination to the skin surfaces of the airplane.
+Although the first officer’s logbook was not recovered for examination, his training and previous
+employment experience were in Florida, and there was no documentation to suggest that he had
+ever operated an airplane in winter weather conditions. In addition, although the captain and the
+first officer had received company training during initial indoctrination on winter weather
+operations, their actions suggest that the training was not effective.
+The captain and the first officer’s actions also demonstrated poor CRM. For example,
+during the pretakeoff planning discussions regarding the possibility of takeoff from the
+7,500-foot runway, the first officer initially told the captain he believed they would need
+8,000 feet of runway for takeoff. The captain then asked the first officer to look up the required
+takeoff runway length for the airplane in various configurations. Each configuration requested by
+the captain resulted in a subsequently shorter runway length required, and they decided that, with
+41The supplements were not approved by the FAA and, according to the AFM, were to have been kept separate
+from the FAA-approved contents of the AFM. According to the Canadair CL-600-2A12 Airplane Operating
+Manual, Supplementary Procedures, Section 1, when runway contamination is present, takeoff distance and V1 must
+be determined with reference to the data shown in the AFM Unapproved Supplement 2, “Operation On
+Contaminated Runways.”
+NTSB/AAB-06/03
+
+22
+no engine bleed air anti-ice systems in use (which was not appropriate for the weather
+conditions), the runway length required was 7,200 feet (which did not consider the runway
+contamination). When the captain subsequently asked the first officer if he agreed that they could
+use the 7,500-foot runway, the first officer stated, “these number [sic] are always conservative
+anyway.”
+Even after the planning discussions, right before takeoff roll, the CVR suggests the
+captain sought to change the airplane’s configuration to include the use of engine cowl anti-ice,
+and he did not discuss any performance data regarding this change. The first officer failed to
+challenge the captain’s noncompliance with company procedures and Federal regulations and,
+therefore, failed to provide a second pilot’s critical independent evaluation and monitoring
+function, as required by his position.
+Air Castle did provide some CRM training to all of its pilots, but it did not provide, and
+was not required to provide, a formal CRM training program. The FAA currently requires formal
+CRM training programs for Part 121 operators only. The Safety Board notes, that, in the case of
+the captain, formal CRM training might have assisted him in directing crew attention to the
+hazards posed by the weather, in complying with company procedures, and in promoting
+effective crew coordination. In the case of the first officer, who was recently hired, such formal
+CRM training might have reinforced the company’s support of crewmembers’ authority to
+challenge a captain’s actions under such circumstances.
+Both the captain and the first officer, who were based in the eastern time zone, crossed
+multiple time zones (ranging from 3 hours behind to 6 hours ahead of eastern standard time) in
+the 4 days before the accident. In addition, their available rest time occurred at times that varied
+greatly from their typical rest schedules in the eastern time zone. Studies have shown that such
+rapid crossings of time zones can produce fatigue through sleep disruption, with pilots
+experiencing difficulty initiating or maintaining sleep during and after the trip; the resulting
+circadian disruption can lead to increased fatigue and impaired performance. The actual amount
+and quality of sleep received by the captain and the first officer could not be determined.
+Regardless, their improper preflight planning and failure to deice the airplane reflected
+fundamental operational shortcomings that were independent of fatigue.
