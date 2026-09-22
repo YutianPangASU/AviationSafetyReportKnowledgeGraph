@@ -1,0 +1,114 @@
+%% Extraction schema as an appendix block. Paste at the end of Appendix A
+%% (after Table tbl:vocab, before \section*{Acknowledgment}). Table tbl:schema
+%% in Section 3.2 stays as the compact field summary; add this pointer to the
+%% end of the "Schema" paragraph there:
+%%   Appendix~\ref{app:schema} gives the record type as a listing together
+%%   with one extracted chain from the corpus.
+%%
+%% Preamble additions:
+%%   \usepackage{listings}
+%%   \lstdefinestyle{schema}{basicstyle=\ttfamily\footnotesize,columns=fullflexible,
+%%     keepspaces=true,breaklines=true,breakatwhitespace=true,frame=tb,
+%%     framerule=0.4pt,xleftmargin=0pt,aboveskip=4pt,belowskip=4pt,
+%%     comment=[l]{//},commentstyle=\color{gray}\itshape,showstringspaces=false}
+%% Appendix figure numbering (the appendix currently resets tables only; add
+%% these two lines next to the existing \setcounter{table}{0}):
+%%   \setcounter{figure}{0}
+%%   \renewcommand{\thefigure}{A.\arabic{figure}}
+%%
+%% Generated 2026-09-05 from event_extraction/out/full_corpus_v4.jsonl,
+%% record 20020225X00252_1; the chain is reproduced verbatim.
+
+Figure~\ref{fig:schema} states the record type behind Table~\ref{tbl:schema},
+and Figure~\ref{fig:example} shows one chain as the extractor returned it.
+The identifiers are the aggregation variables of the causation graph and
+match the released output verbatim. Every field of the record
+type is a closed vocabulary except the two free-text fields, the trigger
+phrase and the evidence span, and both are constrained to the narrative. The
+four rules that the grammar cannot express are enforced by the runner, which
+requests one repair turn on violation; across the full corpus no record
+required more than one. The JSON Schema
+(\texttt{schema\_v4.json}), the system prompt (\texttt{system\_v4.txt}) and
+the few-shot example (\texttt{few\_shot\_v4.json}) are released with the
+code and match this listing verbatim.
+
+\begin{figure}[H]
+\centering
+\begin{lstlisting}[style=schema]
+Record {
+  chain             : ChainNode[1..24]   // ordered: earliest factor first, outcome last
+  outcome_severity  : fatal | serious_injury | minor_injury
+                    | aircraft_damage_only | no_damage_or_injury | unknown
+}
+ChainNode {
+  idx               : int                // equals the node's array position
+  class             : condition | event | outcome
+  factor_type       : one of 57 values   // 35 events, 12 conditions, 9 outcomes, unknown
+  trigger           : string             // phrase from the narrative naming the factor
+  phase_of_flight   : one of 22 values   // CICTT phase taxonomy, preflight .. post_impact
+  cause_role        : primary | contributing | outcome | context
+  caused_by         : Link[0..4]         // causal parents; empty for roots and conditions
+}
+Link {
+  src               : int, src < idx     // backward only: every chain is acyclic
+  strength          : direct | contributing   // mirrors the NTSB cause / factor flags
+  evidence          : string             // narrative span supporting this link
+}
+// Enforced by the runner, outside the grammar: idx equals position; every src < idx;
+// an outcome node is a parent only of outcome nodes; repeats of a factor_type merge.
+\end{lstlisting}
+\caption{The record type of the extraction schema. A record is one chain
+of at most 24 nodes plus a record-level severity; causal structure lives in
+each node's parent list. The 57 factor values are those of
+Table~\ref{tbl:vocab}.}
+\label{fig:schema}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\begin{lstlisting}[style=schema]
+{"chain": [
+ {"idx": 0, "class": "condition", "factor_type": "CARBURETOR_OR_INDUCTION_ICING",
+  "trigger": "temperature 3C, dewpoint -6C, falling in range of susceptibility for carburetor icing",
+  "phase_of_flight": "cruise", "cause_role": "contributing",
+  "caused_by": []},
+ {"idx": 1, "class": "event", "factor_type": "PROCEDURE_NOT_FOLLOWED",
+  "trigger": "delayed use of carburetor heat",
+  "phase_of_flight": "cruise", "cause_role": "primary",
+  "caused_by": [
+   {"src": 0, "strength": "contributing", "evidence": "carburetor icing conditions"}
+  ]},
+ {"idx": 2, "class": "event", "factor_type": "ENGINE_FAILURE",
+  "trigger": "loss of engine power in cruise flight",
+  "phase_of_flight": "cruise", "cause_role": "primary",
+  "caused_by": [
+   {"src": 1, "strength": "direct", "evidence": "delayed use of carburetor heat"}
+  ]},
+ {"idx": 3, "class": "condition", "factor_type": "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING",
+  "trigger": "snow covered field with powerlines and brush",
+  "phase_of_flight": "emergency_descent", "cause_role": "contributing",
+  "caused_by": []},
+ {"idx": 4, "class": "outcome", "factor_type": "GROUND_IMPACT",
+  "trigger": "struck a powerline and brush during the landing attempt",
+  "phase_of_flight": "emergency_descent", "cause_role": "outcome",
+  "caused_by": [
+   {"src": 2, "strength": "direct", "evidence": "loss of engine power"},
+   {"src": 3, "strength": "contributing", "evidence": "unsuitable terrain encountered"}
+  ]},
+ {"idx": 5, "class": "outcome", "factor_type": "INJURY_OR_FATALITY",
+  "trigger": "pilot not injured",
+  "phase_of_flight": "post_impact", "cause_role": "outcome",
+  "caused_by": [
+   {"src": 4, "strength": "direct", "evidence": "forced landing on road"}
+  ]}
+ ],
+ "outcome_severity": "aircraft_damage_only"}
+\end{lstlisting}
+\caption{One extracted chain, NTSB record 20020225X00252: carburetor
+icing conditions at the recorded temperature and dewpoint, delayed use of
+carburetor heat, power loss in cruise, and a forced landing on unsuitable
+terrain. Conditions enter with empty parent lists; every parent index is
+smaller than the node's own; the two link strengths follow the NTSB cause and
+factor flags; every link quotes the narrative span that supports it.}
+\label{fig:example}
+\end{figure}

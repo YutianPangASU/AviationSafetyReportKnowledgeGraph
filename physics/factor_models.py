@@ -72,13 +72,53 @@ def pratt_dn_per_ude(ac: GustAircraft, v_keas: float, rho: float = RHO0) -> floa
     return kg * v_keas * ac.cl_alpha_per_rad / (498.0 * ws)
 
 
+# ---------------------------------------------------------------------------
+# Guard margins (paper Table tbl:guards). Each is the signed quantity the
+# occurrence probabilities below already threshold internally; a transition is
+# enabled iff its margin is >= 0. The probabilities are the availabilities
+# Lambda_e = P(margin >= 0) under the latent-gust prior.
+# ---------------------------------------------------------------------------
+
+def overload_margin_n(ac: GustAircraft, v_keas: float, u_de_fps: float,
+                      ultimate: bool = True) -> float:
+    """Structural-overload guard: n - n_ult (dimensionless).
+
+    Gust load factor n = 1 + dn(U_de) against the ultimate (1.5 x limit) or
+    limit envelope.
+    """
+    n = 1.0 + pratt_dn_per_ude(ac, v_keas) * u_de_fps
+    n_env = 1.5 * ac.n_limit if ultimate else ac.n_limit
+    return n - n_env
+
+
+def gust_stall_margin_kts(ac: GustAircraft, v_kcas: float,
+                          u_de_fps: float) -> float:
+    """Gust-stall guard: V_s(n) - V (knots) at the gust load factor.
+
+    The accelerated-stall speed V_s1g * sqrt(1 + dn) against the flown
+    airspeed; nonnegative exactly when the gust erases the stall margin.
+    """
+    n = max(0.0, 1.0 + pratt_dn_per_ude(ac, v_kcas) * u_de_fps)
+    return ac.vs1g_kcas * sqrt(n) - v_kcas
+
+
+def shear_stall_margin_kts(ac: GustAircraft, v_kcas: float,
+                           du_kts: float) -> float:
+    """Shear-stall guard: V_s1g - (V - dU) (knots).
+
+    Tailwind shear dU erodes airspeed before thrust responds; the guard is
+    nonnegative when the eroded airspeed reaches the 1-g stall speed.
+    """
+    return ac.vs1g_kcas - (v_kcas - du_kts)
+
+
 def p_structural_overload(ac: GustAircraft, v_keas: float,
                           climate: str = "thunderstorm",
                           ultimate: bool = True) -> float:
-    """P(gust load exceeds the structural envelope) for one encounter.
+    """Availability of the overload transition: P(overload margin >= 0).
 
-    Exceedance of the limit increment (n_lim - 1), or the ultimate increment
-    (1.5 n_lim - 1) when ultimate=True, under the exponential gust tail.
+    The margin n - n_ult crosses zero at U_de = n_inc / dn1; the exponential
+    gust tail turns that crossing point into an exceedance probability.
     """
     dn1 = pratt_dn_per_ude(ac, v_keas)
     n_inc = (1.5 * ac.n_limit - 1.0) if ultimate else (ac.n_limit - 1.0)
@@ -88,26 +128,28 @@ def p_structural_overload(ac: GustAircraft, v_keas: float,
 
 def p_gust_stall(ac: GustAircraft, v_kcas: float,
                  climate: str = "moderate") -> float:
-    """P(gust-induced stall): gust load factor erases the stall margin.
+    """Availability of the gust-stall transition: P(gust-stall margin >= 0).
 
-    Stall when 1 + dn > (V / V_s1g)^2 -- the accelerated-stall boundary with
-    the load factor supplied by the gust instead of the pilot.
+    The margin V_s(n) - V crosses zero where 1 + dn = (V / V_s1g)^2, the
+    accelerated-stall boundary with the load factor supplied by the gust
+    instead of the pilot; the gust tail supplies the crossing probability.
     """
-    margin = (v_kcas / ac.vs1g_kcas) ** 2 - 1.0
-    if margin <= 0:
+    n_margin = (v_kcas / ac.vs1g_kcas) ** 2 - 1.0
+    if n_margin <= 0:
         return 1.0
-    u_crit = margin / pratt_dn_per_ude(ac, v_kcas)
+    u_crit = n_margin / pratt_dn_per_ude(ac, v_kcas)
     return exp(-u_crit / GUST_SCALE_FPS.get(climate, 10.0))
 
 
 def p_shear_stall(ac: GustAircraft, v_kcas: float, shear_scale_kts: float = 10.0
                   ) -> float:
-    """P(shear-induced stall): tailwind shear dU erodes airspeed to V_s.
+    """Availability of the shear-stall transition: P(shear-stall margin >= 0).
 
-    Short-term (before thrust response) the airspeed loss equals the shear
-    magnitude; dU ~ Exp(shear_scale). Microburst cores reach 20-40 kt.
+    The margin V_s1g - (V - dU) crosses zero at dU = V - V_s1g;
+    dU ~ Exp(shear_scale) supplies the crossing probability. Microburst
+    cores reach 20-40 kt.
     """
-    du_crit = v_kcas - ac.vs1g_kcas
+    du_crit = -shear_stall_margin_kts(ac, v_kcas, 0.0)
     if du_crit <= 0:
         return 1.0
     return exp(-du_crit / shear_scale_kts)
@@ -175,11 +217,15 @@ def p_exceed_dryden(u_crit_fps: float, u20_kts: float, v_fps: float,
 
 def p_gust_stall_dryden(ac: GustAircraft, v_kcas: float, u20_kts: float,
                         duration_s: float = 120.0) -> float:
-    """Gust-induced stall with Dryden intensity set by recorded surface wind."""
-    margin = (v_kcas / ac.vs1g_kcas) ** 2 - 1.0
-    if margin <= 0:
+    """Gust-stall availability with Dryden intensity set by recorded wind.
+
+    Same margin zero-crossing as p_gust_stall; the crossing probability now
+    comes from the Rice statistics of the recorded-wind gust spectrum.
+    """
+    n_margin = (v_kcas / ac.vs1g_kcas) ** 2 - 1.0
+    if n_margin <= 0:
         return 1.0
-    u_crit = margin / pratt_dn_per_ude(ac, v_kcas)
+    u_crit = n_margin / pratt_dn_per_ude(ac, v_kcas)
     return p_exceed_dryden(u_crit, u20_kts, v_kcas * 1.68781, duration_s)
 
 

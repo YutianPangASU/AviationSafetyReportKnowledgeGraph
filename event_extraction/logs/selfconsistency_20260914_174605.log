@@ -1,0 +1,1060 @@
+[Mon Sep 14 05:46:05 PM CDT 2026] launching two vLLM replicas
+[Mon Sep 14 05:48:57 PM CDT 2026] both replicas ready after ~160 s
+[Mon Sep 14 05:48:57 PM CDT 2026] extraction run1 (temperature 0.2)
+guided_json: enforcing schema schema_v4.json
+loaded 2000 records to extract
+[10/2000] ok=10 retried=0 last_latency=18.6s source=NTSB_ASRS:Pre2008
+[20/2000] ok=20 retried=0 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[30/2000] ok=29 retried=1 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[40/2000] ok=39 retried=1 last_latency=10.7s source=NTSB_ASRS:Pre2008
+[50/2000] ok=49 retried=2 last_latency=5.6s source=NTSB_ASRS:Pre2008
+[60/2000] ok=59 retried=3 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[70/2000] ok=69 retried=3 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[80/2000] ok=79 retried=3 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[90/2000] ok=89 retried=4 last_latency=13.8s source=NTSB_ASRS:Pre2008
+[100/2000] ok=99 retried=4 last_latency=9.5s source=NTSB_ASRS:Pre2008
+[110/2000] ok=109 retried=4 last_latency=13.3s source=NTSB_ASRS:Pre2008
+[120/2000] ok=119 retried=4 last_latency=7.2s source=NTSB_ASRS:Pre2008
+[130/2000] ok=129 retried=4 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[140/2000] ok=139 retried=4 last_latency=6.9s source=NTSB_ASRS:Pre2008
+[150/2000] ok=149 retried=4 last_latency=10.6s source=NTSB_ASRS:Pre2008
+[160/2000] ok=159 retried=4 last_latency=11.7s source=NTSB_ASRS:Pre2008
+[170/2000] ok=169 retried=4 last_latency=10.0s source=NTSB_ASRS:Pre2008
+[180/2000] ok=179 retried=5 last_latency=4.5s source=NTSB_ASRS:Pre2008
+[190/2000] ok=189 retried=5 last_latency=15.2s source=NTSB_ASRS:Pre2008
+[200/2000] ok=199 retried=7 last_latency=10.7s source=NTSB_ASRS:Pre2008
+[210/2000] ok=209 retried=7 last_latency=12.6s source=NTSB_ASRS:Pre2008
+[220/2000] ok=219 retried=7 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[230/2000] ok=229 retried=7 last_latency=7.8s source=NTSB_ASRS:Pre2008
+[240/2000] ok=239 retried=8 last_latency=26.0s source=NTSB_ASRS:Pre2008
+[250/2000] ok=249 retried=12 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[260/2000] ok=259 retried=12 last_latency=11.4s source=NTSB_ASRS:Pre2008
+[270/2000] ok=268 retried=13 last_latency=29.0s source=NTSB_ASRS:Pre2008
+[280/2000] ok=278 retried=13 last_latency=10.7s source=NTSB_ASRS:Pre2008
+[290/2000] ok=288 retried=13 last_latency=9.5s source=NTSB_ASRS:Pre2008
+[300/2000] ok=298 retried=14 last_latency=31.2s source=NTSB_ASRS:Pre2008
+[310/2000] ok=308 retried=14 last_latency=14.0s source=NTSB_ASRS:Pre2008
+[320/2000] ok=318 retried=14 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[330/2000] ok=328 retried=14 last_latency=12.6s source=NTSB_ASRS:Pre2008
+[340/2000] ok=338 retried=14 last_latency=15.1s source=NTSB_ASRS:Pre2008
+[350/2000] ok=348 retried=14 last_latency=8.6s source=NTSB_ASRS:Pre2008
+[360/2000] ok=358 retried=15 last_latency=7.9s source=NTSB_ASRS:Pre2008
+[370/2000] ok=368 retried=17 last_latency=12.5s source=NTSB_ASRS:Pre2008
+[380/2000] ok=378 retried=18 last_latency=12.8s source=NTSB_ASRS:Pre2008
+[390/2000] ok=388 retried=18 last_latency=8.4s source=NTSB_ASRS:Pre2008
+[400/2000] ok=398 retried=18 last_latency=19.1s source=NTSB_ASRS:Pre2008
+[410/2000] ok=408 retried=20 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[420/2000] ok=418 retried=20 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[430/2000] ok=428 retried=21 last_latency=3.9s source=NTSB_ASRS:Pre2008
+[440/2000] ok=438 retried=21 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[450/2000] ok=448 retried=21 last_latency=10.0s source=NTSB_ASRS:Pre2008
+[460/2000] ok=458 retried=22 last_latency=10.0s source=NTSB_ASRS:Pre2008
+[470/2000] ok=468 retried=25 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[480/2000] ok=478 retried=25 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[490/2000] ok=488 retried=25 last_latency=8.9s source=NTSB_ASRS:Pre2008
+[500/2000] ok=498 retried=26 last_latency=10.4s source=NTSB_ASRS:Pre2008
+[510/2000] ok=508 retried=26 last_latency=11.6s source=NTSB_ASRS:Pre2008
+[520/2000] ok=518 retried=26 last_latency=12.0s source=NTSB_ASRS:Pre2008
+[530/2000] ok=528 retried=26 last_latency=17.8s source=NTSB_ASRS:Pre2008
+[540/2000] ok=538 retried=27 last_latency=14.1s source=NTSB_ASRS:Pre2008
+[550/2000] ok=548 retried=28 last_latency=28.4s source=NTSB_ASRS:Pre2008
+[560/2000] ok=558 retried=29 last_latency=37.7s source=NTSB_ASRS:Pre2008
+[570/2000] ok=568 retried=29 last_latency=10.7s source=NTSB_ASRS:Pre2008
+[580/2000] ok=578 retried=29 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[590/2000] ok=588 retried=30 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[600/2000] ok=598 retried=30 last_latency=10.8s source=NTSB_ASRS:Pre2008
+[610/2000] ok=608 retried=30 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[620/2000] ok=618 retried=30 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[630/2000] ok=628 retried=31 last_latency=3.9s source=NTSB_ASRS:Pre2008
+[640/2000] ok=638 retried=32 last_latency=10.6s source=NTSB_ASRS:Pre2008
+[650/2000] ok=647 retried=33 last_latency=23.7s source=NTSB_ASRS:Pre2008
+[660/2000] ok=657 retried=33 last_latency=5.3s source=NTSB_ASRS:Pre2008
+[670/2000] ok=667 retried=34 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[680/2000] ok=677 retried=34 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[690/2000] ok=687 retried=35 last_latency=14.3s source=NTSB_ASRS:Pre2008
+[700/2000] ok=697 retried=36 last_latency=40.5s source=NTSB_ASRS:Pre2008
+[710/2000] ok=707 retried=37 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[720/2000] ok=717 retried=38 last_latency=6.6s source=NTSB_ASRS:avall
+[730/2000] ok=727 retried=38 last_latency=15.0s source=NTSB_ASRS:Pre2008
+[740/2000] ok=737 retried=38 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[750/2000] ok=747 retried=41 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[760/2000] ok=757 retried=41 last_latency=7.6s source=NTSB_ASRS:Pre2008
+[770/2000] ok=767 retried=41 last_latency=11.6s source=NTSB_ASRS:Pre2008
+[780/2000] ok=777 retried=41 last_latency=9.5s source=NTSB_ASRS:Pre2008
+[790/2000] ok=787 retried=43 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[800/2000] ok=797 retried=45 last_latency=7.4s source=NTSB_ASRS:Pre2008
+[810/2000] ok=807 retried=46 last_latency=16.7s source=NTSB_ASRS:Pre2008
+[820/2000] ok=817 retried=47 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[830/2000] ok=827 retried=47 last_latency=11.4s source=NTSB_ASRS:Pre2008
+[840/2000] ok=837 retried=47 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[850/2000] ok=847 retried=48 last_latency=14.0s source=NTSB_ASRS:Pre2008
+[860/2000] ok=857 retried=48 last_latency=8.7s source=NTSB_ASRS:Pre2008
+[870/2000] ok=867 retried=50 last_latency=9.0s source=NTSB_ASRS:Pre2008
+[880/2000] ok=877 retried=50 last_latency=8.4s source=NTSB_ASRS:Pre2008
+[890/2000] ok=887 retried=51 last_latency=5.8s source=NTSB_ASRS:Pre2008
+[900/2000] ok=897 retried=52 last_latency=8.8s source=NTSB_ASRS:Pre2008
+[910/2000] ok=907 retried=52 last_latency=7.1s source=NTSB_ASRS:Pre2008
+[920/2000] ok=917 retried=52 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[930/2000] ok=927 retried=53 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[940/2000] ok=937 retried=56 last_latency=10.2s source=NTSB_ASRS:Pre2008
+[950/2000] ok=947 retried=58 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[960/2000] ok=957 retried=60 last_latency=27.0s source=NTSB_ASRS:Pre2008
+[970/2000] ok=967 retried=62 last_latency=17.4s source=NTSB_ASRS:Pre2008
+[980/2000] ok=977 retried=63 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[990/2000] ok=987 retried=64 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[1000/2000] ok=997 retried=64 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[1010/2000] ok=1007 retried=64 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1020/2000] ok=1017 retried=66 last_latency=12.1s source=NTSB_ASRS:Pre2008
+[1030/2000] ok=1027 retried=67 last_latency=9.8s source=NTSB_ASRS:Pre2008
+[1040/2000] ok=1037 retried=67 last_latency=14.0s source=NTSB_ASRS:Pre2008
+[1050/2000] ok=1047 retried=67 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[1060/2000] ok=1057 retried=67 last_latency=16.2s source=NTSB_ASRS:Pre2008
+[1070/2000] ok=1067 retried=67 last_latency=13.6s source=NTSB_ASRS:Pre2008
+[1080/2000] ok=1077 retried=69 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1090/2000] ok=1087 retried=70 last_latency=11.8s source=NTSB_ASRS:Pre2008
+[1100/2000] ok=1097 retried=71 last_latency=10.6s source=NTSB_ASRS:Pre2008
+[1110/2000] ok=1107 retried=72 last_latency=13.0s source=NTSB_ASRS:Pre2008
+[1120/2000] ok=1117 retried=73 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[1130/2000] ok=1127 retried=74 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[1140/2000] ok=1137 retried=74 last_latency=8.6s source=NTSB_ASRS:Pre2008
+[1150/2000] ok=1147 retried=74 last_latency=12.7s source=NTSB_ASRS:Pre2008
+[1160/2000] ok=1157 retried=74 last_latency=7.8s source=NTSB_ASRS:Pre2008
+[1170/2000] ok=1167 retried=74 last_latency=6.3s source=NTSB_ASRS:Pre2008
+[1180/2000] ok=1177 retried=77 last_latency=25.2s source=NTSB_ASRS:Pre2008
+[1190/2000] ok=1187 retried=77 last_latency=8.1s source=NTSB_ASRS:Pre2008
+[1200/2000] ok=1197 retried=77 last_latency=11.7s source=NTSB_ASRS:Pre2008
+[1210/2000] ok=1207 retried=77 last_latency=7.8s source=NTSB_ASRS:Pre2008
+[1220/2000] ok=1217 retried=79 last_latency=18.1s source=NTSB_ASRS:Pre2008
+[1230/2000] ok=1227 retried=80 last_latency=15.4s source=NTSB_ASRS:Pre2008
+[1240/2000] ok=1237 retried=81 last_latency=6.4s source=NTSB_ASRS:Pre2008
+[1250/2000] ok=1247 retried=81 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[1260/2000] ok=1257 retried=81 last_latency=9.3s source=NTSB_ASRS:Pre2008
+[1270/2000] ok=1267 retried=82 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[1280/2000] ok=1277 retried=82 last_latency=7.3s source=NTSB_ASRS:avall
+[1290/2000] ok=1287 retried=83 last_latency=8.3s source=NTSB_ASRS:Pre2008
+[1300/2000] ok=1297 retried=83 last_latency=9.3s source=NTSB_ASRS:Pre2008
+[1310/2000] ok=1307 retried=83 last_latency=16.6s source=NTSB_ASRS:Pre2008
+[1320/2000] ok=1317 retried=83 last_latency=11.6s source=NTSB_ASRS:Pre2008
+[1330/2000] ok=1327 retried=84 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[1340/2000] ok=1337 retried=87 last_latency=12.0s source=NTSB_ASRS:Pre2008
+[1350/2000] ok=1347 retried=87 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[1360/2000] ok=1357 retried=88 last_latency=9.0s source=NTSB_ASRS:Pre2008
+[1370/2000] ok=1367 retried=88 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[1380/2000] ok=1377 retried=88 last_latency=13.0s source=NTSB_ASRS:Pre2008
+[1390/2000] ok=1387 retried=89 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1400/2000] ok=1397 retried=90 last_latency=17.7s source=NTSB_ASRS:Pre2008
+[1410/2000] ok=1407 retried=91 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[1420/2000] ok=1417 retried=92 last_latency=10.6s source=NTSB_ASRS:Pre2008
+[1430/2000] ok=1427 retried=92 last_latency=15.5s source=NTSB_ASRS:Pre2008
+[1440/2000] ok=1437 retried=93 last_latency=15.2s source=NTSB_ASRS:Pre2008
+[1450/2000] ok=1447 retried=94 last_latency=17.4s source=NTSB_ASRS:Pre2008
+[1460/2000] ok=1457 retried=96 last_latency=8.8s source=NTSB_ASRS:Pre2008
+[1470/2000] ok=1467 retried=96 last_latency=11.6s source=NTSB_ASRS:Pre2008
+[1480/2000] ok=1477 retried=97 last_latency=10.0s source=NTSB_ASRS:Pre2008
+[1490/2000] ok=1487 retried=98 last_latency=13.5s source=NTSB_ASRS:Pre2008
+[1500/2000] ok=1497 retried=99 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[1510/2000] ok=1507 retried=100 last_latency=8.7s source=NTSB_ASRS:Pre2008
+[1520/2000] ok=1517 retried=101 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[1530/2000] ok=1527 retried=101 last_latency=15.0s source=NTSB_ASRS:Pre2008
+[1540/2000] ok=1537 retried=102 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1550/2000] ok=1547 retried=102 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[1560/2000] ok=1557 retried=102 last_latency=9.0s source=NTSB_ASRS:Pre2008
+[1570/2000] ok=1567 retried=102 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[1580/2000] ok=1577 retried=102 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[1590/2000] ok=1587 retried=102 last_latency=14.1s source=NTSB_ASRS:Pre2008
+[1600/2000] ok=1597 retried=102 last_latency=6.2s source=NTSB_ASRS:Pre2008
+[1610/2000] ok=1607 retried=102 last_latency=14.9s source=NTSB_ASRS:Pre2008
+[1620/2000] ok=1617 retried=104 last_latency=5.1s source=NTSB_ASRS:Pre2008
+[1630/2000] ok=1627 retried=106 last_latency=17.5s source=NTSB_ASRS:Pre2008
+[1640/2000] ok=1637 retried=108 last_latency=13.1s source=NTSB_ASRS:Pre2008
+[1650/2000] ok=1647 retried=108 last_latency=11.4s source=NTSB_ASRS:Pre2008
+[1660/2000] ok=1657 retried=108 last_latency=9.1s source=NTSB_ASRS:Pre2008
+[1670/2000] ok=1667 retried=109 last_latency=9.3s source=NTSB_ASRS:Pre2008
+[1680/2000] ok=1677 retried=109 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[1690/2000] ok=1687 retried=110 last_latency=8.5s source=NTSB_ASRS:Pre2008
+[1700/2000] ok=1697 retried=111 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[1710/2000] ok=1707 retried=111 last_latency=9.5s source=NTSB_ASRS:Pre2008
+[1720/2000] ok=1717 retried=113 last_latency=14.2s source=NTSB_ASRS:Pre2008
+[1730/2000] ok=1727 retried=113 last_latency=18.1s source=NTSB_ASRS:Pre2008
+[1740/2000] ok=1737 retried=115 last_latency=10.8s source=NTSB_ASRS:Pre2008
+[1750/2000] ok=1747 retried=116 last_latency=8.5s source=NTSB_ASRS:Pre2008
+[1760/2000] ok=1757 retried=117 last_latency=8.1s source=NTSB_ASRS:Pre2008
+[1770/2000] ok=1767 retried=118 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[1780/2000] ok=1777 retried=118 last_latency=12.1s source=NTSB_ASRS:Pre2008
+[1790/2000] ok=1787 retried=118 last_latency=6.2s source=NTSB_ASRS:Pre2008
+[1800/2000] ok=1797 retried=118 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1810/2000] ok=1807 retried=119 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1820/2000] ok=1816 retried=119 last_latency=16.3s source=NTSB_ASRS:Pre2008
+[1830/2000] ok=1826 retried=119 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[1840/2000] ok=1836 retried=120 last_latency=6.6s source=NTSB_ASRS:Pre2008
+[1850/2000] ok=1846 retried=121 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[1860/2000] ok=1856 retried=122 last_latency=35.1s source=NTSB_ASRS:Pre2008
+[1870/2000] ok=1866 retried=123 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[1880/2000] ok=1876 retried=124 last_latency=14.4s source=NTSB_ASRS:Pre2008
+[1890/2000] ok=1886 retried=124 last_latency=10.7s source=NTSB_ASRS:Pre2008
+[1900/2000] ok=1896 retried=125 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[1910/2000] ok=1906 retried=126 last_latency=11.7s source=NTSB_ASRS:Pre2008
+[1920/2000] ok=1916 retried=127 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[1930/2000] ok=1926 retried=129 last_latency=10.9s source=NTSB_ASRS:Pre2008
+[1940/2000] ok=1936 retried=129 last_latency=10.4s source=NTSB_ASRS:Pre2008
+[1950/2000] ok=1946 retried=130 last_latency=6.7s source=NTSB_ASRS:Pre2008
+[1960/2000] ok=1956 retried=130 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[1970/2000] ok=1966 retried=130 last_latency=8.0s source=NTSB_ASRS:Pre2008
+[1980/2000] ok=1976 retried=130 last_latency=13.3s source=NTSB_ASRS:Pre2008
+[1990/2000] ok=1986 retried=130 last_latency=5.8s source=NTSB_ASRS:Pre2008
+[2000/2000] ok=1996 retried=131 last_latency=2.1s source=NTSB_ASRS:Pre2008
+done in 1508.5s  ok=1996/2000
+[Mon Sep 14 06:14:06 PM CDT 2026] judge run1
+Loading enriched corpus index…
+  145,263 records with supervision
+Loading event_extraction/out/selfconsistency/calibration_2k_v4_narrative_run1.jsonl…
+  1,996 ok extractions
+  1,996 records to evaluate (factors x events)
+  1,996 pending after cache (cached: 0)
+  judged 50/1996 (6.0/s)
+  judged 100/1996 (5.7/s)
+  judged 150/1996 (6.6/s)
+  judged 200/1996 (7.2/s)
+  judged 250/1996 (7.5/s)
+  judged 300/1996 (7.8/s)
+  judged 350/1996 (8.0/s)
+  judged 400/1996 (8.1/s)
+  judged 450/1996 (8.2/s)
+  judged 500/1996 (8.3/s)
+  judged 550/1996 (8.3/s)
+  judged 600/1996 (8.4/s)
+  judged 650/1996 (8.4/s)
+  judged 700/1996 (8.5/s)
+  judged 750/1996 (8.5/s)
+  judged 800/1996 (8.6/s)
+  judged 850/1996 (8.6/s)
+  judged 900/1996 (8.6/s)
+  judged 950/1996 (8.7/s)
+  judged 1000/1996 (8.8/s)
+  judged 1050/1996 (8.8/s)
+  judged 1100/1996 (8.8/s)
+  judged 1150/1996 (8.8/s)
+  judged 1200/1996 (8.8/s)
+  judged 1250/1996 (8.8/s)
+  judged 1300/1996 (8.9/s)
+  judged 1350/1996 (8.9/s)
+  judged 1400/1996 (8.9/s)
+  judged 1450/1996 (8.9/s)
+  judged 1500/1996 (8.9/s)
+  judged 1550/1996 (8.9/s)
+  judged 1600/1996 (9.0/s)
+  judged 1650/1996 (9.0/s)
+  judged 1700/1996 (9.0/s)
+  judged 1750/1996 (9.0/s)
+  judged 1800/1996 (9.0/s)
+  judged 1850/1996 (9.0/s)
+  judged 1900/1996 (9.0/s)
+  judged 1950/1996 (9.0/s)
+
+=== Semantic eval (sc-run1) ===
+  tag: sc-run1
+  extraction_file: event_extraction/out/selfconsistency/calibration_2k_v4_narrative_run1.jsonl
+  n_records_evaluated: 1996
+  n_factors_total: 3475
+  n_factors_matched: 3164
+  recall: 0.9105
+  n_events_total: 10896
+  n_events_matched_to_a_factor: 3296
+  precision: 0.3025
+  mean_per_record_recall: 0.9024
+
+Wrote event_extraction/out/selfconsistency/semantic_eval_run1.summary.json
+[Mon Sep 14 06:17:49 PM CDT 2026] extraction run2 (temperature 0.2)
+guided_json: enforcing schema schema_v4.json
+loaded 2000 records to extract
+[10/2000] ok=10 retried=0 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[20/2000] ok=20 retried=1 last_latency=9.8s source=NTSB_ASRS:Pre2008
+[30/2000] ok=30 retried=1 last_latency=12.9s source=NTSB_ASRS:Pre2008
+[40/2000] ok=40 retried=4 last_latency=13.3s source=NTSB_ASRS:Pre2008
+[50/2000] ok=50 retried=6 last_latency=7.7s source=NTSB_ASRS:Pre2008
+[60/2000] ok=60 retried=6 last_latency=7.4s source=NTSB_ASRS:Pre2008
+[70/2000] ok=70 retried=7 last_latency=9.5s source=NTSB_ASRS:Pre2008
+[80/2000] ok=80 retried=8 last_latency=13.3s source=NTSB_ASRS:Pre2008
+[90/2000] ok=90 retried=8 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[100/2000] ok=100 retried=8 last_latency=6.1s source=NTSB_ASRS:Pre2008
+[110/2000] ok=110 retried=8 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[120/2000] ok=120 retried=8 last_latency=14.8s source=NTSB_ASRS:Pre2008
+[130/2000] ok=130 retried=8 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[140/2000] ok=140 retried=9 last_latency=15.6s source=NTSB_ASRS:Pre2008
+[150/2000] ok=150 retried=9 last_latency=13.7s source=NTSB_ASRS:Pre2008
+[160/2000] ok=160 retried=10 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[170/2000] ok=170 retried=10 last_latency=7.4s source=NTSB_ASRS:Pre2008
+[180/2000] ok=180 retried=10 last_latency=8.8s source=NTSB_ASRS:Pre2008
+[190/2000] ok=190 retried=11 last_latency=11.7s source=NTSB_ASRS:Pre2008
+[200/2000] ok=200 retried=11 last_latency=12.6s source=NTSB_ASRS:Pre2008
+[210/2000] ok=210 retried=12 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[220/2000] ok=220 retried=12 last_latency=7.1s source=NTSB_ASRS:Pre2008
+[230/2000] ok=230 retried=12 last_latency=8.9s source=NTSB_ASRS:Pre2008
+[240/2000] ok=240 retried=12 last_latency=14.6s source=NTSB_ASRS:Pre2008
+[250/2000] ok=250 retried=14 last_latency=28.4s source=NTSB_ASRS:Pre2008
+[260/2000] ok=260 retried=16 last_latency=12.7s source=NTSB_ASRS:Pre2008
+[270/2000] ok=270 retried=17 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[280/2000] ok=280 retried=17 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[290/2000] ok=290 retried=17 last_latency=7.0s source=NTSB_ASRS:Pre2008
+[300/2000] ok=300 retried=18 last_latency=26.6s source=NTSB_ASRS:Pre2008
+[310/2000] ok=310 retried=18 last_latency=7.7s source=NTSB_ASRS:Pre2008
+[320/2000] ok=320 retried=19 last_latency=12.8s source=NTSB_ASRS:Pre2008
+[330/2000] ok=330 retried=20 last_latency=10.0s source=NTSB_ASRS:Pre2008
+[340/2000] ok=340 retried=21 last_latency=15.7s source=NTSB_ASRS:Pre2008
+[350/2000] ok=350 retried=22 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[360/2000] ok=360 retried=23 last_latency=16.6s source=NTSB_ASRS:Pre2008
+[370/2000] ok=370 retried=25 last_latency=34.0s source=NTSB_ASRS:Pre2008
+[380/2000] ok=380 retried=25 last_latency=8.1s source=NTSB_ASRS:Pre2008
+[390/2000] ok=390 retried=25 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[400/2000] ok=400 retried=26 last_latency=11.4s source=NTSB_ASRS:Pre2008
+[410/2000] ok=409 retried=26 last_latency=13.1s source=NTSB_ASRS:Pre2008
+[420/2000] ok=419 retried=27 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[430/2000] ok=429 retried=27 last_latency=11.7s source=NTSB_ASRS:Pre2008
+[440/2000] ok=439 retried=28 last_latency=15.5s source=NTSB_ASRS:Pre2008
+[450/2000] ok=449 retried=29 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[460/2000] ok=459 retried=29 last_latency=8.0s source=NTSB_ASRS:Pre2008
+[470/2000] ok=469 retried=29 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[480/2000] ok=479 retried=29 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[490/2000] ok=489 retried=30 last_latency=13.5s source=NTSB_ASRS:Pre2008
+[500/2000] ok=499 retried=31 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[510/2000] ok=509 retried=31 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[520/2000] ok=519 retried=32 last_latency=12.1s source=NTSB_ASRS:Pre2008
+[530/2000] ok=529 retried=32 last_latency=14.2s source=NTSB_ASRS:Pre2008
+[540/2000] ok=539 retried=33 last_latency=11.7s source=NTSB_ASRS:Pre2008
+[550/2000] ok=549 retried=35 last_latency=9.5s source=NTSB_ASRS:Pre2008
+[560/2000] ok=559 retried=35 last_latency=13.0s source=NTSB_ASRS:Pre2008
+[570/2000] ok=569 retried=37 last_latency=10.4s source=NTSB_ASRS:Pre2008
+[580/2000] ok=579 retried=37 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[590/2000] ok=589 retried=37 last_latency=7.8s source=NTSB_ASRS:Pre2008
+[600/2000] ok=599 retried=37 last_latency=12.7s source=NTSB_ASRS:Pre2008
+[610/2000] ok=609 retried=38 last_latency=5.4s source=NTSB_ASRS:Pre2008
+[620/2000] ok=619 retried=38 last_latency=13.7s source=NTSB_ASRS:Pre2008
+[630/2000] ok=629 retried=39 last_latency=7.4s source=NTSB_ASRS:Pre2008
+[640/2000] ok=639 retried=40 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[650/2000] ok=649 retried=40 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[660/2000] ok=659 retried=40 last_latency=5.0s source=NTSB_ASRS:Pre2008
+[670/2000] ok=669 retried=41 last_latency=10.8s source=NTSB_ASRS:Pre2008
+[680/2000] ok=679 retried=42 last_latency=13.6s source=NTSB_ASRS:Pre2008
+[690/2000] ok=689 retried=43 last_latency=8.6s source=NTSB_ASRS:Pre2008
+[700/2000] ok=699 retried=45 last_latency=29.4s source=NTSB_ASRS:Pre2008
+[710/2000] ok=709 retried=46 last_latency=7.7s source=NTSB_ASRS:Pre2008
+[720/2000] ok=719 retried=46 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[730/2000] ok=729 retried=46 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[740/2000] ok=739 retried=49 last_latency=16.6s source=NTSB_ASRS:Pre2008
+[750/2000] ok=749 retried=50 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[760/2000] ok=759 retried=51 last_latency=44.8s source=NTSB_ASRS:Pre2008
+[770/2000] ok=769 retried=51 last_latency=9.1s source=NTSB_ASRS:Pre2008
+[780/2000] ok=779 retried=52 last_latency=8.0s source=NTSB_ASRS:Pre2008
+[790/2000] ok=789 retried=53 last_latency=8.6s source=NTSB_ASRS:avall
+[800/2000] ok=799 retried=56 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[810/2000] ok=809 retried=56 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[820/2000] ok=819 retried=57 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[830/2000] ok=829 retried=58 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[840/2000] ok=839 retried=60 last_latency=8.3s source=NTSB_ASRS:Pre2008
+[850/2000] ok=849 retried=60 last_latency=8.8s source=NTSB_ASRS:Pre2008
+[860/2000] ok=859 retried=60 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[870/2000] ok=869 retried=61 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[880/2000] ok=879 retried=62 last_latency=13.7s source=NTSB_ASRS:Pre2008
+[890/2000] ok=889 retried=62 last_latency=13.7s source=NTSB_ASRS:Pre2008
+[900/2000] ok=899 retried=63 last_latency=7.4s source=NTSB_ASRS:Pre2008
+[910/2000] ok=909 retried=63 last_latency=15.5s source=NTSB_ASRS:avall
+[920/2000] ok=919 retried=63 last_latency=12.6s source=NTSB_ASRS:Pre2008
+[930/2000] ok=929 retried=63 last_latency=17.7s source=NTSB_ASRS:Pre2008
+[940/2000] ok=939 retried=64 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[950/2000] ok=949 retried=65 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[960/2000] ok=959 retried=65 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[970/2000] ok=969 retried=65 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[980/2000] ok=979 retried=65 last_latency=6.7s source=NTSB_ASRS:Pre2008
+[990/2000] ok=989 retried=65 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1000/2000] ok=999 retried=66 last_latency=28.3s source=NTSB_ASRS:Pre2008
+[1010/2000] ok=1009 retried=67 last_latency=13.0s source=NTSB_ASRS:Pre2008
+[1020/2000] ok=1019 retried=68 last_latency=13.0s source=NTSB_ASRS:Pre2008
+[1030/2000] ok=1029 retried=68 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1040/2000] ok=1039 retried=69 last_latency=8.3s source=NTSB_ASRS:Pre2008
+[1050/2000] ok=1049 retried=70 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[1060/2000] ok=1059 retried=71 last_latency=8.7s source=NTSB_ASRS:Pre2008
+[1070/2000] ok=1069 retried=71 last_latency=15.8s source=NTSB_ASRS:Pre2008
+[1080/2000] ok=1079 retried=71 last_latency=13.3s source=NTSB_ASRS:Pre2008
+[1090/2000] ok=1089 retried=71 last_latency=5.7s source=NTSB_ASRS:Pre2008
+[1100/2000] ok=1099 retried=72 last_latency=8.8s source=NTSB_ASRS:Pre2008
+[1110/2000] ok=1109 retried=73 last_latency=13.1s source=NTSB_ASRS:Pre2008
+[1120/2000] ok=1119 retried=73 last_latency=8.5s source=NTSB_ASRS:Pre2008
+[1130/2000] ok=1129 retried=74 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[1140/2000] ok=1139 retried=74 last_latency=11.7s source=NTSB_ASRS:Pre2008
+[1150/2000] ok=1149 retried=75 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[1160/2000] ok=1159 retried=76 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[1170/2000] ok=1169 retried=76 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[1180/2000] ok=1179 retried=76 last_latency=14.2s source=NTSB_ASRS:Pre2008
+[1190/2000] ok=1189 retried=76 last_latency=7.7s source=NTSB_ASRS:Pre2008
+[1200/2000] ok=1199 retried=77 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1210/2000] ok=1209 retried=78 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[1220/2000] ok=1219 retried=78 last_latency=6.5s source=NTSB_ASRS:Pre2008
+[1230/2000] ok=1229 retried=78 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1240/2000] ok=1239 retried=79 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[1250/2000] ok=1249 retried=79 last_latency=5.8s source=NTSB_ASRS:avall
+[1260/2000] ok=1259 retried=80 last_latency=7.6s source=NTSB_ASRS:Pre2008
+[1270/2000] ok=1269 retried=80 last_latency=8.7s source=NTSB_ASRS:Pre2008
+[1280/2000] ok=1279 retried=81 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[1290/2000] ok=1289 retried=81 last_latency=9.8s source=NTSB_ASRS:Pre2008
+[1300/2000] ok=1299 retried=81 last_latency=14.6s source=NTSB_ASRS:Pre2008
+[1310/2000] ok=1309 retried=82 last_latency=19.2s source=NTSB_ASRS:Pre2008
+[1320/2000] ok=1318 retried=82 last_latency=10.8s source=NTSB_ASRS:Pre2008
+[1330/2000] ok=1328 retried=83 last_latency=14.6s source=NTSB_ASRS:Pre2008
+[1340/2000] ok=1338 retried=83 last_latency=7.9s source=NTSB_ASRS:Pre2008
+[1350/2000] ok=1348 retried=85 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[1360/2000] ok=1358 retried=86 last_latency=30.4s source=NTSB_ASRS:Pre2008
+[1370/2000] ok=1368 retried=87 last_latency=23.0s source=NTSB_ASRS:Pre2008
+[1380/2000] ok=1378 retried=89 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[1390/2000] ok=1388 retried=89 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[1400/2000] ok=1398 retried=91 last_latency=15.8s source=NTSB_ASRS:Pre2008
+[1410/2000] ok=1408 retried=91 last_latency=8.5s source=NTSB_ASRS:Pre2008
+[1420/2000] ok=1418 retried=92 last_latency=10.1s source=NTSB_ASRS:avall
+[1430/2000] ok=1428 retried=93 last_latency=10.8s source=NTSB_ASRS:Pre2008
+[1440/2000] ok=1438 retried=94 last_latency=16.8s source=NTSB_ASRS:Pre2008
+[1450/2000] ok=1448 retried=97 last_latency=6.4s source=NTSB_ASRS:Pre2008
+[1460/2000] ok=1458 retried=97 last_latency=7.4s source=NTSB_ASRS:Pre2008
+[1470/2000] ok=1468 retried=97 last_latency=7.2s source=NTSB_ASRS:Pre2008
+[1480/2000] ok=1478 retried=97 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1490/2000] ok=1488 retried=99 last_latency=15.0s source=NTSB_ASRS:Pre2008
+[1500/2000] ok=1498 retried=99 last_latency=7.5s source=NTSB_ASRS:Pre2008
+[1510/2000] ok=1508 retried=99 last_latency=19.4s source=NTSB_ASRS:Pre2008
+[1520/2000] ok=1518 retried=100 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1530/2000] ok=1528 retried=100 last_latency=6.2s source=NTSB_ASRS:Pre2008
+[1540/2000] ok=1538 retried=101 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[1550/2000] ok=1548 retried=103 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[1560/2000] ok=1558 retried=103 last_latency=9.1s source=NTSB_ASRS:Pre2008
+[1570/2000] ok=1568 retried=104 last_latency=9.3s source=NTSB_ASRS:Pre2008
+[1580/2000] ok=1578 retried=105 last_latency=12.0s source=NTSB_ASRS:Pre2008
+[1590/2000] ok=1588 retried=106 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[1600/2000] ok=1598 retried=106 last_latency=15.1s source=NTSB_ASRS:Pre2008
+[1610/2000] ok=1608 retried=107 last_latency=6.0s source=NTSB_ASRS:Pre2008
+[1620/2000] ok=1618 retried=108 last_latency=15.6s source=NTSB_ASRS:Pre2008
+[1630/2000] ok=1628 retried=108 last_latency=8.6s source=NTSB_ASRS:Pre2008
+[1640/2000] ok=1638 retried=108 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[1650/2000] ok=1648 retried=109 last_latency=8.0s source=NTSB_ASRS:Pre2008
+[1660/2000] ok=1658 retried=110 last_latency=10.7s source=NTSB_ASRS:Pre2008
+[1670/2000] ok=1668 retried=111 last_latency=11.6s source=NTSB_ASRS:Pre2008
+[1680/2000] ok=1678 retried=113 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[1690/2000] ok=1688 retried=113 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[1700/2000] ok=1698 retried=113 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[1710/2000] ok=1708 retried=114 last_latency=17.9s source=NTSB_ASRS:Pre2008
+[1720/2000] ok=1718 retried=115 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[1730/2000] ok=1728 retried=115 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[1740/2000] ok=1738 retried=115 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1750/2000] ok=1748 retried=116 last_latency=11.8s source=NTSB_ASRS:Pre2008
+[1760/2000] ok=1758 retried=117 last_latency=15.5s source=NTSB_ASRS:Pre2008
+[1770/2000] ok=1768 retried=117 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[1780/2000] ok=1778 retried=117 last_latency=16.3s source=NTSB_ASRS:Pre2008
+[1790/2000] ok=1788 retried=118 last_latency=28.3s source=NTSB_ASRS:Pre2008
+[1800/2000] ok=1798 retried=118 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[1810/2000] ok=1808 retried=118 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[1820/2000] ok=1818 retried=118 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1830/2000] ok=1828 retried=120 last_latency=7.2s source=NTSB_ASRS:Pre2008
+[1840/2000] ok=1838 retried=120 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[1850/2000] ok=1848 retried=121 last_latency=8.6s source=NTSB_ASRS:Pre2008
+[1860/2000] ok=1858 retried=121 last_latency=6.9s source=NTSB_ASRS:Pre2008
+[1870/2000] ok=1868 retried=121 last_latency=14.3s source=NTSB_ASRS:Pre2008
+[1880/2000] ok=1878 retried=121 last_latency=14.3s source=NTSB_ASRS:Pre2008
+[1890/2000] ok=1888 retried=121 last_latency=13.3s source=NTSB_ASRS:Pre2008
+[1900/2000] ok=1897 retried=123 last_latency=10.7s source=NTSB_ASRS:Pre2008
+[1910/2000] ok=1907 retried=124 last_latency=18.6s source=NTSB_ASRS:Pre2008
+[1920/2000] ok=1917 retried=125 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[1930/2000] ok=1927 retried=125 last_latency=8.9s source=NTSB_ASRS:Pre2008
+[1940/2000] ok=1937 retried=125 last_latency=6.3s source=NTSB_ASRS:Pre2008
+[1950/2000] ok=1947 retried=127 last_latency=5.1s source=NTSB_ASRS:Pre2008
+[1960/2000] ok=1957 retried=127 last_latency=8.0s source=NTSB_ASRS:Pre2008
+[1970/2000] ok=1967 retried=128 last_latency=4.3s source=NTSB_ASRS:Pre2008
+[1980/2000] ok=1977 retried=128 last_latency=5.1s source=NTSB_ASRS:Pre2008
+[1990/2000] ok=1987 retried=128 last_latency=8.7s source=NTSB_ASRS:Pre2008
+[2000/2000] ok=1997 retried=129 last_latency=3.8s source=NTSB_ASRS:Pre2008
+done in 1536.5s  ok=1997/2000
+[Mon Sep 14 06:43:26 PM CDT 2026] judge run2
+Loading enriched corpus index…
+  145,263 records with supervision
+Loading event_extraction/out/selfconsistency/calibration_2k_v4_narrative_run2.jsonl…
+  1,997 ok extractions
+  1,997 records to evaluate (factors x events)
+  1,997 pending after cache (cached: 0)
+  judged 50/1997 (8.5/s)
+  judged 100/1997 (9.2/s)
+  judged 150/1997 (9.2/s)
+  judged 200/1997 (9.3/s)
+  judged 250/1997 (9.3/s)
+  judged 300/1997 (9.3/s)
+  judged 350/1997 (9.3/s)
+  judged 400/1997 (9.4/s)
+  judged 450/1997 (9.4/s)
+  judged 500/1997 (9.4/s)
+  judged 550/1997 (9.3/s)
+  judged 600/1997 (9.3/s)
+  judged 650/1997 (9.3/s)
+  judged 700/1997 (9.3/s)
+  judged 750/1997 (9.3/s)
+  judged 800/1997 (9.3/s)
+  judged 850/1997 (9.3/s)
+  judged 900/1997 (9.3/s)
+  judged 950/1997 (9.3/s)
+  judged 1000/1997 (9.3/s)
+  judged 1050/1997 (9.3/s)
+  judged 1100/1997 (9.3/s)
+  judged 1150/1997 (9.3/s)
+  judged 1200/1997 (9.3/s)
+  judged 1250/1997 (9.3/s)
+  judged 1300/1997 (9.3/s)
+  judged 1350/1997 (9.3/s)
+  judged 1400/1997 (9.3/s)
+  judged 1450/1997 (9.3/s)
+  judged 1500/1997 (9.3/s)
+  judged 1550/1997 (9.3/s)
+  judged 1600/1997 (9.3/s)
+  judged 1650/1997 (9.3/s)
+  judged 1700/1997 (9.3/s)
+  judged 1750/1997 (9.3/s)
+  judged 1800/1997 (9.3/s)
+  judged 1850/1997 (9.3/s)
+  judged 1900/1997 (9.3/s)
+  judged 1950/1997 (9.3/s)
+
+=== Semantic eval (sc-run2) ===
+  tag: sc-run2
+  extraction_file: event_extraction/out/selfconsistency/calibration_2k_v4_narrative_run2.jsonl
+  n_records_evaluated: 1997
+  n_factors_total: 3476
+  n_factors_matched: 3148
+  recall: 0.9056
+  n_events_total: 10999
+  n_events_matched_to_a_factor: 3282
+  precision: 0.2984
+  mean_per_record_recall: 0.8974
+
+Wrote event_extraction/out/selfconsistency/semantic_eval_run2.summary.json
+[Mon Sep 14 06:47:03 PM CDT 2026] extraction run3 (temperature 0.2)
+guided_json: enforcing schema schema_v4.json
+loaded 2000 records to extract
+[10/2000] ok=10 retried=0 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[20/2000] ok=20 retried=0 last_latency=3.3s source=NTSB_ASRS:Pre2008
+[30/2000] ok=30 retried=1 last_latency=12.1s source=NTSB_ASRS:Pre2008
+[40/2000] ok=40 retried=1 last_latency=15.1s source=NTSB_ASRS:Pre2008
+[50/2000] ok=50 retried=2 last_latency=13.1s source=NTSB_ASRS:Pre2008
+[60/2000] ok=60 retried=2 last_latency=8.5s source=NTSB_ASRS:Pre2008
+[70/2000] ok=70 retried=3 last_latency=11.8s source=NTSB_ASRS:Pre2008
+[80/2000] ok=80 retried=3 last_latency=8.8s source=NTSB_ASRS:Pre2008
+[90/2000] ok=90 retried=4 last_latency=10.9s source=NTSB_ASRS:Pre2008
+[100/2000] ok=100 retried=4 last_latency=18.0s source=NTSB_ASRS:Pre2008
+[110/2000] ok=110 retried=4 last_latency=6.1s source=NTSB_ASRS:Pre2008
+[120/2000] ok=120 retried=4 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[130/2000] ok=130 retried=4 last_latency=10.2s source=NTSB_ASRS:Pre2008
+[140/2000] ok=140 retried=4 last_latency=5.1s source=NTSB_ASRS:Pre2008
+[150/2000] ok=150 retried=4 last_latency=12.0s source=NTSB_ASRS:Pre2008
+[160/2000] ok=160 retried=4 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[170/2000] ok=170 retried=4 last_latency=8.1s source=NTSB_ASRS:Pre2008
+[180/2000] ok=180 retried=6 last_latency=4.6s source=NTSB_ASRS:Pre2008
+[190/2000] ok=190 retried=6 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[200/2000] ok=200 retried=6 last_latency=14.2s source=NTSB_ASRS:Pre2008
+[210/2000] ok=210 retried=6 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[220/2000] ok=220 retried=6 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[230/2000] ok=230 retried=8 last_latency=8.5s source=NTSB_ASRS:Pre2008
+[240/2000] ok=240 retried=9 last_latency=15.9s source=NTSB_ASRS:Pre2008
+[250/2000] ok=250 retried=11 last_latency=14.7s source=NTSB_ASRS:Pre2008
+[260/2000] ok=260 retried=11 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[270/2000] ok=270 retried=11 last_latency=9.4s source=NTSB_ASRS:Pre2008
+[280/2000] ok=280 retried=13 last_latency=16.1s source=NTSB_ASRS:Pre2008
+[290/2000] ok=290 retried=13 last_latency=12.9s source=NTSB_ASRS:Pre2008
+[300/2000] ok=300 retried=13 last_latency=9.5s source=NTSB_ASRS:Pre2008
+[310/2000] ok=310 retried=13 last_latency=12.5s source=NTSB_ASRS:Pre2008
+[320/2000] ok=320 retried=14 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[330/2000] ok=330 retried=15 last_latency=22.8s source=NTSB_ASRS:Pre2008
+[340/2000] ok=340 retried=18 last_latency=17.2s source=NTSB_ASRS:Pre2008
+[350/2000] ok=350 retried=18 last_latency=11.2s source=NTSB_ASRS:Pre2008
+[360/2000] ok=360 retried=18 last_latency=10.0s source=NTSB_ASRS:Pre2008
+[370/2000] ok=370 retried=19 last_latency=7.9s source=NTSB_ASRS:Pre2008
+[380/2000] ok=380 retried=20 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[390/2000] ok=390 retried=20 last_latency=15.4s source=NTSB_ASRS:Pre2008
+[400/2000] ok=400 retried=20 last_latency=14.7s source=NTSB_ASRS:Pre2008
+[410/2000] ok=410 retried=20 last_latency=15.1s source=NTSB_ASRS:Pre2008
+[420/2000] ok=420 retried=21 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[430/2000] ok=430 retried=22 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[440/2000] ok=440 retried=22 last_latency=15.0s source=NTSB_ASRS:Pre2008
+[450/2000] ok=450 retried=22 last_latency=15.9s source=NTSB_ASRS:Pre2008
+[460/2000] ok=460 retried=22 last_latency=9.3s source=NTSB_ASRS:Pre2008
+[470/2000] ok=470 retried=23 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[480/2000] ok=480 retried=23 last_latency=10.7s source=NTSB_ASRS:Pre2008
+[490/2000] ok=490 retried=23 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[500/2000] ok=500 retried=24 last_latency=12.7s source=NTSB_ASRS:Pre2008
+[510/2000] ok=510 retried=25 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[520/2000] ok=520 retried=25 last_latency=13.6s source=NTSB_ASRS:Pre2008
+[530/2000] ok=530 retried=25 last_latency=8.1s source=NTSB_ASRS:Pre2008
+[540/2000] ok=540 retried=25 last_latency=10.0s source=NTSB_ASRS:Pre2008
+[550/2000] ok=550 retried=25 last_latency=6.0s source=NTSB_ASRS:Pre2008
+[560/2000] ok=559 retried=27 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[570/2000] ok=569 retried=28 last_latency=12.9s source=NTSB_ASRS:Pre2008
+[580/2000] ok=579 retried=29 last_latency=14.6s source=NTSB_ASRS:Pre2008
+[590/2000] ok=589 retried=29 last_latency=6.2s source=NTSB_ASRS:Pre2008
+[600/2000] ok=599 retried=29 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[610/2000] ok=609 retried=29 last_latency=10.2s source=NTSB_ASRS:Pre2008
+[620/2000] ok=619 retried=31 last_latency=7.9s source=NTSB_ASRS:Pre2008
+[630/2000] ok=629 retried=33 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[640/2000] ok=639 retried=33 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[650/2000] ok=649 retried=33 last_latency=18.5s source=NTSB_ASRS:Pre2008
+[660/2000] ok=659 retried=34 last_latency=25.0s source=NTSB_ASRS:Pre2008
+[670/2000] ok=669 retried=36 last_latency=7.2s source=NTSB_ASRS:Pre2008
+[680/2000] ok=679 retried=37 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[690/2000] ok=689 retried=37 last_latency=6.8s source=NTSB_ASRS:Pre2008
+[700/2000] ok=699 retried=38 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[710/2000] ok=709 retried=38 last_latency=13.9s source=NTSB_ASRS:Pre2008
+[720/2000] ok=719 retried=38 last_latency=7.1s source=NTSB_ASRS:Pre2008
+[730/2000] ok=729 retried=38 last_latency=17.3s source=NTSB_ASRS:Pre2008
+[740/2000] ok=739 retried=38 last_latency=15.2s source=NTSB_ASRS:Pre2008
+[750/2000] ok=749 retried=40 last_latency=17.9s source=NTSB_ASRS:Pre2008
+[760/2000] ok=759 retried=41 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[770/2000] ok=769 retried=42 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[780/2000] ok=779 retried=43 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[790/2000] ok=789 retried=44 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[800/2000] ok=799 retried=46 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[810/2000] ok=809 retried=47 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[820/2000] ok=819 retried=47 last_latency=15.0s source=NTSB_ASRS:Pre2008
+[830/2000] ok=829 retried=49 last_latency=10.6s source=NTSB_ASRS:Pre2008
+[840/2000] ok=839 retried=50 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[850/2000] ok=849 retried=51 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[860/2000] ok=859 retried=54 last_latency=6.4s source=NTSB_ASRS:Pre2008
+[870/2000] ok=869 retried=55 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[880/2000] ok=879 retried=56 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[890/2000] ok=889 retried=58 last_latency=9.0s source=NTSB_ASRS:Pre2008
+[900/2000] ok=899 retried=60 last_latency=12.0s source=NTSB_ASRS:Pre2008
+[910/2000] ok=909 retried=60 last_latency=12.0s source=NTSB_ASRS:Pre2008
+[920/2000] ok=919 retried=61 last_latency=17.1s source=NTSB_ASRS:Pre2008
+[930/2000] ok=929 retried=62 last_latency=17.0s source=NTSB_ASRS:Pre2008
+[940/2000] ok=939 retried=63 last_latency=27.9s source=NTSB_ASRS:Pre2008
+[950/2000] ok=949 retried=63 last_latency=15.7s source=NTSB_ASRS:Pre2008
+[960/2000] ok=959 retried=63 last_latency=6.8s source=NTSB_ASRS:Pre2008
+[970/2000] ok=969 retried=65 last_latency=9.4s source=NTSB_ASRS:Pre2008
+[980/2000] ok=979 retried=66 last_latency=8.1s source=NTSB_ASRS:Pre2008
+[990/2000] ok=989 retried=66 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[1000/2000] ok=999 retried=68 last_latency=6.5s source=NTSB_ASRS:Pre2008
+[1010/2000] ok=1009 retried=68 last_latency=10.8s source=NTSB_ASRS:Pre2008
+[1020/2000] ok=1019 retried=68 last_latency=11.6s source=NTSB_ASRS:Pre2008
+[1030/2000] ok=1029 retried=69 last_latency=27.0s source=NTSB_ASRS:Pre2008
+[1040/2000] ok=1039 retried=70 last_latency=13.7s source=NTSB_ASRS:Pre2008
+[1050/2000] ok=1049 retried=70 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1060/2000] ok=1059 retried=70 last_latency=5.9s source=NTSB_ASRS:Pre2008
+[1070/2000] ok=1069 retried=70 last_latency=13.3s source=NTSB_ASRS:Pre2008
+[1080/2000] ok=1079 retried=72 last_latency=17.3s source=NTSB_ASRS:Pre2008
+[1090/2000] ok=1089 retried=72 last_latency=6.0s source=NTSB_ASRS:Pre2008
+[1100/2000] ok=1099 retried=72 last_latency=9.8s source=NTSB_ASRS:Pre2008
+[1110/2000] ok=1109 retried=72 last_latency=14.8s source=NTSB_ASRS:Pre2008
+[1120/2000] ok=1119 retried=72 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1130/2000] ok=1129 retried=72 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1140/2000] ok=1139 retried=74 last_latency=10.2s source=NTSB_ASRS:Pre2008
+[1150/2000] ok=1149 retried=75 last_latency=33.4s source=NTSB_ASRS:Pre2008
+[1160/2000] ok=1159 retried=75 last_latency=15.0s source=NTSB_ASRS:Pre2008
+[1170/2000] ok=1169 retried=76 last_latency=11.4s source=NTSB_ASRS:Pre2008
+[1180/2000] ok=1179 retried=76 last_latency=6.7s source=NTSB_ASRS:Pre2008
+[1190/2000] ok=1189 retried=77 last_latency=17.0s source=NTSB_ASRS:Pre2008
+[1200/2000] ok=1199 retried=78 last_latency=9.0s source=NTSB_ASRS:Pre2008
+[1210/2000] ok=1209 retried=79 last_latency=20.2s source=NTSB_ASRS:Pre2008
+[1220/2000] ok=1219 retried=80 last_latency=8.9s source=NTSB_ASRS:Pre2008
+[1230/2000] ok=1229 retried=81 last_latency=8.4s source=NTSB_ASRS:Pre2008
+[1240/2000] ok=1239 retried=81 last_latency=5.5s source=NTSB_ASRS:Pre2008
+[1250/2000] ok=1249 retried=81 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[1260/2000] ok=1259 retried=82 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[1270/2000] ok=1269 retried=83 last_latency=16.3s source=NTSB_ASRS:Pre2008
+[1280/2000] ok=1279 retried=85 last_latency=15.1s source=NTSB_ASRS:Pre2008
+[1290/2000] ok=1289 retried=85 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[1300/2000] ok=1299 retried=86 last_latency=8.1s source=NTSB_ASRS:Pre2008
+[1310/2000] ok=1309 retried=86 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[1320/2000] ok=1319 retried=86 last_latency=8.8s source=NTSB_ASRS:Pre2008
+[1330/2000] ok=1329 retried=86 last_latency=12.0s source=NTSB_ASRS:Pre2008
+[1340/2000] ok=1339 retried=86 last_latency=7.6s source=NTSB_ASRS:Pre2008
+[1350/2000] ok=1349 retried=87 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[1360/2000] ok=1359 retried=89 last_latency=12.5s source=NTSB_ASRS:Pre2008
+[1370/2000] ok=1369 retried=90 last_latency=9.8s source=NTSB_ASRS:Pre2008
+[1380/2000] ok=1379 retried=91 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1390/2000] ok=1389 retried=91 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[1400/2000] ok=1399 retried=93 last_latency=14.1s source=NTSB_ASRS:Pre2008
+[1410/2000] ok=1409 retried=93 last_latency=9.1s source=NTSB_ASRS:Pre2008
+[1420/2000] ok=1419 retried=95 last_latency=12.8s source=NTSB_ASRS:Pre2008
+[1430/2000] ok=1429 retried=95 last_latency=9.4s source=NTSB_ASRS:Pre2008
+[1440/2000] ok=1439 retried=98 last_latency=21.3s source=NTSB_ASRS:Pre2008
+[1450/2000] ok=1449 retried=101 last_latency=9.5s source=NTSB_ASRS:Pre2008
+[1460/2000] ok=1459 retried=102 last_latency=15.3s source=NTSB_ASRS:Pre2008
+[1470/2000] ok=1469 retried=103 last_latency=9.4s source=NTSB_ASRS:Pre2008
+[1480/2000] ok=1478 retried=104 last_latency=16.4s source=NTSB_ASRS:Pre2008
+[1490/2000] ok=1488 retried=105 last_latency=8.7s source=NTSB_ASRS:Pre2008
+[1500/2000] ok=1498 retried=106 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[1510/2000] ok=1508 retried=106 last_latency=9.1s source=NTSB_ASRS:Pre2008
+[1520/2000] ok=1518 retried=106 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[1530/2000] ok=1528 retried=106 last_latency=15.7s source=NTSB_ASRS:Pre2008
+[1540/2000] ok=1538 retried=106 last_latency=14.1s source=NTSB_ASRS:Pre2008
+[1550/2000] ok=1548 retried=107 last_latency=13.1s source=NTSB_ASRS:Pre2008
+[1560/2000] ok=1558 retried=107 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[1570/2000] ok=1568 retried=107 last_latency=5.3s source=NTSB_ASRS:Pre2008
+[1580/2000] ok=1578 retried=107 last_latency=9.0s source=NTSB_ASRS:Pre2008
+[1590/2000] ok=1588 retried=107 last_latency=13.1s source=NTSB_ASRS:Pre2008
+[1600/2000] ok=1598 retried=108 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[1610/2000] ok=1608 retried=108 last_latency=7.7s source=NTSB_ASRS:Pre2008
+[1620/2000] ok=1618 retried=108 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[1630/2000] ok=1628 retried=109 last_latency=12.1s source=NTSB_ASRS:Pre2008
+[1640/2000] ok=1638 retried=109 last_latency=8.4s source=NTSB_ASRS:Pre2008
+[1650/2000] ok=1648 retried=109 last_latency=8.4s source=NTSB_ASRS:Pre2008
+[1660/2000] ok=1658 retried=110 last_latency=12.7s source=NTSB_ASRS:Pre2008
+[1670/2000] ok=1668 retried=111 last_latency=18.4s source=NTSB_ASRS:Pre2008
+[1680/2000] ok=1678 retried=111 last_latency=14.1s source=NTSB_ASRS:Pre2008
+[1690/2000] ok=1688 retried=112 last_latency=15.4s source=NTSB_ASRS:Pre2008
+[1700/2000] ok=1698 retried=112 last_latency=10.9s source=NTSB_ASRS:Pre2008
+[1710/2000] ok=1708 retried=113 last_latency=8.9s source=NTSB_ASRS:Pre2008
+[1720/2000] ok=1718 retried=114 last_latency=13.9s source=NTSB_ASRS:Pre2008
+[1730/2000] ok=1728 retried=114 last_latency=14.3s source=NTSB_ASRS:Pre2008
+[1740/2000] ok=1738 retried=114 last_latency=13.6s source=NTSB_ASRS:Pre2008
+[1750/2000] ok=1748 retried=115 last_latency=14.7s source=NTSB_ASRS:Pre2008
+[1760/2000] ok=1758 retried=116 last_latency=23.1s source=NTSB_ASRS:Pre2008
+[1770/2000] ok=1768 retried=117 last_latency=13.0s source=NTSB_ASRS:Pre2008
+[1780/2000] ok=1778 retried=117 last_latency=11.3s source=NTSB_ASRS:Pre2008
+[1790/2000] ok=1788 retried=117 last_latency=8.7s source=NTSB_ASRS:Pre2008
+[1800/2000] ok=1798 retried=117 last_latency=12.9s source=NTSB_ASRS:Pre2008
+[1810/2000] ok=1808 retried=117 last_latency=21.6s source=NTSB_ASRS:Pre2008
+[1820/2000] ok=1818 retried=117 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[1830/2000] ok=1828 retried=117 last_latency=7.8s source=NTSB_ASRS:Pre2008
+[1840/2000] ok=1838 retried=117 last_latency=10.6s source=NTSB_ASRS:Pre2008
+[1850/2000] ok=1848 retried=117 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[1860/2000] ok=1858 retried=118 last_latency=14.5s source=NTSB_ASRS:Pre2008
+[1870/2000] ok=1868 retried=119 last_latency=13.9s source=NTSB_ASRS:Pre2008
+[1880/2000] ok=1878 retried=120 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[1890/2000] ok=1888 retried=120 last_latency=8.1s source=NTSB_ASRS:Pre2008
+[1900/2000] ok=1897 retried=121 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[1910/2000] ok=1907 retried=121 last_latency=9.1s source=NTSB_ASRS:Pre2008
+[1920/2000] ok=1917 retried=121 last_latency=4.8s source=NTSB_ASRS:Pre2008
+[1930/2000] ok=1927 retried=121 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[1940/2000] ok=1937 retried=122 last_latency=8.8s source=NTSB_ASRS:Pre2008
+[1950/2000] ok=1947 retried=123 last_latency=9.4s source=NTSB_ASRS:Pre2008
+[1960/2000] ok=1957 retried=123 last_latency=3.5s source=NTSB_ASRS:Pre2008
+[1970/2000] ok=1967 retried=125 last_latency=18.6s source=NTSB_ASRS:Pre2008
+[1980/2000] ok=1977 retried=127 last_latency=13.5s source=NTSB_ASRS:Pre2008
+[1990/2000] ok=1987 retried=128 last_latency=4.3s source=NTSB_ASRS:Pre2008
+[2000/2000] ok=1997 retried=130 last_latency=3.5s source=NTSB_ASRS:Pre2008
+done in 1499.2s  ok=1997/2000
+[Mon Sep 14 07:12:02 PM CDT 2026] judge run3
+Loading enriched corpus index…
+  145,263 records with supervision
+Loading event_extraction/out/selfconsistency/calibration_2k_v4_narrative_run3.jsonl…
+  1,997 ok extractions
+  1,997 records to evaluate (factors x events)
+  1,997 pending after cache (cached: 0)
+  judged 50/1997 (8.1/s)
+  judged 100/1997 (9.0/s)
+  judged 150/1997 (9.2/s)
+  judged 200/1997 (9.3/s)
+  judged 250/1997 (9.2/s)
+  judged 300/1997 (9.3/s)
+  judged 350/1997 (9.4/s)
+  judged 400/1997 (9.3/s)
+  judged 450/1997 (9.3/s)
+  judged 500/1997 (9.3/s)
+  judged 550/1997 (9.3/s)
+  judged 600/1997 (9.3/s)
+  judged 650/1997 (9.3/s)
+  judged 700/1997 (9.3/s)
+  judged 750/1997 (9.3/s)
+  judged 800/1997 (9.3/s)
+  judged 850/1997 (9.3/s)
+  judged 900/1997 (9.3/s)
+  judged 950/1997 (9.3/s)
+  judged 1000/1997 (9.3/s)
+  judged 1050/1997 (9.3/s)
+  judged 1100/1997 (9.3/s)
+  judged 1150/1997 (9.3/s)
+  judged 1200/1997 (9.3/s)
+  judged 1250/1997 (9.3/s)
+  judged 1300/1997 (9.3/s)
+  judged 1350/1997 (9.3/s)
+  judged 1400/1997 (9.3/s)
+  judged 1450/1997 (9.3/s)
+  judged 1500/1997 (9.3/s)
+  judged 1550/1997 (9.3/s)
+  judged 1600/1997 (9.3/s)
+  judged 1650/1997 (9.3/s)
+  judged 1700/1997 (9.3/s)
+  judged 1750/1997 (9.4/s)
+  judged 1800/1997 (9.4/s)
+  judged 1850/1997 (9.3/s)
+  judged 1900/1997 (9.3/s)
+  judged 1950/1997 (9.3/s)
+
+=== Semantic eval (sc-run3) ===
+  tag: sc-run3
+  extraction_file: event_extraction/out/selfconsistency/calibration_2k_v4_narrative_run3.jsonl
+  n_records_evaluated: 1997
+  n_factors_total: 3475
+  n_factors_matched: 3159
+  recall: 0.9091
+  n_events_total: 10964
+  n_events_matched_to_a_factor: 3327
+  precision: 0.3034
+  mean_per_record_recall: 0.9022
+
+Wrote event_extraction/out/selfconsistency/semantic_eval_run3.summary.json
+[Mon Sep 14 07:15:38 PM CDT 2026] extraction t07 (temperature 0.7)
+guided_json: enforcing schema schema_v4.json
+loaded 2000 records to extract
+[10/2000] ok=10 retried=0 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[20/2000] ok=20 retried=1 last_latency=19.1s source=NTSB_ASRS:Pre2008
+[30/2000] ok=30 retried=2 last_latency=10.2s source=NTSB_ASRS:Pre2008
+[40/2000] ok=40 retried=4 last_latency=21.7s source=NTSB_ASRS:Pre2008
+[50/2000] ok=50 retried=4 last_latency=5.4s source=NTSB_ASRS:Pre2008
+[60/2000] ok=60 retried=4 last_latency=13.7s source=NTSB_ASRS:Pre2008
+[70/2000] ok=70 retried=6 last_latency=6.2s source=NTSB_ASRS:Pre2008
+[80/2000] ok=80 retried=7 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[90/2000] ok=90 retried=8 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[100/2000] ok=99 retried=8 last_latency=7.4s source=NTSB_ASRS:Pre2008
+[110/2000] ok=109 retried=9 last_latency=5.8s source=NTSB_ASRS:Pre2008
+[120/2000] ok=119 retried=9 last_latency=6.3s source=NTSB_ASRS:Pre2008
+[130/2000] ok=129 retried=9 last_latency=8.9s source=NTSB_ASRS:Pre2008
+[140/2000] ok=139 retried=9 last_latency=13.9s source=NTSB_ASRS:Pre2008
+[150/2000] ok=149 retried=10 last_latency=9.5s source=NTSB_ASRS:Pre2008
+[160/2000] ok=159 retried=11 last_latency=5.2s source=NTSB_ASRS:Pre2008
+[170/2000] ok=169 retried=12 last_latency=8.7s source=NTSB_ASRS:Pre2008
+[180/2000] ok=179 retried=14 last_latency=10.8s source=NTSB_ASRS:Pre2008
+[190/2000] ok=189 retried=15 last_latency=13.8s source=NTSB_ASRS:Pre2008
+[200/2000] ok=199 retried=15 last_latency=14.8s source=NTSB_ASRS:Pre2008
+[210/2000] ok=208 retried=18 last_latency=12.8s source=NTSB_ASRS:Pre2008
+[220/2000] ok=218 retried=19 last_latency=10.9s source=NTSB_ASRS:Pre2008
+[230/2000] ok=228 retried=20 last_latency=5.5s source=NTSB_ASRS:Pre2008
+[240/2000] ok=238 retried=20 last_latency=11.4s source=NTSB_ASRS:Pre2008
+[250/2000] ok=248 retried=20 last_latency=15.5s source=NTSB_ASRS:Pre2008
+[260/2000] ok=258 retried=21 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[270/2000] ok=268 retried=23 last_latency=14.9s source=NTSB_ASRS:Pre2008
+[280/2000] ok=278 retried=24 last_latency=9.4s source=NTSB_ASRS:Pre2008
+[290/2000] ok=288 retried=24 last_latency=15.7s source=NTSB_ASRS:Pre2008
+[300/2000] ok=298 retried=24 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[310/2000] ok=308 retried=26 last_latency=13.5s source=NTSB_ASRS:Pre2008
+[320/2000] ok=318 retried=29 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[330/2000] ok=328 retried=30 last_latency=10.9s source=NTSB_ASRS:Pre2008
+[340/2000] ok=338 retried=30 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[350/2000] ok=348 retried=31 last_latency=13.0s source=NTSB_ASRS:Pre2008
+[360/2000] ok=358 retried=31 last_latency=7.4s source=NTSB_ASRS:Pre2008
+[370/2000] ok=368 retried=32 last_latency=8.5s source=NTSB_ASRS:Pre2008
+[380/2000] ok=378 retried=32 last_latency=13.8s source=NTSB_ASRS:Pre2008
+[390/2000] ok=388 retried=32 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[400/2000] ok=398 retried=34 last_latency=15.4s source=NTSB_ASRS:Pre2008
+[410/2000] ok=408 retried=35 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[420/2000] ok=418 retried=36 last_latency=14.8s source=NTSB_ASRS:Pre2008
+[430/2000] ok=428 retried=36 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[440/2000] ok=438 retried=38 last_latency=9.8s source=NTSB_ASRS:Pre2008
+[450/2000] ok=448 retried=38 last_latency=7.9s source=NTSB_ASRS:Pre2008
+[460/2000] ok=458 retried=40 last_latency=40.3s source=NTSB_ASRS:Pre2008
+[470/2000] ok=468 retried=41 last_latency=10.4s source=NTSB_ASRS:Pre2008
+[480/2000] ok=478 retried=42 last_latency=15.3s source=NTSB_ASRS:Pre2008
+[490/2000] ok=488 retried=42 last_latency=12.7s source=NTSB_ASRS:Pre2008
+[500/2000] ok=498 retried=44 last_latency=22.9s source=NTSB_ASRS:Pre2008
+[510/2000] ok=508 retried=45 last_latency=11.7s source=NTSB_ASRS:Pre2008
+[520/2000] ok=518 retried=45 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[530/2000] ok=528 retried=45 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[540/2000] ok=538 retried=46 last_latency=14.5s source=NTSB_ASRS:Pre2008
+[550/2000] ok=548 retried=47 last_latency=15.6s source=NTSB_ASRS:Pre2008
+[560/2000] ok=558 retried=47 last_latency=14.7s source=NTSB_ASRS:Pre2008
+[570/2000] ok=568 retried=47 last_latency=14.1s source=NTSB_ASRS:Pre2008
+[580/2000] ok=578 retried=49 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[590/2000] ok=588 retried=50 last_latency=9.0s source=NTSB_ASRS:Pre2008
+[600/2000] ok=598 retried=51 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[610/2000] ok=608 retried=51 last_latency=8.6s source=NTSB_ASRS:Pre2008
+[620/2000] ok=618 retried=53 last_latency=13.6s source=NTSB_ASRS:Pre2008
+[630/2000] ok=628 retried=55 last_latency=6.1s source=NTSB_ASRS:Pre2008
+[640/2000] ok=638 retried=55 last_latency=9.3s source=NTSB_ASRS:Pre2008
+[650/2000] ok=648 retried=55 last_latency=8.5s source=NTSB_ASRS:Pre2008
+[660/2000] ok=657 retried=56 last_latency=20.1s source=NTSB_ASRS:Pre2008
+[670/2000] ok=667 retried=57 last_latency=10.2s source=NTSB_ASRS:Pre2008
+[680/2000] ok=677 retried=58 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[690/2000] ok=687 retried=58 last_latency=7.8s source=NTSB_ASRS:Pre2008
+[700/2000] ok=697 retried=60 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[710/2000] ok=706 retried=60 last_latency=31.5s source=NTSB_ASRS:Pre2008
+[720/2000] ok=716 retried=60 last_latency=8.4s source=NTSB_ASRS:Pre2008
+[730/2000] ok=726 retried=61 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[740/2000] ok=736 retried=62 last_latency=6.3s source=NTSB_ASRS:avall
+[750/2000] ok=746 retried=64 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[760/2000] ok=756 retried=64 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[770/2000] ok=766 retried=65 last_latency=6.4s source=NTSB_ASRS:Pre2008
+[780/2000] ok=776 retried=65 last_latency=13.0s source=NTSB_ASRS:Pre2008
+[790/2000] ok=786 retried=68 last_latency=9.3s source=NTSB_ASRS:Pre2008
+[800/2000] ok=796 retried=70 last_latency=15.3s source=NTSB_ASRS:Pre2008
+[810/2000] ok=806 retried=70 last_latency=8.0s source=NTSB_ASRS:Pre2008
+[820/2000] ok=816 retried=70 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[830/2000] ok=826 retried=71 last_latency=11.4s source=NTSB_ASRS:Pre2008
+[840/2000] ok=836 retried=71 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[850/2000] ok=846 retried=73 last_latency=12.6s source=NTSB_ASRS:Pre2008
+[860/2000] ok=856 retried=73 last_latency=18.3s source=NTSB_ASRS:Pre2008
+[870/2000] ok=866 retried=74 last_latency=13.1s source=NTSB_ASRS:Pre2008
+[880/2000] ok=876 retried=75 last_latency=7.5s source=NTSB_ASRS:Pre2008
+[890/2000] ok=886 retried=77 last_latency=11.8s source=NTSB_ASRS:Pre2008
+[900/2000] ok=896 retried=77 last_latency=6.4s source=NTSB_ASRS:Pre2008
+[910/2000] ok=905 retried=77 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[920/2000] ok=915 retried=78 last_latency=3.8s source=NTSB_ASRS:Pre2008
+[930/2000] ok=925 retried=79 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[940/2000] ok=935 retried=79 last_latency=12.8s source=NTSB_ASRS:Pre2008
+[950/2000] ok=945 retried=81 last_latency=6.6s source=NTSB_ASRS:Pre2008
+[960/2000] ok=955 retried=81 last_latency=5.3s source=NTSB_ASRS:Pre2008
+[970/2000] ok=964 retried=81 last_latency=8.1s source=NTSB_ASRS:Pre2008
+[980/2000] ok=974 retried=82 last_latency=12.7s source=NTSB_ASRS:Pre2008
+[990/2000] ok=984 retried=83 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[1000/2000] ok=994 retried=84 last_latency=15.1s source=NTSB_ASRS:Pre2008
+[1010/2000] ok=1004 retried=86 last_latency=12.5s source=NTSB_ASRS:Pre2008
+[1020/2000] ok=1014 retried=86 last_latency=12.7s source=NTSB_ASRS:Pre2008
+[1030/2000] ok=1024 retried=86 last_latency=8.9s source=NTSB_ASRS:Pre2008
+[1040/2000] ok=1034 retried=86 last_latency=10.4s source=NTSB_ASRS:Pre2008
+[1050/2000] ok=1044 retried=89 last_latency=20.3s source=NTSB_ASRS:Pre2008
+[1060/2000] ok=1054 retried=90 last_latency=5.6s source=NTSB_ASRS:Pre2008
+[1070/2000] ok=1064 retried=90 last_latency=12.1s source=NTSB_ASRS:Pre2008
+[1080/2000] ok=1074 retried=91 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[1090/2000] ok=1084 retried=92 last_latency=21.4s source=NTSB_ASRS:Pre2008
+[1100/2000] ok=1094 retried=92 last_latency=15.0s source=NTSB_ASRS:Pre2008
+[1110/2000] ok=1104 retried=93 last_latency=20.6s source=NTSB_ASRS:Pre2008
+[1120/2000] ok=1114 retried=95 last_latency=9.7s source=NTSB_ASRS:Pre2008
+[1130/2000] ok=1124 retried=96 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[1140/2000] ok=1134 retried=97 last_latency=16.0s source=NTSB_ASRS:Pre2008
+[1150/2000] ok=1144 retried=98 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[1160/2000] ok=1154 retried=99 last_latency=3.9s source=NTSB_ASRS:Pre2008
+[1170/2000] ok=1164 retried=100 last_latency=13.0s source=NTSB_ASRS:Pre2008
+[1180/2000] ok=1174 retried=101 last_latency=12.5s source=NTSB_ASRS:Pre2008
+[1190/2000] ok=1184 retried=101 last_latency=14.0s source=NTSB_ASRS:Pre2008
+[1200/2000] ok=1194 retried=101 last_latency=5.4s source=NTSB_ASRS:Pre2008
+[1210/2000] ok=1204 retried=102 last_latency=23.0s source=NTSB_ASRS:Pre2008
+[1220/2000] ok=1214 retried=104 last_latency=11.0s source=NTSB_ASRS:Pre2008
+[1230/2000] ok=1224 retried=104 last_latency=11.8s source=NTSB_ASRS:Pre2008
+[1240/2000] ok=1234 retried=105 last_latency=10.9s source=NTSB_ASRS:Pre2008
+[1250/2000] ok=1244 retried=106 last_latency=9.1s source=NTSB_ASRS:Pre2008
+[1260/2000] ok=1254 retried=109 last_latency=9.3s source=NTSB_ASRS:Pre2008
+[1270/2000] ok=1264 retried=110 last_latency=10.8s source=NTSB_ASRS:Pre2008
+[1280/2000] ok=1274 retried=112 last_latency=7.7s source=NTSB_ASRS:Pre2008
+[1290/2000] ok=1284 retried=114 last_latency=14.0s source=NTSB_ASRS:Pre2008
+[1300/2000] ok=1294 retried=114 last_latency=8.0s source=NTSB_ASRS:Pre2008
+[1310/2000] ok=1304 retried=114 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[1320/2000] ok=1314 retried=114 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[1330/2000] ok=1324 retried=114 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[1340/2000] ok=1334 retried=115 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[1350/2000] ok=1344 retried=115 last_latency=16.6s source=NTSB_ASRS:Pre2008
+[1360/2000] ok=1354 retried=116 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[1370/2000] ok=1364 retried=117 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[1380/2000] ok=1374 retried=118 last_latency=3.8s source=NTSB_ASRS:Pre2008
+[1390/2000] ok=1384 retried=119 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[1400/2000] ok=1394 retried=119 last_latency=7.2s source=NTSB_ASRS:Pre2008
+[1410/2000] ok=1404 retried=120 last_latency=10.3s source=NTSB_ASRS:Pre2008
+[1420/2000] ok=1414 retried=121 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[1430/2000] ok=1424 retried=121 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[1440/2000] ok=1434 retried=121 last_latency=8.4s source=NTSB_ASRS:Pre2008
+[1450/2000] ok=1444 retried=121 last_latency=8.2s source=NTSB_ASRS:Pre2008
+[1460/2000] ok=1454 retried=121 last_latency=13.4s source=NTSB_ASRS:Pre2008
+[1470/2000] ok=1464 retried=121 last_latency=16.4s source=NTSB_ASRS:Pre2008
+[1480/2000] ok=1474 retried=123 last_latency=18.5s source=NTSB_ASRS:Pre2008
+[1490/2000] ok=1484 retried=123 last_latency=7.2s source=NTSB_ASRS:Pre2008
+[1500/2000] ok=1494 retried=126 last_latency=11.9s source=NTSB_ASRS:Pre2008
+[1510/2000] ok=1504 retried=126 last_latency=6.3s source=NTSB_ASRS:Pre2008
+[1520/2000] ok=1513 retried=127 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[1530/2000] ok=1523 retried=128 last_latency=8.9s source=NTSB_ASRS:Pre2008
+[1540/2000] ok=1533 retried=128 last_latency=7.5s source=NTSB_ASRS:Pre2008
+[1550/2000] ok=1543 retried=128 last_latency=13.3s source=NTSB_ASRS:Pre2008
+[1560/2000] ok=1553 retried=128 last_latency=10.7s source=NTSB_ASRS:Pre2008
+[1570/2000] ok=1563 retried=128 last_latency=12.2s source=NTSB_ASRS:Pre2008
+[1580/2000] ok=1573 retried=128 last_latency=10.5s source=NTSB_ASRS:Pre2008
+[1590/2000] ok=1583 retried=129 last_latency=11.5s source=NTSB_ASRS:Pre2008
+[1600/2000] ok=1593 retried=132 last_latency=12.3s source=NTSB_ASRS:Pre2008
+[1610/2000] ok=1603 retried=133 last_latency=11.1s source=NTSB_ASRS:Pre2008
+[1620/2000] ok=1613 retried=133 last_latency=8.9s source=NTSB_ASRS:Pre2008
+[1630/2000] ok=1623 retried=133 last_latency=8.0s source=NTSB_ASRS:Pre2008
+[1640/2000] ok=1633 retried=136 last_latency=18.2s source=NTSB_ASRS:Pre2008
+[1650/2000] ok=1643 retried=138 last_latency=20.5s source=NTSB_ASRS:Pre2008
+[1660/2000] ok=1653 retried=139 last_latency=9.4s source=NTSB_ASRS:Pre2008
+[1670/2000] ok=1663 retried=140 last_latency=11.7s source=NTSB_ASRS:Pre2008
+[1680/2000] ok=1673 retried=142 last_latency=11.8s source=NTSB_ASRS:Pre2008
+[1690/2000] ok=1683 retried=144 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[1700/2000] ok=1693 retried=145 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[1710/2000] ok=1702 retried=145 last_latency=7.6s source=NTSB_ASRS:Pre2008
+[1720/2000] ok=1712 retried=146 last_latency=13.5s source=NTSB_ASRS:Pre2008
+[1730/2000] ok=1722 retried=146 last_latency=7.3s source=NTSB_ASRS:Pre2008
+[1740/2000] ok=1732 retried=146 last_latency=8.4s source=NTSB_ASRS:Pre2008
+[1750/2000] ok=1742 retried=147 last_latency=9.2s source=NTSB_ASRS:Pre2008
+[1760/2000] ok=1752 retried=149 last_latency=9.9s source=NTSB_ASRS:Pre2008
+[1770/2000] ok=1762 retried=149 last_latency=13.2s source=NTSB_ASRS:Pre2008
+[1780/2000] ok=1772 retried=149 last_latency=9.4s source=NTSB_ASRS:Pre2008
+[1790/2000] ok=1782 retried=149 last_latency=7.7s source=NTSB_ASRS:Pre2008
+[1800/2000] ok=1792 retried=150 last_latency=10.2s source=NTSB_ASRS:Pre2008
+[1810/2000] ok=1802 retried=150 last_latency=12.4s source=NTSB_ASRS:Pre2008
+[1820/2000] ok=1812 retried=150 last_latency=5.4s source=NTSB_ASRS:Pre2008
+[1830/2000] ok=1822 retried=150 last_latency=6.5s source=NTSB_ASRS:Pre2008
+[1840/2000] ok=1832 retried=154 last_latency=26.2s source=NTSB_ASRS:Pre2008
+[1850/2000] ok=1842 retried=154 last_latency=7.7s source=NTSB_ASRS:Pre2008
+[1860/2000] ok=1852 retried=154 last_latency=9.6s source=NTSB_ASRS:Pre2008
+[1870/2000] ok=1862 retried=156 last_latency=22.7s source=NTSB_ASRS:Pre2008
+[1880/2000] ok=1872 retried=156 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[1890/2000] ok=1882 retried=157 last_latency=4.1s source=NTSB_ASRS:Pre2008
+[1900/2000] ok=1892 retried=158 last_latency=10.4s source=NTSB_ASRS:Pre2008
+[1910/2000] ok=1902 retried=159 last_latency=9.3s source=NTSB_ASRS:Pre2008
+[1920/2000] ok=1912 retried=159 last_latency=12.9s source=NTSB_ASRS:Pre2008
+[1930/2000] ok=1922 retried=160 last_latency=20.6s source=NTSB_ASRS:Pre2008
+[1940/2000] ok=1932 retried=160 last_latency=15.6s source=NTSB_ASRS:Pre2008
+[1950/2000] ok=1942 retried=161 last_latency=10.1s source=NTSB_ASRS:Pre2008
+[1960/2000] ok=1952 retried=162 last_latency=7.1s source=NTSB_ASRS:Pre2008
+[1970/2000] ok=1962 retried=162 last_latency=6.5s source=NTSB_ASRS:Pre2008
+[1980/2000] ok=1972 retried=163 last_latency=4.4s source=NTSB_ASRS:Pre2008
+[1990/2000] ok=1981 retried=165 last_latency=5.5s source=NTSB_ASRS:Pre2008
+[2000/2000] ok=1991 retried=168 last_latency=4.1s source=NTSB_ASRS:Pre2008
+done in 1542.6s  ok=1991/2000
+[Mon Sep 14 07:41:21 PM CDT 2026] judge t07
+Loading enriched corpus index…
+  145,263 records with supervision
+Loading event_extraction/out/selfconsistency/calibration_2k_v4_narrative_t07.jsonl…
+  1,991 ok extractions
+  1,991 records to evaluate (factors x events)
+  1,991 pending after cache (cached: 0)
+  judged 50/1991 (8.3/s)
+  judged 100/1991 (9.1/s)
+  judged 150/1991 (9.2/s)
+  judged 200/1991 (9.4/s)
+  judged 250/1991 (9.4/s)
+  judged 300/1991 (9.5/s)
+  judged 350/1991 (9.4/s)
+  judged 400/1991 (9.4/s)
+  judged 450/1991 (9.4/s)
+  judged 500/1991 (9.4/s)
+  judged 550/1991 (9.4/s)
+  judged 600/1991 (9.4/s)
+  judged 650/1991 (9.3/s)
+  judged 700/1991 (9.4/s)
+  judged 750/1991 (9.3/s)
+  judged 800/1991 (9.4/s)
+  judged 850/1991 (9.3/s)
+  judged 900/1991 (9.3/s)
+  judged 950/1991 (9.3/s)
+  judged 1000/1991 (9.3/s)
+  judged 1050/1991 (9.3/s)
+  judged 1100/1991 (9.3/s)
+  judged 1150/1991 (9.3/s)
+  judged 1200/1991 (9.3/s)
+  judged 1250/1991 (9.3/s)
+  judged 1300/1991 (9.3/s)
+  judged 1350/1991 (9.3/s)
+  judged 1400/1991 (9.3/s)
+  judged 1450/1991 (9.3/s)
+  judged 1500/1991 (9.3/s)
+  judged 1550/1991 (9.3/s)
+  judged 1600/1991 (9.3/s)
+  judged 1650/1991 (9.3/s)
+  judged 1700/1991 (9.4/s)
+  judged 1750/1991 (9.3/s)
+  judged 1800/1991 (9.3/s)
+  judged 1850/1991 (9.3/s)
+  judged 1900/1991 (9.3/s)
+  judged 1950/1991 (9.3/s)
+
+=== Semantic eval (sc-t07) ===
+  tag: sc-t07
+  extraction_file: event_extraction/out/selfconsistency/calibration_2k_v4_narrative_t07.jsonl
+  n_records_evaluated: 1991
+  n_factors_total: 3465
+  n_factors_matched: 3143
+  recall: 0.9071
+  n_events_total: 10969
+  n_events_matched_to_a_factor: 3323
+  precision: 0.3029
+  mean_per_record_recall: 0.8987
+
+Wrote event_extraction/out/selfconsistency/semantic_eval_t07.summary.json
+[Mon Sep 14 07:44:56 PM CDT 2026] stopping replicas
+[Mon Sep 14 07:44:56 PM CDT 2026] done

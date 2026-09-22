@@ -113,14 +113,14 @@ def render(name: str, title: str, edges: list[dict], support_of: dict,
     # Publication rule: no on-canvas titles — the caption belongs to the
     # manuscript. Pass an empty title to omit the label entirely.
     if title:
-        g.append(f'  labelloc="t"; label=<<font face="Times-Roman"'
+        g.append(f'  labelloc="t"; label=<<font face="Liberation Serif"'
                  f' point-size="15">{title}</font>>;')
     # Okabe-Ito data-layer styling, matching the framework figure: blue
     # fills for the data-learned nodes, blue-grey ink for edges and notes.
     g += ['  node [shape=box, style="rounded,filled", fillcolor="#CCE3F0",'
-          ' color="#0072B2", penwidth=0.9, fontname="Times-Roman", fontsize=10,'
+          ' color="#0072B2", penwidth=0.9, fontname="Liberation Serif", fontsize=10,'
           ' fontcolor="#263238", margin="0.11,0.06"];',
-          '  edge [color="#546E7A", arrowsize=0.55, fontname="Times-Roman",'
+          '  edge [color="#546E7A", arrowsize=0.55, fontname="Liberation Serif",'
           ' fontsize=8, fontcolor="#546E7A"];']
 
     # tier rank groups + left-margin tier captions
@@ -131,7 +131,7 @@ def render(name: str, title: str, edges: list[dict], support_of: dict,
             continue
         anchor = f"tier{i}"
         g.append(f'  {anchor} [shape=plaintext, style="", fillcolor=none,'
-                 f' fontname="Times-Italic", fontsize=10, fontcolor="#78909C",'
+                 f' fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C",'
                  f' label="{tier_name}"];')
         row = " ".join(f'"{f}"' for f in members)
         g.append(f'  {{ rank=same; {anchor}; {row} }}')

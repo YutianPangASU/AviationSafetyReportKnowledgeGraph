@@ -1,14 +1,14 @@
 digraph G {
   rankdir=TB; splines=spline; nodesep=0.32; ranksep=0.9;
   bgcolor="white";
-  node [shape=box, style="rounded,filled", fillcolor="#CCE3F0", color="#0072B2", penwidth=0.9, fontname="Times-Roman", fontsize=10, fontcolor="#263238", margin="0.11,0.06"];
-  edge [color="#546E7A", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#546E7A"];
-  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Latent / ambient conditions"];
+  node [shape=box, style="rounded,filled", fillcolor="#CCE3F0", color="#0072B2", penwidth=0.9, fontname="Liberation Serif", fontsize=10, fontcolor="#263238", margin="0.11,0.06"];
+  edge [color="#546E7A", arrowsize=0.55, fontname="Liberation Serif", fontsize=8, fontcolor="#546E7A"];
+  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Latent / ambient conditions"];
   { rank=same; tier1; "LATENT_MECHANICAL_DEFECT" "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" "HIGH_DENSITY_ALTITUDE" }
-  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Crew & external actions"];
+  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Crew & external actions"];
   { rank=same; tier3; "DECISION_INAPPROPRIATE" "CONTROL_INPUT_IMPROPER" "PROCEDURE_NOT_FOLLOWED" "PERCEPTION_FAILURE" "CREW_COORDINATION_FAILURE" }
   tier1 -> tier3 [style=invis];
-  tier5 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Aerodynamic states"];
+  tier5 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Aerodynamic states"];
   { rank=same; tier5; "STALL" "LOSS_OF_CONTROL_INFLIGHT" }
   tier3 -> tier5 [style=invis];
   "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS" [label=<Weight / balance<br/>out of limits<br/><font point-size="8" color="#546E7A">n = 224</font>>];

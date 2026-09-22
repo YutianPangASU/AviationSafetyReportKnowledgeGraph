@@ -32,10 +32,17 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 CACHE = HERE / "judge_cache"
 
-SEV_FROM_INJURY = {
-    "FATL": "fatal", "SERS": "serious_injury", "MINR": "minor_injury",
-    "NONE": "aircraft_damage_only",
-}
+def sev_from_injury(inj) -> str | None:
+    """Worst severity from the gold injury counts dict."""
+    if not isinstance(inj, dict):
+        return None
+    if inj.get("fatal"):
+        return "fatal"
+    if inj.get("serious"):
+        return "serious_injury"
+    if inj.get("minor"):
+        return "minor_injury"
+    return "aircraft_damage_only"
 
 DECOMPOSE_PROMPT = """You are preparing an evaluation gold standard. Below are the official conclusions of an NTSB investigation: the probable cause statement and (possibly) a list of findings.
 
@@ -70,23 +77,32 @@ Return ONLY a JSON object:
 def chat(endpoint: str, model: str, prompt: str, timeout: float = 240.0) -> dict:
     import httpx
 
-    r = httpx.post(
-        f"{endpoint}/chat/completions",
-        json={
-            "model": model,
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.0,
-            "max_tokens": 4096,
-        },
-        timeout=timeout,
-    )
-    r.raise_for_status()
-    txt = r.json()["choices"][0]["message"]["content"].strip()
-    if txt.startswith("```"):
-        txt = txt.strip("`")
-        txt = txt.split("\n", 1)[1] if txt.startswith("json") else txt
-    start, end = txt.find("{"), txt.rfind("}")
-    return json.loads(txt[start : end + 1])
+    last_err = None
+    for attempt, temp in enumerate((0.0, 0.2)):
+        r = httpx.post(
+            f"{endpoint}/chat/completions",
+            json={
+                "model": model,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": temp,
+                "max_tokens": 8192,
+                # Qwen3.x templates default to thinking mode; disable it so the
+                # budget goes to the JSON verdict (same as extract_vllm.py).
+                "chat_template_kwargs": {"enable_thinking": False},
+            },
+            timeout=timeout,
+        )
+        r.raise_for_status()
+        txt = r.json()["choices"][0]["message"]["content"].strip()
+        if txt.startswith("```"):
+            txt = txt.strip("`")
+            txt = txt.split("\n", 1)[1] if txt.startswith("json") else txt
+        start, end = txt.find("{"), txt.rfind("}")
+        try:
+            return json.loads(txt[start : end + 1])
+        except json.JSONDecodeError as e:
+            last_err = e
+    raise last_err
 
 
 def gold_elements(rec: dict, args) -> list[dict] | None:
@@ -121,7 +137,12 @@ def main() -> None:
         recs = {}
         for fp in sorted(outdir.glob("*.json")) if outdir.exists() else []:
             try:
-                recs[fp.stem] = json.loads(fp.read_text())
+                raw = fp.read_text().strip()
+                # tolerate accidental markdown fences (same as validate_outputs)
+                if raw.startswith("```"):
+                    raw = raw.strip("`")
+                    raw = raw.split("\n", 1)[1] if raw.startswith("json") else raw
+                recs[fp.stem] = json.loads(raw)
             except Exception:  # noqa: BLE001
                 continue
         row = {"n_outputs": len(recs)}
@@ -133,7 +154,7 @@ def main() -> None:
             agree = tot = 0
             for rn, r in recs.items():
                 inj = (gold.get(rn, {}).get("gold", {}) or {}).get("injury")
-                want = SEV_FROM_INJURY.get(str(inj or "").strip().upper()[:4])
+                want = sev_from_injury(inj)
                 if want:
                     tot += 1
                     agree += int(r.get("outcome_severity") == want)
@@ -146,7 +167,11 @@ def main() -> None:
                 grec = gold.get(rn)
                 if grec is None or not r.get("chain"):
                     continue
-                elems = gold_elements(grec, args)
+                try:
+                    elems = gold_elements(grec, args)
+                except Exception as e:  # noqa: BLE001
+                    print(f"decompose failed {rn}: {e}")
+                    continue
                 if not elems:
                     continue
                 causal = [e for e in elems if e.get("causal")]

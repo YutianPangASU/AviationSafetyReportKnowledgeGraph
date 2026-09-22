@@ -17,8 +17,8 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch, Patch
 
 # --- typography: Times family, two sizes only ------------------------------
-FS_MAIN = 8.0        # labels, legend, equation
-FS_SUB = 6.8         # secondary statistics lines
+FS_MAIN = 7.6        # one text size for the whole figure
+FS_SUB = FS_MAIN
 plt.rcParams.update({
     "font.family": "serif",
     "font.serif": ["Nimbus Roman", "Liberation Serif", "STIXGeneral",
@@ -50,9 +50,10 @@ def rbox(ax, x, y, w, h, fc, ec, lw, ls="-", z=3):
                  fc=fc, ec=ec, lw=lw, ls=ls, zorder=z))
 
 
-def factor_box(ax, x, y, w, h, label, model_tag, n, q, tier):
+def factor_box(ax, x, y, w, h, label, model_tag, n, q, tier, stat_name="q"):
     """One contributing-factor node: label, optional model tag, and the edge
-    statistics (n, q) as an in-box line instead of an arrow label."""
+    statistics (edge support n, strength q or fitted p) as an in-box line
+    instead of an arrow label."""
     if tier == "phys":
         fc, ec, lw, ls = PHYS_FILL, PHYS_EDGE, 1.2, "-"
     elif tier == "surr":
@@ -60,7 +61,7 @@ def factor_box(ax, x, y, w, h, label, model_tag, n, q, tier):
     else:
         fc, ec, lw, ls = DATA_FILL, DATA_EDGE, 0.9, "-"
     rbox(ax, x, y, w, h, fc, ec, lw, ls)
-    stats = f"$n$ = {n:,}   $q$ = {q:.2f}"
+    stats = f"$n$ = {n:,}   ${stat_name}$ = {q:.2f}"
     if model_tag:
         ax.text(x, y + h * 0.27, label, ha="center", va="center",
                 fontsize=FS_MAIN, color=INK, zorder=4)
@@ -91,8 +92,9 @@ def outcome_box(ax, x, y, w, h, label, n):
             fontsize=FS_SUB, color=INK_SUB, zorder=4)
 
 
-def edge(ax, p0, p1, support, max_support, rad=0.0):
-    lw = 0.5 + 1.6 * np.sqrt(support / max_support)
+def edge(ax, p0, p1, weight, max_weight, rad=0.0):
+    """Arrow whose width scales with `weight` (a contribution or a count)."""
+    lw = 0.5 + 1.6 * np.sqrt(max(weight, 0.0) / max(max_weight, 1e-12))
     ax.annotate("", xy=p1, xytext=p0, zorder=2, arrowprops=dict(
         arrowstyle="-|>,head_width=0.14,head_length=0.28", color=EDGE_COL,
         lw=lw, shrinkA=1.5, shrinkB=1.5,
@@ -107,10 +109,10 @@ def header(ax, x, y, text):
 def tier_legend(ax, loc="lower right"):
     ax.legend(handles=[
         Patch(fc=PHYS_FILL, ec=PHYS_EDGE, lw=1.2,
-              label="physics occurrence model"),
+              label="Physics occurrence model"),
         Patch(fc="white", ec=PHYS_EDGE, lw=1.0, ls=(0, (4, 2)),
-              label="surrogate model"),
+              label="Surrogate model"),
         Patch(fc=DATA_FILL, ec=DATA_EDGE, lw=0.9,
-              label="data only (corpus rate)")],
+              label="Data only (corpus rate)")],
         loc=loc, fontsize=FS_SUB, frameon=False,
         handlelength=1.6, labelspacing=0.45, borderaxespad=0.2)

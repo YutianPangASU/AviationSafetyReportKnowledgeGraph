@@ -1,0 +1,132 @@
+driver index: 81142 NTSB events
+arm=true: 290/1539 violations (18.84%)
+arm=negate: 363/1539 violations (23.59%)
+arm=permute: 290/1482 violations (19.57%)
+arm=population: 480/1539 violations (31.19%)
+{
+  "n_records_scanned": "all",
+  "availability_zero_eps": 1e-09,
+  "n_transitions": 334611,
+  "guard_coverage": {
+    "checkable": 1539,
+    "checkable_frac": 0.0046,
+    "guarded_drivers_unrecorded": 14382,
+    "unguarded": 318690
+  },
+  "arms": {
+    "true": {
+      "checkable": 1539,
+      "violations": 290,
+      "violation_rate": 0.1884,
+      "per_guard": {
+        "carb_icing": {
+          "checkable": 1222,
+          "violations": 28,
+          "rate": 0.0229
+        },
+        "gust_overload": {
+          "checkable": 27,
+          "violations": 27,
+          "rate": 1.0
+        },
+        "gust_stall": {
+          "checkable": 197,
+          "violations": 173,
+          "rate": 0.8782
+        },
+        "shear_stall": {
+          "checkable": 93,
+          "violations": 62,
+          "rate": 0.6667
+        }
+      }
+    },
+    "negate": {
+      "checkable": 1539,
+      "violations": 363,
+      "violation_rate": 0.2359,
+      "per_guard": {
+        "carb_icing": {
+          "checkable": 1222,
+          "violations": 339,
+          "rate": 0.2774
+        },
+        "gust_overload": {
+          "checkable": 27,
+          "violations": 0,
+          "rate": 0.0
+        },
+        "gust_stall": {
+          "checkable": 197,
+          "violations": 0,
+          "rate": 0.0
+        },
+        "shear_stall": {
+          "checkable": 93,
+          "violations": 24,
+          "rate": 0.2581
+        }
+      }
+    },
+    "permute": {
+      "checkable": 1482,
+      "violations": 290,
+      "violation_rate": 0.1957,
+      "per_guard": {
+        "carb_icing": {
+          "checkable": 1213,
+          "violations": 48,
+          "rate": 0.0396
+        },
+        "gust_overload": {
+          "checkable": 20,
+          "violations": 20,
+          "rate": 1.0
+        },
+        "gust_stall": {
+          "checkable": 179,
+          "violations": 164,
+          "rate": 0.9162
+        },
+        "shear_stall": {
+          "checkable": 70,
+          "violations": 58,
+          "rate": 0.8286
+        }
+      }
+    },
+    "population": {
+      "checkable": 1539,
+      "violations": 480,
+      "violation_rate": 0.3119,
+      "per_guard": {
+        "carb_icing": {
+          "checkable": 1222,
+          "violations": 189,
+          "rate": 0.1547
+        },
+        "gust_overload": {
+          "checkable": 27,
+          "violations": 27,
+          "rate": 1.0
+        },
+        "gust_stall": {
+          "checkable": 197,
+          "violations": 184,
+          "rate": 0.934
+        },
+        "shear_stall": {
+          "checkable": 93,
+          "violations": 80,
+          "rate": 0.8602
+        }
+      }
+    }
+  },
+  "p_value_true_vs_population": {
+    "carb_icing": 1.0823329907159185e-53,
+    "gust_overload": 1.0,
+    "gust_stall": 0.0028612430364535557,
+    "shear_stall": 1.8474541960286189e-06
+  }
+}

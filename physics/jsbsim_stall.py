@@ -106,6 +106,18 @@ def v_stall_kcas(aero: Aero, weight_lbf: float, alt_ft: float = 0.0,
     return float(v_tas * np.sqrt(_rho(alt_ft) / RHO0) / KT)
 
 
+def stall_margin_kts(aero: Aero, weight_lbf: float, v_kcas: float,
+                     alt_ft: float = 0.0, load_factor: float = 1.0,
+                     flaps: bool = False) -> float:
+    """Guard margin (paper Table tbl:guards): V_s(W, n, rho) - V in knots.
+
+    Signed so the transition into STALL is enabled iff the margin is >= 0.
+    p_stall() below is the availability of this guard, P(margin >= 0),
+    marginalized over the phase-conditioned prior on the latent drivers.
+    """
+    return v_stall_kcas(aero, weight_lbf, alt_ft, load_factor, flaps) - v_kcas
+
+
 # Phase-conditioned priors over the unobserved state (see paper Eq. 4).
 # speed_ratio = flown CAS as a multiple of the clean 1-g stall speed.
 @dataclass
@@ -161,7 +173,9 @@ def p_stall(model: str, alt_ft: float = 0.0, phase: str = "maneuvering",
     # accelerated stall speed at the sampled load factor / config
     cl = aero.cl_max_flap if pr.flaps else aero.cl_max_clean
     vs_n = vs_ref_s * np.sqrt(n * aero.cl_max_clean / cl)
-    stalled = cas < vs_n
+    # guard margin V_s(W, n, rho) - V per sample; availability = P(margin >= 0)
+    margin_kts = vs_n - cas
+    stalled = margin_kts >= 0
     p = float(stalled.mean())
     boot = rng.choice(stalled, (200, n_samples)).mean(1)
     return StallRisk(p, (float(np.percentile(boot, 2.5)), float(np.percentile(boot, 97.5))),

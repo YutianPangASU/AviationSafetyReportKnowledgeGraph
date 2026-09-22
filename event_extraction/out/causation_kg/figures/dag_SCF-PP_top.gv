@@ -1,20 +1,20 @@
 digraph G {
   rankdir=TB; splines=spline; nodesep=0.32; ranksep=0.9;
   bgcolor="white";
-  node [shape=box, style="rounded,filled", fillcolor="#CCE3F0", color="#0072B2", penwidth=0.9, fontname="Times-Roman", fontsize=10, fontcolor="#263238", margin="0.11,0.06"];
-  edge [color="#546E7A", arrowsize=0.55, fontname="Times-Roman", fontsize=8, fontcolor="#546E7A"];
-  tier0 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Organizational"];
+  node [shape=box, style="rounded,filled", fillcolor="#CCE3F0", color="#0072B2", penwidth=0.9, fontname="Liberation Serif", fontsize=10, fontcolor="#263238", margin="0.11,0.06"];
+  edge [color="#546E7A", arrowsize=0.55, fontname="Liberation Serif", fontsize=8, fontcolor="#546E7A"];
+  tier0 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Organizational"];
   { rank=same; tier0; "MAINTENANCE_INADEQUATE" }
-  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Latent / ambient conditions"];
+  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Latent / ambient conditions"];
   { rank=same; tier1; "LATENT_MECHANICAL_DEFECT" }
   tier0 -> tier1 [style=invis];
-  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Crew & external actions"];
+  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Crew & external actions"];
   { rank=same; tier3; "DECISION_INAPPROPRIATE" "CONTROL_INPUT_IMPROPER" "PROCEDURE_NOT_FOLLOWED" }
   tier1 -> tier3 [style=invis];
-  tier4 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Aircraft system failures"];
+  tier4 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Aircraft system failures"];
   { rank=same; tier4; "ENGINE_FAILURE" "AIRFRAME_STRUCTURAL_FAILURE" "CONTROL_SURFACE_ANOMALY" "LANDING_GEAR_ANOMALY" "OTHER_SYSTEM_FAILURE" }
   tier3 -> tier4 [style=invis];
-  tier5 [shape=plaintext, style="", fillcolor=none, fontname="Times-Italic", fontsize=10, fontcolor="#78909C", label="Aerodynamic states"];
+  tier5 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Aerodynamic states"];
   { rank=same; tier5; "LOSS_OF_CONTROL_INFLIGHT" "LOSS_OF_CONTROL_GROUND" }
   tier4 -> tier5 [style=invis];
   "AIRFRAME_STRUCTURAL_FAILURE" [label=<Airframe<br/>structural<br/>failure<br/><font point-size="8" color="#546E7A">n = 454</font>>];

@@ -37,7 +37,7 @@ Units: temperature/dewpoint in degrees Celsius; vapor pressure in hPa.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from math import exp
+from math import exp, log
 
 # ---------------------------------------------------------------------------
 # Corpus (Tier-3) constants -- sourced from the built causation KG.
@@ -81,6 +81,23 @@ DEFAULT_POWER = "cruise"
 # mid-teens ambient at descent power reads "serious" (P ~ 0.9).
 _K_EXPOSURE = 0.60
 
+# ---------------------------------------------------------------------------
+# Guard margin (paper Table tbl:guards): gamma = w - w_thr in g/m^3, the
+# condensable subfreezing water against the chart's light-icing onset. The
+# transition into CARBURETOR_OR_INDUCTION_ICING is enabled iff gamma >= 0.
+# w_thr is the ice index at which the chart's "light" zone begins
+# (P(ice) = 0.10 under the exposure link), expressed in the same units.
+# The link Eq. (pice) is strictly increasing in w, so the guard verdict is
+# invariant to the exposure constant; only absolute levels depend on it.
+# ---------------------------------------------------------------------------
+
+ICE_INDEX_THR_HPA = -log(1.0 - 0.10) / _K_EXPOSURE  # light-zone onset (hPa)
+
+
+def vapor_density_gm3(e_hpa: float, temp_c: float) -> float:
+    """Vapor pressure (hPa) to absolute humidity (g/m^3), ideal gas."""
+    return 216.68 * e_hpa / (temp_c + 273.15)
+
 
 @dataclass
 class IcingRisk:
@@ -88,6 +105,7 @@ class IcingRisk:
     zone: str              # chart zone: serious / moderate / light / nil
     throat_temp_c: float   # cooled charge temperature at the throttle plate
     ice_index_hpa: float   # condensable, subfreezing vapor (hPa)
+    margin_gm3: float      # guard margin gamma = w - w_thr (g/m^3)
     rh: float
     power: str
 
@@ -123,11 +141,23 @@ def p_carb_icing(temp_c: float, dewpoint_c: float,
         ice_index = 0.0
 
     p_ice = 1.0 - exp(-_K_EXPOSURE * ice_index)
+    margin = vapor_density_gm3(ice_index - ICE_INDEX_THR_HPA, throat)
     return IcingRisk(
         p_ice=p_ice, zone=carb_ice_zone(p_ice), throat_temp_c=throat,
-        ice_index_hpa=ice_index, rh=relative_humidity(temp_c, dewpoint_c),
+        ice_index_hpa=ice_index, margin_gm3=margin,
+        rh=relative_humidity(temp_c, dewpoint_c),
         power=power,
     )
+
+
+def carb_ice_margin_gm3(temp_c: float, dewpoint_c: float,
+                        power: str = DEFAULT_POWER) -> float:
+    """Guard margin gamma(theta) = w(T, Td, power) - w_thr in g/m^3.
+
+    Signed per the paper's guard table: nonnegative exactly where the chart
+    places the operating point at or past the light-icing onset.
+    """
+    return p_carb_icing(temp_c, dewpoint_c, power).margin_gm3
 
 
 # ---------------------------------------------------------------------------
