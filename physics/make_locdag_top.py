@@ -18,6 +18,8 @@ import argparse
 _ap = argparse.ArgumentParser()
 _ap.add_argument("--category", default="LOC-I")
 _ap.add_argument("--top-n", type=int, default=12)
+_ap.add_argument("--min-stability", type=float, default=0.5,
+                 help="draw only edges the backdoor adjustment sets use")
 _args = _ap.parse_args()
 
 TOP_N = _args.top_n
@@ -27,7 +29,8 @@ PREC_DIR = ROOT / "event_extraction/out/aggregate_kg/per_category_precedence"
 OUT_DIR = ROOT / "event_extraction/out/causation_kg/figures"
 PAPER_PDF = ROOT / f"paper/figs/dag_{CAT}_top.pdf"
 
-rows = list(csv.DictReader(DAG_CSV.open()))
+rows = [r for r in csv.DictReader(DAG_CSV.open())
+        if float(r.get("bootstrap_stability") or 0) >= _args.min_stability]
 rows.sort(key=lambda r: -int(r["support_count"]))
 edges = [{"src": r["src"], "dst": r["dst"],
           "support": int(r["support_count"]),

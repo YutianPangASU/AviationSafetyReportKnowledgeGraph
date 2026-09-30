@@ -34,6 +34,11 @@ assert len(EVENT_VOCAB) == 47, f"expected 47 causal factors, got {len(EVENT_VOCA
 VOCAB_INDEX = {et: i for i, et in enumerate(EVENT_VOCAB)}
 
 # NTSB Occurrence_Code -> CICTT mapping (mirrors build_kg_layer1.py)
+# NOTE (2026-09-30): the keys are legacy pre-2008 NTSB occurrence codes (ct_seqevt), and several
+# labels do not match their meaning. The "SCF-PP" key holds 130 airframe/component/system failure,
+# 131 propeller failure and 140 decompression, so the paper calls it the airframe failure category;
+# 350 loss of engine power lands in "ARC" and 380 roll over in "LOC-I". Kept as is so the published
+# per-category networks stay reproducible; remap before using any other category.
 NTSB_OCC_TO_CICTT = {
     100: "LOC-I", 110: "LOC-I", 120: "OTHM", 130: "SCF-PP", 131: "SCF-PP",
     140: "SCF-PP", 160: "FUEL", 180: "USOS", 200: "ICE", 210: "F-NI",

@@ -3,42 +3,40 @@ digraph G {
   bgcolor="white";
   node [shape=box, style="rounded,filled", fillcolor="#CCE3F0", color="#0072B2", penwidth=0.9, fontname="Liberation Serif", fontsize=10, fontcolor="#263238", margin="0.11,0.06"];
   edge [color="#546E7A", arrowsize=0.55, fontname="Liberation Serif", fontsize=8, fontcolor="#546E7A"];
-  tier0 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Organizational"];
-  { rank=same; tier0; "MAINTENANCE_INADEQUATE" }
-  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Latent / ambient conditions"];
-  { rank=same; tier1; "LATENT_MECHANICAL_DEFECT" }
-  tier0 -> tier1 [style=invis];
-  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Crew & external actions"];
-  { rank=same; tier3; "DECISION_INAPPROPRIATE" "CONTROL_INPUT_IMPROPER" "PROCEDURE_NOT_FOLLOWED" }
+  tier1 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Latent and ambient conditions"];
+  { rank=same; tier1; "LATENT_MECHANICAL_DEFECT" "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING" }
+  tier3 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Crew and external actions"];
+  { rank=same; tier3; "DECISION_INAPPROPRIATE" "CONTROL_INPUT_IMPROPER" "PROCEDURE_NOT_FOLLOWED" "PERCEPTION_FAILURE" }
   tier1 -> tier3 [style=invis];
   tier4 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Aircraft system failures"];
-  { rank=same; tier4; "ENGINE_FAILURE" "AIRFRAME_STRUCTURAL_FAILURE" "CONTROL_SURFACE_ANOMALY" "LANDING_GEAR_ANOMALY" "OTHER_SYSTEM_FAILURE" }
+  { rank=same; tier4; "ENGINE_FAILURE" "AIRFRAME_STRUCTURAL_FAILURE" "LANDING_GEAR_ANOMALY" "OTHER_SYSTEM_FAILURE" }
   tier3 -> tier4 [style=invis];
   tier5 [shape=plaintext, style="", fillcolor=none, fontname="Liberation Serif Italic", fontsize=10, fontcolor="#78909C", label="Aerodynamic states"];
-  { rank=same; tier5; "LOSS_OF_CONTROL_INFLIGHT" "LOSS_OF_CONTROL_GROUND" }
+  { rank=same; tier5; "LOSS_OF_CONTROL_INFLIGHT" "LOSS_OF_CONTROL_GROUND" "STRUCTURAL_OVERLOAD" }
   tier4 -> tier5 [style=invis];
-  "AIRFRAME_STRUCTURAL_FAILURE" [label=<Airframe<br/>structural<br/>failure<br/><font point-size="8" color="#546E7A">n = 454</font>>];
-  "CONTROL_INPUT_IMPROPER" [label=<Control input<br/>improper<br/><font point-size="8" color="#546E7A">n = 400</font>>];
-  "CONTROL_SURFACE_ANOMALY" [label=<Control surface<br/>anomaly<br/><font point-size="8" color="#546E7A">n = 387</font>>];
-  "DECISION_INAPPROPRIATE" [label=<Decision<br/>inappropriate<br/><font point-size="8" color="#546E7A">n = 562</font>>];
+  "AIRFRAME_STRUCTURAL_FAILURE" [label=<Structural<br/>failure<br/><font point-size="8" color="#546E7A">n = 454</font>>];
+  "CONTROL_INPUT_IMPROPER" [label=<Improper<br/>control input<br/><font point-size="8" color="#546E7A">n = 400</font>>];
+  "DECISION_INAPPROPRIATE" [label=<Inappropriate<br/>decision<br/><font point-size="8" color="#546E7A">n = 562</font>>];
   "ENGINE_FAILURE" [label=<Engine failure<br/><font point-size="8" color="#546E7A">n = 252</font>>];
   "LANDING_GEAR_ANOMALY" [label=<Landing gear<br/>anomaly<br/><font point-size="8" color="#546E7A">n = 504</font>>];
   "LATENT_MECHANICAL_DEFECT" [label=<Latent<br/>mechanical<br/>defect<br/><font point-size="8" color="#546E7A">n = 846</font>>];
   "LOSS_OF_CONTROL_GROUND" [label=<Loss of control<br/>on ground<br/><font point-size="8" color="#546E7A">n = 257</font>>];
   "LOSS_OF_CONTROL_INFLIGHT" [label=<Loss of control<br/>in flight<br/><font point-size="8" color="#546E7A">n = 514</font>>];
-  "MAINTENANCE_INADEQUATE" [label=<Maintenance<br/>inadequate<br/><font point-size="8" color="#546E7A">n = 721</font>>];
   "OTHER_SYSTEM_FAILURE" [label=<Other system<br/>failure<br/><font point-size="8" color="#546E7A">n = 573</font>>];
+  "PERCEPTION_FAILURE" [label=<Perception<br/>failure<br/><font point-size="8" color="#546E7A">n = 142</font>>];
   "PROCEDURE_NOT_FOLLOWED" [label=<Procedure not<br/>followed<br/><font point-size="8" color="#546E7A">n = 534</font>>];
-  "MAINTENANCE_INADEQUATE" -> "LATENT_MECHANICAL_DEFECT" [penwidth=2.30, style=solid, tooltip="MAINTENANCE_INADEQUATE -> LATENT_MECHANICAL_DEFECT: support 428, stability 0.37"];
-  "OTHER_SYSTEM_FAILURE" -> "PROCEDURE_NOT_FOLLOWED" [penwidth=1.79, style=solid, tooltip="OTHER_SYSTEM_FAILURE -> PROCEDURE_NOT_FOLLOWED: support 220, stability 0.53"];
-  "LATENT_MECHANICAL_DEFECT" -> "DECISION_INAPPROPRIATE" [penwidth=1.74, style=solid, tooltip="LATENT_MECHANICAL_DEFECT -> DECISION_INAPPROPRIATE: support 204, stability 0.67"];
-  "CONTROL_SURFACE_ANOMALY" -> "LOSS_OF_CONTROL_INFLIGHT" [penwidth=1.64, style=solid, tooltip="CONTROL_SURFACE_ANOMALY -> LOSS_OF_CONTROL_INFLIGHT: support 172, stability 0.10"];
-  "LANDING_GEAR_ANOMALY" -> "LOSS_OF_CONTROL_GROUND" [penwidth=1.61, style=solid, tooltip="LANDING_GEAR_ANOMALY -> LOSS_OF_CONTROL_GROUND: support 163, stability 0.57"];
-  "LATENT_MECHANICAL_DEFECT" -> "OTHER_SYSTEM_FAILURE" [penwidth=1.60, style=solid, tooltip="LATENT_MECHANICAL_DEFECT -> OTHER_SYSTEM_FAILURE: support 161, stability 0.97"];
-  "ENGINE_FAILURE" -> "DECISION_INAPPROPRIATE" [penwidth=1.50, style=solid, tooltip="ENGINE_FAILURE -> DECISION_INAPPROPRIATE: support 133, stability 0.83"];
-  "MAINTENANCE_INADEQUATE" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.46, style=solid, tooltip="MAINTENANCE_INADEQUATE -> CONTROL_INPUT_IMPROPER: support 123, stability 0.40"];
-  "LOSS_OF_CONTROL_INFLIGHT" -> "DECISION_INAPPROPRIATE" [penwidth=1.37, style=solid, tooltip="LOSS_OF_CONTROL_INFLIGHT -> DECISION_INAPPROPRIATE: support 99, stability 0.83"];
-  "OTHER_SYSTEM_FAILURE" -> "LANDING_GEAR_ANOMALY" [penwidth=1.35, style=solid, tooltip="OTHER_SYSTEM_FAILURE -> LANDING_GEAR_ANOMALY: support 96, stability 1.00"];
-  "PROCEDURE_NOT_FOLLOWED" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.29, style=solid, tooltip="PROCEDURE_NOT_FOLLOWED -> CONTROL_INPUT_IMPROPER: support 82, stability 0.80"];
-  "PROCEDURE_NOT_FOLLOWED" -> "AIRFRAME_STRUCTURAL_FAILURE" [penwidth=1.24, style=solid, tooltip="PROCEDURE_NOT_FOLLOWED -> AIRFRAME_STRUCTURAL_FAILURE: support 72, stability 0.07"];
+  "STRUCTURAL_OVERLOAD" [label=<Structural<br/>overload<br/><font point-size="8" color="#546E7A">n = 107</font>>];
+  "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING" [label=<Unsuitable terrain for<br/>forced landing<br/><font point-size="8" color="#546E7A">n = 75</font>>];
+  "OTHER_SYSTEM_FAILURE" -> "PROCEDURE_NOT_FOLLOWED" [penwidth=2.30, style=solid, tooltip="OTHER_SYSTEM_FAILURE -> PROCEDURE_NOT_FOLLOWED: support 220, stability 0.53"];
+  "LATENT_MECHANICAL_DEFECT" -> "DECISION_INAPPROPRIATE" [penwidth=2.23, style=solid, tooltip="LATENT_MECHANICAL_DEFECT -> DECISION_INAPPROPRIATE: support 204, stability 0.67"];
+  "LANDING_GEAR_ANOMALY" -> "LOSS_OF_CONTROL_GROUND" [penwidth=2.05, style=solid, tooltip="LANDING_GEAR_ANOMALY -> LOSS_OF_CONTROL_GROUND: support 163, stability 0.57"];
+  "LATENT_MECHANICAL_DEFECT" -> "OTHER_SYSTEM_FAILURE" [penwidth=2.04, style=solid, tooltip="LATENT_MECHANICAL_DEFECT -> OTHER_SYSTEM_FAILURE: support 161, stability 0.97"];
+  "ENGINE_FAILURE" -> "DECISION_INAPPROPRIATE" [penwidth=1.90, style=solid, tooltip="ENGINE_FAILURE -> DECISION_INAPPROPRIATE: support 133, stability 0.83"];
+  "LOSS_OF_CONTROL_INFLIGHT" -> "DECISION_INAPPROPRIATE" [penwidth=1.71, style=solid, tooltip="LOSS_OF_CONTROL_INFLIGHT -> DECISION_INAPPROPRIATE: support 99, stability 0.83"];
+  "OTHER_SYSTEM_FAILURE" -> "LANDING_GEAR_ANOMALY" [penwidth=1.69, style=solid, tooltip="OTHER_SYSTEM_FAILURE -> LANDING_GEAR_ANOMALY: support 96, stability 1.00"];
+  "PROCEDURE_NOT_FOLLOWED" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.60, style=solid, tooltip="PROCEDURE_NOT_FOLLOWED -> CONTROL_INPUT_IMPROPER: support 82, stability 0.80"];
+  "STRUCTURAL_OVERLOAD" -> "AIRFRAME_STRUCTURAL_FAILURE" [penwidth=1.43, style=solid, tooltip="STRUCTURAL_OVERLOAD -> AIRFRAME_STRUCTURAL_FAILURE: support 59, stability 0.80"];
+  "PERCEPTION_FAILURE" -> "CONTROL_INPUT_IMPROPER" [penwidth=1.42, style=solid, tooltip="PERCEPTION_FAILURE -> CONTROL_INPUT_IMPROPER: support 58, stability 0.83"];
+  "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING" -> "DECISION_INAPPROPRIATE" [penwidth=1.31, style=solid, tooltip="UNSUITABLE_TERRAIN_FOR_FORCED_LANDING -> DECISION_INAPPROPRIATE: support 45, stability 0.77"];
+  "LANDING_GEAR_ANOMALY" -> "AIRFRAME_STRUCTURAL_FAILURE" [penwidth=1.25, style=solid, tooltip="LANDING_GEAR_ANOMALY -> AIRFRAME_STRUCTURAL_FAILURE: support 38, stability 0.90"];
 }

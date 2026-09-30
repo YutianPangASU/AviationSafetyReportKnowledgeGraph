@@ -13,22 +13,22 @@ from kg_fig_style import (WIDTH_IN, FS_MAIN, INK_SUB, factor_box, hub_box,
 OUT = "paper/figs/fig_ef_kg.pdf"
 D = json.load(open("physics/out/ef_risk.json"))
 
-NICE = {"FUEL_EXHAUSTION_OR_STARVATION": "Fuel exhaustion / starvation",
+NICE = {"FUEL_EXHAUSTION_OR_STARVATION": "Fuel exhaustion or starvation",
         "LATENT_MECHANICAL_DEFECT": "Latent mechanical defect",
         "PROCEDURE_NOT_FOLLOWED": "Procedure not followed",
         "OTHER_SYSTEM_FAILURE": "Other system failure",
-        "CARBURETOR_OR_INDUCTION_ICING": "Carburetor / induction icing",
+        "CARBURETOR_OR_INDUCTION_ICING": "Carburetor or induction icing",
         "FUEL_SYSTEM_ANOMALY": "Fuel system anomaly",
         "FUEL_CONTAMINATION": "Fuel contamination",
         "MAINTENANCE_INADEQUATE": "Inadequate maintenance",
-        "AIRFRAME_STRUCTURAL_FAILURE": "Airframe structural failure",
+        "AIRFRAME_STRUCTURAL_FAILURE": "Structural failure",
         "CONTROL_INPUT_IMPROPER": "Improper control input",
         "DECISION_INAPPROPRIATE": "Inappropriate decision"}
 TAG = {"FUEL_EXHAUSTION_OR_STARVATION": "endurance mass balance",
        "CARBURETOR_OR_INDUCTION_ICING": "icing thermodynamics",
        "FUEL_SYSTEM_ANOMALY": "component reliability",
        "FUEL_CONTAMINATION": "component reliability",
-       "AIRFRAME_STRUCTURAL_FAILURE": "Pratt gust and V-n envelope"}
+       "AIRFRAME_STRUCTURAL_FAILURE": "Pratt gust and load envelope"}
 TIER = {"physics": "phys", "surrogate": "surr", "data": "data"}
 
 FACTORS = [(NICE.get(r["factor"], r["factor"]), TAG.get(r["factor"]), r["support"],
@@ -50,7 +50,7 @@ max_w = max(c for *_, c in FACTORS)
 XL, WH, HH = 6.0, 2.55, 1.30
 YL = float(ys.mean())
 hub_box(ax, XL, YL, WH, HH, "ENGINE\nFAILURE",
-        r"$n$ = 16,406   $P(\mathrm{serious/fatal})$ = 0.24")
+        r"$n$ = 16,406" "\n" r"$P(\mathrm{serious\ or\ fatal})$ = 0.24")
 ax.text(XL, YL + HH / 2 + 0.50,
         r"$P(\mathrm{EF}\mid O)=1-(1-\ell)\prod_i\left(1-\pi_i(O)\,p_i\right)$",
         ha="center", fontsize=FS_MAIN, color=INK_SUB)

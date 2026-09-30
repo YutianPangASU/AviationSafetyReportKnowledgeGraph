@@ -16,19 +16,19 @@ D = json.load(open("physics/out/loc_risk.json"))
 
 NICE = {"STALL": "Stall", "CONTROL_INPUT_IMPROPER": "Improper control input",
         "ENGINE_FAILURE": "Engine failure", "DECISION_INAPPROPRIATE": "Inappropriate decision",
-        "CONTROL_SURFACE_ANOMALY": "Control-surface anomaly",
-        "AIRFRAME_STRUCTURAL_FAILURE": "Airframe structural failure",
+        "CONTROL_SURFACE_ANOMALY": "Control surface anomaly",
+        "AIRFRAME_STRUCTURAL_FAILURE": "Structural failure",
         "SPATIAL_DISORIENTATION": "Spatial disorientation",
         "PILOT_INCAPACITATION_OR_IMPAIRMENT": "Pilot incapacitation",
-        "TURBULENCE_ENCOUNTER": "Turbulence", "WIND_SHEAR_OR_GUST": "Wind shear / gust",
+        "TURBULENCE_ENCOUNTER": "Turbulence", "WIND_SHEAR_OR_GUST": "Wind shear or gust",
         "PROCEDURE_NOT_FOLLOWED": "Procedure not followed",
         "PERCEPTION_FAILURE": "Perception failure",
         "ADVERSE_WIND_CONDITION": "Adverse wind condition",
         "OTHER_SYSTEM_FAILURE": "Other system failure"}
-TAG = {"STALL": "JSBSim 6-DOF aerodynamics",
+TAG = {"STALL": "JSBSim flight dynamics",
        "ENGINE_FAILURE": "hazard rate (surrogate)",
        "CONTROL_SURFACE_ANOMALY": "component reliability",
-       "AIRFRAME_STRUCTURAL_FAILURE": "Pratt gust and V-n envelope",
+       "AIRFRAME_STRUCTURAL_FAILURE": "Pratt gust and load envelope",
        "TURBULENCE_ENCOUNTER": "Dryden gust spectrum",
        "WIND_SHEAR_OR_GUST": "shear margin exceedance"}
 TIER = {"physics": "phys", "surrogate": "surr", "data": "data"}
@@ -53,7 +53,7 @@ max_w = max(c for *_, c in FACTORS)
 XL, WH, HH = 6.0, 2.55, 1.30
 YL = float(ys.mean())
 hub_box(ax, XL, YL, WH, HH, "LOSS OF CONTROL\nIN FLIGHT",
-        r"$n$ = 9,813   $P(\mathrm{serious/fatal})$ = 0.59")
+        r"$n$ = 9,813" "\n" r"$P(\mathrm{serious\ or\ fatal})$ = 0.59")
 ax.text(XL, YL + HH / 2 + 0.52,
         r"$P(\mathrm{LOC}\mid O)=1-(1-\ell)\prod_i\left(1-\pi_i(O)\,p_i\right)$",
         ha="center", fontsize=FS_MAIN, color=INK_SUB)

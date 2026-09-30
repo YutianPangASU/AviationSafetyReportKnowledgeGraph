@@ -25,15 +25,15 @@ OUT = "paper/figs/fig_ef.pdf"
 PHYS, SURR, DATA = "#e08214", "#f5c48a", "#8a8a8a"
 COL = {"physics": PHYS, "surrogate": SURR, "data": DATA}
 
-NICE = {"FUEL_EXHAUSTION_OR_STARVATION": "Fuel exhaustion / starvation",
+NICE = {"FUEL_EXHAUSTION_OR_STARVATION": "Fuel exhaustion or starvation",
         "LATENT_MECHANICAL_DEFECT": "Latent mechanical defect",
         "PROCEDURE_NOT_FOLLOWED": "Procedure not followed",
         "OTHER_SYSTEM_FAILURE": "Other system failure",
-        "CARBURETOR_OR_INDUCTION_ICING": "Carburetor / induction icing",
+        "CARBURETOR_OR_INDUCTION_ICING": "Carburetor or induction icing",
         "FUEL_SYSTEM_ANOMALY": "Fuel system anomaly",
         "FUEL_CONTAMINATION": "Fuel contamination",
         "MAINTENANCE_INADEQUATE": "Inadequate maintenance",
-        "AIRFRAME_STRUCTURAL_FAILURE": "Airframe structural failure",
+        "AIRFRAME_STRUCTURAL_FAILURE": "Structural failure",
         "CONTROL_INPUT_IMPROPER": "Improper control input",
         "DECISION_INAPPROPRIATE": "Inappropriate decision"}
 
@@ -63,7 +63,7 @@ ice = D["icing_scenario"]
 scn = D["scenario"]
 cf = scn["counterfactuals"]
 keys = list(cf.keys())
-names = ["Baseline", "Icing", "Icing and\nreserve", "Heat", "Reserve", "Both"]
+names = ["Baseline", "Carburetor icing", "Icing and thin reserve", "Heat", "Reserve", "Both"]
 vals2 = [D["fitted_mean"], ice["P"], scn["P"]] + [cf[k]["P"] for k in keys]
 cols2 = ["#bdbdbd", "#d7301f", "#b30000", PHYS, PHYS, PHYS]
 ci2 = [U["combined_baseline"]["ci95"], U["icing_scenario"]["combined"]["ci95"],
@@ -78,7 +78,7 @@ for b, v in zip(bars, vals2):
     ax2.text(b.get_x() + b.get_width() / 2, v + 0.012, f"{v:.3f}",
              ha="center", va="bottom")
 ax2.set_xticks(range(len(vals2)))
-ax2.set_xticklabels(names, rotation=0, ha="center", fontsize=FS - 0.5)
+ax2.set_xticklabels(names, rotation=35, ha="right", rotation_mode="anchor", fontsize=FS - 0.5)
 ax2.set_ylabel(r"$P(\mathrm{Engine\ Failure})$")
 ax2.set_ylim(0, max(vals2) * 1.35)
 ax2.text(0.02, 1.02, "(b)", transform=ax2.transAxes, va="bottom")

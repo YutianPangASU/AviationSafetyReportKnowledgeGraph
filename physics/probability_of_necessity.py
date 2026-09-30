@@ -57,14 +57,18 @@ ICE = "CARBURETOR_OR_INDUCTION_ICING"
 HEAT_C = 30.0
 
 # Named accidents whose chains carry carburetor icing, a heat omission or
-# delay, and a power loss (see per_accident_chains.jsonl).
+# delay, and a power loss (see per_accident_chains.jsonl), and whose NTSB
+# probable cause names carburetor icing or the late use of carburetor heat.
+# 20190119X05628 was dropped on 2026-09-30: its probable cause is a power
+# loss for undetermined reasons, and the NTSB could not place its weather
+# on the icing chart.
 CASES = {
     "20001212X19636": "delayed carburetor heat at glide power, partial power loss, "
                       "forced landing to a grass strip",
-    "20190119X05628": "carburetor heat off, carburetor temperature in the red, power "
-                      "loss in cruise, gear-up forced landing",
-    "20020225X00252": "delayed carburetor heat, power loss in cruise, forced landing "
+    "20141208X13517": "carburetor heat off at low power in humid subfreezing air, total "
+                      "power loss on short final, collision with rising terrain "
                       "(the appendix example)",
+    "20020225X00252": "delayed carburetor heat, power loss in cruise, forced landing",
     "20200427X62554": "carburetor heat turned off after run-up, ice accumulated on the "
                       "ground, power loss on initial climb",
 }
