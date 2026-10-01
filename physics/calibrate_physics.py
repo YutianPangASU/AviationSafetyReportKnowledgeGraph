@@ -12,11 +12,14 @@ D, and with what result. The reference class of every calibrated value is
 Executions:
 
   isotonic link    pi_cal(O) = g(score(O)), g monotone, fitted out of fold on
-                   the physics score (the guard margin, or the exceedance
+                   the physics score (the condensable water, or the exceedance
                    availability) against the extracted factor label. Its mean
                    over D equals the prevalence by construction. Used where a
                    per-record physics score exists: carburetor icing (score =
-                   condensable-water margin from temperature and dewpoint),
+                   condensable water w in hPa from temperature and dewpoint;
+                   revised 2026-09-30 from the g/m3 guard margin, which at
+                   w = 0 still varies with the throttle-plate temperature and
+                   so gave the warmed operating points different floors),
                    turbulence (score = Dryden gust-stall exceedance from the
                    recorded surface wind) and wind shear (score = shear
                    margin from the recorded surface wind).
@@ -107,35 +110,53 @@ def main() -> None:
     out: dict = {"reference_class": "given a reportable accident",
                  "prevalence": prevalence, "factors": {}}
 
-    # --- carburetor icing: isotonic link on the condensable-water margin ------
+    # --- carburetor icing: isotonic link on the condensable water w (hPa) -----
+    # The score is w itself, so every operating point with no condensable
+    # subfreezing water ties at w = 0 and the link returns one floor value
+    # there (the icing share of the accidents with w = 0). The link is fitted
+    # on D, whose icing prevalence differs from the corpus base rate used in
+    # the combination of Eq. (combine); "calibrated_corpus" rescales the link
+    # to the corpus denominator, pi = P_corpus(ice) g(w) / P_D(ice), i.e. the
+    # link supplies the relative risk and the corpus the level.
     wx = df[df["ev_id"].map(lambda e: e in drv and drv[e].temp_c is not None)]
     T = wx["ev_id"].map(lambda e: drv[e].temp_c).to_numpy(float)
     Td = wx["ev_id"].map(lambda e: drv[e].dew_c).to_numpy(float)
     y = wx[ICE].to_numpy(int)
     res = [p_carb_icing(t, d, "descent") for t, d in zip(T, Td)]
     pi_chart = np.array([r.p_ice for r in res])
-    margin = np.array([r.margin_gm3 for r in res])
-    link = isotonic_link(margin, y)
+    w = np.array([r.ice_index_hpa for r in res])
+    link = isotonic_link(w, y)
     g = link.pop("model")
-    worked = p_carb_icing(13.0, 12.0, "descent")
-    heated = p_carb_icing(43.0, 12.0, "descent")
-    drier = p_carb_icing(13.0, -5.0, "descent")
+    to_corpus = prevalence[ICE] / float(y.mean())
+
+    def point(temp_c: float, dew_c: float) -> dict:
+        r = p_carb_icing(temp_c, dew_c, "descent")
+        cal = float(g.predict([r.ice_index_hpa])[0])
+        return {"chart": r.p_ice, "w_hpa": r.ice_index_hpa, "margin": r.margin_gm3,
+                "calibrated": cal, "calibrated_corpus": cal * to_corpus}
+
+    pts = {"worked_T13_Td12_descent": point(13.0, 12.0),
+           "heat_T43_Td12_descent": point(43.0, 12.0),
+           "drier_T13_Tdm5_descent": point(13.0, -5.0)}
+    pts["worked_T13_Td12_descent"]["scalar_rescaled"] = float(
+        min(1.0, pts["worked_T13_Td12_descent"]["chart"] * y.mean() / pi_chart.mean()))
+    zero = w == 0
     out["factors"][ICE] = {
-        "method": "isotonic link on the guard margin w - w_thr (g/m3)",
+        "method": "isotonic link on the condensable water w (hPa)",
         "D": "NTSB accidents with usable temperature and dewpoint",
         **link,
+        "corpus_base_rate": prevalence[ICE],
+        "to_corpus_factor": to_corpus,
+        "floor": {"n_w_zero": int(zero.sum()), "share_of_D": float(zero.mean()),
+                  "icing_share": float(y[zero].mean()),
+                  "link_value": float(g.predict([0.0])[0]),
+                  "link_value_corpus": float(g.predict([0.0])[0]) * to_corpus},
         "chart_mean_over_D": float(pi_chart.mean()),
         "scalar_rescale_factor": float(y.mean() / pi_chart.mean()),
-        "points": {
-            "worked_T13_Td12_descent": {"chart": worked.p_ice, "margin": worked.margin_gm3,
-                                        "calibrated": float(g.predict([worked.margin_gm3])[0]),
-                                        "scalar_rescaled": float(min(1.0, worked.p_ice * y.mean() / pi_chart.mean()))},
-            "heat_T43_Td12_descent": {"chart": heated.p_ice, "margin": heated.margin_gm3,
-                                      "calibrated": float(g.predict([heated.margin_gm3])[0])},
-            "drier_T13_Tdm5_descent": {"chart": drier.p_ice, "margin": drier.margin_gm3,
-                                       "calibrated": float(g.predict([drier.margin_gm3])[0])},
-        },
-        "curve": curve(g, float(margin.min()), float(margin.max())),
+        "points": pts,
+        "knots": {"w_hpa": [round(float(v), 6) for v in g.X_thresholds_],
+                  "p": [round(float(v), 6) for v in g.y_thresholds_]},
+        "curve": curve(g, 0.0, float(w.max())),
     }
 
     # --- turbulence: isotonic link on the Dryden gust-stall exceedance ---------

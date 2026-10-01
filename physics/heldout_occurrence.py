@@ -9,8 +9,9 @@ before 2015 train the fitted arms; records from 2015 onward score them.
 
 Arms
   chart physics       pi_ice from the chart-calibrated model, no fit.
-  physics calibrated  isotonic link on the condensable-water margin, fitted
-                      on the training years (Eq. calib executed).
+  physics calibrated  isotonic link on the condensable water w, fitted on
+                      the training years (Eq. calib executed; revised
+                      2026-09-30 from the g/m3 margin, see calibrate_physics).
   corpus only         logistic regression on month, hour, light condition,
                       basic weather condition and state, no physics.
   corpus + raw wx     the same plus temperature and dewpoint as raw features
@@ -19,8 +20,14 @@ Arms
   hybrid              corpus covariates plus the calibrated physics
                       probability as a feature (physics shape, corpus level,
                       corpus covariates).
-  hybrid, corrupted   the same with the sign-inverted margin, and with the
-                      margin permuted across records.
+  hybrid, corrupted   the same with the sign-inverted score, and with the
+                      score permuted across records.
+
+Drift checks (review 2026-09-30): a paired DeLong test of the raw-feature
+arm against the hybrid on the test years, the same two arms trained on
+shorter and older windows (before 2000, 2005, 2010) and scored on 2015
+onward, and each arm's out-of-fold ROC area inside its training years, so
+the loss from the time shift can be read per arm.
 
 Metrics on the test years: AUC with a DeLong interval, average precision,
 Brier score, and the reliability of the hybrid by decile. Severity is not
@@ -105,6 +112,27 @@ def delong_ci(y: np.ndarray, s: np.ndarray) -> tuple[float, float, float]:
     return float(auc), float(auc - 1.96 * se), float(auc + 1.96 * se)
 
 
+def delong_paired(y: np.ndarray, s1: np.ndarray, s2: np.ndarray) -> dict:
+    """Paired DeLong test of AUC(s1) - AUC(s2) on the same records."""
+    pos, neg = y == 1, y == 0
+
+    def comps(s):
+        sp, sn = s[pos], s[neg]
+        sn_s, sp_s = np.sort(sn), np.sort(sp)
+        v10 = (np.searchsorted(sn_s, sp, "left") + np.searchsorted(sn_s, sp, "right")) / (2 * len(sn))
+        v01 = 1 - (np.searchsorted(sp_s, sn, "left") + np.searchsorted(sp_s, sn, "right")) / (2 * len(sp))
+        return v10, v01
+
+    a10, a01 = comps(s1)
+    b10, b01 = comps(s2)
+    d = a10.mean() - b10.mean()
+    var = (np.cov(a10, b10)[0, 0] + np.cov(a10, b10)[1, 1] - 2 * np.cov(a10, b10)[0, 1]) / pos.sum() \
+        + (np.cov(a01, b01)[0, 0] + np.cov(a01, b01)[1, 1] - 2 * np.cov(a01, b01)[0, 1]) / neg.sum()
+    z = d / np.sqrt(var)
+    return {"auc_diff": round(float(d), 4), "z": round(float(z), 2),
+            "p_two_sided": float(2 * norm.sf(abs(z)))}
+
+
 def score(y: np.ndarray, s: np.ndarray, prob: bool = True) -> dict:
     auc, lo, hi = delong_ci(y, s)
     out = {"auc": round(auc, 4), "auc_ci95": [round(lo, 4), round(hi, 4)],
@@ -126,7 +154,7 @@ def main() -> None:
                       & df["ENGINE_FAILURE"].astype(int)).astype(int)
     res = [p_carb_icing(t, d, "descent") for t, d in zip(df["T"], df["Td"])]
     df["chart"] = [r.p_ice for r in res]
-    df["margin"] = [r.margin_gm3 for r in res]
+    df["margin"] = [r.ice_index_hpa for r in res]   # physics score: condensable water w (hPa)
     for c in ("light_cond", "wx_cond_basic", "ev_state"):
         df[c] = df[c].fillna("").replace("", "UNK")
     df["month"] = df["month"].fillna(0).astype(int).astype(str)
@@ -194,6 +222,51 @@ def main() -> None:
                  "realized": round(float(r.y_rate), 4), "n": int(r.n)}
                 for i, r in rel.iterrows()],
         }
+    # --- drift checks on the icing target -------------------------------------
+    from sklearn.model_selection import StratifiedKFold
+
+    def raw_and_hybrid(trn, tst, target):
+        ytr_ = trn[target].to_numpy(int)
+        eps_ = 1e-4
+        raw = logistic(cat_cols, ["T", "Td"]).fit(trn, ytr_)
+        iso_ = IsotonicRegression(out_of_bounds="clip").fit(trn["margin"], ytr_)
+        a, b = trn.copy(), tst.copy()
+        a["phys"] = np.log((iso_.predict(trn["margin"]) + eps_) / (1 - iso_.predict(trn["margin"]) + eps_))
+        b["phys"] = np.log((iso_.predict(tst["margin"]) + eps_) / (1 - iso_.predict(tst["margin"]) + eps_))
+        hyb_ = logistic(cat_cols, ["phys"]).fit(a, ytr_)
+        cor = logistic(cat_cols, []).fit(trn, ytr_)
+        return (raw.predict_proba(tst)[:, 1], hyb_.predict_proba(b)[:, 1],
+                cor.predict_proba(tst)[:, 1], iso_.predict(tst["margin"]))
+
+    yte = te["y_ice"].to_numpy(int)
+    r4, r5, r3, r2 = raw_and_hybrid(tr, te, "y_ice")
+    drift = {"paired_delong_raw_minus_hybrid_test_years": delong_paired(yte, r4, r5),
+             "paired_delong_hybrid_minus_corpus_test_years": delong_paired(yte, r5, r3),
+             "train_windows": {}, "in_period_oof": {}}
+    for last in (2000, 2005, 2010, SPLIT_YEAR):
+        trw = tr[tr["year"] < last]
+        a4, a5, a3, a2 = raw_and_hybrid(trw, te, "y_ice")
+        drift["train_windows"][f"before_{last}"] = {
+            "n_train": int(len(trw)), "n_pos_train": int(trw["y_ice"].sum()),
+            "prevalence_train": round(float(trw["y_ice"].mean()), 4),
+            "raw_wx": delong_ci(yte, a4)[0], "hybrid": delong_ci(yte, a5)[0],
+            "corpus_only": delong_ci(yte, a3)[0], "physics_calibrated": delong_ci(yte, a2)[0],
+            "raw_minus_hybrid": delong_paired(yte, a4, a5)}
+    # out-of-fold ROC area inside the training years, per arm
+    ytr = tr["y_ice"].to_numpy(int)
+    oof = {k: np.zeros(len(tr)) for k in ("raw_wx", "hybrid", "corpus_only", "physics_calibrated")}
+    for itr, ite in StratifiedKFold(5, shuffle=True, random_state=SEED).split(tr, ytr):
+        a4, a5, a3, a2 = raw_and_hybrid(tr.iloc[itr], tr.iloc[ite], "y_ice")
+        oof["raw_wx"][ite], oof["hybrid"][ite] = a4, a5
+        oof["corpus_only"][ite], oof["physics_calibrated"][ite] = a3, a2
+    drift["in_period_oof"] = {k: round(delong_ci(ytr, v)[0], 4) for k, v in oof.items()}
+    drift["in_period_oof"]["chart_physics_no_fit"] = round(delong_ci(ytr, tr["chart"].to_numpy())[0], 4)
+    drift["test_years"] = {"raw_wx": round(delong_ci(yte, r4)[0], 4), "hybrid": round(delong_ci(yte, r5)[0], 4),
+                           "corpus_only": round(delong_ci(yte, r3)[0], 4),
+                           "physics_calibrated": round(delong_ci(yte, r2)[0], 4),
+                           "chart_physics_no_fit": round(delong_ci(yte, te["chart"].to_numpy())[0], 4)}
+    out["drift_checks"] = drift
+
     with open(OUT, "w") as f:
         json.dump(out, f, indent=2)
     print(json.dumps({k: v for k, v in out.items() if k != "targets"}))
@@ -203,6 +276,7 @@ def main() -> None:
         for arm, s in v["arms"].items():
             print(f"  {arm:44s} AUC {s['auc']:.3f} {s['auc_ci95']} AP {s['average_precision']:.4f} "
                   f"Brier {s.get('brier')}")
+    print("\n== drift checks:", json.dumps(out["drift_checks"], indent=1))
 
 
 if __name__ == "__main__":

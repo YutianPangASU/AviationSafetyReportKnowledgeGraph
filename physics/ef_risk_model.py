@@ -6,9 +6,11 @@ engine-failure node. Physics-tier parents:
 
   * CARBURETOR_OR_INDUCTION_ICING: the icing physics of carb_icing_model.py,
     entering through the calibrated link of calibrate_physics.py (an
-    isotonic link on the condensable-water margin, fitted out of fold on the
-    accident population). Calibrated: the scenario value is a probability on
-    the same population as the base rates.
+    isotonic link on the condensable water w, fitted on the weather-recorded
+    NTSB accidents). The link is rescaled to the corpus denominator
+    (calibrated_corpus = corpus base rate x link / prevalence in D), so the
+    scenario value sits on the same 55,940-record population as the base
+    rates of the other parents (revised 2026-09-30).
   * FUEL_EXHAUSTION_OR_STARVATION: endurance margin. Usable fuel m_f at fuel
     flow mdot gives an endurance E = m_f / mdot; exhaustion occurs when the
     flight outlasts it. With a planned reserve r = E - t_flight and a
@@ -71,8 +73,31 @@ def main() -> None:
     fit = fit_leaky_noisy_or(X, y)
     leak, p = fit["leak"], fit["p"]
     base = X.mean(axis=0)
-    P0 = float(combine(base, p, leak))
+    P0 = float(combine(base, p, leak))          # Eq. (combine) at the base rates
     delta = contributions(base, p, leak)
+    # mean over records of the fitted P(y | x_r); differs from P0 because the
+    # parents are not independent in the presence table
+    fitted_mean_records = float(np.mean(1.0 - (1.0 - leak) * np.exp(X @ np.log1p(-p))))
+
+    # chain-level parent coverage: EF nodes whose explicit caused_by parents
+    # include a member of the leading-factor set (review 2026-09-30)
+    cover = {"nodes": 0, "root": 0, "parent_in_set": 0, "parents_outside_set": 0}
+    with open(os.path.join("event_extraction/out/causation_kg", "per_accident_chains.jsonl")) as f:
+        for line in f:
+            rec = json.loads(line)
+            nodes = {n["idx"]: n for n in rec["chain"]}
+            for n in rec["chain"]:
+                if n["factor_type"] != TARGET:
+                    continue
+                par = {nodes[e["src"]]["factor_type"] for e in n.get("caused_by", [])
+                       if e["src"] in nodes}
+                cover["nodes"] += 1
+                if not par:
+                    cover["root"] += 1
+                elif par & set(names):
+                    cover["parent_in_set"] += 1
+                else:
+                    cover["parents_outside_set"] += 1
 
     rows = []
     for e, b, pi_, d in zip(lf, base, p, delta):
@@ -83,9 +108,9 @@ def main() -> None:
                      "p": round(float(pi_), 4), "contribution": round(float(d), 4)})
 
     ice_pts = cal[ICE]["points"]
-    pi_ice = ice_pts["worked_T13_Td12_descent"]["calibrated"]
-    pi_ice_heat = ice_pts["heat_T43_Td12_descent"]["calibrated"]
-    pi_ice_drier = ice_pts["drier_T13_Tdm5_descent"]["calibrated"]
+    pi_ice = ice_pts["worked_T13_Td12_descent"]["calibrated_corpus"]
+    pi_ice_heat = ice_pts["heat_T43_Td12_descent"]["calibrated_corpus"]
+    pi_ice_drier = ice_pts["drier_T13_Tdm5_descent"]["calibrated_corpus"]
     pi_fuel_thin, pi_fuel_ok = p_fuel_exhaustion(0.5), p_fuel_exhaustion(2.0)
 
     def evaluate(overrides: dict[str, float]) -> dict:
@@ -121,10 +146,17 @@ def main() -> None:
                                 "n_parents": len(names)},
         "leak": round(leak, 4),
         "fitted_mean": round(P0, 4),
+        "population_value_note": "fitted_mean is Eq. (combine) evaluated at the corpus base "
+                                 "rates; fitted_mean_over_records averages the fitted P(y | x_r)",
+        "fitted_mean_over_records": round(fitted_mean_records, 4),
         "empirical_prevalence": round(float(y.mean()), 4),
+        "parent_coverage": {**cover, "share_parent_in_set": round(cover["parent_in_set"] / cover["nodes"], 4),
+                            "share_root": round(cover["root"] / cover["nodes"], 4)},
         "nll_per_record": round(fit["nll_per_record"], 4),
         "factors": rows,
         "icing_term": {"chart_pi_worked_point": round(ice_pts["worked_T13_Td12_descent"]["chart"], 4),
+                       "link_on_D_worked_point": round(ice_pts["worked_T13_Td12_descent"]["calibrated"], 4),
+                       "prevalence_in_D": round(cal[ICE]["prevalence_in_D"], 4),
                        "calibrated_worked_point": round(pi_ice, 4),
                        "calibrated_with_heat": round(pi_ice_heat, 4),
                        "calibrated_drier": round(pi_ice_drier, 4),

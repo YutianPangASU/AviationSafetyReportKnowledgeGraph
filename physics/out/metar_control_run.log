@@ -153,5 +153,24 @@ matched 3223 accidents (1033 icing) to routine hours
     "light": 0.859,
     "moderate": 0.97,
     "serious": 1.203
-  }
+  },
+  "icing_specific_relative_risk_by_zone_ci95": {
+    "nil": [
+      0.402,
+      0.694
+    ],
+    "light": [
+      0.629,
+      1.112
+    ],
+    "moderate": [
+      0.863,
+      1.088
+    ],
+    "serious": [
+      1.146,
+      1.267
+    ]
+  },
+  "icing_specific_relative_risk_n_boot": 2000
 }

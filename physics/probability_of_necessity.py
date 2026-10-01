@@ -7,7 +7,10 @@ three steps of a counterfactual are carried out on individual accidents:
   abduction   the icing mechanism is the structural equation
               ICE = 1{ U <= g(gamma(T, Td)) }, with U uniform on [0, 1] the
               exogenous noise of the calibrated link g (calibrate_physics.py)
-              and gamma the condensable-water margin. Observing the record
+              and gamma the condensable water w (hPa). Every operating point
+              with no condensable subfreezing water ties at w = 0, so the
+              warmed cases share one floor g(0) (revised 2026-09-30; the
+              earlier g/m3 margin gave each warmed case its own floor). Observing the record
               fixes (T, Td) and the outcome; the posterior of U is the part
               of [0, 1] consistent with what was observed.
   action      do(heat): the intake is warmed by 30 C, so the margin becomes
@@ -76,11 +79,14 @@ CASES = {
 
 def main() -> None:
     cal = json.load(open(CAL))["factors"][ICE]
-    xs = np.array(cal["curve"]["score"])
-    ps = np.array(cal["curve"]["p"])
+    xs = np.array(cal["knots"]["w_hpa"])
+    ps = np.array(cal["knots"]["p"])
+    to_corpus = cal["to_corpus_factor"]
 
-    def g(margin: float) -> float:
-        return float(np.interp(margin, xs, ps))
+    def g(w_hpa: float) -> float:
+        # the isotonic step function on the corpus denominator (sklearn's
+        # predict interpolates linearly between the same knots)
+        return float(np.interp(w_hpa, xs, ps)) * to_corpus
 
     ef = json.load(open(EF))
     leak = ef["leak"]
@@ -99,7 +105,7 @@ def main() -> None:
             continue
         r0 = p_carb_icing(d.temp_c, d.dew_c, "descent")
         r1 = p_carb_icing(d.temp_c + HEAT_C, d.dew_c, "descent")
-        g0, g1 = g(r0.margin_gm3), g(r1.margin_gm3)
+        g0, g1 = g(r0.ice_index_hpa), g(r1.ice_index_hpa)
         pn_ice = 1.0 - g1 / g0 if g0 > 0 else float("nan")
         p_ef_x = 1.0 - (1.0 - g0 * p_ice) * p_not_o           # no heat
         p_ef_x1 = 1.0 - (1.0 - g1 * p_ice) * p_not_o          # do(heat)
@@ -112,7 +118,7 @@ def main() -> None:
             "description": desc,
             "recorded": {"T_C": round(d.temp_c, 1), "Td_C": round(d.dew_c, 1)},
             "chart_pi_no_heat": round(r0.p_ice, 4), "chart_pi_heat": round(r1.p_ice, 4),
-            "margin_no_heat_gm3": round(r0.margin_gm3, 4), "margin_heat_gm3": round(r1.margin_gm3, 4),
+            "w_no_heat_hpa": round(r0.ice_index_hpa, 4), "w_heat_hpa": round(r1.ice_index_hpa, 4),
             "g_no_heat": round(g0, 4), "g_heat": round(g1, 4),
             "PN_icing_given_icing_observed": round(pn_ice, 3),
             "P_EF_no_heat": round(p_ef_x, 4), "P_EF_do_heat": round(p_ef_x1, 4),

@@ -59,6 +59,7 @@ OUT = "physics/out/metar_control.json"
 ICE = "CARBURETOR_OR_INDUCTION_ICING"
 N_OTHER = 2500
 SEED = 0
+N_BOOT_RR = 2000
 MAX_KM = 60.0
 HOUR_WINDOW = 3
 BASE = "https://www.ncei.noaa.gov/pub/data/noaa/isd-lite/{y}/{u}-{w}-{y}.gz"
@@ -237,12 +238,16 @@ def main():
            "median_station_km": float(np.median([x["station"][2] for x in rec])),
            "hours_per_accident_median": float(np.median([x["n_hours"] for x in rec])),
            "window_hours_per_accident_median": float(np.median([x["n_window"] for x in rec]))}
+    per_accident = {}
     for variant, key in (("all_hours", "pi_hours_all"), ("hour_matched", "pi_hours_window")):
         # equal weight per accident: 100 routine hours drawn per accident
         for label, flag in (("icing_vs_routine", 1), ("other_vs_routine", 0)):
             acc = np.array([x["pi_acc"] for x in rec if x["icing"] == flag])
-            ctrl = np.concatenate([rng.choice(x[key], min(100, len(x[key])), replace=False)
-                                   for x in rec if x["icing"] == flag and len(x[key]) > 0])
+            draws = [rng.choice(x[key], min(100, len(x[key])), replace=False)
+                     if len(x[key]) > 0 else np.array([]) for x in rec if x["icing"] == flag]
+            ctrl = np.concatenate([d for d in draws if len(d) > 0])
+            if variant == "hour_matched":
+                per_accident[flag] = (acc, draws)
             y = np.concatenate([np.ones(len(acc)), np.zeros(len(ctrl))])
             s = np.concatenate([acc, ctrl])
             out[f"{variant}/{label}"] = {**delong(y, s),
@@ -258,6 +263,34 @@ def main():
     zo = out["hour_matched/other_vs_routine"]["zones"]
     out["icing_specific_relative_risk_by_zone"] = {
         z: round(zi[z]["relative_risk"] / max(zo[z]["relative_risk"], 1e-9), 3) for z in zi}
+    # bootstrap over accidents (each resampled with its own control hours),
+    # icing and other accidents resampled independently (review 2026-09-30)
+    zones = ("nil", "light", "moderate", "serious")
+    zcode = {z: i for i, z in enumerate(zones)}
+
+    def codes(v):
+        return np.array([zcode[carb_ice_zone(p)] for p in v])
+
+    enc = {}
+    for flag in (1, 0):
+        acc, draws = per_accident[flag]
+        enc[flag] = (codes(acc), [codes(d) for d in draws])
+
+    def rr(flag, idx):
+        a, ds = enc[flag]
+        sa = np.bincount(a[idx], minlength=4) / len(idx)
+        h = np.concatenate([ds[i] for i in idx if len(ds[i]) > 0])
+        sh = np.bincount(h, minlength=4) / len(h)
+        return sa / np.maximum(sh, 1e-9)
+
+    brng = np.random.default_rng(SEED + 1)
+    n1, n0 = len(enc[1][0]), len(enc[0][0])
+    boots = np.array([rr(1, brng.integers(0, n1, n1)) / np.maximum(rr(0, brng.integers(0, n0, n0)), 1e-9)
+                      for _ in range(N_BOOT_RR)])
+    out["icing_specific_relative_risk_by_zone_ci95"] = {
+        z: [round(float(np.percentile(boots[:, i], 2.5)), 3),
+            round(float(np.percentile(boots[:, i], 97.5)), 3)] for z, i in zcode.items()}
+    out["icing_specific_relative_risk_n_boot"] = N_BOOT_RR
     os.makedirs("physics/out", exist_ok=True)
     with open(OUT, "w") as f:
         json.dump(out, f, indent=2)
