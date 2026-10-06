@@ -42,3 +42,9 @@ event_extraction/logs/vllm_*.log
 event_extraction/out/causation_kg/bn_do_smoke_*.json
 texput.log
 JSBout*.csv
+docs/*
+!docs/2026-07-05-v4-chain-schema-plan.md
+!docs/2026-07-05-v4-condition-vocab.md
+ace_graph_counterfactual_design_note.md
+data/BEA/scrape.log
+event_extraction/logs/

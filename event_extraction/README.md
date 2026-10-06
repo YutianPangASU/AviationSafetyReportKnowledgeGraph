@@ -7,8 +7,7 @@ indices — acyclic by construction — and is the input to the causation KG and
 the downstream counterfactual / risk analysis.
 
 Design docs: [v4 plan](../docs/2026-07-05-v4-chain-schema-plan.md) ·
-[condition vocabulary memo](../docs/2026-07-05-v4-condition-vocab.md) ·
-[v3 schema history](../docs/2026-04-27-v3-schema-redesign.md) (superseded).
+[condition vocabulary memo](../docs/2026-07-05-v4-condition-vocab.md).
 
 ## Layout
 
@@ -32,7 +31,6 @@ event_extraction/
         build_kg_v4.py         causation KG builder (chains -> factor vectors,
                                causal edges, outcome layer)
         build_kg_layer1.py     v3 aggregate-KG builder (until Phase 4 replaces it)
-        select_loci_cases.py   pull 10 LOC-I cases for manual feasibility check
         sample_calibration_2k.py  provenance of the 2k calibration sample
         prep_full_v3_input.py  builds the 56k extraction input list
         verify_setup.py        sanity checks (no inference)
