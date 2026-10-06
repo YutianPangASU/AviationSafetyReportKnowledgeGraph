@@ -49,14 +49,14 @@ the note in `_common.py` before using them.
 | Paper item | Script | Output |
 |---|---|---|
 | Corpus | `data_processing/build_corpus.py`, `build_corpus_enriched.py`, `event_extraction/scripts/prep_full_v3_input.py` | `data/corpus/` |
-| Extraction | `event_extraction/scripts/extract_vllm.py` | `event_extraction/out/full_corpus_v4.jsonl` |
+| Extraction | `event_extraction/scripts/extract_vllm.py` | `event_extraction/out/full_corpus_v4.jsonl` (released as `full_corpus_v4.jsonl.gz`) |
 | Causation graph | `event_extraction/scripts/build_kg_v4.py` | `event_extraction/out/causation_kg/` |
 | Per-category networks | `event_extraction/scripts/run_stage3_v4_pipeline.sh` (precedence, language model order, PC with and without priors, reorientation, 30 bootstrap refits) | `event_extraction/out/aggregate_kg/` |
-| Fig. 1 framework | `paper/figs/fig_framework.tex` (TikZ) | |
+| Fig. 1 framework | drawn in TikZ in the manuscript source | |
 | Table I guards | `physics/guards.py` | |
 | Table II and Fig. 3 engine failure | `physics/ef_risk_model.py`, `physics/risk_uncertainty.py`, `physics/make_ef_fig.py` | `physics/out/ef_risk.json`, `risk_uncertainty.json` |
 | Table III probability of necessity | `physics/probability_of_necessity.py` | `physics/out/probability_of_necessity.json` |
-| Table IV graph-level interventions | `event_extraction/scripts/stage3/backdoor_table.py`, `stage3/fci_check.py` | `event_extraction/out/causation_kg/backdoor_table_*.json`, `fci_check_*.json` |
+| Table IV graph-level interventions | `event_extraction/scripts/stage3/backdoor_table.py`, `event_extraction/scripts/stage3/fci_check.py` | `event_extraction/out/causation_kg/backdoor_table_*.json`, `fci_check_*.json` |
 | Fig. 2 carburetor icing surface | `physics/make_carb_icing_fig.py`, `physics/carb_icing_model.py` | reads `physics/out/carb_icing_accidents.csv` |
 | Sec. V-A extraction fidelity | `event_extraction/scripts/semantic_eval.py`, `eval_chain_order.py`, `eval_extraction_extras.py`, `run_selfconsistency.sh`, `score_selfconsistency.py`, `validate_extraction.py` | `event_extraction/out/*_v4_*.summary.json`, `eval_extras_v4_*.json`, `selfconsistency/` |
 | Sec. V-B admissibility monitor | `physics/violation_rate.py` | `physics/out/violation_rate.json` |
