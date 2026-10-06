@@ -1,0 +1,200 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Older design midspar fitting (0.38-inch radius) susceptible to fatigue cracking",
+      "trigger": "The aircraft was equipped with older design midspar fittings that should have been replaced per FAA Airworthiness Directive 93-11-02 with an improved 1.0-inch radius design",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Previous operator marked AD 77-09-03 as completed when fittings were not replaced",
+      "trigger": "in 1983, a previous owner/operator had marked the compliance status of the AD in effect at the time (77-09-03) with 'C' (meaning complete)",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Omega discontinued repetitive midspar fitting inspections in 2003",
+      "trigger": "a records review found that, in 1983, a previous owner/operator had marked the compliance status with 'C'...This status reconfirmed to Omega that the records showed the fittings had been replaced and Omega deleted the inspection requirement from its maintenance plan",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Omega relied on the erroneous completion mark to justify terminating inspections"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Fatigue crack in No. 2 midspar fitting propagated to critical length undetected",
+      "trigger": "corrosion product covered the fatigue fracture surface, consistent with it being exposed to the atmosphere for a significant time",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "the 0.38-inch radius is inherently susceptible to high-stress fatigue propagation"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "termination of inspections allowed the crack to propagate undetected over eight years until the accident flight"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "No. 2 midspar fitting fractured due to fatigue crack reaching critical length",
+      "trigger": "all three crewmembers heard a loud noise and observed the thrust lever for the No. 2 (left inboard) engine rapidly retard to the aft limit of the throttle quadrant",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "The upper tang of the No. 2 pylon inboard midspar fitting failed with fatigue initiating at the upper inboard corner and occupying approximately 15 percent of the fracture surface"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "No. 2 engine pylon separated from left wing",
+      "trigger": "witnesses and a cell phone video indicated that the No. 2 (left inboard) engine separated and traveled up above the left wing",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "The No. 2 pylon separated from the wing at the overwing fitting, the midspar fittings, and the lower spar fitting"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "No. 2 engine nacelle struck and damaged No. 1 engine inlet cowl",
+      "trigger": "The inlet cowling for the No. 1 (left outboard) engine separated immediately thereafter, consistent with being struck by the No. 2 engine nacelle",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "the No. 2 engine separated and traveled upward, colliding with the adjacent No. 1 engine"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "No. 1 engine inlet cowling separated following collision damage",
+      "trigger": "The No. 1 engine nose cowl was found exhibiting crush damage consistent with contact with the No. 2 engine",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "The No. 1 engine nose cowl exhibited crush damage from the No. 2 engine impact, causing inlet cowling separation"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Severe loss of thrust on left side of aircraft",
+      "trigger": "Pratt & Whitney indicated that loss of the inlet cowling on the No. 1 engine would increase drag, effectively resulting in less than zero thrust output",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "No. 2 engine completely separated from the aircraft"
+        },
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "No. 1 inlet cowl separation resulted in excessive drag and effectively negative thrust"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Airplane could not maintain level flight or directional control despite full control inputs",
+      "trigger": "The captain applied full right rudder and near full right aileron to maintain directional control and level the wings, but the airplane continued to drift to the left",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "the severe thrust loss on the left side prevented the airplane from maintaining controlled flight"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Airplane departed runway surface to the left",
+      "trigger": "The airplane made multiple contacts with the runway before drifting left and departing the runway surface before reaching taxiway A1",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "the airplane continued to drift left despite the captain's control inputs during the landing attempt"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Airplane struck saltwater marsh terrain and caught fire",
+      "trigger": "the airplane crossed taxiway A and came to rest in the saltwater marsh where it caught fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 10,
+          "strength": "direct",
+          "evidence": "after departing the runway, the airplane continued across grass and taxiway A before impacting the marsh"
+        }
+      ]
+    },
+    {
+      "idx": 12,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Flight crew sustained minor injuries",
+      "trigger": "The three flight crewmembers sustained minor injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 11,
+          "strength": "direct",
+          "evidence": "injuries resulted from impact forces and evacuation from the damaged aircraft"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

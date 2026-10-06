@@ -1,0 +1,106 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Limited pilot experience and currency in Nimbus-4DM",
+      "trigger": "front pilot had 103 hours in type with 8-month gap, only 8 hours since May; rear pilot had only flown aircraft once before",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of control—spiral entry",
+      "trigger": "glider was in tight turn as if climbing in thermal when it entered spiral with 45-degree nose-down attitude",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "aircraft is very sensitive to rudder control input; pilot had control technique issues noted during checkout; lack of currency in this demanding high-performance aircraft"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Recovery maneuver with excessive wing deflection at high airspeed",
+      "trigger": "pilot leveled aircraft attitude; wings bent upward and coned with 45 degrees or greater deflection; pilot had extended airbrakes during descent in attempt to slow",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "pilot attempted AFM-specified recovery maneuver; aircraft was at high airspeed near Vne; airbrake extension automatically extended flaps via interconnect, reducing maneuvering load limit from 4.0g to 3.5g"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Wing structural failure in overload",
+      "trigger": "left and right outboard wings failed symmetrically at approximately 11.2 feet inboard of wing tips; primary failure at section EE",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "all wing failures were overload in character, occurring at loadings well above ultimate design load limits; wing deflection of 45+ degrees at airspeed near Vd exceeded structural capacity; NIAR testing confirmed"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Inflight breakup",
+      "trigger": "outboard wing tip panels departed from glider, wings disintegrated",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "primary structural failure at section EE initiated dynamic response causing sequential failures of remaining wing sections"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Ground impact",
+      "trigger": "fuselage dove into ground",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "fuselage descended to terrain after wing separation in flight"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries",
+      "trigger": "both pilot and passenger fatally injured; autopsies determined cause of death as blunt-force trauma",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "both occupants sustained fatal blunt-force trauma in ground impact"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

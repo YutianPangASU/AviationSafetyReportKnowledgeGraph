@@ -1,0 +1,134 @@
+{
+  "category": "RE",
+  "n_records": 696,
+  "baseline_p_serious": 0.0761,
+  "method": "backdoor adjustment; Z = stable PC-DAG parents (stability >= 0.5, max 3)",
+  "interventions": [
+    {
+      "factor": "HIGH_DENSITY_ALTITUDE",
+      "n_present": 34,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0738,
+      "p_serious_do_present": 0.1667,
+      "effect_do_present_vs_absent": 0.0929,
+      "risk_reduction_vs_baseline": 0.0024
+    },
+    {
+      "factor": "ENGINE_FAILURE",
+      "n_present": 32,
+      "adjustment_set": [
+        "MAINTENANCE_INADEQUATE"
+      ],
+      "p_serious_do_absent": 0.0795,
+      "p_serious_do_present": 0.1232,
+      "effect_do_present_vs_absent": 0.0437,
+      "risk_reduction_vs_baseline": -0.0033
+    },
+    {
+      "factor": "DECISION_INAPPROPRIATE",
+      "n_present": 457,
+      "adjustment_set": [
+        "PERCEPTION_FAILURE",
+        "LANDING_GEAR_ANOMALY"
+      ],
+      "p_serious_do_absent": 0.0684,
+      "p_serious_do_present": 0.0955,
+      "effect_do_present_vs_absent": 0.0271,
+      "risk_reduction_vs_baseline": 0.0077
+    },
+    {
+      "factor": "PERCEPTION_FAILURE",
+      "n_present": 177,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0729,
+      "p_serious_do_present": 0.095,
+      "effect_do_present_vs_absent": 0.022,
+      "risk_reduction_vs_baseline": 0.0032
+    },
+    {
+      "factor": "LATENT_MECHANICAL_DEFECT",
+      "n_present": 39,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0774,
+      "p_serious_do_present": 0.0976,
+      "effect_do_present_vs_absent": 0.0202,
+      "risk_reduction_vs_baseline": -0.0012
+    },
+    {
+      "factor": "PROCEDURE_NOT_FOLLOWED",
+      "n_present": 288,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0707,
+      "p_serious_do_present": 0.0897,
+      "effect_do_present_vs_absent": 0.0189,
+      "risk_reduction_vs_baseline": 0.0054
+    },
+    {
+      "factor": "ADVERSE_WIND_CONDITION",
+      "n_present": 230,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0748,
+      "p_serious_do_present": 0.0862,
+      "effect_do_present_vs_absent": 0.0114,
+      "risk_reduction_vs_baseline": 0.0014
+    },
+    {
+      "factor": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "n_present": 33,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0782,
+      "p_serious_do_present": 0.0857,
+      "effect_do_present_vs_absent": 0.0075,
+      "risk_reduction_vs_baseline": -0.002
+    },
+    {
+      "factor": "CONTROL_INPUT_IMPROPER",
+      "n_present": 535,
+      "adjustment_set": [
+        "RUNWAY_CONDITION_HAZARD",
+        "LATENT_MECHANICAL_DEFECT",
+        "MAINTENANCE_INADEQUATE"
+      ],
+      "p_serious_do_absent": 0.0888,
+      "p_serious_do_present": 0.0907,
+      "effect_do_present_vs_absent": 0.0019,
+      "risk_reduction_vs_baseline": -0.0127
+    },
+    {
+      "factor": "LANDING_GEAR_ANOMALY",
+      "n_present": 42,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0793,
+      "p_serious_do_present": 0.0682,
+      "effect_do_present_vs_absent": -0.0111,
+      "risk_reduction_vs_baseline": -0.0031
+    },
+    {
+      "factor": "MAINTENANCE_INADEQUATE",
+      "n_present": 30,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0793,
+      "p_serious_do_present": 0.0625,
+      "effect_do_present_vs_absent": -0.0168,
+      "risk_reduction_vs_baseline": -0.0032
+    },
+    {
+      "factor": "RUNWAY_CONDITION_HAZARD",
+      "n_present": 287,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0925,
+      "p_serious_do_present": 0.0588,
+      "effect_do_present_vs_absent": -0.0336,
+      "risk_reduction_vs_baseline": -0.0163
+    },
+    {
+      "factor": "LOSS_OF_CONTROL_GROUND",
+      "n_present": 43,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.0824,
+      "p_serious_do_present": 0.0222,
+      "effect_do_present_vs_absent": -0.0602,
+      "risk_reduction_vs_baseline": -0.0063
+    }
+  ]
+}

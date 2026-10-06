@@ -1,0 +1,140 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Captain fatigued at time of accident",
+      "trigger": "Captain stated 'eh...really...sleepy' during approach; awake approximately 11 hours; accident occurred after midnight Seoul time during circadian low point",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Inadequate training in diverse nonprecision approaches",
+      "trigger": "Korean Air simulator curriculum trained only single nonprecision approach (VOR/DME to Kimpo with airport-located DME); no countdown/count-up DME procedures practiced",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Instrument meteorological conditions during descent",
+      "trigger": "Flight encountered rain showers and clouds after initial visual sighting of Guam; weather radar showed heavy precipitation over approach corridor",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Captain conducted inadequate approach briefing",
+      "trigger": "Captain briefed abbreviated 'short briefing' for visual approach rather than comprehensive nonprecision briefing; did not brief step-down fix definitions or associated crossing altitudes",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Fatigue degraded captain's preparation and thoroughness"},
+        {"src": 1, "strength": "contributing", "evidence": "Limited training background in nonprecision approaches"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain confused about glideslope operational status",
+      "trigger": "Flight engineer asked 'is the glideslope working?' Captain responded 'yes, yes it's working'; later asked 'isn't glideslope working?' despite being informed glideslope was unusable",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Fatigue contributed to confusion and preoccupation with glideslope status"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "Captain lost positional awareness on approach",
+      "trigger": "Captain failed to properly cross-check airplane position and altitude with VOR/DME step-down fixes; did not recognize descent was premature relative to navigation fixes",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "Inadequate briefing left captain unprepared to monitor approach geometry and fixes"},
+        {"src": 4, "strength": "contributing", "evidence": "Preoccupation with glideslope status distracted from position monitoring and cross-checking"},
+        {"src": 0, "strength": "contributing", "evidence": "Fatigue impaired situational awareness and cross-checking performance"},
+        {"src": 1, "strength": "contributing", "evidence": "Limited training background in nonprecision approach monitoring"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain commanded descent to 1,440 feet before reaching step-down fix",
+      "trigger": "Captain directed first officer to 'set 1,440 feet' before airplane reached GUQQY outer marker (1.6 DME) where this altitude restriction became effective",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "Loss of positional awareness led to premature altitude selection command"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain commanded descent to MDA before reaching VOR step-down fix",
+      "trigger": "Captain instructed first officer to 'set 560 feet' (MDA) before airplane reached UNZ VOR where this altitude restriction became effective; airplane still miles from VOR",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "Continuing loss of positional awareness enabled further premature descent"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "First officer and flight engineer failed to monitor and challenge captain",
+      "trigger": "First officer and flight engineer noted GPWS altitude callouts but did not challenge captain's premature descents below 2,000 and 1,440 feet before impact",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 3, "strength": "contributing", "evidence": "Inadequate briefing left crew without clear monitoring expectations and altitude constraints"},
+        {"src": 1, "strength": "contributing", "evidence": "Inadequate training in crew coordination and challenging procedures on nonprecision approaches"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain failed to respond appropriately to GPWS alerts",
+      "trigger": "GPWS issued 'minimums' alert at 840 feet MSL (~12 seconds before impact); captain acknowledged 'sink rate okay' and did not initiate missed approach until 4 seconds before impact",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Fatigue impaired response to alerts and decision-making"},
+        {"src": 5, "strength": "contributing", "evidence": "Loss of positional awareness meant captain did not recognize need for immediate missed approach"}
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Controlled flight into terrain at Nimitz Hill",
+      "trigger": "Aircraft impacted rising terrain at Nimitz Hill at 660 feet MSL; impact occurred 3.3 nm from runway threshold during high-speed descent",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "Descent to altitude below safe minimums for terrain clearance"},
+        {"src": 9, "strength": "direct", "evidence": "Failure to execute missed approach at minimums prevented terrain avoidance"}
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "228 fatalities; 26 survivors with serious injuries",
+      "trigger": "254 persons on board; 228 killed in impact and postcrash fire; 26 survivors (23 passengers, 3 flight attendants) sustained serious injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 10, "strength": "direct", "evidence": "High-speed impact with terrain at night in darkness"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,160 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Alaska Airlines extended the jackscrew assembly lubrication interval",
+      "trigger": "In 1996, Alaska Airlines extended the lubrication interval from approximately 1,600 flight hours to 8 months (approximately 2,550 flight hours), based on Boeing's MSG-3 recommended interval of 3,600 flight hours",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Alaska Airlines extended the end play check interval",
+      "trigger": "In 1996, Alaska Airlines extended the end play check interval from 26 months to 30 months, equivalent to approximately 9,550 flight hours, exceeding Boeing's recommended flight-hour limit of 7,000-7,200 hours",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Inadequate or missed jackscrew assembly lubrication",
+      "trigger": "The accident airplane's jackscrew assembly showed no evidence of effective lubrication at the time of the accident; the acme nut's grease fitting passageway contained only dried, degraded grease rather than fresh lubricant",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "The extended lubrication interval increased the likelihood that a missed or inadequate lubrication would result in excessive wear"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Excessive wear of acme nut threads",
+      "trigger": "The acme nut threads wore at an average rate of approximately 0.012 inch per 1,000 flight hours, compared to the expected rate of 0.001 inch per 1,000 flight hours; approximately 90 percent of thread thickness had worn away before shearing",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Laboratory tests confirmed that unlubricated wear rates are roughly 10 times higher than lubricated wear rates; the recovered acme screw showed no evidence of grease in the working region"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Acme nut threads sheared and failed during flight",
+      "trigger": "Recovered acme nut thread remnants wrapped around the acme screw showed evidence of incremental shearing and fracture; the nut's interior showed only small ridges where threads had been attached",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Finite element analysis showed that at high levels of thread wear, bending stresses develop that are significantly larger than stresses from direct contact, leading to incremental bending-induced shear fracture"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Horizontal stabilizer trim control system jammed",
+      "trigger": "At 1349:51, the horizontal stabilizer stopped responding to autopilot and pilot commands; subsequent troubleshooting revealed that the primary trim motor produced electrical spikes but the control surface did not move, and the alternate trim system produced no response",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "As the acme nut thread remnants sheared off and were pulled upward by aerodynamic loads, the resulting ridges in the nut contacted and bound with the acme screw threads, creating a mechanical jam"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Flight crew made repeated troubleshooting attempts with primary trim motor",
+      "trigger": "At 1608:59, after discussing with maintenance, the captain stated 'I'm gonna click it off' and at 1609:14.8 stated 'this'll click it off,' then activated the primary trim system; the aircraft had been trimmed at 0.4 degrees nose-down since 1349:51",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "The flight crew's troubleshooting attempts went beyond what the checklist recommended and were driven by their inability to move the jammed horizontal stabilizer"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncontrolled flight beginning at 1609:16 - aircraft pitched nose-down uncontrollably",
+      "trigger": "At 1609:16, when the autopilot was disengaged and the primary trim was activated, the horizontal stabilizer moved from 0.4 degrees to beyond 2.5 degrees nose-down within 3-4 seconds; the aircraft pitched nose-down at approximately 25 degrees per second, beginning an 80-second dive from 31,050 feet to 23,000-24,000 feet",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "The operation of the primary trim motor provided enough force to overcome the jam; the acme screw pulled upward through the acme nut as aerodynamic loads increased, moving the horizontal stabilizer to extreme nose-down position"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Torque tube and vertical stabilizer structural failures during uncontrolled flight",
+      "trigger": "At 1619:21, a series of faint thumps were recorded; at 1619:36.6, an extremely loud noise was recorded as the fairing brackets failed; metallurgical examination revealed the torque tube had a low-cycle fatigue crack and failed under the combined tension and bending loads created by the jammed and partially freed horizontal stabilizer moving within the constrained space",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "Low-cycle fatigue analysis established that the magnitude and frequency of loads on the torque tube after complete shearing of the acme nut threads would initiate and propagate low-cycle fatigue cracking; Boeing static load testing showed the offset loading condition created by the jammed stop lugs reduced the fracture load to 25,576 pounds"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Aircraft impacted Pacific Ocean",
+      "trigger": "At 1620:56.3, the flight data recorder stopped recording and the aircraft impacted the ocean at 34°03.5' north latitude and 119°20.8' west longitude, approximately 2.7 miles north of Anacapa Island, California; the aircraft was descending at a steep angle with a maximum recorded pitch angle of -70 degrees nose-down and rolling through an inverted position",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "The structural failures allowed the horizontal stabilizer to move beyond 14 degrees nose-down, creating an excessive upward aerodynamic tail load that caused uncontrollable downward pitching from which recovery was not possible"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All 88 occupants killed",
+      "trigger": "The Ventura County Coroner's report stated that all occupants died as a result of blunt force impact trauma from the high-energy water impact at an estimated 353 knots indicated airspeed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "The aircraft was destroyed by impact forces; no occupiable space remained intact"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

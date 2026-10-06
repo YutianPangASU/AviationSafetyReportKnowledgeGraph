@@ -1,0 +1,156 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Electrical defect in weather radar system or associated wiring",
+      "trigger": "Weather radar went blank and produced burning electrical odor during flight on July 9",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Weather radar malfunction with burning smell",
+      "trigger": "Radar went blank during cruise flight...smell of electrical components burning turned off unit – pulled radar [circuit breaker]",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Latent defect manifests as system malfunction with burning odor"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "No investigation, diagnosis, repair, or proper deactivation of reported discrepancy",
+      "trigger": "no one examined the airplane to investigate the discrepancy; no company personnel...removed the airplane from service...or deactivated the weather radar system, collaring the associated circuit breaker",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Weather radar discrepancy reported on July 9 but not properly addressed"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Aircraft released for flight despite known unresolved maintenance discrepancy",
+      "trigger": "the aviation director, DOM, and chief pilot discussed the weather radar discrepancy...and agreed that the airplane could be flown",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Inadequate maintenance response led management to permit flight with unresolved discrepancy"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilots operate aircraft despite knowledge of unresolved maintenance discrepancy",
+      "trigger": "the ATP and the commercial pilot...accepted the airplane as made available by NASCAR management and maintenance personnel, despite the fact that no diagnostic, corrective, or interim maintenance action had been taken",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Aircraft made available by management; both pilots had information about the discrepancy but proceeded anyway"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot resets weather radar circuit breaker during preflight",
+      "trigger": "it is likely that one of the pilots, consistent with routine and/or the Before Starting Engines checklist, reset the weather radar circuit breaker",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Pilots initiated preflight procedures including normal circuit breaker reset checklist"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "In-flight fire develops in weather radar wiring",
+      "trigger": "smoke in the cockpit we need…to land at Sanford",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Latent electrical defect in weather radar wiring becomes active when power restored"
+        },
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Circuit breaker reset restored electrical power to defective system"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft enters steep bank and turns sharply westward away from airport",
+      "trigger": "the airplane entered a steep bank and made a sharp turn to the west",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "In-flight fire with smoke and heat caused distraction, control loss, or intentional diversion away from airport"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft crashes into residential area",
+      "trigger": "the airplane subsequently crashed in a residential area about 0.7 nautical miles west",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "Steep turn and descent into residential area while maneuvering"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Five fatalities and four serious injuries; two homes destroyed",
+      "trigger": "two pilots on board the airplane...and three people on the ground were killed. Four people on the ground received serious injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "Impact forces and post-crash fire"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

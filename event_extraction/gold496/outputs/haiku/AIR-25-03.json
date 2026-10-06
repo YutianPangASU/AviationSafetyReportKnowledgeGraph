@@ -1,0 +1,120 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "BIRD_OR_WILDLIFE_STRIKE",
+      "label": "Bird ingested into left LEAP-1B engine during initial climb",
+      "trigger": "a bird was ingested into the left (No. 1) engine, a CFM International LEAP-1B, during the initial climb",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Left engine severely damaged with loss of thrust",
+      "trigger": "the airplane began to 'shake violently with a distinct loss of thrust' in the No. 1 engine",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "bird was ingested into the left engine; airplane began to shake violently with distinct loss of thrust"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "LEAP-1B latent design defect: LRD activation can dislodge oil supply tubes",
+      "trigger": "Activation of the LRD in the MSY event caused tubes supplying oil to the engine sump to become dislodged and the flange from the sump area to open, which allowed oil to enter the core compressor",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "FUEL_SYSTEM_ANOMALY",
+      "label": "LRD mechanical action dislodges oil tubes and sump flange; oil enters core compressor",
+      "trigger": "Activation of the LRD...caused tubes supplying oil to the engine sump to become dislodged and the flange from the sump area to open, which allowed oil to enter the core compressor upstream of the pneumatic bleed ports",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "LRD automatically activates during blade failure to reduce vibration transmission"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "latent design defect allows LRD mechanical disconnection to damage oil system"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Oil exposed to high temperature in compressor; smoke and fumes generated",
+      "trigger": "The oil was exposed to high temperatures and resulted in smoke and fumes that were then fed into the cockpit",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "oil entered core compressor and was exposed to high temperatures"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Acrid white smoke fills cockpit; pilot visibility severely reduced",
+      "trigger": "the flight deck filled with 'acrid white smoke'; the captain could see nothing beyond the FO; his instrument panel was difficult to see",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "smoke and fumes fed into cockpit via bleed air system from left engine"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "unknown",
+      "label": "First officer executes Engine Fire checklist, pulls fire switch; PRSOV closes",
+      "trigger": "FO pulled the engine fire switch as directed by the QRC...the smoke began to rapidly dissipate because [PRSOV] automatically closed",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "crew responded to smoke-filled cockpit emergency by executing emergency procedures"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "SUCCESSFUL_RECOVERY",
+      "label": "Emergency landing executed successfully; no injuries",
+      "trigger": "After landing at MSY, the airplane came to a full stop on the arrival runway...None of the 139 occupants aboard the airplane were injured, and the airplane sustained minor damage",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "smoke dissipation following fire switch pull enabled safe emergency landing"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

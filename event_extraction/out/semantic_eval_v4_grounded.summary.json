@@ -1,0 +1,12 @@
+{
+  "tag": "v4-grounded",
+  "extraction_file": "event_extraction/out/calibration_2k_v4_grounded.jsonl",
+  "n_records_evaluated": 1998,
+  "n_factors_total": 3475,
+  "n_factors_matched": 3236,
+  "recall": 0.9312230215827338,
+  "n_events_total": 11256,
+  "n_events_matched_to_a_factor": 3450,
+  "precision": 0.30650319829424305,
+  "mean_per_record_recall": 0.9220839887506554
+}

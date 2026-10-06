@@ -1,0 +1,92 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Chose to fly north up East River in restricted airspace",
+      "trigger": "Intent was to circle the Statue of Liberty; flew north over East River heading toward Roosevelt Island",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LOW_ALTITUDE_OPERATION",
+      "label": "Aircraft at low altitude with minimal recovery margin",
+      "trigger": "Altitude of 600 feet before the 180-degree turn was initiated",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Easterly wind causing westward drift",
+      "trigger": "13-knot easterly wind caused a measurable westward drift, reducing effective turning space",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Failed to plan adequate turning space; positioned aircraft in middle of river instead of maximizing available width",
+      "trigger": "Aircraft in middle of East Channel at start of turn rather than at eastern shoreline; did not use full available river width for maneuver",
+      "cause_role": "primary",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "Decision to fly in this area necessitated precise turning maneuver"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Initiated turn at insufficient bank angle, then increased to dangerous level during execution",
+      "trigger": "Turn initiated at 40-45 degrees bank angle; required minimum was 50 degrees; pilots increased bank angle to attempt completion of 180-degree turn",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "Poor initial positioning forced compensatory bank angle increase in flight"},
+        {"src": 1, "strength": "contributing", "evidence": "Low altitude left no margin for recovery if stall occurred"},
+        {"src": 2, "strength": "contributing", "evidence": "Wind increased turning difficulty and required tighter parameters"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall during steep left turn",
+      "trigger": "Bank angle exceeded 61-degree critical threshold; pilots put airplane into aerodynamic stall while pulling through turn",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 4, "strength": "direct", "evidence": "Excessive bank angle exceeded wing stall margin"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of aircraft control following stall at low altitude",
+      "trigger": "Airplane wobbling side to side with pitch-down attitude at steep bank angle; altitude loss indicated by radar and descent below ground observer's view",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "Stall at 600 feet altitude prevented aerodynamic recovery"}]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted apartment building",
+      "trigger": "Aircraft impacted 32nd-33rd floors of apartment building at 524 East 72nd Street, 333 feet above street level",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "Uncontrolled descent into building from stalled flight condition"}]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatalities and injuries resulting from impact",
+      "trigger": "Two pilots on board were killed; one person on ground sustained serious injuries; two people on ground sustained minor injuries",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "High-speed aircraft impact with occupied building"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

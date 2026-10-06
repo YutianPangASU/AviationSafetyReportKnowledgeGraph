@@ -1,0 +1,135 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Instrument meteorological conditions with snow and low visibility",
+      "trigger": "snow falling at Jefferson County Airport with 1 mile visibility in light snow and 200-foot ceiling",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Complete loss of a.c. electrical power in flight",
+      "trigger": "airplane stopped transmitting mode C altitude information; volt/frequency meter showed 380-Hz/100-volt position indicating no a.c. power was available",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Primary flight instruments on pilot's side rendered inoperative",
+      "trigger": "complete loss of a.c. power caused altimeter, attitude indicator, HSI, radio altimeter, RMI, and altitude preselect instruments to fail; only airspeed and turn-slip indicators remained functional",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "a.c. power loss disabled a.c.-powered instruments on pilot's side; air data computer outputs were unavailable"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "Pilot became spatially disoriented",
+      "trigger": "pilot lost primary flight instruments and did not appropriately manage workload to establish and maintain positive control; relied on vestibular cues without visual or instrument reference in IMC",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "IMC conditions prevented visual reference to ground or horizon"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "loss of primary flight instruments removed reliable orientation cues; pilot would have been vulnerable to vestibular illusions"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft entered uncontrolled right spiral descent",
+      "trigger": "disoriented pilot entered gradual right turn below vestibular detection threshold; bank angle and descent rate increased continuously, reaching 15,000+ feet per minute descent and over 80-degree bank",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "pilot's spatial disorientation prevented detection and correction of developing right turn; pilot was unable to regain control despite descent rate increasing"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot executed severe pull-up maneuver at low altitude",
+      "trigger": "pilot pulled back hard on control column in recovery attempt, apparently after detecting ground proximity while emerging from cloud layer at several hundred feet altitude",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "pilot initiated pull-up in attempt to arrest descent from spiral"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Structural failure and in-flight breakup",
+      "trigger": "severe aerodynamic loading from pull-up exceeded structural limits; horizontal stabilizer fractured and separated first, followed by separation of right wing outboard section",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "pull-up maneuver at high airspeed (350+ knots) created aerodynamic loading sufficient to fracture and separate primary structures"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted rolling terrain",
+      "trigger": "aircraft struck ground at elevation 5,223 feet near Strasburg, Colorado; wreckage scattered over 2,800 feet",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "structural failure resulted in loss of flight control and descent to ground impact"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All 10 occupants killed",
+      "trigger": "all occupants were subjected to impact forces exceeding limits of human tolerance; cause of death was multiple massive blunt traumatic injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "high-energy ground impact with terrain at steep angle and high airspeed"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

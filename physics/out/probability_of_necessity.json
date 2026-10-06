@@ -1,0 +1,95 @@
+{
+  "heat_intake_warming_C": 30.0,
+  "p_ice_to_ef": 0.9278,
+  "P_other_causes": 0.2823,
+  "cases": {
+    "20001212X19636": {
+      "description": "delayed carburetor heat at glide power, partial power loss, forced landing to a grass strip",
+      "recorded": {
+        "T_C": 22.2,
+        "Td_C": 18.9
+      },
+      "chart_pi_no_heat": 0.8526,
+      "chart_pi_heat": 0.0,
+      "w_no_heat_hpa": 3.191,
+      "w_heat_hpa": 0.0,
+      "g_no_heat": 0.0275,
+      "g_heat": 0.0079,
+      "PN_icing_given_icing_observed": 0.713,
+      "P_EF_no_heat": 0.3006,
+      "P_EF_do_heat": 0.2875,
+      "PN_power_loss_given_weather_and_power_loss": 0.043,
+      "PN_power_loss_given_icing_and_power_loss": 0.501,
+      "tian_pearl_bounds_power_loss": [
+        0.043,
+        1.0
+      ]
+    },
+    "20141208X13517": {
+      "description": "carburetor heat off at low power in humid subfreezing air, total power loss on short final, collision with rising terrain (the appendix example)",
+      "recorded": {
+        "T_C": -12.2,
+        "Td_C": -12.8
+      },
+      "chart_pi_no_heat": 0.7294,
+      "chart_pi_heat": 0.1417,
+      "w_no_heat_hpa": 2.1782,
+      "w_heat_hpa": 0.2547,
+      "g_no_heat": 0.0251,
+      "g_heat": 0.0149,
+      "PN_icing_given_icing_observed": 0.405,
+      "P_EF_no_heat": 0.299,
+      "P_EF_do_heat": 0.2922,
+      "PN_power_loss_given_weather_and_power_loss": 0.023,
+      "PN_power_loss_given_icing_and_power_loss": 0.285,
+      "tian_pearl_bounds_power_loss": [
+        0.023,
+        1.0
+      ]
+    },
+    "20020225X00252": {
+      "description": "delayed carburetor heat, power loss in cruise, forced landing",
+      "recorded": {
+        "T_C": 2.8,
+        "Td_C": -6.1
+      },
+      "chart_pi_no_heat": 0.8644,
+      "chart_pi_heat": 0.0,
+      "w_no_heat_hpa": 3.3299,
+      "w_heat_hpa": 0.0,
+      "g_no_heat": 0.0275,
+      "g_heat": 0.0079,
+      "PN_icing_given_icing_observed": 0.713,
+      "P_EF_no_heat": 0.3006,
+      "P_EF_do_heat": 0.2875,
+      "PN_power_loss_given_weather_and_power_loss": 0.043,
+      "PN_power_loss_given_icing_and_power_loss": 0.501,
+      "tian_pearl_bounds_power_loss": [
+        0.043,
+        1.0
+      ]
+    },
+    "20200427X62554": {
+      "description": "carburetor heat turned off after run-up, ice accumulated on the ground, power loss on initial climb",
+      "recorded": {
+        "T_C": 13.9,
+        "Td_C": -2.8
+      },
+      "chart_pi_no_heat": 0.878,
+      "chart_pi_heat": 0.0,
+      "w_no_heat_hpa": 3.5059,
+      "w_heat_hpa": 0.0,
+      "g_no_heat": 0.0275,
+      "g_heat": 0.0079,
+      "PN_icing_given_icing_observed": 0.713,
+      "P_EF_no_heat": 0.3006,
+      "P_EF_do_heat": 0.2875,
+      "PN_power_loss_given_weather_and_power_loss": 0.043,
+      "PN_power_loss_given_icing_and_power_loss": 0.501,
+      "tian_pearl_bounds_power_loss": [
+        0.043,
+        1.0
+      ]
+    }
+  }
+}

@@ -1,0 +1,2759 @@
+{
+ "report_order": [
+  "AAB-06-04",
+  "AAB-07-02",
+  "AAB-01-02",
+  "AAB-07-04",
+  "AAR-77-09",
+  "AAB-06-01",
+  "AAB-07-01",
+  "AAB-06-05",
+  "AAB-06-06",
+  "AAB-07-03",
+  "AAR-08-03",
+  "AAB-02-04",
+  "AAB-06-07",
+  "AAR-09-01",
+  "AAR-94-02",
+  "AAB-06-03",
+  "AAB-01-01",
+  "AAB-02-02",
+  "AAR-12-01",
+  "AAR-09-04",
+  "AAR-81-15",
+  "AAB-02-05",
+  "AAB-04-01",
+  "AAB-00-01",
+  "AAR-97-02",
+  "AAR-14-04",
+  "AAR-16-01",
+  "AIR-23-01",
+  "AAR-06-03",
+  "AAR-13-01",
+  "AAR-03-01",
+  "AAB-02-03",
+  "AAR-96-07",
+  "AAR-17-03",
+  "AIR-24-04",
+  "AAR-07-02",
+  "AAR-09-02",
+  "AAR-05-02",
+  "AIR-24-01",
+  "AAB-02-06",
+  "AAR-10-05",
+  "AAR-13-02",
+  "AAB-04-02",
+  "AAR-04-03",
+  "AAR-21-02",
+  "AAR-21-04",
+  "AAR-97-05",
+  "AAR-15-03",
+  "AAR-97-01",
+  "AAR-96-04",
+  "AAR-07-04",
+  "AAR-96-03",
+  "AAR-07-03",
+  "AAR-09-05",
+  "AAR-96-05",
+  "AAR-96-06",
+  "AAR-97-04",
+  "AAR-06-01",
+  "AAR-05-01",
+  "AAR-19-02",
+  "AAR-97-03",
+  "AAR-21-01",
+  "AIR-24-02",
+  "AAR-06-02",
+  "AIR-24-07",
+  "AAB-02-01",
+  "AAR-03-03",
+  "AAR-20-01",
+  "AAR-08-02",
+  "AAR-17-01",
+  "AAR-15-01",
+  "AAR-12-02",
+  "AAR-10-04",
+  "AAR-20-02",
+  "AAR-09-06",
+  "AAR-06-04",
+  "AAR-98-01",
+  "AAR-04-02",
+  "AAR-07-06",
+  "AAR-00-02",
+  "AAR-08-01",
+  "AAR-17-02",
+  "AAR-09-03",
+  "AAR-07-07",
+  "AAR-09-07",
+  "AAR-86-02",
+  "AAR-94-01",
+  "AAR-11-04",
+  "AAR-98-03",
+  "AAR-15-02",
+  "AIR-22-05",
+  "AAR-14-03",
+  "AIR-18-01",
+  "AAR-11-03",
+  "AAR-03-02",
+  "AAR-16-03",
+  "AAR-10-02",
+  "AAR-18-02",
+  "AAR-18-01",
+  "AAR-90-06",
+  "AAR-11-05",
+  "AAR-98-02",
+  "AAR-16-02",
+  "AIR-14-01",
+  "AAR-11-02",
+  "AAR-21-05",
+  "AAR-14-02",
+  "AAR-11-01",
+  "AAR-07-05",
+  "AAR-10-03",
+  "AAR-04-01",
+  "AAR-10-06",
+  "AAR-01-01",
+  "AAR-14-01",
+  "AAR-96-01",
+  "AAR-04-04",
+  "AAR-01-02",
+  "AAR-97-06",
+  "AAR-10-01",
+  "AAR-02-01",
+  "AAR-00-01",
+  "AAR-00-03",
+  "AAR-99-01",
+  "AIR-26-02",
+  "AIR-25-06",
+  "AIR-24-05",
+  "AIR-22-08",
+  "AIR-23-02",
+  "AIR-22-04",
+  "AIR-22-03",
+  "AIR-22-02",
+  "AIR-25-02",
+  "AIR-25-03",
+  "AIR-25-01",
+  "AIR-22-10",
+  "AIR-25-05",
+  "AIR-22-06",
+  "AIR-22-07",
+  "AIR-22-01",
+  "AIR-25-07",
+  "AIR-24-06",
+  "AIR-22-09",
+  "AAB-13-02",
+  "AAR-88-03",
+  "AAR-97-04-R",
+  "AIR-26-01",
+  "AAB-13-01",
+  "AAR-79-07",
+  "AAR-85-02",
+  "AAR-95-05",
+  "AAB-12-01",
+  "AIR-24-03",
+  "AAR-19-01",
+  "AAR-19-04",
+  "AAR-19-03",
+  "AIR-25-04",
+  "AAR-96-02"
+ ],
+ "models": [
+  "opus",
+  "sonnet",
+  "haiku"
+ ],
+ "chunk_size": {
+  "opus": 24,
+  "sonnet": 24,
+  "haiku": 24
+ },
+ "deadline": "2026-08-09T18:00:00-05:00",
+ "tasks": {
+  "opus/AAB-06-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-07-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-01-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-07-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAR-77-09": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-06-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-07-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-06-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-06-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-07-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAR-08-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-02-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "opus/AAB-06-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAR-09-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAR-94-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAB-06-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAB-01-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAB-02-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAR-12-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAR-09-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAR-81-15": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAB-02-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAB-04-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAB-00-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAR-97-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAR-14-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AAR-16-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "opus/AIR-23-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-06-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-13-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-03-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAB-02-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-96-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-17-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AIR-24-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-07-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-09-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-05-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AIR-24-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAB-02-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-10-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-13-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAB-04-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-04-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-21-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "opus/AAR-21-04": {
+   "status": "done",
+   "attempts": 1,
+   "window": 5
+  },
+  "opus/AAR-97-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-15-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-97-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-96-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-07-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-96-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-07-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-09-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-96-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-96-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-97-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-06-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-05-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-19-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-97-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-21-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AIR-24-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-06-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AIR-24-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAB-02-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-03-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "opus/AAR-20-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-08-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-17-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-15-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-12-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-10-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-20-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-09-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-06-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-98-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-04-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-07-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-00-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-08-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-17-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-09-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-07-07": {
+   "status": "done",
+   "attempts": 1,
+   "window": 6
+  },
+  "opus/AAR-09-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-86-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-94-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-11-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-98-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AAR-15-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "opus/AIR-22-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-14-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AIR-18-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-11-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-03-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-16-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-10-02": {
+   "status": "invalid",
+   "attempts": 9,
+   "window": null
+  },
+  "opus/AAR-18-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-18-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-90-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-11-05": {
+   "status": "done",
+   "attempts": 2,
+   "window": 8
+  },
+  "opus/AAR-98-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-16-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AIR-14-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-11-02": {
+   "status": "done",
+   "attempts": 1,
+   "window": 7
+  },
+  "opus/AAR-21-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-14-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-11-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-07-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-10-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "opus/AAR-04-01": {
+   "status": "invalid",
+   "attempts": 9,
+   "window": null
+  },
+  "opus/AAR-10-06": {
+   "status": "done",
+   "attempts": 2,
+   "window": 8
+  },
+  "opus/AAR-01-01": {
+   "status": "invalid",
+   "attempts": 9,
+   "window": null
+  },
+  "opus/AAR-14-01": {
+   "status": "done",
+   "attempts": 2,
+   "window": 9
+  },
+  "opus/AAR-96-01": {
+   "status": "done",
+   "attempts": 1,
+   "window": 8
+  },
+  "opus/AAR-04-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AAR-01-02": {
+   "status": "done",
+   "attempts": 1,
+   "window": 8
+  },
+  "opus/AAR-97-06": {
+   "status": "invalid",
+   "attempts": 8,
+   "window": null
+  },
+  "opus/AAR-10-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AAR-02-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AAR-00-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AAR-00-03": {
+   "status": "invalid",
+   "attempts": 8,
+   "window": null
+  },
+  "opus/AAR-99-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AIR-26-02": {
+   "status": "done",
+   "attempts": 2,
+   "window": 9
+  },
+  "opus/AIR-25-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AIR-24-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AIR-22-08": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AIR-23-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AIR-22-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AIR-22-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AIR-22-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "opus/AIR-25-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-25-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-25-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-22-10": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-25-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-22-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-22-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-22-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-25-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-24-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AIR-22-09": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AAB-13-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AAR-88-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "opus/AAR-97-04-R": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AIR-26-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AAB-13-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AAR-79-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AAR-85-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AAR-95-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AAB-12-01": {
+   "status": "done",
+   "attempts": 1,
+   "window": 10
+  },
+  "opus/AIR-24-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AAR-19-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AAR-19-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AAR-19-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AIR-25-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "opus/AAR-96-02": {
+   "status": "done",
+   "attempts": 1,
+   "window": 10
+  },
+  "sonnet/AAB-06-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-07-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-01-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-07-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAR-77-09": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-06-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-07-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-06-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-06-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-07-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAR-08-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-02-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "sonnet/AAB-06-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAR-09-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAR-94-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAB-06-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAB-01-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAB-02-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAR-12-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAR-09-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAR-81-15": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAB-02-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAB-04-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAB-00-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAR-97-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAR-14-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AAR-16-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "sonnet/AIR-23-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-06-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-13-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-03-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAB-02-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-96-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-17-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AIR-24-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-07-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-09-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-05-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AIR-24-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAB-02-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-10-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-13-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAB-04-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-04-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-21-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "sonnet/AAR-21-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-97-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-15-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-97-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-96-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-07-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-96-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-07-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-09-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-96-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-96-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-97-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-06-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-05-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-19-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-97-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-21-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AIR-24-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-06-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AIR-24-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAB-02-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-03-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "sonnet/AAR-20-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-08-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-17-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-15-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-12-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-10-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-20-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-09-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-06-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-98-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-04-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-07-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-00-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-08-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-17-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-09-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-07-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-09-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-86-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-94-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-11-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-98-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-15-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AIR-22-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "sonnet/AAR-14-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AIR-18-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-11-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-03-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-16-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-10-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-18-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-18-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-90-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-11-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-98-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-16-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AIR-14-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-11-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-21-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-14-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-11-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-07-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-10-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-04-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-10-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-01-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-14-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-96-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "sonnet/AAR-04-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AAR-01-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AAR-97-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AAR-10-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AAR-02-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AAR-00-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AAR-00-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AAR-99-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-26-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-25-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-24-05": {
+   "status": "done",
+   "attempts": 1,
+   "window": 8
+  },
+  "sonnet/AIR-22-08": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-23-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-22-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-22-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-22-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-25-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-25-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-25-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-22-10": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-25-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-22-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-22-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-22-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "sonnet/AIR-25-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AIR-24-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AIR-22-09": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAB-13-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAR-88-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAR-97-04-R": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AIR-26-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAB-13-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAR-79-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAR-85-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAR-95-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAB-12-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AIR-24-03": {
+   "status": "invalid",
+   "attempts": 7,
+   "window": null
+  },
+  "sonnet/AAR-19-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAR-19-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAR-19-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AIR-25-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "sonnet/AAR-96-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "haiku/AAB-06-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "haiku/AAB-07-02": {
+   "status": "invalid",
+   "attempts": 14,
+   "window": null
+  },
+  "haiku/AAB-01-02": {
+   "status": "done",
+   "attempts": 1,
+   "window": 2
+  },
+  "haiku/AAB-07-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "haiku/AAR-77-09": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "haiku/AAB-06-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "haiku/AAB-07-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 1
+  },
+  "haiku/AAB-06-05": {
+   "status": "done",
+   "attempts": 1,
+   "window": 2
+  },
+  "haiku/AAB-06-06": {
+   "status": "done",
+   "attempts": 2,
+   "window": 4
+  },
+  "haiku/AAB-07-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "haiku/AAR-08-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "haiku/AAB-02-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "haiku/AAB-06-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "haiku/AAR-09-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "haiku/AAR-94-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 2
+  },
+  "haiku/AAB-06-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "haiku/AAB-01-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "haiku/AAB-02-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "haiku/AAR-12-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "haiku/AAR-09-04": {
+   "status": "done",
+   "attempts": 1,
+   "window": 4
+  },
+  "haiku/AAR-81-15": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "haiku/AAB-02-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "haiku/AAB-04-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "haiku/AAB-00-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "haiku/AAR-97-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 3
+  },
+  "haiku/AAR-14-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "haiku/AAR-16-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "haiku/AIR-23-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "haiku/AAR-06-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "haiku/AAR-13-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "haiku/AAR-03-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "haiku/AAB-02-03": {
+   "status": "done",
+   "attempts": 1,
+   "window": 5
+  },
+  "haiku/AAR-96-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "haiku/AAR-17-03": {
+   "status": "invalid",
+   "attempts": 11,
+   "window": null
+  },
+  "haiku/AIR-24-04": {
+   "status": "done",
+   "attempts": 1,
+   "window": 5
+  },
+  "haiku/AAR-07-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "haiku/AAR-09-02": {
+   "status": "done",
+   "attempts": 1,
+   "window": 5
+  },
+  "haiku/AAR-05-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 4
+  },
+  "haiku/AIR-24-01": {
+   "status": "done",
+   "attempts": 1,
+   "window": 6
+  },
+  "haiku/AAB-02-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "haiku/AAR-10-05": {
+   "status": "done",
+   "attempts": 2,
+   "window": 7
+  },
+  "haiku/AAR-13-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "haiku/AAB-04-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "haiku/AAR-04-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "haiku/AAR-21-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "haiku/AAR-21-04": {
+   "status": "done",
+   "attempts": 1,
+   "window": 6
+  },
+  "haiku/AAR-97-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "haiku/AAR-15-03": {
+   "status": "done",
+   "attempts": 2,
+   "window": 7
+  },
+  "haiku/AAR-97-01": {
+   "status": "done",
+   "attempts": 1,
+   "window": 6
+  },
+  "haiku/AAR-96-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "haiku/AAR-07-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 5
+  },
+  "haiku/AAR-96-03": {
+   "status": "done",
+   "attempts": 2,
+   "window": 7
+  },
+  "haiku/AAR-07-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-09-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-96-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-96-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-97-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-06-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-05-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-19-02": {
+   "status": "invalid",
+   "attempts": 9,
+   "window": null
+  },
+  "haiku/AAR-97-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-21-01": {
+   "status": "done",
+   "attempts": 1,
+   "window": 7
+  },
+  "haiku/AIR-24-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-06-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AIR-24-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAB-02-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-03-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 6
+  },
+  "haiku/AAR-20-01": {
+   "status": "done",
+   "attempts": 1,
+   "window": 8
+  },
+  "haiku/AAR-08-02": {
+   "status": "done",
+   "attempts": 1,
+   "window": 8
+  },
+  "haiku/AAR-17-01": {
+   "status": "invalid",
+   "attempts": 8,
+   "window": null
+  },
+  "haiku/AAR-15-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-12-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-10-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-20-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-09-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-06-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-98-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-04-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-07-06": {
+   "status": "done",
+   "attempts": 1,
+   "window": 8
+  },
+  "haiku/AAR-00-02": {
+   "status": "invalid",
+   "attempts": 8,
+   "window": null
+  },
+  "haiku/AAR-08-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-17-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-09-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 7
+  },
+  "haiku/AAR-07-07": {
+   "status": "invalid",
+   "attempts": 8,
+   "window": null
+  },
+  "haiku/AAR-09-07": {
+   "status": "invalid",
+   "attempts": 8,
+   "window": null
+  },
+  "haiku/AAR-86-02": {
+   "status": "invalid",
+   "attempts": 8,
+   "window": null
+  },
+  "haiku/AAR-94-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "haiku/AAR-11-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "haiku/AAR-98-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "haiku/AAR-15-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "haiku/AIR-22-05": {
+   "status": "done",
+   "attempts": 1,
+   "window": 9
+  },
+  "haiku/AAR-14-03": {
+   "status": "invalid",
+   "attempts": 7,
+   "window": null
+  },
+  "haiku/AIR-18-01": {
+   "status": "invalid",
+   "attempts": 7,
+   "window": null
+  },
+  "haiku/AAR-11-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "haiku/AAR-03-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "haiku/AAR-16-03": {
+   "status": "done",
+   "attempts": 2,
+   "window": 10
+  },
+  "haiku/AAR-10-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 8
+  },
+  "haiku/AAR-18-02": {
+   "status": "done",
+   "attempts": 1,
+   "window": 9
+  },
+  "haiku/AAR-18-01": {
+   "status": "done",
+   "attempts": 1,
+   "window": 9
+  },
+  "haiku/AAR-90-06": {
+   "status": "done",
+   "attempts": 2,
+   "window": 10
+  },
+  "haiku/AAR-11-05": {
+   "status": "done",
+   "attempts": 1,
+   "window": 9
+  },
+  "haiku/AAR-98-02": {
+   "status": "invalid",
+   "attempts": 6,
+   "window": null
+  },
+  "haiku/AAR-16-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "haiku/AIR-14-01": {
+   "status": "done",
+   "attempts": 2,
+   "window": 11
+  },
+  "haiku/AAR-11-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "haiku/AAR-21-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "haiku/AAR-14-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "haiku/AAR-11-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "haiku/AAR-07-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "haiku/AAR-10-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 9
+  },
+  "haiku/AAR-04-01": {
+   "status": "done",
+   "attempts": 2,
+   "window": 11
+  },
+  "haiku/AAR-10-06": {
+   "status": "done",
+   "attempts": 2,
+   "window": 11
+  },
+  "haiku/AAR-01-01": {
+   "status": "done",
+   "attempts": 2,
+   "window": 12
+  },
+  "haiku/AAR-14-01": {
+   "status": "done",
+   "attempts": 1,
+   "window": 11
+  },
+  "haiku/AAR-96-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AAR-04-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AAR-01-02": {
+   "status": "done",
+   "attempts": 1,
+   "window": 11
+  },
+  "haiku/AAR-97-06": {
+   "status": "done",
+   "attempts": 1,
+   "window": 11
+  },
+  "haiku/AAR-10-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AAR-02-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AAR-00-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AAR-00-03": {
+   "status": "pending",
+   "attempts": 3,
+   "window": null
+  },
+  "haiku/AAR-99-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AIR-26-02": {
+   "status": "invalid",
+   "attempts": 5,
+   "window": null
+  },
+  "haiku/AIR-25-06": {
+   "status": "done",
+   "attempts": 1,
+   "window": 0
+  },
+  "haiku/AIR-24-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AIR-22-08": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AIR-23-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AIR-22-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 10
+  },
+  "haiku/AIR-22-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-22-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-25-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-25-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-25-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-22-10": {
+   "status": "done",
+   "attempts": 1,
+   "window": 12
+  },
+  "haiku/AIR-25-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-22-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-22-07": {
+   "status": "done",
+   "attempts": 1,
+   "window": 12
+  },
+  "haiku/AIR-22-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-25-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-24-06": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AIR-22-09": {
+   "status": "done",
+   "attempts": 0,
+   "window": 11
+  },
+  "haiku/AAB-13-02": {
+   "status": "invalid",
+   "attempts": 4,
+   "window": null
+  },
+  "haiku/AAR-88-03": {
+   "status": "done",
+   "attempts": 0,
+   "window": 12
+  },
+  "haiku/AAR-97-04-R": {
+   "status": "done",
+   "attempts": 0,
+   "window": 12
+  },
+  "haiku/AIR-26-01": {
+   "status": "done",
+   "attempts": 0,
+   "window": 12
+  },
+  "haiku/AAB-13-01": {
+   "status": "invalid",
+   "attempts": 3,
+   "window": null
+  },
+  "haiku/AAR-79-07": {
+   "status": "done",
+   "attempts": 0,
+   "window": 12
+  },
+  "haiku/AAR-85-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 12
+  },
+  "haiku/AAR-95-05": {
+   "status": "done",
+   "attempts": 0,
+   "window": 12
+  },
+  "haiku/AAB-12-01": {
+   "status": "done",
+   "attempts": 2,
+   "window": 13
+  },
+  "haiku/AIR-24-03": {
+   "status": "invalid",
+   "attempts": 3,
+   "window": null
+  },
+  "haiku/AAR-19-01": {
+   "status": "invalid",
+   "attempts": 3,
+   "window": null
+  },
+  "haiku/AAR-19-04": {
+   "status": "done",
+   "attempts": 0,
+   "window": 12
+  },
+  "haiku/AAR-19-03": {
+   "status": "invalid",
+   "attempts": 3,
+   "window": null
+  },
+  "haiku/AIR-25-04": {
+   "status": "invalid",
+   "attempts": 3,
+   "window": null
+  },
+  "haiku/AAR-96-02": {
+   "status": "done",
+   "attempts": 0,
+   "window": 12
+  }
+ },
+ "runs": [
+  {
+   "window": 1,
+   "started": "2026-08-06T20:59:39",
+   "per_model": {
+    "opus": {
+     "attempted": 12,
+     "cli_ok": 12
+    },
+    "sonnet": {
+     "attempted": 12,
+     "cli_ok": 12
+    },
+    "haiku": {
+     "attempted": 8,
+     "cli_ok": 8
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 2,
+   "started": "2026-08-07T03:07:24",
+   "per_model": {
+    "opus": {
+     "attempted": 15,
+     "cli_ok": 15
+    },
+    "sonnet": {
+     "attempted": 15,
+     "cli_ok": 15
+    },
+    "haiku": {
+     "attempted": 10,
+     "cli_ok": 10
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 3,
+   "started": "2026-08-07T09:16:42",
+   "per_model": {
+    "opus": {
+     "attempted": 18,
+     "cli_ok": 18
+    },
+    "sonnet": {
+     "attempted": 18,
+     "cli_ok": 18
+    },
+    "haiku": {
+     "attempted": 12,
+     "cli_ok": 12
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 4,
+   "started": "2026-08-07T15:25:47",
+   "per_model": {
+    "opus": {
+     "attempted": 22,
+     "cli_ok": 22
+    },
+    "sonnet": {
+     "attempted": 22,
+     "cli_ok": 22
+    },
+    "haiku": {
+     "attempted": 15,
+     "cli_ok": 15
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 5,
+   "started": "2026-08-07T21:33:15",
+   "per_model": {
+    "opus": {
+     "attempted": 24,
+     "cli_ok": 24
+    },
+    "sonnet": {
+     "attempted": 24,
+     "cli_ok": 24
+    },
+    "haiku": {
+     "attempted": 18,
+     "cli_ok": 18
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 6,
+   "started": "2026-08-08T03:32:36",
+   "per_model": {
+    "opus": {
+     "attempted": 24,
+     "cli_ok": 24
+    },
+    "sonnet": {
+     "attempted": 24,
+     "cli_ok": 24
+    },
+    "haiku": {
+     "attempted": 22,
+     "cli_ok": 22
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 7,
+   "started": "2026-08-08T09:23:53",
+   "per_model": {
+    "opus": {
+     "attempted": 24,
+     "cli_ok": 24
+    },
+    "sonnet": {
+     "attempted": 24,
+     "cli_ok": 24
+    },
+    "haiku": {
+     "attempted": 24,
+     "cli_ok": 24
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 8,
+   "started": "2026-08-08T15:23:04",
+   "per_model": {
+    "opus": {
+     "attempted": 24,
+     "cli_ok": 24
+    },
+    "sonnet": {
+     "attempted": 19,
+     "cli_ok": 19
+    },
+    "haiku": {
+     "attempted": 24,
+     "cli_ok": 24
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 9,
+   "started": "2026-08-08T21:12:05",
+   "per_model": {
+    "opus": {
+     "attempted": 17,
+     "cli_ok": 17
+    },
+    "sonnet": {
+     "attempted": 1,
+     "cli_ok": 1
+    },
+    "haiku": {
+     "attempted": 24,
+     "cli_ok": 24
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 10,
+   "started": "2026-08-09T03:01:29",
+   "per_model": {
+    "opus": {
+     "attempted": 2,
+     "cli_ok": 2
+    },
+    "sonnet": {
+     "attempted": 1,
+     "cli_ok": 1
+    },
+    "haiku": {
+     "attempted": 24,
+     "cli_ok": 23
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 11,
+   "started": "2026-08-09T08:58:19",
+   "per_model": {
+    "opus": {
+     "attempted": 0,
+     "cli_ok": 0
+    },
+    "sonnet": {
+     "attempted": 0,
+     "cli_ok": 0
+    },
+    "haiku": {
+     "attempted": 24,
+     "cli_ok": 23
+    }
+   },
+   "quota_hit": []
+  },
+  {
+   "window": 12,
+   "started": "2026-08-09T14:56:37",
+   "per_model": {
+    "opus": {
+     "attempted": 0,
+     "cli_ok": 0
+    },
+    "sonnet": {
+     "attempted": 0,
+     "cli_ok": 0
+    },
+    "haiku": {
+     "attempted": 20,
+     "cli_ok": 19
+    }
+   },
+   "quota_hit": []
+  }
+ ]
+}

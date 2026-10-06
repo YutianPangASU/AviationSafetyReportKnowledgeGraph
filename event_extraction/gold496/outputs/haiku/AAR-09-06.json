@@ -1,0 +1,165 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Unexpected flight control forces and difficulty maintaining control",
+      "trigger": "Captain stated 'why am I fighting the controls here?' (1557:51) and 'It wants to turn hard left' (1558:21); investigation determined cause was either inadvertent autopilot engagement or pitch trim anomaly but could not definitively establish which",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "First officer severely undertrained for aircraft type and emergency operations",
+      "trigger": "Prior pilot interviews describing first officer as having 'no idea how the airplane operated', tendency to 'act without thinking', would 'get overloaded easily'; most recent Citation-specific simulator training November 2001",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain failed to reduce airspeed while troubleshooting control problem",
+      "trigger": "Aircraft accelerated rather than reducing power; performance study indicates 'aircraft would have been controllable if the captain had not allowed the airspeed and resulting control forces to increase while he tried to troubleshoot'",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Abnormal flight control problem prompted troubleshooting approach rather than prioritizing airspeed reduction"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Pilots did not consult emergency checklists or abnormal procedures",
+      "trigger": "CVR evidence: 'CVR recorded no evidence that the pilots performed any of these autopilot or abnormal procedure checklist'; pilots engaged in 'haphazard troubleshooting process'",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Emergency situation not handled with systematic checklist-based approach"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "First officer's poor proficiency prevented systematic procedural response"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Inadequate coordination and communication between pilots during emergency",
+      "trigger": "'Haphazard and confusing troubleshooting process...often hindered by the pilots' inadequate coordination'; first officer made unannounced trim inputs and other uncoordinated actions",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Emergency situation required coordinated response; pilots did not establish effective coordination"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "First officer's poor proficiency made effective crew coordination impossible"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "First officer makes uncoordinated and unannounced aileron/rudder trim inputs",
+      "trigger": "First officer stated 'how's that, any better?' (~1559); 'It is likely that the first officer's trim inputs aggravated, rather than ameliorated, the situation'; performance study showed aircraft handling worsened",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "First officer attempted to assist captain with control problem"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "First officer's poor proficiency resulted in inappropriate and ineffective trim inputs"
+        },
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Lack of coordination resulted in unannounced, uncoordinated trim manipulations"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft enters uncontrolled descent and rolls left into steep nose-down attitude",
+      "trigger": "Captain stated 'she's rolling on me. Help me, help me' (1559:19); radar and wreckage data show aircraft impacted water in steep nose-down, left-wing-low attitude",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "High airspeed created control forces that exceeded pilot ability to manage; control forces became unmanageable"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Failure to follow systematic procedures prevented orderly identification and resolution"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Poor coordination prevented effective response to escalating control problem"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "Uncoordinated trim inputs aggravated aircraft instability"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Cessna Citation 550 impacted Lake Michigan at high speed in steep nose-down, left-wing-low attitude",
+      "trigger": "'Airplane impacted Lake Michigan at a speed of about 243 knots, in a steep (about 42°) nose-down, left-wing-low attitude'",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Loss of control resulted in uncontrolled descent into water"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Six occupants killed: two pilots and four passengers",
+      "trigger": "'The two pilots and four passengers were killed, and the airplane was destroyed'",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "High-speed water impact in steep nose-down attitude was not survivable"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

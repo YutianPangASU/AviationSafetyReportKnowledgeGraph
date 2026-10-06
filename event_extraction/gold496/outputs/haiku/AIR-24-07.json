@@ -1,0 +1,149 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Lack of documented pre-briefed aircraft separation plan",
+      "trigger": "lack of an adequate, prebriefed aircraft separation plan for the air show performance",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "Air boss issued complex, unclear directives for fighter formation",
+      "trigger": "string of instructions the air boss provided...not clear; fighter lead pilot asked for clarification",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "relying instead on the air boss's real-time deconfliction directives"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Fighter pilots misunderstood show line assignments",
+      "trigger": "fighter lead pilot stated that he believed that the air boss told the fighters to fly down the 1,000-ft show line",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "directives were lengthy and not fully understood; only partial clarification provided"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Bell P-63F descended on converging flight path toward Boeing B-17G",
+      "trigger": "Bell P-63F's flight path no longer curved toward the 1,000-ft show line but became somewhat straighter",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Bell P-63F followed fighter position 2 toward incorrect show line alignment"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Boeing B-17G cockpit structure obscured forward visibility",
+      "trigger": "view of the model Bell P-63 was obscured by the structure between the model Boeing B-17's forward and aft left side windows",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Boeing B-17G olive-drab camouflage color blended with ground",
+      "trigger": "olive-drab color on most of the airplane's upper fuselage and wings was difficult to discern against the simulated ground features",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Both pilots unable to see and avoid each other",
+      "trigger": "pilots had very limited opportunity to see and avoid each other; view obscured by aircraft structure and camouflage",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "structure between windows blocked view from 1321:44 to 1321:52"
+        },
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "aircraft color difficult to discern; little apparent motion reduced likelihood of visual detection"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "MIDAIR_COLLISION",
+      "label": "In-flight midair collision",
+      "trigger": "Bell P-63F airplane struck the Boeing B-17G near the trailing edge of the left wing",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "flight paths converged as Bell P-63F descended toward Boeing B-17G"
+        },
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "pilots were unable to perceive and take evasive action"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Both aircraft broke apart in flight",
+      "trigger": "both airplanes broke apart in flight; fire erupted in Boeing B-17G wing center section",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "impact forces from collision caused structural failure"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All six occupants fatally injured",
+      "trigger": "pilot, copilot, flight engineer, and two scanners on board the Boeing B-17G and the pilot of the Bell P-63F were fatally injured",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "inflight breakup and ground impact resulted in fatal injuries to all personnel"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

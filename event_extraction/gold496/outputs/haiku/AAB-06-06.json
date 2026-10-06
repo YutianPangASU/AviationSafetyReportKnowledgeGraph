@@ -1,0 +1,101 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "ILS frequency not activated until 1000 feet altitude",
+      "trigger": "The first officer did not switch the VHF NAV receivers from the HUB VOR frequency to the ILS frequency until the airplane was at an altitude of about 1,000 feet",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Misidentified fast/slow indicator for glideslope indicator",
+      "trigger": "The fast/slow indicator would have been centered within one dot during the approach sequence and the indications would have been consistent with the first officer's comments about the glideslope if he had mistaken the fast/slow indicator for the glideslope indicator",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Without ILS frequency selected, glideslope indicator was not visible on EADI, leaving only the fast/slow indicator available"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Airplane descended significantly below glideslope",
+      "trigger": "The airplane was at an altitude of about 1,700 feet and was 700 feet below the glideslope; the airplane remained 600 to 1,000 feet below the glideslope until impact",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Lack of valid ILS frequency selection prevented glideslope guidance"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Instrument misidentification led pilots to believe they were on correct descent path when actually well below"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Crew failed to call for missed approach on non-stabilized approach",
+      "trigger": "The CVR did not record either pilot call for a missed approach or initiate a go-around; glideslope would have shown deviation greater than one dot and descent rate exceeded 1,000 fpm",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Continued instrument misidentification prevented recognition of actual glideslope deviation"
+        },
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Airplane was in non-stabilized approach state requiring go-around per company procedures"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck light pole",
+      "trigger": "The airplane impacted a light pole at an altitude of about 198 feet and about 3 1/4 miles from the runway 4 threshold",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Failure to execute missed approach allowed continued descent to impact"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatalities of two pilots and flight attendant",
+      "trigger": "The two pilots and the flight attendant were killed; the airplane was destroyed by impact forces",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "High-speed impact with light pole was fatal"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

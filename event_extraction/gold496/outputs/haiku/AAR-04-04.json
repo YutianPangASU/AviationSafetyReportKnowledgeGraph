@@ -1,0 +1,76 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "TURBULENCE_ENCOUNTER",
+      "label": "Aircraft encountered wake turbulence from Japan Air Lines Flight 47",
+      "trigger": "FDR data indicated load factor excursions consistent with wake turbulence encounter at 0915:51, producing 0.4 G drop in normal load factor",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "First officer made series of excessive rudder pedal inputs",
+      "trigger": "FDR recorded rudder pedal movements from 0915:51.9 through 0915:58.5: 1.7 inches right to 1.7 inches left, 1.7 inches right, 2.0 inches right, 2.4 inches left, and 1.3 inches right",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "First officer reacted to second wake turbulence encounter by depressing right rudder pedal; subsequent alternating inputs resulted from misinterpretation of airplane response to initial input"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Vertical stabilizer separated from aft fuselage",
+      "trigger": "Right rear main attachment lug fractured at 0915:58.4; remaining attachment fittings fractured sequentially; vertical stabilizer separated from fuselage immediately after right rear lug failure",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Aerodynamic loads on vertical stabilizer were approximately two times the limit load design envelope; cyclic rudder pedal inputs led to increasing sideslip angles that produced extremely high aerodynamic loads exceeding ultimate design capability"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft entered uncontrolled descent after vertical stabilizer separation",
+      "trigger": "CVR recorded statements indicating loss of control; sideslip angle reached 31° at end of FDR recording; airplane entered spiral descent beyond recovery capability",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Separation of vertical stabilizer eliminated directional control capability; airplane's directional stability was severely compromised without vertical fin"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted residential area in Belle Harbor, New York",
+      "trigger": "Aircraft impacted ground at 40° 34' 37.59\" north latitude and 73° 51' 01.31\" west longitude near intersection of Newport Avenue and Beach 131st Street",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Uncontrolled descent from loss of control; aircraft impacted ground with high-energy impact"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

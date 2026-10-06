@@ -1,0 +1,111 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "Helicopter appeared small and stationary against complex Manhattan skyline background",
+      "trigger": "The helicopter would have remained a relatively small and stationary object in the airplane's windscreen until about 5 seconds before the collision and would have appeared below the horizon and against a complex background of buildings",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "TEB controller's nonpertinent phone conversation caused multiple ATC failures",
+      "trigger": "The TEB local controller initiated a telephone call unrelated to his work at 1150:32 that lasted until 1153:10, during which he failed to: (1) correct the pilot's incorrect frequency readback at 1152:20; (2) provide required traffic advisories despite three visible radar targets at 1152:19; and (3) timely transfer communications to EWR after the electronic radar handoff",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Airplane pilot read back incorrect EWR tower frequency",
+      "trigger": "At 1152:20, when the TEB controller instructed the pilot to contact EWR on 127.85, the pilot responded with 127.8",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Helicopter pilot operated at 1,100 feet instead of company-prescribed 1,000 feet",
+      "trigger": "According to Liberty Helicopters procedures and FAA-approved air tour safety plan, helicopters operating southbound on the west side of the Hudson River should maintain 1,000 feet, but this helicopter was observed at 1,100 feet",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Airplane pilot ineffective use of available TIS traffic information",
+      "trigger": "The airplane was equipped with TIS capability and should have received a traffic alert for the ascending helicopter beginning at 1152:42, 32 seconds before collision, but the pilot did not effectively use this electronic traffic information",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 1, "strength": "contributing", "evidence": "ATC controller's failure to correct frequency and provide traffic advisories resulted in pilot's focus on establishing communications instead of monitoring TIS"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Helicopter pilot ineffective use of available TIS traffic information",
+      "trigger": "The helicopter was equipped with TIS capability and should have received a traffic alert for the airplane beginning at 1152:37, 37 seconds before collision, but the helicopter's climb above 1,000 feet was not consistent with effective use of TIS data showing an airplane target converging at level flight 100 feet above normal route altitude",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "FAA regulations did not mandate vertical separation between local and transiting aircraft",
+      "trigger": "No federal regulations required air tour helicopters or local traffic to operate at a lower altitude than transiting aircraft; both local and transiting aircraft could use the same airspace from 1,000 to 1,300 feet",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "MIDAIR_COLLISION",
+      "label": "Midair collision between Piper PA-32R-300 and Eurocopter AS350BA",
+      "trigger": "At 1153:14 at 1,100 feet altitude, the airplane traveling at approximately 150 knots and helicopter at approximately 93 knots collided over Hudson River",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Helicopter appeared as small stationary object against complex background, difficult to detect until final seconds"},
+        {"src": 1, "strength": "direct", "evidence": "Failure to correct frequency, provide traffic advisories, and timely transfer communications prevented pilot from receiving avoidance guidance"},
+        {"src": 2, "strength": "direct", "evidence": "Pilot unable to establish communications with EWR due to incorrect frequency, missed critical avoidance instructions"},
+        {"src": 3, "strength": "contributing", "evidence": "Helicopter's climb to 1,100 feet placed both aircraft at same altitude, reducing safety margin"},
+        {"src": 4, "strength": "contributing", "evidence": "Airplane pilot did not effectively use TIS data showing ascending helicopter target"},
+        {"src": 5, "strength": "contributing", "evidence": "Helicopter pilot did not effectively use TIS data showing airplane target converging ahead"},
+        {"src": 6, "strength": "contributing", "evidence": "Lack of regulated vertical separation allowed both aircraft to occupy same 1,100-foot altitude"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Both aircraft impacted Hudson River",
+      "trigger": "The accident airplane and helicopter fell into the Hudson River following the midair collision",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "Collision caused both aircraft to lose structural integrity and descend into river"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All eight occupants killed",
+      "trigger": "The pilot and two passengers aboard the airplane and the pilot and five passengers aboard the helicopter were killed; Office of Chief Medical Examiner determined cause of death was blunt impact injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 8, "strength": "direct", "evidence": "Water impact and blunt force trauma from collision resulted in fatal injuries to all occupants"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

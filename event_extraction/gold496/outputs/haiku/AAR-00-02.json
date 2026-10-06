@@ -1,0 +1,176 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Misinterpretation of APLC landing distance data",
+      "trigger": "flight crew compared APLC runway data with landing distance on approach plate, incorrectly calculating 780-foot margin instead of actual 1,680-foot margin",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Decision to prioritize early touchdown and use MAX brakes",
+      "trigger": "based on misinterpreted landing distance data, captain decided to land at start of runway",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "direct", "evidence": "misinterpreted APLC data created false concern about stopping distance"}
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Large nose-down elevator input at 17 feet radio altitude",
+      "trigger": "captain moved elevator from ~12° nose-up to neutral position, 2 seconds before first touchdown",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 1, "strength": "direct", "evidence": "captain attempting to land early to ensure stopping distance"}
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Large nose-up elevator and throttle input ~1 second before first touchdown",
+      "trigger": "captain made nearly full nose-up elevator (~26°) and large throttle increase (TRA ~40° to ~70°) to compensate for increased sink rate",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 2, "strength": "direct", "evidence": "nose-down input destabilized flare and increased sink rate"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "First hard landing touchdown",
+      "trigger": "aircraft touched down at 0132:18.6 with 7° nose-up pitch attitude, 7.6 fps vertical speed at MLG, and 1.67 g vertical acceleration",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "large control inputs established high pitch and energy state at touchdown"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Large nose-down elevator input immediately after first touchdown",
+      "trigger": "within 0.5 seconds of first touchdown, captain initiated ~40° total elevator deflection change to land nose gear early",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "rapid nose-up pitching motion at first touchdown"},
+        {"src": 1, "strength": "contributing", "evidence": "captain's continuing concern to avoid long landing"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Bounce after first touchdown",
+      "trigger": "aircraft became airborne approximately 2 seconds after first touchdown due to landing gear strut compression and high pitch attitude",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "high pitch attitude and positive lift at first touchdown caused rebound"},
+        {"src": 5, "strength": "contributing", "evidence": "large nose-down input reduced weight on landing gear"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Large nose-up elevator input during bounce",
+      "trigger": "while airborne, captain commanded ~23° nose-up elevator with left rudder and right-wing-down aileron deflections",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "large nose-down input during bounce created need for pitch correction"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Failure to execute go-around from destabilized flare",
+      "trigger": "captain did not execute go-around despite multiple opportunities from destabilization through bounce",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 1, "strength": "contributing", "evidence": "concern about runway length discouraged go-around decision"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Second hard landing at excessive energy, sink rate, and roll angle",
+      "trigger": "aircraft touched down at 0132:21.6 with 13.5 fps vertical speed at MLG, 0.5g vertical acceleration, 9.5° right-wing-down roll, and -0.7° pitch attitude",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "large nose-up input during bounce resulted in high pitch rate and sink rate"},
+        {"src": 5, "strength": "direct", "evidence": "large nose-down input reduced vertical acceleration below 1.0g"},
+        {"src": 6, "strength": "direct", "evidence": "bounce conditions established altitude and timing for hard second impact"}
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "event",
+      "factor_type": "STRUCTURAL_OVERLOAD",
+      "label": "Right main landing gear structural overload",
+      "trigger": "second touchdown imparted 1,574,000 ft-lbs of energy into right MLG, which was 3.2 times the maximum certification energy limit",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 9, "strength": "direct", "evidence": "combination of 13.5 fps sink rate, 0.5g vertical acceleration, and 9.5° roll angle created structural overload"}
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Right wing rear spar fracture and structural cascade failures",
+      "trigger": "right wing rear spar fractured at landing gear attachment point; spar web and caps failed; inboard flap separated; right MLG attach points failed",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 10, "strength": "direct", "evidence": "landing gear overload transmitted massive energy to wing structure causing spar failure"}
+      ]
+    },
+    {
+      "idx": 12,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Right wing separation and structural disintegration",
+      "trigger": "right wing separated from fuselage; all three engines separated; right MLG completely separated; fuel tanks ruptured and spilled",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 11, "strength": "direct", "evidence": "rear spar failure initiated cascading structural failures and fuel tank rupture"}
+      ]
+    },
+    {
+      "idx": 13,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft ground impact and rollover",
+      "trigger": "aircraft rolled right-wing-down through 90°; right wing struck ground and separated; aircraft continued rolling inverted down runway 2,900 feet",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 9, "strength": "direct", "evidence": "high sink rate and right-wing-down roll angle initiated violent ground contact"},
+        {"src": 12, "strength": "direct", "evidence": "structural failure and wing separation caused uncontrolled rollover"}
+      ]
+    },
+    {
+      "idx": 14,
+      "class": "outcome",
+      "factor_type": "AIRCRAFT_DAMAGE_ONLY",
+      "label": "Aircraft destroyed by impact and postcrash fire",
+      "trigger": "aircraft valued at $112 million completely destroyed; fuel-fed postcrash fire erupted; all cargo destroyed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 13, "strength": "direct", "evidence": "impact forces ruptured fuel tanks and caused postcrash fire"},
+        {"src": 12, "strength": "direct", "evidence": "fuel spillage from ruptured tanks fed postcrash fire"}
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

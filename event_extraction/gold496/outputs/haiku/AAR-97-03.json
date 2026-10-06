@@ -1,0 +1,90 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Captain wearing unapproved monovision contact lenses",
+      "trigger": "The captain was wearing monovision (MV) contact lenses for vision correction when the accident occurred.",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Heavy rain, fog, and limited light conditions reducing visibility",
+      "trigger": "visibility of ½ and 1 mile in heavy rain and fog or mist; ceiling broken at 800 feet",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "label": "Approach over water (Flushing Bay) with absence of visible ground features",
+      "trigger": "the airplane was positioned over the waters of Flushing Bay (which appeared gray), with no visible structures to aid in visually judging distance and/or altitude",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "RUNWAY_CONDITION_HAZARD",
+      "label": "Runway 13 edge lights installed at irregular, non-uniform intervals",
+      "trigger": "runway lights were installed at irregular intervals; runway light spacing distances varied, with the most common distances between lights falling between 120 feet and 170 feet",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain misperceives aircraft altitude as higher than actual due to visual illusions",
+      "trigger": "about 4 to 5 seconds before the initial impact, when all of a sudden, [the] aim point shifted down into the lights; these illusions led the captain to perceive that the airplane was higher than it was",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "direct", "evidence": "the captain's use of MV contact lenses resulted in his (unrecognized) degraded depth perception"},
+        {"src": 1, "strength": "direct", "evidence": "heavy rain and fog degraded visual cues that the captain might otherwise have used to gauge the airplane's rate of descent"},
+        {"src": 2, "strength": "direct", "evidence": "absence of ground features, as when landing over water, can create the illusion that the aircraft is at a higher altitude than it actually is"},
+        {"src": 3, "strength": "direct", "evidence": "irregular and shortened runway edge light spacing can result in a pilot making an unnecessarily rapid descent"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain reduces engine power in response to perceived excessive altitude",
+      "trigger": "FDR data indicated that between 1638:24 and 1638:28, the engine pressure ratio (EPR) reduced from about 1.2 EPR to about 1.15 EPR to about 1.09 EPRs; the captain gradually reduced the engine power because he perceived a need to slightly increase the airplane's rate of descent",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "the captain's misperception of altitude led him to reduce power to increase descent rate"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Aircraft descent rate increases to excessive levels (1,500-1,800 feet per minute)",
+      "trigger": "At 1638:30, the airplane's descent rate was about 1,500 feet per minute. By 1638:32, the airplane was descending at 1,800 feet per minute; the descent rate increased beyond what the captain likely intended to command",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "reduction in engine power caused descent rate to increase to excessive levels"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft strikes approach light structure and runway deck",
+      "trigger": "The airplane struck the approach light structure and the vertical edge of the concrete runway deck, then skidded approximately 2,700 feet down runway 13 on its lower fuselage and nose landing gear",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "the excessive descent rate prevented the crew from arresting the descent in time to avoid impact"}
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

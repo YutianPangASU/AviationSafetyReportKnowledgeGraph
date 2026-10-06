@@ -1,0 +1,84 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Feather system designed without safeguards against premature unlock; actuators inadequate for transonic loads",
+      "trigger": "The SS2 feather system had no design barrier that prevented a flight crewmember from erroneously unlocking the feather during the transonic region, and feather actuators were not designed to hold the feather retracted during transonic flight",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Simulator training inadequate; did not replicate vibration, loads, or uncommanded feather extension consequences",
+      "trigger": "The SS2 simulator was a fixed-base simulator that did not model uncommanded feather deployment or replicate high G forces and vibration from powered flight",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "contributing"}]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Copilot lacked recent experience with powered flight vibration and loads",
+      "trigger": "Copilot's last powered flight was April 2013, more than 18 months before the accident; lack of recent experience with vibration and loads that he had not recently experienced increased stress during critical phase",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "High workload and time pressure during boost phase with memorized task sequence",
+      "trigger": "Boost phase required copilot to memorize and execute three tasks rapidly; feather must be unlocked by 1.8 Mach or flight must abort; time pressure was likely stressor contributing to premature unlock",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Copilot unlocked feather at 0.82 Mach instead of required 1.4 Mach",
+      "trigger": "At 1007:28.4, copilot stated 'unlocking' and moved feather lock handle to unlocked position when displayed speed was about 0.82 Mach, approximately 9.8 seconds before 1.4 Mach would be reached",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 0, "strength": "contributing"},
+        {"src": 1, "strength": "contributing"},
+        {"src": 2, "strength": "contributing"},
+        {"src": 3, "strength": "contributing"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Feather extended uncomamanded as aerodynamic loads exceeded actuator holding capability",
+      "trigger": "When feather was unlocked at 1007:29.5, total feather opening moment exceeded closing moment provided by actuators; feather flap assembly began moving upward 1.7 seconds after unlock as aerodynamic loads overcame actuator resistance",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "direct"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "STRUCTURAL_OVERLOAD",
+      "label": "Structural overload and catastrophic failure from aerodynamic loads exceeding aircraft strength",
+      "trigger": "Forward end of vehicle began to pitch up rapidly with increasing pitch rate; vehicle essentially folded in half about feather hinge line; localized stress fractured inboard feather hinges; tailbooms separated",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 5, "strength": "direct"}]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "In-flight breakup with copilot fatality and pilot serious injury",
+      "trigger": "SS2 broke up into multiple pieces over 5-mile area; copilot sustained fatal multiple blunt force trauma in wreckage; pilot sustained serious injuries and was thrown from vehicle but survived with automatic parachute deployment",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 6, "strength": "direct"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

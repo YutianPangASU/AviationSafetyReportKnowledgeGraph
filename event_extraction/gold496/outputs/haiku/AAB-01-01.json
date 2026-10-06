@@ -1,0 +1,105 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Freezing fog with 1/2 statute mile visibility at Chicago O'Hare",
+      "trigger": "Visibility 1/2 statute mile in freezing fog, ceiling overcast at 100 feet agl, RVR 1,400 feet variable to 1,800 feet",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Autopilot SP-150 not modified per Sperry Service Bulletins 21-1132-121 and -122 for higher approach airspeeds",
+      "trigger": "The accident airplane's autopilot had not been modified in accordance with changes specified in two Sperry Service Bulletins issued in 1982 and 1983",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "AUTOMATION_ANOMALY",
+      "label": "Autopilot sensitivity higher than designed due to approach speed mismatch",
+      "trigger": "The accident airplane traveled from 1,500 feet agl to the middle marker in about 100 seconds vs. 150 seconds designed; autopilot sensitivity was consistently higher than its intended design value",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "The 150-second desensitization period was optimized for 40° flap approaches; operators began using 30° flaps with higher airspeeds in early 1980s"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Aircraft pitched nose-down to -6° and descended below glideslope at 80 feet agl",
+      "trigger": "FDR data indicated airplane continued to pitch down to about -6º and descended well below the glideslope; descent rate reached about 1,900 feet per minute",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Engineering simulator studies revealed autopilot commanded oscillatory pitch changes that increased over time and resulted in significant deviations from the desired flightpath"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain wearing sunglasses did not perceive nose-down pitch attitude; distracted by runway acquisition",
+      "trigger": "Captain wore sunglasses throughout descent and approach; concentrated attention outside cockpit looking for runway; did not recognize divergent pitch attitude despite flight engineer callouts",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "A lack of horizon cues and low runway light intensity delayed captain's visual acquisition of runway environment"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flight crew did not execute missed approach procedure when excessive pitch deviations and descent rates occurred",
+      "trigger": "The flight crew did not react in a proper and timely manner to excessive pitch deviations and descent rates by either initiating a go-around or adjusting pitch attitude and thrust to ensure successful landing, as required by CAT II procedures",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Captain did not disengage autopilot or take action to adjust pitch attitude despite excessive deviation"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Excessive pitch deviations and descent rates should have triggered immediate go-around procedure"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted ground 314 feet short of runway 14R threshold",
+      "trigger": "The airplane continued to descend until it impacted the ground 314 feet short of the runway threshold, resulting in separation of the main landing gear; aircraft then bounced and slid 2,350 feet down runway",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Uncontrolled altitude deviation at low altitude with nose-down pitch attitude; aircraft descended at 1,350 feet per minute at impact"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

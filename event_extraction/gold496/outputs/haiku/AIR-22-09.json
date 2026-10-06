@@ -1,0 +1,76 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Weather deterioration with increasing cloud cover, reduced visibility, precipitation, and mist",
+      "trigger": "As the cloud cover increased and visibility was reduced due to precipitation and mist",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot descended to lower altitude attempting to remain below the cloud ceiling",
+      "trigger": "pilot flew at lower altitudes, consistent with a passenger report from the pilot's previous flight where he attempted to remain below the cloud ceiling and avoid entering instrument meteorological conditions (IMC)",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "As the cloud cover increased and visibility was reduced, pilot flew at lower altitudes"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot decided to continue VFR flight into IMC",
+      "trigger": "the pilot's decision to continue visual flight rules (VFR) flight into instrument meteorological conditions (IMC)",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "As the cloud cover increased and visibility was reduced due to precipitation and mist, the airplane impacted mountainous terrain in IMC"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted heavily wooded, mountainous terrain in IMC",
+      "trigger": "the airplane impacted heavily wooded, mountainous terrain",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "the pilot's decision to continue visual flight rules (VFR) flight into instrument meteorological conditions (IMC), which resulted in controlled flight into terrain"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and five passengers fatally injured",
+      "trigger": "The pilot and five passengers were fatally injured, and the airplane was destroyed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "The pilot and five passengers were fatally injured"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,255 @@
+[
+  {
+    "record_id": "20001214X35670_1",
+    "user": "NARRATIVE:\nDURING ARRIVAL, THE CREW OF NPA FLT 1802 CONTACTED THE COMPANY WX OBSERVER AT SOLDOTNA WHO ADVISED THE WX WAS: WND CALM,CEILING 600 TO 800 FT, VIS 8 TO 10 MI, NO PRECIP. THEY MADE AN NDB APCH, BUT MISSED THE APCH & REQUESTED ANOTHER APCH. APRX 1 MIN LATER, THE CREW REPORTED THE ACFT HAD ACCUMULATED A HVY LOAD OF ICE. THEY COULD HAVE DIVERTED NEARBY TO KENAIFOR AN ILS APCH, BUT ELECTED TO MAKE A VOR APCH BACK TO SOLDOTNA. WHILE BEING VECTORED, THEY MADE 2 MORE CHECKS WITH THEWX OBSERVER WHO ADVISED THE WX HAD DETERIORATED TO BELOW MINS & RECOMMENDED DIVERTING, BUT THE CREW DID NOT ACKNOWLEDGE.SUBSEQUENTLY, THE ACFT COLLIDED WITH TREES ON HI TERRAIN APRX 1.5 MI SE OF THE ARPT. THERE WAS EVIDENCE THE ACFT WAS CIRCLING WHEN IT CRASHED. CIRCLING WAS NOT AUTHORIZED SOUTH OF RWY 7/25. INV REVEALED RECURRING PRBLMS WITH THE ANTI-ICESYS, ITS 'SINGLE' MODE WAS INOP, 2 DE-ICE BOOTS WERE MISSING FM PROP BLADES. WX STATION LISTED ONLY 1 LGTD MARKER (1/4 MI AWAY) FOR VIS REF; MIN LNDG VIS WAS 1 MI; CEILOMETER WAS INOP. NO FAA INSPN OF WX STATION IN 2 YRS. ICG FORCASTED.\n\nSTRUCTURED FINDINGS (official investigation):\nPrimary cause: IN-FLIGHT PLANNING/DECISION\nOccurrences:\n  1. IN FLIGHT ENCOUNTER WITH WEATHER (phase: APPROACH)\n  2. IN FLIGHT COLLISION WITH OBJECT (phase: CIRCLING (IFR))\nSequence of events:\n  [occ 1] [F] ANTI-ICE/DEICE SYSTEM - INADEQUATE\n  [occ 1] [F] MAINTENANCE - INADEQUATE\n  [occ 1] [F] INADEQUATE SURVEILLANCE OF OPERATION\n  [occ 1] [F] OPERATION WITH KNOWN DEFICIENCIES IN EQUIPMENT - PERFORMED\n  [occ 1] [F] OTHER AIRPORT/RUNWAY MAINTENANCE - NOT MAINTAINED\n  [occ 1] [F] INADEQUATE SURVEILLANCE OF OPERATION\n  [occ 1] [F] METEOROLOGICAL SERVICE - INADEQUATE\n  [occ 1] [F] INADEQUATE SURVEILLANCE OF OPERATION\n  [occ 1] [F] WEATHER CONDITION - LOW CEILING\n  [occ 1] [F] WEATHER CONDITION - FOG\n  [occ 1] [F] WEATHER CONDITION - RAIN\n  [occ 1] [F] WEATHER CONDITION - ICING CONDITIONS\n  [occ 1] [F] FLIGHT INTO KNOWN ADVERSE WEATHER - PERFORMED\n  [occ 1] [F] WING - ICE\n  [occ 1] [F] WEATHER CONDITION - BELOW APPROACH/LANDING MINIMUMS\n  [occ 1] [-] MISSED APPROACH - INITIATED\n  [occ 2] [C] IN-FLIGHT PLANNING/DECISION - IMPROPER\n  [occ 2] [C] MISSED APPROACH - IMPROPER\n  [occ 2] [F] TERRAIN CONDITION - HIGH TERRAIN\n  [occ 2] [C] MINIMUM DESCENT ALTITUDE - NOT MAINTAINED\n  [occ 2] [F] OBJECT - TREE(S)\nInjury: 9 fatal, 0 serious, 0 minor, 0 none. Aircraft damage: DEST.",
+    "extraction": {
+      "chain": [
+        {
+          "idx": 0,
+          "class": "event",
+          "factor_type": "MAINTENANCE_INADEQUATE",
+          "trigger": "recurring problems with the anti-ice system; 'single' mode inoperative; two de-ice boots missing from propeller blades",
+          "phase_of_flight": "preflight",
+          "cause_role": "contributing",
+          "caused_by": []
+        },
+        {
+          "idx": 1,
+          "class": "event",
+          "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+          "trigger": "no FAA inspection of the weather station in 2 years; inadequate surveillance of the operation; ceilometer inoperative",
+          "phase_of_flight": "preflight",
+          "cause_role": "contributing",
+          "caused_by": []
+        },
+        {
+          "idx": 2,
+          "class": "condition",
+          "factor_type": "LOW_VISIBILITY_OR_IMC",
+          "trigger": "ceiling 600 to 800 ft deteriorating to below minimums, fog and rain",
+          "phase_of_flight": "approach",
+          "cause_role": "contributing",
+          "caused_by": []
+        },
+        {
+          "idx": 3,
+          "class": "condition",
+          "factor_type": "MOUNTAINOUS_OR_RISING_TERRAIN",
+          "trigger": "high terrain approximately 1.5 mi SE of the airport",
+          "phase_of_flight": "approach",
+          "cause_role": "contributing",
+          "caused_by": []
+        },
+        {
+          "idx": 4,
+          "class": "event",
+          "factor_type": "DECISION_INAPPROPRIATE",
+          "trigger": "flight into known adverse weather with known deficiencies in equipment",
+          "phase_of_flight": "en_route",
+          "cause_role": "contributing",
+          "caused_by": [
+            {
+              "src": 0,
+              "strength": "contributing",
+              "evidence": "recurring prblms with the anti-ice sys, its 'single' mode was inop"
+            }
+          ]
+        },
+        {
+          "idx": 5,
+          "class": "event",
+          "factor_type": "ICING_ENCOUNTER",
+          "trigger": "the aircraft accumulated a heavy load of ice",
+          "phase_of_flight": "approach",
+          "cause_role": "contributing",
+          "caused_by": [
+            {
+              "src": 2,
+              "strength": "direct",
+              "evidence": "icg forcasted"
+            },
+            {
+              "src": 4,
+              "strength": "contributing",
+              "evidence": "continued into forecast icing with an inadequate anti-ice system"
+            }
+          ]
+        },
+        {
+          "idx": 6,
+          "class": "event",
+          "factor_type": "DECISION_INAPPROPRIATE",
+          "trigger": "elected a VOR approach back to Soldotna instead of diverting to the Kenai ILS; did not acknowledge the divert recommendation",
+          "phase_of_flight": "approach",
+          "cause_role": "primary",
+          "caused_by": [
+            {
+              "src": 5,
+              "strength": "contributing",
+              "evidence": "the crew reported the acft had accumulated a hvy load of ice"
+            },
+            {
+              "src": 2,
+              "strength": "contributing",
+              "evidence": "wx observer advised the wx had deteriorated to below mins & recommended diverting, but the crew did not acknowledge"
+            }
+          ]
+        },
+        {
+          "idx": 7,
+          "class": "event",
+          "factor_type": "PROCEDURE_NOT_FOLLOWED",
+          "trigger": "circling south of runway 7/25 where circling was not authorized; minimum descent altitude not maintained",
+          "phase_of_flight": "approach",
+          "cause_role": "primary",
+          "caused_by": [
+            {
+              "src": 6,
+              "strength": "direct",
+              "evidence": "elected to make a VOR apch back to Soldotna"
+            }
+          ]
+        },
+        {
+          "idx": 8,
+          "class": "outcome",
+          "factor_type": "GROUND_IMPACT",
+          "trigger": "collided with trees on high terrain while circling",
+          "phase_of_flight": "approach",
+          "cause_role": "outcome",
+          "caused_by": [
+            {
+              "src": 7,
+              "strength": "direct",
+              "evidence": "there was evidence the acft was circling when it crashed"
+            },
+            {
+              "src": 2,
+              "strength": "contributing",
+              "evidence": "wx had deteriorated to below mins"
+            },
+            {
+              "src": 3,
+              "strength": "contributing",
+              "evidence": "trees on hi terrain aprx 1.5 mi se of the arpt"
+            }
+          ]
+        },
+        {
+          "idx": 9,
+          "class": "outcome",
+          "factor_type": "INJURY_OR_FATALITY",
+          "trigger": "nine occupants fatally injured",
+          "phase_of_flight": "post_impact",
+          "cause_role": "outcome",
+          "caused_by": [
+            {
+              "src": 8,
+              "strength": "direct",
+              "evidence": "the acft collided with trees on hi terrain"
+            }
+          ]
+        }
+      ],
+      "outcome_severity": "fatal"
+    }
+  },
+  {
+    "record_id": "20001208X06675_1",
+    "user": "NARRATIVE:\nOn September 8, 1996, at 1448 Alaska daylight time, a wheel equipped Piper PA-18 airplane, N4372A, registered to and operated by the Civil Air Patrol, Arcturus Wing, Anchorage, Alaska, lost engine power during the initial climb after takeoff while towing a glider. A forced landing in a lake was accomplished. The U.S. goverment operated flight was operating under 14 CFR Part 91, and was departing Elmendorf Air Force Base Runway 33 for multiple glider tow operations. Visual meteorological conditions prevailed and a visual flight rules flight plan was in effect. The commercial certificated instructor pilot (pilot-in-command), seated in the rear seat, and the commercial pilot seated in the front seat, were not injured. The airplane sank in a lake and was substantially damaged. The purpose of the flight was to provide aerial tows to gliders, and to instruct the commercial certificated pilot (dual student) in glider tow operations. During an interview with the instructor pilot on September 12, 1996, he stated that they had completed two glider tow operations while he was flying from the front seat. The pilots then exchanged seats. The dual student exited the airplane, and the instructor pilot climbed over the front seat to the rear seat. This was accomplished while the engine was running. They completed one more successful tow operation, and on the fourth tow, when they reached an altitude of 200 to 300 feet above ground level, the engine lost power. They selected a muskeg field in which to land, but at tree height the engine surged to full power for approximately 2 to 3 seconds and again lost power. They missed the field and had to land in the lake. Examination of the airplane cockpit prior to removal from the lake showed that the fuel selector handle indicator was pointing between the left and right fuel tank positions. During the interview with the instructor pilot on September 8, 1997, he was asked about his and the dual student's emergency actions upon experiencing the power failure. He was asked directly if they had attempted to reselect a fuel tank and he stated \"no.\" Postaccident inspection of the airplane and its systems disclosed no evidence of any preimpact mechanical anomalies. The old, lake water-contaminated fuel was removed, and fresh fuel added. The engine was started and ran normally. The fuel selector was positioned as found when the airplane was submerged in the lake. The engine ran for approximately two minutes and stopped. Initially, the instructor pilot (CFI) was seated in the front of the airplane, and the commercial certificated dual student pilot was seated in the rear. The purpose of flight was to instruct the student in glider tow operations. They performed two glider tow operations and decided to change seats. The student exited the rear of the airplane and stood outside, while the CFI climbed over the front seat into the rear. This was accomplished while the engine was running. A third glider tow operation was accomplished, then while climbing during the fourth glider tow operation, the engine lost power. The pilots selected a muskeg field for a forced landing. At about tree height, the engine surged to full power and then stopped again. The pilots missed landing the airplane in the muskeg field. They landed the wheel airplane in a small lake, and it sank. Examination of the cockpit before the airplane was raised showed the fuel selector positioned between the left and right fuel tank positions. Postaccident inspection of the airplane and its systems disclosed no evidence of a preexisting mechanical anomaly. The engine was supplied with fresh fuel and started. It ran normally. The fuel selector was moved to the position where it was discovered, while submerged. The engine then ran about two minutes and stopped. loss of engine power due to fuel starvation, which resulted from improper positioning of the fuel tank selector; inadequate supervision by the flight instructor (CFI); and the flight crew's improper emergency procedure.",
+    "extraction": {
+      "chain": [
+        {
+          "idx": 0,
+          "class": "event",
+          "factor_type": "CREW_COORDINATION_FAILURE",
+          "trigger": "inadequate supervision by the flight instructor (CFI)",
+          "phase_of_flight": "ground",
+          "cause_role": "primary",
+          "caused_by": []
+        },
+        {
+          "idx": 1,
+          "class": "event",
+          "factor_type": "PROCEDURE_NOT_FOLLOWED",
+          "trigger": "fuel selector positioned between the left and right fuel tank positions",
+          "phase_of_flight": "ground",
+          "cause_role": "primary",
+          "caused_by": [
+            {
+              "src": 0,
+              "strength": "contributing",
+              "evidence": "inadequate supervision by the flight instructor"
+            }
+          ]
+        },
+        {
+          "idx": 2,
+          "class": "condition",
+          "factor_type": "FUEL_EXHAUSTION_OR_STARVATION",
+          "trigger": "fuel starvation",
+          "phase_of_flight": "initial_climb",
+          "cause_role": "primary",
+          "caused_by": [
+            {
+              "src": 1,
+              "strength": "direct",
+              "evidence": "fuel starvation, which resulted from improper positioning of the fuel tank selector"
+            }
+          ]
+        },
+        {
+          "idx": 3,
+          "class": "event",
+          "factor_type": "ENGINE_FAILURE",
+          "trigger": "the engine lost power at 200 to 300 feet above ground level on the fourth glider tow",
+          "phase_of_flight": "initial_climb",
+          "cause_role": "contributing",
+          "caused_by": [
+            {
+              "src": 2,
+              "strength": "direct",
+              "evidence": "loss of engine power due to fuel starvation"
+            }
+          ]
+        },
+        {
+          "idx": 4,
+          "class": "event",
+          "factor_type": "PROCEDURE_NOT_FOLLOWED",
+          "trigger": "the crew did not attempt to reselect a fuel tank after the power loss",
+          "phase_of_flight": "emergency_descent",
+          "cause_role": "primary",
+          "caused_by": [
+            {
+              "src": 3,
+              "strength": "contributing",
+              "evidence": "asked directly if they had attempted to reselect a fuel tank and he stated 'no'"
+            }
+          ]
+        },
+        {
+          "idx": 5,
+          "class": "outcome",
+          "factor_type": "WATER_IMPACT",
+          "trigger": "missed the muskeg field and landed in a small lake; the airplane sank",
+          "phase_of_flight": "emergency_descent",
+          "cause_role": "outcome",
+          "caused_by": [
+            {
+              "src": 3,
+              "strength": "direct",
+              "evidence": "the engine lost power ... they missed the field and had to land in the lake"
+            },
+            {
+              "src": 4,
+              "strength": "contributing",
+              "evidence": "the flight crew's improper emergency procedure"
+            }
+          ]
+        }
+      ],
+      "outcome_severity": "aircraft_damage_only"
+    }
+  }
+]

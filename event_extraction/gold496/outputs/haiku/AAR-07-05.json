@@ -1,0 +1,102 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Captain used abbreviated taxi briefing instead of full Comair standard",
+      "trigger": "About 0556:14, the captain stated, 'Comair standard,' which is part of the taxi briefing instead of briefing the full information as required for first flight as a crew",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Crew engaged in nonpertinent conversation during taxi",
+      "trigger": "From about 0603:16 to about 0603:56, the flight crew engaged in conversation that was not pertinent to the operation of the flight",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Loss of positional awareness during taxi",
+      "trigger": "CVR recorded nonpertinent conversation during critical taxi phase while captain was navigating",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Abbreviated briefing indicated casual cockpit atmosphere"},
+        {"src": 1, "strength": "direct", "evidence": "Nonpertinent conversation occurred during 40 seconds of 150-second taxi time, degrading positional awareness"}
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Crew failed to cross-check and verify airplane's position on runway before takeoff",
+      "trigger": "CVR did not record any statement by either flight crewmember about being unsure of the airplane's position or confirming the runway",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 2, "strength": "contributing", "evidence": "Loss of positional awareness contributed to failure to verify runway before crossing hold short line"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Takeoff roll initiated from runway 26",
+      "trigger": "About 0606:05, CVR recorded sound similar to increase in engine rpm; first officer stated 'set thrust please' and captain responded 'thrust set'",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "Crew believed airplane was on runway 22 when actually aligned with runway 26 centerline at 266° heading"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "condition",
+      "factor_type": "RUNWAY_CONDITION_HAZARD",
+      "label": "Runway 26 insufficient length for aircraft takeoff",
+      "trigger": "Runway 8/26 was 3,501 feet long; aircraft needed 3,744 feet to rotate",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft ran off end of runway 26",
+      "trigger": "About 0606:32, the airplane impacted an earthen berm located about 265 feet from the end of runway 26",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "Takeoff roll initiated from runway 26"},
+        {"src": 5, "strength": "direct", "evidence": "Runway 26 was 243 feet short of rotation distance required"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck perimeter fence, trees, and terrain",
+      "trigger": "The airplane impacted the airport perimeter fence located 380 feet from the end of runway 26 and trees beyond",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "Aircraft ran off runway end into obstacles beyond airport boundary"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatalities and serious injuries: 49 killed, 1 seriously injured",
+      "trigger": "The captain, flight attendant, and 47 passengers were killed; the first officer received serious injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "Impact with trees and terrain caused fatal blunt force injuries and ruptured left wing fuel tank causing postcrash fire"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,54 @@
+{
+  "total_candidates": 164,
+  "gold_records": 157,
+  "with_probable_cause": 133,
+  "with_findings_items": 103,
+  "with_coded_occurrences": 71,
+  "failures": [
+    {
+      "report": "AAR-21-03",
+      "reason": "no usable gold (parse and coded both empty)"
+    },
+    {
+      "report": "AAR-70-05",
+      "reason": "no usable gold (parse and coded both empty)"
+    },
+    {
+      "report": "AAR-72-26",
+      "reason": "no usable gold (parse and coded both empty)"
+    },
+    {
+      "report": "AAR-91-04",
+      "reason": "no usable gold (parse and coded both empty)"
+    },
+    {
+      "report": "AAR-92-01",
+      "reason": "no usable gold (parse and coded both empty)"
+    },
+    {
+      "report": "AAR-98-04",
+      "reason": "input too short (512 chars)"
+    },
+    {
+      "report": "AAR0003",
+      "reason": "no usable gold (parse and coded both empty)"
+    }
+  ],
+  "by_type": {
+    "AAB": {
+      "n": 24,
+      "pc": 23,
+      "findings": 0
+    },
+    "AAR": {
+      "n": 103,
+      "pc": 100,
+      "findings": 89
+    },
+    "AIR": {
+      "n": 30,
+      "pc": 10,
+      "findings": 14
+    }
+  }
+}

@@ -1,0 +1,71 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Electrically conductive flexible oxygen hoses with combustible PVC material",
+      "trigger": "The stainless steel coil was loosely attached to the aluminum fittings at each hose end, making the hoses electrically conductive",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Electrical wiring routed in contact with oxygen system tubing without positive separation",
+      "trigger": "electrical wiring was found in contact with or routed near the stainless steel oxygen supply tubing",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Short circuit between electrical wiring and oxygen system tubing",
+      "trigger": "A short circuit from this close-contact wiring would be the most likely source to provide electrical energy to the spring",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Conductive hose design allowed the internal spring to be energized by electrical current"},
+        {"src": 1, "strength": "direct", "evidence": "Close proximity of wiring to oxygen tubing enabled the short circuit"}
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "FUEL_SYSTEM_ANOMALY",
+      "label": "Oxygen hose ruptured and ignited from internal heat source",
+      "trigger": "the internal spring could be heated until it became an ignition energy source, causing the flexible oxygen hose to ignite",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 2, "strength": "direct", "evidence": "Electrical current passing through the spring caused resistance heating that ignited the PVC hose material"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Pressurized oxygen released from breached hose",
+      "trigger": "release of oxygen from the hose caused adjacent materials to ignite and burn at an accelerated rate",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "Hose rupture from ignition allowed pressurized oxygen to escape"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Fire rapidly spread from supernumerary compartment to cockpit and cargo compartment",
+      "trigger": "fire began when a combustible and electrically conductive oxygen hose became energized by a short circuit, which caused the hose to ignite and burn through, and the release of oxygen from the hose caused adjacent materials to ignite and burn at an accelerated rate",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "Hose ignition initiated the fire"},
+        {"src": 4, "strength": "direct", "evidence": "Pressurized oxygen accelerated combustion and fire propagation"}
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

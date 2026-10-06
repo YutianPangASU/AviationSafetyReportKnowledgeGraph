@@ -1,0 +1,33 @@
+{
+  "records": 50,
+  "pairs": 580,
+  "blank_pairs_counted_as_0": 0,
+  "findings": 88,
+  "pair_agreement": 0.75,
+  "finding_agreement": 0.9659,
+  "finding_recall_judge": 0.9659,
+  "finding_recall_annotator": 1.0,
+  "disagreements": [
+    {
+      "record_id": "20001206X01820_1",
+      "finding_idx": "5",
+      "finding": "EMERGENCY PROCEDURE (INADEQUATE)",
+      "judge": 0,
+      "annotator": 1
+    },
+    {
+      "record_id": "20001211X13477_1",
+      "finding_idx": "0",
+      "finding": "PREFLIGHT PLANNING/PREPARATION (INADEQUATE)",
+      "judge": 0,
+      "annotator": 1
+    },
+    {
+      "record_id": "20020808X01329_1",
+      "finding_idx": "1",
+      "finding": "CLEARANCE (NOT POSSIBLE)",
+      "judge": 0,
+      "annotator": 1
+    }
+  ]
+}

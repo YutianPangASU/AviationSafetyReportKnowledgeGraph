@@ -1,0 +1,141 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Captain omitted hydraulics checklist item during in-range check",
+      "trigger": "Between 0845:37 and 0846:10, the captain referred to each of the seven items on the in-range checklist, in the correct order, except for the fourth item, 'Hydraulics,' to which the captain did not refer.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Flaps fail to extend to desired settings",
+      "trigger": "After slats extended at 0859:03, flap gauge remained at zero. When flaps were subsequently selected to 15, 25, 40, and 50 degrees, they remained at zero degrees.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Engine-driven hydraulic pump switches remained in LOW position, providing insufficient pressure for flap deployment"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain failed to recognize flap malfunction as indicating hydraulic system misconfiguration",
+      "trigger": "The first officer touched the flap gauge to show the captain that it indicated zero. The captain confirmed the flap handle was positioned correctly but did not diagnose that the symptom indicated improper hydraulic system configuration.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Flap gauge indicating zero was visible to both pilots but interpreted as handle position issue rather than symptom of hydraulic pressure loss"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Landing gear fails to extend when handle moved to down position",
+      "trigger": "At 0900:38, first officer called 'gear down' and gear handle was moved. At 0900:46, the gear warning horn began to sound, indicating landing gear was not down and locked.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Engine-driven hydraulic pump switches remained in LOW position, providing insufficient pressure for landing gear extension"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Flightcrew failed to perform landing checklist and confirm landing gear status",
+      "trigger": "The CVR does not indicate that the landing checklist was ever started. First officer called for it at 0900:41 but captain never initiated the procedure.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Flightcrew preoccupied with attempting to diagnose and resolve flap extension problem during final approach, resulting in missed landing checklist"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain rejected go-around request and continued approach despite unstabilized condition and warnings",
+      "trigger": "At 0901:02 with descent at 504 feet AFE traveling 216 knots (84 knots above target speed of 132 knots), first officer stated 'want to take it around?' Captain replied 'no, that's alright.' At 0901:13, GPWS alerted 'whoop whoop pull up' three times; captain continued descent.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Captain believed flaps and landing gear were configured correctly because he did not recognize flap problem as sign of hydraulic misconfiguration"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Landing checklist not performed, so crew did not confirm landing gear was down and locked"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Airplane touched down wheels-up at 193 knots indicated airspeed",
+      "trigger": "At 0901:32, the airplane touched down hard with the wheels up at 193 knots indicated airspeed.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Captain assumed control of airplane and continued descent to landing without confirmation that landing gear was extended"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Airplane slid on fuselage for 6,850 feet before stopping in grass off runway",
+      "trigger": "The airplane slid 6,850 feet before coming to rest in the grass about 140 feet left of the runway centerline. Small fragments of skin from the belly were scattered along the runway.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Wheels-up landing forced airplane to contact runway on fuselage, causing extended skid distance"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "12 passengers sustained minor injuries during emergency evacuation",
+      "trigger": "12 minor injuries to passengers were reported. One passenger was transported to a local hospital with complaints of back pain and released the same day.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "Wheels-up landing caused cabin to fill with smoke, requiring emergency evacuation during which passengers sustained minor injuries"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

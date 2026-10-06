@@ -1,0 +1,136 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Spoiler warning light inoperative",
+      "trigger": "If the system was inoperative, it would further explain why the flightcrew did not notice the extended spoilers on the final approach.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Pilot fails to notice and retract spoilers when flaps and gear are lowered",
+      "trigger": "There is little difference in cockpit vital background noise level with spoilers either extended or retracted when the gear and flaps are down. The spoilers extended configuration only requires 3 percent more power than retracted configuration and a pilot could overlook the difference in power particularly if the spoiler warning lights were not lit.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "If the system was inoperative, it would further explain why the flightcrew did not notice the extended spoilers on the final approach"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot commands spoiler retraction upon realizing they remain extended",
+      "trigger": "It is postulated that as the airplane passed over the approach lights, the pilot realized that the spoilers were extended and retracted them.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Pilot's realization that spoilers had not been retracted prompted the retraction command"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Right spoiler fails to retract when commanded",
+      "trigger": "The right spoiler actuator was in the extended position when exposed to the postaccident ground fire. The Safety Board could not determine the reason for the right spoiler malfunction.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Right spoiler did not respond to pilot's retraction command; left spoiler retracted normally"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Asymmetric spoiler retraction creates aerodynamic imbalance and right roll",
+      "trigger": "Since the right spoiler did not retract the airplane started a slow roll to the right. The nose of the aircraft would have risen slightly due to spoiler retraction, but since the right spoiler did not retract the airplane started a slow roll to the right.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Left spoiler retracted while right spoiler remained extended, creating asymmetric lift and uncontrolled roll"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot applies thrust increase but fails to apply sufficient aileron and rudder correction",
+      "trigger": "While the pilot added power, he apparently did not use enough aileron and rudder control input to arrest the roll.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Roll had begun and developed rapidly; corrective control inputs were inadequate"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncontrollable right roll to approximately 90 degrees bank; nose descends",
+      "trigger": "The right roll continued until the bank angle was about 90° and the airplane collided with the ground. The airplane's nose dropped below the horizon and the airplane descended into the ground in a nose low attitude.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Insufficient corrective inputs allowed roll rate to continue unabated until wings reached vertical attitude"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacts ground in nose-low, wings-vertical attitude approximately 1,200 feet right of runway 33 threshold",
+      "trigger": "The airplane collided with the ground. The airplane was destroyed by impact forces and postcrash fire.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Uncontrolled descent from inverted roll attitude resulted in ground contact"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All three occupants killed—both pilots and passenger—in impact and postimpact fire",
+      "trigger": "Both pilots and the one passenger on board were killed. The airplane exploded on impact and was involved in an intense postaccident ground fire.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "Impact forces exceeded human tolerance; postimpact fire prevented survival"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

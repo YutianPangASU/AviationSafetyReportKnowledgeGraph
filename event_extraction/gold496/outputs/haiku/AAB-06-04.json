@@ -1,0 +1,100 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Missing and inadequate maintenance documentation",
+      "trigger": "No maintenance logbooks from April 1999 to accident date; airframe logbook from 1969-1973 and left engine logbook from 1981-1998 not provided",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Undiagnosed right engine defect with recurrent flameout history",
+      "trigger": "Right engine flamed out on November 26, 2003, and November 29, 2003; cause of flameout could not be determined due to missing maintenance records",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "FAA verbally released aircraft based on false compliance representation",
+      "trigger": "On December 22, 2003, JETT maintenance personnel claimed compliance with condition notice without providing required maintenance records; FAA verbally released aircraft for operations",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Missing maintenance records enabled false compliance claim"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Right engine failure during climb through 26,000 feet",
+      "trigger": "At 0909:55, first officer requested return to CNO while climbing through 26,000 feet; return request indicates sudden system or engine problem",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Latent engine defect that caused flameouts on November 26 and 29 recurred"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Airplane entered uncontrolled descent with rapidly increasing descent rate",
+      "trigger": "Descent rate increased from 2,000 fpm to 6,500 fpm to 10,000 fpm; witness observed airplane pitch nose-down, straighten, then pitch nose-down in near-vertical descent until impact",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Engine failure and subsequent descent resulted in loss of control; airspeed continued to increase after descent was initiated"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Airplane impacted high desert terrain near Helendale, California",
+      "trigger": "Airplane impacted terrain at elevation 3,350 feet, approximately 3 miles southeast of Helendale; impact crater measured 43 feet long by 17 feet wide",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Uncontrolled nose-down descent resulted in high-velocity terrain impact"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Captain and first officer killed; aircraft destroyed",
+      "trigger": "Captain and first officer killed; cause of death was massive blunt force trauma; aircraft was destroyed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "High-velocity impact with terrain caused fatalities"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

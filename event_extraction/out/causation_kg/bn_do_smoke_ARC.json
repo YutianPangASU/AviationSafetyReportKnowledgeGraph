@@ -1,0 +1,321 @@
+{
+  "category": "ARC",
+  "n_records": 2774,
+  "baseline_p_serious": 0.2505,
+  "method": "backdoor adjustment; Z = stable PC-DAG parents (stability >= 0.5, max 3)",
+  "interventions": [
+    {
+      "factor": "STALL",
+      "n_present": 260,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2095,
+      "p_serious_do_present": 0.6489,
+      "effect_do_present_vs_absent": 0.4394,
+      "risk_reduction_vs_baseline": 0.0411
+    },
+    {
+      "factor": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+      "n_present": 33,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2461,
+      "p_serious_do_present": 0.6286,
+      "effect_do_present_vs_absent": 0.3825,
+      "risk_reduction_vs_baseline": 0.0045
+    },
+    {
+      "factor": "LOSS_OF_CONTROL_INFLIGHT",
+      "n_present": 281,
+      "adjustment_set": [
+        "STALL",
+        "HIGH_DENSITY_ALTITUDE"
+      ],
+      "p_serious_do_absent": 0.2215,
+      "p_serious_do_present": 0.4959,
+      "effect_do_present_vs_absent": 0.2744,
+      "risk_reduction_vs_baseline": 0.029
+    },
+    {
+      "factor": "ORG_OR_REGULATORY_INADEQUATE",
+      "n_present": 34,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2491,
+      "p_serious_do_present": 0.3889,
+      "effect_do_present_vs_absent": 0.1398,
+      "risk_reduction_vs_baseline": 0.0015
+    },
+    {
+      "factor": "FUEL_CONTAMINATION",
+      "n_present": 158,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2429,
+      "p_serious_do_present": 0.3812,
+      "effect_do_present_vs_absent": 0.1383,
+      "risk_reduction_vs_baseline": 0.0076
+    },
+    {
+      "factor": "HIGH_DENSITY_ALTITUDE",
+      "n_present": 37,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.249,
+      "p_serious_do_present": 0.3846,
+      "effect_do_present_vs_absent": 0.1356,
+      "risk_reduction_vs_baseline": 0.0015
+    },
+    {
+      "factor": "DESIGN_DEFECT_LATENT",
+      "n_present": 42,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2491,
+      "p_serious_do_present": 0.3636,
+      "effect_do_present_vs_absent": 0.1146,
+      "risk_reduction_vs_baseline": 0.0015
+    },
+    {
+      "factor": "PERCEPTION_FAILURE",
+      "n_present": 157,
+      "adjustment_set": [
+        "ENGINE_FAILURE",
+        "DARK_NIGHT_OR_LOW_LIGHT"
+      ],
+      "p_serious_do_absent": 0.2457,
+      "p_serious_do_present": 0.3201,
+      "effect_do_present_vs_absent": 0.0744,
+      "risk_reduction_vs_baseline": 0.0048
+    },
+    {
+      "factor": "MOUNTAINOUS_OR_RISING_TERRAIN",
+      "n_present": 73,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.249,
+      "p_serious_do_present": 0.32,
+      "effect_do_present_vs_absent": 0.071,
+      "risk_reduction_vs_baseline": 0.0016
+    },
+    {
+      "factor": "CONTROL_INPUT_IMPROPER",
+      "n_present": 588,
+      "adjustment_set": [
+        "PROCEDURE_NOT_FOLLOWED",
+        "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING",
+        "ADVERSE_WIND_CONDITION"
+      ],
+      "p_serious_do_absent": 0.2434,
+      "p_serious_do_present": 0.3053,
+      "effect_do_present_vs_absent": 0.0619,
+      "risk_reduction_vs_baseline": 0.0071
+    },
+    {
+      "factor": "DARK_NIGHT_OR_LOW_LIGHT",
+      "n_present": 64,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2496,
+      "p_serious_do_present": 0.303,
+      "effect_do_present_vs_absent": 0.0534,
+      "risk_reduction_vs_baseline": 0.0009
+    },
+    {
+      "factor": "MAINTENANCE_INADEQUATE",
+      "n_present": 398,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2447,
+      "p_serious_do_present": 0.2875,
+      "effect_do_present_vs_absent": 0.0428,
+      "risk_reduction_vs_baseline": 0.0058
+    },
+    {
+      "factor": "LATENT_MECHANICAL_DEFECT",
+      "n_present": 424,
+      "adjustment_set": [
+        "MAINTENANCE_INADEQUATE"
+      ],
+      "p_serious_do_absent": 0.2488,
+      "p_serious_do_present": 0.2796,
+      "effect_do_present_vs_absent": 0.0308,
+      "risk_reduction_vs_baseline": 0.0017
+    },
+    {
+      "factor": "FUEL_EXHAUSTION_OR_STARVATION",
+      "n_present": 532,
+      "adjustment_set": [
+        "FUEL_CONTAMINATION"
+      ],
+      "p_serious_do_absent": 0.2469,
+      "p_serious_do_present": 0.2769,
+      "effect_do_present_vs_absent": 0.0299,
+      "risk_reduction_vs_baseline": 0.0036
+    },
+    {
+      "factor": "LOW_ALTITUDE_OPERATION",
+      "n_present": 71,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2503,
+      "p_serious_do_present": 0.274,
+      "effect_do_present_vs_absent": 0.0237,
+      "risk_reduction_vs_baseline": 0.0003
+    },
+    {
+      "factor": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "n_present": 70,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2506,
+      "p_serious_do_present": 0.2639,
+      "effect_do_present_vs_absent": 0.0133,
+      "risk_reduction_vs_baseline": -0.0
+    },
+    {
+      "factor": "FUEL_SYSTEM_ANOMALY",
+      "n_present": 227,
+      "adjustment_set": [
+        "MAINTENANCE_INADEQUATE",
+        "FUEL_CONTAMINATION",
+        "DESIGN_DEFECT_LATENT"
+      ],
+      "p_serious_do_absent": 0.256,
+      "p_serious_do_present": 0.2502,
+      "effect_do_present_vs_absent": -0.0058,
+      "risk_reduction_vs_baseline": -0.0055
+    },
+    {
+      "factor": "CARBURETOR_OR_INDUCTION_ICING",
+      "n_present": 219,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2515,
+      "p_serious_do_present": 0.2443,
+      "effect_do_present_vs_absent": -0.0071,
+      "risk_reduction_vs_baseline": -0.0009
+    },
+    {
+      "factor": "PROCEDURE_NOT_FOLLOWED",
+      "n_present": 1170,
+      "adjustment_set": [
+        "LATENT_MECHANICAL_DEFECT",
+        "CARBURETOR_OR_INDUCTION_ICING"
+      ],
+      "p_serious_do_absent": 0.2588,
+      "p_serious_do_present": 0.2475,
+      "effect_do_present_vs_absent": -0.0114,
+      "risk_reduction_vs_baseline": -0.0083
+    },
+    {
+      "factor": "ENGINE_FAILURE",
+      "n_present": 2488,
+      "adjustment_set": [
+        "FUEL_EXHAUSTION_OR_STARVATION",
+        "MAINTENANCE_INADEQUATE",
+        "OTHER_SYSTEM_FAILURE"
+      ],
+      "p_serious_do_absent": 0.2888,
+      "p_serious_do_present": 0.2575,
+      "effect_do_present_vs_absent": -0.0314,
+      "risk_reduction_vs_baseline": -0.0383
+    },
+    {
+      "factor": "GROUND_PERSONNEL_ERROR",
+      "n_present": 42,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.252,
+      "p_serious_do_present": 0.1818,
+      "effect_do_present_vs_absent": -0.0702,
+      "risk_reduction_vs_baseline": -0.0015
+    },
+    {
+      "factor": "ADVERSE_WIND_CONDITION",
+      "n_present": 136,
+      "adjustment_set": [
+        "WIND_SHEAR_OR_GUST"
+      ],
+      "p_serious_do_absent": 0.2555,
+      "p_serious_do_present": 0.1841,
+      "effect_do_present_vs_absent": -0.0714,
+      "risk_reduction_vs_baseline": -0.0049
+    },
+    {
+      "factor": "DECISION_INAPPROPRIATE",
+      "n_present": 1450,
+      "adjustment_set": [
+        "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING"
+      ],
+      "p_serious_do_absent": 0.29,
+      "p_serious_do_present": 0.2155,
+      "effect_do_present_vs_absent": -0.0745,
+      "risk_reduction_vs_baseline": -0.0395
+    },
+    {
+      "factor": "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING",
+      "n_present": 540,
+      "adjustment_set": [
+        "OTHER_SYSTEM_FAILURE",
+        "LOW_ALTITUDE_OPERATION"
+      ],
+      "p_serious_do_absent": 0.2678,
+      "p_serious_do_present": 0.1791,
+      "effect_do_present_vs_absent": -0.0887,
+      "risk_reduction_vs_baseline": -0.0173
+    },
+    {
+      "factor": "AIRFRAME_STRUCTURAL_FAILURE",
+      "n_present": 33,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2523,
+      "p_serious_do_present": 0.1429,
+      "effect_do_present_vs_absent": -0.1094,
+      "risk_reduction_vs_baseline": -0.0017
+    },
+    {
+      "factor": "INFLIGHT_FIRE_OR_SMOKE",
+      "n_present": 75,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.254,
+      "p_serious_do_present": 0.1429,
+      "effect_do_present_vs_absent": -0.1111,
+      "risk_reduction_vs_baseline": -0.0034
+    },
+    {
+      "factor": "OTHER_SYSTEM_FAILURE",
+      "n_present": 242,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2609,
+      "p_serious_do_present": 0.1475,
+      "effect_do_present_vs_absent": -0.1133,
+      "risk_reduction_vs_baseline": -0.0103
+    },
+    {
+      "factor": "WIND_SHEAR_OR_GUST",
+      "n_present": 50,
+      "adjustment_set": [
+        "ADVERSE_WIND_CONDITION"
+      ],
+      "p_serious_do_absent": 0.2541,
+      "p_serious_do_present": 0.1373,
+      "effect_do_present_vs_absent": -0.1167,
+      "risk_reduction_vs_baseline": -0.0035
+    },
+    {
+      "factor": "LANDING_GEAR_ANOMALY",
+      "n_present": 33,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2534,
+      "p_serious_do_present": 0.0571,
+      "effect_do_present_vs_absent": -0.1962,
+      "risk_reduction_vs_baseline": -0.0028
+    },
+    {
+      "factor": "RUNWAY_CONDITION_HAZARD",
+      "n_present": 147,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.2621,
+      "p_serious_do_present": 0.0537,
+      "effect_do_present_vs_absent": -0.2084,
+      "risk_reduction_vs_baseline": -0.0115
+    },
+    {
+      "factor": "LOSS_OF_CONTROL_GROUND",
+      "n_present": 100,
+      "adjustment_set": [],
+      "p_serious_do_absent": 0.259,
+      "p_serious_do_present": 0.0392,
+      "effect_do_present_vs_absent": -0.2198,
+      "risk_reduction_vs_baseline": -0.0084
+    }
+  ]
+}

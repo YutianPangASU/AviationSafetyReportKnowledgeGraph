@@ -1,0 +1,119 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Fuel tank system design flaw - center auxiliary tanks not isolated",
+      "trigger": "The auxiliary fuel tank system beneath the center cabin had a forward, center, and aft tank that were interconnected by pipes and that were not isolated from each other by shutoff valves or check valves.",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Aircraft configured with aft center of gravity near limit (37.4% MAC) for test",
+      "trigger": "The airplane was loaded with 1,100 pounds of water ballast and 734 pounds of tail ballast for an aft c.g. test configuration.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "FUEL_SYSTEM_ANOMALY",
+      "label": "Fuel migrated aft during takeoff, shifting c.g. beyond certified limit",
+      "trigger": "By the time the airplane reached a pitch attitude of 13.8° 20 seconds after the start of the takeoff roll, the airplane's c.g. increased to at least 40.5 percent MAC.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "The auxiliary fuel tank system were not isolated from each other by shutoff valves or check valves, allowing fuel migration during acceleration and climb."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot commanded excessive pitch rate during rotation",
+      "trigger": "FDR data indicated a peak pitch rate of 8.4° per second (ADAS recorded 9.6° per second), approximately three times the recommended 3° per second.",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall occurred during initial climb",
+      "trigger": "The vane AOA reached 23° about 3.4 seconds after start of rotation, beyond the stick pusher activation threshold. CVR recorded sounds similar to stick shaker and stall aural warnings.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Aft c.g. configuration increased pitch sensitivity; simulation indicated aft c.g. combined with pilot's elevator inputs produced excessive AOA."
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "C.g. shift to 40.5 percent MAC; at this c.g. alpha vane AOA peaked 5° beyond stick pusher activation threshold."
+        },
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "The aft c.g. and aggressive pitch control inputs by the pilot resulted in stall; pilot's 9.6° per second pitch rate combined with aft c.g. caused rapid AOA increase beyond stall margins."
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of control with pitch and roll oscillations",
+      "trigger": "FDR data showed pitch oscillations from -2° to +20° and roll from 80° right-wing-down to wings level to 61° right-wing-down; pilot continued elevator inputs to counter stick pusher.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "After stall warning and stick pusher activation, pilot made elevator inputs to counter the downward pitch, creating oscillations at very low altitude."
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted terrain",
+      "trigger": "The airplane crashed through an airport perimeter fence and came to rest adjacent to a two-lane road. Peak altitude reached was about 70 feet. Impact occurred at approximately 40° right-wing-down bank angle.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Aircraft reached low altitude with loss of control; unable to recover."
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot, flight engineer, and copilot killed",
+      "trigger": "Pilot and flight engineer died at the scene from blunt force trauma and thermal burns. Copilot died 36 days later from complications of thermal burns.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Aircraft destroyed on impact with terrain and post-impact fire; all three crew members sustained fatal injuries."
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

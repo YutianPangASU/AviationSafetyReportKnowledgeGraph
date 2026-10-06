@@ -1,0 +1,81 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Strong gusty crosswinds from northwest",
+      "trigger": "winds from 320 degrees at 21 knots with gusts to 26 knots",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "First officer failed to maintain alignment and apply flare during landing",
+      "trigger": "the first officer did not properly apply control wheel and rudder inputs to align the airplane with the runway centerline or apply appropriate back pressure on the control column to arrest the airplane's rate of descent before touchdown",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "strong crosswind required sustained flight control inputs; first officer neutralized correcting inputs as airplane descended below 100 feet"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Captain failed to monitor first officer's performance and command corrective action",
+      "trigger": "the captain did not adequately monitor the first officer's performance during the final stages of the approach and landing and failed to take or initiate corrective action",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "drift to the right became markedly notable as airplane descended through 60 feet, but captain did not intervene with correction or go-around command"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Right main landing gear failed due to excessive structural loads",
+      "trigger": "excessive vertical and lateral forces on the right main landing gear exceeded design limits and resulted in fracture of the outer cylinder",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "excessive vertical speed of 14.5 feet per second (beyond 12 fps design limit) and crabbed landing attitude imposed structural overload"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "if captain had commanded go-around, landing would not have occurred and gear would not have failed"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft veered off right side of runway after landing gear collapse",
+      "trigger": "after the gear collapsed, the airplane veered off the right side of the runway",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "collapsed right main landing gear caused aircraft to veer right and depart runway"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

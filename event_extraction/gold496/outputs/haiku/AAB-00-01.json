@@ -1,0 +1,79 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "CABIN AIR switch left OFF, preventing pressurization",
+      "trigger": "Flow control valve found fully closed at impact",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Flight crew failed to don oxygen masks immediately after depressurization",
+      "trigger": "Cabin altitude warning activated at 10,000 feet cabin altitude",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "Depressurization should have triggered immediate oxygen mask donning per emergency procedures"}]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+      "label": "Flight crew incapacitated by hypoxia",
+      "trigger": "Lack of supplemental oxygen during rapid cabin depressurization",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "Without oxygen masks, crew rapidly became hypoxic and lost cognitive function within seconds"}]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "FUEL_EXHAUSTION_OR_STARVATION",
+      "label": "Aircraft fuel completely depleted after extended high-altitude flight",
+      "trigger": "Aircraft maintained high altitude for approximately 4 hours under autopilot",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 2, "strength": "direct", "evidence": "Incapacitated crew unable to descend; autopilot continued high-altitude cruise consuming fuel"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Right engine ceased operating",
+      "trigger": "Engine winding down sound recorded on CVR at 1210:41 CDT",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "Right engine failed due to fuel starvation"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aircraft entered aerodynamic stall",
+      "trigger": "Loss of engine thrust at high altitude (48,900 feet)",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "direct", "evidence": "Engine failure caused loss of airspeed and aerodynamic lift"}]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted ground near Aberdeen, South Dakota",
+      "trigger": "Uncontrollable spiral descent from 48,900 feet",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "Stall at high altitude resulted in loss of control and spiral descent to impact"}]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All six occupants fatally injured",
+      "trigger": "High-speed spiral descent and ground impact",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "Fatal impact with open field"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

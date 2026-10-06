@@ -1,0 +1,76 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Upper-left tail boom attachment bolt separated",
+      "trigger": "The upper-left tail boom attachment hardware, consisting of a bolt, washers, and a nut, was not present at the accident site and was not found",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "STRUCTURAL_OVERLOAD",
+      "label": "Remaining attachment fittings overloaded and fractured; tail boom separated",
+      "trigger": "the redistribution of the load normally carried by the upper-left attachment fitting to the remaining three attachment fittings resulted in initiation of fatigue fractures on the lower-left fitting and overload fractures on the upper-right and lower-right fittings; the tail boom came to rest about 762 ft northeast from the main wreckage, consistent with an inflight separation",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "The upper-left tail boom attachment bolt separated first, resulting in the redistribution of the load normally carried by the upper-left attachment fitting to the remaining three attachment fittings and the subsequent initiation of fatigue fractures on the lower-left attachment fitting"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Helicopter entered uncontrolled right spin",
+      "trigger": "the helicopter began an uncontrolled spin to the right",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "the inflight separation of the tail boom"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter impacted rough lava-covered terrain",
+      "trigger": "the helicopter continued to spin uncontrollably while it descended and impacted an area of rough, uneven, lava-covered terrain",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "The helicopter continued to spin uncontrollably while it descended and impacted an area of rough, uneven, lava-covered terrain"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and two passengers sustained serious injuries; three sustained minor injuries",
+      "trigger": "The pilot and two passengers sustained serious injuries, and three passengers sustained minor injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "following the helicopter impact with terrain"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

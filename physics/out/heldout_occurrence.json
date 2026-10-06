@@ -1,0 +1,355 @@
+{
+  "split_year": 2015,
+  "n_train": 31160,
+  "n_test": 8610,
+  "targets": {
+    "y_ice": {
+      "n_pos_train": 857,
+      "n_pos_test": 348,
+      "prevalence_test": 0.0404,
+      "arms": {
+        "chart physics (no fit)": {
+          "auc": 0.5777,
+          "auc_ci95": [
+            0.5492,
+            0.6062
+          ],
+          "average_precision": 0.0498,
+          "brier": 0.54363
+        },
+        "physics, calibrated on train years": {
+          "auc": 0.5777,
+          "auc_ci95": [
+            0.5498,
+            0.6057
+          ],
+          "average_precision": 0.0489,
+          "brier": 0.03883
+        },
+        "corpus only (covariates)": {
+          "auc": 0.5526,
+          "auc_ci95": [
+            0.5232,
+            0.582
+          ],
+          "average_precision": 0.053,
+          "brier": 0.03892
+        },
+        "corpus + raw temperature and dewpoint": {
+          "auc": 0.5968,
+          "auc_ci95": [
+            0.5694,
+            0.6242
+          ],
+          "average_precision": 0.0598,
+          "brier": 0.0388
+        },
+        "hybrid (covariates + calibrated physics)": {
+          "auc": 0.586,
+          "auc_ci95": [
+            0.5582,
+            0.6139
+          ],
+          "average_precision": 0.0532,
+          "brier": 0.03885
+        },
+        "hybrid, sign-inverted margin": {
+          "auc": 0.5526,
+          "auc_ci95": [
+            0.5232,
+            0.582
+          ],
+          "average_precision": 0.053,
+          "brier": 0.03892
+        },
+        "hybrid, permuted margin": {
+          "auc": 0.5532,
+          "auc_ci95": [
+            0.5239,
+            0.5826
+          ],
+          "average_precision": 0.0547,
+          "brier": 0.03891
+        }
+      },
+      "hybrid_reliability_by_decile": [
+        {
+          "decile": 0,
+          "p_mean": 0.0069,
+          "realized": 0.0105,
+          "n": 861
+        },
+        {
+          "decile": 1,
+          "p_mean": 0.0126,
+          "realized": 0.0232,
+          "n": 861
+        },
+        {
+          "decile": 2,
+          "p_mean": 0.0175,
+          "realized": 0.036,
+          "n": 861
+        },
+        {
+          "decile": 3,
+          "p_mean": 0.0211,
+          "realized": 0.0417,
+          "n": 863
+        },
+        {
+          "decile": 4,
+          "p_mean": 0.0244,
+          "realized": 0.0442,
+          "n": 859
+        },
+        {
+          "decile": 5,
+          "p_mean": 0.028,
+          "realized": 0.043,
+          "n": 861
+        },
+        {
+          "decile": 6,
+          "p_mean": 0.0322,
+          "realized": 0.0627,
+          "n": 861
+        },
+        {
+          "decile": 7,
+          "p_mean": 0.0376,
+          "realized": 0.0476,
+          "n": 862
+        },
+        {
+          "decile": 8,
+          "p_mean": 0.0457,
+          "realized": 0.0384,
+          "n": 860
+        },
+        {
+          "decile": 9,
+          "p_mean": 0.0721,
+          "realized": 0.0569,
+          "n": 861
+        }
+      ]
+    },
+    "y_ice_ef": {
+      "n_pos_train": 810,
+      "n_pos_test": 335,
+      "prevalence_test": 0.0389,
+      "arms": {
+        "chart physics (no fit)": {
+          "auc": 0.5763,
+          "auc_ci95": [
+            0.5475,
+            0.6051
+          ],
+          "average_precision": 0.0469,
+          "brier": 0.5445
+        },
+        "physics, calibrated on train years": {
+          "auc": 0.5774,
+          "auc_ci95": [
+            0.5493,
+            0.6055
+          ],
+          "average_precision": 0.0465,
+          "brier": 0.03747
+        },
+        "corpus only (covariates)": {
+          "auc": 0.5515,
+          "auc_ci95": [
+            0.5214,
+            0.5817
+          ],
+          "average_precision": 0.051,
+          "brier": 0.03754
+        },
+        "corpus + raw temperature and dewpoint": {
+          "auc": 0.5941,
+          "auc_ci95": [
+            0.566,
+            0.6223
+          ],
+          "average_precision": 0.0585,
+          "brier": 0.03741
+        },
+        "hybrid (covariates + calibrated physics)": {
+          "auc": 0.5856,
+          "auc_ci95": [
+            0.5573,
+            0.6139
+          ],
+          "average_precision": 0.0502,
+          "brier": 0.03748
+        },
+        "hybrid, sign-inverted margin": {
+          "auc": 0.5515,
+          "auc_ci95": [
+            0.5214,
+            0.5817
+          ],
+          "average_precision": 0.051,
+          "brier": 0.03754
+        },
+        "hybrid, permuted margin": {
+          "auc": 0.5482,
+          "auc_ci95": [
+            0.5181,
+            0.5783
+          ],
+          "average_precision": 0.0491,
+          "brier": 0.03755
+        }
+      },
+      "hybrid_reliability_by_decile": [
+        {
+          "decile": 0,
+          "p_mean": 0.0065,
+          "realized": 0.0128,
+          "n": 861
+        },
+        {
+          "decile": 1,
+          "p_mean": 0.012,
+          "realized": 0.0209,
+          "n": 861
+        },
+        {
+          "decile": 2,
+          "p_mean": 0.0168,
+          "realized": 0.029,
+          "n": 861
+        },
+        {
+          "decile": 3,
+          "p_mean": 0.0205,
+          "realized": 0.043,
+          "n": 861
+        },
+        {
+          "decile": 4,
+          "p_mean": 0.0236,
+          "realized": 0.0499,
+          "n": 861
+        },
+        {
+          "decile": 5,
+          "p_mean": 0.0271,
+          "realized": 0.0406,
+          "n": 863
+        },
+        {
+          "decile": 6,
+          "p_mean": 0.0312,
+          "realized": 0.0536,
+          "n": 859
+        },
+        {
+          "decile": 7,
+          "p_mean": 0.0363,
+          "realized": 0.0499,
+          "n": 861
+        },
+        {
+          "decile": 8,
+          "p_mean": 0.0438,
+          "realized": 0.0314,
+          "n": 861
+        },
+        {
+          "decile": 9,
+          "p_mean": 0.0686,
+          "realized": 0.0581,
+          "n": 861
+        }
+      ]
+    }
+  },
+  "drift_checks": {
+    "paired_delong_raw_minus_hybrid_test_years": {
+      "auc_diff": 0.0108,
+      "z": 1.38,
+      "p_two_sided": 0.16720146951375492
+    },
+    "paired_delong_hybrid_minus_corpus_test_years": {
+      "auc_diff": 0.0334,
+      "z": 4.11,
+      "p_two_sided": 3.956103915181128e-05
+    },
+    "train_windows": {
+      "before_2000": {
+        "n_train": 12462,
+        "n_pos_train": 317,
+        "prevalence_train": 0.0254,
+        "raw_wx": 0.554534400676689,
+        "hybrid": 0.5541053834617429,
+        "corpus_only": 0.5179561181645923,
+        "physics_calibrated": 0.5790271621632902,
+        "raw_minus_hybrid": {
+          "auc_diff": 0.0004,
+          "z": 0.07,
+          "p_two_sided": 0.9442145826925128
+        }
+      },
+      "before_2005": {
+        "n_train": 19910,
+        "n_pos_train": 499,
+        "prevalence_train": 0.0251,
+        "raw_wx": 0.5733603786342123,
+        "hybrid": 0.5698435504469986,
+        "corpus_only": 0.5354475691227251,
+        "physics_calibrated": 0.5737031402599354,
+        "raw_minus_hybrid": {
+          "auc_diff": 0.0035,
+          "z": 0.55,
+          "p_two_sided": 0.5853432732708858
+        }
+      },
+      "before_2010": {
+        "n_train": 25938,
+        "n_pos_train": 654,
+        "prevalence_train": 0.0252,
+        "raw_wx": 0.5868632042003689,
+        "hybrid": 0.5786929217550508,
+        "corpus_only": 0.547559871117455,
+        "physics_calibrated": 0.5740189470140262,
+        "raw_minus_hybrid": {
+          "auc_diff": 0.0082,
+          "z": 1.22,
+          "p_two_sided": 0.22257851682407115
+        }
+      },
+      "before_2015": {
+        "n_train": 31160,
+        "n_pos_train": 857,
+        "prevalence_train": 0.0275,
+        "raw_wx": 0.5968406803618282,
+        "hybrid": 0.5860114302567913,
+        "corpus_only": 0.5525762596794075,
+        "physics_calibrated": 0.5777161119875791,
+        "raw_minus_hybrid": {
+          "auc_diff": 0.0108,
+          "z": 1.38,
+          "p_two_sided": 0.16720146951375492
+        }
+      }
+    },
+    "in_period_oof": {
+      "raw_wx": 0.654,
+      "hybrid": 0.634,
+      "corpus_only": 0.5928,
+      "physics_calibrated": 0.6128,
+      "chart_physics_no_fit": 0.6212
+    },
+    "test_years": {
+      "raw_wx": 0.5968,
+      "hybrid": 0.586,
+      "corpus_only": 0.5526,
+      "physics_calibrated": 0.5777,
+      "chart_physics_no_fit": 0.5777
+    }
+  }
+}

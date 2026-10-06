@@ -1,0 +1,111 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "Media attention and schedule/itinerary pressure",
+      "trigger": "Media interviews at multiple stops, scheduled events for evening and next-day stops, media presence at airport delayed hotel arrival and morning departure preparations",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Improper decision to take off into deteriorating weather",
+      "trigger": "Pilot decided to depart despite deteriorating weather (thunderstorm, heavy rain, turbulence, windshear) with overweight aircraft at high density altitude",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Media commitments and itinerary pressure contributed to pilot's desire to maintain schedule and depart ahead of approaching storm"}
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "THUNDERSTORM_OR_CONVECTIVE",
+      "label": "Advancing thunderstorm with heavy precipitation, turbulence, and windshear",
+      "trigger": "Cold front with thunderstorm, heavy rain (35-45 dBZ reflectivity, 3.1 inches/hour rate), moderate turbulence, winds 15-30 knots, crosswind component 21-23 knots",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "HIGH_DENSITY_ALTITUDE",
+      "label": "High density altitude (6,670 feet MSL)",
+      "trigger": "Cheyenne airport elevation 6,156 feet with density altitude of 6,670 feet, reducing best rate-of-climb speed from 87 mph to 81 mph and reducing climb rate from 685 fpm to 387 fpm",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Aircraft overweight at takeoff",
+      "trigger": "Takeoff weight calculated as 2,596 pounds, exceeding maximum gross weight of 2,500 pounds by 96 pounds, increasing stall speed by approximately 2 percent",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Failure to maintain adequate airspeed during climb and turn",
+      "trigger": "Aircraft maintained slow airspeed; witnesses described low airspeed, low altitude, high pitch attitude; pilot misjudged airspeed after right turn into tailwind with degraded visibility and turbulence",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 2, "strength": "contributing", "evidence": "Heavy rain reduced lift by 2-3 percent, moderate turbulence caused airspeed fluctuations, wind shift to tailwind masked actual airspeed loss, precipitation eliminated visible horizon reference"},
+        {"src": 3, "strength": "contributing", "evidence": "High density altitude significantly reduced climb performance capability"},
+        {"src": 4, "strength": "contributing", "evidence": "Overweight condition reduced climb capability and increased stall speed"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall",
+      "trigger": "Aircraft stalled during initial climb with high pitch attitude and wobbly wings, then rapidly descended toward ground",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "Failure to maintain airspeed above stall speed resulted in aerodynamic stall"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of control with steep descent",
+      "trigger": "After stalling, aircraft rolled off on a wing and rapidly descended in near-vertical flightpath at several hundred feet altitude",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "Stall resulted in immediate loss of control"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Collision with terrain",
+      "trigger": "Aircraft struck residential street approximately 4,000 feet north of runway 30 departure end in near-vertical impact",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "Uncontrolled descent from several hundred feet altitude resulted in ground impact"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to all three occupants",
+      "trigger": "Pilot in command, 7-year-old pilot trainee, and pilot trainee's father all fatally injured",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 8, "strength": "direct", "evidence": "High-velocity ground impact was not survivable"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

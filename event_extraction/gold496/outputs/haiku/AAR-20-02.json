@@ -1,0 +1,155 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "FO's weak flying aptitude and difficulty managing stress",
+      "trigger": "FO had fundamental weaknesses in his flying aptitude and stress response",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "TURBULENCE_ENCOUNTER",
+      "label": "Light turbulence from cold front penetration",
+      "trigger": "FDR data showed airplane vertical load factor variations began about 1238:25, with a peak vertical acceleration of 1.26 g",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "AUTOMATION_ANOMALY",
+      "label": "Go-around mode accidentally activated by unintended switch contact",
+      "trigger": "inadvertent activation of the go-around mode likely resulted from unintended contact between the FO's left wrist or watch and the left go-around switch due to turbulence-induced loads that moved his arm",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "turbulence-induced loads that moved his arm resulted in unintended contact with the go-around switch"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Crew unaware of go-around mode activation despite GA indications on displays",
+      "trigger": "despite the presence of the go-around mode indications on the flight mode annunciator, neither the FO nor the captain were aware that the airplane's automated flight mode had changed",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "go-around mode was activated but neither pilot made a go-around callout or acknowledged the mode change"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "FO experienced pitch-up somatogravic illusion due to airplane acceleration",
+      "trigger": "FO likely experienced a pitch-up somatogravic illusion as the airplane accelerated due to the inadvertent activation of the go-around mode",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "as the airplane accelerated, the gravito-inertial force vector increased and moved aft, simulating a nose-up attitude"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "FO pushed forward on elevator control column (nose-down pitch)",
+      "trigger": "manual forward elevator control column inputs were applied seconds after the inadvertent activation; FO continued pushing forward while calling out 'where's my speed, we're stalling'",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "somatogravic illusion prompted him to push forward on the elevator control column"
+        },
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "FO had fundamental weaknesses in his flying aptitude and stress response that degraded his ability to accurately assess the airplane's state"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Captain took control column but did not command positive transfer of control",
+      "trigger": "The captain's action on the control column was not followed by the command 'I have control' to indicate a positive transfer of control, as required by Atlas procedures",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "captain took hold of the left control column countering the FO's continued nose-down control inputs"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "captain's attention was diverted from monitoring the airplane's state while setting up the approach"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Captain and FO applied opposing forces on elevator control columns",
+      "trigger": "captain and FO each continued to apply opposing forces on the elevator control columns, enabling the FO to continue to force the airplane into a steepening dive",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "captain's failure to command a positive transfer of control enabled conflicting control inputs"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft in uncontrolled steep nose-down dive",
+      "trigger": "airplane's pitch nose-down progressed to about 20° nose down with airspeed in excess of 400 kts and load factor more than 4 g",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "opposing elevator control forces continued for about 10 seconds, during which the airplane's dive continued to steepen"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Aircraft crashed into Trinity Bay marsh",
+      "trigger": "Only 32 seconds elapsed between the go-around mode activation and the airplane's ground impact into a shallow, muddy marsh area of Trinity Bay, Texas",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "airplane in unrecoverable dive crashed into the marsh"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

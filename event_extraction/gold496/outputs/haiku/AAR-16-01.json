@@ -1,0 +1,125 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Encountered instrument meteorological conditions in icing environment",
+      "trigger": "At 1023:41, airplane descended through 5,500 ft with TAT below 10°C; AWOS indicated overcast at 2,800 ft with temperature -1°C",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Wing and horizontal stabilizer deice system not activated",
+      "trigger": "CVDR showed WINGSTAB switch remained OFF from 1002:55 through approach despite descent through icing conditions starting 1023:00 with TAT below 10°C and visible moisture",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "AFM Normal Icing Conditions checklist requires activation when TAT below 10°C with visible moisture; pilot was trained on this procedure"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Structural ice accumulated on wing leading edges and horizontal stabilizer",
+      "trigger": "Aircraft performance study determined ice accumulated over 15+ minutes of flight in icing conditions without deice protection",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Icing environment (TAT < 10°C + visible moisture) present and necessary for ice accumulation"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Deice system not activated allowed ice to continuously form on airframe surfaces"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flew approach at inappropriate speeds for icing conditions",
+      "trigger": "CVDR data at 1010:11 showed pilot set Vref to 92 knots using normal performance data; should have used 121+ knots per icing checklist",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall during approach",
+      "trigger": "At 1041:35.9, aural stall warning sounded at 21° AOA and 88 knots when aircraft at 840 ft altitude; stall occurred before warning could alert pilot",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Ice accumulation raised stall warning threshold to 21° AOA; with deice activated, warning would sound at 9.5° AOA with 20 seconds more warning and 200+ ft more altitude"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Approach speed of 92 knots was below minimum safe speed for icing configuration; speeds left no margin above stall speed"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncontrolled flight with severe roll and pitch oscillations",
+      "trigger": "CVDR shows aircraft rolled -59° left to +154° right with multiple pitch reversals after stall; altitude only 840 ft",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Stall at low altitude (300 ft above field elevation) left insufficient room for recovery; required 300-500 ft altitude loss per FSB guidance"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Impact with ground and three houses",
+      "trigger": "At 1041:55.4, aircraft impacted terrain in left-wing-down attitude (110.5°) about 3/4 mile from runway 14 threshold",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Uncontrolled flight at 840 ft altitude made impact inevitable; no recovery possible"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Six fatalities",
+      "trigger": "High-speed impact and post-crash fire caused deaths of pilot, two passengers, and three house occupants",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Impact forces and fire trauma unsurvivable"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

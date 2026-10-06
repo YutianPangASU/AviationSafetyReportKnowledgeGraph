@@ -1,0 +1,115 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "BIRD_OR_WILDLIFE_STRIKE",
+      "label": "Flock of migratory Canada geese encountered at 2,818 feet agl during climb-out",
+      "trigger": "At 1527:10, captain stated \"birds\"; CVR recorded thumps and thuds",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Almost complete loss of thrust in both engines from large bird ingestion into engine cores",
+      "trigger": "FDR showed N1 and N2 speeds of both engines decelerated immediately after bird encounter; wreckage analysis confirmed at least two 8-pound geese ingested into each engine core",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Immediately after the bird encounter, both engines' fan and core speeds started to decelerate; bird ingestion caused damage to inlet guide vanes and compressor stages preventing thrust recovery"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LOW_ALTITUDE_OPERATION",
+      "label": "Aircraft at 2,818 feet agl when engine thrust loss occurred",
+      "trigger": "FDR data indicated bird strike occurred at 2,818 feet agl, limiting options for recovery or reaching airports",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain's difficulty maintaining intended airspeed during emergency descent due to task saturation",
+      "trigger": "FDR showed airspeed maintained at Vls or slightly less throughout descent; captain acknowledged difficulty managing airspeed during final approach with high workload",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "High workload, task saturation, and stress from emergency dual-engine failure at low altitude prevented pilot from maintaining proper descent airspeed despite awareness of procedure"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Aircraft ditched on Hudson River with descent rate of 12.5 fps and pitch angle of 9.5 degrees",
+      "trigger": "FDR recorded water impact at 1530:43.7; all 155 occupants evacuated from aircraft",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Loss of thrust in both engines made return to airport impossible; captain determined landing at LGA or TEB unreachable"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Low altitude at engine failure prevented aircraft from gliding to suitable airports given energy state and distance"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Difficulty maintaining airspeed resulted in descent rate of 12.5 fps, significantly exceeding 3.5 fps assumed during ditching certification"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Significant structural damage to aft fuselage with hull breach allowing water ingress",
+      "trigger": "Postaccident inspection revealed crushing and failure of fuselage frames 55-70, cargo floor buckling, passenger floor deformation, and aft pressure bulkhead failure",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Descent rate of 12.5 fps resulted in external pressures of 22.6 psi on aft fuselage, exceeding design certification limit of 10.9 psi which assumed 3.5 fps descent rate"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "One flight attendant and four passengers sustained serious injuries; 95 passengers sustained minor injuries",
+      "trigger": "Medical records documented one flight attendant with deep laceration to shin, four passengers with fractures; 95 passengers reported minor injuries from impact",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Impact forces from water landing caused injuries from sudden deceleration and occupant contact with aircraft interior"
+        },
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "FR65 vertical beam punctured through cabin floor beneath flight attendant jumpseat causing laceration; impact forces caused shoulder fractures to two passengers upon contact with nonbreakover seatbacks"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

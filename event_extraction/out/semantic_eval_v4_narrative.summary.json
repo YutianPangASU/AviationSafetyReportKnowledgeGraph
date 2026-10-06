@@ -1,0 +1,12 @@
+{
+  "tag": "v4-narrative",
+  "extraction_file": "event_extraction/out/calibration_2k_v4_narrative.jsonl",
+  "n_records_evaluated": 2000,
+  "n_factors_total": 3481,
+  "n_factors_matched": 3161,
+  "recall": 0.90807239299052,
+  "n_events_total": 11105,
+  "n_events_matched_to_a_factor": 3309,
+  "precision": 0.2979738856371004,
+  "mean_per_record_recall": 0.9027083333333333
+}

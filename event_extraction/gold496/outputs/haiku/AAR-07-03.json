@@ -1,0 +1,88 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Pilot fatigued from 7.7 consecutive hours at helicopter controls with minimal breaks",
+      "trigger": "By the time of the accident, the pilot had been at the controls of the helicopter with the rotors turning for about 7.7 hours and had flown about 6.5 revenue flight hours",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "THUNDERSTORM_OR_CONVECTIVE",
+      "label": "Line of weather echoes with rain showers converged on ridge; cloud bases lowered below 2,400 feet",
+      "trigger": "Weather radar at 1645 depicted weather echoes containing rain showers; the line of echoes was associated with a lowering of cloud bases below 2,400 feet msl and obscuration of the higher terrain",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Pilot failed to accurately assess rate and extent of weather deterioration",
+      "trigger": "It is highly unlikely that the accident pilot would have decided to continue if he had accurately assessed the changing weather; the pilot's decision to fly in the vicinity of the accident site indicates that he was unable to accurately assess how rapidly or to what extent the weather was deteriorating",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "contributing", "evidence": "pilot's inexperience with Hawaii weather conditions, where conditions change rapidly and cannot be adequately assessed through traditional weather briefing sources"}]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot decided to continue flight along planned route toward Kahili Ridge rather than deviating east toward clearer weather",
+      "trigger": "Rather than deviate to the east, the pilot chose to fly south, along his usual tour route adjacent to Kahili Ridge, as the advancing line of clouds closed in on the high terrain; the pilot had the option of avoiding inconveniences by continuing along his usual flightpath and attempting to cross the ridge",
+      "cause_role": "primary",
+      "caused_by": [{"src": 0, "strength": "contributing", "evidence": "fatigue likely had an adverse impact on pilot decision-making and performance"}, {"src": 2, "strength": "direct", "evidence": "pilot's inadequate weather assessment led him to underestimate the severity of conditions"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Helicopter encountered instrument meteorological conditions while operating under visual flight rules",
+      "trigger": "The pilot attempted to continue visual flight into IMC; pilot likely encountered areas of restricted visibility as he attempted to cross the ridge; the helicopter entered an area of turbulent, reduced visibility weather conditions",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "line of weather echoes containing rain showers with reduced visibility"}, {"src": 3, "strength": "direct", "evidence": "pilot's decision to continue flying toward the ridge area"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "Pilot became spatially disoriented due to loss of visual cues in IMC",
+      "trigger": "In the absence of evidence indicating a mechanical malfunction or other factor, spatial disorientation is the most likely explanation; the helicopter's descending spiral flightpath was consistent with pilot spatial disorientation",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "direct", "evidence": "VFR flight into IMC with sustained turns and high workload created conditions conducive to spatial disorientation illusions"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Helicopter entered erratic spiral descent with increasingly unstable flight path",
+      "trigger": "The helicopter's ground track made a 180-degree clockwise turn toward the south and crossed back in a zigzag pattern; the radar track showed increasingly erratic spiral before ending at the wreckage location",
+      "cause_role": "primary",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "spatial disorientation resulted in inappropriate pilot control inputs"}]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter impacted mountainous terrain on 75-degree slope at Kahili Ridge",
+      "trigger": "The helicopter impacted mountainous terrain in Kalaheo, Hawaii; wreckage was located on the east side of Kahili Ridge about 200 feet below the crest at an elevation of 2,850 feet",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "loss of control during erratic descent led directly to terrain collision"}]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All five occupants killed in impact and postcrash fire",
+      "trigger": "The commercial pilot and the four passengers were killed; the helicopter was destroyed by impact forces and postimpact fire",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "occupants subjected to impact forces that exceeded the limits of human tolerance"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

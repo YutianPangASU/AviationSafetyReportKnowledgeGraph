@@ -1,0 +1,96 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Captain severely sleep deprived, only 1 hour sleep",
+      "trigger": "Captain reported 45 minutes to 1 hour of sleep night before accident; awake approximately 31 of prior 32 hours",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Heavy snow with rapidly deteriorating visibility during approach",
+      "trigger": "Visibility 1/4 mile in heavy snow; RVR decreased from 6,000 feet to 2,200 feet; moderate to heavy snow reported during approach and landing",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Crew decided to use ILS minimums (227 ft) instead of localizer minimums (429 ft) despite controller stating glideslope unusable",
+      "trigger": "Controller cleared ILS approach with glideslope unusable; crew assumed glideslope was working based on cockpit indications and 'mental math' for 3-degree glideslope; used ILS DH instead of localizer MDA",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Captain's fatigue impaired his judgment during approach briefing and planning"},
+        {"src": 1, "strength": "contributing", "evidence": "Poor visibility influenced crew's willingness to accept lower approach minimums"}
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain and first officer lost visual reference to runway at low altitude during descent",
+      "trigger": "Captain stated at 80 feet he could not see the runway; first officer lost sight at approximately 10 feet during snow squall",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 1, "strength": "direct", "evidence": "Snow squalls and heavy snow directly caused loss of visual cues at low altitude"},
+        {"src": 2, "strength": "direct", "evidence": "Descending to ILS minimums resulted in aircraft being at altitudes where loss of visibility required immediate missed approach"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "First officer did not execute missed approach in response to captain's go-around callout at 80 feet",
+      "trigger": "Captain said 'let's go [around]'; first officer responded 'I got the end of the runway' and continued approach; captain did not reinforce or take control",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Captain's fatigue reduced his assertiveness in enforcing the go-around command and failure to reinforce after first officer did not comply"},
+        {"src": 3, "strength": "direct", "evidence": "Captain's perception of loss of visual reference triggered the go-around callout that should have been executed immediately"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Crew failed to apply maximum reverse thrust and aggressive braking immediately upon landing on contaminated runway",
+      "trigger": "Reverse thrust not commanded until 5 seconds after main gear touchdown, reaching only 65 percent N1 for 2 seconds then tapering; initial wheel brake application only 20 percent of maximum",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Captain's fatigue impaired his monitoring of landing procedures and emergency braking technique"},
+        {"src": 4, "strength": "direct", "evidence": "Failure to execute go-around resulted in landing on contaminated runway requiring immediate maximum reverse thrust and full wheel braking per company procedures"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft overran runway end, struck ILS antenna and perimeter fence",
+      "trigger": "Aircraft came to rest on snow-covered grass surface beyond runway; nose gear collapsed; multiple impacts with antenna and fence recorded",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "Failure to execute go-around resulted in landing 2,900 feet down 6,017-foot runway, leaving insufficient stopping distance"},
+        {"src": 5, "strength": "direct", "evidence": "Inadequate reverse thrust and delayed/insufficient wheel braking prevented stopping within remaining runway distance"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Three passengers sustained minor injuries",
+      "trigger": "Passengers reported neck, back, spine, shoulder, and arm pain; two transported to hospital but not admitted",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "Impact forces from runway overrun and collision with antenna and fence caused passenger injuries"}
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

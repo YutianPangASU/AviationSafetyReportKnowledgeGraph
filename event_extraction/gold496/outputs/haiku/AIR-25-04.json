@@ -1,0 +1,114 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Manufacturing personnel lacked structured training on MED plug procedures",
+      "trigger": "None of the four lesser experienced door team personnel interviewed had ever opened an MED plug; Boeing required no task list, grading structure, or training documentation for on-the-job training",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Boeing's BPI for parts removal was complex and lacked clarity",
+      "trigger": "BPI was more than 50 pages long, contained hyperlinks, and provided more exceptions about when removal records were not needed than direction indicating when they were",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "MED plug opened without generating required removal record",
+      "trigger": "No removal record for opening the left MED plug was identified in CMES; manufacturing records showed the left MED plug was open but no removal record existed",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Inexperienced personnel without MED plug training were working when plug was opened"},
+        {"src": 1, "strength": "contributing", "evidence": "Complex BPI made it difficult for personnel to understand when removal records were required"}
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Four securing bolts not reinstalled when MED plug was closed",
+      "trigger": "Left MED plug was subsequently closed without its securing bolts and attachment hardware",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 2, "strength": "direct", "evidence": "Without removal record documenting the opening, there were no documented steps requiring reinstallation of bolts"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "No quality assurance inspection performed on MED plug closure",
+      "trigger": "No quality assurance inspection of the plug closure was performed",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 2, "strength": "direct", "evidence": "Removal record would have specified quality assurance signoffs required; without it, no inspection occurred"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "MED plug installed with four securing bolts missing",
+      "trigger": "The four bolts that should have been installed to prevent upward movement were missing before the plug moved upward off the stop pads",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "Bolts were not reinstalled during closure"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "MED plug displaced incrementally upward during previous flights",
+      "trigger": "Left MED plug had moved incrementally upward during previous flight cycles; dynamic loads imparted by vibrations and flexing during normal flight operations led to gradual upward movement",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "Missing bolts allowed plug to move vertically under inertial loads; force exceeding limits of gauge was required when bolts were removed from similar plug"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "MED plug separated from fuselage creating structural failure",
+      "trigger": "At 1712:33 during climb through 14,830 feet, in-flight separation of the left MED plug occurred with rapid depressurization",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "MED plug displaced upward during accident flight to point of stop pin to stop pad instability, then disengaged and separated outward and aft"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Minor injuries sustained",
+      "trigger": "One flight attendant and 7 passengers received minor injuries including bruises and neck or ear pain; no one was transported to a hospital",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "Flight attendant struck by forcefully opening flight deck door; rapid decompression caused pressure-related injuries and debris hazards"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Aircraft sustained substantial structural damage",
+      "trigger": "Fuselage hole at row 26 where left MED plug was missing; damage to fuselage frame components, interior panels displaced, three oxygen masks missing, seat structures deformed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "MED plug separation created hole in fuselage and structural damage meeting substantial damage criteria"}
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

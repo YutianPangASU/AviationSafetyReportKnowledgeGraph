@@ -1,0 +1,143 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "FAA pilot flight and duty time regulations inadequate",
+      "trigger": "existing FAA pilot flight and duty time regulations permitted the long and demanding day experienced by the accident pilots",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Captain and first officer fatigued after 16+ hours awake, 14+ hour duty day, aggravated by check airman workload",
+      "trigger": "CVR recorded captain: 'yeah, just tired. Too late for this'; 'aw I'm tired dude, just (expletive) worn out'; first officer: 'jeez, I'm tired'; several yawns recorded on captain's channel",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "regulations permitted the long and demanding day"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "RUNWAY_CONDITION_HAZARD",
+      "label": "Runway 28 contaminated with wet snow over thin ice",
+      "trigger": "thin wet snow [over] patchy thin ice reported with MU values of .40+ initially, deteriorating during approach",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Visibility decreased and heavy snow fell during approach",
+      "trigger": "moderate to heavy snow fell after snow removal completed; visibility decreased to 1/4 mile in heavy snow by time of landing",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "GROUND_PERSONNEL_ERROR",
+      "label": "Airport operations supervisor used ambiguous braking action reports",
+      "trigger": "supervisor reported 'probably nil'; when captain asked 'are you saying it's nil?', supervisor responded 'haven't been out there to do a field report...I don't know what it's doin' now'",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilots decided to land without performing required landing distance assessment",
+      "trigger": "pilots failed to perform landing distance assessment required by Pinnacle OpSpec C382 for contaminated runway; captain stated he believed conditions acceptable based on contaminant depth despite evidence to contrary",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "poor decision-making likely reflected effects of fatigue"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "runway contamination initially reported by ground personnel, which required landing distance assessment per company policy"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "ambiguous phraseology and supervisor's failure to confirm nil report likely led pilots to believe braking action was not actually nil"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Airplane touched down 2,400 feet from runway threshold, beyond standard zone",
+      "trigger": "airplane touched down about 2,400 feet from approach threshold; company standard touchdown zone is 1,000 to 1,500 feet",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "consequence of continuing approach without proper landing distance planning and assessment"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Loss of directional control during landing roll, aircraft yawed left",
+      "trigger": "during second thrust reverser deployment, aircraft heading changed 7 degrees nose-right, then veered to maximum 25 degrees nose-left of runway heading; pilot applied maximum right rudder but aircraft continued yawing left",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "on contaminated runway at low airspeed, rudder alone insufficient for directional control; aircraft exhibited loss of directional stability"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "crosswind from right degraded directional control effectiveness combined with thrust reverser deployment at low speed"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft ran off departure end of runway 28",
+      "trigger": "airplane ran off the end of runway 28 at ground speed of approximately 47 knots; came to stop approximately 100 feet beyond 200-foot-long runway blast pad",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "decision to land without landing distance assessment resulted in aircraft landing without adequate stopping distance for contaminated runway conditions"
+        },
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "late touchdown 2,400 feet from threshold reduced available runway for deceleration to stop"
+        },
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "loss of directional control prevented effective use of deceleration devices and normal landing technique"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

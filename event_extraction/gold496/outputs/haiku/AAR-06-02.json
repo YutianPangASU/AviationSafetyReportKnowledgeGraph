@@ -1,0 +1,69 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Night flight with minimal moon illumination",
+      "trigger": "Evening civil twilight ended about 22 minutes before the accident. The moon illumination was only 8 percent of the moon disk",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Scattered to broken cloud layer blocking external visual references",
+      "trigger": "A scattered to broken layer of low stratiform clouds over the Gulf of Mexico. Few, if any, references outside of the helicopter would have been available to the flight crew",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "unknown",
+      "label": "Helicopter began unplanned descent from 1,800 feet MSL",
+      "trigger": "The helicopter began to descend from an altitude of 1,800 feet at 1858:10 at a rate of about 300 feet per minute",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Flight crew failed to identify and arrest the helicopter's descent",
+      "trigger": "The flight crew was not adequately monitoring the helicopter's altitude and missed numerous cues indicating the helicopter was inadvertently descending toward the water",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "night operations eliminated external visual references"},
+        {"src": 1, "strength": "contributing", "evidence": "cloud cover further reduced external visual references"},
+        {"src": 2, "strength": "direct", "evidence": "the descent required immediate crew detection and corrective action"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Helicopter impacted Gulf of Mexico",
+      "trigger": "The helicopter crashed into the Gulf of Mexico about 70 nautical miles south-southeast of Scholes International Airport",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "the uncontrolled descent continued unabated to water impact due to the crew's failure to arrest it"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All 10 occupants killed",
+      "trigger": "The captain, copilot, and eight passengers aboard the helicopter were killed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "the cause of death for the flight crew and passengers was multiple blunt force trauma injuries"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

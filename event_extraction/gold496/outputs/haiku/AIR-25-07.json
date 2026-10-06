@@ -1,0 +1,91 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Aft trunnion pin installed without verification of correct seating",
+      "trigger": "The mechanic removed both main landing gear. The aft trunnion pin was inserted through the aft trunnion fitting but had not been inserted far enough into the trunnion casting for the two holes to align. The retaining bolt had been installed and secured in the aft trunnion casting without going through the hole in the aft trunnion pin.",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Left main landing gear insecurely attached to wing structure",
+      "trigger": "The retaining bolt was secured without passing through the aft trunnion pin, leaving the pin not fully seated in the trunnion casting and its shoulder visibly protruding from the aft spar surface.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Preliminary findings indicate that months earlier, the aft trunnion pin was not correctly installed when the main landing gear was installed."
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Left main landing gear separates from aircraft during landing",
+      "trigger": "The left main landing gear separated from the airplane and came to rest adjacent to taxiway B.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Installation of the aft trunnion pin without engaging its retaining bolt can result in the landing gear separating from the airplane during landing."
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft exits runway and enters safety areas",
+      "trigger": "The airplane immediately entered a left-wing-low attitude and began veering left, exiting the runway surface. The airplane traveled over the rock-covered runway safety areas located between the runway and taxiways.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "The left main landing gear separated from the airplane and the airplane began veering left, exiting the runway surface."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "GROUND_COLLISION",
+      "label": "Aircraft collides with parked Gulfstream G200",
+      "trigger": "The airplane crossed taxiway B, collided with a windsock, and entered the ramp area where it struck the right side of the parked Gulfstream G200.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "The aircraft exiting the runway in a left-wing-low attitude crossed taxiway B and struck the parked aircraft in the ramp area."
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injury to captain, serious injuries to crew and ground personnel",
+      "trigger": "The Learjet's captain was fatally injured, the first officer and one passenger were seriously injured, and one passenger received minor injuries; an occupant inside the parked airplane sustained serious injuries.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Injuries resulted from the collision between the Learjet and the parked Gulfstream G200."
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,245 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Fog formation likely and low ceiling conditions at launch site area",
+      "trigger": "The 0635 HYI AWOS recorded few clouds at 700 ft agl and temperature/dew point spread as 0°C. At 0646 an observation reported 2 statute miles visibility, mist, a broken ceiling at 700 ft agl.",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Pilot's depression, ADHD, and multiple CNS-impairing medications affecting cognition",
+      "trigger": "Major depressive disorder is associated with significant cognitive degradation, particularly in executive functioning. ADHD is associated with impaired decision-making. Postaccident toxicology detected therapeutic levels of diazepam, cyclobenzaprine, oxycodone, and diphenhydramine. These drugs degrade multiple psychomotor and cognitive skills including vigilance and decision-making.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot failed to obtain updated weather information before launch",
+      "trigger": "The pilot did not seek additional weather information after receiving the FSS weather briefing. Updated observations at 0635, 0637, and 0646 were available but the pilot did not check them before launching at 0658.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Medical conditions and medications impair cognitive function and decision-making"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot decided to launch despite weather indicators of fog formation",
+      "trigger": "The pilot's failure to obtain updated weather information denied him information that indicated conditions were deteriorating and might not remain VFR, which resulted in his decision to launch when he should have cancelled.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Deteriorating weather with fog and low ceilings"
+        },
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Pilot did not have most recent weather information"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Medical conditions and medications impair judgment"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Balloon encountered fog and low clouds within minutes of launch",
+      "trigger": "A passenger photograph taken 2 minutes after launch showed low clouds and fog. The ground crew chief stated that he saw the balloon enter fog soon after it passed over a tollway about 1.5 miles north of the launch site.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Pilot launched into weather containing fog and low clouds"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot continued flight through reduced visibility instead of landing when opportunities existed",
+      "trigger": "The pilot did not decide to land during portions of flight when the ground was still visible through thin clouds. The pilot had many opportunities to descend while maintaining visual contact with the ground, but instead of selecting a suitable landing location, he continued the flight.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Fog and clouds reducing visibility presented hazard"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Medical conditions and medications impair decision-making ability"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot climbed above overcast clouds obscuring ground from view",
+      "trigger": "A passenger photograph taken 40 minutes after launch showed the balloon flying above an overcast cloud layer that appeared to extend to the horizon. By climbing above the clouds, the pilot greatly limited his ability to identify suitable landing sites.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Pilot continued through visibility restrictions until choosing to climb above"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot initiated descent from above clouds in reduced visibility",
+      "trigger": "Once above the clouds, the pilot had two choices: continue flight over clouds or descend in current conditions. Descending through a hole in the clouds or in reduced visibility would have made it more difficult to select an appropriate landing site and decreased the possibility of avoiding obstacles.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Pilot's climb above clouds led to subsequent descent decision"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Balloon descended in reduced visibility that obscured power lines",
+      "trigger": "The pilot's decision to land in reduced visibility conditions that diminished his ability to see and avoid obstacles resulted in the balloon impacting power lines that were obscured by low clouds and/or fog.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "Pilot initiated descent in conditions with poor visibility"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "label": "Balloon struck 340,000-volt power lines during descent",
+      "trigger": "The balloon impacted power lines. Data from Hot Air indicated that the balloon's flightpath intersected power lines about 0742; the power line operator reported a power trip on the line at that same time.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "Balloon descended into power lines obscured by fog and clouds"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "High-voltage power lines severed balloon envelope support cables",
+      "trigger": "Electrical arcing damage was found on the envelope support cables. The location of the arcing damage indicated that the balloon impacted the power lines at or near the burner support frame and basket, severing enough of the support cables to separate the basket from the burner support frame and envelope.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "Power line contact caused electrical arcing and cable severance"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Basket separated from envelope and burner assembly",
+      "trigger": "The balloon's support cables struck power lines, causing separation of the basket from the burner support frame and envelope. The fact that all the fuel lines separated at or near their connection to the burners suggests they failed under load as the basket fell away from the burner support frame.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 10,
+          "strength": "direct",
+          "evidence": "Cable severance caused basket separation from envelope"
+        }
+      ]
+    },
+    {
+      "idx": 12,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Severed fuel lines released propane that ignited",
+      "trigger": "Liquid propane sprayed from the severed lines, igniting a fire. The balloon was destroyed by impact forces and postcrash fire.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 11,
+          "strength": "direct",
+          "evidence": "Basket separation pulled fuel lines apart, releasing propane"
+        }
+      ]
+    },
+    {
+      "idx": 13,
+      "class": "event",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Basket impacted ground after separation from envelope",
+      "trigger": "The basket fell about 100 ft to the ground after separation from the envelope and burner assembly.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 11,
+          "strength": "direct",
+          "evidence": "Basket fell to ground after separation from envelope"
+        }
+      ]
+    },
+    {
+      "idx": 14,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and 15 passengers died from impact and fire",
+      "trigger": "The pilot and 15 passengers died, and the balloon was destroyed by impact forces and postcrash fire. Autopsy results indicated the causes of death for the occupants included various combinations of blunt force trauma, thermal burns, and inhalation injuries.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "contributing",
+          "evidence": "Power line impact initiated the cascade of structural failures"
+        },
+        {
+          "src": 12,
+          "strength": "contributing",
+          "evidence": "Fire from ruptured fuel lines caused thermal injuries"
+        },
+        {
+          "src": 13,
+          "strength": "contributing",
+          "evidence": "Ground impact from basket fall caused blunt force trauma"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

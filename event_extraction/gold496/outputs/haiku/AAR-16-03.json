@@ -1,0 +1,70 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilots have inadequate training and qualifications for Hawker 700A operations",
+      "trigger": "First officer had documented training difficulties from previous employer not thoroughly evaluated; both pilots inadequately trained in CRM; CRM test improperly scored",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Approach briefing not conducted properly; approach checklist not completed",
+      "trigger": "First officer requested captain brief approach (reversing proper roles); briefing incomplete and unstructured; approach checklist never conducted",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "contributing", "evidence": "Pilots' inadequate training evident in improper briefing structure and content"}]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "First officer reduces airspeed to dangerous level; captain recognizes stall threat but fails to take control",
+      "trigger": "FO reduced airspeed to 125 knots with flaps 25° (below 144-knot minimum); at 1449:56.1 captain said 'because we gonna stall' but allowed FO to continue flying",
+      "cause_role": "primary",
+      "caused_by": [{"src": 1, "strength": "contributing", "evidence": "Poor briefing led to inadequate understanding of approach speeds and energy management"}]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "First officer selects flaps 45° prematurely and applies excessive nose-down pitch control",
+      "trigger": "FO requested full flaps (45°) at 1451:00.9 before FAF; procedures required flaps 25° until after MDA; then applied nose-down pitch creating 2,000 fpm descent rate",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 2, "strength": "contributing", "evidence": "Captain did not question or correct these improper control inputs"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain continues descent below MDA without landing assured or visual contact with runway",
+      "trigger": "At 1452:20.5 captain said 'keep going' below MDA; at 1452:27.3 ordered level-off despite airspeed 113 knots (below 124-knot minimum), flaps 45°, and no runway in sight",
+      "cause_role": "primary",
+      "caused_by": [{"src": 2, "strength": "direct", "evidence": "Captain's failure to enforce SOPs; approach was unstabilized at MDA and required missed approach per procedures"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall during attempted level-off at low altitude",
+      "trigger": "Stick shaker activated at 1452:27.4; radar data indicated angle-of-attack approximately 21 degrees (critical AOA for flaps 45° was 15.5 degrees)",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "Flaps 45° required approximately 1,150 lbs/hr per engine but FO provided only approximately 800 lbs/hr; inadequate power prevented maintaining airspeed"}, {"src": 2, "strength": "contributing", "evidence": "Airspeed only 113 knots, 11 knots below required minimum of 124 knots, leaving insufficient margin for stall recovery"}]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted apartment building",
+      "trigger": "CVR recorded first impact sounds at 1452:34.7, approximately 7 seconds after stall onset; aircraft struck four-unit apartment building",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "Aerodynamic stall resulted in uncontrollable descent; aircraft unable to recover before impact"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

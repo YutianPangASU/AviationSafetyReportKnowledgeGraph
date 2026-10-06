@@ -1,0 +1,1465 @@
+{"record_id": "TSB_A00P0157", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A00O0196", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A00C0218", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A00A0012", "matches": {"0": [2], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A00Q0075", "matches": {"0": [2, 3], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A00W0066", "matches": {"0": [1], "1": [1, 2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A00O0210", "matches": {"0": [1], "1": [0, 1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A00P0156", "matches": {"0": [], "1": [], "2": [], "3": [1]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A00O0286", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A00A0103", "matches": {"0": [1], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A00P0042", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A01A0020", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A00O0082", "matches": {"0": [0], "1": [5, 6]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A00A0118", "matches": {"0": [1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A01A0022", "matches": {"0": [0, 1, 2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A01A0092", "matches": {"0": [1], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A00A0007", "matches": {"0": [0, 2], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A00A0076", "matches": {"0": [], "1": [], "2": [], "3": [2], "4": [], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A00Q0081", "matches": {"0": [0], "1": [4], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A00C0099", "matches": {"0": [0, 1], "1": [], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A01P0010", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A00W0001", "matches": {"0": [0], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A00C0059", "matches": {"0": [2], "1": [2], "2": [], "3": [2]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A00F0066", "matches": {"0": [1, 2], "1": [3, 4, 5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A00P0166", "matches": {"0": [], "1": [2], "2": [], "3": [], "4": [], "5": [1]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A00P0009", "matches": {"0": [1], "1": [3], "2": [], "3": [1, 3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A00F0035", "matches": {"0": [], "1": [1], "2": [], "3": [1], "4": [], "5": []}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A00O0160", "matches": {"0": [1], "1": [2], "2": [2], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A00F0014", "matches": {"0": [2], "1": [1], "2": [3], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A00P0237", "matches": {"0": [4], "1": [2], "2": [1], "3": [0, 1]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A00P0026", "matches": {"0": [0], "1": [3, 4], "2": [3, 4], "3": []}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A00A0147", "matches": {"0": [2], "1": [], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A00W0047", "matches": {"0": [2], "1": [1, 3], "2": [1, 3], "3": [2]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A02P0109", "matches": {"0": [0, 5], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A00A0001", "matches": {"0": [2, 1], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A00Q0086", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A01P0215", "matches": {"0": [], "1": []}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A00Q0024", "matches": {"0": [0, 1, 2], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A01A0147", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A00C0011", "matches": {"0": [1], "1": [4], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A02O0123", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A01P0011", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A00F0021", "matches": {"0": [2], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A02Q0001", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A00W0249", "matches": {"0": [], "1": [], "2": [2, 3]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A02O0121", "matches": {"0": [1], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A00P0228", "matches": {"0": [0], "1": [4], "2": [5], "3": [], "4": []}, "n_seq": 5, "n_chain": 7}
+{"record_id": "TSB_A01Q0016", "matches": {"0": [], "1": [], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A01Q0146", "matches": {"0": [1], "1": [2, 3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A01O0274", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A01P0281", "matches": {"0": [3], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A01O0322", "matches": {"0": [0], "1": [0, 1], "2": [1, 2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A01P0135", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A01P0306", "matches": {"0": [0], "1": [2], "2": [2], "3": [], "4": [3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A00A0074", "matches": {"0": [0, 2], "1": [4], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A02O0233", "matches": {"0": [0], "1": [1], "2": [2, 3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A01W0086", "matches": {"0": [0], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A01A0141", "matches": {"0": [0], "1": [1], "2": [], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A01P0173", "matches": {"0": [], "1": [2], "2": [], "3": [], "4": [1], "5": []}, "n_seq": 6, "n_chain": 3}
+{"record_id": "TSB_A01Q0131", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A00P0182", "matches": {"0": [], "1": [3, 4], "2": [6, 7]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A01A0129", "matches": {"0": [1, 2], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A01W0166", "matches": {"0": [0, 1], "1": [], "2": [], "3": [2], "4": [3], "5": [3]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A02C0191", "matches": {"0": [2, 3], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A02A0120", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A02P0167", "matches": {"0": [1], "1": [], "2": [4, 5], "3": [4, 5]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A01Q0140", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A01Q0139", "matches": {"0": [0], "1": [], "2": [1], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A00P0033", "matches": {"0": [0], "1": [1, 3], "2": [], "3": [3, 4], "4": [4], "5": [4], "6": []}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A00W0130", "matches": {"0": [0], "1": [], "2": [0], "3": [5], "4": [5], "5": [6]}, "n_seq": 6, "n_chain": 8}
+{"record_id": "TSB_A01W0280", "matches": {"0": [0], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A01Q0071", "matches": {"0": [1], "1": [0], "2": [0]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A03W0225", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A03A0103", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A00Q0173", "matches": {"0": [0], "1": [1], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A02C0185", "matches": {"0": [], "1": [1], "2": [4], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A02A0132", "matches": {"0": [0, 1], "1": [3, 4], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A00P0170", "matches": {"0": [2], "1": [4], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A00A0125", "matches": {"0": [0, 1], "1": [2], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A03P0246", "matches": {"0": [0], "1": [0], "2": [1]}, "n_seq": 3, "n_chain": 2}
+{"record_id": "TSB_A04C0035", "matches": {"0": [0], "1": [1, 2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A02F0069", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A03C0128", "matches": {"0": [0], "1": [1], "2": [], "3": [4, 5]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A02A0098", "matches": {"0": [2], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A01C0118", "matches": {"0": [1], "1": [2, 3], "2": [], "3": [5]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A01P0036", "matches": {"0": [0, 1], "1": [4], "2": [3], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A02W0019", "matches": {"0": [0, 1], "1": [], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A02Q0065", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A03Q0076", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A03Q0043", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A02O0016", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A03F0138", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A02P0290", "matches": {"0": [0, 1, 2, 4], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A00O0059", "matches": {"0": [1, 2], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A02O0261", "matches": {"0": [0], "1": [], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A04O0002", "matches": {"0": [2], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A05W0215", "matches": {"0": [0, 2], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A01O0169", "matches": {"0": [0, 1], "1": [], "2": [], "3": [3], "4": [], "5": []}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A01O0096", "matches": {"0": [0], "1": [4], "2": [2], "3": [0, 4]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A04Q0197", "matches": {"0": [2], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A01A0100", "matches": {"0": [0], "1": [2], "2": [5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A02W0001", "matches": {"0": [0, 1], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A03W0122", "matches": {"0": [0, 1], "1": [1], "2": [1]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A04C0174", "matches": {"0": [2], "1": [3], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A03F0174", "matches": {"0": [1, 2], "1": [2, 3], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A05C0077", "matches": {"0": [0], "1": [1], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A02A0044", "matches": {"0": [1], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A01O0045", "matches": {"0": [1], "1": [0], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A03W0175", "matches": {"0": [], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A03P0296", "matches": {"0": [0, 1, 2], "1": [4], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A02O0278", "matches": {"0": [1], "1": [1], "2": [2], "3": [3], "4": [4], "5": [4]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A03W0167", "matches": {"0": [2], "1": [3, 4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A03O0227", "matches": {"0": [4], "1": [5], "2": [], "3": [6]}, "n_seq": 4, "n_chain": 8}
+{"record_id": "TSB_A03C0133", "matches": {"0": [0, 1], "1": [], "2": [5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A04O0218", "matches": {"0": [0, 1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A03A0098", "matches": {"0": [1, 2], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A01C0107", "matches": {"0": [0, 1], "1": [1], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A03C0094", "matches": {"0": [0], "1": [0, 2], "2": [3], "3": [4], "4": []}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A02W0212", "matches": {"0": [1], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A04A0088", "matches": {"0": [0, 1, 2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A03W0230", "matches": {"0": [0, 1, 2, 3], "1": [5], "2": [6], "3": [6]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A03P0265", "matches": {"0": [2, 3], "1": [2, 3, 4], "2": [4, 5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A05F0088", "matches": {"0": [0], "1": [0], "2": [2, 3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A03W0175", "matches": {"0": [], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A06A0014", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A03A0026", "matches": {"0": [0], "1": [3], "2": [], "3": [2], "4": [2]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A03Q0201", "matches": {"0": [0, 1, 2], "1": [1], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A04A0011", "matches": {"0": [], "1": [1, 2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A04O0020", "matches": {"0": [0], "1": [1], "2": [1, 2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A03Q0178", "matches": {"0": [1], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A05C0068", "matches": {"0": [0, 2], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A04P0333", "matches": {"0": [0, 1], "1": [1, 2], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A05A0104", "matches": {"0": [1], "1": [2], "2": [0, 2], "3": [3], "4": [3]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A03P0282", "matches": {"0": [0, 1], "1": [1], "2": [1], "3": [1], "4": [3], "5": [3]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A04C0185", "matches": {"0": [1], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A04W0186", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A03O0234", "matches": {"0": [0, 1, 2], "1": [3, 4], "2": [4], "3": [3], "4": [4], "5": [4, 5]}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A05W0222", "matches": {"0": [], "1": [0], "2": [0], "3": [], "4": [], "5": [2]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A04W0187", "matches": {"0": [0, 1], "1": [2], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A06Q0142", "matches": {"0": [1], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A07O0120", "matches": {"0": [1], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A05C0084", "matches": {"0": [0], "1": [0], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A03F0135", "matches": {"0": [3], "1": [3], "2": [3], "3": [3], "4": [5]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A02Q0068", "matches": {"0": [0], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A04W0010", "matches": {"0": [1], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A04O0278", "matches": {"0": [1], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A03A0012", "matches": {"0": [2, 3], "1": [], "2": [2, 3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A04Q0186", "matches": {"0": [0], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A03W0015", "matches": {"0": [], "1": [5], "2": [4]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A06O0183", "matches": {"0": [0], "1": [3], "2": []}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A03O0156", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A04W0110", "matches": {"0": [0, 1], "1": [4, 5], "2": [5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A05Q0120", "matches": {"0": [1], "1": [5], "2": [6]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A01P0202", "matches": {"0": [], "1": [1, 2], "2": [1, 2], "3": [], "4": [4], "5": [], "6": [], "7": []}, "n_seq": 8, "n_chain": 6}
+{"record_id": "TSB_A02Q0022", "matches": {"0": [0, 1, 2], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A03P0009", "matches": {"0": [1, 2], "1": [1, 2], "2": [1], "3": [3], "4": [0, 1, 2], "5": [0], "6": [3]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A05C0059", "matches": {"0": [1], "1": [2], "2": [3], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A02A0055", "matches": {"0": [3], "1": [0], "2": [4], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A04P0205", "matches": {"0": [0], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A05P0165", "matches": {"0": [0], "1": [1, 2], "2": [3, 4], "3": [4]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A04P0082", "matches": {"0": [0], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A05W0172", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A04W0114", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A05W0027", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A03W0237", "matches": {"0": [1, 2, 3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A08F0177", "matches": {"0": [3], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A05C0008", "matches": {"0": [2], "1": [4], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A04O0165", "matches": {"0": [1], "1": [3], "2": [5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A07C0048", "matches": {"0": [2], "1": [3], "2": []}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A04W0067", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A07O0247", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A02W0179", "matches": {"0": [3], "1": [3], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A07A0150", "matches": {"0": [0], "1": [1], "2": [1]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A08C0230", "matches": {"0": [0, 1], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A05Q0128", "matches": {"0": [0, 2, 3], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A05W0231", "matches": {"0": [0], "1": [], "2": [2, 3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A07F0184", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A03O0324", "matches": {"0": [1], "1": [4], "2": [5], "3": [6]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A03O0306", "matches": {"0": [0, 1], "1": [3], "2": [4], "3": [5], "4": [2]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A06W0235", "matches": {"0": [0, 2], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A07O0235", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A05P0189", "matches": {"0": [0, 3, 4, 5], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A06C0097", "matches": {"0": [1], "1": [], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A08Q0089", "matches": {"0": [2], "1": [0, 1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A09O0098", "matches": {"0": [], "1": [0, 1], "2": [2, 3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A05Q0186", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A09A0049", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A05O0142", "matches": {"0": [0], "1": [1, 2], "2": [2]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A05O0125", "matches": {"0": [0, 1, 2], "1": [3], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A04O0329", "matches": {"0": [1], "1": [1], "2": [1]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A04O0103", "matches": {"0": [2], "1": [3], "2": [0]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A05P0184", "matches": {"0": [], "1": [3], "2": [1], "3": [4], "4": [0, 2]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A08Q0159", "matches": {"0": [0, 1], "1": [0], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A05P0298", "matches": {"0": [1], "1": [3, 4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A06F0028", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A06P0209", "matches": {"0": [0, 1], "1": [2, 3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A06W0055", "matches": {"0": [1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A06A0121", "matches": {"0": [0], "1": [4], "2": [2], "3": [], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A05P0102", "matches": {"0": [], "1": [1], "2": [1], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A08W0152", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A07W0164", "matches": {"0": [2, 3], "1": [0]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A10O0099", "matches": {"0": [], "1": [], "2": [], "3": [0], "4": [1], "5": []}, "n_seq": 6, "n_chain": 3}
+{"record_id": "TSB_A08F0146", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A04W0156", "matches": {"0": [0, 1, 2, 3], "1": [4], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A08A0062", "matches": {"0": [0, 1], "1": [2], "2": [5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A04W0219", "matches": {"0": [3], "1": [3, 4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A07Q0078", "matches": {"0": [], "1": [1, 3], "2": [1, 3], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A07A0053", "matches": {"0": [0], "1": [1], "2": [2, 3], "3": [], "4": []}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A09O0126", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A08P0202", "matches": {"0": [1], "1": [1], "2": [2], "3": [2], "4": [2], "5": [3]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A03Q0147", "matches": {"0": [1], "1": [3], "2": [5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A08W0162", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 2}
+{"record_id": "TSB_A06Q0129", "matches": {"0": [2], "1": [3], "2": [2]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A06W0072", "matches": {"0": [1], "1": [], "2": [2], "3": [0]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A08O0106", "matches": {"0": [1], "1": [2, 3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A10W0184", "matches": {"0": [], "1": [0, 1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A09C0028", "matches": {"0": [3], "1": [], "2": [3, 5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A07W0117", "matches": {"0": [1], "1": [2], "2": [3], "3": [3], "4": [3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A07P0209", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A10Q0183", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A04O0259", "matches": {"0": [1], "1": [2], "2": [3], "3": [4]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A10O0198", "matches": {"0": [1], "1": [2], "2": [4], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A07P0357", "matches": {"0": [0], "1": [0], "2": [0], "3": [0], "4": [1]}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A05O0007", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A06W0102", "matches": {"0": [0, 1, 2, 3, 4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A08O0081", "matches": {"0": [1, 2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A07P0286", "matches": {"0": [0, 6], "1": [5], "2": [1, 2]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A03Q0082", "matches": {"0": [4], "1": [2], "2": [2], "3": [2, 3], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A06W0060", "matches": {"0": [4], "1": []}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A05A0020", "matches": {"0": [0, 1], "1": [1], "2": [0, 1], "3": [], "4": [], "5": [3]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A07P0204", "matches": {"0": [1], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A09P0070", "matches": {"0": [2, 3], "1": [0, 1], "2": [0, 1], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A11O0066", "matches": {"0": [0], "1": [0], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A09W0128", "matches": {"0": [1], "1": [2], "2": [2], "3": []}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A08Q0204", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A08W0024", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A11W0062", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A12W0180", "matches": {"0": [0], "1": [1], "2": [1]}, "n_seq": 3, "n_chain": 2}
+{"record_id": "TSB_A10A0088", "matches": {"0": [1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A10O0028", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A11C0117", "matches": {"0": [0], "1": [0], "2": [1, 2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A08W0051", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A08Q0130", "matches": {"0": [0, 2], "1": [], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A06F0006", "matches": {"0": [], "1": [2, 4], "2": [0]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A07A0056", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A09W0158", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A07A0137", "matches": {"0": [0], "1": [1], "2": [2], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A11O0132", "matches": {"0": [0, 1], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A08P0029", "matches": {"0": [1], "1": [], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A10P0332", "matches": {"0": [1], "1": [2], "2": [4, 5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A09Q0065", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A05O0124", "matches": {"0": [2], "1": [3], "2": [], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A06P0140", "matches": {"0": [5], "1": [1], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A08P0373", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A11W0119", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A15O0151", "matches": {"0": [0], "1": [], "2": [0], "3": [0], "4": [], "5": [], "6": [], "7": []}, "n_seq": 8, "n_chain": 4}
+{"record_id": "TSB_A06P0046", "matches": {"0": [], "1": [], "2": [0, 1], "3": [], "4": [3], "5": [4], "6": [4]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A06W0142", "matches": {"0": [2], "1": [2, 3], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A07W0096", "matches": {"0": [4], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A10P0130", "matches": {"0": [2], "1": [0, 2], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A08W0019", "matches": {"0": [0, 1, 2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A10A0024", "matches": {"0": [2, 3, 4], "1": [4], "2": [], "3": [5]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A08W0168", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A09P0421", "matches": {"0": [2], "1": [0, 1], "2": [], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A08Q0132", "matches": {"0": [0, 1], "1": [2], "2": [4], "3": [4], "4": []}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A12W0135", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A13Q0077", "matches": {"0": [1], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A11A0057", "matches": {"0": [1], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A11F0023", "matches": {"0": [], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A07P0295", "matches": {"0": [1], "1": [0, 2], "2": []}, "n_seq": 3, "n_chain": 11}
+{"record_id": "TSB_A11A0060", "matches": {"0": [1], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A14C0005", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A06P0036", "matches": {"0": [0], "1": [0], "2": [2], "3": [2], "4": [2], "5": [3], "6": [5], "7": [3, 5], "8": [5], "9": [5]}, "n_seq": 10, "n_chain": 7}
+{"record_id": "TSB_A13P0153", "matches": {"0": [1], "1": [], "2": [1], "3": [0]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A10W0012", "matches": {"0": [0], "1": [1], "2": []}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A07P0230", "matches": {"0": [0], "1": [0], "2": [0, 1], "3": [2], "4": [2], "5": [2], "6": [2], "7": [2], "8": []}, "n_seq": 9, "n_chain": 4}
+{"record_id": "TSB_A17F0168", "matches": {"0": [0], "1": [0], "2": [2], "3": [2], "4": []}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A10Q0049", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A13C0182", "matches": {"0": [2], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A07W0101", "matches": {"0": [2], "1": [3], "2": [2], "3": [5], "4": [6]}, "n_seq": 5, "n_chain": 7}
+{"record_id": "TSB_A06P0010", "matches": {"0": [0], "1": [], "2": [1], "3": [4], "4": [4]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A15P0217", "matches": {"0": [1], "1": [1], "2": [], "3": [], "4": [1], "5": [1], "6": [1], "7": []}, "n_seq": 8, "n_chain": 3}
+{"record_id": "TSB_A07Q0018", "matches": {"0": [1], "1": [1], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A07O0269", "matches": {"0": [1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A10O0137", "matches": {"0": [0], "1": [1, 2], "2": [3], "3": [4], "4": [5], "5": []}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A09F0010", "matches": {"0": [0, 1, 2], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A14A0092", "matches": {"0": [1], "1": [], "2": [3, 4]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A08O0219", "matches": {"0": [0], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A14Q0118", "matches": {"0": [1], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A09W0186", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A12W0133", "matches": {"0": [0, 2, 3], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A07P0008", "matches": {"0": [3], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A08W0138", "matches": {"0": [2], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A08Q0068", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A12W0089", "matches": {"0": [0, 1], "1": [], "2": [0], "3": [0]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A07C0173", "matches": {"0": [3, 4, 5], "1": [], "2": [6]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A13W0119", "matches": {"0": [0], "1": [1], "2": [2], "3": [3, 4], "4": [5]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A09P0351", "matches": {"0": [0], "1": [0], "2": [2], "3": [1, 4]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A12C0112", "matches": {"0": [5], "1": [7]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A12P0010", "matches": {"0": [5], "1": [0]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A18P0188", "matches": {"0": [0], "1": [0], "2": [0], "3": [0]}, "n_seq": 4, "n_chain": 2}
+{"record_id": "TSB_A13A0050", "matches": {"0": [0, 1], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A10P0242", "matches": {"0": [0], "1": [], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A08W0220", "matches": {"0": [1], "1": [0], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A10P0092", "matches": {"0": [0], "1": [2], "2": [1], "3": [3], "4": [5]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A09Q0055", "matches": {"0": [0, 1, 2], "1": [5], "2": [4, 5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A09W0180", "matches": {"0": [0], "1": [1], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A12W0171", "matches": {"0": [], "1": [1], "2": [2], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A16C0059", "matches": {"0": [0], "1": [2, 3], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A15O0128", "matches": {"0": [2], "1": [], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A12P0102", "matches": {"0": [0], "1": [], "2": [], "3": [1], "4": [2]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A14Q0143", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A16P0223", "matches": {"0": [1], "1": [2], "2": [2], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A13O0028", "matches": {"0": [1], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A13Q0109", "matches": {"0": [0, 1], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A08P0294", "matches": {"0": [1], "1": [2], "2": [0, 3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A10Q0007", "matches": {"0": [0, 1, 2], "1": [0, 1, 2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A15A0007", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A11Q0189", "matches": {"0": [1], "1": [3], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A13Q0207", "matches": {"0": [0, 1], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A13A0007", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A11C0057", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A13Q0004", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A10Q0212", "matches": {"0": [0], "1": [], "2": [3], "3": [4], "4": [5], "5": [4]}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A09Q0077", "matches": {"0": [3], "1": [4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A14Q0148", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A15O0092", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A09C0139", "matches": {"0": [0, 1], "1": [0, 1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A16F0009", "matches": {"0": [], "1": [], "2": [0], "3": [], "4": [], "5": [1], "6": [5]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A09W0134", "matches": {"0": [0], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A12W0008", "matches": {"0": [0], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A09P0341", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A13Q0058", "matches": {"0": [4], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A15W0119", "matches": {"0": [1], "1": [0], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A11F0062", "matches": {"0": [0], "1": [1], "2": [3], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A13W0179", "matches": {"0": [0], "1": [0, 1], "2": [2], "3": [3, 4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A09C0146", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A15Q0003", "matches": {"0": [0], "1": [0, 1]}, "n_seq": 2, "n_chain": 2}
+{"record_id": "TSB_A12W0043", "matches": {"0": [1, 3], "1": [4], "2": [], "3": [0]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A10P0190", "matches": {"0": [5], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A16Q0125", "matches": {"0": [0], "1": [2], "2": [0], "3": [], "4": []}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A17F0198", "matches": {"0": [0], "1": [], "2": [1], "3": [], "4": []}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A12P0008", "matches": {"0": [0, 1, 2], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A09P0160", "matches": {"0": [1], "1": [1], "2": [4], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A11A0030", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A10P0392", "matches": {"0": [1], "1": [0]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A15Q0007", "matches": {"0": [1], "1": [0], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A12P0161", "matches": {"0": [], "1": [], "2": [0]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A12Q0142", "matches": {"0": [], "1": [], "2": [0]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A18C0033", "matches": {"0": [1], "1": [1], "2": [2], "3": [0]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A10Q0159", "matches": {"0": [3], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A19Q0128", "matches": {"0": [1], "1": [0], "2": [3], "3": [3], "4": [2]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A16F0203", "matches": {"0": [0], "1": [0], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A12P0050", "matches": {"0": [4], "1": [], "2": [3], "3": [2]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A15C0149", "matches": {"0": [0], "1": [0], "2": [], "3": [], "4": []}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A16P0215", "matches": {"0": [2], "1": [2], "2": [2], "3": [3], "4": [3, 4], "5": [4]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A17Q0139", "matches": {"0": [0], "1": [0, 1, 2], "2": [0, 1, 2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A14W0181", "matches": {"0": [0], "1": [], "2": [1], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A17O0096", "matches": {"0": [], "1": [], "2": [0], "3": [], "4": [], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A11O0196", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A20W0050", "matches": {"0": [2], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A14O0217", "matches": {"0": [3], "1": [3], "2": [2], "3": [0]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A12P0165", "matches": {"0": [1], "1": [1], "2": [4, 5], "3": [], "4": [4], "5": [], "6": [6]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A16C0030", "matches": {"0": [0], "1": [2], "2": [2], "3": [0]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A13W0046", "matches": {"0": [0, 1, 3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A15C0059", "matches": {"0": [0, 1], "1": [6], "2": [6], "3": [5]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A11F0119", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A18Q0165", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A18W0086", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A17A0034", "matches": {"0": [0, 1], "1": [0, 1], "2": [0]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A17P0158", "matches": {"0": [1], "1": [1], "2": [], "3": [0, 4], "4": [0, 4], "5": [0]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A12F0087", "matches": {"0": [1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A17Q0168", "matches": {"0": [0], "1": [], "2": [], "3": [1]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A15A0054", "matches": {"0": [0], "1": [1], "2": [2], "3": [2], "4": []}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A14W0181", "matches": {"0": [0], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A19C0058", "matches": {"0": [], "1": [1], "2": [2], "3": [], "4": [0]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A16O0113", "matches": {"0": [], "1": [2], "2": [], "3": [4], "4": [4], "5": []}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A13A0094", "matches": {"0": [0], "1": [2], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A15P0084", "matches": {"0": [0, 1], "1": [2], "2": [3], "3": [4], "4": [4], "5": [4]}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A13Q0199", "matches": {"0": [], "1": [0], "2": [1], "3": [], "4": [], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A16C0116", "matches": {"0": [1, 2], "1": [1, 2], "2": [2], "3": [2], "4": []}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A12O0177", "matches": {"0": [1], "1": [3], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A14F0159", "matches": {"0": [0], "1": [], "2": [], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A16Q0130", "matches": {"0": [0], "1": [1, 2], "2": [2, 4], "3": [3], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A18C0078", "matches": {"0": [1], "1": [], "2": [2], "3": [5], "4": [], "5": []}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A18Q0094", "matches": {"0": [0], "1": [0], "2": [1], "3": [2], "4": [2, 3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A14W0017", "matches": {"0": [0], "1": [1], "2": [2, 3], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A17O0150", "matches": {"0": [0], "1": [0], "2": [0], "3": [], "4": []}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A11P0070", "matches": {"0": [0, 1, 2], "1": [3], "2": [3], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A16C0096", "matches": {"0": [0], "1": [0], "2": [0], "3": [0], "4": [0], "5": [0], "6": [], "7": [], "8": [2]}, "n_seq": 9, "n_chain": 4}
+{"record_id": "TSB_A16P0061", "matches": {"0": [0], "1": [2], "2": [1], "3": [3], "4": [4], "5": [], "6": []}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A16Q0103", "matches": {"0": [], "1": [1], "2": [2], "3": [3], "4": []}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A13F0074", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A14Q0150", "matches": {"0": [0], "1": [0], "2": [1], "3": [1]}, "n_seq": 4, "n_chain": 2}
+{"record_id": "TSB_A19Q0167", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A13O0157", "matches": {"0": [0, 1, 2], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A17Q0120", "matches": {"0": [0, 1, 2], "1": [], "2": [0]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A14O0172", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A16W0126", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A18W0146", "matches": {"0": [], "1": [0], "2": [], "3": [], "4": []}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A18C0104", "matches": {"0": [0], "1": [1], "2": [2], "3": [], "4": []}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A17F0205", "matches": {"0": [2], "1": [3], "2": [4], "3": [5], "4": [0, 1]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A15C0047", "matches": {"0": [0], "1": [], "2": [0], "3": [4], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A18O0009", "matches": {"0": [0], "1": [1, 3], "2": [1], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A16Q0130", "matches": {"0": [0], "1": [2, 4], "2": [2, 4], "3": [3], "4": [2, 4]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A18C0031", "matches": {"0": [1], "1": [1], "2": [2], "3": [3], "4": [3], "5": [4], "6": [4]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A15A0027", "matches": {"0": [1, 2], "1": [1, 2], "2": [3], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A13O0023", "matches": {"0": [0, 1], "1": [0, 1]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A16W0160", "matches": {"0": [0], "1": [2], "2": [5], "3": [5], "4": [5], "5": []}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A20F0217", "matches": {"0": [3], "1": [2], "2": [1]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A18A0005", "matches": {"0": [1], "1": [3], "2": [], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A17F0187", "matches": {"0": [0], "1": [0, 1], "2": [0, 2], "3": [2, 3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A17C0028", "matches": {"0": [2], "1": [2], "2": [2], "3": [3], "4": [3], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A16P0050", "matches": {"0": [], "1": [], "2": [], "3": [], "4": [], "5": [], "6": [3], "7": []}, "n_seq": 8, "n_chain": 4}
+{"record_id": "TSB_A15Q0009", "matches": {"0": [1], "1": [2], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A19A0053", "matches": {"0": [0], "1": [0]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A18W0043", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A19F0048", "matches": {"0": [0, 1], "1": [], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A18P0158", "matches": {"0": [], "1": [1, 2], "2": [], "3": [], "4": [], "5": [0]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A14A0031", "matches": {"0": [], "1": [0, 1, 2, 3], "2": [0]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A17C0049", "matches": {"0": [0], "1": [0], "2": [1], "3": [4], "4": [3, 4], "5": [5]}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A16W0160", "matches": {"0": [0], "1": [2], "2": [3, 4], "3": [3, 4], "4": [4], "5": []}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A20W0069", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A17C0049", "matches": {"0": [0], "1": [], "2": [1], "3": [3], "4": [4], "5": []}, "n_seq": 6, "n_chain": 7}
+{"record_id": "TSB_A18W0177", "matches": {"0": [1], "1": [1], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A17F0251", "matches": {"0": [0], "1": [1], "2": [2], "3": [], "4": [2], "5": [0]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A16P0223", "matches": {"0": [1], "1": [2], "2": [2, 3], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A18Q0012", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A18C0052", "matches": {"0": [0], "1": [0], "2": [2], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A16C0058", "matches": {"0": [0], "1": [0, 1], "2": [1]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A17C0032", "matches": {"0": [], "1": [0], "2": [1], "3": [], "4": [], "5": [], "6": []}, "n_seq": 7, "n_chain": 4}
+{"record_id": "TSB_A16O0113", "matches": {"0": [], "1": [1, 2], "2": [], "3": [], "4": [4], "5": []}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A14A0009", "matches": {"0": [0, 1, 2, 3, 4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A17Q0106", "matches": {"0": [2, 4], "1": [5], "2": [6]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A13C0072", "matches": {"0": [0, 1], "1": [2], "2": [3], "3": [], "4": [6], "5": [7]}, "n_seq": 6, "n_chain": 8}
+{"record_id": "TSB_A18F0250", "matches": {"0": [], "1": [0], "2": [], "3": [], "4": [0]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A19W0015", "matches": {"0": [1], "1": [], "2": []}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A18O0144", "matches": {"0": [0], "1": [2], "2": [1]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A17C0134", "matches": {"0": [0], "1": [], "2": [2], "3": [3], "4": [0]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A17W0097", "matches": {"0": [1], "1": [0], "2": [1], "3": [1], "4": [2, 3], "5": [4], "6": []}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A18F0147", "matches": {"0": [], "1": [1], "2": [], "3": [0]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A19Q0202", "matches": {"0": [0], "1": [0], "2": [0], "3": [1, 2], "4": [1, 2], "5": [3], "6": [3]}, "n_seq": 7, "n_chain": 4}
+{"record_id": "TSB_A19F0061", "matches": {"0": [0], "1": [0], "2": [0], "3": [3], "4": [3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A17F0119", "matches": {"0": [], "1": [0, 1], "2": [], "3": [], "4": [], "5": []}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A21A0023", "matches": {"0": [0, 1], "1": [], "2": []}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A19W0080", "matches": {"0": [1], "1": [], "2": [], "3": [3], "4": [4], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A13W0013", "matches": {"0": [0, 1, 2, 3, 5, 6, 7], "1": [4], "2": [8, 9]}, "n_seq": 3, "n_chain": 10}
+{"record_id": "TSB_A21Q0030", "matches": {"0": [0], "1": [3], "2": [], "3": [4], "4": [6]}, "n_seq": 5, "n_chain": 8}
+{"record_id": "TSB_A18F0254", "matches": {"0": [0], "1": [0], "2": [], "3": [], "4": [0], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A14Q0183", "matches": {"0": [0], "1": [2], "2": [2, 4]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A18W0116", "matches": {"0": [], "1": [2], "2": [0], "3": [], "4": [1], "5": [1], "6": []}, "n_seq": 7, "n_chain": 4}
+{"record_id": "TSB_A18Q0102", "matches": {"0": [0], "1": [0], "2": [0], "3": [], "4": [0], "5": [3]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A17F0308", "matches": {"0": [1], "1": [0], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A19Q0187", "matches": {"0": [1], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A18C0116", "matches": {"0": [1], "1": [0], "2": [2], "3": [3], "4": [4], "5": [3], "6": []}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A17W0140", "matches": {"0": [0], "1": [1, 2], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A21Q0051", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A15F0041", "matches": {"0": [1, 0], "1": [2], "2": [4], "3": [3]}, "n_seq": 4, "n_chain": 8}
+{"record_id": "TSB_A18C0033", "matches": {"0": [2], "1": [], "2": [], "3": [0, 1]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A16O0145", "matches": {"0": [0], "1": [0], "2": [], "3": [], "4": [], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A19A0011", "matches": {"0": [0], "1": [0], "2": [2], "3": [2], "4": []}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A19O0103", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A16Q0077", "matches": {"0": [], "1": [0], "2": [2], "3": [1], "4": [1]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A19W0105", "matches": {"0": [2], "1": [1], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A19Q0080", "matches": {"0": [0], "1": [0, 1], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A19A0024", "matches": {"0": [1], "1": [2], "2": [2], "3": [1], "4": [0]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A15Q0096", "matches": {"0": [0], "1": [0], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A18O0091", "matches": {"0": [3, 4], "1": [0, 1], "2": [5], "3": [4]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A16C0017", "matches": {"0": [1], "1": [2, 3], "2": [2], "3": [], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A19Q0180", "matches": {"0": [0, 1], "1": [3], "2": []}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A17A0082", "matches": {"0": [1], "1": [1], "2": [2], "3": [4], "4": [1]}, "n_seq": 5, "n_chain": 7}
+{"record_id": "TSB_A20C0106", "matches": {"0": [0, 1, 5], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A17C0064", "matches": {"0": [0], "1": [1], "2": [3], "3": [4], "4": []}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A19F0186", "matches": {"0": [0], "1": [2], "2": [], "3": [3], "4": []}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A16W0103", "matches": {"0": [1], "1": [1], "2": [2], "3": [], "4": [2]}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A19P0183", "matches": {"0": [1], "1": [1], "2": [0], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A16Q0141", "matches": {"0": [1], "1": [2], "2": [4], "3": [0]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A18O0120", "matches": {"0": [0, 1], "1": [2], "2": [2], "3": [0]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A18W0116", "matches": {"0": [], "1": [2], "2": [0], "3": [], "4": [1], "5": [1], "6": []}, "n_seq": 7, "n_chain": 4}
+{"record_id": "TSB_A20O0110", "matches": {"0": [3], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A19W0067", "matches": {"0": [0], "1": [1], "2": [], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A19Q0151", "matches": {"0": [0, 1, 2], "1": [4], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A18A0034", "matches": {"0": [1], "1": [], "2": [4], "3": [0], "4": [7], "5": [8], "6": [6], "7": []}, "n_seq": 8, "n_chain": 9}
+{"record_id": "TSB_A19P0142", "matches": {"0": [], "1": [0], "2": [], "3": [], "4": [], "5": []}, "n_seq": 6, "n_chain": 3}
+{"record_id": "TSB_A19O0081", "matches": {"0": [], "1": [0], "2": [], "3": [3], "4": []}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A22Q0085", "matches": {"0": [1], "1": [1], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A16P0204", "matches": {"0": [3], "1": [], "2": [], "3": [], "4": [1, 2, 3]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A18C0048", "matches": {"0": [0], "1": [], "2": [1], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A19P0010", "matches": {"0": [1], "1": [1], "2": [1], "3": [1], "4": [], "5": [2, 3]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A18P0119", "matches": {"0": [0], "1": [0], "2": [0], "3": [0], "4": [0], "5": [0], "6": [1], "7": [0]}, "n_seq": 8, "n_chain": 4}
+{"record_id": "TSB_A20A0024", "matches": {"0": [], "1": [0], "2": [1], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A16P0208", "matches": {"0": [1], "1": [2], "2": [3], "3": [3], "4": [4], "5": [0]}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A18P0137", "matches": {"0": [0], "1": [0, 1], "2": [2], "3": [1], "4": [1], "5": [], "6": [], "7": [1]}, "n_seq": 8, "n_chain": 4}
+{"record_id": "TSB_A17O0138", "matches": {"0": [0, 1], "1": [2], "2": [2], "3": [], "4": []}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A20W0087", "matches": {"0": [2], "1": [3], "2": [1]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A22O0118", "matches": {"0": [1], "1": [], "2": [1], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A20W0034", "matches": {"0": [2, 3], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A21Q0092", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A18Q0118", "matches": {"0": [0], "1": [0], "2": [1], "3": [], "4": [3], "5": [], "6": []}, "n_seq": 7, "n_chain": 4}
+{"record_id": "TSB_A21C0046", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A19Q0066", "matches": {"0": [0], "1": [1], "2": [1], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A18P0066", "matches": {"0": [2], "1": [2], "2": [], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A20C0005", "matches": {"0": [4], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A19P0139", "matches": {"0": [0], "1": [1], "2": [2], "3": [], "4": []}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A21F0226", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A21F0129", "matches": {"0": [4], "1": [1, 2], "2": [2, 5], "3": [3], "4": [4]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A20O0071", "matches": {"0": [0, 1], "1": [], "2": [0, 3], "3": [4], "4": [5]}, "n_seq": 5, "n_chain": 7}
+{"record_id": "TSB_A19C0113", "matches": {"0": [0], "1": [], "2": [], "3": []}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A19A0032", "matches": {"0": [1], "1": [1], "2": [0], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A17W0140", "matches": {"0": [0], "1": [1, 2], "2": [3, 4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A15W0149", "matches": {"0": [1], "1": [2], "2": [0, 1, 2], "3": [5], "4": [], "5": [7, 8], "6": [8], "7": [8]}, "n_seq": 8, "n_chain": 10}
+{"record_id": "TSB_A22Q0118", "matches": {"0": [0], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A21Q0003", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 2}
+{"record_id": "TSB_A20W0079", "matches": {"0": [3], "1": [0, 1], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A21C0103", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A18A0088", "matches": {"0": [0], "1": [], "2": [], "3": [], "4": [2], "5": []}, "n_seq": 6, "n_chain": 3}
+{"record_id": "TSB_A17O0109", "matches": {"0": [], "1": [0, 1], "2": [], "3": [0]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A18O0072", "matches": {"0": [0], "1": [0], "2": [2], "3": [2], "4": []}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A21O0028", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A17O0091", "matches": {"0": [0], "1": [], "2": [1], "3": [], "4": [2], "5": [], "6": []}, "n_seq": 7, "n_chain": 4}
+{"record_id": "TSB_A20Q0074", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A20W0060", "matches": {"0": [0], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A18F0096", "matches": {"0": [0], "1": [0], "2": [1], "3": [0], "4": [0], "5": [], "6": [0], "7": []}, "n_seq": 8, "n_chain": 3}
+{"record_id": "TSB_A20P0004", "matches": {"0": [], "1": [0], "2": [], "3": [], "4": [], "5": [0, 2]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A21O0106", "matches": {"0": [0], "1": [0], "2": [0], "3": [1]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A19W0034", "matches": {"0": [0], "1": [0, 1], "2": [1], "3": [2], "4": [3], "5": [4], "6": [4, 5]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A17W0070", "matches": {"0": [], "1": [0, 1], "2": [1], "3": [], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A19Q0190", "matches": {"0": [0], "1": [1], "2": [], "3": [2], "4": [0]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A20P0101", "matches": {"0": [0, 1], "1": [1], "2": [3], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A18P0090", "matches": {"0": [0], "1": [3], "2": [2], "3": [4], "4": []}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A19W0066", "matches": {"0": [4, 5], "1": [4], "2": [1]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A19A0012", "matches": {"0": [1], "1": [], "2": [1], "3": [2], "4": []}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A22A0023", "matches": {"0": [0], "1": [1], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A17P0070", "matches": {"0": [0, 1], "1": [2], "2": [3], "3": [3], "4": [4], "5": [4], "6": [5, 6]}, "n_seq": 7, "n_chain": 8}
+{"record_id": "TSB_A18W0039", "matches": {"0": [0], "1": [], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A19P0142", "matches": {"0": [], "1": [0], "2": [], "3": [], "4": [], "5": []}, "n_seq": 6, "n_chain": 3}
+{"record_id": "TSB_A19P0162", "matches": {"0": [0], "1": [0], "2": [1], "3": [4]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A22W0039", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A23O0047", "matches": {"0": [0, 1], "1": [0, 1], "2": [3], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A20P0108", "matches": {"0": [1], "1": [1], "2": [2], "3": [], "4": [1], "5": [3], "6": [3], "7": [3], "8": []}, "n_seq": 9, "n_chain": 5}
+{"record_id": "TSB_A21P0018", "matches": {"0": [], "1": [], "2": [], "3": [2], "4": [2], "5": [2], "6": [2], "7": [2], "8": [], "9": [], "10": [1], "11": [], "12": [2], "13": [0], "14": [0], "15": [0, 1], "16": [], "17": [], "18": [], "19": [2], "20": []}, "n_seq": 21, "n_chain": 5}
+{"record_id": "TSB_A23P0110", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A19C0136", "matches": {"0": [1], "1": [2], "2": [5], "3": [6]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A20C0005", "matches": {"0": [4], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A21P0107", "matches": {"0": [], "1": [], "2": [], "3": [], "4": [0], "5": [0]}, "n_seq": 6, "n_chain": 2}
+{"record_id": "TSB_A19O0068", "matches": {"0": [0], "1": [1], "2": [1], "3": [2], "4": [2]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A19A0017", "matches": {"0": [0], "1": [1], "2": [0, 1], "3": [], "4": [], "5": []}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A20Q0091", "matches": {"0": [], "1": [0], "2": [0, 1], "3": [3], "4": [4], "5": [], "6": [4]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A18F0071", "matches": {"0": [1], "1": [1], "2": [1], "3": [2], "4": [2], "5": [4], "6": [0], "7": [0]}, "n_seq": 8, "n_chain": 5}
+{"record_id": "TSB_A19C0098", "matches": {"0": [1], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A18W0050", "matches": {"0": [], "1": [0, 1], "2": [], "3": [3], "4": []}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A23A0060", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A22A0016", "matches": {"0": [0], "1": [1], "2": [2, 3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A22O0012", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A21C0091", "matches": {"0": [0], "1": [1], "2": [1, 2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A21Q0083", "matches": {"0": [], "1": [0, 2], "2": [3], "3": [1], "4": [2]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A21P0065", "matches": {"0": [], "1": [1], "2": [1, 2], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A20Q0017", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A21W0019", "matches": {"0": [4], "1": [1], "2": [2, 3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A19Q0078", "matches": {"0": [0, 1], "1": [1], "2": [1], "3": [3], "4": [3, 5], "5": [4], "6": [4]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A20O0069", "matches": {"0": [0], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A18C0031", "matches": {"0": [1], "1": [1], "2": [2], "3": [3], "4": [3], "5": [4], "6": [4]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A21Q0067", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A21P0004", "matches": {"0": [], "1": [0], "2": [0], "3": [1], "4": [1], "5": [1], "6": [1], "7": [1], "8": [1], "9": [], "10": [], "11": [2], "12": []}, "n_seq": 13, "n_chain": 5}
+{"record_id": "TSB_A18Q0150", "matches": {"0": [], "1": [], "2": [0], "3": [0], "4": [2], "5": [2]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A22Q0063", "matches": {"0": [1], "1": [1], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A23Q0031", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A20Q0042", "matches": {"0": [0], "1": [0], "2": [1], "3": [2], "4": [5], "5": [5]}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A21O0110", "matches": {"0": [0], "1": [0], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A23W0131", "matches": {"0": [0, 1, 3], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A18W0037", "matches": {"0": [1], "1": [0], "2": [4], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A19O0048", "matches": {"0": [1], "1": [1], "2": [3], "3": [0], "4": [2, 3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A20P0078", "matches": {"0": [2], "1": [], "2": [], "3": [], "4": []}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A19A0010", "matches": {"0": [0], "1": [1, 2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A23Q0160", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A20A0031", "matches": {"0": [1], "1": [0, 2], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A22P0029", "matches": {"0": [2], "1": [1], "2": [1], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A23P0095", "matches": {"0": [0], "1": [1], "2": [2], "3": [3], "4": [3], "5": [3]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A20A0038", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A23A0048", "matches": {"0": [1], "1": [1], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A20W0032", "matches": {"0": [1], "1": [], "2": [5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A19W0008", "matches": {"0": [0], "1": [0], "2": [1], "3": [1], "4": [], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A22C0001", "matches": {"0": [0, 1, 2], "1": [3], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A22P0032", "matches": {"0": [1], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A19A0037", "matches": {"0": [1], "1": [1], "2": [4], "3": [4], "4": [4], "5": [5]}, "n_seq": 6, "n_chain": 7}
+{"record_id": "TSB_A19Q0010", "matches": {"0": [2], "1": [2, 3], "2": [1, 2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A22P0113", "matches": {"0": [], "1": [1], "2": [], "3": [0], "4": [], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A19W0021", "matches": {"0": [0], "1": [1], "2": [0], "3": [2], "4": []}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A21P0094", "matches": {"0": [0], "1": [0], "2": [0], "3": [0], "4": [0], "5": [3], "6": [3], "7": [3]}, "n_seq": 8, "n_chain": 5}
+{"record_id": "TSB_A21P0018", "matches": {"0": [], "1": [], "2": [], "3": [], "4": [], "5": [], "6": [], "7": [], "8": [], "9": [], "10": [1], "11": [], "12": [2], "13": [0], "14": [0], "15": [0, 1], "16": [], "17": [], "18": [], "19": [2], "20": []}, "n_seq": 21, "n_chain": 5}
+{"record_id": "TSB_A20Q0072", "matches": {"0": [1], "1": [], "2": [4], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A22P0063", "matches": {"0": [], "1": [0], "2": [1], "3": [1], "4": [1], "5": []}, "n_seq": 6, "n_chain": 3}
+{"record_id": "TSB_A21P0028", "matches": {"0": [0, 1], "1": [1], "2": [1], "3": [0, 1], "4": [1], "5": [2], "6": [2], "7": [2]}, "n_seq": 8, "n_chain": 4}
+{"record_id": "TSB_A22W0092", "matches": {"0": [1], "1": [1], "2": [1], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A19P0186", "matches": {"0": [0], "1": [0], "2": [1, 2], "3": [], "4": [4], "5": []}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A22P0029", "matches": {"0": [3], "1": [1], "2": [1], "3": [4]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A20O0025", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A20W0023", "matches": {"0": [0], "1": [], "2": [0], "3": [0]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A19Q0201", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A21P0064", "matches": {"0": [1], "1": [1], "2": [1], "3": [2], "4": [2], "5": [3], "6": [3]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A21O0045", "matches": {"0": [1], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A22C0102", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A23Q0152", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A23O0047", "matches": {"0": [0], "1": [0], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A21W0096", "matches": {"0": [0, 1], "1": [], "2": [2, 3], "3": [2]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A21Q0040", "matches": {"0": [0], "1": [0], "2": [5], "3": [5]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A23P0090", "matches": {"0": [0], "1": [1], "2": [1], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A21P0146", "matches": {"0": [0], "1": [0], "2": [0], "3": [0]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A21Q0083", "matches": {"0": [], "1": [2, 4], "2": [5], "3": [3], "4": [4]}, "n_seq": 5, "n_chain": 7}
+{"record_id": "TSB_A23P0159", "matches": {"0": [1], "1": [0]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A20W0016", "matches": {"0": [0], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A21P0018", "matches": {"0": [], "1": [], "2": [], "3": [2], "4": [2], "5": [2], "6": [2], "7": [2], "8": [], "9": [], "10": [1], "11": [], "12": [2], "13": [0], "14": [0], "15": [0, 1], "16": [], "17": [], "18": [], "19": [2], "20": []}, "n_seq": 21, "n_chain": 5}
+{"record_id": "TSB_A20C0089", "matches": {"0": [0, 1], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A21C0051", "matches": {"0": [0, 1], "1": [], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A23O0140", "matches": {"0": [0, 1, 2], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A24P0072", "matches": {"0": [0], "1": [0], "2": [0], "3": [3], "4": [3, 4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A21P0070", "matches": {"0": [0, 1], "1": [2], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A20Q0096", "matches": {"0": [0], "1": [0], "2": [1], "3": [1], "4": [2]}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A22Q0168", "matches": {"0": [0, 1], "1": [2], "2": [], "3": [], "4": [4], "5": [3, 4], "6": [3]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A21P0055", "matches": {"0": [], "1": [1], "2": [], "3": [1], "4": [], "5": [], "6": [2]}, "n_seq": 7, "n_chain": 4}
+{"record_id": "TSB_A22Q0097", "matches": {"0": [1], "1": [0], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A20O0071", "matches": {"0": [0, 1], "1": [2], "2": [0, 4], "3": [5], "4": [6]}, "n_seq": 5, "n_chain": 8}
+{"record_id": "TSB_A19W0172", "matches": {"0": [], "1": [0, 1], "2": [], "3": [0, 1], "4": [2], "5": [], "6": [], "7": [], "8": []}, "n_seq": 9, "n_chain": 4}
+{"record_id": "TSB_A22C0098", "matches": {"0": [0], "1": [], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A22A0060", "matches": {"0": [0, 2], "1": [3], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A23P0074", "matches": {"0": [1], "1": [1], "2": [2], "3": [3], "4": [3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A20P0027", "matches": {"0": [4], "1": [], "2": [4], "3": [], "4": [0, 2], "5": [1]}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A21P0089", "matches": {"0": [0], "1": [0], "2": [0], "3": [2], "4": [2]}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A23W0027", "matches": {"0": [0], "1": [2, 3], "2": [0, 1]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A21P0113", "matches": {"0": [0], "1": [0], "2": [0], "3": []}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A21P0134", "matches": {"0": [], "1": [0], "2": [2], "3": [1], "4": []}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A24P0085", "matches": {"0": [1], "1": [1], "2": [2], "3": [3, 4], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A23Q0123", "matches": {"0": [0], "1": [], "2": [0], "3": [1, 2, 3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A25C0084", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A23P0007", "matches": {"0": [], "1": [1], "2": [], "3": [0]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A24P0071", "matches": {"0": [0], "1": [0], "2": [1], "3": [2], "4": [4], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A22P0079", "matches": {"0": [1], "1": [2], "2": [2], "3": [1], "4": [2], "5": [2, 3], "6": [1]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A24C0008", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A21C0040", "matches": {"0": [0, 2], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A23W0111", "matches": {"0": [1], "1": [], "2": [], "3": [], "4": [4], "5": [3], "6": [0]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A22Q0022", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A24Q0095", "matches": {"0": [3], "1": [3], "2": [2], "3": [6]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A23P0018", "matches": {"0": [0], "1": [1], "2": [1], "3": [0, 1], "4": [1], "5": [1], "6": [1]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A21P0083", "matches": {"0": [2, 3, 5], "1": [0], "2": [], "3": [2, 3, 5], "4": [1], "5": [], "6": [], "7": [6]}, "n_seq": 8, "n_chain": 8}
+{"record_id": "TSB_A25C0144", "matches": {"0": [2], "1": [2], "2": [2], "3": []}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A22P0064", "matches": {"0": [1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A19A0051", "matches": {"0": [1, 2], "1": [2], "2": [2], "3": [], "4": [1]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A21O0067", "matches": {"0": [0], "1": [1], "2": [2], "3": [4], "4": [], "5": [5]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A22Q0168", "matches": {"0": [0, 2], "1": [3], "2": [3], "3": [], "4": [1], "5": [5], "6": [4]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A22C0003", "matches": {"0": [0, 1, 2], "1": [4], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A19W0001", "matches": {"0": [], "1": [1], "2": [2], "3": [], "4": [], "5": []}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A22Q0168", "matches": {"0": [2], "1": [3], "2": [], "3": [], "4": [0], "5": [5], "6": [4]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A21O0003", "matches": {"0": [0], "1": [3], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A24O0109", "matches": {"0": [1], "1": [0, 2], "2": [2, 3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A23F0076", "matches": {"0": [0], "1": [0]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A21P0046", "matches": {"0": [], "1": [0], "2": [], "3": [], "4": [1], "5": [1], "6": [], "7": []}, "n_seq": 8, "n_chain": 4}
+{"record_id": "TSB_A21C0052", "matches": {"0": [0], "1": [1, 3], "2": [2, 4], "3": [5, 6], "4": [6]}, "n_seq": 5, "n_chain": 8}
+{"record_id": "TSB_A25C0098", "matches": {"0": [0, 1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A23P0097", "matches": {"0": [0, 1, 3], "1": [], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A20Q0083", "matches": {"0": [0, 1], "1": [4], "2": [4]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A22P0049", "matches": {"0": [0, 1], "1": [1], "2": [], "3": [2], "4": [], "5": [], "6": [2], "7": [1], "8": [3]}, "n_seq": 9, "n_chain": 4}
+{"record_id": "TSB_A24C0051", "matches": {"0": [0], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A25C0033", "matches": {"0": [], "1": [2], "2": [2], "3": [2], "4": [0], "5": [3]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A21P0115", "matches": {"0": [1], "1": [0], "2": [0], "3": [0, 1], "4": [0, 1], "5": [2]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A23A0034", "matches": {"0": [0, 1, 3], "1": [4], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A24P0154", "matches": {"0": [1], "1": [1], "2": [2], "3": [2], "4": [2]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A21W0045", "matches": {"0": [2], "1": [0, 1], "2": [1, 2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A22P0032", "matches": {"0": [1], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A24C0135", "matches": {"0": [1], "1": [0], "2": [2], "3": [3], "4": [0, 1]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A24P0117", "matches": {"0": [], "1": [0], "2": [2], "3": [1], "4": [1], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A23P0062", "matches": {"0": [0], "1": [0, 1], "2": [1], "3": [3, 4], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A20C0100", "matches": {"0": [0], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A24Q0157", "matches": {"0": [], "1": [], "2": [], "3": [0], "4": [], "5": [2]}, "n_seq": 6, "n_chain": 3}
+{"record_id": "TSB_A22P0074", "matches": {"0": [1], "1": [0], "2": [1], "3": [2], "4": [3], "5": [3]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A23C0012", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A24Q0092", "matches": {"0": [0, 1], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A23P0160", "matches": {"0": [0], "1": [0], "2": [], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A21P0001", "matches": {"0": [0], "1": [0], "2": [0], "3": [2], "4": [2], "5": [2], "6": [2], "7": [], "8": []}, "n_seq": 9, "n_chain": 5}
+{"record_id": "TSB_A22O0148", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A23C0092", "matches": {"0": [0, 1, 2], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A21W0053", "matches": {"0": [0], "1": [1], "2": [1]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A21A0018", "matches": {"0": [0], "1": [], "2": [2, 3, 4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A23P0058", "matches": {"0": [], "1": [0], "2": [], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A25A0057", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A21W0019", "matches": {"0": [4], "1": [2], "2": [1]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A23C0031", "matches": {"0": [0], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A23P0112", "matches": {"0": [0, 1], "1": [0, 1, 2], "2": [3], "3": [0, 1, 2], "4": [3], "5": [4]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A25Q0199", "matches": {"0": [0, 1], "1": [2], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A22P0128", "matches": {"0": [1], "1": [1], "2": [3], "3": [3], "4": [], "5": [], "6": [], "7": [0, 1]}, "n_seq": 8, "n_chain": 5}
+{"record_id": "TSB_A23P0038", "matches": {"0": [], "1": [0], "2": [], "3": [1]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A24P0109", "matches": {"0": [0, 1], "1": [0, 1], "2": [0], "3": [0], "4": [0, 1], "5": [1], "6": [2, 3], "7": []}, "n_seq": 8, "n_chain": 6}
+{"record_id": "TSB_A22P0070", "matches": {"0": [], "1": [0], "2": [0], "3": [], "4": [], "5": [], "6": [3], "7": [4], "8": [4]}, "n_seq": 9, "n_chain": 6}
+{"record_id": "TSB_A22P0129", "matches": {"0": [0, 1], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A22O0169", "matches": {"0": [0], "1": [0, 2], "2": [2], "3": [0, 1, 2], "4": [3, 4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A23F0333", "matches": {"0": [0, 1], "1": [2], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A25W0065", "matches": {"0": [2], "1": [1, 3], "2": [4], "3": [], "4": [0]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A22O0152", "matches": {"0": [0], "1": [2, 3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A23P0088", "matches": {"0": [0], "1": [0], "2": [2], "3": [3, 4], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A25F0370", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A22P0108", "matches": {"0": [0], "1": [1], "2": [0], "3": [2], "4": [1]}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A22F0127", "matches": {"0": [1], "1": [], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A23W0035", "matches": {"0": [0], "1": [], "2": [1]}, "n_seq": 3, "n_chain": 2}
+{"record_id": "TSB_A23W0052", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A24P0125", "matches": {"0": [], "1": [], "2": [0], "3": [], "4": [], "5": [], "6": [0], "7": []}, "n_seq": 8, "n_chain": 6}
+{"record_id": "TSB_A25P0061", "matches": {"0": [0], "1": [], "2": [2], "3": [2], "4": [3], "5": [4], "6": []}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A24P0086", "matches": {"0": [0], "1": [0], "2": [0], "3": [], "4": [0], "5": [], "6": [0]}, "n_seq": 7, "n_chain": 3}
+{"record_id": "TSB_A24P0074", "matches": {"0": [0], "1": [], "2": [], "3": [], "4": [2], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A24O0054", "matches": {"0": [], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A22P0061", "matches": {"0": [0], "1": [0], "2": [1, 3], "3": [4], "4": [3], "5": [4], "6": [2], "7": [], "8": [2], "9": [3], "10": [3], "11": [3, 4], "12": [4], "13": [], "14": [4], "15": [5]}, "n_seq": 16, "n_chain": 7}
+{"record_id": "TSB_A22W0094", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A23P0018", "matches": {"0": [1], "1": [1], "2": [0, 1], "3": [0], "4": [5], "5": [5], "6": [6]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A23P0024", "matches": {"0": [0, 1], "1": [4], "2": [2, 5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A24P0069", "matches": {"0": [], "1": [1], "2": [0], "3": []}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A22W0107", "matches": {"0": [1], "1": [0], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A25P0194", "matches": {"0": [], "1": [2], "2": [2], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A22Q0019", "matches": {"0": [0, 2], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A23W0088", "matches": {"0": [0, 1, 2], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A24P0099", "matches": {"0": [], "1": [0], "2": [0], "3": [], "4": [1], "5": [1]}, "n_seq": 6, "n_chain": 3}
+{"record_id": "TSB_A79Q0080", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A23Q0142", "matches": {"0": [0], "1": [0, 1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A25W0102", "matches": {"0": [0], "1": [4], "2": [], "3": [4]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A21P0018", "matches": {"0": [], "1": [], "2": [], "3": [2], "4": [2], "5": [2], "6": [2], "7": [2], "8": [], "9": [], "10": [1], "11": [1], "12": [2], "13": [0], "14": [0], "15": [0, 1], "16": [], "17": [], "18": [2], "19": [2], "20": []}, "n_seq": 21, "n_chain": 5}
+{"record_id": "TSB_A21Q0087", "matches": {"0": [2], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A23W0007", "matches": {"0": [2], "1": [], "2": [1]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A23P0082", "matches": {"0": [0], "1": [0], "2": [], "3": [3], "4": [1, 2]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A21P0018", "matches": {"0": [], "1": [], "2": [], "3": [2], "4": [2], "5": [2], "6": [2], "7": [2], "8": [], "9": [], "10": [1], "11": [1], "12": [2], "13": [0], "14": [0], "15": [0, 1], "16": [], "17": [], "18": [2], "19": [2], "20": []}, "n_seq": 21, "n_chain": 5}
+{"record_id": "TSB_A23Q0163", "matches": {"0": [0], "1": [0], "2": [0], "3": [], "4": [1]}, "n_seq": 5, "n_chain": 3}
+{"record_id": "TSB_A24C0090", "matches": {"0": [4, 5], "1": [0, 1, 2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A25F0201", "matches": {"0": [0], "1": [], "2": [2], "3": [3], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A25O0068", "matches": {"0": [0], "1": [0, 2], "2": [0]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A25O0069", "matches": {"0": [0], "1": [0, 1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A24P0134", "matches": {"0": [0], "1": [1], "2": [2, 3], "3": [0], "4": [2], "5": [4], "6": [4], "7": [5], "8": [5], "9": []}, "n_seq": 10, "n_chain": 6}
+{"record_id": "TSB_A22C0023", "matches": {"0": [1], "1": [1], "2": [1], "3": []}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A24O0023", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A23P0010", "matches": {"0": [2, 5], "1": [6], "2": [2, 5], "3": [3, 4], "4": []}, "n_seq": 5, "n_chain": 8}
+{"record_id": "TSB_A26C0013", "matches": {"0": [1], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A23Q0136", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A78P0083", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A25W0124", "matches": {"0": [0], "1": [0], "2": [], "3": [0], "4": [0], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A24C0124", "matches": {"0": [0, 1], "1": [], "2": [2], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A24Q0160", "matches": {"0": [1], "1": [0], "2": [1], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A22W0065", "matches": {"0": [1], "1": [4], "2": [3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A23P0014", "matches": {"0": [1], "1": [1], "2": [1], "3": [2], "4": [2]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A25C0113", "matches": {"0": [1], "1": [4], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A24P0121", "matches": {"0": [0], "1": [0], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A21A0034", "matches": {"0": [1], "1": [], "2": [2], "3": [], "4": [2], "5": [], "6": [3]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A21P0018", "matches": {"0": [], "1": [], "2": [], "3": [3], "4": [2, 3], "5": [2, 3], "6": [2, 3], "7": [3], "8": [], "9": [], "10": [1], "11": [1], "12": [2, 3], "13": [0], "14": [0], "15": [0, 1], "16": [], "17": [], "18": [3], "19": [2, 3], "20": []}, "n_seq": 21, "n_chain": 6}
+{"record_id": "TSB_A25A0001", "matches": {"0": [0], "1": [1], "2": [1], "3": [2], "4": [2]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A23W0059", "matches": {"0": [2], "1": [], "2": [2], "3": [0, 2]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A24W0020", "matches": {"0": [2], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A23O0131", "matches": {"0": [2], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A24P0158", "matches": {"0": [2], "1": [1], "2": [4], "3": []}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A24C0066", "matches": {"0": [0, 1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A24O0111", "matches": {"0": [0], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A23O0102", "matches": {"0": [1], "1": [1], "2": [], "3": [5]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A22W0020", "matches": {"0": [0], "1": [2], "2": [1]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A25C0029", "matches": {"0": [2], "1": [2], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A23Q0128", "matches": {"0": [1], "1": [], "2": [1], "3": [1], "4": [], "5": [0]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A78W0056", "matches": {"0": [1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A25P0104", "matches": {"0": [0], "1": [1], "2": [1], "3": [0, 2], "4": [0], "5": [], "6": [4], "7": [4], "8": [5], "9": []}, "n_seq": 10, "n_chain": 6}
+{"record_id": "TSB_A23P0086", "matches": {"0": [1], "1": [2], "2": [2], "3": [], "4": [4], "5": [3]}, "n_seq": 6, "n_chain": 6}
+{"record_id": "TSB_A79O0089", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A25O0077", "matches": {"0": [0, 1], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A23P0088", "matches": {"0": [0], "1": [0], "2": [2], "3": [3, 4], "4": []}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A82W5002", "matches": {"0": [2], "1": [4], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A25P0113", "matches": {"0": [0], "1": [0]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A25F0063", "matches": {"0": [0], "1": [0], "2": [2], "3": [2], "4": [3]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A26O0004", "matches": {"0": [0], "1": [0], "2": [0], "3": [1], "4": [3], "5": [2]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A79P0073", "matches": {"0": [], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A24W0119", "matches": {"0": [3], "1": [2], "2": [1], "3": [4], "4": [0]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A23O0050", "matches": {"0": [0, 1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A76O0098", "matches": {"0": [4], "1": [], "2": [5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A24P0138", "matches": {"0": [0], "1": [0], "2": [0, 1], "3": [2], "4": [3], "5": [3]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A24O0187", "matches": {"0": [0], "1": [2], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A23F0026", "matches": {"0": [0], "1": [0, 1], "2": [2, 3], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A24Q0079", "matches": {"0": [1], "1": [1], "2": [2, 3], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A25O0059", "matches": {"0": [0], "1": [], "2": [], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A24Q0168", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A79W0107", "matches": {"0": [0, 2], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A76W0093", "matches": {"0": [2], "1": [5], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A24Q0035", "matches": {"0": [0], "1": [1], "2": [2], "3": [2], "4": [3], "5": [4], "6": [4]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A21Q0120", "matches": {"0": [0], "1": [3], "2": [0]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A24W0114", "matches": {"0": [0], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A81Q0053", "matches": {"0": [], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A25C0091", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A25O0164", "matches": {"0": [0], "1": [], "2": [], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A23Q0004", "matches": {"0": [0], "1": [], "2": [], "3": [1]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A24P0138", "matches": {"0": [0], "1": [0], "2": [0, 1], "3": [2], "4": [3], "5": [3]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A24Q0037", "matches": {"0": [0], "1": [1, 2], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A25W0135", "matches": {"0": [1], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A24A0014", "matches": {"0": [0], "1": [1], "2": [], "3": [], "4": [3], "5": [3]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A25P0044", "matches": {"0": [2], "1": [2], "2": [0], "3": []}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A21P0002", "matches": {"0": [1], "1": [], "2": [5], "3": [], "4": [5]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A24C0099", "matches": {"0": [0], "1": [1], "2": [2], "3": [2], "4": [2]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A24W0162", "matches": {"0": [0], "1": [1, 2], "2": [2], "3": [0]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A24O0111", "matches": {"0": [4], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A25W0122", "matches": {"0": [], "1": [0], "2": [2], "3": [], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A23W0148", "matches": {"0": [1], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A25O0071", "matches": {"0": [0], "1": [4], "2": [2], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A23W0142", "matches": {"0": [1], "1": [1], "2": []}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A80C0015", "matches": {"0": [6], "1": [5]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A24O0061", "matches": {"0": [0], "1": [0], "2": [1], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A23Q0038", "matches": {"0": [0, 1], "1": [3], "2": [2], "3": [4]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A81W0088", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A23W0049", "matches": {"0": [1], "1": [0, 2], "2": [], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A25P0027", "matches": {"0": [], "1": [0, 1], "2": [0, 1], "3": [2], "4": []}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A25P0157", "matches": {"0": [], "1": [0], "2": [1], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A26W0009", "matches": {"0": [], "1": [], "2": [0, 1], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A25A0074", "matches": {"0": [0], "1": [0, 1], "2": [3], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A24F0002", "matches": {"0": [0, 1], "1": [5], "2": [4]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A80O0112", "matches": {"0": [7], "1": [6, 7]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A82W0037", "matches": {"0": [1, 2], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A83C0118", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A82W0069", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A25C0018", "matches": {"0": [0, 1], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A24F0225", "matches": {"0": [0, 1], "1": [], "2": []}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A80Q0029", "matches": {"0": [3], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A25P0034", "matches": {"0": [], "1": [], "2": [1], "3": [2], "4": [2], "5": [], "6": [3]}, "n_seq": 7, "n_chain": 4}
+{"record_id": "TSB_A24W0111", "matches": {"0": [0, 1], "1": [2, 3], "2": [], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A25P0158", "matches": {"0": [], "1": [0], "2": [1], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A77P0036", "matches": {"0": [2, 3, 4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A80Q0056", "matches": {"0": [4], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A79W0100", "matches": {"0": [], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A25P0032", "matches": {"0": [0], "1": [1], "2": [], "3": [], "4": [2], "5": [3]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A22W0054", "matches": {"0": [1], "1": [3], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A78W0083", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A25P0120", "matches": {"0": [], "1": [1, 3], "2": [], "3": [], "4": [], "5": []}, "n_seq": 6, "n_chain": 7}
+{"record_id": "TSB_A77O0091", "matches": {"0": [6], "1": []}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A25P0190", "matches": {"0": [], "1": [0], "2": [1], "3": [2], "4": [3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A25W0101", "matches": {"0": [0], "1": [0], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A24Q0145", "matches": {"0": [0], "1": [2], "2": [2], "3": [3], "4": [3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A24Q0106", "matches": {"0": [0], "1": [1], "2": [1]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A77W0036", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A24Q0142", "matches": {"0": [3], "1": [2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A25A0054", "matches": {"0": [0], "1": [1], "2": [2, 3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A24W0150", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A24P0118", "matches": {"0": [], "1": [0], "2": [2], "3": [2], "4": [4], "5": [5], "6": [7], "7": [7], "8": []}, "n_seq": 9, "n_chain": 7}
+{"record_id": "TSB_A25P0197", "matches": {"0": [0], "1": [2], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A83O0059", "matches": {"0": [0, 1], "1": [0, 1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A24P0117", "matches": {"0": [], "1": [0], "2": [2], "3": [1], "4": [1], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A25C0009", "matches": {"0": [0], "1": [2], "2": [2], "3": [1]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A25O0042", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A25P0115", "matches": {"0": [1], "1": [0], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A84H0003", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A25P0194", "matches": {"0": [], "1": [2], "2": [2], "3": []}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A83P0001", "matches": {"0": [2], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A83P0071", "matches": {"0": [4], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A81W0123", "matches": {"0": [1], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A79W0906", "matches": {"0": [0, 1], "1": [6], "2": [6]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A79A0033", "matches": {"0": [1], "1": [0]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A24Q0003", "matches": {"0": [0, 1], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A79O0903", "matches": {"0": [0, 1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A80P0019", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A22F0197", "matches": {"0": [0], "1": [0], "2": [1]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A84C0082", "matches": {"0": [3], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A24P0118", "matches": {"0": [], "1": [0], "2": [0, 2], "3": [0, 2], "4": [3], "5": [3], "6": [5], "7": [5], "8": [5]}, "n_seq": 9, "n_chain": 7}
+{"record_id": "TSB_A25O0032", "matches": {"0": [0, 1], "1": [1], "2": [1]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A84O5013", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A77W0049", "matches": {"0": [4], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A79W0093", "matches": {"0": [3], "1": [1, 6]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A25P0191", "matches": {"0": [], "1": [0, 2], "2": [1], "3": [], "4": [], "5": [3], "6": [4]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A84C0904", "matches": {"0": [0, 1], "1": [2, 3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A83W0066", "matches": {"0": [2, 3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A79F0002", "matches": {"0": [1, 2], "1": [4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A83C0097", "matches": {"0": [0, 2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A79C0120", "matches": {"0": [0, 1, 2, 3], "1": [4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A79Q0066", "matches": {"0": [6], "1": [7]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A79W0064", "matches": {"0": [0, 5], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A83Q0018", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A79O0028", "matches": {"0": [0, 1], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A24W0145", "matches": {"0": [2, 3], "1": [1], "2": [1], "3": [4, 5]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A25F0306", "matches": {"0": [1], "1": [], "2": [2], "3": [3], "4": [0]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A25Q0167", "matches": {"0": [0], "1": [3], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A25P0156", "matches": {"0": [], "1": [0, 1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A84A0017", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A25Q0061", "matches": {"0": [0], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A85C0021", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A84O0064", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A25P0181", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A79A0013", "matches": {"0": [5], "1": [2, 5]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A79O0015", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A80Q0133", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84A0025", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A25O0176", "matches": {"0": [0, 1], "1": [], "2": [], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A25P0099", "matches": {"0": [2], "1": [4], "2": [5], "3": [5]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A83P0042", "matches": {"0": [1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A79O0062", "matches": {"0": [0, 2], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A82C0099", "matches": {"0": [2], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A26O0016", "matches": {"0": [0], "1": [1], "2": [0, 1]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A79C0078", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A83C0071", "matches": {"0": [2], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A77A0005", "matches": {"0": [5], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84P0040", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A24P0109", "matches": {"0": [], "1": [0], "2": [0], "3": [0], "4": [0], "5": [], "6": [3], "7": []}, "n_seq": 8, "n_chain": 5}
+{"record_id": "TSB_A25P0162", "matches": {"0": [0, 1], "1": [1], "2": [1]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A26P0006", "matches": {"0": [], "1": [0], "2": [], "3": [], "4": [], "5": [], "6": []}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A84Q0067", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A82W0040", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A23O0026", "matches": {"0": [], "1": [1], "2": [], "3": [], "4": [], "5": [2], "6": []}, "n_seq": 7, "n_chain": 4}
+{"record_id": "TSB_A83C0060", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85A5002", "matches": {"0": [2], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85C0049", "matches": {"0": [0, 2], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A26C0018", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A79P0020", "matches": {"0": [0, 2], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A25P0085", "matches": {"0": [6, 7], "1": [8], "2": []}, "n_seq": 3, "n_chain": 10}
+{"record_id": "TSB_A82W0070", "matches": {"0": [6], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A81O0076", "matches": {"0": [1], "1": [4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84W0014", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A82O0100", "matches": {"0": [0, 1, 2, 3, 4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A79P0070", "matches": {"0": [4], "1": [3], "2": []}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A83Q0067", "matches": {"0": [3], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84O0038", "matches": {"0": [1], "1": [3, 4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A25P0068", "matches": {"0": [0, 1], "1": [1, 3], "2": [4], "3": [4], "4": [5], "5": [6]}, "n_seq": 6, "n_chain": 7}
+{"record_id": "TSB_A77Q0036", "matches": {"0": [5, 7], "1": [1]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A25F0168", "matches": {"0": [0], "1": [0], "2": [1], "3": [], "4": [0], "5": [0]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A79H0002", "matches": {"0": [2], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84P0047", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84P0014", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A83O0030", "matches": {"0": [0, 1, 3], "1": [6, 7]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A80O0113", "matches": {"0": [2], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A78Q0109", "matches": {"0": [5], "1": [4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A82C0115", "matches": {"0": [2, 3, 4, 5], "1": [5, 6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85W0036", "matches": {"0": [3, 4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A82Q0049", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A78C0149", "matches": {"0": [2, 3], "1": [2, 3]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84C0044", "matches": {"0": [1], "1": [0, 3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84W0032", "matches": {"0": [0, 2, 3], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A77W0024", "matches": {"0": [0, 2, 3, 4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A80O0112", "matches": {"0": [4], "1": [2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84P0038", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84O0036", "matches": {"0": [0, 1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A80W0064", "matches": {"0": [2, 3], "1": [4], "2": [6], "3": [4], "4": [7], "5": [6], "6": [6], "7": [3], "8": []}, "n_seq": 9, "n_chain": 8}
+{"record_id": "TSB_A85C0035", "matches": {"0": [5], "1": [4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84C0072", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A80Q0132", "matches": {"0": [2, 3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A78P0116", "matches": {"0": [5], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85W0062", "matches": {"0": [2, 3], "1": [2, 3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A82C0021", "matches": {"0": [4, 6], "1": []}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A23Q0032", "matches": {"0": [0], "1": [1, 2], "2": [2]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A78P0084", "matches": {"0": [0, 4, 5], "1": [6], "2": [7]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A85O0092", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A80C0067", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A81O0901", "matches": {"0": [2], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A85C0085", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A83Q0046", "matches": {"0": [0], "1": [1, 2, 3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84C5004", "matches": {"0": [1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86P0054", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A85C0034", "matches": {"0": [3], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A80W0071", "matches": {"0": [1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A82C0073", "matches": {"0": [1], "1": [3], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A85W0016", "matches": {"0": [5], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84O0072", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A79H0001", "matches": {"0": [2, 3], "1": [6, 7]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A23W0108", "matches": {"0": [0], "1": [0], "2": [1], "3": [2], "4": [2], "5": [3]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A81Q0052", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A82C0021", "matches": {"0": [4, 5], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A81Q0095", "matches": {"0": [], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A82O0091", "matches": {"0": [6], "1": [6]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A85C0060", "matches": {"0": [0, 1, 2], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A82O0087", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A81W0072", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84C0088", "matches": {"0": [4, 5], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A26C0005", "matches": {"0": [1], "1": [2], "2": [3], "3": [5]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A84C0004", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A83P0018", "matches": {"0": [1, 2], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84C0049", "matches": {"0": [0], "1": [5], "2": [5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A84W0053", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A83W0023", "matches": {"0": [5], "1": [6]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A84P5003", "matches": {"0": [2], "1": [2]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A86Q0056", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A82W0043", "matches": {"0": [5], "1": [6, 7]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A85C0080", "matches": {"0": [1, 5], "1": [5, 6]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A84O0028", "matches": {"0": [0], "1": [7]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A83Q0072", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A83P0019", "matches": {"0": [6], "1": [3]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A84P5002", "matches": {"0": [1], "1": [0, 1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85A5007", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A83O0902", "matches": {"0": [1, 2], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85C0068", "matches": {"0": [0, 2], "1": [1, 3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84A5001", "matches": {"0": [0, 4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A81A0039", "matches": {"0": [0, 1, 2], "1": [6, 7]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A85A0023", "matches": {"0": [5], "1": [5]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A84W5003", "matches": {"0": [3], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85P0001", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A85C0038", "matches": {"0": [2, 3], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A24Q0090", "matches": {"0": [0], "1": [1], "2": [1, 2], "3": [], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A86A0023", "matches": {"0": [1, 2], "1": [4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85O0051", "matches": {"0": [2, 3], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86P0045", "matches": {"0": [4], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85C0033", "matches": {"0": [6], "1": [7]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A83Q0038", "matches": {"0": [0, 1], "1": [3, 4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A24P0113", "matches": {"0": [0], "1": [0, 2], "2": [4], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A85W0051", "matches": {"0": [5], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A86O0023", "matches": {"0": [1, 2], "1": [3, 4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A83W0030", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A80C0006", "matches": {"0": [2], "1": [6]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A84A0013", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A81Q0105", "matches": {"0": [0, 1, 2, 3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84A5003", "matches": {"0": [5], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A83W0035", "matches": {"0": [1, 2], "1": [1, 2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85A0029", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85W0045", "matches": {"0": [4], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A87Q4030", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A82C0902", "matches": {"0": [1, 4], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85W0903", "matches": {"0": [0, 3], "1": [2, 3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84C0077", "matches": {"0": [0, 2, 3, 4, 5], "1": [0, 2, 3, 4, 5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84Q0035", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84C0062", "matches": {"0": [5], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A83W0069", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84P0013", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85C0023", "matches": {"0": [0, 1], "1": [1, 2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A85W0058", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84W0050", "matches": {"0": [], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A87P0070", "matches": {"0": [7], "1": [7]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A84P0017", "matches": {"0": [0], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86A0003", "matches": {"0": [4], "1": [2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85P0033", "matches": {"0": [3], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A84C0060", "matches": {"0": [5], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A87C0042", "matches": {"0": [1, 2], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84W0057", "matches": {"0": [4], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85O0006", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84P5010", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A25F0306", "matches": {"0": [1], "1": [], "2": [2], "3": [3], "4": [0, 1]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A83W0009", "matches": {"0": [3, 4], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84C0090", "matches": {"0": [3, 2, 0], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A25P0041", "matches": {"0": [1], "1": [1], "2": [1], "3": [1], "4": [2], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A86Q5001", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A84A0003", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86O0034", "matches": {"0": [0, 3, 4], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84Q0041", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A85Q0032", "matches": {"0": [1, 2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86W0053", "matches": {"0": [1, 2, 3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86A0018", "matches": {"0": [3, 5], "1": [6]}, "n_seq": 2, "n_chain": 11}
+{"record_id": "TSB_A82W0054", "matches": {"0": [7], "1": [7]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A85W0041", "matches": {"0": [0], "1": [1, 2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84C0054", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84Q5003", "matches": {"0": [4], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A83Q5009", "matches": {"0": [0, 1], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A89C0007", "matches": {"0": [0, 1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A86Q0014", "matches": {"0": [0, 1, 2], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85W0017", "matches": {"0": [0, 1, 2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A90Q0186", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A85O0019", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A84P0035", "matches": {"0": [0, 2, 3], "1": [1], "2": []}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A86C0903", "matches": {"0": [2], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84P0055", "matches": {"0": [0], "1": [3, 4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85A0017", "matches": {"0": [0, 1, 2, 3, 4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86O0048", "matches": {"0": [2], "1": [0, 2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85P0904", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A87P0063", "matches": {"0": [2], "1": [5], "2": [6]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A85C0057", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84W0044", "matches": {"0": [0], "1": [3, 4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85Q0062", "matches": {"0": [2, 3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85C0063", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86P5002", "matches": {"0": [1, 2], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85O0043", "matches": {"0": [1, 2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84Q0059", "matches": {"0": [6], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85P0013", "matches": {"0": [0, 1], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85O0045", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A85O0003", "matches": {"0": [4], "1": [7, 8], "2": [8, 9]}, "n_seq": 3, "n_chain": 10}
+{"record_id": "TSB_A84C0092", "matches": {"0": [2], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A86W0035", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A78O0067", "matches": {"0": [0, 1, 2, 4], "1": []}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A84W0064", "matches": {"0": [0, 1, 3, 4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84W0068", "matches": {"0": [7], "1": [1]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A85Q0038", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A88P0149", "matches": {"0": [0, 2], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87A4084", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87C0076", "matches": {"0": [4, 5], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86W0010", "matches": {"0": [3, 4], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A83O0033", "matches": {"0": [0], "1": [5], "2": [7]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A85W0070", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A88A0068", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84Q0089", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85W0037", "matches": {"0": [3, 5], "1": [6]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A84W0061", "matches": {"0": [3], "1": [2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85Q0042", "matches": {"0": [6, 7, 8], "1": [6, 7, 8]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A87W0029", "matches": {"0": [1], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A86C0028", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87Q0022", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A93W0052", "matches": {"0": [0, 4], "1": [1, 2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85O0079", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A94A0196", "matches": {"0": [1, 2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86Q0039", "matches": {"0": [4], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A86C0011", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A26C0016", "matches": {"0": [0, 1], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A86O0084", "matches": {"0": [0, 1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A84Q0022", "matches": {"0": [2], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A87O0052", "matches": {"0": [2, 4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85P0009", "matches": {"0": [0, 1, 2], "1": [2, 3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86P0906", "matches": {"0": [5], "1": [4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85H0001", "matches": {"0": [4, 5], "1": [4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A86O0903", "matches": {"0": [1, 3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86P0050", "matches": {"0": [4], "1": [6]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A84W0038", "matches": {"0": [4], "1": [3]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85W0903", "matches": {"0": [3], "1": [0, 3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85Q0012", "matches": {"0": [1], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A85A0032", "matches": {"0": [2, 3, 4], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A92C0072", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87W0907", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86O0062", "matches": {"0": [2, 3], "1": [1]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85A0034", "matches": {"0": [3, 4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A87W0905", "matches": {"0": [0], "1": [1, 2, 3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86C0064", "matches": {"0": [5], "1": [7]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A85P5001", "matches": {"0": [1, 2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A86C0018", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85O0049", "matches": {"0": [0, 2], "1": [4, 5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A86W0905", "matches": {"0": [0], "1": [0]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A86O0902", "matches": {"0": [0, 1, 4], "1": [1, 4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A81P0057", "matches": {"0": [2], "1": [3], "2": [4], "3": []}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A86O0045", "matches": {"0": [4], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A95O0166", "matches": {"0": [0], "1": [1, 2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A84Q0027", "matches": {"0": [5], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84O0079", "matches": {"0": [0, 1], "1": [0, 1]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A80C0020", "matches": {"0": [0], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86Q0901", "matches": {"0": [1, 2], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86O0022", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A91C0216", "matches": {"0": [0, 1], "1": [2, 3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A87P0068", "matches": {"0": [2], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A93A0229", "matches": {"0": [3], "1": [3], "2": [4, 5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A85Q0020", "matches": {"0": [2, 4], "1": [4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85O0076", "matches": {"0": [2], "1": [3, 4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A88P0034", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87P0911", "matches": {"0": [1, 4], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87P0905", "matches": {"0": [], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86C0118", "matches": {"0": [1], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A91Q0323", "matches": {"0": [0, 1], "1": [2], "2": []}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A87O0078", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A84Q0083", "matches": {"0": [6], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A95P0272", "matches": {"0": [1], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A88W0201", "matches": {"0": [1], "1": [2, 3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86P0070", "matches": {"0": [6], "1": [7]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A95C0018", "matches": {"0": [], "1": [], "2": [], "3": []}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A85C0044", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A86Q5003", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85O0028", "matches": {"0": [2], "1": [2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86W0066", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A88Q0058", "matches": {"0": [1], "1": [0, 1]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A87Q0054", "matches": {"0": [0, 1, 2], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A85Q5002", "matches": {"0": [], "1": [2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86O0044", "matches": {"0": [1, 2], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A89A0142", "matches": {"0": [0], "1": [4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A89P0228", "matches": {"0": [4], "1": [6], "2": [5]}, "n_seq": 3, "n_chain": 8}
+{"record_id": "TSB_A87P0016", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85P0003", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86W0063", "matches": {"0": [3], "1": [5, 6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A96A0175", "matches": {"0": [0], "1": [0]}, "n_seq": 2, "n_chain": 2}
+{"record_id": "TSB_A86O0077", "matches": {"0": [3], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86A0034", "matches": {"0": [2], "1": [5, 6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A97P0151", "matches": {"0": [4], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A87A0904", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A87Q5008", "matches": {"0": [0], "1": [1, 2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A86O0070", "matches": {"0": [1], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A94C0015", "matches": {"0": [4], "1": [0], "2": [1, 2]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A86O0079", "matches": {"0": [1, 3], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86C0092", "matches": {"0": [1, 3], "1": [2, 4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A92Q0196", "matches": {"0": [1], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A87O4142", "matches": {"0": [0, 1, 2, 3, 4], "1": [5, 6]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A89A0247", "matches": {"0": [1], "1": [2, 3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A85W0061", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A94F0001", "matches": {"0": [], "1": [2], "2": [0], "3": [0], "4": [], "5": []}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A93Q0008", "matches": {"0": [0], "1": [1], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A89P0137", "matches": {"0": [2], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A87C0039", "matches": {"0": [2, 3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A83W0034", "matches": {"0": [4, 5, 6], "1": [4]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A88A0237", "matches": {"0": [1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85O0035", "matches": {"0": [6], "1": [2]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A85O0075", "matches": {"0": [1, 3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A85Q0066", "matches": {"0": [4, 5, 6], "1": [7]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A91Q0299", "matches": {"0": [2], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86C0053", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A97P0353", "matches": {"0": [2], "1": [0, 2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A97O0121", "matches": {"0": [1], "1": [0, 1, 2, 3], "2": [2]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A88Q0242", "matches": {"0": [0], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A93C0119", "matches": {"0": [3], "1": [1, 2], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A86P0044", "matches": {"0": [2, 3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A89Q0134", "matches": {"0": [0], "1": [1, 2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A86O0007", "matches": {"0": [3], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A87P0089", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A95Q0200", "matches": {"0": [0], "1": [0, 2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A87O0048", "matches": {"0": [0, 1, 2, 3, 4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A83O0086", "matches": {"0": [1, 2, 3, 4, 5], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A89P0092", "matches": {"0": [4], "1": [4], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A88O0496", "matches": {"0": [2], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A91A0053", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A94A0098", "matches": {"0": [0], "1": [], "2": [5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A87O0082", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A94C0216", "matches": {"0": [3], "1": [2], "2": [4], "3": [5]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A88A0291", "matches": {"0": [2], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86W0062", "matches": {"0": [2, 4], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A88C0009", "matches": {"0": [6], "1": [8]}, "n_seq": 2, "n_chain": 10}
+{"record_id": "TSB_A86O0034", "matches": {"0": [5], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A87A0004", "matches": {"0": [0, 1], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87O0044", "matches": {"0": [5], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A88P0165", "matches": {"0": [6], "1": [6]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A87O0086", "matches": {"0": [3], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A88W0090", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86Q0054", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A93W0052", "matches": {"0": [5], "1": [2]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A88W0184", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87O0903", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A84O5025", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A98P0261", "matches": {"0": [0], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A84Q0052", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A93Q0229", "matches": {"0": [3], "1": [0, 1], "2": [4], "3": [2]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A92O0201", "matches": {"0": [], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A94A0134", "matches": {"0": [0, 1, 2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A86C5011", "matches": {"0": [2, 3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A89C0109", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A97P0208", "matches": {"0": [2], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A94A0098", "matches": {"0": [0], "1": [], "2": [5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A98P0173", "matches": {"0": [3], "1": [0, 2], "2": [0]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A95F0029", "matches": {"0": [], "1": [2, 3], "2": [3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A86C0059", "matches": {"0": [1, 2], "1": [2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A96A0167", "matches": {"0": [2], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A95C0172", "matches": {"0": [0], "1": [2], "2": [3], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A98W0025", "matches": {"0": [0, 1], "1": [2, 3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A92C0151", "matches": {"0": [0, 3], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A88P0122", "matches": {"0": [1], "1": [4], "2": [1]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A96P0116", "matches": {"0": [0], "1": [1, 5], "2": [], "3": [2], "4": [3, 4]}, "n_seq": 5, "n_chain": 7}
+{"record_id": "TSB_A85O0047", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 2}
+{"record_id": "TSB_A86A0002", "matches": {"0": [4, 5], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A86W5008", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87C0020", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A86P0040", "matches": {"0": [2, 3, 4], "1": [2, 3, 4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A95A0061", "matches": {"0": [0, 1], "1": [1, 5], "2": [1]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A94C0194", "matches": {"0": [0, 1], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A87A0010", "matches": {"0": [1], "1": [4]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A93C0005", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A87O0034", "matches": {"0": [0], "1": [1, 2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A99P0040", "matches": {"0": [0], "1": [0], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A95P0237", "matches": {"0": [0], "1": [4, 5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A88Q0023", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A93C0136", "matches": {"0": [1], "1": [2], "2": [2], "3": [4]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A88Q0323", "matches": {"0": [2], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A97P0351", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A86O0106", "matches": {"0": [2], "1": []}, "n_seq": 2, "n_chain": 11}
+{"record_id": "TSB_A92O0240", "matches": {"0": [0, 1, 2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A87P0059", "matches": {"0": [2, 3], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A87W0063", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A96Q0176", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A98C0091", "matches": {"0": [0], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A88Q0031", "matches": {"0": [6], "1": [7]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A95O0141", "matches": {"0": [0, 1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A88A0149", "matches": {"0": [2, 3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A93A0166", "matches": {"0": [3], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A95O0084", "matches": {"0": [1], "1": [0, 2], "2": [], "3": [3], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A92P0024", "matches": {"0": [2], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A94C0015", "matches": {"0": [3, 4], "1": [0], "2": [2]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A95P0259", "matches": {"0": [3], "1": [4], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A88Q0278", "matches": {"0": [2, 3], "1": [5, 6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A93W0118", "matches": {"0": [1, 2, 3], "1": []}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A85C0054", "matches": {"0": [1, 2, 3], "1": [0]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A99Q0013", "matches": {"0": [0], "1": [1], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 3}
+{"record_id": "TSB_A88W0076", "matches": {"0": [3, 4, 5], "1": [5, 6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A94P0167", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A96O0111", "matches": {"0": [0], "1": [1], "2": [2], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A86C0116", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A95P0159", "matches": {"0": [0], "1": [2], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A86Q5009", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A88C0160", "matches": {"0": [6], "1": [7]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A99C0170", "matches": {"0": [0, 2, 3], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A87C0010", "matches": {"0": [4], "1": []}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A92C0146", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A98P0318", "matches": {"0": [0], "1": [1], "2": [2, 3], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A94O0219", "matches": {"0": [0, 1, 2], "1": [], "2": [2], "3": [3]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A87P0054", "matches": {"0": [3], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A87Q0057", "matches": {"0": [2, 6], "1": [7]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A97F0005", "matches": {"0": [0, 1, 2], "1": [], "2": []}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A96O0048", "matches": {"0": [2, 3], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A99C0109", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A88Q0009", "matches": {"0": [1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A93C0027", "matches": {"0": [1, 2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A88P0094", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86W5012", "matches": {"0": [4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A98C0252", "matches": {"0": [0], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A98Q0136", "matches": {"0": [0, 1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A97O0016", "matches": {"0": [0, 1, 3], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A95Q0200", "matches": {"0": [0], "1": [0, 2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A87P0012", "matches": {"0": [2], "1": [4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A96C0053", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A93C0037", "matches": {"0": [1], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A97P0108", "matches": {"0": [1, 2], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A97O0055", "matches": {"0": [4], "1": [3, 5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A88W0232", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A88O0050", "matches": {"0": [2, 4], "1": []}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A94P0097", "matches": {"0": [0], "1": [1], "2": [2], "3": [3, 4], "4": [3, 4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A95C0179", "matches": {"0": [4], "1": [2, 5], "2": [0, 1]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A93C0156", "matches": {"0": [], "1": [0], "2": [1, 2], "3": [], "4": [2], "5": [], "6": []}, "n_seq": 7, "n_chain": 3}
+{"record_id": "TSB_A93W0060", "matches": {"0": [2, 3], "1": [5]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A99Q0185", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A98P0085", "matches": {"0": [2], "1": [1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A89A0101", "matches": {"0": [1], "1": [2, 3, 4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A96C0218", "matches": {"0": [1, 4], "1": [0]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A98O0190", "matches": {"0": [4], "1": [], "2": [5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A98P0105", "matches": {"0": [2], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A87W0063", "matches": {"0": [4], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A93C0209", "matches": {"0": [0], "1": [2], "2": [3], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A94O0216", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A99C0281", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A93H0023", "matches": {"0": [], "1": [], "2": [], "3": [1, 3], "4": []}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A98A0113", "matches": {"0": [1], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A97P0175", "matches": {"0": [0, 1], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A85W0063", "matches": {"0": [1], "1": [3, 4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A97Q0110", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A95C0253", "matches": {"0": [0, 1, 2], "1": [], "2": [5]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A92O0410", "matches": {"0": [], "1": [], "2": [], "3": [], "4": [], "5": [3], "6": [5], "7": [4]}, "n_seq": 8, "n_chain": 6}
+{"record_id": "TSB_A93C0027", "matches": {"0": [1, 2], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A97P0044", "matches": {"0": [2], "1": [5], "2": [], "3": [], "4": []}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A90O0538", "matches": {"0": [5], "1": [3], "2": [5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A88P0064", "matches": {"0": [2], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A88W0140", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A96A0105", "matches": {"0": [0], "1": [0], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A87A0017", "matches": {"0": [2], "1": [2]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A96C0209", "matches": {"0": [], "1": [3], "2": [4], "3": [5]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A95O0228", "matches": {"0": [2], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A91H0014", "matches": {"0": [4], "1": [], "2": [2], "3": [3], "4": [5], "5": [], "6": [3]}, "n_seq": 7, "n_chain": 6}
+{"record_id": "TSB_A95P0027", "matches": {"0": [0], "1": [0], "2": [4], "3": [0, 2]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A99W0233", "matches": {"0": [6], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A98P0253", "matches": {"0": [3], "1": [0], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A97W0101", "matches": {"0": [0, 1], "1": [0, 1]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A98W0031", "matches": {"0": [0, 2], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A88C0052", "matches": {"0": [2, 3, 4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A94Q0049", "matches": {"0": [2], "1": [], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A95C0218", "matches": {"0": [2], "1": [2], "2": [], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A97C0181", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A92W0191", "matches": {"0": [0, 1, 2, 4], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A97W0028", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A91Q0092", "matches": {"0": [0, 1], "1": [2, 3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A97A0174", "matches": {"0": [0], "1": [], "2": [2], "3": [3], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A93Q0162", "matches": {"0": [1], "1": [2], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A95C0167", "matches": {"0": [2], "1": [], "2": [4], "3": [5]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A99C0067", "matches": {"0": [2, 3], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A98W0155", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A97P0009", "matches": {"0": [5], "1": [0]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A97C0170", "matches": {"0": [0], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A93O0281", "matches": {"0": [2, 5], "1": [], "2": [0], "3": [2, 5], "4": [], "5": []}, "n_seq": 6, "n_chain": 8}
+{"record_id": "TSB_A95C0062", "matches": {"0": [5], "1": [1]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A95A0187", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A88C0148", "matches": {"0": [3], "1": [4, 8]}, "n_seq": 2, "n_chain": 11}
+{"record_id": "TSB_A98P0237", "matches": {"0": [1], "1": [1, 4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A93Q0122", "matches": {"0": [3], "1": [], "2": [2], "3": [3], "4": [4]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A94A0155", "matches": {"0": [2], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A97P0102", "matches": {"0": [3], "1": [5], "2": [0, 1, 2, 4], "3": [6], "4": [6]}, "n_seq": 5, "n_chain": 7}
+{"record_id": "TSB_A95C0125", "matches": {"0": [0, 1], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A86Q0057", "matches": {"0": [3], "1": [3]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A98F0060", "matches": {"0": [0], "1": [1], "2": [2, 3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A98P0309", "matches": {"0": [1], "1": [3], "2": [3], "3": [4], "4": []}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A95F0029", "matches": {"0": [], "1": [3, 4], "2": [3, 4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A92O0410", "matches": {"0": [], "1": [], "2": [], "3": [], "4": [], "5": [3], "6": [5], "7": [4]}, "n_seq": 8, "n_chain": 6}
+{"record_id": "TSB_A93O0172", "matches": {"0": [1], "1": [1], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A98W0102", "matches": {"0": [1, 2], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A93O0157", "matches": {"0": [0], "1": [0, 1], "2": [1, 6], "3": [1, 6], "4": [3], "5": [3], "6": [1, 6], "7": [3], "8": [], "9": [5], "10": [], "11": [5], "12": [6], "13": [0, 1]}, "n_seq": 14, "n_chain": 7}
+{"record_id": "TSB_A97C0162", "matches": {"0": [0, 1], "1": [2], "2": []}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A99Q0147", "matches": {"0": [0, 1], "1": [0]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A94C0029", "matches": {"0": [2], "1": [], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A95F0030", "matches": {"0": [1], "1": [2], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A99P0023", "matches": {"0": [1, 2], "1": [0, 3, 4, 5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A92W0191", "matches": {"0": [0, 1, 2, 3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A94Q0152", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A96O0007", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A99O0242", "matches": {"0": [0, 1], "1": [1], "2": [4, 5, 6], "3": [], "4": []}, "n_seq": 5, "n_chain": 8}
+{"record_id": "TSB_A99C0282", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A95O0025", "matches": {"0": [3], "1": [], "2": [], "3": []}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A99P0163", "matches": {"0": [1], "1": [], "2": [2], "3": [], "4": [0]}, "n_seq": 5, "n_chain": 6}
+{"record_id": "TSB_A88O0202", "matches": {"0": [5], "1": [6]}, "n_seq": 2, "n_chain": 8}
+{"record_id": "TSB_A99P0034", "matches": {"0": [0, 1], "1": [3], "2": [2], "3": []}, "n_seq": 4, "n_chain": 8}
+{"record_id": "TSB_A98P0218", "matches": {"0": [2], "1": [0], "2": []}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A92O0244", "matches": {"0": [2], "1": [3, 4, 5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A96C0024", "matches": {"0": [4], "1": [], "2": [3, 5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A87Q5003", "matches": {"0": [0], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A96Q0157", "matches": {"0": [2, 3], "1": [4], "2": [5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A95P0264", "matches": {"0": [1], "1": [3], "2": [5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A97P0328", "matches": {"0": [0], "1": [0, 1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A92O0244", "matches": {"0": [2], "1": [3, 4, 5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A94C0033", "matches": {"0": [0], "1": [2], "2": [2], "3": [3], "4": [3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A98O0133", "matches": {"0": [1, 2], "1": [3], "2": [3], "3": [5]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A97P0141", "matches": {"0": [1], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A95C0016", "matches": {"0": [0], "1": [6, 7], "2": [], "3": []}, "n_seq": 4, "n_chain": 9}
+{"record_id": "TSB_A98O0060", "matches": {"0": [0], "1": [1, 2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A95A0112", "matches": {"0": [4], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A96P0006", "matches": {"0": [0], "1": [], "2": [], "3": []}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A96P0175", "matches": {"0": [1], "1": [0], "2": [], "3": [], "4": [], "5": [1], "6": [1]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A94P0167", "matches": {"0": [0], "1": [1], "2": []}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A96A0093", "matches": {"0": [0], "1": [3, 4], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A95C0245", "matches": {"0": [0, 1, 2], "1": [1], "2": [3], "3": [4]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A96P0296", "matches": {"0": [1], "1": [2], "2": [], "3": [0], "4": [1], "5": [2]}, "n_seq": 6, "n_chain": 4}
+{"record_id": "TSB_A95C0264", "matches": {"0": [0, 1], "1": [], "2": [3, 4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A99P0064", "matches": {"0": [3], "1": [5]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A96Q0157", "matches": {"0": [2, 3], "1": [4], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A97C0171", "matches": {"0": [1], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A95W0121", "matches": {"0": [1, 2], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A97C0216", "matches": {"0": [0, 2], "1": [6]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A98O0024", "matches": {"0": [3], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A98P0223", "matches": {"0": [0, 1, 2, 3], "1": [], "2": [5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A96O0030", "matches": {"0": [3], "1": [2], "2": [0, 1]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A97O0241", "matches": {"0": [0], "1": [5], "2": [3, 6]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A99O0123", "matches": {"0": [0], "1": [3], "2": [], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A99O0170", "matches": {"0": [0, 1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A92P0024", "matches": {"0": [1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A90W0039", "matches": {"0": [2, 3], "1": [4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A98C0203", "matches": {"0": [0, 1], "1": [1], "2": [2], "3": []}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A98C0221", "matches": {"0": [0], "1": [1], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A98O0186", "matches": {"0": [0, 1], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A98C0244", "matches": {"0": [1], "1": [4], "2": [3], "3": [3]}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A94P0259", "matches": {"0": [1], "1": [1], "2": [], "3": [3], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A97F0029", "matches": {"0": [0], "1": [1], "2": [0, 1], "3": [1], "4": [4], "5": [5]}, "n_seq": 6, "n_chain": 5}
+{"record_id": "TSB_A98C0025", "matches": {"0": [2], "1": [0], "2": [4]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A97P0274", "matches": {"0": [0], "1": [3], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A98P0260", "matches": {"0": [2, 3], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A98P0324", "matches": {"0": [3], "1": [3]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A98A0055", "matches": {"0": [1, 3], "1": [], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A97C0214", "matches": {"0": [2], "1": [1], "2": [4]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A98Q0079", "matches": {"0": [0, 2], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A99C0152", "matches": {"0": [4], "1": [3]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A98O0305", "matches": {"0": [0, 5], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A99C0222", "matches": {"0": [0], "1": [], "2": [1], "3": [2]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A96P0006", "matches": {"0": [0], "1": [1], "2": [], "3": []}, "n_seq": 4, "n_chain": 6}
+{"record_id": "TSB_A99P0085", "matches": {"0": [2], "1": [0], "2": [], "3": [1]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A98A0055", "matches": {"0": [1, 3], "1": [], "2": [5]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A98A0112", "matches": {"0": [0], "1": [], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A99C0266", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A99A0132", "matches": {"0": [4], "1": [1]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A99O0218", "matches": {"0": [0, 2], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A96O0030", "matches": {"0": [2, 3], "1": [1], "2": [0, 1]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A98O0171", "matches": {"0": [1], "1": [2], "2": [3]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A96O0202", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A99O0267", "matches": {"0": [1], "1": [3], "2": [3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A99P0164", "matches": {"0": [2], "1": [1], "2": [], "3": [3]}, "n_seq": 4, "n_chain": 4}
+{"record_id": "TSB_A99C0061", "matches": {"0": [0], "1": [1]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A99C0245", "matches": {"0": [0], "1": [3], "2": [0], "3": [], "4": [3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A97H0011", "matches": {"0": [], "1": [2], "2": [], "3": [4], "4": [4], "5": [5], "6": []}, "n_seq": 7, "n_chain": 8}
+{"record_id": "TSB_A97P0235", "matches": {"0": [4, 5], "1": [], "2": [4], "3": [4], "4": [5]}, "n_seq": 5, "n_chain": 7}
+{"record_id": "TSB_A99C0190", "matches": {"0": [1], "1": []}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A96C0226", "matches": {"0": [3], "1": [3], "2": [5, 6], "3": [5, 6]}, "n_seq": 4, "n_chain": 8}
+{"record_id": "TSB_A97W0130", "matches": {"0": [2], "1": [2]}, "n_seq": 2, "n_chain": 3}
+{"record_id": "TSB_A99P0131", "matches": {"0": [2], "1": [0, 1], "2": [2], "3": [0, 1], "4": [3], "5": [2], "6": [3]}, "n_seq": 7, "n_chain": 5}
+{"record_id": "TSB_A99A0094", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A97P0356", "matches": {"0": [4], "1": [0, 1], "2": [2, 3]}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A99F0027", "matches": {"0": [], "1": [2], "2": [3], "3": [4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A98O0317", "matches": {"0": [], "1": [5]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A98W0031", "matches": {"0": [0], "1": [3, 4]}, "n_seq": 2, "n_chain": 5}
+{"record_id": "TSB_A99W0176", "matches": {"0": [3], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A95Q0141", "matches": {"0": [4, 5], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A99A0032", "matches": {"0": [0], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A99O0165", "matches": {"0": [1], "1": [1], "2": [2]}, "n_seq": 3, "n_chain": 4}
+{"record_id": "TSB_A98P0261", "matches": {"0": [0], "1": [4]}, "n_seq": 2, "n_chain": 6}
+{"record_id": "TSB_A96C0229", "matches": {"0": [7, 8], "1": [8]}, "n_seq": 2, "n_chain": 10}
+{"record_id": "TSB_A98P0195", "matches": {"0": [0, 1, 2], "1": [0, 1, 2], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A99C0169", "matches": {"0": [0], "1": [1], "2": [2, 3]}, "n_seq": 3, "n_chain": 5}
+{"record_id": "TSB_A98P0320", "matches": {"0": [3], "1": [5], "2": []}, "n_seq": 3, "n_chain": 6}
+{"record_id": "TSB_A99P0012", "matches": {"0": [2], "1": [2], "2": []}, "n_seq": 3, "n_chain": 3}
+{"record_id": "TSB_A99Q0140", "matches": {"0": [0], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A98O0091", "matches": {"0": [0, 1, 2], "1": [4], "2": [3], "3": [5], "4": [0, 1, 2]}, "n_seq": 5, "n_chain": 7}
+{"record_id": "TSB_A99W0126", "matches": {"0": [1], "1": [3], "2": [1], "3": [3, 4]}, "n_seq": 4, "n_chain": 5}
+{"record_id": "TSB_A98C0085", "matches": {"0": [0], "1": [2], "2": [3], "3": [4, 3], "4": [4]}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A94A0201", "matches": {"0": [0, 1], "1": [2, 3], "2": [3], "3": [5]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A99O0183", "matches": {"0": [0], "1": [2, 3, 4]}, "n_seq": 2, "n_chain": 7}
+{"record_id": "TSB_A99P0063", "matches": {"0": [], "1": [0], "2": [2], "3": [2], "4": [3]}, "n_seq": 5, "n_chain": 4}
+{"record_id": "TSB_A99W0039", "matches": {"0": [5, 6], "1": [7]}, "n_seq": 2, "n_chain": 9}
+{"record_id": "TSB_A98A0144", "matches": {"0": [1], "1": [0], "2": [4], "3": [2, 3], "4": []}, "n_seq": 5, "n_chain": 5}
+{"record_id": "TSB_A99A0088", "matches": {"0": [0, 1], "1": [2]}, "n_seq": 2, "n_chain": 4}
+{"record_id": "TSB_A97P0168", "matches": {"0": [3], "1": [1, 2], "2": [2], "3": [5]}, "n_seq": 4, "n_chain": 7}
+{"record_id": "TSB_A98A0018", "matches": {"0": [0, 1], "1": [], "2": [3, 4]}, "n_seq": 3, "n_chain": 7}
+{"record_id": "TSB_A99C0115", "matches": {"0": [0, 1], "1": [2], "2": [3], "3": [1]}, "n_seq": 4, "n_chain": 5}

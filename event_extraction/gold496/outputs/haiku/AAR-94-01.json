@@ -1,0 +1,92 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "THUNDERSTORM_OR_CONVECTIVE",
+      "label": "Thunderstorm and heavy rain crossing runway 17L",
+      "trigger": "numerous thunderstorms in the area...heavy rain showers...thunderstorms all quadrants moving northeast",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Strong right crosswind",
+      "trigger": "direct right crosswind of 25 to 30 knots...wind gusting to 33 knots",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "wind surge associated with line of showers and thunderstorms"}]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "RUNWAY_CONDITION_HAZARD",
+      "label": "Wet runway from heavy precipitation",
+      "trigger": "raining at the time of landing...heavy rain shower...wet runway",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "heavy rain shower passing over runway"}]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Reduced visibility from rain and thunderstorm",
+      "trigger": "visibility 1 1/2 miles, thunderstorm, heavy rain shower",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "thunderstorm and rain reducing visibility to 1.5 miles"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Failure to use proper directional control techniques during landing roll",
+      "trigger": "inadequate forward pressure on control yoke...used the handwheel steering control at high speed...did not feel the brakes cycle",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Airplane drifted right of runway centerline",
+      "trigger": "airplane began to drift to the right...airplane continued moving to the right until the right main landing gear exited the runway",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 1, "strength": "contributing", "evidence": "right crosswind acting on vertical stabilizer causing weathervane"},
+        {"src": 2, "strength": "contributing", "evidence": "wet runway conditions and cornering at high speed"},
+        {"src": 4, "strength": "direct", "evidence": "improper control inputs...airplane did not respond to his actions"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft departed right side of runway into soft terrain",
+      "trigger": "right main landing gear departed the runway shoulder at 0659:43...airplane came to rest about 250 feet from right edge of runway",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "uncontrolled drift to right until right gear departed runway shoulder"}]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Substantial aircraft structural damage",
+      "trigger": "airplane sustained substantial damage, estimated at $35 million...left main landing gear separated...nose gear collapsed",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "impact with terrain during runway excursion and travel across taxiway"}]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Injuries to passengers and crew during emergency evacuation",
+      "trigger": "Two passengers received serious injuries...38 minor injuries...during evacuation...steep evacuation slides",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "aircraft damage and resultant aircraft attitude caused steep evacuation slides and difficult evacuation conditions"}]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

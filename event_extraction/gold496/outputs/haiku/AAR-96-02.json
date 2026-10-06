@@ -1,0 +1,120 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Aircraft entered freezing drizzle conditions during descent and holding",
+      "trigger": "Aircraft was operating in freezing drizzle environment, well beyond aircraft's certification envelope",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "ATC improperly released aircraft from ground hold and failed to manage extended holding",
+      "trigger": "Chicago Center TMC improperly released Flight 4184 from ground hold despite knowing extended holding was likely; failed to report arrival delays to ATCSCC as required",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Crew failed to comply with icing procedures; deactivated de-icing early, reduced propeller to 77%, ignored ice warning, selected non-standard Flaps 15 degrees",
+      "trigger": "Airframe de-icing system was deactivated at 1523:22; propeller speed reduced to 77%; crew ignored AAS ice detection chime at 1533:56; at 1533:26 flap handle moved to Flap 15 configuration not provided for in AOM",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "In icing conditions, crew failed to properly configure and maintain aircraft ice protection systems"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Crew retracted flaps from 15 degrees to 0 degrees during descent, increasing angle of attack",
+      "trigger": "At 1557:22 flap overspeed warning sounded; at 1557:26 flaps retracted from 15 to 0 degrees; DFDR shows AOA increased from approximately 0 degrees to 6.5 degrees during retraction",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Flaps 15 degree configuration created overspeed condition at descent speed near VFE"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Aileron hinge moment reversal caused by ice ridge aft of de-icing boots",
+      "trigger": "At 1557:28 as AOA increased through critical value of approximately 6 degrees following flap retraction, aileron hinge moment reversal occurred; left aileron deflected abruptly upward to stop; aircraft rolled rapidly to right",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Ice ridge accreted aft of de-icing boots during prolonged freezing drizzle exposure with Flaps 15 degree configuration creating negative AOA"
+        },
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "AOA increase during flap retraction reached critical value triggering flow separation and aileron suction"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft rolled rapidly to right; autopilot disconnected; entered steep uncontrolled descent",
+      "trigger": "Aircraft rapidly rolled to right to maximum bank angle of 77 degrees; autopilot disconnected at 1557:28.5; aircraft rolled through inverted position with pitch attitude reaching 73 degrees nose-down, airspeed increasing to 296 KIAS",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Aileron hinge moment reversal created abrupt roll moment that autopilot could not counter"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Crew made uncoordinated and ineffective control inputs during recovery attempt",
+      "trigger": "DFDR shows nine momentary pitch spikes exceeding 10 daN at different times indicating Captain and First Officer pulling control columns separately without coordination; erratic rudder and aileron inputs; power left at flight idle; CVR shows no crew discussion about recovery actions",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Unexpected roll upset surprised crew; lack of situational awareness prevented effective coordinated recovery despite aircraft being recoverable with proper control inputs"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted ground near Roselawn, Indiana",
+      "trigger": "Uncontrolled aircraft descended and impacted terrain near Roselawn, Indiana; 68 occupants (64 passengers, 2 flight attendants, 2 pilots) all fatally injured",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Uncontrolled descent from altitude with insufficient time or altitude for recovery"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

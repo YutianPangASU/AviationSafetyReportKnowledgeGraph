@@ -1,0 +1,103 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Fine Air failed to exercise operational control over cargo loading",
+      "trigger": "Fine Air did not supervise Aeromar loading operations or verify cargo weights and load distribution",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "GROUND_PERSONNEL_ERROR",
+      "label": "Aeromar operations manager failed to implement weight reduction order",
+      "trigger": "Aeromar operations manager forgot to issue the order to remove 1,000 pounds of cargo when he arrived at work",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "GROUND_PERSONNEL_ERROR",
+      "label": "Cargo loaded in incorrect positions, pallets rearranged during loading",
+      "trigger": "Cargo loaded per N30UA plan instead of modified N27UA plan; pallets from position 5 aft were pushed back one position; pallet 4 was turned 90 degrees",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Center of gravity farther aft than intended",
+      "trigger": "Safety Board calculated CG of 32.8 percent MAC based on actual loading, versus intended 30.0 percent MAC; possibly beyond aft limit of 33.1 percent",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 1, "strength": "direct", "evidence": "1,000 pounds of cargo not removed as required"},
+        {"src": 2, "strength": "direct", "evidence": "cargo pallets repositioned farther aft than load plan"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Flightcrew provided incorrect weight and balance data",
+      "trigger": "Load sheet provided to flightcrew showed CG of 30.0 percent MAC when actual CG was approximately 32.8 percent MAC; no verification of actual cargo performed",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "direct", "evidence": "Fine Air failed to verify actual cargo weights and positions"},
+        {"src": 3, "strength": "direct", "evidence": "aft CG condition resulted from improper loading but not reflected in dispatch data"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Stabilizer trim set incorrectly based on wrong CG information",
+      "trigger": "Flightcrew set stabilizer trim at 2.4 units ANU for 30.0 percent MAC CG; actual CG of 32.8 percent required only 0.9-1.0 units ANU, resulting in mistrim of approximately 1.5 units nose-up",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "flightcrew received and acted on incorrect weight/balance data"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall",
+      "trigger": "Sixteen seconds after rotation, airplane reached nose-high pitch attitude of approximately 30 degrees with angle of attack approaching 20 degrees, resulting in aerodynamic stall at approximately 300 feet altitude",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "aft CG resulted in excessive pitch-up moment at rotation"},
+        {"src": 5, "strength": "direct", "evidence": "nose-up mistrim of 1.5 units exacerbated pitch-up"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Inability to recover from stall",
+      "trigger": "Airplane could not recover from stall due to low altitude, high rate of descent, and aerodynamic characteristics in stall regime",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "stall at insufficient altitude and airspeed for recovery"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Uncontrolled impact with terrain resulting in five fatalities",
+      "trigger": "Airplane impacted terrain at approximately 1236:25.4 in tail-first, nose-high attitude, destroying the aircraft and killing three flightcrew, one security guard on board, and one motorist on ground",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "loss of control resulted in uncontrolled descent to ground"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

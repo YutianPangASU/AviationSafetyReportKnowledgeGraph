@@ -1,0 +1,88 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Wing design lacking fatigue analysis and safe operating life limits",
+      "trigger": "Part 4aT of the Civil Air Regulations... required a static strength analysis... No requirements for a fatigue analysis existed at the time the G-73 was originally certificated",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Fatigue cracks initiated and propagated in wing structure",
+      "trigger": "Fatigue in the rear Z-stringer initiated from the slosh hole... The skin crack consisted of two segments that initiated from two areas... extended over a period of months to years",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "No fatigue analysis performed means no safe operating life determined; aircraft accumulated operational cycles that exceeded fatigue life of structure"}]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Maintenance program failed to identify and properly repair fatigue cracks",
+      "trigger": "Sanding marks observed around rear Z-stringer slosh hole suggesting removal attempt, but cracking was not completely removed and crack continued to propagate; ineffective doubler repairs failed to restore strength",
+      "cause_role": "primary",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "Fatigue cracks present in wing structure but maintenance program failed to address root causes"}]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "FAA oversight failed to detect and correct maintenance program deficiencies",
+      "trigger": "PMI stated comfortable with maintenance; did not attend July and September 2005 CASS meetings where fuel leaks were discussed; did not investigate recurring leaks as structural damage indicators",
+      "cause_role": "primary",
+      "caused_by": [{"src": 2, "strength": "contributing", "evidence": "Ineffective maintenance program existed but was not detected by FAA oversight activities"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "STRUCTURAL_OVERLOAD",
+      "label": "Multiple fatigue cracks reduced wing residual strength to critical level",
+      "trigger": "Fatigue cracks grew to their critical crack length and the remaining wing structure could no longer sustain the applied loads",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "Multiple fatigue cracks in rear Z-stringer, lower skin, and rear spar lower spar cap accumulated damage"}, {"src": 2, "strength": "contributing", "evidence": "Ineffective repairs with doublers and stop-drills did not restore load-carrying capability"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Right wing separated from fuselage",
+      "trigger": "The right wing separated from the fuselage in flight at wing station 34",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "direct", "evidence": "Wing structure residual strength exceeded by normal aerodynamic loads during takeoff and climb"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft lost control following wing separation",
+      "trigger": "Aircraft subsequently descended into the water; was rendered uncontrollable after wing loss",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "Wing separation made aircraft aerodynamically uncontrollable"}]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Aircraft impacted water",
+      "trigger": "Crashed into a shipping channel adjacent to the Port of Miami, Florida",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "Uncontrolled aircraft descended into water"}]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to all occupants",
+      "trigger": "All 20 people aboard the airplane were killed",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "Impact with water at flight speed was not survivable"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

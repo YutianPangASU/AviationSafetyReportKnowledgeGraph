@@ -1,0 +1,76 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Gusting tailwind conditions exceeding aircraft limitation",
+      "trigger": "wind speeds as high as 18 kts gusting to 30 kts",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "ATC provided unsolicited instantaneous wind report",
+      "trigger": "unsolicited instantaneous wind report from the ASE ATC tower controller. The instantaneous wind report indicated a wind direction of 180° at 10 kts",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "instantaneous wind measurement was recorded during an apparent lull in the gusting wind conditions and was not representative of other wind reports"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Crew initiated takeoff based on instantaneous wind report",
+      "trigger": "The flight crew initiated the takeoff based on an unsolicited instantaneous wind report",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "initiated the takeoff based on an unsolicited instantaneous wind report from the tower controller"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft could not rotate at rotation speed due to excessive tailwind",
+      "trigger": "at the rotation speed (VR) of 121 kts, he applied back pressure on the yoke; however, the airplane would not become airborne",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "it is very likely that the airspeed did not reach VR due to tailwind conditions that exceeded the airplane's maximum tailwind limitation"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft overran end of runway",
+      "trigger": "The airplane departed the end of the runway and sustained substantial damage",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "After unable to rotate, captain called for and performed an aborted takeoff; the airplane departed the end of the runway"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

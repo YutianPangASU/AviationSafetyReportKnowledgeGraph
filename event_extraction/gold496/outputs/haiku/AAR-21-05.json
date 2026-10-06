@@ -1,0 +1,189 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Left MLG wheel speed transducers cross-wired during landing gear overhaul",
+      "trigger": "Incorrect wiring occurred during the overhaul of the left MLG at the landing gear manufacturer's facility in January 2017",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "15-knot tailwind present during landing on runway 13",
+      "trigger": "When the airplane touched down on the runway, the tailwind was 15 knots",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Left MLG outboard tire with flat spot and absent grooves in wear area",
+      "trigger": "First officer noticed a slight bald spot on the left main landing gear outboard tire with absence of grooves in the area of the flat spot",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain continued landing on runway 13 despite knowledge of 24-knot tailwind exceeding manufacturer limit",
+      "trigger": "The flight crew's continuation with the planned landing on runway 13 despite the knowledge of a tailwind that exceeded the airplane manufacturer's limit was consistent with plan continuation bias",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "15-knot tailwind condition present at landing"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Left MLG outboard tire entered into skid during landing rollout",
+      "trigger": "Evidence of the skid on the runway was a dark skid mark consistent with the position of the left outboard tire beginning about 1,835 feet beyond the runway threshold",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Cross-wiring prevented antiskid system from functioning correctly to prevent skid"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Tailwind increased braking requirements"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Pre-damaged tire more susceptible to skidding"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "AUTOMATION_ANOMALY",
+      "label": "Antiskid system released brake pressure to left and right inboard wheels",
+      "trigger": "The antiskid system perceived that the left inboard wheel was skidding and released the brake pressure to that wheel and the right inboard wheel due to the paired wheel design",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Cross-wired system perceives skid on wrong wheel due to reversed wire harnesses"
+        },
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Left outboard tire skid triggered antiskid system response"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Left MLG outboard tire burst after skidding approximately 170 feet",
+      "trigger": "The tire burst resulting in complete tire pressure loss after skidding action wore into the plies and reduced casing strength",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Skidding action wore into tire casing and plies until pressure could not be maintained"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Hydraulic brake system severe loss of braking capability in excess of 50%",
+      "trigger": "The combined loss of left and right inboard and left outboard MLG wheel braking prevented the flight crew from stopping the airplane on the runway",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Inboard wheels had zero brake pressure due to antiskid system release"
+        },
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Burst left outboard tire eliminated braking capability to that wheel"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft overran runway 13 and passed through runway safety area and blast pad",
+      "trigger": "The airplane subsequently overran the end of the runway and the adjacent 300-foot runway safety area and came to rest beyond the airport property",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "Braking capability of less than 50% prevented aircraft from stopping within available runway distance of 2,800 feet"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck perimeter fence, ditch, rocks, and obstacles before nose gear entered water",
+      "trigger": "The airplane crossed a 15-foot section of grass and traveled through a 4-foot chain-link airport perimeter fence and came to rest with its nose in shallow water at the edge of Dutch Harbor",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "Runway overrun led aircraft to impact ground structures beyond airport boundary"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Left engine propeller blades fractured and one blade entered cabin",
+      "trigger": "Three of the left engine's propeller blades fractured at the base of the airfoils and one blade was found hanging outside the left-side fuselage near seat 4A",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "Impact sequence caused propeller to strike ground structures including signal post and road sign"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injury to passenger in seat 4A",
+      "trigger": "One passenger sustained fatal injuries; cause of death was blunt impacts of head, trunk and extremities with multiple skeletal and visceral injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 10,
+          "strength": "direct",
+          "evidence": "Propeller blade impacted passenger in cabin"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

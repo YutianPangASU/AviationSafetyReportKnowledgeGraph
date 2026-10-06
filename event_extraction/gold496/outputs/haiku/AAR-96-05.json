@@ -1,0 +1,96 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "Approach controller failed to furnish current altimeter setting on initial contact",
+      "trigger": "At 0043:41 when flight 1572 first contacted approach control, controller did not issue the altimeter setting as required by ATC procedures; DASI readout showed 29.38 inches Hg at that time",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flightcrew failed to request current altimeter setting despite awareness of rapidly falling pressure",
+      "trigger": "Crew was aware of PRESFR notation in weather and received 1 hour 46 minute old ATIS, but did not request updated altimeter setting from approach controller",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Controller's omission of altimeter setting on initial contact contributed to crew not requesting an update"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Flightcrew allowed descent to continue below minimum descent altitude",
+      "trigger": "At 0055:26 first officer stated 'you're going below your...'; aircraft descended from 908 feet MDA to approximately 350 feet AGL before tree impact at 0055:30.4",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Outdated altimeter setting of 29.23 inches Hg resulted in 76 foot altitude indication error; current setting 29.38 would have given 40 additional feet clearance"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Crew's failure to obtain current altimeter setting perpetuated use of inaccurate altitude reference during critical descent phase"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck trees on ridge line during approach",
+      "trigger": "At 0055:30.4, airplane impacted trees on Peak Mountain Ridge at approximately 770 feet MSL, located 2.54 nautical miles northwest of runway 15 threshold",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Descent below MDA placed aircraft directly into collision with ridge terrain"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "EMERGENCY_LANDING",
+      "label": "Crew executed emergency landing on runway following tree strike",
+      "trigger": "After tree strike impact at 0055:30.4, crew executed go-around with left engine power loss and successfully landed aircraft on runway 15",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Tree strike impact necessitated immediate go-around and emergency landing procedures"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "One passenger sustained minor injury",
+      "trigger": "Of 73 passengers aboard, one sustained minor injury; no fatalities; flight and cabin crew uninjured",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Tree strike impact and aircraft damage caused injury; crew's post-impact flying skill limited injury severity"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

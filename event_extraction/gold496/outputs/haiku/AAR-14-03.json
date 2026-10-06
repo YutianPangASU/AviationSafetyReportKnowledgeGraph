@@ -1,0 +1,133 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Punitive organizational safety culture at Alaska DPS",
+      "trigger": "punitive safety culture impeded free flow of safety-related information and discouraged reporting of hazards",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Inadequate organizational risk management and weather minimum procedures",
+      "trigger": "Alaska DPS lacked organizational policies and procedures to ensure that operational risk was appropriately managed",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "safety culture prevented establishment of formal risk assessment and weather minimums"}]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilot lacked formal inadvertent IMC training and was not IFR-current",
+      "trigger": "pilot had received no inadvertent IMC training and most recent instrument helicopter flight was in 1986",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "organizational deficiencies prevented identification and correction of training gaps"}]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "IFR weather conditions forecasted for search area",
+      "trigger": "TAF forecasted ceiling 1,000 ft agl; FA forecasted light rain/snow showers with visibility down to 4 miles",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot accepted mission despite forecasted IFR weather conditions",
+      "trigger": "pilot decided to accept mission after checking weather despite IFR forecasts indicating high risk",
+      "cause_role": "primary",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "IFR weather forecast available at time of decision"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Weather deterioration at remote landing site during ground phase",
+      "trigger": "cloud ceiling degraded significantly from 1,100-1,200 ft msl on arrival to approximately 700 ft msl or lower",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot decided to continue VFR flight into deteriorating weather",
+      "trigger": "pilot chose to continue VFR flight rather than execute precautionary landing despite weather deterioration",
+      "cause_role": "primary",
+      "caused_by": [{"src": 1, "strength": "contributing", "evidence": "lack of formal risk assessment procedures to encourage go/no-go evaluation"}, {"src": 5, "strength": "direct", "evidence": "observed weather deterioration at departure site"}]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Helicopter encountered heavy snow and near-zero visibility conditions",
+      "trigger": "helicopter likely encountered IMC with low clouds, heavy snow, and near-zero-visibility conditions",
+      "cause_role": "primary",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "pilot flew VFR into deteriorating weather conditions"}]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot initiated rapid emergency climb and left turn with minimal forward airspeed",
+      "trigger": "helicopter began rapid climb and left turn at 2317:59 with little forward airspeed",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "total loss of external visual references led to attempted contingency maneuver"}]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "Pilot became spatially disoriented during instrument flight in zero-visibility conditions",
+      "trigger": "helicopter's erratic pitch, bank, and yaw oscillations consistent with spatial disorientation during aggressive maneuvering",
+      "cause_role": "primary",
+      "caused_by": [{"src": 2, "strength": "contributing", "evidence": "lack of inadvertent IMC training contributed to inability to maintain orientation"}, {"src": 7, "strength": "direct", "evidence": "zero-visibility conditions eliminated external visual references"}, {"src": 8, "strength": "contributing", "evidence": "aggressive low-speed climbing turn in IMC"}]
+    },
+    {
+      "idx": 10,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot caged attitude indicator in flight at high pitch and roll angles",
+      "trigger": "at 2318:40 pilot caged attitude indicator while helicopter at high pitch and roll angles, setting it to level flight display",
+      "cause_role": "primary",
+      "caused_by": [{"src": 9, "strength": "direct", "evidence": "spatial disorientation caused pilot to distrust attitude indicator information"}]
+    },
+    {
+      "idx": 11,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of control in flight; erratic uncontrolled maneuvers",
+      "trigger": "helicopter entered series of erratic turns, climbs, and descents with erratic control inputs and tumbled attitude indicator",
+      "cause_role": "primary",
+      "caused_by": [{"src": 9, "strength": "direct", "evidence": "spatial disorientation prevented aircraft control"}, {"src": 10, "strength": "direct", "evidence": "caged attitude indicator provided erroneous pitch and bank information"}]
+    },
+    {
+      "idx": 12,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter impacted terrain in wooded area",
+      "trigger": "helicopter impacted snow-covered wooded terrain approximately 3 miles south of departure point",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 11, "strength": "direct", "evidence": "uncontrolled descent from loss of control resulted in impact with terrain"}]
+    },
+    {
+      "idx": 13,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot, state trooper, and snowmobiler killed; helicopter destroyed",
+      "trigger": "all three occupants fatally injured by blunt force trauma; helicopter destroyed by impact forces and postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 12, "strength": "direct", "evidence": "high-speed ground impact resulted in fatal blunt force injuries to occupants"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,96 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Inadequate Vref setting without wind correction",
+      "trigger": "Captain briefed Vref of 95 KIAS; correct wind-corrected Vref should have been 101 KIAS per company procedures given reported winds of 060° at 17 knots gusting to 23 knots",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Excessive airspeed maintained through approach and at runway threshold",
+      "trigger": "FDR data showed airplane crossed runway threshold at 110 KIAS, approximately 15 knots above the airspeed bug setting and 9 knots above what should have been set",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Inadequate Vref of 95 KIAS rather than correct 101 KIAS resulted in excessive threshold crossing airspeed"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Improper recovery technique after initial skip and bounce",
+      "trigger": "After first touchdown at 1449:41, captain took control and made abrupt pitch changes from 5° down to -2° then up to 9°, and power changes from 10% to 43%; airplane bounced to 37 feet instead of settling",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Excessive airspeed required recovery from skip, but captain's abrupt control inputs were improper and ineffective, causing continued bouncing rather than recovery"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Failure to execute go-around after second bounce",
+      "trigger": "After second touchdown and bounce to 37 feet at approximately 2,200 feet beyond runway threshold, captain did not execute go-around but continued descent, resulting in third touchdown",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Captain's improper recovery from first bounce led to second bounce; proper procedure required go-around decision which was not executed"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Left main landing gear fractured from excessive vertical loads",
+      "trigger": "At third touchdown approximately 3,300 feet beyond threshold, airplane descent rate of 19 to 32 fps far exceeded landing gear design limit of 10 fps; FDR recorded 5 Gs vertical load; left MLG fractured circumferentially at vertical trunnion leg",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Continued landing attempt without go-around resulted in third impact with excessive descent rate that exceeded landing gear structural capability"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft left runway and crashed on grassy area",
+      "trigger": "Airplane came to complete stop on grassy area 217 feet left of runway 8 centerline, approximately 4,317 feet beyond runway threshold; captain seriously injured, 19 total minor injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Failure to execute go-around after recognizing continued bouncing resulted in multiple hard landings and structural damage leading to crash"
+        },
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Landing gear failure contributed to loss of aircraft structural integrity during impact sequence"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

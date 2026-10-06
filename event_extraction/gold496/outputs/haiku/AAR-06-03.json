@@ -1,0 +1,120 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain intentionally did not close right fuel tank shutoff valve during crossfeed operations",
+      "trigger": "Captain stated he did not shut off the right fuel tank shutoff valve because he mistakenly believed fuel tank shutoff valves tended to fail when closed",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "FUEL_SYSTEM_ANOMALY",
+      "label": "Fuel transferred from left tank to right tank",
+      "trigger": "With left boost pump at 20 psi and right at 15 psi, all fuel from left tank flowed to right tank with both crossfeed valves open",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "Leaving right fuel tank shutoff valve open allowed pressure-driven fuel transfer to right tank"}]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Lateral fuel imbalance developed over 30 minutes",
+      "trigger": "First officer reported control wheel required excessive force and airplane felt like swinging back and forth",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "Fuel transfer depleted left tank and filled right tank, creating severe lateral imbalance"}]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Captain made arithmetic error in manual weight/balance calculations",
+      "trigger": "Captain used incorrect fuel burn moment value of 1,067 instead of correct value 1,667",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Captain became preoccupied and distracted with calculation error",
+      "trigger": "CVR records captain working on calculations from 0026:30 to 0032:31, trying to identify the mistake; captain stated he was preoccupied and stressed",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "Incorrect calculation result led captain to obsess over finding the error during flight"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Captain did not respond to or investigate first officer's repeated reports of unusual handling",
+      "trigger": "First officer reported six times from 0038:22 to 0044:16 that control wheel felt funny and required excessive force; captain did not respond to first five reports",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "contributing", "evidence": "Captain's preoccupation prevented recognition of critical handling change reports"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain failed to monitor fuel quantity gauges",
+      "trigger": "CVR contains no indication that either pilot monitored fuel gauges during the 30-minute period of fuel transfer",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "contributing", "evidence": "Captain's preoccupation prevented systematic monitoring of fuel system status"}]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Captain did not start in-range checklist at proper altitude",
+      "trigger": "Captain started in-range checklist at 3,200 feet instead of before leaving 12,000 feet, delaying fuel panel check by 14 minutes",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "contributing", "evidence": "Captain's preoccupation delayed initiation of checklist that would have revealed fuel crossfeed switch position"}]
+    },
+    {
+      "idx": 8,
+      "class": "condition",
+      "factor_type": "FUEL_EXHAUSTION_OR_STARVATION",
+      "label": "Left fuel tank completely exhausted",
+      "trigger": "After 30 minutes of undetected fuel transfer, left tank fuel was fully depleted",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 1, "strength": "direct", "evidence": "Fuel transfer from left to right tank depleted left tank"},
+        {"src": 5, "strength": "contributing", "evidence": "Crew did not detect and correct fuel imbalance during development"},
+        {"src": 6, "strength": "contributing", "evidence": "Crew did not monitor fuel gauges to observe imbalance"},
+        {"src": 7, "strength": "contributing", "evidence": "Delayed checklist prevented early detection of open crossfeed valve"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Dual engine flameout at low altitude during approach",
+      "trigger": "At 0046:45 CVR recorded decreasing engine rpm; first officer stated we're losing power; both engines lost all power",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 8, "strength": "direct", "evidence": "Left tank exhaustion caused both engine-driven fuel pumps to draw air instead of fuel"}]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted terrain 1.2 miles short of runway",
+      "trigger": "Wreckage located 1.2 miles short of runway 36R; aircraft impacted trees then ground",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 9, "strength": "direct", "evidence": "Loss of engine thrust at low altitude forced uncontrolled descent to terrain"}]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "First officer fatality",
+      "trigger": "First officer killed in impact; autopsy determined cause of death was massive acute body trauma",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 10, "strength": "direct", "evidence": "Impact forces caused fatal injuries to first officer"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,198 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "First officer fatigued from acute sleep loss and poor off-duty time management",
+      "trigger": "First officer had only 6 hrs 27 min sleep night of August 11; did not manage 62-hour layover to obtain adequate rest",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "Weather information incomplete—METAR remarks section removed from dispatch feeds",
+      "trigger": "Remarks section of METARs removed by Lido system in September 2011; variable ceiling information (600-1,300 ft) not provided to crew",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Low and variable cloud ceiling present at destination airport",
+      "trigger": "Cloud ceiling varied from 600 to 1,300 ft; actual clouds at 350 ft AAE at time of approach",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "FMC flight plan not sequenced for approach—direct-to-KBHM leg remains active",
+      "trigger": "First officer did not verify and sequence flight plan; direct navigation leg not removed after ATC vectoring",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "AUTOMATION_ANOMALY",
+      "label": "Autopilot fails to capture profile mode; flight plan discontinuity prevents glidepath guidance",
+      "trigger": "Flight plan discontinuity in FMC prevented autopilot engagement; vertical deviation indicator pegged at full-scale deflection",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "flight plan discontinuity...prevented the autopilot from engaging in profile mode"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Captain changes autopilot from profile to vertical speed mode without briefing first officer",
+      "trigger": "Captain stated 'Yeah I'm gonna do vertical speed...he kept us high' without briefing; first officer had to query the mode change",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "autopilot did not capture profile glidepath, captain changed...to vertical speed mode"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain sets excessive descent rate of 1,500 fpm on final approach",
+      "trigger": "Captain initially set 700 fpm, then 1,000 fpm, then increased to 1,500 fpm; maintained this rate approaching minimum descent altitude",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "after switching to vertical speed mode, captain...increased vertical descent rate to 1,500 fpm"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "First officer fails to make required 'approaching minimums' and 'minimums' altitude callouts",
+      "trigger": "First officer did not announce 'approaching minimums' at 1,300 ft or 'minimums' at 1,200 ft; crew descended through both altitudes without callouts",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "first officer fatigued; fatigue likely impeded her ability to comply with procedure"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "expectation to break out at 1,000 ft based on incomplete weather led to attention diverted to searching outside"
+        },
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "time compression from excessive 1,500 fpm descent rate increased workload and decreased callout timing"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Crew fails to arrest descent at minimum descent altitude and does not execute go-around",
+      "trigger": "Airplane descended below 1,200 ft MDA at 1,500 fpm without arresting rate; no go-around initiated despite unstabilized approach",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "descent rate of 1,500 fpm...violated stabilized approach criteria...resulting in unstabilized approach"
+        },
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "first officer did not make required minimums callouts that should have alerted crew to proximity to ground"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Airplane descends below minimum descent altitude of 1,200 ft msl in instrument meteorological conditions",
+      "trigger": "Airplane descended through 1,200 ft and continued descending toward terrain; no runway environment in sight",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "crew did not arrest descent at minimum descent altitude and continued descent below MDA"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain's response to EGPWS 'sink rate' caution alert is insufficient",
+      "trigger": "EGPWS sink rate alert triggered at ~250 ft agl; captain reduced descent rate to 600 fpm then 400 fpm but airplane continued at ~1,000 fpm descent",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "contributing",
+          "evidence": "at 1,000 ft agl...EGPWS sink rate caution alert triggered; captain's moderate response insufficient given high descent rate and low altitude"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Airplane strikes trees and terrain approximately 1.25 miles short of runway 18 threshold",
+      "trigger": "CVR recorded sound of airplane contacting trees; debris field extended 1.25 miles north of runway; forward fuselage largely intact but lower fuselage severely damaged",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "airplane descended below minimum altitude...subsequently into terrain...struck several trees"
+        },
+        {
+          "src": 10,
+          "strength": "contributing",
+          "evidence": "captain's insufficient response allowed continued descent on collision course with terrain"
+        }
+      ]
+    },
+    {
+      "idx": 12,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Captain and first officer fatally injured; airplane destroyed by impact forces and postcrash fire",
+      "trigger": "Both pilots sustained blunt force injuries; airplane destroyed by impact and fire; crew wearing seat restraints at time of impact",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 11,
+          "strength": "direct",
+          "evidence": "impact forces and postcrash fire resulted in fatal injuries to both crewmembers and destruction of aircraft"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

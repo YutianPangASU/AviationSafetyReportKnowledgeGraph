@@ -1,0 +1,149 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "ValuJet failure to implement cold weather nosegear servicing procedures",
+      "trigger": "ValuJet's failure to incorporate cold weather nosegear servicing procedures in its operations and maintenance manuals",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Nosegear shock strut underserviced for cold weather",
+      "trigger": "the nosegear shock strut did not extend far enough to actuate the ground shift mechanism because it was underserviced/underinflated for the cold/winter weather conditions",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "It is likely that the nosegear shock strut did not extend far enough to actuate the ground shift mechanism because it was underserviced/underinflated for the cold/winter weather conditions"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Nosegear strut insufficient extension; ground shift mechanism not actuating",
+      "trigger": "nosegear shock strut extension during the initial climbout was insufficient to actuate the ground shift mechanism",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "when the nosegear shock strut is underserviced/underinflated, strut extension after liftoff may not be sufficient to activate the ground shift mechanism"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Cabin pressurization system remains in ground mode",
+      "trigger": "the cabin was not pressurizing. The flightcrew referred to the QRH again and determined that in addition to the landing gear anti-retract mechanism malfunction, the ground shift mechanism must have malfunctioned",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Ground shift mechanism was still in the ground mode"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Incomplete QRH guidance on circuit breaker reset timing",
+      "trigger": "Page A-38 of the QRH lists resetting the ground control relay circuit breakers under the heading Approach and landing, but does not include specific instructions to reset during taxi",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilots' inadequate knowledge of circuit breaker reset timing",
+      "trigger": "Although both pilots had recently completed ValuJet/FSI training in the DC-9 and its systems, the pilots demonstrated that they did not have adequate knowledge or understanding of DC-9-32 systems to properly diagnose and respond to the abnormal situation",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilots reset circuit breakers prematurely at ~100 feet AGL",
+      "trigger": "about 100 feet above ground level, the captain verified a zero psi differential on the cabin differential pressure gauge and reset the ground control relay circuit breakers",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "The pilots decided that they could preclude such a loss of cabin pressurization after landing by resetting the ground control relay circuit breakers just before touchdown"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "The QRH does not include the specific instructions to reset the ground control relay circuit breakers after landing/during taxi"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "the pilots demonstrated that they did not have adequate knowledge or understanding of DC-9-32 systems"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Ground spoilers automatically deploy in flight",
+      "trigger": "he heard the sound of the ground spoilers deploying as the airplane began to descend at an excessive rate",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "When the J20 circuit breaker was reset, the ground spoilers deployed"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Aircraft descends at excessive rate",
+      "trigger": "the airplane began to descend at an excessive rate. The sink rate was between 39 and 47 feet per second just before runway impact",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "ground spoilers deploying as the airplane began to descend at an excessive rate"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Hard landing in approach light area short of runway",
+      "trigger": "the DC-9 struck the runway approach light area tail first, followed by main landing gear and nosegear, with engine thrust increasing",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "the airplane began to descend at an excessive rate and subsequently struck the ground"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

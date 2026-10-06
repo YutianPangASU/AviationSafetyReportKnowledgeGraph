@@ -1,0 +1,124 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "MSP reduced instrument training program from 6 approaches per 6 months to 2 IPCs annually",
+      "trigger": "On November 27, 2007, MSP Aviation Command changed its instrument training program",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilot had limited recent instrument flight experience",
+      "trigger": "pilot's last recorded night flight under instrument conditions took place on October 29, 2006; in year prior to accident, pilot logged 2.1 hours instrument time and completed 4 instrument approaches",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "training program reduction limited opportunities for instrument practice"}]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Instrument meteorological conditions with low ceiling and reduced visibility present in area",
+      "trigger": "IMC prevailed in accident area with scattered clouds near 200 feet agl and ceiling broken at 500 feet agl, visibility 4 miles in mist",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Pilot inadequately assesses preflight weather",
+      "trigger": "pilot obtained briefing that did not include weather hazards; pilot based decision to launch solely on weather observations at College Park and DCA",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "contributing", "evidence": "limited instrument experience contributed to failure to recognize deteriorating weather forecast and temperature-dew point spread warning"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot accepts medevac flight despite marginal weather forecast",
+      "trigger": "pilot initially stated 'I don't know if we can get to the hospital' but decided to accept after learning another medevac had just successfully completed flight; stated 'if they can do it we can do it...yeah we ought to be able to do it...we're going to try it'",
+      "cause_role": "primary",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "inadequate weather assessment led pilot to accept flight"}, {"src": 1, "strength": "contributing", "evidence": "limited instrument experience made pilot vulnerable to overconfidence based on other helicopter's report"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Aircraft encounters instrument meteorological conditions en route to hospital",
+      "trigger": "Trooper 2 reported 'we just ran into some heavy stuff...I don't think we're gonna be able to make it all the way to the hospital'",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 2, "strength": "direct", "evidence": "flight encountered the low ceiling and visibility conditions present in area"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "PCT controller provides weather observation issued 5 hours prior, showing 1,800 feet ceiling vs actual 500 feet",
+      "trigger": "PCT approach controller advised 'latest weather at Andrews is 7 miles uh 1,800 broken'; review showed observation had been issued at 1855 local, almost 5 hours before aircraft approach",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "ADW tower controller unable to provide requested ASR approach; inadequate vectoring by PCT",
+      "trigger": "Trooper 2 requested airport surveillance radar approach but controller replied she was not current to provide it; PCT controller issued heading that resulted in localizer overshoot requiring pilot correction",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Pilot expects to descend below cloud layer at altitude above MDA",
+      "trigger": "outdated weather report showing 1,800 feet ceiling led pilot to expect he could descend below clouds at altitude well above MDA; pilot familiar with ADW and would gain relief from instrument workload if able to regain visual flight",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "outdated weather showing 1,800 ft ceiling instead of actual 500 ft created false expectation of lower cloud altitude"}, {"src": 1, "strength": "contributing", "evidence": "limited instrument experience and stress from high workload made visual flight seem preferable"}, {"src": 7, "strength": "contributing", "evidence": "ASR denial and poor ATC coordination increased pressure on pilot"}]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot initiates rapid descent in attempt to regain visual conditions",
+      "trigger": "approximately 27 seconds after ASR denial, upon reaching 1,450 feet agl about 4 miles from runway, helicopter's rate of descent increased rapidly from 500 fpm to greater than 2,000 fpm; pilot deliberately deviated from approach procedure by attempting to 'duck under' cloud layer",
+      "cause_role": "primary",
+      "caused_by": [{"src": 8, "strength": "direct", "evidence": "false expectation that visual conditions existed at lower altitude motivated rapid descent"}, {"src": 1, "strength": "contributing", "evidence": "limited instrument experience and reduced ability to manage workload in actual IMC"}, {"src": 5, "strength": "contributing", "evidence": "continued IMC created urgency to find visual reference"}, {"src": 7, "strength": "contributing", "evidence": "inadequate ATC support and ASR denial removed alternatives, increasing pressure to improvise"}]
+    },
+    {
+      "idx": 10,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Pilot fails to arrest descent at minimum descent altitude",
+      "trigger": "pilot did not level off or reduce descent rate at MDA of 407 feet agl; continued descent through radar altimeter alert height of 300 feet agl and decision height of 200 feet agl until impact; data indicates pilot was preoccupied looking outside for ground rather than monitoring instruments",
+      "cause_role": "primary",
+      "caused_by": [{"src": 9, "strength": "direct", "evidence": "high descent rate in attempt to find visual conditions prevented pilot from arresting descent"}, {"src": 1, "strength": "direct", "evidence": "limited instrument experience and poor instrument scanning habits contributed to failure to monitor descent rate and altitude awareness"}]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter collides with trees and terrain",
+      "trigger": "helicopter initially collided with upper section of 80-foot tree in descending attitude on heading 191° magnetic; debris path extended approximately 164 feet to main wreckage in Walker Mill Regional Park",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 10, "strength": "direct", "evidence": "failure to arrest descent resulted in impact with terrain"}]
+    },
+    {
+      "idx": 12,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Four fatalities and one serious injury",
+      "trigger": "commercial pilot, flight paramedic, field provider, and one patient killed; one patient survived with serious injuries and hospitalization until November 5, 2008",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 11, "strength": "direct", "evidence": "ground impact with trees and terrain resulted in fatalities and injuries"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

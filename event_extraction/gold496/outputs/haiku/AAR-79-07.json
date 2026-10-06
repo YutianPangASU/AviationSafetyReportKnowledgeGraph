@@ -1,0 +1,111 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Severe corrosion in right main landing gear retract cylinder assembly threads",
+      "trigger": "the primary cause of the separation of the rod end from the piston rod was severe corrosion caused by moisture on the mating threads",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Right main landing gear free-fall during extension, disabling gear position microswitch",
+      "trigger": "the right main landing gear to fall free when the flightcrew lowered the landing gear. This rapid fall disabled the microswitch",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "The corrosion allowed the two parts to pull apart"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "First officer and flight engineer fail to effectively communicate fuel state criticality to captain",
+      "trigger": "the flight engineer informed the captain that fifteen minutes is gonna really run us low on fuel here; the first officer made several subtle comments questioning the aircraft's fuel state, but neither conveyed sufficient urgency",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "the landing gear problem had a seemingly disorganizing effect on the flightcrew's performance"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain fails to expedite landing and continues extended holding with inadequate fuel margin",
+      "trigger": "the captain did not adhere to his estimated time of arrival of 1805 and landing fuel loads; at 1801:12 the captain accepted a heading change that took the aircraft away from the airport, further extending the hold",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "His inattention resulted from preoccupation with a landing gear malfunction and preparations for a possible landing emergency"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "the failure of the other two flight crewmembers to successfully communicate their concern to the captain"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "FUEL_EXHAUSTION_OR_STARVATION",
+      "label": "All usable fuel consumed during extended holding at 5,000 feet",
+      "trigger": "With about 13,334 lbs of fuel at the start of the hold and a burn rate of 220 lbs per minute, fuel exhaustion would occur at approximately 1805; the aircraft continued holding for approximately 60 minutes",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "The aircraft continued to circle in an extended holding pattern instead of landing within the planned safe fuel window"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "All four engines flame out due to fuel starvation",
+      "trigger": "At 1807:06 the first officer said it's flamed out; at 1813:21 the flight engineer stated we've lost two engines, guys; engines one, two, three, and four progressively failed",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "the aircraft had no usable fuel remaining; there was no fire"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft crashes into wooded populated area southeast of Portland",
+      "trigger": "About 1815, the aircraft crashed into a wooded section of a populated area of suburban Portland about 6 nmi east southeast of the airport",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "With all engines inoperative, the aircraft became uncontrollable and impacted terrain and structures"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

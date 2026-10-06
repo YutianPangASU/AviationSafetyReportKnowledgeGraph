@@ -1,0 +1,144 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Oil leaking from engines and propellers",
+      "trigger": "March 12 #3 prop oil low; March 30 X2 prop oil light came on; April 1 Engine #1 oil low added 6 quarts; Engine #2 oil low added 4 quarts",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "SAT maintenance did not address oil leaks or perform required compressor cleaning",
+      "trigger": "Although there were several reports and indications of propeller and engine oil leaksinvolving N517SJ in the Wday period preceding the accident there was no record that SAT cleaned the compressors",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Allison and SAT Maintenance Manuals contained a procedure for nonrouoine deaning of the engines using a liquid cleaner in the event of propeller or engine oil leaks; failure of SAT maintenance to clean the engine compressors following oil leakage allowed the accumulation of oil residues"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "FUEL_CONTAMINATION",
+      "label": "Accumulated tar-like oil residues in engine compressors and air bleed valves",
+      "trigger": "tar-like residue coated the Internal somponents of the numbers 1 and 2 engine compressors; oilkar residue that impeded the proper actuation of some of the 5th stage values",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "the failure of SAT maintenance to clean the engine compressors following oil leakage allowed the accumulation of oil residues in the engines and made the engines susceptible to degraded performance problems"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "First officer candidate lacked L-382 aircraft type experience",
+      "trigger": "first officer candidate who had no previous L-382K-130 fkight experience",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Improper nose-high pitch attitude during landing approach",
+      "trigger": "captain remarked you're too high to sart rounding out",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "As the first officer operated the flight controls the captain provided instructional guidance; the first officer candidate had no previous L-382 fkight experience"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Engines #1 and #2 failed to respond to throttle advancement during go-around",
+      "trigger": "number 1 and 2 engines both fa:led to respond normally and in fact dece1e:atecd about 40 percent",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "The lack of power section response from the number 1 and 2 engines was directly attributable to the accumulated oii residues in the dirty compressors and air bieed valves"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Crew decision to retract flaps during go-around",
+      "trigger": "At 1731:52 an unidentified crewmember said Flaps up; Apparently in response the flap handle was raised",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncontrollable left yaw and steep left bank developed at low altitude",
+      "trigger": "airplane heading deviated rapidly to the left asthe airplane entered a gradually steepening lei3 bank; angle of bank reached about 50 degrees",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "The yawing moment caused by the asymmetry of thrust with the two operatin engines are at high power is significantly higher; with engines 1 and 2 at reduced power Vmca was significantly higher than the actual air speed"
+        },
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "the action of retracting the flaps produced two adverse effects: the movement of the flap handle to the retracted position would have reduced rudder boost actuator pressure from 3000 to 1300 psi"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft collided with perimeter fence and ground",
+      "trigger": "The wreckage path began at the airport perimeter fence 1048 feet left of the runway; airplane collided with the airfield perimeter fence in a nose-low and steep left wing low attitude",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "airplane collided with the airfield perimeter fence in a nose-low and steep left wing low attitude; witnesses described a left bank at low altitude which steepened until the airplane collided with the fence"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All five crew members fatally injured; aircraft destroyed",
+      "trigger": "All five crewmen were atally injured; airplane was destroyed by ground impact forces and the effects of a postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "airplane was destroyed by ground impact forces and the effects of a postcrash fire; All five crewmen were atally injured"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

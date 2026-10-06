@@ -1,0 +1,12 @@
+{
+  "tag": "v1",
+  "extraction_file": "event_extraction/out/calibration_2k_v1.jsonl",
+  "n_records_evaluated": 2000,
+  "n_factors_total": 3481,
+  "n_factors_matched": 2571,
+  "recall": 0.7385808675667912,
+  "n_events_total": 14897,
+  "n_events_matched_to_a_factor": 3174,
+  "precision": 0.2130630328254011,
+  "mean_per_record_recall": 0.7571357142857141
+}

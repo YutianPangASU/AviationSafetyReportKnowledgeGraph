@@ -1,0 +1,106 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Misaligned drilling of S-4L lap joint during manufacture",
+      "trigger": "the crown skin panel and the upper left fuselage panel were misaligned, so most of the lower rivet row holes were misdrilled",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Oversized, under-driven rivets not filling holes completely",
+      "trigger": "Many of the installed rivets did not completely fill the holes in the lower skin panel, which significantly reduced the fatigue life of the panel",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "the crown skin panel and the upper left fuselage panel were misaligned, so most of the lower rivet row holes were misdrilled. Many of the installed rivets did not completely fill the holes"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Fatigue cracks initiated at rivet hole 85 and propagated",
+      "trigger": "The pressurization loads on the fuselage skin initiated fatigue cracking at rivet hole 85 almost immediately after manufacture. Fatigue cracking subsequently initiated in adjacent rivets along the skin panel and grew over time with each application of pressurization loads.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "significantly reduced the fatigue life of the panel. The pressurization loads on the fuselage skin initiated fatigue cracking"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Fuselage skin fractured and flapped open, causing rapid decompression",
+      "trigger": "the cumulative amount of fatigue cracking reached a critical length, and the panel's residual strength was not sufficient to carry the loads, which resulted in the hole flapping open and rapid depressurization of the airplane",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "cumulative amount of fatigue cracking reached a critical length, and the panel's residual strength was not sufficient to carry the loads"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flight attendant A chooses to act before obtaining oxygen mask",
+      "trigger": "attempting to make either an interphone call or a P/A announcement to passengers before obtaining oxygen",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Flight attendant A attempted to make either an interphone call or a P/A announcement to passengers before obtaining oxygen"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+      "label": "Flight attendant A loses consciousness due to hypoxia",
+      "trigger": "he lost consciousness, fell, and struck his nose on the forward partition",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "attempted to perform actions before obtaining oxygen and lost consciousness"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Flight attendant A sustained laceration and fracture of nose",
+      "trigger": "struck the forward partition, and sustained a laceration and fracture of his nose",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "fell, and struck his nose on the forward partition"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

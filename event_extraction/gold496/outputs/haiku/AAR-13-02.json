@@ -1,0 +1,164 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilot's inadequate autorotation training",
+      "trigger": "Pilot's autorotation training was conducted at airspeeds around 80 knots; simulator evaluations showed that at cruise speed (115 knots), successful autorotation requires simultaneous aft cyclic and down collective within 1-2 seconds, but pilot's training emphasized only lowering collective",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "FUEL_EXHAUSTION_OR_STARVATION",
+      "label": "Helicopter in low fuel state",
+      "trigger": "After NVG training flight completed at 0300, aircraft was not refueled; had approximately 35 percent fuel capacity (~50 gallons), about half the normal 2-hour/70 percent load",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Pilot fatigue",
+      "trigger": "Pilot had limited sleep (~5 hours) night before accident; stated he did not sleep well and felt tired; had been awake more than 13 hours and on duty 12 hours at time of accident; was awake past 0019 on morning of accident",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Incomplete preflight inspection and noncompliance with standard operating procedures",
+      "trigger": "Pilot did not sign daily flight log; did not initial three CYA maintenance entries; did not take required fuel sample; did not verify fuel quantity by checking fuel gauge before returning helicopter to service between 1400-1530",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Low fuel condition should have been detected by gauge during required preflight inspection"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Fatigue degrades performance and increases errors of omission; pilot's performance deficits were uncharacteristic of his normal performance"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Pilot misreported fuel quantity on departure",
+      "trigger": "At 1730, shortly after takeoff on first leg, pilot reported to AirCom that helicopter had 2 hours of fuel when actual fuel was approximately 1 hour (35 percent vs. reported 70 percent)",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Due to incomplete preflight, pilot did not effectively reference fuel gauge; likely reported fuel he expected rather than what gauge indicated; had performed preflight on other helicopter (N101LN) which was fueled to 70 percent"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot decided to continue mission to GPH despite insufficient fuel reserves",
+      "trigger": "Upon landing at hospital, pilot realized mid-flight that fuel was less than expected. After discussing options with communication specialist and determining GPH was only airport with Jet-A fuel (58 nm away, saving only 4 nm and 2 minutes vs. Liberty Hospital), pilot decided to proceed to GPH for refueling with patient on board despite having insufficient fuel reserves (~30 minutes vs. 20-minute minimum requirement)",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Fatigue degrades decisions involving plan revision and increases perseveration on ineffective solutions; pilot demonstrated get-there-itis/plan continuation error by fixating on reaching GPH despite fuel emergency"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Pilot's initial misreport and subsequent misrepresentation of fuel state (reported 45 minutes at 1811 departure when actual was ~30 minutes) contributed to underestimation of risk"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Engine fuel exhaustion and flameout",
+      "trigger": "Approximately 1 nautical mile short of GPH at 1841, engine lost power due to fuel exhaustion; fuel tank contained less than 1 liter at impact; no fuel found in engine side of fuel filter",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Low fuel available in helicopter from start of day resulted in exhaustion before reaching airport"
+        },
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Pilot's decision to continue to GPH resulted in fuel being exhausted before airport arrival"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot failed to successfully enter autorotation",
+      "trigger": "Following engine flameout at approximately 115 knots and 275 feet AGL, pilot did not make flight control inputs necessary to enter autorotation; helicopter impacted in 40-degree nose-down attitude at high descent rate with low rotor rpm",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Pilot's autorotation training was not representative of cruise-speed engine failure; simulator evaluations showed simultaneous aft cyclic and down collective required within 1-2 seconds at this airspeed, but pilot was only trained for lower speeds"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Fatigue may have increased pilot reaction time in responding to emergency"
+        },
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Loss of engine power at cruise altitude and airspeed required immediate autorotation entry to maintain rotor rpm"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter impact with terrain",
+      "trigger": "Aircraft impacted ground in approximately 40-degree nose-down attitude at high rate of descent approximately 1 nautical mile from approach end of runway 18 at GPH; main and tail rotor blades exhibited minimal impact damage consistent with low rotor rpm at impact",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "Failure to enter autorotation resulted in rapid rotor rpm decay and loss of control authority; helicopter descended rapidly in nose-down attitude"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal crash",
+      "trigger": "Pilot, flight nurse, flight paramedic, and patient were killed in impact; helicopter was substantially damaged",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "High-energy impact from high descent rate in nose-down attitude resulted in unsurvivable injuries"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

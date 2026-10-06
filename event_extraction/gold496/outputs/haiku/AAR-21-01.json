@@ -1,0 +1,83 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Helicopter encounters marine layer with low clouds and reduced visibility",
+      "trigger": "At 0944:32, witness observed helicopter flying below/at cloud line before it disappeared into clouds",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot decided to climb above cloud layers instead of slowing or diverting",
+      "trigger": "At 0944:34, pilot announced initiating a climb to go above the layers",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "direct", "evidence": "Helicopter had already begun penetrating clouds at 1,370 ft msl"}
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot climbed at excessive rate and high airspeed contrary to recovery training",
+      "trigger": "Helicopter immediately began climbing at rate of about 1,500 fpm; groundspeed remained about 140 kts",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 1, "strength": "direct", "evidence": "Pilot's decision to climb"}
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "Pilot experienced spatial disorientation while climbing in IMC",
+      "trigger": "Pilot experienced vestibular illusions (leans and somatogravic) from loss of visual references while banking left",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 1, "strength": "direct", "evidence": "Climbed into IMC with aircraft banking left; loss of outside visual references"},
+        {"src": 2, "strength": "contributing", "evidence": "Improper climb technique with excessive rate and airspeed increased susceptibility to illusions"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Pilot lost control of helicopter during rapid descent in IMC",
+      "trigger": "At 0945:15 helicopter began rapid descent in left turn; pilot did not successfully recover",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "Spatial disorientation caused pilot to believe aircraft was climbing when it was descending"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter crashed into terrain in Calabasas",
+      "trigger": "Helicopter impacted terrain at approximately 1,100 ft msl elevation",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "Loss of control resulted in uncontrolled descent into terrain"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and 8 passengers fatally injured",
+      "trigger": "The pilot and eight passengers died",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "High-speed impact into terrain in mountainous area"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

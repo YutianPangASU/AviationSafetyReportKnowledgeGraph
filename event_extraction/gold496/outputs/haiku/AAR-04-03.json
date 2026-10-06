@@ -1,0 +1,146 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Insufficient torque applied to cylinder hold-down nuts",
+      "trigger": "Air Sunshine maintenance personnel applied inadequate torque during undocumented cylinder maintenance",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Right engine No. 2 cylinder hold-down nuts backed off studs",
+      "trigger": "two intact cylinder hold-down nuts found loose in engine compartment; two studs found without nuts",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "nuts became loose and backed off due to insufficient initial torque applied"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Right engine No. 2 cylinder separated and engine failed",
+      "trigger": "cylinder separated from crankcase; pilot heard bang and saw oil streaming from right engine",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "loss of nuts caused loads to transfer to remaining studs, initiating high-stress fatigue fractures, allowing cylinder to separate"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Right propeller continued windmilling instead of feathering",
+      "trigger": "pilot attempted to feather propeller but it continued turning; propeller windmilled throughout descent",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "propeller continued windmilling due to engine damage and separation"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot did not maintain optimal airspeed and aircraft configuration",
+      "trigger": "pilot did not follow engine failure checklist; maintained suboptimal airspeed instead of single-engine best climb rate",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "pilot too busy flying airplane to follow procedures; poor proficiency contributed to inadequate performance management"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Airplane descended at excessive rate between 200 and 560 fpm",
+      "trigger": "descent rate from 3,500 to 2,000 feet was 560-212 fpm; descent rate below 2,000 feet was 429-360 fpm",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "windmilling propeller penalty of -400 fpm"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "poor airspeed and configuration management degraded climb performance"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Pilot did not brief passengers on emergency procedures or PFD retrieval",
+      "trigger": "pilot did not instruct passengers to retrieve and don personal flotation devices before ditching; only told them to calm down",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "after right engine failed and during 7-minute descent to ditching, pilot did not conduct required emergency briefing"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Airplane ditched in Atlantic Ocean",
+      "trigger": "aircraft contacted water and ditched about 7.35 nautical miles west-northwest of Treasure Cay Airport",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "airplane descended below minimum safe altitude and pilot decided to ditch"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "One adult and one child died; pilot and five passengers sustained minor injuries",
+      "trigger": "one adult and one child passenger died after evacuation; adult from drowning, child from injuries secondary to plane crash",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "water impact resulted in hard contact and injuries"
+        },
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "failure to provide emergency briefing contributed to passenger fatalities; most passengers lacked PFDs during water impact"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

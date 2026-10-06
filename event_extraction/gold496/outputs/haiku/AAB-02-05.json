@@ -1,0 +1,166 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flight crew ordered insufficient fuel at FRG",
+      "trigger": "larger pilot told fueler to put 45 gallons in each tank for a total of 90 gallons, instead of the intended 180 gallons",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "FUEL_EXHAUSTION_OR_STARVATION",
+      "label": "Insufficient fuel on aircraft",
+      "trigger": "accident airplane departed FRG with about 1,600 pounds of fuel on board, which is 800 pounds less than listed on the load manifest",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "fuel order receipt confirmed purchase of 90 gallons total"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Flight crew did not verify fuel load before departure",
+      "trigger": "fueler stated he did not observe either pilot check the fuel drip sticks or walk around the airplane; pilots were not outside during fueling",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "crew relied on expectation of sufficient fuel and did not independently verify load"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Right engine loss of power due to fuel starvation",
+      "trigger": "At 1123:49 captain reported engine failure; right engine stoppage could be explained by fuel exhaustion, with right tank containing less fuel",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "critically low fuel state; right engine stoppage explained by fuel exhaustion"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Crew unable to promptly correct asymmetric yaw in IMC",
+      "trigger": "Experiencing engine failure in IMC caused pilots to fixate on instruments and allow course heading to wander; crew said we're trying when asked if turning left",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "right engine failure created asymmetric thrust requiring prompt rudder correction in instrument meteorological conditions"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft deviated 55 degrees right from ILS approach course",
+      "trigger": "ATC radar data indicated the accident airplane deviated 55 degrees in a right turn away from the localizer course during second approach",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "asymmetric thrust from right engine failure"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "inadequate or delayed rudder correction by flight crew"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Left engine fuel starvation and intermittent stoppage",
+      "trigger": "At 1125:12 captain transmitted lost both engines; at 1127:14 reported left engine recovered; at 1127:46 transmitted losing both engines again",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "critically limited fuel remaining in left tank"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "aircraft in left bank and nose-right sideslip during heading correction attempts caused fuel unporting from left tank inboard section"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of control at low altitude with both engines inoperative",
+      "trigger": "airplane continued to turn right at reduced altitude and airspeed with insufficient altitude to recover from dual-engine failure",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "right engine non-functional"
+        },
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "left engine also failed; dual-engine loss at 2000 feet insufficient for recovery"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impact with terrain",
+      "trigger": "airplane impacted the ground at a 60 degree nose low attitude and in a 135 degree left bank at elevation of 1,755 feet msl",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "uncontrolled descent from dual-engine loss at low altitude"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to all occupants",
+      "trigger": "17 passengers and two flight crewmembers were killed; autopsies determined death from blunt force trauma",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "high-impact-force collision with terrain"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

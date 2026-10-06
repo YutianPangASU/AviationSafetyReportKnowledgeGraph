@@ -1,0 +1,51 @@
+{
+  "n_joined_total": 39770,
+  "cruise": {
+    "icing_accidents": {
+      "n": 1205,
+      "mean_p_ice": 0.5165,
+      "median_p_ice": 0.6774,
+      "frac_serious_or_moderate": 0.6423,
+      "frac_serious": 0.3892
+    },
+    "non_icing_accidents": {
+      "n": 38565,
+      "mean_p_ice": 0.3834,
+      "median_p_ice": 0.3473,
+      "frac_serious_or_moderate": 0.4955,
+      "frac_serious": 0.2412
+    },
+    "auc_icing_vs_other": 0.6019,
+    "icing_and_engine_failure": {
+      "n": 1145,
+      "mean_p_ice": 0.5096,
+      "median_p_ice": 0.6332,
+      "frac_serious_or_moderate": 0.6349,
+      "frac_serious": 0.3817
+    }
+  },
+  "descent": {
+    "icing_accidents": {
+      "n": 1205,
+      "mean_p_ice": 0.7558,
+      "median_p_ice": 0.8526,
+      "frac_serious_or_moderate": 0.8888,
+      "frac_serious": 0.6423
+    },
+    "non_icing_accidents": {
+      "n": 38565,
+      "mean_p_ice": 0.6283,
+      "median_p_ice": 0.7751,
+      "frac_serious_or_moderate": 0.7497,
+      "frac_serious": 0.4918
+    },
+    "auc_icing_vs_other": 0.6123,
+    "icing_and_engine_failure": {
+      "n": 1145,
+      "mean_p_ice": 0.7556,
+      "median_p_ice": 0.8526,
+      "frac_serious_or_moderate": 0.8865,
+      "frac_serious": 0.6428
+    }
+  }
+}

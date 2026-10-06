@@ -1,0 +1,125 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Helicopter empty weight incorrectly documented as 12,408 lbs",
+      "trigger": "Chart A and Chart B for January 4, 2008 weighing indicated the Fire King tank was installed, but it was not actually installed until March 25, 2008, resulting in documented empty weight 1,437 lbs lighter than actual",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Altered takeoff power chart and unapproved load calculation procedures",
+      "trigger": "RFMS #8 Figure 4 graphical section was altered by pasting 2.5-minute power chart over takeoff power chart; Carson Helicopters used above-minimum-specification torque in load calculations contrary to USFS policy requiring minimum-specification use",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Helicopter actual weight exceeded HOGE capability",
+      "trigger": "helicopter's gross weight of 19,008 lbs exceeded maximum HOGE capability of 18,445 lbs (Sikorsky prediction) by 563 lbs",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "empty weight was 1,437 lbs heavier than documented weight used in load calculations"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "altered chart overstated payload capacity by 1,200 lbs; above-minimum-specification torque overstated by additional 800 lbs"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot-in-command initiated third takeoff despite marginal performance indicators",
+      "trigger": "pilot initiated accident takeoff after engines had reached topping and rotor speed drooped significantly on two prior takeoffs from H-44, which should have indicated the helicopter was operating at its performance limit",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "pilot relied on load calculations using incorrect empty weight showing adequate performance margin"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "pilot relied on altered power chart and above-minimum-specification torque in calculations"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Engines reached topping; main rotor speed drooped",
+      "trigger": "engines reached maximum NG (topping) 22 seconds after power application and remained at maximum; main rotor speed drooped from 106.9% to 93.5% as power required exceeded power available",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "helicopter weight exceeded maximum HOGE capability; power required to maintain altitude exceeded available engine power"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "label": "Main rotor blade struck tree during climb",
+      "trigger": "rotor blade contacted 50-foot pine tree located 65 yards from departure point at height of 49.5 feet above ground",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "rotor speed droop resulted in insufficient lift and inability to climb above trees; helicopter lost altitude while moving forward"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter impacted rocky downslope terrain",
+      "trigger": "helicopter collided with trees and impacted rocky terrain on left side, coming to rest approximately 150 yards from departure point at elevation 5,880 feet",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "after striking tree during climb, helicopter continued moving forward and descending, impacting ground on downslope"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Nine occupants fatally injured; four seriously injured",
+      "trigger": "nine occupants sustained fatal injuries from blunt force trauma and thermal injuries; four occupants sustained serious injuries; autopsy determined cause of death was combined blunt force trauma and thermal injury from impact and immediate postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "impact forces caused fatal blunt force trauma to occupants; immediate intense postcrash fire from fuel spillage upon impact caused thermal injuries and prevented evacuation"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

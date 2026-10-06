@@ -1,0 +1,187 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Pilot fatigue from 14.5-hour duty day and disrupted sleep",
+      "trigger": "Captain worked sixth flight after 14.5 hours duty; woke at 0410 after inadequate sleep; first officer had variable sleep schedule",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Night operations preventing visual detection of ground obstacles",
+      "trigger": "Approach conducted at 1937 local time in darkness",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Instrument meteorological conditions with low ceiling 300 ft agl and 3-4 mile visibility",
+      "trigger": "IRK ASOS: overcast 300 feet agl, visibility 3 miles in mist",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING",
+      "label": "Wooded terrain with trees along approach path south of airport",
+      "trigger": "Accident site in woods and farmland 1.3 nautical miles south of runway",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "FAA regulations permit descent below MDA to 100 feet above TDZE based only on seeing approach lights",
+      "trigger": "14 CFR Part 121.651(c)(3) allows descent below MDA with approach lights visible without confirming obstacle clearance",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Unprofessional cockpit behavior and non-essential conversation below 10,000 feet",
+      "trigger": "CVR recorded non-essential conversations, jokes, burp over radio, emphasis on fun; pilot comments about passengers and procedures below 10,000 ft violating sterile cockpit rule",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Fatigue likely contributed to degraded professionalism and reduced adherence to sterile cockpit procedures"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain decided to continue descent through MDA despite inadequate visual references",
+      "trigger": "Captain stated 'I can see ground there' at MDA and continued 1200 fpm descent; four seconds later said approach lights were in sight while already 160 feet below MDA",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Fatigue impairs judgment and causes risky decision-making; research shows fatigued pilots continue flawed approaches despite evidence they should be discontinued"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Dark night makes ground obstacles and terrain features difficult to discern visually"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Low visibility and clouds prevent acquisition of necessary visual references for safe descent continuation"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Regulation allowing descent with approach lights visible provided legal justification for continued descent"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "Unprofessional cockpit atmosphere and procedure violations fostered deviation from standard approach procedures"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "First officer failed to challenge captain's continued descent below MDA",
+      "trigger": "First officer stated 'I can't see [expletive]' indicating no visual references but did not challenge captain's continued descent; did not make required altitude callouts",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Fatigue impairs reaction time and causes tunnel vision; first officer may have been focused on looking outside rather than monitoring instruments"
+        },
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Captain's inappropriate decision and continued descent required first officer to monitor and challenge per company division of duties"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Airplane continued rapid unmoderated descent below MDA at approximately 1200 feet per minute",
+      "trigger": "FDR showed airplane maintained 1200 fpm descent from FAF through MDA and below; company procedures required maximum 900 fpm descent below 300 feet agl",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Captain's decision to continue descent resulted in maintaining control inputs for descent continuation"
+        },
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "First officer's failure to challenge or correct descent allowed unmoderated descent to continue"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Airplane struck trees on approach",
+      "trigger": "FDR and physical evidence showed first tree strike approximately 1.3 nautical miles south of runway at 996 feet msl, about 50 feet above ground level",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Wooded terrain at the altitude of the aircraft's continued descent"
+        },
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "Continued low-altitude descent placed aircraft directly into tree strike zone"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Dark night prevented pilots from detecting and avoiding trees along the approach path"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Low visibility prevented early detection of terrain and obstacles"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "13 fatalities and 2 serious injuries",
+      "trigger": "Medical examiner determined cause of death for all 13 fatalities as multiple blunt force injuries sustained during impact sequence; aircraft destroyed by impact and postimpact fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "Autopsy results confirmed all deaths resulted from multiple blunt force trauma from aircraft impact"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

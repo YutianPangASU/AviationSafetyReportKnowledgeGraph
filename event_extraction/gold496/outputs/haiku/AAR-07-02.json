@@ -1,0 +1,125 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Icing encounter during descent to landing approach; SLD conditions from 9,400 to 6,100 feet",
+      "trigger": "First officer reported seeing ice 'building a little bit right on the [wing] leading edge…it's more of a grayish'",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Failure to increase landing reference airspeed despite icing procedures requiring 8-knot increase",
+      "trigger": "At 0859:29, Vref reported as 96 knots; 'CVR did not record either pilot mention increasing the airspeed at any point during the approach'",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Icing procedures required increasing Vref from 96 to 104 knots when ice accumulation present on wing"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Failure to activate deice boots during approach reconfiguration despite visible ice on wing",
+      "trigger": "At 0912:37 first officer stated 'might want to run your ice…You got the Vref there'; 'there is no evidence that the deice system was activated during the approach'",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Procedures required activating deice boots at first sign of ice visible on wing during approach and landing reconfiguration"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall at approximately 90 knots with residual and newly accumulated ice on leading edges",
+      "trigger": "Immediately after passing through 6,100 feet, 'airplane experienced an upset and the onset of a large roll to the left concurrent with a rapid decrease in pitch'",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Airspeed of ~90 knots far below required ~114 knots for icing approach; low airspeed directly caused stall"
+        },
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Uncleared 1-4mm ice accumulation on wing reduced aerodynamic efficiency and increased stall speed"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Inadequate stall warning margin in icing conditions; certification testing insufficient for thin, rough ice",
+      "trigger": "1996 FAA flight tests showed stall warning activated only 1-2 knots before significant lateral roll and stall; sound spectrum study showed warning activated at 0912:44.5, approximately 1 second after onset of stall",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncontrolled left roll and descent following stall; bank angle reached approximately 50 degrees",
+      "trigger": "CVR recorded EGPWS 'bank angle' aural warning alert at 0912:46; aircraft descended from 6,100 to 4,922 feet altitude in approximately 14 seconds",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Stall produced uncommanded lateral roll tendency and loss of control authority"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Stall warning system did not provide warning before or concurrent with stall onset; pilots unable to execute recovery procedures"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted terrain approximately 4 nautical miles east of Pueblo Memorial Airport at 4,600 feet elevation",
+      "trigger": "Last radar return at 0912:54 while at 4,922 feet; wreckage located 4 nm east of runway 26R with debris field extending 550 feet",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Uncontrolled descent from loss of control resulted in terrain impact"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to all 8 occupants (2 pilots and 6 passengers); aircraft destroyed by impact forces and postcrash fire",
+      "trigger": "Pueblo County Coroner's Office autopsy report: cause of death for captain, first officer, and six passengers was 'multiple traumatic injuries'",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "High-energy ground impact and postcrash fire resulted in fatal injuries to all occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

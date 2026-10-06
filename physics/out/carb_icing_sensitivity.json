@@ -1,0 +1,131 @@
+{
+  "n_total": 39770,
+  "n_icing": 1205,
+  "baseline_constants": {
+    "dT_descent_C": 32.0,
+    "K": 0.6
+  },
+  "scenario": {
+    "temp_c": 13.0,
+    "dew_c": 12.0,
+    "power": "descent",
+    "carb_heat_rise_C": 30.0,
+    "dry_air_dewpoint_C": -5.0
+  },
+  "vary_dT": [
+    {
+      "scale": 0.75,
+      "dT_descent_C": 24.0,
+      "auc": 0.6027,
+      "p_ice": 0.8746,
+      "R_ice": 0.5833,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.407,
+      "ranking_preserved": true
+    },
+    {
+      "scale": 0.9,
+      "dT_descent_C": 28.8,
+      "auc": 0.6081,
+      "p_ice": 0.9249,
+      "R_ice": 0.6169,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.5114,
+      "ranking_preserved": true
+    },
+    {
+      "scale": 1.0,
+      "dT_descent_C": 32.0,
+      "auc": 0.6123,
+      "p_ice": 0.9418,
+      "R_ice": 0.6282,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.5463,
+      "ranking_preserved": true
+    },
+    {
+      "scale": 1.1,
+      "dT_descent_C": 35.2,
+      "auc": 0.61,
+      "p_ice": 0.9523,
+      "R_ice": 0.6352,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.5681,
+      "ranking_preserved": true
+    },
+    {
+      "scale": 1.25,
+      "dT_descent_C": 40.0,
+      "auc": 0.6035,
+      "p_ice": 0.9617,
+      "R_ice": 0.6414,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.5875,
+      "ranking_preserved": true
+    }
+  ],
+  "vary_K": [
+    {
+      "scale": 0.75,
+      "K": 0.45,
+      "auc": 0.6123,
+      "p_ice": 0.8815,
+      "R_ice": 0.588,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.482,
+      "ranking_preserved": true
+    },
+    {
+      "scale": 0.9,
+      "K": 0.54,
+      "auc": 0.6123,
+      "p_ice": 0.9227,
+      "R_ice": 0.6154,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.5238,
+      "ranking_preserved": true
+    },
+    {
+      "scale": 1.0,
+      "K": 0.6,
+      "auc": 0.6123,
+      "p_ice": 0.9418,
+      "R_ice": 0.6282,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.5463,
+      "ranking_preserved": true
+    },
+    {
+      "scale": 1.1,
+      "K": 0.66,
+      "auc": 0.6123,
+      "p_ice": 0.9562,
+      "R_ice": 0.6378,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.5653,
+      "ranking_preserved": true
+    },
+    {
+      "scale": 1.25,
+      "K": 0.75,
+      "auc": 0.6123,
+      "p_ice": 0.9714,
+      "R_ice": 0.6479,
+      "R_ice_do_carb_heat": 0.0,
+      "R_ice_do_dry_air": 0.5883,
+      "ranking_preserved": true
+    }
+  ],
+  "summary": {
+    "auc_range_over_dT": [
+      0.6027,
+      0.6123
+    ],
+    "auc_range_over_K": [
+      0.6123,
+      0.6123
+    ],
+    "auc_invariant_to_K": true,
+    "counterfactual_ranking_preserved_everywhere": true
+  }
+}

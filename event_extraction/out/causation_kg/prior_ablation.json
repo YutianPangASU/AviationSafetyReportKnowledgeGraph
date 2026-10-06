@@ -1,0 +1,256 @@
+{
+  "min_stability_with_prior": 0.5,
+  "note": "no-prior run carries no bootstrap column, so all its edges are used",
+  "categories": {
+    "LOC-I": {
+      "n_edges_with_prior": 38,
+      "n_edges_no_prior": 73,
+      "skeleton_shared": 38,
+      "skeleton_only_with_prior": 0,
+      "skeleton_only_no_prior": 32,
+      "skeleton_jaccard": 0.5429,
+      "orientation_agree_on_shared": 37,
+      "orientation_reversed_on_shared": 1,
+      "shd": 33,
+      "downstream": {
+        "n_factors_compared": 39,
+        "mean_abs_delta_effect": 0.0145,
+        "max_abs_delta_effect": 0.097,
+        "n_effects_changed_gt_0.02": 9,
+        "top8_overlap": 8,
+        "top8_with_prior": [
+          "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+          "LOW_VISIBILITY_OR_IMC",
+          "ORG_OR_REGULATORY_INADEQUATE",
+          "LOSS_OF_CONTROL_INFLIGHT",
+          "FUEL_CONTAMINATION",
+          "SPATIAL_DISORIENTATION",
+          "DARK_NIGHT_OR_LOW_LIGHT",
+          "LOW_ALTITUDE_OPERATION"
+        ],
+        "top8_no_prior": [
+          "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+          "SPATIAL_DISORIENTATION",
+          "ORG_OR_REGULATORY_INADEQUATE",
+          "LOW_VISIBILITY_OR_IMC",
+          "FUEL_CONTAMINATION",
+          "DARK_NIGHT_OR_LOW_LIGHT",
+          "LOSS_OF_CONTROL_INFLIGHT",
+          "LOW_ALTITUDE_OPERATION"
+        ],
+        "per_factor": [
+          {
+            "factor": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+            "n_present": 235,
+            "effect_with_prior": 0.4058,
+            "effect_no_prior": 0.4058,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          },
+          {
+            "factor": "LOW_VISIBILITY_OR_IMC",
+            "n_present": 195,
+            "effect_with_prior": 0.343,
+            "effect_no_prior": 0.3032,
+            "delta": 0.0398,
+            "Z_with_prior": [
+              "DARK_NIGHT_OR_LOW_LIGHT"
+            ],
+            "Z_no_prior": [
+              "MOUNTAINOUS_OR_RISING_TERRAIN",
+              "DARK_NIGHT_OR_LOW_LIGHT",
+              "SPATIAL_DISORIENTATION"
+            ]
+          },
+          {
+            "factor": "ORG_OR_REGULATORY_INADEQUATE",
+            "n_present": 61,
+            "effect_with_prior": 0.3126,
+            "effect_no_prior": 0.3126,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          },
+          {
+            "factor": "LOSS_OF_CONTROL_INFLIGHT",
+            "n_present": 2937,
+            "effect_with_prior": 0.3061,
+            "effect_no_prior": 0.2192,
+            "delta": 0.0869,
+            "Z_with_prior": [],
+            "Z_no_prior": [
+              "LOSS_OF_CONTROL_GROUND",
+              "CREW_COORDINATION_FAILURE",
+              "ALTITUDE_DEVIATION_UNCONTROLLED"
+            ]
+          },
+          {
+            "factor": "FUEL_CONTAMINATION",
+            "n_present": 30,
+            "effect_with_prior": 0.2971,
+            "effect_no_prior": 0.2971,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          },
+          {
+            "factor": "SPATIAL_DISORIENTATION",
+            "n_present": 111,
+            "effect_with_prior": 0.2639,
+            "effect_no_prior": 0.3609,
+            "delta": -0.097,
+            "Z_with_prior": [
+              "LOW_VISIBILITY_OR_IMC",
+              "DARK_NIGHT_OR_LOW_LIGHT"
+            ],
+            "Z_no_prior": [
+              "DARK_NIGHT_OR_LOW_LIGHT"
+            ]
+          },
+          {
+            "factor": "DARK_NIGHT_OR_LOW_LIGHT",
+            "n_present": 157,
+            "effect_with_prior": 0.247,
+            "effect_no_prior": 0.247,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          },
+          {
+            "factor": "LOW_ALTITUDE_OPERATION",
+            "n_present": 235,
+            "effect_with_prior": 0.217,
+            "effect_no_prior": 0.217,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          }
+        ]
+      }
+    },
+    "SCF-PP": {
+      "n_edges_with_prior": 21,
+      "n_edges_no_prior": 43,
+      "skeleton_shared": 21,
+      "skeleton_only_with_prior": 0,
+      "skeleton_only_no_prior": 21,
+      "skeleton_jaccard": 0.5,
+      "orientation_agree_on_shared": 19,
+      "orientation_reversed_on_shared": 2,
+      "shd": 23,
+      "downstream": {
+        "n_factors_compared": 27,
+        "mean_abs_delta_effect": 0.009,
+        "max_abs_delta_effect": 0.0562,
+        "n_effects_changed_gt_0.02": 6,
+        "top8_overlap": 7,
+        "top8_with_prior": [
+          "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+          "STALL",
+          "LOSS_OF_CONTROL_INFLIGHT",
+          "STRUCTURAL_OVERLOAD",
+          "DARK_NIGHT_OR_LOW_LIGHT",
+          "AIRFRAME_STRUCTURAL_FAILURE",
+          "ORG_OR_REGULATORY_INADEQUATE",
+          "INSTRUMENT_OR_AVIONICS_FAILURE"
+        ],
+        "top8_no_prior": [
+          "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+          "STALL",
+          "LOSS_OF_CONTROL_INFLIGHT",
+          "STRUCTURAL_OVERLOAD",
+          "DARK_NIGHT_OR_LOW_LIGHT",
+          "ENGINE_FAILURE",
+          "ORG_OR_REGULATORY_INADEQUATE",
+          "AIRFRAME_STRUCTURAL_FAILURE"
+        ],
+        "per_factor": [
+          {
+            "factor": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+            "n_present": 33,
+            "effect_with_prior": 0.4814,
+            "effect_no_prior": 0.4814,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          },
+          {
+            "factor": "STALL",
+            "n_present": 68,
+            "effect_with_prior": 0.4463,
+            "effect_no_prior": 0.4463,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          },
+          {
+            "factor": "LOSS_OF_CONTROL_INFLIGHT",
+            "n_present": 514,
+            "effect_with_prior": 0.3816,
+            "effect_no_prior": 0.3917,
+            "delta": -0.0101,
+            "Z_with_prior": [],
+            "Z_no_prior": [
+              "PERCEPTION_FAILURE"
+            ]
+          },
+          {
+            "factor": "STRUCTURAL_OVERLOAD",
+            "n_present": 107,
+            "effect_with_prior": 0.2704,
+            "effect_no_prior": 0.2704,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          },
+          {
+            "factor": "DARK_NIGHT_OR_LOW_LIGHT",
+            "n_present": 36,
+            "effect_with_prior": 0.1851,
+            "effect_no_prior": 0.1851,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          },
+          {
+            "factor": "AIRFRAME_STRUCTURAL_FAILURE",
+            "n_present": 454,
+            "effect_with_prior": 0.0876,
+            "effect_no_prior": 0.0639,
+            "delta": 0.0237,
+            "Z_with_prior": [
+              "LANDING_GEAR_ANOMALY",
+              "STRUCTURAL_OVERLOAD"
+            ],
+            "Z_no_prior": [
+              "OTHER_SYSTEM_FAILURE",
+              "LANDING_GEAR_ANOMALY",
+              "STRUCTURAL_OVERLOAD"
+            ]
+          },
+          {
+            "factor": "ORG_OR_REGULATORY_INADEQUATE",
+            "n_present": 85,
+            "effect_with_prior": 0.0776,
+            "effect_no_prior": 0.0776,
+            "delta": 0.0,
+            "Z_with_prior": [],
+            "Z_no_prior": []
+          },
+          {
+            "factor": "INSTRUMENT_OR_AVIONICS_FAILURE",
+            "n_present": 108,
+            "effect_with_prior": 0.0727,
+            "effect_no_prior": 0.0485,
+            "delta": 0.0242,
+            "Z_with_prior": [],
+            "Z_no_prior": [
+              "PERCEPTION_FAILURE"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

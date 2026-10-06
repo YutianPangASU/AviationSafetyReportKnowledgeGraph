@@ -1,0 +1,111 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Nitrogen-stabilized hard alpha defect in Stage 1 fan disk bore",
+      "trigger": "nitrogen-stabilized hard alpha inclusion around the cavity",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "GROUND_PERSONNEL_ERROR",
+      "label": "Fatigue crack not detected by fluorescent penetrant inspection 760 cycles before failure",
+      "trigger": "the crack was detectable at the time of last inspection with FPI fluid. However, the crack was not detected and consequently the rotor disk was considered to be free of flaws",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "hard alpha inclusion initiated fatigue crack approximately 0.5 inch long at bore surface at time of inspection"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Stage 1 fan disk fractured and separated from No. 2 engine",
+      "trigger": "catastrophic failure of the No. 2 tail-mounted engine during cruise flight at 1516:10",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "fatigue crack initiated from hard alpha defect propagated to critical size under operating loads after 15,503 cycles"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "undetected crack allowed continued engine operation until catastrophic failure occurred"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Loss of all three hydraulic systems",
+      "trigger": "the second officer observed that the airplane's normal systems hydraulic pressure and quantity gauges indicated zero on all three systems",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "engine debris severed No. 1 and No. 3 hydraulic lines in right horizontal stabilizer; No. 2 system damaged when engine accessory section was destroyed"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft flight controls became immovable; only engine thrust available for control",
+      "trigger": "The first officer advised that he could not control the airplane as it entered a right descending turn. First officer confirmed airplane did not respond to flight control inputs",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "all three hydraulic systems lost pressure and fluid quantity, rendering all flight control actuators inoperative"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck ground with right wing drop and high descent rate",
+      "trigger": "The airplane touched down on the threshold slightly to the left of centerline on runway 22. First ground contact made by right wing tip followed by right main landing gear. The airplane skidded to the right and rolled to inverted position",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "unable to control descent rate; aircraft descended at 1,620 feet per minute with right wing drop just before touchdown"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "111 fatalities (1 flight attendant and 110 passengers); 47 serious injuries",
+      "trigger": "Total deaths: 111. Serious injuries: 47. Minor injuries: 125",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "blunt force trauma from impact; 35 passengers died of asphyxia from smoke inhalation in postcrash fire"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

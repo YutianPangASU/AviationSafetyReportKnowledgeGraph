@@ -1,0 +1,116 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Relief first officer disconnected autopilot during cruise",
+      "trigger": "At 0149:45, autopilot manually disconnected; FDR and CVR revealed no operational reason preceded this action",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Relief first officer commanded nose-down elevator and retracted throttles",
+      "trigger": "At 0149:53-54, throttle levers moved to idle and elevator surfaces moved to approximately 3.6° nose-down deflection",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Autopilot disconnect enabled the subsequent inappropriate manual control inputs"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft entered steep nose-down dive",
+      "trigger": "Following elevator input, FDR recorded pitch nose-down reaching 40° by 0150:15 and load factor decreasing to negative G",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Nose-down elevator input recorded by FDR directly caused the pitch changes"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Relief first officer opposed captain's recovery attempt with continued nose-down inputs",
+      "trigger": "At 0150:21+, elevator surfaces split with left surface in nose-up and right surface in nose-down; captain repeatedly asked relief first officer to 'pull with me' but relief first officer maintained forward control column pressure",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Loss of control prompted captain's recovery attempt which relief first officer opposed"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Relief first officer moved engine start lever switches to cutoff position",
+      "trigger": "At 0150:21-23, FDR recorded engine start levers moved from run to cutoff; captain later realized engines were shut down",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Engine shutdown occurred during loss of control event and prevented recovery"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Aircraft impacted Atlantic Ocean",
+      "trigger": "EgyptAir flight 990 impacted ocean surface approximately 60 miles south of Nantucket at 0152:30",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Uncontrolled descent from loss of control directly resulted in impact"
+        },
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Opposing pilot inputs prevented recovery"
+        },
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Engine shutdown prevented recovery and restart options"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All 217 occupants killed",
+      "trigger": "All 4 flight crew, 10 flight attendants, and 203 passengers on board perished in the high-speed water impact",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "High-speed water impact caused fatalities"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

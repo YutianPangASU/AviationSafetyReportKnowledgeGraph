@@ -1,0 +1,41 @@
+{
+  "n_total": 39770,
+  "n_icing": 1205,
+  "n_other": 38565,
+  "n_splits": 5,
+  "note": "fitted AUCs are out-of-fold; physics AUC fits nothing to the label",
+  "physics_cruise": {
+    "auc": 0.6019,
+    "ci95": [
+      0.5848,
+      0.6173
+    ],
+    "fitted_params": 0
+  },
+  "physics_descent": {
+    "auc": 0.6123,
+    "ci95": [
+      0.5972,
+      0.6272
+    ],
+    "fitted_params": 0
+  },
+  "logistic_T_Td": {
+    "auc": 0.6419,
+    "n_features": 2
+  },
+  "logistic_physical": {
+    "auc": 0.6422,
+    "n_features": 7
+  },
+  "gbdt_T_Td": {
+    "auc": 0.6227,
+    "n_features": 2
+  },
+  "ceiling_summary": {
+    "physics_descent_auc": 0.6123,
+    "best_fitted_auc": 0.6422,
+    "gap": 0.0299,
+    "physics_share_of_ceiling": 0.7897
+  }
+}

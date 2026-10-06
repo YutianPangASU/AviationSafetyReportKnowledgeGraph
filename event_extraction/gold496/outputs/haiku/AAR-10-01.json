@@ -1,0 +1,137 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Light-to-moderate rime icing encountered during descent and approach",
+      "trigger": "Visible ice accumulation on windshield and leading edges; ice detected message on engine display",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Colgan Air inadequate procedures for airspeed selection in icing",
+      "trigger": "Company procedures did not require cross-checking airspeed bugs against ref speeds switch position",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "First officer did not enter icing keyword in ACARS landing data request",
+      "trigger": "Did not enter 'icing' or 'eice' keywords despite visible ice and deicing equipment in use",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flight crew selected and briefed airspeed of 118 knots instead of 138 knots for icing conditions",
+      "trigger": "AeroData provided clean-air reference speeds of 118 knots due to missing icing keyword; crew set speed bugs accordingly",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 1, "strength": "contributing", "evidence": "Inadequate procedures failed to catch mismatch between ref speeds switch and speed bugs"},
+        {"src": 2, "strength": "direct", "evidence": "Missing icing keyword caused AeroData to provide inappropriate clean speeds"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Flight crew failed to detect rising low-speed cue and other airspeed warnings during 18-second period",
+      "trigger": "Low-speed cue rose visibly on airspeed display; airspeed trend vector pointed downward; IAS numbers changed to red color",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 3, "strength": "contributing", "evidence": "Inappropriate speed selection led to low-speed condition without crew awareness"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain applied aft (pull) control column pressure in response to stick shaker activation",
+      "trigger": "Upon hearing stick shaker, captain pulled back on control column with 37 pounds of force instead of pushing forward",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 3, "strength": "contributing", "evidence": "Low airspeed created stall warning that startled pilot"},
+        {"src": 4, "strength": "direct", "evidence": "Lack of monitoring meant pilot was surprised by sudden stick shaker and autopilot disconnect"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Wing aerodynamic stall occurred as angle of attack exceeded critical angle",
+      "trigger": "Aft control input caused pitch-up to 18 degrees and angle of attack to increase to 13 degrees",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "Aft control input directly caused angle of attack to increase past stall angle"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain pulled back on control column against stick pusher activation three times",
+      "trigger": "As stick pusher activated to push nose down, captain applied increasing aft force: 41 pounds, 90 pounds, 160 pounds",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "Captain responded to stick pusher by fighting it instead of allowing recovery maneuver"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "First officer retracted landing gear and flaps without being directed by captain",
+      "trigger": "First officer moved flap handle to 0 degrees about 7 seconds after stick shaker; later raised gear after captain stated consent",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 6, "strength": "contributing", "evidence": "Flap and gear changes made during stall event, reducing lift and increasing stall speed"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft entered uncontrolled steep descent with excessive roll excursions",
+      "trigger": "Roll angle reached 105 degrees right wing down; pitch angle reached 25 degrees nose down; altitude decreasing rapidly",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "Stall caused aerodynamic loss of control"},
+        {"src": 7, "strength": "direct", "evidence": "Overriding stick pusher prevented recovery from stall"},
+        {"src": 8, "strength": "contributing", "evidence": "Flap retraction increased stall speed during recovery attempt"}
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck residential home at 6038 Long Street in Clarence Center, New York",
+      "trigger": "Aircraft in steep uncontrolled descent impacted south side of house near ground level",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 9, "strength": "direct", "evidence": "Uncontrolled descent from low altitude resulted in ground impact"}
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fifty people killed: 2 pilots, 2 flight attendants, 45 passengers, and 1 person on ground",
+      "trigger": "Aircraft impact forces and post-crash fire killed all occupants and one ground victim",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 10, "strength": "direct", "evidence": "Ground impact and resulting fire caused fatalities"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

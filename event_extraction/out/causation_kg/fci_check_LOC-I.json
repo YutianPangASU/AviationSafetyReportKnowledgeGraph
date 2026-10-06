@@ -1,0 +1,338 @@
+{
+  "category": "LOC-I",
+  "n_records": 3852,
+  "n_candidates": 39,
+  "alpha": 0.05,
+  "pag_edge_census": {
+    "bidirected": 47,
+    "directed": 2,
+    "partially directed": 21,
+    "undetermined": 1
+  },
+  "n_factors_with_pc_adjustment": 15,
+  "summary": {
+    "definite_parent_relations": 0,
+    "possible_parent_relations": 5,
+    "bidirected_relations": 19,
+    "undetermined_relations": 0,
+    "reversed_relations": 4,
+    "absent_relations": 1,
+    "factors_bidirected_into_X": 11,
+    "mean_abs_shift_pc_vs_definite": 0.0376
+  },
+  "factors": [
+    {
+      "factor": "LOW_VISIBILITY_OR_IMC",
+      "pc_adjustment_set": [
+        "DARK_NIGHT_OR_LOW_LIGHT"
+      ],
+      "fci_marks": {
+        "DARK_NIGHT_OR_LOW_LIGHT": "z o->X"
+      },
+      "n_definite": 0,
+      "n_possible": 1,
+      "bidirected_into_X": false,
+      "crude": 0.3797,
+      "adjusted_pc": 0.343,
+      "adjusted_definite_parents": 0.3797,
+      "adjusted_possible_parents": 0.343,
+      "risk_ratio_pc": 1.686,
+      "e_value_pc": 2.761,
+      "e_value_ci_bound": 2.509
+    },
+    {
+      "factor": "SPATIAL_DISORIENTATION",
+      "pc_adjustment_set": [
+        "LOW_VISIBILITY_OR_IMC",
+        "DARK_NIGHT_OR_LOW_LIGHT"
+      ],
+      "fci_marks": {
+        "LOW_VISIBILITY_OR_IMC": "X o->z",
+        "DARK_NIGHT_OR_LOW_LIGHT": "X o->z"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": false,
+      "crude": 0.3964,
+      "adjusted_pc": 0.2639,
+      "adjusted_definite_parents": 0.3964,
+      "adjusted_possible_parents": 0.3964,
+      "risk_ratio_pc": 1.513,
+      "e_value_pc": 2.395,
+      "e_value_ci_bound": 1.469
+    },
+    {
+      "factor": "STALL",
+      "pc_adjustment_set": [
+        "HIGH_DENSITY_ALTITUDE",
+        "CARBURETOR_OR_INDUCTION_ICING"
+      ],
+      "fci_marks": {
+        "HIGH_DENSITY_ALTITUDE": "z<->X",
+        "CARBURETOR_OR_INDUCTION_ICING": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": 0.1362,
+      "adjusted_pc": 0.1392,
+      "adjusted_definite_parents": 0.1362,
+      "adjusted_possible_parents": 0.1362,
+      "risk_ratio_pc": 1.31,
+      "e_value_pc": 1.947,
+      "e_value_ci_bound": 1.774
+    },
+    {
+      "factor": "MAINTENANCE_INADEQUATE",
+      "pc_adjustment_set": [
+        "ORG_OR_REGULATORY_INADEQUATE"
+      ],
+      "fci_marks": {
+        "ORG_OR_REGULATORY_INADEQUATE": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": 0.1295,
+      "adjusted_pc": 0.1128,
+      "adjusted_definite_parents": 0.1295,
+      "adjusted_possible_parents": 0.1295,
+      "risk_ratio_pc": 1.22,
+      "e_value_pc": 1.738,
+      "e_value_ci_bound": 1.361
+    },
+    {
+      "factor": "ICING_ENCOUNTER",
+      "pc_adjustment_set": [
+        "LOW_VISIBILITY_OR_IMC"
+      ],
+      "fci_marks": {
+        "LOW_VISIBILITY_OR_IMC": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": 0.165,
+      "adjusted_pc": 0.0964,
+      "adjusted_definite_parents": 0.165,
+      "adjusted_possible_parents": 0.165,
+      "risk_ratio_pc": 1.186,
+      "e_value_pc": 1.657,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "DECISION_INAPPROPRIATE",
+      "pc_adjustment_set": [
+        "LOSS_OF_CONTROL_GROUND",
+        "CREW_COORDINATION_FAILURE",
+        "MOUNTAINOUS_OR_RISING_TERRAIN"
+      ],
+      "fci_marks": {
+        "LOSS_OF_CONTROL_GROUND": "z<->X",
+        "CREW_COORDINATION_FAILURE": "z<->X",
+        "MOUNTAINOUS_OR_RISING_TERRAIN": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": 0.071,
+      "adjusted_pc": 0.0355,
+      "adjusted_definite_parents": 0.071,
+      "adjusted_possible_parents": 0.071,
+      "risk_ratio_pc": 1.07,
+      "e_value_pc": 1.343,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "CONTROL_SURFACE_ANOMALY",
+      "pc_adjustment_set": [
+        "LATENT_MECHANICAL_DEFECT"
+      ],
+      "fci_marks": {
+        "LATENT_MECHANICAL_DEFECT": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": -0.0272,
+      "adjusted_pc": -0.0079,
+      "adjusted_definite_parents": -0.0272,
+      "adjusted_possible_parents": -0.0272,
+      "risk_ratio_pc": 0.985,
+      "e_value_pc": 1.141,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "PERCEPTION_FAILURE",
+      "pc_adjustment_set": [
+        "LOW_VISIBILITY_OR_IMC",
+        "DARK_NIGHT_OR_LOW_LIGHT"
+      ],
+      "fci_marks": {
+        "LOW_VISIBILITY_OR_IMC": "z<->X",
+        "DARK_NIGHT_OR_LOW_LIGHT": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": 0.0136,
+      "adjusted_pc": -0.012,
+      "adjusted_definite_parents": 0.0136,
+      "adjusted_possible_parents": 0.0136,
+      "risk_ratio_pc": 0.977,
+      "e_value_pc": 1.18,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "TURBULENCE_ENCOUNTER",
+      "pc_adjustment_set": [
+        "MOUNTAINOUS_OR_RISING_TERRAIN"
+      ],
+      "fci_marks": {
+        "MOUNTAINOUS_OR_RISING_TERRAIN": "X o->z"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": false,
+      "crude": -0.0357,
+      "adjusted_pc": -0.0518,
+      "adjusted_definite_parents": -0.0357,
+      "adjusted_possible_parents": -0.0357,
+      "risk_ratio_pc": 0.9,
+      "e_value_pc": 1.462,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "PROCEDURE_NOT_FOLLOWED",
+      "pc_adjustment_set": [
+        "ADVERSE_WIND_CONDITION",
+        "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+        "CARBURETOR_OR_INDUCTION_ICING"
+      ],
+      "fci_marks": {
+        "ADVERSE_WIND_CONDITION": "z<->X",
+        "PILOT_INCAPACITATION_OR_IMPAIRMENT": "z o->X",
+        "CARBURETOR_OR_INDUCTION_ICING": "absent"
+      },
+      "n_definite": 0,
+      "n_possible": 1,
+      "bidirected_into_X": true,
+      "crude": -0.0528,
+      "adjusted_pc": -0.0587,
+      "adjusted_definite_parents": -0.0528,
+      "adjusted_possible_parents": -0.0379,
+      "risk_ratio_pc": 0.889,
+      "e_value_pc": 1.499,
+      "e_value_ci_bound": 1.22
+    },
+    {
+      "factor": "HIGH_DENSITY_ALTITUDE",
+      "pc_adjustment_set": [
+        "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+        "MOUNTAINOUS_OR_RISING_TERRAIN"
+      ],
+      "fci_marks": {
+        "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS": "z<->X",
+        "MOUNTAINOUS_OR_RISING_TERRAIN": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": -0.0559,
+      "adjusted_pc": -0.0795,
+      "adjusted_definite_parents": -0.0559,
+      "adjusted_possible_parents": -0.0559,
+      "risk_ratio_pc": 0.848,
+      "e_value_pc": 1.638,
+      "e_value_ci_bound": 1.156
+    },
+    {
+      "factor": "AIRFRAME_STRUCTURAL_FAILURE",
+      "pc_adjustment_set": [
+        "STALL",
+        "LATENT_MECHANICAL_DEFECT",
+        "STRUCTURAL_OVERLOAD"
+      ],
+      "fci_marks": {
+        "STALL": "z<->X",
+        "LATENT_MECHANICAL_DEFECT": "z<->X",
+        "STRUCTURAL_OVERLOAD": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": 0.0044,
+      "adjusted_pc": -0.0879,
+      "adjusted_definite_parents": 0.0044,
+      "adjusted_possible_parents": 0.0044,
+      "risk_ratio_pc": 0.83,
+      "e_value_pc": 1.701,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "CONTROL_INPUT_IMPROPER",
+      "pc_adjustment_set": [
+        "PROCEDURE_NOT_FOLLOWED",
+        "LATENT_MECHANICAL_DEFECT",
+        "PILOT_INCAPACITATION_OR_IMPAIRMENT"
+      ],
+      "fci_marks": {
+        "PROCEDURE_NOT_FOLLOWED": "z<->X",
+        "LATENT_MECHANICAL_DEFECT": "z<->X",
+        "PILOT_INCAPACITATION_OR_IMPAIRMENT": "z o->X"
+      },
+      "n_definite": 0,
+      "n_possible": 1,
+      "bidirected_into_X": true,
+      "crude": -0.2295,
+      "adjusted_pc": -0.2129,
+      "adjusted_definite_parents": -0.2295,
+      "adjusted_possible_parents": -0.2029,
+      "risk_ratio_pc": 0.682,
+      "e_value_pc": 2.294,
+      "e_value_ci_bound": 2.09
+    },
+    {
+      "factor": "ADVERSE_WIND_CONDITION",
+      "pc_adjustment_set": [
+        "LATENT_MECHANICAL_DEFECT",
+        "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+        "PILOT_INCAPACITATION_OR_IMPAIRMENT"
+      ],
+      "fci_marks": {
+        "LATENT_MECHANICAL_DEFECT": "z<->X",
+        "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE": "z o->X",
+        "PILOT_INCAPACITATION_OR_IMPAIRMENT": "z o->X"
+      },
+      "n_definite": 0,
+      "n_possible": 2,
+      "bidirected_into_X": true,
+      "crude": -0.2639,
+      "adjusted_pc": -0.2353,
+      "adjusted_definite_parents": -0.2639,
+      "adjusted_possible_parents": -0.244,
+      "risk_ratio_pc": 0.583,
+      "e_value_pc": 2.826,
+      "e_value_ci_bound": 2.441
+    },
+    {
+      "factor": "WIND_SHEAR_OR_GUST",
+      "pc_adjustment_set": [
+        "ADVERSE_WIND_CONDITION"
+      ],
+      "fci_marks": {
+        "ADVERSE_WIND_CONDITION": "X o->z"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": false,
+      "crude": -0.3089,
+      "adjusted_pc": -0.2657,
+      "adjusted_definite_parents": -0.3089,
+      "adjusted_possible_parents": -0.3089,
+      "risk_ratio_pc": 0.5,
+      "e_value_pc": 3.418,
+      "e_value_ci_bound": 2.625
+    }
+  ]
+}

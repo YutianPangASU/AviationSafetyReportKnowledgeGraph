@@ -1,0 +1,104 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "THUNDERSTORM_OR_CONVECTIVE",
+      "label": "Thunderstorm and cumulonimbus clouds develop over northern Kauai",
+      "trigger": "low- to mid-level clouds obscured most of the island of Kauai with several areas of towering cumulus to cumulus congestus clouds; developing cumulonimbus clouds over the northern shore with radiative cloud top temperatures corresponding to cloud tops from 19,000 to 30,000 feet",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "WIND_SHEAR_OR_GUST",
+      "label": "Helicopter encounters severe wind shear and downdraft from embedded microburst",
+      "trigger": "during the turn, the helicopter's airspeed dropped to zero and the helicopter started to rapidly descend; maximum vertical velocity of the potential convective updrafts in thunderstorms was 160 knots; wind gust or potential outflow winds from thunderstorms were about 41 knots, and the sounding was favorable for microburst development with outflow winds of 55 knots",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "microburst embedded within the thunderstorm system over the accident site"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Helicopter loses altitude control and begins uncontrolled rapid descent",
+      "trigger": "the helicopter's airspeed dropped to zero and the helicopter started to rapidly descend; control inputs were not effective; realized that the helicopter was going to hit the beach at a high rate of descent",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "microburst-induced wind shear produced extreme vertical downdraft that helicopter could not overcome"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Helicopter crashes into Pacific Ocean",
+      "trigger": "the helicopter hit the water, bounced back into the air, and continued to spin; the helicopter impacted the water again and remained on the surface spinning",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "uncontrolled descent at high rate of descent led directly to water impact"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Helicopter not equipped with flotation floats",
+      "trigger": "The helicopter was not equipped, and was not required to be equipped, with flotation equipment; the helicopter sank quickly; thus, the passengers had little time to help themselves or others before they were submerged",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "PFD inflation cylinders loose or unseated; difficult egress and donning procedures under stress",
+      "trigger": "18 of 26 inflation cylinders were loose in their housings; one chamber on a PFD failed to inflate when the handle was pulled; occupants experienced difficulty completing the PFD and egress procedures even though all were physically capable",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Three passengers drown",
+      "trigger": "cause of death for the passengers from the front left and center seats was drowning; the passenger from the rear right center seat died of cardiac arrest due to near drowning; none sustained serious or incapacitating trauma injuries during the impact sequence",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "water impact required occupants to rapidly egress and don PFDs before helicopter sank"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "lack of flotation equipment allowed helicopter to sink rapidly, reducing time available for occupants to complete egress and don PFDs"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "PFD mechanical defects and complex donning procedures made it difficult for occupants to properly inflate and utilize flotation devices during emergency"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

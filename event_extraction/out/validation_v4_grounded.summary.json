@@ -1,0 +1,9 @@
+{
+  "n_lines": 2000,
+  "n_parse_errors": 0,
+  "n_not_ok": 87,
+  "n_validated": 1913,
+  "n_records_with_violations": 0,
+  "violation_counts": {},
+  "oov_values": {}
+}

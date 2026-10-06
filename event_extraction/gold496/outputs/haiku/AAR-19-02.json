@@ -1,0 +1,199 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Gusty northwesterly winds with sustained speeds 16-20 kts gusting to 32 kts",
+      "trigger": "wind from 310° to 340° sustained at 16 to 20 kts gusting to 32 kts",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "PIC did not check weather before departure or perform adequate preflight planning",
+      "trigger": "did not check the weather again before the flight from PHL to TEB despite a company policy requiring that weather information be obtained within 3 hours of departure",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "PIC allowed SIC (SIC-0, not authorized to act as PF) to be the pilot flying",
+      "trigger": "the SIC was the pilot flying from PHL to TEB, despite a company policy prohibiting the SIC from acting as PF based on his level of experience",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "PIC's extensive coaching of SIC distracted PIC from pilot monitoring duties and checklist execution",
+      "trigger": "The extensive coaching likely distracted the PIC from his duties as PIC and pilot monitoring, such as executing checklists and entering approach waypoints into the flight management system",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "PIC coached SIC through takeoff, climbs, speed control, and descent throughout the short flight"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Approach briefing was not conducted",
+      "trigger": "did not conduct an approach briefing before attempting to land at TEB",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "inadequate preflight planning left no time for approach preparation"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "PIC's distraction coaching SIC prevented focus on approach planning"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Navigation equipment not properly configured for ILS approach; one receiver not tuned to TEB VOR",
+      "trigger": "neither pilot realized that the airplane's navigation equipment had not been properly set for the instrument approach clearance",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "approach briefing would have caught this error during waypoint verification"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "PIC's distraction prevented monitoring of navigation setup"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Improperly executed vertical profile; crossed approach fixes above required altitudes",
+      "trigger": "crossed an intermediate fix and the final approach fix hundreds of feet above the altitudes specified by the approach procedure; crossed DANDY at 2,050 ft instead of 1,500 ft",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "improper navigation setup led to confusion about position and altitude restrictions"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "lack of briefing meant crew unaware of altitude requirements"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Circling approach initiated from unstabilized position 2.8 nm beyond proper entry point",
+      "trigger": "did not begin the circle-to-land maneuver at TORBY and continued to fly past TORBY; the airplane was 2.8 nautical miles beyond the final approach fix",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "altitude confusion led to late recognition of approach position"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "approach briefing would have established expected circling point"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "PIC attempted to salvage unstabilized approach by continuing with aggressive turn to runway",
+      "trigger": "the PIC's attempt to salvage an unstabilized visual approach; the approach did not meet the company's stabilized approach criteria yet the PIC continued the approach",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "airplane was in unstabilized position from which safe landing was not feasible"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "PIC's attention divided by coaching SIC; may not have fully processed situational cues"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall at 450 ft altitude in 35-degree left bank turn",
+      "trigger": "the airplane reached a left bank angle of 35° and slowed to about 111 kts; the PIC announced 'stall' in a strained voice",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "aggressive left turn at low altitude with decreasing airspeed led to stall"
+        },
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "strong gusting wind momentarily reduced airspeed below stall margin of 102 kts"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted commercial building and parking lot",
+      "trigger": "the airplane impacted a commercial building and parking lot about 0.5 mile south of the runway 1 threshold; the airplane was destroyed by impact forces and postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "stall at low altitude prevented recovery before impact"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Both pilots fatally injured in impact",
+      "trigger": "The pilot-in-command and the second-in-command died",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 10,
+          "strength": "direct",
+          "evidence": "impact forces and postcrash fire caused fatal injuries to both crew members"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

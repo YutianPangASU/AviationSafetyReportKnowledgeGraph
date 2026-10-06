@@ -1,0 +1,106 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Volvo manufacturing and inspection process failures allow defective hub to enter service",
+      "trigger": "Drilling with coolant channel drill creates altered microstructure with ladder cracking; BEA inspection using inadequate templates fails to identify defect as rejectable despite notation of 'manufacturing marks'",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Fatigue crack initiates and propagates through tierod hole",
+      "trigger": "Ladder cracking from altered microstructure initiates fatigue crack; approximately 12,887 fatigue striations indicate crack propagated over ~13,835 flight cycles",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Altered microstructure with ladder cracking serves as fatigue crack initiation site; cyclic engine loading causes progressive propagation"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Delta FPI inspection fails to detect propagated fatigue crack",
+      "trigger": "Crack of approximately 1.36 inches total surface length undetected during October 27, 1995 FPI; FAA review determined crack should have been detectable with >95% probability and confidence level",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Crack had propagated to clearly detectable size (~0.46 inch on aft surface, ~0.90 inch in hole) but was not identified during inspection"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Defective hub with undetected crack installed on N927DA",
+      "trigger": "Hub assembly balanced and installed on accident engine on December 29, 1995, after passing FPI inspection on October 27, 1995",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Hub cleared as serviceable despite containing undetected crack; then installed on accident aircraft for service"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Left engine fan hub fractures catastrophically during takeoff",
+      "trigger": "Loud bang heard by crew at approximately 40 knots during takeoff roll; fatigue crack propagated to critical length and initiated brittle fracture under full engine thrust at EPR 1.9",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Hub with propagated fatigue crack subjected to full takeoff power resulting in sudden catastrophic failure"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "High-velocity engine debris penetrates left fuselage and cabin",
+      "trigger": "16 holes, punctures, and tears documented in left fuselage skin between fuselage stations 1250-1282; debris from fan hub and blades penetrated left cabin wall, overhead bin, and window to ceiling of row 37",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Debris fragments from hub disintegration exited engine case at high velocity and penetrated airframe structure"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Two passengers fatally injured, two seriously injured from debris impact",
+      "trigger": "Two passengers killed and two seriously injured; victims seated adjacent to left engine at row 37 where debris penetrated cabin",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Engine debris directly struck passengers causing massive head and penetrating injuries"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

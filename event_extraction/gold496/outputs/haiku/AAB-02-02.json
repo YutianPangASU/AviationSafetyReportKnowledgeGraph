@@ -1,0 +1,118 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Vacuum manifold check valve with aged elastomeric components",
+      "trigger": "Service Bulletin MEB00-5 indicated vacuum check valve manifolds should be replaced ten years from manufacture due to deterioration of elastomeric components",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Left-side primary attitude indicator not displaying properly",
+      "trigger": "Rotor was most likely spinning but not at high rpm to keep display erect; wreckage fragments aligned in inverted attitude",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Defective vacuum system check valve resulted in insufficient vacuum supply to attitude indicator rotor"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Instrument meteorological conditions with rain throughout flight",
+      "trigger": "IMC prevailed with extensive area of IFR conditions north of front; large band of rain showers extended over the area",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "TURBULENCE_ENCOUNTER",
+      "label": "Rain and turbulence during climb",
+      "trigger": "Presence of turbulence would have made it more difficult to control the airplane with failed instrumentation",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Night flight in dark lighting conditions",
+      "trigger": "The accident occurred at night in dark lighting conditions eliminating external visual horizon references",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "Pilot experiencing spatial disorientation",
+      "trigger": "The pilot's head movements most likely caused him to experience spatial disorientation; rain conditions increased cockpit noise; turbulence would have exacerbated disorientation",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Right-side attitude indicator was several feet to right requiring frequent rapid head movements to cross-check with other instruments"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "IMC prevented natural external visual references and attitude determination without instruments"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Turbulence made control more difficult and exacerbated pilot's spatial disorientation"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Dark night eliminated visual horizon reference that could provide backup orientation cue"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of control during climbing right turn",
+      "trigger": "Radar data indicate pilot lost control of airplane at 7,700 feet while making climbing right turn; airplane then descended at 26,000 feet per minute",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Spatial disorientation caused pilot to lose aircraft control during maneuver"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted wooded terrain at high velocity",
+      "trigger": "Airplane struck 16 trees along heavily wooded hillside in rapid descent; impact velocity exceeded 300 knots",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Loss of control at altitude 7,700 feet resulted in rapid descent to ground level at 26,000 feet per minute"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,130 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Encounter with freezing drizzle and airframe ice accretion",
+      "trigger": "visibility 2 miles in light freezing drizzle and mist, ceiling overcast at 500 feet agl, temperature -8° C, dew point -9° C",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Flap asymmetry occurred during approach flap extension",
+      "trigger": "FDR showed that a flap asymmetry had occurred in which the right flaps did not extend and the left flaps extended partially (8° to 10°)",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain's failure to execute go-around procedures in response to flap anomaly and stall/TAWS warnings",
+      "trigger": "the captain retrieved and used a flashlight to check the circuit breakers... the first officer asked 'should I go around?' and the captain replied 'no, keep descending'... despite stick shaker and TAWS 'pull up' warnings at 0436:00, captain reduced engine power to 10% instead of applying maximum power and going around",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "flap asymmetry occurred during approach, triggering need for go-around per standard procedures"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Flight crew's failure to monitor and maintain minimum safe airspeed",
+      "trigger": "neither flight crewmember made any verbal reference about airspeed (actual or target)... the airplane's airspeed decreased from about 160 to 125 kts between 0434:58 and 0435:25",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "ice accretion degraded aircraft performance (23% of total power by flap asymmetry time), reducing performance margins"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "flap asymmetry required increased control forces (35-40 lbs rudder pedal pressure, 13 lbs wheel force) to maintain control, distracting crew from airspeed monitoring"
+        },
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "captain's preoccupation with troubleshooting circuit breakers rather than monitoring prevented him from calling out airspeed deviations; captain's failure to lead distracted first officer from primary flying duties"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall at low altitude",
+      "trigger": "at 0436:19, aural stall warning and stick shaker activated for the third time at 124 KIAS, approximately 19 kts below minimum safe airspeed of 143 kts, with AOA about 7°, altitude about 150 feet agl",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "failure to maintain minimum safe airspeed resulted in increasing AOA to stall threshold"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "captain's failure to arrest descent and apply maximum power when warned by stick shaker and TAWS allowed airspeed to decay further into stall condition"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncommanded roll, yaw, and pitch oscillations",
+      "trigger": "between 0436:21 and 0436:23, airplane rolled right to 35° bank, then left to 50° bank, then right to 10° RWD bank before impact",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "aerodynamic stall resulted in loss of lift and aerodynamic control authority, inducing uncommanded oscillations"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted terrain short of runway",
+      "trigger": "at 0436:27, CVR captured sound of impact; airplane came to rest next to right side of runway approximately 200 feet west of runway centerline",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "uncontrolled oscillations and loss of control prevented recovery before ground contact"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Serious injury to captain; minor injury to first officer",
+      "trigger": "the captain sustained serious injuries, and the first officer sustained minor injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "ground impact at high speed resulted in injuries to flight crew"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

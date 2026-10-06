@@ -1,0 +1,12 @@
+{
+  "tag": "sc-run3",
+  "extraction_file": "event_extraction/out/selfconsistency/calibration_2k_v4_narrative_run3.jsonl",
+  "n_records_evaluated": 1997,
+  "n_factors_total": 3475,
+  "n_factors_matched": 3159,
+  "recall": 0.9090647482014389,
+  "n_events_total": 10964,
+  "n_events_matched_to_a_factor": 3327,
+  "precision": 0.30344764684421743,
+  "mean_per_record_recall": 0.9022033049574362
+}

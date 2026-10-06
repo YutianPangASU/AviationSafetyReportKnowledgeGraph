@@ -1,0 +1,137 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "Time pressure from late departure and landing curfew",
+      "trigger": "Flight departed 41 minutes late due to passenger delays; ASE requires landing within 30 minutes after sunset (1858 deadline); late departure meant only one approach attempt was possible",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "unknown",
+      "label": "Charter customer pressure to land at ASE",
+      "trigger": "Charter customer became 'irate' about possible diversion; customer emphasized landing at ASE because substantial money spent on dinner; male passenger occupied cockpit jumpseat during approach",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Deteriorating visibility with light snow showers",
+      "trigger": "Visibility decreased from 10 miles to 2 miles in light snow; controller broadcast 'visibility north of the airport was 2 miles'; multiple aircraft reported missed approaches due to weather",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Inadequate approach briefing by captain",
+      "trigger": "Captain did not brief instrument approach procedure, missed approach procedure, minimum descent altitude, or required callouts; captain expected visual-only approach due to time constraints",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Time pressure caused expectation of visual approach rather than full instrument approach"},
+        {"src": 1, "strength": "contributing", "evidence": "Pressure to land affected crew planning"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Crew decided to continue approach despite deteriorating visibility and missed approaches ahead",
+      "trigger": "Despite three preceding aircraft reporting missed approaches and controller noting visibility 2 miles, crew continued approach; crew focused on occasional breaks in clouds and one successful landing; CVR showed no discussion of diverting",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Time pressure and single approach limited diversion options"},
+        {"src": 1, "strength": "contributing", "evidence": "Customer pressure to land at ASE"},
+        {"src": 2, "strength": "contributing", "evidence": "Occasional breaks in clouds provided false hope despite deteriorating visibility"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Aircraft descended below published minimum altitudes without visual contact",
+      "trigger": "Aircraft crossed ALLIX (final approach fix) at 12,100 feet (100 feet below 12,200 minimum); crossed 9.5 DME step-down at 9,500 feet (900 feet below 10,400 minimum); descended below 10,200 foot MDA to 10,100 feet",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "Decision to continue led to descent below authorized minimums"},
+        {"src": 3, "strength": "contributing", "evidence": "Inadequate briefing failed to prevent altitude deviations"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Darkness and mountainous terrain preventing visual acquisition of runway",
+      "trigger": "Official night (end of civil twilight) at 1855; visible sunset occurred ~1803 (25 minutes earlier due to mountain terrain); mountain shadows created darkness well before official sunset; controller noted sky was 'very dark'",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Loss or failure to establish visual contact with runway",
+      "trigger": "At 1901:36 captain asked 'where's it at?' indicating he did not see runway; CVR contained no clear indication pilots visually identified runway; first officer's statements were ambiguous",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "Descent below MDA without visual reference established"},
+        {"src": 6, "strength": "direct", "evidence": "Darkness and low visibility prevented identification of runway and terrain"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Improper spoiler deployment and engine power reduction",
+      "trigger": "Captain deployed spoilers with landing gear extended and final flaps at 39° (prohibited by Gulfstream procedures); reduced engine power to 55% N2 instead of required 64% minimum",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 4, "strength": "contributing", "evidence": "Attempt to descend through weather and acquire runway visually"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Steep left bank turn at low altitude in darkness",
+      "trigger": "Starting at 1901:47 aircraft entered steep left turn; by 1901:57 aircraft was banked 40°+ left wing down at approximately 500 feet altitude in darkness with restricted visibility; turn executed during attempted alignment with runway",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 7, "strength": "contributing", "evidence": "Loss of visual contact but apparent brief sighting prompted steep turn to align"},
+        {"src": 6, "strength": "direct", "evidence": "Darkness prevented safe execution of turn at low altitude over mountainous terrain"}
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck terrain in steep left bank",
+      "trigger": "Aircraft impacted terrain 2,400 feet short of runway 15 threshold, 300 feet right of centerline, 100 feet above runway elevation; aircraft in 49° left-wing-down attitude; left wing tip struck first; aircraft destroyed by impact forces",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 9, "strength": "direct", "evidence": "Steep left bank turn combined with proximate mountainous terrain"}
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to all occupants",
+      "trigger": "All 18 occupants (2 pilots, 1 flight attendant, 15 passengers) killed; autopsy results indicated multiple blunt force trauma from impact forces exceeding human tolerance",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 10, "strength": "direct", "evidence": "Impact with aircraft completely destroyed"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

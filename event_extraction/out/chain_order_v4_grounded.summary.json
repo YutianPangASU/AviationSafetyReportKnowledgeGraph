@@ -1,0 +1,19 @@
+{
+  "tag": "v4-grounded",
+  "extraction_file": "event_extraction/out/calibration_2k_v4_grounded.jsonl",
+  "all_pairs": {
+    "n_records_scored": 1749,
+    "n_pairs": 10743,
+    "pooled_kendall_tau": 0.31564739830587357,
+    "mean_per_record_tau": 0.3578805562959783,
+    "frac_records_tau_ge_0.75": 0.3910806174957118
+  },
+  "cross_occurrence": {
+    "n_records_scored": 949,
+    "n_pairs": 4612,
+    "pooled_kendall_tau": 0.8664353859496965,
+    "mean_per_record_tau": 0.8602367903005659,
+    "frac_records_tau_ge_0.75": 0.8619599578503688
+  },
+  "headline_tau": 0.8664353859496965
+}

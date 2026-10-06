@@ -1,0 +1,76 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Inadequate CTAF coordination framework for Soldotna area",
+      "trigger": "Longmere Lake not listed as charted seaplane base with published frequency; 21 airports within 30 miles had 5 different charted communication frequencies; no established CTAF area; no FAA requirement for mandatory position reporting on designated CTAF",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Both pilots failed to detect each other visually",
+      "trigger": "Midair collision occurred despite visual meteorological conditions and pilots' see-and-avoid responsibility",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Lack of CTAF requirement meant pilots may not have been aware of each other through radio communication; see-and-avoid concept has inherent limitations including human limitations and aircraft blind spots"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "outcome",
+      "factor_type": "MIDAIR_COLLISION",
+      "label": "Midair collision of DHC-2 and PA-12",
+      "trigger": "DHC-2 and Piper PA-12 were destroyed in a midair collision near Soldotna, Alaska at 1,200 ft altitude",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Both aircraft on converging courses; lack of visual detection led to collision"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Both aircraft destroyed in flight",
+      "trigger": "The DHC-2 and Piper PA-12 airplane were destroyed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Midair collision resulted in structural destruction of both aircraft"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Seven fatalities",
+      "trigger": "The pilot and five passengers on the DHC-2 were fatally injured, as was the pilot on the PA-12",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Aircraft destruction resulted in fatalities of all seven occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

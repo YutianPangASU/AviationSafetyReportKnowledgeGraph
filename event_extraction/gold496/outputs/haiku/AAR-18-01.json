@@ -1,0 +1,91 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Discrete dirty white spot in HPT stage 2 disk",
+      "trigger": "a discrete dirty white spot...formed during the processing of the material from which the disk was manufactured during the 1997 triple-melt process",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "HPT stage 2 disk rupture from low-cycle fatigue",
+      "trigger": "The HPT stage 2 disk failed because of multiple low-cycle fatigue cracks that initiated from...discrete dirty white spot",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "multiple low-cycle fatigue cracks that initiated from the discrete dirty white spot"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "FUEL_SYSTEM_ANOMALY",
+      "label": "Fuel feed line severed and fuel tank breached by disk fragment",
+      "trigger": "One fragment penetrated through the inboard section of the right wing, severing the main engine fuel feed line, breached the fuel tank",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "disk fragment penetrated through the inboard section of the right wing, severing the main engine fuel feed line, breached the fuel tank"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Engine fire on right side during takeoff ground roll",
+      "trigger": "released fuel that resulted in a fire on the right side of the airplane during the takeoff roll",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "released fuel that resulted in a fire on the right side of the airplane"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Left overwing exit opened while left engine still operating",
+      "trigger": "Flight attendant 7 opened the 2L overwing exit and started commanding passengers to evacuate, even though the engine was still operating",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "fire necessitated rapid evacuation; Flight attendant 7 opened left overwing exit without waiting for left engine shutdown"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Serious injury to passenger from jet blast",
+      "trigger": "One passenger received a serious injury when he stood up to get away from the airplane but was knocked down by the jet blast coming from the left engine",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "passenger evacuated from left overwing exit while left engine was still operating and was knocked down by jet blast"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

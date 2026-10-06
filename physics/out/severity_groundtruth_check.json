@@ -1,0 +1,179 @@
+{
+  "n_ntsb_records": 43507,
+  "coverage": {
+    "temp_dewpoint": 39770,
+    "wind": 34289,
+    "ev_type": {
+      "ACC": 42368,
+      "INC": 1139
+    },
+    "highest_injury": {
+      "NONE": 24174,
+      "MINR": 7182,
+      "FATL": 6480,
+      "SERS": 5580,
+      "": 91
+    },
+    "damage": {
+      "SUBS": 35259,
+      "DEST": 6054,
+      "": 1199,
+      "MINR": 987,
+      "UNK": 8
+    }
+  },
+  "damage_x_injury": {
+    "|": 43,
+    "|FATL": 67,
+    "|MINR": 26,
+    "|NONE": 387,
+    "|SERS": 676,
+    "DEST|": 3,
+    "DEST|FATL": 4012,
+    "DEST|MINR": 620,
+    "DEST|NONE": 626,
+    "DEST|SERS": 793,
+    "MINR|": 26,
+    "MINR|FATL": 51,
+    "MINR|MINR": 47,
+    "MINR|NONE": 694,
+    "MINR|SERS": 169,
+    "SUBS|": 18,
+    "SUBS|FATL": 2347,
+    "SUBS|MINR": 6489,
+    "SUBS|NONE": 22463,
+    "SUBS|SERS": 3942,
+    "UNK|": 1,
+    "UNK|FATL": 3,
+    "UNK|NONE": 4
+  },
+  "weather_subset": {
+    "n": 39770,
+    "p_serious_fatal": 0.2757,
+    "n_icing": 1205
+  },
+  "physics_pi_ice_auc": {
+    "vs_icing_factor": 0.6123,
+    "vs_engine_failure": 0.4932,
+    "vs_serious_fatal": 0.5558,
+    "vs_fatal": 0.573,
+    "vs_serious_fatal_within_icing_accidents": 0.5462
+  },
+  "reliability_pi_ice_by_decile": {
+    "0": {
+      "pi_mean": 0.0,
+      "icing_rate": 0.0088
+    },
+    "1": {
+      "pi_mean": 0.0601,
+      "icing_rate": 0.0143
+    },
+    "2": {
+      "pi_mean": 0.4181,
+      "icing_rate": 0.0277
+    },
+    "3": {
+      "pi_mean": 0.6249,
+      "icing_rate": 0.0284
+    },
+    "4": {
+      "pi_mean": 0.7355,
+      "icing_rate": 0.0282
+    },
+    "5": {
+      "pi_mean": 0.8257,
+      "icing_rate": 0.0344
+    },
+    "6": {
+      "pi_mean": 0.8668,
+      "icing_rate": 0.0322
+    },
+    "7": {
+      "pi_mean": 0.9068,
+      "icing_rate": 0.0309
+    },
+    "8": {
+      "pi_mean": 0.931,
+      "icing_rate": 0.0427
+    },
+    "9": {
+      "pi_mean": 0.9529,
+      "icing_rate": 0.0553
+    }
+  },
+  "calibrated_icing_link": {
+    "auc": 0.6045,
+    "brier": 0.02924,
+    "brier_raw_pi_ice": 0.5007,
+    "brier_base_rate": 0.02938,
+    "mean_cal": 0.0303,
+    "prevalence": 0.0303,
+    "fused_depth2": {
+      "q_ef_given_ice": 0.9502,
+      "mean_R": 0.0288,
+      "realized_joint": 0.0288,
+      "auc_vs_joint": 0.6027,
+      "brier": 0.02784,
+      "brier_base": 0.02796
+    }
+  },
+  "pairwise_bin_ordering": {
+    "agree": 362,
+    "pairs": 464,
+    "frac": 0.78
+  },
+  "severity_models": {
+    "serious_fatal": {
+      "prevalence": 0.2757,
+      "lr_factors": {
+        "auc": 0.8182,
+        "pr_auc": 0.672,
+        "brier": 0.14235
+      },
+      "lr_physics_drivers": {
+        "auc": 0.5548,
+        "pr_auc": 0.3094,
+        "brier": 0.19836
+      },
+      "lr_factors_plus_physics": {
+        "auc": 0.8198,
+        "pr_auc": 0.6748,
+        "brier": 0.14176
+      },
+      "gbm_pre_outcome_covariates": {
+        "auc": 0.7633,
+        "brier": 0.1621
+      },
+      "gbm_extracted_factors": {
+        "auc": 0.8288,
+        "brier": 0.13654
+      },
+      "gbm_pre_outcome_plus_factors": {
+        "auc": 0.8614,
+        "brier": 0.12392
+      },
+      "time_blocked_lr_factors": {
+        "n_test": 13831,
+        "auc": 0.812
+      }
+    },
+    "fatal": {
+      "prevalence": 0.1497,
+      "lr_factors": {
+        "auc": 0.8857,
+        "pr_auc": 0.6428,
+        "brier": 0.08118
+      },
+      "lr_physics_drivers": {
+        "auc": 0.5706,
+        "pr_auc": 0.1822,
+        "brier": 0.12643
+      },
+      "lr_factors_plus_physics": {
+        "auc": 0.8868,
+        "pr_auc": 0.6457,
+        "brier": 0.08088
+      }
+    }
+  }
+}

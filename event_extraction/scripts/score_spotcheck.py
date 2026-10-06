@@ -8,6 +8,13 @@ extracted node states the NTSB cause-flagged finding and 0 otherwise; the
 narrative, findings and nodes of each record are in spotcheck_50.jsonl.
 Blank cells count as 0.
 
+The annotator works blind to the judge (review 2026-10-06): hand out
+spotcheck_50_blind.csv, which drops the judge_match column, together with
+spotcheck_50_context.md, which shows each record's narrative, findings and
+nodes without the judge's matches. The scorer takes the judge verdicts from
+spotcheck_50.csv by (record_id, finding_idx, node_idx). Report agreement over
+findings as the headline and agreement over pairs as the secondary number.
+
 Reported, as percentage agreement with the judge rather than as a new gold
 standard: agreement over all pairs, agreement over the findings (a finding
 is recalled when at least one node matches), the finding-level recall under
@@ -15,7 +22,7 @@ the judge and under the annotator, and the disagreeing findings for review.
 
 Usage:
   python3 event_extraction/scripts/score_spotcheck.py \
-      event_extraction/out/adjudication/spotcheck_50_annotated.csv
+      event_extraction/out/adjudication/spotcheck_50_blind_annotated.csv
 """
 from __future__ import annotations
 
@@ -25,9 +32,18 @@ import sys
 from collections import defaultdict
 
 
+JUDGE = "event_extraction/out/adjudication/spotcheck_50.csv"
+
+
 def main(path: str) -> None:
     rows = list(csv.DictReader(open(path)))
-    judge = [int(r["judge_match"] or 0) for r in rows]
+    key = lambda r: (r["record_id"], r["finding_idx"], r["node_idx"])
+    ref = {key(r): int(r["judge_match"] or 0) for r in csv.DictReader(open(JUDGE))}
+    missing = [k for k in map(key, rows) if k not in ref]
+    if missing or len(rows) != len(ref):
+        sys.exit(f"annotated file does not match {JUDGE}: {len(rows)} rows against "
+                 f"{len(ref)}, {len(missing)} unknown pairs")
+    judge = [ref[key(r)] for r in rows]
     ann = [int((r["annotator_match"] or "0").strip() or 0) for r in rows]
     blank = sum(1 for r in rows if not (r["annotator_match"] or "").strip())
     pair_agree = sum(a == b for a, b in zip(judge, ann)) / len(rows)

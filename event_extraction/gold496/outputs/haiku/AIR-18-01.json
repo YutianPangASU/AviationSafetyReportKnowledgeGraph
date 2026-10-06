@@ -1,0 +1,158 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "RUNWAY_CONDITION_HAZARD",
+      "label": "Runway 28L closed for construction",
+      "trigger": "Runway 28L was scheduled to be closed from 2300 through 0800 due to resurfacing project",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Flight crew failed to effectively review NOTAM about runway closure",
+      "trigger": "First officer could not recall whether he reviewed the closure NOTAM; captain saw runway closure information but did not recall it when needed during approach",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "Flight crew unaware of runway 28L closure; expects normal two-runway configuration",
+      "trigger": "Lack of awareness that runway 28L was closed led crew to expect SFO in usual configuration with both runways operational",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Ineffective NOTAM review resulted in crew's lack of awareness of closure"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Flight crew fatigued during circadian low period",
+      "trigger": "Incident occurred at 0256 EDT (body clock time), within circadian low window 0300-0500 EDT; captain awake 19+ hours, first officer 12+ hours; crew reported fatigue after thunderstorm encounter",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "First officer failed to manually tune ILS frequency for runway 28R",
+      "trigger": "First officer missed step to enter required ILS frequency (111.7) on MCDU radio/navigation page",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Captain failed to verify ILS frequency was tuned",
+      "trigger": "Captain did not notice during approach briefing that ILS frequency had not been entered",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Captain's verification failure allowed first officer's omission to go undetected"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain misidentifies taxiway C as runway 28R due to expectation bias",
+      "trigger": "Captain perceived lights from aircraft on taxiway C as runway edge lights and believed taxiway was intended landing runway",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Expectation of normal two-runway configuration led to misidentification of taxiway as runway"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Fatigue impaired captain's ability to recognize conflicting visual cues and overcome expectation bias"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Lack of ILS backup lateral guidance removed navigational aid that could have prevented misalignment"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain aligns airplane with taxiway C instead of runway 28R",
+      "trigger": "At F101D waypoint (1,100 ft altitude), captain executed 14-degree right turn aligning aircraft with taxiway C",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Misidentification of taxiway as runway directly resulted in control input to align with taxiway"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "label": "Aircraft descends to 60 ft altitude directly over four airplanes positioned on taxiway C",
+      "trigger": "Minimum adjusted radio altitude of 60 ft (landing gear bottom) reached over Philippine Airlines Flight 115 while aircraft continued descent on taxiway C",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "Continued descent on misaligned taxiway surface resulted in critical proximity to aircraft on taxiway"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flight crew recognizes misalignment; initiates go-around",
+      "trigger": "Multiple cues within 6 seconds before go-around including lights from aircraft illuminated by landing lights, PAL115 turning on landing lights to alert crew, and visual observation of aircraft on surface prompted recognition; captain stated things were not adding up; first officer called for go-around simultaneously with captain's initiation at 89 ft altitude",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "Critical proximity to taxiway and presence of aircraft visual cues directly triggered crew's error recognition"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "SUCCESSFUL_RECOVERY",
+      "label": "Go-around executed successfully; second approach and landing on runway 28R completed without collision, injury, or aircraft damage",
+      "trigger": "Aircraft climbed to 3,000 ft as directed after go-around at 89 ft altitude; crew conducted second approach and made uneventful landing on runway 28R at 0011 on July 8; no injuries to 140 total occupants; no aircraft damaged",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "Timely recognition of misalignment and execution of go-around prevented collision with airplanes on taxiway"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "no_damage_or_injury"
+}
+```

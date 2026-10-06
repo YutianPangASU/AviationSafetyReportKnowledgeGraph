@@ -1,0 +1,167 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "Runway 31 not listed on ATIS as departure option",
+      "trigger": "The STL controllers did not typically list runway 31 as an active runway on the ATIS, as runway 31 was only occasionally used as a departure-only runway.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "Ground controller issued nonstandard taxi clearance phraseology",
+      "trigger": "The initial taxi clearance...was...a nonstandard clearance, in which the phrase 'taxi to,' and the departure runway had been eliminated.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Cessna pilot operating during abnormal sleep-phase hours",
+      "trigger": "the accident occurred at a time of night when the pilot normally went to sleep...may have had some effect on his performance and level of attentiveness.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Cessna pilot formed mistaken belief runway 30R was assigned runway",
+      "trigger": "he had a preconception that he would be departing on runway 30R and thus did not register the ground controller's clearance to runway 31.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "The ATIS that was current...listed runways 30R and 30L as the active runways for arrivals and departures at STL."
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "nonstandard clearance, in which the phrase 'taxi to,' and the departure runway had been eliminated."
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "the accident occurred at a time of night when the pilot normally went to sleep...may have had some effect on his performance and level of attentiveness."
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Cessna 441 taxied onto active runway 30R",
+      "trigger": "The Cessna 441 pilot unintentionally deviated from the taxi clearance he received from the ground controller and taxied onto the active runway being used by the MD-82.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "the Cessna 441 pilot unintentionally deviated from the taxi clearance...and taxied onto the active runway"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Dark night environment",
+      "trigger": "The accident occurred...during the hours of darkness.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "ASDE-3 airport surface detection radar not operational",
+      "trigger": "The ASDE-3 equipment was not available for controller use on the night of the accident because the computer hard drive had failed.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "MD-82 crew unable to detect Cessna on runway during takeoff roll",
+      "trigger": "The flightcrew members reported that they did not observe the airplane or airplane position lights at any point during their takeoff roll.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "The Cessna 441 was located almost directly on the runway centerline"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "darkness...contributed to the flightcrew's failure to see the Cessna 441 on runway 30R."
+        },
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "The ASDE-3 equipment was not available...ASDE-3 would have displayed the Cessna 441's position"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "MD-82 initiated takeoff roll on runway 30R",
+      "trigger": "As the MD-82 began its takeoff roll, the first officer operated the flight controls, while the captain advanced and set the throttles.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "The MD-82 crew was unaware of the Cessna on the runway and proceeded with takeoff clearance."
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "GROUND_COLLISION",
+      "label": "Collision between MD-82 right wing and Cessna 441",
+      "trigger": "The right wing of the MD-82 struck the tail cone and fuselage structure of the Cessna 441, separating the horizontal and vertical stabilizers from the fuselage.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "The Cessna 441 was positioned on runway 30R at the intersection with taxiway Romeo."
+        },
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "The MD-82 began its takeoff roll on runway 30R where the Cessna was positioned."
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Cessna occupants killed and MD-82 passengers injured",
+      "trigger": "The commercial pilot and the passenger...were the sole occupants on board the Cessna and were killed. Of the 140 persons on board the MD-82, eight passengers sustained minor injuries during the evacuation.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "The Cessna 441 was destroyed...This accident was not survivable for the occupants of the Cessna."
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

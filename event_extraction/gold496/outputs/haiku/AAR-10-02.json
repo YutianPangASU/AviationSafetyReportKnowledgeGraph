@@ -1,0 +1,116 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Operator failed to check aircraft tire pressures for approximately 3 weeks",
+      "trigger": "Global Exec Aviation's director of maintenance estimated that the tire pressures may not have been checked for about 3 weeks before the accident",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Main landing gear tires severely underinflated (approximately 36% below nominal pressure)",
+      "trigger": "given average daily pressure loss of about 2 percent, the tires were likely operating while about 36-percent underinflated on the day of the accident; underinflation cannot be detected visually",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "lack of tire pressure checks over 3 weeks allowed natural pressure loss to accumulate"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "All four main landing gear tires fail during takeoff roll; tire debris damages squat switches and hydraulic lines",
+      "trigger": "approximately 1.5 seconds after V1 callout at 131 kts ground speed, loud rumbling noise begins; debris evidence showed all four MLG tires had failed within about 9 seconds",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "testing showed as little as 5-percent underinflation greatly reduces the fatigue life of transport-category aircraft tires; the damage observed was consistent with about 36-percent underinflation"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain initiates rejected takeoff after V1 decision speed, contrary to training and standard operating procedures",
+      "trigger": "loud rumbling noise and airplane veering to right; first officer stated 'go' but captain asked 'go?' then committed to RTO by stating 'full out'",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "first tire failure, resulting noise, swerve, and vibration occurred after V1 had been called; captain was unaware of the problem type"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Thrust reverser system produces uncommanded forward thrust after stowage due to squat switch damage",
+      "trigger": "nosewheel steering disconnect warning tone indicated transition to air mode; thrust reversers stowed while cockpit levers remained in reverse position; engines produced forward thrust at near takeoff power",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "tire debris damaged the landing gear area including squat switches and hydraulic lines; squat switch signal loss caused logic to change to air mode, triggering reverser stowage and forward thrust"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft overruns runway end and strikes obstacles beyond runway safety area",
+      "trigger": "airplane went straight off the end of the runway, passed through 1,000-foot runway safety area, struck airport lighting and antennas, then struck lighting pole and perimeter fence",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "tire failures and hydraulic system damage compromised braking force; all four MLG tires destroyed within 9 seconds"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "high-speed rejected takeoff after V1 is inherently high-risk; runway overrun data show more than half of high-speed RTOs are unwarranted"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "uncommanded forward thrust accelerated the airplane when pilot commanded reverse thrust to decelerate; this substantially increased the airplane's runway excursion speed"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Captain, first officer, and two passengers fatally injured; two passengers seriously injured",
+      "trigger": "captain and first officer died of smoke and fume inhalation with contributing blunt force trauma; two passengers died of blunt force trauma; two survivors received second and third-degree burns",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "impact forces and postcrash fire; airplane destroyed by impact forces and fire; both engines and structural components sustained fire damage"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

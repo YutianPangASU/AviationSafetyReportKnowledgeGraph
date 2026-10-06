@@ -1,0 +1,173 @@
+{
+  "n_icing_matched": 1033,
+  "n_other_matched": 2190,
+  "median_station_km": 19.8,
+  "hours_per_accident_median": 720.0,
+  "window_hours_per_accident_median": 214.0,
+  "all_hours/icing_vs_routine": {
+    "auc": 0.431,
+    "ci95": [
+      0.4129,
+      0.449
+    ],
+    "n_pos": 1033,
+    "n_neg": 103300,
+    "mean_pi_accidents": 0.7672,
+    "mean_pi_routine": 0.8196,
+    "zones": {
+      "nil": {
+        "share_accidents": 0.0465,
+        "share_hours": 0.0312,
+        "relative_risk": 1.488
+      },
+      "light": {
+        "share_accidents": 0.0571,
+        "share_hours": 0.0291,
+        "relative_risk": 1.961
+      },
+      "moderate": {
+        "share_accidents": 0.2401,
+        "share_hours": 0.1975,
+        "relative_risk": 1.215
+      },
+      "serious": {
+        "share_accidents": 0.6563,
+        "share_hours": 0.7421,
+        "relative_risk": 0.884
+      }
+    }
+  },
+  "all_hours/other_vs_routine": {
+    "auc": 0.351,
+    "ci95": [
+      0.3391,
+      0.363
+    ],
+    "n_pos": 2190,
+    "n_neg": 219000,
+    "mean_pi_accidents": 0.6371,
+    "mean_pi_routine": 0.7896,
+    "zones": {
+      "nil": {
+        "share_accidents": 0.1553,
+        "share_hours": 0.0529,
+        "relative_risk": 2.932
+      },
+      "light": {
+        "share_accidents": 0.0836,
+        "share_hours": 0.0352,
+        "relative_risk": 2.371
+      },
+      "moderate": {
+        "share_accidents": 0.2648,
+        "share_hours": 0.2149,
+        "relative_risk": 1.233
+      },
+      "serious": {
+        "share_accidents": 0.4963,
+        "share_hours": 0.6969,
+        "relative_risk": 0.712
+      }
+    }
+  },
+  "hour_matched/icing_vs_routine": {
+    "auc": 0.4728,
+    "ci95": [
+      0.4549,
+      0.4908
+    ],
+    "n_pos": 1033,
+    "n_neg": 101721,
+    "mean_pi_accidents": 0.7672,
+    "mean_pi_routine": 0.7902,
+    "zones": {
+      "nil": {
+        "share_accidents": 0.0465,
+        "share_hours": 0.0415,
+        "relative_risk": 1.12
+      },
+      "light": {
+        "share_accidents": 0.0571,
+        "share_hours": 0.0412,
+        "relative_risk": 1.386
+      },
+      "moderate": {
+        "share_accidents": 0.2401,
+        "share_hours": 0.238,
+        "relative_risk": 1.009
+      },
+      "serious": {
+        "share_accidents": 0.6563,
+        "share_hours": 0.6793,
+        "relative_risk": 0.966
+      }
+    }
+  },
+  "hour_matched/other_vs_routine": {
+    "auc": 0.4012,
+    "ci95": [
+      0.3889,
+      0.4135
+    ],
+    "n_pos": 2190,
+    "n_neg": 216225,
+    "mean_pi_accidents": 0.6371,
+    "mean_pi_routine": 0.746,
+    "zones": {
+      "nil": {
+        "share_accidents": 0.1553,
+        "share_hours": 0.075,
+        "relative_risk": 2.071
+      },
+      "light": {
+        "share_accidents": 0.0836,
+        "share_hours": 0.0518,
+        "relative_risk": 1.613
+      },
+      "moderate": {
+        "share_accidents": 0.2648,
+        "share_hours": 0.2547,
+        "relative_risk": 1.04
+      },
+      "serious": {
+        "share_accidents": 0.4963,
+        "share_hours": 0.6185,
+        "relative_risk": 0.803
+      }
+    }
+  },
+  "icing_vs_other_accidents_same_subset": {
+    "auc": 0.6181,
+    "ci95": [
+      0.5979,
+      0.6383
+    ],
+    "n_pos": 1033,
+    "n_neg": 2190
+  },
+  "icing_specific_relative_risk_by_zone": {
+    "nil": 0.541,
+    "light": 0.859,
+    "moderate": 0.97,
+    "serious": 1.203
+  },
+  "icing_specific_relative_risk_by_zone_ci95": {
+    "nil": [
+      0.402,
+      0.694
+    ],
+    "light": [
+      0.629,
+      1.112
+    ],
+    "moderate": [
+      0.863,
+      1.088
+    ],
+    "serious": [
+      1.146,
+      1.267
+    ]
+  },
+  "icing_specific_relative_risk_n_boot": 2000
+}

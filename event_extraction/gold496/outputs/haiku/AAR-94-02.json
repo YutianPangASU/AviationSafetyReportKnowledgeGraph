@@ -1,0 +1,95 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Manufacturing defect: inadequate elevator surface preparation and high adhesive void content",
+      "trigger": "SEM analysis revealed predominantly adhesive failure mode; peel ply imprints indicated local lack of sanding; void content averaged 3.7% vs. 1.5% specification limit",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "MD-11 designed with light control force characteristics at high altitude",
+      "trigger": "Airplane designed with minimal longitudinal stability margin to improve fuel efficiency; aft center of gravity and reduced stabilizer area resulted in lighter stick forces than other transport-category aircraft at cruise",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Lack of pilot training for MD-11 high-altitude upset recovery",
+      "trigger": "Neither DAC nor China Airlines had addressed high-altitude upsets in training or flight manuals; pilots not trained to differentiate stall buffet from turbulence at cruise altitude",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "TURBULENCE_ENCOUNTER",
+      "label": "Encounter moderate to severe turbulence at FL330",
+      "trigger": "Flight encountered light turbulence, then sudden entry into severe turbulence at 33,000 feet approximately 35 miles northeast of Shimizu; captain stated pitch and roll exceeded 30 degrees",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "WIND_SHEAR_OR_GUST",
+      "label": "Lateral gust from left side inducing roll disturbance",
+      "trigger": "FDR recorded 0.25 G lateral acceleration to right at upset onset; roll angle increased to 30 degrees RWD within 2 seconds, consistent with left-side gust",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "gust embedded within turbulence encounter"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot applies excessive aileron and elevator control deflections",
+      "trigger": "Pilot applied RWD then LWD wheel deflections and excessive ANU elevator deflections reaching 2.5 degrees average within 5 seconds; pilot overrode LSAS with ~50 pounds of force",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "pilot reacting to gust-induced roll disturbance"},
+        {"src": 1, "strength": "contributing", "evidence": "light control forces enabled excessive inputs without proportional control column resistance"},
+        {"src": 2, "strength": "contributing", "evidence": "pilot untrained in MD-11 high-altitude upset recovery"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aircraft enters multiple stalls; continuous stall warning for 2 min 45 sec",
+      "trigger": "AOA reached 7 degrees at 5 seconds activating stick shaker; airplane stalled at ~43, 66, 104, and 118 seconds; AOA excursions reached ~9 degrees during recovery attempts",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "excessive elevator deflections induced rapid AOA increase above stall threshold"}]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "STRUCTURAL_OVERLOAD",
+      "label": "Elevator control loads exceed design ultimate limit during stall buffet",
+      "trigger": "Stall buffet excited 10.5 Hz elevator torsion mode; peak accelerations at outboard elevator balance horn reached 38-70 G, exceeding 50 G ultimate design load",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "stall buffet produced extreme dynamic loads on outboard elevators"}]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Left and right outboard elevator skins rupture and separate",
+      "trigger": "Fracture, delamination, and disbonding of elevator skins; approximately 28x46 inches from left elevator and 35x46 inches from right elevator separated; failure modes were predominantly adhesive bond failure",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "loads exceeded 50 G ultimate design limit during buffet"},
+        {"src": 0, "strength": "contributing", "evidence": "manufacturing defects—inadequate surface preparation (lack of sanding) and elevated adhesive void content (3.7% vs. 1.5% spec)—weakened adhesive bond"}
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

@@ -1,0 +1,109 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilot relatively new to Southeast Alaska operations",
+      "trigger": "commercial pilot had accumulated about 152 hours of flying time with Promech; his first job flying in Southeast Alaska",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "MVFR conditions with low visibility, rain, mist, and obscured terrain",
+      "trigger": "Marginal visual flight rules conditions were reported in the area; terrain at the accident site was likely obscured by overcast clouds with visibility restricted in rain and mist",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Company culture tacitly endorsed flying in hazardous weather",
+      "trigger": "Promech's organizational culture, which tacitly endorsed flying in hazardous weather conditions, as evidenced by the company president/CEO's own tour flight below FAA minimums on the day of the accident",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot decided to continue VFR flight into deteriorating weather and IMC",
+      "trigger": "pilot's decision to continue visual flight into an area of instrument meteorological conditions",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "deteriorating weather to near-zero visibility and obscured terrain"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Promech's organizational culture tacitly endorsed flying in hazardous weather; influenced by other experienced pilots ahead flying same route"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "Pilot experienced geographic disorientation and mistook first mountain for second",
+      "trigger": "pilot mistook the first mountain for the second one and turned the airplane west too early",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "pilot's relatively short time flying in the local area resulted in less detailed cognitive map of terrain"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "low visibility reduced ability to visually identify landmarks; viewing terrain from lower-than-normal vantage point"
+        },
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "continued flight into deteriorating conditions with near-zero visibility"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft collision with 1,900-ft mountain at 1,600-ft msl elevation",
+      "trigger": "collided with mountainous, tree-covered terrain about 24 miles east-northeast of Ketchikan, Alaska",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "geographic disorientation placed aircraft on collision course with terrain"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Commercial pilot and eight passengers sustained fatal injuries",
+      "trigger": "The commercial pilot and eight passengers sustained fatal injuries, and the airplane was destroyed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "terrain collision at high speed"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

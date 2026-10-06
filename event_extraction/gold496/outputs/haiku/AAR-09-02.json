@@ -1,0 +1,120 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Lack of formal separation procedures for Phoenix ENG operations",
+      "trigger": "lack of formal procedures for Phoenix-area ENG pilots to follow regarding the conduct of these operations",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Pilots assigned concurrent flying and reporting duties",
+      "trigger": "pilots' responsibility to perform reporting and visual tracking duties to support their station's ENG operation",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Loss of situational awareness of other helicopter position",
+      "trigger": "channel 3 and 15 helicopters collided because one or both pilots lost awareness of the other helicopter's position",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "lack of formal procedures contributed to absence of established separation standards"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "reporting and visual tracking duties immediately before the collision likely precluded them from recognizing the proximity"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Uncoordinated altitude changes without position awareness",
+      "trigger": "at some point the channel 3 helicopter's altitude increased, the channel 15 helicopter's altitude decreased, or both",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "pilots lost awareness of the other helicopter's position, allowing altitudes to change without coordination"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "MIDAIR_COLLISION",
+      "label": "Midair collision of main rotor blades",
+      "trigger": "the yellow blade on the left side of the channel 3 helicopter and the red blade on the right side of the channel 15 helicopter contacted each other about 2 feet from the end of each blade",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "uncoordinated altitude and position changes brought helicopters into collision course"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Aircraft structural failure and inflight breakup",
+      "trigger": "the channel 3 helicopter's main rotor blades deformed and broke the helicopter's tail boom into several pieces. The helicopter then fragmented in the air",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "rotor blade collision caused structural failure and airframe fragmentation"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Ground impact of damaged aircraft",
+      "trigger": "the helicopter then fragmented in the air and struck the ground in an inverted position",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "structural failure resulted in loss of flight and impact with ground"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to all occupants",
+      "trigger": "The occupants on board both helicopters were killed, and the helicopters were destroyed by impact forces and postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "high-velocity ground impact caused multiple blunt force injuries resulting in fatalities"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

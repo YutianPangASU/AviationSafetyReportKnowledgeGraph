@@ -1,0 +1,133 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Cherokee pilot transmitted unnecessary response to Beech position call",
+      "trigger": "at 1700:28, Cherokee pilot stated 'seven six four six Juliet holding for departure on runway four'",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Beech crew mistook Cherokee transmission for King Air response and believed King Air would hold",
+      "trigger": "mistook the Cherokee pilot's transmission as a response from the King Air to their request for the King Air's intentions",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Cherokee transmission appeared to answer their question about whether King Air would hold or take off"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "King Air pilots did not effectively monitor common traffic advisory frequency",
+      "trigger": "failure of the pilots in the King Air A90 to effectively monitor the common traffic advisory frequency",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "King Air pilots failed to properly scan for approaching traffic",
+      "trigger": "failure to properly scan for traffic",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "King Air applied takeoff power on active runway while Beech 1900C was landing on intersecting runway",
+      "trigger": "commencing a takeoff roll when the Beech 1900C was landing on an intersecting runway",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "did not hear Beech position reports on CTAF"
+        },
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "did not visually see aircraft on approach despite clear visibility"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Post-collision fire from ruptured fuel tanks consumed both aircraft",
+      "trigger": "both airplanes were engulfed in flames; occupants died from carbon monoxide intoxication from smoke and soot",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "collision impact ruptured fuel tanks and ignited fuel"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Impact-induced fuselage deformation created slack in air stair door cable, rendering door inoperable",
+      "trigger": "the failure of the air stair door on the Beech 1900C to open",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "collision impact caused fuselage deformation that introduced slack into door control cable"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Quincy Airport ARFF truck not staffed at time of accident; FAA staffing required only for 30+ seat aircraft",
+      "trigger": "the lack of adequate aircraft rescue and firefighting services",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All 14 occupants of both aircraft fatally injured from smoke inhalation and thermal injuries",
+      "trigger": "cause of death for all occupants was inhalation of smoke, soot, or products of combustion",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "occupants died from post-crash fire; impact forces were survivable but fire prevented escape"
+        },
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "air stair door unable to open prevented Beech occupants' escape and rescue; left overwing exit also unused"
+        },
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "absence of on-airport ARFF delayed rescue response to 14 minutes; staffed ARFF would have reached scene in approximately 1 minute"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

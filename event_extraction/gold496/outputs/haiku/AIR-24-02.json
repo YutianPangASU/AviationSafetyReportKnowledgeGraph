@@ -1,0 +1,95 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Dense freezing fog with 1/4 mile visibility",
+      "trigger": "visibility 1/4 mile with obscuration; freezing fog; ceilings below 200 ft agl",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Controller expected SWA aircraft was already at hold-short line based on prior experience",
+      "trigger": "controller expected that when SWA pilot said ready the airplane would already be at the runway 18L hold-short line",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "Controller cleared SWA for takeoff without verifying actual aircraft position",
+      "trigger": "controller cleared the SWA airplane for takeoff; however the SWA airplane was 550 ft away from the hold-short line",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "controller was unable to see the SWA airplane due to dense fog"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "controller assumed the SWA airplane was already at the hold-short line"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "SWA crew stopped on active runway for engine run-up without informing controller",
+      "trigger": "SWA airplane came to complete stop to perform engine run-up; flight crew did not notify controller they would need additional time on runway",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "after receiving takeoff clearance the SWA crew lined up and stopped on runway for 19-second engine run-up"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "FedEx crew executed missed approach after detecting SWA aircraft on runway",
+      "trigger": "FedEx first officer saw SWA airplane through fog at 150 ft agl and called for go-around; captain executed missed approach",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "separation between SWA and FedEx reduced to below 2-mile minimum after SWA entered runway"
+        },
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "SWA engine run-up on runway further reduced separation to critical levels"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "SUCCESSFUL_RECOVERY",
+      "label": "Runway incursion resolved with 150-170 foot minimum separation; no collision damage or injury",
+      "trigger": "at closest point airplanes separated by 150 to 170 feet; both aircraft continued to destinations without incident",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "quick reaction of FedEx first officer and captain executing missed approach avoided potential runway collision"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "no_damage_or_injury"
+}
+```

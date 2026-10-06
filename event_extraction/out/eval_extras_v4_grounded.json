@@ -1,0 +1,105 @@
+{
+  "n_records_judged": 1998,
+  "precision_all_nodes": 0.3065,
+  "precision_by_cause_role": {
+    "contributing": {
+      "nodes": 3547,
+      "matched_to_cause_flag": 355,
+      "precision": 0.1001
+    },
+    "primary": {
+      "nodes": 4538,
+      "matched_to_cause_flag": 3064,
+      "precision": 0.6752
+    },
+    "outcome": {
+      "nodes": 3167,
+      "matched_to_cause_flag": 31,
+      "precision": 0.0098
+    },
+    "context": {
+      "nodes": 4,
+      "matched_to_cause_flag": 0,
+      "precision": 0.0
+    }
+  },
+  "precision_cause_role_nodes": {
+    "nodes": 8085,
+    "matched": 3419,
+    "precision": 0.4229
+  },
+  "precision_by_class": {
+    "condition": {
+      "nodes": 2022,
+      "matched": 522,
+      "precision": 0.2582
+    },
+    "event": {
+      "nodes": 6192,
+      "matched": 2901,
+      "precision": 0.4685
+    },
+    "outcome": {
+      "nodes": 3042,
+      "matched": 27,
+      "precision": 0.0089
+    }
+  },
+  "event_nodes_vs_coded_sequence": {
+    "records_with_sequence": 1891,
+    "event_nodes": 5980,
+    "matched": 3893,
+    "precision": 0.651
+  },
+  "recall_by_finding_group": {
+    "avall:aircraft": {
+      "findings": 10,
+      "recalled": 8,
+      "recall": 0.8
+    },
+    "avall:environment": {
+      "findings": 3,
+      "recalled": 3,
+      "recall": 1.0
+    },
+    "avall:not determined": {
+      "findings": 1,
+      "recalled": 0,
+      "recall": 0.0
+    },
+    "avall:personnel": {
+      "findings": 17,
+      "recalled": 16,
+      "recall": 0.9412
+    },
+    "pre2008_keyword:aircraft": {
+      "findings": 604,
+      "recalled": 587,
+      "recall": 0.9719
+    },
+    "pre2008_keyword:environment": {
+      "findings": 284,
+      "recalled": 276,
+      "recall": 0.9718
+    },
+    "pre2008_keyword:organizational": {
+      "findings": 182,
+      "recalled": 178,
+      "recall": 0.978
+    },
+    "pre2008_keyword:personnel": {
+      "findings": 1578,
+      "recalled": 1502,
+      "recall": 0.9518
+    },
+    "pre2008_keyword:unclassified": {
+      "findings": 796,
+      "recalled": 666,
+      "recall": 0.8367
+    }
+  },
+  "adjudication_sample": {
+    "n": 100,
+    "path": "/home/yp6443/research/AviationSafetyReportKnowledgeGraph/event_extraction/out/adjudication/sample_100.jsonl"
+  }
+}

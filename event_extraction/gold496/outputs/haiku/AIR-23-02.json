@@ -1,0 +1,90 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot failed to maintain adequate airspeed",
+      "trigger": "the airplane's groundspeed decreased to about 93 knots",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aircraft exceeded critical angle of attack and stalled",
+      "trigger": "the airplane subsequently entered a rapid descent",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "failure to maintain adequate airspeed, which caused the airplane to exceed its critical angle of attack and enter an inadvertent stall"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft entered inadvertent spin",
+      "trigger": "'we're in a spin' transmissions were broadcast to air traffic control",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "airplane subsequently entered a rapid descent and a right turn"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Twin Commander 690B POH lacks spin recovery procedure",
+      "trigger": "The pilot operating handbook (POH) for the Twin Commander 690B does not include a procedure for recovering from an inadvertent spin",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted wooded terrain at high speed",
+      "trigger": "airplane impacted wooded terrain",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "airplane in nose-down attitude, descending at a high rate of speed, and spinning about its longitudinal axis"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "POH does not include procedure for recovering from an inadvertent spin"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and two passengers sustained fatal injuries",
+      "trigger": "The pilot and two passengers sustained fatal injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "impacted the ground in a nose-low vertical attitude and at a high rate of speed"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

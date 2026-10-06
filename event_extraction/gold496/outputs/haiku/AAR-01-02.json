@@ -1,0 +1,116 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "THUNDERSTORM_OR_CONVECTIVE",
+      "label": "Severe thunderstorm with extreme reflectivities moving into airport terminal area",
+      "trigger": "thunderstorm located northwest of the airport was moving through the area now",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Captain and first officer fatigued after 16+ hours continuous wakefulness at late circadian time",
+      "trigger": "both pilots had been continuously awake for at least 16 hours at 2350:44; accident time was nearly 2 hours after both pilots' normal bedtime",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Crosswind component exceeding company limits for landing conditions",
+      "trigger": "winds 350º at 30 knots gusting to 45 knots resulted in a crosswind component of 23-34 knots; company limit was 10 knots for RVR less than 1800 feet",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flight crew continued approach to landing despite deteriorating weather, thunderstorm in vicinity, and exceeded crosswind limits",
+      "trigger": "CVR contained no discussion between flight crewmembers about whether approach should continue despite multiple cues that weather had deteriorated substantially",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "direct", "evidence": "severe thunderstorm approaching airport"},
+        {"src": 2, "strength": "contributing", "evidence": "crosswind conditions present and reported"},
+        {"src": 1, "strength": "contributing", "evidence": "fatigue affecting judgment and decision-making processes"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Before Landing checklist incompletely executed; spoiler handle not armed; captain failed to manually deploy spoilers",
+      "trigger": "no CVR evidence that spoiler lever was armed or manually deployed; first officer did not verbalize required spoiler callout; no sounds on CVR consistent with spoiler handle arming",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "high workload from expedited approach compressed timing for Before Landing checklist completion"},
+        {"src": 1, "strength": "contributing", "evidence": "fatigue affecting checklist completion and task monitoring"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain applied reverse thrust exceeding 1.3 EPR maximum limit for wet runway operations",
+      "trigger": "left engine reached 1.98 reverse EPR and right engine reached 1.64-1.74 reverse EPR; company limit for wet runways was 1.3 EPR",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 4, "strength": "contributing", "evidence": "aircraft began to slide due to inadequate braking from lack of spoiler deployment; captain applied emergency reverse thrust attempting to control aircraft"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Aircraft loss of directional control on runway due to inadequate braking and loss of rudder effectiveness",
+      "trigger": "airplane experienced substantial drift of 16º both left and right; rudder effectiveness reduced by excessive reverse thrust; FDR data showed heading moving at up to 7º per second",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "lack of spoiler deployment resulted in only 27 percent of landing weight on main gear versus 77 percent with spoilers; inadequate braking force prevented developing cornering friction to counter crosswind"},
+        {"src": 5, "strength": "direct", "evidence": "excessive reverse thrust disrupted airflow over rudder and vertical stabilizer, reducing directional control effectiveness"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft overran end of runway 4R and departed at approximately 97 knots",
+      "trigger": "calculated that flight 1420 departed runway 4R at about 97 knots and continued approximately 800 feet beyond runway end before impact",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "lack of spoiler deployment was the single most important factor in flight crew's inability to stop aircraft within available runway length"},
+        {"src": 6, "strength": "direct", "evidence": "loss of directional control prevented maintaining runway alignment and effective deceleration"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft collided with runway 22L approach lighting system support structure",
+      "trigger": "after departing runway end, airplane struck several tubes extending from ILS localizer array located 411 feet beyond runway; collided with approach lighting system support structure causing fuselage crush and separation",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "aircraft departed runway end and traveled down embankment into area of approach lighting structure"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Captain and 10 passengers killed; 45 serious injuries; 65 minor injuries; aircraft destroyed",
+      "trigger": "The captain and 10 passengers were killed; the first officer and 105 passengers received serious or minor injuries; 24 passengers were not injured. The airplane was destroyed by impact forces and a postcrash fire.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 8, "strength": "direct", "evidence": "collision with nonfrangible structure caused fatal blunt force trauma to occupants in impact zone; aircraft structural failure resulted in postcrash fire causing inhalation injuries and burns"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

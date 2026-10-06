@@ -1,0 +1,85 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Fire of undetermined origin in aft lavatory vanity area",
+      "trigger": "About 1900, passenger reported strange odor; flight attendant discovered light gray smoke filling lavatory from floor to ceiling",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Flight attendants unable to locate fire source; provided misleading severity assessment to captain",
+      "trigger": "Flight attendant in charge saw smoke from seams but 'he saw no flames'; reported to captain 'don't have to worry, I think its gonna be easing up' and later 'the smoke was clearing'",
+      "cause_role": "primary",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "Fire was concealed behind lavatory wall panels and vanity structure; location unknown to crew"}]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain delayed initiating emergency descent by 5+ minutes",
+      "trigger": "Fire reported at 1902:40; first officer urged descent at 1904:07; descent not initiated until 1907:41",
+      "cause_role": "primary",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "Captain testified he expected fire to be put out based on crew reports that situation was improving; 'I expected it to be put out'"}]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Smoke and toxic gases accumulating in cabin during extended flight time at altitude",
+      "trigger": "Cabin filled with 'black, acrid smoke from the ceiling down to about knee level'; passengers could not see hands in front of faces by landing",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 2, "strength": "contributing", "evidence": "5+ minute delay in descent meant passengers remained in smoke-filled cabin; also air conditioning packs shut off during last 4 minutes before landing, eliminating fresh air circulation"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "EMERGENCY_LANDING",
+      "label": "Emergency descent and landing completed safely",
+      "trigger": "Flight 797 descended from FL 330 and landed on runway 27L at 1920:09",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 2, "strength": "direct", "evidence": "After first officer told captain 'I think we better go down, okay', captain initiated emergency descent"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "unknown",
+      "label": "Forward cabin doors and overwing exit windows opened for evacuation",
+      "trigger": "As airplane stopped, flight attendants and passengers opened left and right forward doors, left forward overwing exit, and right forward and aft overwing exits",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "direct", "evidence": "Emergency evacuation procedures executed immediately after landing"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Flashfire enveloped airplane interior",
+      "trigger": "About 60 to 90 seconds after exits were opened, 'a flash fire enveloped the airplane interior'; 'cabin interior burst into flames'",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "direct", "evidence": "Original fire had propagated through concealed spaces beneath lavatory and accumulated unburned combustible gases in upper cabin"},
+        {"src": 5, "strength": "direct", "evidence": "Opening doors and overwing exits provided unlimited fresh oxygen supply and reversed cabin airflow, enabling backdraft and flashfire"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "23 passengers killed in cabin fire",
+      "trigger": "After flashfire occurred, 23 passengers 'were not able to get out of the plane and died in the fire'",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 3, "strength": "contributing", "evidence": "Passengers had been exposed to smoke and toxic gases during descent, weakening their physical and mental capability to escape"},
+        {"src": 6, "strength": "direct", "evidence": "Flashfire created nonsurvivable cabin environment with lethal temperatures and toxic gas concentrations; deceased had CO saturation 20-63% (incapacitation at 40-50%) and cyanide 0.8-5.12 mcg/ml (toxic threshold 0.5-0.7)"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

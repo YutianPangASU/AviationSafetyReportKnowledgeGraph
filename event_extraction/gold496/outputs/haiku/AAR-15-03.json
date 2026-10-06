@@ -1,0 +1,184 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Gust lock not disengaged during engine start",
+      "trigger": "G-IV AFM includes disengaging the gust lock as an item in the Starting Engines checklist; flight crew failed to perform this step",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Flight control check not performed after engine start",
+      "trigger": "G-IV AFM includes a flight control check as an item in the After Starting Engines checklist; FDR data showed flight crew did not complete this check",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Gust lock engaged, flight controls locked throughout takeoff; PIC discovered locked yoke at rotation speed",
+      "trigger": "FDR recorded restricted elevator and rudder motion from taxi through takeoff; at 2139:59.9, PIC discovered control yoke locked and began calling 'lock is on'",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "gust lock not disengaged during engine start"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Gust lock/throttle interlock inadequately designed; allows 18-24° TLA instead of intended 6°",
+      "trigger": "Postaccident testing found throttle interlock allowed excessive forward movement compared to design specification of 6°",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "PIC engaged autothrottle despite encountering throttle restriction",
+      "trigger": "Throttle levers manually advanced but encountered restriction at ~17.5° PLA, limiting EPR to ~1.42; instead of rejecting takeoff, PIC engaged autothrottle",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "throttle restricted due to gust lock system being engaged"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "inadequate throttle interlock design allowed engine power sufficient for takeoff attempt"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Gust lock handle lock pin broke under combined loads",
+      "trigger": "Autothrottle and manual force applied to throttles exceeded lock pin strength; analysis showed 68+ lb load could cause failure",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "lock pin not specified for required strength"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "autothrottle servo and manual force combined exceeded pin strength limits"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Inadequate crew communication and coordination in emergency response",
+      "trigger": "SIC did not verbally respond to PIC's repeated 'lock is on' callouts; pilots did not explicitly verbalize emergency strategy or use challenge-verification-response format",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "failure to establish clear communication during emergency situation after discovering locked controls"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flight crew delayed initiating rejected takeoff and braking",
+      "trigger": "PIC first called 'lock is on' at 2139:59.9 (~129 kts); brakes not applied until 2140:10.0 (~150 kts and 10+ seconds later), leaving only ~1,373 ft runway remaining",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "response delay to discovery of locked controls at rotation speed"
+        },
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "poor crew communication prevented rapid coordinated emergency response"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft overran paved runway and overrun area, exited onto grass",
+      "trigger": "At 2140:15.3 aircraft exited runway onto paved overrun area at 151 kts; at 2140:20 exited paved overrun area onto grass at 105 kts",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "insufficient runway remaining after delayed braking at high groundspeed"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "label": "Aircraft struck non-frangible approach lights, localizer antenna, and perimeter fence",
+      "trigger": "Aircraft at ~97 kts impacted approach light system, localizer antenna, and airport perimeter fence along extended runway centerline",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "continued ground motion through grass area after leaving paved surface"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Postcrash fire erupted and spread rapidly",
+      "trigger": "Aircraft came to rest spanning ravine; fire erupted 'almost instantaneously' per air traffic control tower observation, engulfing airplane",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "impact forces and fuel spillage resulted in rapid fire initiation and spread through fuselage"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Seven fatalities from smoke inhalation and thermal injuries",
+      "trigger": "Autopsies determined cause of death for six occupants was smoke inhalation and thermal injuries; impact was initially survivable but rapid fire prevented evacuation",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 10,
+          "strength": "direct",
+          "evidence": "rapid postcrash fire prevented occupant evacuation from aircraft"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

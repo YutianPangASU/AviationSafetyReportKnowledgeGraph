@@ -1,0 +1,46 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Helicopter Route 4 defined without lateral boundaries or distance requirement from shoreline",
+      "trigger": "helicopter routes have no defined lateral boundaries ... The lateral guidance provided to pilots flying Helicopter Route 4 included, 'via east bank of Potomac River'; a specific distance from the river bank was not defined",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Night visual meteorological conditions; reduced visual separation capability",
+      "trigger": "Night visual meteorological conditions prevailed in the area of DCA at the time of the accident",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "ATC clearances authorized conflicting aircraft paths: PAT25 on Route 4 and Flight 5342 on runway 33 approach",
+      "trigger": "At 2033:41, PAT25 requested and was approved for helicopter Route 1 to Route 4 to DAA. At 2043:06, flight 5342 was approved for runway 33 approach",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "Undefined Route 4 lateral boundaries enabled ATC to authorize simultaneous operations despite insufficient separation"}]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "MIDAIR_COLLISION",
+      "label": "Midair collision at 300 ft over Potomac River; 68 fatalities",
+      "trigger": "The collision occurred at 2047:59, at an altitude about 300 ft, while flight 5342 was on final approach to land on runway 33",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 2, "strength": "direct", "evidence": "Both aircraft cleared for conflicting paths with insufficient separation to permit avoidance maneuvers"},
+        {"src": 1, "strength": "contributing", "evidence": "Night conditions reduced visual separation capability, increasing risk from the already-inadequate lateral separation"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

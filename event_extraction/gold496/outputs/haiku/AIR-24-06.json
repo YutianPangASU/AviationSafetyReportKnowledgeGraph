@@ -1,0 +1,61 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Collins SVO-730 actuator bearing seal assembled backwards",
+      "trigger": "A sealed bearing in the incident actuator's clutch assembly was inadvertently assembled with the seal facing toward the clutch teeth instead of away",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Moisture accumulates and freezes in bearing housing",
+      "trigger": "Moisture that previously entered the actuator through the pressure test port pinhole froze during flight",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "The incorrect bearing assembly made the actuator more susceptible to moisture ingress; the pressure test port pinhole provided a path for moisture entry"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Rudder control system becomes jammed; pedals unresponsive",
+      "trigger": "During landing rollout, the rudder pedals were stuck in their neutral position and did not move in response to normal application of foot pressure",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Frozen moisture in the bearing required 520 inch-pounds of torque to move, far exceeding design limits and preventing pedal movement"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Crew switches to nosewheel steering for directional control",
+      "trigger": "The captain elected to use the nosewheel steering tiller as the airplane slowed to a safe taxi speed",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Rudder pedals were stuck in their neutral position and did not move in response to normal application of foot pressure"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "no_damage_or_injury"
+}
+```

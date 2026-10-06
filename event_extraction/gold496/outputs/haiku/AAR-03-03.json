@@ -1,0 +1,126 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Instrument meteorological conditions with low visibility",
+      "trigger": "Instrument meteorological conditions prevailed for the flight. Visibility was about 3 statute miles in light snow with cloud bases between 1,800 and 2,100 feet.",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Flight crew failed to properly configure airplane for approach",
+      "trigger": "The flight crew did not properly configure the airplane at the start of the approach (extending landing gear or reducing power before descending from 3,500 feet). The airplane was fast at this point, requiring loss of significant airspeed and altitude in a short amount of time.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "IMC conditions required precise crew coordination and adherence to procedures"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Approach course overshoot",
+      "trigger": "Almost immediately after receiving the left turn instruction, the airplane overshot the approach course and traveled for almost 1 mile north of the course before establishing a ground track of about 262°.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "The airplane was fast due to inadequate setup, making it impossible to complete the turn in time to intercept the course"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Failure to monitor instruments and apply CRM",
+      "trigger": "Neither flight crewmember was monitoring the airspeed indicator or CDI during the approach. The flight crew was not adhering to approach procedures and was not effectively applying CRM techniques during the approach segment.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "The inadequate setup created increasing workload during the later stages of the approach"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "The course overshoot increased the difficulty and workload of the approach"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Airspeed decay to dangerously low level",
+      "trigger": "The last two radar returns indicate that the airplane had slowed to about 76 KCAS at 1,800 feet, approximately 50 knots below the company's recommended approach airspeed of 130 knots. Airspeed remained below recommended approach speed for about 50 seconds.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "The crew's failure to monitor airspeed meant they did not correct the speed decay by maintaining adequate power"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall",
+      "trigger": "The wings-level, gear-down stall speed would have been about 77 KCAS. The airplane reached approximately 76 KCAS at 1,800 feet. The flight crew allowed the airplane to enter a stall from which they did not recover.",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "The airspeed decay to approximately stall speed directly caused the stall condition"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted terrain",
+      "trigger": "The airplane impacted the ground about 1.8 miles southeast of the approach end of runway 27 at an elevation of 1,361 feet. The airplane descended through trees wings level on about a 26° downward flightpath angle.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "The stall at 1,800 feet altitude left insufficient height for the crew to recover before ground impact"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to all occupants",
+      "trigger": "The two pilots and six passengers were killed. The cause of death was multiple traumatic injuries sustained during impact.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "The high-speed ground impact resulted in fatal injuries to all 8 occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

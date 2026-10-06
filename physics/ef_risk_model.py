@@ -79,25 +79,27 @@ def main() -> None:
     # parents are not independent in the presence table
     fitted_mean_records = float(np.mean(1.0 - (1.0 - leak) * np.exp(X @ np.log1p(-p))))
 
-    # chain-level parent coverage: EF nodes whose explicit caused_by parents
-    # include a member of the leading-factor set (review 2026-09-30)
-    cover = {"nodes": 0, "root": 0, "parent_in_set": 0, "parents_outside_set": 0}
+    # chain-level parent coverage per record: records whose EF node has an
+    # explicit caused_by parent in the leading-factor set (review 2026-09-30).
+    # 369 chains repeat the EF node, so the parents of all EF nodes in a record
+    # are pooled and the record counts once (review 2026-10-06).
+    cover = {"records": 0, "root": 0, "parent_in_set": 0, "parents_outside_set": 0}
     with open(os.path.join("event_extraction/out/causation_kg", "per_accident_chains.jsonl")) as f:
         for line in f:
             rec = json.loads(line)
             nodes = {n["idx"]: n for n in rec["chain"]}
-            for n in rec["chain"]:
-                if n["factor_type"] != TARGET:
-                    continue
-                par = {nodes[e["src"]]["factor_type"] for e in n.get("caused_by", [])
-                       if e["src"] in nodes}
-                cover["nodes"] += 1
-                if not par:
-                    cover["root"] += 1
-                elif par & set(names):
-                    cover["parent_in_set"] += 1
-                else:
-                    cover["parents_outside_set"] += 1
+            ef_nodes = [n for n in rec["chain"] if n["factor_type"] == TARGET]
+            if not ef_nodes:
+                continue
+            par = {nodes[e["src"]]["factor_type"] for n in ef_nodes
+                   for e in n.get("caused_by", []) if e["src"] in nodes} - {TARGET}
+            cover["records"] += 1
+            if not par:
+                cover["root"] += 1
+            elif par & set(names):
+                cover["parent_in_set"] += 1
+            else:
+                cover["parents_outside_set"] += 1
 
     rows = []
     for e, b, pi_, d in zip(lf, base, p, delta):
@@ -150,8 +152,8 @@ def main() -> None:
                                  "rates; fitted_mean_over_records averages the fitted P(y | x_r)",
         "fitted_mean_over_records": round(fitted_mean_records, 4),
         "empirical_prevalence": round(float(y.mean()), 4),
-        "parent_coverage": {**cover, "share_parent_in_set": round(cover["parent_in_set"] / cover["nodes"], 4),
-                            "share_root": round(cover["root"] / cover["nodes"], 4)},
+        "parent_coverage": {**cover, "share_parent_in_set": round(cover["parent_in_set"] / cover["records"], 4),
+                            "share_root": round(cover["root"] / cover["records"], 4)},
         "nll_per_record": round(fit["nll_per_record"], 4),
         "factors": rows,
         "icing_term": {"chart_pi_worked_point": round(ice_pts["worked_T13_Td12_descent"]["chart"], 4),

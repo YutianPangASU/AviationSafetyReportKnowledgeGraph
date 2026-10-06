@@ -1,0 +1,121 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "FAA allowed Part 43 Appendix D inspection standards for turbine-powered experimental aircraft",
+      "trigger": "In December 2011, the FAA issued a Memorandum of Deviation allowing former military turbine-powered rotorcraft with an experimental exhibition certificate to be inspected under Part 43 Appendix D",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "MARPAT Aviation used inadequate Part 43 Appendix D standards instead of more rigorous standards",
+      "trigger": "MARPAT Aviation developed and used a checklist based on Part 43 Appendix D requirements when the helicopter was operated under an experimental airworthiness certificate, rather than using the more stringent standards previously used under restricted-category operations",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "the operator followed the FAA-approved inspection standards"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Progressive undetected engine damage: corrosion, fatigue cracks, and bearing cover separation",
+      "trigger": "Examination of the engine found static damage in the compressor section, rotational damage in the gas-producer turbine, and damage to the exhaust diffuser, rear bearing cover, No. 2 bearing, and two power turbine blades",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "the inadequate inspections failed to detect the progressive engine damage"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Engine power loss due to No. 2 bearing failure",
+      "trigger": "The No. 2 bearing failed as a result of degraded radial support due to cracks in the exhaust diffuser and separation of the rear bearing cover outer flange, causing loss of engine power during flight",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "the structural damage to the exhaust diffuser and rear bearing cover caused misalignment leading to bearing failure"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "label": "Helicopter struck two powerlines during forced landing attempt",
+      "trigger": "About 15 minutes after departure, the helicopter impacted two powerlines and a rock face located about 3.5 nautical miles east of the airport during an attempted forced landing",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "the engine power loss necessitated a forced landing during which the helicopter struck the powerlines"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of control after powerline strike",
+      "trigger": "The helicopter lost control following the powerline strike, preventing recovery to a survivable landing",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "the powerline strike resulted in loss of control"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter impacted rock face and terrain",
+      "trigger": "The helicopter came to rest partially inverted on its right side on an asphalt road, with the main wreckage located 542 feet beyond utility cables and against a rock face",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "loss of control resulted in impact with terrain"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Six occupants fatally injured",
+      "trigger": "The pilot and five passengers were fatally injured; their causes of death were blunt force and thermal injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "the impact resulted in fatal injuries"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

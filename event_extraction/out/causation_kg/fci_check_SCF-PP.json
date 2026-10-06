@@ -1,0 +1,250 @@
+{
+  "category": "SCF-PP",
+  "n_records": 1842,
+  "n_candidates": 27,
+  "alpha": 0.05,
+  "pag_edge_census": {
+    "directed": 6,
+    "bidirected": 27,
+    "partially directed": 9,
+    "undetermined": 3
+  },
+  "n_factors_with_pc_adjustment": 11,
+  "summary": {
+    "definite_parent_relations": 1,
+    "possible_parent_relations": 3,
+    "bidirected_relations": 13,
+    "undetermined_relations": 0,
+    "reversed_relations": 2,
+    "absent_relations": 0,
+    "factors_bidirected_into_X": 9,
+    "mean_abs_shift_pc_vs_definite": 0.0238
+  },
+  "factors": [
+    {
+      "factor": "AIRFRAME_STRUCTURAL_FAILURE",
+      "pc_adjustment_set": [
+        "LANDING_GEAR_ANOMALY",
+        "STRUCTURAL_OVERLOAD"
+      ],
+      "fci_marks": {
+        "LANDING_GEAR_ANOMALY": "z<->X",
+        "STRUCTURAL_OVERLOAD": "z o->X"
+      },
+      "n_definite": 0,
+      "n_possible": 1,
+      "bidirected_into_X": true,
+      "crude": 0.1884,
+      "adjusted_pc": 0.0876,
+      "adjusted_definite_parents": 0.1884,
+      "adjusted_possible_parents": 0.1599,
+      "risk_ratio_pc": 1.478,
+      "e_value_pc": 2.32,
+      "e_value_ci_bound": 1.795
+    },
+    {
+      "factor": "ENGINE_FAILURE",
+      "pc_adjustment_set": [
+        "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING"
+      ],
+      "fci_marks": {
+        "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": 0.0447,
+      "adjusted_pc": 0.0504,
+      "adjusted_definite_parents": 0.0447,
+      "adjusted_possible_parents": 0.0447,
+      "risk_ratio_pc": 1.242,
+      "e_value_pc": 1.791,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "DECISION_INAPPROPRIATE",
+      "pc_adjustment_set": [
+        "LATENT_MECHANICAL_DEFECT",
+        "LOSS_OF_CONTROL_INFLIGHT",
+        "ENGINE_FAILURE"
+      ],
+      "fci_marks": {
+        "LATENT_MECHANICAL_DEFECT": "z<->X",
+        "LOSS_OF_CONTROL_INFLIGHT": "z<->X",
+        "ENGINE_FAILURE": "X->z"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": -0.0214,
+      "adjusted_pc": 0.0103,
+      "adjusted_definite_parents": -0.0214,
+      "adjusted_possible_parents": -0.0214,
+      "risk_ratio_pc": 1.049,
+      "e_value_pc": 1.276,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "PERCEPTION_FAILURE",
+      "pc_adjustment_set": [
+        "INSTRUMENT_OR_AVIONICS_FAILURE"
+      ],
+      "fci_marks": {
+        "INSTRUMENT_OR_AVIONICS_FAILURE": "X o->z"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": false,
+      "crude": 0.0171,
+      "adjusted_pc": -0.0101,
+      "adjusted_definite_parents": 0.0171,
+      "adjusted_possible_parents": 0.0171,
+      "risk_ratio_pc": 0.953,
+      "e_value_pc": 1.278,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "INFLIGHT_FIRE_OR_SMOKE",
+      "pc_adjustment_set": [
+        "DESIGN_DEFECT_LATENT"
+      ],
+      "fci_marks": {
+        "DESIGN_DEFECT_LATENT": "z o->X"
+      },
+      "n_definite": 0,
+      "n_possible": 1,
+      "bidirected_into_X": false,
+      "crude": -0.0055,
+      "adjusted_pc": -0.0138,
+      "adjusted_definite_parents": -0.0055,
+      "adjusted_possible_parents": -0.0138,
+      "risk_ratio_pc": 0.936,
+      "e_value_pc": 1.34,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "CONTROL_INPUT_IMPROPER",
+      "pc_adjustment_set": [
+        "PROCEDURE_NOT_FOLLOWED",
+        "PERCEPTION_FAILURE",
+        "ADVERSE_WIND_CONDITION"
+      ],
+      "fci_marks": {
+        "PROCEDURE_NOT_FOLLOWED": "z<->X",
+        "PERCEPTION_FAILURE": "z o->X",
+        "ADVERSE_WIND_CONDITION": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 1,
+      "bidirected_into_X": true,
+      "crude": -0.0312,
+      "adjusted_pc": -0.0356,
+      "adjusted_definite_parents": -0.0312,
+      "adjusted_possible_parents": -0.0338,
+      "risk_ratio_pc": 0.842,
+      "e_value_pc": 1.661,
+      "e_value_ci_bound": 1.0
+    },
+    {
+      "factor": "OTHER_SYSTEM_FAILURE",
+      "pc_adjustment_set": [
+        "LATENT_MECHANICAL_DEFECT"
+      ],
+      "fci_marks": {
+        "LATENT_MECHANICAL_DEFECT": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": -0.0473,
+      "adjusted_pc": -0.0489,
+      "adjusted_definite_parents": -0.0473,
+      "adjusted_possible_parents": -0.0473,
+      "risk_ratio_pc": 0.79,
+      "e_value_pc": 1.846,
+      "e_value_ci_bound": 1.168
+    },
+    {
+      "factor": "CONTROL_SURFACE_ANOMALY",
+      "pc_adjustment_set": [
+        "OTHER_SYSTEM_FAILURE",
+        "LANDING_GEAR_ANOMALY"
+      ],
+      "fci_marks": {
+        "OTHER_SYSTEM_FAILURE": "z<->X",
+        "LANDING_GEAR_ANOMALY": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": -0.0001,
+      "adjusted_pc": -0.0703,
+      "adjusted_definite_parents": -0.0001,
+      "adjusted_possible_parents": -0.0001,
+      "risk_ratio_pc": 0.714,
+      "e_value_pc": 2.148,
+      "e_value_ci_bound": 1.361
+    },
+    {
+      "factor": "PROCEDURE_NOT_FOLLOWED",
+      "pc_adjustment_set": [
+        "OTHER_SYSTEM_FAILURE",
+        "LOSS_OF_CONTROL_GROUND"
+      ],
+      "fci_marks": {
+        "OTHER_SYSTEM_FAILURE": "z<->X",
+        "LOSS_OF_CONTROL_GROUND": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": -0.0878,
+      "adjusted_pc": -0.0862,
+      "adjusted_definite_parents": -0.0878,
+      "adjusted_possible_parents": -0.0878,
+      "risk_ratio_pc": 0.652,
+      "e_value_pc": 2.436,
+      "e_value_ci_bound": 1.726
+    },
+    {
+      "factor": "LOSS_OF_CONTROL_GROUND",
+      "pc_adjustment_set": [
+        "LANDING_GEAR_ANOMALY",
+        "ADVERSE_WIND_CONDITION"
+      ],
+      "fci_marks": {
+        "LANDING_GEAR_ANOMALY": "z->X",
+        "ADVERSE_WIND_CONDITION": "z<->X"
+      },
+      "n_definite": 1,
+      "n_possible": 1,
+      "bidirected_into_X": true,
+      "crude": -0.1944,
+      "adjusted_pc": -0.1452,
+      "adjusted_definite_parents": -0.1505,
+      "adjusted_possible_parents": -0.1505,
+      "risk_ratio_pc": 0.357,
+      "e_value_pc": 5.051,
+      "e_value_ci_bound": 2.712
+    },
+    {
+      "factor": "LANDING_GEAR_ANOMALY",
+      "pc_adjustment_set": [
+        "OTHER_SYSTEM_FAILURE"
+      ],
+      "fci_marks": {
+        "OTHER_SYSTEM_FAILURE": "z<->X"
+      },
+      "n_definite": 0,
+      "n_possible": 0,
+      "bidirected_into_X": true,
+      "crude": -0.2614,
+      "adjusted_pc": -0.2669,
+      "adjusted_definite_parents": -0.2614,
+      "adjusted_possible_parents": -0.2614,
+      "risk_ratio_pc": 0.08,
+      "e_value_pc": 24.364,
+      "e_value_ci_bound": 10.388
+    }
+  ]
+}

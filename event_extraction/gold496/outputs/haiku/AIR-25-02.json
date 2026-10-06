@@ -1,0 +1,144 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Left hydraulic system failure",
+      "trigger": "received an engine indication and crew alerting system message indicating a failure of the left hydraulic system shortly after takeoff",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Unable to lower landing gear after multiple attempts",
+      "trigger": "was unable to lower the landing gear. After multiple attempts to extend the gear were unsuccessful",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "left hydraulic system failure resulted in inability to extend landing gear"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Loss of control during landing; unable to stop; aircraft slides off runway",
+      "trigger": "During the emergency landing, the flight crew was unable to stop the airplane, and it slid off the departure end of runway 20",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "left hydraulic system failure affected braking capability"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "unable to lower landing gear, requiring gear-up landing with limited braking"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted antennas and sustained substantial damage",
+      "trigger": "impacted localizer antennas; the airplane sustained substantial damage",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "aircraft sliding off runway resulted in impact with localizer antennas and substantial damage"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "L1 deployment strap incorrectly routed",
+      "trigger": "the deployment strap was incorrectly routed, which prevented the door from opening",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "L1 door rotates halfway open but unable to fully open",
+      "trigger": "The door rotated halfway open but would not open fully",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "the deployment strap was incorrectly routed, which prevented the door from opening"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "L1 evacuation slide fails to deploy",
+      "trigger": "the slide did not deploy",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "door unable to fully open prevented slide deployment"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "R1 bannis latch noncompliant with only one link instead of required three",
+      "trigger": "the R1 bannis latch on the accident airplane had only one link and lacked other required hardware",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "R1 door lodges on slide pack",
+      "trigger": "the R1 door...lodged on the slide pack",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "R1 bannis latch had only one link and lacked other required hardware, which caused the slide pack to jam"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "SUCCESSFUL_RECOVERY",
+      "label": "R1 door forcibly opened; slide deploys and all occupants evacuate successfully without injury",
+      "trigger": "The jumpseat occupant used force to open the R1 door, and the slide deployed normally. The flight crew and the jumpseat occupant exited the airplane via the R1 door and slide. Both flight crewmembers and the jumpseat occupant were uninjured.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "jumpseat occupant used force to open the jammed R1 door, the slide deployed, and all occupants exited safely without injury"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

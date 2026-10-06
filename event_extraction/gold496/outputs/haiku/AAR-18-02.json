@@ -1,0 +1,149 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Inadequate crew resource management training",
+      "trigger": "CRM training did not address aeronautical decision-making and judgment tailored to Hageland operations, did not specify PF/PM roles and responsibilities",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Inadequate CFIT-avoidance training not tailored to operations",
+      "trigger": "CFIT training material extracted from 20-year-old training aid, not tailored to Alaska operations or current TAWS technologies",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Hageland allowed routine inhibition of TAWS alerts contrary to manufacturer guidance",
+      "trigger": "Pilots routinely inhibited TAWS alerts when operating VFR below TAWS RTC; company had no formal policy regarding terrain inhibit switch use",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flight crew decided to operate under VFR despite marginal conditions",
+      "trigger": "OCA initially recommended IFR due to rain near PAQH; PIC and OCA agreed flight could proceed under VFR; flight had ceiling and visibility near minimums",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "inadequate CRM training contributed to poor decision-making"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "inadequate CFIT training meant crew unprepared for deteriorating weather"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Flight crew encountered instrument meteorological conditions while operating VFR",
+      "trigger": "Aircraft proceeded at 1,000 MSL altitude in marginal conditions and likely entered IMC; second company flight crew diverted around clouds on similar route",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "decision to continue VFR flight into deteriorating visibility led to encountering IMC"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Flight crew likely inhibited TAWS terrain alert system",
+      "trigger": "GA-EGPWS simulation showed alerts would sound continuously; wreckage exam showed no mechanical inhibit preventing inhibition; second company flight with same practice inhibited alerts",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Hageland's routine allowance of TAWS inhibition during VFR ops motivated crew to inhibit"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "flying at low altitude below TAWS RTC meant continuous alerts without inhibition"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Flight crew failed to execute immediate escape maneuver upon entering IMC",
+      "trigger": "Pilots did not execute 180-degree turn or climb to request IFR clearance as specified in Hageland CFIT procedures; airplane climbed aggressively toward terrain instead",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "inadequate CRM training prevented effective crew coordination in emergency"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "inadequate CFIT training left crew unprepared for immediate recognition and escape response"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "IMC encounter created emergency situation requiring escape maneuver"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "likely inhibited TAWS alerts removed warning system that could have prompted immediate escape action"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft collided with steep mountainous terrain",
+      "trigger": "Aircraft struck 2,300 ft MSL ridge; initial impact on northwest ridge face; main wreckage on southeast slope",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "failure to execute escape maneuver allowed aircraft to descend into terrain"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All three occupants killed",
+      "trigger": "The two commercial pilots and the passenger were killed, and the airplane was destroyed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "collision with high-altitude mountainous terrain at high speed resulted in fatal impact"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

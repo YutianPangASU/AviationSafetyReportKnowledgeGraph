@@ -1,0 +1,173 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "RUNWAY_CONDITION_HAZARD",
+      "label": "Runway 4L contaminated with packed snow and ice",
+      "trigger": "patches of one inch-deep compacted snow and ice. Runway sanded.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Crosswind approximately 10-12 knots at takeoff",
+      "trigger": "wind three three zero at one one",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Tower Air procedures encouraged tiller use during slippery runway takeoff",
+      "trigger": "Tower Air procedure to guard the tiller during takeoff until 80 knots",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Inadequate B-747 simulator fidelity for slippery runway operations",
+      "trigger": "B-747 simulators available for flightcrew training were not capable of adequately simulating the more realistic slippery runway scenarios",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Excessive nosewheel steering tiller input at beginning of takeoff roll",
+      "trigger": "added increasing amounts of tiller steering input during the loss of control sequence",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "On slippery runways...overcontrol of the tiller is more likely"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "crosswind component at very slow airspeeds with initial downwind drift"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Tower Air procedure to guard the tiller...made overcontrol more likely"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "captain unprepared by inadequate slippery runway training"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Loss of directional control; airplane veered left",
+      "trigger": "airplane continued to turn left. He knew where the runway centerline was, but he was unable to control the direction of movement",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "nosewheel exceeded the critical angle at which the traction available for steering was maximized...the nosewheel began to skid"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain failed to reject takeoff in timely manner",
+      "trigger": "instead of rejecting the takeoff immediately after experiencing difficulty...the captain continued to attempt to regain directional control with progressively greater rudder and nosewheel steering inputs",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "loss of directional control was the condition requiring immediate rejection; captain continued attempting recovery instead"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain reapplied forward thrust during abort attempt",
+      "trigger": "the captain abandoned his attempt to reject the takeoff, at least temporarily, by restoring forward thrust",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "continuing loss of directional control led captain to try alternate recovery strategy of restoring power"
+        },
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "untimely rejection meant airplane still veering when abort was initiated; captain changed decision"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Airplane veered left and departed left edge of runway 4L",
+      "trigger": "the airplane then departed the left side of the runway",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "loss of directional control resulting in leftward veer caused airplane to cross runway edge at 2,100 feet"
+        },
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "reapplied thrust accelerated airplane as it departed runway, extending excursion distance and severity"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted terrain and objects during off-runway slide",
+      "trigger": "No. 3 and 4 engines...associated with the Nos. 3 and 4 engines. The outboard rut ended at an electric transformer. The transformer and its concrete base were destroyed...fuselage forward of the No. 2 main entry door received severe impact damage",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "runway excursion resulted in aircraft sliding through terrain with engines and airframe contacting objects"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Serious injury to flight attendant; minor injuries to 24 passengers",
+      "trigger": "24 passengers sustained minor injuries, and a flight attendant received serious injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "impact forces and loose galley equipment dislodged during impact sequence injured occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

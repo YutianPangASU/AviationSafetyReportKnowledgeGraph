@@ -1,0 +1,121 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "SabreTech and ValuJet procedures inadequate for hazardous materials handling",
+      "trigger": "Neither facility had adequate procedures, training, or oversight for chemical oxygen generators",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Oxygen generators removed and packaged without required safety caps or hazmat labels",
+      "trigger": "Generators placed in cardboard boxes with only repairable-parts tags and no hazmat identification",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Inadequate procedures and lack of supervision at SabreTech facility"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "GROUND_PERSONNEL_ERROR",
+      "label": "Generators shipped from SabreTech to ValuJet without proper hazmat documentation",
+      "trigger": "Stock clerk shipped boxes marked only as 'Oxy Canisters-Empty' without hazmat labels or notification",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Improper packaging and tagging prevented hazmat recognition by shipping personnel"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Ramp agents loaded generators aboard flight 592 without recognizing hazardous material",
+      "trigger": "Ramp agents accepted cargo without verifying contents or questioning the lack of hazmat labels",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Improper identification of cargo prevented ramp personnel from recognizing hazardous nature"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Oxygen generators activated and initiated fire in forward cargo compartment",
+      "trigger": "One or more generators activated during flight, releasing oxygen and generating extreme heat reaching 2000-3000 degrees Fahrenheit",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Generators without safety caps or protective packaging activated due to cargo movement"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Fire propagated through cargo compartment and damaged critical aircraft systems",
+      "trigger": "Fire spread with oxygen-rich environment fueling rapid propagation, destroying flight control cables and electrical wiring routed adjacent to compartment",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Sustained fire from oxygen generators damaged left-side floor beams and control cable routing"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted terrain in Everglades",
+      "trigger": "Aircraft descended in steep right bank and nose-down attitude after loss of flight control authority",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Complete loss of flight control resulted in uncontrolled descent to ground impact"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All 110 occupants killed in crash",
+      "trigger": "High-speed impact with terrain at steep angle was not survivable",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Impact with swamp at high speed resulted in total loss of all persons aboard"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

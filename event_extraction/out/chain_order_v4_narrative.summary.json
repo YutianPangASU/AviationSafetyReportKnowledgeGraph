@@ -1,0 +1,19 @@
+{
+  "tag": "v4-narrative",
+  "extraction_file": "event_extraction/out/calibration_2k_v4_narrative.jsonl",
+  "all_pairs": {
+    "n_records_scored": 1726,
+    "n_pairs": 9968,
+    "pooled_kendall_tau": 0.3051765650080257,
+    "mean_per_record_tau": 0.3524596220705313,
+    "frac_records_tau_ge_0.75": 0.39339513325608344
+  },
+  "cross_occurrence": {
+    "n_records_scored": 899,
+    "n_pairs": 4291,
+    "pooled_kendall_tau": 0.8158937310650198,
+    "mean_per_record_tau": 0.8159274798236733,
+    "frac_records_tau_ge_0.75": 0.8309232480533927
+  },
+  "headline_tau": 0.8158937310650198
+}

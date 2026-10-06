@@ -1,0 +1,206 @@
+{
+  "n_records": 55940,
+  "n_causal_factors_present": 47,
+  "n_causal_edges_distinct": 1309,
+  "n_causal_edges_min_support": 434,
+  "severity_distribution": {
+    "aircraft_damage_only": 29553,
+    "minor_injury": 9289,
+    "fatal": 8375,
+    "serious_injury": 6255,
+    "no_damage_or_injury": 2432,
+    "unknown": 36
+  },
+  "baseline_p_serious_or_fatal": 0.2615,
+  "records_per_category": {
+    "HFACS_CAT_01": 7627,
+    "HFACS_CAT_02": 6247,
+    "UNCATEGORIZED:FAA_AIDS": 4573,
+    "USOS": 4092,
+    "LOC-I": 3852,
+    "AIDS_PILOT": 3748,
+    "LOC-G": 3048,
+    "ARC": 2774,
+    "AIDS_\\N": 2440,
+    "WSTRW": 2033,
+    "SCF-PP": 1842,
+    "ICE": 1465,
+    "CFIT": 1448,
+    "HFACS_CAT_03": 1434,
+    "HFACS_CAT_05": 1253,
+    "WX": 1230,
+    "MAC": 1128,
+    "AIDS_OPDEF": 900,
+    "RE": 696,
+    "UNCATEGORIZED:NTSB_ASRS": 664,
+    "GCOL": 642,
+    "RI": 445,
+    "AIDS_MISCELLANEOUS": 339,
+    "BIRD": 304,
+    "CTOL": 168,
+    "AIDS_IMPROPER": 166,
+    "AIDS_UNDETERMINED": 163,
+    "OTHER:NTSB-232": 154,
+    "FUEL": 139,
+    "OTHER:NTSB-271": 132,
+    "OTHER:NTSB-190": 124,
+    "OTHER:NTSB-171": 102,
+    "OTHER:NTSB-191": 85,
+    "AIDS_INADEQUATE": 57,
+    "OTHER:NTSB-192": 54,
+    "OTHER:NTSB-351": 52,
+    "EVAC": 48,
+    "OTHER:NTSB-353": 29,
+    "HFACS_CAT_04": 29,
+    "ATM": 27
+  },
+  "top_factors": {
+    "GROUND_IMPACT": 36301,
+    "CONTROL_INPUT_IMPROPER": 28006,
+    "INJURY_OR_FATALITY": 26875,
+    "DECISION_INAPPROPRIATE": 21932,
+    "ENGINE_FAILURE": 16406,
+    "PROCEDURE_NOT_FOLLOWED": 16385,
+    "GROUND_COLLISION": 11999,
+    "LOSS_OF_CONTROL_INFLIGHT": 9813,
+    "PERCEPTION_FAILURE": 9301,
+    "ADVERSE_WIND_CONDITION": 8768,
+    "LOSS_OF_CONTROL_GROUND": 8635,
+    "LATENT_MECHANICAL_DEFECT": 8356,
+    "RUNWAY_EXCURSION_OR_OVERRUN": 8040,
+    "STALL": 6641,
+    "MAINTENANCE_INADEQUATE": 5641,
+    "FUEL_EXHAUSTION_OR_STARVATION": 5414,
+    "RUNWAY_CONDITION_HAZARD": 4378,
+    "LANDING_GEAR_ANOMALY": 4321,
+    "OTHER_SYSTEM_FAILURE": 3652,
+    "TERRAIN_OR_OBSTACLE_PROXIMITY": 3028
+  },
+  "top_edges": [
+    {
+      "src": "ENGINE_FAILURE",
+      "dst": "DECISION_INAPPROPRIATE",
+      "support": 6544
+    },
+    {
+      "src": "CONTROL_INPUT_IMPROPER",
+      "dst": "LOSS_OF_CONTROL_GROUND",
+      "support": 5557
+    },
+    {
+      "src": "FUEL_EXHAUSTION_OR_STARVATION",
+      "dst": "ENGINE_FAILURE",
+      "support": 5051
+    },
+    {
+      "src": "CONTROL_INPUT_IMPROPER",
+      "dst": "STALL",
+      "support": 4357
+    },
+    {
+      "src": "DECISION_INAPPROPRIATE",
+      "dst": "CONTROL_INPUT_IMPROPER",
+      "support": 4343
+    },
+    {
+      "src": "ADVERSE_WIND_CONDITION",
+      "dst": "CONTROL_INPUT_IMPROPER",
+      "support": 4198
+    },
+    {
+      "src": "ENGINE_FAILURE",
+      "dst": "PROCEDURE_NOT_FOLLOWED",
+      "support": 3824
+    },
+    {
+      "src": "PERCEPTION_FAILURE",
+      "dst": "CONTROL_INPUT_IMPROPER",
+      "support": 3480
+    },
+    {
+      "src": "MAINTENANCE_INADEQUATE",
+      "dst": "LATENT_MECHANICAL_DEFECT",
+      "support": 2569
+    },
+    {
+      "src": "STALL",
+      "dst": "LOSS_OF_CONTROL_INFLIGHT",
+      "support": 2428
+    },
+    {
+      "src": "LATENT_MECHANICAL_DEFECT",
+      "dst": "ENGINE_FAILURE",
+      "support": 2331
+    },
+    {
+      "src": "DECISION_INAPPROPRIATE",
+      "dst": "FUEL_EXHAUSTION_OR_STARVATION",
+      "support": 1850
+    },
+    {
+      "src": "ENGINE_FAILURE",
+      "dst": "CONTROL_INPUT_IMPROPER",
+      "support": 1835
+    },
+    {
+      "src": "PROCEDURE_NOT_FOLLOWED",
+      "dst": "FUEL_EXHAUSTION_OR_STARVATION",
+      "support": 1442
+    },
+    {
+      "src": "CONTROL_INPUT_IMPROPER",
+      "dst": "LOSS_OF_CONTROL_INFLIGHT",
+      "support": 1430
+    },
+    {
+      "src": "PROCEDURE_NOT_FOLLOWED",
+      "dst": "CONTROL_INPUT_IMPROPER",
+      "support": 1368
+    },
+    {
+      "src": "ADVERSE_WIND_CONDITION",
+      "dst": "DECISION_INAPPROPRIATE",
+      "support": 1312
+    },
+    {
+      "src": "DECISION_INAPPROPRIATE",
+      "dst": "PROCEDURE_NOT_FOLLOWED",
+      "support": 1306
+    },
+    {
+      "src": "CONTROL_INPUT_IMPROPER",
+      "dst": "PROCEDURE_NOT_FOLLOWED",
+      "support": 1207
+    },
+    {
+      "src": "PROCEDURE_NOT_FOLLOWED",
+      "dst": "ENGINE_FAILURE",
+      "support": 1137
+    },
+    {
+      "src": "LOW_VISIBILITY_OR_IMC",
+      "dst": "DECISION_INAPPROPRIATE",
+      "support": 1131
+    },
+    {
+      "src": "DECISION_INAPPROPRIATE",
+      "dst": "PERCEPTION_FAILURE",
+      "support": 1044
+    },
+    {
+      "src": "WIND_SHEAR_OR_GUST",
+      "dst": "CONTROL_INPUT_IMPROPER",
+      "support": 1037
+    },
+    {
+      "src": "OTHER_SYSTEM_FAILURE",
+      "dst": "ENGINE_FAILURE",
+      "support": 1035
+    },
+    {
+      "src": "CONTROL_INPUT_IMPROPER",
+      "dst": "DECISION_INAPPROPRIATE",
+      "support": 1019
+    }
+  ]
+}

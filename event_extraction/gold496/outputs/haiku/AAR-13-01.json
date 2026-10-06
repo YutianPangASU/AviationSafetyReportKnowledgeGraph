@@ -1,0 +1,149 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Mechanic fatigued from unscheduled early shift with insufficient sleep",
+      "trigger": "He reported to work about 0550 on December 6... went to bed about 2200 instead of his normal 0200... did not fall asleep until close to 0000... awoke about 0500",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Inspector fatigued from early shift and extended duty day",
+      "trigger": "He went to bed about 2100... awoke about 0400... reported to work about 0530... completed the inspection and ground run about 1800, at the end of a 12-hour shift",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Maintenance documentation lacked individual step verification",
+      "trigger": "the company's 100-hour inspection paperwork had only one place for the inspector to sign off for the overall fore/aft servo installation rather than individual places for the inspector to sign off for each step",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Mechanic improperly secured servo connection hardware: reused degraded nut, failed to install split pin",
+      "trigger": "the hardware was improperly secured during maintenance... The bolt, washer, self-locking nut, and split pin that normally secure the input rod were not found",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Contributing to the improper or lack of installation of the split pin was the mechanic's fatigue"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "lack of clearly delineated maintenance task steps to follow"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Quality control inspector and check pilot failed to detect improper servo installation",
+      "trigger": "the inspector stated that he inspected the fore/aft servo input rod, hardware, and split pin... However... the evidence indicates that the split pin was installed improperly or was not present",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Contributing to the inadequate postmaintenance inspection was the inspector's fatigue"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "lack of clearly delineated inspection steps to follow"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Self-locking nut loosened and separated from bolt; bolt disconnected from servo in flight",
+      "trigger": "in the high-vibration environment of helicopter operation, a degraded self-locking nut could become loose and unthread by vibration until it falls off the bolt... the bolt disconnected, and the input rod separated from the linkage while the helicopter was in flight",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "if there were no split pin behind an airworthy self-locking nut... no backup mechanism for a self-locking nut with degraded locking ability was in place"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Fore/aft servo control input rod separated from servo connection",
+      "trigger": "the bolt disconnected, and the input rod separated from the linkage",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "the bolt disconnected, and the input rod separated from the linkage while the helicopter was in flight"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of pitch control; helicopter climbed unexpectedly, turned sharply, and descended rapidly",
+      "trigger": "the helicopter unexpectedly climbed about 600 feet, turned about 90° to the left, and then descended about 800 feet... the helicopter became uncontrollable",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "the loss of control of the fore/aft servo would most likely result in a catastrophic failure of the helicopter... at which point the helicopter became uncontrollable"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter impacted mountainous terrain in nose-low attitude",
+      "trigger": "crashed in mountainous terrain about 14 miles east of Las Vegas... The helicopter impacted the terrain in a nose-low attitude",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "descended at a rate of at least 2,500 feet per minute to impact"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and four passengers killed; aircraft destroyed",
+      "trigger": "The pilot and four passengers were killed, and the helicopter was destroyed by impact forces and postimpact fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "the helicopter crashed in mountainous terrain, resulting in fatalities"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

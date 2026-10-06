@@ -1,0 +1,139 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Shallow temperature inversion and high wind shear at FL 430",
+      "trigger": "a shallow temperature inversion layer, possibly an upper front, was reported at Bootheville, Appalachicola, and Tampa near the flight level of N125NE... maximum horizontal wind shear between Appalachicola and Tampa was 37 knots per 150 miles",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Learjet 25D marginal controllability in high-Mach regime",
+      "trigger": "the aircraft's marginal controllability characteristics when flown at and beyond the boundary of its high altitude speed envelope",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Unauthorized overspeed warning horn cut-out switch installed",
+      "trigger": "N125NE was equipped with an overspeed warning horn cut-out switch, an unauthorized modification",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "TURBULENCE_ENCOUNTER",
+      "label": "Moderate to severe clear air turbulence causing pitch upset and speed increase to Mach 0.81",
+      "trigger": "an unexpected encounter with moderate to severe clear air turbulence... Within 8 seconds after burst of static, calculated speed of aircraft was Mach 0.81, a 0.04 Mach increase",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "such an inversion layer, or upper front, is often considered an indication of clear air turbulence"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Overspeed warning horn did not sound when aircraft exceeded Mach limit",
+      "trigger": "The lack of the Mach overspeed warning sound on the ATC tape probably indicates that the warning horn was disabled because of the cut-out switch",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "the overspeed warning horn cut-out switch resulted in the absence of an overspeed warning"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Crew made improper response: aggressive control inputs and spoiler deployment at high speed",
+      "trigger": "copilot made abrupt control movements in response to the upset; At 1204:00, pilot stated, 'put-out the spoilers'",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "turbulence upset prompted aggressive control response from copilot"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "lack of overspeed warning delayed crew's recognition that aircraft was in overspeed condition"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Progressive loss of control in uncontrolled descent and roll",
+      "trigger": "Can't get it up...its in a spin",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "aircraft's marginal controllability at high Mach prevented recovery from upset"
+        },
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "exceeding Mach limit created aileron snatch, Mach tuck, and reduced elevator effectiveness"
+        },
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "aggressive control inputs and spoiler deployment at high speed aggravated loss of control"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Aircraft crashed into Gulf of Mexico",
+      "trigger": "the aircraft crashed at latitude 27°54' N and longitude 84°46' W",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "uncontrolled high-speed descent from loss of control resulted in water impact"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to pilot and copilot",
+      "trigger": "Injuries Crew Fatal 2",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "high-speed water impact resulted in fatal injuries"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,12 @@
+{
+  "tag": "sc-t07",
+  "extraction_file": "event_extraction/out/selfconsistency/calibration_2k_v4_narrative_t07.jsonl",
+  "n_records_evaluated": 1991,
+  "n_factors_total": 3465,
+  "n_factors_matched": 3143,
+  "recall": 0.907070707070707,
+  "n_events_total": 10969,
+  "n_events_matched_to_a_factor": 3323,
+  "precision": 0.30294466222992067,
+  "mean_per_record_recall": 0.8987192365645403
+}

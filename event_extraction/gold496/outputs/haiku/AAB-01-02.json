@@ -1,0 +1,91 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Pilot did not obtain updated weather briefing",
+      "trigger": "No evidence exists to indicate that the pilot sought or obtained an updated weather briefing for the accident flight later that afternoon as required by the FAA",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Pilot flew into instrument meteorological conditions",
+      "trigger": "On the accident flight, the pilot flew into instrument meteorological conditions (IMC)",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Lack of updated weather briefing meant pilot was unaware of IMC and did not reverse course"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Pilot failed to use navigation aids to monitor terrain clearance",
+      "trigger": "when he departed visual meteorological conditions and flew into IMC, he should have used the navigational aids to accurately monitor his ground track and altitude",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Flying in IMC required navigation aids for terrain awareness, but pilot did not use available GPS, VOR, and DME receivers"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot did not reverse course despite decreasing terrain clearance",
+      "trigger": "During the last few minutes of flight, when the airplane's ground clearance was rapidly decreasing, the pilot did not reverse course or take emergency action",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Pilot failed to perceive via navigation aids that terrain clearance was decreasing and did not take corrective action"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted northeast slope of Mauna Loa volcano",
+      "trigger": "crashed on the northeast slope of the Mauna Loa volcano at 10,100 feet msl",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Aircraft continued climbing into rising terrain without corrective action and struck lava-covered slope"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All occupants killed in crash and postimpact fire",
+      "trigger": "The pilot and all nine passengers on board were killed, and the airplane was destroyed by impact forces and a postimpact fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "High-altitude terrain impact destroyed aircraft completely"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,142 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Unknown ignition source in cargo container",
+      "trigger": "Secondary lithium batteries found in cargo debris; exact cause of fire could not be determined due to destruction of evidence",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "In-flight cargo fire initiates",
+      "trigger": "First officer detected odor of burning wood approximately 20 minutes before Cargo Smoke warning light activated",
+      "cause_role": "primary",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "likely lithium battery defect or undeclared hazmat in cargo"}]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Cargo container design restricts airflow and smoke spread",
+      "trigger": "Container construction resulted in restricted airflow, inhibiting fire growth and smoke detection in initial stages",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Smoke detection system inadequately certified for loaded cargo compartments",
+      "trigger": "Certification tests not conducted with cargo containers loaded; system not tested for effects of cargo on smoke detection",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Aircraft lacks on-board fire suppression system",
+      "trigger": "Class E cargo compartment required smoke detection but not fire suppression systems",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Fire smolders with limited smoke generation",
+      "trigger": "Flight engineer saw no visible smoke when checking main cargo compartment twice; fire did not generate sufficient smoke for initial detection",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "smoldering nature of fire"}, {"src": 2, "strength": "contributing", "evidence": "restricted airflow limited smoke spread"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Main cargo smoke detection system fails to alert promptly",
+      "trigger": "No Cargo Smoke warning light illuminated for approximately 20 minutes after fire initiated; smoke detectors did not detect smoke until fire breached container",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "system not certified with loaded cargo configuration"}, {"src": 5, "strength": "direct", "evidence": "limited smoke generation from smoldering fire"}]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Fire continues undetected and burns through cargo container",
+      "trigger": "Fire progressed for approximately 20 minutes before detection system activated, allowing fire to breach cargo container",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "fire continuation"}, {"src": 4, "strength": "contributing", "evidence": "absence of fire suppression system"}, {"src": 6, "strength": "direct", "evidence": "delayed detection"}]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Cargo Smoke warning light activates in cockpit",
+      "trigger": "At 23:54:42 (descending through 3,600 feet), flight engineer reported cargo smoke indication",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "fire breaches container and generates detectable smoke"}]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Lower Cargo Fire warning light activates",
+      "trigger": "Approximately 1 minute 15 seconds after main Cargo Smoke light, Lower Cargo Fire light illuminated indicating fire in aft middle compartment",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "fire spreads to lower cargo compartments"}]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "EMERGENCY_LANDING",
+      "label": "Aircraft lands safely at Philadelphia International Airport",
+      "trigger": "After warning lights activated and flight crew executed emergency procedures, aircraft landed on runway 27R at approximately 23:59",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 8, "strength": "direct", "evidence": "cargo smoke warning prompted immediate descent to airport"}, {"src": 9, "strength": "direct", "evidence": "fire warning initiated emergency landing"}]
+    },
+    {
+      "idx": 11,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Fire spreads rapidly post-landing through cargo compartment",
+      "trigger": "About 40 minutes after landing, flames observed by ARFF personnel when opening overwing hatches; fire characterized as fully involved within 2 hours",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "fire continuation from pre-landing state"}, {"src": 4, "strength": "contributing", "evidence": "lack of on-board fire suppression"}]
+    },
+    {
+      "idx": 12,
+      "class": "event",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Fire burns through fuselage crown and structures",
+      "trigger": "First complete fuselage burnthrough occurred about 2 hours after landing in crown aft of wings over cargo containers 12-14; extensive structural damage observed",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 11, "strength": "direct", "evidence": "sustained high-temperature fire spread"}]
+    },
+    {
+      "idx": 13,
+      "class": "outcome",
+      "factor_type": "unknown",
+      "label": "Aircraft destroyed by fire",
+      "trigger": "Airplane and most of cargo destroyed; fire under control approximately 04:07, by which time structural damage was extensive",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 12, "strength": "direct", "evidence": "fuselage burnthrough and structural failure from fire"}]
+    },
+    {
+      "idx": 14,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Flight crew sustains minor injuries",
+      "trigger": "Three flight crewmembers evacuated safely and sustained minor injuries from smoke inhalation; transported to local hospital for treatment",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 11, "strength": "contributing", "evidence": "smoke and fire hazard during evacuation and emergency response"}]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

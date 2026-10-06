@@ -1,0 +1,110 @@
+{
+  "runs": {
+    "base": {
+      "n_ok": 1999,
+      "median_chain_length": 5.0,
+      "recall": 0.9081,
+      "precision": 0.298
+    },
+    "run1": {
+      "n_ok": 1995,
+      "median_chain_length": 5.0,
+      "recall": 0.9105,
+      "precision": 0.3025
+    },
+    "run2": {
+      "n_ok": 1996,
+      "median_chain_length": 5.0,
+      "recall": 0.9056,
+      "precision": 0.2984
+    },
+    "run3": {
+      "n_ok": 1996,
+      "median_chain_length": 5.0,
+      "recall": 0.9091,
+      "precision": 0.3034
+    },
+    "t07": {
+      "n_ok": 1991,
+      "median_chain_length": 5.0,
+      "recall": 0.9071,
+      "precision": 0.3029
+    }
+  },
+  "pairs": {
+    "base-run1": {
+      "n_records": 1995,
+      "jaccard_mean": 0.7893,
+      "jaccard_median": 0.8,
+      "jaccard_at_least_0.5": 0.9378,
+      "primary_cause_agreement": 0.844,
+      "mean_abs_length_diff": 0.537
+    },
+    "base-run2": {
+      "n_records": 1996,
+      "jaccard_mean": 0.7894,
+      "jaccard_median": 0.8333,
+      "jaccard_at_least_0.5": 0.9364,
+      "primary_cause_agreement": 0.8276,
+      "mean_abs_length_diff": 0.543
+    },
+    "base-run3": {
+      "n_records": 1996,
+      "jaccard_mean": 0.7931,
+      "jaccard_median": 0.8333,
+      "jaccard_at_least_0.5": 0.9294,
+      "primary_cause_agreement": 0.832,
+      "mean_abs_length_diff": 0.517
+    },
+    "run1-run2": {
+      "n_records": 1992,
+      "jaccard_mean": 0.8038,
+      "jaccard_median": 0.8333,
+      "jaccard_at_least_0.5": 0.9362,
+      "primary_cause_agreement": 0.8513,
+      "mean_abs_length_diff": 0.492
+    },
+    "run1-run3": {
+      "n_records": 1992,
+      "jaccard_mean": 0.8142,
+      "jaccard_median": 0.8333,
+      "jaccard_at_least_0.5": 0.9463,
+      "primary_cause_agreement": 0.8607,
+      "mean_abs_length_diff": 0.478
+    },
+    "run2-run3": {
+      "n_records": 1994,
+      "jaccard_mean": 0.8109,
+      "jaccard_median": 0.8333,
+      "jaccard_at_least_0.5": 0.9393,
+      "primary_cause_agreement": 0.8564,
+      "mean_abs_length_diff": 0.478
+    },
+    "base-t07": {
+      "n_records": 1990,
+      "jaccard_mean": 0.7154,
+      "jaccard_median": 0.7143,
+      "jaccard_at_least_0.5": 0.8784,
+      "primary_cause_agreement": 0.7511,
+      "mean_abs_length_diff": 0.684
+    },
+    "run1-t07": {
+      "n_records": 1987,
+      "jaccard_mean": 0.7189,
+      "jaccard_median": 0.7143,
+      "jaccard_at_least_0.5": 0.8691,
+      "primary_cause_agreement": 0.7586,
+      "mean_abs_length_diff": 0.666
+    }
+  },
+  "summary": {
+    "production_temperature_pairs": 6,
+    "jaccard_mean_over_pairs": 0.8001,
+    "primary_agreement_over_pairs": 0.8453,
+    "recall_range_production": [
+      0.9056,
+      0.9105
+    ],
+    "recall_t07": 0.9071
+  }
+}

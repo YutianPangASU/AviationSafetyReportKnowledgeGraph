@@ -1,0 +1,124 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "King Air crew failed to detect 1900C via radio monitoring and visual scanning",
+      "trigger": "failure of the pilots in the King Air A90 to effectively monitor the common traffic advisory frequency or to properly scan for traffic",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Cherokee pilot made unnecessary radio transmission",
+      "trigger": "Cherokee pilot's interrupted radio transmission",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "1900C crew mistook Cherokee transmission for King Air response",
+      "trigger": "misunderstood the transmission as an indication from the King Air that it would not take off until after flight 5925 had cleared the runway",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Cherokee pilot's interrupted radio transmission, which led to the Beech 1900C pilot's misunderstanding"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "GROUND_COLLISION",
+      "label": "Collision at runway intersection",
+      "trigger": "collided at Quincy Municipal Airport...at the intersection of the two runways",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "resulting in their commencing a takeoff roll when the Beech 1900C was landing on an intersecting runway"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "mistakenly believed that the King Air was not planning to take off until after flight 5925 had cleared the runway"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Post-impact fire with smoke and toxic fumes",
+      "trigger": "the intensity of the immediately resulting fire",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "collision resulted in fire"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "condition",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Air stair door could not be opened",
+      "trigger": "the failure of the air stair door on the Beech 1900C to be opened",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "accident caused deformation of the door/frame system"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Lack of on-airport aircraft rescue and firefighting services",
+      "trigger": "the lack of adequate aircraft rescue and firefighting services",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Deaths of all occupants from smoke inhalation and thermal injuries",
+      "trigger": "cause of death...was either carbon monoxide intoxication from inhalation of smoke and soot from the postimpact fire or inhalation of products of combustion",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "occupants succumbed to inhalation and thermal injuries from the postimpact fire"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "the occupants did not escape from the airplane; the air stair door was not opened"
+        },
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "lack of adequate on-airport ARFF services prevented early fire suppression and rescue"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

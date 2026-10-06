@@ -1,0 +1,124 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilot inadequate training in King Air operations",
+      "trigger": "Pilot received only ~53 hours in King Air as student pilot, then only ~1 hour of company training at OPC before flying commercial parachute operations",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Twisted left wing from unrepaired prior accident damage",
+      "trigger": "Wrinkles visible in left wing top skin from July 2016 accident, indicating wing twist with leading edge up; damage unrepaired; aircraft required full left-wing-down aileron trim to fly level",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Aircraft center of gravity near or beyond aft limit",
+      "trigger": "OPC's weight and balance calculation method excluded parachute gear weights; estimated CG at 156.7 inches with aft limit at 160.4 inches; multiple unbuckled passengers increased risk of further aft weight shift",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Aggressive pitch-up and high-bank left turn immediately after rotation",
+      "trigger": "Witness with military pilot experience observed pilot 'pulled up and to the left in one motion' with estimated 70+ degree bank angle at 10 feet above ground; multiple other witnesses reported aggressive takeoffs with bank angles exceeding 45 degrees",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Inadequate training and experience contributed to pilot's aggressive takeoff technique and poor judgment in maneuver execution"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Accelerated stall during aggressive pitch and bank maneuver",
+      "trigger": "Aggressive pitch-up and simultaneous high-bank turn at low altitude caused rapid angle of attack increase; aircraft stalled at 100-200 feet altitude",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Aggressive pitch and bank maneuver caused rapid increase in angle of attack exceeding stall angle"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Aft CG reduced control stability and produced lighter control column forces, predisposing pilot to overcontrol"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Twisted left wing reduced stall margin; left wing would stall at lower angle of attack than right wing"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft rolled to left and became inverted at low altitude",
+      "trigger": "Left wing stalled first; aircraft rolled inverted in 45-degree nose-down attitude at approximately 100-200 feet altitude; trajectory perpendicular to runway indicated unrecoverable flight path",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Accelerated stall resulted in aerodynamic stall and subsequent loss of control"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Twisted left wing caused left wing to stall first, initiating left roll that progressed to inversion"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft ground impact",
+      "trigger": "Aircraft struck ground inverted in 45-degree nose-down attitude, left wing contacted first; impact location 630 feet northeast of runway departure end; postcrash fire consumed most fuselage",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Loss of control at 100-200 feet altitude made recovery impossible; aircraft descended inverted to ground impact"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and 10 passengers fatally injured",
+      "trigger": "All 11 aircraft occupants killed in high-energy ground impact and postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "High-energy inverted nose-down ground impact at low altitude fatal to all occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

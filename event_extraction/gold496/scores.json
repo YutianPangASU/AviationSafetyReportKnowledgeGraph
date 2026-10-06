@@ -1,0 +1,29 @@
+{
+  "opus": {
+    "n_outputs": 157,
+    "chain_len_median": 13,
+    "chain_len_mean": 12.92,
+    "severity_agreement": 0.954,
+    "judged_reports": 149,
+    "cause_recall_macro": 0.944,
+    "node_support_macro": 0.938
+  },
+  "sonnet": {
+    "n_outputs": 157,
+    "chain_len_median": 10,
+    "chain_len_mean": 9.63,
+    "severity_agreement": 0.954,
+    "judged_reports": 149,
+    "cause_recall_macro": 0.898,
+    "node_support_macro": 0.935
+  },
+  "haiku": {
+    "n_outputs": 156,
+    "chain_len_median": 8.0,
+    "chain_len_mean": 8.35,
+    "severity_agreement": 0.953,
+    "judged_reports": 148,
+    "cause_recall_macro": 0.787,
+    "node_support_macro": 0.931
+  }
+}

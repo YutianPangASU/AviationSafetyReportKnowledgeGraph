@@ -1,0 +1,140 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "ace_graph/schema_v4.json",
+  "title": "ACE-Graph extraction schema v4 — ordered causal chain",
+  "description": "v4 re-targets extraction from a free-form node/edge graph to an ordered causal chain. Causality is encoded as per-node caused_by back-references restricted to earlier indices (acyclic by construction; the runner validates monotonicity, which JSON Schema cannot express). The 17-type edge vocabulary collapses to a 2-value link strength aligned with NTSB Cause_Factor C/F. Conditions are first-class causal factors with the same closed-vocabulary treatment as events. Outcomes are terminal-only chain nodes plus a record-level outcome_severity. Entities, STAMP/UCA, AcciMap and per-event severity fields are dropped (haem/family is derivable from factor_type; severity lives at record level). The schema deliberately avoids oneOf node discrimination — v3's enum drift traced to xgrammar's handling of oneOf.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["chain", "outcome_severity"],
+  "properties": {
+    "chain": {
+      "type": "array",
+      "maxItems": 24,
+      "items": { "$ref": "#/$defs/ChainNode" }
+    },
+    "outcome_severity": {
+      "description": "Highest consequence of the occurrence, record-level.",
+      "enum": ["fatal", "serious_injury", "minor_injury", "aircraft_damage_only", "no_damage_or_injury", "unknown"]
+    }
+  },
+  "$defs": {
+    "ChainNode": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["idx", "class", "factor_type", "trigger", "phase_of_flight", "cause_role", "caused_by"],
+      "properties": {
+        "idx": {
+          "description": "Position in the chain, 0-based, MUST equal the node's array position. Chain order is temporal/causal: earliest factor first, terminal outcome last.",
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 23
+        },
+        "class": {
+          "description": "condition = pre-existing/ambient state; event = action or state change in the sequence; outcome = terminal consequence (outcomes may cause only other outcomes).",
+          "enum": ["condition", "event", "outcome"]
+        },
+        "factor_type": {
+          "description": "Closed 57-value causal-factor vocabulary: 35 causal events + 12 conditions + 9 outcomes + unknown. The Stage-3/4 aggregation variable.",
+          "enum": [
+            "DECISION_INAPPROPRIATE",
+            "CONTROL_INPUT_IMPROPER",
+            "PROCEDURE_NOT_FOLLOWED",
+            "PERCEPTION_FAILURE",
+            "SPATIAL_DISORIENTATION",
+            "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+            "TRAINING_OR_CURRENCY_GAP",
+            "CREW_COORDINATION_FAILURE",
+            "ATC_OR_DISPATCH_INADEQUATE",
+            "GROUND_PERSONNEL_ERROR",
+            "ENGINE_FAILURE",
+            "FUEL_SYSTEM_ANOMALY",
+            "AIRFRAME_STRUCTURAL_FAILURE",
+            "CONTROL_SURFACE_ANOMALY",
+            "INSTRUMENT_OR_AVIONICS_FAILURE",
+            "LANDING_GEAR_ANOMALY",
+            "AUTOMATION_ANOMALY",
+            "INFLIGHT_FIRE_OR_SMOKE",
+            "OTHER_SYSTEM_FAILURE",
+            "ICING_ENCOUNTER",
+            "TURBULENCE_ENCOUNTER",
+            "THUNDERSTORM_OR_CONVECTIVE",
+            "LOW_VISIBILITY_OR_IMC",
+            "WIND_SHEAR_OR_GUST",
+            "BIRD_OR_WILDLIFE_STRIKE",
+            "TERRAIN_OR_OBSTACLE_PROXIMITY",
+            "RUNWAY_CONDITION_HAZARD",
+            "MAINTENANCE_INADEQUATE",
+            "ORG_OR_REGULATORY_INADEQUATE",
+            "DESIGN_DEFECT_LATENT",
+            "STALL",
+            "LOSS_OF_CONTROL_INFLIGHT",
+            "LOSS_OF_CONTROL_GROUND",
+            "STRUCTURAL_OVERLOAD",
+            "ALTITUDE_DEVIATION_UNCONTROLLED",
+            "FUEL_EXHAUSTION_OR_STARVATION",
+            "FUEL_CONTAMINATION",
+            "CARBURETOR_OR_INDUCTION_ICING",
+            "ADVERSE_WIND_CONDITION",
+            "HIGH_DENSITY_ALTITUDE",
+            "DARK_NIGHT_OR_LOW_LIGHT",
+            "MOUNTAINOUS_OR_RISING_TERRAIN",
+            "UNSUITABLE_TERRAIN_FOR_FORCED_LANDING",
+            "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+            "LATENT_MECHANICAL_DEFECT",
+            "LOW_ALTITUDE_OPERATION",
+            "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+            "GROUND_IMPACT",
+            "WATER_IMPACT",
+            "MIDAIR_COLLISION",
+            "GROUND_COLLISION",
+            "RUNWAY_EXCURSION_OR_OVERRUN",
+            "INFLIGHT_BREAKUP",
+            "EMERGENCY_LANDING",
+            "SUCCESSFUL_RECOVERY",
+            "INJURY_OR_FATALITY",
+            "unknown"
+          ]
+        },
+        "trigger": {
+          "description": "Short phrase from/close to the narrative naming this specific factor.",
+          "type": "string",
+          "minLength": 1
+        },
+        "phase_of_flight": {
+          "enum": [
+            "preflight", "taxi", "taxi_out", "takeoff", "rotation", "initial_climb",
+            "climb", "cruise", "en_route", "descent", "approach", "final_approach",
+            "landing", "rollout", "taxi_in", "ground", "maneuvering",
+            "go_around", "emergency_descent", "maintenance", "post_impact", "unknown"
+          ]
+        },
+        "cause_role": {
+          "description": "Investigator attribution: primary = cited cause (NTSB Cause_Factor C); contributing = contributing factor (F) or causal intermediate; outcome = consequence; context = present but non-causal (rare — prefer not extracting non-causal factors at all).",
+          "enum": ["primary", "contributing", "outcome", "context"]
+        },
+        "caused_by": {
+          "description": "Causal parents of this node. Each src MUST be strictly less than this node's idx (earlier in the chain). Root causes and ambient conditions have [].",
+          "type": "array",
+          "maxItems": 4,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["src", "strength", "evidence"],
+            "properties": {
+              "src": { "type": "integer", "minimum": 0, "maximum": 22 },
+              "strength": {
+                "description": "direct = mechanistically produced the effect ('due to', 'resulted in'); contributing = raised likelihood/severity ('a factor was').",
+                "enum": ["direct", "contributing"]
+              },
+              "evidence": {
+                "description": "Short quote or close paraphrase from the narrative supporting this causal link.",
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Fan blade No. 13 fractured at root",
+      "trigger": "a fan blade fractured at its root due to a low-cycle fatigue crack",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Separated blade impacted engine fan case near 6 o'clock position",
+      "trigger": "The separated fan blade impacted the engine fan case",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "blade fractured and separated"}]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Blade impact loads transmitted to fan cowl through radial restraint fitting",
+      "trigger": "the impact of the separated fan blade with the fan case imparted significant loads into the fan cowl through the radial restraint fitting",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "radial restraint fitting transmitted impact loads to fan cowl"}]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Fan cowl skin cracked near radial restraint fitting",
+      "trigger": "cracks to form in the fan cowl skin and frames near the radial restraint fitting",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 2, "strength": "direct", "evidence": "high stresses from transmitted loads initiated cracks"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Crack propagation severed fan cowl latch assemblies",
+      "trigger": "crack propagation caused the inboard fan cowl skin to fracture around the middle and aft latch assemblies",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "cracks propagated through latch regions"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Fan cowl halves separated",
+      "trigger": "the separation of the forward latch assembly. The fan cowl then opened",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "direct", "evidence": "latch failure allowed halves to disengage"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Fan cowl portions departed airplane",
+      "trigger": "large portions of both fan cowl halves to separate and depart the airplane",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "separated halves allowed portions to depart"}]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Inboard fan cowl aft latch keeper struck fuselage near seat 14A",
+      "trigger": "the inboard fan cowl aft latch keeper impacted the fuselage near the cabin window adjacent to seat 14A",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "departed fan cowl piece impacted fuselage"}]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Cabin window at seat 14A departed airplane",
+      "trigger": "the window departed the airplane",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "fan cowl fragment impact caused window to depart"}]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Passenger fatally injured",
+      "trigger": "1 passenger received fatal injuries, blunt force trauma of the head, neck, and torso",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 8, "strength": "direct", "evidence": "passenger partially exposed through window opening to aerodynamic forces"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

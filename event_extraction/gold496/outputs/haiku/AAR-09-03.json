@@ -1,0 +1,200 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "ATSV-air filter degraded by fatigue and fretting",
+      "trigger": "the fatigue and fretting damage observed on the accident ATSV-air filter element...was so extensive that it would have been clearly visible to the naked eye",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Left engine fails to start intermittently",
+      "trigger": "the left engine did not start",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "the filter element disintegrated...allowing the end cap to become free, which blocked the air flow...causing an intermittent engine no-start condition"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Maintenance applies prying device to ATSV manual override button",
+      "trigger": "maintenance personnel...used a prying device to reach, depress and hold down the ATSV's manual override button",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "the cause of the engine no-start condition was incorrectly diagnosed, the left engine ATSV had been replaced six times"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "ATSV override pin bent; ball valve cannot seal completely",
+      "trigger": "the internal pin of the accident airplane's ATSV manual override button was found bent...preventing the ball valve from sealing completely",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "using a prying device resulted in bending the button's internal pin"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "AUTOMATION_ANOMALY",
+      "label": "ATSV opens uncommanded at high-power takeoff conditions",
+      "trigger": "during high-power or takeoff conditions, the air supply pressure to the ATSV would be sufficient to open the butterfly valve, causing the ATSV to open uncommanded during takeoff",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "a bent manual override pin can fail to retract fully, preventing the ball valve from sealing completely"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Air Turbine Starter freewheels, fails internally, and generates extreme-temperature exhaust",
+      "trigger": "the open ATSV allowed high-pressure...air to flow into the ATS, causing it to freewheel past its allowable 2-minute limit...and then sustained a catastrophic internal failure...the exhaust airstream could momentarily reach temperatures of about 2,000° F",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "the ATS would freewheel because the ATS would not be connected to the engine if the ATSV were open during high power"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "condition",
+      "factor_type": "FUEL_SYSTEM_ANOMALY",
+      "label": "Fuel and hydraulic fluids present in engine nacelle cavity",
+      "trigger": "a combustible fluid, such as oil, hydraulic fluid, or fuel, was available in the engine",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Nacelle fire ignites from hot ATS exhaust and incandescent particles",
+      "trigger": "The fire damage observed in the cavity, including heavy black soot, indicated that a significant fire occurred",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "the open ATSV and resulting failed ATS allowed a hotter than typical airstream and/or incandescent particles to flow into the engine nacelle area and likely provided the ignition source"
+        },
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "ignition source in the presence of an exposed, combustible fluid resulted in a fire"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Pilots interrupt fire suppression checklist to brief flight attendants; fuel shutoff delayed ~2 minutes",
+      "trigger": "the captain transferred control of the airplane to the first officer so that he could brief the flight attendants...even though according to the checklist, this task was to be completed after all critical items...had been accomplished; About 2 minutes after the captain interrupted the checklist, the first officer resumed its performance...80 percent of the pilots' delay in performing the third item...was caused by their performance of tasks unrelated to shutting off fuel",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "after the Left Engine Fire warnings activated, the first officer began performing the Engine Fire/Damage/Separation checklist but was interrupted after the first two items"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Electrical system damage from prolonged fire",
+      "trigger": "the airplane began to experience some electrical malfunctions, which resulted in the loss of the captain's primary flight and navigation display panels",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "the sustained delay in fire suppression allowed the fire to continue and damage electrical systems"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Hydraulic system damage and pressure loss from prolonged fire",
+      "trigger": "the left hydraulic reservoir was found empty...the left engine-driven hydraulic pump was removed from the engine...two seals were found to be brittle, consistent with thermal damage",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "the prolonged fire caused thermal damage that degraded hydraulic system seals and compromised pressure"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Nose landing gear fails to extend initially on approach",
+      "trigger": "the nose landing gear failed to extend, and the flight crew executed a go-around...the tower controller reported that the nose landing gear was not extended",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 10,
+          "strength": "direct",
+          "evidence": "the hydraulic failures prevented proper nose gear extension"
+        }
+      ]
+    },
+    {
+      "idx": 12,
+      "class": "outcome",
+      "factor_type": "SUCCESSFUL_RECOVERY",
+      "label": "Emergency landing executed successfully with no injuries despite aircraft damage",
+      "trigger": "the flight crew conducted an emergency landing...No occupant injuries were reported, but the airplane sustained substantial damage from the fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 11,
+          "strength": "contributing",
+          "evidence": "pilots executed emergency procedures to extend nose gear during go-around, enabling safe landing"
+        },
+        {
+          "src": 9,
+          "strength": "contributing",
+          "evidence": "electrical damage complicated instrument display but pilots managed to land safely"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

@@ -1,0 +1,61 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Muffler defect with holes and wall thickness loss",
+      "trigger": "Examination of the two muffler assemblies revealed holes and wall thickness loss around the right muffler body",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Carbon monoxide enters cabin through defective exhaust",
+      "trigger": "holes and wall thickness loss around the right muffler body, which likely introduced CO into the cabin",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "holes and wall thickness loss around the right muffler body, which likely introduced CO into the cabin"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+      "label": "Pilot incapacitated by carbon monoxide poisoning",
+      "trigger": "Toxicology testing of the pilot's blood indicated an impairing level of CO",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Toxicology testing of the pilot's blood indicated an impairing level of CO"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft destroyed in terrain impact",
+      "trigger": "the airplane was destroyed when it impacted terrain near Newborn, Georgia, and the pilot died",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "The NTSB determined the probable cause of the accident was pilot incapacitation due to CO poisoning"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

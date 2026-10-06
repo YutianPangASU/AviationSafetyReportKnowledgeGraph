@@ -1,0 +1,133 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "FAA placed Helicopter Route 4 near runway 33 approach path",
+      "trigger": "Route 4 followed Potomac River with published maximum altitude 200 ft, positioned in close proximity to runway 33 approach corridor",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "System relied on pilot-applied visual separation for DCA traffic management",
+      "trigger": "Controllers testified visual separation was 'paramount' to efficient operations given volume and complexity",
+      "cause_role": "primary",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "Route 4 proximity to approach path necessitated visual separation"}]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "DCA traffic management issues: unsustainable AAR and insufficient spacing",
+      "trigger": "Potomac TRACON provided less than 4 miles-in-trail spacing about 40% of the time; controller stated tower 'wasn't getting spacing on final'",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "LC and HC control positions combined at DCA ATCT",
+      "trigger": "SOP allowed LC controller to handle both local and helicopter control positions; OS discretion combined them",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 2, "strength": "contributing", "evidence": "Traffic management complexity motivated position combining"}]
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "High workload on LC controller managing multiple aircraft",
+      "trigger": "Controller reported feeling 'overwhelmed' with 10 aircraft; 90 seconds before collision had 12 aircraft with 5 helicopters on frequency",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "Combined position meant LC handled both airplane and helicopter traffic"},
+        {"src": 2, "strength": "contributing", "evidence": "High traffic volume contributed to workload"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "LC controller instructed Flight 5342 to circle runway 33 for spacing",
+      "trigger": "Controller asked if flight 5342 'could accept runway 33' to create spacing for departures",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "direct", "evidence": "High workload and spacing needs motivated routing to alternate runway"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "unknown",
+      "label": "Flight 5342 crew accepted runway 33 approach and descended into helicopter route area",
+      "trigger": "Crew confirmed landing performance for runway 33 and accepted controller's clearance to circle",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "Controller instructed crew to accept this runway"}]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Degraded radio reception prevented PAT25 hearing 'circling' in traffic advisory",
+      "trigger": "Helicopter CVR recorded traffic advisory as 'for runway three three' while controller transmitted 'circling runway three three'",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "PAT25 IP responded 'traffic in sight' without positively identifying Flight 5342",
+      "trigger": "IP's rapid reply to traffic advisory; investigation determined IP likely misidentified target among cluster of approaching aircraft",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 1, "strength": "contributing", "evidence": "System reliance on visual separation created expectation crews would separate visually"},
+        {"src": 7, "strength": "contributing", "evidence": "Degraded radio info prevented crew understanding airplane was circling to runway 33"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Radio transmission blocked controller's 'pass behind' instruction",
+      "trigger": "0.8-second microphone key from helicopter blocked transmission; helicopter crew did not receive 'pass behind' instruction",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 10,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "LC controller did not issue traffic advisory to Flight 5342 about helicopter",
+      "trigger": "Controller stated he had other priority duties and intended to issue advisory to Flight 5342 but did not",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 4, "strength": "direct", "evidence": "High workload caused controller to prioritize other duties"}]
+    },
+    {
+      "idx": 11,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Crews did not visually detect each other in time to avoid collision",
+      "trigger": "Flight 5342 crew detected helicopter about 1 second before impact; PAT25 crew never detected converging aircraft",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 8, "strength": "direct", "evidence": "PAT25 crew's ineffective visual search meant no mutual awareness of conflict"},
+        {"src": 10, "strength": "direct", "evidence": "Flight 5342 crew received no controller advisory about helicopter"}
+      ]
+    },
+    {
+      "idx": 12,
+      "class": "outcome",
+      "factor_type": "MIDAIR_COLLISION",
+      "label": "Midair collision over Potomac River at 278 ft MSL",
+      "trigger": "Aircraft collided at 2047:59; 68 fatalities: 60 passengers, 2 flight attendants, 2 pilots on airplane; 1 pilot, 1 instructor pilot, 1 crew chief on helicopter",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 11, "strength": "direct", "evidence": "Undetected aircraft convergence resulted in collision"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

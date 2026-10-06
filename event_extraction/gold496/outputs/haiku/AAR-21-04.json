@@ -1,0 +1,139 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Inadequate DHC-3 preflight checklist lacking GSL 71 verification item",
+      "trigger": "The checklist found in the DHC-3 did not contain a checklist item about the GSL 71 control panel",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "GSL 71 selector knob placed in OFF position before accident flight",
+      "trigger": "The Garmin GSL 71 control head selector knob was in the OFF position; investigation was unable to determine who turned off the GSL 71",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Absence of GSL 71 verification item in preflight checklist enabled the OFF position to go undetected"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "RANGR 978 transceiver designed without conflict detection algorithm for traffic alerting",
+      "trigger": "The RANGR 978 ADS-B transceiver did not have any form of collision detection or alerting; the transceiver was not designed to send alert status messages",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "DHC-2 ForeFlight application unable to generate traffic alerts due to missing pressure altitude from DHC-3",
+      "trigger": "Because the DHC-3 was not broadcasting pressure altitude data, the DHC-2 pilot would not have received any visual or aural alerts regarding the DHC-3; ForeFlight treats targets without altitude information as distant",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "GSL 71 in OFF position prevented DHC-3 from transmitting pressure altitude, preventing ForeFlight from generating alerts"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "DHC-3 Chelton EFIS unable to generate traffic alerts",
+      "trigger": "The Chelton EFIS display could generate alerts only if traffic messages were in alert status; the RANGR 978 transceiver was not designed to send alert status messages",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "RANGR 978 lacks conflict detection algorithm to place traffic targets into alert status"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Aircraft cockpit structural design creates visual obstructions to pilot field of view",
+      "trigger": "DHC-3 would have been obscured from the DHC-2 pilot by the DHC-2's cockpit structure, right wing, and passenger in right front seat; DHC-2 obscured from DHC-3 pilot by window post and complex background",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "DHC-2 pilot unable to visually acquire DHC-3 due to structural obscuration",
+      "trigger": "During the 3 minutes before collision, the DHC-3 would have been obscured from the DHC-2 pilot by cockpit structure, right wing, and passenger; the DHC-2 pilot would not have had opportunity to see the DHC-3",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Cockpit structures and passenger completely obscured DHC-3 from DHC-2 pilot's field of view for entire approach"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "DHC-3 pilot unable to visually acquire DHC-2 in time to maneuver",
+      "trigger": "DHC-2 appeared as small, slow-moving object obscured by DHC-3's window post; aircraft would have been hidden behind window post until 0.5 seconds before collision; minimum 12.5 seconds required for detection and maneuver",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "Window post obscured DHC-2 for 11.4 seconds before collision; by the time aircraft became visible, insufficient time remained to maneuver"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "MIDAIR_COLLISION",
+      "label": "Midair collision over George Inlet at 1221:14 at 3,350 feet altitude",
+      "trigger": "The airplanes collided at 1221:14 at an altitude of 3,350 feet, 7.4 nautical miles northeast of Ketchikan Harbor Seaplane Base; DHC-2 destroyed; DHC-3 sustained substantial damage",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "DHC-2 ForeFlight unable to alert pilot to DHC-3 threat"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "DHC-3 Chelton unable to alert pilot to DHC-2 threat"
+        },
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "DHC-2 pilot could not see DHC-3 visually due to structural obscuration and passenger"
+        },
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "DHC-3 pilot could not see DHC-2 in time to take evasive action"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

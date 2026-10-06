@@ -1,0 +1,76 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Small surface pit in landing gear fitting",
+      "trigger": "small surface pit of undetermined source",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Upper right forward landing gear fitting failed in fatigue and fractured",
+      "trigger": "fatigue crack had begun along the 0.12-inch radius...Fatigue had propagated down and through the bottom of the fitting...this fitting...fractured",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Fatigue originated from a small surface pit of undetermined source"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LANDING_GEAR_ANOMALY",
+      "label": "Right main landing gear separated from fuselage",
+      "trigger": "right main landing gear had separated from its upper and lower fuselage attachment fittings and was lying beneath the aircraft",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "The complete tube was still attached to the fitting. However, this fitting...had fractured"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Aircraft rolled over on its right side",
+      "trigger": "The aircraft rolled over on its right side",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "a settling and yawing motion, followed by a roll of the aircraft to the right"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal and serious injuries from rotor blade contact",
+      "trigger": "four passengers who were still outside the aircraft and were waiting to board were killed and one was seriously injured. One pedestrian on the corner of Madison Avenue and 43rd Street was killed and another was seriously injured",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "All fatalities were caused by the operating rotor blades as a result of the collapse of the landing gear"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

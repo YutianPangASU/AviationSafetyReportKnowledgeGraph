@@ -1,0 +1,155 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Yaw servo hydraulic switch not returned to ON position",
+      "trigger": "pilot most likely did not return the yaw servo hydraulic switch to its correct ('ON') position before takeoff, result of failing to complete the final step of the preflight hydraulic check",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Loss of hydraulic pressure to tail rotor servo control and accumulator",
+      "trigger": "with yaw servo hydraulic switch in OFF position and yaw load compensator accumulator depleted, no hydraulic pressure to tail rotor circuit resulted",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "pilot failed to reset switch to ON, leaving tail rotor hydraulic circuit depressurized"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of yaw control; left yaw develops and increases with altitude",
+      "trigger": "helicopter yawed to the left at takeoff with initial yaw rate of 22° per second; yaw rate increased to 45° per second as helicopter climbed; eventually helicopter violently began spinning counterclockwise",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "loss of hydraulic boost resulted in high pedal loads (~161 pounds) that pilot could not overcome; insufficient right pedal input available to counteract main rotor torque effect, especially as altitude and power increased"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot continues takeoff despite detecting control anomaly",
+      "trigger": "despite significantly increased pedal loads and left yaw rotation at low altitude, pilot continued the takeoff to climb the helicopter above nearby obstacles and gain forward airspeed to counter the left yaw rotation",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "pilot attempted to fly out of the left yaw rotation rather than execute immediate landing; pilot may have been concerned about the outcome of the similar Albuquerque accident"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Pilot fails to perform hover check",
+      "trigger": "video evidence showed that helicopter did not perform required hover check at takeoff, which would have allowed pilot to detect and verify controllability at low altitude",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter impacts recreational vehicle and parking lot",
+      "trigger": "helicopter impacted recreational vehicle and parking lot at vertical impact velocity of 58 ± 5 feet per second (40 ± 3 mph) after descending from uncontrolled spinning flight",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "uncontrolled spinning and descent led to ground impact 360 feet southwest of helipad"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "FUEL_SYSTEM_ANOMALY",
+      "label": "Fuel tank ruptures and fuel spills",
+      "trigger": "surveillance video showed fuel flowing from wreckage at 3.7 seconds post-impact; helicopter's non-crash-resistant fuel system allowed extensive fuel spillage from rupture",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "high-velocity ground impact breached fuel tank; fuel system was not crash-resistant"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Postcrash fire develops and spreads",
+      "trigger": "fire visible on video 3 seconds after impact; postcrash fire consumed or severely damaged most of helicopter wreckage, including main fuselage and tailboom",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "released fuel ignited and fire spread, consuming and severely damaging helicopter structure"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot fatally injured",
+      "trigger": "pilot sustained blunt force injuries and thermal injuries including second- and third-degree burns and thermal lung injuries; succumbed to injuries approximately 75 minutes after accident",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "blunt force trauma injuries from ground impact at high vertical velocity"
+        },
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "severe thermal injuries from postcrash fire significantly decreased survival chances and contributed to death"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Flight nurses seriously injured",
+      "trigger": "flight nurse in left aft seat sustained 90% total body area partial- and full-thickness burns; flight nurse in right aft seat sustained blunt force injuries but no thermal injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "blunt force injuries from ground impact"
+        },
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "postcrash fire caused extensive thermal injuries to flight nurse in left aft seat"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

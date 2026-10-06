@@ -1,0 +1,105 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Freezing precipitation with snow falling at Montrose Airport",
+      "trigger": "snow was falling...light snow and mist...freezing rain sensor not operating",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "No deicing services requested or performed",
+      "trigger": "personnel in the FBO office...stated that the accident flight crewmembers did not request deicing services for the airplane and that none were provided",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Upper wing surface contamination with ice and snow",
+      "trigger": "there appeared to be snow on the accident airplane's wings...slushy clumps of snow and water slid down from the top of the fuselage and across his window",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "parked on the ground for about 40 to 45 minutes during freezing precipitation"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "it was not deiced"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall due to localized airflow separation on contaminated wing",
+      "trigger": "large rolling motions often caused by local separation of airflow on the wing due to upper wing surface contamination...the accident airplane failed to establish a positive rate of climb shortly after liftoff",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "presence of wing surface roughness equivalent to 40-grit sandpaper can reduce the stall angle of attack up to 7 degrees compared to the stall angle of an uncontaminated wing"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Asymmetric stall and large roll excursions",
+      "trigger": "the left wing dropped abruptly and banked to an angle...the right wing then dropped...the left wing dropped again...the airplane rolled abruptly left, right, and left",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "once localized airflow separation begins on a portion of a contaminated wing, that wing can stall before the other one, which results in lift asymmetry and large roll rates that are not responsive to control inputs"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck ground and was destroyed",
+      "trigger": "the airplane then fell straight onto its nose...airplane slid along the ground in a northerly direction...the airplane was destroyed by impact forces and postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "loss of control led to ground impact"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Three fatalities and two serious injuries",
+      "trigger": "of the six occupants on board, the captain, the flight attendant, and one passenger were killed, and the first officer and two passengers were seriously injured",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "impact forces and postcrash fire"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,120 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "In-ground-effect stall AOA overestimated at 13.1° vs actual 11.2°",
+      "trigger": "Gulfstream overestimated the actual in-ground-effect stall AOA for the G650, resulting in the AOA threshold for stick shaker activation being set too high and the flight crew receiving no tactile or visual warning before the actual stall occurred",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Target V2 speeds set too low at 135-136 knots vs required ~150 knots",
+      "trigger": "Gulfstream's decision to make the airplane's V2 speed identical to the minimum V2 speed allowed by regulation resulted in unachievable target V2 values for the G650",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Rapid pitch increase during rotation to achieve target V2 speed",
+      "trigger": "during test run 7A2, there was no pause at the 9° pitch target, and pitch continued increasing to 11.2° AOA at liftoff as the PIC pulled the control column to capture the target V2 speed",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "the G650 flight test team's persistent and increasingly aggressive attempts to achieve V2 speeds that were erroneously low"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall of right outboard wing at AOA 11.2° during liftoff",
+      "trigger": "when the airplane's AOA reached 11.2° during the accident takeoff, the AOA exceeded the actual stall AOA in ground effect, resulting in flow separation on the right outboard wing",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "pitch and AOA reached 11.2° at liftoff"
+        },
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "the actual in-ground-effect stall AOA was 11.2°, which was below the stick shaker threshold of 12.3°, providing no warning"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncommanded roll to right from stall-induced rolling moment",
+      "trigger": "a stall on the right outboard wing produced a rolling moment that the flight crew was not able to control, which led to the right wingtip contacting the runway",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "large aerodynamic rolling moments to the right acted on the airplane from the asymmetric stall, producing an uncontrollable right roll rate"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft departs runway after right wingtip ground contact",
+      "trigger": "shortly after rotation, the airplane's right wing contacted the runway and the airplane subsequently yawed to the right and departed the right side of the runway",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "the right wingtip struck and dragged along the ground at a bank angle of 13.4°, and the airplane rolled farther to the right as it veered off the runway"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacts concrete structure after departing runway",
+      "trigger": "the airplane traveled about 3,000 feet across airport property and impacted a concrete structure located about 1,000 feet from the runway centerline, resulting in extensive structural damage and fuel tank rupture",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "after departing the runway, the airplane impacted the concrete structure, causing extensive damage to the center wing box and initiating a postcrash fire"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Four fatalities from crash impact and post-crash fire",
+      "trigger": "the two pilots and the two flight test engineers were fatally injured, with cause of death being inhalation of smoke and soot and extensive thermal burns from the postcrash fire that completely consumed the fuselage and cabin interior",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "impact forces were survivable, but the postcrash fire and large amounts of fuel, fuel vapor, smoke entering the cabin through fuselage breaches created an unsurvivable environment"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

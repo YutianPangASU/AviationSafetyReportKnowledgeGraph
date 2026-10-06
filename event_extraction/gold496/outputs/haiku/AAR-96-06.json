@@ -1,0 +1,121 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Corrosion pits formed in propeller blade taper bore from chlorine-containing cork",
+      "trigger": "cork installed in the taper bore to retain lead balance wool contained chlorine that reacted with moisture to create corrosion pits",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Borescope inspection with direct illumination failed to detect shallow corrosion pits",
+      "trigger": "technician recorded 'No visible faults found' during borescope inspection despite corrosion pits being present in taper bore",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "corrosion was shallow, diffused and more difficult to recognize; borescope inspection used direct illumination producing glare"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "PS960A repair authorization inadequately communicated; repair inappropriately applied",
+      "trigger": "PS960A authorization extension was documented in confusing memorandum and verbally transmitted; technician misunderstood that authorization applied only to shotpeened taper bores, not unshotpeened",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "when borescope inspection found no visible damage, technician proceeded with PS960A blending repair based on misunderstanding of authorization"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Repair improperly executed with improper surface finish; post-repair inspection masked crack",
+      "trigger": "blending repair failed to restore taper bore to original surface finish as required; rough sanding marks caused subsequent ultrasonic beam to scatter and failed to detect existing crack",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "improper surface finish from blending repair caused ultrasonic beam scattering, reducing ultrasonic indication below rejectable threshold allowing blade to pass inspection"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Fatigue crack propagated to critical size and propeller blade separated in flight",
+      "trigger": "crack initiating from corrosion pits propagated under flight stresses and reached critical size; blade separated while climbing through 18,100 feet",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "blade was returned to service with undetected crack and exempted from recurrent inspections; crack propagated under normal and resonant flight stresses"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft lost control due to loss of left engine thrust and increased drag from nacelle distortion",
+      "trigger": "three remaining propeller blades created imbalance and loss of left engine thrust; nacelle distortion caused excessive drag; wing lift reduced and directional control reduced",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "propeller blade separation resulted in loss of left engine thrust, distortion of nacelle causing excessive drag, loss of wing lift, and reduced directional control; aircraft rolled left, pitched down, and began descent at 5,500 fpm"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted terrain at steep angle during emergency landing attempt",
+      "trigger": "aircraft unable to maintain altitude and descend in controlled manner; ground impact occurred approximately 31 minutes after blade separation near Carrollton, Georgia",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "degraded aircraft performance from blade separation prevented crew from controlling descent and maintaining altitude"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal and serious injuries from ground impact and postcrash fire",
+      "trigger": "captain and four passengers sustained fatal injuries; three additional passengers died from injuries within 30 days; first officer and flight attendant sustained serious injuries; eleven passengers sustained serious injuries; eight passengers sustained minor injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "ground impact and postcrash fire resulted in fatalities and serious injuries to occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

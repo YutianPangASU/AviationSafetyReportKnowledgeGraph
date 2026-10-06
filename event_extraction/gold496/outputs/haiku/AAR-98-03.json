@@ -1,0 +1,101 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "In-flight fire in upper deck cargo compartment",
+      "trigger": "Smoke detected in cabin cargo area at FL 330; smoke detector lights 7, 8, 9 illuminated at 0536:23",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Crew failed to pull cabin air shutoff T-handle",
+      "trigger": "Flight engineer did not execute checklist step 6; post-accident examination confirmed handle was not pulled",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Crew overloaded by emergency procedures; flight engineer distracted attempting to obtain Stewart airport identifier"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Crew failed to maintain cabin pressure differential",
+      "trigger": "Flight engineer only cranked outflow valve a couple times instead of maintaining 0.5 psi differential pressure as required",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Crew distracted by emergency descent and procedures; inadequate execution of manual depressurization"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "EMERGENCY_LANDING",
+      "label": "Aircraft successfully landed at Stewart International Airport despite in-flight fire",
+      "trigger": "Aircraft landed at 0554:28 on runway 27",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "In-flight fire prompted emergency descent and diversion to nearest airport"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Aircraft fuselage destroyed by fire; structural separation and failure",
+      "trigger": "Fuselage separated at FS 1531 and FS 1986; aircraft consumed by fire over 3.5 hours post-landing",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "In-flight fire and post-landing fire destroyed aircraft structure"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Failure to shutoff cabin air allowed continuous oxygen supply to cargo area, contributing to rapid fire growth"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Minor injuries sustained during evacuation",
+      "trigger": "Captain sustained rope burns on hands; flight engineer sustained minor cut to forehead during cockpit window emergency escape",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Fire made standard evacuation doors unusable; crew forced to use emergency window rope escape"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Incomplete depressurization made L1/R1 door evacuation impossible, forcing non-standard window evacuation"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

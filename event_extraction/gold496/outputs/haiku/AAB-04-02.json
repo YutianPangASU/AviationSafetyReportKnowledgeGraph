@@ -1,0 +1,75 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "HIGH_DENSITY_ALTITUDE",
+      "label": "High ambient temperature creating high-density altitude",
+      "trigger": "Ambient outside air temperature of 34-36°C at altitude, 41°C at ground level",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot initiates aggressive descending turn back toward cliff edge",
+      "trigger": "Helicopter reversed heading 180° from westbound course; wreckage pattern consistent with 'Thelma and Louise' diving maneuver pilot was known to perform",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Uncontrolled high-rate descent from which pilot could not recover",
+      "trigger": "At impact, helicopter had vertical descent rate of 10-16G with engine at full power and collective at full UP position",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "High density altitude significantly decreased helicopter's performance capability; power margin at accident site altitude provided only 421 fpm vertical climb capability"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Aggressive maneuver with reduced forward airspeed combined with degraded performance resulted in descent rate pilot could not arrest"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter struck rocky hillside at base of cliff",
+      "trigger": "Aircraft impacted rocky 40-degree downslope at 4,041 feet elevation at base of Grand Wash Cliffs",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Unrecoverable descent led directly to impact with terrain"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and five passengers killed; one passenger sustained serious injuries",
+      "trigger": "Helicopter destroyed by impact forces and postcrash fire; six fatalities, one serious injury",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Impact with terrain and resulting fire caused fatalities and serious injury"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

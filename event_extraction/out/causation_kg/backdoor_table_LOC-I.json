@@ -1,0 +1,602 @@
+{
+  "category": "LOC-I",
+  "n_records": 3852,
+  "baseline_p_serious": 0.5179,
+  "n_candidate_factors": 39,
+  "n_with_nonempty_adjustment_set": 15,
+  "mean_abs_confounding_shift_adjusted_factors": 0.0376,
+  "max_abs_confounding_shift": 0.1325,
+  "n_boot": 400,
+  "interventions": [
+    {
+      "factor": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+      "n_present": 235,
+      "adjustment_set": [],
+      "crude_effect": 0.4058,
+      "adjusted_effect": 0.4058,
+      "p_serious_do_absent": 0.493,
+      "p_serious_do_present": 0.8987,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.3686,
+        0.4469
+      ]
+    },
+    {
+      "factor": "LOW_VISIBILITY_OR_IMC",
+      "n_present": 195,
+      "adjustment_set": [
+        "DARK_NIGHT_OR_LOW_LIGHT"
+      ],
+      "crude_effect": 0.3797,
+      "adjusted_effect": 0.343,
+      "p_serious_do_absent": 0.5002,
+      "p_serious_do_present": 0.8432,
+      "confounding_shift": 0.0367,
+      "ci95": [
+        0.2834,
+        0.4033
+      ]
+    },
+    {
+      "factor": "ORG_OR_REGULATORY_INADEQUATE",
+      "n_present": 61,
+      "adjustment_set": [],
+      "crude_effect": 0.3126,
+      "adjusted_effect": 0.3126,
+      "p_serious_do_absent": 0.5128,
+      "p_serious_do_present": 0.8254,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.2184,
+        0.3983
+      ]
+    },
+    {
+      "factor": "LOSS_OF_CONTROL_INFLIGHT",
+      "n_present": 2937,
+      "adjustment_set": [],
+      "crude_effect": 0.3061,
+      "adjusted_effect": 0.3061,
+      "p_serious_do_absent": 0.2846,
+      "p_serious_do_present": 0.5907,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.2706,
+        0.34
+      ]
+    },
+    {
+      "factor": "FUEL_CONTAMINATION",
+      "n_present": 30,
+      "adjustment_set": [],
+      "crude_effect": 0.2971,
+      "adjusted_effect": 0.2971,
+      "p_serious_do_absent": 0.5154,
+      "p_serious_do_present": 0.8125,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.1609,
+        0.4094
+      ]
+    },
+    {
+      "factor": "SPATIAL_DISORIENTATION",
+      "n_present": 111,
+      "adjustment_set": [
+        "LOW_VISIBILITY_OR_IMC",
+        "DARK_NIGHT_OR_LOW_LIGHT"
+      ],
+      "crude_effect": 0.3964,
+      "adjusted_effect": 0.2639,
+      "p_serious_do_absent": 0.5139,
+      "p_serious_do_present": 0.7778,
+      "confounding_shift": 0.1325,
+      "ci95": [
+        0.0584,
+        0.4152
+      ]
+    },
+    {
+      "factor": "DARK_NIGHT_OR_LOW_LIGHT",
+      "n_present": 157,
+      "adjustment_set": [],
+      "crude_effect": 0.247,
+      "adjusted_effect": 0.247,
+      "p_serious_do_absent": 0.5077,
+      "p_serious_do_present": 0.7547,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.175,
+        0.315
+      ]
+    },
+    {
+      "factor": "LOW_ALTITUDE_OPERATION",
+      "n_present": 235,
+      "adjustment_set": [],
+      "crude_effect": 0.217,
+      "adjusted_effect": 0.217,
+      "p_serious_do_absent": 0.5046,
+      "p_serious_do_present": 0.7215,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.1553,
+        0.2789
+      ]
+    },
+    {
+      "factor": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "n_present": 305,
+      "adjustment_set": [],
+      "crude_effect": 0.2159,
+      "adjusted_effect": 0.2159,
+      "p_serious_do_absent": 0.5007,
+      "p_serious_do_present": 0.7166,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.1647,
+        0.2656
+      ]
+    },
+    {
+      "factor": "FUEL_EXHAUSTION_OR_STARVATION",
+      "n_present": 51,
+      "adjustment_set": [],
+      "crude_effect": 0.1827,
+      "adjusted_effect": 0.1827,
+      "p_serious_do_absent": 0.5154,
+      "p_serious_do_present": 0.6981,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.059,
+        0.306
+      ]
+    },
+    {
+      "factor": "TRAINING_OR_CURRENCY_GAP",
+      "n_present": 217,
+      "adjustment_set": [],
+      "crude_effect": 0.1771,
+      "adjusted_effect": 0.1771,
+      "p_serious_do_absent": 0.5078,
+      "p_serious_do_present": 0.6849,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.1169,
+        0.2406
+      ]
+    },
+    {
+      "factor": "DESIGN_DEFECT_LATENT",
+      "n_present": 48,
+      "adjustment_set": [],
+      "crude_effect": 0.1642,
+      "adjusted_effect": 0.1642,
+      "p_serious_do_absent": 0.5158,
+      "p_serious_do_present": 0.68,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.0268,
+        0.2961
+      ]
+    },
+    {
+      "factor": "ENGINE_FAILURE",
+      "n_present": 224,
+      "adjustment_set": [],
+      "crude_effect": 0.1596,
+      "adjusted_effect": 0.1596,
+      "p_serious_do_absent": 0.5085,
+      "p_serious_do_present": 0.6681,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.0946,
+        0.217
+      ]
+    },
+    {
+      "factor": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "n_present": 46,
+      "adjustment_set": [],
+      "crude_effect": 0.1506,
+      "adjusted_effect": 0.1506,
+      "p_serious_do_absent": 0.516,
+      "p_serious_do_present": 0.6667,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.0317,
+        0.2793
+      ]
+    },
+    {
+      "factor": "STALL",
+      "n_present": 1911,
+      "adjustment_set": [
+        "HIGH_DENSITY_ALTITUDE",
+        "CARBURETOR_OR_INDUCTION_ICING"
+      ],
+      "crude_effect": 0.1362,
+      "adjusted_effect": 0.1392,
+      "p_serious_do_absent": 0.449,
+      "p_serious_do_present": 0.5882,
+      "confounding_shift": -0.003,
+      "ci95": [
+        0.1056,
+        0.1694
+      ]
+    },
+    {
+      "factor": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "n_present": 224,
+      "adjustment_set": [],
+      "crude_effect": 0.1361,
+      "adjusted_effect": 0.1361,
+      "p_serious_do_absent": 0.5099,
+      "p_serious_do_present": 0.646,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.062,
+        0.2037
+      ]
+    },
+    {
+      "factor": "MOUNTAINOUS_OR_RISING_TERRAIN",
+      "n_present": 186,
+      "adjustment_set": [],
+      "crude_effect": 0.1154,
+      "adjusted_effect": 0.1154,
+      "p_serious_do_absent": 0.5123,
+      "p_serious_do_present": 0.6277,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.0442,
+        0.1832
+      ]
+    },
+    {
+      "factor": "MAINTENANCE_INADEQUATE",
+      "n_present": 171,
+      "adjustment_set": [
+        "ORG_OR_REGULATORY_INADEQUATE"
+      ],
+      "crude_effect": 0.1295,
+      "adjusted_effect": 0.1128,
+      "p_serious_do_absent": 0.5129,
+      "p_serious_do_present": 0.6256,
+      "confounding_shift": 0.0167,
+      "ci95": [
+        0.0389,
+        0.1933
+      ]
+    },
+    {
+      "factor": "ICING_ENCOUNTER",
+      "n_present": 45,
+      "adjustment_set": [
+        "LOW_VISIBILITY_OR_IMC"
+      ],
+      "crude_effect": 0.165,
+      "adjusted_effect": 0.0964,
+      "p_serious_do_absent": 0.5167,
+      "p_serious_do_present": 0.613,
+      "confounding_shift": 0.0686,
+      "ci95": [
+        -0.0598,
+        0.2268
+      ]
+    },
+    {
+      "factor": "CARBURETOR_OR_INDUCTION_ICING",
+      "n_present": 34,
+      "adjustment_set": [],
+      "crude_effect": 0.0941,
+      "adjusted_effect": 0.0941,
+      "p_serious_do_absent": 0.517,
+      "p_serious_do_present": 0.6111,
+      "confounding_shift": 0.0,
+      "ci95": [
+        -0.0332,
+        0.2465
+      ]
+    },
+    {
+      "factor": "LATENT_MECHANICAL_DEFECT",
+      "n_present": 361,
+      "adjustment_set": [],
+      "crude_effect": 0.0791,
+      "adjusted_effect": 0.0791,
+      "p_serious_do_absent": 0.5104,
+      "p_serious_do_present": 0.5895,
+      "confounding_shift": 0.0,
+      "ci95": [
+        0.0306,
+        0.133
+      ]
+    },
+    {
+      "factor": "DECISION_INAPPROPRIATE",
+      "n_present": 1205,
+      "adjustment_set": [
+        "LOSS_OF_CONTROL_GROUND",
+        "CREW_COORDINATION_FAILURE",
+        "MOUNTAINOUS_OR_RISING_TERRAIN"
+      ],
+      "crude_effect": 0.071,
+      "adjusted_effect": 0.0355,
+      "p_serious_do_absent": 0.5094,
+      "p_serious_do_present": 0.545,
+      "confounding_shift": 0.0355,
+      "ci95": [
+        -0.0017,
+        0.0737
+      ]
+    },
+    {
+      "factor": "STRUCTURAL_OVERLOAD",
+      "n_present": 85,
+      "adjustment_set": [],
+      "crude_effect": 0.0346,
+      "adjusted_effect": 0.0346,
+      "p_serious_do_absent": 0.5171,
+      "p_serious_do_present": 0.5517,
+      "confounding_shift": 0.0,
+      "ci95": [
+        -0.0713,
+        0.1351
+      ]
+    },
+    {
+      "factor": "CONTROL_SURFACE_ANOMALY",
+      "n_present": 116,
+      "adjustment_set": [
+        "LATENT_MECHANICAL_DEFECT"
+      ],
+      "crude_effect": -0.0272,
+      "adjusted_effect": -0.0079,
+      "p_serious_do_absent": 0.5194,
+      "p_serious_do_present": 0.5115,
+      "confounding_shift": -0.0193,
+      "ci95": [
+        -0.104,
+        0.0824
+      ]
+    },
+    {
+      "factor": "PERCEPTION_FAILURE",
+      "n_present": 311,
+      "adjustment_set": [
+        "LOW_VISIBILITY_OR_IMC",
+        "DARK_NIGHT_OR_LOW_LIGHT"
+      ],
+      "crude_effect": 0.0136,
+      "adjusted_effect": -0.012,
+      "p_serious_do_absent": 0.519,
+      "p_serious_do_present": 0.5069,
+      "confounding_shift": 0.0256,
+      "ci95": [
+        -0.0782,
+        0.0459
+      ]
+    },
+    {
+      "factor": "INFLIGHT_FIRE_OR_SMOKE",
+      "n_present": 30,
+      "adjustment_set": [],
+      "crude_effect": -0.018,
+      "adjusted_effect": -0.018,
+      "p_serious_do_absent": 0.518,
+      "p_serious_do_present": 0.5,
+      "confounding_shift": 0.0,
+      "ci95": [
+        -0.1768,
+        0.1674
+      ]
+    },
+    {
+      "factor": "TURBULENCE_ENCOUNTER",
+      "n_present": 118,
+      "adjustment_set": [
+        "MOUNTAINOUS_OR_RISING_TERRAIN"
+      ],
+      "crude_effect": -0.0357,
+      "adjusted_effect": -0.0518,
+      "p_serious_do_absent": 0.5193,
+      "p_serious_do_present": 0.4675,
+      "confounding_shift": 0.0161,
+      "ci95": [
+        -0.1391,
+        0.0452
+      ]
+    },
+    {
+      "factor": "PROCEDURE_NOT_FOLLOWED",
+      "n_present": 751,
+      "adjustment_set": [
+        "ADVERSE_WIND_CONDITION",
+        "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+        "CARBURETOR_OR_INDUCTION_ICING"
+      ],
+      "crude_effect": -0.0528,
+      "adjusted_effect": -0.0587,
+      "p_serious_do_absent": 0.53,
+      "p_serious_do_present": 0.4713,
+      "confounding_shift": 0.0059,
+      "ci95": [
+        -0.0951,
+        -0.0172
+      ]
+    },
+    {
+      "factor": "OTHER_SYSTEM_FAILURE",
+      "n_present": 58,
+      "adjustment_set": [],
+      "crude_effect": -0.069,
+      "adjusted_effect": -0.069,
+      "p_serious_do_absent": 0.519,
+      "p_serious_do_present": 0.45,
+      "confounding_shift": 0.0,
+      "ci95": [
+        -0.1843,
+        0.0595
+      ]
+    },
+    {
+      "factor": "HIGH_DENSITY_ALTITUDE",
+      "n_present": 245,
+      "adjustment_set": [
+        "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+        "MOUNTAINOUS_OR_RISING_TERRAIN"
+      ],
+      "crude_effect": -0.0559,
+      "adjusted_effect": -0.0795,
+      "p_serious_do_absent": 0.5236,
+      "p_serious_do_present": 0.4441,
+      "confounding_shift": 0.0236,
+      "ci95": [
+        -0.1514,
+        -0.0095
+      ]
+    },
+    {
+      "factor": "AIRFRAME_STRUCTURAL_FAILURE",
+      "n_present": 88,
+      "adjustment_set": [
+        "STALL",
+        "LATENT_MECHANICAL_DEFECT",
+        "STRUCTURAL_OVERLOAD"
+      ],
+      "crude_effect": 0.0044,
+      "adjusted_effect": -0.0879,
+      "p_serious_do_absent": 0.5171,
+      "p_serious_do_present": 0.4292,
+      "confounding_shift": 0.0923,
+      "ci95": [
+        -0.2197,
+        0.0434
+      ]
+    },
+    {
+      "factor": "CONTROL_INPUT_IMPROPER",
+      "n_present": 2601,
+      "adjustment_set": [
+        "PROCEDURE_NOT_FOLLOWED",
+        "LATENT_MECHANICAL_DEFECT",
+        "PILOT_INCAPACITATION_OR_IMPAIRMENT"
+      ],
+      "crude_effect": -0.2295,
+      "adjusted_effect": -0.2129,
+      "p_serious_do_absent": 0.6692,
+      "p_serious_do_present": 0.4563,
+      "confounding_shift": -0.0166,
+      "ci95": [
+        -0.2456,
+        -0.182
+      ]
+    },
+    {
+      "factor": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "n_present": 136,
+      "adjustment_set": [],
+      "crude_effect": -0.229,
+      "adjusted_effect": -0.229,
+      "p_serious_do_absent": 0.5261,
+      "p_serious_do_present": 0.2971,
+      "confounding_shift": 0.0,
+      "ci95": [
+        -0.3023,
+        -0.1549
+      ]
+    },
+    {
+      "factor": "ADVERSE_WIND_CONDITION",
+      "n_present": 787,
+      "adjustment_set": [
+        "LATENT_MECHANICAL_DEFECT",
+        "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+        "PILOT_INCAPACITATION_OR_IMPAIRMENT"
+      ],
+      "crude_effect": -0.2639,
+      "adjusted_effect": -0.2353,
+      "p_serious_do_absent": 0.5636,
+      "p_serious_do_present": 0.3283,
+      "confounding_shift": -0.0286,
+      "ci95": [
+        -0.2686,
+        -0.1964
+      ]
+    },
+    {
+      "factor": "WIND_SHEAR_OR_GUST",
+      "n_present": 198,
+      "adjustment_set": [
+        "ADVERSE_WIND_CONDITION"
+      ],
+      "crude_effect": -0.3089,
+      "adjusted_effect": -0.2657,
+      "p_serious_do_absent": 0.5308,
+      "p_serious_do_present": 0.2652,
+      "confounding_shift": -0.0432,
+      "ci95": [
+        -0.3294,
+        -0.2034
+      ]
+    },
+    {
+      "factor": "CREW_COORDINATION_FAILURE",
+      "n_present": 221,
+      "adjustment_set": [],
+      "crude_effect": -0.2736,
+      "adjusted_effect": -0.2736,
+      "p_serious_do_absent": 0.5337,
+      "p_serious_do_present": 0.2601,
+      "confounding_shift": 0.0,
+      "ci95": [
+        -0.3271,
+        -0.2168
+      ]
+    },
+    {
+      "factor": "LANDING_GEAR_ANOMALY",
+      "n_present": 30,
+      "adjustment_set": [],
+      "crude_effect": -0.3647,
+      "adjusted_effect": -0.3647,
+      "p_serious_do_absent": 0.5209,
+      "p_serious_do_present": 0.1562,
+      "confounding_shift": 0.0,
+      "ci95": [
+        -0.4668,
+        -0.2407
+      ]
+    },
+    {
+      "factor": "RUNWAY_CONDITION_HAZARD",
+      "n_present": 137,
+      "adjustment_set": [],
+      "crude_effect": -0.3656,
+      "adjusted_effect": -0.3656,
+      "p_serious_do_absent": 0.5311,
+      "p_serious_do_present": 0.1655,
+      "confounding_shift": 0.0,
+      "ci95": [
+        -0.4239,
+        -0.31
+      ]
+    },
+    {
+      "factor": "LOSS_OF_CONTROL_GROUND",
+      "n_present": 285,
+      "adjustment_set": [],
+      "crude_effect": -0.4692,
+      "adjusted_effect": -0.4692,
+      "p_serious_do_absent": 0.5528,
+      "p_serious_do_present": 0.0836,
+      "confounding_shift": 0.0,
+      "ci95": [
+        -0.5049,
+        -0.4333
+      ]
+    }
+  ]
+}

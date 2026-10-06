@@ -1,0 +1,111 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "National Airlines inadequate procedures for restraining special cargo loads",
+      "trigger": "Cargo operations manual omitted required restraint information from Boeing and Telair manufacturers and contained incorrect methods for restraining cargo unable to be placed in ULDs",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Loadmaster improperly restrained cargo with insufficient tie-down straps",
+      "trigger": "Loadmaster directed use of 24 straps per M-ATV instead of proper restraint configuration required by manufacturers",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "National Airlines' inadequate procedures resulted in the loadmaster's improper restraint of the cargo"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Hydraulic systems 1 and 2 damaged by aft-moving cargo",
+      "trigger": "Rear M-ATV moved aft during takeoff rotation and severed hydraulic lines at aft pressure bulkhead; hydraulic tubing and M-ATV antenna debris found on runway near rotation point",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Improper restraint allowed cargo to shift aft during takeoff"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Horizontal stabilizer jackscrew fractured and drive mechanism damaged",
+      "trigger": "Rear M-ATV struck horizontal stabilizer jackscrew assembly causing 4-inch crack and aft bend; displacement at stabilizer root corresponded to approximately 5-degree leading-edge-down deflection",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Improper restraint allowed cargo to shift aft and impact stabilizer components"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of pitch control capability",
+      "trigger": "Combined damage to hydraulic systems 1 and 2 and horizontal stabilizer rendered available flight control surfaces unable to counter nose-up pitching moment; aircraft uncontrollable",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Hydraulic system damage reduced pitch control authority"
+        },
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Stabilizer damage prevented maintaining pitch trim position; simulations showed 5-degree deflection shift made pitch control impossible"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall",
+      "trigger": "Aircraft in steep climb with loss of pitch control could not recover from high angle of attack; stall developed as evidenced by flight path and video imagery showing rapid descent following peak pitch attitude",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Loss of pitch control prevented recovery from steep pitch attitude and high angle of attack"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft crashed shortly after takeoff",
+      "trigger": "Aircraft impacted terrain approximately 590 feet northeast of runway 3 departure end in nose-down nearly wings-level attitude; all seven crewmembers killed and aircraft destroyed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Aerodynamic stall resulted in rapid uncontrolled descent and ground impact"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,92 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Crew decides to deviate from typical route and fly through Bamiyan Valley",
+      "trigger": "CVR 0753:28 captain: 'we'll just have to see where this leads' / mechanic: 'we don't normally go this route'",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Crew flies low through Bamiyan Valley for recreation",
+      "trigger": "CVR 0800:12 captain: 'with this good visibility it's as easy as pie' / 0812:45 'I swear to god they wouldn't pay me if they knew how much fun this was'",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "direct", "evidence": "crew's decision to use nonstandard route enabled low-altitude sightseeing through valley"}
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Crew operating at 10,000-15,000 feet without required supplemental oxygen",
+      "trigger": "CVR review found no evidence of oxygen mask use / crew operating unpressurized aircraft at altitude where hypoxia impairs judgment",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "label": "Aircraft approaches rising terrain and box canyon terminus",
+      "trigger": "CVR 0815:47 first officer: ridgeline elevation approximately 14,000 feet / 0803:34 captain: 'this valley might peter out right up here'",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 1, "strength": "direct", "evidence": "low-altitude flight into geographic dead-end with rising terrain"}
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain hesitates and delays response to rising terrain and enclosed box canyon",
+      "trigger": "CVR 0819:04 mechanic: 'you guys are gunna make this right?' / captain: 'yeah h h I'm hopin'' / crew aware of closing terrain for 15+ minutes before attempting turnaround",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 3, "strength": "direct", "evidence": "rising terrain creates immediate pressure for escape decision"},
+        {"src": 2, "strength": "contributing", "evidence": "hypoxia at operating altitude without oxygen impairs judgment and reaction time"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aircraft stalls during emergency recovery attempt in rising terrain",
+      "trigger": "CVR 0819:14 stall warning beep / 0819:44 stall warning continues / 0819:52 first officer: 'you got ninety five' (95 knots airspeed near stall threshold)",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "late and inadequate initiation of escape maneuver at insufficient altitude and airspeed"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft collides with mountainous terrain during stall and attempted turnaround",
+      "trigger": "Wreckage located at 14,650 feet msl elevation in box canyon / aircraft on left side / 450-foot debris path",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "stall during attempted escape maneuver"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Six fatalities: captain, first officer, mechanic-passenger, and three military passengers",
+      "trigger": "Autopsy reports cause of death as blunt force injuries for all occupants",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "high-velocity terrain collision destroyed aircraft"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

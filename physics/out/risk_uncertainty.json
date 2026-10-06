@@ -1,0 +1,651 @@
+{
+  "loss_of_control": {
+    "target": "LOSS_OF_CONTROL_INFLIGHT",
+    "n_records": 55940,
+    "n_boot": 500,
+    "empirical_prevalence": 0.1754,
+    "leak": {
+      "mean": 0.11,
+      "ci95": [
+        0.1071,
+        0.1129
+      ]
+    },
+    "combined_baseline": {
+      "mean": 0.1745,
+      "ci95": [
+        0.1714,
+        0.1776
+      ]
+    },
+    "factors": [
+      {
+        "factor": "STALL",
+        "tier": "physics",
+        "pi_base": 0.1187,
+        "pi_ci95": [
+          0.1158,
+          0.1215
+        ],
+        "p": 0.3075,
+        "p_ci95": [
+          0.2937,
+          0.3208
+        ],
+        "contribution": 0.0313,
+        "contribution_ci95": [
+          0.0297,
+          0.0328
+        ]
+      },
+      {
+        "factor": "CONTROL_INPUT_IMPROPER",
+        "tier": "data",
+        "pi_base": 0.5006,
+        "pi_ci95": [
+          0.4964,
+          0.5048
+        ],
+        "p": 0.0,
+        "p_ci95": [
+          0.0,
+          0.0
+        ],
+        "contribution": 0.0,
+        "contribution_ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "factor": "ENGINE_FAILURE",
+        "tier": "surrogate",
+        "pi_base": 0.2935,
+        "pi_ci95": [
+          0.2896,
+          0.2975
+        ],
+        "p": 0.0,
+        "p_ci95": [
+          0.0,
+          0.0
+        ],
+        "contribution": 0.0,
+        "contribution_ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "factor": "DECISION_INAPPROPRIATE",
+        "tier": "data",
+        "pi_base": 0.3921,
+        "pi_ci95": [
+          0.3881,
+          0.3963
+        ],
+        "p": 0.0,
+        "p_ci95": [
+          0.0,
+          0.0
+        ],
+        "contribution": 0.0,
+        "contribution_ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "factor": "CONTROL_SURFACE_ANOMALY",
+        "tier": "surrogate",
+        "pi_base": 0.0323,
+        "pi_ci95": [
+          0.031,
+          0.0337
+        ],
+        "p": 0.2898,
+        "p_ci95": [
+          0.2637,
+          0.3127
+        ],
+        "contribution": 0.0078,
+        "contribution_ci95": [
+          0.007,
+          0.0085
+        ]
+      },
+      {
+        "factor": "AIRFRAME_STRUCTURAL_FAILURE",
+        "tier": "physics",
+        "pi_base": 0.0487,
+        "pi_ci95": [
+          0.0469,
+          0.0507
+        ],
+        "p": 0.1486,
+        "p_ci95": [
+          0.1299,
+          0.1684
+        ],
+        "contribution": 0.006,
+        "contribution_ci95": [
+          0.0052,
+          0.0069
+        ]
+      },
+      {
+        "factor": "SPATIAL_DISORIENTATION",
+        "tier": "data",
+        "pi_base": 0.0167,
+        "pi_ci95": [
+          0.0155,
+          0.0177
+        ],
+        "p": 0.426,
+        "p_ci95": [
+          0.3892,
+          0.4639
+        ],
+        "contribution": 0.0059,
+        "contribution_ci95": [
+          0.0053,
+          0.0066
+        ]
+      },
+      {
+        "factor": "PROCEDURE_NOT_FOLLOWED",
+        "tier": "data",
+        "pi_base": 0.293,
+        "pi_ci95": [
+          0.2892,
+          0.2968
+        ],
+        "p": 0.0,
+        "p_ci95": [
+          0.0,
+          0.0
+        ],
+        "contribution": 0.0,
+        "contribution_ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "factor": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+        "tier": "data",
+        "pi_base": 0.0236,
+        "pi_ci95": [
+          0.0223,
+          0.0249
+        ],
+        "p": 0.3259,
+        "p_ci95": [
+          0.2957,
+          0.3553
+        ],
+        "contribution": 0.0064,
+        "contribution_ci95": [
+          0.0056,
+          0.007
+        ]
+      },
+      {
+        "factor": "TURBULENCE_ENCOUNTER",
+        "tier": "physics",
+        "pi_base": 0.0263,
+        "pi_ci95": [
+          0.0251,
+          0.0276
+        ],
+        "p": 0.1893,
+        "p_ci95": [
+          0.16,
+          0.2147
+        ],
+        "contribution": 0.0041,
+        "contribution_ci95": [
+          0.0035,
+          0.0047
+        ]
+      },
+      {
+        "factor": "PERCEPTION_FAILURE",
+        "tier": "data",
+        "pi_base": 0.1663,
+        "pi_ci95": [
+          0.1632,
+          0.1694
+        ],
+        "p": 0.0,
+        "p_ci95": [
+          0.0,
+          0.0
+        ],
+        "contribution": 0.0,
+        "contribution_ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "factor": "ADVERSE_WIND_CONDITION",
+        "tier": "data",
+        "pi_base": 0.1566,
+        "pi_ci95": [
+          0.1535,
+          0.1594
+        ],
+        "p": 0.0,
+        "p_ci95": [
+          0.0,
+          0.0
+        ],
+        "contribution": 0.0,
+        "contribution_ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "factor": "OTHER_SYSTEM_FAILURE",
+        "tier": "data",
+        "pi_base": 0.0653,
+        "pi_ci95": [
+          0.0635,
+          0.0674
+        ],
+        "p": 0.0,
+        "p_ci95": [
+          0.0,
+          0.0
+        ],
+        "contribution": 0.0,
+        "contribution_ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "factor": "WIND_SHEAR_OR_GUST",
+        "tier": "physics",
+        "pi_base": 0.0393,
+        "pi_ci95": [
+          0.0376,
+          0.0409
+        ],
+        "p": 0.0392,
+        "p_ci95": [
+          0.0225,
+          0.0564
+        ],
+        "contribution": 0.0013,
+        "contribution_ci95": [
+          0.0007,
+          0.0018
+        ]
+      }
+    ],
+    "scenario": {
+      "combined": {
+        "mean": 0.2391,
+        "ci95": [
+          0.2335,
+          0.2446
+        ],
+        "ratio_vs_baseline_ci95": [
+          1.3464,
+          1.3931
+        ]
+      },
+      "counterfactuals": {
+        "do(coordinated turn, load factor 1.2)": {
+          "mean": 0.1878,
+          "ci95": [
+            0.1829,
+            0.1931
+          ],
+          "ratio_vs_baseline_ci95": [
+            1.0517,
+            1.0994
+          ]
+        },
+        "do(10 kt gust margin)": {
+          "mean": 0.2208,
+          "ci95": [
+            0.2166,
+            0.2252
+          ],
+          "ratio_vs_baseline_ci95": [
+            1.2529,
+            1.2761
+          ]
+        },
+        "do(both)": {
+          "mean": 0.1683,
+          "ci95": [
+            0.1649,
+            0.1718
+          ],
+          "ratio_vs_baseline_ci95": [
+            0.9548,
+            0.9725
+          ]
+        }
+      }
+    },
+    "variants": {
+      "maneuvering only (calm wind)": {
+        "mean": 0.2131,
+        "ci95": [
+          0.2093,
+          0.2171
+        ],
+        "ratio_vs_baseline_ci95": [
+          1.2101,
+          1.2315
+        ]
+      },
+      "aggressive turn, load factor 1.8, 35 kt wind": {
+        "mean": 0.2701,
+        "ci95": [
+          0.2638,
+          0.2762
+        ],
+        "ratio_vs_baseline_ci95": [
+          1.5213,
+          1.5719
+        ]
+      },
+      "35 kt wind only": {
+        "mean": 0.2018,
+        "ci95": [
+          0.1969,
+          0.2071
+        ],
+        "ratio_vs_baseline_ci95": [
+          1.1337,
+          1.1787
+        ]
+      }
+    }
+  },
+  "engine_failure": {
+    "target": "ENGINE_FAILURE",
+    "n_records": 55940,
+    "n_boot": 500,
+    "empirical_prevalence": 0.2933,
+    "leak": {
+      "mean": 0.0837,
+      "ci95": [
+        0.0804,
+        0.0872
+      ]
+    },
+    "combined_baseline": {
+      "mean": 0.2998,
+      "ci95": [
+        0.2956,
+        0.3039
+      ]
+    },
+    "factors": [
+      {
+        "factor": "FUEL_EXHAUSTION_OR_STARVATION",
+        "tier": "physics",
+        "pi_base": 0.0969,
+        "pi_ci95": [
+          0.0944,
+          0.0995
+        ],
+        "p": 0.9558,
+        "p_ci95": [
+          0.9489,
+          0.9617
+        ],
+        "contribution": 0.0715,
+        "contribution_ci95": [
+          0.0696,
+          0.0735
+        ]
+      },
+      {
+        "factor": "LATENT_MECHANICAL_DEFECT",
+        "tier": "data",
+        "pi_base": 0.1494,
+        "pi_ci95": [
+          0.1463,
+          0.1526
+        ],
+        "p": 0.1916,
+        "p_ci95": [
+          0.1781,
+          0.2043
+        ],
+        "contribution": 0.0206,
+        "contribution_ci95": [
+          0.0191,
+          0.0222
+        ]
+      },
+      {
+        "factor": "PROCEDURE_NOT_FOLLOWED",
+        "tier": "data",
+        "pi_base": 0.293,
+        "pi_ci95": [
+          0.2892,
+          0.2968
+        ],
+        "p": 0.108,
+        "p_ci95": [
+          0.0987,
+          0.1163
+        ],
+        "contribution": 0.0229,
+        "contribution_ci95": [
+          0.021,
+          0.0248
+        ]
+      },
+      {
+        "factor": "OTHER_SYSTEM_FAILURE",
+        "tier": "data",
+        "pi_base": 0.0653,
+        "pi_ci95": [
+          0.0635,
+          0.0674
+        ],
+        "p": 0.1984,
+        "p_ci95": [
+          0.1795,
+          0.2151
+        ],
+        "contribution": 0.0092,
+        "contribution_ci95": [
+          0.0083,
+          0.0101
+        ]
+      },
+      {
+        "factor": "CARBURETOR_OR_INDUCTION_ICING",
+        "tier": "physics",
+        "pi_base": 0.0261,
+        "pi_ci95": [
+          0.0247,
+          0.0275
+        ],
+        "p": 0.9274,
+        "p_ci95": [
+          0.9122,
+          0.9416
+        ],
+        "contribution": 0.0174,
+        "contribution_ci95": [
+          0.0164,
+          0.0183
+        ]
+      },
+      {
+        "factor": "FUEL_SYSTEM_ANOMALY",
+        "tier": "surrogate",
+        "pi_base": 0.0299,
+        "pi_ci95": [
+          0.0285,
+          0.0313
+        ],
+        "p": 0.6251,
+        "p_ci95": [
+          0.5874,
+          0.6627
+        ],
+        "contribution": 0.0134,
+        "contribution_ci95": [
+          0.0124,
+          0.0144
+        ]
+      },
+      {
+        "factor": "FUEL_CONTAMINATION",
+        "tier": "surrogate",
+        "pi_base": 0.0196,
+        "pi_ci95": [
+          0.0184,
+          0.0208
+        ],
+        "p": 0.9203,
+        "p_ci95": [
+          0.9007,
+          0.9408
+        ],
+        "contribution": 0.0129,
+        "contribution_ci95": [
+          0.012,
+          0.0137
+        ]
+      },
+      {
+        "factor": "MAINTENANCE_INADEQUATE",
+        "tier": "data",
+        "pi_base": 0.1008,
+        "pi_ci95": [
+          0.0983,
+          0.1032
+        ],
+        "p": 0.3479,
+        "p_ci95": [
+          0.3281,
+          0.3674
+        ],
+        "contribution": 0.0255,
+        "contribution_ci95": [
+          0.0239,
+          0.0271
+        ]
+      },
+      {
+        "factor": "AIRFRAME_STRUCTURAL_FAILURE",
+        "tier": "physics",
+        "pi_base": 0.0487,
+        "pi_ci95": [
+          0.0469,
+          0.0507
+        ],
+        "p": 0.0042,
+        "p_ci95": [
+          0.0,
+          0.0161
+        ],
+        "contribution": 0.0001,
+        "contribution_ci95": [
+          0.0,
+          0.0005
+        ]
+      }
+    ],
+    "scenario": {
+      "combined": {
+        "mean": 0.421,
+        "ci95": [
+          0.4177,
+          0.4242
+        ],
+        "ratio_vs_baseline_ci95": [
+          1.392,
+          1.4171
+        ]
+      },
+      "counterfactuals": {
+        "do(carburetor heat)": {
+          "mean": 0.4044,
+          "ci95": [
+            0.4011,
+            0.4077
+          ],
+          "ratio_vs_baseline_ci95": [
+            1.3373,
+            1.3604
+          ]
+        },
+        "do(restore 2 h reserve)": {
+          "mean": 0.2396,
+          "ci95": [
+            0.2358,
+            0.2431
+          ],
+          "ratio_vs_baseline_ci95": [
+            0.7926,
+            0.805
+          ]
+        },
+        "do(both)": {
+          "mean": 0.2178,
+          "ci95": [
+            0.214,
+            0.2215
+          ],
+          "ratio_vs_baseline_ci95": [
+            0.7201,
+            0.7328
+          ]
+        }
+      }
+    },
+    "icing_scenario": {
+      "combined": {
+        "mean": 0.3075,
+        "ci95": [
+          0.3036,
+          0.3116
+        ],
+        "ratio_vs_baseline_ci95": [
+          1.0226,
+          1.0289
+        ]
+      },
+      "counterfactuals": {
+        "do(carburetor heat)": {
+          "mean": 0.2877,
+          "ci95": [
+            0.2835,
+            0.2919
+          ],
+          "ratio_vs_baseline_ci95": [
+            0.9566,
+            0.9625
+          ]
+        },
+        "do(drier air, dewpoint -5 C)": {
+          "mean": 0.3007,
+          "ci95": [
+            0.2967,
+            0.3048
+          ],
+          "ratio_vs_baseline_ci95": [
+            1.0,
+            1.0062
+          ]
+        }
+      }
+    }
+  }
+}

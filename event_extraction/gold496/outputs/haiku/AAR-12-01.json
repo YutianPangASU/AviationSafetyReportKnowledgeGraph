@@ -1,0 +1,155 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Manufacturing defect in speedbrake no-back clutch mechanism",
+      "trigger": "latent assembly defect in the no-back clutch mechanism that intermittently prevented the speedbrake actuator from automatically driving the speedbrake lever beyond its armed detent",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "AUTOMATION_ANOMALY",
+      "label": "Automatic speedbrakes fail to deploy after touchdown",
+      "trigger": "the automatic speedbrakes failed to automatically deploy as designed after touchdown",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "latent defect prevented the speedbrake actuator from automatically driving the speedbrake lever beyond its armed detent"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Thrust reversers lock in transit instead of deploying",
+      "trigger": "the thrust reversers locked in transit instead of continuing to deploy due to rare mechanical/hydraulic interaction",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Captain calls out speedbrake deployment without confirming",
+      "trigger": "the captain made the callout in anticipation (not in confirmation) of speedbrake deployment after observing the lever's initial movement",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "captain observed the speedbrake handle's brief movement and presumed the automatic speedbrakes were functioning normally"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain assumes control of reverse thrust levers",
+      "trigger": "the captain took over the thrust reverser controls from the first officer",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "captain said 'I got it' after the first officer reported 'no reverse'"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Both pilots become focused on resolving thrust reverser problem",
+      "trigger": "both pilots were distracted by, confused by, and trying to resolve the thrust reverser nondeployment",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "thrust reverser failure triggered problem-solving efforts"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "captain assuming control of thrust reversers escalated pilots' focus on this problem"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Pilots fail to recognize speedbrakes did not deploy",
+      "trigger": "neither pilot recognized that the speedbrakes had not automatically deployed because they were distracted by trying to resolve the thrust reverser nondeployment",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "speedbrakes failed to deploy"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "captain's erroneous callout led pilots to believe deployment occurred"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "both pilots distracted by thrust reverser problem"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Speedbrakes not manually deployed to correct automatic failure",
+      "trigger": "neither pilot manually deployed the speedbrakes; they remained unaware until the airplane came to rest off the runway",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "pilots did not recognize that speedbrakes had not deployed"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Airplane runs off departure end of runway into deep snow",
+      "trigger": "the airplane ran off the departure end of runway 19 and came to a stop approximately 730 feet past the departure end in deep snow",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "without speedbrakes, braking effectiveness reduced by up to 60 percent; calculated stopping distance approximately 6800 feet versus 3800 feet with normal operation"
+        },
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "speedbrakes not manually deployed, preventing recovery of braking effectiveness"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "delayed thrust reverser deployment (18 seconds) contributed to extended stopping distance"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

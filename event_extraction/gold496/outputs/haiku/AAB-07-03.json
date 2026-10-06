@@ -1,0 +1,121 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Pilot's 1-week suspension was not enforced",
+      "trigger": "Chief pilot ordered suspension August 17, 2001 for TOPS violations; director of operations stated it was postponed due to staffing and later 'forgot' to enforce",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot flew aggressively on accident day, continuing established pattern",
+      "trigger": "Pilot's 11th flight through canyon that day; passenger complaints and video evidence document pattern of aggressive flying from 2001-2003; 'Kamikaze' nickname from competitors",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Non-enforcement conveyed that reckless flying would not result in discipline"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Aggressive maneuvering and high-speed low-altitude flight through canyon",
+      "trigger": "Passenger photo shows 69° left bank; videotape shows 99° left bank and 55° nose-down pitch; wreckage evidence consistent with high airspeed, near-level attitude at strike; airspeed indicator showed 145-150 knots",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Pilot's decision to fly aggressively led to execution of extreme control inputs"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "TERRAIN_OR_OBSTACLE_PROXIMITY",
+      "label": "Main rotor blade struck near-vertical canyon wall",
+      "trigger": "Gouge in canyon wall consistent with blade strike at ~2,000 feet msl; blade tip fragment found at strike location, 1.2 nm from canyon rim",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "High-speed aggressive maneuvering in confined canyon led to blade striking terrain"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Main rotor system damaged from blade strike",
+      "trigger": "Main rotor blade damage; one pitch link separated at pitch horn showing overload; wreckage examination revealed 'extensive impact and fire damage' to blades and hub",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Blade strike caused rotor system structural damage"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Helicopter became uncontrollable",
+      "trigger": "Rotor damage 'likely rendered the helicopter uncontrollable'; no recovery possible after main rotor blade struck canyon wall",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Rotor system damage resulted in loss of control"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter impacted canyon wall ledge",
+      "trigger": "Main wreckage located on canyon wall ledge ~400 feet from initial rotor strike; fuselage destroyed by impact forces and postcrash fire at ~1,960 feet msl",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Uncontrolled flight resulted in impact with terrain"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All seven occupants killed",
+      "trigger": "Pilot and six passengers killed; pilot cause of death 'multiple blunt force trauma and thermal injuries'; all fatalities resulted from impact forces and postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Impact and fire caused fatalities of all occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

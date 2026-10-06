@@ -1,0 +1,125 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "RUNWAY_CONDITION_HAZARD",
+      "label": "Wet runway",
+      "trigger": "Runway 8 was wet; 0.77 inches of rain fell in 8 hours before accident",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "ATC speed restriction not timely cancelled",
+      "trigger": "Maintain 230 knots or greater restriction issued 1804:02, not cancelled until approach clearance at 1808:19, over 3 minutes later",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Crew delayed reducing airspeed and configuring aircraft",
+      "trigger": "Flight crew did not extend speed brakes or flaps until 1809:28, more than 1 minute after approach clearance at 1808:19",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "The captain's delay in reducing airspeed and configuring the airplane caused the flight crew to initiate final descent at a higher altitude and a faster airspeed than normal"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "High altitude and airspeed entry to final descent (7-degree angle)",
+      "trigger": "Airplane at 220 knots and high altitude entering descent; GPWS 'sink rate' and 'whoop whoop pull up' alerts sounded continuously 1810:24-1810:59",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Airplane descended at 7 degree flightpath angle at 182-200 knots indicated airspeed, steep and fast compared to normal 3 degree approach"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Crew did not execute required go-around",
+      "trigger": "Captain became 'fixated on the runway' and could not explain why he did not perform a go-around maneuver when approach was unstabilized",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "GPWS warnings and steep descent indicated unstabilized approach; per company procedures, go-around required when not in slot by 1000 feet"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Late touchdown (2,150 feet from runway threshold)",
+      "trigger": "Airplane landed 2,150 feet from runway 8 threshold; normal touchdown zone is 1,000-1,500 feet from threshold",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Approach was not in proper position to land; continued descent without go-around resulted in late landing point"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Runway overrun; aircraft could not stop within available runway",
+      "trigger": "Airplane overran departure end of runway 8, traveled 4,150 feet from touchdown to impact with blast fence",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Wet runway conditions; stopping distance simulations show airplane required 4,700 feet to stop with maximum manual brakes"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Airplane touched down at 182 knots indicated airspeed, 44 knots over reference speed, greatly increasing stopping distance requirement"
+        },
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Landing 2,150 feet down runway left only 3,882 feet available; 4,700 feet required to stop; shortfall of 818 feet made overrun inevitable"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Collision with metal blast fence and airport perimeter wall",
+      "trigger": "Airplane departed runway 30 degrees from heading, penetrated metal blast fence and perimeter wall, came to rest on city street off airport",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Runway overrun led to impact with blast fence located 32 feet from runway departure end"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

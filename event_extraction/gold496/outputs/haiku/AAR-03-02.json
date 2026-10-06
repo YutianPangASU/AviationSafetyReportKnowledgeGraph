@@ -1,0 +1,76 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "MAINTENANCE_INADEQUATE",
+      "label": "Improper installation of right elevator control tab attachment bolt without cotter pin",
+      "trigger": "During the D inspection at TTS in November 1999, maintenance personnel installed the right elevator control tab but failed to properly secure the attachment bolt with the required castellated nut and cotter pin",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Right elevator control tab disconnected and mechanically restricted in extreme trailing-edge-down position",
+      "trigger": "As aerodynamic forces increased during takeoff roll, the improperly secured bolt migrated free; the right control tab disconnected from its pushrod and shifted to extreme TED deflection, where the crank fitting contacted the free pushrod end, locking the tab at approximately 25° asymmetry to the left control tab",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Bolt not secured with cotter pin separated under flight loads, allowing control tab disconnection and restriction"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncommented pitch-up and loss of pitch control during takeoff roll",
+      "trigger": "With the right elevator control tab locked in extreme TED deflection, aerodynamic forces drove both elevator surfaces to maximum trailing-edge-up position; pilots applied maximum forward control inputs but could not overcome the pronounced nose-up pitch effect",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "The 25° asymmetry between left and right elevator control tabs, with right tab in extreme TED, forced aircraft into irrecoverable nose-up pitch attitude despite full forward control inputs"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted ground",
+      "trigger": "Unable to regain control of the aircraft, the flight crew attempted to return to the airport but could not arrest the progressive loss of altitude and control; the aircraft impacted the ground in a left-wing-low, slightly nose-up attitude in a salvage yard approximately 1 mile east of the departure runway",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Loss of pitch control prevented pilots from maintaining safe flight and maneuvering to a safe landing"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Three flight crewmembers fatally injured",
+      "trigger": "The captain, first officer, and flight engineer were killed; the captain and flight engineer died of thermal and traumatic injuries, and the first officer died of thermal injuries and inhalation of combustion products from the post-crash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Aircraft impact and post-crash fire resulted in fatalities of all three crew members"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

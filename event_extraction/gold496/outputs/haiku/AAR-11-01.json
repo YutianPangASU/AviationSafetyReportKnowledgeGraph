@@ -1,0 +1,200 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Pilot fatigue from acute sleep loss",
+      "trigger": "Captain slept only 5 hours (normal 11-15 hours including naps); first officer slept ~6 hours after taking unprescribed zolpidem",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Inadequate preflight weather briefing",
+      "trigger": "Weather package printed 2 hours before departure showed clear conditions at OWA; no area forecast, severe weather watches, or Convective SIGMETs obtained",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Fatigue impaired judgment in decision to not obtain comprehensive weather information"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "THUNDERSTORM_OR_CONVECTIVE",
+      "label": "Severe weather encountered",
+      "trigger": "Mesoscale convective system with bow echo produced heavy rain, lightning, damaging winds to 65 knots, and cumulonimbus tops to 44,000 feet in Owatonna area",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "RUNWAY_CONDITION_HAZARD",
+      "label": "Wet ungrooved runway condition",
+      "trigger": "Heavy precipitation produced wet runway surface with friction only 20-30% of dry runway; ~0.41 inch precipitation at time of accident",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Heavy rain from MCS created wet runway conditions"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "WIND_SHEAR_OR_GUST",
+      "label": "Tailwind encountered during approach",
+      "trigger": "Actual wind at 12 seconds before landing was 195° at 17 knots (5.6-knot tailwind for runway 30), contrary to forecast headwind and controller's 20-minute-old report of 320° at 8 knots",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Wind shift associated with passage of MCS bow echo with strong westerly winds"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Approach briefing not conducted",
+      "trigger": "Captain responded to approach briefing call with only 'it's gonna be the ILS to three zero' without briefing missed approach procedure, runway conditions, or contingencies",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Fatigue degraded adherence to standard procedures"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Poor crew coordination and cockpit discipline",
+      "trigger": "Inadequate checklist discipline, nonstandard terminology, FBO radio calls below 10,000 feet, first officer not effectively utilized for monitoring; pilots exhibited lack of sterile cockpit adherence",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Fatigue degraded crew coordination and monitoring abilities"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "Lack of approach briefing set undisciplined tone for cockpit environment"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Current wind information not monitored",
+      "trigger": "Pilots did not verbally monitor or acknowledge wind information displayed on FMS and HSI despite Rochester approach controller's update; unaware of actual tailwind condition",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Poor crew coordination prevented effective monitoring of critical wind information"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Lift dump not deployed immediately",
+      "trigger": "At touchdown (0945:04), captain moved airbrake to OPEN position instead of full DUMP; full lift dump deployment occurred ~7 seconds after touchdown instead of immediately per company procedures",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "Poor cockpit discipline resulted in non-standard control input execution"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Go-around initiated too late in landing roll",
+      "trigger": "After ~17 seconds into landing roll (0945:22), captain called for flaps and initiated go-around with insufficient runway remaining (~4,000 feet) to clear runway end and localizer antenna at 1,000 feet from threshold",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "Lack of approach briefing and committed-to-stop point discussion left captain unprepared for landing difficulties"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Wet runway drastically reduced available friction, producing inadequate deceleration"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Tailwind increased ground speed and landing distance; captain may not have accounted for it"
+        },
+        {
+          "src": 8,
+          "strength": "contributing",
+          "evidence": "Delayed lift dump deployment reduced initial deceleration rate, making situation appear worse"
+        },
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Fatigue impaired judgment under time pressure; delayed recognition of landing performance deficiency"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck antenna and impacted ground",
+      "trigger": "Airplane lifted off ~978 feet from runway end; struck ILS localizer antenna at ~1,000 feet from runway end at ~5 feet agl; continued descending at steep right bank and impacted ground in cornfield ~2,136 feet from runway end",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "Late go-around attempt with insufficient runway prevented aircraft from climbing and clearing runway end obstacle"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to all occupants",
+      "trigger": "Impact forces resulted in fatal traumatic injuries to head, neck, chest, and extremities of 2 pilots and 6 passengers",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 10,
+          "strength": "direct",
+          "evidence": "Ground impact produced complete loss of survivable space; accident not survivable"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

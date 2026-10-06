@@ -20,3 +20,16 @@
 /data/NTSB_REPORTS
 
 /paper
+# paper artifacts the README points to (released with the paper)
+!event_extraction/prompts/*.json
+!event_extraction/out/*.summary.json
+!event_extraction/out/eval_extras_v4_*.json
+!event_extraction/out/semantic_eval_v4_*.jsonl
+!event_extraction/out/chain_order_v4_*.jsonl
+!event_extraction/out/tsb_order_judged.jsonl
+!event_extraction/out/selfconsistency/*
+!event_extraction/out/causation_kg/*.json
+!event_extraction/gold496/**/*.json
+!event_extraction/gold496/**/*.jsonl
+!physics/out/*.json
+!event_extraction/out/adjudication/spotcheck_50_scores.json

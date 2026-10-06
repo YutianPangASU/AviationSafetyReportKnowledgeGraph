@@ -1,0 +1,105 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Required rigging procedure steps skipped",
+      "trigger": "Mechanic bypassed several steps of the complete elevator control system rigging procedure",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Elevator control system misrigged with restricted downward deflection",
+      "trigger": "Adjustments to cable turnbuckles resulted in downward elevator travel limited to approximately 7° instead of design specification of 14° to 15°",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Procedure steps skipped during rigging resulted in incorrect elevator travel limit"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Aft center of gravity exceeding certified limit",
+      "trigger": "Airplane's actual CG position was 45.5±2% MAC, substantially aft of the Beech 1900D aft CG limit of 40% MAC",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncontrolled pitch-up to 54° nose-up",
+      "trigger": "Flight crew was forcefully commanding nose-down inputs but aircraft continued pitching up; FDR recorded maximum pitch attitude of 54° ANU",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Restricted elevator downward travel prevented adequate pitch control to counter pitch-up tendency"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Aft CG reduced pitch control effectiveness and longitudinal stability"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall during uncontrolled pitch-up",
+      "trigger": "CVR recorded stall warning horn beginning about 0847:21.7 as aircraft reached extreme pitch attitude with minimum airspeed of 31 knots",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Extreme angle of attack from uncontrolled pitch-up exceeded stall angle"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Ground impact with hangar and terrain",
+      "trigger": "Aircraft struck US Airways maintenance hangar on CLT property and came to rest 1,650 feet east of runway 18R centerline",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Stall resulted in loss of lift and descent into terrain"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "21 fatalities from impact forces and post-crash fire",
+      "trigger": "The 2 flight crewmembers and 19 passengers aboard the airplane were killed; aircraft destroyed by impact forces and postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Impact forces exceeded human tolerance limits"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

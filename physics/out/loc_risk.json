@@ -1,0 +1,234 @@
+{
+  "target": "LOSS_OF_CONTROL_INFLIGHT",
+  "reference_class": "given a reportable accident",
+  "leading_factor_rule": {
+    "rho": 0.02,
+    "records_with_target": 9813,
+    "support_threshold": 196.3,
+    "n_parents": 14
+  },
+  "leak": 0.1101,
+  "fitted_mean": 0.1747,
+  "empirical_prevalence": 0.1754,
+  "nll_per_record": 0.4236,
+  "factors": [
+    {
+      "factor": "STALL",
+      "tier": "physics",
+      "model": "6-DOF",
+      "support": 2428,
+      "q": 0.3656,
+      "lift": 2.084,
+      "base_rate": 0.1187,
+      "p": 0.3074,
+      "contribution": 0.0313
+    },
+    {
+      "factor": "CONTROL_INPUT_IMPROPER",
+      "tier": "data",
+      "model": null,
+      "support": 1430,
+      "q": 0.0511,
+      "lift": 0.291,
+      "base_rate": 0.5006,
+      "p": 0.0,
+      "contribution": 0.0
+    },
+    {
+      "factor": "ENGINE_FAILURE",
+      "tier": "surrogate",
+      "model": "hazard",
+      "support": 1016,
+      "q": 0.0619,
+      "lift": 0.353,
+      "base_rate": 0.2933,
+      "p": 0.0,
+      "contribution": 0.0
+    },
+    {
+      "factor": "DECISION_INAPPROPRIATE",
+      "tier": "data",
+      "model": null,
+      "support": 697,
+      "q": 0.0318,
+      "lift": 0.181,
+      "base_rate": 0.3921,
+      "p": 0.0,
+      "contribution": 0.0
+    },
+    {
+      "factor": "CONTROL_SURFACE_ANOMALY",
+      "tier": "surrogate",
+      "model": "reliability",
+      "support": 624,
+      "q": 0.3451,
+      "lift": 1.967,
+      "base_rate": 0.0323,
+      "p": 0.2898,
+      "contribution": 0.0078
+    },
+    {
+      "factor": "AIRFRAME_STRUCTURAL_FAILURE",
+      "tier": "physics",
+      "model": "V--n",
+      "support": 560,
+      "q": 0.2053,
+      "lift": 1.17,
+      "base_rate": 0.0488,
+      "p": 0.1484,
+      "contribution": 0.006
+    },
+    {
+      "factor": "SPATIAL_DISORIENTATION",
+      "tier": "data",
+      "model": null,
+      "support": 448,
+      "q": 0.4797,
+      "lift": 2.734,
+      "base_rate": 0.0167,
+      "p": 0.4261,
+      "contribution": 0.0059
+    },
+    {
+      "factor": "PROCEDURE_NOT_FOLLOWED",
+      "tier": "data",
+      "model": null,
+      "support": 387,
+      "q": 0.0236,
+      "lift": 0.135,
+      "base_rate": 0.2929,
+      "p": 0.0,
+      "contribution": 0.0
+    },
+    {
+      "factor": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+      "tier": "data",
+      "model": null,
+      "support": 360,
+      "q": 0.2723,
+      "lift": 1.552,
+      "base_rate": 0.0236,
+      "p": 0.3267,
+      "contribution": 0.0064
+    },
+    {
+      "factor": "TURBULENCE_ENCOUNTER",
+      "tier": "physics",
+      "model": "gust",
+      "support": 334,
+      "q": 0.2269,
+      "lift": 1.293,
+      "base_rate": 0.0263,
+      "p": 0.1902,
+      "contribution": 0.0042
+    },
+    {
+      "factor": "PERCEPTION_FAILURE",
+      "tier": "data",
+      "model": null,
+      "support": 318,
+      "q": 0.0342,
+      "lift": 0.195,
+      "base_rate": 0.1663,
+      "p": 0.0,
+      "contribution": 0.0
+    },
+    {
+      "factor": "ADVERSE_WIND_CONDITION",
+      "tier": "data",
+      "model": null,
+      "support": 307,
+      "q": 0.035,
+      "lift": 0.2,
+      "base_rate": 0.1567,
+      "p": 0.0,
+      "contribution": 0.0
+    },
+    {
+      "factor": "OTHER_SYSTEM_FAILURE",
+      "tier": "data",
+      "model": null,
+      "support": 292,
+      "q": 0.08,
+      "lift": 0.456,
+      "base_rate": 0.0653,
+      "p": 0.0,
+      "contribution": 0.0
+    },
+    {
+      "factor": "WIND_SHEAR_OR_GUST",
+      "tier": "physics",
+      "model": "gust",
+      "support": 235,
+      "q": 0.1071,
+      "lift": 0.61,
+      "base_rate": 0.0392,
+      "p": 0.0396,
+      "contribution": 0.0013
+    }
+  ],
+  "scenario": {
+    "description": "low-speed maneuvering in a 35 kt surface wind",
+    "stall_source": "phase-stratified calibration, maneuvering, load factor Normal(1.55, 0.45)",
+    "turbulence_source": "isotonic link on the Dryden exceedance at 35 kt",
+    "pi_overrides": {
+      "STALL": 0.2651,
+      "TURBULENCE_ENCOUNTER": 0.2
+    },
+    "P": 0.2393,
+    "ratio_vs_baseline": 1.37,
+    "counterfactuals": {
+      "do(coordinated turn, load factor 1.2)": {
+        "pi_overrides": {
+          "STALL": 0.0636,
+          "TURBULENCE_ENCOUNTER": 0.2
+        },
+        "P": 0.188,
+        "ratio_vs_baseline": 1.077,
+        "ratio_vs_scenario": 0.786
+      },
+      "do(10 kt gust margin)": {
+        "pi_overrides": {
+          "STALL": 0.2651,
+          "TURBULENCE_ENCOUNTER": 0.0778
+        },
+        "P": 0.221,
+        "ratio_vs_baseline": 1.265,
+        "ratio_vs_scenario": 0.924
+      },
+      "do(both)": {
+        "pi_overrides": {
+          "STALL": 0.0636,
+          "TURBULENCE_ENCOUNTER": 0.0778
+        },
+        "P": 0.1684,
+        "ratio_vs_baseline": 0.964,
+        "ratio_vs_scenario": 0.704
+      }
+    }
+  },
+  "variants": {
+    "maneuvering only (calm wind)": {
+      "pi_overrides": {
+        "STALL": 0.2651
+      },
+      "P": 0.2132,
+      "ratio_vs_baseline": 1.221
+    },
+    "aggressive turn, load factor 1.8, 35 kt wind": {
+      "pi_overrides": {
+        "STALL": 0.3868,
+        "TURBULENCE_ENCOUNTER": 0.2
+      },
+      "P": 0.2703,
+      "ratio_vs_baseline": 1.548
+    },
+    "35 kt wind only": {
+      "pi_overrides": {
+        "TURBULENCE_ENCOUNTER": 0.2
+      },
+      "P": 0.2021,
+      "ratio_vs_baseline": 1.157
+    }
+  }
+}

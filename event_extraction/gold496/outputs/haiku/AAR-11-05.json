@@ -1,0 +1,150 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "Ambient air temperature below 0°C during all flight segments",
+      "trigger": "EIS trend data recorded average outside air temperature of -32°C to -40°C at cruise altitudes",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot failed to request fuel system icing inhibitor when refueling",
+      "trigger": "The fueling station manager stated that the pilot did not request that a fuel system icing inhibitor be added; same occurred at VCB self-service pump",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "FUEL_CONTAMINATION",
+      "label": "Fuel contaminated with ice crystals and water accumulation",
+      "trigger": "The low fuel pressure state and restricted fuel supply were the result of an accumulation of ice in the fuel system with initial concentration at the airframe fuel filter",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Water in jet fuel freezes at temperatures below 0°C without FSII protection"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Absence of FSII allowed ice crystals to accumulate in fuel system"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "FUEL_SYSTEM_ANOMALY",
+      "label": "Low fuel pressure state and degraded fuel system performance",
+      "trigger": "About 1 hour 13 minutes into flight, both fuel boost pumps began cycling due to low fuel pressure state; left-side fuel system unable to maintain required pressure even with boost pump continuously on",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Ice accumulation blocked fuel flow through filter and restricted supply from left tank"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Fuel redistribution created left-wing-heavy imbalance that progressively worsened",
+      "trigger": "Fuel was being drawn solely from right tank by right boost pump while left tank filled from fuel return lines; left-wing-heavy imbalance continued to increase, reaching 1,300 pounds",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Degraded left-side fuel pressure forced right boost pump to supply all engine fuel"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot failed to divert to suitable airport when fuel imbalance exceeded AFM limits",
+      "trigger": "The pilot elected to continue to BZN despite maximum fuel imbalance limit of 178 pounds being exceeded; when finally diverting, selected BTM (119 miles, 29 minutes away) instead of nearer suitable airports like LLJ (16 miles, 4 minutes away)",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Fuel quantity indicator displayed imbalance exceeding three-bar limit; pilot downplayed seriousness due to lack of adverse outcomes during prior similar events"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Fuel imbalance reached extreme levels (approximately 1,300 pounds, 27-bar differential)",
+      "trigger": "At final CAWS entries, fuel imbalance displayed as 27-bar differential on fuel quantity indicator; left tank filled to capacity while right tank nearly empty",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Continued flight and descent for additional 29+ minutes allowed imbalance to progressively worsen"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of control during approach maneuver near runway",
+      "trigger": "Airplane flew northwest away from runway, entered sharp left turn at approximately 300 feet agl, nose pitched down suddenly",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Extreme left-wing-heavy fuel imbalance created large left rolling moment; during dynamic maneuvering at low speed, pilot could not maintain control"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Airplane impacted terrain",
+      "trigger": "The airplane impacted the ground about 2,100 feet west of the runway 33 centerline in a cemetery",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "Loss of control resulted in descent from approximately 300 feet agl to ground impact"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All occupants fatally injured",
+      "trigger": "The pilot and the 13 airplane passengers were fatally injured; total of 14 fatalities",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "High-impact forces caused fatal blunt force injuries to all aircraft occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

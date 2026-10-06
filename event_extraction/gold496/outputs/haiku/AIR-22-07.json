@@ -1,0 +1,66 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Encountered SLD icing conditions",
+      "trigger": "climbed to the assigned altitude of 10,000 ft with the autopilot engaged and encountered light rime icing conditions",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncommanded right bank and spiral descent",
+      "trigger": "During the descent, the autopilot suddenly disengaged, and the airplane entered an abrupt uncommanded right bank followed by a steep nose-down spiraling descent",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "ice accumulation from SLD encounter caused aerodynamic changes and aileron hinge moment effects leading to loss of control"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot applied control inputs to recover",
+      "trigger": "The pilot stated that she was fighting to regain control of the airplane because the aileron controls were jammed",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "pilot's immediate response to regain control from loss-of-control condition"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "EMERGENCY_LANDING",
+      "label": "Emergency landing at Fairbanks",
+      "trigger": "the pilot declared an in-flight emergency and made an emergency landing at FAI",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "loss of control and structural damage necessitated emergency landing"
+        },
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "pilot's control recovery efforts enabled safe landing"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

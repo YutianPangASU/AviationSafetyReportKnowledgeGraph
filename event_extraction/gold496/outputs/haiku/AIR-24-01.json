@@ -1,0 +1,184 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "Multiple concurrent operational tasks during taxi",
+      "trigger": "Load closeout delayed until 2043:06, weather advisories received at 2042:12-2042:14, dangerous goods annotation requiring verification",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "unknown",
+      "label": "Clearance to cross runway 31L issued too early",
+      "trigger": "At 2040:13, clearance issued 4 minutes before airplane reached taxiway K, weakening prospective memory cue",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain forgot to turn right onto taxiway K",
+      "trigger": "Captain did not turn right onto taxiway K and continued along taxiway B despite receiving clearance",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Interruptions and multitasking reduced attention to taxi task at critical navigation point"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Early clearance issued 4 minutes prior, weakening memory cueing strength"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain continued along familiar incorrect taxi route toward runway 4L",
+      "trigger": "After missing turn at K, captain's automatic schemas drove him to continue toward taxiway J and runway 4L on familiar route",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Environmental capture after prospective memory error; schema-driven action overrode conscious intention"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "FO and FB failed to detect captain's navigation error during taxi",
+      "trigger": "FO head-down with load closeout verification for 1.5 minutes including during missed turn; FB head-down cleaning paperwork and adjusting radio until airplane crossed hold short line",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Concurrent tasks divided crew's visual attention from external monitoring at critical phase"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "FO failed to detect wrong runway number on approach signs",
+      "trigger": "FO's attention divided during takeoff performance verification; performed cursory visual scan without focusing on runway identification signs showing runway 4L",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Load closeout crosscheck tasks during approach reduced visual attention to runway signs"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Night visual meteorological conditions with complex airport lighting",
+      "trigger": "Night visual meteorological conditions prevailed at JFK with dense array of taxiway edge lights, runway lights, and directional signs",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Crew failed to detect DAL1943 on runway before crossing",
+      "trigger": "Captain and FO performed visual scan but neither saw DAL1943; small distant aircraft with no apparent motion in complex visual scene of airport lights",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "contributing",
+          "evidence": "Night conditions and complex lighting array made small target difficult to detect visually"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Limited time for visual scan while turning onto taxiway J"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "AAL106 crossed runway 4L without ATC clearance",
+      "trigger": "At 2044:40 nose crossed runway 4L hold short marking; at 2044:50 entered runway proper while DAL1943 at 2,700 feet away accelerating through 94 knots",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Captain's failure to turn at taxiway K initiated wrong taxi path"
+        },
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "Captain's continued navigation toward runway 4L via taxiway J"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "FO and FB failed to detect and correct error during taxi"
+        },
+        {
+          "src": 5,
+          "strength": "contributing",
+          "evidence": "FO did not recognize wrong runway number on signs"
+        },
+        {
+          "src": 7,
+          "strength": "contributing",
+          "evidence": "Crew did not abort after detecting other aircraft"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "EMERGENCY_LANDING",
+      "label": "DAL1943 initiated emergency rejected takeoff",
+      "trigger": "At 2044:47 controller cancelled takeoff clearance due to ASDE-X runway occupied alert; at 2044:51 crew executed rejected takeoff reaching maximum speed 105 knots",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "Runway incursion detection by ASDE-X triggered controller's cancellation of takeoff clearance"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "SUCCESSFUL_RECOVERY",
+      "label": "No collision; successful separation maintained",
+      "trigger": "AAL106 cleared runway 4L at 2045:02 when DAL1943 was 1,000 feet away at 49 knots; DAL1943 stopped at 2045:23 without collision",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "DAL1943's timely rejected takeoff and deceleration prevented collision with AAL106"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "no_damage_or_injury"
+}
+```

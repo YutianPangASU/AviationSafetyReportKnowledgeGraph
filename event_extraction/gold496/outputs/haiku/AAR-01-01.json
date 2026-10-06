@@ -1,0 +1,61 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Latent defect in main rudder PCU servo valve - tight clearances enabling jam",
+      "trigger": "Servo valve secondary slide could jam to servo valve housing offset from neutral position without leaving physical evidence",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Servo valve secondary slide jam with primary slide overtravel, causing rudder reversal to right blowdown limit",
+      "trigger": "Pilot's left rudder pedal input triggered jam of secondary slide; primary slide overtraveled allowing rudder to deflect right opposite to commanded left direction",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Jam of main rudder PCU servo valve secondary slide to servo valve housing offset from neutral position and overtravel of primary slide produced rudder movement opposite to pilot command"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Uncontrolled yaw and roll motion; airplane rolled right to inverted attitude with nose down",
+      "trigger": "Right rudder deflection to blowdown limit initiated rapid right roll; within 3 seconds bank angle increased from approximately 20 degrees to more than 80 degrees; nose pitched down to nearly vertical",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Roll continued until airplane inverted with nose nearly straight down; pilots attempted full left control wheel input but could not recover in time"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Collision with terrain in steep nose-down inverted attitude at high descent rate",
+      "trigger": "Airplane impacted relatively flat terrain 3.47 nautical miles south of runway 35 at elevation of 5,704 feet; impact at approximately 80-degree nose-low attitude with 4 G normal acceleration",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Impact occurred 9 seconds after onset of rudder reversal during uncontrolled descent from 1,000 feet altitude; all 25 occupants fatally injured"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

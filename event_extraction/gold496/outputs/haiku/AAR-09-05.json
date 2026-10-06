@@ -1,0 +1,91 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "BIRD_OR_WILDLIFE_STRIKE",
+      "label": "Collision with American white pelican flock during climb-out",
+      "trigger": "airplane's flight track intersected with cluster of pelicans; rapid descent began",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Wing structure damage and fuel tank breach",
+      "trigger": "light trail from left side; wing leading edge struck, breaching integral fuel tank",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "kinetic energy of strike (35,416 ft-lbs) far exceeds certification standard (14,586 ft-lbs)"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "ENGINE_FAILURE",
+      "label": "Right engine bird ingestion and power loss",
+      "trigger": "feather fragment in right engine inlet; soft-body impact damage to fan blades",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "pelican remains identified on wreckage; right engine displayed soft-body impact damage; loss of one engine alone would not cause loss of control"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of control with left roll through inverted position",
+      "trigger": "steep descent, left roll spiraling to ground, left roll through inverted position",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "departure from controlled flight resulted from wing structure damage sustained by bird collision exceeding design certification limit"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Ground impact approximately 4 miles south of PWA",
+      "trigger": "airplane impacted ground in steep nose-down descent",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "steep descent following loss of control led to impact with terrain"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Five fatalities (2 pilots, 3 passengers)",
+      "trigger": "pilot, second pilot, and three passengers killed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "accident not survivable due to impact forces exceeding limits of human tolerance"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

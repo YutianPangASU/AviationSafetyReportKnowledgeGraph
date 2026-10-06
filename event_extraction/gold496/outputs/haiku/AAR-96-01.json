@@ -1,0 +1,97 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Encounter freezing drizzle/rain with large supercooled water drops",
+      "trigger": "Flight held in LUCIT intersection area encountered supercooled water drops in freezing drizzle/rain with mean volumetric diameters 100-2000 microns and liquid water content 0.1-0.7 g/m³",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Ice ridge formation aft of deice boots on upper wing surface",
+      "trigger": "Ice accreted beyond the deice boots in a ridge shape approximately 3/4 inch high spanning spanwise ahead of ailerons, caused by large supercooled drops in freezing drizzle that exceeded deice boot coverage",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 0, "strength": "direct", "evidence": "ice ridge formation results directly from freezing drizzle encounter with droplets exceeding deice boot protection area"}]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Airflow separation at aileron due to ice ridge contamination at high angle of attack",
+      "trigger": "As flaps were retracted at 1557:23 during descent, autopilot pitched nose-up to maintain preset vertical speed, increasing angle of attack through 5 degrees where airflow separated at right aileron above the ice ridge",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 1, "strength": "direct", "evidence": "ice ridge caused aerodynamic flow separation on aileron surface as angle of attack increased above 5 degrees"}]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Aileron hinge moment reversals with rapid uncommanded deflections",
+      "trigger": "FDR recorded ailerons rapidly deflected 13.43 degrees right-wing-down at 1557:33 at rates exceeding 50 degrees per second, and again right-wing-down at 1557:38 during recovery attempts, far exceeding commanded rates",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 2, "strength": "direct", "evidence": "airflow separation caused aileron hinge moment reversal, resulting in ailerons deflecting rapidly to zero hinge moment position near full travel limits"}]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "AUTOMATION_ANOMALY",
+      "label": "Autopilot disconnect due to aileron deflection rate exceeding control capability",
+      "trigger": "Autopilot detected aileron deflection rate of 50+ degrees per second, exceeding servo motor capability of approximately 9 degrees per second, and automatically disconnected. CVR recorded autopilot disconnect warning triple-chirp.",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "aileron deflection rate caused by hinge moment reversal exceeded autopilot servo control authority threshold, triggering automatic disconnect"}]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Rapid uncontrolled roll excursions and steep descent to 1,700 feet",
+      "trigger": "FDR showed airplane rolled rapidly right to 77 degrees right-wing-down within seconds of aileron deflection. After partial recovery, second major roll excursion approaching inverted. Altitude decreased from 6,000 to 1,700 feet at descent rate of 400 feet per second with airspeed exceeding 300 KIAS.",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 3, "strength": "direct", "evidence": "uncommanded aileron deflection caused rapid roll uncontrolled by pilot inputs"}, {"src": 4, "strength": "contributing", "evidence": "autopilot disconnect removed automated roll correction authority, allowing roll rate to accelerate and pitch attitude to become increasingly unstable"}]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "STRUCTURAL_OVERLOAD",
+      "label": "Excessive wing and tail structural loading during recovery pullup at high speed and low altitude",
+      "trigger": "At 1,700 feet altitude with aircraft at 375 KIAS in steep nose-down attitude approximately 38 degrees, crew applied nose-up elevator control creating vertical acceleration exceeding 3.7 G sustained load",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 5, "strength": "direct", "evidence": "steep high-speed descent necessitated aggressive recovery pullup maneuver, creating structural loads exceeding design limits on outboard wing sections and empennage"}]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_BREAKUP",
+      "label": "Outboard wing sections and horizontal tail structural separation in flight",
+      "trigger": "FDR data showed vertical acceleration rapidly increasing to 3.7+ G at 1,682 feet altitude. CVR recorded loud crunching sound indicating structural failure. Wreckage distribution showed outboard portions of both wings approximately 10 feet inboard from tips and entire horizontal stabilizer separated and distributed southwest of impact craters.",
+      "cause_role": "contributing",
+      "caused_by": [{"src": 6, "strength": "direct", "evidence": "structural overload from recovery maneuver caused fatigue crack initiation and rapid propagation resulting in separation of outboard wing sections and tail surfaces"}]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft ground impact in partially inverted nose-down attitude",
+      "trigger": "Aircraft impacted wet soybean field near Roselawn, Indiana at 1557:56 CST in nose-down, left-wing-low, partially inverted attitude at high rate of speed, fragmented into three major impact craters",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 7, "strength": "direct", "evidence": "structural separation of wings and tail removed control surfaces and compromised structural integrity, leading to uncontrolled descent and ground impact"}]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatal injuries to all 68 occupants",
+      "trigger": "Captain, first officer, two flight attendants, and 64 passengers all received fatal injuries. Medical examination determined deaths resulted from multiple anatomical separations secondary to velocity impact forces.",
+      "cause_role": "outcome",
+      "caused_by": [{"src": 8, "strength": "direct", "evidence": "high-speed ground impact with forces vastly exceeding human tolerance resulted in unsurvivable injuries to all occupants; no occupiable space remained intact"}]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

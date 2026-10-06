@@ -1,0 +1,150 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Deteriorated elevator trim tab locknut inserts",
+      "trigger": "locknut inserts showed evidence of age and reuse, rendered ineffective at providing clamping pressure; yellow paint beneath uppermost coat indicates installation since at least 1985",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Undocumented major modifications to elevator system and airframe",
+      "trigger": "single controllable left elevator trim tab installed (replaced stock two-tab system); filler material on tabs; modified elevator counterweights (approximately twice stock weight); reduced elevator inertia weight; no engineering evaluation or flight testing performed",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Aerodynamic flutter of elevator trim tabs at racing speeds",
+      "trigger": "at approximately 445 knots ground speed, reduced structural stiffness of elevator trim system allowed aerodynamic flutter to develop",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "deteriorated locknut inserts allowed trim tab attachment screws to become loose, resulting in decreased structural stiffness of the elevator trim system; at racing speeds, the decreased stiffness was sufficient to allow aerodynamic flutter"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "filler material on elevator trim tabs increased the weight of the tabs and moved their center of gravity aft, increasing the potential for flutter"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Left and right elevator trim tab link assembly failures",
+      "trigger": "left trim tab link assembly buckled and fractured in bending overload; right trim tab fixed link assembly subsequently fractured",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "excitation of the flutter resulted in dynamic compressive loads in the left elevator trim tab's link assembly that increased beyond its buckling strength, causing a bending fracture; flutter and failure of the left tab excited the right tab flutter, increasing dynamic compressive loads beyond its buckling strength"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Left roll upset and pitch-up maneuver",
+      "trigger": "loss of left elevator trim control resulted in sudden loss of downward force on elevator and sudden large aft control stick force; airplane rolled from approximately 73 degrees left bank to approximately 93 degrees left bank in less than 1 second; elevator moved nose-up",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "link assembly failure produced a sudden and large stick force directed aft, which reduced pilot's ability to hold right stick input, resulting in a momentary left roll; loss of the left trim tab's downward force resulted in sudden upward deflection of the elevator and rapid pitch-up"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "STRUCTURAL_OVERLOAD",
+      "label": "Extreme vertical acceleration reaching 17.3 G",
+      "trigger": "during pitch-up maneuver, vertical acceleration rose from approximately 3 G to 17.3 G in less than 1 second",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "vertical acceleration peaked at 17.3 G during upset sequence; rate of G onset and high-G level exceeded human tolerance"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PILOT_INCAPACITATION_OR_IMPAIRMENT",
+      "label": "Pilot G-induced loss of consciousness",
+      "trigger": "rapid rate of G onset (3 G to 17.3 G in less than 1 second) exceeded human tolerance; pilot's time of useful consciousness likely less than 1 second",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "both the rate of G onset and the high-G level exceeded human tolerance; based on available guidance, pilot's time of useful consciousness was likely less than 1 second"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Uncontrolled climb and helical descent",
+      "trigger": "pilot became completely incapacitated; airplane continued climb and descended in helical path without pilot control",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "pilot soon became completely incapacitated; airplane's continued climb and helical descent occurred without his control"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted ground in spectator seating area",
+      "trigger": "uncontrolled helical descent terminated in collision with airport ramp in spectator box seating area at Reno/Stead Airport",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "airplane descended in helical flightpath to the ground, colliding with the airport ramp in the spectator box seating area"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "11 fatalities (pilot plus 10 ground personnel) and 64+ injuries sustained",
+      "trigger": "aircraft fragmented upon collision with ramp, scattering wreckage debris throughout spectator areas",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "pilot and 10 people on the ground sustained fatal injuries, and at least 64 people on the ground were injured (at least 16 of whom were reported to have sustained serious injuries)"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

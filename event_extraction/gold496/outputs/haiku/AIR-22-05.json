@@ -1,0 +1,135 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Atypical northwest-moving weather system with moisture",
+      "trigger": "Low clouds and rain began moving onshore from the northwest about 1625-1630, an atypical weather pattern for Kauai",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Sparse weather observation infrastructure and lack of aviation weather cameras",
+      "trigger": "Only two weather reporting stations on Kauai; no aviation weather camera coverage existed at the time of accident",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Pilot encounters low visibility and deteriorating weather in Waimea Canyon",
+      "trigger": "Pilot reached north end of Waimea Canyon between 1648-1652 and encountered clouds, rain, and reduced visibility below weather minimums",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Weather system with low clouds and rain moved into Waimea Canyon area from northwest"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Pilot inadequately assesses severity of weather conditions in flight",
+      "trigger": "Pilot may have inaccurately assessed weather conditions or was overconfident in his ability to continue despite deteriorating visibility",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Atypical weather pattern from northwest was difficult to anticipate"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Inadequate preflight weather information from limited observation sources"
+        },
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Pilot encountered reduced visibility but continued rather than diverting like other pilots"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot continues VFR flight into deteriorating weather instead of diverting",
+      "trigger": "Pilot transmitted 'upper mic' position report indicating exit from canyon, then continued north into increasingly adverse weather",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Atypical weather pattern made it difficult to anticipate deteriorating conditions"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Lack of weather camera coverage limited real-time weather awareness en route"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Pilot's inadequate assessment of weather severity in flight"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Pilot loses adequate visual references and helicopter enters IMC",
+      "trigger": "Helicopter continued north from Waimea Canyon until forward visibility became effectively zero; witness heard sounds consistent with maneuvering before impact",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Pilot's continuation into weather directly resulted in loss of visual references and inability to maintain controlled flight"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter collides with terrain",
+      "trigger": "Helicopter struck steep ridge terrain on north face near Kekaha at approximately 3,000 feet MSL about 1657",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Loss of control and visual references resulted in collision with terrain at low altitude"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and all six passengers fatally injured",
+      "trigger": "All seven occupants of helicopter sustained fatal injuries; aircraft was destroyed",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "High-speed impact with terrain resulted in fatal blunt force and thermal injuries to all occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

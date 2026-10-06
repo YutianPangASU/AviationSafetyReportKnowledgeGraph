@@ -1,0 +1,75 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "AISI 1025 carbon steel rudder post (part number 40622)",
+      "trigger": "rudder posts were made of American Iron and Steel Institute (AISI) 1025 carbon steel and likely fractured due to fatigue",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Surface defects creating stress concentration (corrosion, scratches, roughness)",
+      "trigger": "Corrosion, scratches, or surface roughness features were found on all five of the rudder posts",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "AIRFRAME_STRUCTURAL_FAILURE",
+      "label": "Fatigue fracture of rudder post",
+      "trigger": "the rudder post fractured above the upper hinge and the top portion of the rudder folded over the upper tail brace wires",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "posts made of AISI 1025 carbon steel in Piper part number 40622 rudders are susceptible to fatigue cracking under normal service conditions"
+        },
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "corrosion pits or scratches on the exterior surface were associated with fatigue origin areas"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Rudder structural failure resulting in diminished directional control",
+      "trigger": "the rudder post fractured above the upper hinge and the top portion of the rudder folded over the upper tail brace wires, resulting in diminished control of the airplane",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "rudder post fractured above the upper hinge and the top portion of the rudder folded over the upper tail brace wires, resulting in diminished control of the airplane"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "EMERGENCY_LANDING",
+      "label": "Emergency landing with aircraft sustaining substantial damage",
+      "trigger": "sustained substantial damage when their rudders structurally failed in flight",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "with diminished control about the vertical axis, the flight instructor elected to return to the airport and landed without further incident"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "aircraft_damage_only"
+}
+```

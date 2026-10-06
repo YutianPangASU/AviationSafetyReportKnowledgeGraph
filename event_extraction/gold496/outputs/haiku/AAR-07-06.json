@@ -1,0 +1,112 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Heavy snow falling and accumulating at Chicago Midway",
+      "trigger": "About 10 inches of snow accumulated at MDW on the day of the accident, and snow was falling at a moderate rate at the time of the accident.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Tailwind component of 8 knots, exceeding SWA policy limit of 5 knots for poor braking",
+      "trigger": "The reported wind conditions resulted in a computed tailwind component of 8 knots. SWA policies and flight operations manuals indicate that the company does not authorize landings on runways with more than a 5-knot tailwind component with poor braking action.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilots not trained on requirement to use most restrictive braking action for mixed reports",
+      "trigger": "The topic of mixed conditions was not routinely introduced to pilots during training and was absent in the FOM. The pilots stated that they were not aware of SWA's guidance regarding mixed braking action reports.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilots unaware that OPC stopping margin for poor braking based on 5-knot limit, not actual 8-knot wind",
+      "trigger": "Pilots were not aware that stopping margins displayed by the OPC for poor runway conditions were in some cases based on a lower tailwind component than presented. No related information was provided in the FOM, and no references were made to this topic during initial, recurrent, or OPC-related ground training.",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilots decided to land despite mixed braking reports requiring diversion per policy",
+      "trigger": "All of the braking action reports provided by ATC were mixed and reported poor braking action on some portion of the runway. SWA policy requires pilots to defer to the more critical braking action assessment. Because poor braking conditions were reported for a portion of the runway and SWA guidance indicates a maximum 5-knot tailwind to land if such conditions are reported, the pilots should not have landed at MDW.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "snow contamination of runway causing poor braking on second half"},
+        {"src": 1, "strength": "contributing", "evidence": "8-knot tailwind exceeded SWA policy limit of 5 knots for poor braking"},
+        {"src": 2, "strength": "contributing", "evidence": "pilots unaware of requirement to use most restrictive braking action for mixed reports"},
+        {"src": 3, "strength": "contributing", "evidence": "pilots unaware OPC margin calculation did not account for actual 8-knot tailwind"}
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Autobrake system used for first operational time without prior familiarization training",
+      "trigger": "The accident landing was the first time either pilot landed using autobrakes. Neither pilot had previous operational experience with autobrakes. SWA's plan to implement the new autobrake procedures did not include a familiarization period.",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 4, "strength": "direct", "evidence": "pilots decided to land and proceeded with landing procedures"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Thrust reversers not deployed promptly; deployment delayed 15-18 seconds after touchdown",
+      "trigger": "The captain reported that his focus on the autobrake system performance distracted him from trying to deploy the thrust reversers again after his first attempt was unsuccessful. Full thrust reverser deployment occurred about 18 seconds after touchdown.",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 5, "strength": "contributing", "evidence": "captain's attention diverted to monitoring new autobrake system during critical landing roll"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft exited runway 31C at departure end at approximately 53 knots",
+      "trigger": "The airplane ran off the departure end of runway 31C and continued through the runway safety area.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 6, "strength": "direct", "evidence": "insufficient reverse thrust deployed; without prompt reverse thrust, airplane would have required additional 753 feet beyond runway end to stop"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "GROUND_COLLISION",
+      "label": "Aircraft struck automobile on roadway adjacent to runway",
+      "trigger": "The airplane rolled through a blast fence, an airport perimeter fence, and onto an adjacent roadway, where it struck an automobile before coming to a stop.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 7, "strength": "direct", "evidence": "runway overrun; absence of standard runway safety area and EMAS installation allowed aircraft to continue onto public roadway"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Child passenger in struck vehicle died",
+      "trigger": "A child in the automobile was killed. The Cook County Medical Examiner's Office reported the cause of death as compressional asphyxia.",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 8, "strength": "direct", "evidence": "aircraft struck vehicle"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

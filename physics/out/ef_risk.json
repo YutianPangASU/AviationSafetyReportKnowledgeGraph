@@ -1,0 +1,206 @@
+{
+  "target": "ENGINE_FAILURE",
+  "reference_class": "given a reportable accident; the fuel term is uncalibrated",
+  "leading_factor_rule": {
+    "rho": 0.02,
+    "records_with_target": 16406,
+    "support_threshold": 328.1,
+    "n_parents": 9
+  },
+  "leak": 0.0838,
+  "fitted_mean": 0.2996,
+  "population_value_note": "fitted_mean is Eq. (combine) evaluated at the corpus base rates; fitted_mean_over_records averages the fitted P(y | x_r)",
+  "fitted_mean_over_records": 0.2922,
+  "empirical_prevalence": 0.2933,
+  "parent_coverage": {
+    "records": 16406,
+    "root": 2735,
+    "parent_in_set": 12639,
+    "parents_outside_set": 1032,
+    "share_parent_in_set": 0.7704,
+    "share_root": 0.1667
+  },
+  "nll_per_record": 0.3772,
+  "factors": [
+    {
+      "factor": "FUEL_EXHAUSTION_OR_STARVATION",
+      "tier": "physics",
+      "model": "endurance",
+      "support": 5051,
+      "q": 0.933,
+      "lift": 3.181,
+      "base_rate": 0.0968,
+      "p": 0.956,
+      "contribution": 0.0714
+    },
+    {
+      "factor": "LATENT_MECHANICAL_DEFECT",
+      "tier": "data",
+      "model": null,
+      "support": 2331,
+      "q": 0.279,
+      "lift": 0.951,
+      "base_rate": 0.1494,
+      "p": 0.1914,
+      "contribution": 0.0206
+    },
+    {
+      "factor": "PROCEDURE_NOT_FOLLOWED",
+      "tier": "data",
+      "model": null,
+      "support": 1137,
+      "q": 0.0694,
+      "lift": 0.237,
+      "base_rate": 0.2929,
+      "p": 0.1079,
+      "contribution": 0.0229
+    },
+    {
+      "factor": "OTHER_SYSTEM_FAILURE",
+      "tier": "data",
+      "model": null,
+      "support": 1035,
+      "q": 0.2834,
+      "lift": 0.966,
+      "base_rate": 0.0653,
+      "p": 0.1981,
+      "contribution": 0.0092
+    },
+    {
+      "factor": "CARBURETOR_OR_INDUCTION_ICING",
+      "tier": "physics",
+      "model": "icing",
+      "support": 971,
+      "q": 0.6669,
+      "lift": 2.274,
+      "base_rate": 0.026,
+      "p": 0.9278,
+      "contribution": 0.0173
+    },
+    {
+      "factor": "FUEL_SYSTEM_ANOMALY",
+      "tier": "surrogate",
+      "model": "reliability",
+      "support": 954,
+      "q": 0.5699,
+      "lift": 1.943,
+      "base_rate": 0.0299,
+      "p": 0.6259,
+      "contribution": 0.0134
+    },
+    {
+      "factor": "FUEL_CONTAMINATION",
+      "tier": "surrogate",
+      "model": "reliability",
+      "support": 826,
+      "q": 0.753,
+      "lift": 2.567,
+      "base_rate": 0.0196,
+      "p": 0.9199,
+      "contribution": 0.0129
+    },
+    {
+      "factor": "MAINTENANCE_INADEQUATE",
+      "tier": "data",
+      "model": null,
+      "support": 649,
+      "q": 0.1151,
+      "lift": 0.392,
+      "base_rate": 0.1008,
+      "p": 0.3479,
+      "contribution": 0.0255
+    },
+    {
+      "factor": "AIRFRAME_STRUCTURAL_FAILURE",
+      "tier": "physics",
+      "model": "V--n",
+      "support": 333,
+      "q": 0.1221,
+      "lift": 0.416,
+      "base_rate": 0.0488,
+      "p": 0.002,
+      "contribution": 0.0001
+    }
+  ],
+  "icing_term": {
+    "chart_pi_worked_point": 0.9418,
+    "link_on_D_worked_point": 0.0439,
+    "prevalence_in_D": 0.0303,
+    "calibrated_worked_point": 0.0377,
+    "calibrated_with_heat": 0.0079,
+    "calibrated_drier": 0.0275,
+    "base_rate": 0.026
+  },
+  "fuel_term": {
+    "sigma_fraction": 0.25,
+    "t_flight_hr": 3.0,
+    "pi_fuel(reserve=0.5h)": 0.2525,
+    "pi_fuel(reserve=1h)": 0.0912,
+    "pi_fuel(reserve=2h)": 0.0038,
+    "calibrated": false
+  },
+  "icing_scenario": {
+    "description": "serious icing weather, T 13 C, Td 12 C, descent power",
+    "pi_overrides": {
+      "CARBURETOR_OR_INDUCTION_ICING": 0.0377
+    },
+    "P": 0.3074,
+    "ratio_vs_baseline": 1.026,
+    "counterfactuals": {
+      "do(carburetor heat)": {
+        "pi_overrides": {
+          "CARBURETOR_OR_INDUCTION_ICING": 0.0079
+        },
+        "P": 0.2875,
+        "ratio_vs_baseline": 0.96,
+        "ratio_vs_icing_scenario": 0.935
+      },
+      "do(drier air, dewpoint -5 C)": {
+        "pi_overrides": {
+          "CARBURETOR_OR_INDUCTION_ICING": 0.0275
+        },
+        "P": 0.3006,
+        "ratio_vs_baseline": 1.003,
+        "ratio_vs_icing_scenario": 0.978
+      }
+    }
+  },
+  "scenario": {
+    "description": "serious icing weather with a 0.5 h fuel reserve on a 3 h flight",
+    "pi_overrides": {
+      "CARBURETOR_OR_INDUCTION_ICING": 0.0377,
+      "FUEL_EXHAUSTION_OR_STARVATION": 0.2525
+    },
+    "P": 0.421,
+    "ratio_vs_baseline": 1.405,
+    "counterfactuals": {
+      "do(carburetor heat)": {
+        "pi_overrides": {
+          "CARBURETOR_OR_INDUCTION_ICING": 0.0079,
+          "FUEL_EXHAUSTION_OR_STARVATION": 0.2525
+        },
+        "P": 0.4044,
+        "ratio_vs_baseline": 1.35,
+        "ratio_vs_scenario": 0.961
+      },
+      "do(restore 2 h reserve)": {
+        "pi_overrides": {
+          "CARBURETOR_OR_INDUCTION_ICING": 0.0377,
+          "FUEL_EXHAUSTION_OR_STARVATION": 0.0038
+        },
+        "P": 0.2396,
+        "ratio_vs_baseline": 0.8,
+        "ratio_vs_scenario": 0.569
+      },
+      "do(both)": {
+        "pi_overrides": {
+          "CARBURETOR_OR_INDUCTION_ICING": 0.0079,
+          "FUEL_EXHAUSTION_OR_STARVATION": 0.0038
+        },
+        "P": 0.2177,
+        "ratio_vs_baseline": 0.727,
+        "ratio_vs_scenario": 0.517
+      }
+    }
+  }
+}

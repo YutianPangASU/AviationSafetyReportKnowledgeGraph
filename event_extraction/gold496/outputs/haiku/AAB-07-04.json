@@ -1,0 +1,89 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Night flight over dark, featureless terrain near Potomac River",
+      "trigger": "a new moon was below the horizon and provided no illumination; the area south of the bridge becomes very dark because parks and natural bird habitats limit the physical lighting on the shoreline",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Radar altimeter inoperative",
+      "trigger": "The maintenance logbook recovered from the helicopter included an entry dated January 10, 2005, for an inoperative radar altimeter",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot diverted attention from flight instruments to locate approaching traffic",
+      "trigger": "the pilot diverted his attention from the instruments, at least momentarily, because he stated to the controller that he was looking for the approaching Airbus traffic",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Pilot failed to detect unintentional descent",
+      "trigger": "If the pilot had continued to look out the windscreen for the traffic, he would have had few or no outside visual ground references to provide information about the helicopter's altitude, and detection of an unintentional descent during this time would have been difficult using external cues",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "pilot diverted his attention from the instruments"
+        },
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "an absence of ground features can create the illusion that the aircraft is at a higher altitude than it actually is"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "a functioning radar altimeter could have provided a constant altitude cue in the form of a digital readout"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "ALTITUDE_DEVIATION_UNCONTROLLED",
+      "label": "Helicopter descended unintentionally into Potomac River",
+      "trigger": "the helicopter crossed the bridge at 200 feet, then descended to 100 feet and then to 0 feet over approximately 9 seconds",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "pilot failed to detect descent and did not have altitude alerting to prompt immediate corrective action"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "WATER_IMPACT",
+      "label": "Helicopter impacted Potomac River; aircraft destroyed",
+      "trigger": "the helicopter impacted the water approximately 0.5 nautical miles south of Woodrow Wilson Bridge",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "helicopter descended unintentionally into the water"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,61 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Wrinkles and foreign object debris in battery cell windings",
+      "trigger": "Manual flattening process created electrode foil buckling; ultrasonic and tungsten inert gas welding operations generated FOD in cell assembly areas",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Internal short circuit in APU battery cell 5 or 6",
+      "trigger": "Loss of electrical isolation between electrodes caused by manufacturing defects",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Manufacturing defects including wrinkles and FOD are known to lead to local lithium deposits, separator perforation, or shorting between electrodes"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Thermal runaway cascaded through battery cells, releasing smoke and fire",
+      "trigger": "Internal short circuit generated high current (44-45 amperes) and thermal runaway; temperatures exceeded 550°F in affected cells within 90 seconds",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Uncontrolled exothermic reaction from short circuit propagated to adjacent cells; FDR recorded voltage behavior consistent with current collector fusing and cascading thermal runaway"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Minor burn injury to firefighter",
+      "trigger": "ARFF captain received minor burn on neck when battery exploded during suppression efforts",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Battery explosion and fire in aft electronic equipment bay exposed firefighter to high-temperature gases and flames"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

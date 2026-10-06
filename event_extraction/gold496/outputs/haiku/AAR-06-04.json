@@ -1,0 +1,116 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Aircraft center of gravity far forward of forward takeoff limit",
+      "trigger": "Aircraft was loaded to approximately 41,620 pounds, about 100 pounds over maximum takeoff weight of 41,250 pounds, and center of gravity was calculated at 12.47 percent MAC, 3.53 percent MAC forward of the forward limit of 16 percent MAC",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Pilots failed to calculate aircraft weight and balance",
+      "trigger": "The captain and first officer did not perform manual balance calculations or use the airplane-specific weight and balance graph; they only calculated total weight using FMS with default average passenger weights",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "The forward CG condition remained undetected because the pilots did not calculate actual weight and balance"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain initiated takeoff without ensuring weight and balance compliance",
+      "trigger": "About 0717:32 the captain advanced engine power for takeoff; the pilots had not calculated or verified the aircraft's center of gravity or confirmed it was within limits",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Without calculating weight and balance, the captain had no basis to verify compliance before takeoff"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pitch trim set to middle of green band, inadequate for forward center of gravity",
+      "trigger": "The pitch trim position indicator showed the needle near the middle of the green band; for a forward CG near the limit, the AFM specifies trim should be set to the top of the display range (nose-up position)",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Pilots could not set appropriate trim without knowing the actual forward CG position"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "Failure to calculate weight and balance meant pilots did not know the actual CG"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Aircraft ran off departure end of runway at approximately 110 knots ground speed",
+      "trigger": "The aircraft reached the departure end of runway 6 at ground speed of about 110 knots and continued off the runway; pilots initiated rejected takeoff at approximately 160 knots, well beyond normal rotation speed, with insufficient runway remaining",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Forward CG prevented aircraft from rotating at expected rotation speed of 135 knots; aircraft continued accelerating to 160 knots before rejected takeoff was initiated"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Inadequate pitch trim setting reduced the aircraft's ability to respond to control inputs for rotation"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_COLLISION",
+      "label": "Aircraft struck building after running off runway",
+      "trigger": "After exiting runway 6 at approximately 105 knots, aircraft crossed through airport perimeter fence, across six-lane highway where it struck a vehicle, through parking lot, and impacted a brick building approximately 800 feet from runway end",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Runway excursion led directly to the aircraft leaving airport property and striking the building"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Two flight crew seriously injured; eight passengers and cabin aide sustained minor injuries; three ground occupants injured",
+      "trigger": "The two pilots sustained serious injuries including fractures, dislocations, and lacerations from cockpit wreckage intrusion; passengers and cabin aide received minor injuries; vehicle and building occupants sustained serious or minor injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Impact with building and postimpact fire caused all injuries sustained in the accident"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

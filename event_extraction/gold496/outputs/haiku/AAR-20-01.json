@@ -1,0 +1,121 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "Survival Flight inadequate safety management and risk assessment procedures",
+      "trigger": "normalized pilots' and operations control specialists' noncompliance with risk analysis procedures",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "PROCEDURE_NOT_FOLLOWED",
+      "label": "Inadequate preflight weather evaluation and risk assessment",
+      "trigger": "evening shift pilot accepted the flight after only 28 seconds; accident pilot received no weather briefing",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Survival Flight's inadequate management of safety normalized pilots' noncompliance with risk analysis procedures"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Flight initiated without comprehensive weather evaluation or knowledge of prior refusals",
+      "trigger": "flight accepted and initiated without pilot knowledge of other operators' refusals or en route weather risks",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "resulted in the initiation of the flight without a comprehensive preflight weather evaluation"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Encounter with snow bands and icing conditions en route",
+      "trigger": "helicopter flew through two snow bands between 0638-0644 and again from 0647 onward",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "helicopter flew through two snow bands en route to destination hospital"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Inadvertent IMC encounter due to snow reducing visibility",
+      "trigger": "pilot likely encountered instrument meteorological conditions due to reduced visibility in snow",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "pilot likely encountered instrument meteorological conditions (IMC) due to reduced visibility in snow"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "Spatial disorientation and failure to maintain altitude during escape maneuver",
+      "trigger": "helicopter flew path consistent with 180° descending left turn; pilot did not maintain altitude and allowed helicopter to descend",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "in attempt to recover from IIMC encounter, pilot began 180° turn but did not maintain altitude and allowed helicopter to descend"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Collision with forested terrain",
+      "trigger": "helicopter impacted trees at approximately 0650:08",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "helicopter impacted trees on reciprocal heading of flightpath"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Fatalities of three crew members",
+      "trigger": "certificated commercial pilot, flight nurse, and flight paramedic died",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "the certificated commercial pilot, flight nurse, and flight paramedic died"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

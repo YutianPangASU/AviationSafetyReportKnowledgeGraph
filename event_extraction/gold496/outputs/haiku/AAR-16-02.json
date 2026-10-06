@@ -1,0 +1,76 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "RUNWAY_CONDITION_HAZARD",
+      "label": "Runway 13 contaminated with wet snow",
+      "trigger": "runway appeared white rather than dark or patchy at landing",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain applies aggressive reverse thrust immediately after main gear touchdown",
+      "trigger": "captain moved thrust reversers seeking 1.3 EPR; moved 'one knob width on the reverser handle'",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "snowier-than-expected runway, short runway length, and Flushing Bay off departure end exacerbated captain's situational stress about stopping performance"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Airplane loses directional control; left yaw develops due to rudder blanking",
+      "trigger": "at 1102:22, 6 seconds after main gear touchdown, airplane began to deviate left from runway heading despite right rudder inputs reaching 23 degrees",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "EPR reached 2.07 left and 1.91 right engine, far exceeding 1.3 EPR target; rudder blanking occurs above 1.6 EPR at airspeeds below 146 knots per Boeing flight test data"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "outcome",
+      "factor_type": "GROUND_COLLISION",
+      "label": "Left wing collides with perimeter fence and retaining wall for Flushing Bay",
+      "trigger": "airplane departed left side of runway about 1102:30; left wing struck fence and wall between 1102:43 and 1102:52, with nose breaking through fence",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "continuous left yaw of 20 degrees caused airplane to depart left side of runway 3,200 feet from threshold and collide with airport perimeter fence"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Aircraft substantially damaged; 29 passengers received minor injuries",
+      "trigger": "airplane struck fence and embankment; left wing fuel tank breached causing fuel leak",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "collision with perimeter fence and retaining wall caused aircraft damage and passenger injuries"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "minor_injury"
+}
+```

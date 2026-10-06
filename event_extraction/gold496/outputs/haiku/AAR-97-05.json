@@ -1,0 +1,198 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "ABX failed to establish formal functional evaluation flight training program",
+      "trigger": "Procedures used to train and designate ABX pilots as qualified to conduct FEFs were not documented",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Crew lacked actual in-aircraft stall recovery experience",
+      "trigger": "Neither pilot involved in the accident had performed the clean stall maneuver in a DC-8 airplane before the accident flight",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "The informality of the ABX FEF training program contributed to the accident by permitting the inappropriate pairing of two pilots for an FEF, neither of whom had handled the flight controls during an actual stall in the DC-8"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "DESIGN_DEFECT_LATENT",
+      "label": "Flight training simulator lacked fidelity in reproducing DC-8 stall characteristics",
+      "trigger": "When slowed below stick shaker activation, simulator developed stable nose-high descent with no stall break; actual DC-8 includes pronounced stall break",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "INSTRUMENT_OR_AVIONICS_FAILURE",
+      "label": "Stall warning system stick shaker failed to activate",
+      "trigger": "At 1808:11, flight engineer stated 'that's a stall right there… ain't no [stick] shaker'",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Flight conducted at night near cloud tops without visible natural horizon",
+      "trigger": "Sunset calculated at 1721, accident occurred at 1810 during hours of darkness; flightcrew lacked clearly visible natural horizon",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "ABX had no specific prohibition against conducting an FEF at night; ABX's failure to require completion by sundown led flightcrew to attempt stall series without natural horizon"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "ICING_ENCOUNTER",
+      "label": "Aircraft accumulated airframe ice in clouds at freezing temperatures",
+      "trigger": "At 1748:34, PF stated 'We're gettin' a little bit of ice here'; ice buildup was observed after reaching assigned block altitude",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Pilot flying held excessive aft control column pressure during stall recovery",
+      "trigger": "At 1808:13, PF called 'set max power' but airplane remained in aerodynamic stall because PF held significant back pressure on control column all the way to impact",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "PF had no experience as pilot on DC-8 post-modification FEF before the December 21 abbreviated flight"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Flightcrew's exposure to low-fidelity reproduction of DC-8 stall characteristics in simulator was factor in PF holding aft control inputs when airplane began to pitch down and roll"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Absence of stick shaker warning deprived crew of cues about ineffectiveness of recovery efforts and gradually lost perception that airplane was stalled"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Flightcrew forced to rely on instrument references; deprived of important flight attitude reference that would have aided recovery"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aircraft entered full aerodynamic stall",
+      "trigger": "At 1808:11, flight engineer stated 'that's a stall right there'; FDR analysis indicated stall occurred at 126 knots",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Failure of airplane to recover before entering full stall resulted from control column inputs the PF was making to maintain pitch attitude"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Pilot-in-command failed to recognize and correct pilot flying's inappropriate control inputs",
+      "trigger": "PNF provided verbal guidance but never told PF to move control column forward; at 1808:30 said 'take a little altitude down' but when PF did not respond adequately, PNF did not escalate interventions or take control",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Because flightcrew was exposed during extensive simulator experience to stall without stall break, the actual stall break that occurred most likely surprised them"
+        },
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Absence of stick shaker may have been confusing and flightcrew may have lost perception that airplane was stalled"
+        },
+        {
+          "src": 4,
+          "strength": "contributing",
+          "evidence": "Lack of visible natural horizon; during uncontrolled descent PNF lost awareness of descent rate and proximity to ground; may have become focused on roll control rather than angle of attack"
+        },
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Despite multiple indications of PF's excessive aft control column inputs and extreme roll moments, PNF did not take control or otherwise intervene effectively"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Aircraft entered uncontrolled descent with multiple roll reversals",
+      "trigger": "Between 1808:25 and impact, airplane experienced four roll reversals; at 1809:28 airplane was 113 degrees right roll at 52 degrees nose down; elevator controls were moved aft throughout sequence",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Inappropriate aft control column inputs held throughout prevented forward inputs required to reduce angle of attack and recover from stall"
+        },
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "PNF's failure to recognize, address and correct PF's inappropriate control inputs allowed stalled condition to persist and loss of control to develop"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck mountainous terrain",
+      "trigger": "Airplane struck mountainous terrain in 52-degree left wing low, 26-degree nose-down attitude about 3,400 feet msl near Narrows, Virginia; sound of impact recorded on CVR at 1809:38",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "Uncontrolled descent from loss of control in mountainous terrain resulted in ground impact"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Six fatally injured",
+      "trigger": "The three flightcrew members and three maintenance/avionics technicians on board were fatally injured; airplane was destroyed by impact and postcrash fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 10,
+          "strength": "direct",
+          "evidence": "Impact with terrain at high speed in mountainous area combined with postcrash fire resulted in fatalities to all six occupants"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

@@ -1,0 +1,133 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Pilot fatigue from sleep disruption and accumulated duty time",
+      "trigger": "Work calls disrupted sleep Sunday; approximately 4 hours fragmented sleep before Monday duties; 11 hours 41 minutes cumulative duty time by accident mission",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Moonless night with no natural illumination",
+      "trigger": "Accident at 2135; sunset at 2019; moon had not risen; overcast sky",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "LOW_VISIBILITY_OR_IMC",
+      "label": "Instrument meteorological conditions with lowered ceilings and precipitation",
+      "trigger": "TAF forecast cumulonimbus ceiling at 6,000 feet agl with rain; area forecast predicted broken clouds at 14,000 feet with rain showers and thunderstorms; snow and very low clouds at landing site",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Strong gusty winds throughout mission",
+      "trigger": "TAF forecast winds gusting to 24 knots; area forecast winds southwest gusting to 25 knots; strong gusty winds observed at landing site",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "condition",
+      "factor_type": "HIGH_DENSITY_ALTITUDE",
+      "label": "Operation near helicopter hover ceiling with minimal performance margin",
+      "trigger": "Landing site at 11,600 feet; helicopter dual-engine hovering ceiling 11,800 feet",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Pilot lacked helicopter instrument rating and inadvertent IMC recovery training",
+      "trigger": "Pilot held commercial helicopter rating without instrument rating; no training for inadvertent IMC encounters in helicopter",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 6,
+      "class": "condition",
+      "factor_type": "ORG_OR_REGULATORY_INADEQUATE",
+      "label": "NMSP lacked formal risk assessment procedures and SMS program",
+      "trigger": "Did not have published safety goals, safety management system, or structured prelaunch and midlaunch risk assessment protocols",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot accepted SAR mission despite marginal weather forecast and approaching darkness",
+      "trigger": "Initially declined at 1756 due to wind, called back at 1800 saying he had checked wind and could fly; did not obtain full area forecast or conduct structured risk assessment",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Fatigue degraded decision-making"},
+        {"src": 6, "strength": "contributing", "evidence": "Lack of risk assessment procedure"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Pilot attempted immediate takeoff from remote landing site in dark night, IMC, and wind without interim risk assessment",
+      "trigger": "At 2132 pilot took off approximately 9 minutes after returning with hiker despite snow, very low clouds, extremely dark conditions, and strong wind; spotter reported helicopter in clouds with zero visibility almost immediately after takeoff",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "contributing", "evidence": "Fatigue causes fixation on course of action and disregard for emerging evidence of hazard"},
+        {"src": 1, "strength": "direct", "evidence": "Dark night conditions precluded safe visual flight"},
+        {"src": 2, "strength": "direct", "evidence": "Instrument meteorological conditions present at time of takeoff"},
+        {"src": 3, "strength": "contributing", "evidence": "Strong winds present during departure"},
+        {"src": 5, "strength": "contributing", "evidence": "Pilot lacked instrument rating and inadvertent IMC recovery training"},
+        {"src": 6, "strength": "direct", "evidence": "Absence of risk assessment procedure"}
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "event",
+      "factor_type": "SPATIAL_DISORIENTATION",
+      "label": "Pilot lost control and became spatially disoriented in IMC and darkness",
+      "trigger": "Radar data showed erratic flight path with reversals, climbs, and descents beginning approximately 1 minute after takeoff; pilot radioed I struck a mountainside; wreckage examination showed tail rotor damage indicating first impact",
+      "cause_role": "contributing",
+      "caused_by": [
+        {"src": 8, "strength": "direct", "evidence": "Takeoff in IMC without visual references caused loss of control"},
+        {"src": 5, "strength": "direct", "evidence": "Pilot lacked helicopter instrument rating and inadvertent IMC training"},
+        {"src": 1, "strength": "contributing", "evidence": "Dark conditions eliminated outside visual references"}
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Helicopter struck terrain and tumbled down steep mountainside",
+      "trigger": "Second impact at 11,970 feet; aircraft rolled down steep slope approximately 480 vertical feet with multiple ground strikes; tailboom separated at 11,780 feet; main fuselage at 11,490 feet; aircraft substantially damaged",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 9, "strength": "direct", "evidence": "Spatial disorientation led to uncontrolled descent into terrain"}
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Pilot and hiker fatally injured; spotter seriously injured",
+      "trigger": "Pilot and hiker ejected during accident sequence; pilot died of environmental cold exposure and blunt force injuries; hiker died of multiple blunt force injuries; spotter fractured ankle and vertebrae, suffered hypothermia",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 10, "strength": "direct", "evidence": "Ground impact and structural failure resulted in fatal injuries"}
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

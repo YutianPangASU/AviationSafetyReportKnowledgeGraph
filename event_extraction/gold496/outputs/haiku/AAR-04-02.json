@@ -1,0 +1,121 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Captain's fatigue from sleep disruption",
+      "trigger": "sleep interrupted by sick family dog, described sleep as 'not really good' or 'marginal'",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "First officer's fatigue from reserve schedule",
+      "trigger": "difficult reserve schedule with changing day/night sleep cycles, only 1.5 hours sleep before accident flight, appeared tired to crewmates",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "First officer's severe color vision deficiency",
+      "trigger": "congenital severe deuteranomaly causing difficulties interpreting red and white PAPI signal lights",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "condition",
+      "factor_type": "DARK_NIGHT_OR_LOW_LIGHT",
+      "label": "Night visual approach over unlit forest creating black hole environment",
+      "trigger": "night VFR approach over protected forest area devoid of ground lights, creating illusion that aircraft is higher than actual altitude",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Crew changed landing runway from 27 (ILS precision) to 9 (visual only)",
+      "trigger": "first officer suggested runway 9 for prevailing wind, captain agreed; removed access to precision glideslope guidance and ILS approach",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "First officer maintained excessive descent rate and insufficient engine power",
+      "trigger": "at 500 feet descent rate was approximately 1248 fpm (exceeds 1000 fpm limit) with engines at 1.17 EPR (below required 1.3-1.45 EPR)",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 1, "strength": "contributing", "evidence": "fatigue degraded first officer's performance and control inputs"},
+        {"src": 2, "strength": "contributing", "evidence": "color vision deficiency impaired ability to interpret PAPI lights correctly"},
+        {"src": 3, "strength": "contributing", "evidence": "black hole illusion caused pilot to perceive aircraft altitude as higher than actual"}
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain failed to observe PAPI warning lights and recognize unstabilized approach",
+      "trigger": "four red PAPI lights indicating too-low descent were visible throughout final approach but captain did not recognize or respond to this critical warning",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "direct", "evidence": "fatigue impaired captain's perception and situational awareness"}
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "DECISION_INAPPROPRIATE",
+      "label": "Captain declared approach stable and did not call for go-around",
+      "trigger": "despite excessive descent rate and low power settings, captain announced approach 'stable' at 500 feet in violation of procedures; failed to execute mandatory go-around",
+      "cause_role": "primary",
+      "caused_by": [
+        {"src": 0, "strength": "direct", "evidence": "fatigue degraded captain's decision-making and judgment"},
+        {"src": 6, "strength": "contributing", "evidence": "failure to perceive danger signals led to failure to decide on corrective action"}
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "event",
+      "factor_type": "CREW_COORDINATION_FAILURE",
+      "label": "Flight engineer failed to monitor final approach or alert crew to dangerous descent",
+      "trigger": "flight engineer completed before-landing checklist only 7 seconds before impact; failed to adequately monitor approach or call out four red PAPI lights and excessive descent rate",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft struck trees and impacted ground",
+      "trigger": "aircraft in right-wing-low attitude collided with trees approximately 50 feet above ground, then impacted terrain approximately 1556 feet short of runway",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 5, "strength": "direct", "evidence": "excessive descent rate from improper control inputs placed aircraft on below-glidepath flight path"},
+        {"src": 7, "strength": "direct", "evidence": "captain's failure to intervene with corrective action or go-around allowed descent to continue unabated"},
+        {"src": 8, "strength": "direct", "evidence": "flight engineer's failure to monitor and alert removed final defense against accident"}
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Serious injuries to flight crew",
+      "trigger": "captain, first officer, and flight engineer all sustained serious injuries; aircraft destroyed by impact and resulting fire",
+      "cause_role": "outcome",
+      "caused_by": [
+        {"src": 9, "strength": "direct", "evidence": "ground impact forces caused traumatic injuries to crew members"}
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

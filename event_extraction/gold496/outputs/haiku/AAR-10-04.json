@@ -1,0 +1,184 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "ADVERSE_WIND_CONDITION",
+      "label": "Strong and gusty crosswind component present",
+      "trigger": "Mountain wave activity and downsloping winds created baseline crosswind of 26-27 knots with gusts reaching 45 knots",
+      "cause_role": "context",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "WIND_SHEAR_OR_GUST",
+      "label": "Peak wind gust of approximately 45 knots encountered during takeoff roll",
+      "trigger": "NCAR modeling and NTSB wind extraction showed 45-knot gust crossing aircraft path at 1818:12, as captain was relaxing second large rudder input",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "Mountain wave conditions resulted in strong localized gusts exceeding baseline crosswind"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "TRAINING_OR_CURRENCY_GAP",
+      "label": "Captain's crosswind training lacked realistic gusty wind scenarios below 50 feet AGL",
+      "trigger": "Continental's 737-500 simulator did not model wind gusts below 50 feet AGL; captain had only performed crosswind training in steady-state conditions",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "ATC_OR_DISPATCH_INADEQUATE",
+      "label": "ATC provided incomplete wind information with takeoff clearance",
+      "trigger": "DEN ATCT reported runway 34R departure winds of 270° at 27 knots but did not provide available airport wind information of 280° at 35 knots gusting to 40 knots",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain made large oscillatory rudder pedal inputs",
+      "trigger": "FDR recorded right rudder pedal inputs reaching 88 percent at 1818:06.7 and 72 percent at 1818:11.75, each followed by rapid relaxation; unusual control technique inconsistent with steady-state wind compensation",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Captain attempting to compensate for gusty, variable crosswind conditions"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Lack of training in gusty wind procedures led to ineffective control technique"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "PERCEPTION_FAILURE",
+      "label": "Captain became unable to distinguish airplane response due to control inputs versus wind gust effects",
+      "trigger": "At 1818:13.5 CVR recorded pilot exclamation 'Jesus,' indicating sudden realization that second rudder input was not producing expected corrective airplane response",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Oscillatory control inputs made cause-and-effect relationship unclear in variable wind"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "Limited experience with gusty conditions reduced ability to interpret aircraft response"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Captain abruptly relaxed right rudder input to neutral position",
+      "trigger": "At 1818:13.25 FDR recorded right rudder pedal dropping from 36 percent to neutral; captain ceased corrective rudder input needed to maintain directional control",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Captain's perception of control ineffectiveness led to cessation of rudder correction"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_GROUND",
+      "label": "Airplane's heading moved rapidly to the left uncorrected",
+      "trigger": "After rudder input ceased at 1818:13.25, FDR recorded airplane nose moving left at increasing rate; heading change accelerated without significant corrective rudder input to counteract leftward yaw",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "Cessation of rudder input removed only control input capable of maintaining directional control"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "RUNWAY_EXCURSION_OR_OVERRUN",
+      "label": "Airplane departed left side of runway 34R",
+      "trigger": "At 1818:17, approximately 2,600 feet from runway approach threshold, airplane left left edge of runway due to uncorrected leftward veering motion",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "Continuous leftward yaw motion without corrective control led to runway excursion"
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Airplane struck uneven terrain with significant impact force",
+      "trigger": "After departing runway, airplane crossed taxiway WC and airport service road, struck uneven terrain; became airborne multiple times before coming to rest; right wing fuel tank breached",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 8,
+          "strength": "direct",
+          "evidence": "Runway excursion resulted in impacts with terrain beyond runway pavement"
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "class": "outcome",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "Post-crash fire developed and propagated",
+      "trigger": "Right wing fuel tank breached during impact sequence; fuel-fed fire developed on right side of fuselage with extensive fire damage to center fuselage section",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "Impact damage to right wing caused fuel tank breach allowing fuel to ignite"
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Serious and minor injuries sustained by flight crew and passengers",
+      "trigger": "Captain and 5 passengers sustained serious injuries including multiple spinal fractures; first officer, 2 cabin crew, and 38 passengers sustained minor injuries",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 9,
+          "strength": "direct",
+          "evidence": "Impact forces caused trauma, spinal fractures, and back injuries to occupants"
+        },
+        {
+          "src": 10,
+          "strength": "direct",
+          "evidence": "Post-crash fire exposed evacuating occupants to heat and smoke"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "serious_injury"
+}
+```

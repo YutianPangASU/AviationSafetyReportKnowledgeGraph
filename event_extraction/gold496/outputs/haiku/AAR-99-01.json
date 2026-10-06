@@ -1,0 +1,106 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "event",
+      "factor_type": "TURBULENCE_ENCOUNTER",
+      "label": "Wake vortex encounter from preceding 727",
+      "trigger": "USAir 427 encountered wake vortices from Delta 1083 while on approach at 6,000 feet, causing initial roll and yaw",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "event",
+      "factor_type": "OTHER_SYSTEM_FAILURE",
+      "label": "Main rudder PCU servo valve secondary slide jam",
+      "trigger": "Secondary slide jammed to servo valve housing offset from neutral position, most likely activated by dynamic stresses of the encounter",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "contributing",
+          "evidence": "Wake vortex encounter created dynamic stresses that likely activated the latent servo valve jam"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "class": "event",
+      "factor_type": "CONTROL_SURFACE_ANOMALY",
+      "label": "Rudder deflected to full left in reversal",
+      "trigger": "Rudder surface deflected approximately 12.5 degrees left (blowdown limit) opposite to pilot command due to servo valve jam with primary slide overtravel",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 1,
+          "strength": "direct",
+          "evidence": "Servo valve secondary slide jam prevented proper hydraulic metering, causing rudder to reverse direction opposite to pilot input"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Loss of roll control authority",
+      "trigger": "At 190 KIAS with flaps 1, crossover airspeed was 187 KIAS; full rudder deflection created roll moment exceeding aileron authority",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 2,
+          "strength": "direct",
+          "evidence": "Full rudder deflection at approach speed and configuration rendered aileron and spoiler controls insufficient to arrest the roll"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall",
+      "trigger": "Stickshaker activated at 1903:08, indicating aerodynamic stall during pitched-up recovery attempt",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "contributing",
+          "evidence": "Pilot's control column pull-up during loss of roll control, combined with high bank angle and decreasing airspeed, induced stall condition"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impacted terrain near Aliquippa, Pennsylvania",
+      "trigger": "Uncontrollable descent in stalled configuration resulted in terrain impact at approximately 930 feet MSL elevation",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "Stalled aerodynamic condition prevented any recovery; aircraft descended uncontrollably and impacted hilly, wooded terrain"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "All 132 occupants killed",
+      "trigger": "High-velocity terrain impact in densely wooded area unsurvivable for all occupants",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "Ground impact at high descent rate with extreme impact forces"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```

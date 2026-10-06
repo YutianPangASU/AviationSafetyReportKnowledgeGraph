@@ -1,0 +1,134 @@
+```json
+{
+  "chain": [
+    {
+      "idx": 0,
+      "class": "condition",
+      "factor_type": "LATENT_MECHANICAL_DEFECT",
+      "label": "Oil or fuel leak at augmentor/muffler junction",
+      "trigger": "oil and fuel leaks at the augmentor/muffler junction do occur; fire appears to have been aft of engine in vicinity of this junction",
+      "cause_role": "primary",
+      "caused_by": []
+    },
+    {
+      "idx": 1,
+      "class": "condition",
+      "factor_type": "AIRCRAFT_WEIGHT_OR_BALANCE_OUT_OF_LIMITS",
+      "label": "Aircraft overweight with reduced performance capability",
+      "trigger": "estimated takeoff weight of 47,710 lbs exceeded maximum allowable takeoff weight of 40,900 lbs for operation without ADI and autofeather systems",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 2,
+      "class": "condition",
+      "factor_type": "PILOT_FATIGUE_OR_PHYSIOLOGICAL_STATE",
+      "label": "Captain sleep-deprived",
+      "trigger": "captain was likely experiencing 3 to 5 hours of sleep loss at the time of the accident due to fragmented sleep",
+      "cause_role": "contributing",
+      "caused_by": []
+    },
+    {
+      "idx": 3,
+      "class": "event",
+      "factor_type": "INFLIGHT_FIRE_OR_SMOKE",
+      "label": "In-flight fire in right augmentor",
+      "trigger": "fire and thermal damage to airframe on right wing rear spar, nacelle aft of power section, and junction between augmentor and exhaust muffler assembly",
+      "cause_role": "contributing",
+      "caused_by": [
+        {
+          "src": 0,
+          "strength": "direct",
+          "evidence": "oil or fuel from leak entered exhaust system and ignited in high heat within augmentors"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "class": "event",
+      "factor_type": "CONTROL_INPUT_IMPROPER",
+      "label": "Crew feathers wrong propeller in emergency response",
+      "trigger": "left propeller found feathered at impact with left engine at takeoff power settings; right propeller at high rotation power; autofeather system was not armed to provide blocking relay protection",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 3,
+          "strength": "direct",
+          "evidence": "attempting to execute Engine Fire checklist, crew manually selected left propeller to feather instead of right; without autofeather blocking relay, both propellers could be manually feathered"
+        },
+        {
+          "src": 2,
+          "strength": "contributing",
+          "evidence": "captain's sleep loss degraded decision-making and reduced leadership ability to direct emergency response"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "class": "event",
+      "factor_type": "LOSS_OF_CONTROL_INFLIGHT",
+      "label": "Failure to maintain adequate airspeed during approach turn",
+      "trigger": "airspeed decreased from approximately 140 knots to 88 knots during right descending turn to align with runway 28",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 4,
+          "strength": "direct",
+          "evidence": "crew now operating on right engine with active fire; right engine unable to provide sufficient thrust"
+        },
+        {
+          "src": 1,
+          "strength": "contributing",
+          "evidence": "overweight aircraft had marginal single-engine performance; would only hold altitude at best when heavily loaded"
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "class": "event",
+      "factor_type": "STALL",
+      "label": "Aerodynamic stall or loss of directional control near ground",
+      "trigger": "last estimated airspeed 88 knots at 110 feet altitude; stall speed 97 knots; minimum control speed 87 knots, higher in turn; airplane was operating close to both stall and controllability limits",
+      "cause_role": "primary",
+      "caused_by": [
+        {
+          "src": 5,
+          "strength": "direct",
+          "evidence": "airspeed reduced to point where airplane either experienced aerodynamic stall or dropped below minimum control speed during right turn"
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "class": "outcome",
+      "factor_type": "GROUND_IMPACT",
+      "label": "Aircraft impact with trees and lagoon",
+      "trigger": "right wingtip struck trees on southern shore; remainder of aircraft impacted lagoon; airplane destroyed by impact forces",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 6,
+          "strength": "direct",
+          "evidence": "stall or loss of control resulted in uncontrolled descent and impact at 39-degree right bank"
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "class": "outcome",
+      "factor_type": "INJURY_OR_FATALITY",
+      "label": "Both pilots killed",
+      "trigger": "the two pilots died; postaccident examination revealed multiple fractures from impact forces",
+      "cause_role": "outcome",
+      "caused_by": [
+        {
+          "src": 7,
+          "strength": "direct",
+          "evidence": "impact with ground and water and aircraft fragmentation from crash"
+        }
+      ]
+    }
+  ],
+  "outcome_severity": "fatal"
+}
+```
