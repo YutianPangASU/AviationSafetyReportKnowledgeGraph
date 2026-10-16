@@ -10,6 +10,11 @@ occurrence models to the factors whose drivers are physical, and combines the fa
 mode probability that supports interventions and counterfactuals. Where the paper says that something
 "is released with the code" or "is in the code repository", it is listed below.
 
+Archived on Zenodo: the release the paper cites is
+[10.5281/zenodo.23423658](https://doi.org/10.5281/zenodo.23423658) (InitialRelease_0.1, commit
+`954f803`), and [10.5281/zenodo.23423657](https://doi.org/10.5281/zenodo.23423657) resolves to the
+latest version. `CITATION.cff` gives the citation.
+
 Paper section, table and figure numbers refer to the IEEE build. Items marked "full build" appear
 only in the longer manuscript.
 

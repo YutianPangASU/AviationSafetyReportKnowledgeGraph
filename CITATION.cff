@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "AviationSafetyReportKnowledgeGraph: Code, Extracted Chains, Learned Networks and Judge Outputs"
+abstract: >-
+  Companion repository for "A Hybrid Framework for Explainable Aviation Risk:
+  Causal Chain Extraction from Safety Reports with Physics-Based Failure
+  Quantification and Interventional Analysis". It holds the extraction code,
+  the causal chains extracted from 56,202 NTSB and FAA accident reports, the
+  learned causal networks, the intervention tables, the judge outputs and the
+  physics layer.
+authors:
+  - family-names: Pang
+    given-names: Yutian
+    orcid: "https://orcid.org/0000-0001-6343-9641"
+    affiliation: "The University of Texas at Austin"
+  - family-names: Tian
+    given-names: Yifang
+    orcid: "https://orcid.org/0000-0002-8253-2064"
+    affiliation: "University of Toronto"
+  - family-names: Xie
+    given-names: Jiacheng
+    orcid: "https://orcid.org/0009-0003-8277-9926"
+    affiliation: "Georgia Institute of Technology"
+  - family-names: Zhao
+    given-names: Xinyu
+    orcid: "https://orcid.org/0000-0002-3296-9495"
+    affiliation: "Arizona State University"
+  - family-names: Hu
+    given-names: Jueming
+    orcid: "https://orcid.org/0000-0003-1661-3402"
+    affiliation: "University of Oklahoma"
+  - family-names: Clarke
+    given-names: John-Paul
+    orcid: "https://orcid.org/0000-0001-6282-066X"
+    affiliation: "The University of Texas at Austin"
+  - family-names: Jacobsen
+    given-names: Hans-Arno
+    orcid: "https://orcid.org/0000-0003-0813-0101"
+    affiliation: "University of Toronto"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23423657
+    description: "All versions (concept DOI)"
+  - type: doi
+    value: 10.5281/zenodo.23423658
+    description: "Release InitialRelease_0.1, commit 954f803, cited by the paper"
+repository-code: "https://github.com/YutianPangASU/AviationSafetyReportKnowledgeGraph"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+version: InitialRelease_0.1
+date-released: 2026-10-16
+keywords:
+  - aviation safety
+  - causal inference
+  - knowledge graph
+  - large language models
+  - physics-based risk modeling
