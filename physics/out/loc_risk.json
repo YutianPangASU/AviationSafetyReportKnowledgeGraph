@@ -9,6 +9,8 @@
   },
   "leak": 0.1101,
   "fitted_mean": 0.1747,
+  "population_value_note": "fitted_mean is Eq. (combine) evaluated at the corpus base rates; fitted_mean_over_records averages the fitted P(y | x_r)",
+  "fitted_mean_over_records": 0.1752,
   "empirical_prevalence": 0.1754,
   "nll_per_record": 0.4236,
   "factors": [

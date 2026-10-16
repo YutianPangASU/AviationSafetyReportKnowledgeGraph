@@ -58,6 +58,9 @@ def main() -> None:
     base = X.mean(axis=0)
     P0 = float(combine(base, p, leak))
     delta = contributions(base, p, leak)
+    # mean over records of the fitted P(y | x_r); differs from P0 because the
+    # parents are not independent in the presence table (review 2026-10-10)
+    fitted_mean_records = float(np.mean(1.0 - (1.0 - leak) * np.exp(X @ np.log1p(-p))))
 
     rows = []
     for e, b, pi_, d in zip(lf, base, p, delta):
@@ -107,6 +110,9 @@ def main() -> None:
                                 "n_parents": len(names)},
         "leak": round(leak, 4),
         "fitted_mean": round(P0, 4),
+        "population_value_note": "fitted_mean is Eq. (combine) evaluated at the corpus base "
+                                 "rates; fitted_mean_over_records averages the fitted P(y | x_r)",
+        "fitted_mean_over_records": round(fitted_mean_records, 4),
         "empirical_prevalence": round(float(y.mean()), 4),
         "nll_per_record": round(fit["nll_per_record"], 4),
         "factors": rows,

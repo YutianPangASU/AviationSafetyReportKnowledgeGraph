@@ -13,6 +13,30 @@ mode probability that supports interventions and counterfactuals. Where the pape
 Paper section, table and figure numbers refer to the IEEE build. Items marked "full build" appear
 only in the longer manuscript.
 
+## Licence
+
+The code is licensed under the Apache License 2.0 (`LICENSE`). The derived data are licensed under
+Creative Commons Attribution 4.0 International (`LICENSE-DATA`). The derived data are the extracted
+chains, the causation graph, the learned networks, the intervention and FCI tables, the judge outputs
+and the outputs under `physics/out/`. Copyright 2026 the authors. Please cite the paper when you reuse
+either.
+
+Provenance of the material the repository carries or derives from:
+
+- The NTSB and FAA records behind the chains, the NTSB investigation reports in
+  `event_extraction/gold496/inputs/` and the NOAA weather files in `data/isd_lite/` are works of the
+  United States government in the public domain. They are not relicensed here.
+- No Transportation Safety Board of Canada text is redistributed. The one TSB-derived file,
+  `event_extraction/out/tsb_order_judged.jsonl`, holds record identifiers and match indices only.
+  BEA (France) records are not used in the paper and are not included.
+- The chains and the judge outputs were generated with Qwen3.6-35B-A3B, released under the Apache
+  License 2.0. That licence places no terms on the use or distribution of the model's output.
+- The narrative quotes in the released chains were screened for the names of private individuals,
+  and the 49 names found in 44 records were replaced with `[name]`
+  (`event_extraction/scripts/redact_names.py`). Names that form part of an airport, place or aircraft
+  model name were kept. The public NTSB report texts and findings in `event_extraction/gold496/` are
+  left as published.
+
 ## What the Paper Points To
 
 | Paper item | Where it is |
@@ -23,6 +47,7 @@ only in the longer manuscript.
 | FCI marks and E-values (Table IV) | `event_extraction/out/causation_kg/fci_check_LOC-I.json`, `fci_check_SCF-PP.json` |
 | Effect of the language model priors (full build) | `event_extraction/out/causation_kg/prior_ablation.json` |
 | Judge outputs of the extraction evaluation (Sec. V-A) | recall: `event_extraction/out/semantic_eval_v4_narrative.jsonl`, `semantic_eval_v4_grounded.jsonl`; chain order: `chain_order_v4_narrative.jsonl`, `chain_order_v4_grounded.jsonl`; TSB order: `tsb_order_judged.jsonl`; repeat runs: `selfconsistency/` |
+| Precision against the NTSB factor flags (Sec. V-A) | `event_extraction/out/factor_flags/factor_flag_precision.json`; judge outputs `judge_F.jsonl` (factor-flagged entries) and `judge_C_repro.jsonl` (the cause flags re-judged on the same FP8 server) |
 | Cross-family check on full investigation reports (Sec. V-A) | `event_extraction/gold496/`: inputs, Claude outputs in `outputs/`, judge cache in `judge_cache/`, gold findings `gold.jsonl`, scores `scores.json`, procedure in `RUNBOOK.md` and `COMPLETED.md` |
 | Extraction prompt and schema | `event_extraction/prompts/system_v4.txt`, `schema_v4.json`, `few_shot_v4.json` (built by `event_extraction/scripts/build_fewshot_v4.py`); decoding settings in `event_extraction/scripts/extract_vllm.py` |
 | Judge prompt | `JUDGE_SYSTEM` and `JUDGE_SCHEMA` in `event_extraction/scripts/semantic_eval.py`, shared by `eval_chain_order.py` and `eval_tsb_order.py`; the cross-family judge is in `event_extraction/gold496/score_gold.py` |
@@ -58,7 +83,7 @@ the note in `_common.py` before using them.
 | Table III probability of necessity | `physics/probability_of_necessity.py` | `physics/out/probability_of_necessity.json` |
 | Table IV graph-level interventions | `event_extraction/scripts/stage3/backdoor_table.py`, `event_extraction/scripts/stage3/fci_check.py` | `event_extraction/out/causation_kg/backdoor_table_*.json`, `fci_check_*.json` |
 | Fig. 2 carburetor icing surface | `physics/make_carb_icing_fig.py`, `physics/carb_icing_model.py` | reads `physics/out/carb_icing_accidents.csv` |
-| Sec. V-A extraction fidelity | `event_extraction/scripts/semantic_eval.py`, `eval_chain_order.py`, `eval_extraction_extras.py`, `run_selfconsistency.sh`, `score_selfconsistency.py`, `validate_extraction.py` | `event_extraction/out/*_v4_*.summary.json`, `eval_extras_v4_*.json`, `selfconsistency/` |
+| Sec. V-A extraction fidelity | `event_extraction/scripts/semantic_eval.py`, `eval_chain_order.py`, `eval_extraction_extras.py`, `judge_factor_flags.py`, `run_selfconsistency.sh`, `score_selfconsistency.py`, `validate_extraction.py` | `event_extraction/out/*_v4_*.summary.json`, `eval_extras_v4_*.json`, `selfconsistency/` |
 | Sec. V-B admissibility monitor | `physics/violation_rate.py` | `physics/out/violation_rate.json` |
 | Sec. V-C calibration | `physics/calibrate_physics.py` | `physics/out/calibration.json`, `stall_prior_values.json` |
 | Sec. V-D separation ceiling | `physics/ceiling_carb_icing.py`, `physics/review_checks/icing_delong_bayes.py` | `physics/out/carb_icing_ceiling.json` |
@@ -101,14 +126,17 @@ factor rule. The fuel term is not calibrated and enters the combination at its c
   `53c43178507d69762986fbfa314f6e8d4d859409`, served by vLLM 0.19.1 in bfloat16, context 32,768,
   reasoning trace disabled. Extraction at temperature 0.2 with at most 6,144 output tokens and
   constrained JSON against `schema_v4.json`, one repair turn on violation. Judge at temperature 0
-  with at most 1,024 output tokens.
+  with at most 1,024 output tokens. The factor flag check (`judge_factor_flags.py`) and the name
+  screen (`redact_names.py`) ran the same model served in FP8 on one GPU per server; on the cause
+  flags the FP8 judge agrees with the original on 97.9% of findings.
+- Licence: Apache License 2.0, with no terms on the use or distribution of generated output.
 - Cross-family extractors: `claude-opus-5`, `claude-sonnet-5`, `claude-haiku-4-5`, run on 9 and
   10 August 2026 (`event_extraction/gold496/`).
 
 ## Source Data
 
-All source records are public. They are not redistributed here; the steps below fetch them into
-`data/`.
+All source records are public. Apart from the public domain files named under Licence, they are
+not redistributed here; the steps below fetch them into `data/`.
 
 | Archive | How to obtain |
 |---|---|

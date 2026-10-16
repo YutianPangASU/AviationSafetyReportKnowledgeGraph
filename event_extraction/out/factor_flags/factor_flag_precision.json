@@ -1,0 +1,129 @@
+{
+  "server": {
+    "model": "qwen3.6-35b-a3b",
+    "quantization": "fp8",
+    "endpoints": 4
+  },
+  "reproduction_of_cause_flag_judge": {
+    "findings": 3481,
+    "agreement": 0.9785,
+    "recall_original": 0.9081,
+    "recall_rerun": 0.9061
+  },
+  "factor_flag_entries": {
+    "records": 1214,
+    "entries": 2385,
+    "recalled": 2115,
+    "recall": 0.8868
+  },
+  "precision_by_role": {
+    "cause_flags_original": {
+      "context": {
+        "nodes": 2,
+        "matched": 0,
+        "precision": 0.0
+      },
+      "contributing": {
+        "nodes": 3433,
+        "matched": 405,
+        "precision": 0.118
+      },
+      "outcome": {
+        "nodes": 3086,
+        "matched": 50,
+        "precision": 0.0162
+      },
+      "primary": {
+        "nodes": 4584,
+        "matched": 2854,
+        "precision": 0.6226
+      },
+      "primary_or_contributing": {
+        "nodes": 8017,
+        "matched": 3259,
+        "precision": 0.4065
+      }
+    },
+    "cause_flags_rerun": {
+      "context": {
+        "nodes": 2,
+        "matched": 0,
+        "precision": 0.0
+      },
+      "contributing": {
+        "nodes": 3433,
+        "matched": 401,
+        "precision": 0.1168
+      },
+      "outcome": {
+        "nodes": 3086,
+        "matched": 51,
+        "precision": 0.0165
+      },
+      "primary": {
+        "nodes": 4584,
+        "matched": 2834,
+        "precision": 0.6182
+      },
+      "primary_or_contributing": {
+        "nodes": 8017,
+        "matched": 3235,
+        "precision": 0.4035
+      }
+    },
+    "factor_flags": {
+      "context": {
+        "nodes": 2,
+        "matched": 0,
+        "precision": 0.0
+      },
+      "contributing": {
+        "nodes": 3433,
+        "matched": 1354,
+        "precision": 0.3944
+      },
+      "outcome": {
+        "nodes": 3086,
+        "matched": 231,
+        "precision": 0.0749
+      },
+      "primary": {
+        "nodes": 4584,
+        "matched": 617,
+        "precision": 0.1346
+      },
+      "primary_or_contributing": {
+        "nodes": 8017,
+        "matched": 1971,
+        "precision": 0.2459
+      }
+    },
+    "cause_or_factor_flags": {
+      "context": {
+        "nodes": 2,
+        "matched": 0,
+        "precision": 0.0
+      },
+      "contributing": {
+        "nodes": 3433,
+        "matched": 1623,
+        "precision": 0.4728
+      },
+      "outcome": {
+        "nodes": 3086,
+        "matched": 274,
+        "precision": 0.0888
+      },
+      "primary": {
+        "nodes": 4584,
+        "matched": 3157,
+        "precision": 0.6887
+      },
+      "primary_or_contributing": {
+        "nodes": 8017,
+        "matched": 4780,
+        "precision": 0.5962
+      }
+    }
+  }
+}

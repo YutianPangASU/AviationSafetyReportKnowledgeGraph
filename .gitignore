@@ -33,6 +33,7 @@
 !event_extraction/gold496/**/*.jsonl
 !physics/out/*.json
 !event_extraction/out/adjudication/spotcheck_50_scores.json
+!event_extraction/out/factor_flags/*
 
 # not part of the public paper repository (kept locally)
 .claude/
@@ -48,3 +49,8 @@ docs/*
 ace_graph_counterfactual_design_note.md
 data/BEA/scrape.log
 event_extraction/logs/
+# name screen and the reviewed name list hold the names themselves (review 2026-10-10)
+event_extraction/out/redaction/
+# BEA (France) records are not used in the paper and carry their own terms (review 2026-10-10)
+data/BEA/*.csv
+data/BEA/urls.txt
