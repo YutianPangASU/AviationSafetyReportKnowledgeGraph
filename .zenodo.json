@@ -1,0 +1,18 @@
+{
+  "upload_type": "software",
+  "title": "AviationSafetyReportKnowledgeGraph: Code, Extracted Chains, Learned Networks and Judge Outputs",
+  "description": "Companion repository for \"A Hybrid Framework for Explainable Aviation Risk: Causal Chain Extraction from Safety Reports with Physics-Based Failure Quantification and Interventional Analysis\". It holds the extraction code, the causal chains extracted from 56,202 NTSB and FAA accident reports, the learned causal networks, the intervention tables, the judge outputs and the physics layer. The code is released under Apache 2.0 and the derived data under CC BY 4.0; see LICENSE and LICENSE-DATA.",
+  "creators": [
+    {"name": "Pang, Yutian", "affiliation": "The University of Texas at Austin", "orcid": "0000-0001-6343-9641"},
+    {"name": "Tian, Yifang", "affiliation": "University of Toronto", "orcid": "0000-0002-8253-2064"},
+    {"name": "Xie, Jiacheng", "affiliation": "Georgia Institute of Technology", "orcid": "0009-0003-8277-9926"},
+    {"name": "Zhao, Xinyu", "affiliation": "Arizona State University", "orcid": "0000-0002-3296-9495"},
+    {"name": "Hu, Jueming", "affiliation": "University of Oklahoma", "orcid": "0000-0003-1661-3402"},
+    {"name": "Clarke, John-Paul", "affiliation": "The University of Texas at Austin", "orcid": "0000-0001-6282-066X"},
+    {"name": "Jacobsen, Hans-Arno", "affiliation": "University of Toronto", "orcid": "0000-0003-0813-0101"}
+  ],
+  "keywords": ["aviation safety", "causal inference", "knowledge graph", "large language models", "physics-based risk modeling"],
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "version": "0.2"
+}
