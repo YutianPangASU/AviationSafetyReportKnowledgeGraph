@@ -156,7 +156,7 @@ def redact() -> None:
     single = sorted(n for n in names if len(n.split()) < 2)
     if single:
         raise SystemExit(f"one-word spans in {CONFIRMED.name}: {single}")
-    # longest first, so "Mr. Philip Edward Pelletier" goes before "Philip Edward"
+    # longest first, so "Mr. Jane Example Doe" goes before "Jane Example"
     order = sorted(names, key=len, reverse=True)
     pat = re.compile("|".join(re.escape(n) for n in order)) if order else None
 
