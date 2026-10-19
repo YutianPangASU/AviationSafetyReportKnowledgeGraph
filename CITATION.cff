@@ -43,6 +43,9 @@ identifiers:
     value: 10.5281/zenodo.23423657
     description: "All versions (concept DOI)"
   - type: doi
+    value: 10.5281/zenodo.23478971
+    description: "Release v0.2, commit 198b5ed, cited by the paper"
+  - type: doi
     value: 10.5281/zenodo.23423658
     description: "Release InitialRelease_0.1, commit 954f803"
 repository-code: "https://github.com/YutianPangASU/AviationSafetyReportKnowledgeGraph"
