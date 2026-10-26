@@ -122,5 +122,5 @@ ax2.grid(axis="y", ls=":", lw=0.5, alpha=0.6)
 
 fig.subplots_adjust(wspace=0.32)
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
-fig.savefig(OUT, bbox_inches="tight")
+fig.savefig(OUT, bbox_inches="tight", dpi=300)
 print("wrote", OUT)

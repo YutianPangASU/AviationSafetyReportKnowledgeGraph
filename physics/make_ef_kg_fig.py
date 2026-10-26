@@ -75,5 +75,5 @@ tier_legend(ax)
 
 fig.tight_layout(pad=0.25)
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
-fig.savefig(OUT, bbox_inches="tight")
+fig.savefig(OUT, bbox_inches="tight", dpi=300)
 print("wrote", OUT)

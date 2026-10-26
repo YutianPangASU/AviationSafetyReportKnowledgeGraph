@@ -96,5 +96,5 @@ axd.grid(ls=":", lw=0.5, alpha=0.6)
 
 fig.tight_layout(w_pad=1.6, h_pad=1.6)
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
-fig.savefig(OUT, bbox_inches="tight")
+fig.savefig(OUT, bbox_inches="tight", dpi=300)
 print("wrote", OUT)

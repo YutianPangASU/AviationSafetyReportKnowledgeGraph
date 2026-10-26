@@ -64,7 +64,7 @@ ax1.grid(axis="x", ls=":", lw=0.5, alpha=0.6)
 scn = D["scenario"]
 cf = scn["counterfactuals"]
 keys = list(cf.keys())
-names = ["Baseline", "Scenario", "Coordinated\nturn", "Gust\nmargin", "Both"]
+names = ["Population", "Gusty maneuvering", "do(load factor)", "do(airspeed)", "do(both)"]
 vals2 = [D["fitted_mean"], scn["P"]] + [cf[k]["P"] for k in keys]
 cols2 = ["#bdbdbd", "#b30000", PHYS, PHYS, PHYS]
 ci2 = [U["combined_baseline"]["ci95"], U["scenario"]["combined"]["ci95"]] + \
@@ -78,13 +78,17 @@ for b, v in zip(bars, vals2):
     ax2.text(b.get_x() + b.get_width() / 2, v + 0.012, f"{v:.3f}",
              ha="center", va="bottom")
 ax2.set_xticks(range(len(vals2)))
-ax2.set_xticklabels(names, rotation=0, ha="center", fontsize=FS - 0.5)
+ax2.set_xticklabels(names, rotation=30, ha="right", rotation_mode="anchor", fontsize=FS - 0.5)
 ax2.set_ylabel(r"$P(\mathrm{Loss\ of\ Control})$")
+# bracket grouping the three interventions under the scenario they modify
+yb = max(vals2) * 1.16
+ax2.plot([0.7, 0.7, 4.3, 4.3], [yb - 0.006, yb, yb, yb - 0.006], color="k", lw=0.5)
+ax2.text(2.5, yb + 0.003, "Gusty maneuvering scenario", ha="center", va="bottom", fontsize=FS - 0.5)
 ax2.set_ylim(0, max(vals2) * 1.35)
 ax2.text(0.02, 1.02, "(b)", transform=ax2.transAxes, va="bottom")
 ax2.grid(axis="y", ls=":", lw=0.5, alpha=0.6)
 
 fig.tight_layout(w_pad=1.4)
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
-fig.savefig(OUT, bbox_inches="tight")
+fig.savefig(OUT, bbox_inches="tight", dpi=300)
 print("wrote", OUT)

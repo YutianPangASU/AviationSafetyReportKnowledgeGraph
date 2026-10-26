@@ -115,5 +115,5 @@ for x, t in [(0.9, "leading factors (data)"), (4.2, "failure mode"),
 
 fig.tight_layout(pad=0.3)
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
-fig.savefig(OUT, bbox_inches="tight")
+fig.savefig(OUT, bbox_inches="tight", dpi=300)
 print("wrote", OUT)

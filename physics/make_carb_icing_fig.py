@@ -78,5 +78,5 @@ cb.set_label(r"$\pi_{\mathrm{ice}}$", rotation=0, labelpad=8)
 
 fig.tight_layout(pad=0.4)
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
-fig.savefig(OUT, bbox_inches="tight")
+fig.savefig(OUT, bbox_inches="tight", dpi=300)
 print("wrote", OUT)
