@@ -74,6 +74,12 @@ def main() -> None:
     st = cal["STALL"]["scenario_maneuvering"]
     tb = cal["TURBULENCE_ENCOUNTER"]["scenario_by_wind_kts"][SCENARIO_WIND_KTS]
     i_st, i_tb = names.index("STALL"), names.index("TURBULENCE_ENCOUNTER")
+    # the turbulence link is fitted on the wind-recorded accidents (prevalence
+    # 0.027) and enters the combination on the corpus denominator (base rate
+    # 0.026), the same conversion the carburetor icing term receives in
+    # ef_risk_model.py (review 2026-10-27)
+    tb_conv = float(base[i_tb]) / cal["TURBULENCE_ENCOUNTER"]["prevalence_in_D"]
+    tb_cal, tb_cal10 = tb["calibrated"] * tb_conv, tb["calibrated_plus10kt"] * tb_conv
 
     def evaluate(overrides: dict[str, float]) -> dict:
         pi = base.copy()
@@ -83,15 +89,15 @@ def main() -> None:
         return {"pi_overrides": {k: round(v, 4) for k, v in overrides.items()},
                 "P": round(P, 4), "ratio_vs_baseline": round(P / P0, 3)}
 
-    scn_over = {"STALL": st["default"]["calibrated"], "TURBULENCE_ENCOUNTER": tb["calibrated"]}
+    scn_over = {"STALL": st["default"]["calibrated"], "TURBULENCE_ENCOUNTER": tb_cal}
     scenario = evaluate(scn_over)
     cfs = {
         "do(coordinated turn, load factor 1.2)": evaluate(
             {**scn_over, "STALL": st["gentle"]["calibrated"]}),
         "do(10 kt gust margin)": evaluate(
-            {**scn_over, "TURBULENCE_ENCOUNTER": tb["calibrated_plus10kt"]}),
+            {**scn_over, "TURBULENCE_ENCOUNTER": tb_cal10}),
         "do(both)": evaluate({"STALL": st["gentle"]["calibrated"],
-                              "TURBULENCE_ENCOUNTER": tb["calibrated_plus10kt"]}),
+                              "TURBULENCE_ENCOUNTER": tb_cal10}),
     }
     for k, v in cfs.items():
         v["ratio_vs_scenario"] = round(v["P"] / scenario["P"], 3)
@@ -99,8 +105,30 @@ def main() -> None:
         "maneuvering only (calm wind)": evaluate({"STALL": st["default"]["calibrated"]}),
         "aggressive turn, load factor 1.8, 35 kt wind": evaluate(
             {**scn_over, "STALL": st["aggressive"]["calibrated"]}),
-        "35 kt wind only": evaluate({"TURBULENCE_ENCOUNTER": tb["calibrated"]}),
+        "35 kt wind only": evaluate({"TURBULENCE_ENCOUNTER": tb_cal}),
     }
+
+    # chain-level parent coverage per record, as in ef_risk_model.py: records
+    # whose LOC node has an explicit caused_by parent in the leading-factor
+    # set. 36 chains repeat the LOC node, so the parents of all LOC nodes in a
+    # record are pooled and the record counts once (review 2026-10-27).
+    cover = {"records": 0, "root": 0, "parent_in_set": 0, "parents_outside_set": 0}
+    with open(os.path.join("event_extraction/out/causation_kg", "per_accident_chains.jsonl")) as f:
+        for line in f:
+            rec = json.loads(line)
+            nodes = {n["idx"]: n for n in rec["chain"]}
+            tn = [n for n in rec["chain"] if n["factor_type"] == TARGET]
+            if not tn:
+                continue
+            par = {nodes[e["src"]]["factor_type"] for n in tn
+                   for e in n.get("caused_by", []) if e["src"] in nodes} - {TARGET}
+            cover["records"] += 1
+            if not par:
+                cover["root"] += 1
+            elif par & set(names):
+                cover["parent_in_set"] += 1
+            else:
+                cover["parents_outside_set"] += 1
 
     out = {
         "target": TARGET,
@@ -115,11 +143,15 @@ def main() -> None:
         "fitted_mean_over_records": round(fitted_mean_records, 4),
         "empirical_prevalence": round(float(y.mean()), 4),
         "nll_per_record": round(fit["nll_per_record"], 4),
+        "parent_coverage": {**cover, "share_parent_in_set": round(cover["parent_in_set"] / cover["records"], 4),
+                            "share_root": round(cover["root"] / cover["records"], 4)},
         "factors": rows,
         "scenario": {"description": "low-speed maneuvering in a 35 kt surface wind",
                      "stall_source": "phase-stratified calibration, maneuvering, "
                                      "load factor Normal(1.55, 0.45)",
-                     "turbulence_source": "isotonic link on the Dryden exceedance at 35 kt",
+                     "turbulence_source": "isotonic link on the Dryden exceedance at 35 kt, "
+                                          "times the corpus base rate over the link prevalence",
+                     "turbulence_to_corpus_factor": round(tb_conv, 4),
                      **scenario, "counterfactuals": cfs},
         "variants": variants,
     }
