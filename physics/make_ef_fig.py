@@ -49,6 +49,11 @@ def r3(v):
     return str(Decimal(repr(v)).quantize(Decimal("0.001"), rounding=ROUND_HALF_UP))
 
 
+def r4(v):
+    """Round half up to four decimals, as the scenario paragraph prints them."""
+    return str(Decimal(repr(v)).quantize(Decimal("0.0001"), rounding=ROUND_HALF_UP))
+
+
 fig = plt.figure(figsize=(7.2, 3.3))
 gs = fig.add_gridspec(2, 2, width_ratios=[1.45, 1], height_ratios=[14, 1], hspace=0.06)
 ax1 = fig.add_subplot(gs[:, 0])
@@ -94,13 +99,13 @@ xs = [0, 1.25, 2.25, 3.25]
 for x, v, c, col in zip(xs, vals2, ci2, cols2):
     ax2.errorbar([x], [v], yerr=[[v - c[0]], [c[1] - v]], fmt="o", ms=5.5, mfc=col,
                  mec="k", mew=0.5, ecolor="#333333", elinewidth=0.7, capsize=2.2)
-    ax2.text(x + 0.13, v, r3(v), ha="left", va="center")
+    ax2.text(x + 0.13, v, r4(v), ha="left", va="center")
 ax2.axhline(vals2[0], color="#8a8a8a", ls="--", lw=0.6, zorder=0)
 # bracket grouping the two interventions under the scenario they modify
 yb = min(c[0] for c in ci2) - 0.0035
 ax2.plot([1.05, 1.05, 3.45, 3.45], [yb + 0.0012, yb, yb, yb + 0.0012], color="k", lw=0.5)
 ax2.text(2.25, yb - 0.0007, "Icing weather scenario", ha="center", va="top", fontsize=FS - 0.5)
-ax2.set_xlim(-0.5, 3.95)
+ax2.set_xlim(-0.5, 4.15)
 ax2.set_ylim(yb - 0.0045, max(c[1] for c in ci2) + 0.004)
 ax2.set_ylabel(r"$P(\mathrm{Engine\ Failure})$")
 # broken axis: the stub below shows where zero lies

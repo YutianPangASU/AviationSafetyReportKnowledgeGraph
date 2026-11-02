@@ -75,7 +75,7 @@ bars = ax2.bar(range(len(vals2)), vals2, color=cols2, edgecolor="k", linewidth=0
                width=0.62, yerr=err2,
                error_kw={"elinewidth": 0.7, "capsize": 2.0, "ecolor": "#333333"})
 for b, v in zip(bars, vals2):
-    ax2.text(b.get_x() + b.get_width() / 2, v + 0.012, f"{v:.3f}",
+    ax2.text(b.get_x() + b.get_width() / 2, v + 0.012, f"{v:.4f}",
              ha="center", va="bottom")
 ax2.set_xticks(range(len(vals2)))
 ax2.set_xticklabels(names, rotation=30, ha="right", rotation_mode="anchor", fontsize=FS - 0.5)
