@@ -43,6 +43,9 @@ identifiers:
     value: 10.5281/zenodo.23423657
     description: "All versions (concept DOI)"
   - type: doi
+    value: 10.5281/zenodo.23934456
+    description: "Release v0.3, commit a3375de, cited by the paper and the technical report"
+  - type: doi
     value: 10.5281/zenodo.23478971
     description: "Release v0.2, commit 198b5ed"
   - type: doi
