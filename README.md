@@ -2,7 +2,7 @@
 
 Companion repository for *A Hybrid Framework for Explainable Aviation Risk: Causal Chain Extraction
 from Safety Reports with Physics-Based Failure Quantification and Interventional Analysis*
-(Y. Pang, Y. Tian, J. Xie, X. Zhao, J. Hu, J.-P. Clarke and H.-A. Jacobsen).
+(Y. Pang, Y. Tian, X. Zhao, J. Hu, J.-P. Clarke and H.-A. Jacobsen).
 
 The paper extracts one ordered causal chain from each of 56,202 NTSB and FAA accident reports with a
 locally served language model, aggregates the chains into a causation graph, attaches physics
