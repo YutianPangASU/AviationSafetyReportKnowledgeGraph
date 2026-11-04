@@ -10,10 +10,9 @@ occurrence models to the factors whose drivers are physical, and combines the fa
 mode probability that supports interventions and counterfactuals. Where the paper says that something
 "is released with the code" or "is in the code repository", it is listed below.
 
-Archived on Zenodo: the release the paper cites is
-[10.5281/zenodo.23478971](https://doi.org/10.5281/zenodo.23478971) (release v0.2, commit
-`198b5ed`), and [10.5281/zenodo.23423657](https://doi.org/10.5281/zenodo.23423657) resolves to the
-latest version. `CITATION.cff` gives the citation.
+Archived on Zenodo: [10.5281/zenodo.23423657](https://doi.org/10.5281/zenodo.23423657) resolves to the
+latest version, and each release has its own DOI. The paper and the technical report cite the release
+whose code produced their numbers, by DOI and commit. `CITATION.cff` gives the citation.
 
 Paper section, table and figure numbers refer to the IEEE build. Items marked "full build" appear
 only in the longer manuscript.

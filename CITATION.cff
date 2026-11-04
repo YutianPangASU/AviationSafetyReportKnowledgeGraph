@@ -44,7 +44,7 @@ identifiers:
     description: "All versions (concept DOI)"
   - type: doi
     value: 10.5281/zenodo.23478971
-    description: "Release v0.2, commit 198b5ed, cited by the paper"
+    description: "Release v0.2, commit 198b5ed"
   - type: doi
     value: 10.5281/zenodo.23423658
     description: "Release InitialRelease_0.1, commit 954f803"
@@ -52,8 +52,8 @@ repository-code: "https://github.com/YutianPangASU/AviationSafetyReportKnowledge
 license:
   - Apache-2.0
   - CC-BY-4.0
-version: "0.2"
-date-released: 2026-10-19
+version: "0.3"
+date-released: 2026-11-03
 keywords:
   - aviation safety
   - causal inference
